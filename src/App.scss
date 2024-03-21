@@ -2,7 +2,6 @@
   max-width: 1900px;
   width: 100%;
   margin: 0 auto;
-  // padding: 1rem;
 }
 
 #app {
@@ -62,7 +61,8 @@ h1 {
     .time-label,
     .quote-text:not(.scene),
     #legend,
-    .scene-rating {
+    .scene-rating,
+    .color-legend {
       font-size: calc(0.7rem + 0.05vw);
     }
 
@@ -106,7 +106,8 @@ h1 {
     }
 
     .location-group,
-    .quote-box {
+    .quote-box,
+    .color-legend {
       transition: 0.3s;
     }
 
@@ -147,6 +148,12 @@ h1 {
         visibility: visible;
       }
     }
+
+    .color-legend {
+      &.highlight {
+        opacity: 1;
+      }
+    }
   }
 }
 
@@ -158,7 +165,8 @@ h1 {
       .time-label,
       .quote-text:not(.scene),
       #legend,
-      .scene-rating {
+      .scene-rating,
+      .color-legend {
         font-size: 12px;
       }
     }

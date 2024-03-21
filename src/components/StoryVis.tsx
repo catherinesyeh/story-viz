@@ -35,22 +35,45 @@ const textColor = (val: number, diverging: boolean) => {
   }
   return val < 0.6 ? "black" : "white";
 };
+// get 5 equally spaced colors between domain[0] and domain[1]
+const color_increments = (color: any) => {
+  const domain = color.domain();
+  const increments = d3.range(
+    domain[0],
+    domain[1] + (domain[1] - domain[0]) / 4,
+    (domain[1] - domain[0]) / 4
+  );
+  const sorted = increments.sort((a, b) => a - b);
+  return sorted;
+};
+
+// create color_increments for each color scale
+const emotion_increments = color_increments(emotionColor);
+const conflict_increments = color_increments(conflictColor);
+const importance_increments = color_increments(importanceColor);
+
+// add all to dict
+const color_dict = {
+  importance: importance_increments,
+  conflict: conflict_increments,
+  emotion: emotion_increments,
+};
 
 // capitalize first letter of string
 const capitalize = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
-
-const test_index = 19;
 
 /* CONSTS */
 const location_height = 100;
 const location_offset = location_height / 4;
 const scene_width = 100;
 const scene_offset = 2.75 * scene_width - location_offset;
+const scene_margin = scene_width / 4;
 const character_height = 10;
 const character_offset = 1.5 * character_height;
 
-const plot_width = scene_width * (scenes.length + 1.75) + location_offset;
-const plot_height = location_height * (locations.length + 3) + location_offset;
+const plot_width = scene_width * (scenes.length + 1.75) + scene_margin;
+const plot_height =
+  location_height * (locations.length + 2.4) + location_offset;
 
 const line_length = scene_width * (scenes.length + 1);
 const fade_in = scene_width / line_length / 2;
@@ -299,7 +322,6 @@ const scene_summary_boxes = {
   x: scene_width * 5 + scene_offset,
   y: 0,
   width: scene_width * 8,
-  // height: character_offset * 20,
 };
 
 const scene_summary_texts = scenes.map((_, i) => {
@@ -364,6 +386,24 @@ const scene_summary_texts = scenes.map((_, i) => {
   };
 });
 
+const color_bar_pos = Object.keys(color_dict).map((_, i) => {
+  const width = (plot_width - 2 * location_offset) / 2 + 2;
+  const gap = 2;
+  const third = width / 3 - gap * 2 * character_offset;
+  const y = plot_height - 1.8 * character_offset;
+  return {
+    x:
+      width / 2 +
+      2 +
+      i * third +
+      i * gap * 3 * character_offset +
+      location_offset,
+    y: y,
+    width: third,
+    height: character_height,
+  };
+});
+
 function StoryVis() {
   // Initialize hidden array with useState
   const [hidden, setHidden] = useState<string[]>([]);
@@ -407,6 +447,34 @@ function StoryVis() {
             <stop offset="100%" stopColor="rgb(255,255,255,0)" />
           </linearGradient>
         ))}
+        {Object.keys(color_dict).map((scale, _) => {
+          const color_incs = (color_dict as Record<string, number[]>)[scale];
+          const d3scale =
+            scale === "emotion"
+              ? emotionColor
+              : scale === "conflict"
+              ? conflictColor
+              : importanceColor;
+          const min_val = color_incs[0];
+          const max_val = color_incs[color_incs.length - 1];
+          const vals = color_incs.map(
+            (val) => ((val - min_val) / (max_val - min_val)) * 100
+          );
+          return (
+            <linearGradient
+              id={"legend" + scale}
+              x1="0%"
+              y1="0%"
+              x2="100%"
+              y2="0%"
+              key={"legend" + scale}
+            >
+              {color_incs.map((val, j) => (
+                <stop offset={`${vals[j]}%`} stopColor={d3scale(val)} />
+              ))}
+            </linearGradient>
+          );
+        })}
         {/* adapted from: https://jsfiddle.net/jxtfeqag/ */}
         <marker
           id="head"
@@ -535,6 +603,55 @@ function StoryVis() {
           </text>
         </g>
       </g>
+      {/* add rectangular bar across bottom of plot to serve as legend */}
+      {Object.keys(color_dict).map((scale, i) => (
+        <g
+          className={"color-legend " + (sceneHover !== "" ? "highlight" : "")}
+          key={"color legend bar" + scale}
+          opacity={0}
+        >
+          <text
+            x={color_bar_pos[i].x - 0.75 * character_offset}
+            y={color_bar_pos[i].y + character_height}
+            textAnchor="end"
+            fill="black"
+            className="legend-label"
+            key={"legend-label left" + i}
+          >
+            {scale === "emotion" ? -1 : 0}
+          </text>
+          <rect
+            id="legend-bar"
+            x={color_bar_pos[i].x}
+            y={color_bar_pos[i].y}
+            width={color_bar_pos[i].width}
+            height={color_bar_pos[i].height}
+            fill={"url(#legend" + scale + ")"}
+          />
+          <text
+            x={color_bar_pos[i].x + color_bar_pos[i].width / 2}
+            y={color_bar_pos[i].y + 2.4 * character_height}
+            textAnchor="middle"
+          >
+            {scale}
+          </text>
+          <text
+            x={
+              color_bar_pos[i].x +
+              color_bar_pos[i].width +
+              0.75 * character_offset
+            }
+            y={color_bar_pos[i].y + character_height}
+            textAnchor="start"
+            fill="black"
+            className="legend-label"
+            key={"legend-label right" + i}
+          >
+            1
+          </text>
+        </g>
+      ))}
+
       {/* add characters to each scene */}
       {characterScenes.map((character, i) => (
         <g
