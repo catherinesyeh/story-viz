@@ -55,12 +55,13 @@ h1 {
 
     .character-name,
     .time-label,
-    .quote-text,
-    #legend {
+    .quote-text:not(.scene),
+    #legend,
+    .scene-rating {
       font-size: calc(0.7rem + 0.05vw);
     }
 
-    .quote-text.bold {
+    .bold {
       font-weight: 600;
     }
 
@@ -138,8 +139,9 @@ h1 {
       font-size: 14px;
       .character-name,
       .time-label,
-      .quote-text,
-      #legend {
+      .quote-text:not(.scene),
+      #legend,
+      .scene-rating {
         font-size: 12px;
       }
     }

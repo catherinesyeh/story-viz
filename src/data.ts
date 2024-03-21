@@ -125,6 +125,40 @@ export const sceneCharacters = scenes.map((scene: any) => {
   };
 });
 
+// split scene summaries into chunks of 105 characters
+export const sceneSummaries = data.map((scene: any) => {
+  // also chunk each character's quote for the first emotion in their emotions list
+  // save in a dictionary with character name as key
+  const chunk_size = 105;
+  const chunkedEmotions = scene.characters.map((character: any) => {
+    const chunked = chunkQuote(
+      '"' + character.emotions[0].quote + '"',
+      chunk_size
+    );
+    return { character: character.name, emotion_quote: chunked };
+  });
+
+  // sort chunked emotions by the order in characterScenes
+  const sortedEmotions = chunkedEmotions.sort((a: any, b: any) => {
+    const aIndex = characterScenes.findIndex(
+      (charScene: any) =>
+        charScene.character.toLowerCase() === a.character.toLowerCase()
+    );
+    const bIndex = characterScenes.findIndex(
+      (charScene: any) =>
+        charScene.character.toLowerCase() === b.character.toLowerCase()
+    );
+    return aIndex - bIndex;
+  });
+
+  const chunked = chunkQuote(scene.summary, chunk_size);
+  return {
+    scene: scene.name,
+    summary: chunked,
+    emotions: sortedEmotions,
+  };
+});
+
 // for each quote in character-data, split quote into chunk_size character chunks, making sure to keep full words
 export const character_quotes = character_data.map((character: any) => {
   const chunked = chunkQuote('"' + character.quote + '"', 80);

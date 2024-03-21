@@ -1,11 +1,13 @@
 import { useState } from "react";
 
 import {
+  data as scene_data,
   locations,
   location_quotes,
   location_chunks,
   scenes,
   sceneChunks,
+  sceneSummaries,
   characterScenes,
   character_quotes,
   colors,
@@ -15,6 +17,35 @@ import {
   bezierCommand,
 } from "../data";
 
+import * as d3 from "d3";
+
+/* HELPERS */
+// color scales
+const emotionColor = d3.scaleSequential(d3.interpolateRdBu).domain([1, -1]);
+const conflictColor = d3.scaleSequential(d3.interpolateGreens);
+const importanceColor = d3.scaleSequential(d3.interpolatePurples);
+
+// normalize rating (originally between -1 and 1) to between 0 and 1
+const normalizeRating = (rating: number) => (rating + 1) / 2;
+
+// see if color is too dark --> if so, return white, else return black
+const textColor = (val: number, diverging: boolean) => {
+  if (diverging) {
+    return val < 0.6 && val > -0.6 ? "black" : "white";
+  }
+  return val < 0.6 ? "black" : "white";
+};
+
+// capitalize first letter of string
+const capitalize = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
+
+// find middle value of 3 numbers
+const median = (a: number, b: number, c: number) =>
+  [a, b, c].sort((a, b) => a - b)[1];
+
+// 2,4,6,8,9,12
+const test_index = 16;
+
 // consts
 const location_height = 100;
 const location_offset = location_height / 4;
@@ -22,6 +53,8 @@ const scene_width = 100;
 const scene_offset = 2.75 * scene_width - location_offset;
 const character_height = 10;
 const character_offset = 1.5 * character_height;
+
+console.log(1.2 * character_offset);
 
 const plot_width = scene_width * (scenes.length + 1.75) + location_offset;
 const plot_height = location_height * (locations.length + 3) + location_offset;
@@ -265,6 +298,126 @@ const character_quote_texts = characterScenes.map((_, i) => {
       y: character_quote_boxes[i].y + (j + 2.8) * character_offset,
     };
   });
+});
+
+// scene quote box positions
+const scene_summary_boxes = scenes.map((_, i) => {
+  return {
+    x: scene_width * 5 + scene_offset,
+    y: 0,
+    width: scene_width * 8,
+    // height: character_offset * 20,
+  };
+});
+
+const scene_summary_texts = scenes.map((_, i) => {
+  const start_x = scene_width * 5 + scene_offset + 0.75 * location_offset;
+  const end_x = start_x + scene_summary_boxes[i].width - 1.5 * location_offset;
+  const third = (end_x - start_x) / 3 - 0.8 * character_offset;
+
+  let start_y = 2 * character_offset;
+  const title_y = start_y + 2.4 * character_offset;
+  const summary_y = title_y + 1.6 * character_offset;
+  const end_summary_y =
+    summary_y + 1.2 * sceneSummaries[i].summary.length * character_offset;
+  const location_y = end_summary_y + 0.6 * character_offset;
+  const divider_y = location_y + character_offset;
+  const character_y = divider_y + 1.6 * character_offset;
+  const character_list_y = character_y + 1.6 * character_offset;
+
+  // compute offset needed for each character in the list
+  let total_offset = 0;
+  const character_offsets = sceneSummaries[i].emotions.map((char: any) => {
+    const cur_offset = total_offset;
+    total_offset +=
+      (char.emotion_quote.length - 1) * 1.2 * character_offset +
+      1.6 * character_offset;
+    return cur_offset;
+  });
+
+  // count how many elements are in the summary list
+  const summary_length = sceneSummaries[i].summary.length;
+  let num_multiline = summary_length > 1 ? 1 : 0;
+  const num_characters = sceneSummaries[i].emotions.length;
+  // sum the number of elements in each emotion quote list
+  const emotion_lines = sceneSummaries[i].emotions.reduce(
+    (acc: number, cur: any) => {
+      if (cur.emotion_quote.length > 1) {
+        num_multiline += 1;
+      }
+      return acc + cur.emotion_quote.length;
+    },
+    0
+  );
+
+  const num_lines =
+    summary_length + num_characters + emotion_lines + 6 + num_multiline * 1.2;
+  const height = character_list_y + total_offset + 1.6 * character_offset;
+  const ratio = (num_multiline - 1) / (num_characters + 1);
+  const height_1 =
+    (summary_length + emotion_lines + 1) * 1.2 * character_offset +
+    (num_characters + 6 + ratio * 0.5) * 1.6 * character_offset;
+  // -
+  // (ratio < 1 ? 1.6 * ratio * character_offset : 0);
+  // ((num_multiline - 1) / num_characters)
+  //  -    ((num_multiline - 1) / num_characters) * character_offset;
+  // const height_1 = num_lines * 1.6 * character_offset;
+  const height_2 = character_list_y + total_offset + 2.4 * character_offset;
+
+  console.log("Scene", i);
+  // console.log("height", height);
+  // console.log("height_1", height_1);
+  // console.log("height_2", height_2);
+  console.log("diff", height_1 - height_2);
+  console.log(
+    height_1 > height_2 && height_1 - height_2 > 2.4 * character_offset
+  );
+  // console.log("median", median(height, height_1, height_2));
+  //
+  const my_height = height_1;
+
+  // const my_height =
+  // height < height_1 ? height_1 : height < height_2 ? height_2 : height;
+  // console.log("character_list_y", character_list_y);
+  // console.log("last character offset", character_offsets[num_characters - 1]);
+  // console.log(
+  //   "character_list_y + last character offset",
+  //   character_list_y + character_offsets[num_characters - 1]
+  // );
+  // // console.log("total_offset", total_offset);
+  // console.log(
+  //   "chracter_list_y + total_offset",
+  //   character_list_y + total_offset
+  // );
+
+  // const height =
+  //   character_list_y +
+  //   total_offset +
+  //   Math.max(
+  //     1,
+  //     sceneSummaries[i].emotions[sceneSummaries[i].emotions.length - 1]
+  //       .emotion_quote.length - 1
+  //   ) *
+  //     1.2 *
+  //     character_offset;
+  //  +
+  // 4 * character_offset;
+
+  return {
+    x: start_x,
+    mid_x: (start_x + end_x) / 2,
+    end_x: end_x,
+    third: third,
+    y: start_y,
+    title_y: title_y,
+    summary_y: summary_y,
+    location_y: location_y,
+    divider_y: divider_y,
+    character_y: character_y,
+    character_list_y: character_list_y,
+    character_offsets: character_offsets,
+    height: my_height,
+  };
 });
 
 function StoryVis() {
@@ -716,6 +869,253 @@ function StoryVis() {
             />
           </g>
         ))}
+      </g>
+      {/* add box with info about each scene */}
+      <g id="scene-info">
+        <g
+          // key={"scene info" + i}
+          className={
+            "scene-info-box "
+            // +
+            // (sceneHover !== scene.scene ? "" : "highlight")
+          }
+          // fillOpacity={0}
+          // strokeOpacity={0}
+        >
+          <rect
+            x={scene_summary_boxes[test_index].x}
+            y={scene_summary_boxes[test_index].y}
+            width={scene_summary_boxes[test_index].width}
+            height={scene_summary_texts[test_index].height}
+            fill="white"
+            strokeWidth={2}
+            stroke="#eee"
+            opacity={0.8}
+            className="scene-info-box"
+          />
+          <g>
+            {Object.keys(scene_data[test_index].ratings).map((rating, j) => {
+              let rating_val = (
+                scene_data[test_index].ratings as Record<string, number>
+              )[rating];
+              if (rating === "conflict") {
+                rating_val = normalizeRating(rating_val);
+              }
+              return (
+                <g key={"scene ratings for scene " + 0 + ": " + rating}>
+                  <rect
+                    x={
+                      j % 3 === 0
+                        ? scene_summary_texts[test_index].x
+                        : j % 3 === 1
+                        ? scene_summary_texts[test_index].x +
+                          scene_summary_texts[test_index].third +
+                          1.2 * character_offset
+                        : scene_summary_texts[test_index].x +
+                          2 * scene_summary_texts[test_index].third +
+                          2.4 * character_offset
+                    }
+                    y={scene_summary_texts[test_index].y - character_offset}
+                    width={scene_summary_texts[test_index].third}
+                    height={character_offset * 1.8}
+                    fill={
+                      rating === "emotion"
+                        ? emotionColor(rating_val)
+                        : rating === "conflict"
+                        ? conflictColor(rating_val)
+                        : importanceColor(rating_val)
+                    }
+                  ></rect>
+                  <text
+                    key={"scene rating" + 0 + j}
+                    x={
+                      j % 3 === 0
+                        ? scene_summary_texts[test_index].x +
+                          0.5 * scene_summary_texts[test_index].third
+                        : j % 3 === 1
+                        ? scene_summary_texts[test_index].mid_x
+                        : scene_summary_texts[test_index].end_x -
+                          0.5 * scene_summary_texts[test_index].third
+                    }
+                    y={
+                      scene_summary_texts[test_index].y + 0.1 * character_offset
+                    }
+                    textAnchor={"middle"}
+                    className="scene-rating"
+                    fill={
+                      rating === "emotion"
+                        ? textColor(rating_val, true)
+                        : textColor(rating_val, false)
+                    }
+                  >
+                    <tspan className="bold">{capitalize(rating)}:</tspan>{" "}
+                    {rating_val.toFixed(2)}
+                  </text>
+                </g>
+              );
+            })}
+          </g>
+          <text
+            x={scene_summary_texts[test_index].x}
+            y={scene_summary_texts[test_index].title_y}
+            textAnchor="start"
+            className="bold"
+          >
+            Scene {scene_data[test_index].number}: {scene_data[test_index].name}
+          </text>
+          {sceneSummaries[test_index].summary.map((summary, j) => (
+            <text
+              key={"scene summary" + test_index + j}
+              x={scene_summary_texts[test_index].x}
+              y={
+                scene_summary_texts[test_index].summary_y +
+                1.2 * j * character_offset
+              }
+              textAnchor="start"
+              className="quote-text scene"
+            >
+              {summary}
+            </text>
+          ))}
+          <text
+            x={scene_summary_texts[test_index].x}
+            y={scene_summary_texts[test_index].location_y}
+            textAnchor="start"
+            className="scene-location"
+            key={"scene location" + test_index}
+          >
+            <tspan className="bold">Location:</tspan>{" "}
+            {scene_data[test_index].location.name}
+          </text>
+          {/* add divider line */}
+          <line
+            x1={scene_summary_texts[test_index].x}
+            y1={scene_summary_texts[test_index].divider_y}
+            x2={scene_summary_texts[test_index].end_x}
+            y2={scene_summary_texts[test_index].divider_y}
+            stroke="#eee"
+            strokeWidth={1}
+            key={"scene divider" + test_index}
+          />
+          {/* add characters in scene */}
+          <g>
+            <text
+              x={scene_summary_texts[test_index].x}
+              y={scene_summary_texts[test_index].character_y}
+              className="bold"
+              key={"scene characters" + test_index}
+            >
+              Characters:
+            </text>
+            {sceneSummaries[test_index].emotions.map((char: any, j: number) => {
+              const character = scene_data[test_index].characters.find(
+                (c) => c.name === char.character
+              ) as any;
+              const emotion = character.emotions[0].emotion;
+              const rating = character.emotions[0].rating;
+              return (
+                <g>
+                  <text
+                    key={"scene character" + test_index + j}
+                    x={scene_summary_texts[test_index].x}
+                    y={
+                      scene_summary_texts[test_index].character_list_y +
+                      1.4 * j * character_offset +
+                      scene_summary_texts[test_index].character_offsets[j]
+                    }
+                    textAnchor="start"
+                    className="scene-character"
+                  >
+                    <tspan
+                      key={"scene character name" + test_index + j}
+                      className="bold"
+                      fill={
+                        colors[
+                          characterScenes.findIndex(
+                            (c) => c.character === char.character
+                          )
+                        ]
+                      }
+                    >
+                      {char.character}
+                    </tspan>
+                    {/* {char.emotions[test_index].emotion} */}
+                  </text>
+                  <g>
+                    <rect
+                      x={
+                        scene_summary_texts[test_index].end_x -
+                        4 * character_height
+                      }
+                      y={
+                        scene_summary_texts[test_index].character_list_y -
+                        0.9 * character_offset +
+                        1.4 * j * character_offset +
+                        scene_summary_texts[test_index].character_offsets[j]
+                      }
+                      width={character_height * 4}
+                      height={character_height * 1.8}
+                      fill={emotionColor(rating)}
+                      key={"scene character rating sq" + test_index + j}
+                    ></rect>
+                    <text
+                      x={
+                        scene_summary_texts[test_index].end_x -
+                        2 * character_height
+                      }
+                      y={
+                        scene_summary_texts[test_index].character_list_y +
+                        1.4 * j * character_offset +
+                        scene_summary_texts[test_index].character_offsets[j]
+                      }
+                      textAnchor={"middle"}
+                      className="scene-rating"
+                      fill={textColor(rating, true)}
+                      key={"scene character rating text" + test_index + j}
+                    >
+                      {rating.toFixed(2)}
+                    </text>
+                    <text
+                      x={
+                        scene_summary_texts[test_index].end_x -
+                        4 * character_height -
+                        character_offset
+                      }
+                      y={
+                        scene_summary_texts[test_index].character_list_y +
+                        1.4 * j * character_offset +
+                        scene_summary_texts[test_index].character_offsets[j]
+                      }
+                      textAnchor={"end"}
+                      className="scene-rating"
+                      key={"scene character rating number" + test_index + j}
+                    >
+                      <tspan className="bold">{emotion}:</tspan>
+                    </text>
+                  </g>
+                  <g>
+                    {/* add quote from character */}
+                    {char.emotion_quote.map((quote: any, l: number) => (
+                      <text
+                        key={"scene character quote" + test_index + j + l}
+                        x={scene_summary_texts[test_index].x}
+                        y={
+                          scene_summary_texts[test_index].character_list_y +
+                          1.4 * (j + 1) * character_offset +
+                          1.2 * l * character_offset +
+                          scene_summary_texts[test_index].character_offsets[j]
+                        }
+                        textAnchor="start"
+                      >
+                        {quote}
+                      </text>
+                    ))}
+                  </g>
+                </g>
+              );
+            })}
+          </g>
+        </g>
       </g>
     </svg>
   );
