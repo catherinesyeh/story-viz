@@ -26,10 +26,14 @@ h1 {
 
     .faded {
       &.location-group,
-      &.character-square,
-      .character-square,
       &.legend-item {
         opacity: 0.3;
+      }
+
+      &.character-square,
+      .character-square {
+        stroke-opacity: 0.3;
+        fill-opacity: 0.3;
       }
 
       &.path-group {
@@ -37,7 +41,8 @@ h1 {
       }
     }
 
-    .character-path.faded {
+    .character-path.faded,
+    .char-name-label.faded {
       .character-name {
         fill-opacity: 0.3;
       }
@@ -128,6 +133,18 @@ h1 {
     .quote-box.character {
       &.highlight {
         stroke-opacity: 0.3;
+      }
+    }
+
+    .scene-info-box {
+      transition: 0.3s;
+      pointer-events: none;
+      visibility: hidden;
+
+      &.highlight {
+        stroke-opacity: 1;
+        fill-opacity: 1;
+        visibility: visible;
       }
     }
   }
