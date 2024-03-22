@@ -827,7 +827,28 @@ function StoryVis() {
           </text>
         </g>
       ))}
-
+      <g id="scene-box-outlines">
+        {sceneCharacters.map((scene, i) => (
+          <rect
+            className={
+              "scene-box-outline " +
+              (showConflict &&
+              (locationHover === sceneLocations[i] ||
+                sceneHover === scene.scene ||
+                scene.characters.includes(characterHover))
+                ? "highlight"
+                : "")
+            }
+            x={sceneBoxes[i].x}
+            y={sceneBoxes[i].y}
+            width={sceneBoxes[i].width}
+            height={sceneBoxes[i].height}
+            fillOpacity={0}
+            fill="white"
+            key={"scenegroup outline" + i}
+          />
+        ))}
+      </g>
       {/* add characters to each scene */}
       {characterScenes.map((character, i) => (
         <g

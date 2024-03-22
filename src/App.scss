@@ -108,6 +108,13 @@ h1 {
       }
     }
 
+    .scene-box-outline {
+      transition: 0.3s;
+      &.highlight {
+        fill-opacity: 0.7;
+      }
+    }
+
     .legend-item {
       cursor: pointer;
       transition: 0.3s;
@@ -122,8 +129,24 @@ h1 {
     .character-path {
       transition: 0.3s;
       &.hidden {
-        fill-opacity: 0;
-        stroke-opacity: 0;
+        .path-group {
+          stroke-opacity: 0;
+        }
+
+        .character-square {
+          stroke-opacity: 0;
+          fill-opacity: 0;
+        }
+
+        .char-name-label {
+          .character-name {
+            fill-opacity: 0;
+
+            .name-box {
+              opacity: 0;
+            }
+          }
+        }
       }
 
       .path-group,
