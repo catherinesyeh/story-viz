@@ -1,6 +1,6 @@
 import "./App.scss";
 import StoryVis from "./components/StoryVis";
-import { title } from "./data";
+import { title } from "./utils/data";
 
 import { Select, Switch } from "@mantine/core";
 import { storyStore } from "./store";
