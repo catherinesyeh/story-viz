@@ -164,7 +164,7 @@ function SceneOverlay() {
                       scene_summary_texts[i].character_offsets[j]
                     }
                     textAnchor="start"
-                    className="scene-character bold"
+                    className="scene-character"
                     fill={
                       colors[
                         characterScenes.findIndex(
@@ -173,7 +173,14 @@ function SceneOverlay() {
                       ]
                     }
                   >
-                    {char.character}
+                    <tspan className="bold">{char.character} </tspan>
+                    <tspan className="emphasis">
+                      (importance:{" "}
+                      {scene.characters
+                        .find((c) => c.name === char.character)
+                        ?.importance.toFixed(2)}
+                      )
+                    </tspan>
                   </text>
                   <g>
                     <rect

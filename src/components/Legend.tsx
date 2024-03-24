@@ -66,6 +66,14 @@ function Legend() {
             </text>
           </g>
         ))}
+        <text
+          x={legend_box_pos.x + legend_box_pos.width}
+          y={legend_box_pos.y + legend_box_pos.height + 2 * character_height}
+          textAnchor="end"
+          className="legend-title italic emphasis"
+        >
+          Square size = character importance
+        </text>
       </g>
       {/* add rectangular bar across bottom of plot to serve as legend */}
       <g id="color-legends">

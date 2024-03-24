@@ -102,6 +102,14 @@ h1 {
       font-weight: 600;
     }
 
+    .italic {
+      font-style: italic;
+    }
+
+    .emphasis {
+      font-weight: 500;
+    }
+
     .scene-box {
       transition: 0.3s;
       &:hover,

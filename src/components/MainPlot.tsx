@@ -7,7 +7,12 @@ import {
   scenes,
 } from "../utils/data";
 import { colors, emotionColor } from "../utils/colors";
-import { sceneBoxes, characterPaths, characterPos } from "../utils/positions";
+import {
+  sceneBoxes,
+  characterPaths,
+  characterPos,
+  characterSquares,
+} from "../utils/positions";
 import { character_height } from "../utils/consts";
 
 function MainPlot() {
@@ -97,10 +102,10 @@ function MainPlot() {
 
                 return (
                   <rect
-                    x={characterPos[i][j].x}
-                    y={characterPos[i][j].y}
-                    width={character_height}
-                    height={character_height}
+                    x={characterSquares[i][j].x}
+                    y={characterSquares[i][j].y}
+                    width={characterSquares[i][j].width}
+                    height={characterSquares[i][j].height}
                     fill={showCharacterEmotions ? color : colors[i]}
                     key={"charsq" + j}
                     className={
@@ -132,7 +137,7 @@ function MainPlot() {
               {/* add character name to the first scene they show up in */}
               <text
                 x={characterPos[i][0].x - character_height / 2}
-                y={characterPos[i][0].y + character_height}
+                y={characterPos[i][0].y + 0.8 * character_height}
                 textAnchor="end"
                 fill={colors[i]}
                 paint-order="stroke"

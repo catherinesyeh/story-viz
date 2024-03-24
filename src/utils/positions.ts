@@ -12,7 +12,7 @@ import {
 } from "./data";
 import { color_dict } from "./colors";
 import { bezierCommand, svgPath } from "./curve";
-import { normalizeRating } from "./helpers";
+import { normalizeRating, normalizeValue } from "./helpers";
 
 import {
   location_height,
@@ -49,6 +49,32 @@ export const characterPos = characterScenes.map((character) => {
         0.6 * location_offset +
         character_offset *
           sceneCharacters[scene].characters.indexOf(character.character),
+    };
+  });
+});
+
+// compute character square positions
+export const characterSquares = characterScenes.map((character, i) => {
+  return character.scenes.map((scene, j) => {
+    const importance = scene_data[scene].characters.find(
+      (c) => c.name === character.character
+    )?.importance as number;
+
+    const normalized_importance = normalizeValue(
+      character_height * importance,
+      0,
+      10
+    );
+    return {
+      x: initialScenePos[scene].x - 0.5 * normalized_importance,
+      y:
+        locationPos[locations.indexOf(sceneLocations[scene])] +
+        2 * (1 - importance) -
+        0.6 * location_offset +
+        character_offset *
+          sceneCharacters[scene].characters.indexOf(character.character),
+      width: normalized_importance,
+      height: normalized_importance,
     };
   });
 });
