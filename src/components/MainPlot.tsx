@@ -6,7 +6,7 @@ import {
   data as scene_data,
   scenes,
 } from "../utils/data";
-import { colors, emotionColor } from "../utils/colors";
+import { colors, emotionColor, importanceColor } from "../utils/colors";
 import {
   sceneBoxes,
   characterPaths,
@@ -23,7 +23,7 @@ function MainPlot() {
     locationHover,
     characterHover,
     setCharacterHover,
-    showCharacterEmotions,
+    characterColor,
     hidden,
   } = storyStore();
   return (
@@ -95,10 +95,13 @@ function MainPlot() {
             {/* add squares at each scene the character appears in */}
             <g className="character-squares">
               {character.scenes.map((scene, j) => {
-                const emotion_val = scene_data[scene].characters.find(
+                const char_data = scene_data[scene].characters.find(
                   (c) => c.name === character.character
-                )?.emotions[0].rating as number;
-                const color = emotionColor(emotion_val);
+                ) as any;
+                const emotion_val = char_data.emotions[0].rating as number;
+                const importance_val = char_data.importance;
+                const emotion_color = emotionColor(emotion_val);
+                const importance_color = importanceColor(importance_val);
 
                 return (
                   <rect
@@ -106,7 +109,13 @@ function MainPlot() {
                     y={characterSquares[i][j].y}
                     width={characterSquares[i][j].width}
                     height={characterSquares[i][j].height}
-                    fill={showCharacterEmotions ? color : colors[i]}
+                    fill={
+                      characterColor === "default"
+                        ? colors[i]
+                        : characterColor === "emotion"
+                        ? emotion_color
+                        : importance_color
+                    }
                     key={"charsq" + j}
                     className={
                       "character-square " +

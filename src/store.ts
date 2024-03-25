@@ -2,16 +2,14 @@ import { create } from "zustand";
 
 // values that don't need to persist across sessions
 export interface IStore {
-  showCharacterEmotions: boolean;
-  setShowCharacterEmotions: (val: boolean) => void;
   showConflict: boolean;
   setShowConflict: (val: boolean) => void;
   colorBy: string;
   setColorBy: (val: string) => void;
   sizeBy: string;
   setSizeBy: (val: string) => void;
-  stylize: boolean;
-  setStylize: (val: boolean) => void;
+  characterColor: string;
+  setCharacterColor: (val: string) => void;
 
   locationHover: string;
   setLocationHover: (val: string) => void;
@@ -24,11 +22,10 @@ export interface IStore {
 }
 
 const initialState = {
-  showCharacterEmotions: false,
   showConflict: false,
-  colorBy: "emotion",
-  sizeBy: "conflict",
-  stylize: true,
+  colorBy: "default",
+  sizeBy: "default",
+  characterColor: "default",
 
   locationHover: "",
   characterHover: "",
@@ -38,12 +35,10 @@ const initialState = {
 
 export const storyStore = create<IStore>()((set) => ({
   ...initialState,
-  setShowCharacterEmotions: (val: boolean) =>
-    set({ showCharacterEmotions: val }),
   setShowConflict: (val: boolean) => set({ showConflict: val }),
   setColorBy: (val: string) => set({ colorBy: val }),
   setSizeBy: (val: string) => set({ sizeBy: val }),
-  setStylize: (val: boolean) => set({ stylize: val }),
+  setCharacterColor: (val: string) => set({ characterColor: val }),
 
   setLocationHover: (val: string) => set({ locationHover: val }),
   setCharacterHover: (val: string) => set({ characterHover: val }),

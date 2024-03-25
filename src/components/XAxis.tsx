@@ -23,7 +23,6 @@ function XAxis() {
     setSceneHover,
     sizeBy,
     colorBy,
-    stylize,
   } = storyStore();
   return (
     <g id="x-axis">
@@ -47,19 +46,19 @@ function XAxis() {
             {sceneChunks[i].map((chunk, j) => {
               const ratings = data[i].ratings;
               const textOffset =
-                !stylize || sizeBy === "none"
+                sizeBy === "default"
                   ? 1.5
                   : sizeBy === "conflict"
                   ? normalizeTextOffset(ratings.conflict)
                   : normalizeTextOffset(ratings.importance);
               const fontSize =
-                !stylize || sizeBy === "none"
+                sizeBy === "default"
                   ? 0.8
                   : sizeBy === "conflict"
                   ? normalizeFontSize(ratings.conflict)
                   : normalizeFontSize(ratings.importance);
               const color =
-                !stylize || colorBy === "none"
+                colorBy === "default"
                   ? "black"
                   : colorBy === "emotion"
                   ? emotionColor(ratings.emotion)

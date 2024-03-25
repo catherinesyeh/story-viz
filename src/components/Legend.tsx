@@ -8,10 +8,9 @@ function Legend() {
   const {
     setCharacterHover,
     sceneHover,
-    showConflict,
-    showCharacterEmotions,
-    stylize,
+    colorBy,
     hidden,
+    characterColor,
     setHidden,
   } = storyStore();
 
@@ -83,9 +82,8 @@ function Legend() {
             className={
               "color-legend " +
               (sceneHover !== "" ||
-              stylize ||
-              showConflict ||
-              showCharacterEmotions
+              colorBy !== "default" ||
+              characterColor !== "default"
                 ? "highlight"
                 : "")
             }

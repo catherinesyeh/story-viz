@@ -3,27 +3,26 @@ import { storyStore } from "../store";
 
 function PlotOptions() {
   const {
-    showCharacterEmotions,
-    setShowCharacterEmotions,
+    characterColor,
+    setCharacterColor,
     showConflict,
     setShowConflict,
     colorBy,
     setColorBy,
     sizeBy,
     setSizeBy,
-    stylize,
-    setStylize,
   } = storyStore();
-  const colorByOptions = ["conflict", "emotion", "importance", "none"];
-  const sizeByOptions = ["conflict", "importance", "none"];
+  const colorByOptions = ["conflict", "emotion", "importance", "default"];
+  const characterColorOptions = ["default", "emotion", "importance"];
+  const sizeByOptions = ["conflict", "importance", "default"];
   return (
     <div id="options">
       <div className="options-contain">
-        <b>Plot</b>
+        <b>Conflict Overlay</b>
         <div className="options-inner">
           <Switch
             size="xs"
-            label="Show conflict overlay"
+            label="Show"
             labelPosition="left"
             checked={showConflict}
             onChange={(event) => setShowConflict(event.currentTarget.checked)}
@@ -42,17 +41,9 @@ function PlotOptions() {
       </div>
       <Divider orientation="vertical" />
       <div className="options-contain">
-        <b>Scenes</b>
+        <b>Scene Names</b>
         <div className="options-inner">
-          <Switch
-            size="xs"
-            label="Stylize"
-            labelPosition="left"
-            checked={stylize}
-            onChange={(event) => setStylize(event.currentTarget.checked)}
-          />
           <Select
-            disabled={!stylize}
             size="xs"
             label="Size by"
             data={sizeByOptions}
@@ -62,7 +53,6 @@ function PlotOptions() {
             }}
           />
           <Select
-            disabled={!stylize}
             size="xs"
             label="Color by"
             data={colorByOptions}
@@ -75,15 +65,15 @@ function PlotOptions() {
       </div>
       <Divider orientation="vertical" />
       <div className="options-contain">
-        <b>Characters</b>
-        <Switch
+        <b>Character Squares</b>
+        <Select
           size="xs"
-          label="Color by emotion"
-          labelPosition="left"
-          checked={showCharacterEmotions}
-          onChange={(event) =>
-            setShowCharacterEmotions(event.currentTarget.checked)
-          }
+          label="Color by"
+          data={characterColorOptions}
+          value={characterColor}
+          onChange={(value) => {
+            if (value) setCharacterColor(value);
+          }}
         />
       </div>
     </div>

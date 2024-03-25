@@ -18,7 +18,7 @@ function ConflictCurve() {
         id="conflict-curve"
         d={conflictPath}
         fillOpacity={0}
-        fill={colorBy === "none" ? "#ccc" : "url(#rating" + colorBy + ")"}
+        fill={colorBy === "default" ? "#ccc" : "url(#rating" + colorBy + ")"}
         strokeWidth={2}
         className={
           (showConflict ? "highlight" : "") +

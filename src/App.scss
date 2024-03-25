@@ -18,15 +18,14 @@ header {
   #options {
     display: flex;
     align-items: center;
-    gap: 30px;
+    gap: 20px;
 
     .options-contain {
       font-size: calc(0.65rem + 0.05vw);
       transition: 0.3s;
-
-      b {
-        margin-bottom: 15px;
-      }
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
 
       .options-inner {
         display: flex;
@@ -114,7 +113,7 @@ h1 {
       transition: 0.3s;
     }
 
-    .scene-name.faded {
+    .scene-name.faded .scene-name-text {
       fill-opacity: 0.3;
     }
 
