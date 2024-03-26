@@ -6,12 +6,8 @@ import {
   conflictColor,
   importanceColor,
 } from "../utils/colors";
-import {
-  fade_in_percent,
-  fade_out_percent,
-  scene_width,
-} from "../utils/consts";
-import { ratingDict, scenes } from "../utils/data";
+import { scene_width } from "../utils/consts";
+import { characterScenes, ratingDict, scenes } from "../utils/data";
 import { normalizeRating } from "../utils/helpers";
 import { scenePos } from "../utils/positions";
 
@@ -20,21 +16,33 @@ function Defs() {
   return (
     <defs>
       <g id="gradients">
-        {colors.map((color, i) => (
-          <linearGradient
-            id={"linear" + i}
-            x1="0%"
-            y1="0%"
-            x2="100%"
-            y2="0%"
-            key={"linear" + i}
-          >
-            <stop offset="0%" stopColor="rgb(255,255,255,0)" />
-            <stop offset={fade_in_percent + "%"} stopColor={color} />
-            <stop offset={fade_out_percent + "%"} stopColor={color} />
-            <stop offset="100%" stopColor="rgb(255,255,255,0)" />
-          </linearGradient>
-        ))}
+        {characterScenes.map((char, i) => {
+          // get first and last scene indices for this character
+          const charScenes = char.scenes;
+          const first_scene = charScenes[0];
+          const last_scene = charScenes[charScenes.length - 1];
+
+          // compute fade in and fade out percentages
+          const line_length = scene_width * (last_scene - first_scene + 1);
+          const fade_in = scene_width / line_length / 2;
+          const fade_in_percent = fade_in * 100;
+          const fade_out_percent = 100 - fade_in_percent;
+          return (
+            <linearGradient
+              id={"linear" + i}
+              x1="0%"
+              y1="0%"
+              x2="100%"
+              y2="0%"
+              key={"linear" + i}
+            >
+              <stop offset="0%" stopColor="rgb(255,255,255,0)" />
+              <stop offset={fade_in_percent + "%"} stopColor={colors[i]} />
+              <stop offset={fade_out_percent + "%"} stopColor={colors[i]} />
+              <stop offset="100%" stopColor="rgb(255,255,255,0)" />
+            </linearGradient>
+          );
+        })}
         {Object.keys(color_dict).map((scale, _) => {
           const color_incs = (color_dict as Record<string, number[]>)[scale];
           const d3scale =

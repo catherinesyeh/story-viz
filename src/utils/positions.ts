@@ -206,9 +206,6 @@ export const characterPaths = characterScenes.map((character) => {
           max_y_per_scene[j] = new_y;
         }
 
-        // add break point
-        // break_points.push(i);
-
         i += 2;
       } else {
         if (cur_y > prev_y && cur_y - prev_y > location_height) {
@@ -270,37 +267,6 @@ export const characterPaths = characterScenes.map((character) => {
     }
   }
 
-  // split character_coords_arr into chunks at break points
-  // break_points.push(character_coords_arr.length - 1);
-
-  // let start = 0;
-  // break_points.forEach((point, p) => {
-  //   const chunk = character_coords_arr.slice(start, point + 1);
-
-  //   // add point to the character's path at the start of the story
-  //   if (p === 0) {
-  //     chunk.unshift([chunk[0][0] - scene_width / 2, chunk[0][1]]);
-  //   }
-
-  //   // add point to the character's path at the end of the story
-  //   if (p === break_points.length - 1) {
-  //     chunk.push([
-  //       chunk[chunk.length - 1][0] + scene_width / 2,
-  //       chunk[chunk.length - 1][1],
-  //     ]);
-  //   }
-
-  //   start = point + 1;
-  //   paths.push(svgPath(chunk, bezierCommand));
-
-  //   // add straight line between chunks
-  //   if (p < break_points.length - 1) {
-  //     const line = `M${chunk[chunk.length - 1][0]},${
-  //       chunk[chunk.length - 1][1]
-  //     }, ${character_coords_arr[start][0]},${character_coords_arr[start][1]}`;
-  //     paths.push(line);
-  //   }
-  // });
   paths.push(svgPath(character_coords_arr, bezierCommand));
   return paths;
 });
