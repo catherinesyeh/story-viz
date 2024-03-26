@@ -155,7 +155,11 @@ export const characterPaths = characterScenes.map((character) => {
             location_height;
 
         const new_y =
-          Math.max(max_cur_y, max_prev_y, cur_max_y) + character_offset;
+          Math.max(
+            max_cur_y - character_offset,
+            max_prev_y - character_offset,
+            cur_max_y
+          ) + character_offset;
 
         // big gap so add two points
         character_coords_arr.splice(i, 0, [prev_x + scene_width, new_y]);
@@ -194,7 +198,11 @@ export const characterPaths = characterScenes.map((character) => {
               location_height;
 
           const new_y =
-            Math.max(max_cur_y, max_prev_y, cur_max_y) + character_offset;
+            Math.max(
+              max_cur_y - character_offset,
+              max_prev_y - character_offset,
+              cur_max_y
+            ) + character_offset;
 
           // add two points
           character_coords_arr.splice(i, 0, [prev_x + scene_width / 2, new_y]);
@@ -226,7 +234,6 @@ if (max_y >= initialScenePos[0].y - 1.25 * location_offset) {
     pos.y = max_y + 1.25 * location_offset;
   });
 }
-
 export const scenePos = initialScenePos;
 
 // compute scene box positions
