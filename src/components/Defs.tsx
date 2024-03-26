@@ -21,12 +21,14 @@ function Defs() {
           const charScenes = char.scenes;
           const first_scene = charScenes[0];
           const last_scene = charScenes[charScenes.length - 1];
+          const range = last_scene - first_scene + 1;
 
           // compute fade in and fade out percentages
-          const line_length = scene_width * (last_scene - first_scene + 1);
+          const line_length = scene_width * range;
           const fade_in = scene_width / line_length / 2;
           const fade_in_percent = fade_in * 100;
           const fade_out_percent = 100 - fade_in_percent;
+
           return (
             <linearGradient
               id={"linear" + i}
@@ -38,6 +40,50 @@ function Defs() {
             >
               <stop offset="0%" stopColor="rgb(255,255,255,0)" />
               <stop offset={fade_in_percent + "%"} stopColor={colors[i]} />
+
+              {charScenes
+                .filter((_, j) => j < charScenes.length - 1)
+                .flatMap((scene, j) => {
+                  const next_scene = charScenes[j + 1];
+                  if (next_scene - scene > 2) {
+                    const start_gap =
+                      ((scene - first_scene + 1) * scene_width) / line_length;
+                    const end_gap =
+                      ((next_scene - first_scene) * scene_width) / line_length;
+                    const start_gap_percent = start_gap * 100;
+                    const end_gap_percent = end_gap * 100;
+                    return [
+                      // Maintain full opacity up to the gap
+                      <stop
+                        offset={`${start_gap_percent - fade_in_percent}%`}
+                        stopColor={colors[i]}
+                      />,
+                      // Start fading to transparent just before the gap
+                      <stop
+                        offset={`${start_gap_percent}%`}
+                        stopColor={colors[i].replace("1)", "0.5)")}
+                      />,
+                      // Fully transparent in the middle of the gap
+                      <stop
+                        offset={`${(start_gap_percent + end_gap_percent) / 2}%`}
+                        stopColor={colors[i].replace("1)", "0.2)")}
+                      />,
+                      // Start fading back to full opacity just before the end of the gap
+                      <stop
+                        offset={`${end_gap_percent}%`}
+                        stopColor={colors[i].replace("1)", "0.5)")}
+                      />,
+                      // Return to full opacity after the gap
+                      <stop
+                        offset={`${end_gap_percent + fade_in_percent}%`}
+                        stopColor={colors[i]}
+                      />,
+                    ];
+                  }
+                  // For consecutive scenes with no gap, simply return an empty array
+                  return [];
+                })}
+
               <stop offset={fade_out_percent + "%"} stopColor={colors[i]} />
               <stop offset="100%" stopColor="rgb(255,255,255,0)" />
             </linearGradient>
