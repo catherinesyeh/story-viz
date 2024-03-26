@@ -422,25 +422,16 @@ export const scene_summary_texts = scenes.map((_, i) => {
     return cur_offset;
   });
 
-  // count how many elements are in the summary list
-  const summary_length = sceneSummaries[i].summary.length;
-  let num_multiline = summary_length > 1 ? 1 : 0;
   const num_characters = sceneSummaries[i].emotions.length;
-  // sum the number of elements in each emotion quote list
-  const emotion_lines = sceneSummaries[i].emotions.reduce(
-    (acc: number, cur: any) => {
-      if (cur.emotion_quote.length > 1) {
-        num_multiline += 1;
-      }
-      return acc + cur.emotion_quote.length;
-    },
-    0
-  );
+  const last_character = sceneSummaries[i].emotions[num_characters - 1];
+  const last_quote_index = last_character.emotion_quote.length - 1;
 
-  const ratio = (num_multiline - 1) / (num_characters + 1);
   const height =
-    (summary_length + emotion_lines + 1) * 1.2 * character_offset +
-    (num_characters + 6 + ratio * 0.5) * 1.6 * character_offset;
+    character_list_y +
+    1.4 * num_characters * character_offset +
+    1.2 * last_quote_index * character_offset +
+    character_offsets[num_characters - 1] +
+    1.2 * character_offset;
 
   return {
     x: start_x,
