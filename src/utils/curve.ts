@@ -1,7 +1,7 @@
 // adapted from https://codepen.io/francoisromain/pen/dzoZZj
 
 // The smoothing ratio
-const smoothing = 0.5;
+const smoothing = 0.4;
 
 // Properties of a line
 // I:  - pointA (array) [x,y]: coordinates
@@ -51,7 +51,7 @@ const controlPoint = (
     // adjust length for second last point
     length *= 2;
   } else if (secondLast && reverse && current[1] < previous[1]) {
-    // length *= 0.75;
+    // length *= 1.5;
   }
 
   // The control point position is relative to the current point

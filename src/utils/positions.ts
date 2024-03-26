@@ -138,6 +138,12 @@ export const characterPaths = characterScenes.map((character) => {
       ...max_y_per_scene.slice(prev_scene_index, scene_index)
     );
 
+    // see if there's a character below this character in the same scene
+    // using sceneCharacters
+    const sceneChars = sceneCharacters[scene_index].characters;
+    const charInd = sceneChars.indexOf(character.character);
+    const nextChar = sceneChars[charInd + 1];
+
     if (cur_x - prev_x > scene_width) {
       if (cur_x - prev_x > scene_width * 2) {
         const max_cur_y =
@@ -161,10 +167,16 @@ export const characterPaths = characterScenes.map((character) => {
             cur_max_y
           ) + character_offset;
 
-        // big gap so add two points
         character_coords_arr.splice(i, 0, [prev_x + scene_width, new_y]);
-        character_coords_arr.splice(i + 1, 0, [cur_x - scene_width, new_y]);
-
+        if (nextChar) {
+          character_coords_arr.splice(i + 1, 0, [
+            cur_x - scene_width - character_offset,
+            new_y,
+          ]);
+        } else {
+          // big gap so add two points
+          character_coords_arr.splice(i + 1, 0, [cur_x - scene_width, new_y]);
+        }
         // update max_y_per_scene between prev_scene_index and scene_index
         for (let j = prev_scene_index; j < scene_index; j++) {
           max_y_per_scene[j] = new_y;
