@@ -10,6 +10,7 @@ import { scene_width } from "../utils/consts";
 import { dataStore } from "../stores/dataStore";
 import { normalizeRating } from "../utils/helpers";
 import { scenePos } from "../utils/positions";
+import { RatingDict } from "../utils/data";
 
 function Defs() {
   const { sceneHover } = storyStore();
@@ -17,7 +18,7 @@ function Defs() {
   return (
     <defs>
       <g id="gradients">
-        {characterScenes.map((char: any, i: number) => {
+        {characterScenes.map((char, i) => {
           // get first and last scene indices for this character
           const charScenes = char.scenes;
           const first_scene = charScenes[0];
@@ -43,8 +44,8 @@ function Defs() {
               <stop offset={fade_in_percent + "%"} stopColor={colors[i]} />
 
               {charScenes
-                .filter((_: any, j: number) => j < charScenes.length - 1)
-                .flatMap((scene: any, j: number) => {
+                .filter((_, j) => j < charScenes.length - 1)
+                .flatMap((scene, j) => {
                   const next_scene = charScenes[j + 1];
                   if (next_scene - scene > 2) {
                     const start_gap =
@@ -128,7 +129,7 @@ function Defs() {
           );
         })}
         {/* create gradient for each set of ratings */}
-        {Object.keys(ratingDict).map((rating_type: any) => (
+        {Object.keys(ratingDict).map((rating_type) => (
           <linearGradient
             id={"rating" + rating_type}
             x1="0%"
@@ -137,8 +138,9 @@ function Defs() {
             y2="0%"
             key={"rating gradient" + rating_type}
           >
-            {ratingDict[rating_type].map((rating: number, j: number) => {
-              const last_ind = ratingDict[rating_type].length - 1;
+            {ratingDict[rating_type as keyof RatingDict].map((rating, j) => {
+              const last_ind =
+                ratingDict[rating_type as keyof RatingDict].length - 1;
               let percent = (j / last_ind) * 100;
               return (
                 <stop

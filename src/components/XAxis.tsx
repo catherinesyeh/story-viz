@@ -24,7 +24,7 @@ function XAxis() {
     <g id="x-axis">
       {/* add scene names to x axis */}
       <g id="scenes">
-        {scenes.map((scene: any, i: number) => (
+        {scenes.map((scene, i) => (
           <g
             key={"scene-group" + i}
             className={
@@ -39,7 +39,7 @@ function XAxis() {
                 : "faded")
             }
           >
-            {sceneChunks[i].map((chunk: any, j: number) => {
+            {sceneChunks[i].map((chunk, j) => {
               const ratings = scene_data[i].ratings;
               const textOffset =
                 sizeBy === "default"

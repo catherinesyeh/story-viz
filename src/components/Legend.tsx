@@ -38,7 +38,7 @@ function Legend() {
           strokeWidth={2}
           opacity={0.8}
         />
-        {reverseCharacterNames.map((character: any, i: number) => (
+        {reverseCharacterNames.map((character, i) => (
           <g
             key={"legendbox" + i}
             transform={`translate(${legendPos[i].x}, ${legendPos[i].y})`}

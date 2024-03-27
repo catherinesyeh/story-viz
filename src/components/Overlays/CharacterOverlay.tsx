@@ -13,7 +13,7 @@ function CharacterOverlay() {
   return (
     <g id="character-quotes">
       {/* add box with quote from each character */}
-      {characterScenes.map((character: any, i: number) => (
+      {characterScenes.map((character, i) => (
         <g
           key={"character quotebox" + i}
           className={
@@ -49,7 +49,7 @@ function CharacterOverlay() {
             >
               {character.character}
             </text>
-            {character_quotes[i].quote.map((quote: any, j: number) => (
+            {character_quotes[i].quote.map((quote, j) => (
               <text
                 key={"character quote" + i + j}
                 x={character_quote_texts[i][j].x}

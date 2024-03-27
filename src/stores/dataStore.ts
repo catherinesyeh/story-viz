@@ -1,31 +1,44 @@
 import { create } from "zustand";
-import { getAllData } from "../utils/data";
+import {
+  Scene,
+  CharacterData,
+  getAllData,
+  LocationData,
+  LocationQuote,
+  CharacterScene,
+  CharacterQuote,
+  SceneCharacter,
+  SceneSummary,
+  RatingDict,
+} from "../utils/data";
 import init_data from "../data/gatsby.json";
 
 /* INITIAL VALUES */
 const init_data_values = getAllData(init_data);
+
+console.log(init_data_values.ratingDict);
 
 // values that don't need to persist across sessions
 
 interface IStore {
   data: any;
   title: string;
-  scene_data: any;
-  location_data: any;
-  character_data: any;
-  locations: any;
-  location_quotes: any;
-  location_chunks: any;
-  characters: any;
-  characterScenes: any;
-  reverseCharacterNames: any;
-  character_quotes: any;
-  scenes: any;
-  sceneLocations: any;
-  sceneChunks: any;
-  sceneCharacters: any;
-  sceneSummaries: any;
-  ratingDict: any;
+  scene_data: Scene[];
+  location_data: LocationData[];
+  character_data: CharacterData[];
+  locations: string[];
+  location_quotes: LocationQuote[];
+  location_chunks: string[][];
+  characters: string[];
+  characterScenes: CharacterScene[];
+  reverseCharacterNames: CharacterScene[];
+  character_quotes: CharacterQuote[];
+  scenes: string[];
+  sceneLocations: string[];
+  sceneChunks: string[][];
+  sceneCharacters: SceneCharacter[];
+  sceneSummaries: SceneSummary[];
+  ratingDict: RatingDict;
   setData: (val: any) => void;
 }
 

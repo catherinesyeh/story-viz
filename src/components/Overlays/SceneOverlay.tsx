@@ -19,7 +19,7 @@ function SceneOverlay() {
   return (
     <g id="scene-info">
       {/* add box with info about each scene */}
-      {scene_data.map((scene: any, i: number) => (
+      {scene_data.map((scene, i) => (
         <g
           key={"scene info" + i}
           className={
@@ -106,7 +106,7 @@ function SceneOverlay() {
           >
             Scene {scene.number}: {scene.name}
           </text>
-          {sceneSummaries[i].summary.map((summary: any, j: number) => (
+          {sceneSummaries[i].summary.map((summary, j) => (
             <text
               key={"scene summary" + i + j}
               x={scene_summary_texts[i].x}
@@ -145,9 +145,9 @@ function SceneOverlay() {
             >
               Characters:
             </text>
-            {sceneSummaries[i].emotions.map((char: any, j: number) => {
+            {sceneSummaries[i].emotions.map((char, j) => {
               const character = scene.characters.find(
-                (c: any) => c.name === char.character
+                (c) => c.name === char.character
               ) as any;
               const emotion = character.emotion.description;
               const rating = character.emotion.rating;
@@ -165,7 +165,7 @@ function SceneOverlay() {
                     fill={
                       colors[
                         characterScenes.findIndex(
-                          (c: any) => c.character === char.character
+                          (c) => c.character === char.character
                         )
                       ]
                     }
@@ -174,7 +174,7 @@ function SceneOverlay() {
                     <tspan className="emphasis">
                       (importance:{" "}
                       {scene.characters
-                        .find((c: any) => c.name === char.character)
+                        .find((c) => c.name === char.character)
                         ?.importance.toFixed(2)}
                       )
                     </tspan>
@@ -224,7 +224,7 @@ function SceneOverlay() {
                   </g>
                   <g>
                     {/* add quote from character */}
-                    {char.emotion_quote.map((quote: any, l: number) => (
+                    {char.emotion_quote.map((quote, l) => (
                       <text
                         key={"scene character quote" + i + j + l}
                         x={scene_summary_texts[i].x}

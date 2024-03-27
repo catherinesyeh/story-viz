@@ -31,7 +31,7 @@ function MainPlot() {
     <g id="main-plot">
       {/* white boxes behind each scene */}
       <g id="scene-box-fills">
-        {sceneCharacters.map((scene: any, i: number) => (
+        {sceneCharacters.map((scene, i) => (
           <rect
             className={
               "scene-box-fill " +
@@ -54,7 +54,7 @@ function MainPlot() {
       </g>
       {/* add characters to each scene */}
       <g id="character-paths">
-        {characterScenes.map((character: any, i: number) => (
+        {characterScenes.map((character, i) => (
           <g
             key={"chargroup" + i}
             className={
@@ -80,7 +80,7 @@ function MainPlot() {
                   : "")
               }
             >
-              {characterPaths[i].map((path: any, j: number) => (
+              {characterPaths[i].map((path, j) => (
                 <path
                   d={path}
                   fill="none"
@@ -94,11 +94,11 @@ function MainPlot() {
             </g>
             {/* add squares at each scene the character appears in */}
             <g className="character-squares">
-              {character.scenes.map((scene: any, j: number) => {
+              {character.scenes.map((scene, j) => {
                 const char_data = scene_data[scene].characters.find(
-                  (c: any) => c.name === character.character
+                  (c) => c.name === character.character
                 ) as any;
-                const emotion_val = char_data.emotion.rating as number;
+                const emotion_val = char_data.emotion.rating;
                 const importance_val = char_data.importance;
                 const emotion_color = emotionColor(emotion_val);
                 const importance_color = importanceColor(importance_val);
@@ -162,7 +162,7 @@ function MainPlot() {
       </g>
       {/* add box outline for characters in each scene */}
       <g id="scene-boxes">
-        {sceneCharacters.map((scene: any, i: number) => (
+        {sceneCharacters.map((scene, i) => (
           <rect
             className={
               "scene-box " +

@@ -12,7 +12,7 @@ function LocationOverlay() {
   return (
     <g id="location-quotes">
       {/* add box with quote from each location */}
-      {locations.map((location: any, i: number) => (
+      {locations.map((location, i) => (
         <g
           key={"location quotebox" + i}
           className={
@@ -39,7 +39,7 @@ function LocationOverlay() {
           >
             {location}
           </text>
-          {location_quotes[i].quote.map((quote: any, j: number) => (
+          {location_quotes[i].quote.map((quote, j) => (
             <text
               key={"location quote" + i + j}
               x={location_quote_texts[i][j].x}

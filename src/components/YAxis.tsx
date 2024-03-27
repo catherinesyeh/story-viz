@@ -25,7 +25,7 @@ function YAxis() {
   return (
     <g id="y-axis">
       {/* add locations to y axis */}
-      {locations.map((location: any, i: number) => (
+      {locations.map((location, i) => (
         <g
           key={"location-group " + i}
           className={
@@ -37,7 +37,7 @@ function YAxis() {
             sceneLocations[scenes.indexOf(sceneHover)] === location ||
             // check if character is in location
             characterScenes.find(
-              (char: any) =>
+              (char) =>
                 char.locations.includes(location) &&
                 char.character === characterHover
             )
@@ -59,7 +59,7 @@ function YAxis() {
             href={"/locations/location_" + (i + 1) + ".png"}
           />
           <g className="location-name-group">
-            {location_chunks[i].map((chunk: any, j: number) => (
+            {location_chunks[i].map((chunk, j) => (
               <text
                 className="location-name"
                 x={location_height * 1.75}
