@@ -1,7 +1,7 @@
 import { create } from "zustand";
 
 // values that don't need to persist across sessions
-export interface IStore {
+interface IStore {
   showConflict: boolean;
   setShowConflict: (val: boolean) => void;
   colorBy: string;

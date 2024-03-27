@@ -1,4 +1,4 @@
-import { storyStore } from "../store";
+import { storyStore } from "../stores/store";
 import {
   locations,
   location_chunks,

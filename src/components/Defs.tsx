@@ -1,4 +1,4 @@
-import { storyStore } from "../store";
+import { storyStore } from "../stores/store";
 import {
   colors,
   color_dict,
@@ -55,26 +55,31 @@ function Defs() {
                     return [
                       // Maintain full opacity up to the gap
                       <stop
+                        key={`full-opacity-before-gap-${i}-${j}`}
                         offset={`${start_gap_percent - fade_in_percent}%`}
                         stopColor={colors[i]}
                       />,
                       // Start fading to transparent just before the gap
                       <stop
+                        key={`start-gap-${i}-${j}`}
                         offset={`${start_gap_percent}%`}
                         stopColor={colors[i].replace("1)", "0.5)")}
                       />,
                       // Fully transparent in the middle of the gap
                       <stop
+                        key={`mid-gap-${i}-${j}`}
                         offset={`${(start_gap_percent + end_gap_percent) / 2}%`}
                         stopColor={colors[i].replace("1)", "0.2)")}
                       />,
                       // Start fading back to full opacity just before the end of the gap
                       <stop
+                        key={`end-gap-${i}-${j}`}
                         offset={`${end_gap_percent}%`}
                         stopColor={colors[i].replace("1)", "0.5)")}
                       />,
                       // Return to full opacity after the gap
                       <stop
+                        key={`full-opacity-after-gap-${i}-${j}`}
                         offset={`${end_gap_percent + fade_in_percent}%`}
                         stopColor={colors[i]}
                       />,

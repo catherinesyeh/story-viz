@@ -1,5 +1,7 @@
 import { Switch, Select, Divider } from "@mantine/core";
-import { storyStore } from "../store";
+import { storyStore } from "../stores/store";
+import { dataStore } from "../stores/dataStore";
+import { useEffect } from "react";
 
 function PlotOptions() {
   const {
@@ -14,10 +16,26 @@ function PlotOptions() {
     story,
     setStory,
   } = storyStore();
+
+  const { data, setData } = dataStore();
   const colorByOptions = ["conflict", "emotion", "importance", "default"];
   const characterColorOptions = ["default", "emotion", "importance"];
   const sizeByOptions = ["conflict", "importance", "default"];
   const storyOptions = ["gatsby", "gatsby2"];
+
+  const handleStoryChange = async (value: string) => {
+    // change story
+    setStory(value);
+    const newData = await import(`../data/${value}.json`);
+    setData(newData);
+  };
+
+  useEffect(() => {
+    if (data) {
+      const title = data["title"];
+      console.log(title);
+    }
+  }, [data]); // Reacts to changes in storyData
 
   return (
     <div id="options">
@@ -30,7 +48,7 @@ function PlotOptions() {
             data={storyOptions}
             value={story}
             onChange={(value) => {
-              if (value) setStory(value);
+              if (value) handleStoryChange(value);
             }}
           />
         </div>

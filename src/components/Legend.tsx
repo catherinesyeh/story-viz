@@ -1,4 +1,4 @@
-import { storyStore } from "../store";
+import { storyStore } from "../stores/store";
 import { colors, color_dict } from "../utils/colors";
 import { character_height, character_offset } from "../utils/consts";
 import { reverseCharacterNames } from "../utils/data";

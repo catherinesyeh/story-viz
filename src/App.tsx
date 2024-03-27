@@ -1,7 +1,7 @@
 import "./App.scss";
 import PlotOptions from "./components/PlotOptions";
 import StoryVis from "./components/StoryVis";
-import { storyStore } from "./store";
+import { storyStore } from "./stores/store";
 
 // map story variable to title
 const titleMap = {

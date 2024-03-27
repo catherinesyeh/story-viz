@@ -1,4 +1,4 @@
-import { storyStore } from "../store";
+import { storyStore } from "../stores/store";
 import {
   scene_width,
   location_offset,

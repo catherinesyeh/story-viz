@@ -1,4 +1,4 @@
-import { storyStore } from "../../store";
+import { storyStore } from "../../stores/store";
 import { character_offset } from "../../utils/consts";
 import { location_quotes, locations } from "../../utils/data";
 import {
