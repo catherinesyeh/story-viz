@@ -1,5 +1,5 @@
 // read in data from data folder
-import all_data from "../data/great_gatsby_scene_analysis.json";
+import all_data from "../data/gatsby.json";
 
 /* HELPERS */
 // create generic chunk method

@@ -11,12 +11,31 @@ function PlotOptions() {
     setColorBy,
     sizeBy,
     setSizeBy,
+    story,
+    setStory,
   } = storyStore();
   const colorByOptions = ["conflict", "emotion", "importance", "default"];
   const characterColorOptions = ["default", "emotion", "importance"];
   const sizeByOptions = ["conflict", "importance", "default"];
+  const storyOptions = ["gatsby", "gatsby2"];
+
   return (
     <div id="options">
+      <div className="options-contain">
+        <b>Choose Story</b>
+        <div className="options-inner">
+          <Select
+            size="xs"
+            // label="View"
+            data={storyOptions}
+            value={story}
+            onChange={(value) => {
+              if (value) setStory(value);
+            }}
+          />
+        </div>
+      </div>
+      <Divider orientation="vertical" />
       <div className="options-contain">
         <b>Conflict Overlay</b>
         <div className="options-inner">
