@@ -25,6 +25,10 @@ import {
   plot_height,
 } from "./consts";
 
+/* CONSTS */
+const plotWidth = plot_width(scenes);
+const plotHeight = plot_height(locations);
+
 /* ELEMENT POSITIONS */
 // compute locations of locations labels
 export const locationPos = locations.map((_, i) => {
@@ -337,14 +341,14 @@ export const legendPos = reverseCharacterNames.map((character, i) => {
   }
 
   return {
-    x: plot_width - my_offset,
+    x: plotWidth - my_offset,
     y: y_offset,
   };
 });
 
 // legend box pos
 export const legend_box_pos = {
-  x: plot_width - legend_offset + 2.25 * location_offset,
+  x: plotWidth - legend_offset + 2.25 * location_offset,
   y: 0,
   width: legend_offset - 2.5 * location_offset,
   height: character_height * 6,
@@ -453,10 +457,10 @@ export const scene_summary_texts = scenes.map((_, i) => {
 
 // color bar positions
 export const color_bar_pos = Object.keys(color_dict).map((_, i) => {
-  const width = (plot_width - 2 * location_offset) / 2 + 2;
+  const width = (plotWidth - 2 * location_offset) / 2 + 2;
   const gap = 2;
   const third = width / 3 - gap * 2 * character_offset;
-  const y = plot_height - 1.8 * character_offset;
+  const y = plotHeight - 1.8 * character_offset;
   return {
     x:
       width / 2 +

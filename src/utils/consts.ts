@@ -1,5 +1,3 @@
-import { scenes, locations } from "./data_orig";
-
 /* CONSTS */
 export const location_height = 100;
 export const location_offset = location_height / 4;
@@ -9,6 +7,7 @@ const scene_margin = scene_width / 4;
 export const character_height = 10;
 export const character_offset = 1.5 * character_height;
 
-export const plot_width = scene_width * (scenes.length + 1.75) + scene_margin;
-export const plot_height =
+export const plot_width = (scenes: string[]) =>
+  scene_width * (scenes.length + 1.75) + scene_margin;
+export const plot_height = (locations: string[]) =>
   location_height * (locations.length + 2.4) + location_offset;

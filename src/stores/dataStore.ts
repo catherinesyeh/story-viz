@@ -12,39 +12,51 @@ import {
   RatingDict,
 } from "../utils/data";
 import init_data from "../data/gatsby.json";
+import { plot_height, plot_width } from "../utils/consts";
 
 /* INITIAL VALUES */
 const init_data_values = getAllData(init_data);
-
-console.log(init_data_values.ratingDict);
+const init_width = plot_width(init_data_values.scenes);
+const init_height = plot_height(init_data_values.locations);
 
 // values that don't need to persist across sessions
 
 interface IStore {
   data: any;
   title: string;
+  plot_width: number;
+  plot_height: number;
+
   scene_data: Scene[];
   location_data: LocationData[];
   character_data: CharacterData[];
+
   locations: string[];
   location_quotes: LocationQuote[];
   location_chunks: string[][];
+
   characters: string[];
   characterScenes: CharacterScene[];
   reverseCharacterNames: CharacterScene[];
   character_quotes: CharacterQuote[];
+
   scenes: string[];
   sceneLocations: string[];
   sceneChunks: string[][];
   sceneCharacters: SceneCharacter[];
   sceneSummaries: SceneSummary[];
+
   ratingDict: RatingDict;
+
   setData: (val: any) => void;
 }
 
 const initialState = {
   data: init_data,
   title: init_data_values.title,
+  plot_width: init_width,
+  plot_height: init_height,
+
   scene_data: init_data_values.scene_data,
   location_data: init_data_values.location_data,
   character_data: init_data_values.character_data,
@@ -71,9 +83,14 @@ export const dataStore = create<IStore>((set) => ({
   ...initialState,
   setData: (init_data: any) => {
     const newData = getAllData(init_data);
+    const newWidth = plot_width(newData.scenes);
+    const newHeight = plot_height(newData.locations);
     set({
       data: init_data,
       title: newData.title,
+      plot_width: newWidth,
+      plot_height: newHeight,
+
       scene_data: newData.scene_data,
       location_data: newData.location_data,
       character_data: newData.character_data,

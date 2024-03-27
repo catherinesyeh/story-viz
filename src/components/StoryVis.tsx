@@ -1,5 +1,3 @@
-import { plot_height, plot_width } from "../utils/consts";
-
 import Defs from "./Defs";
 import YAxis from "./YAxis";
 import XAxis from "./XAxis";
@@ -7,8 +5,10 @@ import ConflictCurve from "./ConflictCurve";
 import MainPlot from "./MainPlot";
 import OverlayInfo from "./Overlays/OverlayInfo";
 import Legend from "./Legend";
+import { dataStore } from "../stores/dataStore";
 
 function StoryVis() {
+  const { plot_width, plot_height } = dataStore();
   return (
     <svg
       id="story"
