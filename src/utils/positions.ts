@@ -5,10 +5,12 @@ import { normalizeRating, normalizeMarkerSize } from "./helpers";
 import {
   location_height,
   location_offset,
-  scene_width,
   scene_offset,
   character_height,
   character_offset,
+  scene_base,
+  plot_width,
+  scene_width,
 } from "./consts";
 import {
   CharacterQuote,
@@ -62,7 +64,11 @@ const locationPos = (locations: string[]) =>
   });
 
 // compute locations of scene labels
-const initialScenePos = (scenes: string[], locations: string[]) =>
+const initialScenePos = (
+  scene_width: number,
+  scenes: string[],
+  locations: string[]
+) =>
   scenes.map((_, i) => {
     return {
       x: scene_width * i + scene_offset,
@@ -155,6 +161,7 @@ let max_y_per_scene = (
   });
 
 const characterPaths = (
+  scene_width: number,
   characterScenes: CharacterScene[],
   characterPos: Position[][],
   max_y_per_scene: number[],
@@ -174,14 +181,13 @@ const characterPaths = (
 
     // add point to the character's path at the start of the story
     character_coords_arr.unshift([
-      character_coords_arr[0][0] - scene_width / 2,
+      character_coords_arr[0][0] - scene_base / 2,
       character_coords_arr[0][1],
     ]);
 
     // add point to the character's path at the end of the story
     character_coords_arr.push([
-      character_coords_arr[character_coords_arr.length - 1][0] +
-        scene_width / 2,
+      character_coords_arr[character_coords_arr.length - 1][0] + scene_base / 2,
       character_coords_arr[character_coords_arr.length - 1][1],
     ]);
 
@@ -214,8 +220,10 @@ const characterPaths = (
       const prevCharInd = prevSceneChars.indexOf(character.character);
       const prevChar = prevSceneChars[prevCharInd + 1];
 
-      if (cur_x - prev_x > scene_width) {
-        if (cur_x - prev_x > scene_width * 2) {
+      const scene_buffer = scene_width + character_offset;
+
+      if (cur_x - prev_x > scene_buffer) {
+        if (cur_x - prev_x > scene_buffer * 2) {
           const max_cur_y =
             cur_y +
             Math.ceil(
@@ -377,7 +385,7 @@ const sceneBoxes = (
       characterSquares[lastChar][lastCharScene].height;
 
     return {
-      x: scenePos[i].x - scene_width / character_height,
+      x: scenePos[i].x - scene_base / character_height,
       y: top - 0.75 * character_height,
       width: 2 * character_height,
       height: bottom - top + 1.5 * character_height,
@@ -439,7 +447,7 @@ const location_quote_boxes = (
     return {
       x: scene_offset - 1.25 * location_offset,
       y: locationPos[locationPos.length - 2] - location_offset,
-      width: scene_width * 5,
+      width: scene_base * 5 - character_offset,
       height: (location_quotes[i].quote.length + 3) * character_offset,
     };
   });
@@ -469,7 +477,7 @@ const character_quote_boxes = (
     return {
       x: legend_box_pos.x,
       y: location_height + location_offset - 2 * character_offset,
-      width: scene_width * 5.5 + character_offset,
+      width: scene_base * 5.5 + character_offset,
       height:
         (Math.max(character_quotes[i].quote.length, 2) + 3) * character_offset,
     };
@@ -492,13 +500,17 @@ const character_quote_texts = (
   });
 
 // scene quote box positions
-const scene_summary_boxes = {
-  x: scene_width * 5 + scene_offset,
-  y: 0,
-  width: scene_width * 8,
-} as SceneSummaryBox;
+const scene_summary_boxes = (scene_width: number) => {
+  return {
+    x: scene_width * 5 + scene_offset,
+    y: 0,
+    width: scene_width * 8,
+  } as SceneSummaryBox;
+};
 
 const scene_summary_texts = (
+  scene_width: number,
+  scene_summary_boxes: SceneSummaryBox,
   scenes: string[],
   sceneSummaries: SceneSummary[]
 ) =>
@@ -556,12 +568,12 @@ const scene_summary_texts = (
   });
 
 // color bar positions
-const color_bar_pos = (plotWidth: number, plotHeight: number) =>
+const color_bar_pos = (plotWidth: number, scenePos: Position[]) =>
   Object.keys(color_dict).map((_, i) => {
     const width = (plotWidth - 2 * location_offset) / 2 + 2;
     const gap = 2;
     const third = width / 3 - gap * 2 * character_offset;
-    const y = plotHeight - 1.8 * character_offset;
+    const y = scenePos[0].y + location_height + 2 * location_offset;
     return {
       x:
         width / 2 +
@@ -612,8 +624,6 @@ const conflictPath = (conflict_points: Position[], scenePos: Position[]) => {
 
 // get all positions
 export const getAllPositions = (
-  plotWidth: number,
-  plotHeight: number,
   scene_data: Scene[],
   scenes: string[],
   locations: string[],
@@ -625,8 +635,11 @@ export const getAllPositions = (
   character_quotes: CharacterQuote[],
   reverseCharacterNames: CharacterScene[]
 ) => {
+  const sceneWidth = scene_width(scenes);
+  const plotWidth = plot_width(scenes, sceneWidth);
+
   const initLocationPos = locationPos(locations);
-  let initScenePos = initialScenePos(scenes, locations);
+  let initScenePos = initialScenePos(sceneWidth, scenes, locations);
   const initCharacterPos = characterPos(
     characterScenes,
     initScenePos,
@@ -652,6 +665,7 @@ export const getAllPositions = (
     initScenePos
   );
   const pathInfo = characterPaths(
+    sceneWidth,
     characterScenes,
     initCharacterPos,
     initMaxYPerScene,
@@ -711,9 +725,19 @@ export const getAllPositions = (
     character_quotes
   );
 
-  const initSceneSummaryTexts = scene_summary_texts(scenes, sceneSummaries);
+  const initSceneSummaryBoxes = scene_summary_boxes(sceneWidth);
 
-  const initColorBarPos = color_bar_pos(plotWidth, plotHeight);
+  const initSceneSummaryTexts = scene_summary_texts(
+    sceneWidth,
+    initSceneSummaryBoxes,
+    scenes,
+    sceneSummaries
+  );
+
+  const initColorBarPos = color_bar_pos(plotWidth, initScenePos);
+
+  const plotHeight =
+    initColorBarPos[0].y + initColorBarPos[0].height + 2 * character_height;
 
   const min_conflict_y = initScenePos[0].y - 0.75 * location_offset;
   const initConflictPoints = conflict_points(
@@ -725,6 +749,9 @@ export const getAllPositions = (
   const initConflictPath = conflictPath(initConflictPoints, initScenePos);
 
   return {
+    sceneWidth: sceneWidth,
+    plotWidth: plotWidth,
+    plotHeight: plotHeight,
     locationPos: initLocationPos,
     scenePos: initScenePos,
     characterPos: initCharacterPos,
@@ -737,7 +764,7 @@ export const getAllPositions = (
     locationQuoteTexts: initLocationQuoteTexts,
     characterQuoteBoxes: initCharacterQuoteBoxes,
     characterQuoteTexts: initCharacterQuoteTexts,
-    sceneSummaryBoxes: scene_summary_boxes,
+    sceneSummaryBoxes: initSceneSummaryBoxes,
     sceneSummaryTexts: initSceneSummaryTexts,
     colorBarPos: initColorBarPos,
     conflictPoints: initConflictPoints,

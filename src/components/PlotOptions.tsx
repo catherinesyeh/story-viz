@@ -19,8 +19,6 @@ function PlotOptions() {
   const {
     data,
     setData,
-    plot_width,
-    plot_height,
     scene_data,
     scenes,
     locations,
@@ -59,8 +57,6 @@ function PlotOptions() {
   useEffect(() => {
     if (data) {
       setPositions(
-        plot_width,
-        plot_height,
         scene_data,
         scenes,
         locations,

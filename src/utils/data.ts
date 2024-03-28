@@ -102,7 +102,7 @@ const locations = (data: Scene[]): string[] =>
 // for each quote in location_data, split quote into chunk_size character chunks, making sure to keep full words
 const location_quotes = (location_data: LocationData[]): LocationQuote[] =>
   location_data.map((location) => {
-    const chunked = chunkQuote('"' + location.quote + '"', 80);
+    const chunked = chunkQuote('"' + location.quote + '"', 75);
     return {
       location: location.name,
       quote: chunked,

@@ -1,6 +1,5 @@
 import { storyStore } from "../stores/storyStore";
 import {
-  scene_width,
   location_offset,
   character_offset,
   character_height,
@@ -11,7 +10,7 @@ import { positionStore } from "../stores/positionStore";
 function ConflictCurve() {
   const { showConflict, sceneHover, locationHover, characterHover, colorBy } =
     storyStore();
-  const { conflictPath, scenePos } = positionStore();
+  const { conflictPath, scenePos, sceneWidth } = positionStore();
   const { scenes } = dataStore();
   return (
     <g id="conflict-container">
@@ -42,7 +41,7 @@ function ConflictCurve() {
           width={
             !showConflict || sceneHover === ""
               ? 0
-              : scene_width * scenes.indexOf(sceneHover) - character_height
+              : sceneWidth * scenes.indexOf(sceneHover) - character_height
           }
           height={scenePos[0].y - 0.75 * location_offset}
         />
@@ -59,7 +58,7 @@ function ConflictCurve() {
           width={
             !showConflict || sceneHover === ""
               ? 0
-              : (scenes.length - scenes.indexOf(sceneHover) - 1) * scene_width
+              : (scenes.length - scenes.indexOf(sceneHover) - 1) * sceneWidth
           }
           height={scenePos[0].y - 0.75 * location_offset}
         />

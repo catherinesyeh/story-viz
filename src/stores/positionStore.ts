@@ -9,7 +9,6 @@ import {
   SceneSummary,
 } from "../utils/data";
 import init_data from "../data/gatsby.json";
-import { plot_height, plot_width } from "../utils/consts";
 import {
   Box,
   Position,
@@ -20,11 +19,7 @@ import {
 
 /* INITIAL VALUES */
 const init_data_values = getAllData(init_data);
-const init_width = plot_width(init_data_values.scenes);
-const init_height = plot_height(init_data_values.locations);
 const init_pos_values = getAllPositions(
-  init_width,
-  init_height,
   init_data_values.scene_data,
   init_data_values.scenes,
   init_data_values.locations,
@@ -40,6 +35,9 @@ const init_pos_values = getAllPositions(
 // values that don't need to persist across sessions
 
 interface IStore {
+  sceneWidth: number;
+  plotWidth: number;
+  plotHeight: number;
   locationPos: number[];
   scenePos: Position[];
   characterPos: Position[][];
@@ -59,8 +57,6 @@ interface IStore {
   conflictPath: string;
 
   setPositions: (
-    plotWidth: number,
-    plotHeight: number,
     scene_data: Scene[],
     scenes: string[],
     locations: string[],
@@ -75,6 +71,9 @@ interface IStore {
 }
 
 const initialState = {
+  sceneWidth: init_pos_values.sceneWidth,
+  plotWidth: init_pos_values.plotWidth,
+  plotHeight: init_pos_values.plotHeight,
   locationPos: init_pos_values.locationPos,
   scenePos: init_pos_values.scenePos,
   characterPos: init_pos_values.characterPos,
@@ -97,8 +96,6 @@ const initialState = {
 export const positionStore = create<IStore>((set) => ({
   ...initialState,
   setPositions: (
-    plotWidth: number,
-    plotHeight: number,
     scene_data: Scene[],
     scenes: string[],
     locations: string[],
@@ -111,8 +108,6 @@ export const positionStore = create<IStore>((set) => ({
     reverseCharacterNames: CharacterScene[]
   ) => {
     const newPositions = getAllPositions(
-      plotWidth,
-      plotHeight,
       scene_data,
       scenes,
       locations,
@@ -125,6 +120,9 @@ export const positionStore = create<IStore>((set) => ({
       reverseCharacterNames
     );
     set({
+      sceneWidth: newPositions.sceneWidth,
+      plotWidth: newPositions.plotWidth,
+      plotHeight: newPositions.plotHeight,
       locationPos: newPositions.locationPos,
       scenePos: newPositions.scenePos,
       characterPos: newPositions.characterPos,

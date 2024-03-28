@@ -6,15 +6,15 @@ import {
   importanceColor,
   characterColor,
 } from "../utils/colors";
-import { scene_width } from "../utils/consts";
 import { dataStore } from "../stores/dataStore";
 import { normalizeRating } from "../utils/helpers";
 import { RatingDict } from "../utils/data";
 import { positionStore } from "../stores/positionStore";
+import { scene_base } from "../utils/consts";
 
 function Defs() {
   const { sceneHover } = storyStore();
-  const { scenePos } = positionStore();
+  const { scenePos, sceneWidth } = positionStore();
   const { characterScenes, ratingDict, scenes } = dataStore();
   return (
     <defs>
@@ -27,8 +27,8 @@ function Defs() {
           const range = last_scene - first_scene + 1;
 
           // compute fade in and fade out percentages
-          const line_length = scene_width * range;
-          const fade_in = scene_width / line_length / 2;
+          const line_length = sceneWidth * range;
+          const fade_in = scene_base / line_length / 2;
           const fade_in_percent = fade_in * 100;
           const fade_out_percent = 100 - fade_in_percent;
 
@@ -53,9 +53,9 @@ function Defs() {
                   const next_scene = charScenes[j + 1];
                   if (next_scene - scene > 2) {
                     const start_gap =
-                      ((scene - first_scene + 1) * scene_width) / line_length;
+                      ((scene - first_scene + 1) * sceneWidth) / line_length;
                     const end_gap =
-                      ((next_scene - first_scene) * scene_width) / line_length;
+                      ((next_scene - first_scene) * sceneWidth) / line_length;
                     const start_gap_percent = start_gap * 100;
                     const end_gap_percent = end_gap * 100;
                     return [
@@ -182,7 +182,7 @@ function Defs() {
               sceneHover === ""
                 ? "90%"
                 : 100 -
-                  (scene_width / scenePos[scenes.indexOf(sceneHover)].x) * 100 +
+                  (sceneWidth / scenePos[scenes.indexOf(sceneHover)].x) * 100 +
                   "%"
             }
             stopColor="white"
@@ -201,9 +201,9 @@ function Defs() {
               sceneHover === ""
                 ? "90%"
                 : 100 -
-                  (scene_width /
+                  (sceneWidth /
                     ((scenes.length - scenes.indexOf(sceneHover) - 1) *
-                      scene_width)) *
+                      sceneWidth)) *
                     100 +
                   "%"
             }
