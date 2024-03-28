@@ -123,7 +123,7 @@ function SceneOverlay() {
             className="scene-location"
             key={"scene location" + i}
           >
-            <tspan className="bold">Location:</tspan> {scene.location.name}
+            <tspan className="bold">Location:</tspan> {scene.location}
           </text>
           {/* add divider line */}
           <line

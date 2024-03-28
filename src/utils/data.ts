@@ -28,15 +28,10 @@ export interface Character {
   };
 }
 
-export interface Location {
-  name: string;
-  group: string;
-}
-
 export interface Scene {
   number: number;
   name: string;
-  location: Location;
+  location: string;
   characters: Character[];
   summary: string;
   ratings: {
@@ -100,9 +95,9 @@ const character_data = (all_data: any): CharacterData[] =>
   all_data["characters"];
 
 /* LOCATION DATA */
-// get all locations by finding unique 'group' values in location object
+// get all locations by finding unique location values
 const locations = (data: Scene[]): string[] =>
-  Array.from(new Set(data.map((scene) => scene.location.group)));
+  Array.from(new Set(data.map((scene) => scene.location)));
 
 // for each quote in location_data, split quote into chunk_size character chunks, making sure to keep full words
 const location_quotes = (location_data: LocationData[]): LocationQuote[] =>
@@ -155,7 +150,7 @@ const characterScenes = (
               (char) => char.name.toLowerCase() === character.toLowerCase()
             )
           )
-          .map((scene) => scene.location.group),
+          .map((scene) => scene.location),
       };
     })
     .sort((a, b) => b.scenes.length - a.scenes.length);
@@ -197,7 +192,7 @@ const scenes = (data: Scene[]): string[] => data.map((scene) => scene.name);
 
 // map each scene to location
 const sceneLocations = (data: Scene[]): string[] =>
-  data.map((scene) => scene.location.group);
+  data.map((scene) => scene.location);
 
 // split scene names into chunks of 30 characters
 const sceneChunks = (scenes: string[]): string[][] =>

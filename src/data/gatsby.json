@@ -10,10 +10,7 @@
         "conflict": -0.5,
         "emotion": 0.3
       },
-      "location": {
-        "name": "Nick's Childhood Home",
-        "group": "Nick's Childhood Home"
-      },
+      "location": "Nick's Childhood Home",
       "characters": [
         {
           "name": "Nick",
@@ -35,10 +32,7 @@
         "conflict": -0.2,
         "emotion": 0.1
       },
-      "location": {
-        "name": "West Egg, Nick's New Home",
-        "group": "West Egg - Nick's Home"
-      },
+      "location": "West Egg - Nick's Home",
       "characters": [
         {
           "name": "Nick",
@@ -60,10 +54,7 @@
         "conflict": 0.4,
         "emotion": 0.2
       },
-      "location": {
-        "name": "Buchanan's Home, East Egg",
-        "group": "East Egg"
-      },
+      "location": "East Egg",
       "characters": [
         {
           "name": "Nick",
@@ -112,10 +103,7 @@
         "conflict": 0.7,
         "emotion": -0.6
       },
-      "location": {
-        "name": "The Buchanan's Home",
-        "group": "East Egg"
-      },
+      "location": "East Egg",
       "characters": [
         {
           "name": "Tom Buchanan",
@@ -155,10 +143,7 @@
         "conflict": 0.3,
         "emotion": 0.2
       },
-      "location": {
-        "name": "Valley of Ashes, Wilson's Garage",
-        "group": "Valley of Ashes"
-      },
+      "location": "Valley of Ashes",
       "characters": [
         {
           "name": "Tom Buchanan",
@@ -198,10 +183,7 @@
         "conflict": 0.8,
         "emotion": -0.7
       },
-      "location": {
-        "name": "Myrtle's Apartment in New York",
-        "group": "New York"
-      },
+      "location": "New York",
       "characters": [
         {
           "name": "Nick",
@@ -241,10 +223,7 @@
         "conflict": -0.1,
         "emotion": 0.6
       },
-      "location": {
-        "name": "Gatsby's Mansion",
-        "group": "West Egg - Gatsby's Mansion"
-      },
+      "location": "West Egg - Gatsby's Mansion",
       "characters": [
         {
           "name": "Gatsby",
@@ -293,10 +272,7 @@
         "conflict": 0.3,
         "emotion": 0.4
       },
-      "location": {
-        "name": "Gatsby's Party",
-        "group": "West Egg - Gatsby's Mansion"
-      },
+      "location": "West Egg - Gatsby's Mansion",
       "characters": [
         {
           "name": "Party Guests",
@@ -327,10 +303,7 @@
         "conflict": -0.2,
         "emotion": 0.8
       },
-      "location": {
-        "name": "Gatsby's Garden",
-        "group": "West Egg - Gatsby's Mansion"
-      },
+      "location": "West Egg - Gatsby's Mansion",
       "characters": [
         {
           "name": "Gatsby",
@@ -370,10 +343,7 @@
         "conflict": 0,
         "emotion": 0.2
       },
-      "location": {
-        "name": "Gatsby's Mansion",
-        "group": "West Egg - Gatsby's Mansion"
-      },
+      "location": "West Egg - Gatsby's Mansion",
       "characters": [
         {
           "name": "Gatsby",
@@ -404,10 +374,7 @@
         "conflict": 0.2,
         "emotion": 0.7
       },
-      "location": {
-        "name": "Gatsby's Yellow Car",
-        "group": "New York"
-      },
+      "location": "New York",
       "characters": [
         {
           "name": "Gatsby",
@@ -438,10 +405,7 @@
         "conflict": 0.1,
         "emotion": 0.5
       },
-      "location": {
-        "name": "New York Restaurant",
-        "group": "New York"
-      },
+      "location": "New York",
       "characters": [
         {
           "name": "Gatsby",
@@ -472,10 +436,7 @@
         "conflict": 0.5,
         "emotion": 0.4
       },
-      "location": {
-        "name": "Gatsby's Mansion, Library",
-        "group": "West Egg - Gatsby's Mansion"
-      },
+      "location": "West Egg - Gatsby's Mansion",
       "characters": [
         {
           "name": "Gatsby",
@@ -515,10 +476,7 @@
         "conflict": 0.2,
         "emotion": 0.6
       },
-      "location": {
-        "name": "Gatsby's Garden",
-        "group": "West Egg - Gatsby's Mansion"
-      },
+      "location": "West Egg - Gatsby's Mansion",
       "characters": [
         {
           "name": "Gatsby",
@@ -558,10 +516,7 @@
         "conflict": 0.1,
         "emotion": 0.5
       },
-      "location": {
-        "name": "Gatsby's Mansion, Post-party",
-        "group": "West Egg - Gatsby's Mansion"
-      },
+      "location": "West Egg - Gatsby's Mansion",
       "characters": [
         {
           "name": "Gatsby",
@@ -592,10 +547,7 @@
         "conflict": 0.4,
         "emotion": 0.6
       },
-      "location": {
-        "name": "Gatsby's Car, Driving",
-        "group": "New York"
-      },
+      "location": "New York",
       "characters": [
         {
           "name": "Gatsby",
@@ -626,10 +578,7 @@
         "conflict": 1,
         "emotion": -0.8
       },
-      "location": {
-        "name": "The Plaza Hotel, New York",
-        "group": "New York"
-      },
+      "location": "New York",
       "characters": [
         {
           "name": "Gatsby",
@@ -678,10 +627,7 @@
         "conflict": 0.9,
         "emotion": -1
       },
-      "location": {
-        "name": "Valley of Ashes",
-        "group": "Valley of Ashes"
-      },
+      "location": "Valley of Ashes",
       "characters": [
         {
           "name": "George Wilson",
@@ -721,10 +667,7 @@
         "conflict": 0.3,
         "emotion": -0.7
       },
-      "location": {
-        "name": "Gatsby's Mansion",
-        "group": "West Egg - Gatsby's Mansion"
-      },
+      "location": "West Egg - Gatsby's Mansion",
       "characters": [
         {
           "name": "Nick",
@@ -755,10 +698,7 @@
         "conflict": -0.5,
         "emotion": -0.6
       },
-      "location": {
-        "name": "Gatsby's Funeral",
-        "group": "New York"
-      },
+      "location": "New York",
       "characters": [
         {
           "name": "Nick",
@@ -798,10 +738,7 @@
         "conflict": -0.4,
         "emotion": -0.5
       },
-      "location": {
-        "name": "West Egg",
-        "group": "West Egg - Nick's Home"
-      },
+      "location": "West Egg - Nick's Home",
       "characters": [
         {
           "name": "Nick",
