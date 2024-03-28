@@ -156,8 +156,8 @@ function SceneOverlay() {
                     x={sceneSummaryTexts[i].x}
                     y={
                       sceneSummaryTexts[i].character_list_y +
-                      1.4 * j * character_offset +
-                      sceneSummaryTexts[i].character_offsets[j]
+                        1.4 * j * character_offset +
+                        sceneSummaryTexts[i].character_offsets[j] || 0
                     }
                     textAnchor="start"
                     className="scene-character"
@@ -183,9 +183,9 @@ function SceneOverlay() {
                       x={sceneSummaryTexts[i].end_x - 4 * character_height}
                       y={
                         sceneSummaryTexts[i].character_list_y -
-                        0.9 * character_offset +
-                        1.4 * j * character_offset +
-                        sceneSummaryTexts[i].character_offsets[j]
+                          0.9 * character_offset +
+                          1.4 * j * character_offset +
+                          sceneSummaryTexts[i].character_offsets[j] || 0
                       }
                       width={character_height * 4}
                       height={character_height * 1.8}
@@ -195,8 +195,8 @@ function SceneOverlay() {
                       x={sceneSummaryTexts[i].end_x - 2 * character_height}
                       y={
                         sceneSummaryTexts[i].character_list_y +
-                        1.4 * j * character_offset +
-                        sceneSummaryTexts[i].character_offsets[j]
+                          1.4 * j * character_offset +
+                          sceneSummaryTexts[i].character_offsets[j] || 0
                       }
                       textAnchor={"middle"}
                       className="scene-rating"
@@ -212,8 +212,8 @@ function SceneOverlay() {
                       }
                       y={
                         sceneSummaryTexts[i].character_list_y +
-                        1.4 * j * character_offset +
-                        sceneSummaryTexts[i].character_offsets[j]
+                          1.4 * j * character_offset +
+                          sceneSummaryTexts[i].character_offsets[j] || 0
                       }
                       textAnchor={"end"}
                       className="scene-rating"
@@ -229,9 +229,9 @@ function SceneOverlay() {
                         x={sceneSummaryTexts[i].x}
                         y={
                           sceneSummaryTexts[i].character_list_y +
-                          1.4 * (j + 1) * character_offset +
-                          1.2 * l * character_offset +
-                          sceneSummaryTexts[i].character_offsets[j]
+                            1.4 * (j + 1) * character_offset +
+                            1.2 * l * character_offset +
+                            sceneSummaryTexts[i].character_offsets[j] || 0
                         }
                         textAnchor="start"
                       >
