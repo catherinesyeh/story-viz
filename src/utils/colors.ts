@@ -1,20 +1,7 @@
 import * as d3 from "d3";
 
-// each character will be assigned a color
-// export const colors = [
-//   "#f77189",
-//   "#dc8932",
-//   "#ae9d31",
-//   "#77ab31",
-//   "#33b07a",
-//   "#36ada4",
-//   "#38a9c5",
-//   "#6e9bf4",
-//   "#cc7af4",
-//   "#f565cc",
-// ];
-
-export const colors = [
+// original colors
+const colors = [
   "rgb(247, 113, 137, 1)",
   "rgb(220, 137, 50, 1)",
   "rgb(174, 157, 49, 1)",
@@ -27,7 +14,23 @@ export const colors = [
   "rgb(245, 101, 204, 1)",
 ];
 
+// Custom interpolator to exclude the middle, lighter part of the spectral scale
+function customSpectralInterpolator(t: any) {
+  // Define thresholds to exclude the middle range
+  const start = 0.4; // Starting point of the first part
+  const end = 0.7; // Starting point of the second part
+
+  if (t < 0.5) {
+    // Map the first half to the 0 - start range of the original scale
+    return d3.interpolateSpectral(start * 2 * t);
+  } else {
+    // Map the second half to the end - 1 range of the original scale
+    return d3.interpolateSpectral(end + (2 * t - 1) * (1 - end));
+  }
+}
+
 // color scales
+export const characterColor = d3.scaleSequential(customSpectralInterpolator);
 export const emotionColor = d3
   .scaleSequential(d3.interpolateRdBu)
   .domain([1, -1]);

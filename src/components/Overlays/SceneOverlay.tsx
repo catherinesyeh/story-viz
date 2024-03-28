@@ -4,7 +4,7 @@ import {
   conflictColor,
   importanceColor,
   textColor,
-  colors,
+  characterColor,
 } from "../../utils/colors";
 import { character_offset, character_height } from "../../utils/consts";
 import { dataStore } from "../../stores/dataStore";
@@ -161,13 +161,12 @@ function SceneOverlay() {
                     }
                     textAnchor="start"
                     className="scene-character"
-                    fill={
-                      colors[
-                        characterScenes.findIndex(
-                          (c) => c.character === char.character
-                        )
-                      ]
-                    }
+                    fill={characterColor(
+                      characterScenes.findIndex(
+                        (c) => c.character === char.character
+                      ) /
+                        (characterScenes.length - 1)
+                    )}
                   >
                     <tspan className="bold">{char.character} </tspan>
                     <tspan className="emphasis">

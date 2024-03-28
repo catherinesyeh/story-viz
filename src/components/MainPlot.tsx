@@ -1,6 +1,6 @@
 import { storyStore } from "../stores/store";
 import { dataStore } from "../stores/dataStore";
-import { colors, emotionColor, importanceColor } from "../utils/colors";
+import { characterColor, emotionColor, importanceColor } from "../utils/colors";
 import { character_height } from "../utils/consts";
 import { positionStore } from "../stores/positionStore";
 
@@ -12,7 +12,7 @@ function MainPlot() {
     locationHover,
     characterHover,
     setCharacterHover,
-    characterColor,
+    characterColor: characterColorBy,
     hidden,
   } = storyStore();
   const { sceneBoxes, characterPaths, characterPos, characterSquares } =
@@ -109,9 +109,9 @@ function MainPlot() {
                       width={characterSquares[i][j].width}
                       height={characterSquares[i][j].height}
                       fill={
-                        characterColor === "default"
-                          ? colors[i]
-                          : characterColor === "emotion"
+                        characterColorBy === "default"
+                          ? characterColor(i / (characterScenes.length - 1))
+                          : characterColorBy === "emotion"
                           ? emotion_color
                           : importance_color
                       }
@@ -155,7 +155,7 @@ function MainPlot() {
                       : characterPos[i][0].y + 0.8 * character_height
                   }
                   textAnchor={firstScene === 0 ? "start" : "end"}
-                  fill={colors[i]}
+                  fill={characterColor(i / (characterScenes.length - 1))}
                   paintOrder="stroke"
                   stroke="rgb(255,255,255,0.8)"
                   strokeWidth={4}

@@ -1,5 +1,5 @@
 import { storyStore } from "../../stores/store";
-import { colors } from "../../utils/colors";
+import { characterColor } from "../../utils/colors";
 import { character_offset, location_height } from "../../utils/consts";
 import { dataStore } from "../../stores/dataStore";
 import { positionStore } from "../../stores/positionStore";
@@ -29,7 +29,7 @@ function CharacterOverlay() {
               height={characterQuoteBoxes[i].height}
               fill="white"
               strokeWidth={2}
-              stroke={colors[i]}
+              stroke={characterColor(i / (characterScenes.length - 1))}
               opacity={0.8}
             />
             <text
@@ -43,7 +43,7 @@ function CharacterOverlay() {
               }
               textAnchor="start"
               className="quote-text bold"
-              fill={colors[i]}
+              fill={characterColor(i / (characterScenes.length - 1))}
             >
               {character.character}
             </text>

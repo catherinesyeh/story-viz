@@ -1,5 +1,5 @@
 import { storyStore } from "../stores/store";
-import { colors, color_dict } from "../utils/colors";
+import { characterColor, color_dict } from "../utils/colors";
 import { character_height, character_offset } from "../utils/consts";
 import { dataStore } from "../stores/dataStore";
 import { positionStore } from "../stores/positionStore";
@@ -12,7 +12,7 @@ function Legend() {
     sceneHover,
     colorBy,
     hidden,
-    characterColor,
+    characterColor: characterColorBy,
     setHidden,
   } = storyStore();
 
@@ -56,7 +56,10 @@ function Legend() {
               y={0}
               width={character_height}
               height={character_height}
-              fill={colors[reverseCharacterNames.length - 1 - i]}
+              fill={characterColor(
+                (reverseCharacterNames.length - 1 - i) /
+                  (reverseCharacterNames.length - 1)
+              )}
             />
             <text
               x={character_offset}
@@ -85,7 +88,7 @@ function Legend() {
               "color-legend " +
               (sceneHover !== "" ||
               colorBy !== "default" ||
-              characterColor !== "default"
+              characterColorBy !== "default"
                 ? "highlight"
                 : "")
             }
