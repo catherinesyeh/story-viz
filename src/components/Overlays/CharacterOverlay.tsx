@@ -5,7 +5,7 @@ import { dataStore } from "../../stores/dataStore";
 import { positionStore } from "../../stores/positionStore";
 
 function CharacterOverlay() {
-  const { characterHover } = storyStore();
+  const { characterHover, story } = storyStore();
   const { characterScenes, character_quotes } = dataStore();
   const { characterQuoteBoxes, characterQuoteTexts } = positionStore();
   return (
@@ -87,6 +87,8 @@ function CharacterOverlay() {
                 height={location_height * 0.5}
                 href={
                   "/characters/" +
+                  story +
+                  "/" +
                   character.character.split(" ")[0].toLowerCase() +
                   ".png"
                 }

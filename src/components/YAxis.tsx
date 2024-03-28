@@ -9,6 +9,7 @@ import { positionStore } from "../stores/positionStore";
 
 function YAxis() {
   const {
+    story,
     locationHover,
     setLocationHover,
     sceneHover,
@@ -65,7 +66,7 @@ function YAxis() {
             }
             width={location_height * 0.75}
             height={location_height * 0.75}
-            href={"/locations/location_" + (i + 1) + ".png"}
+            href={"/locations/" + story + "/location_" + (i + 1) + ".png"}
           />
           <g className="location-name-group">
             {location_chunks[i].map((chunk, j) => (

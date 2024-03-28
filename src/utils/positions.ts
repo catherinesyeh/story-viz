@@ -1,6 +1,10 @@
 import { color_dict } from "./colors";
 import { bezierCommand, svgPath } from "./curve";
-import { normalizeRating, normalizeMarkerSize } from "./helpers";
+import {
+  normalizeRating,
+  normalizeMarkerSize,
+  getStringWidth,
+} from "./helpers";
 
 import {
   location_height,
@@ -404,47 +408,70 @@ const sceneBoxes = (
   });
 
 // compute pos of legend items
-// put in 2 rows
-const legendPos = (
-  reverseCharacterNames: CharacterScene[],
-  plotWidth: number,
-  legend_offset: number
-) => {
-  const coords = reverseCharacterNames.map((character, i) => {
-    let y_offset = location_offset * 0.6;
+const legendPos = (characterScenes: CharacterScene[], plotWidth: number) => {
+  // get characterNames from characterScenes
+  const characters = characterScenes.map((char) => char.character);
 
-    const my_offset = legend_offset;
-    if (i % 2 === 1) {
-      y_offset += character_height * 2;
-    } else {
-      let length = character.character.length;
-      if (i > 0) {
-        length = Math.max(
-          character.character.length,
-          reverseCharacterNames[i - 1].character.length
-        );
-      }
-      const factor = i == 0 ? 1.5 : 1;
-      legend_offset += factor * character_height * length + character_offset;
+  const numRows = Math.round(characters.length / 5);
+
+  // break characters into groups of numRows
+  const groups = characters.reduce((acc, char, i) => {
+    const groupIndex = Math.floor(i / numRows);
+    if (!acc[groupIndex]) {
+      acc[groupIndex] = [];
     }
+    acc[groupIndex].push(char);
+    return acc;
+  }, [] as string[][]);
 
-    return {
-      x: plotWidth - my_offset,
-      y: y_offset,
-    };
+  // find max length of characters in each row
+  const max_lengths = groups.map((group) => {
+    return Math.max(...group.map((char) => getStringWidth(char)));
   });
-  return {
-    coords: coords,
-    legend_offset: legend_offset,
-  };
+  let legend_offset =
+    max_lengths[max_lengths.length - 1] * 4 + 2.5 * character_offset;
+
+  let all_pos = [] as Position[];
+
+  // compute positions for each character
+  groups.reverse().forEach((group, i) => {
+    const my_offset = legend_offset;
+    group.forEach((_, j) => {
+      const x_offset = plotWidth - my_offset;
+      const y_offset =
+        location_offset * 0.6 +
+        (group.length - j - 1) * 1.75 * character_height;
+
+      all_pos.push({
+        x: x_offset,
+        y: y_offset,
+      });
+    });
+
+    let factor = 4;
+    if (i < groups.length - 1) {
+      factor =
+        max_lengths[max_lengths.length - i - 2] /
+        max_lengths[max_lengths.length - i - 1];
+    }
+    legend_offset +=
+      max_lengths[max_lengths.length - i - 1] * 4 +
+      3 * factor * character_offset;
+  });
+
+  return all_pos.reverse();
 };
 // legend box pos
-const legend_box_pos = (plotWidth: number, legend_offset: number) => {
+const legend_box_pos = (plotWidth: number, legendPos: Position[]) => {
+  // find min x in legendPos
+  const min_x = Math.min(...legendPos.map((pos) => pos.x));
+  // find max y in legendPos
+  const max_y = Math.max(...legendPos.map((pos) => pos.y));
   return {
-    x: plotWidth - legend_offset + 2.25 * location_offset,
+    x: min_x - 1.25 * character_offset,
     y: 0,
-    width: legend_offset - 2.5 * location_offset,
-    height: character_height * 6,
+    width: plotWidth - min_x + 1.25 * character_offset,
+    height: max_y + 1.75 * character_offset,
   };
 };
 
@@ -487,7 +514,7 @@ const character_quote_boxes = (
   characterScenes.map((_, i) => {
     return {
       x: legend_box_pos.x,
-      y: location_height + location_offset - 2 * character_offset,
+      y: legend_box_pos.y + legend_box_pos.height + 3 * character_height,
       width: scene_base * 5.5 + character_offset,
       height:
         (Math.max(character_quotes[i].quote.length, 2) + 3) * character_offset,
@@ -640,8 +667,7 @@ export const getAllPositions = (
   sceneCharacters: SceneCharacter[],
   location_quotes: LocationQuote[],
   sceneSummaries: SceneSummary[],
-  character_quotes: CharacterQuote[],
-  reverseCharacterNames: CharacterScene[]
+  character_quotes: CharacterQuote[]
 ) => {
   const sceneWidth = scene_width(scenes);
   const plotWidth = plot_width(scenes, sceneWidth);
@@ -697,16 +723,8 @@ export const getAllPositions = (
     characterScenes
   );
 
-  let legend_offset =
-    2 *
-      character_height *
-      reverseCharacterNames[reverseCharacterNames.length - 1].character.length +
-    character_offset;
-
-  const legendInfo = legendPos(reverseCharacterNames, plotWidth, legend_offset);
-  const initLegendPos = legendInfo.coords;
-  legend_offset = legendInfo.legend_offset;
-  const initLegendBoxPos = legend_box_pos(plotWidth, legend_offset);
+  const initLegendPos = legendPos(characterScenes, plotWidth);
+  const initLegendBoxPos = legend_box_pos(plotWidth, initLegendPos);
 
   const initLocationQuoteBoxes = location_quote_boxes(
     locations,

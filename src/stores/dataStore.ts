@@ -32,7 +32,6 @@ interface IStore {
 
   characters: string[];
   characterScenes: CharacterScene[];
-  reverseCharacterNames: CharacterScene[];
   character_quotes: CharacterQuote[];
 
   scenes: string[];
@@ -60,7 +59,6 @@ const initialState = {
 
   characters: init_data_values.characters,
   characterScenes: init_data_values.characterScenes,
-  reverseCharacterNames: init_data_values.reverseCharacterNames,
   character_quotes: init_data_values.character_quotes,
 
   scenes: init_data_values.scenes,
@@ -90,7 +88,6 @@ export const dataStore = create<IStore>((set) => ({
 
       characters: newData.characters,
       characterScenes: newData.characterScenes,
-      reverseCharacterNames: newData.reverseCharacterNames,
       character_quotes: newData.character_quotes,
 
       scenes: newData.scenes,

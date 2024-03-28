@@ -1,7 +1,7 @@
 import { Switch, Select, Divider } from "@mantine/core";
 import { storyStore } from "../stores/storyStore";
 import { dataStore } from "../stores/dataStore";
-import { useEffect, useState } from "react";
+import { useEffect } from "react";
 import { positionStore } from "../stores/positionStore";
 
 function PlotOptions() {
@@ -14,6 +14,8 @@ function PlotOptions() {
     setColorBy,
     sizeBy,
     setSizeBy,
+    story,
+    setStory,
   } = storyStore();
 
   const {
@@ -28,15 +30,12 @@ function PlotOptions() {
     location_quotes,
     sceneSummaries,
     character_quotes,
-    reverseCharacterNames,
   } = dataStore();
   const { setPositions } = positionStore();
   const colorByOptions = ["conflict", "emotion", "importance", "default"];
   const characterColorOptions = ["default", "emotion", "importance"];
   const sizeByOptions = ["conflict", "importance", "default"];
   const storyOptions = ["gatsby", "alice"];
-
-  const [story, setStory] = useState("gatsby");
 
   const handleStoryChange = async (story: string) => {
     try {
@@ -65,8 +64,7 @@ function PlotOptions() {
         sceneCharacters,
         location_quotes,
         sceneSummaries,
-        character_quotes,
-        reverseCharacterNames
+        character_quotes
       );
     }
   }, [data]);

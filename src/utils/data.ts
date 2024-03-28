@@ -173,10 +173,6 @@ const characterScenes = (
     })
     .sort((a, b) => b.scenes.length - a.scenes.length);
 
-const reverseCharacterNames = (
-  characterScenes: CharacterScene[]
-): CharacterScene[] => characterScenes.slice().reverse();
-
 // for each quote in character-data, split quote into chunk_size character chunks, making sure to keep full words
 const character_quotes = (
   character_data: CharacterData[],
@@ -313,8 +309,6 @@ export const getAllData = (init_data: any) => {
     init_characters,
     init_scene_data
   );
-  const init_reverseCharacterNames =
-    reverseCharacterNames(init_characterScenes);
   const init_character_quotes = character_quotes(
     init_character_data,
     init_characterScenes
@@ -344,7 +338,6 @@ export const getAllData = (init_data: any) => {
     location_chunks: init_location_chunks,
     characters: init_characters,
     characterScenes: init_characterScenes,
-    reverseCharacterNames: init_reverseCharacterNames,
     character_quotes: init_character_quotes,
     scenes: init_scenes,
     sceneLocations: init_sceneLocations,

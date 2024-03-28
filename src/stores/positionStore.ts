@@ -28,8 +28,7 @@ const init_pos_values = getAllPositions(
   init_data_values.sceneCharacters,
   init_data_values.location_quotes,
   init_data_values.sceneSummaries,
-  init_data_values.character_quotes,
-  init_data_values.reverseCharacterNames
+  init_data_values.character_quotes
 );
 
 // values that don't need to persist across sessions
@@ -65,8 +64,7 @@ interface IStore {
     sceneCharacters: SceneCharacter[],
     location_quotes: LocationQuote[],
     sceneSummaries: SceneSummary[],
-    character_quotes: CharacterQuote[],
-    reverseCharacterNames: CharacterScene[]
+    character_quotes: CharacterQuote[]
   ) => void;
 }
 
@@ -104,8 +102,7 @@ export const positionStore = create<IStore>((set) => ({
     sceneCharacters: SceneCharacter[],
     location_quotes: LocationQuote[],
     sceneSummaries: SceneSummary[],
-    character_quotes: CharacterQuote[],
-    reverseCharacterNames: CharacterScene[]
+    character_quotes: CharacterQuote[]
   ) => {
     const newPositions = getAllPositions(
       scene_data,
@@ -116,8 +113,7 @@ export const positionStore = create<IStore>((set) => ({
       sceneCharacters,
       location_quotes,
       sceneSummaries,
-      character_quotes,
-      reverseCharacterNames
+      character_quotes
     );
     set({
       sceneWidth: newPositions.sceneWidth,

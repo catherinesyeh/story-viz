@@ -2,6 +2,9 @@ import { create } from "zustand";
 
 // values that don't need to persist across sessions
 interface IStore {
+  story: string;
+  setStory: (val: string) => void;
+
   showConflict: boolean;
   setShowConflict: (val: boolean) => void;
   colorBy: string;
@@ -22,6 +25,7 @@ interface IStore {
 }
 
 const initialState = {
+  story: "gatsby",
   showConflict: false,
   colorBy: "default",
   sizeBy: "default",
@@ -35,6 +39,7 @@ const initialState = {
 
 export const storyStore = create<IStore>()((set) => ({
   ...initialState,
+  setStory: (val: string) => set({ story: val }),
   setShowConflict: (val: boolean) => set({ showConflict: val }),
   setColorBy: (val: string) => set({ colorBy: val }),
   setSizeBy: (val: string) => set({ sizeBy: val }),
