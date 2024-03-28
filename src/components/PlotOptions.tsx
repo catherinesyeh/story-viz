@@ -36,7 +36,7 @@ function PlotOptions() {
   const colorByOptions = ["conflict", "emotion", "importance", "default"];
   const characterColorOptions = ["default", "emotion", "importance"];
   const sizeByOptions = ["conflict", "importance", "default"];
-  const storyOptions = ["gatsby", "gatsby2"];
+  const storyOptions = ["gatsby", "alice"];
 
   const [story, setStory] = useState("gatsby");
 

@@ -61,7 +61,7 @@ function YAxis() {
             x={location_height}
             y={
               locationPos[i] +
-              (location_chunks[i].length - 1) * character_offset
+                (location_chunks[i].length - 1) * character_offset || 0
             }
             width={location_height * 0.75}
             height={location_height * 0.75}
@@ -72,7 +72,7 @@ function YAxis() {
               <text
                 className="location-name"
                 x={location_height * 1.75}
-                y={locationPos[i] + j * character_offset}
+                y={locationPos[i] + j * character_offset || 0}
                 key={"location" + i + j}
                 textAnchor="end"
               >
@@ -102,7 +102,7 @@ function YAxis() {
         {/* add label to arrow */}
         <text
           x={scenePos[0].x - 0.5 * location_offset}
-          y={lastCharacterYPos + 1.5 * character_offset}
+          y={lastCharacterYPos + 1.5 * character_offset || 0}
           textAnchor="end"
           className="conflict-label"
           transform={

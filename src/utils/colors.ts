@@ -1,18 +1,18 @@
 import * as d3 from "d3";
 
 // original colors
-const colors = [
-  "rgb(247, 113, 137, 1)",
-  "rgb(220, 137, 50, 1)",
-  "rgb(174, 157, 49, 1)",
-  "rgb(119, 171, 49, 1)",
-  "rgb(51, 176, 122, 1)",
-  "rgb(54, 173, 164, 1)",
-  "rgb(56, 169, 197, 1)",
-  "rgb(110, 155, 244, 1)",
-  "rgb(204, 122, 244, 1)",
-  "rgb(245, 101, 204, 1)",
-];
+// const colors = [
+//   "rgb(247, 113, 137, 1)",
+//   "rgb(220, 137, 50, 1)",
+//   "rgb(174, 157, 49, 1)",
+//   "rgb(119, 171, 49, 1)",
+//   "rgb(51, 176, 122, 1)",
+//   "rgb(54, 173, 164, 1)",
+//   "rgb(56, 169, 197, 1)",
+//   "rgb(110, 155, 244, 1)",
+//   "rgb(204, 122, 244, 1)",
+//   "rgb(245, 101, 204, 1)",
+// ];
 
 // Custom interpolator to exclude the middle, lighter part of the spectral scale
 function customSpectralInterpolator(t: any) {

@@ -265,183 +265,183 @@
             "quote": "'I wasn't asleep,' he said in a hoarse, feeble voice: 'I heard every word you fellows were saying.'",
             "rating": -0.5
           }
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "name": "The Queen's Croquet Ground",
+      "summary": "Alice is introduced to the Queen of Hearts and participates in a croquet game with living equipment.",
+      "location": "The Queen's Croquet Ground",
+      "firstLine": "The Queen! The Queen!",
+      "lastLine": "'Who are _you_?' said the Caterpillar.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 1,
+        "emotion": -1
+      },
+      "characters": [
+        {
+          "name": "Alice",
+          "importance": 1,
+          "emotion": {
+            "description": "Intimidated and curious",
+            "quote": "'It's—it's a very fine day!' said Alice.",
+            "rating": -0.3
+          }
         },
         {
-          "number": 8,
-          "name": "The Queen's Croquet Ground",
-          "summary": "Alice is introduced to the Queen of Hearts and participates in a croquet game with living equipment.",
-          "location": "The Queen's Croquet Ground",
-          "firstLine": "The Queen! The Queen!",
-          "lastLine": "'Who are _you_?' said the Caterpillar.",
-          "ratings": {
-            "importance": 1,
-            "conflict": 1,
-            "emotion": -1
-          },
-          "characters": [
-            {
-              "name": "Alice",
-              "importance": 1,
-              "emotion": {
-                "description": "Intimidated and curious",
-                "quote": "'It's—it's a very fine day!' said Alice.",
-                "rating": -0.3
-              }
-            },
-            {
-              "name": "The Queen of Hearts",
-              "importance": 1,
-              "emotion": {
-                "description": "Angry and authoritative",
-                "quote": "'Off with his head!'",
-                "rating": -1
-              }
-            },
-            {
-              "name": "The King of Hearts",
-              "importance": 0.6,
-              "emotion": {
-                "description": "Timid and conciliatory",
-                "quote": "'Consider, my dear: she is only a child!'",
-                "rating": 0.2
-              }
-            }
-          ]
+          "name": "The Queen of Hearts",
+          "importance": 1,
+          "emotion": {
+            "description": "Angry and authoritative",
+            "quote": "'Off with his head!'",
+            "rating": -1
+          }
         },
         {
-          "number": 9,
-          "name": "The Mock Turtle's Story",
-          "summary": "Alice meets the Mock Turtle and the Gryphon, who share stories about their education under the sea.",
-          "location": "The Queen's Croquet Ground",
-          "firstLine": "'Come on, then,' said the Queen, 'and he shall tell you his history,'",
-          "lastLine": "'That's the reason they're called lessons,' the Gryphon remarked: 'because they lessen from day to day.'",
-          "ratings": {
-            "importance": 0.7,
-            "conflict": 0.2,
-            "emotion": -0.3
-          },
-          "characters": [
-            {
-              "name": "Alice",
-              "importance": 1,
-              "emotion": {
-                "description": "Intrigued and compassionate",
-                "quote": "And how many hours a day did you do lessons?' said Alice, in a hurry to change the subject.",
-                "rating": 0.2
-              }
-            },
-            {
-              "name": "The Mock Turtle",
-              "importance": 0.9,
-              "emotion": {
-                "description": "Melancholic and nostalgic",
-                "quote": "'When we were little,' the Mock Turtle went on at last, more calmly, though still sobbing a little now and then, 'we went to school in the sea.'",
-                "rating": -0.7
-              }
-            },
-            {
-              "name": "The Gryphon",
-              "importance": 0.8,
-              "emotion": {
-                "description": "Amused and mocking",
-                "quote": "'That's the reason they're called lessons,' the Gryphon remarked: 'because they lessen from day to day.'",
-                "rating": 0.1
-              }
-            }
-          ]
+          "name": "The King of Hearts",
+          "importance": 0.6,
+          "emotion": {
+            "description": "Timid and conciliatory",
+            "quote": "'Consider, my dear: she is only a child!'",
+            "rating": 0.2
+          }
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "name": "The Mock Turtle's Story",
+      "summary": "Alice meets the Mock Turtle and the Gryphon, who share stories about their education under the sea.",
+      "location": "The Queen's Croquet Ground",
+      "firstLine": "'Come on, then,' said the Queen, 'and he shall tell you his history,'",
+      "lastLine": "'That's the reason they're called lessons,' the Gryphon remarked: 'because they lessen from day to day.'",
+      "ratings": {
+        "importance": 0.7,
+        "conflict": 0.2,
+        "emotion": -0.3
+      },
+      "characters": [
+        {
+          "name": "Alice",
+          "importance": 1,
+          "emotion": {
+            "description": "Intrigued and compassionate",
+            "quote": "And how many hours a day did you do lessons?' said Alice, in a hurry to change the subject.",
+            "rating": 0.2
+          }
         },
         {
-          "number": 10,
-          "name": "The Lobster Quadrille",
-          "summary": "The Mock Turtle and Gryphon perform a dance for Alice, leading into a whimsical explanation of a sea dance.",
-          "location": "Near The Queen's Croquet Ground",
-          "firstLine": "The Mock Turtle sighed deeply, and drew the back of one flapper across his eyes.",
-          "lastLine": "'Thank you, it's a very interesting dance to watch,' said Alice, feeling very glad that it was over at last.",
-          "ratings": {
-            "importance": 0.5,
-            "conflict": 0.1,
-            "emotion": 0.4
-          },
-          "characters": [
-            {
-              "name": "Alice",
-              "importance": 1,
-              "emotion": {
-                "description": "Polite and slightly bored",
-                "quote": "'Thank you, it's a very interesting dance to watch,' said Alice, feeling very glad that it was over at last.",
-                "rating": 0.3
-              }
-            },
-            {
-              "name": "The Mock Turtle",
-              "importance": 0.8,
-              "emotion": {
-                "description": "Proud and nostalgic",
-                "quote": "'You may not have lived much under the sea—' ('I haven't,' said Alice)—'and perhaps you were never even introduced to a lobster—' (Alice began to say 'I once tasted—' but checked herself hastily).",
-                "rating": 0.5
-              }
-            },
-            {
-              "name": "The Gryphon",
-              "importance": 0.8,
-              "emotion": {
-                "description": "Energetic and encouraging",
-                "quote": "'Will you, won't you, will you, won't you, will you join the dance?'",
-                "rating": 0.6
-              }
-            }
-          ]
+          "name": "The Mock Turtle",
+          "importance": 0.9,
+          "emotion": {
+            "description": "Melancholic and nostalgic",
+            "quote": "'When we were little,' the Mock Turtle went on at last, more calmly, though still sobbing a little now and then, 'we went to school in the sea.'",
+            "rating": -0.7
+          }
         },
         {
-          "number": 11,
-          "name": "Who Stole the Tarts?",
-          "summary": "Alice attends a trial where the Knave of Hearts is accused of stealing the Queen's tarts.",
-          "location": "The Queen's Croquet Ground",
-          "firstLine": "The King and Queen of Hearts were seated on their throne when they arrived, with a great crowd assembled about them.",
-          "lastLine": "'Call the first witness,' said the King; and the White Rabbit blew three blasts on the trumpet.",
-          "ratings": {
-            "importance": 1,
-            "conflict": 1,
-            "emotion": -0.5
-          },
-          "characters": [
-            {
-              "name": "Alice",
-              "importance": 1,
-              "emotion": {
-                "description": "Curious and critical",
-                "quote": "Alice had never been in a court of justice before, but she had read about them in books, and she was quite pleased to find that she knew the name of nearly everything there.",
-                "rating": 0.1
-              }
-            },
-            {
-              "name": "The Queen of Hearts",
-              "importance": 0.9,
-              "emotion": {
-                "description": "Irate and accusatory",
-                "quote": "'Silence!' screamed the Queen. 'Off with his head! Off—'",
-                "rating": -1
-              }
-            },
-            {
-              "name": "The King of Hearts",
-              "importance": 0.7,
-              "emotion": {
-                "description": "Bumbling and formal",
-                "quote": "'—and just take his head off outside,' the Queen added to one of the officers: but the White Rabbit interrupted, 'Unimportant, your Majesty means, of course,' he said in a very respectful tone, but frowning and making faces at him as he spoke.'",
-                "rating": -0.2
-              }
-            },
-            {
-              "name": "The Knave of Hearts",
-              "importance": 0.8,
-              "emotion": {
-                "description": "Nervous and falsely accused",
-                "quote": "The Knave shook his head sadly. 'Do I look like it?' he said. (Which he certainly did NOT, being made entirely of cardboard.)",
-                "rating": -0.7
-              }
-            }
-          ]
+          "name": "The Gryphon",
+          "importance": 0.8,
+          "emotion": {
+            "description": "Amused and mocking",
+            "quote": "'That's the reason they're called lessons,' the Gryphon remarked: 'because they lessen from day to day.'",
+            "rating": 0.1
+          }
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "name": "The Lobster Quadrille",
+      "summary": "The Mock Turtle and Gryphon perform a dance for Alice, leading into a whimsical explanation of a sea dance.",
+      "location": "Near The Queen's Croquet Ground",
+      "firstLine": "The Mock Turtle sighed deeply, and drew the back of one flapper across his eyes.",
+      "lastLine": "'Thank you, it's a very interesting dance to watch,' said Alice, feeling very glad that it was over at last.",
+      "ratings": {
+        "importance": 0.5,
+        "conflict": 0.1,
+        "emotion": 0.4
+      },
+      "characters": [
+        {
+          "name": "Alice",
+          "importance": 1,
+          "emotion": {
+            "description": "Polite and slightly bored",
+            "quote": "'Thank you, it's a very interesting dance to watch,' said Alice, feeling very glad that it was over at last.",
+            "rating": 0.3
+          }
+        },
+        {
+          "name": "The Mock Turtle",
+          "importance": 0.8,
+          "emotion": {
+            "description": "Proud and nostalgic",
+            "quote": "'You may not have lived much under the sea—' ('I haven't,' said Alice)—'and perhaps you were never even introduced to a lobster—' (Alice began to say 'I once tasted—' but checked herself hastily).",
+            "rating": 0.5
+          }
+        },
+        {
+          "name": "The Gryphon",
+          "importance": 0.8,
+          "emotion": {
+            "description": "Energetic and encouraging",
+            "quote": "'Will you, won't you, will you, won't you, will you join the dance?'",
+            "rating": 0.6
+          }
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "name": "Who Stole the Tarts?",
+      "summary": "Alice attends a trial where the Knave of Hearts is accused of stealing the Queen's tarts.",
+      "location": "The Queen's Croquet Ground",
+      "firstLine": "The King and Queen of Hearts were seated on their throne when they arrived, with a great crowd assembled about them.",
+      "lastLine": "'Call the first witness,' said the King; and the White Rabbit blew three blasts on the trumpet.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 1,
+        "emotion": -0.5
+      },
+      "characters": [
+        {
+          "name": "Alice",
+          "importance": 1,
+          "emotion": {
+            "description": "Curious and critical",
+            "quote": "Alice had never been in a court of justice before, but she had read about them in books, and she was quite pleased to find that she knew the name of nearly everything there.",
+            "rating": 0.1
+          }
+        },
+        {
+          "name": "The Queen of Hearts",
+          "importance": 0.9,
+          "emotion": {
+            "description": "Irate and accusatory",
+            "quote": "'Silence!' screamed the Queen. 'Off with his head! Off—'",
+            "rating": -1
+          }
+        },
+        {
+          "name": "The King of Hearts",
+          "importance": 0.7,
+          "emotion": {
+            "description": "Bumbling and formal",
+            "quote": "'—and just take his head off outside,' the Queen added to one of the officers: but the White Rabbit interrupted, 'Unimportant, your Majesty means, of course,' he said in a very respectful tone, but frowning and making faces at him as he spoke.'",
+            "rating": -0.2
+          }
+        },
+        {
+          "name": "The Knave of Hearts",
+          "importance": 0.8,
+          "emotion": {
+            "description": "Nervous and falsely accused",
+            "quote": "The Knave shook his head sadly. 'Do I look like it?' he said. (Which he certainly did NOT, being made entirely of cardboard.)",
+            "rating": -0.7
+          }
         }
       ]
     },
