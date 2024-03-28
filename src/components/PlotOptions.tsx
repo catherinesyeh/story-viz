@@ -1,5 +1,5 @@
 import { Switch, Select, Divider } from "@mantine/core";
-import { storyStore } from "../stores/store";
+import { storyStore } from "../stores/storyStore";
 import { dataStore } from "../stores/dataStore";
 import { useEffect, useState } from "react";
 import { positionStore } from "../stores/positionStore";
@@ -41,11 +41,15 @@ function PlotOptions() {
   const [story, setStory] = useState("gatsby");
 
   const handleStoryChange = async (story: string) => {
-    // change story
-    setStory(story);
-    const new_data = await import(`../data/${story}.json`);
-    // update data once story is loaded
-    setData(new_data.default);
+    try {
+      // change story
+      setStory(story);
+      const new_data = await import(`../data/${story}.json`);
+      // update data once story is loaded
+      setData(new_data.default);
+    } catch (error) {
+      console.log("Error loading story data", error);
+    }
   };
 
   useEffect(() => {
@@ -53,21 +57,22 @@ function PlotOptions() {
   }, [story]);
 
   useEffect(() => {
-    //  update positions if data changes
-    setPositions(
-      plot_width,
-      plot_height,
-      scene_data,
-      scenes,
-      locations,
-      characterScenes,
-      sceneLocations,
-      sceneCharacters,
-      location_quotes,
-      sceneSummaries,
-      character_quotes,
-      reverseCharacterNames
-    );
+    if (data) {
+      setPositions(
+        plot_width,
+        plot_height,
+        scene_data,
+        scenes,
+        locations,
+        characterScenes,
+        sceneLocations,
+        sceneCharacters,
+        location_quotes,
+        sceneSummaries,
+        character_quotes,
+        reverseCharacterNames
+      );
+    }
   }, [data]);
 
   return (

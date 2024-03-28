@@ -1,4 +1,4 @@
-import { storyStore } from "../stores/store";
+import { storyStore } from "../stores/storyStore";
 import { characterColor, color_dict } from "../utils/colors";
 import { character_height, character_offset } from "../utils/consts";
 import { dataStore } from "../stores/dataStore";
@@ -39,38 +39,41 @@ function Legend() {
           strokeWidth={2}
           opacity={0.8}
         />
-        {reverseCharacterNames.map((character, i) => (
-          <g
-            key={"legendbox" + i}
-            transform={`translate(${legendPos[i].x}, ${legendPos[i].y})`}
-            className={
-              "legend-item " +
-              (hidden.includes(character.character) ? "faded" : "")
-            }
-            onClick={() => updateHidden(character.character)}
-            onMouseEnter={() => setCharacterHover(character.character)}
-            onMouseLeave={() => setCharacterHover("")}
-          >
-            <rect
-              x={0}
-              y={0}
-              width={character_height}
-              height={character_height}
-              fill={characterColor(
-                (reverseCharacterNames.length - 1 - i) /
-                  (reverseCharacterNames.length - 1)
-              )}
-            />
-            <text
-              x={character_offset}
-              y={character_height}
-              textAnchor="start"
-              className="legend-name"
-            >
-              {character.character}
-            </text>
-          </g>
-        ))}
+        {reverseCharacterNames.map(
+          (character, i) =>
+            legendPos[i] && (
+              <g
+                key={"legendbox" + i}
+                transform={`translate(${legendPos[i].x}, ${legendPos[i].y})`}
+                className={
+                  "legend-item " +
+                  (hidden.includes(character.character) ? "faded" : "")
+                }
+                onClick={() => updateHidden(character.character)}
+                onMouseEnter={() => setCharacterHover(character.character)}
+                onMouseLeave={() => setCharacterHover("")}
+              >
+                <rect
+                  x={0}
+                  y={0}
+                  width={character_height}
+                  height={character_height}
+                  fill={characterColor(
+                    (reverseCharacterNames.length - 1 - i) /
+                      (reverseCharacterNames.length - 1)
+                  )}
+                />
+                <text
+                  x={character_offset}
+                  y={character_height}
+                  textAnchor="start"
+                  className="legend-name"
+                >
+                  {character.character}
+                </text>
+              </g>
+            )
+        )}
         {/* <text
           x={legend_box_pos.x + legend_box_pos.width}
           y={legend_box_pos.y + legend_box_pos.height + 2 * character_height}

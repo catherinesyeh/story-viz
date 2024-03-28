@@ -1,4 +1,4 @@
-import { storyStore } from "../stores/store";
+import { storyStore } from "../stores/storyStore";
 import { dataStore } from "../stores/dataStore";
 import {
   location_height,

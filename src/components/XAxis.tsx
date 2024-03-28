@@ -1,4 +1,4 @@
-import { storyStore } from "../stores/store";
+import { storyStore } from "../stores/storyStore";
 import { dataStore } from "../stores/dataStore";
 import { character_offset, location_offset } from "../utils/consts";
 import { conflictColor, emotionColor, importanceColor } from "../utils/colors";
@@ -63,26 +63,28 @@ function XAxis() {
                   ? conflictColor(normalizeRating(ratings.conflict))
                   : importanceColor(ratings.importance);
               return (
-                <text
-                  x={scenePos[i].x + j * character_offset * textOffset}
-                  y={scenePos[i].y}
-                  textAnchor="end"
-                  key={"scene" + i + j}
-                  fill={color}
-                  className="scene-name-text"
-                  fontSize={"calc(" + fontSize + "rem + 0.1vw)"}
-                  transform={
-                    "rotate(-45," +
-                    (scenePos[i].x + j * character_offset * textOffset) +
-                    ", " +
-                    scenePos[i].y +
-                    ")"
-                  }
-                  onMouseEnter={() => setSceneHover(scene)}
-                  onMouseLeave={() => setSceneHover("")}
-                >
-                  {chunk}
-                </text>
+                scenePos[i] && (
+                  <text
+                    x={scenePos[i].x + j * character_offset * textOffset}
+                    y={scenePos[i].y}
+                    textAnchor="end"
+                    key={"scene" + i + j}
+                    fill={color}
+                    className="scene-name-text"
+                    fontSize={"calc(" + fontSize + "rem + 0.1vw)"}
+                    transform={
+                      "rotate(-45," +
+                      (scenePos[i].x + j * character_offset * textOffset) +
+                      ", " +
+                      scenePos[i].y +
+                      ")"
+                    }
+                    onMouseEnter={() => setSceneHover(scene)}
+                    onMouseLeave={() => setSceneHover("")}
+                  >
+                    {chunk}
+                  </text>
+                )
               );
             })}
           </g>

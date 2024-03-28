@@ -1,4 +1,4 @@
-import { storyStore } from "../stores/store";
+import { storyStore } from "../stores/storyStore";
 import { dataStore } from "../stores/dataStore";
 import { characterColor, emotionColor, importanceColor } from "../utils/colors";
 import { character_height } from "../utils/consts";
@@ -28,26 +28,29 @@ function MainPlot() {
     <g id="main-plot">
       {/* white boxes behind each scene */}
       <g id="scene-box-fills">
-        {sceneCharacters.map((scene, i) => (
-          <rect
-            className={
-              "scene-box-fill " +
-              (showConflict &&
-              (locationHover === sceneLocations[i] ||
-                sceneHover === scene.scene ||
-                scene.characters.includes(characterHover))
-                ? "highlight"
-                : "")
-            }
-            x={sceneBoxes[i].x}
-            y={sceneBoxes[i].y}
-            width={sceneBoxes[i].width}
-            height={sceneBoxes[i].height}
-            fillOpacity={0}
-            fill="white"
-            key={"scenegroup fill" + i}
-          />
-        ))}
+        {sceneCharacters.map(
+          (scene, i) =>
+            sceneBoxes[i] && (
+              <rect
+                className={
+                  "scene-box-fill " +
+                  (showConflict &&
+                  (locationHover === sceneLocations[i] ||
+                    sceneHover === scene.scene ||
+                    scene.characters.includes(characterHover))
+                    ? "highlight"
+                    : "")
+                }
+                x={sceneBoxes[i].x}
+                y={sceneBoxes[i].y}
+                width={sceneBoxes[i].width}
+                height={sceneBoxes[i].height}
+                fillOpacity={0}
+                fill="white"
+                key={"scenegroup fill" + i}
+              />
+            )
+        )}
       </g>
       {/* add characters to each scene */}
       <g id="character-paths">
@@ -79,54 +82,60 @@ function MainPlot() {
                     : "")
                 }
               >
-                {characterPaths[i].map((path, j) => (
-                  <path
-                    d={path}
-                    fill="none"
-                    stroke={"url(#linear" + i + ")"}
-                    key={"charpath" + j}
-                    strokeWidth={2}
-                    onMouseEnter={() => setCharacterHover(character.character)}
-                    onMouseLeave={() => setCharacterHover("")}
-                  />
-                ))}
+                {characterPaths[i] &&
+                  characterPaths[i].map((path, j) => (
+                    <path
+                      d={path}
+                      fill="none"
+                      stroke={"url(#linear" + i + ")"}
+                      key={"charpath" + j}
+                      strokeWidth={2}
+                      onMouseEnter={() =>
+                        setCharacterHover(character.character)
+                      }
+                      onMouseLeave={() => setCharacterHover("")}
+                    />
+                  ))}
               </g>
               {/* add squares at each scene the character appears in */}
               <g className="character-squares">
-                {character.scenes.map((scene, j) => {
-                  const char_data = scene_data[scene].characters.find(
-                    (c) => c.name === character.character
-                  ) as any;
-                  const emotion_val = char_data.emotion.rating;
-                  const importance_val = char_data.importance;
-                  const emotion_color = emotionColor(emotion_val);
-                  const importance_color = importanceColor(importance_val);
+                {characterSquares[i] &&
+                  character.scenes.map((scene, j) => {
+                    const char_data = scene_data[scene].characters.find(
+                      (c) => c.name === character.character
+                    ) as any;
+                    const emotion_val = char_data.emotion.rating;
+                    const importance_val = char_data.importance;
+                    const emotion_color = emotionColor(emotion_val);
+                    const importance_color = importanceColor(importance_val);
 
-                  return (
-                    <rect
-                      x={characterSquares[i][j].x}
-                      y={characterSquares[i][j].y}
-                      width={characterSquares[i][j].width}
-                      height={characterSquares[i][j].height}
-                      fill={
-                        characterColorBy === "default"
-                          ? characterColor(i / (characterScenes.length - 1))
-                          : characterColorBy === "emotion"
-                          ? emotion_color
-                          : importance_color
-                      }
-                      key={"charsq" + j}
-                      className={
-                        "character-square " +
-                        ((locationHover === "" && sceneHover === "") ||
-                        locationHover === sceneLocations[scene] ||
-                        scenes.indexOf(sceneHover) === scene
-                          ? ""
-                          : "faded")
-                      }
-                    />
-                  );
-                })}
+                    return (
+                      characterSquares[i][j] && (
+                        <rect
+                          x={characterSquares[i][j].x}
+                          y={characterSquares[i][j].y}
+                          width={characterSquares[i][j].width}
+                          height={characterSquares[i][j].height}
+                          fill={
+                            characterColorBy === "default"
+                              ? characterColor(i / (characterScenes.length - 1))
+                              : characterColorBy === "emotion"
+                              ? emotion_color
+                              : importance_color
+                          }
+                          key={"charsq" + j}
+                          className={
+                            "character-square " +
+                            ((locationHover === "" && sceneHover === "") ||
+                            locationHover === sceneLocations[scene] ||
+                            scenes.indexOf(sceneHover) === scene
+                              ? ""
+                              : "faded")
+                          }
+                        />
+                      )
+                    );
+                  })}
               </g>
               {/* add white rect behind character name */}
               <g
@@ -143,26 +152,28 @@ function MainPlot() {
                 onMouseLeave={() => setCharacterHover("")}
               >
                 {/* add character name to the first scene they show up in */}
-                <text
-                  x={
-                    firstScene === 0
-                      ? characterPos[i][0].x + 1.5 * character_height
-                      : characterPos[i][0].x - character_height / 2
-                  }
-                  y={
-                    firstScene === 0
-                      ? characterPos[i][0].y + 0.9 * character_height
-                      : characterPos[i][0].y + 0.8 * character_height
-                  }
-                  textAnchor={firstScene === 0 ? "start" : "end"}
-                  fill={characterColor(i / (characterScenes.length - 1))}
-                  paintOrder="stroke"
-                  stroke="rgb(255,255,255,0.8)"
-                  strokeWidth={4}
-                  className="character-name"
-                >
-                  {character.character}
-                </text>
+                {characterPos[i] && (
+                  <text
+                    x={
+                      firstScene === 0
+                        ? characterPos[i][0].x + 1.5 * character_height
+                        : characterPos[i][0].x - character_height / 2
+                    }
+                    y={
+                      firstScene === 0
+                        ? characterPos[i][0].y + 0.9 * character_height
+                        : characterPos[i][0].y + 0.8 * character_height
+                    }
+                    textAnchor={firstScene === 0 ? "start" : "end"}
+                    fill={characterColor(i / (characterScenes.length - 1))}
+                    paintOrder="stroke"
+                    stroke="rgb(255,255,255,0.8)"
+                    strokeWidth={4}
+                    className="character-name"
+                  >
+                    {character.character}
+                  </text>
+                )}
               </g>
             </g>
           );
@@ -170,29 +181,32 @@ function MainPlot() {
       </g>
       {/* add box outline for characters in each scene */}
       <g id="scene-boxes">
-        {sceneCharacters.map((scene, i) => (
-          <rect
-            className={
-              "scene-box " +
-              (locationHover === sceneLocations[i] ||
-              sceneHover === scene.scene ||
-              scene.characters.includes(characterHover)
-                ? "highlight"
-                : "")
-            }
-            x={sceneBoxes[i].x}
-            y={sceneBoxes[i].y}
-            width={sceneBoxes[i].width}
-            height={sceneBoxes[i].height}
-            fillOpacity={0}
-            strokeOpacity={0}
-            stroke={"rgb(0,0,0,0.7)"}
-            strokeWidth={2}
-            key={"scenegroup" + i}
-            onMouseEnter={() => setSceneHover(scene.scene)}
-            onMouseLeave={() => setSceneHover("")}
-          />
-        ))}
+        {sceneCharacters.map(
+          (scene, i) =>
+            sceneBoxes[i] && (
+              <rect
+                className={
+                  "scene-box " +
+                  (locationHover === sceneLocations[i] ||
+                  sceneHover === scene.scene ||
+                  scene.characters.includes(characterHover)
+                    ? "highlight"
+                    : "")
+                }
+                x={sceneBoxes[i].x}
+                y={sceneBoxes[i].y}
+                width={sceneBoxes[i].width}
+                height={sceneBoxes[i].height}
+                fillOpacity={0}
+                strokeOpacity={0}
+                stroke={"rgb(0,0,0,0.7)"}
+                strokeWidth={2}
+                key={"scenegroup" + i}
+                onMouseEnter={() => setSceneHover(scene.scene)}
+                onMouseLeave={() => setSceneHover("")}
+              />
+            )
+        )}
       </g>
     </g>
   );
