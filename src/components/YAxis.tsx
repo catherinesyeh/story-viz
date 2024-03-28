@@ -21,8 +21,16 @@ function YAxis() {
     characterScenes,
     locations,
     location_chunks,
+    sceneCharacters,
   } = dataStore();
-  const { locationPos, scenePos } = positionStore();
+  const { locationPos, scenePos, characterPos } = positionStore();
+  const charactersInFirstScene = sceneCharacters[0].characters;
+  const lastCharacter =
+    charactersInFirstScene[charactersInFirstScene.length - 1];
+  const lastCharacterIndex = characterScenes.findIndex(
+    (char) => char.character === lastCharacter
+  );
+  const lastCharacterYPos = characterPos[lastCharacterIndex][0].y;
   return (
     <g id="y-axis">
       {/* add locations to y axis */}
@@ -89,19 +97,19 @@ function YAxis() {
           stroke="black"
           d={`M${scenePos[0].x},${scenePos[0].y - 0.75 * location_offset}, ${
             scenePos[0].x
-          },${locationPos[0] + 2}`}
+          },${lastCharacterYPos + 1.5 * character_offset}`}
         />
         {/* add label to arrow */}
         <text
           x={scenePos[0].x - 0.5 * location_offset}
-          y={locationPos[0] + character_offset}
+          y={lastCharacterYPos + 1.5 * character_offset}
           textAnchor="end"
           className="conflict-label"
           transform={
             "rotate(-90," +
             (scenePos[0].x - 0.5 * location_offset) +
             ", " +
-            (locationPos[0] + character_offset) +
+            (lastCharacterYPos + 1.5 * character_offset) +
             ")"
           }
         >

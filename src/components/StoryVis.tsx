@@ -18,9 +18,9 @@ function StoryVis() {
     >
       <Defs />
       <ConflictCurve />
-      <MainPlot />
       <YAxis />
       <XAxis />
+      <MainPlot />
       <OverlayInfo />
       <Legend />
     </svg>

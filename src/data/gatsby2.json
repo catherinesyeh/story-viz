@@ -23,6 +23,15 @@
             "quote": "I've been turning over in my mind ever since.",
             "rating": 0.3
           }
+        },
+        {
+          "name": "Myrtle Wilson",
+          "importance": 1,
+          "emotion": {
+            "description": "Eager and ambitious",
+            "quote": "I want to get one of those dogs, she said earnestly.",
+            "rating": 0.5
+          }
         }
       ]
     },
@@ -167,15 +176,6 @@
             "description": "Dominant and possessive",
             "quote": "We're getting off, he insisted. I want you to meet my girl.",
             "rating": -0.8
-          }
-        },
-        {
-          "name": "Myrtle Wilson",
-          "importance": 1,
-          "emotion": {
-            "description": "Eager and ambitious",
-            "quote": "I want to get one of those dogs, she said earnestly.",
-            "rating": 0.5
           }
         },
         {
