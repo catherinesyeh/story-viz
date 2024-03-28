@@ -1,13 +1,13 @@
 import { storyStore } from "../stores/store";
 import { dataStore } from "../stores/dataStore";
 import { character_offset, location_offset } from "../utils/consts";
-import { scenePos } from "../utils/positions";
 import { conflictColor, emotionColor, importanceColor } from "../utils/colors";
 import {
   normalizeFontSize,
   normalizeRating,
   normalizeTextOffset,
 } from "../utils/helpers";
+import { positionStore } from "../stores/positionStore";
 
 function XAxis() {
   const { scenes, sceneLocations, sceneCharacters, scene_data, sceneChunks } =
@@ -20,6 +20,7 @@ function XAxis() {
     sizeBy,
     colorBy,
   } = storyStore();
+  const { scenePos } = positionStore();
   return (
     <g id="x-axis">
       {/* add scene names to x axis */}

@@ -5,7 +5,7 @@ import {
   character_offset,
   location_offset,
 } from "../utils/consts";
-import { locationPos, scenePos } from "../utils/positions";
+import { positionStore } from "../stores/positionStore";
 
 function YAxis() {
   const {
@@ -22,6 +22,7 @@ function YAxis() {
     locations,
     location_chunks,
   } = dataStore();
+  const { locationPos, scenePos } = positionStore();
   return (
     <g id="y-axis">
       {/* add locations to y axis */}

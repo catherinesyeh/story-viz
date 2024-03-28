@@ -2,10 +2,11 @@ import { storyStore } from "../stores/store";
 import { colors, color_dict } from "../utils/colors";
 import { character_height, character_offset } from "../utils/consts";
 import { dataStore } from "../stores/dataStore";
-import { legend_box_pos, legendPos, color_bar_pos } from "../utils/positions";
+import { positionStore } from "../stores/positionStore";
 
 function Legend() {
   const { reverseCharacterNames } = dataStore();
+  const { legendBoxPos, legendPos, colorBarPos } = positionStore();
   const {
     setCharacterHover,
     sceneHover,
@@ -28,10 +29,10 @@ function Legend() {
       <g id="legend">
         {/* draw legend box */}
         <rect
-          x={legend_box_pos.x}
-          y={legend_box_pos.y}
-          width={legend_box_pos.width}
-          height={legend_box_pos.height}
+          x={legendBoxPos.x}
+          y={legendBoxPos.y}
+          width={legendBoxPos.width}
+          height={legendBoxPos.height}
           fill="white"
           // fillOpacity={0}
           stroke="#eee"
@@ -92,8 +93,8 @@ function Legend() {
             opacity={0}
           >
             <text
-              x={color_bar_pos[i].x - 0.75 * character_offset}
-              y={color_bar_pos[i].y + character_height}
+              x={colorBarPos[i].x - 0.75 * character_offset}
+              y={colorBarPos[i].y + character_height}
               textAnchor="end"
               fill="black"
               className="legend-label"
@@ -102,26 +103,26 @@ function Legend() {
             </text>
             <rect
               id="legend-bar"
-              x={color_bar_pos[i].x}
-              y={color_bar_pos[i].y}
-              width={color_bar_pos[i].width}
-              height={color_bar_pos[i].height}
+              x={colorBarPos[i].x}
+              y={colorBarPos[i].y}
+              width={colorBarPos[i].width}
+              height={colorBarPos[i].height}
               fill={"url(#legend" + scale + ")"}
             />
             <text
-              x={color_bar_pos[i].x + color_bar_pos[i].width / 2}
-              y={color_bar_pos[i].y + 2.4 * character_height}
+              x={colorBarPos[i].x + colorBarPos[i].width / 2}
+              y={colorBarPos[i].y + 2.4 * character_height}
               textAnchor="middle"
             >
               {scale}
             </text>
             <text
               x={
-                color_bar_pos[i].x +
-                color_bar_pos[i].width +
+                colorBarPos[i].x +
+                colorBarPos[i].width +
                 0.75 * character_offset
               }
-              y={color_bar_pos[i].y + character_height}
+              y={colorBarPos[i].y + character_height}
               textAnchor="start"
               fill="black"
               className="legend-label"

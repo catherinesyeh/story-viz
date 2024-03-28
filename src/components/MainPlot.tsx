@@ -1,13 +1,8 @@
 import { storyStore } from "../stores/store";
 import { dataStore } from "../stores/dataStore";
 import { colors, emotionColor, importanceColor } from "../utils/colors";
-import {
-  sceneBoxes,
-  characterPaths,
-  characterPos,
-  characterSquares,
-} from "../utils/positions";
 import { character_height } from "../utils/consts";
+import { positionStore } from "../stores/positionStore";
 
 function MainPlot() {
   const {
@@ -20,6 +15,8 @@ function MainPlot() {
     characterColor,
     hidden,
   } = storyStore();
+  const { sceneBoxes, characterPaths, characterPos, characterSquares } =
+    positionStore();
   const {
     scene_data,
     sceneCharacters,

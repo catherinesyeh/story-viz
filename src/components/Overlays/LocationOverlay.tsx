@@ -1,14 +1,12 @@
 import { storyStore } from "../../stores/store";
 import { character_offset } from "../../utils/consts";
 import { dataStore } from "../../stores/dataStore";
-import {
-  location_quote_boxes,
-  location_quote_texts,
-} from "../../utils/positions";
+import { positionStore } from "../../stores/positionStore";
 
 function LocationOverlay() {
   const { locationHover } = storyStore();
   const { locations, location_quotes } = dataStore();
+  const { locationQuoteBoxes, locationQuoteTexts } = positionStore();
   return (
     <g id="location-quotes">
       {/* add box with quote from each location */}
@@ -22,18 +20,18 @@ function LocationOverlay() {
           strokeOpacity={0}
         >
           <rect
-            x={location_quote_boxes[i].x}
-            y={location_quote_boxes[i].y}
-            width={location_quote_boxes[i].width}
-            height={location_quote_boxes[i].height}
+            x={locationQuoteBoxes[i].x}
+            y={locationQuoteBoxes[i].y}
+            width={locationQuoteBoxes[i].width}
+            height={locationQuoteBoxes[i].height}
             fill="white"
             strokeWidth={2}
             stroke="#eee"
             opacity={0.8}
           />
           <text
-            x={location_quote_texts[i][0].x}
-            y={location_quote_texts[i][0].y - 1.2 * character_offset}
+            x={locationQuoteTexts[i][0].x}
+            y={locationQuoteTexts[i][0].y - 1.2 * character_offset}
             textAnchor="start"
             className="quote-text bold"
           >
@@ -42,8 +40,8 @@ function LocationOverlay() {
           {location_quotes[i].quote.map((quote, j) => (
             <text
               key={"location quote" + i + j}
-              x={location_quote_texts[i][j].x}
-              y={location_quote_texts[i][j].y}
+              x={locationQuoteTexts[i][j].x}
+              y={locationQuoteTexts[i][j].y}
               textAnchor="start"
               className="quote-text"
             >

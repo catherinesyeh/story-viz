@@ -5,12 +5,13 @@ import {
   character_offset,
   character_height,
 } from "../utils/consts";
-import { conflictPath, scenePos } from "../utils/positions";
 import { dataStore } from "../stores/dataStore";
+import { positionStore } from "../stores/positionStore";
 
 function ConflictCurve() {
   const { showConflict, sceneHover, locationHover, characterHover, colorBy } =
     storyStore();
+  const { conflictPath, scenePos } = positionStore();
   const { scenes } = dataStore();
   return (
     <g id="conflict-container">

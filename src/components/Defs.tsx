@@ -9,11 +9,12 @@ import {
 import { scene_width } from "../utils/consts";
 import { dataStore } from "../stores/dataStore";
 import { normalizeRating } from "../utils/helpers";
-import { scenePos } from "../utils/positions";
 import { RatingDict } from "../utils/data";
+import { positionStore } from "../stores/positionStore";
 
 function Defs() {
   const { sceneHover } = storyStore();
+  const { scenePos } = positionStore();
   const { characterScenes, ratingDict, scenes } = dataStore();
   return (
     <defs>

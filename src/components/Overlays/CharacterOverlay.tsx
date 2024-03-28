@@ -2,14 +2,12 @@ import { storyStore } from "../../stores/store";
 import { colors } from "../../utils/colors";
 import { character_offset, location_height } from "../../utils/consts";
 import { dataStore } from "../../stores/dataStore";
-import {
-  character_quote_boxes,
-  character_quote_texts,
-} from "../../utils/positions";
+import { positionStore } from "../../stores/positionStore";
 
 function CharacterOverlay() {
   const { characterHover } = storyStore();
   const { characterScenes, character_quotes } = dataStore();
+  const { characterQuoteBoxes, characterQuoteTexts } = positionStore();
   return (
     <g id="character-quotes">
       {/* add box with quote from each character */}
@@ -25,21 +23,21 @@ function CharacterOverlay() {
         >
           <g>
             <rect
-              x={character_quote_boxes[i].x}
-              y={character_quote_boxes[i].y}
-              width={character_quote_boxes[i].width}
-              height={character_quote_boxes[i].height}
+              x={characterQuoteBoxes[i].x}
+              y={characterQuoteBoxes[i].y}
+              width={characterQuoteBoxes[i].width}
+              height={characterQuoteBoxes[i].height}
               fill="white"
               strokeWidth={2}
               stroke={colors[i]}
               opacity={0.8}
             />
             <text
-              x={character_quote_texts[i][0].x}
+              x={characterQuoteTexts[i][0].x}
               y={
-                character_quote_texts[i][0].y -
+                characterQuoteTexts[i][0].y -
                 1.2 * character_offset +
-                +(character_quote_texts[i].length < 2
+                +(characterQuoteTexts[i].length < 2
                   ? 0.5 * character_offset
                   : 0)
               }
@@ -52,10 +50,10 @@ function CharacterOverlay() {
             {character_quotes[i].quote.map((quote, j) => (
               <text
                 key={"character quote" + i + j}
-                x={character_quote_texts[i][j].x}
+                x={characterQuoteTexts[i][j].x}
                 y={
-                  character_quote_texts[i][j].y +
-                  (character_quote_texts[i].length < 2
+                  characterQuoteTexts[i][j].y +
+                  (characterQuoteTexts[i].length < 2
                     ? 0.5 * character_offset
                     : 0)
                 }
@@ -68,13 +66,13 @@ function CharacterOverlay() {
           </g>
           <image
             className="character-image"
-            x={character_quote_texts[i][0].x - 0.6 * location_height}
+            x={characterQuoteTexts[i][0].x - 0.6 * location_height}
             y={
-              character_quote_texts[i][0].y -
+              characterQuoteTexts[i][0].y -
               2 * character_offset +
-              (character_quote_texts[i].length <= 2
+              (characterQuoteTexts[i].length <= 2
                 ? 0
-                : character_quote_boxes[i].height / 2 - 2.5 * character_offset)
+                : characterQuoteBoxes[i].height / 2 - 2.5 * character_offset)
             }
             width={location_height * 0.5}
             height={location_height * 0.5}

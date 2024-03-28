@@ -16,7 +16,7 @@ import {
   SceneSummaryBox,
   SceneSummaryText,
   getAllPositions,
-} from "../utils/positions2";
+} from "../utils/positions";
 
 /* INITIAL VALUES */
 const init_data_values = getAllData(init_data);
