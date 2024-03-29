@@ -12,7 +12,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
   gap: 20px;
 
   #options {
@@ -65,7 +65,9 @@ header {
 h1 {
   margin: 0;
   font-size: calc(1.2rem + 0.8vw);
-  // font-style: italic;
+  font-family: "PT Serif";
+  font-style: italic;
+  font-weight: 700;
   // text-transform: lowercase;
   letter-spacing: 0.4px;
 }

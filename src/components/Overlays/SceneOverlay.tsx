@@ -15,6 +15,7 @@ function SceneOverlay() {
   const { sceneHover } = storyStore();
   const { scene_data, characterScenes, sceneSummaries } = dataStore();
   const { sceneSummaryBoxes, sceneSummaryTexts } = positionStore();
+
   return (
     <g id="scene-info">
       {/* add box with info about each scene */}
@@ -31,9 +32,9 @@ function SceneOverlay() {
               strokeOpacity={0}
             >
               <rect
-                x={sceneSummaryBoxes.x}
-                y={sceneSummaryBoxes.y}
-                width={sceneSummaryBoxes.width}
+                x={sceneSummaryBoxes[i].x}
+                y={sceneSummaryBoxes[i].y}
+                width={sceneSummaryBoxes[i].width}
                 height={sceneSummaryTexts[i].height}
                 fill="white"
                 strokeWidth={2}

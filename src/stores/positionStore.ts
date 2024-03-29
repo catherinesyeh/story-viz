@@ -49,7 +49,7 @@ interface IStore {
   locationQuoteTexts: Position[][];
   characterQuoteBoxes: Box[];
   characterQuoteTexts: Position[][];
-  sceneSummaryBoxes: SceneSummaryBox;
+  sceneSummaryBoxes: SceneSummaryBox[];
   sceneSummaryTexts: SceneSummaryText[];
   colorBarPos: Box[];
   conflictPoints: Position[];

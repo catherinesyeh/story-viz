@@ -538,7 +538,7 @@ const character_quote_texts = (
   });
 
 // scene quote box positions
-const scene_summary_boxes = (legendBoxPos: Box) => {
+const base_scene_summary_box = (legendBoxPos: Box) => {
   const width = scene_base * 8.25;
   return {
     x: legendBoxPos.x - width - 3 * character_height,
@@ -604,6 +604,85 @@ const scene_summary_texts = (
       height: height,
     };
   });
+
+// update scene summary box and text positions
+const update_scene_summaries = (
+  plotWidth: number,
+  scenePos: Position[],
+  baseBox: SceneSummaryBox,
+  sceneCharacters: SceneCharacter[],
+  characterPos: Position[][],
+  sceneSummaryTexts: SceneSummaryText[],
+  characterQuoteBoxes: Box[]
+) => {
+  // find scenes that will overlap with the scene overlay using scenePos, save their indices
+  const potentialOverlappingScenes = scenePos.reduce(
+    (acc: number[], pos, i) => {
+      if (pos.x > baseBox.x && pos.x < baseBox.x + baseBox.width) {
+        acc.push(i);
+      }
+      return acc;
+    },
+    []
+  );
+
+  // iterating over overlappingScenes, check if any character squares will overlap with the scene overlay using characterPos
+  const overlappingScenes = potentialOverlappingScenes.reduce(
+    (acc: number[], sceneIndex) => {
+      const characters = sceneCharacters[sceneIndex].characters;
+
+      // see if any characters' y pos will overlap with the scene overlay
+      characters.some((_, i) => {
+        const charPos = characterPos[i][sceneIndex];
+        if (charPos && charPos.y < sceneSummaryTexts[sceneIndex].height) {
+          acc.push(sceneIndex);
+          return true;
+        }
+        return false;
+      });
+
+      return acc;
+    },
+    []
+  );
+
+  // update scene summary box and text positions
+  const new_scene_summary_boxes = [] as SceneSummaryBox[];
+  const new_scene_summary_texts = [] as SceneSummaryText[];
+
+  sceneSummaryTexts.forEach((text, i) => {
+    const new_box = { ...baseBox };
+
+    if (overlappingScenes.includes(i)) {
+      new_box.x = plotWidth - baseBox.width;
+      new_box.y = characterQuoteBoxes[0].y;
+    }
+    new_scene_summary_boxes.push(new_box);
+
+    const new_text = { ...text };
+    if (overlappingScenes.includes(i)) {
+      const x_translate = new_box.x - new_text.x + 1.2 * character_offset;
+      new_text.x += x_translate;
+      new_text.end_x += x_translate;
+      new_text.mid_x += x_translate;
+
+      const y_translate = new_box.y - new_text.y + 2 * character_offset;
+      new_text.y += y_translate;
+      new_text.title_y += y_translate;
+      new_text.summary_y += y_translate;
+      new_text.location_y += y_translate;
+      new_text.divider_y += y_translate;
+      new_text.character_y += y_translate;
+      new_text.character_list_y += y_translate;
+    }
+    new_scene_summary_texts.push(new_text);
+  });
+
+  return {
+    scene_summary_boxes: new_scene_summary_boxes,
+    scene_summary_texts: new_scene_summary_texts,
+  };
+};
 
 // color bar positions
 const color_bar_pos = (plotWidth: number, scenePos: Position[]) =>
@@ -754,13 +833,26 @@ export const getAllPositions = (
     character_quotes
   );
 
-  const initSceneSummaryBoxes = scene_summary_boxes(initLegendBoxPos);
+  const initSceneSummaryBox = base_scene_summary_box(initLegendBoxPos);
 
-  const initSceneSummaryTexts = scene_summary_texts(
-    initSceneSummaryBoxes,
+  let initSceneSummaryTexts = scene_summary_texts(
+    initSceneSummaryBox,
     scenes,
     sceneSummaries
   );
+
+  const updatedSceneSummaryPos = update_scene_summaries(
+    plotWidth,
+    initScenePos,
+    initSceneSummaryBox,
+    sceneCharacters,
+    initCharacterPos,
+    initSceneSummaryTexts,
+    initCharacterQuoteBoxes
+  );
+
+  const initSceneSummaryBoxes = updatedSceneSummaryPos.scene_summary_boxes;
+  initSceneSummaryTexts = updatedSceneSummaryPos.scene_summary_texts;
 
   const initColorBarPos = color_bar_pos(plotWidth, initScenePos);
 
