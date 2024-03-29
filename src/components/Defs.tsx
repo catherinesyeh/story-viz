@@ -116,7 +116,7 @@ function Defs() {
         {Object.keys(color_dict).map((scale, _) => {
           const color_incs = (color_dict as Record<string, number[]>)[scale];
           const d3scale =
-            scale === "emotion"
+            scale === "sentiment"
               ? emotionColor
               : scale === "conflict"
               ? conflictColor
@@ -163,7 +163,7 @@ function Defs() {
                 <stop
                   offset={`${percent}%`}
                   stopColor={
-                    rating_type === "emotion"
+                    rating_type === "sentiment"
                       ? emotionColor(rating)
                       : rating_type === "conflict"
                       ? conflictColor(normalizeRating(rating))

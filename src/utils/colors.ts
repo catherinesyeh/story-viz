@@ -65,5 +65,5 @@ const importance_increments = color_increments(importanceColor);
 export const color_dict = {
   importance: importance_increments,
   conflict: conflict_increments,
-  emotion: emotion_increments,
+  sentiment: emotion_increments,
 };

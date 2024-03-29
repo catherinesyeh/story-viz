@@ -57,8 +57,8 @@ function XAxis() {
               const color =
                 colorBy === "default"
                   ? "black"
-                  : colorBy === "emotion"
-                  ? emotionColor(ratings.emotion)
+                  : colorBy === "sentiment"
+                  ? emotionColor(ratings.sentiment)
                   : colorBy === "conflict"
                   ? conflictColor(normalizeRating(ratings.conflict))
                   : importanceColor(ratings.importance);

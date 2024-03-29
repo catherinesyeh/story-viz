@@ -68,7 +68,7 @@ function SceneOverlay() {
                         width={sceneSummaryTexts[i].third}
                         height={character_offset * 1.8}
                         fill={
-                          rating === "emotion"
+                          rating === "sentiment"
                             ? emotionColor(rating_val)
                             : rating === "conflict"
                             ? conflictColor(rating_val)
@@ -89,7 +89,7 @@ function SceneOverlay() {
                         textAnchor={"middle"}
                         className="scene-rating"
                         fill={
-                          rating === "emotion"
+                          rating === "sentiment"
                             ? textColor(rating_val, true)
                             : textColor(rating_val, false)
                         }
@@ -154,8 +154,8 @@ function SceneOverlay() {
                   const character = scene.characters.find(
                     (c) => c.name === char.character
                   ) as any;
-                  const emotion = character.emotion.description;
-                  const rating = character.emotion.rating;
+                  const emotion = character.sentiment.emotion;
+                  const rating = character.sentiment.rating;
                   return (
                     <g key={"scene character" + i + j}>
                       <text

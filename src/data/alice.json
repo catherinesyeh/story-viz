@@ -11,14 +11,14 @@
       "ratings": {
         "importance": 1,
         "conflict": 0.5,
-        "emotion": 0
+        "sentiment": 0
       },
       "characters": [
         {
           "name": "Alice",
           "importance": 1,
-          "emotion": {
-            "description": "Curious and slightly anxious",
+          "sentiment": {
+            "emotion": "Curious and slightly anxious",
             "quote": "what is the use of a book, thought Alice, without pictures or conversation?",
             "rating": 0.5
           }
@@ -26,8 +26,8 @@
         {
           "name": "White Rabbit",
           "importance": 0.8,
-          "emotion": {
-            "description": "Rushed and worried",
+          "sentiment": {
+            "emotion": "Rushed and worried",
             "quote": "Oh dear! Oh dear! I shall be late!",
             "rating": -0.5
           }
@@ -44,14 +44,14 @@
       "ratings": {
         "importance": 1,
         "conflict": 0.8,
-        "emotion": -0.5
+        "sentiment": -0.5
       },
       "characters": [
         {
           "name": "Alice",
           "importance": 1,
-          "emotion": {
-            "description": "Frustrated and sad",
+          "sentiment": {
+            "emotion": "Frustrated and sad",
             "quote": "I wish I hadn't cried so much!",
             "rating": -0.5
           }
@@ -68,14 +68,14 @@
       "ratings": {
         "importance": 0.8,
         "conflict": 0.4,
-        "emotion": 0.1
+        "sentiment": 0.1
       },
       "characters": [
         {
           "name": "Alice",
           "importance": 1,
-          "emotion": {
-            "description": "Confused and eager to help",
+          "sentiment": {
+            "emotion": "Confused and eager to help",
             "quote": "Oh, I beg your pardon!",
             "rating": 0
           }
@@ -83,8 +83,8 @@
         {
           "name": "Mouse",
           "importance": 0.8,
-          "emotion": {
-            "description": "Annoyed and offended",
+          "sentiment": {
+            "emotion": "Annoyed and offended",
             "quote": "'I shall do nothing of the sort,' said the Mouse, getting up and walking away.",
             "rating": -0.7
           }
@@ -92,8 +92,8 @@
         {
           "name": "Dodo",
           "importance": 0.5,
-          "emotion": {
-            "description": "Inventive and authoritative",
+          "sentiment": {
+            "emotion": "Inventive and authoritative",
             "quote": "'The best thing to get us dry would be a Caucus-race.'",
             "rating": 0.4
           }
@@ -110,14 +110,14 @@
       "ratings": {
         "importance": 1,
         "conflict": 1,
-        "emotion": -0.5
+        "sentiment": -0.5
       },
       "characters": [
         {
           "name": "Alice",
           "importance": 1,
-          "emotion": {
-            "description": "Frustrated and panicked",
+          "sentiment": {
+            "emotion": "Frustrated and panicked",
             "quote": "'Oh dear, what nonsense I'm talking!'",
             "rating": -0.5
           }
@@ -125,8 +125,8 @@
         {
           "name": "White Rabbit",
           "importance": 0.8,
-          "emotion": {
-            "description": "Distressed and hurried",
+          "sentiment": {
+            "emotion": "Distressed and hurried",
             "quote": "'Oh my ears and whiskers, how late it's getting!'",
             "rating": -0.6
           }
@@ -143,14 +143,14 @@
       "ratings": {
         "importance": 1,
         "conflict": 0.3,
-        "emotion": -0.1
+        "sentiment": -0.1
       },
       "characters": [
         {
           "name": "Alice",
           "importance": 1,
-          "emotion": {
-            "description": "Curious and slightly frustrated",
+          "sentiment": {
+            "emotion": "Curious and slightly frustrated",
             "quote": "'Who are _you_?' said the Caterpillar.",
             "rating": 0
           }
@@ -158,8 +158,8 @@
         {
           "name": "Caterpillar",
           "importance": 1,
-          "emotion": {
-            "description": "Indifferent and wise",
+          "sentiment": {
+            "emotion": "Indifferent and wise",
             "quote": "'Keep your temper,' said the Caterpillar.",
             "rating": 0.2
           }
@@ -176,14 +176,14 @@
       "ratings": {
         "importance": 0.8,
         "conflict": 1,
-        "emotion": -0.8
+        "sentiment": -0.8
       },
       "characters": [
         {
           "name": "Alice",
           "importance": 1,
-          "emotion": {
-            "description": "Shocked and thoughtful",
+          "sentiment": {
+            "emotion": "Shocked and thoughtful",
             "quote": "'If it had grown up,' she said to herself, 'it would have made a dreadfully ugly child: but it makes rather a handsome pig, I think.'",
             "rating": -0.2
           }
@@ -191,8 +191,8 @@
         {
           "name": "Duchess",
           "importance": 0.7,
-          "emotion": {
-            "description": "Rude and careless",
+          "sentiment": {
+            "emotion": "Rude and careless",
             "quote": "The Duchess was sitting on a three-legged stool in the middle, nursing a baby; the cook was leaning over the fire, stirring a large cauldron which seemed to be full of soup.",
             "rating": -1
           }
@@ -200,8 +200,8 @@
         {
           "name": "Cheshire Cat",
           "importance": 0.6,
-          "emotion": {
-            "description": "Amused and cryptic",
+          "sentiment": {
+            "emotion": "Amused and cryptic",
             "quote": "'It's a Cheshire cat,' said the Duchess, 'and that's why. Pig!'",
             "rating": 0.5
           }
@@ -209,8 +209,8 @@
         {
           "name": "Baby",
           "importance": 0.5,
-          "emotion": {
-            "description": "Transformative and surprised",
+          "sentiment": {
+            "emotion": "Transformative and surprised",
             "quote": "and the baby was howling so much already, that it was quite impossible to say whether the blows hurt it or not.",
             "rating": -0.8
           }
@@ -227,14 +227,14 @@
       "ratings": {
         "importance": 1,
         "conflict": 0.7,
-        "emotion": -0.4
+        "sentiment": -0.4
       },
       "characters": [
         {
           "name": "Alice",
           "importance": 1,
-          "emotion": {
-            "description": "Frustrated and confused",
+          "sentiment": {
+            "emotion": "Frustrated and confused",
             "quote": "'This is the stupidest tea party I've ever been to in all my life!'",
             "rating": -0.7
           }
@@ -242,8 +242,8 @@
         {
           "name": "Mad Hatter",
           "importance": 0.9,
-          "emotion": {
-            "description": "Eccentric and nonsensical",
+          "sentiment": {
+            "emotion": "Eccentric and nonsensical",
             "quote": "'Why is a raven like a writing-desk?'",
             "rating": 0.2
           }
@@ -251,8 +251,8 @@
         {
           "name": "March Hare",
           "importance": 0.8,
-          "emotion": {
-            "description": "Rude and absurd",
+          "sentiment": {
+            "emotion": "Rude and absurd",
             "quote": "'Have some wine,' the March Hare said in an encouraging tone.",
             "rating": -0.1
           }
@@ -260,8 +260,8 @@
         {
           "name": "Dormouse",
           "importance": 0.5,
-          "emotion": {
-            "description": "Sleepy and confused",
+          "sentiment": {
+            "emotion": "Sleepy and confused",
             "quote": "'I wasn't asleep,' he said in a hoarse, feeble voice: 'I heard every word you fellows were saying.'",
             "rating": -0.5
           }
@@ -278,14 +278,14 @@
       "ratings": {
         "importance": 1,
         "conflict": 1,
-        "emotion": -1
+        "sentiment": -1
       },
       "characters": [
         {
           "name": "Alice",
           "importance": 1,
-          "emotion": {
-            "description": "Intimidated and curious",
+          "sentiment": {
+            "emotion": "Intimidated and curious",
             "quote": "'It's—it's a very fine day!' said Alice.",
             "rating": -0.3
           }
@@ -293,8 +293,8 @@
         {
           "name": "Queen of Hearts",
           "importance": 1,
-          "emotion": {
-            "description": "Angry and authoritative",
+          "sentiment": {
+            "emotion": "Angry and authoritative",
             "quote": "'Off with his head!'",
             "rating": -1
           }
@@ -302,8 +302,8 @@
         {
           "name": "King of Hearts",
           "importance": 0.6,
-          "emotion": {
-            "description": "Timid and conciliatory",
+          "sentiment": {
+            "emotion": "Timid and conciliatory",
             "quote": "'Consider, my dear: she is only a child!'",
             "rating": 0.2
           }
@@ -320,14 +320,14 @@
       "ratings": {
         "importance": 0.7,
         "conflict": 0.2,
-        "emotion": -0.3
+        "sentiment": -0.3
       },
       "characters": [
         {
           "name": "Alice",
           "importance": 1,
-          "emotion": {
-            "description": "Intrigued and compassionate",
+          "sentiment": {
+            "emotion": "Intrigued and compassionate",
             "quote": "And how many hours a day did you do lessons?' said Alice, in a hurry to change the subject.",
             "rating": 0.2
           }
@@ -335,8 +335,8 @@
         {
           "name": "Mock Turtle",
           "importance": 0.9,
-          "emotion": {
-            "description": "Melancholic and nostalgic",
+          "sentiment": {
+            "emotion": "Melancholic and nostalgic",
             "quote": "'When we were little,' the Mock Turtle went on at last, more calmly, though still sobbing a little now and then, 'we went to school in the sea.'",
             "rating": -0.7
           }
@@ -344,8 +344,8 @@
         {
           "name": "Gryphon",
           "importance": 0.8,
-          "emotion": {
-            "description": "Amused and mocking",
+          "sentiment": {
+            "emotion": "Amused and mocking",
             "quote": "'That's the reason they're called lessons,' the Gryphon remarked: 'because they lessen from day to day.'",
             "rating": 0.1
           }
@@ -362,14 +362,14 @@
       "ratings": {
         "importance": 0.5,
         "conflict": 0.1,
-        "emotion": 0.4
+        "sentiment": 0.4
       },
       "characters": [
         {
           "name": "Alice",
           "importance": 1,
-          "emotion": {
-            "description": "Polite and slightly bored",
+          "sentiment": {
+            "emotion": "Polite and slightly bored",
             "quote": "'Thank you, it's a very interesting dance to watch,' said Alice, feeling very glad that it was over at last.",
             "rating": 0.3
           }
@@ -377,8 +377,8 @@
         {
           "name": "Mock Turtle",
           "importance": 0.8,
-          "emotion": {
-            "description": "Proud and nostalgic",
+          "sentiment": {
+            "emotion": "Proud and nostalgic",
             "quote": "'You may not have lived much under the sea—' ('I haven't,' said Alice)—'and perhaps you were never even introduced to a lobster—' (Alice began to say 'I once tasted—' but checked herself hastily).",
             "rating": 0.5
           }
@@ -386,8 +386,8 @@
         {
           "name": "Gryphon",
           "importance": 0.8,
-          "emotion": {
-            "description": "Energetic and encouraging",
+          "sentiment": {
+            "emotion": "Energetic and encouraging",
             "quote": "'Will you, won't you, will you, won't you, will you join the dance?'",
             "rating": 0.6
           }
@@ -404,14 +404,14 @@
       "ratings": {
         "importance": 1,
         "conflict": 1,
-        "emotion": -0.5
+        "sentiment": -0.5
       },
       "characters": [
         {
           "name": "Alice",
           "importance": 1,
-          "emotion": {
-            "description": "Curious and critical",
+          "sentiment": {
+            "emotion": "Curious and critical",
             "quote": "Alice had never been in a court of justice before, but she had read about them in books, and she was quite pleased to find that she knew the name of nearly everything there.",
             "rating": 0.1
           }
@@ -419,8 +419,8 @@
         {
           "name": "Queen of Hearts",
           "importance": 0.9,
-          "emotion": {
-            "description": "Irate and accusatory",
+          "sentiment": {
+            "emotion": "Irate and accusatory",
             "quote": "'Silence!' screamed the Queen. 'Off with his head! Off—'",
             "rating": -1
           }
@@ -428,8 +428,8 @@
         {
           "name": "King of Hearts",
           "importance": 0.7,
-          "emotion": {
-            "description": "Bumbling and formal",
+          "sentiment": {
+            "emotion": "Bumbling and formal",
             "quote": "'—and just take his head off outside,' the Queen added to one of the officers: but the White Rabbit interrupted, 'Unimportant, your Majesty means, of course,' he said in a very respectful tone, but frowning and making faces at him as he spoke.'",
             "rating": -0.2
           }
@@ -437,8 +437,8 @@
         {
           "name": "Knave of Hearts",
           "importance": 0.8,
-          "emotion": {
-            "description": "Nervous and falsely accused",
+          "sentiment": {
+            "emotion": "Nervous and falsely accused",
             "quote": "The Knave shook his head sadly. 'Do I look like it?' he said. (Which he certainly did NOT, being made entirely of cardboard.)",
             "rating": -0.7
           }
@@ -455,14 +455,14 @@
       "ratings": {
         "importance": 1,
         "conflict": 1,
-        "emotion": -0.4
+        "sentiment": -0.4
       },
       "characters": [
         {
           "name": "Alice",
           "importance": 1,
-          "emotion": {
-            "description": "Empowered and defiant",
+          "sentiment": {
+            "emotion": "Empowered and defiant",
             "quote": "'Who cares for you?' said Alice, 'You're nothing but a pack of cards!'",
             "rating": 0.8
           }
@@ -470,8 +470,8 @@
         {
           "name": "Queen of Hearts",
           "importance": 0.9,
-          "emotion": {
-            "description": "Angry and authoritarian",
+          "sentiment": {
+            "emotion": "Angry and authoritarian",
             "quote": "'Silence!' screamed the Queen.",
             "rating": -1
           }
@@ -479,8 +479,8 @@
         {
           "name": "King of Hearts",
           "importance": 0.5,
-          "emotion": {
-            "description": "Attempting to maintain order",
+          "sentiment": {
+            "emotion": "Attempting to maintain order",
             "quote": "'Consider your verdict,' the King said to the jury.",
             "rating": -0.2
           }
@@ -488,8 +488,8 @@
         {
           "name": "Jury",
           "importance": 0.6,
-          "emotion": {
-            "description": "Confused and pressured",
+          "sentiment": {
+            "emotion": "Confused and pressured",
             "quote": "The jury all wrote down on their slates, 'She doesn't believe there's an atom of meaning in it.'",
             "rating": -0.5
           }

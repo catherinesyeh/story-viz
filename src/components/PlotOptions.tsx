@@ -32,10 +32,10 @@ function PlotOptions() {
     character_quotes,
   } = dataStore();
   const { setPositions } = positionStore();
-  const colorByOptions = ["conflict", "emotion", "importance", "default"];
-  const characterColorOptions = ["default", "emotion", "importance"];
+  const colorByOptions = ["conflict", "sentiment", "importance", "default"];
+  const characterColorOptions = ["default", "sentiment", "importance"];
   const sizeByOptions = ["conflict", "importance", "default"];
-  const storyOptions = ["gatsby", "gatsby2", "alice"];
+  const storyOptions = ["gatsby", "alice"];
 
   const handleStoryChange = async (story: string) => {
     try {
@@ -145,7 +145,7 @@ function PlotOptions() {
       <Divider orientation="vertical" />
       <div className="options-contain">
         <span>
-          <b>Character Squares</b> (size = importance)
+          <b>Character Squares</b>
         </span>
         <div className="options-inner">
           <Select
@@ -158,6 +158,8 @@ function PlotOptions() {
             }}
           />
         </div>
+
+        <i className="annotation">Size = relative importance in scene</i>
       </div>
     </div>
   );

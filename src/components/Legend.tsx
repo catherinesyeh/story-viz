@@ -71,14 +71,6 @@ function Legend() {
               </g>
             )
         )}
-        {/* <text
-          x={legend_box_pos.x + legend_box_pos.width}
-          y={legend_box_pos.y + legend_box_pos.height + 2 * character_height}
-          textAnchor="end"
-          className="legend-title italic emphasis"
-        >
-          Square size = character importance
-        </text> */}
       </g>
       {/* add rectangular bar across bottom of plot to serve as legend */}
       <g id="color-legends">
@@ -102,7 +94,7 @@ function Legend() {
               fill="black"
               className="legend-label"
             >
-              {scale === "emotion" ? -1 : 0}
+              {scale === "sentiment" ? -1 : 0}
             </text>
             <rect
               id="legend-bar"

@@ -104,7 +104,7 @@ function MainPlot() {
                     const char_data = scene_data[scene].characters.find(
                       (c) => c.name === character.character
                     ) as any;
-                    const emotion_val = char_data.emotion.rating;
+                    const emotion_val = char_data.sentiment.rating;
                     const importance_val = char_data.importance;
                     const emotion_color = emotionColor(emotion_val);
                     const importance_color = importanceColor(importance_val);
@@ -119,7 +119,7 @@ function MainPlot() {
                           fill={
                             characterColorBy === "default"
                               ? characterColor(i / (characterScenes.length - 1))
-                              : characterColorBy === "emotion"
+                              : characterColorBy === "sentiment"
                               ? emotion_color
                               : importance_color
                           }

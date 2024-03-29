@@ -23,8 +23,10 @@ const chunkQuote = (quote: string, chunk_size: number) => {
 export interface Character {
   name: string;
   importance: number;
-  emotion: {
+  sentiment: {
+    emotion: string;
     quote: string;
+    rating: string;
   };
 }
 
@@ -37,7 +39,7 @@ export interface Scene {
   ratings: {
     importance: number;
     conflict: number;
-    emotion: number;
+    sentiment: number;
   };
 }
 
@@ -84,7 +86,7 @@ export interface SceneSummary {
 export interface RatingDict {
   importance: number[];
   conflict: number[];
-  emotion: number[];
+  sentiment: number[];
 }
 
 /* DATA */
@@ -249,7 +251,7 @@ const sceneSummaries = (
     const chunk_size = 115;
     const chunkedEmotions = scene.characters.map((character) => {
       const chunked = chunkQuote(
-        '"' + character.emotion.quote + '"',
+        '"' + character.sentiment.quote + '"',
         chunk_size
       );
       return { character: character.name, emotion_quote: chunked };
@@ -276,8 +278,8 @@ const sceneSummaries = (
     };
   });
 
-// create dictionary with importance, conflict, and emotion ratings, each containing a list of ratings by scene
-const ratings = ["importance", "conflict", "emotion"];
+// create dictionary with importance, conflict, and sentiment ratings, each containing a list of ratings by scene
+const ratings = ["importance", "conflict", "sentiment"];
 const createRatingDict = (data: Scene[]): RatingDict => {
   const ratingDict: RatingDict = {} as any;
   for (let rating of ratings) {

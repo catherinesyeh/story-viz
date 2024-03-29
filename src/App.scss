@@ -11,13 +11,12 @@
 header {
   display: flex;
   justify-content: space-between;
-  align-items: center;
-  margin-bottom: 1.5rem;
+  // align-items: center;
+  margin-bottom: 1.2rem;
   gap: 20px;
 
   #options {
     display: flex;
-    // align-items: center;
     gap: 20px;
 
     .options-contain {
@@ -31,6 +30,11 @@ header {
         display: flex;
         gap: 20px;
         align-items: center;
+      }
+
+      .annotation {
+        font-size: smaller;
+        margin-top: 2px;
       }
     }
 
