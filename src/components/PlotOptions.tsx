@@ -1,4 +1,4 @@
-import { Switch, Select, Divider } from "@mantine/core";
+import { Switch, Select, Divider, Button } from "@mantine/core";
 import { storyStore } from "../stores/storyStore";
 import { dataStore } from "../stores/dataStore";
 import { useEffect } from "react";
@@ -53,6 +53,13 @@ function PlotOptions() {
     handleStoryChange(story);
   }, [story]);
 
+  const resetAll = () => {
+    setShowConflict(false);
+    setColorBy("default");
+    setSizeBy("default");
+    setCharacterColor("default");
+  };
+
   useEffect(() => {
     if (data) {
       setPositions(
@@ -72,16 +79,20 @@ function PlotOptions() {
   return (
     <div id="options">
       <div className="options-contain">
-        <b>Choose Story</b>
+        <b>Visualization Settings</b>
         <div className="options-inner">
           <Select
             size="xs"
             data={storyOptions}
+            label="Story"
             value={story}
             onChange={(value) => {
               if (value) setStory(value);
             }}
           />
+          <Button size="xs" onClick={resetAll}>
+            Reset All
+          </Button>
         </div>
       </div>
       <Divider orientation="vertical" />
