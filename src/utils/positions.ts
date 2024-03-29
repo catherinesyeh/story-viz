@@ -214,7 +214,7 @@ const characterPaths = (
       // using sceneCharacters
       const sceneChars = sceneCharacters[scene_index].characters;
       const charInd = sceneChars.indexOf(character.character);
-      const nextChar = sceneChars[charInd + 1];
+      const numNextChars = sceneChars.length - charInd - 1;
 
       const real_prev_ind = prev_scene_index - 1;
       const prevSceneChars =
@@ -222,7 +222,14 @@ const characterPaths = (
           ? sceneCharacters[real_prev_ind].characters
           : [];
       const prevCharInd = prevSceneChars.indexOf(character.character);
-      const prevChar = prevSceneChars[prevCharInd + 1];
+      const numPrevChars = prevSceneChars.length - prevCharInd - 1;
+
+      const locationInd = Math.ceil(
+        (cur_y - location_offset) / location_height
+      );
+      const prevLocationInd = Math.ceil(
+        (prev_y - location_offset) / location_height
+      );
 
       const scene_buffer = scene_width + character_offset;
 
@@ -245,6 +252,8 @@ const characterPaths = (
 
           const gap_size = Math.ceil((cur_x - prev_x) / scene_width);
           const offset = gap_size > 4 ? 0.5 : 0.75;
+          let prev_multiplier = scene_width * offset;
+          let next_multiplier = prev_multiplier;
 
           const new_y =
             Math.max(
@@ -253,26 +262,39 @@ const characterPaths = (
               cur_max_y
             ) + character_offset;
 
-          if (prevChar) {
+          if (numPrevChars > 0) {
+            if (
+              locationInd != prevLocationInd &&
+              Math.abs(new_y - prev_y) > location_height
+            ) {
+              prev_multiplier *= numPrevChars;
+            }
+
             character_coords_arr.splice(i, 0, [
-              prev_x + scene_width * offset + character_offset / offset,
+              prev_x + prev_multiplier + character_offset / offset,
               new_y,
             ]);
           } else {
             character_coords_arr.splice(i, 0, [
-              prev_x + scene_width * offset,
+              prev_x + prev_multiplier,
               new_y,
             ]);
           }
-          if (nextChar) {
+          if (numNextChars > 0) {
+            if (
+              locationInd != prevLocationInd &&
+              Math.abs(new_y - cur_y) > location_height
+            ) {
+              next_multiplier *= numNextChars;
+            }
             character_coords_arr.splice(i + 1, 0, [
-              cur_x - scene_width * offset - character_offset / offset,
+              cur_x - next_multiplier - character_offset / offset,
               new_y,
             ]);
           } else {
             // big gap so add two points
             character_coords_arr.splice(i + 1, 0, [
-              cur_x - scene_width * offset,
+              cur_x - next_multiplier,
               new_y,
             ]);
           }
@@ -284,16 +306,18 @@ const characterPaths = (
           i += 2;
         } else {
           if (cur_y > prev_y && cur_y - prev_y > location_height) {
+            let next_multiplier = scene_width * 0.75;
             // if character is moving down
             character_coords_arr.splice(i, 0, [
-              cur_x - scene_width * 0.75,
+              cur_x - next_multiplier - prevCharInd * character_offset,
               prev_y,
             ]);
             i += 1;
           } else if (cur_y < prev_y && prev_y - cur_y > location_height) {
             // if character is moving up
+            let prev_multiplier = scene_width * 0.75;
             character_coords_arr.splice(i, 0, [
-              prev_x + scene_width * 0.75,
+              prev_x + prev_multiplier + charInd * character_offset,
               cur_y,
             ]);
             i += 1;
@@ -480,8 +504,8 @@ const location_quote_boxes = (
   locations: string[],
   locationPos: number[],
   location_quotes: LocationQuote[]
-) =>
-  locations.map((_, i) => {
+) => {
+  return locations.map((_, i) => {
     return {
       x: scene_offset - 1.25 * location_offset,
       y: locationPos[locationPos.length - 2] - location_offset,
@@ -489,6 +513,7 @@ const location_quote_boxes = (
       height: (location_quotes[i].quote.length + 3) * character_offset,
     };
   });
+};
 
 // location quote text positions
 const location_quote_texts = (

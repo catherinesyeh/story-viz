@@ -1,0 +1,748 @@
+{
+  "title": "The Great Gatsby v2",
+  "scenes": [
+    {
+      "number": 1,
+      "name": "Nick's Reflections and Advice from His Father",
+      "summary": "Nick Carraway contemplates the life lessons imparted by his father, setting the tone for his reflective and nonjudgmental narrative perspective.",
+      "location": "Nick's Childhood Home",
+      "firstLine": "In my younger and more vulnerable years my father gave me some advice that I've been turning over in my mind ever since.",
+      "lastLine": "Father agreed to finance me for a year, and after various delays I came East, permanently, I thought, in the spring of twenty-two.",
+      "ratings": {
+        "importance": 0.3,
+        "conflict": 0,
+        "emotion": 0.3
+      },
+      "characters": [
+        {
+          "name": "Nick Carraway",
+          "importance": 1,
+          "emotion": {
+            "description": "Reflective and contemplative",
+            "quote": "I've been turning over in my mind ever since.",
+            "rating": 0.3
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "name": "Arrival at West Egg",
+      "summary": "Nick describes his modest home in West Egg and his mysterious neighbor Gatsby's opulent mansion, introducing the setting for much of the novel's events.",
+      "location": "West Egg",
+      "firstLine": "And so with the sunshine and the great bursts of leaves growing on the trees, just as things grow in fast movies, I had that familiar conviction that life was beginning over again with the summer.",
+      "lastLine": "Across the courtesy bay the white palaces of fashionable East Egg glittered along the water, and the history of the summer really begins on the evening I drove over there to have dinner with the Tom Buchanans.",
+      "ratings": {
+        "importance": 0.5,
+        "conflict": 0,
+        "emotion": 0.5
+      },
+      "characters": [
+        {
+          "name": "Nick Carraway",
+          "importance": 1,
+          "emotion": {
+            "description": "Optimistic and curious",
+            "quote": "I had that familiar conviction that life was beginning over again with the summer.",
+            "rating": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "name": "Dinner at the Buchanans",
+      "summary": "Nick visits his cousin Daisy and her husband Tom, where he encounters Jordan Baker and learns of Tom's affair.",
+      "location": "East Egg",
+      "firstLine": "Their house was even more elaborate than I expected, a cheerful red-and-white Georgian Colonial mansion, overlooking the bay.",
+      "lastLine": "I was confused and a little disgusted as I drove away.",
+      "ratings": {
+        "importance": 0.8,
+        "conflict": 0.7,
+        "emotion": -0.5
+      },
+      "characters": [
+        {
+          "name": "Nick Carraway",
+          "importance": 0.5,
+          "emotion": {
+            "description": "Discomfort and intrigue",
+            "quote": "I was confused and a little disgusted as I drove away.",
+            "rating": -0.5
+          }
+        },
+        {
+          "name": "Daisy Buchanan",
+          "importance": 0.8,
+          "emotion": {
+            "description": "Playfully sad and charming",
+            "quote": "That's the best thing a girl can be in this world, a beautiful little fool.",
+            "rating": -0.2
+          }
+        },
+        {
+          "name": "Tom Buchanan",
+          "importance": 0.7,
+          "emotion": {
+            "description": "Arrogantly dismissive",
+            "quote": "Tom Buchanan broke her nose with his open hand.",
+            "rating": -0.8
+          }
+        },
+        {
+          "name": "Jordan Baker",
+          "importance": 0.6,
+          "emotion": {
+            "description": "Indifferently curious",
+            "quote": "And I like large parties. They're so intimate.",
+            "rating": 0.1
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "name": "The Valley of Ashes",
+      "summary": "Nick describes the desolate area known as the Valley of Ashes, encountered on the way to New York City, introducing George and Myrtle Wilson.",
+      "location": "The Valley of Ashes",
+      "firstLine": "About halfway between West Egg and New York the motor road hastily joins the railroad and runs beside it for a quarter of a mile, so as to shrink away from a certain desolate area of land.",
+      "lastLine": "With fenders spread like wings we scattered light through half Astoria—only half, for as we twisted among the pillars of the elevated I heard the familiar 'jug—jug—spat!' of a motorcycle, and a frantic policeman rode alongside.",
+      "ratings": {
+        "importance": 0.7,
+        "conflict": 0.4,
+        "emotion": -0.7
+      },
+      "characters": [
+        {
+          "name": "Nick Carraway",
+          "importance": 0.5,
+          "emotion": {
+            "description": "Observant and reflective",
+            "quote": "This is a valley of ashes—a fantastic farm where ashes grow like wheat into ridges and hills and grotesque gardens;",
+            "rating": -0.5
+          }
+        },
+        {
+          "name": "George Wilson",
+          "importance": 0.6,
+          "emotion": {
+            "description": "Hopeful yet spiritless",
+            "quote": "He was a blond, spiritless man, anaemic, and faintly handsome.",
+            "rating": -0.6
+          }
+        },
+        {
+          "name": "Myrtle Wilson",
+          "importance": 0.7,
+          "emotion": {
+            "description": "Desperate for escape",
+            "quote": "She smiled slowly and, walking through her husband as if he were a ghost, shook hands with Tom, looking him flush in the eye.",
+            "rating": -0.3
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "name": "Myrtle's New York Apartment Party",
+      "summary": "Tom, Nick, and Myrtle go to New York City, where they have a party in Myrtle's secret apartment, which ends violently.",
+      "location": "Myrtle's Apartment in New York",
+      "firstLine": "The apartment was on the top floor—a small living-room, a small dining-room, a small bedroom, and a bath.",
+      "lastLine": "Making a short deft movement, Tom Buchanan broke her nose with his open hand.",
+      "ratings": {
+        "importance": 0.9,
+        "conflict": 1,
+        "emotion": -1
+      },
+      "characters": [
+        {
+          "name": "Nick Carraway",
+          "importance": 0.4,
+          "emotion": {
+            "description": "Disoriented and intoxicated",
+            "quote": "I was standing beside his bed and he was sitting up between the sheets, clad in his underwear, with a great portfolio in his hands.",
+            "rating": -0.7
+          }
+        },
+        {
+          "name": "Myrtle Wilson",
+          "importance": 1,
+          "emotion": {
+            "description": "Agitated and rebellious",
+            "quote": "Daisy! Daisy! Daisy!' shouted Mrs. Wilson. 'I'll say it whenever I want to!",
+            "rating": -0.8
+          }
+        },
+        {
+          "name": "Tom Buchanan",
+          "importance": 1,
+          "emotion": {
+            "description": "Violent and controlling",
+            "quote": "Making a short deft movement, Tom Buchanan broke her nose with his open hand.",
+            "rating": -1
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "name": "Gatsby's First Party",
+      "summary": "Nick attends one of Gatsby's lavish parties for the first time, witnessing the spectacle and excess, and finally meets Gatsby.",
+      "location": "Gatsby's Mansion",
+      "firstLine": "There was music from my neighbour's house through the summer nights.",
+      "lastLine": "'I'm going to make a list of all the things I've got to get. A massage and a wave, and a collar for the dog, and one of those cute little ashtrays where you touch a spring, and a wreath with a black silk bow for mother's grave that'll last all summer.'",
+      "ratings": {
+        "importance": 0.8,
+        "conflict": 0.2,
+        "emotion": 0.8
+      },
+      "characters": [
+        {
+          "name": "Nick Carraway",
+          "importance": 0.6,
+          "emotion": {
+            "description": "Amazed and intrigued",
+            "quote": "I had taken two finger-bowls of champagne, and the scene had changed before my eyes into something significant, elemental, and profound.",
+            "rating": 0.8
+          }
+        },
+        {
+          "name": "Jay Gatsby",
+          "importance": 1,
+          "emotion": {
+            "description": "Enigmatic and hospitable",
+            "quote": "He smiled understandingly—much more than understandingly. It was one of those rare smiles with a quality of eternal reassurance in it.",
+            "rating": 1
+          }
+        },
+        {
+          "name": "Jordan Baker",
+          "importance": 0.7,
+          "emotion": {
+            "description": "Curious and slightly aloof",
+            "quote": "'You're going to hear all sorts of things about Gatsby now,' I said to Jordan. 'Already I've heard it said that he's a nephew of Kaiser Wilhelm's.'",
+            "rating": 0.3
+          }
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "name": "The Drive with Gatsby",
+      "summary": "Gatsby and Nick drive into New York City, where Gatsby shares part of his life story, revealing his wealth's sources and hinting at his past.",
+      "location": "West Egg",
+      "firstLine": "He was balancing himself on the dashboard of his car with that resourcefulness of movement that is so peculiarly American.",
+      "lastLine": "'I thought you inherited your money.' 'I did, old sport,' he said automatically, 'but I lost most of it in the big panic—the panic of the war.'",
+      "ratings": {
+        "importance": 0.8,
+        "conflict": 0.5,
+        "emotion": 0.2
+      },
+      "characters": [
+        {
+          "name": "Nick Carraway",
+          "importance": 0.5,
+          "emotion": {
+            "description": "Skeptical and curious",
+            "quote": "'I thought you inherited your money.'",
+            "rating": 0.1
+          }
+        },
+        {
+          "name": "Jay Gatsby",
+          "importance": 1,
+          "emotion": {
+            "description": "Proud yet defensive",
+            "quote": "'My family all died and I came into a good deal of money.'",
+            "rating": 0.2
+          }
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "name": "The Lunch with Wolfsheim",
+      "summary": "Nick and Gatsby lunch in New York with Meyer Wolfsheim, where Gatsby's connections to organized crime are suggested.",
+      "location": "Myrtle's Apartment in New York",
+      "firstLine": "We lunched at 'The Yale Club'—Gatsby, Wolfsheim, and I.",
+      "lastLine": "After a moment I returned rather feebly to the subject of her daughter.",
+      "ratings": {
+        "importance": 0.7,
+        "conflict": 0.4,
+        "emotion": -0.3
+      },
+      "characters": [
+        {
+          "name": "Nick Carraway",
+          "importance": 0.5,
+          "emotion": {
+            "description": "Intrigued and uncomfortable",
+            "quote": "I glanced at my cousin, who began to ask me questions in her low, thrilling voice.",
+            "rating": -0.2
+          }
+        },
+        {
+          "name": "Jay Gatsby",
+          "importance": 0.7,
+          "emotion": {
+            "description": "Evasive and nostalgic",
+            "quote": "'This is an old friend of mine, Mr. Wolfsheim.'",
+            "rating": -0.1
+          }
+        },
+        {
+          "name": "Meyer Wolfsheim",
+          "importance": 0.6,
+          "emotion": {
+            "description": "Cagey and proud",
+            "quote": "'I handled all his sporting affairs.'",
+            "rating": -0.3
+          }
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "name": "The Tea Party with Daisy",
+      "summary": "Gatsby reunites with Daisy at Nick's house, an awkward and emotional meeting that gradually warms as they reconnect.",
+      "location": "West Egg",
+      "firstLine": "'He wants to know,' continued Jordan, 'if you'll invite Daisy to your house some afternoon and then let him come over.'",
+      "lastLine": "As I went over to say goodbye I saw that the expression of bewilderment had come back into Gatsby's face.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 0.2,
+        "emotion": 0.5
+      },
+      "characters": [
+        {
+          "name": "Nick Carraway",
+          "importance": 0.7,
+          "emotion": {
+            "description": "Amused and slightly anxious",
+            "quote": "'Is everything all right?' he asked immediately.",
+            "rating": 0.4
+          }
+        },
+        {
+          "name": "Jay Gatsby",
+          "importance": 1,
+          "emotion": {
+            "description": "Nervous then elated",
+            "quote": "He literally glowed; without a word or a gesture of exultation a new well-being radiated from him.",
+            "rating": 0.8
+          }
+        },
+        {
+          "name": "Daisy Buchanan",
+          "importance": 1,
+          "emotion": {
+            "description": "Surprised and emotionally moved",
+            "quote": "They stared at each other for a moment in silence.",
+            "rating": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "name": "The Plaza Hotel Confrontation",
+      "summary": "Tensions reach a climax as Tom confronts Gatsby about his relationship with Daisy, resulting in revelations and conflicts.",
+      "location": "The Plaza Hotel",
+      "firstLine": "The prolonged and tumultuous argument that ended by herding us into that room eludes me.",
+      "lastLine": "'I just realized that today is my birthday.'",
+      "ratings": {
+        "importance": 1,
+        "conflict": 1,
+        "emotion": -1
+      },
+      "characters": [
+        {
+          "name": "Nick Carraway",
+          "importance": 0.5,
+          "emotion": {
+            "description": "Observer, increasingly uncomfortable",
+            "quote": "'I just realized that today is my birthday.'",
+            "rating": -0.5
+          }
+        },
+        {
+          "name": "Jay Gatsby",
+          "importance": 1,
+          "emotion": {
+            "description": "Defensive, desperate",
+            "quote": "'Your wife doesn't love you,' said Gatsby. 'She's never loved you. She loves me.'",
+            "rating": -0.8
+          }
+        },
+        {
+          "name": "Daisy Buchanan",
+          "importance": 1,
+          "emotion": {
+            "description": "Torn, regretful",
+            "quote": "'I never loved him,' she said, with perceptible reluctance.",
+            "rating": -0.9
+          }
+        },
+        {
+          "name": "Tom Buchanan",
+          "importance": 1,
+          "emotion": {
+            "description": "Angry, possessive",
+            "quote": "'And if you think I didn't have my share of suffering—look here, when I went to give up that flat and saw that damn box of dog biscuits sitting there on the sideboard...'",
+            "rating": -1
+          }
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "name": "The Drive Back and Myrtle's Death",
+      "summary": "While driving back from New York, Daisy accidentally hits Myrtle with Gatsby's car, leading to Myrtle's death and escalating the tragedy.",
+      "location": "The Valley of Ashes",
+      "firstLine": "So we drove on toward death through the cooling twilight.",
+      "lastLine": "'Was Daisy driving?' 'Yes,' he said after a moment, 'but of course I'll say I was.'",
+      "ratings": {
+        "importance": 1,
+        "conflict": 1,
+        "emotion": -1
+      },
+      "characters": [
+        {
+          "name": "Jay Gatsby",
+          "importance": 1,
+          "emotion": {
+            "description": "Protective, shocked",
+            "quote": "'Yes,' he said after a moment, 'but of course I'll say I was.'",
+            "rating": -0.9
+          }
+        },
+        {
+          "name": "Daisy Buchanan",
+          "importance": 0.8,
+          "emotion": {
+            "description": "Distraught, guilty",
+            "quote": "She was very nervous and thought it would steady her to drive.",
+            "rating": -1
+          }
+        },
+        {
+          "name": "Myrtle Wilson",
+          "importance": 0.8,
+          "emotion": {
+            "description": "Desperate, mistaken",
+            "quote": "She rushed out into the dusk, waving her hands and shouting; before he could move from his door the business was over.",
+            "rating": -1
+          }
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "name": "The Aftermath at the Buchanan's",
+      "summary": "In the aftermath of Myrtle's death, the Buchanan's coldly plan to cover their tracks, revealing their true characters.",
+      "location": "East Egg",
+      "firstLine": "They were sitting at the kitchen table with a glass of whisky each, discussing what to do.",
+      "lastLine": "They weren't happy, and neither of them had touched the chicken or the ale—and yet they weren't unhappy either.",
+      "ratings": {
+        "importance": 0.7,
+        "conflict": 0.5,
+        "emotion": -0.7
+      },
+      "characters": [
+        {
+          "name": "Tom Buchanan",
+          "importance": 1,
+          "emotion": {
+            "description": "Calculating, indifferent",
+            "quote": "'We'll get away.'",
+            "rating": -0.8
+          }
+        },
+        {
+          "name": "Daisy Buchanan",
+          "importance": 1,
+          "emotion": {
+            "description": "Subdued, complicit",
+            "quote": "She hadn't any words to throw at me so she looked at me with an expression of unutterable sadness.",
+            "rating": -0.6
+          }
+        },
+        {
+          "name": "Nick Carraway",
+          "importance": 0.5,
+          "emotion": {
+            "description": "Disillusioned, observant",
+            "quote": "They weren't happy... and yet they weren't unhappy either.",
+            "rating": -0.5
+          }
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "name": "Gatsby Waits for Daisy",
+      "summary": "The morning after Myrtle's death, Gatsby stands guard outside of Daisy's house, still hopeful for her call.",
+      "location": "East Egg",
+      "firstLine": "I couldn't sleep all night; a fog-horn was groaning incessantly on the Sound, and I tossed half-sick between grotesque reality and savage, frightening dreams.",
+      "lastLine": "'I don't think she ever loved him.' Gatsby turned around from a window and looked at me challengingly. 'You must remember, old sport, she was very excited.'",
+      "ratings": {
+        "importance": 0.8,
+        "conflict": 0.2,
+        "emotion": -0.6
+      },
+      "characters": [
+        {
+          "name": "Jay Gatsby",
+          "importance": 1,
+          "emotion": {
+            "description": "Hopeful yet desperate",
+            "quote": "'I don't think she ever loved him.'",
+            "rating": -0.4
+          }
+        },
+        {
+          "name": "Nick Carraway",
+          "importance": 0.5,
+          "emotion": {
+            "description": "Concerned and reflective",
+            "quote": "Gatsby turned around from a window and looked at me challengingly.",
+            "rating": -0.2
+          }
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "name": "Nick and Gatsby's Last Meeting",
+      "summary": "Nick meets Gatsby for the last time, reflecting on the events and Gatsby's clinging to his dream.",
+      "location": "West Egg",
+      "firstLine": "'They're a rotten crowd,' I shouted across the lawn. 'You're worth the whole damn bunch put together.'",
+      "lastLine": "He nodded sagely. 'And what's more, I love Daisy too. Once in a while I go off on a spree and make a fool of myself, but I always come back, and in my heart, I love her all the time.'",
+      "ratings": {
+        "importance": 0.9,
+        "conflict": 0.1,
+        "emotion": -0.3
+      },
+      "characters": [
+        {
+          "name": "Jay Gatsby",
+          "importance": 1,
+          "emotion": {
+            "description": "Wistful and resigned",
+            "quote": "'And what's more, I love Daisy too.'",
+            "rating": -0.3
+          }
+        },
+        {
+          "name": "Nick Carraway",
+          "importance": 0.7,
+          "emotion": {
+            "description": "Empathetic and disappointed",
+            "quote": "'They're a rotten crowd... You're worth the whole damn bunch put together.'",
+            "rating": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "name": "The Death of Gatsby",
+      "summary": "Gatsby is killed by George Wilson, leading to the tragic climax of the novel.",
+      "location": "Gatsby's Mansion",
+      "firstLine": "It was after we started with Gatsby toward the house that the gardener saw Wilson's body a little way off in the grass.",
+      "lastLine": "'The poor son-of-a-bitch,' he muttered.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 1,
+        "emotion": -1
+      },
+      "characters": [
+        {
+          "name": "Jay Gatsby",
+          "importance": 1,
+          "emotion": {
+            "description": "Absent, his presence felt in death",
+            "quote": "It was after we started with Gatsby toward the house that the gardener saw Wilson's body a little way off in the grass.",
+            "rating": -1
+          }
+        },
+        {
+          "name": "George Wilson",
+          "importance": 0.9,
+          "emotion": {
+            "description": "Driven to despair and revenge",
+            "quote": "His hand shook so that he had difficulty lighting his cigarette.",
+            "rating": -1
+          }
+        },
+        {
+          "name": "Nick Carraway",
+          "importance": 0.5,
+          "emotion": {
+            "description": "Shocked and sympathetic",
+            "quote": "'The poor son-of-a-bitch,' he muttered.",
+            "rating": -0.8
+          }
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "name": "Gatsby's Funeral",
+      "summary": "Despite Gatsby's wide acquaintance, very few attend his funeral, highlighting the superficiality of his social connections.",
+      "location": "Gatsby's Mansion",
+      "firstLine": "About five o'clock our procession of three cars reached the cemetery and stopped in a thick drizzle beside the gate—first a motor hearse, horribly black and wet, then Mr. Gatz and the minister and I in the limousine, and a little later four or five servants and the postman from West Egg, in Gatsby's station wagon, all wet to the skin.",
+      "lastLine": "After a little while Mr. Gatz opened the door and came out, his mouth ajar, his face flushed slightly, his eyes leaking isolated and unpunctual tears.",
+      "ratings": {
+        "importance": 0.8,
+        "conflict": 0.2,
+        "emotion": -0.9
+      },
+      "characters": [
+        {
+          "name": "Nick Carraway",
+          "importance": 0.6,
+          "emotion": {
+            "description": "Solemn and reflective",
+            "quote": "It grew darker, and as we stood there in the sudden blackness the rain began to pour down.",
+            "rating": -0.7
+          }
+        },
+        {
+          "name": "Mr. Gatz",
+          "importance": 0.8,
+          "emotion": {
+            "description": "Proud yet grieving",
+            "quote": "He was clutching at some last hope and I couldn't bear to shake him free.",
+            "rating": -0.9
+          }
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "name": "Nick's Disillusionment",
+      "summary": "Nick reflects on the aftermath of Gatsby's death, becoming disillusioned with the East and its empty pursuit of wealth.",
+      "location": "West Egg",
+      "firstLine": "I spent my Saturday nights in New York because those gleaming, dazzling parties of his were with me so vividly that I could still hear the music and the laughter.",
+      "lastLine": "They were careless people, Tom and Daisy—they smashed up things and creatures and then retreated back into their money or their vast carelessness.",
+      "ratings": {
+        "importance": 0.9,
+        "conflict": 0.3,
+        "emotion": -0.8
+      },
+      "characters": [
+        {
+          "name": "Nick Carraway",
+          "importance": 1,
+          "emotion": {
+            "description": "Reflective and disillusioned",
+            "quote": "They were careless people, Tom and Daisy—they smashed up things and creatures and then retreated back into their money or their vast carelessness.",
+            "rating": -0.8
+          }
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "name": "Nick's Farewell to Gatsby",
+      "summary": "Nick pays a final tribute to Gatsby, solidifying his legacy and the dream he embodied.",
+      "location": "Gatsby's Mansion",
+      "firstLine": "Gatsby believed in the green light, the orgastic future that year by year recedes before us.",
+      "lastLine": "So we beat on, boats against the current, borne back ceaselessly into the past.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 0.1,
+        "emotion": -0.5
+      },
+      "characters": [
+        {
+          "name": "Nick Carraway",
+          "importance": 1,
+          "emotion": {
+            "description": "Melancholic yet admiring",
+            "quote": "Gatsby believed in the green light, the orgastic future that year by year recedes before us.",
+            "rating": -0.5
+          }
+        },
+        {
+          "name": "Jay Gatsby",
+          "importance": 0.5,
+          "emotion": {
+            "description": "Absent, represented by his enduring dream",
+            "quote": "It eluded us then, but that's no matter—tomorrow we will run faster, stretch out our arms farther.... And one fine morning—",
+            "rating": -0.3
+          }
+        }
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "name": "West Egg",
+      "quote": "I lived at West Egg, the—well, the less fashionable of the two, though this is a most superficial tag to express the bizarre and not a little sinister contrast between them."
+    },
+    {
+      "name": "East Egg",
+      "quote": "Across the courtesy bay the white palaces of fashionable East Egg glittered along the water."
+    },
+    {
+      "name": "The Valley of Ashes",
+      "quote": "This is a valley of ashes—a fantastic farm where ashes grow like wheat into ridges and hills and grotesque gardens; where ashes take the forms of houses and chimneys and rising smoke and, finally, with a transcendent effort, of ash-grey men."
+    },
+    {
+      "name": "Gatsby's Mansion",
+      "quote": "The one on my right was a colossal affair by any standard—it was a factual imitation of some Hôtel de Ville in Normandy, with a tower on one side, spanking new under a thin beard of raw ivy, and a marble swimming pool, and more than forty acres of lawn and garden."
+    },
+    {
+      "name": "Myrtle's Apartment in New York",
+      "quote": "The apartment was on the top floor—a small living-room, a small dining-room, a small bedroom, and a bath. The living-room was crowded to the doors with a set of tapestried furniture entirely too large for it."
+    },
+    {
+      "name": "The Plaza Hotel",
+      "quote": "The prolonged and tumultuous argument that ended by herding us into that room eludes me, though I have a sharp physical memory that, in the course of it, my underwear kept climbing like a damp snake around my legs."
+    },
+    {
+      "name": "Nick's Childhood Home",
+      "quote": "That's my Middle West—not the wheat or the prairies or the lost Swede towns, but the thrilling returning trains of my youth, and the street lamps and sleigh bells in the frosty dark and the shadows of holly wreaths thrown by lighted windows on the snow."
+    }
+  ],
+  "characters": [
+    {
+      "character": "Nick Carraway",
+      "quote": "In my younger and more vulnerable years my father gave me some advice that I've been turning over in my mind ever since."
+    },
+    {
+      "character": "Jay Gatsby",
+      "quote": "He smiled understandingly—much more than understandingly. It was one of those rare smiles with a quality of eternal reassurance in it."
+    },
+    {
+      "character": "Daisy Buchanan",
+      "quote": "Her face was sad and lovely with bright things in it, bright eyes and a bright passionate mouth."
+    },
+    {
+      "character": "Tom Buchanan",
+      "quote": "Two shining arrogant eyes had established dominance over his face and gave him the appearance of always leaning aggressively forward."
+    },
+    {
+      "character": "Jordan Baker",
+      "quote": "She was a slender, small-breasted girl, with an erect carriage which she accentuated by throwing her body backward at the shoulders like a young cadet."
+    },
+    {
+      "character": "Myrtle Wilson",
+      "quote": "Her face, above a spotted dress of dark blue crepe-de-chine, contained no facet or gleam of beauty, but there was an immediately perceptible vitality about her."
+    },
+    {
+      "character": "George Wilson",
+      "quote": "He was a blond, spiritless man, anaemic, and faintly handsome."
+    },
+    {
+      "character": "Meyer Wolfsheim",
+      "quote": "A small, flat-nosed Jew raised his large head and regarded me with two fine growths of hair which luxuriated in either nostril."
+    },
+    {
+      "character": "Mr. Gatz",
+      "quote": "He was clutching at some last hope and I couldn't bear to shake him free."
+    }
+  ]
+}

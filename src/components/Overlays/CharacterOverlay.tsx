@@ -4,6 +4,8 @@ import { character_offset, location_height } from "../../utils/consts";
 import { dataStore } from "../../stores/dataStore";
 import { positionStore } from "../../stores/positionStore";
 
+import Image from "../Image";
+
 function CharacterOverlay() {
   const { characterHover, story } = storyStore();
   const { characterScenes, character_quotes } = dataStore();
@@ -72,7 +74,7 @@ function CharacterOverlay() {
                     )
                 )}
               </g>
-              <image
+              <Image
                 className="character-image"
                 clipPath="inset(0% round 100%)"
                 x={characterQuoteTexts[i][0].x - 0.6 * location_height}
@@ -93,6 +95,7 @@ function CharacterOverlay() {
                   character.character.split(" ")[0].toLowerCase() +
                   ".png"
                 }
+                placeholder="/characters/placeholder.png"
               />
             </g>
           )

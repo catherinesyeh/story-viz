@@ -7,6 +7,8 @@ import {
 } from "../utils/consts";
 import { positionStore } from "../stores/positionStore";
 
+import Image from "./Image";
+
 function YAxis() {
   const {
     story,
@@ -58,30 +60,35 @@ function YAxis() {
           onMouseLeave={() => setLocationHover("")}
         >
           {/* add img from assets for each location */}
-          <image
-            x={location_height}
-            y={
-              locationPos[i] +
-                (location_chunks[i].length - 1) * character_offset || 0
-            }
-            width={location_height * 0.75}
-            height={location_height * 0.75}
-            href={"/locations/" + story + "/location_" + (i + 1) + ".png"}
-            className="location-img"
-          />
-          <g className="location-name-group">
-            {location_chunks[i].map((chunk, j) => (
-              <text
-                className="location-name"
-                x={location_height * 1.75}
-                y={locationPos[i] + j * character_offset || 0}
-                key={"location" + i + j}
-                textAnchor="end"
-              >
-                {chunk}
-              </text>
-            ))}
-          </g>
+          {location_chunks[i] && (
+            <>
+              <Image
+                x={location_height}
+                y={
+                  locationPos[i] +
+                    (location_chunks[i].length - 1) * character_offset || 0
+                }
+                width={location_height * 0.75}
+                height={location_height * 0.75}
+                href={"/locations/" + story + "/location_" + (i + 1) + ".png"}
+                placeholder="/locations/placeholder.png"
+                className="location-img"
+              />
+              <g className="location-name-group">
+                {location_chunks[i].map((chunk, j) => (
+                  <text
+                    className="location-name"
+                    x={location_height * 1.75}
+                    y={locationPos[i] + j * character_offset || 0}
+                    key={"location" + i + j}
+                    textAnchor="end"
+                  >
+                    {chunk}
+                  </text>
+                ))}
+              </g>
+            </>
+          )}
         </g>
       ))}
 
