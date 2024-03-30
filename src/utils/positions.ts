@@ -204,7 +204,7 @@ const characterPaths = (
       character_coords_arr[character_coords_arr.length - 1][1],
     ]);
 
-    // add intermediate points if there is a gap of 3+ scenes
+    // add intermediate points if there is a gap in characters' appearance
     for (let i = 1; i < character_coords_arr.length; i++) {
       const cur_x = character_coords_arr[i][0];
       const prev_x = character_coords_arr[i - 1][0];
@@ -242,7 +242,9 @@ const characterPaths = (
 
       const scene_buffer = scene_width + character_offset;
 
+      // gap (1+ scene)
       if (cur_x - prev_x > scene_buffer) {
+        // big gap (2+ scenes)
         if (cur_x - prev_x > scene_buffer * 2) {
           const max_cur_y =
             cur_y +
@@ -264,12 +266,20 @@ const characterPaths = (
           let prev_multiplier = scene_width * offset;
           let next_multiplier = prev_multiplier;
 
-          const new_y =
-            Math.max(
-              max_cur_y - character_offset,
-              max_prev_y - character_offset,
-              cur_max_y
-            ) + character_offset;
+          const max_y_of_cur_and_prev = Math.max(cur_y, prev_y);
+
+          let new_y;
+          if (max_y_of_cur_and_prev > cur_max_y) {
+            // don't go all the way down if nothing in the way
+            new_y = max_y_of_cur_and_prev;
+          } else {
+            new_y =
+              Math.max(
+                max_cur_y - character_offset,
+                max_prev_y - character_offset,
+                cur_max_y
+              ) + character_offset;
+          }
 
           if (numPrevChars > 0) {
             if (
@@ -798,7 +808,7 @@ export const getAllPositions = (
   sceneSummaries: SceneSummary[],
   character_quotes: CharacterQuote[]
 ) => {
-  const sceneWidth = scene_width(scenes);
+  const sceneWidth = scene_width(locations, scenes);
   const plotWidth = plot_width(scenes, sceneWidth);
 
   const initLocationPos = locationPos(locations);
