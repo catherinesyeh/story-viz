@@ -7,7 +7,8 @@ const scene_margin = scene_base / 2;
 export const character_height = 12;
 export const character_offset = 1.5 * character_height;
 
-export const scene_width = (scenes: string[]) => 2200 / scenes.length;
+export const scene_width = (locations: string[], scenes: string[]) =>
+  (2200 + 100 * Math.max(locations.length - 6, 0)) / scenes.length;
 export const plot_width = (scenes: string[], scene_width: number) =>
   scene_offset +
   scene_width * scenes.length -

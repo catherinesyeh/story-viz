@@ -97,7 +97,8 @@ h1 {
         fill-opacity: 0.3;
       }
 
-      &.path-group {
+      &.path-group,
+      .path-group {
         stroke-opacity: 0.3;
       }
     }
