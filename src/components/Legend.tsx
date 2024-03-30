@@ -14,6 +14,7 @@ function Legend() {
     hidden,
     characterColor: characterColorBy,
     setHidden,
+    sizeBy,
   } = storyStore();
 
   // Update array with list of hidden characters
@@ -89,7 +90,11 @@ function Legend() {
           >
             <text
               x={colorBarPos[i].x - 0.75 * character_offset}
-              y={colorBarPos[i].y + character_height}
+              y={
+                sizeBy === "default"
+                  ? colorBarPos[i].y + character_height
+                  : colorBarPos[i].y + character_height + 3 * character_offset
+              }
               textAnchor="end"
               fill="black"
               className="legend-label"
@@ -99,14 +104,24 @@ function Legend() {
             <rect
               id="legend-bar"
               x={colorBarPos[i].x}
-              y={colorBarPos[i].y}
+              y={
+                sizeBy === "default"
+                  ? colorBarPos[i].y
+                  : colorBarPos[i].y + 3 * character_offset
+              }
               width={colorBarPos[i].width}
               height={colorBarPos[i].height}
               fill={"url(#legend" + scale + ")"}
             />
             <text
               x={colorBarPos[i].x + colorBarPos[i].width / 2}
-              y={colorBarPos[i].y + 2.4 * character_height}
+              y={
+                sizeBy === "default"
+                  ? colorBarPos[i].y + 2.4 * character_height
+                  : colorBarPos[i].y +
+                    2.4 * character_height +
+                    3 * character_offset
+              }
               textAnchor="middle"
             >
               {scale}
@@ -117,7 +132,11 @@ function Legend() {
                 colorBarPos[i].width +
                 0.75 * character_offset
               }
-              y={colorBarPos[i].y + character_height}
+              y={
+                sizeBy === "default"
+                  ? colorBarPos[i].y + character_height
+                  : colorBarPos[i].y + character_height + 3 * character_offset
+              }
               textAnchor="start"
               fill="black"
               className="legend-label"

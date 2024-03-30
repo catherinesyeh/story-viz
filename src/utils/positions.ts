@@ -121,14 +121,22 @@ const characterSquares = (
       const normalized_importance = normalizeMarkerSize(
         character_height * importance
       );
+
+      let char_y =
+        locationPos[locations.indexOf(sceneLocations[scene])] -
+        0.6 * location_offset +
+        character_offset *
+          sceneCharacters[scene].characters.indexOf(character.character);
+
+      if (normalized_importance < character_height) {
+        char_y += character_height / 2 - normalized_importance / 2;
+      } else if (normalized_importance > character_height) {
+        char_y -= normalized_importance / 2 - character_height / 2;
+      }
+
       return {
         x: initialScenePos[scene].x - 0.5 * normalized_importance,
-        y:
-          locationPos[locations.indexOf(sceneLocations[scene])] +
-          2 * (1 - importance) -
-          0.6 * location_offset +
-          character_offset *
-            sceneCharacters[scene].characters.indexOf(character.character),
+        y: char_y,
         width: normalized_importance,
         height: normalized_importance,
       };
@@ -175,6 +183,7 @@ const characterPaths = (
 ) => {
   const allPaths = characterScenes.map((character) => {
     const paths = [];
+    const adjustments = {} as Record<number, number>;
 
     const character_coords = characterPos[characterScenes.indexOf(character)];
     // convert to array of arrays, adjust for character height
@@ -363,6 +372,15 @@ const characterPaths = (
             i += 2;
           }
         }
+        adjustments[i] = 0;
+      } else {
+        if (cur_y > prev_y) {
+          // if character is moving down
+          adjustments[i] = -1 * numNextChars;
+        } else if (cur_y < prev_y) {
+          // if character is moving up
+          adjustments[i] = prevCharInd;
+        }
       }
     }
 
@@ -376,7 +394,9 @@ const characterPaths = (
       character_coords_arr[character_coords_arr.length - 1][1] -= 0.0001;
     }
 
-    paths.push(svgPath(character_coords_arr, bezierCommand));
+    paths.push(
+      svgPath(character_coords_arr, adjustments, bezierCommand, scene_width)
+    );
     return paths;
   });
 
@@ -424,10 +444,10 @@ const sceneBoxes = (
       characterSquares[lastChar][lastCharScene].height;
 
     return {
-      x: scenePos[i].x - scene_base / character_height,
-      y: top - 0.75 * character_height,
+      x: scenePos[i].x - character_height,
+      y: top - 0.5 * character_height,
       width: 2 * character_height,
-      height: bottom - top + 1.5 * character_height,
+      height: bottom - top + character_height,
     };
   });
 
@@ -453,7 +473,7 @@ const legendPos = (characterScenes: CharacterScene[], plotWidth: number) => {
     return Math.max(...group.map((char) => getStringWidth(char)));
   });
   let legend_offset =
-    max_lengths[max_lengths.length - 1] * 4 + 2.5 * character_offset;
+    max_lengths[max_lengths.length - 1] * 4 + 2.25 * character_offset;
 
   let all_pos = [] as Position[];
 
@@ -463,8 +483,7 @@ const legendPos = (characterScenes: CharacterScene[], plotWidth: number) => {
     group.forEach((_, j) => {
       const x_offset = plotWidth - my_offset;
       const y_offset =
-        location_offset * 0.6 +
-        (group.length - j - 1) * 1.75 * character_height;
+        location_offset * 0.5 + (group.length - j - 1) * 1.6 * character_height;
 
       all_pos.push({
         x: x_offset,
@@ -480,7 +499,7 @@ const legendPos = (characterScenes: CharacterScene[], plotWidth: number) => {
     }
     legend_offset +=
       max_lengths[max_lengths.length - i - 1] * 4 +
-      3 * factor * character_offset;
+      2.75 * factor * character_offset;
   });
 
   return all_pos.reverse();
@@ -492,10 +511,10 @@ const legend_box_pos = (plotWidth: number, legendPos: Position[]) => {
   // find max y in legendPos
   const max_y = Math.max(...legendPos.map((pos) => pos.y));
   return {
-    x: min_x - 1.25 * character_offset,
+    x: min_x - character_offset,
     y: 0,
-    width: plotWidth - min_x + 1.25 * character_offset,
-    height: max_y + 1.75 * character_offset,
+    width: plotWidth - min_x + character_offset,
+    height: max_y + 1.4 * character_offset,
   };
 };
 
@@ -509,8 +528,8 @@ const location_quote_boxes = (
     return {
       x: scene_offset - 1.25 * location_offset,
       y: locationPos[locationPos.length - 2] - location_offset,
-      width: scene_base * 5 - character_offset,
-      height: (location_quotes[i].quote.length + 3) * character_offset,
+      width: scene_base * 5.5 - 2 * character_offset,
+      height: (location_quotes[i].quote.length + 2.4) * character_offset,
     };
   });
 };
@@ -525,7 +544,7 @@ const location_quote_texts = (
     return location_quotes[i].quote.map((_, j) => {
       return {
         x: scene_offset - 0.5 * location_offset,
-        y: locationPos[locationPos.length - 2] + (j + 1.2) * character_offset,
+        y: locationPos[locationPos.length - 2] + (j + 1.25) * character_offset,
       };
     });
   });
@@ -539,7 +558,7 @@ const character_quote_boxes = (
   characterScenes.map((_, i) => {
     return {
       x: legend_box_pos.x,
-      y: legend_box_pos.y + legend_box_pos.height + 3 * character_height,
+      y: legend_box_pos.y + legend_box_pos.height + 1.75 * character_offset,
       width: scene_base * 5.5 + character_offset,
       height:
         (Math.max(character_quotes[i].quote.length, 2) + 3) * character_offset,
@@ -564,9 +583,9 @@ const character_quote_texts = (
 
 // scene quote box positions
 const base_scene_summary_box = (legendBoxPos: Box) => {
-  const width = scene_base * 8.25;
+  const width = scene_base * 8.5;
   return {
-    x: legendBoxPos.x - width - 3 * character_height,
+    x: legendBoxPos.x - width - 2 * character_offset,
     y: 0,
     width: width,
   } as SceneSummaryBox;
@@ -578,11 +597,11 @@ const scene_summary_texts = (
   sceneSummaries: SceneSummary[]
 ) =>
   scenes.map((_, i) => {
-    const start_x = scene_summary_boxes.x + 1.2 * character_offset;
+    const start_x = scene_summary_boxes.x + 0.9 * character_offset;
     const end_x = start_x + scene_summary_boxes.width - 1.5 * location_offset;
     const third = (end_x - start_x) / 3 - 0.8 * character_offset;
 
-    let start_y = 2 * character_offset;
+    let start_y = 1.75 * character_offset;
     const title_y = start_y + 2.4 * character_offset;
     const summary_y = title_y + 1.6 * character_offset;
     const end_summary_y =
@@ -611,7 +630,7 @@ const scene_summary_texts = (
       1.4 * num_characters * character_offset +
       1.2 * last_quote_index * character_offset +
       character_offsets[num_characters - 1] +
-      1.2 * character_offset;
+      character_offset;
 
     return {
       x: start_x,
@@ -659,7 +678,10 @@ const update_scene_summaries = (
       // see if any characters' y pos will overlap with the scene overlay
       characters.some((_, i) => {
         const charPos = characterPos[i][sceneIndex];
-        if (charPos && charPos.y < sceneSummaryTexts[sceneIndex].height) {
+        if (
+          charPos &&
+          charPos.y < sceneSummaryTexts[sceneIndex].height + character_offset
+        ) {
           acc.push(sceneIndex);
           return true;
         }
@@ -686,12 +708,12 @@ const update_scene_summaries = (
 
     const new_text = { ...text };
     if (overlappingScenes.includes(i)) {
-      const x_translate = new_box.x - new_text.x + 1.2 * character_offset;
+      const x_translate = new_box.x - new_text.x + 0.9 * character_offset;
       new_text.x += x_translate;
       new_text.end_x += x_translate;
       new_text.mid_x += x_translate;
 
-      const y_translate = new_box.y - new_text.y + 2 * character_offset;
+      const y_translate = new_box.y - new_text.y + 1.75 * character_offset;
       new_text.y += y_translate;
       new_text.title_y += y_translate;
       new_text.summary_y += y_translate;
@@ -751,7 +773,7 @@ const conflictPath = (conflict_points: Position[], scenePos: Position[]) => {
     point.y + character_height / 2,
   ]);
 
-  const path = svgPath(conflict_coords, bezierCommand);
+  const path = svgPath(conflict_coords, {}, bezierCommand, 0);
 
   // add a point at the beginning and end of the curve to close it off
   const start = [conflict_coords[0][0], scenePos[0].y - 0.75 * location_offset];
@@ -882,7 +904,7 @@ export const getAllPositions = (
   const initColorBarPos = color_bar_pos(plotWidth, initScenePos);
 
   const plotHeight =
-    initColorBarPos[0].y + initColorBarPos[0].height + 2 * character_height;
+    initColorBarPos[0].y + initColorBarPos[0].height + 6 * character_height;
 
   const min_conflict_y = initScenePos[0].y - 0.75 * location_offset;
   const initConflictPoints = conflict_points(

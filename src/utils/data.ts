@@ -108,7 +108,7 @@ const location_quotes = (
 ): LocationQuote[] =>
   location_data
     .map((location) => {
-      const chunked = chunkQuote('"' + location.quote + '"', 75);
+      const chunked = chunkQuote('"' + location.quote + '"', 82);
       return {
         location: location.name,
         quote: chunked,
@@ -248,7 +248,7 @@ const sceneSummaries = (
   data.map((scene) => {
     // also chunk each character's quote for the first emotion in their emotions list
     // save in a dictionary with character name as key
-    const chunk_size = 115;
+    const chunk_size = 117;
     const chunkedEmotions = scene.characters.map((character) => {
       const chunked = chunkQuote(
         '"' + character.sentiment.quote + '"',
