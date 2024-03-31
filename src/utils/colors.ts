@@ -1,22 +1,8 @@
 import * as d3 from "d3";
 import { CharacterData } from "./data";
-import { normalize } from "./helpers";
 import chroma from "chroma-js";
 
-// original colors
-// const colors = [
-//   "rgb(247, 113, 137, 1)",
-//   "rgb(220, 137, 50, 1)",
-//   "rgb(174, 157, 49, 1)",
-//   "rgb(119, 171, 49, 1)",
-//   "rgb(51, 176, 122, 1)",
-//   "rgb(54, 173, 164, 1)",
-//   "rgb(56, 169, 197, 1)",
-//   "rgb(110, 155, 244, 1)",
-//   "rgb(204, 122, 244, 1)",
-//   "rgb(245, 101, 204, 1)",
-// ];
-
+// colors for characters
 const colors1 = chroma.scale("YlOrRd").padding([0.25, 0.1]).colors(7).reverse();
 const colors2 = chroma.scale("YlGn").padding([0.35, 0.55]).colors(2);
 const colors3 = chroma.scale("YlGnBu").padding([0.35, 0.1]).colors(7);
@@ -26,23 +12,6 @@ const allColors = chroma.scale(
   colors1.concat(colors2).concat(colors3).concat(colors4)
 );
 
-// Custom interpolator to exclude the middle, lighter part of the spectral scale
-function customSpectralInterpolator(t: any) {
-  // Define thresholds to exclude the middle range
-  const start = 0.4; // Starting point of the first part
-  const end = 0.7; // Starting point of the second part
-
-  if (t < 0.5) {
-    // Map the first half to the 0 - start range of the original scale
-    return d3.interpolateSpectral(start * 2 * t);
-  } else {
-    // Map the second half to the end - 1 range of the original scale
-    return d3.interpolateSpectral(end + (2 * t - 1) * (1 - end));
-  }
-}
-
-// color scales
-export const characterColor = d3.scaleSequential(customSpectralInterpolator);
 export const emotionColor = d3
   .scaleSequential(d3.interpolateRdBu)
   .domain([1, -1]);
@@ -96,35 +65,7 @@ export const getColor = (
 ) => {
   const characters = sortedCharacters.map((d) => d.character);
   const charIndex = characters.indexOf(character);
-
-  // VARIATION 3
-  // const allGroups = Array.from(new Set(sortedCharacters.map((d) => d.group)));
-  // const groupNumber = sortedCharacters[charIndex].group;
-  // const group = sortedCharacters.filter((d) => d.group === groupNumber);
-  // const groupSize = group.length;
-  // const groupIndex = allGroups.indexOf(groupNumber);
-  // const charIndexInGroup = group.findIndex((d) => d.character === character);
-
-  // const colorScale = groupColors[groupIndex];
-  // const fracInGroup =
-  //   groupSize === 1 ? 0.5 : charIndexInGroup / (groupSize - 1);
-  // const mappedIndex = normalize(fracInGroup, 0, 1, 0.9, 0.4);
-
-  // const finalColor = colorScale(mappedIndex);
-
-  // VARIATION 2
-  // const numRows = Math.round(sortedCharacters.length / 5);
-  // const numCharsPerRow = Math.round(sortedCharacters.length / numRows);
-  // const colorIndex =
-  //   ((charIndex % numRows) * numCharsPerRow + charIndex / numRows) /
-  //   (sortedCharacters.length - 1);
-
-  // VARIATION 1
-  // const colorIndex = (charIndex % 10) / 10 + 0.05 * (charIndex / 10);
-
-  // VARIATION 0
   const colorIndex = charIndex / (sortedCharacters.length - 1);
-  // let finalColor = characterColor(colorIndex);
   let finalColor = chroma(allColors(colorIndex)).css();
 
   return finalColor;

@@ -385,10 +385,10 @@ const characterPaths = (
         adjustments[i] = 0;
       } else {
         if (cur_y > prev_y) {
-          // if character is moving down
-          adjustments[i] = -1 * numNextChars;
-        } else if (cur_y < prev_y) {
           // if character is moving up
+          adjustments[i] = -1 * prevCharInd;
+        } else {
+          // if character is moving down
           adjustments[i] = prevCharInd;
         }
       }
@@ -404,9 +404,7 @@ const characterPaths = (
       character_coords_arr[character_coords_arr.length - 1][1] -= 0.0001;
     }
 
-    paths.push(
-      svgPath(character_coords_arr, adjustments, bezierCommand, scene_width)
-    );
+    paths.push(svgPath(character_coords_arr, adjustments, bezierCommand));
     return paths;
   });
 
@@ -827,7 +825,7 @@ const conflictPath = (conflict_points: Position[], scenePos: Position[]) => {
     point.y + character_height / 2,
   ]);
 
-  const path = svgPath(conflict_coords, {}, bezierCommand, 0);
+  const path = svgPath(conflict_coords, {}, bezierCommand);
 
   // add a point at the beginning and end of the curve to close it off
   const start = [conflict_coords[0][0], scenePos[0].y - 0.75 * location_offset];

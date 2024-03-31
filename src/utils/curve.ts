@@ -1,5 +1,7 @@
 // adapted from https://codepen.io/francoisromain/pen/dzoZZj
 
+import { character_height, character_offset, location_height } from "./consts";
+
 // The smoothing ratio
 const smoothing = 0.4;
 
@@ -26,6 +28,9 @@ const controlPoint = (
   current: any,
   previous: any,
   next: any,
+  adjustment: number,
+  prev_adjustment: number,
+  next_adjustment: number,
   reverse: any,
   secondLast: boolean
 ) => {
@@ -55,8 +60,33 @@ const controlPoint = (
   let x = current[0] + Math.cos(angle) * length;
   let y = current[1] + Math.sin(angle) * 0;
 
-  if (secondLast && reverse && current[1] < previous[1]) {
-    // x -= 0.5 * length;
+  if (adjustment !== undefined) {
+    if (adjustment > 0) {
+      // moving down
+      if (!reverse && next_adjustment === -1 * adjustment) {
+        if (
+          (next &&
+            current[1] - next[1] > location_height + 2 * character_height) ||
+          prev_adjustment === 0
+        ) {
+          x += adjustment * 2 * character_offset;
+        }
+      }
+    } else if (adjustment < 0) {
+      // moving up
+      if (
+        reverse &&
+        previous &&
+        current[1] - previous[1] > location_height + 2 * character_height
+      ) {
+        x += adjustment * 2 * character_offset;
+      } else if (
+        previous &&
+        previous[1] - current[1] > location_height + 2 * character_height
+      ) {
+        x += (adjustment + 1) * 0.5 * character_offset;
+      }
+    }
   }
 
   if (previous && x < previous[0]) {
@@ -66,6 +96,7 @@ const controlPoint = (
     // ensure the control point does not go beyond the next point
     x = next[0];
   }
+
   return [x, y];
 };
 
@@ -74,17 +105,40 @@ const controlPoint = (
 //     - i (integer): index of 'point' in the array 'a'
 //     - a (array): complete array of points coordinates
 // O:  - (string) 'C x2,y2 x1,y1 x,y': SVG cubic bezier C command
-export const bezierCommand = (point: any, i: number, a: any) => {
+export const bezierCommand = (
+  point: any,
+  adjustment: number[],
+  i: number,
+  a: any
+) => {
   let secondLast = false;
   if (i === a.length - 2) {
     secondLast = true;
   }
 
   // start control point
-  const cps = controlPoint(a[i - 1], a[i - 2], point, false, secondLast);
+  const cps = controlPoint(
+    a[i - 1],
+    a[i - 2],
+    point,
+    adjustment[i],
+    adjustment[i - 1],
+    adjustment[i + 1],
+    false,
+    secondLast
+  );
 
   // end control point
-  const cpe = controlPoint(point, a[i - 1], a[i + 1], true, secondLast);
+  const cpe = controlPoint(
+    point,
+    a[i - 1],
+    a[i + 1],
+    adjustment[i],
+    adjustment[i - 1],
+    adjustment[i + 1],
+    true,
+    secondLast
+  );
   //   return `C ${cps[0]},${cps[1]} ${cpe[0]},${cpe[1]} ${point[0]},${point[1]}`;
   return `C ${cps[0]},${cps[1]} ${cpe[0]},${cpe[1]} ${point[0]},${point[1]}`;
 };
@@ -97,11 +151,13 @@ export const bezierCommand = (point: any, i: number, a: any) => {
 //           - a (array): complete array of points coordinates
 //       O:  - (string) a svg path command
 // O:  - (string): a Svg <path> element
-export const svgPath = (points: any, command: any) => {
+export const svgPath = (points: any, adjustments: any, command: any) => {
   // build the d attributes by looping over the points
   const d = points.reduce(
     (acc: any, point: any, i: number, a: any) =>
-      i === 0 ? `M ${point[0]},${point[1]}` : `${acc} ${command(point, i, a)}`,
+      i === 0
+        ? `M ${point[0]},${point[1]}`
+        : `${acc} ${command(point, adjustments, i, a)}`,
     ""
   );
   return d;
