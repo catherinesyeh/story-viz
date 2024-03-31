@@ -5,6 +5,7 @@ import {
   importanceColor,
   textColor,
   characterColor,
+  getColorIndex,
 } from "../../utils/colors";
 import { character_offset, character_height } from "../../utils/consts";
 import { dataStore } from "../../stores/dataStore";
@@ -13,7 +14,8 @@ import { positionStore } from "../../stores/positionStore";
 
 function SceneOverlay() {
   const { sceneHover } = storyStore();
-  const { scene_data, characterScenes, sceneSummaries } = dataStore();
+  const { scene_data, characterScenes, sceneSummaries, sortedCharacters } =
+    dataStore();
   const { sceneSummaryBoxes, sceneSummaryTexts } = positionStore();
 
   return (
@@ -168,9 +170,7 @@ function SceneOverlay() {
                         textAnchor="start"
                         className="scene-character"
                         fill={characterColor(
-                          characterScenes.findIndex(
-                            (c) => c.character === char.character
-                          ) /
+                          getColorIndex(char.character, sortedCharacters) /
                             (characterScenes.length - 1)
                         )}
                       >

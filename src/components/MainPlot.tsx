@@ -1,6 +1,11 @@
 import { storyStore } from "../stores/storyStore";
 import { dataStore } from "../stores/dataStore";
-import { characterColor, emotionColor, importanceColor } from "../utils/colors";
+import {
+  characterColor,
+  emotionColor,
+  getColorIndex,
+  importanceColor,
+} from "../utils/colors";
 import { character_height } from "../utils/consts";
 import { positionStore } from "../stores/positionStore";
 
@@ -57,8 +62,9 @@ function MainPlot() {
       <g id="character-paths">
         {characterScenes.map((character, i) => {
           const firstScene = character.scenes[0];
-          const colorIndex = sortedCharacters.findIndex(
-            (c) => c.character === character.character
+          const colorIndex = getColorIndex(
+            character.character,
+            sortedCharacters
           );
           return (
             <g

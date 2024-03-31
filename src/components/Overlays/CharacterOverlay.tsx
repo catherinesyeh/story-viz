@@ -1,5 +1,5 @@
 import { storyStore } from "../../stores/storyStore";
-import { characterColor } from "../../utils/colors";
+import { characterColor, getColorIndex } from "../../utils/colors";
 import { character_offset, location_height } from "../../utils/consts";
 import { dataStore } from "../../stores/dataStore";
 import { positionStore } from "../../stores/positionStore";
@@ -14,9 +14,7 @@ function CharacterOverlay() {
     <g id="character-quotes">
       {/* add box with quote from each character */}
       {characterScenes.map((character, i) => {
-        const colorIndex = sortedCharacters.findIndex(
-          (c) => c.character === character.character
-        );
+        const colorIndex = getColorIndex(character.character, sortedCharacters);
         return (
           characterQuoteTexts[i] && (
             <g

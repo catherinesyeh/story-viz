@@ -1,4 +1,5 @@
 import * as d3 from "d3";
+import { CharacterData } from "./data";
 
 // original colors
 // const colors = [
@@ -66,4 +67,22 @@ export const color_dict = {
   importance: importance_increments,
   conflict: conflict_increments,
   sentiment: emotion_increments,
+};
+
+// compute colorIndex
+export const getColorIndex = (
+  character: string,
+  sortedCharacters: CharacterData[]
+) => {
+  // const characters = sortedCharacters.map((d) => d.character);
+  // const numRows = Math.round(sortedCharacters.length / 5);
+  // const numCharsPerRow = Math.round(sortedCharacters.length / numRows);
+  // const charIndex = characters.indexOf(character);
+  // const colorIndex =
+  //   (charIndex % numRows) * numCharsPerRow + charIndex / numRows;
+
+  const colorIndex = sortedCharacters.findIndex(
+    (d) => d.character === character
+  );
+  return colorIndex;
 };

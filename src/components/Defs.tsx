@@ -5,6 +5,7 @@ import {
   conflictColor,
   importanceColor,
   characterColor,
+  getColorIndex,
 } from "../utils/colors";
 import { dataStore } from "../stores/dataStore";
 import { normalizeRating } from "../utils/helpers";
@@ -32,9 +33,7 @@ function Defs() {
           const fade_in_percent = fade_in * 100;
           const fade_out_percent = 100 - fade_in_percent;
 
-          const colorIndex = sortedCharacters.findIndex(
-            (c) => c.character === char.character
-          );
+          const colorIndex = getColorIndex(char.character, sortedCharacters);
 
           return (
             <linearGradient
