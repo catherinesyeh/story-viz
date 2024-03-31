@@ -1,6 +1,7 @@
 import * as d3 from "d3";
 import { CharacterData } from "./data";
 import { normalize } from "./helpers";
+import chroma from "chroma-js";
 
 // original colors
 // const colors = [
@@ -15,6 +16,15 @@ import { normalize } from "./helpers";
 //   "rgb(204, 122, 244, 1)",
 //   "rgb(245, 101, 204, 1)",
 // ];
+
+const colors1 = chroma.scale("YlOrRd").padding([0.25, 0.1]).colors(7).reverse();
+const colors2 = chroma.scale("YlGn").padding([0.35, 0.55]).colors(2);
+const colors3 = chroma.scale("YlGnBu").padding([0.35, 0.1]).colors(7);
+const colors4 = chroma.scale("RdPu").padding([0.3, 0.1]).colors(7).reverse();
+
+const allColors = chroma.scale(
+  colors1.concat(colors2).concat(colors3).concat(colors4)
+);
 
 // Custom interpolator to exclude the middle, lighter part of the spectral scale
 function customSpectralInterpolator(t: any) {
@@ -40,12 +50,12 @@ export const conflictColor = d3.scaleSequential(d3.interpolateGreens);
 export const importanceColor = d3.scaleSequential(d3.interpolatePurples);
 
 export const groupColors = [
-  d3.scaleSequential(d3.interpolateReds),
-  d3.scaleSequential(d3.interpolatePurples),
-  d3.scaleSequential(d3.interpolateBlues),
-  d3.scaleSequential(d3.interpolateGreens),
-  d3.scaleSequential(d3.interpolateOranges),
-  d3.scaleSequential(d3.interpolateGreys),
+  d3.scaleSequential(d3.interpolateOrRd),
+  d3.scaleSequential(d3.interpolatePuRd),
+  d3.scaleSequential(d3.interpolateBuPu),
+  d3.scaleSequential(d3.interpolatePuBu),
+  d3.scaleSequential(d3.interpolateBuGn),
+  d3.scaleSequential(d3.interpolateGnBu),
 ];
 
 // see if color is too dark --> if so, return white, else return black
@@ -98,7 +108,7 @@ export const getColor = (
   // const colorScale = groupColors[groupIndex];
   // const fracInGroup =
   //   groupSize === 1 ? 0.5 : charIndexInGroup / (groupSize - 1);
-  // const mappedIndex = normalize(fracInGroup, 0, 1, 1, 0.3);
+  // const mappedIndex = normalize(fracInGroup, 0, 1, 0.9, 0.4);
 
   // const finalColor = colorScale(mappedIndex);
 
@@ -110,10 +120,12 @@ export const getColor = (
   //   (sortedCharacters.length - 1);
 
   // VARIATION 1
-  const colorIndex =
-    sortedCharacters.findIndex((d) => d.character === character) /
-    (sortedCharacters.length - 1);
+  // const colorIndex = (charIndex % 10) / 10 + 0.05 * (charIndex / 10);
 
-  const finalColor = characterColor(colorIndex);
+  // VARIATION 0
+  const colorIndex = charIndex / (sortedCharacters.length - 1);
+  // let finalColor = characterColor(colorIndex);
+  let finalColor = chroma(allColors(colorIndex)).css();
+
   return finalColor;
 };
