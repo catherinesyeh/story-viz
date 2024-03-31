@@ -78,6 +78,17 @@ const controlPoint = (
       } else if (previous && previous[1] - current[1] > location_buffer) {
         x += (adjustment + 1) * 0.5 * character_offset;
       }
+    } else {
+      if (
+        (previous && Math.abs(current[1] - previous[1]) > location_buffer) ||
+        (next && Math.abs(current[1] - next[1]) > location_buffer)
+      ) {
+        if (!reverse) {
+          x += 0.5 * character_offset;
+        } else {
+          x -= 0.5 * character_offset;
+        }
+      }
     }
   }
 
