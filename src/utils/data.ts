@@ -51,6 +51,7 @@ export interface LocationData {
 export interface CharacterData {
   character: string;
   quote: string;
+  group: string;
 }
 
 export interface LocationQuote {
@@ -66,6 +67,7 @@ export interface CharacterScene {
 
 export interface CharacterQuote {
   character: string;
+  group: string;
   quote: string[];
 }
 
@@ -185,6 +187,7 @@ const character_quotes = (
       const chunked = chunkQuote('"' + character.quote + '"', 80);
       return {
         character: character.character,
+        group: character.group,
         quote: chunked,
       };
     })

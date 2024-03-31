@@ -526,71 +526,88 @@
   "characters": [
     {
       "character": "Alice",
-      "quote": "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do."
+      "quote": "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do.",
+      "group": "Main Characters"
     },
     {
       "character": "White Rabbit",
-      "quote": "suddenly a White Rabbit with pink eyes ran close by her."
+      "quote": "suddenly a White Rabbit with pink eyes ran close by her.",
+      "group": "Eccentric Characters"
     },
     {
       "character": "Mouse",
-      "quote": "'Mine is a long and sad tale!' said the Mouse."
+      "quote": "'Mine is a long and sad tale!' said the Mouse.",
+      "group": "Creatures of Wisdom or Mystique"
     },
     {
       "character": "Dodo",
-      "quote": "'The best way to explain it is to do it.'"
+      "quote": "'The best way to explain it is to do it.'",
+      "group": "Eccentric Characters"
     },
     {
       "character": "Baby",
-      "quote": "'If it had grown up,' she said to herself, 'it would have made a dreadfully ugly child: but it makes rather a handsome pig, I think.'"
+      "quote": "'If it had grown up,' she said to herself, 'it would have made a dreadfully ugly child: but it makes rather a handsome pig, I think.'",
+      "group": "Innocents or Victims"
     },
     {
       "character": "Duchess",
-      "quote": "The Duchess was sitting on a three-legged stool in the middle, nursing a baby."
+      "quote": "The Duchess was sitting on a three-legged stool in the middle, nursing a baby.",
+      "group": "Authority Figures"
     },
     {
       "character": "Cheshire Cat",
-      "quote": "'It's a Cheshire cat,' said the Duchess, 'and that's why. Pig!'"
+      "quote": "'It's a Cheshire cat,' said the Duchess, 'and that's why. Pig!'",
+      "group": "Eccentric Characters"
     },
     {
       "character": "Caterpillar",
-      "quote": "'Who are _you_?' said the Caterpillar."
+      "quote": "'Who are _you_?' said the Caterpillar.",
+      "group": "Creatures of Wisdom or Mystique"
     },
     {
       "character": "March Hare",
-      "quote": "'Have some wine,' the March Hare said in an encouraging tone."
+      "quote": "'Have some wine,' the March Hare said in an encouraging tone.",
+      "group": "Eccentric Characters"
     },
     {
       "character": "Mad Hatter",
-      "quote": "'Your hair wants cutting,' said the Hatter."
+      "quote": "'Your hair wants cutting,' said the Hatter.",
+      "group": "Eccentric Characters"
     },
     {
       "character": "Dormouse",
-      "quote": "'I wasn't asleep,' he said in a hoarse, feeble voice: 'I heard every word you fellows were saying.'"
+      "quote": "'I wasn't asleep,' he said in a hoarse, feeble voice: 'I heard every word you fellows were saying.'",
+      "group": "Eccentric Characters"
     },
     {
       "character": "Queen of Hearts",
-      "quote": "'Off with his head!' she said, without even looking round."
+      "quote": "'Off with his head!' she said, without even looking round.",
+      "group": "Authority Figures"
     },
     {
       "character": "King of Hearts",
-      "quote": "'Consider my dear: she is only a child!' the King said."
+      "quote": "'Consider my dear: she is only a child!' the King said.",
+      "group": "Authority Figures"
     },
     {
       "character": "Gryphon",
-      "quote": "'Will you, won't you, will you, won't you, will you join the dance?'"
+      "quote": "'Will you, won't you, will you, won't you, will you join the dance?'",
+      "group": "Eccentric Characters"
     },
     {
       "character": "Mock Turtle",
-      "quote": "'When we were little,' the Mock Turtle went on at last, more calmly, though still sobbing a little now and then, 'we went to school in the sea.'"
+      "quote": "'When we were little,' the Mock Turtle went on at last, more calmly, though still sobbing a little now and then, 'we went to school in the sea.'",
+      "group": "Creatures of Wisdom or Mystique"
     },
     {
       "character": "Knave of Hearts",
-      "quote": "'I haven't done anything wrong,' said the Knave of Hearts, 'and I don't deserve to be punished.'"
+      "quote": "'I haven't done anything wrong,' said the Knave of Hearts, 'and I don't deserve to be punished.'",
+      "group": "Innocents or Victims"
     },
     {
       "character": "Jury",
-      "quote": "The jury all wrote down on their slates, 'She doesn't believe there's an atom of meaning in it.'"
+      "quote": "The jury all wrote down on their slates, 'She doesn't believe there's an atom of meaning in it.'",
+      "group": "Authority Figures"
     }
   ]
 }

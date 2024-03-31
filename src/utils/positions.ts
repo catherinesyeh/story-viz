@@ -689,7 +689,7 @@ const update_scene_summaries = (
       const characters = sceneCharacters[sceneIndex].characters;
 
       // see if any characters' y pos will overlap with the scene overlay
-      characters.some((char, i) => {
+      characters.some((char) => {
         // find index of character in characterScenes
         const charIndex = characterScenes.findIndex(
           (c) => c.character === char
@@ -738,8 +738,7 @@ const update_scene_summaries = (
       let y_translate = new_box.y - new_text.y + 1.75 * character_offset;
 
       // see if any characters' y pos will overlap with the scene overlay
-      console.log("scene", i);
-      const still_overlap = characters.some((char, j) => {
+      const still_overlap = characters.some((char) => {
         // find index in characterScenes of this scene
         const charIndex = characterScenes.findIndex(
           (c) => c.character === char
@@ -749,7 +748,6 @@ const update_scene_summaries = (
           (s) => s === i
         );
         const charPos = characterPos[charIndex][charSceneIndex];
-        console.log(charPos, new_box.x, new_text.x, new_text.y, y_translate);
         return (
           charPos &&
           charPos.x > new_box.x - character_offset &&

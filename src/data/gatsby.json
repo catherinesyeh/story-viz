@@ -781,39 +781,48 @@
   "characters": [
     {
       "character": "Nick",
-      "quote": "Everyone suspects himself of at least one of the cardinal virtues, and this is mine: I am one of the few honest people that I have ever known."
+      "quote": "Everyone suspects himself of at least one of the cardinal virtues, and this is mine: I am one of the few honest people that I have ever known.",
+      "group": "Upper Class"
     },
     {
       "character": "Gatsby",
-      "quote": "He smiled understandingly—much more than understandingly. It was one of those rare smiles with a quality of eternal reassurance in it."
+      "quote": "He smiled understandingly—much more than understandingly. It was one of those rare smiles with a quality of eternal reassurance in it.",
+      "group": "Upper Class"
     },
     {
       "character": "Tom Buchanan",
-      "quote": "Two shining arrogant eyes had established dominance over his face."
+      "quote": "Two shining arrogant eyes had established dominance over his face.",
+      "group": "Upper Class"
     },
     {
       "character": "Daisy",
-      "quote": "Daisy and Jordan lay upon an enormous couch, like silver idols weighing down their own white dresses against the singing breeze of the fans."
+      "quote": "Daisy and Jordan lay upon an enormous couch, like silver idols weighing down their own white dresses against the singing breeze of the fans.",
+      "group": "Upper Class"
     },
     {
       "character": "Myrtle Wilson",
-      "quote": "'I married him because I thought he was a gentleman,' she said finally. 'I thought he knew something about breeding, but he wasn't fit to lick my shoe... The only crazy I was was when I married him. I knew right away I made a mistake.'"
+      "quote": "'I married him because I thought he was a gentleman,' she said finally. 'I thought he knew something about breeding, but he wasn't fit to lick my shoe... The only crazy I was was when I married him. I knew right away I made a mistake.'",
+      "group": "Lower Class"
     },
     {
       "character": "George Wilson",
-      "quote": "He was a blond, spiritless man, anaemic, and faintly handsome. When he saw us a damp gleam of hope sprang into his light blue eyes."
+      "quote": "He was a blond, spiritless man, anaemic, and faintly handsome. When he saw us a damp gleam of hope sprang into his light blue eyes.",
+      "group": "Lower Class"
     },
     {
       "character": "Party Guests",
-      "quote": "I believe that on the first night I went to Gatsby's house I was one of the few guests who had actually been invited. People were not invited—they went there."
+      "quote": "I believe that on the first night I went to Gatsby's house I was one of the few guests who had actually been invited. People were not invited—they went there.",
+      "group": "Outsiders/Observers"
     },
     {
       "character": "Owl Eyes",
-      "quote": "I looked around. It was the man with owl-eyed glasses whom I had found marvelling over Gatsby's books in the library one night three months before... 'The poor son-of-a-bitch,' he said."
+      "quote": "I looked around. It was the man with owl-eyed glasses whom I had found marvelling over Gatsby's books in the library one night three months before... 'The poor son-of-a-bitch,' he said.",
+      "group": "Outsiders/Observers"
     },
     {
       "character": "Jordan Baker",
-      "quote": "For a while I lost sight of Jordan Baker, and then in midsummer I found her again. At first I was flattered to go places with her, because she was a golf champion, and everyone knew her name. Then it was something more. I wasn't actually in love, but I felt a sort of tender curiosity."
+      "quote": "For a while I lost sight of Jordan Baker, and then in midsummer I found her again. At first I was flattered to go places with her, because she was a golf champion, and everyone knew her name. Then it was something more. I wasn't actually in love, but I felt a sort of tender curiosity.",
+      "group": "Upper Class"
     }
   ]
 }

@@ -48,10 +48,13 @@ function CharacterOverlay() {
                       : 0)
                   }
                   textAnchor="start"
-                  className="quote-text bold"
+                  className="quote-text"
                   fill={characterColor(i / (characterScenes.length - 1))}
                 >
-                  {character.character}
+                  <tspan className="bold">{character.character}</tspan>{" "}
+                  <tspan className="emphasis">
+                    ({character_quotes[i].group})
+                  </tspan>
                 </text>
 
                 {character_quotes[i].quote.map(
