@@ -45,11 +45,13 @@ export interface Scene {
 
 export interface LocationData {
   name: string;
+  key: string;
   quote: string;
 }
 
 export interface CharacterData {
   character: string;
+  key: string;
   quote: string;
   group: string;
 }

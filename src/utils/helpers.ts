@@ -134,3 +134,6 @@ const characterWidths: { [char: string]: number } = {
 export const getStringWidth = (s: string) =>
   // use characterWidths or return '1' as each width if the character is not in the characterWidths object
   s.split("").reduce((acc, char) => acc + (characterWidths[char] || 1), 0);
+
+// remove numbers and punctuation from string
+export const onlyLetters = (s: string) => s.replace(/[^a-zA-Z ]/g, "");

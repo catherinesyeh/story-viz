@@ -8,6 +8,7 @@ import {
 import { positionStore } from "../stores/positionStore";
 
 import Image from "./Image";
+import { onlyLetters } from "../utils/helpers";
 
 function YAxis() {
   const {
@@ -25,6 +26,7 @@ function YAxis() {
     locations,
     location_chunks,
     sceneCharacters,
+    location_data,
   } = dataStore();
   const { locationPos, scenePos, characterPos } = positionStore();
   const charactersInFirstScene = sceneCharacters[0].characters;
@@ -70,7 +72,13 @@ function YAxis() {
                 }
                 width={location_height * 0.75}
                 height={location_height * 0.75}
-                href={"/locations/" + story + "/location_" + (i + 1) + ".png"}
+                href={
+                  "/locations/" +
+                  onlyLetters(story) +
+                  "/" +
+                  location_data.find((l) => l.name === location)?.key +
+                  ".png"
+                }
                 placeholder="/locations/placeholder.png"
                 className="location-img"
               />

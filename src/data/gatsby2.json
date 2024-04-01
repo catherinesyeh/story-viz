@@ -680,76 +680,92 @@
   "locations": [
     {
       "name": "West Egg",
+      "key": "west-egg",
       "quote": "I lived at West Egg, the—well, the less fashionable of the two, though this is a most superficial tag to express the bizarre and not a little sinister contrast between them."
     },
     {
       "name": "East Egg",
+      "key": "east-egg",
       "quote": "Across the courtesy bay the white palaces of fashionable East Egg glittered along the water."
     },
     {
       "name": "The Valley of Ashes",
+      "key": "valley-ashes",
       "quote": "This is a valley of ashes—a fantastic farm where ashes grow like wheat into ridges and hills and grotesque gardens; where ashes take the forms of houses and chimneys and rising smoke and, finally, with a transcendent effort, of ash-grey men."
     },
     {
       "name": "Gatsby's Mansion",
+      "key": "gatsby-mansion",
       "quote": "The one on my right was a colossal affair by any standard—it was a factual imitation of some Hôtel de Ville in Normandy, with a tower on one side, spanking new under a thin beard of raw ivy, and a marble swimming pool, and more than forty acres of lawn and garden."
     },
     {
       "name": "Myrtle's Apartment in New York",
+      "key": "myrtle-apartment",
       "quote": "The apartment was on the top floor—a small living-room, a small dining-room, a small bedroom, and a bath. The living-room was crowded to the doors with a set of tapestried furniture entirely too large for it."
     },
     {
       "name": "The Plaza Hotel",
+      "key": "plaza-hotel",
       "quote": "The prolonged and tumultuous argument that ended by herding us into that room eludes me, though I have a sharp physical memory that, in the course of it, my underwear kept climbing like a damp snake around my legs."
     },
     {
       "name": "Nick's Childhood Home",
+      "key": "nick-home",
       "quote": "That's my Middle West—not the wheat or the prairies or the lost Swede towns, but the thrilling returning trains of my youth, and the street lamps and sleigh bells in the frosty dark and the shadows of holly wreaths thrown by lighted windows on the snow."
     }
   ],
   "characters": [
     {
       "character": "Nick Carraway",
+      "key": "nick",
       "quote": "In my younger and more vulnerable years my father gave me some advice that I've been turning over in my mind ever since.",
       "group": "The Main Trio"
     },
     {
       "character": "Jay Gatsby",
+      "key": "gatsby",
       "quote": "He smiled understandingly—much more than understandingly. It was one of those rare smiles with a quality of eternal reassurance in it.",
       "group": "The Main Trio"
     },
     {
       "character": "Daisy Buchanan",
+      "key": "daisy",
       "quote": "Her face was sad and lovely with bright things in it, bright eyes and a bright passionate mouth.",
       "group": "The Main Trio"
     },
     {
       "character": "Tom Buchanan",
+      "key": "tom",
       "quote": "Two shining arrogant eyes had established dominance over his face and gave him the appearance of always leaning aggressively forward.",
       "group": "The Social Circle"
     },
     {
       "character": "Jordan Baker",
+      "key": "jordan",
       "quote": "She was a slender, small-breasted girl, with an erect carriage which she accentuated by throwing her body backward at the shoulders like a young cadet.",
       "group": "The Social Circle"
     },
     {
       "character": "Myrtle Wilson",
+      "key": "myrtle",
       "quote": "Her face, above a spotted dress of dark blue crepe-de-chine, contained no facet or gleam of beauty, but there was an immediately perceptible vitality about her.",
       "group": "The Outsiders"
     },
     {
       "character": "George Wilson",
+      "key": "george",
       "quote": "He was a blond, spiritless man, anaemic, and faintly handsome.",
       "group": "The Outsiders"
     },
     {
       "character": "Meyer Wolfsheim",
+      "key": "wolfsheim",
       "quote": "A small, flat-nosed Jew raised his large head and regarded me with two fine growths of hair which luxuriated in either nostril.",
       "group": "The Background Influence"
     },
     {
       "character": "Mr. Gatz",
+      "key": "mr-gatz",
       "quote": "He was clutching at some last hope and I couldn't bear to shake him free.",
       "group": "The Background Influence"
     }

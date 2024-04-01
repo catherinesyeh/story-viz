@@ -755,72 +755,87 @@
   "locations": [
     {
       "name": "Nick's Childhood Home",
+      "key": "nick-home",
       "quote": "One of my most vivid memories is of coming back West from prep school and later from college at Christmas time. [...] That's my Middle West—not the wheat or the prairies or the lost Swede towns, but the thrilling returning trains of my youth, and the street lamps and sleigh bells in the frosty dark and the shadows of holly wreaths thrown by lighted windows on the snow. I am part of that, a little solemn with the feel of those long winters, a little complacent from growing up in the Carraway house in a city where dwellings are still called through decades by a family's name."
     },
     {
       "name": "West Egg - Nick's Home",
+      "key": "west-egg",
       "quote": "My house was at the very tip of the egg, only fifty yards from the Sound, and squeezed between two huge places that rented for twelve or fifteen thousand a season. [...] My own house was an eyesore, but it was a small eyesore, and it had been overlooked, so I had a view of the water, a partial view of my neighbour's lawn, and the consoling proximity of millionaires—all for eighty dollars a month."
     },
     {
       "name": "East Egg",
+      "key": "east-egg",
       "quote": "Their house was even more elaborate than I expected, a cheerful red-and-white Georgian Colonial mansion, overlooking the bay. The lawn started at the beach and ran towards the front door for a quarter of a mile, jumping over sundials and brick walks and burning gardens—finally when it reached the house drifting up the side in bright vines as though from the momentum of its run."
     },
     {
       "name": "Valley of Ashes",
+      "key": "valley-ashes",
       "quote": "This is a valley of ashes—a fantastic farm where ashes grow like wheat into ridges and hills and grotesque gardens; where ashes take the forms of houses and chimneys and rising smoke and, finally, with a transcendent effort, of ash-grey men, who move dimly and already crumbling through the powdery air."
     },
     {
       "name": "New York",
+      "key": "myrtle-apartment",
       "quote": "The apartment was on the top floor—a small living-room, a small dining-room, a small bedroom, and a bath. The living-room was crowded to the doors with a set of tapestried furniture entirely too large for it, so that to move about was to stumble continually over scenes of ladies swinging in the gardens of Versailles. The only picture was an over-enlarged photograph, apparently a hen sitting on a blurred rock. Looked at from a distance, however, the hen resolved itself into a bonnet, and the countenance of a stout old lady beamed down into the room. Several old copies of Town Tattle lay on the table together with a copy of Simon Called Peter, and some of the small scandal magazines of Broadway."
     },
     {
       "name": "West Egg - Gatsby's Mansion",
+      "key": "gatsby-mansion",
       "quote": "The one on my right was a colossal affair by any standard—it was a factual imitation of some Hôtel de Ville in Normandy, with a tower on one side, spanking new under a thin beard of raw ivy, and a marble swimming pool, and more than forty acres of lawn and garden. It was Gatsby's mansion."
     }
   ],
   "characters": [
     {
       "character": "Nick",
+      "key": "nick",
       "quote": "Everyone suspects himself of at least one of the cardinal virtues, and this is mine: I am one of the few honest people that I have ever known.",
       "group": "Upper Class"
     },
     {
       "character": "Gatsby",
+      "key": "gatsby",
       "quote": "He smiled understandingly—much more than understandingly. It was one of those rare smiles with a quality of eternal reassurance in it.",
       "group": "Upper Class"
     },
     {
       "character": "Tom Buchanan",
+      "key": "tom",
       "quote": "Two shining arrogant eyes had established dominance over his face.",
       "group": "Upper Class"
     },
     {
       "character": "Daisy",
+      "key": "daisy",
       "quote": "Daisy and Jordan lay upon an enormous couch, like silver idols weighing down their own white dresses against the singing breeze of the fans.",
       "group": "Upper Class"
     },
     {
       "character": "Myrtle Wilson",
+      "key": "myrtle",
       "quote": "'I married him because I thought he was a gentleman,' she said finally. 'I thought he knew something about breeding, but he wasn't fit to lick my shoe... The only crazy I was was when I married him. I knew right away I made a mistake.'",
       "group": "Lower Class"
     },
     {
       "character": "George Wilson",
+      "key": "george",
       "quote": "He was a blond, spiritless man, anaemic, and faintly handsome. When he saw us a damp gleam of hope sprang into his light blue eyes.",
       "group": "Lower Class"
     },
     {
       "character": "Party Guests",
+      "key": "party-guests",
       "quote": "I believe that on the first night I went to Gatsby's house I was one of the few guests who had actually been invited. People were not invited—they went there.",
       "group": "Outsiders/Observers"
     },
     {
       "character": "Owl Eyes",
+      "key": "owl-eyes",
       "quote": "I looked around. It was the man with owl-eyed glasses whom I had found marvelling over Gatsby's books in the library one night three months before... 'The poor son-of-a-bitch,' he said.",
       "group": "Outsiders/Observers"
     },
     {
       "character": "Jordan Baker",
+      "key": "jordan",
       "quote": "For a while I lost sight of Jordan Baker, and then in midsummer I found her again. At first I was flattered to go places with her, because she was a golf champion, and everyone knew her name. Then it was something more. I wasn't actually in love, but I felt a sort of tender curiosity.",
       "group": "Upper Class"
     }

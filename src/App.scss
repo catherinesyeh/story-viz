@@ -183,10 +183,12 @@ h1 {
       cursor: pointer;
       transition: 0.3s;
       &:hover {
-        opacity: 0.7;
+        fill-opacity: 0.7;
+        stroke-opacity: 0.7;
       }
       &.faded:hover {
-        opacity: 0.5;
+        fill-opacity: 0.5;
+        stroke-opacity: 0.5;
       }
     }
 

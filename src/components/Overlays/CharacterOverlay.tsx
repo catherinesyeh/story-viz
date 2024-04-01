@@ -5,10 +5,16 @@ import { dataStore } from "../../stores/dataStore";
 import { positionStore } from "../../stores/positionStore";
 
 import Image from "../Image";
+import { onlyLetters } from "../../utils/helpers";
 
 function CharacterOverlay() {
   const { characterHover, story } = storyStore();
-  const { characterScenes, character_quotes, sortedCharacters } = dataStore();
+  const {
+    characterScenes,
+    character_quotes,
+    sortedCharacters,
+    character_data,
+  } = dataStore();
   const { characterQuoteBoxes, characterQuoteTexts } = positionStore();
   return (
     <g id="character-quotes">
@@ -94,9 +100,11 @@ function CharacterOverlay() {
                 height={location_height * 0.5}
                 href={
                   "/characters/" +
-                  story +
+                  onlyLetters(story) +
                   "/" +
-                  character.character.split(" ")[0].toLowerCase() +
+                  character_data.find(
+                    (c) => c.character === character.character
+                  )?.key +
                   ".png"
                 }
                 placeholder="/characters/placeholder.png"
