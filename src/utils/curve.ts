@@ -70,6 +70,14 @@ const controlPoint = (
         ) {
           x += adjustment * 2 * character_offset;
         }
+      } else if (
+        !reverse &&
+        prev_adjustment < 0 &&
+        next_adjustment > 0 &&
+        previous &&
+        current[1] - previous[1] < location_buffer
+      ) {
+        x -= adjustment * character_offset;
       }
     } else if (adjustment < 0) {
       // moving up
@@ -77,6 +85,13 @@ const controlPoint = (
         x += adjustment * 2 * character_offset;
       } else if (previous && previous[1] - current[1] > location_buffer) {
         x += (adjustment + 1) * 0.5 * character_offset;
+      } else if (
+        !reverse &&
+        prev_adjustment === 0 &&
+        next &&
+        next[1] - current[1] < location_buffer
+      ) {
+        x -= adjustment * 0.5 * character_offset;
       }
     } else {
       // adjustment === 0 (big gap)
@@ -85,9 +100,9 @@ const controlPoint = (
         (next && Math.abs(current[1] - next[1]) > location_buffer)
       ) {
         if (!reverse) {
-          x += 0.5 * character_offset;
+          x += 0.5 * adjustment * character_offset;
         } else {
-          x -= 0.5 * character_offset;
+          x -= 0.5 * adjustment * character_offset;
         }
       }
     }

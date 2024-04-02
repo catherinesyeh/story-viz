@@ -299,8 +299,6 @@ h1 {
 
 @media (max-width: 1900px) {
   header {
-    align-items: baseline;
-
     #options {
       .options-contain {
         .options-inner {
@@ -316,6 +314,7 @@ h1 {
 
 @media (max-width: 1330px) {
   header {
+    align-items: baseline;
     display: block;
 
     h1 {

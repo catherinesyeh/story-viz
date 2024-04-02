@@ -183,6 +183,7 @@ const characterPaths = (
   locations: string[],
   sceneCharacters: SceneCharacter[]
 ) => {
+  const og_max_y_per_scene = [...max_y_per_scene];
   const allPaths = characterScenes.map((character) => {
     const paths = [];
     const adjustments = {} as Record<number, number>;
@@ -221,6 +222,13 @@ const characterPaths = (
         scene_index === prev_scene_index
           ? max_y_per_scene[scene_index]
           : Math.max(...max_y_per_scene.slice(prev_scene_index, scene_index));
+      const cur_max_indices = max_y_per_scene
+        .filter((val) => val === cur_max_y)
+        .map((_, i) => i);
+
+      const og_cur_max_y = Math.max(
+        ...og_max_y_per_scene.slice(prev_scene_index, scene_index)
+      );
 
       // see if there's a character below this character in the same scene
       // using sceneCharacters
@@ -258,8 +266,17 @@ const characterPaths = (
 
           let new_y = Math.max(new_max_y + character_offset, cur_y, prev_y);
 
-          if (cur_y - prev_y > location_buffer && numNextChars === 0) {
-            new_y = Math.max(cur_y, prev_y);
+          if (cur_y - prev_y > location_buffer) {
+            if (cur_y > og_cur_max_y) {
+              // don't need to go all the way down
+              new_y = cur_y;
+            } else {
+              const max_of_maxes =
+                cur_max_y - og_cur_max_y > location_buffer
+                  ? og_cur_max_y + character_offset
+                  : cur_max_y;
+              new_y = max_of_maxes + character_offset;
+            }
           }
 
           if (numPrevChars > 0) {
@@ -276,8 +293,9 @@ const characterPaths = (
               new_y,
             ]);
           } else {
+            const extra_offset = numNextChars === 0 ? 0.5 : 0;
             character_coords_arr.splice(i, 0, [
-              prev_x + prev_multiplier,
+              prev_x + prev_multiplier - extra_offset * character_offset,
               new_y,
             ]);
           }
@@ -294,8 +312,9 @@ const characterPaths = (
               new_y,
             ]);
           } else {
+            const extra_offset = numPrevChars === 0 ? 0.5 : 0;
             character_coords_arr.splice(i + 1, 0, [
-              cur_x - next_multiplier,
+              cur_x - next_multiplier + extra_offset * character_offset,
               new_y,
             ]);
           }
@@ -308,23 +327,27 @@ const characterPaths = (
         } else {
           // small gap (1 scene) -- add one point
           if (
-            cur_y - prev_y > location_buffer ||
-            (prev_y - cur_y < location_buffer &&
-              prev_y - cur_y > 2 * character_height)
+            numPrevChars > 0 &&
+            (cur_y - prev_y > location_buffer ||
+              (prev_y - cur_y < location_buffer &&
+                prev_y - cur_y > 2 * character_height &&
+                prev_y > og_cur_max_y))
           ) {
             let next_multiplier = scene_width * 0.75;
-            // if character is moving down
+            // if character is moving down or small up gap
             character_coords_arr.splice(i, 0, [
               cur_x - next_multiplier - prevCharInd * character_offset,
               prev_y,
             ]);
             i += 1;
           } else if (
-            prev_y - cur_y > location_buffer ||
-            (cur_y - prev_y < location_buffer &&
-              cur_y - prev_y > 2 * character_height)
+            numPrevChars > 0 &&
+            (prev_y - cur_y > location_buffer ||
+              (cur_y - prev_y < location_buffer &&
+                cur_y - prev_y > 2 * character_height &&
+                cur_y > og_cur_max_y))
           ) {
-            // if character is moving up
+            // if character is moving up or small down gap
             let prev_multiplier = scene_width * 0.75;
             character_coords_arr.splice(i, 0, [
               prev_x + prev_multiplier + charInd * character_offset,
@@ -333,27 +356,35 @@ const characterPaths = (
             i += 1;
           } else {
             // if character is moving horizontally
-            const max_cur_y =
-              cur_y +
-              Math.ceil(
-                (location_height * (locations.length - 1) - cur_y) /
-                  location_height
-              ) *
-                location_height;
-            const max_prev_y =
-              prev_y +
-              Math.ceil(
-                (location_height * (locations.length - 1) - prev_y) /
-                  location_height
-              ) *
-                location_height;
+            // const max_cur_y =
+            //   cur_y +
+            //   Math.ceil(
+            //     (location_height * (locations.length - 1) - cur_y) /
+            //       location_height
+            //   ) *
+            //     location_height;
+            // const max_prev_y =
+            //   prev_y +
+            //   Math.ceil(
+            //     (location_height * (locations.length - 1) - prev_y) /
+            //       location_height
+            //   ) *
+            //     location_height;
 
-            const new_y =
-              Math.max(
-                max_cur_y - character_offset,
-                max_prev_y - character_offset,
-                cur_max_y
-              ) + character_offset;
+            // let new_y =
+            //   Math.max(
+            //     max_cur_y - character_offset,
+            //     max_prev_y - character_offset,
+            //     cur_max_y
+            //   ) + character_offset;
+
+            // don't need to go all the way down
+            let new_y = cur_max_y + character_offset;
+            if (prev_y > cur_y && prev_y > og_cur_max_y) {
+              new_y = prev_y;
+            } else if (cur_y > prev_y && cur_y > og_cur_max_y) {
+              new_y = cur_y;
+            }
 
             // add two points
             character_coords_arr.splice(i, 0, [
@@ -366,9 +397,9 @@ const characterPaths = (
             ]);
 
             // update max_y_per_scene between prev_scene_index and scene_index
-            for (let j = prev_scene_index; j < scene_index; j++) {
+            cur_max_indices.forEach((j) => {
               max_y_per_scene[j] = new_y;
-            }
+            });
 
             i += 2;
           }
