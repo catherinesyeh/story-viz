@@ -10,10 +10,10 @@ import { positionStore } from "../stores/positionStore";
 function ConflictCurve() {
   const { showConflict, sceneHover, locationHover, characterHover, colorBy } =
     storyStore();
-  const { conflictPath, scenePos, sceneWidth } = positionStore();
+  const { conflictPath, scenePos, sceneWidth, yShift } = positionStore();
   const { scenes } = dataStore();
   return (
-    <g id="conflict-container">
+    <g id="conflict-container" transform={"translate(0 " + yShift + ")"}>
       {/* add conflict curve */}
       <path
         id="conflict-curve"

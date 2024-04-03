@@ -699,12 +699,15 @@ const location_quote_boxes = (
   locationPos: number[],
   location_quotes: LocationQuote[]
 ) => {
-  return locations.map((_, i) => {
+  return locations.map((loc, i) => {
+    const cur_quote =
+      location_quotes.find((quote) => quote.location === loc) ||
+      location_quotes[i];
     return {
       x: scene_offset - 1.25 * location_offset,
       y: locationPos[locationPos.length - 2] - location_offset,
       width: scene_base * 5.5 - 2 * character_offset,
-      height: (location_quotes[i].quote.length + 2.4) * character_offset,
+      height: (cur_quote.quote.length + 2.4) * character_offset,
     };
   });
 };

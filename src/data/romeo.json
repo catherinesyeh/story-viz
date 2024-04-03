@@ -1,0 +1,594 @@
+{
+  "title": "Romeo and Juliet",
+  "scenes": [
+    {
+      "number": 1,
+      "name": "The Street Fight",
+      "summary": "A public brawl breaks out between the Montagues and Capulets, illustrating the deep-seated feud between the two families.",
+      "location": "Verona",
+      "firstLine": "Gregory, on my word, we'll not carry coals.",
+      "lastLine": "If ever you disturb our streets again, Your lives shall pay the forfeit of the peace.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 1,
+        "sentiment": -1
+      },
+      "characters": [
+        {
+          "name": "Benvolio",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Peacemaking",
+            "quote": "I do but keep the peace. Put up thy sword, Or manage it to part these men with me.",
+            "rating": 0.5
+          }
+        },
+        {
+          "name": "Tybalt",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Aggressive and Hostile",
+            "quote": "What, drawn, and talk of peace? I hate the word, As I hate hell, all Montagues, and thee.",
+            "rating": -1
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "name": "The Capulet Ball",
+      "summary": "Romeo sneaks into the Capulet's ball, where he meets and falls instantly in love with Juliet, igniting their tragic romance.",
+      "location": "Capulet's Ball",
+      "firstLine": "Welcome, gentlemen! Ladies that have their toes Unplagu'd with corns will have a bout with you.",
+      "lastLine": "My only love sprung from my only hate! Too early seen unknown, and known too late!",
+      "ratings": {
+        "importance": 1,
+        "conflict": 0.5,
+        "sentiment": 1
+      },
+      "characters": [
+        {
+          "name": "Romeo",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Enamored and Awestruck",
+            "quote": "O, she doth teach the torches to burn bright!",
+            "rating": 1
+          }
+        },
+        {
+          "name": "Juliet",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Intrigued and Smitten",
+            "quote": "My only love sprung from my only hate! Too early seen unknown, and known too late!",
+            "rating": 1
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "name": "The Balcony Scene",
+      "summary": "Romeo and Juliet declare their love for each other and vow to marry in secret, deepening their connection.",
+      "location": "Juliet's Balcony",
+      "firstLine": "But, soft! what light through yonder window breaks? It is the east, and Juliet is the sun.",
+      "lastLine": "Sleep dwell upon thine eyes, peace in thy breast! Would I were sleep and peace, so sweet to rest!",
+      "ratings": {
+        "importance": 1,
+        "conflict": 0,
+        "sentiment": 1
+      },
+      "characters": [
+        {
+          "name": "Romeo",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Passionate and Hopeful",
+            "quote": "With love's light wings did I o'erperch these walls;",
+            "rating": 1
+          }
+        },
+        {
+          "name": "Juliet",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Determined and Loving",
+            "quote": "And all my fortunes at thy foot I'll lay And follow thee my lord throughout the world.",
+            "rating": 1
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "name": "Friar Laurence Agrees to Marry Romeo and Juliet",
+      "summary": "Romeo convinces Friar Laurence to marry him and Juliet in an effort to reconcile their feuding families.",
+      "location": "Friar Laurence's Cell",
+      "firstLine": "The grey-ey'd morn smiles on the frowning night, Check'ring the Eastern clouds with streaks of light;",
+      "lastLine": "Wisely and slow. They stumble that run fast.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 0,
+        "sentiment": 0.5
+      },
+      "characters": [
+        {
+          "name": "Romeo",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Eager and Hopeful",
+            "quote": "Then plainly know my heart's dear love is set On the fair daughter of rich Capulet.",
+            "rating": 1
+          }
+        },
+        {
+          "name": "Friar Laurence",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Concerned yet Hopeful",
+            "quote": "In one respect I'll thy assistant be; For this alliance may so happy prove, To turn your households' rancour to pure love.",
+            "rating": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "name": "Tybalt Challenges Romeo",
+      "summary": "Tybalt sends a letter to the Montague household, challenging Romeo to a duel as a consequence of Romeo attending the Capulet's ball.",
+      "location": "Verona",
+      "firstLine": "But I can give thee more; For I will raise her statue in pure gold,",
+      "lastLine": "For never was a story of more woe Than this of Juliet and her Romeo.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 1,
+        "sentiment": -1
+      },
+      "characters": [
+        {
+          "name": "Tybalt",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Aggressive and Provocative",
+            "quote": "This intrusion shall, Now seeming sweet, convert to bitt'rest gall.",
+            "rating": -1
+          }
+        },
+        {
+          "name": "Benvolio",
+          "importance": 0.5,
+          "sentiment": {
+            "emotion": "Worried",
+            "quote": "Tybalt, the kinsman to old Capulet, Hath sent a letter to his father's house.",
+            "rating": -0.5
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "name": "The Secret Marriage",
+      "summary": "Romeo and Juliet are secretly married by Friar Laurence, hoping their union will end the feud between their families.",
+      "location": "Friar Laurence's Cell",
+      "firstLine": "So smile the heavens upon this holy act, That after-hours with sorrow chide us not!",
+      "lastLine": "These violent delights have violent ends And in their triumph die, like fire and powder, Which, as they kiss, consume.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 0,
+        "sentiment": 1
+      },
+      "characters": [
+        {
+          "name": "Romeo",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Joyful and Hopeful",
+            "quote": "Ah, Juliet, if the measure of thy joy Be heap'd like mine, and that thy skill be more To blazon it, then sweeten with thy breath This neighbour air.",
+            "rating": 1
+          }
+        },
+        {
+          "name": "Juliet",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Blissful and Loving",
+            "quote": "Conceit, more rich in matter than in words, Brags of his substance, not of ornament. They are but beggars that can count their worth; But my true love is grown to such excess, I cannot sum up sum of half my wealth.",
+            "rating": 1
+          }
+        },
+        {
+          "name": "Friar Laurence",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Hopeful yet Cautious",
+            "quote": "These violent delights have violent ends And in their triumph die, like fire and powder, Which, as they kiss, consume.",
+            "rating": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "name": "Mercutio's Death",
+      "summary": "A confrontation between Mercutio and Tybalt escalates, leading to Mercutio's death, which becomes the catalyst for Romeo's vengeance.",
+      "location": "Verona",
+      "firstLine": "I am hurt. A plague o' both your houses! I am sped.",
+      "lastLine": "Help me into some house, Benvolio, Or I shall faint. A plague o' both your houses!",
+      "ratings": {
+        "importance": 1,
+        "conflict": 1,
+        "sentiment": -1
+      },
+      "characters": [
+        {
+          "name": "Mercutio",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Mocking yet Cursed",
+            "quote": "A plague o' both your houses!",
+            "rating": -1
+          }
+        },
+        {
+          "name": "Tybalt",
+          "importance": 0.8,
+          "sentiment": {
+            "emotion": "Hostile and Provoking",
+            "quote": "Mercutio, thou consort'st with Romeo.",
+            "rating": -1
+          }
+        },
+        {
+          "name": "Romeo",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Anguished and Vengeful",
+            "quote": "This day's black fate on more days doth depend; This but begins the woe others must end.",
+            "rating": -1
+          }
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "name": "Romeo Avenges Mercutio's Death",
+      "summary": "In a rage, Romeo kills Tybalt as retribution for Mercutio's death, sealing his own fate and further deepening the family feud.",
+      "location": "Verona",
+      "firstLine": "Alive in triumph, and Mercutio slain! Away to heaven respective lenity, And fire-ey'd fury be my conduct now!",
+      "lastLine": "O, I am fortune's fool!",
+      "ratings": {
+        "importance": 1,
+        "conflict": 1,
+        "sentiment": -1
+      },
+      "characters": [
+        {
+          "name": "Romeo",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Vengeful and Regretful",
+            "quote": "O, I am fortune's fool!",
+            "rating": -1
+          }
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "name": "Romeo's Banishment",
+      "summary": "Prince Escalus decrees Romeo's banishment from Verona as punishment for the bloodshed, exacerbating the tragedy of Romeo and Juliet's situation.",
+      "location": "Verona",
+      "firstLine": "Immediately we do exile him hence. I have an interest in your hate's proceeding, My blood for your rude brawls doth lie a-bleeding;",
+      "lastLine": "Mercy but murders, pardoning those that kill.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 0.5,
+        "sentiment": -1
+      },
+      "characters": [
+        {
+          "name": "Prince Escalus",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Stern and Judicial",
+            "quote": "Immediately we do exile him hence.",
+            "rating": -1
+          }
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "name": "Juliet Longs for Romeo",
+      "summary": "Unaware of the day's tragic events, Juliet eagerly awaits her wedding night, only to have her world shattered by news of Tybalt's death and Romeo's banishment.",
+      "location": "Capulet's Orchard",
+      "firstLine": "Gallop apace, you fiery-footed steeds, Towards Phoebus' lodging!",
+      "lastLine": "O serpent heart, hid with a flow'ring face!",
+      "ratings": {
+        "importance": 0.8,
+        "conflict": 0.5,
+        "sentiment": -1
+      },
+      "characters": [
+        {
+          "name": "Juliet",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Yearning then Despairing",
+            "quote": "O serpent heart, hid with a flow'ring face!",
+            "rating": -1
+          }
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "name": "Friar Laurence's Plan",
+      "summary": "Friar Laurence devises a plan to reunite Romeo and Juliet by faking Juliet's death.",
+      "location": "Friar Laurence's Cell",
+      "firstLine": "Hold, daughter. I do spy a kind of hope, Which craves as desperate an execution As that is desperate which we would prevent.",
+      "lastLine": "Give me, give me! O, tell not me of fear!",
+      "ratings": {
+        "importance": 1,
+        "conflict": 0.5,
+        "sentiment": 0
+      },
+      "characters": [
+        {
+          "name": "Friar Laurence",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Innovative yet Cautious",
+            "quote": "Hold, daughter. I do spy a kind of hope, Which craves as desperate an execution As that is desperate which we would prevent.",
+            "rating": 0.5
+          }
+        },
+        {
+          "name": "Juliet",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Desperate and Determined",
+            "quote": "Give me, give me! O, tell not me of fear!",
+            "rating": -0.5
+          }
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "name": "Juliet Takes the Potion",
+      "summary": "Juliet, showing remarkable courage, takes the potion given by Friar Laurence.",
+      "location": "Capulet's Orchard",
+      "firstLine": "Farewell! God knows when we shall meet again.",
+      "lastLine": "Romeo, Romeo, Romeo! Here's drink. I drink to thee.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 0,
+        "sentiment": -0.5
+      },
+      "characters": [
+        {
+          "name": "Juliet",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Fearful yet Resolute",
+            "quote": "Romeo, Romeo, Romeo! Here's drink. I drink to thee.",
+            "rating": -0.5
+          }
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "name": "Romeo Learns of Juliet's Death",
+      "summary": "Romeo, now in Mantua, is devastated by the news of Juliet's death, unaware of the Friar's plan.",
+      "location": "Mantua",
+      "firstLine": "News from Verona!- How now, Balthasar! Dost thou not bring me letters from the friar?",
+      "lastLine": "Well, Juliet, I will lie with thee to-night. Let's see for means.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 0.5,
+        "sentiment": -1
+      },
+      "characters": [
+        {
+          "name": "Romeo",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Devastated and Impulsive",
+            "quote": "Well, Juliet, I will lie with thee to-night. Let's see for means.",
+            "rating": -1
+          }
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "name": "Juliet's Tomb",
+      "summary": "Romeo enters Juliet's tomb, finds her seemingly lifeless body, and takes his own life.",
+      "location": "Capulet's Orchard",
+      "firstLine": "Give me that mattock and the wrenching iron.",
+      "lastLine": "Here's to my love! [Drinks.] O true apothecary! Thy drugs are quick. Thus with a kiss I die.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 1,
+        "sentiment": -1
+      },
+      "characters": [
+        {
+          "name": "Romeo",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Heartbroken and Resigned",
+            "quote": "Here's to my love! [Drinks.] O true apothecary! Thy drugs are quick. Thus with a kiss I die.",
+            "rating": -1
+          }
+        },
+        {
+          "name": "Juliet",
+          "importance": 0.5,
+          "sentiment": {
+            "emotion": "Unconscious",
+            "quote": "",
+            "rating": 0
+          }
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "name": "Juliet Awakens and Sees Romeo Dead",
+      "summary": "Juliet wakes up to find Romeo dead by her side, leading her to take her own life with his dagger.",
+      "location": "Capulet's Orchard",
+      "firstLine": "O comfortable friar! where is my lord?",
+      "lastLine": "This is thy sheath; there rust, and let me die.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 0,
+        "sentiment": -1
+      },
+      "characters": [
+        {
+          "name": "Juliet",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Desolate and Determined",
+            "quote": "This is thy sheath; there rust, and let me die.",
+            "rating": -1
+          }
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "name": "The Aftermath",
+      "summary": "The Capulet and Montague families discover the tragic fate of their children, leading to a reconciliation between the feuding houses.",
+      "location": "Verona",
+      "firstLine": "What's here? A cup, closed in my true love's hand?",
+      "lastLine": "For never was a story of more woe than this of Juliet and her Romeo.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 0,
+        "sentiment": -1
+      },
+      "characters": [
+        {
+          "name": "Prince Escalus",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Authoritative and Solemn",
+            "quote": "Seal up the mouth of outrage for a while, Till we can clear these ambiguities",
+            "rating": -0.5
+          }
+        },
+        {
+          "name": "Capulet",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Grieving and Regretful",
+            "quote": "O brother Montague, give me thy hand.",
+            "rating": -1
+          }
+        },
+        {
+          "name": "Montague",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Grieving and Reflective",
+            "quote": "I will raise her statue in pure gold;",
+            "rating": -1
+          }
+        }
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "name": "Verona",
+      "key": "verona",
+      "quote": "In fair Verona, where we lay our scene, From ancient grudge break to new mutiny, Where civil blood makes civil hands unclean."
+    },
+    {
+      "name": "Capulet's Orchard",
+      "key": "capulets-orchard",
+      "quote": "But, soft! what light through yonder window breaks? It is the east, and Juliet is the sun."
+    },
+    {
+      "name": "Friar Laurence's Cell",
+      "key": "friar-laurences-cell",
+      "quote": "The grey-ey'd morn smiles on the frowning night, Check'ring the Eastern clouds with streaks of light; And flecked darkness like a drunkard reels From forth day's path and Titan's fiery wheels."
+    },
+    {
+      "name": "Mantua",
+      "key": "mantua",
+      "quote": "News from Verona!- How now, Balthasar! Dost thou not bring me letters from the friar?"
+    },
+    {
+      "name": "Capulet's Ball",
+      "key": "capulets-ball",
+      "quote": "Welcome, gentlemen! Ladies that have their toes Unplagu'd with corns will have a bout with you. Ah ha, my mistresses! which of you all Will now deny to dance?"
+    },
+    {
+      "name": "Juliet's Balcony",
+      "key": "juliets-balcony",
+      "quote": "O Romeo, Romeo! wherefore art thou Romeo? Deny thy father and refuse thy name; Or, if thou wilt not, be but sworn my love, And I'll no longer be a Capulet."
+    }
+  ],
+  "characters": [
+    {
+      "character": "Romeo",
+      "key": "romeo",
+      "quote": "O, I am fortune's fool!",
+      "group": "Main Characters"
+    },
+    {
+      "character": "Juliet",
+      "key": "juliet",
+      "quote": "O happy dagger! This is thy sheath; there rust, and let me die.",
+      "group": "Main Characters"
+    },
+    {
+      "character": "Mercutio",
+      "key": "mercutio",
+      "quote": "A plague o' both your houses!",
+      "group": "Supporting Characters"
+    },
+    {
+      "character": "Tybalt",
+      "key": "tybalt",
+      "quote": "Mercutio, thou consort'st with Romeo.",
+      "group": "Supporting Characters"
+    },
+    {
+      "character": "Friar Laurence",
+      "key": "friar-laurence",
+      "quote": "Hold, daughter. I do spy a kind of hope, Which craves as desperate an execution As that is desperate which we would prevent.",
+      "group": "Supporting Characters"
+    },
+    {
+      "character": "Benvolio",
+      "key": "benvolio",
+      "quote": "Tybalt, the kinsman to old Capulet, Hath sent a letter to his father's house.",
+      "group": "Supporting Characters"
+    },
+    {
+      "character": "Prince Escalus",
+      "key": "prince-escalus",
+      "quote": "Immediately we do exile him hence.",
+      "group": "Supporting Characters"
+    },
+    {
+      "character": "Capulet",
+      "key": "capulet",
+      "quote": "O brother Montague, give me thy hand.",
+      "group": "Family Heads"
+    },
+    {
+      "character": "Montague",
+      "key": "montague",
+      "quote": "Alas, my liege, my wife is dead to-night; Grief of my son's exile hath stopp'd her breath.",
+      "group": "Family Heads"
+    }
+  ]
+}
