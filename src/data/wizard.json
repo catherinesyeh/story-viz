@@ -1,0 +1,1012 @@
+{
+  "title": "The Wonderful Wizard of Oz",
+  "author": "L. Frank Baum",
+  "year": 1900,
+  "url": "https://www.gutenberg.org/ebooks/55",
+  "scenes": [
+    {
+      "number": 1,
+      "name": "The Cyclone",
+      "summary": "A cyclone picks up Dorothy's house, transporting her and Toto to the magical Land of Oz.",
+      "location": "Kansas",
+      "firstLine": "When Dorothy stood in the doorway and looked around, she could see nothing but the great gray prairie on every side.",
+      "lastLine": "Then a strange thing happened. The house whirled around two or three times and rose slowly through the air.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 1,
+        "sentiment": -1
+      },
+      "characters": [
+        {
+          "name": "Dorothy",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Anxiety and Fear",
+            "quote": "Dorothy felt as if she were going up in a balloon.",
+            "rating": -1
+          }
+        },
+        {
+          "name": "Toto",
+          "importance": 0.5,
+          "sentiment": {
+            "emotion": "Confusion and Fear",
+            "quote": "Toto did not like it. He ran about the room, now here, now there, barking loudly;",
+            "rating": -1
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "name": "Landing in Munchkin Country",
+      "summary": "Dorothy's house lands in Munchkin Country, killing the Wicked Witch of the East and freeing the Munchkins.",
+      "location": "The Land of the Munchkins",
+      "firstLine": "She was awakened by a shock, so sudden and severe that if Dorothy had not been lying on the soft bed she might have been hurt.",
+      "lastLine": "Dorothy listened to this speech with wonder. What could the little woman possibly mean by calling her a sorceress, and saying she had killed the Wicked Witch of the East?",
+      "ratings": {
+        "importance": 1,
+        "conflict": 0,
+        "sentiment": 0.5
+      },
+      "characters": [
+        {
+          "name": "Dorothy",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Confusion and Surprise",
+            "quote": "What could the little woman possibly mean by calling her a sorceress?",
+            "rating": 0.5
+          }
+        },
+        {
+          "name": "Wicked Witch of the East",
+          "importance": 0.5,
+          "sentiment": {
+            "emotion": "Absent Presence",
+            "quote": "There are her two feet, still sticking out from under a block of wood.",
+            "rating": -1
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "name": "Meeting the Scarecrow",
+      "summary": "Dorothy meets the Scarecrow, who desires brains, and they decide to journey together to see the Wizard.",
+      "location": "The Yellow Brick Road",
+      "firstLine": "She sprang from her bed and with Toto at her heels ran and opened the door.",
+      "lastLine": "So she took hold of his arm and managed to get along fairly well.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 0,
+        "sentiment": 1
+      },
+      "characters": [
+        {
+          "name": "Dorothy",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Curiosity and Compassion",
+            "quote": "How do you do?",
+            "rating": 1
+          }
+        },
+        {
+          "name": "Scarecrow",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Hope and Eagerness",
+            "quote": "If Oz will not give you any brains you will be no worse off than you are now.",
+            "rating": 1
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "name": "The Rescue of the Tin Woodman",
+      "summary": "Dorothy and the Scarecrow discover the Tin Woodman, rusted and immobile, and oil his joints to free him.",
+      "location": "The Dark Forest",
+      "firstLine": "So she oiled it, and as it was quite badly rusted the Scarecrow took hold of the tin head and moved it gently from side to side until it worked freely, and then the man could turn it himself.",
+      "lastLine": "This adventure made the travelers more anxious than ever to get out of the forest, and they walked so fast that Dorothy became tired, and had to ride on the Lion's back.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 0,
+        "sentiment": 1
+      },
+      "characters": [
+        {
+          "name": "Dorothy",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Compassion and Determination",
+            "quote": "So she oiled it, and as it was quite badly rusted",
+            "rating": 1
+          }
+        },
+        {
+          "name": "Scarecrow",
+          "importance": 0.5,
+          "sentiment": {
+            "emotion": "Helpfulness",
+            "quote": "the Scarecrow took hold of the tin head",
+            "rating": 1
+          }
+        },
+        {
+          "name": "Tin Woodman",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Gratefulness",
+            "quote": "Thank you very much,",
+            "rating": 1
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "name": "Encounter with the Cowardly Lion",
+      "summary": "The party encounters the Cowardly Lion, who initially tries to scare them but soon reveals his lack of courage.",
+      "location": "The Yellow Brick Road",
+      "firstLine": "They were walking through the forest when suddenly they heard a terrible roar, and the next moment a great Lion bounded into the road.",
+      "lastLine": "But Dorothy, knowing her to be a witch, had expected her to disappear in just that way, and was not surprised in the least.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 1,
+        "sentiment": -0.5
+      },
+      "characters": [
+        {
+          "name": "Dorothy",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Bravery",
+            "quote": "Don't you dare to bite Toto!",
+            "rating": 1
+          }
+        },
+        {
+          "name": "Cowardly Lion",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Fear and Shame",
+            "quote": "I've always known it. But how can I help it?",
+            "rating": -1
+          }
+        },
+        {
+          "name": "Scarecrow",
+          "importance": 0.5,
+          "sentiment": {
+            "emotion": "Concern",
+            "quote": "This is a great comfort.",
+            "rating": 0.5
+          }
+        },
+        {
+          "name": "Tin Woodman",
+          "importance": 0.5,
+          "sentiment": {
+            "emotion": "Sympathy",
+            "quote": "she only nodded and went on eating her bread.",
+            "rating": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "name": "The Deadly Poppy Field",
+      "summary": "The group must cross a field of poppies that puts Dorothy and the Lion to sleep, threatening their journey.",
+      "location": "The Deadly Poppy Field",
+      "firstLine": "Once, indeed, the Tin Woodman stepped upon a beetle that was crawling along the road, and killed the poor little thing.",
+      "lastLine": "And now the Scarecrow and the Tin Woodman carried the sleeping girl to a comfortable place in the forest and laid her gently down to rest.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 1,
+        "sentiment": -1
+      },
+      "characters": [
+        {
+          "name": "Dorothy",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Sleepiness",
+            "quote": "Dorothy did not notice when the Scarecrow stumbled into a hole and rolled over to the side of the road.",
+            "rating": -1
+          }
+        },
+        {
+          "name": "Cowardly Lion",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Lethargy",
+            "quote": "But before they could cover his eyes he had fallen fast asleep.",
+            "rating": -1
+          }
+        },
+        {
+          "name": "Scarecrow",
+          "importance": 0.5,
+          "sentiment": {
+            "emotion": "Worry",
+            "quote": "We cannot leave her here in the power of the Wicked Witch.",
+            "rating": -1
+          }
+        },
+        {
+          "name": "Tin Woodman",
+          "importance": 0.5,
+          "sentiment": {
+            "emotion": "Determination",
+            "quote": "I will carry Dorothy myself.",
+            "rating": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "name": "The Rescue by the Field Mice",
+      "summary": "The Queen of the Field Mice and her subjects help rescue the Lion from the poppy field.",
+      "location": "The Deadly Poppy Field",
+      "firstLine": "The Scarecrow and the Tin Woodman stood up in another corner and waited patiently until morning came.",
+      "lastLine": "She ate a hearty breakfast, and watched a wee Munchkin baby, who played with Toto and pulled his tail and crowed and laughed in a way that greatly amused Dorothy.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 0.5,
+        "sentiment": 1
+      },
+      "characters": [
+        {
+          "name": "Scarecrow",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Gratitude",
+            "quote": "Thank you very much. We shall now be able to proceed to the Emerald City.",
+            "rating": 1
+          }
+        },
+        {
+          "name": "Tin Woodman",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Relief",
+            "quote": "It was a good idea to ask the field mice for help.",
+            "rating": 1
+          }
+        },
+        {
+          "name": "Cowardly Lion",
+          "importance": 0.5,
+          "sentiment": {
+            "emotion": "Unconsciousness",
+            "quote": "And now the Scarecrow and the Tin Woodman carried the sleeping girl to a comfortable place in the forest and laid her gently down to rest.",
+            "rating": -1
+          }
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "name": "The Journey to the Emerald City",
+      "summary": "After overcoming several obstacles, Dorothy and her friends finally see the Emerald City before them.",
+      "location": "The Yellow Brick Road",
+      "firstLine": "So once more the little company set off upon the journey, the Lion walking with stately strides at Dorothy's side.",
+      "lastLine": "So the Tin Woodman shouldered his axe and they all passed through the forest until they came to the road that was paved with yellow brick.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 0,
+        "sentiment": 1
+      },
+      "characters": [
+        {
+          "name": "Dorothy",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Hope and Anticipation",
+            "quote": "To their great joy the trees became thinner the farther they advanced, and in the afternoon they suddenly came upon a broad river, flowing swiftly just before them.",
+            "rating": 1
+          }
+        },
+        {
+          "name": "Scarecrow",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Optimism",
+            "quote": "The Emerald City is at the other end of the road.",
+            "rating": 1
+          }
+        },
+        {
+          "name": "Tin Woodman",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Determination",
+            "quote": "So the Tin Woodman took his axe and began to chop down small trees to make a raft.",
+            "rating": 1
+          }
+        },
+        {
+          "name": "Cowardly Lion",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Courage",
+            "quote": "I would carry you all over the river, one by one.",
+            "rating": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "name": "Entering the Emerald City",
+      "summary": "The group finally arrives at the gates of the Emerald City, ready to request the help they've journeyed for.",
+      "location": "The Emerald City",
+      "firstLine": "They found the forest very thick on this side, and it looked dark and gloomy.",
+      "lastLine": "Every one looked with wonder upon the strange and beautiful sights.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 0,
+        "sentiment": 1
+      },
+      "characters": [
+        {
+          "name": "Dorothy",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Awe and Anticipation",
+            "quote": "Every one looked with wonder upon the strange and beautiful sights.",
+            "rating": 1
+          }
+        },
+        {
+          "name": "Scarecrow",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Curiosity",
+            "quote": "So she took hold of his arm and managed to get along fairly well.",
+            "rating": 1
+          }
+        },
+        {
+          "name": "Tin Woodman",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Hope",
+            "quote": "This will serve me a lesson,",
+            "rating": 1
+          }
+        },
+        {
+          "name": "Cowardly Lion",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Nervousness",
+            "quote": "But the Lion went away into the forest and found his own supper,",
+            "rating": -0.5
+          }
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "name": "The Meeting with the Wizard of Oz",
+      "summary": "Dorothy and her friends are granted an audience with the Wizard, who appears differently to each of them.",
+      "location": "The Emerald City",
+      "firstLine": "She was awakened by a shock, so sudden and severe that if Dorothy had not been lying on the soft bed she might have been hurt.",
+      "lastLine": "I am Oz, the Great and Terrible,",
+      "ratings": {
+        "importance": 1,
+        "conflict": 1,
+        "sentiment": -1
+      },
+      "characters": [
+        {
+          "name": "Dorothy",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Fear and Determination",
+            "quote": "What can I do for you? she inquired softly, for she was moved by the sad voice in which the man spoke.",
+            "rating": -1
+          }
+        },
+        {
+          "name": "Scarecrow",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Anxiety",
+            "quote": "If you will please take away the pole I shall be greatly obliged to you.",
+            "rating": -1
+          }
+        },
+        {
+          "name": "Tin Woodman",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Apprehension",
+            "quote": "My life has been so short that I really know nothing whatever.",
+            "rating": -1
+          }
+        },
+        {
+          "name": "Cowardly Lion",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Terror",
+            "quote": "I shall now be able to proceed to the Emerald City.",
+            "rating": -1
+          }
+        },
+        {
+          "name": "The Wizard",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Mysterious and Powerful",
+            "quote": "I am Oz, the Great and Terrible. Who are you, and why do you seek me?",
+            "rating": -0.5
+          }
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "name": "The Task of the Wicked Witch",
+      "summary": "The Wizard tasks the group with defeating the Wicked Witch of the West as a condition for granting their requests.",
+      "location": "The Emerald City",
+      "firstLine": "So the Tin Woodman shouldered his axe and they all passed through the forest until they came to the road that was paved with yellow brick.",
+      "lastLine": "They were all greatly pleased to see how easily he did it, and after the Scarecrow had got down from his back the Lion sprang across the ditch again.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 1,
+        "sentiment": -0.5
+      },
+      "characters": [
+        {
+          "name": "Dorothy",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Shock and Resolve",
+            "quote": "But how can I kill the Wicked Witch? asked Dorothy.",
+            "rating": -0.5
+          }
+        },
+        {
+          "name": "Scarecrow",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Concern",
+            "quote": "It is a long journey, through a country that is sometimes pleasant and sometimes dark and terrible.",
+            "rating": -0.5
+          }
+        },
+        {
+          "name": "Tin Woodman",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Determination",
+            "quote": "Whenever I've met a man I've been awfully scared; but I just roared at him,",
+            "rating": -0.5
+          }
+        },
+        {
+          "name": "Cowardly Lion",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Reluctance",
+            "quote": "Then, if you don't mind, I'll go with you.",
+            "rating": -0.5
+          }
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "name": "The Defeat of the Wicked Witch",
+      "summary": "Dorothy and her friends confront the Wicked Witch of the West and, through a stroke of luck, Dorothy manages to defeat her.",
+      "location": "The Land of the Winkies",
+      "firstLine": "You see, I am stuffed, so I have no brains at all, he answered sadly.",
+      "lastLine": "Toto did not approve of this new comrade at first, for he could not forget how nearly he had been crushed between the Lion's great jaws.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 1,
+        "sentiment": 0.5
+      },
+      "characters": [
+        {
+          "name": "Dorothy",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Bravery and Surprise",
+            "quote": "How can I kill the Wicked Witch? asked Dorothy.",
+            "rating": 1
+          }
+        },
+        {
+          "name": "Scarecrow",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Supportiveness",
+            "quote": "It never hurt him, however, and Dorothy would pick him up and set him upon his feet again,",
+            "rating": 1
+          }
+        },
+        {
+          "name": "Tin Woodman",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Courage",
+            "quote": "This adventure made the travelers more anxious than ever to get out of the forest,",
+            "rating": 0.5
+          }
+        },
+        {
+          "name": "Cowardly Lion",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Fear turned to Courage",
+            "quote": "But stand close behind me, and I will fight them as long as I am alive.",
+            "rating": 1
+          }
+        },
+        {
+          "name": "Wicked Witch of the West",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Malevolence and Defeat",
+            "quote": "The Wicked Witch had only one eye, but it was as powerful as a telescope, and could see everywhere.",
+            "rating": -1
+          }
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "name": "The Return to the Emerald City",
+      "summary": "With the Wicked Witch defeated, Dorothy and her companions return to the Emerald City to claim their rewards from the Wizard.",
+      "location": "The Emerald City",
+      "firstLine": "So the Tin Woodman shouldered his axe and they all passed through the forest until they came to the road that was paved with yellow brick.",
+      "lastLine": "And now the Scarecrow and the Tin Woodman carried the sleeping girl to a comfortable place in the forest and laid her gently down to rest.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 0.5,
+        "sentiment": 0.5
+      },
+      "characters": [
+        {
+          "name": "Dorothy",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Anticipation",
+            "quote": "How can I kill the Wicked Witch? asked Dorothy.",
+            "rating": 1
+          }
+        },
+        {
+          "name": "Scarecrow",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Optimism",
+            "quote": "It never hurt him, however, and Dorothy would pick him up and set him upon his feet again,",
+            "rating": 1
+          }
+        },
+        {
+          "name": "Tin Woodman",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Hopefulness",
+            "quote": "This adventure made the travelers more anxious than ever to get out of the forest,",
+            "rating": 0.5
+          }
+        },
+        {
+          "name": "Cowardly Lion",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Courage",
+            "quote": "But stand close behind me, and I will fight them as long as I am alive.",
+            "rating": 1
+          }
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "name": "The Wizard's True Identity",
+      "summary": "The Wizard is revealed to be a regular man from Omaha, Nebraska, who landed in Oz by accident and has no real powers.",
+      "location": "The Emerald City",
+      "firstLine": "I am Oz, the Great and Terrible,",
+      "lastLine": "I shall now be able to proceed to the Emerald City.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 1,
+        "sentiment": -0.5
+      },
+      "characters": [
+        {
+          "name": "Dorothy",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Disappointment and Surprise",
+            "quote": "Oh dear! Oh dear! cried Dorothy, clasping her hands together in dismay.",
+            "rating": -1
+          }
+        },
+        {
+          "name": "Scarecrow",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Skepticism",
+            "quote": "Do you not see? He is a humbug!",
+            "rating": -0.5
+          }
+        },
+        {
+          "name": "Tin Woodman",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Disillusionment",
+            "quote": "I might have stood there always if you had not come along.",
+            "rating": -0.5
+          }
+        },
+        {
+          "name": "Cowardly Lion",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Anger and Disappointment",
+            "quote": "Then, if you don't mind, I'll go with you.",
+            "rating": -0.5
+          }
+        },
+        {
+          "name": "The Wizard",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Regret and Admission",
+            "quote": "I am really a very good man, but I am a very bad Wizard, I must admit.",
+            "rating": -0.5
+          }
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "name": "The Scarecrow's New Brains",
+      "summary": "The Wizard grants the Scarecrow's wish by filling his head with pins and needles, symbolizing brains.",
+      "location": "The Emerald City",
+      "firstLine": "But the Scarecrow said, 'We cannot fly, that is certain. Neither can we climb down into this great ditch.'",
+      "lastLine": "'I cannot tell,' she returned, 'but you may come with me, if you like. If Oz will not give you any brains you will be no worse off than you are now.'",
+      "ratings": {
+        "importance": 1,
+        "conflict": 0,
+        "sentiment": 1
+      },
+      "characters": [
+        {
+          "name": "Scarecrow",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Joy and Pride",
+            "quote": "'My life has been so short that I really know nothing whatever.'",
+            "rating": 1
+          }
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "name": "The Tin Woodman's New Heart",
+      "summary": "The Tin Woodman receives a silk heart stuffed with sawdust, fulfilling his desire to feel.",
+      "location": "The Emerald City",
+      "firstLine": "'If you please, I will tell you where to find her,' replied the man. 'She is in the poppy field.'",
+      "lastLine": "'Whenever I should feel it beating,' answered the Tin Woodman.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 0,
+        "sentiment": 1
+      },
+      "characters": [
+        {
+          "name": "Tin Woodman",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Happiness and Anticipation",
+            "quote": "'Now I shall be able to love my wife.'",
+            "rating": 1
+          }
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "name": "The Cowardly Lion's Courage",
+      "summary": "The Lion receives a potion from the Wizard, supposedly to fill him with courage.",
+      "location": "The Emerald City",
+      "firstLine": "The Cowardly Lion was always looking for the courage that he was promised by Oz.",
+      "lastLine": "'How do you feel?' asked Dorothy. 'Full of courage,' replied the Lion, who had not understood the joke, but was ready to believe anything that made him feel better.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 0,
+        "sentiment": 1
+      },
+      "characters": [
+        {
+          "name": "Cowardly Lion",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Relief and Confidence",
+            "quote": "'Full of courage,' replied the Lion, who had not understood the joke, but was ready to believe anything that made him feel better.",
+            "rating": 1
+          }
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "name": "Dorothy's Unfulfilled Wish",
+      "summary": "Dorothy discovers that the Wizard does not have the power to send her back to Kansas.",
+      "location": "The Emerald City",
+      "firstLine": "“Sit down, my dear; I think I have found the way to get you out of this country.”",
+      "lastLine": "“Well, I'll tell you what I think,” said the little man. “You see, when I came to this country it was in a balloon. You also came through the air, being carried by a cyclone. So I believe the best way to get across the desert will be through the air.”",
+      "ratings": {
+        "importance": 1,
+        "conflict": 1,
+        "sentiment": -1
+      },
+      "characters": [
+        {
+          "name": "Dorothy",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Disappointment and Concern",
+            "quote": "“Sit down, my dear; I think I have found the way to get you out of this country.”",
+            "rating": -1
+          }
+        },
+        {
+          "name": "The Wizard",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Apologetic and Helpless",
+            "quote": "“Well, I'll tell you what I think,” said the little man. “You see, when I came to this country it was in a balloon. You also came through the air, being carried by a cyclone. So I believe the best way to get across the desert will be through the air.”",
+            "rating": -1
+          }
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "name": "The Balloon Departure",
+      "summary": "The Wizard attempts to take Dorothy back to Kansas in a hot air balloon, but it accidentally leaves without her.",
+      "location": "The Emerald City",
+      "firstLine": "“Come, Dorothy!” cried the Wizard. “Hurry up, or the balloon will fly away.”",
+      "lastLine": "“Good-bye!” shouted everyone, and all eyes were turned upward to where the Wizard was riding in the basket, rising every moment farther and farther into the sky.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 1,
+        "sentiment": -0.5
+      },
+      "characters": [
+        {
+          "name": "Dorothy",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Desperation and Disappointment",
+            "quote": "“Come back!” she screamed. “I want to go, too!”",
+            "rating": -1
+          }
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "name": "The Journey to Glinda",
+      "summary": "Resolved not to give up, Dorothy and her friends decide to seek Glinda's help to return to Kansas.",
+      "location": "The Land of the Quadlings",
+      "firstLine": "Dorothy wept bitterly at the passing of her hope to get home to Kansas again; but when she thought it all over she was glad she had not gone up in a balloon.",
+      "lastLine": "The road is straight to the South, he answered, but it is said to be full of dangers to travelers.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 0.5,
+        "sentiment": 0.5
+      },
+      "characters": [
+        {
+          "name": "Dorothy",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Determination and Sadness",
+            "quote": "Dorothy wept bitterly at the passing of her hope to get home to Kansas again;",
+            "rating": -0.5
+          }
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "name": "Glinda's Revelation",
+      "summary": "Glinda informs Dorothy that the Silver Shoes can take her back to Kansas.",
+      "location": "The Land of the Quadlings",
+      "firstLine": "“Bless your dear heart,” she said, “I am sure I can tell you of a way to get back to Kansas.”",
+      "lastLine": "“Take me home to Aunt Em!”",
+      "ratings": {
+        "importance": 1,
+        "conflict": 0,
+        "sentiment": 1
+      },
+      "characters": [
+        {
+          "name": "Dorothy",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Hope and Gratitude",
+            "quote": "“Bless your dear heart,” she said, “I am sure I can tell you of a way to get back to Kansas.”",
+            "rating": 1
+          }
+        },
+        {
+          "name": "Glinda the Good Witch",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Kindness and Helpfulness",
+            "quote": "“Your Silver Shoes will carry you over the desert,” replied Glinda.",
+            "rating": 1
+          }
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "name": "The Departure from Oz",
+      "summary": "Dorothy says goodbye to her friends and uses the Silver Shoes to return to Kansas.",
+      "location": "The Land of the Quadlings",
+      "firstLine": "She threw her arms around the Lion's neck and kissed him, patting his big head tenderly.",
+      "lastLine": "“Good gracious!” she cried.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 0,
+        "sentiment": 1
+      },
+      "characters": [
+        {
+          "name": "Dorothy",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Sadness and Joy",
+            "quote": "But she hugged the soft, stuffed body of the Scarecrow in her arms instead of kissing his painted face, and found she was crying herself at this sorrowful parting from her loving comrades.",
+            "rating": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "name": "Home Again",
+      "summary": "Dorothy returns to Kansas, finding herself and Toto near her Aunt Em's new farmhouse.",
+      "location": "Kansas",
+      "firstLine": "The Silver Shoes took but three steps, and then she stopped so suddenly that she rolled over upon the grass several times before she knew where she was.",
+      "lastLine": "“From the Land of Oz,” said Dorothy gravely. “And here is Toto, too. And oh, Aunt Em! I'm so glad to be at home again!”",
+      "ratings": {
+        "importance": 1,
+        "conflict": 0,
+        "sentiment": 1
+      },
+      "characters": [
+        {
+          "name": "Dorothy",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Relief and Happiness",
+            "quote": "“From the Land of Oz,” said Dorothy gravely. “And here is Toto, too. And oh, Aunt Em! I'm so glad to be at home again!”",
+            "rating": 1
+          }
+        }
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "name": "Kansas",
+      "key": "kansas",
+      "quote": "When Dorothy stood in the doorway and looked around, she could see nothing but the great gray prairie on every side."
+    },
+    {
+      "name": "The Emerald City",
+      "key": "emerald-city",
+      "quote": "Even with eyes protected by the green spectacles, Dorothy and her friends were at first dazzled by the brilliancy of the wonderful City."
+    },
+    {
+      "name": "The Land of the Quadlings",
+      "key": "quadlings",
+      "quote": "The country of the Quadlings seemed rich and happy. There was field upon field of ripening grain, with well-paved roads running between them, and pretty rippling brooks with strong bridges across them."
+    },
+    {
+      "name": "The Yellow Brick Road",
+      "key": "yellow-brick-road",
+      "quote": "Follow the Yellow Brick Road,” was the advice given to Dorothy for reaching the Emerald City."
+    },
+    {
+      "name": "The Land of the Winkies",
+      "key": "winkies",
+      "quote": "The Winkies were very happy to be freed from the tyranny of the Wicked Witch and treated their liberators with great kindness."
+    },
+    {
+      "name": "The Deadly Poppy Field",
+      "key": "poppy-field",
+      "quote": "The fragrance of the flowers was so sweet and powerful that Dorothy, the Lion, and Toto fell asleep, and the Scarecrow and the Tin Woodman had to carry them out of the poppy field to revive them."
+    },
+    {
+      "name": "The Dark Forest",
+      "key": "dark-forest",
+      "quote": "They were obliged to camp out that night under a large tree in the forest, for there were no houses near. The tree made a good, thick covering to protect them from the dew, and the Tin Woodman chopped a great pile of wood with his axe and Dorothy built a splendid fire that warmed her and made her feel less lonely."
+    },
+    {
+      "name": "The Land of the Munchkins",
+      "key": "munchkins",
+      "quote": "The houses of the Munchkins were odd-shaped and painted blue, for in this country of the East blue was the favorite color."
+    }
+  ],
+  "characters": [
+    {
+      "character": "Dorothy",
+      "key": "dorothy",
+      "quote": "Dorothy lived in the midst of the great Kansas prairies, with Uncle Henry, who was a farmer, and Aunt Em, who was the farmer's wife.",
+      "group": "Main Characters"
+    },
+    {
+      "character": "Toto",
+      "key": "toto",
+      "quote": "It was Toto that made Dorothy laugh, and saved her from growing as gray as her other surroundings. Toto was not gray; he was a little black dog, with long silky hair and small black eyes that twinkled merrily on either side of his funny, wee nose.",
+      "group": "Main Characters"
+    },
+    {
+      "character": "Scarecrow",
+      "key": "scarecrow",
+      "quote": "“Oh, yes; I am anxious,” returned the Scarecrow. “It is such an uncomfortable feeling to know one is a fool.”",
+      "group": "Main Characters"
+    },
+    {
+      "character": "Tin Woodman",
+      "key": "tin-woodman",
+      "quote": "Once more the tinsmith came to my help and made me a body of tin, fastening my tin arms and legs and head to it, by means of joints, so that I could move around as well as ever.",
+      "group": "Main Characters"
+    },
+    {
+      "character": "Cowardly Lion",
+      "key": "cowardly-lion",
+      "quote": "“They really are,” said the Lion, “but that doesn't make me any braver, and as long as I know myself to be a coward I shall be unhappy.”",
+      "group": "Main Characters"
+    },
+    {
+      "character": "The Wizard",
+      "key": "wizard",
+      "quote": "“I am Oz, the Great and Terrible,” said the little man, in a trembling voice. “But don't strike me—please don't—and I'll do anything you want me to.”",
+      "group": "Other Key Characters"
+    },
+    {
+      "character": "Glinda the Good Witch",
+      "short": "Glinda the Good",
+      "key": "glinda",
+      "quote": "“Bless your dear heart,” she said, “I am sure I can tell you of a way to get back to Kansas.”",
+      "group": "Other Key Characters"
+    },
+    {
+      "character": "Wicked Witch of the East",
+      "short": "Witch of the East",
+      "key": "wicked-witch-of-the-east",
+      "quote": "“She was the Wicked Witch of the East, as I said,” answered the little woman. “She has held all the Munchkins in bondage for many years, making them slave for her night and day. Now they are all set free, and are grateful to you for the favor.”",
+      "group": "Antagonists"
+    },
+    {
+      "character": "Wicked Witch of the West",
+      "short": "Witch of the West",
+      "key": "wicked-witch-of-the-west",
+      "quote": "But now that you have killed one of them, there is but one Wicked Witch in all the Land of Oz—the one who lives in the West.",
+      "group": "Antagonists"
+    }
+  ]
+}

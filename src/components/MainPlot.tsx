@@ -184,7 +184,13 @@ function MainPlot() {
                     strokeWidth={4}
                     className="character-name"
                   >
-                    {character.character}
+                    {sortedCharacters.find(
+                      (c) => c.character === character.character
+                    )?.short
+                      ? sortedCharacters.find(
+                          (c) => c.character === character.character
+                        )?.short
+                      : character.character}
                   </text>
                 )}
               </g>

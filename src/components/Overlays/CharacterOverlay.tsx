@@ -22,7 +22,8 @@ function CharacterOverlay() {
       {characterScenes.map((character, i) => {
         const charColor = getColor(character.character, sortedCharacters);
         return (
-          characterQuoteTexts[i] && (
+          characterQuoteTexts[i] &&
+          character_quotes[i] && (
             <g
               key={"character quotebox" + i}
               className={

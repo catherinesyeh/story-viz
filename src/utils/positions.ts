@@ -386,10 +386,10 @@ const getPath = (
     } else {
       if (cur_y > prev_y) {
         // if character is moving up
-        adjustments[i] = -1 * prevCharInd;
+        adjustments[i] = -1 * (prevCharInd + 1);
       } else {
         // if character is moving down
-        adjustments[i] = prevCharInd;
+        adjustments[i] = prevCharInd + 1;
       }
     }
 
@@ -629,7 +629,9 @@ const sceneBoxes = (
 // compute pos of legend items
 const legendPos = (plotWidth: number, sortedCharacters: CharacterData[]) => {
   // get characterNames from characterScenes
-  const characters = sortedCharacters.map((char) => char.character);
+  const characters = sortedCharacters.map((char) =>
+    char.short ? char.short : char.character
+  );
 
   const numRows = Math.round(characters.length / 5);
 
@@ -718,8 +720,11 @@ const location_quote_texts = (
   locationPos: number[],
   location_quotes: LocationQuote[]
 ) =>
-  locations.map((_, i) => {
-    return location_quotes[i].quote.map((_, j) => {
+  locations.map((loc, i) => {
+    const cur_quote =
+      location_quotes.find((quote) => quote.location === loc) ||
+      location_quotes[i];
+    return cur_quote.quote.map((_, j) => {
       return {
         x: scene_offset - 0.5 * location_offset,
         y: locationPos[locationPos.length - 2] + (j + 1.25) * character_offset,
@@ -732,16 +737,19 @@ const character_quote_boxes = (
   characterScenes: CharacterScene[],
   legend_box_pos: Box,
   character_quotes: CharacterQuote[]
-) =>
-  characterScenes.map((_, i) => {
+) => {
+  return characterScenes.map((char, i) => {
+    const cur_quote =
+      character_quotes.find((c) => c.character === char.character) ||
+      character_quotes[i];
     return {
       x: legend_box_pos.x,
       y: legend_box_pos.y + legend_box_pos.height + 1.75 * character_offset,
       width: scene_base * 5.5 + character_offset,
-      height:
-        (Math.max(character_quotes[i].quote.length, 2) + 3) * character_offset,
+      height: (Math.max(cur_quote.quote.length, 2) + 3) * character_offset,
     };
   });
+};
 
 // character quote text positions
 const character_quote_texts = (
@@ -750,8 +758,11 @@ const character_quote_texts = (
   legend_box_pos: Box,
   character_quotes: CharacterQuote[]
 ) =>
-  characterScenes.map((_, i) => {
-    return character_quotes[i].quote.map((_, j) => {
+  characterScenes.map((char, i) => {
+    const cur_quote =
+      character_quotes.find((c) => c.character === char.character) ||
+      character_quotes[i];
+    return cur_quote.quote.map((_, j) => {
       return {
         x: legend_box_pos.x + 0.75 * location_offset + 0.55 * location_height,
         y: character_quote_boxes[i].y + (j + 2.8) * character_offset,

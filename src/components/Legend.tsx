@@ -67,7 +67,7 @@ function Legend() {
                   textAnchor="start"
                   className="legend-name"
                 >
-                  {character.character}
+                  {character.short ? character.short : character.character}
                 </text>
               </g>
             )

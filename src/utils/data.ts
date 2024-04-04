@@ -51,6 +51,7 @@ export interface LocationData {
 
 export interface CharacterData {
   character: string;
+  short: string;
   key: string;
   quote: string;
   group: string;
@@ -233,7 +234,15 @@ const character_quotes = (
 ): CharacterQuote[] =>
   character_data
     .map((character) => {
-      const chunked = chunkQuote('"' + character.quote + '"', 80);
+      const start_and_ends_with_quotes =
+        (character.quote.startsWith('"') && character.quote.endsWith('"')) ||
+        (character.quote.startsWith("“") && character.quote.endsWith("”")) ||
+        (character.quote.startsWith("‘") && character.quote.endsWith("’")) ||
+        (character.quote.startsWith("'") && character.quote.endsWith("'"));
+      const mod_quote = start_and_ends_with_quotes
+        ? character.quote
+        : '"' + character.quote + '"';
+      const chunked = chunkQuote(mod_quote, 80);
       return {
         character: character.character,
         group: character.group,

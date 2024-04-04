@@ -41,7 +41,7 @@ const initialState = {
 };
 
 export const storyStore = create<IStore>()((set) => ({
-  story: "gatsby",
+  story: "wizard",
   ...initialState,
   setStory: (val: string) => set({ story: val }),
   setShowConflict: (val: boolean) => set({ showConflict: val }),

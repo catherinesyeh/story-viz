@@ -64,19 +64,32 @@ const controlPoint = (
     if (adjustment > 0) {
       // moving down
       if (!reverse && next_adjustment === -1 * adjustment) {
+        // console.log("1: here");
         if (
           (next && current[1] - next[1] > location_buffer) ||
           prev_adjustment === 0
         ) {
-          x += adjustment * 2 * character_offset;
+          // console.log("1.1: here");
+          // console.log(prev_adjustment, adjustment, next_adjustment);
+
+          const factor = next && current[1] - next[1] < location_buffer ? 1 : 2;
+          x += factor * adjustment * character_offset;
         }
       } else if (
         !reverse &&
         prev_adjustment < 0 &&
         next_adjustment > 0 &&
         previous &&
-        current[1] - previous[1] < location_buffer
+        current[1] - previous[1] < location_buffer &&
+        !(
+          prev_adjustment < 0 &&
+          adjustment > 0 &&
+          next_adjustment === adjustment &&
+          prev_adjustment === -1 * adjustment
+        )
       ) {
+        // console.log("1.2: here");
+        // console.log(prev_adjustment, adjustment, next_adjustment);
         x -= adjustment * character_offset;
       }
     } else if (adjustment < 0) {
@@ -100,10 +113,49 @@ const controlPoint = (
         (next && Math.abs(current[1] - next[1]) > location_buffer)
       ) {
         if (!reverse) {
+          // console.log("1: here");
+          // console.log(prev_adjustment, adjustment, next_adjustment);
           x += 0.5 * adjustment * character_offset;
+          if (
+            prev_adjustment === 0 &&
+            adjustment === 0 &&
+            next_adjustment > 0
+          ) {
+            // console.log("1.5: here");
+            // console.log(prev_adjustment, adjustment, next_adjustment);
+            x += 0.25 * next_adjustment * character_offset;
+          }
         } else {
+          // console.log("2: here");
+          // console.log(prev_adjustment, adjustment, next_adjustment);
           x -= 0.5 * adjustment * character_offset;
+          if (
+            prev_adjustment === 0 &&
+            adjustment === 0 &&
+            next_adjustment > 0
+          ) {
+            // console.log("2.5: here");
+            // console.log(prev_adjustment, adjustment, next_adjustment);
+            x -= next_adjustment * character_offset;
+          }
         }
+      } else if (
+        !reverse &&
+        prev_adjustment === 0 &&
+        next_adjustment < 0 &&
+        adjustment == 0
+      ) {
+        //   console.log("3: here");
+        //   console.log(prev_adjustment, adjustment, next_adjustment);
+        x -= 2 * next_adjustment * character_offset;
+      } else if (
+        prev_adjustment === 0 &&
+        next_adjustment > 0 &&
+        adjustment == 0
+      ) {
+        // console.log("4: here");
+        // console.log(prev_adjustment, adjustment, next_adjustment);
+        x -= 0.5 * (next_adjustment - 2) * character_offset;
       }
     }
   }
