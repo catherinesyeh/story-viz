@@ -890,6 +890,7 @@ export const findOverlappingScenes = (
 
 // update scene summary box and text positions
 const update_scene_summaries = (
+  legendBoxPos: Box,
   plotWidth: number,
   scenePos: Position[],
   baseBox: SceneSummaryBox,
@@ -923,14 +924,14 @@ const update_scene_summaries = (
   sceneSummaryTexts.forEach((text, i) => {
     const new_box = { ...baseBox };
 
-    if (overlappingScenes.includes(i)) {
+    if (overlappingScenes.includes(i) || baseBox.x < scene_offset) {
       new_box.x = plotWidth - baseBox.width;
       new_box.y = characterQuoteBoxes[0].y;
     }
     new_scene_summary_boxes.push(new_box);
 
     const new_text = { ...text };
-    if (overlappingScenes.includes(i)) {
+    if (overlappingScenes.includes(i) || baseBox.x < scene_offset) {
       // also check if there is still any overlap with the character squares
 
       const characters = sceneCharacters[i].characters;
@@ -961,7 +962,24 @@ const update_scene_summaries = (
         // move the text to the left of the plot
         x_translate = -1 * (new_text.x - scene_offset);
         new_box.x = scene_offset - 0.9 * character_offset;
-        new_box.y = 0;
+
+        const box_right_edge = new_box.x + new_box.width + character_offset;
+
+        const shift_y =
+          box_right_edge > legendBoxPos.x &&
+          box_right_edge < legendBoxPos.x + legendBoxPos.width
+            ? legendBoxPos.height + 1.75 * character_offset
+            : 0;
+        new_box.y = shift_y;
+        if (shift_y > 0) {
+          new_text.y += shift_y;
+          new_text.title_y += shift_y;
+          new_text.summary_y += shift_y;
+          new_text.location_y += shift_y;
+          new_text.divider_y += shift_y;
+          new_text.character_y += shift_y;
+          new_text.character_list_y += shift_y;
+        }
       } else {
         new_text.y += y_translate;
         new_text.title_y += y_translate;
@@ -1040,12 +1058,14 @@ const conflictPath = (conflict_points: Position[], scenePos: Position[]) => {
   return edited_path + " L " + end[0] + "," + end[1];
 };
 
-const getLegenedOverlap = (
+const getLegendOverlap = (
   scenePos: Position[],
   legendBoxPos: Box,
   sceneCharacters: SceneCharacter[],
   characterScenes: CharacterScene[],
-  characterPos: Position[][]
+  characterPos: Position[][],
+  legendPos: Position[],
+  scene_width: number
 ) => {
   const potentialOverlappingScenes = findPotentialOverlappingScenes(
     scenePos,
@@ -1061,9 +1081,48 @@ const getLegenedOverlap = (
     0
   );
 
-  return overlappingScenes.length > 0
-    ? legendBoxPos.height + character_offset
-    : 0;
+  if (overlappingScenes.length === 0) {
+    return 0;
+  }
+
+  const all_scene_indices = sceneCharacters.map((_, i) => i);
+
+  const actualOverlappingScenes = findOverlappingScenes(
+    all_scene_indices,
+    sceneCharacters,
+    characterScenes,
+    characterPos,
+    legendBoxPos,
+    0
+  );
+
+  // find gap wide enough to fit legend box
+  // start from last scene in overlappingScenes and go backwards
+
+  let xShift = 0;
+  for (let i = actualOverlappingScenes.length - 1; i > 0; i--) {
+    const scene_index = actualOverlappingScenes[i];
+    const cur_x = scenePos[scene_index].x;
+
+    let prev_scene_index = actualOverlappingScenes[i - 1];
+    let prev_x = scenePos[prev_scene_index].x;
+
+    if (cur_x - prev_x > legendBoxPos.width + 0.75 * scene_width) {
+      xShift =
+        legendBoxPos.x - (cur_x - 0.75 * scene_width - legendBoxPos.width);
+      break;
+    }
+  }
+
+  // shift legend if xShift is not 0
+  if (xShift !== 0) {
+    legendBoxPos.x -= xShift;
+    legendPos.forEach((pos) => {
+      pos.x -= xShift;
+    });
+  }
+
+  return xShift === 0 ? legendBoxPos.height + character_offset : 0;
 };
 
 // get all positions
@@ -1136,6 +1195,16 @@ export const getAllPositions = (
   const initLegendPos = legendPos(plotWidth, sortedCharacters);
   const initLegendBoxPos = legend_box_pos(plotWidth, initLegendPos);
 
+  const yShift = getLegendOverlap(
+    initScenePos,
+    initLegendBoxPos,
+    sceneCharacters,
+    characterScenes,
+    initCharacterPos,
+    initLegendPos,
+    sceneWidth
+  );
+
   const initLocationQuoteBoxes = location_quote_boxes(
     locations,
     initLocationPos,
@@ -1169,15 +1238,8 @@ export const getAllPositions = (
     sceneSummaries
   );
 
-  const yShift = getLegenedOverlap(
-    initScenePos,
-    initLegendBoxPos,
-    sceneCharacters,
-    characterScenes,
-    initCharacterPos
-  );
-
   const updatedSceneSummaryPos = update_scene_summaries(
+    initLegendBoxPos,
     plotWidth,
     initScenePos,
     initSceneSummaryBox,

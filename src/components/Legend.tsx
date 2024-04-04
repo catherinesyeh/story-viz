@@ -56,7 +56,7 @@ function Legend() {
               >
                 <rect
                   x={0}
-                  y={0}
+                  y={1}
                   width={character_height}
                   height={character_height}
                   fill={getColor(character.character, sortedCharacters)}
