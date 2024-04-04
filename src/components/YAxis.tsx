@@ -47,7 +47,7 @@ function YAxis() {
           {location_chunks[i] && (
             <>
               <Image
-                x={location_height * 0.9}
+                x={location_height}
                 y={
                   locationPos[i] +
                     (location_chunks[i].length - 1) * character_offset || 0
@@ -68,7 +68,7 @@ function YAxis() {
                 {location_chunks[i].map((chunk, j) => (
                   <text
                     className="location-name"
-                    x={location_height * 1.6}
+                    x={location_height * 1.7}
                     y={locationPos[i] + j * character_offset || 0}
                     key={"location" + i + j}
                     textAnchor="end"

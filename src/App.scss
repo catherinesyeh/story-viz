@@ -9,7 +9,7 @@
 }
 
 #root {
-  max-width: 1900px;
+  max-width: 2100px;
   width: 100%;
   margin: 0 auto;
 }
@@ -115,8 +115,10 @@ h1 {
 }
 #story-contain {
   width: 100%;
+  max-width: 1900px;
   display: block;
   position: relative;
+  margin: 0 auto;
 
   #story {
     font-size: calc(0.8rem + 0.1vw);
@@ -319,7 +321,7 @@ h1 {
   }
 }
 
-@media (max-width: 1900px) {
+@media (max-width: 1960px) {
   header {
     #options {
       .options-contain {
