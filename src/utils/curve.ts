@@ -155,7 +155,7 @@ const controlPoint = (
       ) {
         // console.log("4: here");
         // console.log(prev_adjustment, adjustment, next_adjustment);
-        x -= 0.5 * (next_adjustment - 2) * character_offset;
+        x -= 0.75 * (next_adjustment - 2) * character_offset;
       }
     }
   }

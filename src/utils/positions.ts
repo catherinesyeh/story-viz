@@ -305,12 +305,21 @@ const getPath = (
             numPrevChars === 0 && Math.abs(new_y - cur_y) > location_buffer
               ? 1 + numNextChars * 0.5
               : 1;
+
+          const max_multiplier = Math.min(next_multiplier, prev_multiplier);
           character_coords_arr.splice(i + 1, 0, [
             cur_x -
               extra_multiplier * next_multiplier -
               character_offset / offset,
             new_y,
           ]);
+
+          character_coords_arr[i] = [
+            prev_x +
+              extra_multiplier * max_multiplier +
+              character_offset / offset,
+            new_y,
+          ];
         } else {
           character_coords_arr.splice(i + 1, 0, [
             cur_x - next_multiplier,
@@ -547,7 +556,8 @@ const characterPaths = (
       const ind = og_indices.findIndex((val) => val === i);
       return [point[0], point[1] + importance_weights[ind]];
     });
-
+    // console.log(character.character);
+    // console.log(adjustments);
     let top_path = svgPath(character_coords_top, adjustments, bezierCommand);
     let bottom_path = svgPath(
       character_coords_bottom,
