@@ -1,41 +1,23 @@
 import { storyStore } from "../stores/storyStore";
 import { dataStore } from "../stores/dataStore";
-import {
-  location_height,
-  character_offset,
-  location_offset,
-} from "../utils/consts";
+import { location_height, character_offset } from "../utils/consts";
 import { positionStore } from "../stores/positionStore";
 
 import Image from "./Image";
 import { onlyLetters } from "../utils/helpers";
 
 function YAxis() {
-  const {
-    story,
-    locationHover,
-    setLocationHover,
-    sceneHover,
-    characterHover,
-    showConflict,
-  } = storyStore();
+  const { story, locationHover, setLocationHover, sceneHover, characterHover } =
+    storyStore();
   const {
     sceneLocations,
     scenes,
     characterScenes,
     locations,
     location_chunks,
-    sceneCharacters,
     location_data,
   } = dataStore();
-  const { locationPos, scenePos, characterPos, yShift } = positionStore();
-  const charactersInFirstScene = sceneCharacters[0].characters;
-  const lastCharacter =
-    charactersInFirstScene[charactersInFirstScene.length - 1];
-  const lastCharacterIndex = characterScenes.findIndex(
-    (char) => char.character === lastCharacter
-  );
-  const lastCharacterYPos = characterPos[lastCharacterIndex][0].y;
+  const { locationPos, yShift } = positionStore();
   return (
     <g id="y-axis" transform={"translate(0 " + yShift + ")"}>
       {/* add locations to y axis */}
@@ -99,40 +81,6 @@ function YAxis() {
           )}
         </g>
       ))}
-
-      {/* add vertical arrow as y axis */}
-      <g
-        id="y-arrow"
-        fillOpacity={0}
-        strokeOpacity={0}
-        className={showConflict ? "highlight" : ""}
-      >
-        <path
-          id="arrow-line-y"
-          // markerEnd={!showConflict ? "" : "url(#head)"}
-          strokeWidth="2"
-          stroke="black"
-          d={`M${scenePos[0].x},${scenePos[0].y - 0.75 * location_offset}, ${
-            scenePos[0].x
-          },${lastCharacterYPos + 1.5 * character_offset}`}
-        />
-        {/* add label to arrow */}
-        <text
-          x={scenePos[0].x - 0.5 * location_offset}
-          y={lastCharacterYPos + 1.5 * character_offset || 0}
-          textAnchor="end"
-          className="conflict-label"
-          transform={
-            "rotate(-90," +
-            (scenePos[0].x - 0.5 * location_offset) +
-            ", " +
-            (lastCharacterYPos + 1.5 * character_offset) +
-            ")"
-          }
-        >
-          Conflict (max: 1)
-        </text>
-      </g>
     </g>
   );
 }

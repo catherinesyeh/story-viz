@@ -1,12 +1,23 @@
 import { storyStore } from "../stores/storyStore";
 import { color_dict, getColor } from "../utils/colors";
-import { character_height, character_offset } from "../utils/consts";
+import {
+  character_height,
+  character_offset,
+  extra_yshift,
+} from "../utils/consts";
 import { dataStore } from "../stores/dataStore";
 import { positionStore } from "../stores/positionStore";
 
 function Legend() {
   const { sortedCharacters } = dataStore();
-  const { legendBoxPos, legendPos, colorBarPos, yShift } = positionStore();
+  const {
+    legendBoxPos,
+    legendPos,
+    colorBarPos,
+    yShift,
+    minConflictY,
+    scenePos,
+  } = positionStore();
   const {
     setCharacterHover,
     sceneHover,
@@ -15,6 +26,7 @@ function Legend() {
     characterColor: characterColorBy,
     setHidden,
     sizeBy,
+    showConflict,
   } = storyStore();
 
   // Update array with list of hidden characters
@@ -74,7 +86,14 @@ function Legend() {
         )}
       </g>
       {/* add rectangular bar across bottom of plot to serve as legend */}
-      <g id="color-legends" transform={"translate(0 " + yShift + ")"}>
+      <g
+        id="color-legends"
+        transform={
+          "translate(0 " +
+          (yShift + (showConflict ? extra_yshift(minConflictY, scenePos) : 0)) +
+          ")"
+        }
+      >
         {Object.keys(color_dict).map((scale, i) => (
           <g
             className={

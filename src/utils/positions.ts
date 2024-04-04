@@ -1042,27 +1042,24 @@ const conflict_points = (
   scene_data.map((scene, i) => {
     // for each scene, compute the x and y coordinates for the curve
     const x = scenePos[i].x;
-    // y should be between min_conflict_y and 0 (max conflict)
+    // y should be between min_conflict_y and min_conflict_y + location_height (max conflict)
     const conflict = normalizeRating(scene.ratings.conflict);
-    const y = min_conflict_y - conflict * min_conflict_y;
+    const y = min_conflict_y - conflict * location_height;
     return { x: x, y: y };
   });
 
 // compute conflict curve
-const conflictPath = (conflict_points: Position[], scenePos: Position[]) => {
+const conflictPath = (conflict_points: Position[], min_conflict_y: number) => {
   const conflict_coords = conflict_points.map((point: any) => [
     point.x + character_height / 2 - 5,
     point.y + character_height / 2,
   ]);
 
-  const path = svgPath(conflict_coords, {}, bezierCommand);
+  const path = svgPath(conflict_coords, {}, bezierCommand, 0.3);
 
   // add a point at the beginning and end of the curve to close it off
-  const start = [conflict_coords[0][0], scenePos[0].y - 0.75 * location_offset];
-  const end = [
-    conflict_coords[conflict_coords.length - 1][0],
-    scenePos[scenePos.length - 1].y - 0.75 * location_offset,
-  ];
+  const start = [conflict_coords[0][0], min_conflict_y];
+  const end = [conflict_coords[conflict_coords.length - 1][0], min_conflict_y];
 
   const edited_path = path.replace("M", "M" + start[0] + "," + start[1] + " L");
   return edited_path + " L " + end[0] + "," + end[1];
@@ -1269,14 +1266,14 @@ export const getAllPositions = (
   const plotHeight =
     initColorBarPos[0].y + initColorBarPos[0].height + 8 * character_height;
 
-  const min_conflict_y = initScenePos[0].y - 0.75 * location_offset;
+  const min_conflict_y = max_y + location_buffer;
   const initConflictPoints = conflict_points(
     scene_data,
     min_conflict_y,
     initScenePos
   );
 
-  const initConflictPath = conflictPath(initConflictPoints, initScenePos);
+  const initConflictPath = conflictPath(initConflictPoints, min_conflict_y);
 
   return {
     sceneWidth: sceneWidth,
@@ -1300,5 +1297,6 @@ export const getAllPositions = (
     conflictPoints: initConflictPoints,
     conflictPath: initConflictPath,
     yShift: yShift,
+    minConflictY: min_conflict_y,
   };
 };

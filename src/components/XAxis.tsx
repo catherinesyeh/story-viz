@@ -1,6 +1,10 @@
 import { storyStore } from "../stores/storyStore";
 import { dataStore } from "../stores/dataStore";
-import { character_offset, location_offset } from "../utils/consts";
+import {
+  character_offset,
+  extra_yshift,
+  location_offset,
+} from "../utils/consts";
 import { conflictColor, emotionColor, importanceColor } from "../utils/colors";
 import {
   getFontFamily,
@@ -22,10 +26,20 @@ function XAxis() {
     sizeBy,
     colorBy,
     weightBy,
+    showConflict,
   } = storyStore();
-  const { scenePos, yShift } = positionStore();
+
+  const { scenePos, yShift, minConflictY } = positionStore();
+
   return (
-    <g id="x-axis" transform={"translate(0 " + yShift + ")"}>
+    <g
+      id="x-axis"
+      transform={
+        "translate(0 " +
+        (yShift + (showConflict ? extra_yshift(minConflictY, scenePos) : 0)) +
+        ")"
+      }
+    >
       {/* add scene names to x axis */}
       <g id="scenes">
         {scenes.map((scene, i) => (

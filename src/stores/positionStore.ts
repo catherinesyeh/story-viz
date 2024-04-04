@@ -57,6 +57,7 @@ interface IStore {
   conflictPoints: Position[];
   conflictPath: string;
   yShift: number;
+  minConflictY: number;
 
   setPositions: (
     scene_data: Scene[],
@@ -94,6 +95,7 @@ const initialState = {
   conflictPoints: init_pos_values.conflictPoints,
   conflictPath: init_pos_values.conflictPath,
   yShift: init_pos_values.yShift,
+  minConflictY: init_pos_values.minConflictY,
 };
 
 export const positionStore = create<IStore>((set) => ({
@@ -144,6 +146,7 @@ export const positionStore = create<IStore>((set) => ({
       conflictPoints: newPositions.conflictPoints,
       conflictPath: newPositions.conflictPath,
       yShift: newPositions.yShift,
+      minConflictY: newPositions.minConflictY,
     });
   },
 }));

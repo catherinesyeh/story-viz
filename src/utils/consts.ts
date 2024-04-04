@@ -1,3 +1,5 @@
+import { Position } from "./positions";
+
 /* CONSTS */
 export const med_conflict_font = '"Advent Pro", sans-serif';
 export const high_conflict_font = "'Shantell Sans', cursive";
@@ -11,6 +13,9 @@ export const character_height = 12;
 export const character_offset = 1.5 * character_height;
 
 export const location_buffer = location_height + 2 * character_height;
+
+export const extra_yshift = (minConflictY: number, scenePos: Position[]) =>
+  minConflictY - scenePos[0].y + 1.25 * character_height;
 
 export const scene_width = (locations: string[], scenes: string[]) =>
   (2200 + 100 * Math.max(locations.length - 6, 0)) / scenes.length;

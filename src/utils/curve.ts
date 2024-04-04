@@ -3,7 +3,7 @@
 import { character_offset, location_buffer } from "./consts";
 
 // The smoothing ratio
-const smoothing = 0.4;
+// const smoothing = 0.4;
 
 // Properties of a line
 // I:  - pointA (array) [x,y]: coordinates
@@ -32,7 +32,8 @@ const controlPoint = (
   prev_adjustment: number,
   next_adjustment: number,
   reverse: any,
-  secondLast: boolean
+  secondLast: boolean,
+  smoothing: number = 0.4
 ) => {
   // When 'current' is the first or last point of the array
   // 'previous' or 'next' don't exist.
@@ -71,7 +72,6 @@ const controlPoint = (
         ) {
           // console.log("1.1: here");
           // console.log(prev_adjustment, adjustment, next_adjustment);
-
           const factor = next && current[1] - next[1] < location_buffer ? 1 : 2;
           x += factor * adjustment * character_offset;
         }
@@ -180,7 +180,8 @@ export const bezierCommand = (
   point: any,
   adjustment: number[],
   i: number,
-  a: any
+  a: any,
+  smoothing: number = 0.4
 ) => {
   let secondLast = false;
   if (i === a.length - 2) {
@@ -196,7 +197,8 @@ export const bezierCommand = (
     adjustment[i - 1],
     adjustment[i + 1],
     false,
-    secondLast
+    secondLast,
+    smoothing
   );
 
   // end control point
@@ -208,7 +210,8 @@ export const bezierCommand = (
     adjustment[i - 1],
     adjustment[i + 1],
     true,
-    secondLast
+    secondLast,
+    smoothing
   );
   return `C ${cps[0]},${cps[1]} ${cpe[0]},${cpe[1]} ${point[0]},${point[1]}`;
 };
@@ -221,13 +224,18 @@ export const bezierCommand = (
 //           - a (array): complete array of points coordinates
 //       O:  - (string) a svg path command
 // O:  - (string): a Svg <path> element
-export const svgPath = (points: any, adjustments: any, command: any) => {
+export const svgPath = (
+  points: any,
+  adjustments: any,
+  command: any,
+  smoothing: number = 0.4
+) => {
   // build the d attributes by looping over the points
   const d = points.reduce(
     (acc: any, point: any, i: number, a: any) =>
       i === 0
         ? `M ${point[0]},${point[1]}`
-        : `${acc} ${command(point, adjustments, i, a)}`,
+        : `${acc} ${command(point, adjustments, i, a, smoothing)}`,
     ""
   );
   return d;
