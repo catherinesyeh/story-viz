@@ -12,7 +12,7 @@ import { storyStore } from "../stores/storyStore";
 function StoryVis() {
   const { plotWidth, plotHeight, yShift, minConflictY, scenePos } =
     positionStore();
-  const { showConflict } = storyStore();
+  const { overlay } = storyStore();
   return (
     <svg
       id="story"
@@ -20,7 +20,7 @@ function StoryVis() {
       viewBox={`0 0 ${plotWidth} ${
         plotHeight +
         yShift +
-        (showConflict ? extra_yshift(minConflictY, scenePos) : 0)
+        (overlay !== "none" ? extra_yshift(minConflictY, scenePos) : 0)
       }`} // Maintain your calculated dimensions here for correct scaling
       preserveAspectRatio="xMidYMid meet" // This helps in maintaining the aspect ratio
     >

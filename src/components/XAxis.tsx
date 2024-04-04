@@ -26,7 +26,7 @@ function XAxis() {
     sizeBy,
     colorBy,
     weightBy,
-    showConflict,
+    overlay,
   } = storyStore();
 
   const { scenePos, yShift, minConflictY } = positionStore();
@@ -36,7 +36,8 @@ function XAxis() {
       id="x-axis"
       transform={
         "translate(0 " +
-        (yShift + (showConflict ? extra_yshift(minConflictY, scenePos) : 0)) +
+        (yShift +
+          (overlay !== "none" ? extra_yshift(minConflictY, scenePos) : 0)) +
         ")"
       }
     >

@@ -1037,13 +1037,17 @@ const color_bar_pos = (plotWidth: number, scenePos: Position[]) =>
 const conflict_points = (
   scene_data: Scene[],
   min_conflict_y: number,
-  scenePos: Position[]
+  scenePos: Position[],
+  type: string
 ) =>
   scene_data.map((scene, i) => {
     // for each scene, compute the x and y coordinates for the curve
     const x = scenePos[i].x;
     // y should be between min_conflict_y and min_conflict_y + location_height (max conflict)
-    const conflict = normalizeRating(scene.ratings.conflict);
+    const conflict =
+      type === "conflict"
+        ? normalizeRating(scene.ratings.conflict)
+        : normalizeRating(scene.ratings.importance);
     const y = min_conflict_y - conflict * location_height;
     return { x: x, y: y };
   });
@@ -1270,10 +1274,19 @@ export const getAllPositions = (
   const initConflictPoints = conflict_points(
     scene_data,
     min_conflict_y,
-    initScenePos
+    initScenePos,
+    "conflict"
   );
 
   const initConflictPath = conflictPath(initConflictPoints, min_conflict_y);
+
+  const initImportancePoints = conflict_points(
+    scene_data,
+    min_conflict_y,
+    initScenePos,
+    "importance"
+  );
+  const initImportancePath = conflictPath(initImportancePoints, min_conflict_y);
 
   return {
     sceneWidth: sceneWidth,
@@ -1294,8 +1307,8 @@ export const getAllPositions = (
     sceneSummaryBoxes: initSceneSummaryBoxes,
     sceneSummaryTexts: initSceneSummaryTexts,
     colorBarPos: initColorBarPos,
-    conflictPoints: initConflictPoints,
     conflictPath: initConflictPath,
+    importancePath: initImportancePath,
     yShift: yShift,
     minConflictY: min_conflict_y,
   };

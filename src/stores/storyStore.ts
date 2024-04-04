@@ -5,8 +5,8 @@ interface IStore {
   story: string;
   setStory: (val: string) => void;
 
-  showConflict: boolean;
-  setShowConflict: (val: boolean) => void;
+  overlay: string;
+  setOverlay: (val: string) => void;
   colorBy: string;
   setColorBy: (val: string) => void;
   sizeBy: string;
@@ -28,7 +28,7 @@ interface IStore {
 }
 
 const initialState = {
-  showConflict: false,
+  overlay: "none",
   colorBy: "sentiment",
   sizeBy: "conflict",
   weightBy: "importance",
@@ -44,7 +44,7 @@ export const storyStore = create<IStore>()((set) => ({
   story: "wizard",
   ...initialState,
   setStory: (val: string) => set({ story: val }),
-  setShowConflict: (val: boolean) => set({ showConflict: val }),
+  setOverlay: (val: string) => set({ overlay: val }),
   setColorBy: (val: string) => set({ colorBy: val }),
   setSizeBy: (val: string) => set({ sizeBy: val }),
   setWeightBy: (val: string) => set({ weightBy: val }),

@@ -1,4 +1,4 @@
-import { Switch, Select, Divider, Button } from "@mantine/core";
+import { Select, Divider, Button } from "@mantine/core";
 import { storyStore } from "../stores/storyStore";
 import { dataStore } from "../stores/dataStore";
 import { useEffect } from "react";
@@ -9,8 +9,8 @@ function PlotOptions() {
   const {
     characterColor,
     setCharacterColor,
-    showConflict,
-    setShowConflict,
+    overlay,
+    setOverlay,
     colorBy,
     setColorBy,
     sizeBy,
@@ -40,6 +40,7 @@ function PlotOptions() {
   const colorByOptions = ["conflict", "sentiment", "importance", "default"];
   const characterColorOptions = ["default", "sentiment", "importance"];
   const sizeByOptions = ["conflict", "importance", "default"];
+  const overlayOptions = ["conflict", "importance", "none"];
   const storyOptions = [
     "gatsby",
     "gatsby2",
@@ -103,17 +104,26 @@ function PlotOptions() {
       </div>
       <Divider orientation="vertical" />
       <div className="options-contain">
-        <b>Conflict Overlay</b>
+        <b>Scene Overlay</b>
         <div className="options-inner">
-          <Switch
+          {/* <Switch
             size="xs"
             label="Show"
             labelPosition="left"
             checked={showConflict}
             onChange={(event) => setShowConflict(event.currentTarget.checked)}
+          /> */}
+          <Select
+            size="xs"
+            label="Show"
+            data={overlayOptions}
+            value={overlay}
+            onChange={(value) => {
+              if (value) setOverlay(value);
+            }}
           />
           <Select
-            disabled={!showConflict}
+            disabled={overlay === "none"}
             size="xs"
             label="Color"
             data={colorByOptions}

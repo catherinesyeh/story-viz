@@ -7,7 +7,6 @@ import { normalizeMarkerSize } from "../utils/helpers";
 
 function MainPlot() {
   const {
-    showConflict,
     sceneHover,
     setSceneHover,
     locationHover,
@@ -36,10 +35,9 @@ function MainPlot() {
               <rect
                 className={
                   "scene-box-fill " +
-                  (showConflict &&
                   (locationHover === sceneLocations[i] ||
-                    sceneHover === scene.scene ||
-                    scene.characters.includes(characterHover))
+                  sceneHover === scene.scene ||
+                  scene.characters.includes(characterHover)
                     ? "highlight"
                     : "")
                 }

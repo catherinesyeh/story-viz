@@ -26,7 +26,7 @@ function Legend() {
     characterColor: characterColorBy,
     setHidden,
     sizeBy,
-    showConflict,
+    overlay,
   } = storyStore();
 
   // Update array with list of hidden characters
@@ -90,7 +90,8 @@ function Legend() {
         id="color-legends"
         transform={
           "translate(0 " +
-          (yShift + (showConflict ? extra_yshift(minConflictY, scenePos) : 0)) +
+          (yShift +
+            (overlay !== "none" ? extra_yshift(minConflictY, scenePos) : 0)) +
           ")"
         }
       >

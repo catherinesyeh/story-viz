@@ -9,30 +9,36 @@ import { dataStore } from "../stores/dataStore";
 import { positionStore } from "../stores/positionStore";
 
 function ConflictCurve() {
-  const { showConflict, sceneHover, locationHover, characterHover, colorBy } =
+  const { overlay, sceneHover, locationHover, characterHover, colorBy } =
     storyStore();
-  const { conflictPath, scenePos, sceneWidth, yShift, minConflictY } =
-    positionStore();
+  const {
+    conflictPath,
+    importancePath,
+    scenePos,
+    sceneWidth,
+    yShift,
+    minConflictY,
+  } = positionStore();
   const { scenes } = dataStore();
   return (
     <g id="conflict-container" transform={"translate(0 " + yShift + ")"}>
       {/* add conflict curve */}
       <path
         id="conflict-curve"
-        d={conflictPath}
+        d={overlay === "importance" ? importancePath : conflictPath}
         fillOpacity={0}
         fill={colorBy === "default" ? "#ddd" : "url(#rating" + colorBy + ")"}
         strokeWidth={2}
         className={
-          (showConflict ? "highlight" : "") +
-          (showConflict && (locationHover !== "" || characterHover !== "")
+          (overlay !== "none" ? "highlight" : "") +
+          (overlay !== "none" && (locationHover !== "" || characterHover !== "")
             ? " faded"
             : "")
         }
       />
       <g
         id="overlays"
-        fillOpacity={!showConflict || sceneHover === "" ? 0 : 0.7}
+        fillOpacity={overlay === "none" || sceneHover === "" ? 0 : 0.7}
       >
         <rect
           id="left-overlay"
@@ -41,7 +47,7 @@ function ConflictCurve() {
           x={scenePos[0].x}
           y={minConflictY - location_height + 0.5 * character_height}
           width={
-            !showConflict || sceneHover === ""
+            overlay === "none" || sceneHover === ""
               ? 0
               : sceneWidth * scenes.indexOf(sceneHover)
           }
@@ -52,13 +58,13 @@ function ConflictCurve() {
           className="white-overlay"
           fill="url(#white-gradient-right)"
           x={
-            !showConflict || sceneHover === ""
+            overlay === "none" || sceneHover === ""
               ? scenePos[scenePos.length - 1].x
               : scenePos[scenes.indexOf(sceneHover)].x + 0.5 * character_offset
           }
           y={minConflictY - location_height + 0.5 * character_height}
           width={
-            !showConflict || sceneHover === ""
+            overlay === "none" || sceneHover === ""
               ? 0
               : (scenes.length - scenes.indexOf(sceneHover) - 1) * sceneWidth
           }
@@ -70,11 +76,11 @@ function ConflictCurve() {
         id="y-arrow"
         fillOpacity={0}
         strokeOpacity={0}
-        className={showConflict ? "highlight" : ""}
+        className={overlay !== "none" ? "highlight" : ""}
       >
         <path
           id="arrow-line-y"
-          markerEnd={!showConflict ? "" : "url(#head)"}
+          markerEnd={overlay === "none" ? "" : "url(#head)"}
           strokeWidth="2"
           stroke="black"
           d={`M${scenePos[0].x},${minConflictY} , ${scenePos[0].x},${
@@ -95,7 +101,7 @@ function ConflictCurve() {
             ")"
           }
         >
-          Conflict (max: 1)
+          {overlay.charAt(0).toUpperCase() + overlay.slice(1)} (max: 1)
         </text>
       </g>
     </g>
