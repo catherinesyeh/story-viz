@@ -1,11 +1,17 @@
 import { storyStore } from "../stores/storyStore";
 import { dataStore } from "../stores/dataStore";
 import {
+  character_height,
   character_offset,
   extra_yshift,
   location_offset,
 } from "../utils/consts";
-import { conflictColor, emotionColor, importanceColor } from "../utils/colors";
+import {
+  conflictColor,
+  emotionColor,
+  importanceColor,
+  textColor,
+} from "../utils/colors";
 import {
   getFontFamily,
   getFontWeight,
@@ -84,7 +90,7 @@ function XAxis() {
                 scenePos[i] && (
                   <text
                     x={scenePos[i].x + j * character_offset * textOffset}
-                    y={scenePos[i].y}
+                    y={scenePos[i].y + 0.25 * character_height}
                     textAnchor="end"
                     key={"scene" + i + j}
                     fill={color}
@@ -102,7 +108,7 @@ function XAxis() {
                       "rotate(-45," +
                       (scenePos[i].x + j * character_offset * textOffset) +
                       ", " +
-                      scenePos[i].y +
+                      (scenePos[i].y + 0.25 * character_height) +
                       ")"
                     }
                     onMouseEnter={() => setSceneHover(scene)}
@@ -132,7 +138,15 @@ function XAxis() {
           x={scenePos[0].x + 0.5 * character_offset}
           y={scenePos[0].y - 1.1 * location_offset}
           textAnchor="start"
-          fill="black"
+          fill={
+            overlay === "none" || colorBy === "default"
+              ? "black"
+              : colorBy === "conflict"
+              ? textColor(scene_data[0].ratings.conflict, false)
+              : colorBy === "sentiment"
+              ? textColor(scene_data[0].ratings.sentiment, true)
+              : textColor(scene_data[0].ratings.importance, false)
+          }
           className="time-label"
         >
           Time

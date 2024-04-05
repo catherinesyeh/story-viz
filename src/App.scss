@@ -134,10 +134,14 @@ h1 {
       }
 
       &.character-square,
-      .character-square,
+      .character-square {
+        stroke-opacity: 0.15;
+        fill-opacity: 0.15;
+      }
+
       &.path-group,
       .path-group {
-        stroke-opacity: 0.15;
+        stroke-opacity: 0.05;
         fill-opacity: 0.15;
       }
     }

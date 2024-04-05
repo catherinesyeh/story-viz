@@ -13,7 +13,8 @@ function App() {
         <div id="story-info">
           <h1>{data["title"]}</h1>
           <span>
-            {data["author"]} <Divider orientation="vertical" /> {data["year"]}{" "}
+            {data["author"] ? data["author"] : data["director"]}{" "}
+            <Divider orientation="vertical" /> {data["year"]}{" "}
             <Divider orientation="vertical" />{" "}
             <a href={data["url"]} target="_blank" title={data["title"]}>
               <Button
@@ -22,7 +23,7 @@ function App() {
                 id="info-button"
                 leftSection={<FiFileText />}
               >
-                Full Text
+                Full {data["type"] === "Movie" ? "Script" : "Text"}
               </Button>
             </a>
           </span>

@@ -91,6 +91,16 @@ const controlPoint = (
         // console.log("1.2: here");
         // console.log(prev_adjustment, adjustment, next_adjustment);
         x -= adjustment * character_offset;
+      } else if (
+        reverse &&
+        adjustment === 1 &&
+        adjustment === next_adjustment &&
+        adjustment === prev_adjustment * -1 &&
+        previous &&
+        previous[1] - current[1] > location_buffer
+      ) {
+        // console.log("here", prev_adjustment, adjustment, next_adjustment);
+        x -= 0.75 * adjustment * character_offset;
       }
     } else if (adjustment < 0) {
       // moving up
@@ -106,6 +116,18 @@ const controlPoint = (
       ) {
         x -= adjustment * 0.5 * character_offset;
       }
+
+      if (
+        !reverse &&
+        prev_adjustment === 1 &&
+        next_adjustment === prev_adjustment &&
+        adjustment === prev_adjustment * -1 &&
+        next &&
+        next[1] - current[1] > location_buffer
+      ) {
+        // console.log("here 2", prev_adjustment, adjustment, next_adjustment);
+        x -= 0.75 * adjustment * character_offset;
+      }
     } else {
       // adjustment === 0 (big gap)
       if (
@@ -113,14 +135,10 @@ const controlPoint = (
         (next && Math.abs(current[1] - next[1]) > location_buffer)
       ) {
         if (!reverse) {
-          // console.log("1: here");
+          // console.log("1: here adj=0");
           // console.log(prev_adjustment, adjustment, next_adjustment);
           x += 0.5 * adjustment * character_offset;
-          if (
-            prev_adjustment === 0 &&
-            adjustment === 0 &&
-            next_adjustment > 0
-          ) {
+          if (prev_adjustment === 0 && next_adjustment > 0) {
             // console.log("1.5: here");
             // console.log(prev_adjustment, adjustment, next_adjustment);
             x += 0.25 * next_adjustment * character_offset;
@@ -128,34 +146,32 @@ const controlPoint = (
         } else {
           // console.log("2: here");
           // console.log(prev_adjustment, adjustment, next_adjustment);
-          x -= 0.5 * adjustment * character_offset;
-          if (
-            prev_adjustment === 0 &&
-            adjustment === 0 &&
-            next_adjustment > 0
-          ) {
+          x -= 2 * adjustment * character_offset;
+          if (prev_adjustment === 0 && next_adjustment > 0) {
             // console.log("2.5: here");
             // console.log(prev_adjustment, adjustment, next_adjustment);
             x -= next_adjustment * character_offset;
           }
         }
-      } else if (
-        !reverse &&
-        prev_adjustment === 0 &&
-        next_adjustment < 0 &&
-        adjustment == 0
-      ) {
-        //   console.log("3: here");
-        //   console.log(prev_adjustment, adjustment, next_adjustment);
+      } else if (!reverse && prev_adjustment === 0 && next_adjustment < 0) {
+        // console.log("3: here");
+        // console.log(prev_adjustment, adjustment, next_adjustment);
         x -= 2 * next_adjustment * character_offset;
-      } else if (
-        prev_adjustment === 0 &&
-        next_adjustment > 0 &&
-        adjustment == 0
-      ) {
+      } else if (prev_adjustment === 0 && next_adjustment > 0) {
         // console.log("4: here");
         // console.log(prev_adjustment, adjustment, next_adjustment);
         x -= 0.75 * (next_adjustment - 2) * character_offset;
+      }
+    }
+  } else {
+    // undefined adjustment
+    if (prev_adjustment == 0 && next_adjustment === undefined) {
+      // console.log("5: here");
+      // console.log(prev_adjustment, adjustment, next_adjustment);
+      if (reverse) {
+        x -= 1.5 * character_offset;
+      } else {
+        x -= 0.5 * character_offset;
       }
     }
   }

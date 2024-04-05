@@ -74,7 +74,7 @@ function MainPlot() {
               {/* add paths between scenes */}
               <g
                 fillOpacity={0.7}
-                // strokeOpacity={0.5}
+                strokeOpacity={0.5}
                 className={
                   "path-group " +
                   (locationHover !== "" ||
@@ -90,9 +90,9 @@ function MainPlot() {
                     <path
                       d={path}
                       fill={"url(#linear" + i + ")"}
-                      // stroke={"url(#linear" + i + ")"}
+                      stroke={"url(#linear" + i + ")"}
                       key={"charpath" + j}
-                      strokeWidth={2}
+                      strokeWidth={1.5}
                       paintOrder={"stroke"}
                       onMouseEnter={() =>
                         setCharacterHover(character.character)

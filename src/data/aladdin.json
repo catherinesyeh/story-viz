@@ -1,0 +1,835 @@
+{
+  "title": "Aladdin",
+  "type": "Movie",
+  "director": "Ron Clements & John Musker",
+  "year": "1992",
+  "url": "https://imsdb.com/scripts/Aladdin.html",
+  "scenes": [
+    {
+      "number": 1,
+      "name": "Opening",
+      "summary": "The Peddler introduces Agrabah and hints at the story of Aladdin and the magic lamp.",
+      "location": "Agrabah",
+      "firstLine": "Oh I come from a land, from a faraway place where the caravan camels roam.",
+      "lastLine": "Perhaps you would like to hear the tale?",
+      "ratings": {
+        "importance": 1,
+        "conflict": 0,
+        "sentiment": 1
+      },
+      "characters": [
+        {
+          "name": "Peddler",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Welcoming and intriguing",
+            "quote": "Perhaps you would like to hear the tale?",
+            "rating": 1
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "name": "Jafar Tries to Get the Lamp",
+      "summary": "Jafar, with Iago and Gazeem, tries and fails to retrieve the magic lamp from the Cave of Wonders.",
+      "location": "Cave of Wonders",
+      "firstLine": "You...are late.",
+      "lastLine": "Seek thee out the diamond in the rough.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 1,
+        "sentiment": -1
+      },
+      "characters": [
+        {
+          "name": "Jafar",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Calculating and impatient",
+            "quote": "Trust me my pungent friend. You'll get what's coming to you.",
+            "rating": -1
+          }
+        },
+        {
+          "name": "Iago",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Sarcastic and loyal",
+            "quote": "Oh there's a big surprise!",
+            "rating": -0.5
+          }
+        },
+        {
+          "name": "Cave of Wonders",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Ominous and selective",
+            "quote": "Who disturbs my slumber?",
+            "rating": -1
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "name": "Aladdin's Escape",
+      "summary": "Aladdin evades capture after stealing bread, highlighting his cleverness and agility.",
+      "location": "Agrabah",
+      "firstLine": "Stop thief! I'll have your hands for a trophy street rat!",
+      "lastLine": "All I gotta do is jump!",
+      "ratings": {
+        "importance": 0.7,
+        "conflict": 1,
+        "sentiment": 0.5
+      },
+      "characters": [
+        {
+          "name": "Aladdin",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Adventurous and resourceful",
+            "quote": "All this for a loaf of bread?",
+            "rating": 1
+          }
+        },
+        {
+          "name": "Abu",
+          "importance": 0.8,
+          "sentiment": {
+            "emotion": "Supportive and mischievous",
+            "quote": "Hello!",
+            "rating": 1
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "name": "Jasmine Disguised in the Marketplace",
+      "summary": "Princess Jasmine disguises herself and explores Agrabah's marketplace, experiencing life outside the palace for the first time.",
+      "location": "Marketplace",
+      "firstLine": "Pretty lady buy a pot. No finer pot in brass or silver.",
+      "lastLine": "No no please!",
+      "ratings": {
+        "importance": 1,
+        "conflict": 1,
+        "sentiment": -0.5
+      },
+      "characters": [
+        {
+          "name": "Jasmine",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Curious and compassionate",
+            "quote": "I don't think so.",
+            "rating": 0.5
+          }
+        },
+        {
+          "name": "Aladdin",
+          "importance": 0.5,
+          "sentiment": {
+            "emotion": "Enamored and protective",
+            "quote": "Wow!",
+            "rating": 1
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "name": "Aladdin Saves Jasmine",
+      "summary": "Aladdin saves Jasmine from being punished for theft, revealing his kindness and quick thinking.",
+      "location": "Marketplace",
+      "firstLine": "Thank you kind sir. I'm so glad you've found her.",
+      "lastLine": "Then jump!",
+      "ratings": {
+        "importance": 1,
+        "conflict": 1,
+        "sentiment": 0.5
+      },
+      "characters": [
+        {
+          "name": "Aladdin",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Heroic and clever",
+            "quote": "Just play along.",
+            "rating": 1
+          }
+        },
+        {
+          "name": "Jasmine",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Surprised and grateful",
+            "quote": "What are you doing?",
+            "rating": 0.7
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "name": "Jafar's Plot",
+      "summary": "Jafar devises a plan to become Sultan by marrying Princess Jasmine, showcasing his ambition and deceit.",
+      "location": "Sultan's Palace",
+      "firstLine": "Jafar, this is an outrage.",
+      "lastLine": "Kersplat!",
+      "ratings": {
+        "importance": 1,
+        "conflict": 1,
+        "sentiment": -1
+      },
+      "characters": [
+        {
+          "name": "Jafar",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Devious and plotting",
+            "quote": "Marry the shrew? I become sultan.",
+            "rating": -1
+          }
+        },
+        {
+          "name": "Iago",
+          "importance": 0.8,
+          "sentiment": {
+            "emotion": "Scheming and supportive",
+            "quote": "Jafar? What if you were the chump husband?",
+            "rating": -0.8
+          }
+        },
+        {
+          "name": "Sultan",
+          "importance": 0.5,
+          "sentiment": {
+            "emotion": "Oblivious and well-meaning",
+            "quote": "Jasmine, Jafar now let's put this whole messy business behind us.",
+            "rating": 0.3
+          }
+        },
+        {
+          "name": "Jasmine",
+          "importance": 0.7,
+          "sentiment": {
+            "emotion": "Defiant and assertive",
+            "quote": "When I am queen, I will have the power to get rid of you.",
+            "rating": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "name": "Aladdin Discovers the Genie",
+      "summary": "Aladdin rubs the lamp, releasing Genie, who explains the rules of wish-making.",
+      "location": "Cave of Wonders",
+      "firstLine": "Ah almost. There are a few provisos, a couple of quid pro quos.",
+      "lastLine": "You ain't never had a friend like me!",
+      "ratings": {
+        "importance": 1,
+        "conflict": 0.5,
+        "sentiment": 1
+      },
+      "characters": [
+        {
+          "name": "Aladdin",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Astonished and curious",
+            "quote": "You're gonna grant me any three wishes I want?",
+            "rating": 1
+          }
+        },
+        {
+          "name": "Genie",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Eccentric and enthusiastic",
+            "quote": "No substitutions, exchanges or refunds.",
+            "rating": 1
+          }
+        },
+        {
+          "name": "Abu",
+          "importance": 0.5,
+          "sentiment": {
+            "emotion": "Bewildered and cautious",
+            "quote": "Oh oh. Aladdin? Wake up. Aladdin.",
+            "rating": 0.6
+          }
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "name": "Aladdin's First Wish",
+      "summary": "Aladdin cleverly uses his first wish to escape the Cave of Wonders without explicitly making a wish.",
+      "location": "Cave of Wonders",
+      "firstLine": "Excuse me? Are you lookin' at me? Did you rub my lamp?",
+      "lastLine": "Weeee'rrrrrreee...outta here!",
+      "ratings": {
+        "importance": 1,
+        "conflict": 0.5,
+        "sentiment": 0.5
+      },
+      "characters": [
+        {
+          "name": "Aladdin",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Strategic and skeptical",
+            "quote": "Some all-powerful genie--can't even bring people back from the dead.",
+            "rating": 1
+          }
+        },
+        {
+          "name": "Genie",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Defensive and playful",
+            "quote": "You're gettin' your wishes so siddown!",
+            "rating": 1
+          }
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "name": "Aladdin's Decision",
+      "summary": "Aladdin contemplates his next wishes and decides to use them to win Princess Jasmine's heart, showing his longing and ambition.",
+      "location": "Agrabah",
+      "firstLine": "Now that I'm out of the cave, I can show Jasmine I'm worth something.",
+      "lastLine": "I'll need Genie's help to make me a prince.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 0.3,
+        "sentiment": 0.5
+      },
+      "characters": [
+        {
+          "name": "Aladdin",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Hopeful and determined",
+            "quote": "I can be someone Jasmine will notice.",
+            "rating": 1
+          }
+        },
+        {
+          "name": "Genie",
+          "importance": 0.5,
+          "sentiment": {
+            "emotion": "Supportive and intrigued",
+            "quote": "You really gonna try to win the princess's heart?",
+            "rating": 0.7
+          }
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "name": "Aladdin Becomes Prince Ali",
+      "summary": "Genie transforms Aladdin into Prince Ali, enabling him to pursue Jasmine with the appearance of royalty.",
+      "location": "Agrabah",
+      "firstLine": "There's a lot we're gonna have to change.",
+      "lastLine": "Prince Ali! Fabulous he! Ali Ababwa!",
+      "ratings": {
+        "importance": 1,
+        "conflict": 0,
+        "sentiment": 1
+      },
+      "characters": [
+        {
+          "name": "Aladdin",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Excited and nervous",
+            "quote": "Let's make me a prince!",
+            "rating": 1
+          }
+        },
+        {
+          "name": "Genie",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Creative and supportive",
+            "quote": "You're gonna be fabulous.",
+            "rating": 1
+          }
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "name": "Prince Ali's Grand Entrance",
+      "summary": "Aladdin, now Prince Ali, makes a grand entrance in Agrabah, impressing the townsfolk and seeking Jasmine's attention.",
+      "location": "Agrabah",
+      "firstLine": "Make way for Prince Ali!",
+      "lastLine": "I hope Jasmine is watching.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 0.2,
+        "sentiment": 1
+      },
+      "characters": [
+        {
+          "name": "Aladdin",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Proud and hopeful",
+            "quote": "This is it. Time to meet the princess.",
+            "rating": 1
+          }
+        },
+        {
+          "name": "Jasmine",
+          "importance": 0.5,
+          "sentiment": {
+            "emotion": "Curious and skeptical",
+            "quote": "Another suitor for the princess.",
+            "rating": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "name": "Jasmine Rejects Ali",
+      "summary": "Princess Jasmine rejects Prince Ali, seeing through his façade and criticizing the pretenses of royal suitors.",
+      "location": "Sultan's Palace",
+      "firstLine": "I am not a prize to be won!",
+      "lastLine": "You're all the same, shallow and self-absorbed.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 1,
+        "sentiment": -1
+      },
+      "characters": [
+        {
+          "name": "Jasmine",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Frustrated and dismissive",
+            "quote": "I am not a prize to be won!",
+            "rating": -1
+          }
+        },
+        {
+          "name": "Aladdin",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Disheartened and persistent",
+            "quote": "Please, Princess, give me a chance.",
+            "rating": -0.5
+          }
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "name": "Aladdin's Identity Crisis",
+      "summary": "Aladdin struggles with his identity, fearing he cannot be himself and still win Jasmine's love.",
+      "location": "Agrabah",
+      "firstLine": "She'll never like me as I really am.",
+      "lastLine": "I need to keep up the act if I'm going to impress her.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 1,
+        "sentiment": -0.5
+      },
+      "characters": [
+        {
+          "name": "Aladdin",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Conflicted and doubtful",
+            "quote": "She'll never like me as I really am.",
+            "rating": -0.5
+          }
+        },
+        {
+          "name": "Genie",
+          "importance": 0.5,
+          "sentiment": {
+            "emotion": "Concerned and advising",
+            "quote": "You just gotta be yourself.",
+            "rating": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "name": "Aladdin and Jasmine's Flight",
+      "summary": "Aladdin, as Prince Ali, takes Jasmine on a magical carpet ride, revealing his true self through adventure.",
+      "location": "Agrabah",
+      "firstLine": "Do you trust me?",
+      "lastLine": "It's a whole new world.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 0.3,
+        "sentiment": 1
+      },
+      "characters": [
+        {
+          "name": "Aladdin",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Hopeful and genuine",
+            "quote": "Do you trust me?",
+            "rating": 1
+          }
+        },
+        {
+          "name": "Jasmine",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Surprised and delighted",
+            "quote": "I've never seen anything like it!",
+            "rating": 1
+          }
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "name": "Jafar's Discovery",
+      "summary": "Jafar discovers Aladdin's identity and plots to steal the lamp to gain power.",
+      "location": "Sultan's Palace",
+      "firstLine": "That street rat was actually a diamond in the rough.",
+      "lastLine": "The lamp will be mine.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 1,
+        "sentiment": -1
+      },
+      "characters": [
+        {
+          "name": "Jafar",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Devious and determined",
+            "quote": "The lamp will be mine.",
+            "rating": -1
+          }
+        },
+        {
+          "name": "Iago",
+          "importance": 0.5,
+          "sentiment": {
+            "emotion": "Conspiring and eager",
+            "quote": "Let's snatch it and make you sultan.",
+            "rating": -0.5
+          }
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "name": "Jafar Steals the Lamp",
+      "summary": "Jafar successfully steals the magic lamp from Aladdin, using his new power to seize control of Agrabah.",
+      "location": "Agrabah",
+      "firstLine": "I'll take that, my boy.",
+      "lastLine": "I am now the most powerful being on Earth.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 1,
+        "sentiment": -1
+      },
+      "characters": [
+        {
+          "name": "Jafar",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Triumphant and malicious",
+            "quote": "I am now the most powerful being on Earth.",
+            "rating": -1
+          }
+        },
+        {
+          "name": "Aladdin",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Defeated and desperate",
+            "quote": "He's got the lamp.",
+            "rating": -1
+          }
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "name": "Jafar's Reign",
+      "summary": "Jafar uses his wishes to become sultan and the most powerful sorcerer, terrorizing Agrabah.",
+      "location": "Sultan's Palace",
+      "firstLine": "I wish to be sultan of Agrabah!",
+      "lastLine": "And now, to get rid of you.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 1,
+        "sentiment": -1
+      },
+      "characters": [
+        {
+          "name": "Jafar",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Power-hungry and cruel",
+            "quote": "And now, to get rid of you.",
+            "rating": -1
+          }
+        },
+        {
+          "name": "Jasmine",
+          "importance": 0.5,
+          "sentiment": {
+            "emotion": "Anguished and resistant",
+            "quote": "You're a monster, Jafar.",
+            "rating": -1
+          }
+        },
+        {
+          "name": "Sultan",
+          "importance": 0.5,
+          "sentiment": {
+            "emotion": "Subdued and powerless",
+            "quote": "Jafar, what have you done?",
+            "rating": -1
+          }
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "name": "Aladdin's Return",
+      "summary": "Aladdin returns to Agrabah to stop Jafar and reveal his true nature to Jasmine, showing courage and integrity.",
+      "location": "Agrabah",
+      "firstLine": "I can't let Jafar destroy Agrabah.",
+      "lastLine": "It's time to show Jafar who I really am.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 1,
+        "sentiment": 0.5
+      },
+      "characters": [
+        {
+          "name": "Aladdin",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Determined and brave",
+            "quote": "It's time to show Jafar who I really am.",
+            "rating": 1
+          }
+        },
+        {
+          "name": "Jasmine",
+          "importance": 0.5,
+          "sentiment": {
+            "emotion": "Hopeful and supportive",
+            "quote": "Aladdin, you've come back.",
+            "rating": 1
+          }
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "name": "The Final Battle",
+      "summary": "Aladdin confronts Jafar, outsmarting him by tricking Jafar into wishing himself into a genie, thus becoming trapped.",
+      "location": "Sultan's Palace",
+      "firstLine": "You're not as powerful as you think, Jafar.",
+      "lastLine": "Phenomenal cosmic powers... itty bitty living space.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 1,
+        "sentiment": -0.5
+      },
+      "characters": [
+        {
+          "name": "Aladdin",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Clever and strategic",
+            "quote": "The only way to have power is to be bound by the lamp.",
+            "rating": 1
+          }
+        },
+        {
+          "name": "Jafar",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Greedy and overconfident",
+            "quote": "I wish to be the most powerful genie!",
+            "rating": -1
+          }
+        },
+        {
+          "name": "Genie",
+          "importance": 0.8,
+          "sentiment": {
+            "emotion": "Relieved and supportive",
+            "quote": "Your wish is my command.",
+            "rating": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "name": "Aladdin's Last Wish",
+      "summary": "Aladdin uses his final wish to free Genie, proving his selflessness and integrity.",
+      "location": "Agrabah",
+      "firstLine": "I wish for your freedom, Genie.",
+      "lastLine": "You are free.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 0,
+        "sentiment": 1
+      },
+      "characters": [
+        {
+          "name": "Aladdin",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Selfless and honest",
+            "quote": "I wish for your freedom, Genie.",
+            "rating": 1
+          }
+        },
+        {
+          "name": "Genie",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Joyful and liberated",
+            "quote": "You really mean that, Al?",
+            "rating": 1
+          }
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "name": "A New Beginning",
+      "summary": "With Genie free and Jafar defeated, Aladdin and Jasmine can finally be together, leading to a happy resolution for all.",
+      "location": "Agrabah",
+      "firstLine": "So, what are you going to do next?",
+      "lastLine": "A whole new world, with new horizons to pursue.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 0,
+        "sentiment": 1
+      },
+      "characters": [
+        {
+          "name": "Aladdin",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Hopeful and in love",
+            "quote": "I want to be with you, Jasmine.",
+            "rating": 1
+          }
+        },
+        {
+          "name": "Jasmine",
+          "importance": 1,
+          "sentiment": {
+            "emotion": "Happy and in love",
+            "quote": "We'll be free to live our own lives.",
+            "rating": 1
+          }
+        },
+        {
+          "name": "Genie",
+          "importance": 0.5,
+          "sentiment": {
+            "emotion": "Excited and supportive",
+            "quote": "I'm off to see the world!",
+            "rating": 1
+          }
+        }
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "name": "Agrabah",
+      "key": "agrabah",
+      "quote": "Welcome to Agrabah. City of mystery of enchantment and the finest merchandise this side of the river Jordan on sale today come on down!"
+    },
+    {
+      "name": "Cave of Wonders",
+      "key": "cave",
+      "quote": "At last after all my years of searching the cave of wonders!"
+    },
+    {
+      "name": "Sultan's Palace",
+      "key": "palace",
+      "quote": "Cut to int. of SULTAN's chamber. The door bursts open and PRINCE ACHMED storms in missing the rear end of his pants."
+    },
+    {
+      "name": "Marketplace",
+      "key": "market",
+      "quote": "Shopkeeper 1: Pretty lady buy a pot. No finer pot in brass or silver. Shopkeeper 2: Sugar dates sugar dates and figs! Sugar dates and pistachios!"
+    }
+  ],
+  "characters": [
+    {
+      "character": "Peddler",
+      "key": "peddler",
+      "quote": "I come from a land, from a faraway place where the caravan camels roam. It's barbaric, but hey--it's home.",
+      "group": "Others"
+    },
+    {
+      "character": "Jafar",
+      "key": "jafar",
+      "quote": "Trust me my pungent friend. You'll get what's coming to you.",
+      "group": "Antagonists"
+    },
+    {
+      "character": "Iago",
+      "key": "iago",
+      "quote": "Oh, there's a big surprise! That's an incred--I think I'm gonna have a heart attack and die from not surprise!",
+      "group": "Antagonists"
+    },
+    {
+      "character": "Aladdin",
+      "key": "aladdin",
+      "quote": "All this for a loaf of bread?",
+      "group": "Protagonists"
+    },
+    {
+      "character": "Abu",
+      "key": "abu",
+      "quote": "Hello!",
+      "group": "Protagonists"
+    },
+    {
+      "character": "Jasmine",
+      "key": "jasmine",
+      "quote": "Father, I hate being forced into this. If I do marry, I want it to be for love.",
+      "group": "Protagonists"
+    },
+    {
+      "character": "Sultan",
+      "key": "sultan",
+      "quote": "Jasmine, you're a princess.",
+      "group": "Protagonists"
+    },
+    {
+      "character": "Genie",
+      "key": "genie",
+      "quote": "Ten-thousand years will give ya such a crick in the neck!",
+      "group": "Protagonists"
+    },
+    {
+      "character": "Cave of Wonders",
+      "short": "Cave",
+      "key": "cave",
+      "quote": "Who disturbs my slumber?",
+      "group": "Others"
+    }
+  ]
+}

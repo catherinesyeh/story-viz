@@ -166,7 +166,7 @@ function Defs() {
         <linearGradient id="white-gradient" x1="0" y1="0%" x2="100%" y2="0%">
           <stop
             offset={
-              sceneHover === ""
+              sceneHover === "" || !scenePos[scenes.indexOf(sceneHover)]
                 ? "90%"
                 : 100 -
                   (sceneWidth / scenePos[scenes.indexOf(sceneHover)].x) * 100 +

@@ -41,7 +41,7 @@ const initialState = {
 };
 
 export const storyStore = create<IStore>()((set) => ({
-  story: "gatsby",
+  story: "aladdin",
   ...initialState,
   setStory: (val: string) => set({ story: val }),
   setOverlay: (val: string) => set({ overlay: val }),

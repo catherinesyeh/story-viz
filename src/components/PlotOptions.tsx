@@ -45,9 +45,10 @@ function PlotOptions() {
     "gatsby",
     "gatsby2",
     "alice",
+    "wizard",
+    "aladdin",
     "pride",
     "romeo",
-    "wizard",
   ];
 
   const handleStoryChange = async (story: string) => {
