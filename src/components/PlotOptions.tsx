@@ -182,7 +182,7 @@ function PlotOptions() {
       <Divider orientation="vertical" />
       <div className="options-contain">
         <span>
-          <b>Character Squares</b>
+          <b>Character Paths</b>
         </span>
         <div className="options-inner">
           <Select

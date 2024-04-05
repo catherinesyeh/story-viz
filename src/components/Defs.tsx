@@ -13,9 +13,10 @@ import { positionStore } from "../stores/positionStore";
 import { scene_base } from "../utils/consts";
 
 function Defs() {
-  const { sceneHover } = storyStore();
+  const { sceneHover, characterColor } = storyStore();
   const { scenePos, sceneWidth } = positionStore();
-  const { characterScenes, ratingDict, scenes, sortedCharacters } = dataStore();
+  const { characterScenes, ratingDict, scenes, sortedCharacters, scene_data } =
+    dataStore();
   return (
     <defs>
       <g id="gradients">
@@ -32,9 +33,14 @@ function Defs() {
           const fade_in_percent = fade_in * 100;
           const fade_out_percent = 100 - fade_in_percent;
 
-          // const colorIndex = getColor(char.character, sortedCharacters);
           const charColor = getColor(char.character, sortedCharacters);
 
+          const firstScene = scene_data[first_scene].characters.find(
+            (c) => c.name === char.character
+          ) as any;
+          const lastScene = scene_data[last_scene].characters.find(
+            (c) => c.name === char.character
+          ) as any;
           return (
             <linearGradient
               id={"linear" + i}
@@ -45,57 +51,112 @@ function Defs() {
               key={"linear" + i}
             >
               <stop offset="0%" stopColor="rgb(255,255,255,0)" />
-              <stop offset={fade_in_percent + "%"} stopColor={charColor} />
+              <stop
+                offset={fade_in_percent + "%"}
+                stopColor={
+                  characterColor === "default"
+                    ? charColor
+                    : characterColor === "sentiment"
+                    ? emotionColor(firstScene.sentiment.rating)
+                    : importanceColor(firstScene.importance)
+                }
+              />
 
-              {charScenes
-                .filter((_, j) => j < charScenes.length - 1)
-                .flatMap((scene, j) => {
+              {charScenes.flatMap((scene, j) => {
+                const char_data = scene_data[scene].characters.find(
+                  (c) => c.name === char.character
+                ) as any;
+                const emotion_val = char_data.sentiment.rating;
+                const importance_val = char_data.importance;
+                const emotion_color = emotionColor(emotion_val); // dynamic color based on emotion
+                const importance_color = importanceColor(importance_val); // dynamic color based on importance
+
+                const next_scene = scene_data[charScenes[j + 1]]
+                  ? (scene_data[charScenes[j + 1]].characters.find(
+                      (c) => c.name === char.character
+                    ) as any)
+                  : char_data;
+                const next_emotion_val = next_scene.sentiment.rating;
+                const next_emotion_color = emotionColor(next_emotion_val);
+                const next_importance_val = next_scene.importance;
+                const next_importance_color =
+                  importanceColor(next_importance_val);
+
+                const start_color =
+                  characterColor === "default"
+                    ? charColor
+                    : characterColor === "sentiment"
+                    ? emotion_color
+                    : importance_color;
+                const end_color =
+                  characterColor === "default"
+                    ? charColor
+                    : characterColor === "sentiment"
+                    ? next_emotion_color
+                    : next_importance_color;
+
+                if (j < charScenes.length - 1) {
                   const next_scene = charScenes[j + 1];
+                  const start_gap =
+                    ((scene - first_scene + 1) * sceneWidth) / line_length;
+                  const end_gap =
+                    ((next_scene - first_scene) * sceneWidth) / line_length;
+                  const start_gap_percent = start_gap * 100;
+                  const end_gap_percent = end_gap * 100;
+
                   if (next_scene - scene > 2) {
-                    const start_gap =
-                      ((scene - first_scene + 1) * sceneWidth) / line_length;
-                    const end_gap =
-                      ((next_scene - first_scene) * sceneWidth) / line_length;
-                    const start_gap_percent = start_gap * 100;
-                    const end_gap_percent = end_gap * 100;
                     return [
-                      // Maintain full opacity up to the gap
                       <stop
                         key={`full-opacity-before-gap-${i}-${j}`}
                         offset={`${start_gap_percent - fade_in_percent}%`}
-                        stopColor={charColor}
+                        stopColor={start_color}
                       />,
-                      // Start fading to transparent just before the gap
                       <stop
                         key={`start-gap-${i}-${j}`}
                         offset={`${start_gap_percent}%`}
-                        stopColor={charColor.replace(")", ",0.5)")}
+                        stopColor={start_color.replace(")", ",0.5)")}
                       />,
-                      // Fully transparent in the middle of the gap
                       <stop
                         key={`mid-gap-${i}-${j}`}
                         offset={`${(start_gap_percent + end_gap_percent) / 2}%`}
-                        stopColor={charColor.replace(")", ",0.2)")}
+                        stopColor={end_color.replace(")", ",0.2)")}
                       />,
-                      // Start fading back to full opacity just before the end of the gap
                       <stop
                         key={`end-gap-${i}-${j}`}
                         offset={`${end_gap_percent}%`}
-                        stopColor={charColor.replace(")", ",0.5)")}
+                        stopColor={end_color.replace(")", ",0.5)")}
                       />,
-                      // Return to full opacity after the gap
                       <stop
                         key={`full-opacity-after-gap-${i}-${j}`}
                         offset={`${end_gap_percent + fade_in_percent}%`}
-                        stopColor={charColor}
+                        stopColor={end_color}
+                      />,
+                    ];
+                  } else {
+                    // If there's no significant gap, directly return the stop with the emotion color
+                    return [
+                      <stop
+                        key={`scene-${i}-${j}`}
+                        offset={`${start_gap_percent - fade_in_percent}%`}
+                        stopColor={start_color}
                       />,
                     ];
                   }
-                  // For consecutive scenes with no gap, simply return an empty array
-                  return [];
-                })}
+                }
+                // For the last scene or if no next scene, ensure it doesn't return undefined
+                return [];
+              })}
 
-              <stop offset={fade_out_percent + "%"} stopColor={charColor} />
+              <stop
+                offset={fade_out_percent + "%"}
+                stopColor={
+                  characterColor === "default"
+                    ? charColor
+                    : characterColor === "sentiment"
+                    ? emotionColor(lastScene.sentiment.rating)
+                    : importanceColor(lastScene.importance)
+                }
+              />
               <stop offset="100%" stopColor="rgb(255,255,255,0)" />
             </linearGradient>
           );
