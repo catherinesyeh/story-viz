@@ -16,7 +16,6 @@ import {
   getFontFamily,
   getFontWeight,
   normalizeFontSize,
-  normalizeRating,
   normalizeTextOffset,
 } from "../utils/helpers";
 import { positionStore } from "../stores/positionStore";
@@ -76,16 +75,25 @@ function XAxis() {
                 sizeBy === "default"
                   ? 0.8
                   : sizeBy === "conflict"
-                  ? normalizeFontSize(ratings.conflict)
-                  : normalizeFontSize(ratings.importance);
+                  ? normalizeFontSize(ratings.conflict) +
+                    (ratings.conflict >= 0.66 ? 0.2 : 0)
+                  : normalizeFontSize(ratings.importance) +
+                    (ratings.conflict >= 0.66 ? 0.2 : 0);
               const color =
                 colorBy === "default"
                   ? "black"
                   : colorBy === "sentiment"
                   ? emotionColor(ratings.sentiment)
                   : colorBy === "conflict"
-                  ? conflictColor(normalizeRating(ratings.conflict))
+                  ? conflictColor(ratings.conflict)
                   : importanceColor(ratings.importance);
+
+              const letterSpacing =
+                ratings.conflict >= 0.66
+                  ? ratings.conflict > 0.88
+                    ? 3
+                    : 1.5
+                  : 0;
               return (
                 scenePos[i] && (
                   <text
@@ -96,6 +104,7 @@ function XAxis() {
                     fill={color}
                     className="scene-name-text"
                     fontSize={"calc(" + fontSize + "rem + 0.1vw)"}
+                    letterSpacing={letterSpacing}
                     fontWeight={
                       weightBy === "importance"
                         ? getFontWeight(ratings.importance)

@@ -1,10 +1,6 @@
 import { color_dict } from "./colors";
 import { bezierCommand, svgPath } from "./curve";
-import {
-  normalizeRating,
-  normalizeMarkerSize,
-  getStringWidth,
-} from "./helpers";
+import { normalizeMarkerSize, getStringWidth } from "./helpers";
 
 import {
   location_height,
@@ -1050,10 +1046,11 @@ const conflict_points = (
     // for each scene, compute the x and y coordinates for the curve
     const x = scenePos[i].x;
     // y should be between min_conflict_y and min_conflict_y + location_height (max conflict)
-    const conflict =
-      type === "conflict"
-        ? normalizeRating(scene.ratings.conflict)
-        : normalizeRating(scene.ratings.importance);
+    let conflict =
+      type === "conflict" ? scene.ratings.conflict : scene.ratings.importance;
+    if (conflict === 0) {
+      conflict = 0.05;
+    }
     const y = min_conflict_y - conflict * location_height;
     return { x: x, y: y };
   });

@@ -11,7 +11,7 @@
       "summary": "Nick Carraway contemplates the life lessons imparted by his father, setting the tone for his reflective and nonjudgmental narrative perspective.",
       "ratings": {
         "importance": 0.3,
-        "conflict": -0.5,
+        "conflict": 0.25,
         "sentiment": 0.3
       },
       "location": "Nick's Childhood Home",
@@ -33,7 +33,7 @@
       "summary": "Nick moves to West Egg, expressing optimism yet feeling a sense of isolation in his new surroundings.",
       "ratings": {
         "importance": 0.2,
-        "conflict": -0.2,
+        "conflict": 0.4,
         "sentiment": 0.1
       },
       "location": "West Egg - Nick's Home",
@@ -55,7 +55,7 @@
       "summary": "An awkward dinner at the Buchanans' introduces Nick to Daisy's superficial happiness and Tom's domineering arrogance, foreshadowing conflicts to come.",
       "ratings": {
         "importance": 0.5,
-        "conflict": 0.4,
+        "conflict": 0.7,
         "sentiment": 0.2
       },
       "location": "East Egg",
@@ -104,7 +104,7 @@
       "summary": "A tense moment reveals Tom Buchanan's affair, illustrating the underlying conflicts and the moral ambiguity of the characters involved.",
       "ratings": {
         "importance": 0.6,
-        "conflict": 0.7,
+        "conflict": 0.85,
         "sentiment": -0.6
       },
       "location": "East Egg",
@@ -144,7 +144,7 @@
       "summary": "Tom Buchanan displays his dominance and possessiveness during an encounter with his mistress, Myrtle Wilson, in the Valley of Ashes.",
       "ratings": {
         "importance": 0.4,
-        "conflict": 0.3,
+        "conflict": 0.65,
         "sentiment": 0.2
       },
       "location": "Valley of Ashes",
@@ -184,7 +184,7 @@
       "summary": "A chaotic party in Myrtle's New York apartment ends violently, highlighting the destructive nature of Tom and Myrtle's relationship.",
       "ratings": {
         "importance": 0.7,
-        "conflict": 0.8,
+        "conflict": 0.9,
         "sentiment": -0.7
       },
       "location": "New York",
@@ -224,7 +224,7 @@
       "summary": "Nick attends one of Gatsby's extravagant parties, capturing the opulence and enigmatic aura of his neighbor's lifestyle.",
       "ratings": {
         "importance": 0.8,
-        "conflict": -0.1,
+        "conflict": 0.45,
         "sentiment": 0.6
       },
       "location": "West Egg - Gatsby's Mansion",
@@ -273,7 +273,7 @@
       "summary": "Gatsby's party guests speculate wildly about their host's mysterious past, demonstrating the rampant gossip and intrigue surrounding Gatsby.",
       "ratings": {
         "importance": 0.5,
-        "conflict": 0.3,
+        "conflict": 0.65,
         "sentiment": 0.4
       },
       "location": "West Egg - Gatsby's Mansion",
@@ -304,7 +304,7 @@
       "summary": "Nick meets Gatsby, finding him to be gracious and charming, yet surrounded by an air of mystery.",
       "ratings": {
         "importance": 0.7,
-        "conflict": -0.2,
+        "conflict": 0.4,
         "sentiment": 0.8
       },
       "location": "West Egg - Gatsby's Mansion",
@@ -344,7 +344,7 @@
       "summary": "Gatsby shares moments of pride and aloofness with Nick after the party, revealing his complex character.",
       "ratings": {
         "importance": 0.4,
-        "conflict": 0,
+        "conflict": 0.5,
         "sentiment": 0.2
       },
       "location": "West Egg - Gatsby's Mansion",
@@ -375,7 +375,7 @@
       "summary": "Gatsby attempts to impress Nick with his luxurious car and hints at his affluent but mysterious lifestyle during a drive together.",
       "ratings": {
         "importance": 0.6,
-        "conflict": 0.2,
+        "conflict": 0.6,
         "sentiment": 0.7
       },
       "location": "New York",
@@ -406,7 +406,7 @@
       "summary": "Gatsby introduces Nick to his enigmatic world during a lunch in New York, filled with hints of mystery and intrigue.",
       "ratings": {
         "importance": 0.5,
-        "conflict": 0.1,
+        "conflict": 0.55,
         "sentiment": 0.5
       },
       "location": "New York",
@@ -437,7 +437,7 @@
       "summary": "Gatsby's attempts to legitimize his past to Nick in his mansion, amidst doubts and curiosities.",
       "ratings": {
         "importance": 0.6,
-        "conflict": 0.5,
+        "conflict": 0.75,
         "sentiment": 0.4
       },
       "location": "West Egg - Gatsby's Mansion",
@@ -477,7 +477,7 @@
       "summary": "The lively atmosphere at Gatsby's party continues, with Gatsby playing the gracious host amidst his quest for Daisy's affection.",
       "ratings": {
         "importance": 0.7,
-        "conflict": 0.2,
+        "conflict": 0.6,
         "sentiment": 0.6
       },
       "location": "West Egg - Gatsby's Mansion",
@@ -517,7 +517,7 @@
       "summary": "In the quiet aftermath of the party, Gatsby's solitary reflection reveals his deep-seated loneliness and unfulfilled desires.",
       "ratings": {
         "importance": 0.7,
-        "conflict": 0.1,
+        "conflict": 0.55,
         "sentiment": 0.5
       },
       "location": "West Egg - Gatsby's Mansion",
@@ -548,7 +548,7 @@
       "summary": "During a drive, Gatsby confides in Nick, revealing more about his past and vulnerabilities in a bid for understanding.",
       "ratings": {
         "importance": 0.8,
-        "conflict": 0.4,
+        "conflict": 0.7,
         "sentiment": 0.6
       },
       "location": "New York",
@@ -628,7 +628,7 @@
       "summary": "A fatal accident in the Valley of Ashes sets off a chain of events that culminate in tragedy, underscoring the novel's themes of loss and consequence.",
       "ratings": {
         "importance": 0.9,
-        "conflict": 0.9,
+        "conflict": 0.95,
         "sentiment": -1
       },
       "location": "Valley of Ashes",
@@ -668,7 +668,7 @@
       "summary": "Gatsby's tragic end in his pool reflects the ultimate failure of his dreams and the hollowness of his pursuit of Daisy.",
       "ratings": {
         "importance": 0.8,
-        "conflict": 0.3,
+        "conflict": 0.65,
         "sentiment": -0.7
       },
       "location": "West Egg - Gatsby's Mansion",
@@ -699,7 +699,7 @@
       "summary": "Gatsby's poorly attended funeral leads Nick to lament the ephemeral nature of Gatsby's life and relationships.",
       "ratings": {
         "importance": 0.5,
-        "conflict": -0.5,
+        "conflict": 0.25,
         "sentiment": -0.6
       },
       "location": "New York",
@@ -739,7 +739,7 @@
       "summary": "Disillusioned with the East, Nick decides to return to the Midwest, reflecting on the lessons learned from his experiences.",
       "ratings": {
         "importance": 0.4,
-        "conflict": -0.4,
+        "conflict": 0.3,
         "sentiment": -0.5
       },
       "location": "West Egg - Nick's Home",

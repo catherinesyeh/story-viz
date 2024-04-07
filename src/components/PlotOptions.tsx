@@ -173,7 +173,13 @@ function PlotOptions() {
             medium
           </span>{" "}
           -{" "}
-          <span style={{ fontFamily: high_conflict_font, fontWeight: 500 }}>
+          <span
+            style={{
+              fontFamily: high_conflict_font,
+              fontWeight: 500,
+              letterSpacing: 1,
+            }}
+          >
             high
           </span>{" "}
           conflict in scene

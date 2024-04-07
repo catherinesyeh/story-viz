@@ -8,7 +8,7 @@ import {
 } from "../../utils/colors";
 import { character_offset, character_height } from "../../utils/consts";
 import { dataStore } from "../../stores/dataStore";
-import { normalizeRating, capitalize } from "../../utils/helpers";
+import { capitalize } from "../../utils/helpers";
 import { positionStore } from "../../stores/positionStore";
 
 function SceneOverlay() {
@@ -47,9 +47,6 @@ function SceneOverlay() {
                   let rating_val = (scene.ratings as Record<string, number>)[
                     rating
                   ];
-                  if (rating === "conflict") {
-                    rating_val = normalizeRating(rating_val);
-                  }
                   return (
                     <g key={"scene ratings for scene " + 0 + ": " + rating}>
                       <rect

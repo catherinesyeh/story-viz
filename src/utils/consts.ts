@@ -1,8 +1,8 @@
 import { Position } from "./positions";
 
 /* CONSTS */
-export const med_conflict_font = '"Advent Pro", sans-serif';
-export const high_conflict_font = "'Shantell Sans', cursive";
+export const med_conflict_font = "'Shantell Sans', cursive";
+export const high_conflict_font = "'Handjet', sans-serif";
 
 export const location_height = 100;
 export const location_offset = location_height / 5;

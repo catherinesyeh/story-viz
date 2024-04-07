@@ -7,7 +7,6 @@ import {
   getColor,
 } from "../utils/colors";
 import { dataStore } from "../stores/dataStore";
-import { normalizeRating } from "../utils/helpers";
 import { RatingDict } from "../utils/data";
 import { positionStore } from "../stores/positionStore";
 import { scene_base } from "../utils/consts";
@@ -214,7 +213,7 @@ function Defs() {
                     rating_type === "sentiment"
                       ? emotionColor(rating)
                       : rating_type === "conflict"
-                      ? conflictColor(normalizeRating(rating))
+                      ? conflictColor(rating)
                       : importanceColor(rating)
                   }
                   key={"rating stop" + rating_type + j}
