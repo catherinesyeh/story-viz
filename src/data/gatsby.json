@@ -9,6 +9,8 @@
       "number": 1,
       "name": "Nick's Reflections and Advice from His Father",
       "summary": "Nick Carraway contemplates the life lessons imparted by his father, setting the tone for his reflective and nonjudgmental narrative perspective.",
+      "firstLine": "In my younger and more vulnerable years my father gave me some advice that I've been turning over in my mind ever since.",
+      "lastLine": "And, after boasting this way of my tolerance, I come to the admission that it has a limit.",
       "ratings": {
         "importance": 21,
         "conflict": 0.25,
@@ -31,6 +33,8 @@
       "number": 2,
       "name": "Nick's Arrival in West Egg",
       "summary": "Nick moves to West Egg, expressing optimism yet feeling a sense of isolation in his new surroundings.",
+      "firstLine": "My family have been prominent, well-to-do people in this Middle Western city for three generations.",
+      "lastLine": "And so with the sunshine and the great bursts of leaves growing on the trees, just as things grow in fast movies, I had that familiar conviction that life was beginning over again with the summer.",
       "ratings": {
         "importance": 18,
         "conflict": 0.4,
@@ -53,6 +57,8 @@
       "number": 3,
       "name": "Dinner at the Buchanans",
       "summary": "An awkward dinner at the Buchanans' introduces Nick to Daisy's superficial happiness and Tom's domineering arrogance, foreshadowing conflicts to come.",
+      "firstLine": "Across the courtesy bay the white palaces of fashionable East Egg glittered along the water, and the history of the summer really begins on the evening I drove over there to have dinner with the Tom Buchanans.",
+      "lastLine": "I'm p-paralysed with happiness.",
       "ratings": {
         "importance": 8,
         "conflict": 0.7,
@@ -102,6 +108,8 @@
       "number": 4,
       "name": "The Revelation of Tom's Affair",
       "summary": "A tense moment reveals Tom Buchanan's affair, illustrating the underlying conflicts and the moral ambiguity of the characters involved.",
+      "firstLine": "The telephone rang inside, startlingly, and as Daisy shook her head decisively at Tom the subject of the stables, in fact all subjects, vanished into air.",
+      "lastLine": "Tom's got some woman in New York.",
       "ratings": {
         "importance": 7,
         "conflict": 0.85,
@@ -142,6 +150,8 @@
       "number": 5,
       "name": "Encounter with Myrtle Wilson",
       "summary": "Tom Buchanan displays his dominance and possessiveness during an encounter with his mistress, Myrtle Wilson, in the Valley of Ashes.",
+      "firstLine": "We were on our way to New York to meet Tom's woman.",
+      "lastLine": "I want to get one of those dogs, she said earnestly.",
       "ratings": {
         "importance": 16,
         "conflict": 0.65,
@@ -182,6 +192,8 @@
       "number": 6,
       "name": "The Party in the Apartment",
       "summary": "A chaotic party in Myrtle's New York apartment ends violently, highlighting the destructive nature of Tom and Myrtle's relationship.",
+      "firstLine": "The apartment was on the top floor—a small living-room, a small dining-room, a small bedroom, and a bath.",
+      "lastLine": "Making a short deft movement, Tom Buchanan broke her nose with his open hand.",
       "ratings": {
         "importance": 5,
         "conflict": 0.9,
@@ -222,6 +234,8 @@
       "number": 7,
       "name": "Gatsby's Lavish Party",
       "summary": "Nick attends one of Gatsby's extravagant parties, capturing the opulence and enigmatic aura of his neighbor's lifestyle.",
+      "firstLine": "There was music from my neighbour's house through the summer nights.",
+      "lastLine": "I've never met so many celebrities. I liked that man—what was his name?—with the sort of blue nose.",
       "ratings": {
         "importance": 4,
         "conflict": 0.45,
@@ -271,6 +285,8 @@
       "number": 8,
       "name": "Rumors About Gatsby",
       "summary": "Gatsby's party guests speculate wildly about their host's mysterious past, demonstrating the rampant gossip and intrigue surrounding Gatsby.",
+      "firstLine": "I had taken two finger-bowls of champagne, and the scene had changed before my eyes into something significant, elemental, and profound.",
+      "lastLine": "'Somebody told me they thought he killed a man once.'",
       "ratings": {
         "importance": 10,
         "conflict": 0.65,
@@ -302,6 +318,8 @@
       "number": 9,
       "name": "Nick's Encounter with Gatsby",
       "summary": "Nick meets Gatsby, finding him to be gracious and charming, yet surrounded by an air of mystery.",
+      "firstLine": "I was alone again in the unquiet darkness.",
+      "lastLine": "He smiled understandingly—much more than understandingly.",
       "ratings": {
         "importance": 9,
         "conflict": 0.4,
@@ -342,6 +360,8 @@
       "number": 10,
       "name": "After the Party",
       "summary": "Gatsby shares moments of pride and aloofness with Nick after the party, revealing his complex character.",
+      "firstLine": "Reading over what I have written so far, I see I have given the impression that the events of three nights several weeks apart were all that absorbed me.",
+      "lastLine": "Somehow it seemed a great deal of effort to begin an intrusion into Gatsby's life.",
       "ratings": {
         "importance": 17,
         "conflict": 0.5,
@@ -373,6 +393,8 @@
       "number": 11,
       "name": "A Drive with Gatsby",
       "summary": "Gatsby attempts to impress Nick with his luxurious car and hints at his affluent but mysterious lifestyle during a drive together.",
+      "firstLine": "When I came home to West Egg that night I was afraid for a moment that my house was on fire.",
+      "lastLine": "'It's pretty, isn't it, old sport?'",
       "ratings": {
         "importance": 14,
         "conflict": 0.6,
@@ -404,6 +426,8 @@
       "number": 12,
       "name": "Lunch in New York",
       "summary": "Gatsby introduces Nick to his enigmatic world during a lunch in New York, filled with hints of mystery and intrigue.",
+      "firstLine": "'We're going to lunch,' said Gatsby.",
+      "lastLine": "'I thought we'd be here at the restaurant.'",
       "ratings": {
         "importance": 15,
         "conflict": 0.55,
@@ -435,6 +459,8 @@
       "number": 13,
       "name": "Revelation of Gatsby's Past",
       "summary": "Gatsby's attempts to legitimize his past to Nick in his mansion, amidst doubts and curiosities.",
+      "firstLine": "He smiled understandingly—much more than understandingly. It was one of those rare smiles with a quality of eternal reassurance in it.",
+      "lastLine": "But I didn't call to him, for he gave a sudden intimation that he was content to be alone—he stretched out his arms toward the dark water in a curious way, and, far as I was from him, I could have sworn he was trembling.",
       "ratings": {
         "importance": 11,
         "conflict": 0.75,
@@ -475,6 +501,8 @@
       "number": 14,
       "name": "The Party Continues",
       "summary": "The lively atmosphere at Gatsby's party continues, with Gatsby playing the gracious host amidst his quest for Daisy's affection.",
+      "firstLine": "Reading over what I have written so far, I see I have given the impression that the events of three nights several weeks apart were all that absorbed me.",
+      "lastLine": "One of the taxi drivers in the village never took a fare past the entrance gate without stopping for a minute and pointing inside; perhaps it was he who drove Daisy and Gatsby over to East Egg the night of the accident, and perhaps he had made a story about it all his own.",
       "ratings": {
         "importance": 12,
         "conflict": 0.6,
@@ -515,6 +543,8 @@
       "number": 15,
       "name": "Aftermath of the Party",
       "summary": "In the quiet aftermath of the party, Gatsby's solitary reflection reveals his deep-seated loneliness and unfulfilled desires.",
+      "firstLine": "I found myself on Gatsby's side, and alone.",
+      "lastLine": "He was clutching at some last hope and I couldn't bear to shake him free.",
       "ratings": {
         "importance": 13,
         "conflict": 0.55,
@@ -546,6 +576,8 @@
       "number": 16,
       "name": "Gatsby Opens Up to Nick",
       "summary": "During a drive, Gatsby confides in Nick, revealing more about his past and vulnerabilities in a bid for understanding.",
+      "firstLine": "It was when curiosity about Gatsby was at its highest that the lights in his house failed to go on one Saturday night.",
+      "lastLine": "There must have been moments even that afternoon when Daisy tumbled short of his dreams—not through her own fault but because of the colossal vitality of his illusion.",
       "ratings": {
         "importance": 6,
         "conflict": 0.7,
@@ -577,6 +609,8 @@
       "number": 17,
       "name": "The Plaza Hotel Confrontation",
       "summary": "A heated confrontation at the Plaza Hotel brings tensions to a head, revealing the deep-seated conflicts among the characters.",
+      "firstLine": "The next day was broiling, almost the last, certainly the warmest, of the summer.",
+      "lastLine": "So we drove on toward death through the cooling twilight.",
       "ratings": {
         "importance": 1,
         "conflict": 1,
@@ -626,6 +660,8 @@
       "number": 18,
       "name": "The Tragic Climax",
       "summary": "A fatal accident in the Valley of Ashes sets off a chain of events that culminate in tragedy, underscoring the novel's themes of loss and consequence.",
+      "firstLine": "The next day was broiling, almost the last, certainly the warmest, of the summer.",
+      "lastLine": "They were careless people, Tom and Daisy—they smashed up things and creatures and then retreated back into their money or their vast carelessness, or whatever it was that kept them together, and let other people clean up the mess they had made.",
       "ratings": {
         "importance": 2,
         "conflict": 0.95,
@@ -666,6 +702,8 @@
       "number": 19,
       "name": "The Aftermath and Gatsby's Resolve",
       "summary": "Gatsby's tragic end in his pool reflects the ultimate failure of his dreams and the hollowness of his pursuit of Daisy.",
+      "firstLine": "I couldn't sleep all night; a fog-horn was groaning incessantly on the Sound, and I tossed half-sick between grotesque reality and savage, frightening dreams.",
+      "lastLine": "He must have felt that he had lost the old warm world, paid a high price for living too long with a single dream.",
       "ratings": {
         "importance": 3,
         "conflict": 0.65,
@@ -697,6 +735,8 @@
       "number": 20,
       "name": "Nick's Lament and Farewell to Gatsby",
       "summary": "Gatsby's poorly attended funeral leads Nick to lament the ephemeral nature of Gatsby's life and relationships.",
+      "firstLine": "After two years I remember the rest of that day, and that night and the next day, only as an endless drill of police and photographers and newspaper men in and out of Gatsby's front door.",
+      "lastLine": "They were careless people, Tom and Daisy—they smashed up things and creatures and then retreated back into their money or their vast carelessness, or whatever it was that kept them together, and let other people clean up the mess they had made.",
       "ratings": {
         "importance": 19,
         "conflict": 0.25,
@@ -737,6 +777,8 @@
       "number": 21,
       "name": "Nick's Reflection and Departure",
       "summary": "Disillusioned with the East, Nick decides to return to the Midwest, reflecting on the lessons learned from his experiences.",
+      "firstLine": "One of my most vivid memories is of coming back West from prep school and later from college at Christmas time.",
+      "lastLine": "So we beat on, boats against the current, borne back ceaselessly into the past.",
       "ratings": {
         "importance": 20,
         "conflict": 0.3,
