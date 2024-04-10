@@ -12,6 +12,7 @@
       "location": "Agrabah",
       "firstLine": "Oh I come from a land, from a faraway place where the caravan camels roam.",
       "lastLine": "Perhaps you would like to hear the tale?",
+      "numLines": 40,
       "ratings": {
         "importance": 21,
         "conflict": 0,
@@ -35,6 +36,7 @@
       "summary": "Jafar, with Iago and Gazeem, tries and fails to retrieve the magic lamp from the Cave of Wonders.",
       "location": "Cave of Wonders",
       "firstLine": "You...are late.",
+      "numLines": 90,
       "lastLine": "Seek thee out the diamond in the rough.",
       "ratings": {
         "importance": 16,
@@ -78,6 +80,7 @@
       "location": "Agrabah",
       "firstLine": "Stop thief! I'll have your hands for a trophy street rat!",
       "lastLine": "All I gotta do is jump!",
+      "numLines": 135,
       "ratings": {
         "importance": 20,
         "conflict": 1,
@@ -111,6 +114,7 @@
       "location": "Marketplace",
       "firstLine": "Pretty lady buy a pot. No finer pot in brass or silver.",
       "lastLine": "No no please!",
+      "numLines": 10,
       "ratings": {
         "importance": 18,
         "conflict": 1,
@@ -144,6 +148,7 @@
       "location": "Marketplace",
       "firstLine": "Thank you kind sir. I'm so glad you've found her.",
       "lastLine": "Then jump!",
+      "numLines": 5,
       "ratings": {
         "importance": 19,
         "conflict": 1,
@@ -176,6 +181,7 @@
       "summary": "Jafar devises a plan to become Sultan by marrying Princess Jasmine, showcasing his ambition and deceit.",
       "location": "Sultan's Palace",
       "firstLine": "Jafar, this is an outrage.",
+      "numLines": 25,
       "lastLine": "Kersplat!",
       "ratings": {
         "importance": 17,
@@ -228,6 +234,7 @@
       "location": "Cave of Wonders",
       "firstLine": "Ah almost. There are a few provisos, a couple of quid pro quos.",
       "lastLine": "You ain't never had a friend like me!",
+      "numLines": 75,
       "ratings": {
         "importance": 4,
         "conflict": 0.5,
@@ -270,6 +277,7 @@
       "location": "Cave of Wonders",
       "firstLine": "Excuse me? Are you lookin' at me? Did you rub my lamp?",
       "lastLine": "Weeee'rrrrrreee...outta here!",
+      "numLines": 40,
       "ratings": {
         "importance": 10,
         "conflict": 0.5,
@@ -303,6 +311,7 @@
       "location": "Agrabah",
       "firstLine": "Now that I'm out of the cave, I can show Jasmine I'm worth something.",
       "lastLine": "I'll need Genie's help to make me a prince.",
+      "numLines": 10,
       "ratings": {
         "importance": 13,
         "conflict": 0.3,
@@ -336,6 +345,7 @@
       "location": "Agrabah",
       "firstLine": "There's a lot we're gonna have to change.",
       "lastLine": "Prince Ali! Fabulous he! Ali Ababwa!",
+      "numLines": 40,
       "ratings": {
         "importance": 7,
         "conflict": 0,
@@ -369,6 +379,7 @@
       "location": "Agrabah",
       "firstLine": "Make way for Prince Ali!",
       "lastLine": "I hope Jasmine is watching.",
+      "numLines": 20,
       "ratings": {
         "importance": 11,
         "conflict": 0.2,
@@ -402,6 +413,7 @@
       "location": "Sultan's Palace",
       "firstLine": "I am not a prize to be won!",
       "lastLine": "You're all the same, shallow and self-absorbed.",
+      "numLines": 15,
       "ratings": {
         "importance": 12,
         "conflict": 1,
@@ -435,6 +447,7 @@
       "location": "Agrabah",
       "firstLine": "She'll never like me as I really am.",
       "lastLine": "I need to keep up the act if I'm going to impress her.",
+      "numLines": 10,
       "ratings": {
         "importance": 14,
         "conflict": 1,
@@ -468,6 +481,7 @@
       "location": "Agrabah",
       "firstLine": "Do you trust me?",
       "lastLine": "It's a whole new world.",
+      "numLines": 40,
       "ratings": {
         "importance": 8,
         "conflict": 0.3,
@@ -501,6 +515,7 @@
       "location": "Sultan's Palace",
       "firstLine": "That street rat was actually a diamond in the rough.",
       "lastLine": "The lamp will be mine.",
+      "numLines": 10,
       "ratings": {
         "importance": 9,
         "conflict": 1,
@@ -534,6 +549,7 @@
       "location": "Agrabah",
       "firstLine": "I'll take that, my boy.",
       "lastLine": "I am now the most powerful being on Earth.",
+      "numLines": 30,
       "ratings": {
         "importance": 2,
         "conflict": 1,
@@ -567,6 +583,7 @@
       "location": "Sultan's Palace",
       "firstLine": "I wish to be sultan of Agrabah!",
       "lastLine": "And now, to get rid of you.",
+      "numLines": 45,
       "ratings": {
         "importance": 6,
         "conflict": 1,
@@ -609,6 +626,7 @@
       "location": "Agrabah",
       "firstLine": "I can't let Jafar destroy Agrabah.",
       "lastLine": "It's time to show Jafar who I really am.",
+      "numLines": 20,
       "ratings": {
         "importance": 5,
         "conflict": 1,
@@ -642,6 +660,7 @@
       "location": "Sultan's Palace",
       "firstLine": "You're not as powerful as you think, Jafar.",
       "lastLine": "Phenomenal cosmic powers... itty bitty living space.",
+      "numLines": 70,
       "ratings": {
         "importance": 1,
         "conflict": 1,
@@ -684,6 +703,7 @@
       "location": "Agrabah",
       "firstLine": "I wish for your freedom, Genie.",
       "lastLine": "You are free.",
+      "numLines": 15,
       "ratings": {
         "importance": 3,
         "conflict": 0,
@@ -717,6 +737,7 @@
       "location": "Agrabah",
       "firstLine": "So, what are you going to do next?",
       "lastLine": "A whole new world, with new horizons to pursue.",
+      "numLines": 20,
       "ratings": {
         "importance": 15,
         "conflict": 0,

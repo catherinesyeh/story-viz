@@ -12,6 +12,7 @@
       "location": "Nick's Childhood Home",
       "firstLine": "In my younger and more vulnerable years my father gave me some advice that I've been turning over in my mind ever since.",
       "lastLine": "Father agreed to finance me for a year, and after various delays I came East, permanently, I thought, in the spring of twenty-two.",
+      "numLines": 45,
       "ratings": {
         "importance": 18,
         "conflict": 0,
@@ -36,6 +37,7 @@
       "location": "West Egg",
       "firstLine": "And so with the sunshine and the great bursts of leaves growing on the trees, just as things grow in fast movies, I had that familiar conviction that life was beginning over again with the summer.",
       "lastLine": "Across the courtesy bay the white palaces of fashionable East Egg glittered along the water, and the history of the summer really begins on the evening I drove over there to have dinner with the Tom Buchanans.",
+      "numLines": 55,
       "ratings": {
         "importance": 16,
         "conflict": 0,
@@ -60,6 +62,7 @@
       "location": "East Egg",
       "firstLine": "Their house was even more elaborate than I expected, a cheerful red-and-white Georgian Colonial mansion, overlooking the bay.",
       "lastLine": "I was confused and a little disgusted as I drove away.",
+      "numLines": 150,
       "ratings": {
         "importance": 17,
         "conflict": 0.7,
@@ -111,6 +114,7 @@
       "location": "The Valley of Ashes",
       "firstLine": "About halfway between West Egg and New York the motor road hastily joins the railroad and runs beside it for a quarter of a mile, so as to shrink away from a certain desolate area of land.",
       "lastLine": "With fenders spread like wings we scattered light through half Astoria—only half, for as we twisted among the pillars of the elevated I heard the familiar 'jug—jug—spat!' of a motorcycle, and a frantic policeman rode alongside.",
+      "numLines": 60,
       "ratings": {
         "importance": 10,
         "conflict": 0.4,
@@ -153,6 +157,7 @@
       "location": "Myrtle's Apartment in New York",
       "firstLine": "The apartment was on the top floor—a small living-room, a small dining-room, a small bedroom, and a bath.",
       "lastLine": "Making a short deft movement, Tom Buchanan broke her nose with his open hand.",
+      "numLines": 120,
       "ratings": {
         "importance": 8,
         "conflict": 1,
@@ -195,6 +200,7 @@
       "location": "Gatsby's Mansion",
       "firstLine": "There was music from my neighbour's house through the summer nights.",
       "lastLine": "'I'm going to make a list of all the things I've got to get. A massage and a wave, and a collar for the dog, and one of those cute little ashtrays where you touch a spring, and a wreath with a black silk bow for mother's grave that'll last all summer.'",
+      "numLines": 100,
       "ratings": {
         "importance": 11,
         "conflict": 0.2,
@@ -237,6 +243,7 @@
       "location": "West Egg",
       "firstLine": "He was balancing himself on the dashboard of his car with that resourcefulness of movement that is so peculiarly American.",
       "lastLine": "'I thought you inherited your money.' 'I did, old sport,' he said automatically, 'but I lost most of it in the big panic—the panic of the war.'",
+      "numLines": 80,
       "ratings": {
         "importance": 12,
         "conflict": 0.5,
@@ -270,6 +277,7 @@
       "location": "Myrtle's Apartment in New York",
       "firstLine": "We lunched at 'The Yale Club'—Gatsby, Wolfsheim, and I.",
       "lastLine": "After a moment I returned rather feebly to the subject of her daughter.",
+      "numLines": 70,
       "ratings": {
         "importance": 13,
         "conflict": 0.4,
@@ -312,6 +320,7 @@
       "location": "West Egg",
       "firstLine": "'He wants to know,' continued Jordan, 'if you'll invite Daisy to your house some afternoon and then let him come over.'",
       "lastLine": "As I went over to say goodbye I saw that the expression of bewilderment had come back into Gatsby's face.",
+      "numLines": 90,
       "ratings": {
         "importance": 7,
         "conflict": 0.2,
@@ -354,6 +363,7 @@
       "location": "The Plaza Hotel",
       "firstLine": "The prolonged and tumultuous argument that ended by herding us into that room eludes me.",
       "lastLine": "'I just realized that today is my birthday.'",
+      "numLines": 130,
       "ratings": {
         "importance": 1,
         "conflict": 1,
@@ -405,6 +415,7 @@
       "location": "The Valley of Ashes",
       "firstLine": "So we drove on toward death through the cooling twilight.",
       "lastLine": "'Was Daisy driving?' 'Yes,' he said after a moment, 'but of course I'll say I was.'",
+      "numLines": 50,
       "ratings": {
         "importance": 2,
         "conflict": 1,
@@ -447,6 +458,7 @@
       "location": "East Egg",
       "firstLine": "They were sitting at the kitchen table with a glass of whisky each, discussing what to do.",
       "lastLine": "They weren't happy, and neither of them had touched the chicken or the ale—and yet they weren't unhappy either.",
+      "numLines": 40,
       "ratings": {
         "importance": 14,
         "conflict": 0.5,
@@ -489,6 +501,7 @@
       "location": "East Egg",
       "firstLine": "I couldn't sleep all night; a fog-horn was groaning incessantly on the Sound, and I tossed half-sick between grotesque reality and savage, frightening dreams.",
       "lastLine": "'I don't think she ever loved him.' Gatsby turned around from a window and looked at me challengingly. 'You must remember, old sport, she was very excited.'",
+      "numLines": 60,
       "ratings": {
         "importance": 15,
         "conflict": 0.2,
@@ -522,6 +535,7 @@
       "location": "West Egg",
       "firstLine": "'They're a rotten crowd,' I shouted across the lawn. 'You're worth the whole damn bunch put together.'",
       "lastLine": "He nodded sagely. 'And what's more, I love Daisy too. Once in a while I go off on a spree and make a fool of myself, but I always come back, and in my heart, I love her all the time.'",
+      "numLines": 30,
       "ratings": {
         "importance": 9,
         "conflict": 0.1,
@@ -555,6 +569,7 @@
       "location": "Gatsby's Mansion",
       "firstLine": "It was after we started with Gatsby toward the house that the gardener saw Wilson's body a little way off in the grass.",
       "lastLine": "'The poor son-of-a-bitch,' he muttered.",
+      "numLines": 40,
       "ratings": {
         "importance": 3,
         "conflict": 1,
@@ -597,6 +612,7 @@
       "location": "Gatsby's Mansion",
       "firstLine": "About five o'clock our procession of three cars reached the cemetery and stopped in a thick drizzle beside the gate—first a motor hearse, horribly black and wet, then Mr. Gatz and the minister and I in the limousine, and a little later four or five servants and the postman from West Egg, in Gatsby's station wagon, all wet to the skin.",
       "lastLine": "After a little while Mr. Gatz opened the door and came out, his mouth ajar, his face flushed slightly, his eyes leaking isolated and unpunctual tears.",
+      "numLines": 35,
       "ratings": {
         "importance": 4,
         "conflict": 0.2,
@@ -630,6 +646,7 @@
       "location": "West Egg",
       "firstLine": "I spent my Saturday nights in New York because those gleaming, dazzling parties of his were with me so vividly that I could still hear the music and the laughter.",
       "lastLine": "They were careless people, Tom and Daisy—they smashed up things and creatures and then retreated back into their money or their vast carelessness.",
+      "numLines": 25,
       "ratings": {
         "importance": 5,
         "conflict": 0.3,
@@ -654,6 +671,7 @@
       "location": "Gatsby's Mansion",
       "firstLine": "Gatsby believed in the green light, the orgastic future that year by year recedes before us.",
       "lastLine": "So we beat on, boats against the current, borne back ceaselessly into the past.",
+      "numLines": 30,
       "ratings": {
         "importance": 6,
         "conflict": 0.1,

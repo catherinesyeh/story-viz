@@ -12,6 +12,7 @@
       "location": "Verona",
       "firstLine": "Gregory, on my word, we'll not carry coals.",
       "lastLine": "If ever you disturb our streets again, Your lives shall pay the forfeit of the peace.",
+      "numLines": 102,
       "ratings": {
         "importance": 9,
         "conflict": 1,
@@ -45,6 +46,7 @@
       "location": "Capulet's Ball",
       "firstLine": "Welcome, gentlemen! Ladies that have their toes Unplagu'd with corns will have a bout with you.",
       "lastLine": "My only love sprung from my only hate! Too early seen unknown, and known too late!",
+      "numLines": 78,
       "ratings": {
         "importance": 8,
         "conflict": 0.5,
@@ -78,6 +80,7 @@
       "location": "Juliet's Balcony",
       "firstLine": "But, soft! what light through yonder window breaks? It is the east, and Juliet is the sun.",
       "lastLine": "Sleep dwell upon thine eyes, peace in thy breast! Would I were sleep and peace, so sweet to rest!",
+      "numLines": 101,
       "ratings": {
         "importance": 12,
         "conflict": 0,
@@ -111,6 +114,7 @@
       "location": "Friar Laurence's Cell",
       "firstLine": "The grey-ey'd morn smiles on the frowning night, Check'ring the Eastern clouds with streaks of light;",
       "lastLine": "Wisely and slow. They stumble that run fast.",
+      "numLines": 130,
       "ratings": {
         "importance": 14,
         "conflict": 0,
@@ -144,6 +148,7 @@
       "location": "Verona",
       "firstLine": "But I can give thee more; For I will raise her statue in pure gold,",
       "lastLine": "For never was a story of more woe Than this of Juliet and her Romeo.",
+      "numLines": 222,
       "ratings": {
         "importance": 13,
         "conflict": 1,
@@ -177,6 +182,7 @@
       "location": "Friar Laurence's Cell",
       "firstLine": "So smile the heavens upon this holy act, That after-hours with sorrow chide us not!",
       "lastLine": "These violent delights have violent ends And in their triumph die, like fire and powder, Which, as they kiss, consume.",
+      "numLines": 40,
       "ratings": {
         "importance": 5,
         "conflict": 0,
@@ -219,6 +225,7 @@
       "location": "Verona",
       "firstLine": "I am hurt. A plague o' both your houses! I am sped.",
       "lastLine": "Help me into some house, Benvolio, Or I shall faint. A plague o' both your houses!",
+      "numLines": 115,
       "ratings": {
         "importance": 7,
         "conflict": 1,
@@ -261,6 +268,7 @@
       "location": "Verona",
       "firstLine": "Alive in triumph, and Mercutio slain! Away to heaven respective lenity, And fire-ey'd fury be my conduct now!",
       "lastLine": "O, I am fortune's fool!",
+      "numLines": 63,
       "ratings": {
         "importance": 3,
         "conflict": 1,
@@ -285,6 +293,7 @@
       "location": "Verona",
       "firstLine": "Immediately we do exile him hence. I have an interest in your hate's proceeding, My blood for your rude brawls doth lie a-bleeding;",
       "lastLine": "Mercy but murders, pardoning those that kill.",
+      "numLines": 52,
       "ratings": {
         "importance": 2,
         "conflict": 0.5,
@@ -309,6 +318,7 @@
       "location": "Capulet's Orchard",
       "firstLine": "Gallop apace, you fiery-footed steeds, Towards Phoebus' lodging!",
       "lastLine": "O serpent heart, hid with a flow'ring face!",
+      "numLines": 120,
       "ratings": {
         "importance": 15,
         "conflict": 0.5,
@@ -333,6 +343,7 @@
       "location": "Friar Laurence's Cell",
       "firstLine": "Hold, daughter. I do spy a kind of hope, Which craves as desperate an execution As that is desperate which we would prevent.",
       "lastLine": "Give me, give me! O, tell not me of fear!",
+      "numLines": 86,
       "ratings": {
         "importance": 11,
         "conflict": 0.5,
@@ -366,6 +377,7 @@
       "location": "Capulet's Orchard",
       "firstLine": "Farewell! God knows when we shall meet again.",
       "lastLine": "Romeo, Romeo, Romeo! Here's drink. I drink to thee.",
+      "numLines": 47,
       "ratings": {
         "importance": 4,
         "conflict": 0,
@@ -390,6 +402,7 @@
       "location": "Mantua",
       "firstLine": "News from Verona!- How now, Balthasar! Dost thou not bring me letters from the friar?",
       "lastLine": "Well, Juliet, I will lie with thee to-night. Let's see for means.",
+      "numLines": 85,
       "ratings": {
         "importance": 6,
         "conflict": 0.5,
@@ -414,6 +427,7 @@
       "location": "Capulet's Orchard",
       "firstLine": "Give me that mattock and the wrenching iron.",
       "lastLine": "Here's to my love! [Drinks.] O true apothecary! Thy drugs are quick. Thus with a kiss I die.",
+      "numLines": 63,
       "ratings": {
         "importance": 10,
         "conflict": 1,
@@ -447,6 +461,7 @@
       "location": "Capulet's Orchard",
       "firstLine": "O comfortable friar! where is my lord?",
       "lastLine": "This is thy sheath; there rust, and let me die.",
+      "numLines": 42,
       "ratings": {
         "importance": 1,
         "conflict": 0,
@@ -471,6 +486,7 @@
       "location": "Verona",
       "firstLine": "What's here? A cup, closed in my true love's hand?",
       "lastLine": "For never was a story of more woe than this of Juliet and her Romeo.",
+      "numLines": 110,
       "ratings": {
         "importance": 16,
         "conflict": 0,

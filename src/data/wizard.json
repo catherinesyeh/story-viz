@@ -12,6 +12,7 @@
       "location": "Kansas",
       "firstLine": "When Dorothy stood in the doorway and looked around, she could see nothing but the great gray prairie on every side.",
       "lastLine": "Then a strange thing happened. The house whirled around two or three times and rose slowly through the air.",
+      "numLines": 23,
       "ratings": {
         "importance": 19,
         "conflict": 1,
@@ -45,6 +46,7 @@
       "location": "The Land of the Munchkins",
       "firstLine": "She was awakened by a shock, so sudden and severe that if Dorothy had not been lying on the soft bed she might have been hurt.",
       "lastLine": "Dorothy listened to this speech with wonder. What could the little woman possibly mean by calling her a sorceress, and saying she had killed the Wicked Witch of the East?",
+      "numLines": 20,
       "ratings": {
         "importance": 18,
         "conflict": 0,
@@ -78,6 +80,7 @@
       "location": "The Yellow Brick Road",
       "firstLine": "She sprang from her bed and with Toto at her heels ran and opened the door.",
       "lastLine": "So she took hold of his arm and managed to get along fairly well.",
+      "numLines": 17,
       "ratings": {
         "importance": 17,
         "conflict": 0,
@@ -111,6 +114,7 @@
       "location": "The Dark Forest",
       "firstLine": "So she oiled it, and as it was quite badly rusted the Scarecrow took hold of the tin head and moved it gently from side to side until it worked freely, and then the man could turn it himself.",
       "lastLine": "This adventure made the travelers more anxious than ever to get out of the forest, and they walked so fast that Dorothy became tired, and had to ride on the Lion's back.",
+      "numLines": 16,
       "ratings": {
         "importance": 16,
         "conflict": 0,
@@ -153,6 +157,7 @@
       "location": "The Yellow Brick Road",
       "firstLine": "They were walking through the forest when suddenly they heard a terrible roar, and the next moment a great Lion bounded into the road.",
       "lastLine": "But Dorothy, knowing her to be a witch, had expected her to disappear in just that way, and was not surprised in the least.",
+      "numLines": 16,
       "ratings": {
         "importance": 15,
         "conflict": 1,
@@ -204,6 +209,7 @@
       "location": "The Deadly Poppy Field",
       "firstLine": "Once, indeed, the Tin Woodman stepped upon a beetle that was crawling along the road, and killed the poor little thing.",
       "lastLine": "And now the Scarecrow and the Tin Woodman carried the sleeping girl to a comfortable place in the forest and laid her gently down to rest.",
+      "numLines": 15,
       "ratings": {
         "importance": 14,
         "conflict": 1,
@@ -255,6 +261,7 @@
       "location": "The Deadly Poppy Field",
       "firstLine": "The Scarecrow and the Tin Woodman stood up in another corner and waited patiently until morning came.",
       "lastLine": "She ate a hearty breakfast, and watched a wee Munchkin baby, who played with Toto and pulled his tail and crowed and laughed in a way that greatly amused Dorothy.",
+      "numLines": 12,
       "ratings": {
         "importance": 13,
         "conflict": 0.5,
@@ -297,6 +304,7 @@
       "location": "The Yellow Brick Road",
       "firstLine": "So once more the little company set off upon the journey, the Lion walking with stately strides at Dorothy's side.",
       "lastLine": "So the Tin Woodman shouldered his axe and they all passed through the forest until they came to the road that was paved with yellow brick.",
+      "numLines": 15,
       "ratings": {
         "importance": 12,
         "conflict": 0,
@@ -348,6 +356,7 @@
       "location": "The Emerald City",
       "firstLine": "They found the forest very thick on this side, and it looked dark and gloomy.",
       "lastLine": "Every one looked with wonder upon the strange and beautiful sights.",
+      "numLines": 18,
       "ratings": {
         "importance": 11,
         "conflict": 0,
@@ -399,6 +408,7 @@
       "location": "The Emerald City",
       "firstLine": "She was awakened by a shock, so sudden and severe that if Dorothy had not been lying on the soft bed she might have been hurt.",
       "lastLine": "I am Oz, the Great and Terrible,",
+      "numLines": 22,
       "ratings": {
         "importance": 10,
         "conflict": 1,
@@ -459,6 +469,7 @@
       "location": "The Emerald City",
       "firstLine": "So the Tin Woodman shouldered his axe and they all passed through the forest until they came to the road that was paved with yellow brick.",
       "lastLine": "They were all greatly pleased to see how easily he did it, and after the Scarecrow had got down from his back the Lion sprang across the ditch again.",
+      "numLines": 20,
       "ratings": {
         "importance": 9,
         "conflict": 1,
@@ -510,6 +521,7 @@
       "location": "The Land of the Winkies",
       "firstLine": "You see, I am stuffed, so I have no brains at all, he answered sadly.",
       "lastLine": "Toto did not approve of this new comrade at first, for he could not forget how nearly he had been crushed between the Lion's great jaws.",
+      "numLines": 25,
       "ratings": {
         "importance": 8,
         "conflict": 1,
@@ -570,6 +582,7 @@
       "location": "The Emerald City",
       "firstLine": "So the Tin Woodman shouldered his axe and they all passed through the forest until they came to the road that was paved with yellow brick.",
       "lastLine": "And now the Scarecrow and the Tin Woodman carried the sleeping girl to a comfortable place in the forest and laid her gently down to rest.",
+      "numLines": 19,
       "ratings": {
         "importance": 7,
         "conflict": 0.5,
@@ -621,6 +634,7 @@
       "location": "The Emerald City",
       "firstLine": "I am Oz, the Great and Terrible,",
       "lastLine": "I shall now be able to proceed to the Emerald City.",
+      "numLines": 11,
       "ratings": {
         "importance": 6,
         "conflict": 1,
@@ -681,6 +695,7 @@
       "location": "The Emerald City",
       "firstLine": "But the Scarecrow said, 'We cannot fly, that is certain. Neither can we climb down into this great ditch.'",
       "lastLine": "'I cannot tell,' she returned, 'but you may come with me, if you like. If Oz will not give you any brains you will be no worse off than you are now.'",
+      "numLines": 14,
       "ratings": {
         "importance": 20,
         "conflict": 0,
@@ -705,6 +720,7 @@
       "location": "The Emerald City",
       "firstLine": "'If you please, I will tell you where to find her,' replied the man. 'She is in the poppy field.'",
       "lastLine": "'Whenever I should feel it beating,' answered the Tin Woodman.",
+      "numLines": 18,
       "ratings": {
         "importance": 21,
         "conflict": 0,
@@ -729,6 +745,7 @@
       "location": "The Emerald City",
       "firstLine": "The Cowardly Lion was always looking for the courage that he was promised by Oz.",
       "lastLine": "'How do you feel?' asked Dorothy. 'Full of courage,' replied the Lion, who had not understood the joke, but was ready to believe anything that made him feel better.",
+      "numLines": 22,
       "ratings": {
         "importance": 22,
         "conflict": 0,
@@ -753,6 +770,7 @@
       "location": "The Emerald City",
       "firstLine": "“Sit down, my dear; I think I have found the way to get you out of this country.”",
       "lastLine": "“Well, I'll tell you what I think,” said the little man. “You see, when I came to this country it was in a balloon. You also came through the air, being carried by a cyclone. So I believe the best way to get across the desert will be through the air.”",
+      "numLines": 24,
       "ratings": {
         "importance": 5,
         "conflict": 1,
@@ -786,6 +804,7 @@
       "location": "The Emerald City",
       "firstLine": "“Come, Dorothy!” cried the Wizard. “Hurry up, or the balloon will fly away.”",
       "lastLine": "“Good-bye!” shouted everyone, and all eyes were turned upward to where the Wizard was riding in the basket, rising every moment farther and farther into the sky.",
+      "numLines": 21,
       "ratings": {
         "importance": 4,
         "conflict": 1,
@@ -810,6 +829,7 @@
       "location": "The Land of the Quadlings",
       "firstLine": "Dorothy wept bitterly at the passing of her hope to get home to Kansas again; but when she thought it all over she was glad she had not gone up in a balloon.",
       "lastLine": "The road is straight to the South, he answered, but it is said to be full of dangers to travelers.",
+      "numLines": 13,
       "ratings": {
         "importance": 3,
         "conflict": 0.5,
@@ -834,6 +854,7 @@
       "location": "The Land of the Quadlings",
       "firstLine": "“Bless your dear heart,” she said, “I am sure I can tell you of a way to get back to Kansas.”",
       "lastLine": "“Take me home to Aunt Em!”",
+      "numLines": 12,
       "ratings": {
         "importance": 2,
         "conflict": 0,
@@ -867,6 +888,7 @@
       "location": "The Land of the Quadlings",
       "firstLine": "She threw her arms around the Lion's neck and kissed him, patting his big head tenderly.",
       "lastLine": "“Good gracious!” she cried.",
+      "numLines": 10,
       "ratings": {
         "importance": 1,
         "conflict": 0,
@@ -891,6 +913,7 @@
       "location": "Kansas",
       "firstLine": "The Silver Shoes took but three steps, and then she stopped so suddenly that she rolled over upon the grass several times before she knew where she was.",
       "lastLine": "“From the Land of Oz,” said Dorothy gravely. “And here is Toto, too. And oh, Aunt Em! I'm so glad to be at home again!”",
+      "numLines": 15,
       "ratings": {
         "importance": 23,
         "conflict": 0,

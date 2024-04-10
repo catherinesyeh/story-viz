@@ -12,6 +12,7 @@
       "location": "Longbourn - The Bennet's Home",
       "firstLine": "'My dear Mr. Bennet,' said his lady to him one day, 'have you heard that Netherfield Park is let at last?'",
       "lastLine": "'You want to tell me, and I have no objection to hearing it.'",
+      "numLines": 40,
       "ratings": {
         "importance": 15,
         "conflict": 0,
@@ -45,6 +46,7 @@
       "location": "Meryton",
       "firstLine": "The Meryton assembly was always productive of the most interesting intelligence.",
       "lastLine": "'Which do you mean?' and turning round he looked for a moment at Elizabeth, till catching her eye, he withdrew his own and coldly said: 'She is tolerable, but not handsome enough to tempt me.'",
+      "numLines": 60,
       "ratings": {
         "importance": 8,
         "conflict": 1,
@@ -96,6 +98,7 @@
       "location": "Netherfield Park",
       "firstLine": "'My dear, you must indeed go and see Mr. Bingley when he comes into the neighbourhood.'",
       "lastLine": "'...and bring back a supply of clothes.'",
+      "numLines": 35,
       "ratings": {
         "importance": 12,
         "conflict": 0.5,
@@ -138,6 +141,7 @@
       "location": "Netherfield Park",
       "firstLine": "'Miss Eliza Bennet,' said Miss Bingley, 'despises cards. She is a great reader and has no pleasure in anything else.'",
       "lastLine": "'He immediately offered to fetch her others; all that his library afforded.'",
+      "numLines": 45,
       "ratings": {
         "importance": 11,
         "conflict": 1,
@@ -180,6 +184,7 @@
       "location": "Hunsford Parsonage",
       "firstLine": "'My reasons for marrying are, first...'",
       "lastLine": "'...and I am convinced that my chance of happiness with him is as fair as most people can boast on entering the marriage state.'",
+      "numLines": 25,
       "ratings": {
         "importance": 10,
         "conflict": 1,
@@ -213,6 +218,7 @@
       "location": "Netherfield Park",
       "firstLine": "The Netherfield ball was, at last, to be a reality.",
       "lastLine": "'Mr. Darcy, you must allow me to present this young lady to you as a very desirable partner.'",
+      "numLines": 50,
       "ratings": {
         "importance": 4,
         "conflict": 1,
@@ -255,6 +261,7 @@
       "location": "Hunsford Parsonage",
       "firstLine": "'In vain I have struggled. It will not do. My feelings will not be repressed.'",
       "lastLine": "'You have said quite enough, madam. I perfectly comprehend your feelings, and have now only to be ashamed of what my own have been.'",
+      "numLines": 55,
       "ratings": {
         "importance": 3,
         "conflict": 1,
@@ -288,6 +295,7 @@
       "location": "Rosings Park",
       "firstLine": "Elizabeth, with a slight bow, turned again into the plantation, and was soon out of sight.",
       "lastLine": "'I have no reason, therefore, to be dissatisfied with my view of the present state of our affairs.'",
+      "numLines": 30,
       "ratings": {
         "importance": 7,
         "conflict": 0.5,
@@ -321,6 +329,7 @@
       "location": "Longbourn - The Bennet's Home",
       "firstLine": "'Lydia left a note for Colonel Forster, to be delivered to me in case of his absence,'",
       "lastLine": "'We shall be off in half an hour.'",
+      "numLines": 20,
       "ratings": {
         "importance": 2,
         "conflict": 1,
@@ -363,6 +372,7 @@
       "location": "Longbourn - The Bennet's Home",
       "firstLine": "'I have just received your letter, and shall devote this whole morning to answering it,'",
       "lastLine": "'I am, dear sir, etc., etc.'",
+      "numLines": 25,
       "ratings": {
         "importance": 5,
         "conflict": 0,
@@ -396,6 +406,7 @@
       "location": "Pemberley",
       "firstLine": "'They gradually ascended for half a mile, and then found themselves at the top of a considerable eminence,'",
       "lastLine": "'And at that moment, she felt that to be mistress of Pemberley might be something!'",
+      "numLines": 40,
       "ratings": {
         "importance": 9,
         "conflict": 0,
@@ -429,6 +440,7 @@
       "location": "Longbourn - The Bennet's Home",
       "firstLine": "'My affections and wishes are unchanged, but one word from you will silence me on this subject forever.'",
       "lastLine": "'Elizabeth, feeling all the more than common awkwardness and anxiety of his situation, now forced herself to speak.'",
+      "numLines": 50,
       "ratings": {
         "importance": 1,
         "conflict": 0.5,
@@ -462,6 +474,7 @@
       "location": "Longbourn - The Bennet's Home",
       "firstLine": "'Miss Bennet, I insist on being satisfied. Has he, has my nephew, made you an offer of marriage?'",
       "lastLine": "'I am not to be intimidated into anything so wholly unreasonable.'",
+      "numLines": 15,
       "ratings": {
         "importance": 6,
         "conflict": 1,
@@ -495,6 +508,7 @@
       "location": "Longbourn - The Bennet's Home",
       "firstLine": "'My dear, dear Lizzy, I would - I do congratulate you - but are you certain? Forgive the question - are you quite certain that you can be happy with him?'",
       "lastLine": "'And so, all was settled, and Elizabeth, with the lively, playful disposition which delighted in anything ridiculous, was ready to embrace her future with Mr. Darcy.'",
+      "numLines": 30,
       "ratings": {
         "importance": 13,
         "conflict": 0.2,
@@ -537,6 +551,7 @@
       "location": "Pemberley",
       "firstLine": "Elizabeth, as they drove along, watched for the first appearance of Pemberley Woods with some perturbation;",
       "lastLine": "With the Gardiners, they were always on the most intimate terms.",
+      "numLines": 20,
       "ratings": {
         "importance": 14,
         "conflict": 0,
