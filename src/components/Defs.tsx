@@ -61,7 +61,7 @@ function Defs() {
                     : characterColor === "llm"
                     ? llmColor
                     : characterColor === "sentiment"
-                    ? emotionColor(firstScene.sentiment.rating)
+                    ? emotionColor(firstScene.rating)
                     : importanceColor(firstScene.importance)
                 }
               />
@@ -70,7 +70,7 @@ function Defs() {
                 const char_data = scene_data[scene].characters.find(
                   (c) => c.name === char.character
                 ) as any;
-                const emotion_val = char_data.sentiment.rating;
+                const emotion_val = char_data.rating;
                 const importance_val = char_data.importance;
                 const emotion_color = emotionColor(emotion_val); // dynamic color based on emotion
                 const importance_color = importanceColor(importance_val); // dynamic color based on importance
@@ -80,7 +80,7 @@ function Defs() {
                       (c) => c.name === char.character
                     ) as any)
                   : char_data;
-                const next_emotion_val = next_scene.sentiment.rating;
+                const next_emotion_val = next_scene.rating;
                 const next_emotion_color = emotionColor(next_emotion_val);
                 const next_importance_val = next_scene.importance;
                 const next_importance_color =
@@ -163,7 +163,7 @@ function Defs() {
                     : characterColor === "llm"
                     ? llmColor
                     : characterColor === "sentiment"
-                    ? emotionColor(lastScene.sentiment.rating)
+                    ? emotionColor(lastScene.rating)
                     : importanceColor(lastScene.importance)
                 }
               />

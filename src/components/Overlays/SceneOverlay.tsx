@@ -152,8 +152,8 @@ function SceneOverlay() {
                   const character = scene.characters.find(
                     (c) => c.name === char.character
                   ) as any;
-                  const emotion = character.sentiment.emotion;
-                  const rating = character.sentiment.rating;
+                  const emotion = character.emotion;
+                  const rating = character.rating;
                   const llmColor = getLLMColor(
                     char.character,
                     sortedCharacters

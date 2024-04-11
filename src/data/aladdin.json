@@ -22,11 +22,9 @@
         {
           "name": "Peddler",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Welcoming and intriguing",
-            "quote": "Perhaps you would like to hear the tale?",
-            "rating": 1
-          }
+          "emotion": "Welcoming and intriguing",
+          "quote": "Perhaps you would like to hear the tale?",
+          "rating": 1
         }
       ]
     },
@@ -47,29 +45,23 @@
         {
           "name": "Jafar",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Calculating and impatient",
-            "quote": "Trust me my pungent friend. You'll get what's coming to you.",
-            "rating": -1
-          }
+          "emotion": "Calculating and impatient",
+          "quote": "Trust me my pungent friend. You'll get what's coming to you.",
+          "rating": -1
         },
         {
           "name": "Iago",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Sarcastic and loyal",
-            "quote": "Oh there's a big surprise!",
-            "rating": -0.5
-          }
+          "emotion": "Sarcastic and loyal",
+          "quote": "Oh there's a big surprise!",
+          "rating": -0.5
         },
         {
           "name": "Cave of Wonders",
           "importance": 3,
-          "sentiment": {
-            "emotion": "Ominous and selective",
-            "quote": "Who disturbs my slumber?",
-            "rating": -1
-          }
+          "emotion": "Ominous and selective",
+          "quote": "Who disturbs my slumber?",
+          "rating": -1
         }
       ]
     },
@@ -90,20 +82,16 @@
         {
           "name": "Aladdin",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Adventurous and resourceful",
-            "quote": "All this for a loaf of bread?",
-            "rating": 1
-          }
+          "emotion": "Adventurous and resourceful",
+          "quote": "All this for a loaf of bread?",
+          "rating": 1
         },
         {
           "name": "Abu",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Supportive and mischievous",
-            "quote": "Hello!",
-            "rating": 1
-          }
+          "emotion": "Supportive and mischievous",
+          "quote": "Hello!",
+          "rating": 1
         }
       ]
     },
@@ -124,20 +112,16 @@
         {
           "name": "Jasmine",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Curious and compassionate",
-            "quote": "I don't think so.",
-            "rating": 0.5
-          }
+          "emotion": "Curious and compassionate",
+          "quote": "I don't think so.",
+          "rating": 0.5
         },
         {
           "name": "Aladdin",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Enamored and protective",
-            "quote": "Wow!",
-            "rating": 1
-          }
+          "emotion": "Enamored and protective",
+          "quote": "Wow!",
+          "rating": 1
         }
       ]
     },
@@ -158,20 +142,16 @@
         {
           "name": "Aladdin",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Heroic and clever",
-            "quote": "Just play along.",
-            "rating": 1
-          }
+          "emotion": "Heroic and clever",
+          "quote": "Just play along.",
+          "rating": 1
         },
         {
           "name": "Jasmine",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Surprised and grateful",
-            "quote": "What are you doing?",
-            "rating": 0.7
-          }
+          "emotion": "Surprised and grateful",
+          "quote": "What are you doing?",
+          "rating": 0.7
         }
       ]
     },
@@ -192,38 +172,30 @@
         {
           "name": "Jafar",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Devious and plotting",
-            "quote": "Marry the shrew? I become sultan.",
-            "rating": -1
-          }
+          "emotion": "Devious and plotting",
+          "quote": "Marry the shrew? I become sultan.",
+          "rating": -1
         },
         {
           "name": "Iago",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Scheming and supportive",
-            "quote": "Jafar? What if you were the chump husband?",
-            "rating": -0.8
-          }
+          "emotion": "Scheming and supportive",
+          "quote": "Jafar? What if you were the chump husband?",
+          "rating": -0.8
         },
         {
           "name": "Sultan",
           "importance": 3,
-          "sentiment": {
-            "emotion": "Oblivious and well-meaning",
-            "quote": "Jasmine, Jafar now let's put this whole messy business behind us.",
-            "rating": 0.3
-          }
+          "emotion": "Oblivious and well-meaning",
+          "quote": "Jasmine, Jafar now let's put this whole messy business behind us.",
+          "rating": 0.3
         },
         {
           "name": "Jasmine",
           "importance": 4,
-          "sentiment": {
-            "emotion": "Defiant and assertive",
-            "quote": "When I am queen, I will have the power to get rid of you.",
-            "rating": 0.4
-          }
+          "emotion": "Defiant and assertive",
+          "quote": "When I am queen, I will have the power to get rid of you.",
+          "rating": 0.4
         }
       ]
     },
@@ -244,29 +216,23 @@
         {
           "name": "Aladdin",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Astonished and curious",
-            "quote": "You're gonna grant me any three wishes I want?",
-            "rating": 1
-          }
+          "emotion": "Astonished and curious",
+          "quote": "You're gonna grant me any three wishes I want?",
+          "rating": 1
         },
         {
           "name": "Genie",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Eccentric and enthusiastic",
-            "quote": "No substitutions, exchanges or refunds.",
-            "rating": 1
-          }
+          "emotion": "Eccentric and enthusiastic",
+          "quote": "No substitutions, exchanges or refunds.",
+          "rating": 1
         },
         {
           "name": "Abu",
           "importance": 3,
-          "sentiment": {
-            "emotion": "Bewildered and cautious",
-            "quote": "Oh oh. Aladdin? Wake up. Aladdin.",
-            "rating": 0.6
-          }
+          "emotion": "Bewildered and cautious",
+          "quote": "Oh oh. Aladdin? Wake up. Aladdin.",
+          "rating": 0.6
         }
       ]
     },
@@ -287,20 +253,16 @@
         {
           "name": "Aladdin",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Strategic and skeptical",
-            "quote": "Some all-powerful genie--can't even bring people back from the dead.",
-            "rating": 1
-          }
+          "emotion": "Strategic and skeptical",
+          "quote": "Some all-powerful genie--can't even bring people back from the dead.",
+          "rating": 1
         },
         {
           "name": "Genie",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Defensive and playful",
-            "quote": "You're gettin' your wishes so siddown!",
-            "rating": 1
-          }
+          "emotion": "Defensive and playful",
+          "quote": "You're gettin' your wishes so siddown!",
+          "rating": 1
         }
       ]
     },
@@ -321,20 +283,16 @@
         {
           "name": "Aladdin",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Hopeful and determined",
-            "quote": "I can be someone Jasmine will notice.",
-            "rating": 1
-          }
+          "emotion": "Hopeful and determined",
+          "quote": "I can be someone Jasmine will notice.",
+          "rating": 1
         },
         {
           "name": "Genie",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Supportive and intrigued",
-            "quote": "You really gonna try to win the princess's heart?",
-            "rating": 0.7
-          }
+          "emotion": "Supportive and intrigued",
+          "quote": "You really gonna try to win the princess's heart?",
+          "rating": 0.7
         }
       ]
     },
@@ -355,20 +313,16 @@
         {
           "name": "Aladdin",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Excited and nervous",
-            "quote": "Let's make me a prince!",
-            "rating": 1
-          }
+          "emotion": "Excited and nervous",
+          "quote": "Let's make me a prince!",
+          "rating": 1
         },
         {
           "name": "Genie",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Creative and supportive",
-            "quote": "You're gonna be fabulous.",
-            "rating": 1
-          }
+          "emotion": "Creative and supportive",
+          "quote": "You're gonna be fabulous.",
+          "rating": 1
         }
       ]
     },
@@ -389,20 +343,16 @@
         {
           "name": "Aladdin",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Proud and hopeful",
-            "quote": "This is it. Time to meet the princess.",
-            "rating": 1
-          }
+          "emotion": "Proud and hopeful",
+          "quote": "This is it. Time to meet the princess.",
+          "rating": 1
         },
         {
           "name": "Jasmine",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Curious and skeptical",
-            "quote": "Another suitor for the princess.",
-            "rating": 0.5
-          }
+          "emotion": "Curious and skeptical",
+          "quote": "Another suitor for the princess.",
+          "rating": 0.5
         }
       ]
     },
@@ -423,20 +373,16 @@
         {
           "name": "Jasmine",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Frustrated and dismissive",
-            "quote": "I am not a prize to be won!",
-            "rating": -1
-          }
+          "emotion": "Frustrated and dismissive",
+          "quote": "I am not a prize to be won!",
+          "rating": -1
         },
         {
           "name": "Aladdin",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Disheartened and persistent",
-            "quote": "Please, Princess, give me a chance.",
-            "rating": -0.5
-          }
+          "emotion": "Disheartened and persistent",
+          "quote": "Please, Princess, give me a chance.",
+          "rating": -0.5
         }
       ]
     },
@@ -457,20 +403,16 @@
         {
           "name": "Aladdin",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Conflicted and doubtful",
-            "quote": "She'll never like me as I really am.",
-            "rating": -0.5
-          }
+          "emotion": "Conflicted and doubtful",
+          "quote": "She'll never like me as I really am.",
+          "rating": -0.5
         },
         {
           "name": "Genie",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Concerned and advising",
-            "quote": "You just gotta be yourself.",
-            "rating": 0.5
-          }
+          "emotion": "Concerned and advising",
+          "quote": "You just gotta be yourself.",
+          "rating": 0.5
         }
       ]
     },
@@ -491,20 +433,16 @@
         {
           "name": "Aladdin",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Hopeful and genuine",
-            "quote": "Do you trust me?",
-            "rating": 1
-          }
+          "emotion": "Hopeful and genuine",
+          "quote": "Do you trust me?",
+          "rating": 1
         },
         {
           "name": "Jasmine",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Surprised and delighted",
-            "quote": "I've never seen anything like it!",
-            "rating": 1
-          }
+          "emotion": "Surprised and delighted",
+          "quote": "I've never seen anything like it!",
+          "rating": 1
         }
       ]
     },
@@ -525,20 +463,16 @@
         {
           "name": "Jafar",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Devious and determined",
-            "quote": "The lamp will be mine.",
-            "rating": -1
-          }
+          "emotion": "Devious and determined",
+          "quote": "The lamp will be mine.",
+          "rating": -1
         },
         {
           "name": "Iago",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Conspiring and eager",
-            "quote": "Let's snatch it and make you sultan.",
-            "rating": -0.5
-          }
+          "emotion": "Conspiring and eager",
+          "quote": "Let's snatch it and make you sultan.",
+          "rating": -0.5
         }
       ]
     },
@@ -559,20 +493,16 @@
         {
           "name": "Jafar",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Triumphant and malicious",
-            "quote": "I am now the most powerful being on Earth.",
-            "rating": -1
-          }
+          "emotion": "Triumphant and malicious",
+          "quote": "I am now the most powerful being on Earth.",
+          "rating": -1
         },
         {
           "name": "Aladdin",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Defeated and desperate",
-            "quote": "He's got the lamp.",
-            "rating": -1
-          }
+          "emotion": "Defeated and desperate",
+          "quote": "He's got the lamp.",
+          "rating": -1
         }
       ]
     },
@@ -593,29 +523,23 @@
         {
           "name": "Jafar",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Power-hungry and cruel",
-            "quote": "And now, to get rid of you.",
-            "rating": -1
-          }
+          "emotion": "Power-hungry and cruel",
+          "quote": "And now, to get rid of you.",
+          "rating": -1
         },
         {
           "name": "Jasmine",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Anguished and resistant",
-            "quote": "You're a monster, Jafar.",
-            "rating": -1
-          }
+          "emotion": "Anguished and resistant",
+          "quote": "You're a monster, Jafar.",
+          "rating": -1
         },
         {
           "name": "Sultan",
           "importance": 3,
-          "sentiment": {
-            "emotion": "Subdued and powerless",
-            "quote": "Jafar, what have you done?",
-            "rating": -1
-          }
+          "emotion": "Subdued and powerless",
+          "quote": "Jafar, what have you done?",
+          "rating": -1
         }
       ]
     },
@@ -636,20 +560,16 @@
         {
           "name": "Aladdin",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Determined and brave",
-            "quote": "It's time to show Jafar who I really am.",
-            "rating": 1
-          }
+          "emotion": "Determined and brave",
+          "quote": "It's time to show Jafar who I really am.",
+          "rating": 1
         },
         {
           "name": "Jasmine",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Hopeful and supportive",
-            "quote": "Aladdin, you've come back.",
-            "rating": 1
-          }
+          "emotion": "Hopeful and supportive",
+          "quote": "Aladdin, you've come back.",
+          "rating": 1
         }
       ]
     },
@@ -670,29 +590,23 @@
         {
           "name": "Aladdin",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Clever and strategic",
-            "quote": "The only way to have power is to be bound by the lamp.",
-            "rating": 1
-          }
+          "emotion": "Clever and strategic",
+          "quote": "The only way to have power is to be bound by the lamp.",
+          "rating": 1
         },
         {
           "name": "Jafar",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Greedy and overconfident",
-            "quote": "I wish to be the most powerful genie!",
-            "rating": -1
-          }
+          "emotion": "Greedy and overconfident",
+          "quote": "I wish to be the most powerful genie!",
+          "rating": -1
         },
         {
           "name": "Genie",
           "importance": 3,
-          "sentiment": {
-            "emotion": "Relieved and supportive",
-            "quote": "Your wish is my command.",
-            "rating": 0.5
-          }
+          "emotion": "Relieved and supportive",
+          "quote": "Your wish is my command.",
+          "rating": 0.5
         }
       ]
     },
@@ -713,20 +627,16 @@
         {
           "name": "Aladdin",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Selfless and honest",
-            "quote": "I wish for your freedom, Genie.",
-            "rating": 1
-          }
+          "emotion": "Selfless and honest",
+          "quote": "I wish for your freedom, Genie.",
+          "rating": 1
         },
         {
           "name": "Genie",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Joyful and liberated",
-            "quote": "You really mean that, Al?",
-            "rating": 1
-          }
+          "emotion": "Joyful and liberated",
+          "quote": "You really mean that, Al?",
+          "rating": 1
         }
       ]
     },
@@ -747,29 +657,23 @@
         {
           "name": "Aladdin",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Hopeful and in love",
-            "quote": "I want to be with you, Jasmine.",
-            "rating": 1
-          }
+          "emotion": "Hopeful and in love",
+          "quote": "I want to be with you, Jasmine.",
+          "rating": 1
         },
         {
           "name": "Jasmine",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Happy and in love",
-            "quote": "We'll be free to live our own lives.",
-            "rating": 1
-          }
+          "emotion": "Happy and in love",
+          "quote": "We'll be free to live our own lives.",
+          "rating": 1
         },
         {
           "name": "Genie",
           "importance": 3,
-          "sentiment": {
-            "emotion": "Excited and supportive",
-            "quote": "I'm off to see the world!",
-            "rating": 1
-          }
+          "emotion": "Excited and supportive",
+          "quote": "I'm off to see the world!",
+          "rating": 1
         }
       ]
     }
@@ -802,56 +706,64 @@
       "key": "peddler",
       "quote": "I come from a land, from a faraway place where the caravan camels roam. It's barbaric, but hey--it's home.",
       "group": "Others",
-      "color": "rgb(218,165,32)"
+      "color": "rgb(218,165,32)",
+      "explanation": "A goldenrod color, reflecting the exotic and adventurous spirit of a faraway land."
     },
     {
       "character": "Jafar",
       "key": "jafar",
       "quote": "Trust me my pungent friend. You'll get what's coming to you.",
       "group": "Antagonists",
-      "color": "rgb(139,0,0)"
+      "color": "rgb(139,0,0)",
+      "explanation": "A dark red, symbolizing his cunning and dark nature."
     },
     {
       "character": "Iago",
       "key": "iago",
       "quote": "Oh, there's a big surprise! That's an incred--I think I'm gonna have a heart attack and die from not surprise!",
       "group": "Antagonists",
-      "color": "rgb(255,140,0)"
+      "color": "rgb(255,140,0)",
+      "explanation": "A bright, slightly burnt orange, capturing his sarcastic and fiery temperament."
     },
     {
       "character": "Aladdin",
       "key": "aladdin",
       "quote": "All this for a loaf of bread?",
       "group": "Protagonists",
-      "color": "rgb(135,206,235)"
+      "color": "rgb(135,206,235)",
+      "explanation": "A vibrant sky blue, representing his hopes and aspirations."
     },
     {
       "character": "Abu",
       "key": "abu",
       "quote": "Hello!",
       "group": "Protagonists",
-      "color": "rgb(255,195,0)"
+      "color": "rgb(255,195,0)",
+      "explanation": "An amber yellow, reflecting his energetic and mischievous nature."
     },
     {
       "character": "Jasmine",
       "key": "jasmine",
       "quote": "Father, I hate being forced into this. If I do marry, I want it to be for love.",
       "group": "Protagonists",
-      "color": "rgb(153,50,204)"
+      "color": "rgb(153,50,204)",
+      "explanation": "A soft, royal purple, suggesting nobility and a gentle heart."
     },
     {
       "character": "Sultan",
       "key": "sultan",
       "quote": "Jasmine, you're a princess.",
       "group": "Protagonists",
-      "color": "rgb(107,142,35)"
+      "color": "rgb(107,142,35)",
+      "explanation": "A soothing, light olive green, symbolizing wisdom and benevolence."
     },
     {
       "character": "Genie",
       "key": "genie",
       "quote": "Ten-thousand years will give ya such a crick in the neck!",
       "group": "Protagonists",
-      "color": "rgb(0,255,255)"
+      "color": "rgb(0,255,255)",
+      "explanation": "A bright, electric cyan, capturing his limitless energy and vibrant presence."
     },
     {
       "character": "Cave of Wonders",
@@ -859,7 +771,8 @@
       "key": "cave",
       "quote": "Who disturbs my slumber?",
       "group": "Others",
-      "color": "rgb(8,37,103)"
+      "color": "rgb(8,37,103)",
+      "explanation": "A deep sapphire blue, evoking mystery and depth."
     }
   ]
 }

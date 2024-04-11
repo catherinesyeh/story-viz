@@ -26,11 +26,9 @@ const chunkQuote = (quote: string, chunk_size: number) => {
 export interface Character {
   name: string;
   importance: number;
-  sentiment: {
-    emotion: string;
-    quote: string;
-    rating: string;
-  };
+  emotion: string;
+  quote: string;
+  rating: string;
 }
 
 export interface Scene {
@@ -60,6 +58,12 @@ export interface CharacterData {
   quote: string;
   group: string;
   color: string;
+  explanation: string[] | string;
+}
+
+export interface ColorQuote {
+  character: string;
+  quote: string[];
 }
 
 export interface LocationQuote {
@@ -150,8 +154,18 @@ const scene_data = (all_data: any): Scene[] => {
 };
 
 const location_data = (all_data: any): LocationData[] => all_data["locations"];
-const character_data = (all_data: any): CharacterData[] =>
-  all_data["characters"];
+const character_data = (all_data: any): CharacterData[] => {
+  const characters = all_data["characters"];
+
+  // replace explanation with a chunked version of the explanation
+  characters.forEach((character: CharacterData) => {
+    if (!Array.isArray(character.explanation)) {
+      character.explanation = chunkQuote(character.explanation as string, 92);
+    }
+  });
+
+  return characters;
+};
 
 /* LOCATION DATA */
 // get all locations by finding unique location values
@@ -364,10 +378,7 @@ const sceneSummaries = (
     // save in a dictionary with character name as key
     const chunk_size = 117;
     const chunkedEmotions = scene.characters.map((character) => {
-      const chunked = chunkQuote(
-        '"' + character.sentiment.quote + '"',
-        chunk_size
-      );
+      const chunked = chunkQuote('"' + character.quote + '"', chunk_size);
       return { character: character.name, emotion_quote: chunked };
     });
 
@@ -408,6 +419,8 @@ export const getAllData = (init_data: any) => {
   const init_scene_data = scene_data(init_data);
   const init_location_data = location_data(init_data);
   const init_character_data = character_data(init_data);
+
+  console.log(init_character_data);
 
   const init_locations = locations(init_scene_data);
   const init_location_quotes = location_quotes(

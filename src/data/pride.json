@@ -22,20 +22,16 @@
         {
           "name": "Mrs. Bennet",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Excited and Anticipatory",
-            "quote": "'have you heard that Netherfield Park is let at last?'",
-            "rating": 0.8
-          }
+          "emotion": "Excited and Anticipatory",
+          "quote": "'have you heard that Netherfield Park is let at last?'",
+          "rating": 0.8
         },
         {
           "name": "Mr. Bennet",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Indifferent and Teasing",
-            "quote": "'You want to tell me, and I have no objection to hearing it.'",
-            "rating": 0
-          }
+          "emotion": "Indifferent and Teasing",
+          "quote": "'You want to tell me, and I have no objection to hearing it.'",
+          "rating": 0
         }
       ]
     },
@@ -56,38 +52,30 @@
         {
           "name": "Jane Bennet",
           "importance": 3,
-          "sentiment": {
-            "emotion": "Pleased and Grateful",
-            "quote": "'He is just what a young man ought to be,'",
-            "rating": 0.8
-          }
+          "emotion": "Pleased and Grateful",
+          "quote": "'He is just what a young man ought to be,'",
+          "rating": 0.8
         },
         {
           "name": "Elizabeth Bennet",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Offended and Amused",
-            "quote": "'Mr. Darcy walked off; and Elizabeth remained with no very cordial feelings toward him.'",
-            "rating": -0.5
-          }
+          "emotion": "Offended and Amused",
+          "quote": "'Mr. Darcy walked off; and Elizabeth remained with no very cordial feelings toward him.'",
+          "rating": -0.5
         },
         {
           "name": "Mr. Bingley",
           "importance": 4,
-          "sentiment": {
-            "emotion": "Charmed and Enthusiastic",
-            "quote": "'Oh! She is the most beautiful creature I ever beheld!'",
-            "rating": 1
-          }
+          "emotion": "Charmed and Enthusiastic",
+          "quote": "'Oh! She is the most beautiful creature I ever beheld!'",
+          "rating": 1
         },
         {
           "name": "Mr. Darcy",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Disinterested and Proud",
-            "quote": "'She is tolerable, but not handsome enough to tempt me.'",
-            "rating": -1
-          }
+          "emotion": "Disinterested and Proud",
+          "quote": "'She is tolerable, but not handsome enough to tempt me.'",
+          "rating": -1
         }
       ]
     },
@@ -108,29 +96,23 @@
         {
           "name": "Jane Bennet",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Unwell and Grateful",
-            "quote": "'...which, I suppose, is to be imputed to my getting wet through yesterday.'",
-            "rating": -0.5
-          }
+          "emotion": "Unwell and Grateful",
+          "quote": "'...which, I suppose, is to be imputed to my getting wet through yesterday.'",
+          "rating": -0.5
         },
         {
           "name": "Elizabeth Bennet",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Concerned and Determined",
-            "quote": "'Elizabeth was glad to be taken to her immediately;'",
-            "rating": 0.2
-          }
+          "emotion": "Concerned and Determined",
+          "quote": "'Elizabeth was glad to be taken to her immediately;'",
+          "rating": 0.2
         },
         {
           "name": "Mr. Bingley",
           "importance": 3,
-          "sentiment": {
-            "emotion": "Worried and Hospitable",
-            "quote": "'Bingley urged Mr. Jones's being sent for immediately;'",
-            "rating": 0.5
-          }
+          "emotion": "Worried and Hospitable",
+          "quote": "'Bingley urged Mr. Jones's being sent for immediately;'",
+          "rating": 0.5
         }
       ]
     },
@@ -151,29 +133,23 @@
         {
           "name": "Elizabeth Bennet",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Amused and Resilient",
-            "quote": "'I deserve neither such praise nor such censure;'",
-            "rating": 0.5
-          }
+          "emotion": "Amused and Resilient",
+          "quote": "'I deserve neither such praise nor such censure;'",
+          "rating": 0.5
         },
         {
           "name": "Mr. Darcy",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Intrigued and Challenged",
-            "quote": "'Mr. Darcy replied with great intrepidity,'",
-            "rating": 0.4
-          }
+          "emotion": "Intrigued and Challenged",
+          "quote": "'Mr. Darcy replied with great intrepidity,'",
+          "rating": 0.4
         },
         {
           "name": "Miss Bingley",
           "importance": 3,
-          "sentiment": {
-            "emotion": "Jealous and Disparaging",
-            "quote": "'She has nothing, in short, to recommend her, but being an excellent walker.'",
-            "rating": -0.8
-          }
+          "emotion": "Jealous and Disparaging",
+          "quote": "'She has nothing, in short, to recommend her, but being an excellent walker.'",
+          "rating": -0.8
         }
       ]
     },
@@ -194,20 +170,16 @@
         {
           "name": "Elizabeth Bennet",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Dismayed and Resolute",
-            "quote": "'I am very sensible of the honour of your proposals, but it is impossible for me to do otherwise than decline them.'",
-            "rating": -1
-          }
+          "emotion": "Dismayed and Resolute",
+          "quote": "'I am very sensible of the honour of your proposals, but it is impossible for me to do otherwise than decline them.'",
+          "rating": -1
         },
         {
           "name": "Mr. Collins",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Pompous and Presumptuous",
-            "quote": "'My reasons for marrying are, first...'",
-            "rating": -0.5
-          }
+          "emotion": "Pompous and Presumptuous",
+          "quote": "'My reasons for marrying are, first...'",
+          "rating": -0.5
         }
       ]
     },
@@ -228,29 +200,23 @@
         {
           "name": "Elizabeth Bennet",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Embarrassed and Frustrated",
-            "quote": "'I am perfectly ready, I assure you, to keep my engagement; and when your sister is recovered, you shall, if you please, name the very day of the ball.'",
-            "rating": -0.6
-          }
+          "emotion": "Embarrassed and Frustrated",
+          "quote": "'I am perfectly ready, I assure you, to keep my engagement; and when your sister is recovered, you shall, if you please, name the very day of the ball.'",
+          "rating": -0.6
         },
         {
           "name": "Mr. Darcy",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Conflicted and Attracted",
-            "quote": "'In vain I have struggled. It will not do. My feelings will not be repressed. You must allow me to tell you how ardently I admire and love you.'",
-            "rating": -0.4
-          }
+          "emotion": "Conflicted and Attracted",
+          "quote": "'In vain I have struggled. It will not do. My feelings will not be repressed. You must allow me to tell you how ardently I admire and love you.'",
+          "rating": -0.4
         },
         {
           "name": "Mrs. Bennet",
           "importance": 3,
-          "sentiment": {
-            "emotion": "Proud and Unaware",
-            "quote": "'Oh! my dear Mr. Bennet,' she cried, 'we have had a most delightful evening, a most excellent ball. I wish you had been there.'",
-            "rating": 0.4
-          }
+          "emotion": "Proud and Unaware",
+          "quote": "'Oh! my dear Mr. Bennet,' she cried, 'we have had a most delightful evening, a most excellent ball. I wish you had been there.'",
+          "rating": 0.4
         }
       ]
     },
@@ -271,20 +237,16 @@
         {
           "name": "Elizabeth Bennet",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Angry and Resolute",
-            "quote": "'You are the last man in the world whom I could ever be prevailed on to marry.'",
-            "rating": -1
-          }
+          "emotion": "Angry and Resolute",
+          "quote": "'You are the last man in the world whom I could ever be prevailed on to marry.'",
+          "rating": -1
         },
         {
           "name": "Mr. Darcy",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Surprised and Humiliated",
-            "quote": "'You have said quite enough, madam. I perfectly comprehend your feelings.'",
-            "rating": -1
-          }
+          "emotion": "Surprised and Humiliated",
+          "quote": "'You have said quite enough, madam. I perfectly comprehend your feelings.'",
+          "rating": -1
         }
       ]
     },
@@ -305,20 +267,16 @@
         {
           "name": "Elizabeth Bennet",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Shocked and Reflective",
-            "quote": "'She grew absolutely ashamed of herself. Of neither Darcy nor Wickham could she think, without feeling that she had been blind.'",
-            "rating": 0
-          }
+          "emotion": "Shocked and Reflective",
+          "quote": "'She grew absolutely ashamed of herself. Of neither Darcy nor Wickham could she think, without feeling that she had been blind.'",
+          "rating": 0
         },
         {
           "name": "Mr. Darcy",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Anxious and Hopeful",
-            "quote": "'I write without any intention of paining you, or humbling myself, by dwelling on wishes which, for the happiness of both, cannot be too soon forgotten.'",
-            "rating": 0.2
-          }
+          "emotion": "Anxious and Hopeful",
+          "quote": "'I write without any intention of paining you, or humbling myself, by dwelling on wishes which, for the happiness of both, cannot be too soon forgotten.'",
+          "rating": 0.2
         }
       ]
     },
@@ -339,29 +297,23 @@
         {
           "name": "Elizabeth Bennet",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Distressed and Concerned",
-            "quote": "'Oh, where, where is my uncle?'",
-            "rating": -1
-          }
+          "emotion": "Distressed and Concerned",
+          "quote": "'Oh, where, where is my uncle?'",
+          "rating": -1
         },
         {
           "name": "Lydia Bennet",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Reckless and Unaware",
-            "quote": "'Lydia declared herself satisfied.'",
-            "rating": -0.8
-          }
+          "emotion": "Reckless and Unaware",
+          "quote": "'Lydia declared herself satisfied.'",
+          "rating": -0.8
         },
         {
           "name": "Mr. Wickham",
           "importance": 3,
-          "sentiment": {
-            "emotion": "Deceptive and Calculating",
-            "quote": "'Wickham will never marry a woman without some money.'",
-            "rating": -1
-          }
+          "emotion": "Deceptive and Calculating",
+          "quote": "'Wickham will never marry a woman without some money.'",
+          "rating": -1
         }
       ]
     },
@@ -382,20 +334,16 @@
         {
           "name": "Elizabeth Bennet",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Grateful and Admiring",
-            "quote": "'Elizabeth was too much embarrassed to say a word.'",
-            "rating": 0.5
-          }
+          "emotion": "Grateful and Admiring",
+          "quote": "'Elizabeth was too much embarrassed to say a word.'",
+          "rating": 0.5
         },
         {
           "name": "Mr. Darcy",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Generous and Reserved",
-            "quote": "'Mr. Darcy was writing, and Miss Bingley, seated near him, was watching the progress of his letter.'",
-            "rating": 0.6
-          }
+          "emotion": "Generous and Reserved",
+          "quote": "'Mr. Darcy was writing, and Miss Bingley, seated near him, was watching the progress of his letter.'",
+          "rating": 0.6
         }
       ]
     },
@@ -416,20 +364,16 @@
         {
           "name": "Elizabeth Bennet",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Admiring and Reflective",
-            "quote": "'And at that moment, she felt that to be mistress of Pemberley might be something!'",
-            "rating": 0.8
-          }
+          "emotion": "Admiring and Reflective",
+          "quote": "'And at that moment, she felt that to be mistress of Pemberley might be something!'",
+          "rating": 0.8
         },
         {
           "name": "Mr. Darcy",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Absent but Influential",
-            "quote": "'Elizabeth was delighted. He had never been so kind, so very kind, as he was on this occasion.'",
-            "rating": 0.7
-          }
+          "emotion": "Absent but Influential",
+          "quote": "'Elizabeth was delighted. He had never been so kind, so very kind, as he was on this occasion.'",
+          "rating": 0.7
         }
       ]
     },
@@ -450,20 +394,16 @@
         {
           "name": "Elizabeth Bennet",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Joyful and Content",
-            "quote": "'My feelings are so different. In fact, they are quite the opposite.'",
-            "rating": 1
-          }
+          "emotion": "Joyful and Content",
+          "quote": "'My feelings are so different. In fact, they are quite the opposite.'",
+          "rating": 1
         },
         {
           "name": "Mr. Darcy",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Hopeful and Affectionate",
-            "quote": "'My affections and wishes are unchanged, but one word from you will silence me on this subject forever.'",
-            "rating": 1
-          }
+          "emotion": "Hopeful and Affectionate",
+          "quote": "'My affections and wishes are unchanged, but one word from you will silence me on this subject forever.'",
+          "rating": 1
         }
       ]
     },
@@ -484,20 +424,16 @@
         {
           "name": "Elizabeth Bennet",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Defiant and Resolute",
-            "quote": "'You have no right to demand such a thing.'",
-            "rating": -1
-          }
+          "emotion": "Defiant and Resolute",
+          "quote": "'You have no right to demand such a thing.'",
+          "rating": -1
         },
         {
           "name": "Lady Catherine",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Outraged and Imperious",
-            "quote": "'Are the shades of Pemberley to be thus polluted?'",
-            "rating": -1
-          }
+          "emotion": "Outraged and Imperious",
+          "quote": "'Are the shades of Pemberley to be thus polluted?'",
+          "rating": -1
         }
       ]
     },
@@ -518,29 +454,23 @@
         {
           "name": "Elizabeth Bennet",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Joyful and Confident",
-            "quote": "'I am, I am very sure that I will be very happy.'",
-            "rating": 1
-          }
+          "emotion": "Joyful and Confident",
+          "quote": "'I am, I am very sure that I will be very happy.'",
+          "rating": 1
         },
         {
           "name": "Mr. Darcy",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Content and Accepted",
-            "quote": "'I thank you, sir, for your warm acceptance of me.'",
-            "rating": 1
-          }
+          "emotion": "Content and Accepted",
+          "quote": "'I thank you, sir, for your warm acceptance of me.'",
+          "rating": 1
         },
         {
           "name": "Mr. Bennet",
           "importance": 3,
-          "sentiment": {
-            "emotion": "Surprised and Reflective",
-            "quote": "'If this be the case, he deserves you. I could not have parted with you, my Lizzy, to anyone less worthy.'",
-            "rating": 0.8
-          }
+          "emotion": "Surprised and Reflective",
+          "quote": "'If this be the case, he deserves you. I could not have parted with you, my Lizzy, to anyone less worthy.'",
+          "rating": 0.8
         }
       ]
     },
@@ -561,20 +491,16 @@
         {
           "name": "Elizabeth Bennet",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Reflective and Hopeful",
-            "quote": "It was a journey of only twenty-four miles, and they began it so early as to be in Gracechurch Street by noon.",
-            "rating": 1
-          }
+          "emotion": "Reflective and Hopeful",
+          "quote": "It was a journey of only twenty-four miles, and they began it so early as to be in Gracechurch Street by noon.",
+          "rating": 1
         },
         {
           "name": "Mr. Darcy",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Gratified and Affectionate",
-            "quote": "Darcy was delighted with their engagement; his affection for Elizabeth most forcibly struck him.",
-            "rating": 1
-          }
+          "emotion": "Gratified and Affectionate",
+          "quote": "Darcy was delighted with their engagement; his affection for Elizabeth most forcibly struck him.",
+          "rating": 1
         }
       ]
     }
@@ -617,77 +543,88 @@
       "key": "elizabeth",
       "quote": "Elizabeth, as they drove along, watched for the first appearance of Pemberley Woods with some perturbation;",
       "group": "Bennet Family",
-      "color": "rgb(78, 105, 76)"
+      "color": "rgb(78, 105, 76)",
+      "explanation": "A deep, earthy green that's lively yet has an element of depth, capturing her complex emotions and connection to nature."
     },
     {
       "character": "Mr. Darcy",
       "key": "darcy",
       "quote": "Darcy was delighted with their engagement; his affection for Elizabeth most forcibly struck him.",
       "group": "Pemberley Residents",
-      "color": "rgb(34, 49, 63)"
+      "color": "rgb(34, 49, 63)",
+      "explanation": "A rich navy blue, symbolizing depth, trust, and intelligence."
     },
     {
       "character": "Miss Bingley",
       "key": "missbingley",
       "quote": "His sisters were fine women, with an air of decided fashion.",
       "group": "Netherfield Park Residents",
-      "color": "rgb(183, 31, 95)"
+      "color": "rgb(183, 31, 95)",
+      "explanation": "A stylish, bold magenta, reflecting her striking personality and fashionable demeanor."
     },
     {
       "character": "Jane Bennet",
       "key": "jane",
       "quote": "She was a sweet girl, and I wish with all my heart she were well settled.",
       "group": "Bennet Family",
-      "color": "rgb(241, 233, 218)"
+      "color": "rgb(241, 233, 218)",
+      "explanation": "A soft, warm cream color, evoking purity, kindness, and a gentle heart."
     },
     {
       "character": "Mr. Bingley",
       "key": "bingley",
       "quote": "He is just what a young man ought to be.",
       "group": "Netherfield Park Residents",
-      "color": "rgb(135, 206, 235)"
+      "color": "rgb(135, 206, 235)",
+      "explanation": "A cheerful, light sky blue matches his optimistic and pleasant nature."
     },
     {
       "character": "Mrs. Bennet",
       "key": "mrsbennet",
       "quote": "The business of her life was to get her daughters married.",
       "group": "Bennet Family",
-      "color": "rgb(255, 105, 180)"
+      "color": "rgb(255, 105, 180)",
+      "explanation": "A vibrant, almost overly enthusiastic pink, reflecting her constant energy and single-minded pursuit."
     },
     {
       "character": "Mr. Bennet",
       "key": "mrbennet",
       "quote": "Mr. Bennet was so odd a mixture of quick parts, sarcastic humour, reserve, and caprice.",
       "group": "Bennet Family",
-      "color": "rgb(112, 128, 144)"
+      "color": "rgb(112, 128, 144)",
+      "explanation": "A sophisticated, slightly ironic slate gray, combining his complexity with a cool detachment."
     },
     {
       "character": "Lydia Bennet",
       "key": "lydia",
       "quote": "Lydia, with perfect indifference, continued to express her admiration of Captain Carter.",
       "group": "Bennet Family",
-      "color": "rgb(255, 127, 80)"
+      "color": "rgb(255, 127, 80)",
+      "explanation": "A bold, youthful coral, lively and attention-grabbing, much like Lydia herself."
     },
     {
       "character": "Lady Catherine",
       "key": "ladycatherine",
       "quote": "Are the shades of Pemberley to be thus polluted?",
       "group": "Rosings Park Residents",
-      "color": "rgb(75, 0, 130)"
+      "color": "rgb(75, 0, 130)",
+      "explanation": "A royal, imperious purple, commanding and imposing, much like Lady Catherine herself."
     },
     {
       "character": "Mr. Wickham",
       "key": "wickham",
       "quote": "Wickham will never marry a woman without some money.",
       "group": "Meryton Residents",
-      "color": "rgb(212, 175, 55)"
+      "color": "rgb(212, 175, 55)",
+      "explanation": "A gold tinged with a hint of brass reflects his allure and underlying motives."
     },
     {
       "character": "Mr. Collins",
       "key": "collins",
       "quote": "'My dear Miss Elizabeth, I have the highest opinion in the world of your excellent judgment in all matters within the scope of your understanding,'",
       "group": "Hunsford Residents",
-      "color": "rgb(128, 128, 0)"
+      "color": "rgb(128, 128, 0)",
+      "explanation": "A muted olive, practical yet eager to please, much like Collins himself."
     }
   ]
 }

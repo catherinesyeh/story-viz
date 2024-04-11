@@ -22,20 +22,16 @@
         {
           "name": "Benvolio",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Peacemaking",
-            "quote": "I do but keep the peace. Put up thy sword, Or manage it to part these men with me.",
-            "rating": 0.5
-          }
+          "emotion": "Peacemaking",
+          "quote": "I do but keep the peace. Put up thy sword, Or manage it to part these men with me.",
+          "rating": 0.5
         },
         {
           "name": "Tybalt",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Aggressive and Hostile",
-            "quote": "What, drawn, and talk of peace? I hate the word, As I hate hell, all Montagues, and thee.",
-            "rating": -1
-          }
+          "emotion": "Aggressive and Hostile",
+          "quote": "What, drawn, and talk of peace? I hate the word, As I hate hell, all Montagues, and thee.",
+          "rating": -1
         }
       ]
     },
@@ -56,20 +52,16 @@
         {
           "name": "Romeo",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Enamored and Awestruck",
-            "quote": "O, she doth teach the torches to burn bright!",
-            "rating": 1
-          }
+          "emotion": "Enamored and Awestruck",
+          "quote": "O, she doth teach the torches to burn bright!",
+          "rating": 1
         },
         {
           "name": "Juliet",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Intrigued and Smitten",
-            "quote": "My only love sprung from my only hate! Too early seen unknown, and known too late!",
-            "rating": 1
-          }
+          "emotion": "Intrigued and Smitten",
+          "quote": "My only love sprung from my only hate! Too early seen unknown, and known too late!",
+          "rating": 1
         }
       ]
     },
@@ -90,20 +82,16 @@
         {
           "name": "Romeo",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Passionate and Hopeful",
-            "quote": "With love's light wings did I o'erperch these walls;",
-            "rating": 1
-          }
+          "emotion": "Passionate and Hopeful",
+          "quote": "With love's light wings did I o'erperch these walls;",
+          "rating": 1
         },
         {
           "name": "Juliet",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Determined and Loving",
-            "quote": "And all my fortunes at thy foot I'll lay And follow thee my lord throughout the world.",
-            "rating": 1
-          }
+          "emotion": "Determined and Loving",
+          "quote": "And all my fortunes at thy foot I'll lay And follow thee my lord throughout the world.",
+          "rating": 1
         }
       ]
     },
@@ -124,20 +112,16 @@
         {
           "name": "Romeo",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Eager and Hopeful",
-            "quote": "Then plainly know my heart's dear love is set On the fair daughter of rich Capulet.",
-            "rating": 1
-          }
+          "emotion": "Eager and Hopeful",
+          "quote": "Then plainly know my heart's dear love is set On the fair daughter of rich Capulet.",
+          "rating": 1
         },
         {
           "name": "Friar Laurence",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Concerned yet Hopeful",
-            "quote": "In one respect I'll thy assistant be; For this alliance may so happy prove, To turn your households' rancour to pure love.",
-            "rating": 0.5
-          }
+          "emotion": "Concerned yet Hopeful",
+          "quote": "In one respect I'll thy assistant be; For this alliance may so happy prove, To turn your households' rancour to pure love.",
+          "rating": 0.5
         }
       ]
     },
@@ -158,20 +142,16 @@
         {
           "name": "Tybalt",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Aggressive and Provocative",
-            "quote": "This intrusion shall, Now seeming sweet, convert to bitt'rest gall.",
-            "rating": -1
-          }
+          "emotion": "Aggressive and Provocative",
+          "quote": "This intrusion shall, Now seeming sweet, convert to bitt'rest gall.",
+          "rating": -1
         },
         {
           "name": "Benvolio",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Worried",
-            "quote": "Tybalt, the kinsman to old Capulet, Hath sent a letter to his father's house.",
-            "rating": -0.5
-          }
+          "emotion": "Worried",
+          "quote": "Tybalt, the kinsman to old Capulet, Hath sent a letter to his father's house.",
+          "rating": -0.5
         }
       ]
     },
@@ -192,29 +172,23 @@
         {
           "name": "Romeo",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Joyful and Hopeful",
-            "quote": "Ah, Juliet, if the measure of thy joy Be heap'd like mine, and that thy skill be more To blazon it, then sweeten with thy breath This neighbour air.",
-            "rating": 1
-          }
+          "emotion": "Joyful and Hopeful",
+          "quote": "Ah, Juliet, if the measure of thy joy Be heap'd like mine, and that thy skill be more To blazon it, then sweeten with thy breath This neighbour air.",
+          "rating": 1
         },
         {
           "name": "Juliet",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Blissful and Loving",
-            "quote": "Conceit, more rich in matter than in words, Brags of his substance, not of ornament. They are but beggars that can count their worth; But my true love is grown to such excess, I cannot sum up sum of half my wealth.",
-            "rating": 1
-          }
+          "emotion": "Blissful and Loving",
+          "quote": "Conceit, more rich in matter than in words, Brags of his substance, not of ornament. They are but beggars that can count their worth; But my true love is grown to such excess, I cannot sum up sum of half my wealth.",
+          "rating": 1
         },
         {
           "name": "Friar Laurence",
           "importance": 3,
-          "sentiment": {
-            "emotion": "Hopeful yet Cautious",
-            "quote": "These violent delights have violent ends And in their triumph die, like fire and powder, Which, as they kiss, consume.",
-            "rating": 0.5
-          }
+          "emotion": "Hopeful yet Cautious",
+          "quote": "These violent delights have violent ends And in their triumph die, like fire and powder, Which, as they kiss, consume.",
+          "rating": 0.5
         }
       ]
     },
@@ -235,29 +209,23 @@
         {
           "name": "Mercutio",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Mocking yet Cursed",
-            "quote": "A plague o' both your houses!",
-            "rating": -1
-          }
+          "emotion": "Mocking yet Cursed",
+          "quote": "A plague o' both your houses!",
+          "rating": -1
         },
         {
           "name": "Tybalt",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Hostile and Provoking",
-            "quote": "Mercutio, thou consort'st with Romeo.",
-            "rating": -1
-          }
+          "emotion": "Hostile and Provoking",
+          "quote": "Mercutio, thou consort'st with Romeo.",
+          "rating": -1
         },
         {
           "name": "Romeo",
           "importance": 3,
-          "sentiment": {
-            "emotion": "Anguished and Vengeful",
-            "quote": "This day's black fate on more days doth depend; This but begins the woe others must end.",
-            "rating": -1
-          }
+          "emotion": "Anguished and Vengeful",
+          "quote": "This day's black fate on more days doth depend; This but begins the woe others must end.",
+          "rating": -1
         }
       ]
     },
@@ -278,11 +246,9 @@
         {
           "name": "Romeo",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Vengeful and Regretful",
-            "quote": "O, I am fortune's fool!",
-            "rating": -1
-          }
+          "emotion": "Vengeful and Regretful",
+          "quote": "O, I am fortune's fool!",
+          "rating": -1
         }
       ]
     },
@@ -303,11 +269,9 @@
         {
           "name": "Prince Escalus",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Stern and Judicial",
-            "quote": "Immediately we do exile him hence.",
-            "rating": -1
-          }
+          "emotion": "Stern and Judicial",
+          "quote": "Immediately we do exile him hence.",
+          "rating": -1
         }
       ]
     },
@@ -328,11 +292,9 @@
         {
           "name": "Juliet",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Yearning then Despairing",
-            "quote": "O serpent heart, hid with a flow'ring face!",
-            "rating": -1
-          }
+          "emotion": "Yearning then Despairing",
+          "quote": "O serpent heart, hid with a flow'ring face!",
+          "rating": -1
         }
       ]
     },
@@ -353,20 +315,16 @@
         {
           "name": "Friar Laurence",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Innovative yet Cautious",
-            "quote": "Hold, daughter. I do spy a kind of hope, Which craves as desperate an execution As that is desperate which we would prevent.",
-            "rating": 0.5
-          }
+          "emotion": "Innovative yet Cautious",
+          "quote": "Hold, daughter. I do spy a kind of hope, Which craves as desperate an execution As that is desperate which we would prevent.",
+          "rating": 0.5
         },
         {
           "name": "Juliet",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Desperate and Determined",
-            "quote": "Give me, give me! O, tell not me of fear!",
-            "rating": -0.5
-          }
+          "emotion": "Desperate and Determined",
+          "quote": "Give me, give me! O, tell not me of fear!",
+          "rating": -0.5
         }
       ]
     },
@@ -387,11 +345,9 @@
         {
           "name": "Juliet",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Fearful yet Resolute",
-            "quote": "Romeo, Romeo, Romeo! Here's drink. I drink to thee.",
-            "rating": -0.5
-          }
+          "emotion": "Fearful yet Resolute",
+          "quote": "Romeo, Romeo, Romeo! Here's drink. I drink to thee.",
+          "rating": -0.5
         }
       ]
     },
@@ -412,11 +368,9 @@
         {
           "name": "Romeo",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Devastated and Impulsive",
-            "quote": "Well, Juliet, I will lie with thee to-night. Let's see for means.",
-            "rating": -1
-          }
+          "emotion": "Devastated and Impulsive",
+          "quote": "Well, Juliet, I will lie with thee to-night. Let's see for means.",
+          "rating": -1
         }
       ]
     },
@@ -437,20 +391,16 @@
         {
           "name": "Romeo",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Heartbroken and Resigned",
-            "quote": "Here's to my love! [Drinks.] O true apothecary! Thy drugs are quick. Thus with a kiss I die.",
-            "rating": -1
-          }
+          "emotion": "Heartbroken and Resigned",
+          "quote": "Here's to my love! [Drinks.] O true apothecary! Thy drugs are quick. Thus with a kiss I die.",
+          "rating": -1
         },
         {
           "name": "Juliet",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Unconscious",
-            "quote": "",
-            "rating": 0
-          }
+          "emotion": "Unconscious",
+          "quote": "",
+          "rating": 0
         }
       ]
     },
@@ -471,11 +421,9 @@
         {
           "name": "Juliet",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Desolate and Determined",
-            "quote": "This is thy sheath; there rust, and let me die.",
-            "rating": -1
-          }
+          "emotion": "Desolate and Determined",
+          "quote": "This is thy sheath; there rust, and let me die.",
+          "rating": -1
         }
       ]
     },
@@ -496,29 +444,23 @@
         {
           "name": "Prince Escalus",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Authoritative and Solemn",
-            "quote": "Seal up the mouth of outrage for a while, Till we can clear these ambiguities",
-            "rating": -0.5
-          }
+          "emotion": "Authoritative and Solemn",
+          "quote": "Seal up the mouth of outrage for a while, Till we can clear these ambiguities",
+          "rating": -0.5
         },
         {
           "name": "Capulet",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Grieving and Regretful",
-            "quote": "O brother Montague, give me thy hand.",
-            "rating": -1
-          }
+          "emotion": "Grieving and Regretful",
+          "quote": "O brother Montague, give me thy hand.",
+          "rating": -1
         },
         {
           "name": "Montague",
           "importance": 3,
-          "sentiment": {
-            "emotion": "Grieving and Reflective",
-            "quote": "I will raise her statue in pure gold;",
-            "rating": -1
-          }
+          "emotion": "Grieving and Reflective",
+          "quote": "I will raise her statue in pure gold;",
+          "rating": -1
         }
       ]
     }
@@ -561,63 +503,72 @@
       "key": "romeo",
       "quote": "O, I am fortune's fool!",
       "group": "Main Characters",
-      "color": "rgb(207, 0, 15)"
+      "color": "rgb(207, 0, 15)",
+      "explanation": "A deep, passionate red can represent his love and the bloodshed in his story."
     },
     {
       "character": "Juliet",
       "key": "juliet",
       "quote": "O happy dagger! This is thy sheath; there rust, and let me die.",
       "group": "Main Characters",
-      "color": "rgb(233, 30, 99)"
+      "color": "rgb(233, 30, 99)",
+      "explanation": "A soft, yet poignant, rose pink embodies her innocence and the depth of her love."
     },
     {
       "character": "Mercutio",
       "key": "mercutio",
       "quote": "A plague o' both your houses!",
       "group": "Supporting Characters",
-      "color": "rgb(255, 87, 34)"
+      "color": "rgb(255, 87, 34)",
+      "explanation": "A bold, fiery orange, symbolizing his dynamic presence and the chaos he foretells."
     },
     {
       "character": "Tybalt",
       "key": "tybalt",
       "quote": "Mercutio, thou consort'st with Romeo.",
       "group": "Supporting Characters",
-      "color": "rgb(123, 31, 162)"
+      "color": "rgb(123, 31, 162)",
+      "explanation": "A dark, brooding maroon captures his aggression and the blood he spills."
     },
     {
       "character": "Friar Laurence",
       "key": "friar-laurence",
       "quote": "Hold, daughter. I do spy a kind of hope, Which craves as desperate an execution As that is desperate which we would prevent.",
       "group": "Supporting Characters",
-      "color": "rgb(56, 142, 60)"
+      "color": "rgb(56, 142, 60)",
+      "explanation": "A sage green suggests his connection to the earth and the mixed outcomes of his interventions."
     },
     {
       "character": "Benvolio",
       "key": "benvolio",
       "quote": "Tybalt, the kinsman to old Capulet, Hath sent a letter to his father's house.",
       "group": "Supporting Characters",
-      "color": "rgb(3, 169, 244)"
+      "color": "rgb(3, 169, 244)",
+      "explanation": "A calming sky blue, reflecting his efforts to bring peace among turbulent emotions and events."
     },
     {
       "character": "Prince Escalus",
       "key": "prince-escalus",
       "quote": "Immediately we do exile him hence.",
       "group": "Supporting Characters",
-      "color": "rgb(13, 71, 161)"
+      "color": "rgb(13, 71, 161)",
+      "explanation": "A deep navy blue symbolizes his authoritative role and the somber duties he performs."
     },
     {
       "character": "Capulet",
       "key": "capulet",
       "quote": "O brother Montague, give me thy hand.",
       "group": "Family Heads",
-      "color": "rgb(173, 20, 87)"
+      "color": "rgb(173, 20, 87)",
+      "explanation": "A rich burgundy conveys his deep-rooted connections and eventual turn towards reconciliation."
     },
     {
       "character": "Montague",
       "key": "montague",
       "quote": "Alas, my liege, my wife is dead to-night; Grief of my son's exile hath stopp'd her breath.",
       "group": "Family Heads",
-      "color": "rgb(96, 125, 139)"
+      "color": "rgb(96, 125, 139)",
+      "explanation": "A subdued grey-blue captures his sorrow and the shadow of death that hangs over his family."
     }
   ]
 }

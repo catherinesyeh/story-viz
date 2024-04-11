@@ -51,6 +51,8 @@ interface IStore {
   locationQuoteTexts: Position[][];
   characterQuoteBoxes: Box[];
   characterQuoteTexts: Position[][];
+  colorQuoteBoxes: Box[];
+  colorQuoteTexts: Position[][];
   sceneSummaryBoxes: SceneSummaryBox[];
   sceneSummaryTexts: SceneSummaryText[];
   colorBarPos: Box[];
@@ -89,6 +91,8 @@ const initialState = {
   locationQuoteTexts: init_pos_values.locationQuoteTexts,
   characterQuoteBoxes: init_pos_values.characterQuoteBoxes,
   characterQuoteTexts: init_pos_values.characterQuoteTexts,
+  colorQuoteBoxes: init_pos_values.colorQuoteBoxes,
+  colorQuoteTexts: init_pos_values.colorQuoteTexts,
   sceneSummaryBoxes: init_pos_values.sceneSummaryBoxes,
   sceneSummaryTexts: init_pos_values.sceneSummaryTexts,
   colorBarPos: init_pos_values.colorBarPos,
@@ -140,6 +144,8 @@ export const positionStore = create<IStore>((set) => ({
       locationQuoteTexts: newPositions.locationQuoteTexts,
       characterQuoteBoxes: newPositions.characterQuoteBoxes,
       characterQuoteTexts: newPositions.characterQuoteTexts,
+      colorQuoteBoxes: newPositions.colorQuoteBoxes,
+      colorQuoteTexts: newPositions.colorQuoteTexts,
       sceneSummaryBoxes: newPositions.sceneSummaryBoxes,
       sceneSummaryTexts: newPositions.sceneSummaryTexts,
       colorBarPos: newPositions.colorBarPos,

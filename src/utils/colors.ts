@@ -79,3 +79,14 @@ export const getLLMColor = (
   const char = sortedCharacters.find((c) => c.character === character);
   return char?.color;
 };
+
+// get text color for llm color
+export const textColorLLM = (bgColor: string) => {
+  // get r, g, b values from bgColor: a string in the format "rgb(r, g, b)"
+  const rgb = bgColor.match(/\d+/g);
+  if (!rgb) return "black";
+  const r = parseInt(rgb[0]);
+  const g = parseInt(rgb[1]);
+  const b = parseInt(rgb[2]);
+  return r * 0.299 + g * 0.587 + b * 0.114 > 100 ? "black" : "white";
+};

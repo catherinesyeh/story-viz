@@ -22,11 +22,9 @@
         {
           "name": "Nick",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Reflective and Contemplative",
-            "quote": "I've been turning over in my mind ever since.",
-            "rating": 0.3
-          }
+          "emotion": "Reflective and Contemplative",
+          "quote": "I've been turning over in my mind ever since.",
+          "rating": 0.3
         }
       ]
     },
@@ -47,11 +45,9 @@
         {
           "name": "Nick",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Optimistic yet Isolated",
-            "quote": "It was lonely for a day or so until one morning some man, more recently arrived than I, stopped me on the road.",
-            "rating": 0.1
-          }
+          "emotion": "Optimistic yet Isolated",
+          "quote": "It was lonely for a day or so until one morning some man, more recently arrived than I, stopped me on the road.",
+          "rating": 0.1
         }
       ]
     },
@@ -72,38 +68,30 @@
         {
           "name": "Nick",
           "importance": 3,
-          "sentiment": {
-            "emotion": "Out of place",
-            "quote": "I was a guide, a pathfinder, an original settler.",
-            "rating": -0.2
-          }
+          "emotion": "Out of place",
+          "quote": "I was a guide, a pathfinder, an original settler.",
+          "rating": -0.2
         },
         {
           "name": "Daisy",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Superficially cheerful",
-            "quote": "I'm p-paralysed with happiness.",
-            "rating": 0.4
-          }
+          "emotion": "Superficially cheerful",
+          "quote": "I'm p-paralysed with happiness.",
+          "rating": 0.4
         },
         {
           "name": "Tom Buchanan",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Dominant and arrogant",
-            "quote": "Two shining arrogant eyes had established dominance over his face.",
-            "rating": -0.8
-          }
+          "emotion": "Dominant and arrogant",
+          "quote": "Two shining arrogant eyes had established dominance over his face.",
+          "rating": -0.8
         },
         {
           "name": "Jordan Baker",
           "importance": 4,
-          "sentiment": {
-            "emotion": "Bored and indifferent",
-            "quote": "Absolutely! I haven't heard a word.",
-            "rating": -0.4
-          }
+          "emotion": "Bored and indifferent",
+          "quote": "Absolutely! I haven't heard a word.",
+          "rating": -0.4
         }
       ]
     },
@@ -124,29 +112,23 @@
         {
           "name": "Tom Buchanan",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Defensive",
-            "quote": "What you doing, Nick?",
-            "rating": -0.6
-          }
+          "emotion": "Defensive",
+          "quote": "What you doing, Nick?",
+          "rating": -0.6
         },
         {
           "name": "Daisy",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Annoyed and upset",
-            "quote": "You did it, Tom, she said accusingly. I know you didn't mean to, but you did do it.",
-            "rating": -0.7
-          }
+          "emotion": "Annoyed and upset",
+          "quote": "You did it, Tom, she said accusingly. I know you didn't mean to, but you did do it.",
+          "rating": -0.7
         },
         {
           "name": "Nick",
           "importance": 3,
-          "sentiment": {
-            "emotion": "Uncomfortable and observant",
-            "quote": "I couldn't guess what Daisy and Tom were thinking, but I doubt if even Miss Baker, who seemed to have mastered a certain hardy scepticism, was able utterly to put this fifth guest's shrill metallic urgency out of mind.",
-            "rating": -0.4
-          }
+          "emotion": "Uncomfortable and observant",
+          "quote": "I couldn't guess what Daisy and Tom were thinking, but I doubt if even Miss Baker, who seemed to have mastered a certain hardy scepticism, was able utterly to put this fifth guest's shrill metallic urgency out of mind.",
+          "rating": -0.4
         }
       ]
     },
@@ -167,29 +149,23 @@
         {
           "name": "Tom Buchanan",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Dominant and possessive",
-            "quote": "We're getting off, he insisted. I want you to meet my girl.",
-            "rating": -0.8
-          }
+          "emotion": "Dominant and possessive",
+          "quote": "We're getting off, he insisted. I want you to meet my girl.",
+          "rating": -0.8
         },
         {
           "name": "Myrtle Wilson",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Eager and ambitious",
-            "quote": "I want to get one of those dogs, she said earnestly.",
-            "rating": 0.5
-          }
+          "emotion": "Eager and ambitious",
+          "quote": "I want to get one of those dogs, she said earnestly.",
+          "rating": 0.5
         },
         {
           "name": "George Wilson",
           "importance": 3,
-          "sentiment": {
-            "emotion": "Hopeful yet resigned",
-            "quote": "I can't complain, answered Wilson unconvincingly.",
-            "rating": -0.5
-          }
+          "emotion": "Hopeful yet resigned",
+          "quote": "I can't complain, answered Wilson unconvincingly.",
+          "rating": -0.5
         }
       ]
     },
@@ -210,29 +186,23 @@
         {
           "name": "Nick",
           "importance": 3,
-          "sentiment": {
-            "emotion": "Bewildered and intoxicated",
-            "quote": "I was within and without, simultaneously enchanted and repelled by the inexhaustible variety of life.",
-            "rating": 0
-          }
+          "emotion": "Bewildered and intoxicated",
+          "quote": "I was within and without, simultaneously enchanted and repelled by the inexhaustible variety of life.",
+          "rating": 0
         },
         {
           "name": "Myrtle Wilson",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Transformed and haughty",
-            "quote": "With the influence of the dress her personality had also undergone a change.",
-            "rating": 0.4
-          }
+          "emotion": "Transformed and haughty",
+          "quote": "With the influence of the dress her personality had also undergone a change.",
+          "rating": 0.4
         },
         {
           "name": "Tom Buchanan",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Aggressive and authoritative",
-            "quote": "Daisy! Daisy! Daisy! shouted Mrs. Wilson. I'll say it whenever I want to! Daisy! Dai— Making a short deft movement, Tom Buchanan broke her nose with his open hand.",
-            "rating": -1
-          }
+          "emotion": "Aggressive and authoritative",
+          "quote": "Daisy! Daisy! Daisy! shouted Mrs. Wilson. I'll say it whenever I want to! Daisy! Dai— Making a short deft movement, Tom Buchanan broke her nose with his open hand.",
+          "rating": -1
         }
       ]
     },
@@ -253,38 +223,30 @@
         {
           "name": "Gatsby",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Enigmatic and hospitable",
-            "quote": "The honour would be entirely Gatsby's, it said, if I would attend his 'little party' that night.",
-            "rating": 0.8
-          }
+          "emotion": "Enigmatic and hospitable",
+          "quote": "The honour would be entirely Gatsby's, it said, if I would attend his 'little party' that night.",
+          "rating": 0.8
         },
         {
           "name": "Nick",
           "importance": 3,
-          "sentiment": {
-            "emotion": "Curious and observant",
-            "quote": "I was one of the few guests who had actually been invited.",
-            "rating": 0.4
-          }
+          "emotion": "Curious and observant",
+          "quote": "I was one of the few guests who had actually been invited.",
+          "rating": 0.4
         },
         {
           "name": "Daisy",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Superficial fascination combined with a deeper discontent",
-            "quote": "I've never met so many celebrities. I liked that man—what was his name?—with the sort of blue nose.",
-            "rating": 0.1
-          }
+          "emotion": "Superficial fascination combined with a deeper discontent",
+          "quote": "I've never met so many celebrities. I liked that man—what was his name?—with the sort of blue nose.",
+          "rating": 0.1
         },
         {
           "name": "Jordan Baker",
           "importance": 4,
-          "sentiment": {
-            "emotion": "Amused and social",
-            "quote": "Hello! I roared, advancing toward her. My voice seemed unnaturally loud across the garden.",
-            "rating": 0.5
-          }
+          "emotion": "Amused and social",
+          "quote": "Hello! I roared, advancing toward her. My voice seemed unnaturally loud across the garden.",
+          "rating": 0.5
         }
       ]
     },
@@ -305,20 +267,16 @@
         {
           "name": "Party Guests",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Intrigued and speculative",
-            "quote": "'Somebody told me they thought he killed a man once.'",
-            "rating": 0.6
-          }
+          "emotion": "Intrigued and speculative",
+          "quote": "'Somebody told me they thought he killed a man once.'",
+          "rating": 0.6
         },
         {
           "name": "Nick",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Skeptical and curious",
-            "quote": "I hadn't heard it and I doubted if there was any foundation for it.",
-            "rating": 0.2
-          }
+          "emotion": "Skeptical and curious",
+          "quote": "I hadn't heard it and I doubted if there was any foundation for it.",
+          "rating": 0.2
         }
       ]
     },
@@ -339,29 +297,23 @@
         {
           "name": "Gatsby",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Charming and gracious",
-            "quote": "He smiled understandingly—much more than understandingly.",
-            "rating": 0.9
-          }
+          "emotion": "Charming and gracious",
+          "quote": "He smiled understandingly—much more than understandingly.",
+          "rating": 0.9
         },
         {
           "name": "Nick",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Impressed and intrigued",
-            "quote": "It was one of those rare smiles with a quality of eternal reassurance in it.",
-            "rating": 0.8
-          }
+          "emotion": "Impressed and intrigued",
+          "quote": "It was one of those rare smiles with a quality of eternal reassurance in it.",
+          "rating": 0.8
         },
         {
           "name": "Jordan Baker",
           "importance": 3,
-          "sentiment": {
-            "emotion": "Intrigued and secretive",
-            "quote": "I've just heard the most amazing thing... and here I am tantalizing you.",
-            "rating": 0.3
-          }
+          "emotion": "Intrigued and secretive",
+          "quote": "I've just heard the most amazing thing... and here I am tantalizing you.",
+          "rating": 0.3
         }
       ]
     },
@@ -382,20 +334,16 @@
         {
           "name": "Gatsby",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Proud and slightly aloof",
-            "quote": "He was looking at an elegant young rough-neck, a year or two over thirty.",
-            "rating": 0.7
-          }
+          "emotion": "Proud and slightly aloof",
+          "quote": "He was looking at an elegant young rough-neck, a year or two over thirty.",
+          "rating": 0.7
         },
         {
           "name": "Nick",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Reflective and a bit bewildered",
-            "quote": "Somehow it seemed a great deal of effort to begin an intrusion into Gatsby's life.",
-            "rating": -0.3
-          }
+          "emotion": "Reflective and a bit bewildered",
+          "quote": "Somehow it seemed a great deal of effort to begin an intrusion into Gatsby's life.",
+          "rating": -0.3
         }
       ]
     },
@@ -416,20 +364,16 @@
         {
           "name": "Gatsby",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Proud and Eager to Impress",
-            "quote": "'It's pretty, isn't it, old sport?'",
-            "rating": 0.7
-          }
+          "emotion": "Proud and Eager to Impress",
+          "quote": "'It's pretty, isn't it, old sport?'",
+          "rating": 0.7
         },
         {
           "name": "Nick",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Impressed and Curious",
-            "quote": "He saw me looking with admiration at his car.",
-            "rating": 0.6
-          }
+          "emotion": "Impressed and Curious",
+          "quote": "He saw me looking with admiration at his car.",
+          "rating": 0.6
         }
       ]
     },
@@ -450,20 +394,16 @@
         {
           "name": "Gatsby",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Confident and Mysterious",
-            "quote": "'We're going to lunch,' said Gatsby.",
-            "rating": 0.8
-          }
+          "emotion": "Confident and Mysterious",
+          "quote": "'We're going to lunch,' said Gatsby.",
+          "rating": 0.8
         },
         {
           "name": "Nick",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Intrigued and a bit Bewildered",
-            "quote": "'I thought we'd be here at the restaurant.'",
-            "rating": 0.4
-          }
+          "emotion": "Intrigued and a bit Bewildered",
+          "quote": "'I thought we'd be here at the restaurant.'",
+          "rating": 0.4
         }
       ]
     },
@@ -484,29 +424,23 @@
         {
           "name": "Gatsby",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Defensive and Proud",
-            "quote": "'Look here, this is a bona fide piece of printed matter.'",
-            "rating": 0.5
-          }
+          "emotion": "Defensive and Proud",
+          "quote": "'Look here, this is a bona fide piece of printed matter.'",
+          "rating": 0.5
         },
         {
           "name": "Owl Eyes",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Surprised and Amused",
-            "quote": "'This fella's a regular Belasco. It's a triumph. What thoroughness! What realism!'",
-            "rating": 0.7
-          }
+          "emotion": "Surprised and Amused",
+          "quote": "'This fella's a regular Belasco. It's a triumph. What thoroughness! What realism!'",
+          "rating": 0.7
         },
         {
           "name": "Nick",
           "importance": 3,
-          "sentiment": {
-            "emotion": "Amazed and Skeptical",
-            "quote": "I was amazed to find that I had no idea at all.",
-            "rating": 0.3
-          }
+          "emotion": "Amazed and Skeptical",
+          "quote": "I was amazed to find that I had no idea at all.",
+          "rating": 0.3
         }
       ]
     },
@@ -527,29 +461,23 @@
         {
           "name": "Gatsby",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Attentive and Gracious Host",
-            "quote": "Gatsby, his hands still in his pockets, was reclining against the mantelpiece in a strained counterfeit of perfect ease, even of boredom.",
-            "rating": 0.4
-          }
+          "emotion": "Attentive and Gracious Host",
+          "quote": "Gatsby, his hands still in his pockets, was reclining against the mantelpiece in a strained counterfeit of perfect ease, even of boredom.",
+          "rating": 0.4
         },
         {
           "name": "Party Guests",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Enthralled and Cheerful",
-            "quote": "Voices were singing and the sound of a vast tambourine shuttered through the air.",
-            "rating": 0.8
-          }
+          "emotion": "Enthralled and Cheerful",
+          "quote": "Voices were singing and the sound of a vast tambourine shuttered through the air.",
+          "rating": 0.8
         },
         {
           "name": "Nick",
           "importance": 3,
-          "sentiment": {
-            "emotion": "Captivated yet Detached",
-            "quote": "I found myself on Gatsby's side, and alone.",
-            "rating": 0.2
-          }
+          "emotion": "Captivated yet Detached",
+          "quote": "I found myself on Gatsby's side, and alone.",
+          "rating": 0.2
         }
       ]
     },
@@ -570,20 +498,16 @@
         {
           "name": "Gatsby",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Reflective and Somewhat Lonely",
-            "quote": "Gatsby was standing alone on the marble steps, looking over the party's remnants.",
-            "rating": -0.3
-          }
+          "emotion": "Reflective and Somewhat Lonely",
+          "quote": "Gatsby was standing alone on the marble steps, looking over the party's remnants.",
+          "rating": -0.3
         },
         {
           "name": "Nick",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Contemplative and Concerned",
-            "quote": "I couldn't help but wonder what Gatsby was thinking as he stood there alone.",
-            "rating": 0.2
-          }
+          "emotion": "Contemplative and Concerned",
+          "quote": "I couldn't help but wonder what Gatsby was thinking as he stood there alone.",
+          "rating": 0.2
         }
       ]
     },
@@ -604,20 +528,16 @@
         {
           "name": "Gatsby",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Honest and Vulnerable",
-            "quote": "He spoke earnestly and I could see a hint of vulnerability in his eyes.",
-            "rating": 0.5
-          }
+          "emotion": "Honest and Vulnerable",
+          "quote": "He spoke earnestly and I could see a hint of vulnerability in his eyes.",
+          "rating": 0.5
         },
         {
           "name": "Nick",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Sympathetic and Intrigued",
-            "quote": "His story was unlike anything I'd expected, and I found myself drawn in, wanting to understand more.",
-            "rating": 0.6
-          }
+          "emotion": "Sympathetic and Intrigued",
+          "quote": "His story was unlike anything I'd expected, and I found myself drawn in, wanting to understand more.",
+          "rating": 0.6
         }
       ]
     },
@@ -638,38 +558,30 @@
         {
           "name": "Gatsby",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Angry and Determined",
-            "quote": "His voice was firm and filled with tension as he demanded Tom to acknowledge his relationship with Daisy.",
-            "rating": -0.7
-          }
+          "emotion": "Angry and Determined",
+          "quote": "His voice was firm and filled with tension as he demanded Tom to acknowledge his relationship with Daisy.",
+          "rating": -0.7
         },
         {
           "name": "Tom Buchanan",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Defensive and Aggressive",
-            "quote": "Tom's face reddened with anger as he denied Gatsby's accusations and attacked his character.",
-            "rating": -0.8
-          }
+          "emotion": "Defensive and Aggressive",
+          "quote": "Tom's face reddened with anger as he denied Gatsby's accusations and attacked his character.",
+          "rating": -0.8
         },
         {
           "name": "Daisy",
           "importance": 3,
-          "sentiment": {
-            "emotion": "Torn and Distressed",
-            "quote": "She looked from Tom to Gatsby, and then back at Tom again, her expression filled with distress and indecision.",
-            "rating": -0.6
-          }
+          "emotion": "Torn and Distressed",
+          "quote": "She looked from Tom to Gatsby, and then back at Tom again, her expression filled with distress and indecision.",
+          "rating": -0.6
         },
         {
           "name": "Nick",
           "importance": 4,
-          "sentiment": {
-            "emotion": "Uncomfortable and Concerned",
-            "quote": "I felt caught in the middle of a deeply personal conflict, unsure of my place or how to alleviate the tension.",
-            "rating": -0.5
-          }
+          "emotion": "Uncomfortable and Concerned",
+          "quote": "I felt caught in the middle of a deeply personal conflict, unsure of my place or how to alleviate the tension.",
+          "rating": -0.5
         }
       ]
     },
@@ -690,29 +602,23 @@
         {
           "name": "George Wilson",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Devastated and Desperate",
-            "quote": "Wilson's grief was palpable, his eyes hollow with the shock of his loss.",
-            "rating": -1
-          }
+          "emotion": "Devastated and Desperate",
+          "quote": "Wilson's grief was palpable, his eyes hollow with the shock of his loss.",
+          "rating": -1
         },
         {
           "name": "Nick",
           "importance": 3,
-          "sentiment": {
-            "emotion": "Horrified and Sympathetic",
-            "quote": "The gravity of the situation was overwhelming, leaving me feeling helpless and deeply saddened.",
-            "rating": -0.9
-          }
+          "emotion": "Horrified and Sympathetic",
+          "quote": "The gravity of the situation was overwhelming, leaving me feeling helpless and deeply saddened.",
+          "rating": -0.9
         },
         {
           "name": "Gatsby",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Guilty and Protective",
-            "quote": "Despite not being his fault, Gatsby's concern was for Daisy's involvement and the potential consequences for her.",
-            "rating": -0.6
-          }
+          "emotion": "Guilty and Protective",
+          "quote": "Despite not being his fault, Gatsby's concern was for Daisy's involvement and the potential consequences for her.",
+          "rating": -0.6
         }
       ]
     },
@@ -733,20 +639,16 @@
         {
           "name": "Nick",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Grief-stricken and Reflective",
-            "quote": "Seeing Gatsby's lifeless body, I couldn't help but reflect on the hollowness of his pursuit and the price he paid.",
-            "rating": -1
-          }
+          "emotion": "Grief-stricken and Reflective",
+          "quote": "Seeing Gatsby's lifeless body, I couldn't help but reflect on the hollowness of his pursuit and the price he paid.",
+          "rating": -1
         },
         {
           "name": "Gatsby",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Hopeful to the End",
-            "quote": "Even to the end, Gatsby believed in the green light, the orgastic future that year by year recedes before us.",
-            "rating": 0.4
-          }
+          "emotion": "Hopeful to the End",
+          "quote": "Even to the end, Gatsby believed in the green light, the orgastic future that year by year recedes before us.",
+          "rating": 0.4
         }
       ]
     },
@@ -767,29 +669,23 @@
         {
           "name": "Nick",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Disillusioned and Mournful",
-            "quote": "It was an empty, solemn event, reflecting the transient nature of Gatsby's relationships and the superficiality of the world he had sought to belong to.",
-            "rating": -0.8
-          }
+          "emotion": "Disillusioned and Mournful",
+          "quote": "It was an empty, solemn event, reflecting the transient nature of Gatsby's relationships and the superficiality of the world he had sought to belong to.",
+          "rating": -0.8
         },
         {
           "name": "Owl Eyes",
           "importance": 2,
-          "sentiment": {
-            "emotion": "Surprised and Somber",
-            "quote": "'The poor son-of-a-bitch,' he muttered. There was genuine sorrow in his voice, a rare moment of humanity in the midst of widespread indifference.",
-            "rating": -0.6
-          }
+          "emotion": "Surprised and Somber",
+          "quote": "'The poor son-of-a-bitch,' he muttered. There was genuine sorrow in his voice, a rare moment of humanity in the midst of widespread indifference.",
+          "rating": -0.6
         },
         {
           "name": "Jordan Baker",
           "importance": 3,
-          "sentiment": {
-            "emotion": "Disappointed and aloof",
-            "quote": "I thought you were rather an honest, straightforward person. I thought it was your secret pride.",
-            "rating": -0.5
-          }
+          "emotion": "Disappointed and aloof",
+          "quote": "I thought you were rather an honest, straightforward person. I thought it was your secret pride.",
+          "rating": -0.5
         }
       ]
     },
@@ -810,11 +706,9 @@
         {
           "name": "Nick",
           "importance": 1,
-          "sentiment": {
-            "emotion": "Disenchanted and Decisive",
-            "quote": "I saw the East as a grotesque, distorted place, far removed from the ideals I once held. It was time to go home.",
-            "rating": -0.7
-          }
+          "emotion": "Disenchanted and Decisive",
+          "quote": "I saw the East as a grotesque, distorted place, far removed from the ideals I once held. It was time to go home.",
+          "rating": -0.7
         }
       ]
     }
@@ -857,63 +751,72 @@
       "key": "nick",
       "quote": "Everyone suspects himself of at least one of the cardinal virtues, and this is mine: I am one of the few honest people that I have ever known.",
       "group": "Upper Class",
-      "color": "rgb(118, 185, 71)"
+      "color": "rgb(118, 185, 71)",
+      "explanation": "A shade of green, symbolizing his role as an observer and his envy or aspirations, yet with an honest and fresh perspective."
     },
     {
       "character": "Gatsby",
       "key": "gatsby",
       "quote": "He smiled understandingly—much more than understandingly. It was one of those rare smiles with a quality of eternal reassurance in it.",
       "group": "Upper Class",
-      "color": "rgb(30, 144, 255)"
+      "color": "rgb(30, 144, 255)",
+      "explanation": "A vibrant, rich blue, reflecting his deep desires and the melancholy hidden behind his lavish lifestyle."
     },
     {
       "character": "Tom Buchanan",
       "key": "tom",
       "quote": "Two shining arrogant eyes had established dominance over his face.",
       "group": "Upper Class",
-      "color": "rgb(196, 30, 58)"
+      "color": "rgb(196, 30, 58)",
+      "explanation": "A dominant, bold red, capturing his aggressive nature and forceful presence."
     },
     {
       "character": "Daisy",
       "key": "daisy",
       "quote": "Daisy and Jordan lay upon an enormous couch, like silver idols weighing down their own white dresses against the singing breeze of the fans.",
       "group": "Upper Class",
-      "color": "rgb(255, 215, 0)"
+      "color": "rgb(255, 215, 0)",
+      "explanation": "A soft, ethereal gold, suggesting her allure and the unattainable, golden girl persona."
     },
     {
       "character": "Myrtle Wilson",
       "key": "myrtle",
       "quote": "'I married him because I thought he was a gentleman,' she said finally. 'I thought he knew something about breeding, but he wasn't fit to lick my shoe... The only crazy I was was when I married him. I knew right away I made a mistake.'",
       "group": "Lower Class",
-      "color": "rgb(217, 1, 122)"
+      "color": "rgb(217, 1, 122)",
+      "explanation": "A brighter, contrasting magenta, indicating her vibrant but tragic ambition to climb the social ladder."
     },
     {
       "character": "George Wilson",
       "key": "george",
       "quote": "He was a blond, spiritless man, anaemic, and faintly handsome. When he saw us a damp gleam of hope sprang into his light blue eyes.",
       "group": "Lower Class",
-      "color": "rgb(154, 156, 205)"
+      "color": "rgb(154, 156, 205)",
+      "explanation": "A subdued, greyish lavender, symbolizing his faded hope and the overshadowed life he leads."
     },
     {
       "character": "Party Guests",
       "key": "party-guests",
       "quote": "I believe that on the first night I went to Gatsby's house I was one of the few guests who had actually been invited. People were not invited—they went there.",
       "group": "Outsiders/Observers",
-      "color": "rgb(255, 165, 0)"
+      "color": "rgb(255, 165, 0)",
+      "explanation": "A lively, festive orange, representing the carefree revelry and the superficial brightness of Gatsby's parties."
     },
     {
       "character": "Owl Eyes",
       "key": "owl-eyes",
       "quote": "I looked around. It was the man with owl-eyed glasses whom I had found marvelling over Gatsby's books in the library one night three months before... 'The poor son-of-a-bitch,' he said.",
       "group": "Outsiders/Observers",
-      "color": "rgb(0, 128, 128)"
+      "color": "rgb(0, 128, 128)",
+      "explanation": "An insightful teal, hinting at his perceptive observations and the somewhat mysterious aura."
     },
     {
       "character": "Jordan Baker",
       "key": "jordan",
       "quote": "For a while I lost sight of Jordan Baker, and then in midsummer I found her again. At first I was flattered to go places with her, because she was a golf champion, and everyone knew her name. Then it was something more. I wasn't actually in love, but I felt a sort of tender curiosity.",
       "group": "Upper Class",
-      "color": "rgb(192, 192, 192)"
+      "color": "rgb(192, 192, 192)",
+      "explanation": "A cool, sleek silver, mirroring her sophistication, athletic prowess, and the modern woman she represents."
     }
   ]
 }

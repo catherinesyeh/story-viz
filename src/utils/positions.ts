@@ -815,7 +815,7 @@ const character_quote_boxes = (
       ),
       y: legend_box_pos.y + legend_box_pos.height + 1.75 * character_offset,
       width: width,
-      height: (Math.max(cur_quote.quote.length, 2) + 2.5) * character_offset,
+      height: (Math.max(cur_quote.quote.length, 2) + 2.45) * character_offset,
     };
   });
 };
@@ -837,6 +837,44 @@ const character_quote_texts = (
           0.75 * location_offset +
           0.6 * location_height,
         y: character_quote_boxes[i].y + (j + 2.55) * character_offset,
+      };
+    });
+  });
+
+// color description box positions
+const color_description_boxes = (
+  character_quote_boxes: Box[],
+  characterScenes: CharacterScene[],
+  character_data: CharacterData[]
+) => {
+  return characterScenes.map((char, i) => {
+    const cur_quote =
+      character_data.find((c) => c.character === char.character) ||
+      character_data[i];
+    return {
+      x: character_quote_boxes[i].x,
+      y: character_quote_boxes[i].y + character_quote_boxes[i].height,
+      width: character_quote_boxes[i].width,
+      height: (cur_quote.explanation.length + 1.45) * character_offset,
+    };
+  });
+};
+
+const color_description_texts = (
+  characterScenes: CharacterScene[],
+  color_description_boxes: Box[],
+  character_data: CharacterData[]
+) =>
+  characterScenes.map((char, i) => {
+    const cur_quote =
+      character_data.find((c) => c.character === char.character) ||
+      character_data[i];
+
+    const explanation = cur_quote.explanation as string[];
+    return explanation.map((_, j) => {
+      return {
+        x: color_description_boxes[i].x + 0.75 * location_offset,
+        y: color_description_boxes[i].y + (j + 1.45) * character_offset,
       };
     });
   });
@@ -1308,6 +1346,18 @@ export const getAllPositions = (
     character_quotes
   );
 
+  const initColorQuoteBoxes = color_description_boxes(
+    initCharacterQuoteBoxes,
+    characterScenes,
+    sortedCharacters
+  );
+
+  const initColorQuoteTexts = color_description_texts(
+    characterScenes,
+    initColorQuoteBoxes,
+    sortedCharacters
+  );
+
   const initSceneSummaryBox = base_scene_summary_box(initLegendBoxPos);
 
   let initSceneSummaryTexts = scene_summary_texts(
@@ -1371,6 +1421,8 @@ export const getAllPositions = (
     locationQuoteTexts: initLocationQuoteTexts,
     characterQuoteBoxes: initCharacterQuoteBoxes,
     characterQuoteTexts: initCharacterQuoteTexts,
+    colorQuoteBoxes: initColorQuoteBoxes,
+    colorQuoteTexts: initColorQuoteTexts,
     sceneSummaryBoxes: initSceneSummaryBoxes,
     sceneSummaryTexts: initSceneSummaryTexts,
     colorBarPos: initColorBarPos,

@@ -1,5 +1,5 @@
 import { storyStore } from "../../stores/storyStore";
-import { getColor, getLLMColor } from "../../utils/colors";
+import { getColor, getLLMColor, textColorLLM } from "../../utils/colors";
 import { character_offset, location_height } from "../../utils/consts";
 import { dataStore } from "../../stores/dataStore";
 import { positionStore } from "../../stores/positionStore";
@@ -15,7 +15,12 @@ function CharacterOverlay() {
     sortedCharacters,
     character_data,
   } = dataStore();
-  const { characterQuoteBoxes, characterQuoteTexts } = positionStore();
+  const {
+    characterQuoteBoxes,
+    characterQuoteTexts,
+    colorQuoteBoxes,
+    colorQuoteTexts,
+  } = positionStore();
   return (
     <g id="character-quotes">
       {/* add box with quote from each character */}
@@ -23,6 +28,10 @@ function CharacterOverlay() {
         const charColor = getColor(character.character, sortedCharacters);
         const llmColor =
           getLLMColor(character.character, sortedCharacters) || charColor;
+
+        const explanation = character_data.find(
+          (c) => c.character === character.character
+        )?.explanation as string[];
 
         return (
           characterQuoteTexts[i] &&
@@ -113,6 +122,37 @@ function CharacterOverlay() {
                 }
                 placeholder="/characters/placeholder.png"
               />
+              {/* add color quotes */}
+              {characterColor === "llm" && (
+                <g className="color-quotes">
+                  {colorQuoteBoxes[i] && (
+                    <rect
+                      x={colorQuoteBoxes[i].x}
+                      y={colorQuoteBoxes[i].y}
+                      width={colorQuoteBoxes[i].width}
+                      height={colorQuoteBoxes[i].height}
+                      fill={llmColor}
+                      opacity={0.6}
+                    />
+                  )}
+                  {explanation &&
+                    explanation.map(
+                      (quote, j) =>
+                        colorQuoteTexts[i][j] && (
+                          <text
+                            key={"color quote" + i + j}
+                            x={colorQuoteTexts[i][j].x}
+                            y={colorQuoteTexts[i][j].y}
+                            textAnchor="start"
+                            className="quote-text color-quote"
+                            fill={textColorLLM(llmColor)}
+                          >
+                            {quote}
+                          </text>
+                        )
+                    )}
+                </g>
+              )}
             </g>
           )
         );

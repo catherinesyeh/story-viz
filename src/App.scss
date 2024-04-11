@@ -116,7 +116,6 @@ h1 {
   font-family: "PT Serif";
   font-style: italic;
   font-weight: 700;
-  // text-transform: lowercase;
   letter-spacing: 0.4px;
 }
 #story-contain {
@@ -327,6 +326,10 @@ h1 {
         stroke-opacity: 1;
         visibility: visible;
       }
+    }
+
+    .color-quote {
+      font-style: italic;
     }
   }
 }
