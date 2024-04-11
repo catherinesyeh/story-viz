@@ -15,6 +15,8 @@ interface IStore {
   setWeightBy: (val: string) => void;
   characterColor: string;
   setCharacterColor: (val: string) => void;
+  evenSpacing: boolean;
+  setEvenSpacing: (val: boolean) => void;
 
   locationHover: string;
   setLocationHover: (val: string) => void;
@@ -33,6 +35,7 @@ const initialState = {
   sizeBy: "conflict",
   weightBy: "importance",
   characterColor: "default",
+  evenSpacing: true,
 
   locationHover: "",
   characterHover: "",
@@ -49,6 +52,7 @@ export const storyStore = create<IStore>()((set) => ({
   setSizeBy: (val: string) => set({ sizeBy: val }),
   setWeightBy: (val: string) => set({ weightBy: val }),
   setCharacterColor: (val: string) => set({ characterColor: val }),
+  setEvenSpacing: (val: boolean) => set({ evenSpacing: val }),
 
   setLocationHover: (val: string) => set({ locationHover: val }),
   setCharacterHover: (val: string) => set({ characterHover: val }),

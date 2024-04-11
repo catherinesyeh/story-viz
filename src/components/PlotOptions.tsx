@@ -1,9 +1,10 @@
-import { Select, Divider, Button } from "@mantine/core";
+import { Select, Divider, Button, Switch } from "@mantine/core";
 import { storyStore } from "../stores/storyStore";
 import { dataStore } from "../stores/dataStore";
 import { useEffect } from "react";
 import { positionStore } from "../stores/positionStore";
 import { high_conflict_font, med_conflict_font } from "../utils/consts";
+import { setNumLines } from "../utils/data";
 
 function PlotOptions() {
   const {
@@ -20,11 +21,13 @@ function PlotOptions() {
     weightBy,
     setWeightBy,
     resetAll,
+    evenSpacing,
+    setEvenSpacing,
   } = storyStore();
 
   const {
-    data,
     setData,
+    setSceneData,
     scene_data,
     scenes,
     locations,
@@ -68,7 +71,7 @@ function PlotOptions() {
   }, [story]);
 
   useEffect(() => {
-    if (data) {
+    if (scene_data) {
       setPositions(
         scene_data,
         scenes,
@@ -82,7 +85,17 @@ function PlotOptions() {
         sortedCharacters
       );
     }
-  }, [data]);
+  }, [scene_data]);
+
+  // useEffect(() => {
+  //   if (scene_data) {
+  //     console.log(scene_data);
+  //     console.log("evenSpacing", evenSpacing);
+  //     const new_scene_data = setNumLines(scene_data, evenSpacing);
+  //     console.log(new_scene_data);
+  //     setSceneData(new_scene_data);
+  //   }
+  // }, [evenSpacing]);
 
   return (
     <div id="options">
@@ -139,6 +152,13 @@ function PlotOptions() {
       <div className="options-contain">
         <b>Scene Names</b>
         <div className="options-inner">
+          <Switch
+            size="xs"
+            label="Space Evenly"
+            labelPosition="left"
+            checked={evenSpacing}
+            onChange={(event) => setEvenSpacing(event.currentTarget.checked)}
+          />
           <Select
             size="xs"
             label="Size"

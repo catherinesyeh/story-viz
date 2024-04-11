@@ -2,6 +2,9 @@
 // create generic chunk method
 // I:  - quote (string): quote to be split into chunks
 //     - chunk_size (number): maximum number of characters in each chunk
+
+import { normalize } from "./helpers";
+
 // O:  - (array): array of chunks
 const chunkQuote = (quote: string, chunk_size: number) => {
   const quoteChunks = [];
@@ -36,6 +39,7 @@ export interface Scene {
   location: string;
   characters: Character[];
   summary: string;
+  numLines: number;
   ratings: {
     importance: number;
     conflict: number;
@@ -95,8 +99,34 @@ export interface RatingDict {
 }
 
 /* DATA */
+export const setNumLines = (data: any, evenSpacing: boolean): Scene[] => {
+  const scene_data = data.scenes;
+  // console.log(scene_data);
+  const all_num_lines = scene_data.map((scene: Scene) => scene.numLines);
+  const min_lines = Math.min(...all_num_lines);
+  const max_lines = Math.max(...all_num_lines);
+
+  // console.log(evenSpacing);
+
+  scene_data.forEach((scene: Scene) => {
+    if (!evenSpacing) {
+      scene.numLines = normalize(
+        scene.numLines,
+        min_lines,
+        max_lines,
+        0.5,
+        1.5
+      );
+    } else {
+      scene.numLines = 1;
+    }
+  });
+
+  return scene_data;
+};
+
 const scene_data = (all_data: any): Scene[] => {
-  const data = all_data["scenes"];
+  let data = setNumLines(all_data, true);
 
   // replace importance rating for each scene in scene_data with 1 / rating
   data.forEach((scene: Scene) => {

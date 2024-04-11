@@ -105,6 +105,10 @@ header {
   transition: 0.3s;
 }
 
+.mantine-Switch-track {
+  width: fit-content;
+}
+
 h1 {
   margin: 0 0 6px;
   font-size: calc(1.2rem + 0.8vw);
@@ -336,6 +340,12 @@ h1 {
         }
         .mantine-Select-root {
           display: block;
+        }
+
+        .mantine-Switch-body {
+          padding-top: 0;
+          flex-direction: column;
+          gap: 8px;
         }
       }
     }

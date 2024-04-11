@@ -19,10 +19,8 @@ export const extra_yshift = (minConflictY: number, scenePos: Position[]) =>
 
 export const scene_width = (locations: string[], scenes: string[]) =>
   (2200 + 100 * Math.max(locations.length - 6, 0)) / scenes.length;
-export const plot_width = (scenes: string[], scene_width: number) =>
-  scene_offset +
-  scene_width * scenes.length -
-  (scene_width / 1.5 / scene_margin) * scene_margin;
+export const plot_width = (scene_pos: Position[]) =>
+  scene_pos[scene_pos.length - 1].x + scene_margin;
 
 // old: not currently being used
 export const plot_height = (locations: string[]) =>
