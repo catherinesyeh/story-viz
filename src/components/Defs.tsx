@@ -123,7 +123,7 @@ function Defs() {
                   const start_gap_percent = start_gap * 100;
                   const end_gap_percent = end_gap * 100;
 
-                  if (next_scene - scene > 2) {
+                  if (next_scene - scene > 1) {
                     return [
                       <stop
                         key={`full-opacity-before-gap-${i}-${j}`}
@@ -133,17 +133,17 @@ function Defs() {
                       <stop
                         key={`start-gap-${i}-${j}`}
                         offset={`${start_gap_percent}%`}
-                        stopColor={start_color.replace(")", ",0.5)")}
+                        stopColor={start_color.replace(")", ",0.3)")}
                       />,
                       <stop
                         key={`mid-gap-${i}-${j}`}
                         offset={`${(start_gap_percent + end_gap_percent) / 2}%`}
-                        stopColor={end_color.replace(")", ",0.2)")}
+                        stopColor={end_color.replace(")", ",0.1)")}
                       />,
                       <stop
                         key={`end-gap-${i}-${j}`}
                         offset={`${end_gap_percent}%`}
-                        stopColor={end_color.replace(")", ",0.5)")}
+                        stopColor={end_color.replace(")", ",0.3)")}
                       />,
                       <stop
                         key={`full-opacity-after-gap-${i}-${j}`}

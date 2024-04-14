@@ -113,7 +113,13 @@ function PlotOptions() {
               if (value) setStory(value);
             }}
           />
-          <Button size="xs" onClick={resetAll}>
+          <Button
+            size="xs"
+            onClick={() => {
+              resetAll();
+              setScaleByLength(false);
+            }}
+          >
             Reset All
           </Button>
         </div>

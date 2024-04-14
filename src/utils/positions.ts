@@ -577,24 +577,24 @@ const characterPaths = (
           point[1] - importance_weights[importance_weights.length - 1],
         ];
       } else if (!og_indices.includes(i)) {
-        const prev_y = character_coords_arr[i - 1][1];
-        const cur_y = character_coords_arr[i][1];
-        const next_y = character_coords_arr[i + 1][1];
-        if (cur_y === prev_y && cur_y < next_y) {
-          // moving down
-          // find the index in importance_weights that is closest to the current index rounded down
-          const ind = Math.floor(
-            i / (character_coords_arr.length / importance_weights.length)
-          );
-          return [point[0], point[1] - importance_weights[ind]];
-        } else if (cur_y === next_y && cur_y < prev_y) {
-          // moving up
-          // find the index in importance_weights that is closest to the current index rounded up
-          const ind = Math.ceil(
-            i / (character_coords_arr.length / importance_weights.length)
-          );
-          return [point[0], point[1] - importance_weights[ind]];
-        }
+        // const prev_y = character_coords_arr[i - 1][1];
+        // const cur_y = character_coords_arr[i][1];
+        // const next_y = character_coords_arr[i + 1][1];
+        // if (cur_y === prev_y && cur_y < next_y) {
+        //   // moving down
+        //   // find the index in importance_weights that is closest to the current index rounded down
+        //   const ind = Math.floor(
+        //     i / (character_coords_arr.length / importance_weights.length)
+        //   );
+        //   return [point[0], point[1] - importance_weights[ind]];
+        // } else if (cur_y === next_y && cur_y < prev_y) {
+        //   // moving up
+        //   // find the index in importance_weights that is closest to the current index rounded up
+        //   const ind = Math.ceil(
+        //     i / (character_coords_arr.length / importance_weights.length)
+        //   );
+        //   return [point[0], point[1] - importance_weights[ind]];
+        // }
         return [point[0], point[1] - 0.5];
       }
       const ind = og_indices.findIndex((val) => val === i);
@@ -609,24 +609,24 @@ const characterPaths = (
           point[1] + importance_weights[importance_weights.length - 1],
         ];
       } else if (!og_indices.includes(i)) {
-        const prev_y = character_coords_arr[i - 1][1];
-        const cur_y = character_coords_arr[i][1];
-        const next_y = character_coords_arr[i + 1][1];
-        if (cur_y === prev_y && cur_y < next_y) {
-          // moving down
-          // find the index in importance_weights that is closest to the current index rounded down
-          const ind = Math.floor(
-            i / (character_coords_arr.length / importance_weights.length)
-          );
-          return [point[0], point[1] + importance_weights[ind]];
-        } else if (cur_y === next_y && cur_y < prev_y) {
-          // moving up
-          // find the index in importance_weights that is closest to the current index rounded up
-          const ind = Math.ceil(
-            i / (character_coords_arr.length / importance_weights.length)
-          );
-          return [point[0], point[1] + importance_weights[ind]];
-        }
+        // const prev_y = character_coords_arr[i - 1][1];
+        // const cur_y = character_coords_arr[i][1];
+        // const next_y = character_coords_arr[i + 1][1];
+        // if (cur_y === prev_y && cur_y < next_y) {
+        //   // moving down
+        //   // find the index in importance_weights that is closest to the current index rounded down
+        //   const ind = Math.floor(
+        //     i / (character_coords_arr.length / importance_weights.length)
+        //   );
+        //   return [point[0], point[1] + importance_weights[ind]];
+        // } else if (cur_y === next_y && cur_y < prev_y) {
+        //   // moving up
+        //   // find the index in importance_weights that is closest to the current index rounded up
+        //   const ind = Math.ceil(
+        //     i / (character_coords_arr.length / importance_weights.length)
+        //   );
+        //   return [point[0], point[1] + importance_weights[ind]];
+        // }
         return [point[0], point[1] + 0.5];
       }
       const ind = og_indices.findIndex((val) => val === i);
