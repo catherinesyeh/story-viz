@@ -25,24 +25,41 @@ header {
   margin-bottom: 1.2rem;
   gap: 20px;
 
-  #story-info {
-    span {
-      font-size: smaller;
-      color: #222;
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      font-family: "Shantell Sans";
+  #story-header {
+    display: flex;
+    gap: 20px;
+
+    .story-image {
+      transition: 0.3s;
+      width: auto;
+      height: 70px;
+      border: 1px solid #444;
     }
 
-    #info-button {
-      padding: 0.3rem 0.5rem;
+    a:hover .story-image {
+      opacity: 0.8;
+      transform: scale(1.05);
+    }
+
+    #story-info {
       span {
-        font-family: var(--mantine-font-family);
+        font-size: smaller;
+        color: #222;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        font-family: "Shantell Sans";
       }
 
-      .mantine-Button-section {
-        margin-right: 0;
+      #info-button {
+        padding: 0.3rem 0.5rem;
+        span {
+          font-family: var(--mantine-font-family);
+        }
+
+        .mantine-Button-section {
+          margin-right: 0;
+        }
       }
     }
   }
@@ -342,15 +359,24 @@ h1 {
     align-items: baseline;
     display: block;
 
-    h1 {
-      margin-bottom: 0;
-    }
+    #story-header {
+      gap: 10px;
 
-    #story-info {
-      margin-bottom: 8px;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
+      h1 {
+        margin-bottom: 0;
+      }
+
+      .story-image {
+        height: 35px;
+      }
+
+      #story-info {
+        width: 100%;
+        margin-bottom: 8px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
     }
   }
 }
