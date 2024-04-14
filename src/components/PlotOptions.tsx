@@ -56,6 +56,7 @@ function PlotOptions() {
     "aladdin",
     "pride",
     "romeo",
+    "yourname",
   ];
 
   const [scaleByLength, setScaleByLength] = useState(false);
