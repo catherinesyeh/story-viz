@@ -1,0 +1,573 @@
+{
+  "title": "Anne of Green Gables",
+  "type": "Book",
+  "author": "L. M. Montgomery",
+  "year": "1908",
+  "url": "https://www.gutenberg.org/ebooks/45",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Montgomery_Anne_of_Green_Gables.jpg",
+  "scenes": [
+    {
+      "number": 1,
+      "name": "Marilla and Matthew Decide to Adopt",
+      "summary": "Marilla and Matthew Cuthbert discuss adopting a boy to help with chores around their farm, setting the stage for Anne's arrival.",
+      "location": "Green Gables",
+      "firstLine": "Marilla Cuthbert is Surprised to find that instead of a boy, a girl has arrived at Green Gables.",
+      "lastLine": "Well, this is a pretty piece of business!",
+      "numLines": 15,
+      "ratings": {
+        "importance": 12,
+        "conflict": 0.5,
+        "sentiment": -0.5
+      },
+      "characters": [
+        {
+          "name": "Marilla Cuthbert",
+          "importance": 1,
+          "emotion": "Conflicted and perturbed",
+          "quote": "Well, this is a pretty piece of business!",
+          "rating": -0.5
+        },
+        {
+          "name": "Matthew Cuthbert",
+          "importance": 2,
+          "emotion": "Quietly supportive",
+          "quote": "Matthew, barely noting that it was a girl, sidled past her as quickly as possible without looking at her.",
+          "rating": 0.1
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "name": "Anne's Arrival at Green Gables",
+      "summary": "Anne Shirley arrives at Green Gables full of excitement and wonder, not realizing the mix-up that has occurred.",
+      "location": "Green Gables",
+      "firstLine": "Anne's white face and big eyes appeared over the bedclothes with a startling suddenness.",
+      "lastLine": "But if she saw the house she gave no sign of it.",
+      "numLines": 22,
+      "ratings": {
+        "importance": 11,
+        "conflict": 0.2,
+        "sentiment": 0.8
+      },
+      "characters": [
+        {
+          "name": "Anne Shirley",
+          "importance": 1,
+          "emotion": "Excited and imaginative",
+          "quote": "Oh, it's delightful to think I am going to live here!",
+          "rating": 1
+        },
+        {
+          "name": "Matthew Cuthbert",
+          "importance": 2,
+          "emotion": "Quietly amused",
+          "quote": "Matthew, much to his own surprise, was enjoying himself.",
+          "rating": 0.2
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "name": "First Meeting with Marilla",
+      "summary": "Marilla meets Anne for the first time and is taken aback by Anne's talkative nature and her mistake in coming to Green Gables.",
+      "location": "Green Gables",
+      "firstLine": "Matthew Cuthbert, who's that?",
+      "lastLine": "But the child had no time for tears.",
+      "numLines": 30,
+      "ratings": {
+        "importance": 9,
+        "conflict": 0.7,
+        "sentiment": -0.3
+      },
+      "characters": [
+        {
+          "name": "Marilla Cuthbert",
+          "importance": 1,
+          "emotion": "Confused and stern",
+          "quote": "Matthew Cuthbert, who's that?",
+          "rating": -0.3
+        },
+        {
+          "name": "Anne Shirley",
+          "importance": 2,
+          "emotion": "Hopeful and nervous",
+          "quote": "You don't want me!",
+          "rating": -0.7
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "name": "Anne Says Her Prayers",
+      "summary": "Anne experiences her first prayer at Green Gables under Marilla's guidance, revealing her lack of religious upbringing.",
+      "location": "Green Gables",
+      "firstLine": "Anne Shirley, what have you done with your hair?",
+      "lastLine": "Marilla felt more embarrassed than ever.",
+      "numLines": 20,
+      "ratings": {
+        "importance": 14,
+        "conflict": 0.5,
+        "sentiment": 0.1
+      },
+      "characters": [
+        {
+          "name": "Marilla Cuthbert",
+          "importance": 1,
+          "emotion": "Bemused and slightly impatient",
+          "quote": "You'd better learn to pray right away.",
+          "rating": 0.1
+        },
+        {
+          "name": "Anne Shirley",
+          "importance": 2,
+          "emotion": "Curious and imaginative",
+          "quote": "Why must people kneel down to pray?",
+          "rating": 0.3
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "name": "Anne's Apology to Mrs. Rachel Lynde",
+      "summary": "Anne confronts her pride and apologizes to Mrs. Rachel Lynde for her rude remarks, demonstrating her growing maturity.",
+      "location": "Green Gables",
+      "firstLine": "I am extremely sorry I behaved so terribly.",
+      "lastLine": "She said she was sorry, that is sufficient.",
+      "numLines": 18,
+      "ratings": {
+        "importance": 10,
+        "conflict": 0.7,
+        "sentiment": 0.5
+      },
+      "characters": [
+        {
+          "name": "Anne Shirley",
+          "importance": 1,
+          "emotion": "Remorseful and sincere",
+          "quote": "I am extremely sorry I behaved so terribly.",
+          "rating": 0.8
+        },
+        {
+          "name": "Rachel Lynde",
+          "importance": 2,
+          "emotion": "Skeptical but accepting",
+          "quote": "Well, she says she is sorry.",
+          "rating": 0.5
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "name": "Anne Starts School",
+      "summary": "Anne attends her first day at Avonlea School, where she begins her long-standing rivalry with Gilbert Blythe.",
+      "location": "Avonlea School",
+      "firstLine": "The Avonlea school was a whitewashed building, low in the eaves and wide in the windows.",
+      "lastLine": "Anne's face turned even whiter than the snow outside as Gilbert Blythe tried to catch her eye.",
+      "numLines": 40,
+      "ratings": {
+        "importance": 8,
+        "conflict": 1,
+        "sentiment": -0.7
+      },
+      "characters": [
+        {
+          "name": "Anne Shirley",
+          "importance": 1,
+          "emotion": "Humiliated and angry",
+          "quote": "I shall never forgive Gilbert Blythe.",
+          "rating": -1
+        },
+        {
+          "name": "Gilbert Blythe",
+          "importance": 2,
+          "emotion": "Teasing and unaware",
+          "quote": "He called me carrots!",
+          "rating": -0.5
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "name": "Anne Saves Diana's Sister",
+      "summary": "Anne's quick thinking saves Diana's sister Minnie May, who is suffering from croup, showcasing her resourcefulness and bravery.",
+      "location": "White Sands Hotel",
+      "firstLine": "Diana's little sister Minnie May was terribly sick.",
+      "lastLine": "Minnie May recovered fully, and Diana's parents thanked Anne profoundly.",
+      "numLines": 25,
+      "ratings": {
+        "importance": 7,
+        "conflict": 1,
+        "sentiment": 0.8
+      },
+      "characters": [
+        {
+          "name": "Anne Shirley",
+          "importance": 1,
+          "emotion": "Focused and determined",
+          "quote": "I know what to do for croup!",
+          "rating": 1
+        },
+        {
+          "name": "Diana Barry",
+          "importance": 2,
+          "emotion": "Worried and grateful",
+          "quote": "Anne, you saved her!",
+          "rating": 1
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "name": "Matthew Buys Puffed Sleeves for Anne",
+      "summary": "Matthew secretly buys Anne a dress with puffed sleeves, demonstrating his deep affection for her happiness.",
+      "location": "Carmody",
+      "firstLine": "Matthew set out, ostensibly to do some shopping.",
+      "lastLine": "Anne could not believe her eyes when Matthew handed her the package.",
+      "numLines": 20,
+      "ratings": {
+        "importance": 6,
+        "conflict": 0.2,
+        "sentiment": 1
+      },
+      "characters": [
+        {
+          "name": "Matthew Cuthbert",
+          "importance": 1,
+          "emotion": "Nervous but determined",
+          "quote": "I'd like to get some little thing for Anne.",
+          "rating": 1
+        },
+        {
+          "name": "Anne Shirley",
+          "importance": 2,
+          "emotion": "Ecstatic and grateful",
+          "quote": "Oh, Matthew, it's just what I've wanted.",
+          "rating": 1
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "name": "Gilbert Saves Anne's Boat",
+      "summary": "Gilbert saves Anne when her boat sinks during her reenactment of the Lady of Shalott, starting a shift in their relationship.",
+      "location": "Road to Green Gables",
+      "firstLine": "Anne's boat began to leak.",
+      "lastLine": "Thank you for saving me, Gilbert.",
+      "numLines": 35,
+      "ratings": {
+        "importance": 4,
+        "conflict": 0.9,
+        "sentiment": 0.5
+      },
+      "characters": [
+        {
+          "name": "Anne Shirley",
+          "importance": 1,
+          "emotion": "Distressed then grateful",
+          "quote": "I'm sinking! Please help!",
+          "rating": 0.5
+        },
+        {
+          "name": "Gilbert Blythe",
+          "importance": 2,
+          "emotion": "Concerned and helpful",
+          "quote": "Hang on, Anne! I'll get you!",
+          "rating": 0.6
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "name": "Anne Refuses Gilbert's First Apology",
+      "summary": "Anne refuses Gilbert's first apology at school, maintaining her grudge over his earlier teasing.",
+      "location": "Avonlea School",
+      "firstLine": "Gilbert approached Anne to apologize for calling her carrots.",
+      "lastLine": "Anne turned away, refusing to accept Gilbert's apology.",
+      "numLines": 12,
+      "ratings": {
+        "importance": 13,
+        "conflict": 1,
+        "sentiment": -0.8
+      },
+      "characters": [
+        {
+          "name": "Anne Shirley",
+          "importance": 1,
+          "emotion": "Stubborn and hurt",
+          "quote": "I shall never forgive you.",
+          "rating": -1
+        },
+        {
+          "name": "Gilbert Blythe",
+          "importance": 2,
+          "emotion": "Regretful and sincere",
+          "quote": "I'm truly sorry, Anne. I was foolish.",
+          "rating": -0.5
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "name": "Anne's Hair Disaster",
+      "summary": "Anne tries to dye her red hair black, but it turns green, leading to another series of humorous and humbling experiences.",
+      "location": "Green Gables",
+      "firstLine": "Anne, what have you done to your hair?",
+      "lastLine": "Anne, sobbing, confessed that she had tried to dye it.",
+      "numLines": 25,
+      "ratings": {
+        "importance": 15,
+        "conflict": 0.8,
+        "sentiment": -0.9
+      },
+      "characters": [
+        {
+          "name": "Anne Shirley",
+          "importance": 1,
+          "emotion": "Embarrassed and distressed",
+          "quote": "I thought nothing could be as bad as red hair. But now I know it's green!",
+          "rating": -1
+        },
+        {
+          "name": "Marilla Cuthbert",
+          "importance": 2,
+          "emotion": "Astonished and disapproving",
+          "quote": "You've really done it this time, Anne.",
+          "rating": -0.8
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "name": "Anne and Diana Get Into Trouble With Currant Wine",
+      "summary": "Anne accidentally serves Diana currant wine instead of raspberry cordial, resulting in Diana becoming drunkenly ill and causing a rift between their families.",
+      "location": "Green Gables",
+      "firstLine": "Diana said she was thirsty. Would you have raspberry cordial?",
+      "lastLine": "Diana went home sick and Marilla discovered the mistake.",
+      "numLines": 30,
+      "ratings": {
+        "importance": 5,
+        "conflict": 1,
+        "sentiment": -0.7
+      },
+      "characters": [
+        {
+          "name": "Anne Shirley",
+          "importance": 1,
+          "emotion": "Confused and apologetic",
+          "quote": "I thought it was raspberry cordial. I meant no harm.",
+          "rating": -0.7
+        },
+        {
+          "name": "Diana Barry",
+          "importance": 2,
+          "emotion": "Ill and bewildered",
+          "quote": "Oh, Anne, I feel so...so...strange.",
+          "rating": -0.8
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "name": "Anne's Success at Queen's Academy",
+      "summary": "Anne wins a scholarship at Queen's Academy, proving her academic prowess and securing her future education.",
+      "location": "Avonlea School",
+      "firstLine": "Anne worked hard and her efforts were rewarded.",
+      "lastLine": "Anne, jubilant, shared the news of her scholarship with Marilla and Matthew.",
+      "numLines": 20,
+      "ratings": {
+        "importance": 3,
+        "conflict": 0.2,
+        "sentiment": 1
+      },
+      "characters": [
+        {
+          "name": "Anne Shirley",
+          "importance": 1,
+          "emotion": "Proud and excited",
+          "quote": "I've won the Avery scholarship!",
+          "rating": 1
+        },
+        {
+          "name": "Marilla Cuthbert",
+          "importance": 2,
+          "emotion": "Proud and supportive",
+          "quote": "I always knew you could do it, Anne.",
+          "rating": 1
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "name": "Matthew's Death",
+      "summary": "Matthew dies from a heart attack, deeply affecting Anne and leading her to reconsider her plans for the future.",
+      "location": "Green Gables",
+      "firstLine": "Marilla found Matthew in the barn, looking very unwell.",
+      "lastLine": "Anne, coming home, found Green Gables wrapped in mourning.",
+      "numLines": 18,
+      "ratings": {
+        "importance": 2,
+        "conflict": 0.5,
+        "sentiment": -1
+      },
+      "characters": [
+        {
+          "name": "Matthew Cuthbert",
+          "importance": 1,
+          "emotion": "Serene yet sorrowful",
+          "quote": "MATTHEW--Matthew--what is the matter? Matthew, are you sick?",
+          "rating": -1
+        },
+        {
+          "name": "Anne Shirley",
+          "importance": 2,
+          "emotion": "Grieving and devastated",
+          "quote": "“Mrs. Lynde, you don't think--you can't think Matthew is--is--” Anne could not say the dreadful word; she turned sick and pallid.",
+          "rating": -1
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "name": "Anne Decides to Stay at Green Gables",
+      "summary": "After Matthew's death, Anne chooses to stay at Green Gables to support Marilla, who faces failing eyesight.",
+      "location": "Green Gables",
+      "firstLine": "I've decided I won't go to Queen's.",
+      "lastLine": "I'm needed here.",
+      "numLines": 25,
+      "ratings": {
+        "importance": 1,
+        "conflict": 0.2,
+        "sentiment": 0.8
+      },
+      "characters": [
+        {
+          "name": "Anne Shirley",
+          "importance": 1,
+          "emotion": "Determined and compassionate",
+          "quote": "You won't have to stay here alone, Marilla. I'll be with you. I'm not going to Redmond.",
+          "rating": 1
+        },
+        {
+          "name": "Marilla Cuthbert",
+          "importance": 2,
+          "emotion": "Grateful and moved",
+          "quote": "Oh, Anne, I could get on real well if you were here, I know. But I can't let you sacrifice yourself so for me. It would be terrible.",
+          "rating": 1
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "name": "Anne and Gilbert's Reconciliation",
+      "summary": "Anne reconciles with Gilbert, paving the way for a supportive friendship as they move toward their future academic pursuits.",
+      "location": "Avonlea School",
+      "firstLine": "I want to apologize. Can we be friends again?",
+      "lastLine": "We are going to be the best of friends.",
+      "numLines": 20,
+      "ratings": {
+        "importance": 16,
+        "conflict": 0,
+        "sentiment": 1
+      },
+      "characters": [
+        {
+          "name": "Anne Shirley",
+          "importance": 1,
+          "emotion": "Relieved and optimistic",
+          "quote": "I want to apologize. Can we be friends again?",
+          "rating": 1
+        },
+        {
+          "name": "Gilbert Blythe",
+          "importance": 2,
+          "emotion": "Happy and accepting",
+          "quote": "We are going to be the best of friends.",
+          "rating": 1
+        }
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "name": "Green Gables",
+      "key": "gables",
+      "quote": "A huge cherry-tree grew outside, so close that its boughs tapped against the house, and it was so thick-set with blossoms that hardly a leaf was to be seen. On both sides of the house was a big orchard, one of apple-trees and one of cherry-trees, also showered over with blossoms; and their grass was all sprinkled with dandelions. In the garden below were lilac-trees purple with flowers, and their dizzily sweet fragrance drifted up to the window on the morning wind."
+    },
+    {
+      "name": "White Sands Hotel",
+      "key": "sands",
+      "quote": "That's the White Sands Hotel. Mr. Kirke runs it, but the season hasn't begun yet. There are heaps of Americans come there for the summer. They think this shore is just about right."
+    },
+    {
+      "name": "Avonlea School",
+      "key": "school",
+      "quote": "The Avonlea school was a whitewashed building, low in the eaves and wide in the windows, furnished inside with comfortable substantial old-fashioned desks that opened and shut, and were carved all over their lids with the initials and hieroglyphics of three generations of school children."
+    },
+    {
+      "name": "Carmody",
+      "key": "carmody",
+      "quote": "Carmody was a brisk little village by the railway track, which knew all about the speeds and weights of express trains to the fraction of a minute and could tell exactly how many minutes late the local was before the whistle was heard."
+    },
+    {
+      "name": "Road to Green Gables",
+      "key": "road",
+      "quote": "The way Anne and Diana went to school was a pretty one. Anne thought those walks to and from school with Diana couldn't be improved upon even by imagination. Going around by the main road would have been so unromantic; but to go by Lover's Lane and Willowmere and Violet Vale and the Birch Path was romantic, if ever anything was."
+    }
+  ],
+  "characters": [
+    {
+      "character": "Anne Shirley",
+      "short": "Anne",
+      "key": "anne",
+      "quote": "Anne, bursting into tears, rushed to the hall door, slammed it until the tins on the porch wall outside rattled in sympathy, and fled through the hall and up the stairs like a whirlwind.",
+      "group": "Main Characters",
+      "color": "rgb(220, 20, 60)",
+      "explanation": "A vivid red to represent Anne's fiery personality, passion, and emotional intensity."
+    },
+    {
+      "character": "Marilla Cuthbert",
+      "short": "Marilla",
+      "key": "marilla",
+      "quote": "Marilla was a tall, thin woman, with angles and without curves; her dark hair showed some gray streaks and was always twisted up in a hard little knot behind with two wire hairpins stuck aggressively through it.",
+      "group": "Main Characters",
+      "color": "rgb(105, 105, 105)",
+      "explanation": "A solid gray, reflecting Marilla's stern and somewhat rigid demeanor, with undertones of wisdom and stability."
+    },
+    {
+      "character": "Matthew Cuthbert",
+      "key": "matthew",
+      "short": "Matthew",
+      "quote": "Matthew, barely noting that it was a girl, sidled past her as quickly as possible without looking at her. Had he looked he could hardly have failed to notice the tense rigidity and expectation of her attitude and expression.",
+      "group": "Main Characters",
+      "color": "rgb(139, 69, 19)",
+      "explanation": "A warm brown, symbolizing Matthew's earthy, quiet, and supportive nature."
+    },
+    {
+      "character": "Diana Barry",
+      "key": "diana",
+      "short": "Diana",
+      "quote": "Diana was a very pretty little girl, with her mother's black eyes and hair, and rosy cheeks, and the merry expression which was her inheritance from her father.",
+      "group": "Friends",
+      "color": "rgb(75, 0, 130)",
+      "explanation": "A deep indigo, representing Diana's vibrant but soothing presence and her deep connection with Anne."
+    },
+    {
+      "character": "Gilbert Blythe",
+      "key": "gilbert",
+      "short": "Gilbert",
+      "quote": "Gilbert Blythe wasn't used to putting himself out to make a girl look at him and meeting with failure. She should look at him, that red-haired Shirley girl with the little pointed chin and the big eyes that weren't like the eyes of any other girl in Avonlea school.",
+      "group": "Classmates",
+      "color": "rgb(0, 128, 128)",
+      "explanation": "A teal color, capturing Gilbert's uniqueness and the blend of his emotional depth and balance."
+    },
+    {
+      "character": "Rachel Lynde",
+      "key": "rachel",
+      "short": "Rachel",
+      "quote": "Rachel Lynde lived just where the Avonlea main road dipped down into a little hollow, fringed with alders and ladies' eardrops and traversed by a brook that had its source away back in the woods of the old Cuthbert place.",
+      "group": "Neighbors",
+      "color": "rgb(85, 107, 47)",
+      "explanation": "A dark olive green, suggesting Rachel's earthy, outspoken personality and her rootedness in community life."
+    }
+  ]
+}
