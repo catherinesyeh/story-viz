@@ -154,7 +154,7 @@ const location_quotes = (
 ): LocationQuote[] =>
   location_data
     .map((location) => {
-      const chunked = chunkQuote('"' + location.quote + '"', 82);
+      const chunked = chunkQuote('"' + location.quote + '"', 80);
       return {
         location: location.name,
         quote: chunked,

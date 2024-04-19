@@ -1,0 +1,680 @@
+{
+  "title": "Coco",
+  "type": "movie",
+  "director": "Adrian Molina, Lee Unkrich",
+  "year": "2017",
+  "url": "https://github.com/eDubrovsky/movie_scripts/blob/master/Coco.txt",
+  "image": "https://upload.wikimedia.org/wikipedia/en/9/98/Coco_%282017_film%29_poster.jpg",
+  "scenes": [
+    {
+      "number": 1,
+      "name": "Introduction to Miguel's Family Curse",
+      "summary": "Miguel narrates the history of his family's ban on music, tracing it back to his great-great-grandfather's abandonment.",
+      "location": "Marigold Path",
+      "firstLine": "Sometimes I think I'm cursed... 'cause of something that happened before I was even born.",
+      "lastLine": "You see, that woman was my great-great grandmother, Mamá Imelda.",
+      "numLines": 50,
+      "ratings": {
+        "importance": 19,
+        "conflict": 0,
+        "sentiment": -0.5
+      },
+      "characters": [
+        {
+          "name": "Miguel",
+          "importance": 1,
+          "emotion": "Reflective and curious about family history",
+          "quote": "Sometimes I think I'm cursed... 'cause of something that happened before I was even born.",
+          "rating": 0.1
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "name": "Miguel's Secret Passion for Music",
+      "summary": "Miguel secretly idolizes Ernesto de la Cruz and practices guitar in his hideout.",
+      "location": "Rivera Household",
+      "firstLine": "Miguel reveals a makeshift guitar, cobbled together from a beat up old soundboard and random other items.",
+      "lastLine": "Miguel gives a grossed-out chuckle.",
+      "numLines": 35,
+      "ratings": {
+        "importance": 2,
+        "conflict": 1,
+        "sentiment": 0.5
+      },
+      "characters": [
+        {
+          "name": "Miguel",
+          "importance": 1,
+          "emotion": "Excited and hopeful",
+          "quote": "I wish someone wanted to hear me... Other than you...",
+          "rating": 1
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "name": "Confrontation in Mariachi Plaza",
+      "summary": "Miguel argues with his family about his secret passion for music after being discovered.",
+      "location": "Mariachi Plaza",
+      "firstLine": "Abuelita! What are you doing here?",
+      "lastLine": "My grandson is a sweet little angelito querido cielito -- he wants no part of your music, mariachi! You keep away from him!",
+      "numLines": 45,
+      "ratings": {
+        "importance": 21,
+        "conflict": 1,
+        "sentiment": -1
+      },
+      "characters": [
+        {
+          "name": "Miguel",
+          "importance": 1,
+          "emotion": "Frustrated and misunderstood",
+          "quote": "He was just showing me his guitar...",
+          "rating": -1
+        },
+        {
+          "name": "Abuelita",
+          "importance": 2,
+          "emotion": "Protective and authoritative",
+          "quote": "My grandson is a sweet little angelito querido cielito -- he wants no part of your music, mariachi! You keep away from him!",
+          "rating": -1
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "name": "Miguel's Bold Decision",
+      "summary": "Miguel decides to seize his moment by entering a music competition despite his family's prohibition.",
+      "location": "Mariachi Plaza",
+      "firstLine": "Look, if you're too scared, then, well... have fun making shoes.",
+      "lastLine": "I'm gonna seize my moment!",
+      "numLines": 30,
+      "ratings": {
+        "importance": 3,
+        "conflict": 1,
+        "sentiment": 0.8
+      },
+      "characters": [
+        {
+          "name": "Miguel",
+          "importance": 1,
+          "emotion": "Determined and defiant",
+          "quote": "I'm gonna seize my moment!",
+          "rating": 1
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "name": "Miguel's Discovery",
+      "summary": "Miguel discovers that his idol, Ernesto de la Cruz, may be his great-great-grandfather and decides to steal his guitar to play in the talent show.",
+      "location": "De la Cruz's Mausoleum",
+      "firstLine": "Miguel approaches a statue of a handsome mariachi at the heart of the plaza.",
+      "lastLine": "Sometimes, I look at de la Cruz and I get this feeling... like we're connected somehow.",
+      "numLines": 40,
+      "ratings": {
+        "importance": 4,
+        "conflict": 0.5,
+        "sentiment": 0.8
+      },
+      "characters": [
+        {
+          "name": "Miguel",
+          "importance": 1,
+          "emotion": "Inspired and hopeful",
+          "quote": "Sometimes, I look at de la Cruz and I get this feeling... like we're connected somehow.",
+          "rating": 1
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "name": "The Talent Show Plan",
+      "summary": "Miguel decides to perform at the Día de Muertos talent show but needs a guitar, prompting him to make a bold choice.",
+      "location": "Mariachi Plaza",
+      "firstLine": "I'm gonna play in Mariachi Plaza if it kills me!",
+      "lastLine": "No one's going anywhere. Tonight is about family.",
+      "numLines": 20,
+      "ratings": {
+        "importance": 5,
+        "conflict": 1,
+        "sentiment": -0.2
+      },
+      "characters": [
+        {
+          "name": "Miguel",
+          "importance": 1,
+          "emotion": "Determined and rebellious",
+          "quote": "I'm gonna play in Mariachi Plaza if it kills me!",
+          "rating": 1
+        },
+        {
+          "name": "Abuelita",
+          "importance": 2,
+          "emotion": "Strict and protective",
+          "quote": "No one's going anywhere. Tonight is about family.",
+          "rating": -1
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "name": "Miguel's Journey to the Land of the Dead",
+      "summary": "After stealing de la Cruz's guitar, Miguel finds himself mysteriously transported to the Land of the Dead.",
+      "location": "De la Cruz's Mausoleum",
+      "firstLine": "Señor de la Cruz? Please don't be mad. I'm Miguel, your great-great grandson... I need to borrow this.",
+      "lastLine": "The guitar! It's gone! Somebody stole de la Cruz's guitar! The window's broken, look.",
+      "numLines": 55,
+      "ratings": {
+        "importance": 7,
+        "conflict": 0.8,
+        "sentiment": -0.9
+      },
+      "characters": [
+        {
+          "name": "Miguel",
+          "importance": 1,
+          "emotion": "Excited yet nervous",
+          "quote": "Señor de la Cruz? Please don't be mad. I'm Miguel, your great-great grandson... I need to borrow this.",
+          "rating": 0.5
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "name": "First Encounter in the Land of the Dead",
+      "summary": "Miguel meets his ancestors in the Land of the Dead, who are surprised to see him there.",
+      "location": "Land of the Dead",
+      "firstLine": "Dante?! You can see me? W-wait! What's going on?!",
+      "lastLine": "You're here! HERE here! And you can see us?!",
+      "numLines": 60,
+      "ratings": {
+        "importance": 14,
+        "conflict": 0.5,
+        "sentiment": 0.1
+      },
+      "characters": [
+        {
+          "name": "Miguel",
+          "importance": 1,
+          "emotion": "Confused and scared",
+          "quote": "Dante?! You can see me? W-wait! What's going on?!",
+          "rating": -0.5
+        },
+        {
+          "name": "Papá Julio",
+          "importance": 2,
+          "emotion": "Surprised and welcoming",
+          "quote": "You're here! HERE here! And you can see us?!",
+          "rating": 0.7
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "name": "Mamá Imelda's Blessing",
+      "summary": "Miguel seeks a blessing from Mamá Imelda to return to the living world but with a condition that he must abandon music.",
+      "location": "Marigold Grand Central Station",
+      "firstLine": "How do we send him back?!",
+      "lastLine": "And to never play music again!",
+      "numLines": 45,
+      "ratings": {
+        "importance": 16,
+        "conflict": 1,
+        "sentiment": -0.8
+      },
+      "characters": [
+        {
+          "name": "Miguel",
+          "importance": 1,
+          "emotion": "Desperate but defiant",
+          "quote": "But I wasn't stealing the guitar!",
+          "rating": -0.8
+        },
+        {
+          "name": "Mamá Imelda",
+          "importance": 2,
+          "emotion": "Stern and authoritative",
+          "quote": "And to never play music again!",
+          "rating": -1
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "name": "Miguel's Escape",
+      "summary": "Miguel rejects Mamá Imelda's condition and escapes to find Ernesto de la Cruz to receive his blessing without conditions.",
+      "location": "Marigold Grand Central Station",
+      "firstLine": "I need to find de la Cruz to get his blessing.",
+      "lastLine": "Seize my moment, show me what you got, muchacho.",
+      "numLines": 30,
+      "ratings": {
+        "importance": 8,
+        "conflict": 1,
+        "sentiment": 0.3
+      },
+      "characters": [
+        {
+          "name": "Miguel",
+          "importance": 1,
+          "emotion": "Determined and rebellious",
+          "quote": "I need to find de la Cruz to get his blessing.",
+          "rating": 1
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "name": "Encounter with Héctor",
+      "summary": "Miguel meets Héctor, who promises to help him find de la Cruz in exchange for taking his photo back to the Land of the Living.",
+      "location": "Land of the Dead",
+      "firstLine": "You know de la Cruz?",
+      "lastLine": "Look, if I were you I'd march right up to my family and say, 'Hey! I'm a musician. Deal with it!'",
+      "numLines": 50,
+      "ratings": {
+        "importance": 17,
+        "conflict": 0.5,
+        "sentiment": 0.3
+      },
+      "characters": [
+        {
+          "name": "Miguel",
+          "importance": 1,
+          "emotion": "Curious and hopeful",
+          "quote": "You know de la Cruz?",
+          "rating": 0.5
+        },
+        {
+          "name": "Héctor",
+          "importance": 2,
+          "emotion": "Desperate and cunning",
+          "quote": "Look, if I were you I'd march right up to my family and say, 'Hey! I'm a musician. Deal with it!'",
+          "rating": -0.1
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "name": "Journey Through the Land of the Dead",
+      "summary": "Miguel and Héctor traverse the Land of the Dead, encountering various obstacles and learning more about each other.",
+      "location": "Land of the Dead",
+      "firstLine": "Did de la Cruz become the world's best musician by hiding his sweet, sweet skills? No! He walked out onto that plaza and he played out loud!",
+      "lastLine": "You really hate music that much?",
+      "numLines": 65,
+      "ratings": {
+        "importance": 18,
+        "conflict": 0.6,
+        "sentiment": 0.2
+      },
+      "characters": [
+        {
+          "name": "Miguel",
+          "importance": 1,
+          "emotion": "Determined and reflective",
+          "quote": "You really hate music that much?",
+          "rating": 0.7
+        },
+        {
+          "name": "Héctor",
+          "importance": 2,
+          "emotion": "Helpful yet secretive",
+          "quote": "Did de la Cruz become the world's best musician by hiding his sweet, sweet skills? No! He walked out onto that plaza and he played out loud!",
+          "rating": 0.3
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "name": "The Talent Show at the Land of the Dead",
+      "summary": "Miguel performs in a talent show in hopes of meeting Ernesto de la Cruz.",
+      "location": "Land of the Dead",
+      "firstLine": "Next up on stage, muchacho from nowhere, he says he's going to shake the heavens!",
+      "lastLine": "I did it! I hope de la Cruz was watching!",
+      "numLines": 35,
+      "ratings": {
+        "importance": 20,
+        "conflict": 0.3,
+        "sentiment": 1
+      },
+      "characters": [
+        {
+          "name": "Miguel",
+          "importance": 1,
+          "emotion": "Excited and ambitious",
+          "quote": "I did it! I hope de la Cruz was watching!",
+          "rating": 1
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "name": "Miguel Meets Ernesto de la Cruz",
+      "summary": "Miguel finally meets his idol, Ernesto de la Cruz, and asks for his blessing to return home.",
+      "location": "Land of the Dead",
+      "firstLine": "Señor de la Cruz, what did it take for you to seize your moment?",
+      "lastLine": "You have spirit, my boy. I will give you my blessing.",
+      "numLines": 40,
+      "ratings": {
+        "importance": 6,
+        "conflict": 0.2,
+        "sentiment": 0.9
+      },
+      "characters": [
+        {
+          "name": "Miguel",
+          "importance": 1,
+          "emotion": "Admiring and hopeful",
+          "quote": "Señor de la Cruz, what did it take for you to seize your moment?",
+          "rating": 1
+        },
+        {
+          "name": "Ernesto de la Cruz",
+          "importance": 2,
+          "emotion": "Flattered and generous",
+          "quote": "You have spirit, my boy. I will give you my blessing.",
+          "rating": 0.8
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "name": "Truth Revealed",
+      "summary": "Miguel learns the shocking truth about Ernesto's past and his real relationship with Héctor.",
+      "location": "Land of the Dead",
+      "firstLine": "He's not who we think he is!",
+      "lastLine": "I made a mistake. I should have never taken Ernesto's guitar.",
+      "numLines": 45,
+      "ratings": {
+        "importance": 1,
+        "conflict": 1,
+        "sentiment": -1
+      },
+      "characters": [
+        {
+          "name": "Miguel",
+          "importance": 1,
+          "emotion": "Betrayed and regretful",
+          "quote": "I made a mistake. I should have never taken Ernesto's guitar.",
+          "rating": -1
+        },
+        {
+          "name": "Héctor",
+          "importance": 2,
+          "emotion": "Vindicated but sorrowful",
+          "quote": "He's not who we think he is!",
+          "rating": -0.8
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "name": "Reconciliation and Return",
+      "summary": "Miguel is reunited with Héctor, realizes their true family connection, and gains a true understanding of his family history.",
+      "location": "Land of the Dead",
+      "firstLine": "You are my real great-great-grandfather!",
+      "lastLine": "Let's go home, Miguel. Your family is waiting.",
+      "numLines": 30,
+      "ratings": {
+        "importance": 12,
+        "conflict": 0.5,
+        "sentiment": 1
+      },
+      "characters": [
+        {
+          "name": "Miguel",
+          "importance": 1,
+          "emotion": "Joyful and relieved",
+          "quote": "You are my real great-great-grandfather!",
+          "rating": 1
+        },
+        {
+          "name": "Héctor",
+          "importance": 2,
+          "emotion": "Forgiving and content",
+          "quote": "Let's go home, Miguel. Your family is waiting.",
+          "rating": 0.9
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "name": "Race Against Time",
+      "summary": "Miguel rushes to return to the living world before sunrise to save Héctor's memory and keep his family's story alive.",
+      "location": "Land of the Dead",
+      "firstLine": "We have to hurry!",
+      "lastLine": "I promise to never forget you, Héctor.",
+      "numLines": 25,
+      "ratings": {
+        "importance": 15,
+        "conflict": 1,
+        "sentiment": 0.3
+      },
+      "characters": [
+        {
+          "name": "Miguel",
+          "importance": 1,
+          "emotion": "Desperate and determined",
+          "quote": "We have to hurry!",
+          "rating": 1
+        },
+        {
+          "name": "Héctor",
+          "importance": 2,
+          "emotion": "Hopeful and anxious",
+          "quote": "I promise to never forget you, Héctor.",
+          "rating": 0.8
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "name": "Miguel's Performance and Family Acceptance",
+      "summary": "Miguel plays 'Remember Me' to awaken Mamá Coco's memories, succeeding in preserving Héctor's legacy within the family.",
+      "location": "Mamá Coco's Room",
+      "firstLine": "Remember me, though I have to say goodbye.",
+      "lastLine": "Ay, Mamá Coco, your papá, he loved you so much.",
+      "numLines": 40,
+      "ratings": {
+        "importance": 10,
+        "conflict": 0.1,
+        "sentiment": 1
+      },
+      "characters": [
+        {
+          "name": "Miguel",
+          "importance": 1,
+          "emotion": "Emotional and hopeful",
+          "quote": "Remember me, though I have to say goodbye.",
+          "rating": 1
+        },
+        {
+          "name": "Mamá Coco",
+          "importance": 2,
+          "emotion": "Reflective and touched",
+          "quote": "Ay, Mamá Coco, your papá, he loved you so much.",
+          "rating": 0.9
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "name": "Mamá Coco Shares Her Memories",
+      "summary": "Miguel's song unlocks Mamá Coco's memories, and she shares old artifacts that validate Héctor's legacy.",
+      "location": "Mamá Coco's Room",
+      "firstLine": "Now I remember. Your father, he used to sing me that song.",
+      "lastLine": "He wrote this song for me. I kept his letters, his poems. Look!",
+      "numLines": 30,
+      "ratings": {
+        "importance": 9,
+        "conflict": 0.1,
+        "sentiment": 1
+      },
+      "characters": [
+        {
+          "name": "Miguel",
+          "importance": 2,
+          "emotion": "Relieved and joyful",
+          "quote": "She remembers!",
+          "rating": 1
+        },
+        {
+          "name": "Mamá Coco",
+          "importance": 1,
+          "emotion": "Reflective and nostalgic",
+          "quote": "He wrote this song for me. I kept his letters, his poems. Look!",
+          "rating": 1
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "name": "Family Reconciliation",
+      "summary": "The Rivera family reconciles their past with music, accepting it back into their lives and honoring Héctor's memory on the ofrenda.",
+      "location": "Rivera Household",
+      "firstLine": "We were wrong about music, and about Héctor.",
+      "lastLine": "Let's celebrate our family, our music!",
+      "numLines": 25,
+      "ratings": {
+        "importance": 11,
+        "conflict": 0.2,
+        "sentiment": 1
+      },
+      "characters": [
+        {
+          "name": "Miguel",
+          "importance": 2,
+          "emotion": "Joyful and validated",
+          "quote": "Let's celebrate our family, our music!",
+          "rating": 1
+        },
+        {
+          "name": "Abuelita",
+          "importance": 1,
+          "emotion": "Apologetic and accepting",
+          "quote": "We were wrong about music, and about Héctor.",
+          "rating": 1
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "name": "A New Tradition",
+      "summary": "During the next Day of the Dead, Miguel's family celebrates with music, honoring all their ancestors.",
+      "location": "Rivera Household",
+      "firstLine": "Look at our ofrenda, now complete with all our ancestors, including Héctor.",
+      "lastLine": "Music brings us together again.",
+      "numLines": 20,
+      "ratings": {
+        "importance": 13,
+        "conflict": 0,
+        "sentiment": 1
+      },
+      "characters": [
+        {
+          "name": "Miguel",
+          "importance": 1,
+          "emotion": "Proud and happy",
+          "quote": "Music brings us together again.",
+          "rating": 1
+        }
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "name": "Land of the Dead",
+      "key": "land_of_the_dead",
+      "quote": "Out of the mist, the sparkling cityscape of the Land of the Dead emerges. It's breathtaking."
+    },
+    {
+      "name": "Rivera Household",
+      "key": "household",
+      "quote": "The Rivera family home, filled with the love, culture, and traditions of generations."
+    },
+    {
+      "name": "Mamá Coco's Room",
+      "key": "mama_cocos_room",
+      "quote": "A quiet room where Mamá Coco spends most of her time, surrounded by memories of the past."
+    },
+    {
+      "name": "Mariachi Plaza",
+      "key": "plaza",
+      "quote": "Miguel rounds the corner toward the town square. Vendors sell sugar skulls and marigolds, and musicians fill the square with music."
+    },
+    {
+      "name": "De la Cruz's Mausoleum",
+      "key": "mausoleum",
+      "quote": "Inside, the famous guitar hangs above the crypt. Fireworks pop; bursts of light glint off the instrument."
+    },
+    {
+      "name": "Marigold Grand Central Station",
+      "key": "station",
+      "quote": "Welcome back to the Land of the Dead. Please have all offerings ready for re-entry."
+    },
+    {
+      "name": "Marigold Path",
+      "key": "marigold_path",
+      "quote": "A path of marigold petals leads up to an altar lovingly arranged in a humble cemetery."
+    }
+  ],
+  "characters": [
+    {
+      "character": "Miguel",
+      "key": "miguel",
+      "quote": "Sometimes I think I'm cursed... 'cause of something that happened before I was even born.",
+      "group": "Main Characters",
+      "color": "rgb(239, 154, 18)",
+      "explanation": "A vibrant orange, symbolizing Miguel's youthful energy and passion for music, despite the 'cursed' feeling."
+    },
+    {
+      "character": "Mamá Imelda",
+      "key": "mama_imelda",
+      "quote": "Music had torn her family apart, but shoes held them all together.",
+      "group": "Ancestors",
+      "color": "rgb(129, 90, 132)",
+      "explanation": "A deep mauve, representing her serious and strong-willed nature that binds the family."
+    },
+    {
+      "character": "Mamá Coco",
+      "key": "mama_coco",
+      "quote": "She's my great grandmother, Mamá Coco.",
+      "group": "Elders",
+      "color": "rgb(255, 233, 173)",
+      "explanation": "A light beige, reflecting her aged wisdom and the warmth she holds within the family."
+    },
+    {
+      "character": "Abuelita",
+      "key": "abuelita",
+      "quote": "Abuelita runs our house just like Mamá Imelda did.",
+      "group": "Family Authority",
+      "color": "rgb(176, 100, 44)",
+      "explanation": "A rich sienna, denoting her traditional values and strong matriarchal role."
+    },
+    {
+      "character": "Héctor",
+      "key": "hector",
+      "quote": "Never underestimate the power of music...",
+      "group": "Musicians",
+      "color": "rgb(107, 194, 53)",
+      "explanation": "A lively green, capturing his lively spirit and the rejuvenation his music brings."
+    },
+    {
+      "character": "Ernesto de la Cruz",
+      "key": "ernesto",
+      "short": "De la Cruz",
+      "quote": "The greatest musician of all time.",
+      "group": "Celebrities",
+      "color": "rgb(195, 32, 72)",
+      "explanation": "A dramatic crimson, highlighting his fame and the darker secrets he holds."
+    },
+    {
+      "character": "Papá Julio",
+      "key": "papa_julio",
+      "quote": "You're here! HERE here! And you can see us?!",
+      "group": "Ancestors",
+      "color": "rgb(113, 158, 235)",
+      "explanation": "A soft blue, symbolizing his gentle and welcoming nature in the afterlife."
+    }
+  ]
+}

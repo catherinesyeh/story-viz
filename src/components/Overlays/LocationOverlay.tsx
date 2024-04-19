@@ -42,6 +42,7 @@ function LocationOverlay() {
             </>
           )}
           {locationQuoteTexts[i] &&
+            location_quotes[i] &&
             location_quotes[i].quote.map(
               (quote, j) =>
                 locationQuoteTexts[i][j] && (
