@@ -187,7 +187,8 @@ const getPath = (
   og_max_y_per_scene: number[],
   old_max_y_per_scene: number[],
   sceneCharacters: SceneCharacter[],
-  scenePos: Position[]
+  scenePos: Position[],
+  sceneLocations: string[]
 ) => {
   const adjustments = {} as Record<number, number>;
   const max_y_per_scene = [...old_max_y_per_scene];
@@ -246,9 +247,37 @@ const getPath = (
         ? prevNumPrevChars
         : prevSceneChars.length - prevNumPrevChars - 1;
 
+    const location = sceneLocations[scene_index];
+
+    let horizontalPath =
+      cur_y === prev_y && (numPrevChars === 0 || cur_y > cur_max_y); // can draw a horizontal line if true
+
+    if (horizontalPath) {
+      // double check if there's overlap
+      // e.g., see if there's any other points with the same x value as the current point in the scenes between prev_scene_index and scene_index
+      // first find if there's any scenes with the same location as the current scene
+
+      const same_loc_scenes = sceneLocations
+        .map((loc, i) => [loc, i])
+        .filter(
+          (loc) =>
+            loc[0] === location &&
+            (loc[1] as number) >= prev_scene_index &&
+            (loc[1] as number) < scene_index
+        );
+
+      same_loc_scenes.forEach((loc) => {
+        // see if there's any characters in the same location
+        const chars = sceneCharacters[loc[1] as number].characters;
+        if (chars.length >= numPrevChars) {
+          horizontalPath = false;
+        }
+      });
+    }
+
     // gap (1+ scene)
     const gap = charScenes[j] - charScenes[old_j];
-    if (gap > 1) {
+    if (gap > 1 && !horizontalPath) {
       // calculate width of leftmost and rightmost scenes in gap
       const prev_width =
         scenePos[prev_scene_index].x - scenePos[prev_scene_index - 1].x;
@@ -532,7 +561,8 @@ const characterPaths = (
   max_y_per_scene: number[],
   sceneCharacters: SceneCharacter[],
   scene_data: Scene[],
-  scenePos: Position[]
+  scenePos: Position[],
+  sceneLocations: string[]
 ) => {
   const og_max_y_per_scene = [...max_y_per_scene];
   let updated_max_y_per_scene = [...max_y_per_scene];
@@ -562,7 +592,8 @@ const characterPaths = (
       og_max_y_per_scene,
       updated_max_y_per_scene,
       sceneCharacters,
-      scenePos
+      scenePos,
+      sceneLocations
     );
     updated_max_y_per_scene = coord_info.max_y_per_scene;
     const og_indices = coord_info.og_indices;
@@ -577,24 +608,6 @@ const characterPaths = (
           point[1] - importance_weights[importance_weights.length - 1],
         ];
       } else if (!og_indices.includes(i)) {
-        // const prev_y = character_coords_arr[i - 1][1];
-        // const cur_y = character_coords_arr[i][1];
-        // const next_y = character_coords_arr[i + 1][1];
-        // if (cur_y === prev_y && cur_y < next_y) {
-        //   // moving down
-        //   // find the index in importance_weights that is closest to the current index rounded down
-        //   const ind = Math.floor(
-        //     i / (character_coords_arr.length / importance_weights.length)
-        //   );
-        //   return [point[0], point[1] - importance_weights[ind]];
-        // } else if (cur_y === next_y && cur_y < prev_y) {
-        //   // moving up
-        //   // find the index in importance_weights that is closest to the current index rounded up
-        //   const ind = Math.ceil(
-        //     i / (character_coords_arr.length / importance_weights.length)
-        //   );
-        //   return [point[0], point[1] - importance_weights[ind]];
-        // }
         return [point[0], point[1] - 0.5];
       }
       const ind = og_indices.findIndex((val) => val === i);
@@ -609,31 +622,13 @@ const characterPaths = (
           point[1] + importance_weights[importance_weights.length - 1],
         ];
       } else if (!og_indices.includes(i)) {
-        // const prev_y = character_coords_arr[i - 1][1];
-        // const cur_y = character_coords_arr[i][1];
-        // const next_y = character_coords_arr[i + 1][1];
-        // if (cur_y === prev_y && cur_y < next_y) {
-        //   // moving down
-        //   // find the index in importance_weights that is closest to the current index rounded down
-        //   const ind = Math.floor(
-        //     i / (character_coords_arr.length / importance_weights.length)
-        //   );
-        //   return [point[0], point[1] + importance_weights[ind]];
-        // } else if (cur_y === next_y && cur_y < prev_y) {
-        //   // moving up
-        //   // find the index in importance_weights that is closest to the current index rounded up
-        //   const ind = Math.ceil(
-        //     i / (character_coords_arr.length / importance_weights.length)
-        //   );
-        //   return [point[0], point[1] + importance_weights[ind]];
-        // }
         return [point[0], point[1] + 0.5];
       }
       const ind = og_indices.findIndex((val) => val === i);
       return [point[0], point[1] + importance_weights[ind]];
     });
-    // console.log(character.character);
-    // console.log(adjustments);
+    console.log(character.character);
+    console.log(adjustments);
     let top_path = svgPath(character_coords_top, adjustments, bezierCommand);
     let bottom_path = svgPath(
       character_coords_bottom,
@@ -1314,7 +1309,8 @@ export const getAllPositions = (
     initMaxYPerScene,
     sceneCharacters,
     scene_data,
-    initScenePos
+    initScenePos,
+    sceneLocations
   );
 
   const initCharacterPaths = pathInfo.paths;

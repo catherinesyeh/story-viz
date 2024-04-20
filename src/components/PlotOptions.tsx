@@ -20,6 +20,10 @@ function PlotOptions() {
     weightBy,
     setWeightBy,
     resetAll,
+    setCharacterHover,
+    setLocationHover,
+    setSceneHover,
+    setHidden,
   } = storyStore();
 
   const {
@@ -89,6 +93,11 @@ function PlotOptions() {
       // update data once story is loaded
       if (data !== new_data.default) {
         setData(new_data.default);
+        // reset the following values
+        setHidden([]);
+        setLocationHover("");
+        setCharacterHover("");
+        setSceneHover("");
       }
     } catch (error) {
       console.log("Error loading story data", error);
