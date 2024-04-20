@@ -188,7 +188,9 @@ const getPath = (
   old_max_y_per_scene: number[],
   sceneCharacters: SceneCharacter[],
   scenePos: Position[],
-  sceneLocations: string[]
+  sceneLocations: string[],
+  characterScenes: CharacterScene[],
+  characterPos: Position[][]
 ) => {
   const adjustments = {} as Record<number, number>;
   const max_y_per_scene = [...old_max_y_per_scene];
@@ -247,36 +249,62 @@ const getPath = (
         ? prevNumPrevChars
         : prevSceneChars.length - prevNumPrevChars - 1;
 
-    const location = sceneLocations[scene_index];
+    const gap = charScenes[j] - charScenes[old_j];
 
-    let horizontalPath =
-      cur_y === prev_y && (numPrevChars === 0 || cur_y > cur_max_y); // can draw a horizontal line if true
+    let horizontalPath = gap > 1 && Math.abs(cur_y - prev_y) < character_offset; // can draw a horizontal line if true
 
     if (horizontalPath) {
-      // double check if there's overlap
-      // e.g., see if there's any other points with the same x value as the current point in the scenes between prev_scene_index and scene_index
-      // first find if there's any scenes with the same location as the current scene
+      // double check if there's overlap betwene scenes with the same y value
+      const between_scenes = sceneCharacters.slice(
+        prev_scene_index,
+        scene_index
+      );
 
-      const same_loc_scenes = sceneLocations
-        .map((loc, i) => [loc, i])
-        .filter(
-          (loc) =>
-            loc[0] === location &&
-            (loc[1] as number) >= prev_scene_index &&
-            (loc[1] as number) < scene_index
+      between_scenes.forEach((scene) => {
+        const chars = scene.characters;
+        let otherChar = chars[numPrevChars];
+
+        if (chars.length - 1 < numPrevChars) {
+          otherChar = chars[chars.length - 1];
+        }
+
+        // get position of other character
+        const otherCharIndex = characterScenes.findIndex(
+          (c) => c.character === otherChar
         );
 
-      same_loc_scenes.forEach((loc) => {
-        // see if there's any characters in the same location
-        const chars = sceneCharacters[loc[1] as number].characters;
-        if (chars.length >= numPrevChars) {
-          horizontalPath = false;
+        const otherSceneIndex = sceneCharacters.indexOf(scene);
+        const otherSceneInCharIndex =
+          characterScenes[otherCharIndex].scenes.indexOf(otherSceneIndex);
+        const otherCharPos =
+          characterPos[otherCharIndex][otherSceneInCharIndex];
+
+        // get all characters in this scene
+        if (numPrevChars > 0) {
+          const prevChars = sceneCharacters[prev_scene_index - 1].characters;
+          const curChars = sceneCharacters[scene_index].characters;
+          const prevInd = prevChars[prevChars.indexOf(character.character) - 1];
+          const curInd = curChars[curChars.indexOf(character.character) - 1];
+          const samePrev = prevInd === curInd && chars.includes(prevInd);
+
+          if (
+            (samePrev && otherCharPos.y >= cur_y) ||
+            Math.abs(otherCharPos.y - cur_y) < character_offset
+          ) {
+            horizontalPath = false;
+            return;
+          }
+        } else {
+          // numPrevChars === 0
+          if (Math.abs(otherCharPos.y - cur_y) < character_offset) {
+            horizontalPath = false;
+            return;
+          }
         }
       });
     }
 
     // gap (1+ scene)
-    const gap = charScenes[j] - charScenes[old_j];
     if (gap > 1 && !horizontalPath) {
       // calculate width of leftmost and rightmost scenes in gap
       const prev_width =
@@ -568,6 +596,7 @@ const characterPaths = (
   let updated_max_y_per_scene = [...max_y_per_scene];
 
   const allPaths = characterScenes.map((character) => {
+    // console.log(character.character);
     const paths = [];
 
     const character_coords = characterPos[characterScenes.indexOf(character)];
@@ -593,7 +622,9 @@ const characterPaths = (
       updated_max_y_per_scene,
       sceneCharacters,
       scenePos,
-      sceneLocations
+      sceneLocations,
+      characterScenes,
+      characterPos
     );
     updated_max_y_per_scene = coord_info.max_y_per_scene;
     const og_indices = coord_info.og_indices;
@@ -627,8 +658,7 @@ const characterPaths = (
       const ind = og_indices.findIndex((val) => val === i);
       return [point[0], point[1] + importance_weights[ind]];
     });
-    console.log(character.character);
-    console.log(adjustments);
+    // console.log(adjustments);
     let top_path = svgPath(character_coords_top, adjustments, bezierCommand);
     let bottom_path = svgPath(
       character_coords_bottom,
