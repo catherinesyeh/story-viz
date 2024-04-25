@@ -72,6 +72,10 @@ const controlPoint = (
         } else {
           x += 2 * adjustment * character_offset;
         }
+      } else if (adjustment == 0.75) {
+        if (!reverse) {
+          x -= 7 * adjustment * character_offset;
+        }
       } else {
         if (!reverse) {
           if (

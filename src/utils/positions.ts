@@ -525,6 +525,15 @@ const getPath = (
         ) {
           // if character is moving up
           adjustments[i] = 0.25;
+        } else if (
+          prev_y > cur_y &&
+          prev_y - cur_y < location_buffer &&
+          numNextChars === 1 &&
+          numNextChars === prevNumNextChars &&
+          sceneChars[numPrevChars + 1] === prevSceneChars[numPrevChars + 1] &&
+          cur_x - prev_x > location_buffer
+        ) {
+          adjustments[i] = 0.75;
         }
       } else if (
         cur_y > prev_y &&

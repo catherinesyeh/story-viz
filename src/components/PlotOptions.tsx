@@ -55,6 +55,7 @@ function PlotOptions() {
   const storyOptions = [
     "gatsby",
     // "gatsby2",
+    "gatsby-mov",
     "alice",
     "wizard",
     "aladdin",

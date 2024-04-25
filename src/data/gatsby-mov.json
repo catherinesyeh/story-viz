@@ -1,0 +1,355 @@
+{
+  "title": "The Great Gatsby",
+  "type": "Movie",
+  "director": "Baz Luhrmann",
+  "year": 2013,
+  "url": "https://stephenfollows.com/resource-docs/scripts/greatgatsby_sp.pdf",
+  "image": "https://m.media-amazon.com/images/M/MV5BMTkxNTk1ODcxNl5BMl5BanBnXkFtZTcwMDI1OTMzOQ@@._V1_.jpg",
+  "scenes": [
+    {
+      "number": 1,
+      "name": "Nick's Arrival",
+      "summary": "Nick arrives at West Egg, reflects on Gatsby's parties and his mansion's grandeur.",
+      "location": "Nick's Bungalow",
+      "firstLine": "The silhouette of TEENAGE GATZ, now 16 years old, disappears into the hills...",
+      "lastLine": "The whole city packed into automobiles and all weekend, every weekend, ended up at Gatsby's...",
+      "numLines": 42,
+      "ratings": {
+        "importance": 10,
+        "conflict": 0,
+        "sentiment": 0.5
+      },
+      "characters": [
+        {
+          "name": "Nick",
+          "importance": 1,
+          "emotion": "Reflective and contemplative",
+          "quote": "Chasing this destiny, a sixteen year old Gatz ran far, far away.",
+          "rating": 0.5
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "name": "Gatsby's Party Introduction",
+      "summary": "Nick attends one of Gatsby's lavish parties for the first time, feeling out of place amidst the opulence and chaos.",
+      "location": "Gatsby's Castle",
+      "firstLine": "An open-topped Rolls Royce motors through Gatsby's gates...",
+      "lastLine": "A caravansary of colorful characters surges through the grand entrance.",
+      "numLines": 45,
+      "ratings": {
+        "importance": 9,
+        "conflict": 0.2,
+        "sentiment": 1
+      },
+      "characters": [
+        {
+          "name": "Nick",
+          "importance": 1,
+          "emotion": "Overwhelmed",
+          "quote": "The whole city packed into automobiles...",
+          "rating": 0.7
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "name": "Gatsby's Reveal",
+      "summary": "Nick discovers the elusive Gatsby's identity during a party when Gatsby personally approaches him.",
+      "location": "Gatsby's Castle",
+      "firstLine": "I thought I might see you here...",
+      "lastLine": "Alone, and a little embarrassed, I decided to get... roaring drunk.",
+      "numLines": 38,
+      "ratings": {
+        "importance": 8,
+        "conflict": 0.1,
+        "sentiment": -0.5
+      },
+      "characters": [
+        {
+          "name": "Nick",
+          "importance": 1,
+          "emotion": "Curious",
+          "quote": "I thought I might see you here...",
+          "rating": 0.5
+        },
+        {
+          "name": "Gatsby",
+          "importance": 2,
+          "emotion": "Mysterious",
+          "quote": "No one has ever seen Mr. Gatsby...",
+          "rating": -0.3
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "name": "Nick and Gatsby's First Meeting",
+      "summary": "Gatsby invites Nick over for a private conversation, revealing more about his past and his connections.",
+      "location": "Nick's Bungalow",
+      "firstLine": "This house and everything in it, are all part of an elaborate disguise...",
+      "lastLine": "This was his opportunity, and he seized it.",
+      "numLines": 33,
+      "ratings": {
+        "importance": 7,
+        "conflict": 0.5,
+        "sentiment": 0.1
+      },
+      "characters": [
+        {
+          "name": "Nick",
+          "importance": 1,
+          "emotion": "Intrigued",
+          "quote": "I've been turning over in my mind ever since.",
+          "rating": 0.3
+        },
+        {
+          "name": "Gatsby",
+          "importance": 2,
+          "emotion": "Hopeful",
+          "quote": "Mr. Gatsby doesn't exist.",
+          "rating": -0.2
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "name": "Daisy's Nervous Tea",
+      "summary": "Gatsby and Daisy awkwardly reunite at Nick's bungalow, experiencing a mix of old feelings and current tensions.",
+      "location": "Nick's Bungalow",
+      "firstLine": "Daisy, her back to the door, is still marveling at the flowers. Then she turns. Sees Gatsby. A sharp intake of breath...",
+      "lastLine": "Nick pours; and they all sit stiffly, sipping their tea.",
+      "numLines": 15,
+      "ratings": {
+        "importance": 5,
+        "conflict": 0.8,
+        "sentiment": -0.4
+      },
+      "characters": [
+        {
+          "name": "Gatsby",
+          "importance": 1,
+          "emotion": "Nervous",
+          "quote": "I'm... certainly glad to see you as well.",
+          "rating": -0.3
+        },
+        {
+          "name": "Daisy",
+          "importance": 2,
+          "emotion": "Surprised and overwhelmed",
+          "quote": "I'm certainly glad to see you again.",
+          "rating": -0.1
+        },
+        {
+          "name": "Nick",
+          "importance": 3,
+          "emotion": "Uncomfortable",
+          "quote": "Tea?",
+          "rating": -0.2
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "name": "After the Tea",
+      "summary": "The awkward tension continues as Daisy and Gatsby try to reconnect over memories of the past in Gatsby's mansion.",
+      "location": "Gatsby's Castle",
+      "firstLine": "An open-topped Rolls Royce motors through Gatsby's gates...",
+      "lastLine": "Gatsby holds her closer.",
+      "numLines": 20,
+      "ratings": {
+        "importance": 6,
+        "conflict": 0.7,
+        "sentiment": 0.1
+      },
+      "characters": [
+        {
+          "name": "Gatsby",
+          "importance": 1,
+          "emotion": "Hopeful",
+          "quote": "It will be...",
+          "rating": 0.5
+        },
+        {
+          "name": "Daisy",
+          "importance": 2,
+          "emotion": "Romantic and nostalgic",
+          "quote": "I wish I had done everything on earth with you.",
+          "rating": 0.6
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "name": "Tension at Nick's Bungalow",
+      "summary": "After Nick leaves briefly, Gatsby expresses his concerns to Nick about the meeting being a mistake.",
+      "location": "Nick's Bungalow",
+      "firstLine": "Oh, God! This is a mistake, a terrible, terrible mistake...",
+      "lastLine": "He stands, walks to the window and looks out across the bay.",
+      "numLines": 28,
+      "ratings": {
+        "importance": 4,
+        "conflict": 0.8,
+        "sentiment": -0.7
+      },
+      "characters": [
+        {
+          "name": "Gatsby",
+          "importance": 1,
+          "emotion": "Anxious",
+          "quote": "Oh, God! This is a mistake, a terrible, terrible mistake...",
+          "rating": -0.9
+        },
+        {
+          "name": "Nick",
+          "importance": 2,
+          "emotion": "Comforting",
+          "quote": "You're just embarrassed, that's all... Daisy's embarrassed too.",
+          "rating": -0.3
+        },
+        {
+          "name": "Daisy",
+          "importance": 3,
+          "emotion": "Reflective",
+          "quote": "Look. Its my house. Just there across the bay...",
+          "rating": 0.1
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "name": "Gatsby's Desperate Plea",
+      "summary": "Gatsby pleads with Daisy, as they view his house from across the bay, to start anew with him.",
+      "location": "Nick's Bungalow",
+      "firstLine": "Nick, I want you and Daisy both to see my house. I'd like to show her around.",
+      "lastLine": "Daisy joins Gatsby and they step out onto the porch together.",
+      "numLines": 30,
+      "ratings": {
+        "importance": 3,
+        "conflict": 0.9,
+        "sentiment": 0.2
+      },
+      "characters": [
+        {
+          "name": "Gatsby",
+          "importance": 1,
+          "emotion": "Hopeful",
+          "quote": "Nick, I want you and Daisy both to see my house. I'd like to show her around.",
+          "rating": 0.8
+        },
+        {
+          "name": "Daisy",
+          "importance": 2,
+          "emotion": "Curious",
+          "quote": "Where's your place?",
+          "rating": 0.3
+        },
+        {
+          "name": "Nick",
+          "importance": 3,
+          "emotion": "Observant",
+          "quote": "Are you sure you want me to come?",
+          "rating": -0.1
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "name": "Gatsby's Confession",
+      "summary": "Gatsby confesses his deep fears and feelings to Nick, revealing his vulnerability about his past and his intense love for Daisy.",
+      "location": "Nick's Bungalow",
+      "firstLine": "Just sitting here...",
+      "lastLine": "She just needs to think. She's going to call in the morning.",
+      "numLines": 36,
+      "ratings": {
+        "importance": 2,
+        "conflict": 0.8,
+        "sentiment": -0.6
+      },
+      "characters": [
+        {
+          "name": "Gatsby",
+          "importance": 1,
+          "emotion": "Desperate and fearful",
+          "quote": "No. No. No. I'm going to wait. I'll wait all night if necessary.",
+          "rating": -0.8
+        },
+        {
+          "name": "Nick",
+          "importance": 2,
+          "emotion": "Concerned",
+          "quote": "What's wrong with you!? How could you!?",
+          "rating": -0.4
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "name": "The Aftermath of Daisy's Decision",
+      "summary": "In the wake of Daisy's decision not to be with him, Gatsby is killed, mistaken in his belief that Daisy would leave Tom for him.",
+      "location": "Gatsby's Castle",
+      "firstLine": "Daisy...",
+      "lastLine": "So we beat on, boats against the current, borne back ceaselessly, into the past.",
+      "numLines": 50,
+      "ratings": {
+        "importance": 1,
+        "conflict": 1,
+        "sentiment": -1
+      },
+      "characters": [
+        {
+          "name": "Gatsby",
+          "importance": 1,
+          "emotion": "Shocked and disbelieving",
+          "quote": "Daisy...",
+          "rating": -1
+        },
+        {
+          "name": "Nick",
+          "importance": 2,
+          "emotion": "Reflective and somber",
+          "quote": "He did not know that it was already behind him...",
+          "rating": -0.5
+        }
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "name": "Nick's Bungalow",
+      "key": "west-egg",
+      "quote": "A unkempt bungalow, hemmed in by enormous mansions. I lived at West Egg... in a forgotten grounds-keeper's cottage squeezed among the mansions of the newly rich."
+    },
+    {
+      "name": "Gatsby's Castle",
+      "key": "gatsby-mansion",
+      "quote": "Gatsby's magnificent castle. Illuminated fountains line a driveway packed with limousines; crowds of glamorous people stream up the broad marble stairs."
+    }
+  ],
+  "characters": [
+    {
+      "character": "Nick",
+      "key": "nick",
+      "quote": "When I came back from New York I was disgusted. Disgusted... with everyone, and everything... Only one man was exempt from my disgust.",
+      "group": "Narrators",
+      "color": "rgb(172, 210, 115)",
+      "explanation": "A soft shade of green to reflect Nick's role as a reflective observer and mediator, blending neutrality with a touch of growth and freshness."
+    },
+    {
+      "character": "Gatsby",
+      "key": "gatsby",
+      "quote": "He was... the single most hopeful person I have ever met... And am ever likely to meet again. There was something about him...",
+      "group": "Main Characters",
+      "color": "rgb(129, 164, 205)",
+      "explanation": "A cool, deep blue representing Gatsby's depth of feeling, melancholy, and the idealistic dream he holds onto."
+    },
+    {
+      "character": "Daisy",
+      "key": "daisy",
+      "quote": "Daisy Buchanan. The golden girl. A breathless warmth flowed from her. A promise that there was no one else in the world she so wanted to see.",
+      "group": "Main Characters",
+      "color": "rgb(246, 174, 120)",
+      "explanation": "A soft, warm peach to symbolize Daisy's romanticism, fragility, and the nostalgia she evokes in others."
+    }
+  ]
+}

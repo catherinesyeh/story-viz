@@ -113,7 +113,7 @@ function CharacterOverlay() {
                 height={location_height * 0.5}
                 href={
                   "/characters/" +
-                  onlyLetters(story) +
+                  onlyLetters(story.replace("-mov", "")) +
                   "/" +
                   character_data.find(
                     (c) => c.character === character.character

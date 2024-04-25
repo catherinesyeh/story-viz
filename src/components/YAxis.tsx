@@ -56,7 +56,7 @@ function YAxis() {
                 height={location_height * 0.75}
                 href={
                   "/locations/" +
-                  onlyLetters(story) +
+                  onlyLetters(story.replace("mov", "")) +
                   "/" +
                   location_data.find((l) => l.name === location)?.key +
                   ".png"
