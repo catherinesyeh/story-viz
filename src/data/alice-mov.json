@@ -1,0 +1,583 @@
+{
+  "title": "Alice in Wonderland",
+  "type": "Movie",
+  "director": "Clyde Geronimi, Hamilton Luske, Wilfred Jackson, Ben Sharpsteen",
+  "year": "1951",
+  "url": "https://www.alice-in-wonderland.net/resources/chapters-script/disney-movie-script/#",
+  "image": "https://upload.wikimedia.org/wikipedia/en/c/c1/Alice_in_Wonderland_%281951_film%29_poster.jpg",
+  "scenes": [
+    {
+      "number": 1,
+      "name": "Alice's Curiosity",
+      "summary": "Alice becomes curious after seeing the White Rabbit and decides to follow him.",
+      "location": "Rabbit Hole",
+      "firstLine": "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do.",
+      "lastLine": "In another moment down went Alice after it, never once considering how in the world she was to get out again.",
+      "numLines": 12,
+      "ratings": {
+        "importance": 13,
+        "conflict": 0,
+        "sentiment": 0.5
+      },
+      "characters": [
+        {
+          "name": "Alice",
+          "importance": 1,
+          "emotion": "Curious",
+          "quote": "What could a rabbit possibly be late for?",
+          "rating": 0.5
+        },
+        {
+          "name": "White Rabbit",
+          "importance": 2,
+          "emotion": "Rushed",
+          "quote": "Oh dear! Oh dear! I shall be late!",
+          "rating": -0.2
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "name": "Down the Rabbit Hole",
+      "summary": "Alice falls down the rabbit hole into a strange place filled with peculiar objects and memories.",
+      "location": "Rabbit Hole",
+      "firstLine": "The rabbit-hole went straight on like a tunnel for some way, and then dipped suddenly down, so suddenly that Alice had not a moment to think about stopping herself before she found herself falling down what seemed to be a very deep well.",
+      "lastLine": "Down, down, down. Would the fall never come to an end!",
+      "numLines": 15,
+      "ratings": {
+        "importance": 12,
+        "conflict": 0.5,
+        "sentiment": -0.5
+      },
+      "characters": [
+        {
+          "name": "Alice",
+          "importance": 1,
+          "emotion": "Surprised and anxious",
+          "quote": "Down, down, down. Would the fall never come to an end!",
+          "rating": -0.5
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "name": "The Pool of Tears",
+      "summary": "After growing to a giant size and then shrinking again, Alice cries a pool of tears.",
+      "location": "Wonderland",
+      "firstLine": "Curiouser and curiouser! cried Alice (she was so much surprised, that for the moment she quite forgot how to speak good English).",
+      "lastLine": "I wish I hadn't cried so much! said Alice, as she swam about, trying to find her way out.",
+      "numLines": 10,
+      "ratings": {
+        "importance": 11,
+        "conflict": 0.3,
+        "sentiment": -1
+      },
+      "characters": [
+        {
+          "name": "Alice",
+          "importance": 1,
+          "emotion": "Frustrated and sad",
+          "quote": "I wish I hadn't cried so much!",
+          "rating": -1
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "name": "The Caucus Race",
+      "summary": "Alice participates in a chaotic caucus race with several creatures to dry off after swimming in her own tears.",
+      "location": "Wonderland",
+      "firstLine": "There was a lot of confusion at first, but they all began running when they heard the Dodo say, 'Go!'",
+      "lastLine": "At last, the Dodo solemnly presented Alice with a thimble as a prize.",
+      "numLines": 20,
+      "ratings": {
+        "importance": 10,
+        "conflict": 0.3,
+        "sentiment": 0.4
+      },
+      "characters": [
+        {
+          "name": "Alice",
+          "importance": 1,
+          "emotion": "Confused and amused",
+          "quote": "However, she joined in the race and was very confused about the chaotic rules and who might win.",
+          "rating": 0.4
+        },
+        {
+          "name": "Dodo",
+          "importance": 2,
+          "emotion": "Authoritative and absurd",
+          "quote": "'The best way to explain it is to do it.'",
+          "rating": 0.2
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "name": "Advice from a Caterpillar",
+      "summary": "Alice meets a caterpillar who questions her identity and gives her puzzling advice about eating the mushroom.",
+      "location": "Wonderland",
+      "firstLine": "'Who are you?' said the Caterpillar.",
+      "lastLine": "The Caterpillar crawled away into the grass, leaving Alice quite confused about his cryptic messages.",
+      "numLines": 30,
+      "ratings": {
+        "importance": 5,
+        "conflict": 0.5,
+        "sentiment": -0.3
+      },
+      "characters": [
+        {
+          "name": "Alice",
+          "importance": 1,
+          "emotion": "Bewildered and curious",
+          "quote": "'I—I hardly know, sir, just at present—at least I know who I WAS when I got up this morning.'",
+          "rating": -0.3
+        },
+        {
+          "name": "Caterpillar",
+          "importance": 2,
+          "emotion": "Disinterested and cryptic",
+          "quote": "'One side will make you grow taller, and the other side will make you grow shorter.'",
+          "rating": -0.1
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "name": "The Cheshire Cat",
+      "summary": "Alice encounters the Cheshire Cat, who gives her perplexing advice on where to go in Wonderland.",
+      "location": "Tulgey Wood",
+      "firstLine": "Alice thought she might find her way if she walked towards the forest.",
+      "lastLine": "The Cheshire Cat faded away, leaving only its grin and Alice more confused than ever.",
+      "numLines": 25,
+      "ratings": {
+        "importance": 7,
+        "conflict": 0.4,
+        "sentiment": 0.2
+      },
+      "characters": [
+        {
+          "name": "Alice",
+          "importance": 1,
+          "emotion": "Perplexed and thoughtful",
+          "quote": "'Would you tell me, please, which way I ought to go from here?'",
+          "rating": 0.2
+        },
+        {
+          "name": "Cheshire Cat",
+          "importance": 2,
+          "emotion": "Mysterious and helpful",
+          "quote": "'That depends a good deal on where you want to get to,'",
+          "rating": 0.5
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "name": "A Mad Tea Party",
+      "summary": "Alice attends a bizarre tea party with the Mad Hatter, the March Hare, and the Dormouse, filled with riddles and nonsensical conversation.",
+      "location": "Tea Party Location",
+      "firstLine": "No room! No room!",
+      "lastLine": "Then it wasn't very civil of you to offer it.",
+      "numLines": 35,
+      "ratings": {
+        "importance": 6,
+        "conflict": 0.6,
+        "sentiment": 0
+      },
+      "characters": [
+        {
+          "name": "Alice",
+          "importance": 1,
+          "emotion": "Confused and frustrated",
+          "quote": "But I don't see any wine.",
+          "rating": 0
+        },
+        {
+          "name": "Mad Hatter",
+          "importance": 2,
+          "emotion": "Eccentric and nonsensical",
+          "quote": "Have some wine.",
+          "rating": 0.2
+        },
+        {
+          "name": "March Hare",
+          "importance": 3,
+          "emotion": "Contrary and bizarre",
+          "quote": "Then it wasn't very civil of you to offer it.",
+          "rating": -0.1
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "name": "The Queen's Croquet Ground",
+      "summary": "Alice plays croquet with the Queen, a game filled with cheating and chaos, amid constant threats of beheading.",
+      "location": "Queen's Croquet Ground",
+      "firstLine": "The players all played at once without waiting for turns, quarrelling all the while, and fighting for the hedgehogs.",
+      "lastLine": "Off with her head!",
+      "numLines": 40,
+      "ratings": {
+        "importance": 9,
+        "conflict": 1,
+        "sentiment": -1
+      },
+      "characters": [
+        {
+          "name": "Alice",
+          "importance": 1,
+          "emotion": "Anxious and bewildered",
+          "quote": "I don't think they play at all fairly.",
+          "rating": -0.8
+        },
+        {
+          "name": "Queen of Hearts",
+          "importance": 2,
+          "emotion": "Aggressive and tyrannical",
+          "quote": "Off with his head!",
+          "rating": -1
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "name": "The Mock Turtle's Story",
+      "summary": "Alice meets the Mock Turtle, who recounts his sad tale and educates her on the peculiar schooling system in Wonderland.",
+      "location": "Wonderland",
+      "firstLine": "'When we were little,' the Mock Turtle went on at last, more calmly, though still sobbing a little now and then, 'we went to school in the sea.'",
+      "lastLine": "'You may not have lived much under the sea—'",
+      "numLines": 50,
+      "ratings": {
+        "importance": 14,
+        "conflict": 0.2,
+        "sentiment": -0.5
+      },
+      "characters": [
+        {
+          "name": "Alice",
+          "importance": 1,
+          "emotion": "Sympathetic and curious",
+          "quote": "And what are the lessons?",
+          "rating": 0.3
+        },
+        {
+          "name": "Mock Turtle",
+          "importance": 2,
+          "emotion": "Melancholic and nostalgic",
+          "quote": "'Ah, I've had such a curious dream!' said Alice, and she told her sister, as well as she could remember them, all these strange Adventures of hers that you have just been reading about.",
+          "rating": -0.6
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "name": "Painting the Roses Red",
+      "summary": "Alice helps the card painters who are frantically painting white roses red to avoid the Queen's punishment.",
+      "location": "Queen's Croquet Ground",
+      "firstLine": "We're painting the roses red. Don't tell the queen what you have seen, or say that's what we said, what, we're painting the roses red…",
+      "lastLine": "And who is this?",
+      "numLines": 28,
+      "ratings": {
+        "importance": 4,
+        "conflict": 0.9,
+        "sentiment": -0.8
+      },
+      "characters": [
+        {
+          "name": "Alice",
+          "importance": 1,
+          "emotion": "Helpful and curious",
+          "quote": "Oh dear! Then let me help you! Painting the roses red…",
+          "rating": 0.4
+        },
+        {
+          "name": "Queen of Hearts",
+          "importance": 2,
+          "emotion": "Angry and imperious",
+          "quote": "Who's been painting my roses red? Who dares to taint, with vulgar paint, the royal flower bed?",
+          "rating": -1
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "name": "The Royal Croquet Game",
+      "summary": "Alice participates in a croquet game using flamingos and hedgehogs, observed by the Queen who threatens everyone with beheading.",
+      "location": "Queen's Croquet Ground",
+      "firstLine": "The Queen! The Queen! Cards, halt! Count off!",
+      "lastLine": "Silence!",
+      "numLines": 32,
+      "ratings": {
+        "importance": 3,
+        "conflict": 1,
+        "sentiment": -1
+      },
+      "characters": [
+        {
+          "name": "Alice",
+          "importance": 1,
+          "emotion": "Nervous and confused",
+          "quote": "I don't think they play at all fairly.",
+          "rating": -0.5
+        },
+        {
+          "name": "Queen of Hearts",
+          "importance": 2,
+          "emotion": "Dominating and furious",
+          "quote": "Off with their heads!",
+          "rating": -1
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "name": "The Mad Hatter's Tea Party Encore",
+      "summary": "Alice returns to the Mad Hatter and the March Hare, experiencing more nonsensical conversations and bizarre tea party antics.",
+      "location": "Tea Party Location",
+      "firstLine": "No room! No room!",
+      "lastLine": "I've had enough nonsense. I'm going home. Straight home.",
+      "numLines": 45,
+      "ratings": {
+        "importance": 15,
+        "conflict": 0.4,
+        "sentiment": -0.2
+      },
+      "characters": [
+        {
+          "name": "Alice",
+          "importance": 1,
+          "emotion": "Annoyed and bewildered",
+          "quote": "Of all the silly nonsense, this is the stupidest tea party I've ever been to in all my life.",
+          "rating": -0.4
+        },
+        {
+          "name": "Mad Hatter",
+          "importance": 2,
+          "emotion": "Cheerful and oblivious",
+          "quote": "A very merry unbirthday to you!",
+          "rating": 0.5
+        },
+        {
+          "name": "March Hare",
+          "importance": 3,
+          "emotion": "Eccentric and chaotic",
+          "quote": "A very merry unbirthday to us, to us.",
+          "rating": 0.3
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "name": "The Queen's Trial",
+      "summary": "Alice attends a bizarre trial where the Queen demands sentences before verdicts and calls various characters as witnesses.",
+      "location": "Queen's Croquet Ground",
+      "firstLine": "Don't mind all that! Get to the part where I lose my temper.",
+      "lastLine": "Next witness.",
+      "numLines": 40,
+      "ratings": {
+        "importance": 2,
+        "conflict": 1,
+        "sentiment": -1
+      },
+      "characters": [
+        {
+          "name": "Alice",
+          "importance": 1,
+          "emotion": "Confused and apprehensive",
+          "quote": "But that just isn't the way!",
+          "rating": -1
+        },
+        {
+          "name": "Queen of Hearts",
+          "importance": 2,
+          "emotion": "Angry and imperious",
+          "quote": "Sentence first! Verdict afterwards.",
+          "rating": -1
+        },
+        {
+          "name": "King of Hearts",
+          "importance": 3,
+          "emotion": "Timid and hesitant",
+          "quote": "Uh… we called no witnesses… Uh… couldn't we hear… maybe one or two? Ha? Maybe?",
+          "rating": -0.5
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "name": "Mad Hatter as a Witness",
+      "summary": "The Mad Hatter is called as a witness during the trial, contributing to the nonsensical proceedings with confusing testimony.",
+      "location": "Queen's Croquet Ground",
+      "firstLine": "The Mad Hatter!",
+      "lastLine": "Off with your hat!",
+      "numLines": 25,
+      "ratings": {
+        "importance": 8,
+        "conflict": 0.8,
+        "sentiment": -0.6
+      },
+      "characters": [
+        {
+          "name": "Alice",
+          "importance": 1,
+          "emotion": "Increasingly frustrated",
+          "quote": "Twinkle, twinkle. What next?",
+          "rating": -0.7
+        },
+        {
+          "name": "Mad Hatter",
+          "importance": 2,
+          "emotion": "Confused and silly",
+          "quote": "Oh… he he he he!",
+          "rating": 0.2
+        },
+        {
+          "name": "Queen of Hearts",
+          "importance": 3,
+          "emotion": "Demanding and stern",
+          "quote": "Off with your hat!",
+          "rating": -1
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "name": "Alice's Acquittal",
+      "summary": "The trial concludes abruptly when Alice grows larger and confronts the Queen, leading to a chase that ends her dream.",
+      "location": "Queen's Croquet Ground",
+      "firstLine": "You're nothing but a pack of cards!",
+      "lastLine": "Alice, wake up!",
+      "numLines": 30,
+      "ratings": {
+        "importance": 1,
+        "conflict": 1,
+        "sentiment": 0.5
+      },
+      "characters": [
+        {
+          "name": "Alice",
+          "importance": 1,
+          "emotion": "Defiant and fearless",
+          "quote": "You're nothing but a pack of cards!",
+          "rating": 1
+        },
+        {
+          "name": "Queen of Hearts",
+          "importance": 2,
+          "emotion": "Furious and threatening",
+          "quote": "Off with her head!",
+          "rating": -1
+        }
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "name": "Wonderland",
+      "key": "garden",
+      "quote": "Alice in Wonderland, where is the path to Wonderland? Over the hill or here or there, I wonder where."
+    },
+    {
+      "name": "Rabbit Hole",
+      "key": "rabbit-hole",
+      "quote": "Down, down, down. Would the fall never come to an end! 'I wonder how many miles I've fallen by this time?' she said aloud."
+    },
+    {
+      "name": "Tea Party Location",
+      "key": "march-hares-house",
+      "quote": "There was a table set out under a tree in front of the house, and the March Hare and the Hatter were having tea at it."
+    },
+    {
+      "name": "Queen's Croquet Ground",
+      "key": "queens-croquet-ground",
+      "quote": "The Queen's Croquet-Ground was a large one, indeed; here she saw the White Rabbit, who was nervously running about, looking for something."
+    },
+    {
+      "name": "Tulgey Wood",
+      "key": "tulgey-wood",
+      "quote": "'Tulgey Wood'… Hmm, curious. I don't remember this. Now let me see…"
+    }
+  ],
+  "characters": [
+    {
+      "character": "Alice",
+      "key": "alice",
+      "quote": "Curiouser and curiouser!",
+      "group": "Main Character",
+      "color": "rgb(233, 30, 99)",
+      "explanation": "A vibrant pink to reflect her youthful curiosity and the wonder she experiences in Wonderland."
+    },
+    {
+      "character": "White Rabbit",
+      "key": "white-rabbit",
+      "quote": "Oh my fur and whiskers! I'm late, I'm late, I'm late!",
+      "group": "Wonderland Residents",
+      "color": "rgb(255, 235, 59)",
+      "explanation": "A bright yellow, symbolizing his constant hurry and the urgency he brings to the story."
+    },
+    {
+      "character": "Mad Hatter",
+      "key": "mad-hatter",
+      "quote": "It's very rude to sit down without being invited!",
+      "group": "Wonderland Residents",
+      "color": "rgb(156, 39, 176)",
+      "explanation": "A deep purple, representing his eccentricity and madness in Wonderland."
+    },
+    {
+      "character": "March Hare",
+      "key": "march-hare",
+      "quote": "Ah, but it's very rude to sit down without being invited!",
+      "group": "Wonderland Residents",
+      "color": "rgb(255, 152, 0)",
+      "explanation": "A vibrant orange, echoing his frantic energy and chaotic nature at the tea party."
+    },
+    {
+      "character": "Queen of Hearts",
+      "key": "queen-of-hearts",
+      "quote": "Off with her head!",
+      "group": "Wonderland Royalty",
+      "color": "rgb(211, 47, 47)",
+      "explanation": "A bold red, symbolizing her authority, anger, and the threats she often makes."
+    },
+    {
+      "character": "Dodo",
+      "key": "dodo",
+      "quote": "'The best way to explain it is to do it.'",
+      "group": "Wonderland Residents",
+      "color": "rgb(121, 85, 72)",
+      "explanation": "A soft brown, representing his old-fashioned and somewhat stodgy attitude."
+    },
+    {
+      "character": "Caterpillar",
+      "key": "caterpillar",
+      "quote": "Who are you?",
+      "group": "Wonderland Residents",
+      "color": "rgb(76, 175, 80)",
+      "explanation": "A calm green, reflecting his contemplative nature and the transformative advice he gives."
+    },
+    {
+      "character": "Cheshire Cat",
+      "key": "cheshire-cat",
+      "quote": "Then it really doesn't matter which way you go!",
+      "group": "Wonderland Residents",
+      "color": "rgb(103, 58, 183)",
+      "explanation": "A mystical violet, capturing his enigmatic and mischievous spirit."
+    },
+    {
+      "character": "King of Hearts",
+      "key": "king-of-hearts",
+      "quote": "Consider, my dear. Uh… we called no witnesses… Uh… couldn't we hear… maybe one or two? Ha? Maybe?",
+      "group": "Wonderland Royalty",
+      "color": "rgb(63, 81, 181)",
+      "explanation": "A royal blue, signifying his position of power yet underscored by his indecisiveness and mild demeanor."
+    },
+    {
+      "character": "Mock Turtle",
+      "key": "mock-turtle",
+      "quote": "'When we were little,' the Mock Turtle went on at last, more calmly, though still sobbing a little now and then, 'we went to school in the sea.'",
+      "group": "Wonderland Residents",
+      "color": "rgb(66, 134, 244)",
+      "explanation": "A reflective sea blue, embodying his melancholic stories and aquatic background, symbolizing both his sadness and depth."
+    }
+  ]
+}

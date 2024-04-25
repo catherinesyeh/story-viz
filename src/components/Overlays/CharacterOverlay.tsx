@@ -21,6 +21,7 @@ function CharacterOverlay() {
     colorQuoteBoxes,
     colorQuoteTexts,
   } = positionStore();
+
   return (
     <g id="character-quotes">
       {/* add box with quote from each character */}

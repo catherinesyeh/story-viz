@@ -261,6 +261,62 @@ const getPath = (
 
       between_scenes.forEach((scene) => {
         const chars = scene.characters;
+
+        // collect any chars from prev_scene_index that are in this scene
+        const overlappingCharsPrev = prevSceneChars.filter((c) =>
+          chars.includes(c)
+        );
+
+        overlappingCharsPrev.forEach((char) => {
+          const charIndex = characterScenes.findIndex(
+            (c) => c.character === char
+          );
+          const sceneIndex = sceneCharacters.indexOf(scene);
+          const charInSceneIndex = prevSceneChars.indexOf(char);
+          const charPos = characterPos[charIndex][sceneIndex];
+
+          if (
+            charPos &&
+            charInSceneIndex < numPrevChars &&
+            charPos.y > prev_y
+          ) {
+            horizontalPath = false;
+            return;
+          } else if (
+            charPos &&
+            charInSceneIndex > numPrevChars &&
+            charPos.y < prev_y
+          ) {
+            horizontalPath = false;
+            return;
+          }
+        });
+
+        // collect any chars from current scene (outside of between_scenes range) that are in this scene
+        const overlappingCharsCur = sceneChars.filter((c) => chars.includes(c));
+
+        overlappingCharsCur.forEach((char) => {
+          const charIndex = characterScenes.findIndex(
+            (c) => c.character === char
+          );
+          const sceneIndex = sceneCharacters.indexOf(scene);
+          const charInSceneIndex = sceneChars.indexOf(char);
+          const charPos = characterPos[charIndex][sceneIndex];
+
+          if (charPos && charInSceneIndex < numPrevChars && charPos.y > cur_y) {
+            horizontalPath = false;
+            return;
+          } else if (
+            charPos &&
+            charInSceneIndex > numPrevChars &&
+            charPos.y < cur_y
+          ) {
+            horizontalPath = false;
+            return;
+          }
+        });
+
+        // now look for characters in the previous scene that are in this scene
         let otherChar = chars[numPrevChars];
 
         if (chars.length - 1 < numPrevChars) {
@@ -419,31 +475,47 @@ const getPath = (
               prev_y - cur_y > 2 * character_height &&
               prev_y > og_cur_max_y)
           ) {
+            let new_y = prev_y;
+            if (
+              prev_y <= og_cur_max_y + character_offset &&
+              (numPrevChars > 0 || prevNumPrevChars > 0)
+            ) {
+              new_y += 0.75 * character_offset;
+            }
             let next_multiplier = next_base * 0.75;
             // if character is moving down or small up gap
             character_coords_arr.splice(i, 0, [
               prev_x + prev_base * 0.5,
-              prev_y,
+              new_y,
             ]);
             character_coords_arr.splice(i + 1, 0, [
               cur_x - next_multiplier - numNextChars * character_offset,
-              prev_y,
+              new_y,
             ]);
           } else if (
-            (prev_y - cur_y > location_buffer && numPrevChars === 0) ||
+            (prev_y - cur_y > location_buffer &&
+              numPrevChars === 0 &&
+              prevNumPrevChars === 0) ||
             (cur_y - prev_y < location_buffer &&
               cur_y - prev_y > 2 * character_height &&
               cur_y > og_cur_max_y)
           ) {
+            let new_y = cur_y;
+            if (
+              cur_y <= og_cur_max_y + character_offset &&
+              (numNextChars > 0 || prevNumNextChars > 0)
+            ) {
+              new_y += 0.75 * character_offset;
+            }
             // if character is moving up or small down gap
             let prev_multiplier = prev_base * 0.75;
             character_coords_arr.splice(i, 0, [
               prev_x + prev_multiplier + numNextChars * character_offset,
-              cur_y,
+              new_y,
             ]);
             character_coords_arr.splice(i + 1, 0, [
               cur_x - next_base * 0.5,
-              cur_y,
+              new_y,
             ]);
           } else {
             // if character is moving horizontally or really small gap
