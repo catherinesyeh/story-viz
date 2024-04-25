@@ -59,6 +59,7 @@ function PlotOptions() {
     "alice",
     "alice-mov",
     "wizard",
+    "wizard-mov",
     "aladdin",
     "pride",
     "romeo",
