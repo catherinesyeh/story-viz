@@ -613,7 +613,27 @@ const getPath = (
           sceneChars[numPrevChars + 1] === prevSceneChars[numPrevChars + 1] &&
           cur_x - prev_x > location_buffer
         ) {
-          adjustments[i] = 0.75;
+          // find next character in scene
+          const next_char = sceneChars[numPrevChars + 1];
+          // see if prev scene is the first scene with the next character
+          const next_char_scenes = characterScenes.find(
+            (c) => c.character === next_char
+          )?.scenes;
+          if (character.character === "Nick") {
+            console.log(
+              next_char,
+              next_char_scenes,
+              prev_scene_index,
+              scene_index
+            );
+          }
+          if (
+            next_char_scenes &&
+            next_char_scenes[0] === prev_scene_index - 1
+          ) {
+            // if character is moving up
+            adjustments[i] = 0.75;
+          }
         }
       } else if (
         cur_y > prev_y &&
