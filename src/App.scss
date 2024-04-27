@@ -186,14 +186,33 @@ h1 {
     }
 
     .scene-name.faded .scene-name-text,
-    .location-group.faded .location-name {
+    .location-group.faded .location-name,
+    .chapter-line-group.faded .chapter-label {
       fill-opacity: 0.15;
+    }
+
+    .chapter-line-group.faded .chapter-line {
+      stroke-opacity: 0.15;
+    }
+
+    .chapter-line-group.hidden {
+      pointer-events: none;
+      visibility: hidden;
+
+      .chapter-label {
+        fill-opacity: 0;
+      }
+      .chapter-line {
+        stroke-opacity: 0;
+      }
     }
 
     .scene-name-text,
     .location-img,
     #time-arrow,
-    #y-arrow {
+    #y-arrow,
+    .chapter-label,
+    .chapter-line {
       transition: 0.3s;
     }
 

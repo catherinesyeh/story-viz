@@ -14,6 +14,7 @@
       "firstLine": "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do.",
       "lastLine": "In another moment down went Alice after it, never once considering how in the world she was to get out again.",
       "numLines": 75,
+      "chapter": "1",
       "ratings": {
         "importance": 7,
         "conflict": 0.5,
@@ -44,6 +45,7 @@
       "firstLine": "The rabbit-hole went straight on like a tunnel for some way, and then dipped suddenly down.",
       "lastLine": "I wish I hadn't cried so much!",
       "numLines": 150,
+      "chapter": "2",
       "ratings": {
         "importance": 8,
         "conflict": 0.8,
@@ -67,6 +69,7 @@
       "firstLine": "The first question was, how to get dry again.",
       "lastLine": "'I shall do nothing of the sort,' said the Mouse, getting up and walking away.",
       "numLines": 110,
+      "chapter": "3",
       "ratings": {
         "importance": 10,
         "conflict": 0.4,
@@ -104,6 +107,7 @@
       "firstLine": "It was the White Rabbit, trotting slowly back again, and looking anxiously about as it went, as if it had lost something.",
       "lastLine": "'And yet what a dear little puppy it was!' said Alice.",
       "numLines": 90,
+      "chapter": "4",
       "ratings": {
         "importance": 4,
         "conflict": 1,
@@ -134,6 +138,7 @@
       "firstLine": "The Caterpillar and Alice looked at each other for some time in silence.",
       "lastLine": "'One side will make you grow taller, and the other side will make you grow shorter.'",
       "numLines": 135,
+      "chapter": "5",
       "ratings": {
         "importance": 9,
         "conflict": 0.3,
@@ -164,6 +169,7 @@
       "firstLine": "For a minute or two she stood looking at the house, and wondering what to do next.",
       "lastLine": "'If it had grown up,' she said to herself, 'it would have made a dreadfully ugly child: but it makes rather a handsome pig, I think.'",
       "numLines": 165,
+      "chapter": "6",
       "ratings": {
         "importance": 5,
         "conflict": 1,
@@ -208,6 +214,7 @@
       "firstLine": "There was a table set out under a tree in front of the house, and the March Hare and the Hatter were having tea at it.",
       "lastLine": "'At any rate I'll never go _there_ again!' said Alice as she picked her way through the wood.",
       "numLines": 120,
+      "chapter": "7",
       "ratings": {
         "importance": 6,
         "conflict": 0.7,
@@ -251,6 +258,7 @@
       "location": "The Queen's Croquet Ground",
       "firstLine": "The Queen! The Queen!",
       "lastLine": "'Who are _you_?' said the Caterpillar.",
+      "chapter": "8",
       "numLines": 105,
       "ratings": {
         "importance": 3,
@@ -289,6 +297,7 @@
       "firstLine": "'Come on, then,' said the Queen, 'and he shall tell you his history,'",
       "lastLine": "'That's the reason they're called lessons,' the Gryphon remarked: 'because they lessen from day to day.'",
       "numLines": 130,
+      "chapter": "9",
       "ratings": {
         "importance": 11,
         "conflict": 0.2,
@@ -326,6 +335,7 @@
       "firstLine": "The Mock Turtle sighed deeply, and drew the back of one flapper across his eyes.",
       "lastLine": "'Thank you, it's a very interesting dance to watch,' said Alice, feeling very glad that it was over at last.",
       "numLines": 95,
+      "chapter": "10",
       "ratings": {
         "importance": 12,
         "conflict": 0.1,
@@ -362,6 +372,7 @@
       "location": "The Queen's Croquet Ground",
       "firstLine": "The King and Queen of Hearts were seated on their throne when they arrived, with a great crowd assembled about them.",
       "lastLine": "'Call the first witness,' said the King; and the White Rabbit blew three blasts on the trumpet.",
+      "chapter": "11",
       "numLines": 80,
       "ratings": {
         "importance": 2,
@@ -406,6 +417,7 @@
       "location": "The Queen's Croquet Ground",
       "firstLine": "'Here!' cried Alice, quite forgetting in the flurry of the moment how large she had grown in the last few minutes.",
       "lastLine": "'Who cares for you?' said Alice, (she had grown to her full size by this time.) 'You're nothing but a pack of cards!'",
+      "chapter": "12",
       "numLines": 100,
       "ratings": {
         "importance": 1,

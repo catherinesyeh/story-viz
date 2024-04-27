@@ -31,6 +31,7 @@ function XAxis() {
     sceneChunks,
     minLines,
     maxLines,
+    chapterDivisions,
   } = dataStore();
   const {
     locationHover,
@@ -41,6 +42,7 @@ function XAxis() {
     colorBy,
     weightBy,
     overlay,
+    showChapters,
   } = storyStore();
 
   const { scenePos, yShift, minConflictY } = positionStore();
@@ -57,6 +59,73 @@ function XAxis() {
     >
       {/* add scene names to x axis */}
       <g id="scenes">
+        {/* add vertical line to separate chapters rotated by 45 deg */}
+        {chapterDivisions &&
+          chapterDivisions.length > 0 &&
+          chapterDivisions.map((chapter, i) => {
+            const chapterName = chapter.chapter;
+            const chapterPos = scenePos[chapter.index];
+
+            const lineLength = sizeBy === "default" ? 110 : 130;
+
+            return (
+              chapterPos &&
+              chapterName && (
+                <g
+                  key={"chapter" + i}
+                  transform={
+                    "rotate(45," +
+                    (chapterPos.x - 2 * character_offset) +
+                    ", " +
+                    chapterPos.y +
+                    ")"
+                  }
+                  className={
+                    "chapter-line-group " +
+                    (showChapters ? "" : "hidden ") +
+                    ((locationHover === "" &&
+                      sceneHover === "" &&
+                      characterHover === "") ||
+                    chapter.locations.includes(locationHover) ||
+                    chapter.scenes.includes(sceneHover) ||
+                    chapter.characters.includes(characterHover)
+                      ? ""
+                      : "faded")
+                  }
+                >
+                  <line
+                    x1={chapterPos.x - 2 * character_offset}
+                    x2={chapterPos.x - 2 * character_offset}
+                    y1={chapterPos.y - location_offset}
+                    y2={chapterPos.y + lineLength}
+                    stroke="gray"
+                    strokeWidth="1"
+                    strokeDasharray={"4"}
+                    className="chapter-line"
+                  />
+                  <text
+                    x={chapterPos.x - 1.75 * character_offset}
+                    y={chapterPos.y + lineLength + 5}
+                    textAnchor="end"
+                    fill="gray"
+                    className="chapter-label"
+                    transform={
+                      "rotate(-90," +
+                      (chapterPos.x - 1.75 * character_offset) +
+                      ", " +
+                      (chapterPos.y + lineLength + 5) +
+                      ")"
+                    }
+                    fontSize={"smaller"}
+                  >
+                    {chapterName.startsWith("Act")
+                      ? chapterName
+                      : "Ch. " + chapterName}
+                  </text>
+                </g>
+              )
+            );
+          })}
         {scenes.map((scene, i) => (
           <g
             key={"scene-group" + i}

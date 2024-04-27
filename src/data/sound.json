@@ -14,6 +14,7 @@
       "firstLine": "Sisters.",
       "lastLine": "SHE'S A GIRL",
       "numLines": 50,
+      "chapter": "Act I, Scene 1",
       "ratings": {
         "importance": 13,
         "conflict": 1,
@@ -51,6 +52,7 @@
       "firstLine": "Come along everyone.  I must speak with Maria",
       "lastLine": "I will tell Captain von Trapp to expect you tomorrow.",
       "numLines": 30,
+      "chapter": "Act I, Scene 2",
       "ratings": {
         "importance": 14,
         "conflict": 0.5,
@@ -81,6 +83,7 @@
       "firstLine": "Children, This your new governess, Fräulein Maria.",
       "lastLine": "Excuse me Captain, I don't know your signal.",
       "numLines": 40,
+      "chapter": "Act I, Scene 3",
       "ratings": {
         "importance": 15,
         "conflict": 1,
@@ -118,6 +121,7 @@
       "firstLine": "LET'S START AT THE VERY BEGINNING A VERY GOOD PLACE TO START",
       "lastLine": "That will bring us back to do!",
       "numLines": 65,
+      "chapter": "Act I, Scene 3",
       "ratings": {
         "importance": 8,
         "conflict": 0,
@@ -155,6 +159,7 @@
       "firstLine": "You just stay right here with me. But where are the others?",
       "lastLine": "When I'm feeling sad I simply remember my favorite things And then I don't feel so bad.",
       "numLines": 45,
+      "chapter": "Act I, Scene 5",
       "ratings": {
         "importance": 9,
         "conflict": 0.5,
@@ -192,6 +197,7 @@
       "firstLine": "What is going on in here!",
       "lastLine": "Captain, you have managed to remember that I am going out of town for two months, first thing in the morning.",
       "numLines": 50,
+      "chapter": "Act I, Scene 6",
       "ratings": {
         "importance": 10,
         "conflict": 1,
@@ -229,6 +235,7 @@
       "firstLine": "But they are children!",
       "lastLine": "Oh yes you are, captain! (Corrects himself) Fraulein.  Now you will pack your bags at once.",
       "numLines": 35,
+      "chapter": "Act I, Scene 6",
       "ratings": {
         "importance": 1,
         "conflict": 1,
@@ -259,6 +266,7 @@
       "firstLine": "Welcome home Captain! Oh you must be Baroness Schraeder.",
       "lastLine": "Come along now children, we have lots of planning.",
       "numLines": 20,
+      "chapter": "Act I, Scene 6",
       "ratings": {
         "importance": 11,
         "conflict": 0.5,
@@ -296,6 +304,7 @@
       "firstLine": "Excuse me Captain. The children have prepared a song as a gift for the Baroness.",
       "lastLine": "I think he'll be married by the end of the summer.",
       "numLines": 25,
+      "chapter": "Act I, Scene 7",
       "ratings": {
         "importance": 12,
         "conflict": 0.7,
@@ -326,6 +335,7 @@
       "firstLine": "Maria, it seems that you will be leaving us for a while.",
       "lastLine": "I always try to keep faith in my doubt.",
       "numLines": 15,
+      "chapter": "Act I, Scene 7",
       "ratings": {
         "importance": 2,
         "conflict": 0.4,
@@ -356,6 +366,7 @@
       "firstLine": "Don't go. (beat) I've behaved badly. You were right. I don't know the children.",
       "lastLine": "I want you to stay. I ask you to stay.",
       "numLines": 20,
+      "chapter": "Act I, Scene 8",
       "ratings": {
         "importance": 4,
         "conflict": 0.3,
@@ -386,6 +397,7 @@
       "firstLine": "Thank you. May I introduce the Family Von Trapp.",
       "lastLine": "That concludes our show. Please sit while the judges give us the winner of the show.",
       "numLines": 30,
+      "chapter": "Act I, Scene 9",
       "ratings": {
         "importance": 5,
         "conflict": 0.9,
@@ -423,6 +435,7 @@
       "firstLine": "Thank you everyone. That concludes our show. Please sit while the judges give us the winner of the show.",
       "lastLine": "They've offered me a commission in their Navy. I've been requested to report tomorrow morning.",
       "numLines": 25,
+      "chapter": "Act I, Scene 9",
       "ratings": {
         "importance": 6,
         "conflict": 1,
@@ -460,6 +473,7 @@
       "firstLine": "Rolf! What are you doing.",
       "lastLine": "STOP! You will sing, you will all sing. But that is only because I want it to be. I shall escort you myself. Carry on.",
       "numLines": 40,
+      "chapter": "Act I, Scene 9",
       "ratings": {
         "importance": 7,
         "conflict": 1,
@@ -497,6 +511,7 @@
       "firstLine": "May I present the Salzburg Puppets!",
       "lastLine": "They're gone!",
       "numLines": 50,
+      "chapter": "Act I, Scene 9",
       "ratings": {
         "importance": 3,
         "conflict": 1,

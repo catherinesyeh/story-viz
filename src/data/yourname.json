@@ -14,6 +14,7 @@
       "firstLine": "I'm in my room. It's morning.",
       "lastLine": "In that two-second span, the sense of unity that enveloped me a moment earlier vanishes without a trace, without an echo.",
       "numLines": 24,
+      "chapter": "1",
       "ratings": {
         "importance": 6,
         "conflict": 1,
@@ -37,6 +38,7 @@
       "firstLine": "Tokyo.",
       "lastLine": "I tie the necktie I've finally gotten used to, then put on my jacket.",
       "numLines": 15,
+      "chapter": "2",
       "ratings": {
         "importance": 12,
         "conflict": 0,
@@ -60,6 +62,7 @@
       "firstLine": "I get through the turnstile at the crowded station, take the escalator down...",
       "lastLine": "This world is far too dazzling.",
       "numLines": 30,
+      "chapter": "2",
       "ratings": {
         "importance": 8,
         "conflict": 1,
@@ -83,6 +86,7 @@
       "firstLine": "I don't recognize that ringtone, I think drowsily.",
       "lastLine": "Her name is Mitsuha?",
       "numLines": 22,
+      "chapter": "2",
       "ratings": {
         "importance": 14,
         "conflict": 0.8,
@@ -106,6 +110,7 @@
       "firstLine": "Suddenly, the train stops, and the doors open.",
       "lastLine": "Cleavage.",
       "numLines": 16,
+      "chapter": "2",
       "ratings": {
         "importance": 16,
         "conflict": 0.5,
@@ -129,6 +134,7 @@
       "firstLine": "Who is this guy?",
       "lastLine": "Taki, are you up?",
       "numLines": 50,
+      "chapter": "3",
       "ratings": {
         "importance": 9,
         "conflict": 0.9,
@@ -152,6 +158,7 @@
       "firstLine": "Breakfast was your job today, kid. Remember? You overslept.",
       "lastLine": "I twist the faucet, fill my hands with tap water, and drink.",
       "numLines": 60,
+      "chapter": "3",
       "ratings": {
         "importance": 13,
         "conflict": 0.5,
@@ -175,6 +182,7 @@
       "firstLine": "I move my pencil tirelessly.",
       "lastLine": "Having made that resolution, I feel the tension drain from my stiff body for the first time in a long while.",
       "numLines": 46,
+      "chapter": "4",
       "ratings": {
         "importance": 10,
         "conflict": 0.3,
@@ -198,6 +206,7 @@
       "firstLine": "It's there!",
       "lastLine": "It's really there! It wasn't a dream!",
       "numLines": 34,
+      "chapter": "5",
       "ratings": {
         "importance": 11,
         "conflict": 1,
@@ -221,6 +230,7 @@
       "firstLine": "'You're gonna hijack the signal?!'",
       "lastLine": "It's a perfect strategy!",
       "numLines": 58,
+      "chapter": "5",
       "ratings": {
         "importance": 3,
         "conflict": 1,
@@ -258,6 +268,7 @@
       "firstLine": "Falling forever. Or maybe rising.",
       "lastLine": "Then, with a brutal sensation, the umbilical cord is cut.",
       "numLines": 60,
+      "chapter": "5",
       "ratings": {
         "importance": 7,
         "conflict": 1,
@@ -281,6 +292,7 @@
       "firstLine": "My eyes open. In that instant, I know for sure.",
       "lastLine": "The astronomy spectacular that only comes once every twelve centuries has reached its climax, and various festivities will be held all around the...",
       "numLines": 38,
+      "chapter": "6",
       "ratings": {
         "importance": 15,
         "conflict": 0,
@@ -304,6 +316,7 @@
       "firstLine": "I run. I'm sprinting down a dark deer track, repeating his name again and again.",
       "lastLine": "You better gimme the whole story later!",
       "numLines": 45,
+      "chapter": "7",
       "ratings": {
         "importance": 5,
         "conflict": 1,
@@ -333,6 +346,7 @@
       "location": "Itomori Town Hall",
       "firstLine": "I feel as if I've picked up an unexpected ally. I can't hold still any longer.",
       "lastLine": "Don't you talk down to me, you bastard!",
+      "chapter": "7",
       "numLines": 60,
       "ratings": {
         "importance": 4,
@@ -364,6 +378,7 @@
       "firstLine": "I'm standing on a rock-littered mountain peak, all alone.",
       "lastLine": "What was I doing way out here?",
       "numLines": 50,
+      "chapter": "7",
       "ratings": {
         "importance": 2,
         "conflict": 1,
@@ -387,6 +402,7 @@
       "firstLine": "I have a few habits I've unconsciously picked up.",
       "lastLine": "I don't know what wish accompanies those words, but somewhere along the way, I've started longing for it.",
       "numLines": 35,
+      "chapter": "7",
       "ratings": {
         "importance": 17,
         "conflict": 0.2,
@@ -410,6 +426,7 @@
       "firstLine": "I'm not afraid of anything now. I'm not scared of anyone. I'm not lonely anymore.",
       "lastLine": "And so I'll live. I'll survive this.",
       "numLines": 40,
+      "chapter": "7",
       "ratings": {
         "importance": 1,
         "conflict": 1,
@@ -433,6 +450,7 @@
       "firstLine": "The meteorite instantly destroyed a wide area, centered on the shrine.",
       "lastLine": "It reflects the sun in the midst of a faint morning haze, endlessly serene.",
       "numLines": 40,
+      "chapter": "7",
       "ratings": {
         "importance": 18,
         "conflict": 1,
@@ -456,6 +474,7 @@
       "firstLine": "In that instant, with absolutely no warning, I see her.",
       "lastLine": "Like children who've agreed to go on the count of three, we say together: What's your name?",
       "numLines": 30,
+      "chapter": "8",
       "ratings": {
         "importance": 19,
         "conflict": 0.5,

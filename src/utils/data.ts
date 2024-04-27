@@ -38,6 +38,7 @@ export interface Scene {
   characters: Character[];
   summary: string;
   numLines: number;
+  chapter: string;
   ratings: {
     importance: number;
     conflict: number;
@@ -102,6 +103,14 @@ export interface RatingDict {
   conflict: number[];
   sentiment: number[];
   length: number[];
+}
+
+export interface ChapterDivision {
+  chapter: string;
+  index: number;
+  scenes: string[];
+  locations: string[];
+  characters: string[];
 }
 
 /* DATA */
@@ -412,6 +421,48 @@ const createRatingDict = (data: Scene[]): any => {
   };
 };
 
+// get chapter divisions by finding last instance of each unique chapter name
+const getChapterDivisions = (data: Scene[]): ChapterDivision[] => {
+  const chapters = Array.from(new Set(data.map((scene) => scene.chapter)));
+
+  const chapterDivisions = chapters.map((chapter) => {
+    // find first instance of chapter
+    const firstSceneIndex = data.findIndex(
+      (scene) => scene.chapter === chapter
+    );
+
+    // save all scenes in chapter
+    const chapterScenes = data.filter((scene) => scene.chapter === chapter);
+
+    // find all scenes in chapter and save name of each scene
+    const sceneNames = chapterScenes.map((scene) => scene.name);
+
+    // find all locations in chapter
+    const chapterLocations = Array.from(
+      new Set(chapterScenes.map((scene) => scene.location))
+    );
+
+    // find all characters in chapter
+    const chapterCharacters = Array.from(
+      new Set(
+        chapterScenes.flatMap((scene) =>
+          scene.characters.map((char) => char.name)
+        )
+      )
+    );
+
+    return {
+      chapter: chapter,
+      index: firstSceneIndex,
+      scenes: sceneNames,
+      locations: chapterLocations,
+      characters: chapterCharacters,
+    };
+  });
+
+  return chapterDivisions;
+};
+
 // generate all data and return
 export const getAllData = (init_data: any) => {
   const init_scene_data = scene_data(init_data);
@@ -460,6 +511,8 @@ export const getAllData = (init_data: any) => {
   const minLines = rating_info.minLines;
   const maxLines = rating_info.maxLines;
 
+  const chapterDivisions = getChapterDivisions(init_scene_data);
+
   return {
     scene_data: init_scene_data,
     location_data: init_location_data,
@@ -479,5 +532,6 @@ export const getAllData = (init_data: any) => {
     ratingDict: init_ratingDict,
     minLines: minLines,
     maxLines: maxLines,
+    chapterDivisions: chapterDivisions,
   };
 };

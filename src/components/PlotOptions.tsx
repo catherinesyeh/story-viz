@@ -24,6 +24,8 @@ function PlotOptions() {
     setLocationHover,
     setSceneHover,
     setHidden,
+    showChapters,
+    setShowChapters,
   } = storyStore();
 
   const {
@@ -129,6 +131,7 @@ function PlotOptions() {
               if (value) setStory(value);
             }}
           />
+
           <Button
             size="xs"
             onClick={() => {
@@ -138,6 +141,21 @@ function PlotOptions() {
           >
             Reset All
           </Button>
+        </div>
+      </div>
+      <Divider orientation="vertical" />
+      <div className="options-contain">
+        <span>
+          <b>Chapters</b>
+        </span>
+        <div className="options-inner">
+          <Switch
+            size="xs"
+            label="Show"
+            labelPosition="left"
+            checked={showChapters}
+            onChange={(event) => setShowChapters(event.currentTarget.checked)}
+          />
         </div>
       </div>
       <Divider orientation="vertical" />
