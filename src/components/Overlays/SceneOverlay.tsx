@@ -124,6 +124,18 @@ function SceneOverlay() {
               >
                 Scene {scene.number}: {scene.name}
               </text>
+              {scene.chapter && (
+                <text
+                  x={sceneSummaryTexts[i].end_x}
+                  y={sceneSummaryTexts[i].title_y}
+                  textAnchor="end"
+                  className="bold"
+                >
+                  {scene.chapter.startsWith("Act")
+                    ? scene.chapter
+                    : "Chapter " + scene.chapter}
+                </text>
+              )}
               {sceneSummaries[i].summary.map((summary, j) => (
                 <text
                   key={"scene summary" + i + j}
