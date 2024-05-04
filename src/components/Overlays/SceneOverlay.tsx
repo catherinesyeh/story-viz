@@ -121,6 +121,7 @@ function SceneOverlay() {
                 y={sceneSummaryTexts[i].title_y}
                 textAnchor="start"
                 className="bold"
+                fontSize={"medium"}
               >
                 Scene {scene.number}: {scene.name}
               </text>
@@ -174,6 +175,7 @@ function SceneOverlay() {
                   x={sceneSummaryTexts[i].x}
                   y={sceneSummaryTexts[i].character_y}
                   className="bold"
+                  fontSize={"medium"}
                 >
                   Characters:
                 </text>
