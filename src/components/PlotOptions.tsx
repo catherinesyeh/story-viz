@@ -59,6 +59,7 @@ function PlotOptions() {
     // "gatsby2",
     "gatsby-mov",
     "alice",
+    "alice2",
     "alice-mov",
     "wizard",
     "wizard-mov",
