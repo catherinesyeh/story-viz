@@ -56,7 +56,7 @@ function PlotOptions() {
   const overlayOptions = ["conflict", "importance", "length", "none"];
   const storyOptions = [
     "gatsby",
-    // "gatsby2",
+    "gatsby2",
     "gatsby-mov",
     "alice",
     "alice2",
