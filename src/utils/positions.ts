@@ -745,7 +745,7 @@ const characterPaths = (
   let updated_max_y_per_scene = [...max_y_per_scene];
 
   const allPaths = characterScenes.map((character) => {
-    console.log(character.character);
+    // console.log(character.character);
     const paths = [];
 
     const character_coords = characterPos[characterScenes.indexOf(character)];
@@ -806,7 +806,7 @@ const characterPaths = (
       const ind = og_indices.findIndex((val) => val === i);
       return [point[0], point[1] + importance_weights[ind]];
     });
-    console.log(adjustments);
+    // console.log(adjustments);
     let top_path = svgPath(character_coords_top, adjustments, bezierCommand);
     let bottom_path = svgPath(
       character_coords_bottom,
