@@ -8,6 +8,7 @@ matplotlib = "*"
 pandas = "*"
 scipy = "*"
 langchain-openai = "*"
+langchain-anthropic = "*"
 
 [dev-packages]
 ipykernel = "*"
