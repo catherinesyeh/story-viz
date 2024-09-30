@@ -9,6 +9,7 @@ pandas = "*"
 scipy = "*"
 langchain-openai = "*"
 langchain-anthropic = "*"
+seaborn = "*"
 
 [dev-packages]
 ipykernel = "*"
