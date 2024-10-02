@@ -4,6 +4,8 @@ import { create } from "zustand";
 interface IStore {
   story: string;
   setStory: (val: string) => void;
+  yAxis: string;
+  setYAxis: (val: string) => void;
 
   overlay: string;
   setOverlay: (val: string) => void;
@@ -31,6 +33,7 @@ interface IStore {
 }
 
 const initialState = {
+  yAxis: "location",
   overlay: "none",
   colorBy: "sentiment",
   sizeBy: "length",
@@ -49,6 +52,7 @@ export const storyStore = create<IStore>()((set) => ({
   ...initialState,
 
   setStory: (val: string) => set({ story: val }),
+  setYAxis: (val: string) => set({ yAxis: val }),
   setOverlay: (val: string) => set({ overlay: val }),
   setColorBy: (val: string) => set({ colorBy: val }),
   setSizeBy: (val: string) => set({ sizeBy: val }),

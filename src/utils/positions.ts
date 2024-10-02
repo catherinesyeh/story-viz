@@ -102,9 +102,10 @@ const characterPos = (
   locationPos: number[],
   locations: string[],
   sceneLocations: string[],
-  sceneCharacters: SceneCharacter[]
-) =>
-  characterScenes.map((character) => {
+  sceneCharacters: SceneCharacter[],
+  scene_data: Scene[]
+) => {
+  const charPos = characterScenes.map((character) => {
     return character.scenes.map((scene) => {
       return {
         x: initialScenePos[scene].x - 0.5 * character_height,
@@ -116,6 +117,37 @@ const characterPos = (
       };
     });
   });
+  const maxLoc = locationPos[locationPos.length - 1];
+  const promPos = characterScenes.map((character) => {
+    return character.scenes.map((scene) => {
+      const cur_scene = scene_data[scene];
+      const char_importance = cur_scene.characters.find(
+        (c) => c.name === character.character
+      )?.importance as number;
+      return {
+        x: initialScenePos[scene].x - 0.5 * character_height,
+        y: maxLoc + location_offset * 0.5 - maxLoc * char_importance,
+      };
+    });
+  });
+  const emotionPos = characterScenes.map((character) => {
+    return character.scenes.map((scene) => {
+      const cur_scene = scene_data[scene];
+      const char_emotion = cur_scene.characters.find(
+        (c) => c.name === character.character
+      )?.rating as number;
+      return {
+        x: initialScenePos[scene].x - 0.5 * character_height,
+        y: maxLoc * 0.5 + location_offset * 0.5 - maxLoc * char_emotion * 0.5,
+      };
+    });
+  });
+  return {
+    charPos: charPos,
+    promPos: promPos,
+    emotionPos: emotionPos,
+  };
+};
 
 // compute character square positions
 const characterSquares = (
@@ -877,23 +909,51 @@ const sceneBoxes = (
 ) =>
   sceneCharacters.map((scene, i) => {
     const characters = scene.characters;
+    const characterPos = characters.map((char) => {
+      const scenes =
+        characterScenes.find((c) => c.character === char)?.scenes || [];
+      const sceneIndex = scenes.indexOf(i);
+      const charIndex = characterScenes.findIndex((c) => c.character === char);
+      return characterSquares[charIndex][sceneIndex];
+    });
+    const minYIndex =
+      characterPos &&
+      characterPos.findIndex(
+        (s) => s && s.y === Math.min(...characterPos.map((s) => s && s.y))
+      );
+    const maxYIndex =
+      characterPos &&
+      characterPos.findIndex(
+        (s) => s && s.y === Math.max(...characterPos.map((s) => s && s.y))
+      );
+    // const firstChar = characterScenes.findIndex(
+    //   (c) => c.character === characters[0]
+    // );
     const firstChar = characterScenes.findIndex(
-      (c) => c.character === characters[0]
+      (c) => c.character === characters[minYIndex]
     );
-    const firstCharScene = characterScenes[firstChar].scenes.findIndex(
-      (s) => s === i
-    );
-    const lastChar = characterScenes.findIndex(
-      (c) => c.character === characters[characters.length - 1]
-    );
-    const lastCharScene = characterScenes[lastChar].scenes.findIndex(
-      (s) => s === i
-    );
+    const firstCharScene =
+      characterScenes[firstChar] &&
+      characterScenes[firstChar].scenes.findIndex((s) => s === i);
+    // const lastChar = characterScenes.findIndex(
+    //   (c) => c.character === characters[characters.length - 1]
+    // );
+    const lastChar =
+      characterScenes &&
+      characterScenes.findIndex((c) => c.character === characters[maxYIndex]);
+    const lastCharScene =
+      characterScenes[lastChar] &&
+      characterScenes[lastChar].scenes.findIndex((s) => s === i);
 
-    const top = characterSquares[firstChar][firstCharScene].y;
+    const top =
+      characterSquares[firstChar] &&
+      characterSquares[firstChar][firstCharScene] &&
+      characterSquares[firstChar][firstCharScene].y;
     const bottom =
+      characterSquares[lastChar] &&
+      characterSquares[lastChar][lastCharScene] &&
       characterSquares[lastChar][lastCharScene].y +
-      characterSquares[lastChar][lastCharScene].height;
+        characterSquares[lastChar][lastCharScene].height;
 
     return {
       x: scenePos[i].x - character_height,
@@ -1387,8 +1447,11 @@ const overlayPath = (
   const path = svgPath(overlay_coords, {}, bezierCommand, 0.3);
 
   // add a point at the beginning and end of the curve to close it off
-  const start = [overlay_coords[0][0], min_conflict_y];
-  const end = [overlay_coords[overlay_coords.length - 1][0], min_conflict_y];
+  const start = overlay_coords[0] && [overlay_coords[0][0], min_conflict_y];
+  const end = overlay_coords[overlay_coords.length - 1] && [
+    overlay_coords[overlay_coords.length - 1][0],
+    min_conflict_y,
+  ];
 
   const edited_path = path.replace("M", "M" + start[0] + "," + start[1] + " L");
   return edited_path + " L " + end[0] + "," + end[1];
@@ -1475,11 +1538,13 @@ export const getAllPositions = (
   sortedCharacters: CharacterData[],
   evenSpacing: boolean,
   ratingDict: RatingDict,
+  yAxis: string = "location",
   activeSceneRange: number[] = [0, scenes.length]
 ) => {
   const sceneWidth = scene_width(locations, scenes);
 
   const initLocationPos = locationPos(locations);
+
   let initScenePos = initialScenePos(
     sceneWidth,
     scenes,
@@ -1490,14 +1555,22 @@ export const getAllPositions = (
 
   const plotWidth = plot_width(initScenePos);
 
-  const initCharacterPos = characterPos(
+  const characterInfo = characterPos(
     characterScenes,
     initScenePos,
     initLocationPos,
     locations,
     sceneLocations,
-    sceneCharacters
+    sceneCharacters,
+    scene_data
   );
+
+  const initCharacterPos =
+    yAxis === "location"
+      ? characterInfo.charPos
+      : yAxis === "importance"
+      ? characterInfo.promPos
+      : characterInfo.emotionPos;
 
   const initCharacterSquares = characterSquares(
     characterScenes,

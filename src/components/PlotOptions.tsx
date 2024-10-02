@@ -26,6 +26,8 @@ function PlotOptions() {
     setHidden,
     showChapters,
     setShowChapters,
+    yAxis,
+    setYAxis,
   } = storyStore();
 
   const {
@@ -75,6 +77,7 @@ function PlotOptions() {
     "coco",
     "mendips",
   ].sort();
+  const yAxisOptions = ["location", "importance", "sentiment"];
 
   const [scaleByLength, setScaleByLength] = useState(false);
 
@@ -92,7 +95,8 @@ function PlotOptions() {
         character_quotes,
         sortedCharacters,
         !scaleByLength,
-        ratingDict
+        ratingDict,
+        yAxis
       );
     }
   };
@@ -144,6 +148,7 @@ function PlotOptions() {
         sortedCharacters,
         !scaleByLength,
         ratingDict,
+        yAxis,
         activeScenes
       );
     }
@@ -155,7 +160,7 @@ function PlotOptions() {
 
   useEffect(() => {
     set_pos();
-  }, [scene_data, scaleByLength]);
+  }, [scene_data, scaleByLength, yAxis]);
 
   useEffect(() => {
     updatePaths();
@@ -173,6 +178,16 @@ function PlotOptions() {
             value={story}
             onChange={(value) => {
               if (value) setStory(value);
+            }}
+          />
+
+          <Select
+            size="xs"
+            data={yAxisOptions}
+            label="Y Axis"
+            value={yAxis}
+            onChange={(value) => {
+              if (value) setYAxis(value);
             }}
           />
 

@@ -28,7 +28,7 @@ export interface Character {
   importance: number;
   emotion: string;
   quote: string;
-  rating: string;
+  rating: number;
 }
 
 export interface Scene {

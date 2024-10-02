@@ -77,7 +77,8 @@ interface IStore {
     character_quotes: CharacterQuote[],
     sortedCharacters: CharacterData[],
     evenSpacing: boolean,
-    ratingDict: RatingDict
+    ratingDict: RatingDict,
+    yAxis: string
   ) => void;
   setPaths: (
     scene_data: Scene[],
@@ -92,6 +93,7 @@ interface IStore {
     sortedCharacters: CharacterData[],
     evenSpacing: boolean,
     ratingDict: RatingDict,
+    yAxis: string,
     activeScenes: [number, number]
   ) => void;
 }
@@ -138,7 +140,8 @@ export const positionStore = create<IStore>((set, get) => ({
     character_quotes: CharacterQuote[],
     sortedCharacters: CharacterData[],
     evenSpacing: boolean,
-    ratingDict: RatingDict
+    ratingDict: RatingDict,
+    yAxis: string = "location"
   ) => {
     const newPositions = getAllPositions(
       scene_data,
@@ -152,7 +155,8 @@ export const positionStore = create<IStore>((set, get) => ({
       character_quotes,
       sortedCharacters,
       evenSpacing,
-      ratingDict
+      ratingDict,
+      yAxis
     );
 
     const { locationPos } = get();
@@ -202,6 +206,7 @@ export const positionStore = create<IStore>((set, get) => ({
     sortedCharacters: CharacterData[],
     evenSpacing: boolean,
     ratingDict: RatingDict,
+    yAxis: string = "location",
     activeScenes: [number, number]
   ) => {
     const newPositions = getAllPositions(
@@ -217,13 +222,13 @@ export const positionStore = create<IStore>((set, get) => ({
       sortedCharacters,
       evenSpacing,
       ratingDict,
+      yAxis,
       activeScenes
     );
     set({
       importancePath: newPositions.importancePath,
       lengthPath: newPositions.lengthPath,
       conflictPath: newPositions.conflictPath,
-      characterPaths: newPositions.characterPaths,
     });
   },
 }));
