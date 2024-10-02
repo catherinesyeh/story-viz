@@ -9,7 +9,14 @@ import { dataStore } from "../stores/dataStore";
 import { positionStore } from "../stores/positionStore";
 
 function Legend() {
-  const { sortedCharacters, minLines, maxLines } = dataStore();
+  const {
+    sortedCharacters,
+    minLines,
+    maxLines,
+    chapterDivisions,
+    activeChapters,
+    characterScenes,
+  } = dataStore();
   const {
     legendBoxPos,
     legendPos,
@@ -36,6 +43,32 @@ function Legend() {
       : [...hidden, name];
     setHidden(newHidden);
   };
+
+  // active chapters
+  const activeChapterDivisions =
+    chapterDivisions &&
+    chapterDivisions.filter((_, i) => {
+      return i >= activeChapters[0] - 1 && i < activeChapters[1];
+    });
+  const firstActiveChapter = activeChapterDivisions[0];
+  const firstActiveScene = firstActiveChapter && firstActiveChapter.index;
+  const lastActiveChapter =
+    activeChapterDivisions[activeChapterDivisions.length - 1];
+  const lastActiveScene =
+    lastActiveChapter &&
+    lastActiveChapter.index + lastActiveChapter.scenes.length;
+  const activeCharacterScenes = characterScenes.filter((charScene) => {
+    const scenes = charScene.scenes;
+    const filteredScenes = scenes.filter(
+      (scene) => scene >= firstActiveScene && scene < lastActiveScene
+    );
+    return filteredScenes.length > 0;
+  });
+  const activeCharacters = sortedCharacters.filter((char) => {
+    return activeCharacterScenes
+      .map((charScene) => charScene.character)
+      .includes(char.character);
+  });
   return (
     <g id="legends">
       {/* add legend */}
@@ -59,6 +92,11 @@ function Legend() {
                 transform={`translate(${legendPos[i].x}, ${legendPos[i].y})`}
                 className={
                   "legend-item " +
+                  (activeCharacters
+                    .map((char) => char.character)
+                    .includes(character.character)
+                    ? ""
+                    : "faded no-click") +
                   (hidden.includes(character.character) ? "faded" : "")
                 }
                 onClick={() => updateHidden(character.character)}

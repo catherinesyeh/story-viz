@@ -11,13 +11,45 @@ import {
 import { dataStore } from "../stores/dataStore";
 import { RatingDict } from "../utils/data";
 import { positionStore } from "../stores/positionStore";
-import { scene_base, scene_offset } from "../utils/consts";
+import { scene_base } from "../utils/consts";
 
 function Defs() {
   const { sceneHover, characterColor } = storyStore();
   const { scenePos, sceneWidth } = positionStore();
-  const { characterScenes, ratingDict, scenes, sortedCharacters, scene_data } =
-    dataStore();
+  const {
+    characterScenes,
+    ratingDict,
+    scenes,
+    sortedCharacters,
+    scene_data,
+    chapterDivisions,
+    activeChapters,
+  } = dataStore();
+
+  // active chapters
+  const activeChapterDivisions =
+    chapterDivisions &&
+    chapterDivisions.filter((_, i) => {
+      return i >= activeChapters[0] - 1 && i < activeChapters[1];
+    });
+  const firstActiveChapter = activeChapterDivisions[0];
+  const firstActiveScene = firstActiveChapter && firstActiveChapter.index;
+  const lastActiveChapter =
+    activeChapterDivisions[activeChapterDivisions.length - 1];
+  const lastActiveScene =
+    lastActiveChapter &&
+    lastActiveChapter.index + lastActiveChapter.scenes.length;
+  const numScenesInLastActiveChapter =
+    lastActiveChapter &&
+    lastActiveChapter.scenes &&
+    lastActiveChapter.scenes.length;
+  const activeScenePos =
+    scenePos &&
+    scenePos.slice(
+      activeChapterDivisions[0].index,
+      activeChapterDivisions[activeChapterDivisions.length - 1].index +
+        numScenesInLastActiveChapter
+    );
   return (
     <defs>
       <g id="gradients">
@@ -27,25 +59,50 @@ function Defs() {
           const first_scene = charScenes[0];
           const last_scene = charScenes[charScenes.length - 1];
 
+          const activeCharScenes = charScenes.filter(
+            (scene) => scene >= firstActiveScene && scene < lastActiveScene
+          );
+
+          const first_active_scene = activeCharScenes[0];
+          const last_active_scene =
+            activeCharScenes[activeCharScenes.length - 1];
+
           // compute fade in and fade out percentages
           const line_length =
             scenePos[last_scene] && scenePos[first_scene]
               ? scenePos[last_scene].x - scenePos[first_scene].x + sceneWidth
               : 0;
-          const fade_in = scene_base / line_length / 2;
+          const fade_in_buffer = scene_base / line_length / 2;
+          const fade_in_buffer_percent = fade_in_buffer * 100;
+          const fade_in =
+            scenePos[first_active_scene] &&
+            scenePos[first_scene] &&
+            (scenePos[first_active_scene].x - scenePos[first_scene].x) /
+              line_length +
+              fade_in_buffer;
           const fade_in_percent = fade_in * 100;
-          const fade_out_percent = 100 - fade_in_percent;
+          const fade_out =
+            scenePos[last_scene] &&
+            scenePos[last_active_scene] &&
+            (scenePos[last_scene].x - scenePos[last_active_scene].x) /
+              line_length +
+              fade_in_buffer;
+          const fade_out_percent = 100 - fade_out * 100;
 
           const charColor = getColor(char.character, sortedCharacters);
           const llmColor =
             getLLMColor(char.character, sortedCharacters) || charColor;
 
-          const firstScene = scene_data[first_scene].characters.find(
-            (c) => c.name === char.character
-          ) as any;
-          const lastScene = scene_data[last_scene].characters.find(
-            (c) => c.name === char.character
-          ) as any;
+          const firstScene =
+            scene_data[first_scene] &&
+            (scene_data[first_scene].characters.find(
+              (c) => c.name === char.character
+            ) as any);
+          const lastScene =
+            scene_data[last_scene] &&
+            (scene_data[last_scene].characters.find(
+              (c) => c.name === char.character
+            ) as any);
           return (
             <linearGradient
               id={"linear" + i}
@@ -55,21 +112,28 @@ function Defs() {
               y2="0%"
               key={"linear" + i}
             >
-              <stop offset="0%" stopColor="rgb(255,255,255,0)" />
-              <stop
-                offset={fade_in_percent + "%"}
-                stopColor={
-                  characterColor === "default"
-                    ? charColor
-                    : characterColor === "llm"
-                    ? llmColor
-                    : characterColor === "sentiment"
-                    ? emotionColor(firstScene.rating)
-                    : importanceColor(firstScene.importance)
-                }
-              />
+              {activeCharScenes.length > 0 && (
+                <>
+                  <stop
+                    offset={fade_in_percent - fade_in_buffer_percent + "%"}
+                    stopColor={"rgb(255,255,255,0)"}
+                  />
+                  <stop
+                    offset={fade_in_percent + "%"}
+                    stopColor={
+                      characterColor === "default"
+                        ? charColor
+                        : characterColor === "llm"
+                        ? llmColor
+                        : characterColor === "sentiment"
+                        ? emotionColor(firstScene.rating)
+                        : importanceColor(firstScene.importance)
+                    }
+                  />
+                </>
+              )}
 
-              {charScenes.flatMap((scene, j) => {
+              {activeCharScenes.flatMap((scene, j) => {
                 const char_data = scene_data[scene].characters.find(
                   (c) => c.name === char.character
                 ) as any;
@@ -78,8 +142,8 @@ function Defs() {
                 const emotion_color = emotionColor(emotion_val); // dynamic color based on emotion
                 const importance_color = importanceColor(importance_val); // dynamic color based on importance
 
-                const next_scene = scene_data[charScenes[j + 1]]
-                  ? (scene_data[charScenes[j + 1]].characters.find(
+                const next_scene = scene_data[activeCharScenes[j + 1]]
+                  ? (scene_data[activeCharScenes[j + 1]].characters.find(
                       (c) => c.name === char.character
                     ) as any)
                   : char_data;
@@ -106,8 +170,8 @@ function Defs() {
                     ? next_emotion_color
                     : next_importance_color;
 
-                if (j < charScenes.length - 1) {
-                  const next_scene = charScenes[j + 1];
+                if (j < activeCharScenes.length - 1) {
+                  const next_scene = activeCharScenes[j + 1];
                   const start_gap =
                     scenePos[scene] && scenePos[first_scene]
                       ? (scenePos[scene].x -
@@ -127,7 +191,9 @@ function Defs() {
                     return [
                       <stop
                         key={`full-opacity-before-gap-${i}-${j}`}
-                        offset={`${start_gap_percent - fade_in_percent}%`}
+                        offset={`${
+                          start_gap_percent - fade_in_buffer_percent
+                        }%`}
                         stopColor={start_color}
                       />,
                       <stop
@@ -147,7 +213,7 @@ function Defs() {
                       />,
                       <stop
                         key={`full-opacity-after-gap-${i}-${j}`}
-                        offset={`${end_gap_percent + fade_in_percent}%`}
+                        offset={`${end_gap_percent + fade_in_buffer_percent}%`}
                         stopColor={end_color}
                       />,
                     ];
@@ -156,7 +222,9 @@ function Defs() {
                     return [
                       <stop
                         key={`scene-${i}-${j}`}
-                        offset={`${start_gap_percent - fade_in_percent}%`}
+                        offset={`${
+                          start_gap_percent - fade_in_buffer_percent
+                        }%`}
                         stopColor={start_color}
                       />,
                     ];
@@ -166,19 +234,26 @@ function Defs() {
                 return [];
               })}
 
-              <stop
-                offset={fade_out_percent + "%"}
-                stopColor={
-                  characterColor === "default"
-                    ? charColor
-                    : characterColor === "llm"
-                    ? llmColor
-                    : characterColor === "sentiment"
-                    ? emotionColor(lastScene.rating)
-                    : importanceColor(lastScene.importance)
-                }
-              />
-              <stop offset="100%" stopColor="rgb(255,255,255,0)" />
+              {activeCharScenes.length > 0 && (
+                <>
+                  <stop
+                    offset={fade_out_percent + "%"}
+                    stopColor={
+                      characterColor === "default"
+                        ? charColor
+                        : characterColor === "llm"
+                        ? llmColor
+                        : characterColor === "sentiment"
+                        ? emotionColor(lastScene.rating)
+                        : importanceColor(lastScene.importance)
+                    }
+                  />
+                  <stop
+                    offset={fade_out_percent + fade_in_buffer_percent + "%"}
+                    stopColor={"rgb(255,255,255,0)"}
+                  />
+                </>
+              )}
             </linearGradient>
           );
         })}
@@ -217,41 +292,53 @@ function Defs() {
           );
         })}
         {/* create gradient for each set of ratings */}
-        {Object.keys(ratingDict).map((rating_type) => (
-          <linearGradient
-            id={"rating" + rating_type}
-            x1="0%"
-            y1="0%"
-            x2="100%"
-            y2="0%"
-            key={"rating gradient" + rating_type}
-          >
-            {ratingDict[rating_type as keyof RatingDict].map((rating, j) => {
-              const denom = scenePos[scenePos.length - 1]
-                ? scenePos[scenePos.length - 1].x - scene_offset
-                : 1;
-              let percent = scenePos[j]
-                ? ((scenePos[j].x - scene_offset) / denom) * 100
-                : 0;
+        {Object.keys(ratingDict).map((rating_type) => {
+          const curDict = ratingDict[rating_type as keyof RatingDict];
+          const activeRatings = curDict.slice(
+            activeChapterDivisions[0].index,
+            activeChapterDivisions[activeChapterDivisions.length - 1].index +
+              numScenesInLastActiveChapter
+          );
+          return (
+            <linearGradient
+              id={"rating" + rating_type}
+              x1="0%"
+              y1="0%"
+              x2="100%"
+              y2="0%"
+              key={"rating gradient" + rating_type}
+            >
+              {activeRatings.map((rating, j) => {
+                const firstScenePos = scenePos[firstActiveScene];
+                const denom =
+                  activeScenePos[activeScenePos.length - 1] && firstScenePos
+                    ? activeScenePos[activeScenePos.length - 1].x -
+                      firstScenePos.x
+                    : 1;
+                let percent =
+                  activeScenePos[j] && firstScenePos
+                    ? ((activeScenePos[j].x - firstScenePos.x) / denom) * 100
+                    : 0;
 
-              return (
-                <stop
-                  offset={`${percent}%`}
-                  stopColor={
-                    rating_type === "sentiment"
-                      ? emotionColor(rating)
-                      : rating_type === "conflict"
-                      ? conflictColor(rating)
-                      : rating_type === "importance"
-                      ? importanceColor(rating)
-                      : lengthColor(rating)
-                  }
-                  key={"rating stop" + rating_type + j}
-                />
-              );
-            })}
-          </linearGradient>
-        ))}
+                return (
+                  <stop
+                    offset={`${percent}%`}
+                    stopColor={
+                      rating_type === "sentiment"
+                        ? emotionColor(rating)
+                        : rating_type === "conflict"
+                        ? conflictColor(rating)
+                        : rating_type === "importance"
+                        ? importanceColor(rating)
+                        : lengthColor(rating)
+                    }
+                    key={"rating stop" + rating_type + j}
+                  />
+                );
+              })}
+            </linearGradient>
+          );
+        })}
         {/* white gradient for overlay */}
         <linearGradient id="white-gradient" x1="0" y1="0%" x2="100%" y2="0%">
           <stop

@@ -42,8 +42,11 @@ function PlotOptions() {
     character_quotes,
     sortedCharacters,
     ratingDict,
+    resetActiveChapters,
+    activeChapters,
+    chapterDivisions,
   } = dataStore();
-  const { setPositions } = positionStore();
+  const { setPositions, setPaths } = positionStore();
   const colorByOptions = [
     "conflict",
     "sentiment",
@@ -111,6 +114,41 @@ function PlotOptions() {
     }
   };
 
+  const updatePaths = () => {
+    if (scene_data) {
+      // find active scenes based on active chapters
+      const activeChapterDivisions =
+        chapterDivisions &&
+        chapterDivisions.filter((_, i) => {
+          return i >= activeChapters[0] - 1 && i < activeChapters[1];
+        });
+      const lastActiveChapter =
+        activeChapterDivisions[activeChapterDivisions.length - 1];
+      const numScenesInLastActiveChapter = lastActiveChapter.scenes.length;
+      const activeScenes = [
+        activeChapterDivisions[0].index,
+        activeChapterDivisions[activeChapterDivisions.length - 1].index +
+          numScenesInLastActiveChapter,
+      ] as [number, number];
+
+      setPaths(
+        scene_data,
+        scenes,
+        locations,
+        characterScenes,
+        sceneLocations,
+        sceneCharacters,
+        location_quotes,
+        sceneSummaries,
+        character_quotes,
+        sortedCharacters,
+        !scaleByLength,
+        ratingDict,
+        activeScenes
+      );
+    }
+  };
+
   useEffect(() => {
     handleStoryChange();
   }, [story]);
@@ -118,6 +156,10 @@ function PlotOptions() {
   useEffect(() => {
     set_pos();
   }, [scene_data, scaleByLength]);
+
+  useEffect(() => {
+    updatePaths();
+  }, [activeChapters]);
 
   return (
     <div id="options">
@@ -138,6 +180,7 @@ function PlotOptions() {
             size="xs"
             onClick={() => {
               resetAll();
+              resetActiveChapters();
               setScaleByLength(false);
             }}
           >

@@ -748,9 +748,23 @@ const characterPaths = (
     // console.log(character.character);
     const paths = [];
 
-    const character_coords = characterPos[characterScenes.indexOf(character)];
+    // const char_active_scenes = character.scenes.filter(
+    //   (scene) => scene >= activeSceneRange[0] && scene < activeSceneRange[1]
+    // );
 
-    const importance_weights = character.scenes.map((scene) => {
+    // const char_active_indices = char_active_scenes.map((scene) =>
+    //   character.scenes.findIndex((val) => val === scene)
+    // );
+
+    const character_coords = characterPos[characterScenes.indexOf(character)];
+    // const char_coords_active = char_active_indices.map(
+    //   (index) => character_coords[index]
+    // );
+
+    const char_active_scenes = character.scenes;
+    const char_coords_active = character_coords;
+
+    const importance_weights = char_active_scenes.map((scene) => {
       const importance = scene_data[scene].characters.find(
         (c) => c.name === character.character
       )?.importance as number;
@@ -758,10 +772,14 @@ const characterPaths = (
       return normalizeMarkerSize(character_height * importance) / 2;
     });
 
-    let character_coords_arr = character_coords.map((pos) => [
+    let character_coords_arr = char_coords_active.map((pos) => [
       pos.x + character_height / 2,
       pos.y + character_height / 2,
     ]);
+
+    if (character_coords_arr.length === 0) {
+      return [""];
+    }
 
     const coord_info = getPath(
       character,
@@ -1352,8 +1370,16 @@ const overlay_points = (
   });
 
 // compute overlay curve
-const overlayPath = (conflict_points: Position[], min_conflict_y: number) => {
-  const overlay_coords = conflict_points.map((point: any) => [
+const overlayPath = (
+  conflict_points: Position[],
+  min_conflict_y: number,
+  activeSceneRange: number[]
+) => {
+  const active_conflict_points = conflict_points.slice(
+    activeSceneRange[0],
+    activeSceneRange[1]
+  );
+  const overlay_coords = active_conflict_points.map((point: any) => [
     point.x + character_height / 2 - 5,
     point.y + character_height / 2,
   ]);
@@ -1448,7 +1474,8 @@ export const getAllPositions = (
   character_quotes: CharacterQuote[],
   sortedCharacters: CharacterData[],
   evenSpacing: boolean,
-  ratingDict: RatingDict
+  ratingDict: RatingDict,
+  activeSceneRange: number[] = [0, scenes.length]
 ) => {
   const sceneWidth = scene_width(locations, scenes);
 
@@ -1600,21 +1627,33 @@ export const getAllPositions = (
     initScenePos
   );
 
-  const initConflictPath = overlayPath(initConflictPoints, min_conflict_y);
+  const initConflictPath = overlayPath(
+    initConflictPoints,
+    min_conflict_y,
+    activeSceneRange
+  );
 
   const initImportancePoints = overlay_points(
     ratingDict.importance,
     min_conflict_y,
     initScenePos
   );
-  const initImportancePath = overlayPath(initImportancePoints, min_conflict_y);
+  const initImportancePath = overlayPath(
+    initImportancePoints,
+    min_conflict_y,
+    activeSceneRange
+  );
 
   const initLengthPoints = overlay_points(
     ratingDict.length,
     min_conflict_y,
     initScenePos
   );
-  const initLengthPath = overlayPath(initLengthPoints, min_conflict_y);
+  const initLengthPath = overlayPath(
+    initLengthPoints,
+    min_conflict_y,
+    activeSceneRange
+  );
 
   return {
     sceneWidth: sceneWidth,

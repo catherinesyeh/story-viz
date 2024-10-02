@@ -26,6 +26,7 @@ interface IStore {
   setSceneHover: (val: string) => void;
   hidden: string[];
   setHidden: (val: string[]) => void;
+
   resetAll: () => void;
 }
 
@@ -46,6 +47,7 @@ const initialState = {
 export const storyStore = create<IStore>()((set) => ({
   story: "gatsby",
   ...initialState,
+
   setStory: (val: string) => set({ story: val }),
   setOverlay: (val: string) => set({ overlay: val }),
   setColorBy: (val: string) => set({ colorBy: val }),

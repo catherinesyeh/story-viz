@@ -45,8 +45,12 @@ interface IStore {
   minLines: number;
   maxLines: number;
   chapterDivisions: ChapterDivision[];
+  num_chapters: number;
+  activeChapters: [number, number];
 
   setData: (val: any) => void;
+  setActiveChapters: (val: [number, number]) => void;
+  resetActiveChapters: () => void;
 }
 
 const initialState = {
@@ -75,6 +79,8 @@ const initialState = {
   minLines: init_data_values.minLines,
   maxLines: init_data_values.maxLines,
   chapterDivisions: init_data_values.chapterDivisions,
+  num_chapters: init_data_values.num_chapters,
+  activeChapters: [1, init_data_values.num_chapters] as [number, number],
 };
 
 export const dataStore = create<IStore>((set) => ({
@@ -106,6 +112,13 @@ export const dataStore = create<IStore>((set) => ({
       minLines: newData.minLines,
       maxLines: newData.maxLines,
       chapterDivisions: newData.chapterDivisions,
+      num_chapters: newData.num_chapters,
+      activeChapters: [1, newData.num_chapters] as [number, number],
     });
   },
+  setActiveChapters: (val: [number, number]) => set({ activeChapters: val }),
+  resetActiveChapters: () =>
+    set({
+      activeChapters: [1, initialState.num_chapters] as [number, number],
+    }),
 }));

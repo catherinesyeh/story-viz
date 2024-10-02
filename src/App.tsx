@@ -1,4 +1,5 @@
 import "./App.scss";
+import ChapterSlider from "./components/ChapterSlider";
 import PlotOptions from "./components/PlotOptions";
 import StoryVis from "./components/StoryVis";
 import { dataStore } from "./stores/dataStore";
@@ -43,6 +44,7 @@ function App() {
       <div id="story-contain">
         <StoryVis />
       </div>
+      <ChapterSlider />
     </div>
   );
 }

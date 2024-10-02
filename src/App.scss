@@ -264,6 +264,9 @@ h1 {
         fill-opacity: 0.5;
         stroke-opacity: 0.5;
       }
+      &.no-click {
+        pointer-events: none;
+      }
     }
 
     .character-path {
@@ -423,5 +426,30 @@ h1 {
   .mantine-Select-option span,
   .mantine-Button-label {
     font-size: 10.5px !important;
+  }
+}
+
+// CHAPTER SLIDER
+#chapter-slider {
+  display: flex;
+  align-items: center;
+  font-size: smaller;
+  gap: 1rem;
+  transition: 0.3s;
+  margin-top: 0.5rem;
+
+  &.hidden {
+    opacity: 0;
+    pointer-events: none;
+    visibility: hidden;
+  }
+
+  .mantine-Slider-root {
+    width: 100%;
+  }
+
+  button {
+    min-width: 70px;
+    margin-left: 0.5rem;
   }
 }

@@ -29,7 +29,28 @@ function MainPlot() {
     characterScenes,
     scenes,
     sortedCharacters,
+    activeChapters,
+    chapterDivisions,
   } = dataStore();
+
+  const activeChapterDivisions = chapterDivisions.filter(
+    (_, i) => i >= activeChapters[0] - 1 && i < activeChapters[1]
+  );
+  const lastActiveChapter =
+    activeChapterDivisions[activeChapterDivisions.length - 1];
+  const firstActiveChapter = activeChapterDivisions[0];
+  const firstActiveScene = firstActiveChapter && firstActiveChapter.index;
+  const lastActiveScene =
+    lastActiveChapter &&
+    lastActiveChapter.index + lastActiveChapter.scenes.length;
+
+  const activeSceneCharacters = sceneCharacters.filter(
+    (_, i) => i >= firstActiveScene && i < lastActiveScene && sceneBoxes[i]
+  );
+  const activeSceneBoxes = sceneBoxes.filter(
+    (_, i) => i >= firstActiveScene && i < lastActiveScene
+  );
+
   return (
     <g id="main-plot" transform={"translate(0 " + yShift + ")"}>
       {/* white boxes behind each scene */}
@@ -60,7 +81,24 @@ function MainPlot() {
       {/* add characters to each scene */}
       <g id="character-paths">
         {characterScenes.map((character, i) => {
-          const firstScene = character.scenes[0];
+          const charScenes = character.scenes;
+          const charActiveScenes =
+            charScenes &&
+            charScenes.filter(
+              (scene) => scene >= firstActiveScene && scene < lastActiveScene
+            );
+          const charActiveIndices = charActiveScenes.map((scene) =>
+            charScenes.indexOf(scene)
+          );
+          const firstScene = charActiveScenes[0];
+          const charActiveSquares =
+            charActiveIndices &&
+            characterSquares[i] &&
+            charActiveIndices.map((scene) => characterSquares[i][scene]);
+          const charActivePos =
+            charActiveIndices &&
+            characterSquares[i] &&
+            charActiveIndices.map((scene) => characterPos[i][scene]);
           const charColor = getColor(character.character, sortedCharacters);
 
           const llmColor =
@@ -113,8 +151,8 @@ function MainPlot() {
 
               {/* add squares at each scene the character appears in */}
               <g className="character-squares">
-                {characterSquares[i] &&
-                  character.scenes.map((scene, j) => {
+                {charActiveSquares &&
+                  charActiveScenes.map((scene, j) => {
                     const char_data = scene_data[scene].characters.find(
                       (c) => c.name === character.character
                     ) as any;
@@ -124,12 +162,12 @@ function MainPlot() {
                     const importance_color = importanceColor(importance_val);
 
                     return (
-                      characterSquares[i][j] && (
+                      charActiveSquares[j] && (
                         <rect
-                          x={characterSquares[i][j].x}
-                          y={characterSquares[i][j].y}
-                          width={characterSquares[i][j].width}
-                          height={characterSquares[i][j].height}
+                          x={charActiveSquares[j].x}
+                          y={charActiveSquares[j].y}
+                          width={charActiveSquares[j].width}
+                          height={charActiveSquares[j].height}
                           stroke={"white"}
                           strokeWidth={
                             normalizeMarkerSize(
@@ -174,17 +212,17 @@ function MainPlot() {
                 onMouseEnter={() => setCharacterHover(character.character)}
                 onMouseLeave={() => setCharacterHover("")}
               >
-                {characterPos[i] && (
+                {charActivePos && charActivePos[0] && (
                   <text
                     x={
                       firstScene === 0
-                        ? characterPos[i][0].x + 1.5 * character_height
-                        : characterPos[i][0].x - character_height / 2
+                        ? charActivePos[0].x + 1.5 * character_height
+                        : charActivePos[0].x - character_height / 2
                     }
                     y={
                       firstScene === 0
-                        ? characterPos[i][0].y + 0.9 * character_height
-                        : characterPos[i][0].y + 0.8 * character_height
+                        ? charActivePos[0].y + 0.9 * character_height
+                        : charActivePos[0].y + 0.8 * character_height
                     }
                     textAnchor={firstScene === 0 ? "start" : "end"}
                     fill={characterColorBy === "llm" ? llmColor : charColor}
@@ -209,9 +247,9 @@ function MainPlot() {
       </g>
       {/* add box outline for characters in each scene */}
       <g id="scene-boxes">
-        {sceneCharacters.map(
+        {activeSceneCharacters.map(
           (scene, i) =>
-            sceneBoxes[i] && (
+            activeSceneBoxes[i] && (
               <rect
                 className={
                   "scene-box " +
@@ -221,10 +259,10 @@ function MainPlot() {
                     ? "highlight"
                     : "")
                 }
-                x={sceneBoxes[i].x}
-                y={sceneBoxes[i].y}
-                width={sceneBoxes[i].width}
-                height={sceneBoxes[i].height}
+                x={activeSceneBoxes[i].x}
+                y={activeSceneBoxes[i].y}
+                width={activeSceneBoxes[i].width}
+                height={activeSceneBoxes[i].height}
                 fillOpacity={0}
                 strokeOpacity={0}
                 stroke={"rgb(0,0,0,0.7)"}

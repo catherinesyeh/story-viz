@@ -79,6 +79,21 @@ interface IStore {
     evenSpacing: boolean,
     ratingDict: RatingDict
   ) => void;
+  setPaths: (
+    scene_data: Scene[],
+    scenes: string[],
+    locations: string[],
+    characterScenes: CharacterScene[],
+    sceneLocations: string[],
+    sceneCharacters: SceneCharacter[],
+    location_quotes: LocationQuote[],
+    sceneSummaries: SceneSummary[],
+    character_quotes: CharacterQuote[],
+    sortedCharacters: CharacterData[],
+    evenSpacing: boolean,
+    ratingDict: RatingDict,
+    activeScenes: [number, number]
+  ) => void;
 }
 
 const initialState = {
@@ -172,6 +187,43 @@ export const positionStore = create<IStore>((set, get) => ({
       lengthPath: newPositions.lengthPath,
       yShift: newPositions.yShift,
       minConflictY: newPositions.minConflictY,
+    });
+  },
+  setPaths: (
+    scene_data: Scene[],
+    scenes: string[],
+    locations: string[],
+    characterScenes: CharacterScene[],
+    sceneLocations: string[],
+    sceneCharacters: SceneCharacter[],
+    location_quotes: LocationQuote[],
+    sceneSummaries: SceneSummary[],
+    character_quotes: CharacterQuote[],
+    sortedCharacters: CharacterData[],
+    evenSpacing: boolean,
+    ratingDict: RatingDict,
+    activeScenes: [number, number]
+  ) => {
+    const newPositions = getAllPositions(
+      scene_data,
+      scenes,
+      locations,
+      characterScenes,
+      sceneLocations,
+      sceneCharacters,
+      location_quotes,
+      sceneSummaries,
+      character_quotes,
+      sortedCharacters,
+      evenSpacing,
+      ratingDict,
+      activeScenes
+    );
+    set({
+      importancePath: newPositions.importancePath,
+      lengthPath: newPositions.lengthPath,
+      conflictPath: newPositions.conflictPath,
+      characterPaths: newPositions.characterPaths,
     });
   },
 }));

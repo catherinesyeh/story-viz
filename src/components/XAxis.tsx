@@ -32,6 +32,7 @@ function XAxis() {
     minLines,
     maxLines,
     chapterDivisions,
+    activeChapters,
   } = dataStore();
   const {
     locationHover,
@@ -47,6 +48,36 @@ function XAxis() {
 
   const { scenePos, yShift, minConflictY } = positionStore();
 
+  // active chapters
+  const activeChapterDivisions =
+    chapterDivisions &&
+    chapterDivisions.filter((_, i) => {
+      return i >= activeChapters[0] - 1 && i < activeChapters[1];
+    });
+  const lastActiveChapter =
+    activeChapterDivisions[activeChapterDivisions.length - 1];
+  const numScenesInLastActiveChapter = lastActiveChapter.scenes.length;
+  const activeScenes = scenes.slice(
+    activeChapterDivisions[0].index,
+    activeChapterDivisions[activeChapterDivisions.length - 1].index +
+      numScenesInLastActiveChapter
+  );
+  const activeScenePos = scenePos.slice(
+    activeChapterDivisions[0].index,
+    activeChapterDivisions[activeChapterDivisions.length - 1].index +
+      numScenesInLastActiveChapter
+  );
+  const activeSceneChunks = sceneChunks.slice(
+    activeChapterDivisions[0].index,
+    activeChapterDivisions[activeChapterDivisions.length - 1].index +
+      numScenesInLastActiveChapter
+  );
+  const activeSceneData = scene_data.slice(
+    activeChapterDivisions[0].index,
+    activeChapterDivisions[activeChapterDivisions.length - 1].index +
+      numScenesInLastActiveChapter
+  );
+
   return (
     <g
       id="x-axis"
@@ -60,9 +91,9 @@ function XAxis() {
       {/* add scene names to x axis */}
       <g id="scenes">
         {/* add vertical line to separate chapters rotated by 45 deg */}
-        {chapterDivisions &&
-          chapterDivisions.length > 0 &&
-          chapterDivisions.map((chapter, i) => {
+        {activeChapterDivisions &&
+          activeChapterDivisions.length > 0 &&
+          activeChapterDivisions.map((chapter, i) => {
             const chapterName = chapter.chapter;
             const chapterPos = scenePos[chapter.index];
 
@@ -126,7 +157,7 @@ function XAxis() {
               )
             );
           })}
-        {scenes.map((scene, i) => (
+        {activeScenes.map((scene, i) => (
           <g
             key={"scene-group" + i}
             className={
@@ -141,10 +172,10 @@ function XAxis() {
                 : "faded")
             }
           >
-            {sceneChunks[i].map((chunk, j) => {
-              const ratings = scene_data[i].ratings;
+            {activeSceneChunks[i].map((chunk, j) => {
+              const ratings = activeSceneData[i].ratings;
               const numLines = normalize(
-                scene_data[i].numLines,
+                activeSceneData[i].numLines,
                 minLines,
                 maxLines,
                 0,
@@ -201,10 +232,10 @@ function XAxis() {
                   : 0;
 
               return (
-                scenePos[i] && (
+                activeScenePos[i] && (
                   <text
-                    x={scenePos[i].x + j * character_offset * textOffset}
-                    y={scenePos[i].y + 0.25 * character_height}
+                    x={activeScenePos[i].x + j * character_offset * textOffset}
+                    y={activeScenePos[i].y + 0.25 * character_height}
                     textAnchor="end"
                     key={"scene" + i + j}
                     fill={color}
@@ -215,9 +246,10 @@ function XAxis() {
                     fontFamily={getFontFamily(ratings.conflict)}
                     transform={
                       "rotate(-45," +
-                      (scenePos[i].x + j * character_offset * textOffset) +
+                      (activeScenePos[i].x +
+                        j * character_offset * textOffset) +
                       ", " +
-                      (scenePos[i].y + 0.25 * character_height) +
+                      (activeScenePos[i].y + 0.25 * character_height) +
                       ")"
                     }
                     onMouseEnter={() => setSceneHover(scene)}

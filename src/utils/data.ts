@@ -512,6 +512,7 @@ export const getAllData = (init_data: any) => {
   const maxLines = rating_info.maxLines;
 
   const chapterDivisions = getChapterDivisions(init_scene_data);
+  const num_chapters = chapterDivisions.length;
 
   return {
     scene_data: init_scene_data,
@@ -533,5 +534,6 @@ export const getAllData = (init_data: any) => {
     minLines: minLines,
     maxLines: maxLines,
     chapterDivisions: chapterDivisions,
+    num_chapters: num_chapters,
   };
 };
