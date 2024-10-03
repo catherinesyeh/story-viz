@@ -136,9 +136,21 @@ const characterPos = (
       const char_emotion = cur_scene.characters.find(
         (c) => c.name === character.character
       )?.rating as number;
+      // see if there are any other characters with the same emotion
+      const other_chars = cur_scene.characters.filter(
+        (c) => c.rating === char_emotion
+      );
+      // get index of current character in other_chars
+      const char_index = other_chars.findIndex(
+        (c) => c.name === character.character
+      );
       return {
         x: initialScenePos[scene].x - 0.5 * character_height,
-        y: maxLoc * 0.5 + location_offset * 0.5 - maxLoc * char_emotion * 0.5,
+        y:
+          maxLoc * 0.5 +
+          location_offset * 0.5 -
+          maxLoc * char_emotion * 0.5 +
+          character_offset * char_index,
       };
     });
   });
@@ -926,18 +938,12 @@ const sceneBoxes = (
       characterPos.findIndex(
         (s) => s && s.y === Math.max(...characterPos.map((s) => s && s.y))
       );
-    // const firstChar = characterScenes.findIndex(
-    //   (c) => c.character === characters[0]
-    // );
     const firstChar = characterScenes.findIndex(
       (c) => c.character === characters[minYIndex]
     );
     const firstCharScene =
       characterScenes[firstChar] &&
       characterScenes[firstChar].scenes.findIndex((s) => s === i);
-    // const lastChar = characterScenes.findIndex(
-    //   (c) => c.character === characters[characters.length - 1]
-    // );
     const lastChar =
       characterScenes &&
       characterScenes.findIndex((c) => c.character === characters[maxYIndex]);
