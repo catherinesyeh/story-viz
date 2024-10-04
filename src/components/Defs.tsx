@@ -272,7 +272,28 @@ function Defs() {
           const vals = color_incs.map(
             (val) => ((val - min_val) / (max_val - min_val)) * 100
           );
-          return (
+          let vertical_scale;
+          if (scale === "sentiment" || scale === "importance") {
+            vertical_scale = (
+              <linearGradient
+                id={"vert-legend" + scale}
+                x1="0%"
+                y1="100%"
+                x2="0%"
+                y2="0%"
+                key={"vert-legend" + scale}
+              >
+                {color_incs.map((val, j) => (
+                  <stop
+                    offset={`${vals[j]}%`}
+                    stopColor={d3scale(val)}
+                    key={"vert-legend stop" + scale + j}
+                  />
+                ))}
+              </linearGradient>
+            );
+          }
+          const horizontal_scale = (
             <linearGradient
               id={"legend" + scale}
               x1="0%"
@@ -290,6 +311,9 @@ function Defs() {
               ))}
             </linearGradient>
           );
+          return vertical_scale
+            ? [vertical_scale, horizontal_scale]
+            : [horizontal_scale];
         })}
         {/* create gradient for each set of ratings */}
         {Object.keys(ratingDict).map((rating_type) => {

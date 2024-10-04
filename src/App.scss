@@ -376,7 +376,27 @@ h1 {
   }
 }
 
-@media (max-width: 1300px) {
+@media (max-width: 1680px) {
+  header {
+    #options {
+      .mantine-Select-input {
+        width: 95px;
+      }
+    }
+  }
+}
+
+@media (max-width: 1600px) {
+  header {
+    #options {
+      .mantine-Select-input {
+        width: 80px;
+      }
+    }
+  }
+}
+
+@media (max-width: 1450px) {
   header {
     align-items: baseline;
     display: block;
@@ -400,10 +420,22 @@ h1 {
         align-items: center;
       }
     }
+    #options {
+      .mantine-Select-input {
+        width: 110px;
+      }
+    }
   }
 }
 
 @media (max-width: 1200px) {
+  header {
+    #options {
+      .mantine-Select-input {
+        width: 95px;
+      }
+    }
+  }
   #story-contain {
     #story {
       font-size: 14px;
@@ -452,4 +484,10 @@ h1 {
     min-width: 70px;
     margin-left: 0.5rem;
   }
+}
+
+// Y-AXIS
+.y-axis-label {
+  transition: 0.3s;
+  font-size: smaller;
 }
