@@ -10,6 +10,7 @@ scipy = "*"
 langchain-openai = "*"
 langchain-anthropic = "*"
 seaborn = "*"
+langchain-google-genai = "*"
 
 [dev-packages]
 ipykernel = "*"
