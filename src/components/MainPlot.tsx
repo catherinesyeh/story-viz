@@ -133,20 +133,24 @@ function MainPlot() {
                 }
               >
                 {characterPaths[i] &&
-                  characterPaths[i].map((path, j) => (
-                    <path
-                      d={path}
-                      fill={"url(#linear" + i + ")"}
-                      stroke={"url(#linear" + i + ")"}
-                      key={"charpath" + j}
-                      strokeWidth={1.5}
-                      paintOrder={"stroke"}
-                      onMouseEnter={() =>
-                        setCharacterHover(character.character)
-                      }
-                      onMouseLeave={() => setCharacterHover("")}
-                    />
-                  ))}
+                  characterPaths[i].map((path, j) => {
+                    return (
+                      <path
+                        d={path}
+                        fill={"url(#linear-" + i + "-" + j + ")"}
+                        // fill={llmColor}
+                        stroke={"url(#linear-" + i + "-" + j + ")"}
+                        // stroke={llmColor}
+                        key={"charpath" + j}
+                        strokeWidth={1.5}
+                        paintOrder={"stroke"}
+                        onMouseEnter={() =>
+                          setCharacterHover(character.character)
+                        }
+                        onMouseLeave={() => setCharacterHover("")}
+                      />
+                    );
+                  })}
               </g>
 
               {/* add squares at each scene the character appears in */}

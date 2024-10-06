@@ -23,7 +23,7 @@ function ChapterSlider() {
       <RangeSlider
         min={1}
         max={num_chapters}
-        minRange={1}
+        minRange={0}
         value={activeChapters}
         onChange={setActiveChapters}
         size={"sm"}

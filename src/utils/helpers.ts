@@ -21,7 +21,7 @@ export const normalizeRating = (rating: number) =>
   normalize(rating, -1, 1, 0, 1);
 
 export const normalizeMarkerSize = (value: number) =>
-  normalize(value, 0, character_height, 2, 14);
+  normalize(value, 0, character_height, 1, 14);
 
 export const normalizeFontSize = (value: number) =>
   normalize(value, 0, 1, 0.6, 1.4);

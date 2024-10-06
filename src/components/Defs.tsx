@@ -54,208 +54,164 @@ function Defs() {
     <defs>
       <g id="gradients">
         {characterScenes.map((char, i) => {
-          // get first and last scene indices for this character
           const charScenes = char.scenes;
-          const first_scene = charScenes[0];
-          const last_scene = charScenes[charScenes.length - 1];
+          const og_segments = [] as number[][];
+          let og_cur_seg = [] as number[];
+          // Create segments for each continuous set of scenes
+          charScenes.forEach((scene, j) => {
+            og_cur_seg.push(scene);
+            const next_scene = charScenes[j + 1];
 
-          const activeCharScenes = charScenes.filter(
-            (scene) => scene >= firstActiveScene && scene < lastActiveScene
+            if (next_scene - scene > 1 || next_scene === undefined) {
+              og_segments.push(og_cur_seg);
+              og_cur_seg = [];
+            }
+          });
+
+          const segments = og_segments.map((seg) =>
+            seg.filter(
+              (scene) => scene >= firstActiveScene && scene < lastActiveScene
+            )
           );
 
-          const first_active_scene = activeCharScenes[0];
-          const last_active_scene =
-            activeCharScenes[activeCharScenes.length - 1];
+          // Generate gradients for each segment
+          return segments.map((segment, segIndex) => {
+            if (segment.length === 0) {
+              return null;
+            }
+            const og_segment = og_segments[segIndex];
+            const first_scene = segment[0];
+            const last_scene = segment[segment.length - 1];
+            const og_first_scene = og_segment[0];
+            const og_last_scene = og_segment[og_segment.length - 1];
+            const line_length =
+              scenePos[og_last_scene] && scenePos[og_first_scene]
+                ? scenePos[og_last_scene].x -
+                  scenePos[og_first_scene].x +
+                  sceneWidth
+                : 0;
+            const fade_in_buffer = scene_base / line_length / 3;
+            const fade_in_buffer_percent = fade_in_buffer * 100;
 
-          // compute fade in and fade out percentages
-          const line_length =
-            scenePos[last_scene] && scenePos[first_scene]
-              ? scenePos[last_scene].x - scenePos[first_scene].x + sceneWidth
-              : 0;
-          const fade_in_buffer = scene_base / line_length / 2;
-          const fade_in_buffer_percent = fade_in_buffer * 100;
-          const fade_in =
-            scenePos[first_active_scene] &&
-            scenePos[first_scene] &&
-            (scenePos[first_active_scene].x - scenePos[first_scene].x) /
-              line_length +
-              fade_in_buffer;
-          const fade_in_percent = fade_in * 100;
-          const fade_out =
-            scenePos[last_scene] &&
-            scenePos[last_active_scene] &&
-            (scenePos[last_scene].x - scenePos[last_active_scene].x) /
-              line_length +
-              fade_in_buffer;
-          const fade_out_percent = 100 - fade_out * 100;
+            const start_gap =
+              scenePos[first_scene] && scenePos[og_first_scene]
+                ? (scenePos[first_scene].x - scenePos[og_first_scene].x) /
+                    line_length +
+                  fade_in_buffer
+                : 0;
+            const fade_in_percent = start_gap * 100;
 
-          const charColor = getColor(char.character, sortedCharacters);
-          const llmColor =
-            getLLMColor(char.character, sortedCharacters) || charColor;
+            const end_gap =
+              scenePos[last_scene] && scenePos[og_last_scene]
+                ? (scenePos[og_last_scene].x - scenePos[last_scene].x) /
+                    line_length +
+                  fade_in_buffer
+                : 0;
+            const end_gap_percent = end_gap * 100;
+            const fade_out_percent = 100 - end_gap_percent;
 
-          const firstScene =
-            scene_data[first_scene] &&
-            (scene_data[first_scene].characters.find(
-              (c) => c.name === char.character
-            ) as any);
-          const lastScene =
-            scene_data[last_scene] &&
-            (scene_data[last_scene].characters.find(
-              (c) => c.name === char.character
-            ) as any);
-          return (
-            <linearGradient
-              id={"linear" + i}
-              x1="0%"
-              y1="0%"
-              x2="100%"
-              y2="0%"
-              key={"linear" + i}
-            >
-              {activeCharScenes.length > 0 && (
-                <>
-                  <stop
-                    offset={fade_in_percent - fade_in_buffer_percent + "%"}
-                    stopColor={"rgb(255,255,255,0)"}
-                  />
-                  <stop
-                    offset={fade_in_percent + "%"}
-                    stopColor={
-                      characterColor === "default"
-                        ? charColor
-                        : characterColor === "llm"
-                        ? llmColor
-                        : characterColor === "sentiment"
-                        ? emotionColor(firstScene.rating)
-                        : importanceColor(firstScene.importance)
-                    }
-                  />
-                </>
-              )}
+            const charColor = getColor(char.character, sortedCharacters);
+            const llmColor =
+              getLLMColor(char.character, sortedCharacters) || charColor;
 
-              {activeCharScenes.flatMap((scene, j) => {
-                const char_data = scene_data[scene].characters.find(
-                  (c) => c.name === char.character
-                ) as any;
-                const emotion_val = char_data.rating;
-                const importance_val = char_data.importance;
-                const emotion_color = emotionColor(emotion_val); // dynamic color based on emotion
-                const importance_color = importanceColor(importance_val); // dynamic color based on importance
+            const firstScene =
+              scene_data[first_scene] &&
+              (scene_data[first_scene].characters.find(
+                (c) => c.name === char.character
+              ) as any);
+            const lastScene =
+              scene_data[last_scene] &&
+              (scene_data[last_scene].characters.find(
+                (c) => c.name === char.character
+              ) as any);
 
-                const next_scene = scene_data[activeCharScenes[j + 1]]
-                  ? (scene_data[activeCharScenes[j + 1]].characters.find(
-                      (c) => c.name === char.character
-                    ) as any)
-                  : char_data;
-                const next_emotion_val = next_scene.rating;
-                const next_emotion_color = emotionColor(next_emotion_val);
-                const next_importance_val = next_scene.importance;
-                const next_importance_color =
-                  importanceColor(next_importance_val);
+            return (
+              <linearGradient
+                id={`linear-${i}-${segIndex}`}
+                x1="0%"
+                y1="0%"
+                x2="100%"
+                y2="0%"
+                key={`linear-${i}-${segIndex}`}
+              >
+                {segment.length > 0 && (
+                  <>
+                    <stop
+                      offset={fade_in_percent - fade_in_buffer_percent + "%"}
+                      stopColor={"rgb(255,255,255,0)"}
+                    />
+                    <stop
+                      offset={fade_in_percent + "%"}
+                      stopColor={
+                        characterColor === "default"
+                          ? charColor
+                          : characterColor === "llm"
+                          ? llmColor
+                          : characterColor === "sentiment"
+                          ? emotionColor(firstScene.rating)
+                          : importanceColor(firstScene.importance)
+                      }
+                    />
+                  </>
+                )}
+                {segment.flatMap((scene, j) => {
+                  const char_data = scene_data[scene].characters.find(
+                    (c) => c.name === char.character
+                  ) as any;
+                  const emotion_val = char_data.rating;
+                  const importance_val = char_data.importance;
+                  const emotion_color = emotionColor(emotion_val);
+                  const importance_color = importanceColor(importance_val);
 
-                const start_color =
-                  characterColor === "default"
-                    ? charColor
-                    : characterColor === "llm"
-                    ? llmColor
-                    : characterColor === "sentiment"
-                    ? emotion_color
-                    : importance_color;
-                const end_color =
-                  characterColor === "default"
-                    ? charColor
-                    : characterColor === "llm"
-                    ? llmColor
-                    : characterColor === "sentiment"
-                    ? next_emotion_color
-                    : next_importance_color;
+                  const start_color =
+                    characterColor === "default"
+                      ? charColor
+                      : characterColor === "llm"
+                      ? llmColor
+                      : characterColor === "sentiment"
+                      ? emotion_color
+                      : importance_color;
 
-                if (j < activeCharScenes.length - 1) {
-                  const next_scene = activeCharScenes[j + 1];
                   const start_gap =
                     scenePos[scene] && scenePos[first_scene]
                       ? (scenePos[scene].x -
-                          scenePos[first_scene].x +
-                          sceneWidth) /
-                        line_length
-                      : 0;
-                  const end_gap =
-                    scenePos[next_scene] && scenePos[first_scene]
-                      ? (scenePos[next_scene].x - scenePos[first_scene].x) /
+                          scenePos[og_first_scene].x +
+                          0.75 * sceneWidth) /
                         line_length
                       : 0;
                   const start_gap_percent = start_gap * 100;
-                  const end_gap_percent = end_gap * 100;
 
-                  if (next_scene - scene > 1) {
-                    return [
-                      <stop
-                        key={`full-opacity-before-gap-${i}-${j}`}
-                        offset={`${
-                          start_gap_percent - fade_in_buffer_percent
-                        }%`}
-                        stopColor={start_color}
-                      />,
-                      <stop
-                        key={`start-gap-${i}-${j}`}
-                        offset={`${start_gap_percent}%`}
-                        stopColor={start_color.replace(")", ",0.1)")}
-                      />,
-                      <stop
-                        key={`mid-gap-${i}-${j}`}
-                        offset={`${(start_gap_percent + end_gap_percent) / 2}%`}
-                        stopColor={end_color.replace(")", ",0)")}
-                      />,
-                      <stop
-                        key={`end-gap-${i}-${j}`}
-                        offset={`${end_gap_percent}%`}
-                        stopColor={end_color.replace(")", ",0.1)")}
-                      />,
-                      <stop
-                        key={`full-opacity-after-gap-${i}-${j}`}
-                        offset={`${end_gap_percent + fade_in_buffer_percent}%`}
-                        stopColor={end_color}
-                      />,
-                    ];
-                  } else {
-                    // If there's no significant gap, directly return the stop with the emotion color
-                    return [
-                      <stop
-                        key={`scene-${i}-${j}`}
-                        offset={`${
-                          start_gap_percent - fade_in_buffer_percent
-                        }%`}
-                        stopColor={start_color}
-                      />,
-                    ];
-                  }
-                }
-                // For the last scene or if no next scene, ensure it doesn't return undefined
-                return [];
-              })}
-
-              {activeCharScenes.length > 0 && (
-                <>
-                  <stop
-                    offset={fade_out_percent + "%"}
-                    stopColor={
-                      characterColor === "default"
-                        ? charColor
-                        : characterColor === "llm"
-                        ? llmColor
-                        : characterColor === "sentiment"
-                        ? emotionColor(lastScene.rating)
-                        : importanceColor(lastScene.importance)
-                    }
-                  />
-                  <stop
-                    offset={fade_out_percent + fade_in_buffer_percent + "%"}
-                    stopColor={"rgb(255,255,255,0)"}
-                  />
-                </>
-              )}
-            </linearGradient>
-          );
+                  return [
+                    <stop
+                      key={`segment-stop-start-${i}-${j}`}
+                      offset={`${start_gap_percent - fade_in_buffer_percent}%`}
+                      stopColor={start_color}
+                    />,
+                  ];
+                })}
+                {segment.length > 0 && (
+                  <>
+                    <stop
+                      offset={fade_out_percent + "%"}
+                      stopColor={
+                        characterColor === "default"
+                          ? charColor
+                          : characterColor === "llm"
+                          ? llmColor
+                          : characterColor === "sentiment"
+                          ? emotionColor(lastScene.rating)
+                          : importanceColor(lastScene.importance)
+                      }
+                    />
+                    <stop
+                      offset={fade_out_percent + fade_in_buffer_percent + "%"}
+                      stopColor={"rgb(255,255,255,0)"}
+                    />
+                  </>
+                )}
+              </linearGradient>
+            );
+          });
         })}
         {Object.keys(color_dict).map((scale, _) => {
           const color_incs = (color_dict as Record<string, number[]>)[scale];

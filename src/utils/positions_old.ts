@@ -805,15 +805,6 @@ function reverseSvgPath(path: string): string {
   return new_path;
 }
 
-const createPathSegment = (coordsTop: number[][], coordsBottom: number[][]) => {
-  addStartAndEndPoints(coordsTop, coordsBottom);
-  const topPath = svgPath(coordsTop, {}, bezierCommand);
-  const bottomPath = reverseSvgPath(svgPath(coordsBottom, {}, bezierCommand));
-  const [, rightJoinPoint] = bottomPath.split(" C ")[0].split(",");
-  const [, leftJoinPoint] = topPath.split(" C ")[0].split(",");
-  return `${topPath} V ${rightJoinPoint} ${bottomPath} V ${leftJoinPoint}`;
-};
-
 const characterPaths = (
   scene_width: number,
   characterScenes: CharacterScene[],
@@ -823,66 +814,121 @@ const characterPaths = (
   scene_data: Scene[],
   scenePos: Position[]
 ) => {
+  const og_max_y_per_scene = [...max_y_per_scene];
+  let updated_max_y_per_scene = [...max_y_per_scene];
+
   const allPaths = characterScenes.map((character) => {
+    // console.log(character.character);
     const paths = [];
-    const charCoords = characterPos[characterScenes.indexOf(character)];
-    let coordsTop = [] as number[][],
-      coordsBottom = [] as number[][],
-      prevScene = null as number | null;
 
-    character.scenes.forEach((scene, i) => {
-      const [x, y] = [
-        charCoords[i].x + character_height / 2,
-        charCoords[i].y + character_height / 2,
-      ];
+    // const char_active_scenes = character.scenes.filter(
+    //   (scene) => scene >= activeSceneRange[0] && scene < activeSceneRange[1]
+    // );
 
+    // const char_active_indices = char_active_scenes.map((scene) =>
+    //   character.scenes.findIndex((val) => val === scene)
+    // );
+
+    const character_coords = characterPos[characterScenes.indexOf(character)];
+    // const char_coords_active = char_active_indices.map(
+    //   (index) => character_coords[index]
+    // );
+
+    const char_active_scenes = character.scenes;
+    const char_coords_active = character_coords;
+
+    const importance_weights = char_active_scenes.map((scene) => {
       const importance = scene_data[scene].characters.find(
         (c) => c.name === character.character
       )?.importance as number;
-      const weight = normalizeMarkerSize(character_height * importance) / 2;
 
-      if (prevScene !== null && scene - prevScene > 1 && coordsTop.length) {
-        paths.push(createPathSegment(coordsTop, coordsBottom));
-        coordsTop = [];
-        coordsBottom = [];
-      }
-
-      coordsTop.push([x, y - weight]);
-      coordsBottom.push([x, y + weight]);
-      prevScene = scene;
+      return normalizeMarkerSize(character_height * importance) / 2;
     });
 
-    if (coordsTop.length) {
-      paths.push(createPathSegment(coordsTop, coordsBottom));
+    let character_coords_arr = char_coords_active.map((pos) => [
+      pos.x + character_height / 2,
+      pos.y + character_height / 2,
+    ]);
+
+    if (character_coords_arr.length === 0) {
+      return [""];
     }
+
+    const coord_info = getPath(
+      character,
+      character_coords_arr,
+      scene_width,
+      og_max_y_per_scene,
+      updated_max_y_per_scene,
+      sceneCharacters,
+      scenePos,
+      characterScenes,
+      characterPos
+    );
+    updated_max_y_per_scene = coord_info.max_y_per_scene;
+    const og_indices = coord_info.og_indices;
+    const adjustments = coord_info.adjustments;
+
+    const character_coords_top = character_coords_arr.map((point, i) => {
+      if (i === 0) {
+        return [point[0], point[1] - importance_weights[0]];
+      } else if (i === character_coords_arr.length - 1) {
+        return [
+          point[0],
+          point[1] - importance_weights[importance_weights.length - 1],
+        ];
+      } else if (!og_indices.includes(i)) {
+        return [point[0], point[1] - 0.5];
+      }
+      const ind = og_indices.findIndex((val) => val === i);
+      return [point[0], point[1] - importance_weights[ind]];
+    });
+    const character_coords_bottom = character_coords_arr.map((point, i) => {
+      if (i === 0) {
+        return [point[0], point[1] + importance_weights[0]];
+      } else if (i === character_coords_arr.length - 1) {
+        return [
+          point[0],
+          point[1] + importance_weights[importance_weights.length - 1],
+        ];
+      } else if (!og_indices.includes(i)) {
+        return [point[0], point[1] + 0.5];
+      }
+      const ind = og_indices.findIndex((val) => val === i);
+      return [point[0], point[1] + importance_weights[ind]];
+    });
+    // console.log(adjustments);
+    let top_path = svgPath(character_coords_top, adjustments, bezierCommand);
+    let bottom_path = svgPath(
+      character_coords_bottom,
+      adjustments,
+      bezierCommand
+    );
+
+    let bottom_path_reversed = reverseSvgPath(bottom_path);
+
+    const right_join_point = bottom_path_reversed.split(" C ")[0].split(",")[1];
+
+    const left_join_point = top_path.split(" C ")[0].split(",")[1];
+
+    const full_path =
+      top_path +
+      " V " +
+      right_join_point +
+      " " +
+      bottom_path_reversed +
+      " V " +
+      left_join_point;
+
+    paths.push(full_path);
 
     return paths;
   });
 
-  return { paths: allPaths, max_y_per_scene };
-};
-
-// Helper function to add start and end points to the path segment
-const addStartAndEndPoints = (
-  topCoords: number[][],
-  bottomCoords: number[][]
-) => {
-  // Add a point to the start of the path segment
-  topCoords.unshift([topCoords[0][0] - scene_base / 3, topCoords[0][1]]);
-  bottomCoords.unshift([
-    bottomCoords[0][0] - scene_base / 3,
-    bottomCoords[0][1],
-  ]);
-
-  // Add a point to the end of the path segment
-  topCoords.push([
-    topCoords[topCoords.length - 1][0] + scene_base / 3,
-    topCoords[topCoords.length - 1][1],
-  ]);
-  bottomCoords.push([
-    bottomCoords[bottomCoords.length - 1][0] + scene_base / 3,
-    bottomCoords[bottomCoords.length - 1][1],
-  ]);
+  return {
+    paths: allPaths,
+    max_y_per_scene: updated_max_y_per_scene,
+  };
 };
 
 const updateScenePos = (initialScenePos: Position[], max_y: number) => {
