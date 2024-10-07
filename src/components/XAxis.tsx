@@ -149,7 +149,7 @@ function XAxis() {
                     }
                     fontSize={"smaller"}
                   >
-                    {chapterName.startsWith("Act")
+                    {chapterName.startsWith("Act") || chapterName === "Prologue"
                       ? chapterName
                       : "Ch. " + chapterName}
                   </text>

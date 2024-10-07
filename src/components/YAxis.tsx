@@ -5,6 +5,7 @@ import {
   character_offset,
   location_buffer,
   location_offset,
+  character_height,
 } from "../utils/consts";
 import { positionStore } from "../stores/positionStore";
 
@@ -30,7 +31,19 @@ function YAxis() {
     location_data,
     sortedCharacters,
   } = dataStore();
-  const { locationPos, yShift, characterPos } = positionStore();
+  const { locationPos, yShift, characterPos, scenePos } = positionStore();
+
+  const maxCharLength = 20;
+
+  const num_characters = characterScenes.length;
+  const maxLoc =
+    locations.length <= 8
+      ? locationPos[locations.length - 1]
+      : Math.max(
+          700,
+          num_characters * (0.5 * character_offset + character_height)
+        );
+
   return (
     <g id="y-axis" transform={"translate(0 " + yShift + ")"}>
       {/* add locations to y axis */}
@@ -103,7 +116,7 @@ function YAxis() {
             x={location_buffer}
             y={0.5 * location_offset}
             width={location_offset}
-            height={locationPos[locationPos.length - 1] + 0.5 * location_offset}
+            height={maxLoc + location_offset}
             fill={`url(#vert-legend${yAxis})`}
           ></rect>
           <text
@@ -117,7 +130,7 @@ function YAxis() {
           </text>
           <text
             x={location_buffer + 0.5 * location_offset}
-            y={locationPos[locationPos.length - 1] + 0.5 * location_offset}
+            y={maxLoc + location_offset}
             className="y-axis-label"
             textAnchor="middle"
             fill={yAxis === "sentiment" ? "white" : "black"}
@@ -127,7 +140,7 @@ function YAxis() {
           {/* Add the rotated label */}
           <text
             transform={`rotate(-90)`}
-            x={-locationPos[locationPos.length - 1] / 2 - location_offset}
+            x={-maxLoc / 2 - location_offset}
             y={location_buffer - location_offset} // Adjust to position left of the legend bar
             textAnchor="middle"
           >
@@ -154,7 +167,11 @@ function YAxis() {
                 onMouseEnter={() => setCharacterHover(char.character)}
                 onMouseLeave={() => setCharacterHover("")}
               >
-                {sortChar && sortChar.short ? sortChar.short : char.character}
+                {sortChar && sortChar.short
+                  ? sortChar.short
+                  : char.character.length > maxCharLength
+                  ? char.character.slice(0, maxCharLength) + "..."
+                  : char.character}
               </text>
             );
           })}

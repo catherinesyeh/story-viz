@@ -17,8 +17,15 @@ export const location_buffer = location_height + 2 * character_height;
 export const extra_yshift = (minConflictY: number, scenePos: Position[]) =>
   minConflictY - scenePos[0].y + 1.25 * character_height;
 
-export const scene_width = (locations: string[], scenes: string[]) =>
-  (2200 + 100 * Math.max(locations.length - 6, 0)) / scenes.length;
+export const scene_width = (locations: string[], scenes: string[]) => {
+  let width;
+  if (scenes.length <= 24) {
+    width = (2200 + 100 * Math.max(locations.length - 6, 0)) / scenes.length;
+  } else {
+    width = 100;
+  }
+  return width;
+};
 export const plot_width = (scene_pos: Position[]) =>
   scene_pos[scene_pos.length - 1].x + scene_margin;
 

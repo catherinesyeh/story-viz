@@ -28,6 +28,8 @@ function PlotOptions() {
     setShowChapters,
     yAxis,
     setYAxis,
+    fullHeight,
+    setFullHeight,
   } = storyStore();
 
   const {
@@ -63,6 +65,7 @@ function PlotOptions() {
   const storyOptions = [
     "gatsby",
     "gatsby2",
+    "gatsby-new",
     "gatsby-mov",
     "alice",
     "alice2",
@@ -71,6 +74,7 @@ function PlotOptions() {
     "wizard-mov",
     "aladdin",
     "pride",
+    "romeo-new",
     "romeo",
     "yourname",
     "sound",
@@ -161,6 +165,9 @@ function PlotOptions() {
 
   useEffect(() => {
     set_pos();
+    if (scenes.length < 24) {
+      setFullHeight(false);
+    }
   }, [scene_data, scaleByLength, yAxis]);
 
   // useEffect(() => {
@@ -183,6 +190,14 @@ function PlotOptions() {
       <div className="options-contain">
         <b>Visualization Settings</b>
         <div className="options-inner">
+          <Switch
+            size="xs"
+            label="Full height"
+            labelPosition="left"
+            checked={fullHeight}
+            disabled={scenes.length < 24}
+            onChange={(event) => setFullHeight(event.currentTarget.checked)}
+          />
           <Select
             size="xs"
             data={storyOptions}

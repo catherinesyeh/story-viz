@@ -8,15 +8,27 @@ import Legend from "./Legend";
 import { positionStore } from "../stores/positionStore";
 import { extra_yshift } from "../utils/consts";
 import { storyStore } from "../stores/storyStore";
+import { dataStore } from "../stores/dataStore";
 
 function StoryVis() {
   const { plotWidth, plotHeight, yShift, minConflictY, scenePos } =
     positionStore();
-  const { overlay } = storyStore();
+  const { locations } = dataStore();
+  const { overlay, fullHeight } = storyStore();
   return (
     <svg
       id="story"
-      width="100%"
+      height={
+        fullHeight
+          ? locations.length <= 8
+            ? `${800 + (locations.length - 8) * 50}px`
+            : `${Math.min(
+                plotHeight - 600,
+                800 + (locations.length - 8) * 50
+              )}px`
+          : undefined
+      }
+      width={!fullHeight ? "100%" : undefined}
       viewBox={`0 0 ${plotWidth} ${
         plotHeight +
         yShift +

@@ -64,6 +64,7 @@ const controlPoint = (
   // second point adjustment
   if (
     second &&
+    adjustment &&
     adjustment !== 0 &&
     previous &&
     ((current[1] > previous[1] && current[1] - previous[1] > location_buffer) ||
@@ -87,6 +88,7 @@ const controlPoint = (
     }
   }
   if (
+    adjustment &&
     adjustment === 0 &&
     prev_adjustment &&
     prev_adjustment > 0 &&
@@ -97,6 +99,7 @@ const controlPoint = (
     x += 2 * prev_adjustment * character_offset;
     // }
   } else if (
+    adjustment &&
     adjustment === 0 &&
     prev_adjustment &&
     prev_adjustment < 0 &&

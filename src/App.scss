@@ -68,6 +68,7 @@ header {
     display: flex;
     gap: 20px;
     overflow-x: auto;
+    scrollbar-width: none;
 
     .options-contain {
       font-size: calc(0.65rem + 0.05vw);
@@ -141,9 +142,12 @@ h1 {
 #story-contain {
   width: 100%;
   max-width: 1900px;
+  overflow-x: auto;
   display: block;
   position: relative;
   margin: 0 auto;
+  scrollbar-width: none;
+  // hide scrollbar
 
   #story {
     font-size: calc(0.8rem + 0.1vw);

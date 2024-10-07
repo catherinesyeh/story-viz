@@ -110,7 +110,7 @@ function SceneOverlay() {
                         }
                       >
                         <tspan className="bold">{capitalize(rating)}:</tspan>{" "}
-                        {rating_val.toFixed(2)}
+                        {rating_val && rating_val.toFixed(2)}
                       </text>
                     </g>
                   );

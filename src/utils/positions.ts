@@ -60,7 +60,8 @@ export interface SceneSummaryText {
 
 /* ELEMENT POSITIONS */
 // compute locations of locations labels
-const locationPos = (locations: string[]) => {
+const locationPos = (locations: string[], max_characters: number) => {
+  // const height = location_height + (max_characters - 4) * character_offset;
   return locations.map((_, i) => {
     return location_height * i + location_offset;
   });
@@ -72,7 +73,10 @@ const initialScenePos = (
   scenes: string[],
   scene_data: Scene[],
   locations: string[],
-  evenSpacing: boolean
+  evenSpacing: boolean,
+  max_characters: number,
+  characterScenes: CharacterScene[],
+  yAxis: string
 ) => {
   let cur_offset = scene_offset;
 
@@ -83,6 +87,15 @@ const initialScenePos = (
   // adjust space between scenes based on number of lines in each scene if !evenSpacing
   const line_increment = evenSpacing ? scene_width : og_plot_width / totalLines;
 
+  const num_characters = characterScenes.length;
+  const maxLoc =
+    locations.length <= 8 || yAxis === "location"
+      ? location_height * (locations.length + 0.25)
+      : Math.max(
+          700,
+          num_characters * (0.5 * character_offset + character_height)
+        );
+
   return scenes.map((_, i) => {
     const num_lines =
       i === 0 ? 0 : evenSpacing ? 1 : scene_data[i - 1].numLines;
@@ -91,7 +104,7 @@ const initialScenePos = (
 
     return {
       x: cur_offset,
-      y: location_height * (locations.length + 0.25),
+      y: maxLoc + (max_characters - 2) * character_height,
     };
   });
 };
@@ -125,9 +138,14 @@ const characterPos = (
       };
     });
   });
-
-  const maxLoc = locationPos[locationPos.length - 1];
   const num_characters = characterScenes.length;
+  const maxLoc =
+    locations.length <= 8
+      ? locationPos[locations.length - 1]
+      : Math.max(
+          700,
+          num_characters * (0.5 * character_offset + character_height)
+        );
   const char_inc = maxLoc / num_characters;
   const promPos = characterScenes.map((character) => {
     return character.scenes.map((scene) => {
@@ -360,11 +378,11 @@ const findAdjustments = (
         Math.abs(thisCharPos - nextCharPos) > character_offset
       ) {
         if (charIndex === 0) {
-          adjustments.push(1);
-          // adjustments.push(0);
+          // adjustments.push(1);
+          adjustments.push(0);
         } else {
-          adjustments.push(-1);
-          // adjustments.push(0);
+          // adjustments.push(-1);
+          adjustments.push(0);
         }
       } else {
         adjustments.push(0);
@@ -542,7 +560,9 @@ const legendPos = (plotWidth: number, sortedCharacters: CharacterData[]) => {
     char.short ? char.short : char.character
   );
 
-  const numRows = Math.round(characters.length / 5);
+  const divide_by = Math.max(5, characters.length / 4);
+
+  const numRows = Math.round(characters.length / divide_by);
 
   // break characters into groups of numRows
   const groups = characters.reduce((acc, char, i) => {
@@ -988,8 +1008,8 @@ const overlay_points = (
   ratings: number[],
   min_y_point: number,
   scenePos: Position[]
-) =>
-  ratings.map((rating, i) => {
+) => {
+  const points = ratings.map((rating, i) => {
     // for each scene, compute the x and y coordinates for the curve
     const x = scenePos[i].x;
     // y should be between min_y_point and min_y_point + location_height (max rating)
@@ -1000,7 +1020,8 @@ const overlay_points = (
     const y = min_y_point - rating_val * location_height;
     return { x: x, y: y };
   });
-
+  return points;
+};
 // compute overlay curve
 const overlayPath = (
   conflict_points: Position[],
@@ -1026,7 +1047,8 @@ const overlayPath = (
   ];
 
   const edited_path = path.replace("M", "M" + start[0] + "," + start[1] + " L");
-  return edited_path + " L " + end[0] + "," + end[1];
+  const final_path = edited_path + " L " + end[0] + "," + end[1];
+  return final_path;
 };
 
 const getLegendOverlap = (
@@ -1115,14 +1137,29 @@ export const getAllPositions = (
 ) => {
   const sceneWidth = scene_width(locations, scenes);
 
-  const initLocationPos = locationPos(locations);
+  // max characters in a scene
+  const characters_per_scene = sceneCharacters.map(
+    (scene) => scene.characters.length
+  );
+  const characters_neg_sent = scene_data.map((scene) => {
+    const characters = scene.characters;
+    const zero_sent = characters.filter((c) => c.rating === -1);
+    return zero_sent.length;
+  });
+  const charMax = Math.max(...characters_per_scene);
+  const negMax = charMax + Math.max(...characters_neg_sent);
+  const max_characters = yAxis !== "sentiment" ? charMax : negMax;
+  const initLocationPos = locationPos(locations, max_characters);
 
   let initScenePos = initialScenePos(
     sceneWidth,
     scenes,
     scene_data,
     locations,
-    evenSpacing
+    evenSpacing,
+    max_characters,
+    characterScenes,
+    yAxis
   );
 
   const plotWidth = plot_width(initScenePos);

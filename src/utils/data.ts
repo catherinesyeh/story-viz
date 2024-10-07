@@ -29,6 +29,7 @@ export interface Character {
   emotion: string;
   quote: string;
   rating: number;
+  role: string;
 }
 
 export interface Scene {
@@ -39,6 +40,7 @@ export interface Scene {
   summary: string;
   numLines: number;
   chapter: string;
+  text: string;
   ratings: {
     importance: number;
     conflict: number;
@@ -117,22 +119,68 @@ export interface ChapterDivision {
 const scene_data = (all_data: any): Scene[] => {
   const data = all_data["scenes"];
 
-  // replace importance rating for each scene in scene_data with 1 / rating
-  data.forEach((scene: Scene) => {
-    if (scene.ratings.importance > 1) {
-      scene.ratings.importance =
-        (data.length + 1 - scene.ratings.importance) / data.length;
+  data.forEach((scene: any, i: number) => {
+    // fix data inconsistencies
+    scene.name = scene.name ? scene.name : scene.title;
+    scene.number = i + 1;
+    scene.numLines = scene.num_lines ? scene.num_lines : scene.numLines;
+    scene.text = scene.text ? scene.text : "";
+    scene.ratings = scene.ratings ? scene.ratings : {};
+    scene.ratings.conflict = scene.ratings.conflict
+      ? scene.ratings.conflict
+      : scene.conflict;
+
+    // replace importance rating for each scene in scene_data with 1 / rating
+    const importance = scene.importance_rank
+      ? scene.importance_rank
+      : scene.ratings.importance;
+    if (importance > 1 || !scene.ratings.importance) {
+      scene.ratings.importance = (data.length + 1 - importance) / data.length;
     }
 
-    scene.characters.forEach((character: Character) => {
+    const characters = scene.characters;
+    const all_sentiments = [] as number[];
+
+    characters.forEach((character: any) => {
       // replace importance rating for each character in scene.characters with 1 / rating
-      if (character.importance > 1) {
+      const charImportance = character.importance_rank
+        ? character.importance_rank
+        : character.importance;
+      if (charImportance > 1) {
         character.importance =
-          (scene.characters.length + 1 - character.importance) /
+          (scene.characters.length + 1 - charImportance) /
           scene.characters.length;
       }
+      character.rating = character.rating
+        ? character.rating
+        : character.sentiment
+        ? character.sentiment
+        : 0;
+      all_sentiments.push(character.rating);
+      character.role = character.role ? character.role : "";
+
+      // remove extra fields
+      delete character.sentiment;
+      delete character.importance_rank;
     });
+
+    scene.ratings.sentiment = scene.ratings.sentiment
+      ? scene.ratings.sentiment
+      : all_sentiments.reduce((a, b) => a + b, 0) / all_sentiments.length;
+
+    // remove extra fields
+    delete scene.conflict;
+    delete scene.conflict_rank;
+    delete scene.importance;
+    delete scene.importance_rank;
+    delete scene.first_line;
+    delete scene.last_line;
+    delete scene.length;
+    delete scene.title;
+    delete scene.num_lines;
   });
+
+  console.log(data);
 
   return data;
 };
@@ -142,10 +190,19 @@ const character_data = (all_data: any): CharacterData[] => {
   const characters = all_data["characters"];
 
   // replace explanation with a chunked version of the explanation
-  characters.forEach((character: CharacterData) => {
+  characters.forEach((character: any) => {
+    // fix data inconsistencies
+    character.character = character.character
+      ? character.character
+      : character.name;
+    character.key = character.key ? character.key : character.character;
+
     if (!Array.isArray(character.explanation)) {
       character.explanation = chunkQuote(character.explanation as string, 92);
     }
+
+    // remove extra fields
+    delete character.name;
   });
 
   return characters;
