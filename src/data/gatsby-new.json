@@ -7,8 +7,8 @@
   "image": "https://m.media-amazon.com/images/I/61z0MrB6qOS._AC_UF1000,1000_QL80_.jpg",
   "num_chapters": 9,
   "num_scenes": 89,
-  "num_characters": 54,
-  "num_locations": 27,
+  "num_characters": 55,
+  "num_locations": 28,
   "chapters": [
     {
       "chapter": "I",
@@ -19,7 +19,7 @@
       "importance": 0.81,
       "conflict": 0.42,
       "locations": {
-        "Narrator's Reflection": 1,
+        "Narrator's Reflection On His Father's Advice And Gatsby": 1,
         "Middle Western City": 1,
         "A Sunny Summer Day": 1,
         "West Egg, Long Island": 1,
@@ -32,7 +32,7 @@
         "Nick Carraway": 9,
         "Jay Gatsby": 3,
         "Father": 1,
-        "Young Man At The Office": 1,
+        "Young Man": 1,
         "Finnish Woman": 1,
         "Man Asking For Directions": 1,
         "Tom Buchanan": 3,
@@ -60,7 +60,8 @@
       "characters": {
         "Doctor T. J. Eckleburg": 1,
         "Tom Buchanan": 4,
-        "George B. Wilson": 5,
+        "George B. Wilson": 1,
+        "Myrtle Wilson": 4,
         "Catherine": 1,
         "Mr. Mckee": 2,
         "Mrs. Mckee": 1,
@@ -75,7 +76,7 @@
       "scenes": 13,
       "length": 37862,
       "num_lines": 555,
-      "summary": "In this chapter, Nick attends one of Gatsby's extravagant parties, where he meets various guests, encounters Gatsby, and witnesses the chaotic aftermath of the celebration.",
+      "summary": "In this chapter, Nick attends one of Gatsby's extravagant parties, where he meets various guests, encounters Gatsby for the first time, and observes the chaotic atmosphere that ensues as the night progresses.",
       "importance": 0.81,
       "conflict": 0.35,
       "locations": {
@@ -97,10 +98,10 @@
         "Party Guests": 1,
         "Jordan Baker": 7,
         "Lucille": 1,
-        "Unnamed Girl In Yellow": 1,
+        "Girl in Yellow": 1,
         "Mr. Mumble": 1,
         "Stout Middle-aged Man": 1,
-        "The Red-haired Young Lady": 1,
+        "The Red-haired Lady": 1,
         "The Chorus Girls": 1,
         "The Indignant Wives": 1,
         "Butler": 1,
@@ -131,7 +132,7 @@
         "Nick Carraway": 4,
         "Young Ladies": 1,
         "Benny Mcclenahan": 1,
-        "Klipspringer": 1,
+        "Ewing Klipspringer": 1,
         "Meyer Wolfshiem": 1,
         "Tom Buchanan": 3,
         "Jordan Baker": 2,
@@ -145,7 +146,7 @@
       "scenes": 13,
       "length": 27465,
       "num_lines": 416,
-      "summary": "Nick facilitates a tense reunion between Gatsby and Daisy, leading to a mix of nostalgia, emotional revelations, and Gatsby's realization of the fading idealism surrounding his dreams.",
+      "summary": "Nick facilitates a tense reunion between Gatsby and Daisy, leading to moments of joy and reflection on Gatsby's past and dreams.",
       "importance": 0.85,
       "conflict": 0.48,
       "locations": {
@@ -158,7 +159,7 @@
         "Jay Gatsby": 11,
         "Daisy Buchanan": 9,
         "The Maid": 1,
-        "Klipspringer": 1
+        "Ewing Klipspringer": 1
       },
       "importance_rank": 3,
       "conflict_rank": 6
@@ -168,7 +169,7 @@
       "scenes": 7,
       "length": 26571,
       "num_lines": 398,
-      "summary": "Nick reveals Gatsby's true past to a reporter, while Tom and Daisy's visit to Gatsby's party creates tension, leading to Gatsby reminiscing about his romantic history with Daisy.",
+      "summary": "Nick reveals Gatsby's true past to a reporter, while Tom and Daisy's visit to Gatsby's party creates tension, leading Gatsby to reminisce about a pivotal moment with Daisy.",
       "importance": 0.83,
       "conflict": 0.47,
       "locations": {
@@ -187,7 +188,7 @@
         "Tom Buchanan": 2,
         "Jordan Baker": 1,
         "Mr. Sloane": 1,
-        "The Woman in Brown": 1,
+        "The Woman In Brown": 1,
         "Daisy Buchanan": 2
       },
       "importance_rank": 5,
@@ -198,7 +199,7 @@
       "scenes": 17,
       "length": 57925,
       "num_lines": 919,
-      "summary": "Nick witnesses the tension between Gatsby, Daisy, and Tom during a sweltering lunch, culminating in a confrontation where Daisy ultimately chooses Tom over Gatsby, leading to heartbreak and foreshadowing tragedy.",
+      "summary": "Nick witnesses the tension between Gatsby, Daisy, and Tom during a stifling lunch, culminating in a confrontation where Daisy ultimately chooses Tom over Gatsby, leading to heartbreak and foreshadowing tragedy.",
       "importance": 0.85,
       "conflict": 0.69,
       "locations": {
@@ -221,8 +222,9 @@
         "Tom Buchanan": 11,
         "The Nurse": 1,
         "Pammy Buchanan": 1,
-        "George B. Wilson": 5,
+        "George B. Wilson": 3,
         "Michaelis": 1,
+        "Myrtle Wilson": 2,
         "Policeman": 1
       },
       "importance_rank": 4,
@@ -233,7 +235,7 @@
       "scenes": 10,
       "length": 29555,
       "num_lines": 428,
-      "summary": "Nick finds Gatsby despondent over Daisy's absence, reflecting on their past love and Gatsby's unfulfilled dreams, while the narrative explores Daisy's life choices and the tragic consequences of their separation.",
+      "summary": "Nick finds Gatsby despondent over Daisy's absence, reflecting on their past love and Gatsby's lost ambitions, while the narrative explores Daisy's life choices and the tragic aftermath of Myrtle's death.",
       "importance": 0.87,
       "conflict": 0.64,
       "locations": {
@@ -265,13 +267,13 @@
       "scenes": 10,
       "length": 33196,
       "num_lines": 499,
-      "summary": "In the aftermath of Gatsby's death, Nick grapples with feelings of responsibility and disillusionment as he navigates the emptiness of Gatsby's funeral, the absence of meaningful connections, and the superficiality of those around him, ultimately deciding to leave the East behind.",
+      "summary": "In the aftermath of Gatsby's death, Nick grapples with feelings of responsibility and disillusionment as he witnesses the emptiness of Gatsby's life and the indifference of those around him, culminating in a sparsely attended funeral and his decision to leave the East behind.",
       "importance": 0.91,
       "conflict": 0.6,
       "locations": {
         "Gatsby's House": 5,
         "Meyer Wolfshiem's Office": 1,
-        "West Egg, Long Island": 1,
+        "West Egg Cemetery": 1,
         "Middle Western City": 1,
         "East Egg, Long Island": 1,
         "New York City": 1
@@ -287,7 +289,7 @@
         "Meyer Wolfshiem": 3,
         "Henry C. Gatz": 3,
         "Slagle": 1,
-        "Klipspringer": 1,
+        "Ewing Klipspringer": 1,
         "The Lutheran Minister": 1,
         "Owl Eyes": 1,
         "Jordan Baker": 2
@@ -306,7 +308,7 @@
       "text": "In my younger and more vulnerable years my father gave me some advice\nthat I've been turning over in my mind ever since.\n\"Whenever you feel like criticizing anyone,\" he told me, \"just\nremember that all the people in this world haven't had the advantages\nthat you've had.\"\nHe didn't say any more, but we've always been unusually communicative\nin a reserved way, and I understood that he meant a great deal more\nthan that. In consequence, I'm inclined to reserve all judgements, a\nhabit that has opened up many curious natures to me and also made me\nthe victim of not a few veteran bores. The abnormal mind is quick to\ndetect and attach itself to this quality when it appears in a normal\nperson, and so it came about that in college I was unjustly accused of\nbeing a politician, because I was privy to the secret griefs of wild,\nunknown men. Most of the confidences were unsought\u2014frequently I have\nfeigned sleep, preoccupation, or a hostile levity when I realized by\nsome unmistakable sign that an intimate revelation was quivering on\nthe horizon; for the intimate revelations of young men, or at least\nthe terms in which they express them, are usually plagiaristic and\nmarred by obvious suppressions. Reserving judgements is a matter of\ninfinite hope. I am still a little afraid of missing something if I\nforget that, as my father snobbishly suggested, and I snobbishly\nrepeat, a sense of the fundamental decencies is parcelled out\nunequally at birth.\nAnd, after boasting this way of my tolerance, I come to the admission\nthat it has a limit. Conduct may be founded on the hard rock or the\nwet marshes, but after a certain point I don't care what it's founded\non. When I came back from the East last autumn I felt that I wanted\nthe world to be in uniform and at a sort of moral attention forever; I\nwanted no more riotous excursions with privileged glimpses into the\nhuman heart. Only Gatsby, the man who gives his name to this book, was\nexempt from my reaction\u2014Gatsby, who represented everything for which I\nhave an unaffected scorn. If personality is an unbroken series of\nsuccessful gestures, then there was something gorgeous about him, some\nheightened sensitivity to the promises of life, as if he were related\nto one of those intricate machines that register earthquakes ten\nthousand miles away. This responsiveness had nothing to do with that\nflabby impressionability which is dignified under the name of the\n\"creative temperament\"\u2014it was an extraordinary gift for hope, a\nromantic readiness such as I have never found in any other person and\nwhich it is not likely I shall ever find again. No\u2014Gatsby turned out\nall right at the end; it is what preyed on Gatsby, what foul dust\nfloated in the wake of his dreams that temporarily closed out my\ninterest in the abortive sorrows and short-winded elations of men.",
       "length": 2815,
       "num_lines": 43,
-      "location": "Narrator's Reflection",
+      "location": "Narrator's Reflection On His Father's Advice And Gatsby",
       "importance": 0.9,
       "conflict": 0.5,
       "characters": [
@@ -374,7 +376,7 @@
           "importance_rank": 2
         },
         {
-          "name": "Young Man At The Office",
+          "name": "Young Man",
           "role": "Suggesting the idea of sharing a house",
           "importance": 0.4,
           "emotion": "Optimistic",
@@ -716,7 +718,7 @@
           "importance_rank": 3
         },
         {
-          "name": "George B. Wilson",
+          "name": "Myrtle Wilson",
           "role": "Myrtle is Tom's mistress, displaying sensuality and a desire for connection with Tom, while also being dismissive of her husband.",
           "importance": 0.8,
           "emotion": "sensual and assertive",
@@ -752,7 +754,7 @@
           "importance_rank": 1
         },
         {
-          "name": "George B. Wilson",
+          "name": "Myrtle Wilson",
           "role": "Myrtle is Tom's mistress, eager to indulge in the luxuries that Tom provides and to assert her desires.",
           "importance": 0.8,
           "emotion": "excited and hopeful",
@@ -779,7 +781,7 @@
       "conflict": 0.7,
       "characters": [
         {
-          "name": "George B. Wilson",
+          "name": "Myrtle Wilson",
           "role": "Hostess and socialite, trying to impress her guests",
           "importance": 0.9,
           "emotion": "Eager and flamboyant",
@@ -842,7 +844,7 @@
       "conflict": 0.8,
       "characters": [
         {
-          "name": "George B. Wilson",
+          "name": "Myrtle Wilson",
           "role": "Sharing her story of meeting Tom and expressing her desires",
           "importance": 0.8,
           "emotion": "Excited and hopeful",
@@ -1121,7 +1123,7 @@
           "importance_rank": 3
         },
         {
-          "name": "Unnamed Girl In Yellow",
+          "name": "Girl in Yellow",
           "role": "Participates in the conversation about Gatsby and shares rumors.",
           "importance": 0.4,
           "emotion": "Eager and speculative",
@@ -1337,7 +1339,7 @@
           "importance_rank": 1
         },
         {
-          "name": "The Red-haired Young Lady",
+          "name": "The Red-haired Lady",
           "role": "A singer who is emotionally overwhelmed, expressing sadness through her performance and ultimately succumbing to sleep.",
           "importance": 0.6,
           "emotion": "sad and intoxicated",
@@ -1553,7 +1555,7 @@
           "importance_rank": 4
         },
         {
-          "name": "Klipspringer",
+          "name": "Ewing Klipspringer",
           "role": "Frequent guest, known as 'the boarder'",
           "importance": 0.4,
           "emotion": "Complacent and opportunistic",
@@ -2246,7 +2248,7 @@
           "importance_rank": 2
         },
         {
-          "name": "Klipspringer",
+          "name": "Ewing Klipspringer",
           "role": "Piano player and reluctant performer",
           "importance": 0.6,
           "emotion": "embarrassed and anxious",
@@ -2453,7 +2455,7 @@
           "importance_rank": 6
         },
         {
-          "name": "The Woman in Brown",
+          "name": "The Woman In Brown",
           "role": "Tom's companion, initially cordial",
           "importance": 0.5,
           "emotion": "cautiously friendly",
@@ -3326,7 +3328,7 @@
           "importance_rank": 1
         },
         {
-          "name": "George B. Wilson",
+          "name": "Myrtle Wilson",
           "role": "Victim of the accident, expressing desperation before her death",
           "importance": 0.6,
           "emotion": "angry and desperate",
@@ -3362,7 +3364,7 @@
           "importance_rank": 1
         },
         {
-          "name": "George B. Wilson",
+          "name": "Myrtle Wilson",
           "role": "Her death is the central tragedy of the scene, impacting those around her.",
           "importance": 1.0,
           "emotion": "tragic and lifeless",
@@ -4046,7 +4048,7 @@
           "importance_rank": 2
         },
         {
-          "name": "Klipspringer",
+          "name": "Ewing Klipspringer",
           "role": "Acquaintance of Gatsby, hesitant about attending the funeral",
           "importance": 0.5,
           "emotion": "Nervous and evasive",
@@ -4104,7 +4106,7 @@
       "text": "When I left his office the sky had turned dark and I got back to West\nEgg in a drizzle. After changing my clothes I went next door and found\nMr. Gatz walking up and down excitedly in the hall. His pride in his\nson and in his son's possessions was continually increasing and now he\nhad something to show me.\n\"Jimmy sent me this picture.\" He took out his wallet with trembling\nfingers. \"Look there.\"\nIt was a photograph of the house, cracked in the corners and dirty\nwith many hands. He pointed out every detail to me eagerly. \"Look\nthere!\" and then sought admiration from my eyes. He had shown it so\noften that I think it was more real to him now than the house itself.\n\"Jimmy sent it to me. I think it's a very pretty picture. It shows up\nwell.\"\n\"Very well. Had you seen him lately?\"\n\"He come out to see me two years ago and bought me the house I live in\nnow. Of course we was broke up when he run off from home, but I see\nnow there was a reason for it. He knew he had a big future in front of\nhim. And ever since he made a success he was very generous with me.\"\nHe seemed reluctant to put away the picture, held it for another\nminute, lingeringly, before my eyes. Then he returned the wallet and\npulled from his pocket a ragged old copy of a book called Hopalong\nCassidy.\n\"Look here, this is a book he had when he was a boy. It just shows\nyou.\"\nHe opened it at the back cover and turned it around for me to see. On\nthe last flyleaf was printed the word schedule, and the date September\n12, 1906. And underneath:\nRise from bed 6:00 a.m.\nDumbell exercise and wall-scaling 6:15-6:30 \"\nStudy electricity, etc. 7:15-8:15 \"\nWork 8:30-4:30 p.m.\nBaseball and sports 4:30-5:00 \"\nPractise elocution, poise and how to attain it 5:00-6:00 \"\nStudy needed inventions 7:00-9:00 \"\nGeneral Resolves\n* No wasting time at Shafters or [a name, indecipherable]\n* No more smokeing or chewing.\n* Bath every other day\n* Read one improving book or magazine per week\n* Save $5.00 [crossed out] $3.00 per week\n* Be better to parents\n\"I came across this book by accident,\" said the old man. \"It just\nshows you, don't it?\"\n\"It just shows you.\"\n\"Jimmy was bound to get ahead. He always had some resolves like this\nor something. Do you notice what he's got about improving his mind? He\nwas always great for that. He told me I et like a hog once, and I beat\nhim for it.\"\nHe was reluctant to close the book, reading each item aloud and then\nlooking eagerly at me. I think he rather expected me to copy down the\nlist for my own use.\nA little before three the Lutheran minister arrived from Flushing, and\nI began to look involuntarily out the windows for other cars. So did\nGatsby's father. And as the time passed and the servants came in and\nstood waiting in the hall, his eyes began to blink anxiously, and he\nspoke of the rain in a worried, uncertain way. The minister glanced\nseveral times at his watch, so I took him aside and asked him to wait\nfor half an hour. But it wasn't any use. Nobody came.\n------------------------------------------------------------------------\nAbout five o'clock our procession of three cars reached the cemetery\nand stopped in a thick drizzle beside the gate\u2014first a motor hearse,\nhorribly black and wet, then Mr. Gatz and the minister and me in the\nlimousine, and a little later four or five servants and the postman\nfrom West Egg, in Gatsby's station wagon, all wet to the skin. As we\nstarted through the gate into the cemetery I heard a car stop and then\nthe sound of someone splashing after us over the soggy ground. I\nlooked around. It was the man with owl-eyed glasses whom I had found\nmarvelling over Gatsby's books in the library one night three months\nbefore.\nI'd never seen him since then. I don't know how he knew about the\nfuneral, or even his name. The rain poured down his thick glasses, and\nhe took them off and wiped them to see the protecting canvas unrolled\nfrom Gatsby's grave.\nI tried to think about Gatsby then for a moment, but he was already\ntoo far away, and I could only remember, without resentment, that\nDaisy hadn't sent a message or a flower. Dimly I heard someone murmur\n\"Blessed are the dead that the rain falls on,\" and then the owl-eyed\nman said \"Amen to that,\" in a brave voice.\nWe straggled down quickly through the rain to the cars. Owl-eyes spoke\nto me by the gate.\n\"I couldn't get to the house,\" he remarked.\n\"Neither could anybody else.\"\n\"Go on!\" He started. \"Why, my God! they used to go there by the\nhundreds.\"\nHe took off his glasses and wiped them again, outside and in.\n\"The poor son-of-a-bitch,\" he said.\n------------------------------------------------------------------------",
       "length": 4622,
       "num_lines": 87,
-      "location": "West Egg, Long Island",
+      "location": "West Egg Cemetery",
       "importance": 1.0,
       "conflict": 0.5,
       "characters": [
@@ -4317,385 +4319,392 @@
       "name": "Nick Carraway",
       "quote": "I understood that he meant a great deal more than that.",
       "group": "main characters",
-      "color": "rgb(118, 185, 71)",
-      "explanation": "This green color represents Nick's growth and hope as he navigates the complexities of the world around him."
+      "color": "rgb(52, 152, 219)",
+      "explanation": "This blue color represents Nick's contemplative nature and his role as the observer in the story."
     },
     {
       "name": "Jay Gatsby",
       "quote": "If personality is an unbroken series of successful gestures, then there was something gorgeous about him.",
       "group": "main characters",
-      "color": "rgb(255, 215, 0)",
-      "explanation": "Gold symbolizes Gatsby's wealth and the allure of his dreams, as well as the emptiness that often accompanies such wealth."
+      "color": "rgb(241, 196, 15)",
+      "explanation": "The bright yellow symbolizes Gatsby's wealth and the allure of his extravagant lifestyle."
     },
     {
       "name": "Father",
       "quote": "Whenever you feel like criticizing anyone, just remember that all the people in this world haven't had the advantages that you've had.",
       "group": "main characters",
-      "color": "rgb(255, 0, 0)",
-      "explanation": "Red represents Tom's aggressive and domineering personality, as well as his violent tendencies."
+      "color": "rgb(46, 204, 113)",
+      "explanation": "This green color reflects the wisdom and guidance he provides to Nick."
     },
     {
-      "name": "Young Man At The Office",
+      "name": "Young Man",
       "quote": "Let's take a house together in a commuting town.",
-      "group": "working class",
-      "color": "rgb(255, 192, 203)",
-      "explanation": "Pink symbolizes the young man's optimism and hope for companionship."
+      "group": "supporting characters",
+      "color": "rgb(155, 89, 182)",
+      "explanation": "The purple color signifies his youthful optimism and the potential for new beginnings."
     },
     {
       "name": "Finnish Woman",
       "quote": "Muttering Finnish wisdom to herself.",
-      "group": "working class",
-      "color": "rgb(128, 0, 128)",
-      "explanation": "Purple reflects the Finnish woman's quiet strength and her role in the narrator's life."
+      "group": "supporting characters",
+      "color": "rgb(241, 76, 96)",
+      "explanation": "This red color represents her indifference and the mundane nature of her role."
     },
     {
       "name": "Man Asking For Directions",
       "quote": "How do you get to West Egg village?",
-      "group": "working class",
-      "color": "rgb(0, 0, 255)",
-      "explanation": "Blue represents the man's confusion and search for guidance in a new place."
+      "group": "supporting characters",
+      "color": "rgb(52, 73, 94)",
+      "explanation": "The dark blue color symbolizes confusion and the search for guidance."
     },
     {
       "name": "Tom Buchanan",
-      "quote": "I suppose the latest thing is to sit back and let Mr. Nobody from Nowhere make love to your wife.",
-      "group": "upper class",
-      "color": "rgb(255, 0, 0)",
-      "explanation": "Red represents Tom's aggressive and domineering personality, as well as his violent tendencies."
+      "quote": "I've gotten to be a terrible pessimist about things.",
+      "group": "main characters",
+      "color": "rgb(231, 76, 60)",
+      "explanation": "This red color reflects Tom's aggressive and domineering personality."
     },
     {
       "name": "Daisy Buchanan",
       "quote": "I hope she'll be a fool\u2014that's the best thing a girl can be in this world, a beautiful little fool.",
       "group": "main characters",
-      "color": "rgb(255, 192, 203)",
-      "explanation": "Pink symbolizes Daisy's charm and femininity, but also her superficiality and the fragility of her happiness."
+      "color": "rgb(241, 196, 15)",
+      "explanation": "The yellow color represents Daisy's charm and the superficiality of her world."
     },
     {
       "name": "Jordan Baker",
-      "quote": "I like large parties. They\u2019re so intimate. At small parties there isn\u2019t any privacy.",
-      "group": "upper class",
-      "color": "rgb(128, 0, 128)",
-      "explanation": "Purple reflects Jordan's complexity and her role as a modern woman navigating a male-dominated society."
+      "quote": "Absolutely!",
+      "group": "main characters",
+      "color": "rgb(149, 165, 166)",
+      "explanation": "This gray color reflects her ambiguous nature and the moral ambiguity of her character."
     },
     {
       "name": "Doctor T. J. Eckleburg",
       "quote": "The eyes of Doctor T. J. Eckleburg are blue and gigantic.",
-      "group": "symbolic",
-      "color": "rgb(0, 255, 255)",
-      "explanation": "Cyan symbolizes the watchful eyes that observe the moral decay of society."
+      "group": "symbolic characters",
+      "color": "rgb(52, 152, 219)",
+      "explanation": "The blue color symbolizes the watchful eyes that observe the moral decay of society."
     },
     {
       "name": "George B. Wilson",
-      "quote": "I want to get away. My wife and I want to go West.",
-      "group": "working class",
-      "color": "rgb(0, 0, 255)",
-      "explanation": "Blue represents George's sadness and despair, as well as his longing for a better life."
+      "quote": "I can't complain.",
+      "group": "supporting characters",
+      "color": "rgb(241, 196, 15)",
+      "explanation": "This yellow color reflects his desperation and the bleakness of his situation."
+    },
+    {
+      "name": "Myrtle Wilson",
+      "quote": "Get some chairs, why don't you, so somebody can sit down.",
+      "group": "supporting characters",
+      "color": "rgb(155, 89, 182)",
+      "explanation": "The purple color signifies her desire for a better life and her assertive nature."
     },
     {
       "name": "Catherine",
-      "quote": "She\u2019s been talking about it for ten years.",
-      "group": "working class",
-      "color": "rgb(255, 165, 0)",
-      "explanation": "Orange represents Catherine's vibrant personality and her connection to Myrtle."
+      "quote": "You see, I think everything's terrible anyhow.",
+      "group": "supporting characters",
+      "color": "rgb(46, 204, 113)",
+      "explanation": "This green color reflects her cynical outlook on life."
     },
     {
       "name": "Mr. Mckee",
-      "quote": "I\u2019d like to do more work on Long Island, if I could get the entry.",
-      "group": "upper class",
-      "color": "rgb(0, 255, 0)",
-      "explanation": "Lime green symbolizes Mr. Mckee's ambition and desire for social acceptance."
+      "quote": "I'd like to do more work on Long Island, if I could get the entry.",
+      "group": "supporting characters",
+      "color": "rgb(52, 73, 94)",
+      "explanation": "The dark blue color symbolizes his aspirations and the challenges he faces."
     },
     {
       "name": "Mrs. Mckee",
       "quote": "I almost made a mistake, too.",
-      "group": "upper class",
-      "color": "rgb(255, 105, 180)",
-      "explanation": "Hot pink represents Mrs. Mckee's superficial charm and her role in the social dynamics."
+      "group": "supporting characters",
+      "color": "rgb(241, 76, 96)",
+      "explanation": "This red color represents her loud and proud personality."
     },
     {
       "name": "Elevator Boy",
       "quote": "Keep your hands off the lever.",
-      "group": "working class",
-      "color": "rgb(255, 215, 0)",
-      "explanation": "Gold symbolizes the elevator boy's authority and his role in the transportation system."
+      "group": "supporting characters",
+      "color": "rgb(231, 76, 60)",
+      "explanation": "This red color reflects his annoyance and assertiveness."
     },
     {
       "name": "Neighbor",
-      "quote": "I thought they\u2019d be a nice durable cardboard. Matter of fact, they\u2019re absolutely real. Pages and\u2014",
-      "group": "talking animals",
-      "color": "rgb(118, 185, 71)",
-      "explanation": "This green color represents Owl Eyes' curiosity and insight into Gatsby's world."
+      "quote": "His Rolls-Royce became an omnibus.",
+      "group": "supporting characters",
+      "color": "rgb(149, 165, 166)",
+      "explanation": "This gray color signifies the indifference of the guests at Gatsby's parties."
     },
     {
       "name": "Servants",
-      "quote": "I\u2019m going to drain the pool today, Mr. Gatsby.",
-      "group": "working class",
-      "color": "rgb(255, 215, 0)",
-      "explanation": "Gold symbolizes the servants' connection to Gatsby's wealth and the emptiness that often accompanies such wealth."
+      "quote": "Toiled all day with mops and scrubbing-brushes.",
+      "group": "supporting characters",
+      "color": "rgb(52, 152, 219)",
+      "explanation": "The blue color represents their hard work and the unnoticed labor behind the scenes."
     },
     {
       "name": "Female Guests",
       "quote": "This place is simply magical!",
-      "group": "upper class",
-      "color": "rgb(255, 192, 203)",
-      "explanation": "Pink symbolizes the female guests' excitement and superficiality."
+      "group": "supporting characters",
+      "color": "rgb(241, 196, 15)",
+      "explanation": "The yellow color reflects their excitement and the superficial charm of Gatsby's parties."
     },
     {
       "name": "Orchestra",
       "quote": "Let's make this a night to remember!",
-      "group": "upper class",
-      "color": "rgb(0, 255, 255)",
-      "explanation": "Cyan reflects the orchestra's role in creating the lively atmosphere of Gatsby's parties."
+      "group": "supporting characters",
+      "color": "rgb(46, 204, 113)",
+      "explanation": "This green color symbolizes the energy and liveliness they bring to the parties."
     },
     {
       "name": "Unnamed Gypsy Dancer",
       "quote": "Seizes a cocktail out of the air, dumps it down for courage and dances out alone.",
-      "group": "upper class",
-      "color": "rgb(255, 0, 255)",
-      "explanation": "Magenta represents the dancer's boldness and the vibrant energy of the party."
+      "group": "talking animals",
+      "color": "rgb(255, 99, 71)",
+      "explanation": "The vibrant red represents her lively and bold personality as she captures the attention of the crowd."
     },
     {
       "name": "Orchestra Leader",
-      "quote": "The lights grow brighter as the earth lurches away from the sun.",
-      "group": "upper class",
-      "color": "rgb(255, 140, 0)",
-      "explanation": "Dark orange represents the vibrant energy of the orchestra and the lively atmosphere of Gatsby's parties."
+      "quote": "Varies his rhythm obligingly for her.",
+      "group": "main characters",
+      "color": "rgb(30, 144, 255)",
+      "explanation": "The blue symbolizes his calm and supportive nature as he adapts to the dancer's performance."
     },
     {
       "name": "Party Guests",
-      "quote": "They were never quite the same ones in physical person, but they were so identical one with another that it inevitably seemed they had been there before.",
+      "quote": "The erroneous news goes around that she is Gilda Gray's understudy.",
       "group": "upper class",
-      "color": "rgb(0, 128, 0)",
-      "explanation": "Green symbolizes the guests' superficiality and their connection to the elite social circle."
+      "color": "rgb(255, 215, 0)",
+      "explanation": "Gold reflects their wealth and the glamorous atmosphere of the party."
     },
     {
       "name": "Lucille",
       "quote": "I like to come. I never care what I do, so I always have a good time.",
-      "group": "upper class",
-      "color": "rgb(255, 20, 147)",
-      "explanation": "Deep pink represents Lucille's carefree attitude and her enjoyment of the lavish lifestyle."
+      "group": "main characters",
+      "color": "rgb(255, 105, 180)",
+      "explanation": "Pink represents her playful and carefree attitude at the party."
     },
     {
-      "name": "Unnamed Girl In Yellow",
+      "name": "Girl in Yellow",
       "quote": "Somebody told me they thought he killed a man once.",
       "group": "upper class",
-      "color": "rgb(0, 255, 255)",
-      "explanation": "Cyan reflects the girl's curiosity and the rumors surrounding Gatsby."
+      "color": "rgb(255, 255, 0)",
+      "explanation": "Yellow signifies her bright and curious nature as she engages in gossip."
     },
     {
       "name": "Mr. Mumble",
-      "quote": "I don\u2019t play well. I don\u2019t\u2014hardly play at all. I\u2019m all out of prac\u2014",
-      "group": "upper class",
-      "color": "rgb(128, 128, 128)",
-      "explanation": "Gray symbolizes Mr. Mumble's mediocrity and his role as a background character in Gatsby's world."
+      "quote": "I heard that from a man who knew all about him.",
+      "group": "main characters",
+      "color": "rgb(128, 0, 128)",
+      "explanation": "Purple reflects his mysterious and somewhat secretive demeanor."
     },
     {
       "name": "Stout Middle-aged Man",
-      "quote": "They\u2019re real\u2014have pages and everything.",
+      "quote": "They're real\u2014have pages and everything.",
       "group": "upper class",
-      "color": "rgb(255, 105, 180)",
-      "explanation": "Hot pink represents the man's excitement and curiosity about Gatsby's library."
+      "color": "rgb(165, 42, 42)",
+      "explanation": "Brown symbolizes his grounded and somewhat rustic character."
     },
     {
-      "name": "The Red-haired Young Lady",
-      "quote": "She was not only singing, she was weeping too.",
-      "group": "upper class",
-      "color": "rgb(255, 0, 255)",
-      "explanation": "Magenta reflects the emotional turmoil and complexity of the red-haired young lady's character."
+      "name": "The Red-haired Lady",
+      "quote": "she was not only singing, she was weeping too.",
+      "group": "talking animals",
+      "color": "rgb(255, 0, 0)",
+      "explanation": "Red represents her emotional intensity and the drama of her performance."
     },
     {
       "name": "The Chorus Girls",
       "quote": "You promised!",
-      "group": "upper class",
-      "color": "rgb(0, 255, 0)",
-      "explanation": "Lime green symbolizes the chorus girls' vibrant energy and their role in the entertainment."
+      "group": "main characters",
+      "color": "rgb(0, 255, 127)",
+      "explanation": "Green symbolizes their lively and vibrant presence at the party."
     },
     {
       "name": "The Indignant Wives",
-      "quote": "Whenever he sees I\u2019m having a good time he wants to go home.",
+      "quote": "Whenever he sees I'm having a good time he wants to go home.",
       "group": "upper class",
-      "color": "rgb(0, 0, 128)",
-      "explanation": "Navy blue represents the wives' frustration and their desire for independence."
+      "color": "rgb(0, 0, 255)",
+      "explanation": "Blue reflects their frustration and emotional depth."
     },
     {
       "name": "Butler",
-      "quote": "I\u2019m sorry about the clock.",
-      "group": "working class",
+      "quote": "Philadelphia wants you on the phone, sir.",
+      "group": "main characters",
       "color": "rgb(255, 165, 0)",
-      "explanation": "Orange represents the butler's role in maintaining the household and his connection to Gatsby."
+      "explanation": "Orange represents his neutral and service-oriented role."
     },
     {
       "name": "Owl Eyes",
-      "quote": "I thought they\u2019d be a nice durable cardboard. Matter of fact, they\u2019re absolutely real. Pages and\u2014",
-      "group": "talking animals",
-      "color": "rgb(0, 128, 128)",
-      "explanation": "Teal symbolizes Owl Eyes' curiosity and insight into Gatsby's world."
+      "quote": "I know very little about driving\u2014next to nothing. It happened, and that's all I know.",
+      "group": "upper class",
+      "color": "rgb(75, 0, 130)",
+      "explanation": "Indigo symbolizes his observant and somewhat philosophical nature."
     },
     {
       "name": "The Driver",
-      "quote": "I don\u2019t think there\u2019s much gas.",
+      "quote": "Wha's matter? Did we run outa gas?",
       "group": "main characters",
-      "color": "rgb(255, 140, 0)",
-      "explanation": "Dark orange symbolizes the driver's connection to Gatsby's wealth and the emptiness that often accompanies such wealth."
+      "color": "rgb(255, 20, 147)",
+      "explanation": "Deep pink reflects his disoriented and carefree attitude."
     },
     {
       "name": "Bystanders",
-      "quote": "You\u2019re lucky it was just a wheel! A bad driver and not even trying!",
+      "quote": "You're lucky it was just a wheel! A bad driver and not even trying!",
       "group": "upper class",
-      "color": "rgb(255, 0, 0)",
-      "explanation": "Red represents the bystanders' judgment and harshness in the face of tragedy."
+      "color": "rgb(0, 191, 255)",
+      "explanation": "Cyan represents their curious and somewhat judgmental nature."
     },
     {
       "name": "Young Ladies",
-      "quote": "He\u2019s a bootlegger.",
+      "quote": "He's a bootlegger.",
       "group": "upper class",
-      "color": "rgb(255, 192, 203)",
-      "explanation": "Pink symbolizes the young ladies' superficiality and gossiping nature."
+      "color": "rgb(255, 140, 0)",
+      "explanation": "Dark orange reflects their gossiping and judgmental attitude."
     },
     {
       "name": "Benny Mcclenahan",
-      "quote": "They were never quite the same ones in physical person, but they were so identical one with another that it inevitably seemed they had been there before.",
-      "group": "upper class",
-      "color": "rgb(128, 0, 128)",
-      "explanation": "Purple reflects Benny's flamboyant and attention-seeking personality."
+      "quote": "They were never quite the same ones in physical person.",
+      "group": "main characters",
+      "color": "rgb(0, 255, 255)",
+      "explanation": "Aqua symbolizes his flamboyant and attention-seeking personality."
     },
     {
-      "name": "Klipspringer",
-      "quote": "I\u2019d like to do more work on Long Island, if I could get the entry.",
+      "name": "Ewing Klipspringer",
+      "quote": "I doubt if he had any other home.",
       "group": "upper class",
-      "color": "rgb(0, 255, 255)",
-      "explanation": "Cyan reflects Klipspringer's opportunistic nature and his tendency to take advantage of Gatsby's wealth."
+      "color": "rgb(255, 228, 196)",
+      "explanation": "Peach reflects his complacent and opportunistic nature."
     },
     {
       "name": "Meyer Wolfshiem",
-      "quote": "He\u2019s the man who fixed the World\u2019s Series back in 1919.",
+      "quote": "He's the man who fixed the World's Series back in 1919.",
       "group": "upper class",
       "color": "rgb(128, 128, 0)",
-      "explanation": "Olive green symbolizes Wolfshiem's shady dealings and his connection to the underworld."
+      "explanation": "Olive symbolizes his shady and cunning character."
     },
     {
       "name": "The Maid",
-      "quote": "I\u2019m sorry about the clock.",
-      "group": "working class",
-      "color": "rgb(255, 165, 0)",
-      "explanation": "Orange represents the maid's role in the household and her connection to the domestic sphere."
+      "quote": "spat meditatively into the garden.",
+      "group": "main characters",
+      "color": "rgb(255, 192, 203)",
+      "explanation": "Light pink represents her mundane and indifferent role."
     },
     {
       "name": "Young Reporter",
       "quote": "Why\u2014any statement to give out.",
-      "group": "upper class",
-      "color": "rgb(0, 255, 255)",
-      "explanation": "Cyan reflects the reporter's curiosity and ambition in uncovering the truth about Gatsby."
+      "group": "main characters",
+      "color": "rgb(255, 255, 224)",
+      "explanation": "Light yellow reflects his ambitious and inquisitive nature."
     },
     {
       "name": "Dan Cody",
-      "quote": "He was so hard up he had to keep on wearing his uniform because he couldn\u2019t buy some regular clothes.",
-      "group": "main characters",
-      "color": "rgb(255, 255, 0)",
-      "explanation": "Yellow symbolizes hope and the potential Gatsby had in his youth."
+      "quote": "Cody was fifty years old then, a product of the Nevada silver fields.",
+      "group": "Mentors",
+      "color": "rgb(255, 99, 71)",
+      "explanation": "This warm color represents his indulgent and somewhat indifferent nature."
     },
     {
       "name": "Ella Kaye",
       "quote": "It was indirectly due to Cody that Gatsby drank so little.",
-      "group": "upper class",
-      "color": "rgb(255, 0, 255)",
-      "explanation": "Magenta represents Ella's manipulative nature and her influence over Gatsby."
+      "group": "Antagonists",
+      "color": "rgb(30, 144, 255)",
+      "explanation": "This cool color reflects her cunning and opportunistic personality."
     },
     {
       "name": "Mr. Sloane",
-      "quote": "I\u2019m delighted to see you.",
-      "group": "upper class",
-      "color": "rgb(0, 128, 128)",
-      "explanation": "Teal symbolizes Mr. Sloane's calm demeanor and his role in the elite social circle."
+      "quote": "Well\u2014think ought to be starting home.",
+      "group": "Upper Class",
+      "color": "rgb(255, 215, 0)",
+      "explanation": "This bright color symbolizes his haughty demeanor and dismissive attitude."
     },
     {
-      "name": "The Woman in Brown",
-      "quote": "I\u2019d love to have you. Lots of room.",
-      "group": "upper class",
-      "color": "rgb(255, 20, 147)",
-      "explanation": "Deep pink represents the woman's charm and her connection to the elite social circle."
+      "name": "The Woman In Brown",
+      "quote": "I'd love to have you. Lots of room.",
+      "group": "Upper Class",
+      "color": "rgb(255, 105, 180)",
+      "explanation": "This soft color represents her initially cordial but ultimately superficial nature."
     },
     {
       "name": "Woman",
-      "quote": "I\u2019m glad to see you, sir \u2026 Nick \u2026",
-      "group": "upper class",
-      "color": "rgb(0, 0, 128)",
-      "explanation": "Navy blue reflects the woman's authority and her role in the social dynamics."
+      "quote": "Oh, my! she gasped.",
+      "group": "Common People",
+      "color": "rgb(255, 255, 0)",
+      "explanation": "This vibrant color reflects her emotional state and the chaos of the moment."
     },
     {
       "name": "Conductor",
-      "quote": "What you want, fella?",
-      "group": "working class",
-      "color": "rgb(0, 255, 0)",
-      "explanation": "Lime green symbolizes the conductor's authority and his role in the transportation system."
+      "quote": "Hot! \u2026 Hot! \u2026 Hot! \u2026 Is it hot enough for you?",
+      "group": "Common People",
+      "color": "rgb(128, 0, 128)",
+      "explanation": "This rich color represents his jovial yet familiar demeanor."
     },
     {
       "name": "The Nurse",
       "quote": "Come to your own mother that loves you.",
-      "group": "working class",
-      "color": "rgb(128, 128, 128)",
-      "explanation": "Gray symbolizes the nurse's nurturing role and her connection to the domestic sphere."
+      "group": "Common People",
+      "color": "rgb(165, 42, 42)",
+      "explanation": "This earthy color symbolizes her caring nature."
     },
     {
       "name": "Pammy Buchanan",
       "quote": "Yes.",
-      "group": "children",
-      "color": "rgb(0, 255, 255)",
-      "explanation": "Cyan represents Pammy's innocence and the fragility of childhood."
+      "group": "Children",
+      "color": "rgb(255, 0, 0)",
+      "explanation": "This bold color reflects her innocence and curiosity."
     },
     {
       "name": "Michaelis",
       "quote": "I advised him to go to bed, but Wilson refused.",
-      "group": "working class",
-      "color": "rgb(255, 0, 255)",
-      "explanation": "Magenta represents Michaelis' concern and his role as a witness."
+      "group": "Common People",
+      "color": "rgb(0, 255, 127)",
+      "explanation": "This bright color represents his concern and empathy."
     },
     {
       "name": "Policeman",
       "quote": "What you want, fella?",
-      "group": "working class",
-      "color": "rgb(255, 0, 0)",
-      "explanation": "Red reflects the policeman's authority and his role in the investigation."
+      "group": "Authority Figures",
+      "color": "rgb(0, 0, 255)",
+      "explanation": "This strong color symbolizes his authoritative presence."
     },
     {
       "name": "Chauffeur",
-      "quote": "I hadn\u2019t thought anything much about them.",
-      "group": "working class",
-      "color": "rgb(128, 0, 128)",
-      "explanation": "Purple reflects the chauffeur's indifference and his role in Gatsby's life."
+      "quote": "I hadn't thought anything much about them.",
+      "group": "Common People",
+      "color": "rgb(255, 165, 0)",
+      "explanation": "This warm color reflects his indifferent attitude."
     },
     {
       "name": "Gardener",
-      "quote": "I\u2019m going to drain the pool today, Mr. Gatsby.",
-      "group": "working class",
-      "color": "rgb(255, 215, 0)",
-      "explanation": "Gold symbolizes the gardener's connection to Gatsby's wealth and the emptiness that often accompanies such wealth."
+      "quote": "The gardener saw Wilson's body a little way off in the grass.",
+      "group": "Common People",
+      "color": "rgb(75, 0, 130)",
+      "explanation": "This deep color represents the somber nature of his role."
     },
     {
       "name": "Henry C. Gatz",
-      "quote": "He had a big future before him, you know. He was only a young man, but he had a lot of brain power here.",
-      "group": "main characters",
-      "color": "rgb(0, 0, 255)",
-      "explanation": "Blue represents Henry's sadness and despair, as well as his longing for a better life."
+      "quote": "He had a big future before him, you know.",
+      "group": "Family",
+      "color": "rgb(255, 20, 147)",
+      "explanation": "This vibrant color reflects his pride and sorrow."
     },
     {
       "name": "Slagle",
-      "quote": "Hell of a note, isn\u2019t it? Get my wire?",
-      "group": "upper class",
-      "color": "rgb(255, 140, 0)",
-      "explanation": "Dark orange represents Slagle's opportunistic nature and his connection to the elite social circle."
+      "quote": "Hell of a note, isn't it? Get my wire?",
+      "group": "Business Associates",
+      "color": "rgb(0, 191, 255)",
+      "explanation": "This bright color symbolizes his urgency and concern."
     },
     {
       "name": "The Lutheran Minister",
       "quote": "Blessed are the dead that the rain falls on.",
-      "group": "working class",
-      "color": "rgb(0, 255, 0)",
-      "explanation": "Lime green symbolizes the minister's solemnity and his role in the funeral."
+      "group": "Authority Figures",
+      "color": "rgb(255, 228, 196)",
+      "explanation": "This soft color represents the solemnity of his role."
     }
   ],
   "locations": [
     {
-      "name": "Narrator's Reflection",
-      "quote": "Whenever you feel like criticizing anyone, just remember that all the people in this world haven't had the advantages that you've had."
+      "name": "Narrator's Reflection On His Father's Advice And Gatsby",
+      "quote": "Whenever you feel like criticizing anyone,\" he told me, \"just remember that all the people in this world haven't had the advantages that you've had."
     },
     {
       "name": "Middle Western City",
@@ -4719,7 +4728,7 @@
     },
     {
       "name": "Long Island",
-      "quote": "The practical thing was to find rooms in the city, but it was a warm season."
+      "quote": "Already it was deep summer on roadhouse roofs and in front of wayside garages."
     },
     {
       "name": "Abandoned Grass Roller In The Yard",
@@ -4731,7 +4740,7 @@
     },
     {
       "name": "New York City",
-      "quote": "I began to like New York, the racy, adventurous feel of it at night."
+      "quote": "We waited for her down the road and out of sight."
     },
     {
       "name": "Myrtle Wilson's Apartment",
@@ -4747,7 +4756,7 @@
     },
     {
       "name": "Gatsby's House",
-      "quote": "It was Gatsby's mansion."
+      "quote": "There was music from my neighbour's house through the summer nights."
     },
     {
       "name": "A Lively Party Scene",
@@ -4755,51 +4764,55 @@
     },
     {
       "name": "Gatsby's Drive",
-      "quote": "He was standing in a puddle of water glaring tragically into my eyes."
+      "quote": "Fifty feet from the door a dozen headlights illuminated a bizarre and tumultuous scene."
     },
     {
       "name": "Gatsby's Car On The Way To Town",
-      "quote": "It was the first time he had called on me."
+      "quote": "I was in the Sixteenth until June nineteen-eighteen."
     },
     {
       "name": "Plaza Hotel",
-      "quote": "I was walking along from one place to another, half on the sidewalks and half on the lawns."
+      "quote": "The Plaza Hotel was a place of elegance and grandeur."
     },
     {
       "name": "Under A Bridge, Near The Park",
-      "quote": "I put my arm around Jordan's golden shoulder and drew her toward me."
+      "quote": "The park was a refuge from the chaos of the city."
     },
     {
       "name": "Lake Superior",
-      "quote": "It was James Gatz who had been loafing along the beach that afternoon in a torn green jersey."
+      "quote": "Lake Superior was a vast expanse of water, serene and beautiful."
     },
     {
       "name": "Gatsby's Narrative",
-      "quote": "He was a son of God\u2014a phrase which, if it means anything, means just that."
+      "quote": "Gatsby's story was one of ambition and longing."
     },
     {
       "name": "A Moonlit Street",
-      "quote": "They had been walking down the street when the leaves were falling."
+      "quote": "The moonlit street was quiet, with only the sound of footsteps."
     },
     {
       "name": "A Reflective Moment In A Quiet Setting",
-      "quote": "But they made no sound, and what I had almost remembered was uncommunicable forever."
+      "quote": "In a quiet setting, I found myself lost in thought."
     },
     {
       "name": "Train Carriage",
-      "quote": "I picked it up with a weary bend and handed it back to her."
+      "quote": "The train carriage was filled with the sounds of conversation."
     },
     {
       "name": "Gatsby's Car",
-      "quote": "I don't think there's much gas."
+      "quote": "Gatsby's car was a symbol of his wealth and status."
     },
     {
       "name": "Oxford",
-      "quote": "He was educated at Oxford, because all my ancestors have been educated there for many years."
+      "quote": "Oxford was a place of learning and tradition."
     },
     {
       "name": "Meyer Wolfshiem's Office",
-      "quote": "This is Mr. Wolfshiem."
+      "quote": "Meyer Wolfshiem's office was a reflection of his shady dealings."
+    },
+    {
+      "name": "West Egg Cemetery",
+      "quote": "The cemetery was a final resting place for many."
     }
   ]
 }

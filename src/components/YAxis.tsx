@@ -31,7 +31,7 @@ function YAxis() {
     location_data,
     sortedCharacters,
   } = dataStore();
-  const { locationPos, yShift, characterPos, scenePos } = positionStore();
+  const { locationPos, yShift, characterPos } = positionStore();
 
   const maxCharLength = 20;
 

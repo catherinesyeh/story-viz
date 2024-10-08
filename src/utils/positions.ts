@@ -60,8 +60,7 @@ export interface SceneSummaryText {
 
 /* ELEMENT POSITIONS */
 // compute locations of locations labels
-const locationPos = (locations: string[], max_characters: number) => {
-  // const height = location_height + (max_characters - 4) * character_offset;
+const locationPos = (locations: string[]) => {
   return locations.map((_, i) => {
     return location_height * i + location_offset;
   });
@@ -984,18 +983,28 @@ const update_scene_summaries = (
 // color bar positions
 const color_bar_pos = (plotWidth: number, scenePos: Position[]) => {
   const num_bars = Object.keys(color_dict).length;
+  const width = 1200;
+  const gap = 6 / num_bars;
+  const section = width / num_bars - gap * 2 * character_offset;
+  console.log(section);
+  const y = scenePos[0].y + location_height + 2 * location_offset;
+  const total_width =
+    section * (num_bars - 1) +
+    gap * (num_bars - 1) * num_bars * character_offset;
+  const start_offset =
+    (plotWidth - num_bars * location_offset - total_width) / 2;
   return Object.keys(color_dict).map((_, i) => {
-    const width = (plotWidth - 2 * location_offset) / 2 + 1;
-    const gap = 6 / num_bars;
-    const section = width / num_bars - gap * 2 * character_offset;
-    const y = scenePos[0].y + location_height + 2 * location_offset;
     return {
       x:
-        width / (2 + 0.2 * Math.max(0, num_bars - 3)) +
-        1 +
-        i * section +
-        i * gap * num_bars * character_offset +
-        location_offset,
+        start_offset +
+        location_offset +
+        section * i +
+        gap * i * num_bars * character_offset,
+      // width / (2 + 0.2 * Math.max(0, num_bars - 3)) +
+      // 1 +
+      // i * section +
+      // i * gap * num_bars * character_offset +
+      // location_offset,
       y: y,
       width: section,
       height: character_height,
@@ -1149,7 +1158,7 @@ export const getAllPositions = (
   const charMax = Math.max(...characters_per_scene);
   const negMax = charMax + Math.max(...characters_neg_sent);
   const max_characters = yAxis !== "sentiment" ? charMax : negMax;
-  const initLocationPos = locationPos(locations, max_characters);
+  const initLocationPos = locationPos(locations);
 
   let initScenePos = initialScenePos(
     sceneWidth,

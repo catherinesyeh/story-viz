@@ -137,3 +137,12 @@ export const getStringWidth = (s: string) =>
 
 // remove numbers and punctuation from string
 export const onlyLetters = (s: string) => s.replace(/[^a-zA-Z ]/g, "");
+
+// format chapter name
+export const chapterFormatted = (chapterName: string) => {
+  return (
+    chapterName.startsWith("Act") ||
+    chapterName === "Prologue" ||
+    chapterName.toLowerCase().includes("chapter")
+  );
+};

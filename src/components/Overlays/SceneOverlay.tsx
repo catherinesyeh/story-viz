@@ -10,7 +10,7 @@ import {
 } from "../../utils/colors";
 import { character_offset, character_height } from "../../utils/consts";
 import { dataStore } from "../../stores/dataStore";
-import { capitalize, normalize } from "../../utils/helpers";
+import { capitalize, chapterFormatted, normalize } from "../../utils/helpers";
 import { positionStore } from "../../stores/positionStore";
 
 function SceneOverlay() {
@@ -132,7 +132,7 @@ function SceneOverlay() {
                   textAnchor="end"
                   className="bold"
                 >
-                  {scene.chapter.startsWith("Act")
+                  {chapterFormatted(scene.chapter)
                     ? scene.chapter
                     : "Chapter " + scene.chapter}
                 </text>

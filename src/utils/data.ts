@@ -23,6 +23,20 @@ const chunkQuote = (quote: string, chunk_size: number) => {
 };
 
 /* INTERFACES */
+export interface Chapter {
+  chapter: string;
+  numScenes: number;
+  numLines: number;
+  summary: string;
+  conflict: number;
+  importance: number;
+  locations: {
+    [key: string]: number;
+  };
+  characters: {
+    [key: string]: number;
+  };
+}
 export interface Character {
   name: string;
   importance: number;
@@ -116,7 +130,32 @@ export interface ChapterDivision {
 }
 
 /* DATA */
-const scene_data = (all_data: any): Scene[] => {
+const chapter_data = (all_data: any): Chapter[] => {
+  const data = all_data["chapters"];
+
+  if (!data) {
+    return [];
+  }
+
+  data.forEach((chapter: any) => {
+    chapter.numScenes = chapter.scenes;
+    chapter.numLines = chapter.num_lines;
+    const importance = chapter.importance_rank;
+    if (importance > 1) {
+      chapter.importance = (data.length + 1 - importance) / data.length;
+    }
+
+    // delete extra fields
+    delete chapter.num_lines;
+    delete chapter.importance_rank;
+    delete chapter.conflict_rank;
+    delete chapter.length;
+    delete chapter.scenes;
+  });
+
+  return data;
+};
+const scene_data = (all_data: any, chapter_data: Chapter[]): Scene[] => {
   const data = all_data["scenes"];
 
   data.forEach((scene: any, i: number) => {
@@ -130,12 +169,28 @@ const scene_data = (all_data: any): Scene[] => {
       ? scene.ratings.conflict
       : scene.conflict;
 
+    let importance_scalar = 1;
+    let length_to_compare = data.length;
+    let chapter_importance = 0;
+    if (chapter_data.length > 0) {
+      // find chapter with the same name as scene.chapter
+      const chapter = chapter_data.find(
+        (chap) => chap.chapter === scene.chapter
+      );
+      length_to_compare = chapter ? chapter.numScenes : data.length;
+      chapter_importance = chapter ? chapter.importance : 0;
+      importance_scalar = 0.5;
+    }
+
     // replace importance rating for each scene in scene_data with 1 / rating
     const importance = scene.importance_rank
       ? scene.importance_rank
       : scene.ratings.importance;
     if (importance > 1 || !scene.ratings.importance) {
-      scene.ratings.importance = (data.length + 1 - importance) / data.length;
+      scene.ratings.importance =
+        ((length_to_compare + 1 - importance) / length_to_compare) *
+          importance_scalar +
+        chapter_importance * importance_scalar;
     }
 
     const characters = scene.characters;
@@ -146,7 +201,7 @@ const scene_data = (all_data: any): Scene[] => {
       const charImportance = character.importance_rank
         ? character.importance_rank
         : character.importance;
-      if (charImportance > 1) {
+      if (charImportance > 1 || character.importance_rank) {
         character.importance =
           (scene.characters.length + 1 - charImportance) /
           scene.characters.length;
@@ -179,8 +234,6 @@ const scene_data = (all_data: any): Scene[] => {
     delete scene.title;
     delete scene.num_lines;
   });
-
-  console.log(data);
 
   return data;
 };
@@ -522,7 +575,8 @@ const getChapterDivisions = (data: Scene[]): ChapterDivision[] => {
 
 // generate all data and return
 export const getAllData = (init_data: any) => {
-  const init_scene_data = scene_data(init_data);
+  const init_chapter_data = chapter_data(init_data);
+  const init_scene_data = scene_data(init_data, init_chapter_data);
   const init_location_data = location_data(init_data);
   const init_character_data = character_data(init_data);
 

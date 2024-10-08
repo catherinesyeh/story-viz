@@ -14,18 +14,18 @@ function StoryVis() {
   const { plotWidth, plotHeight, yShift, minConflictY, scenePos } =
     positionStore();
   const { locations } = dataStore();
-  const { overlay, fullHeight } = storyStore();
+  const { overlay, fullHeight, yAxis } = storyStore();
   return (
     <svg
       id="story"
       height={
         fullHeight
-          ? locations.length <= 8
-            ? `${800 + (locations.length - 8) * 50}px`
-            : `${Math.min(
+          ? yAxis === "location" && locations.length > 8
+            ? `${Math.min(
                 plotHeight - 600,
                 800 + (locations.length - 8) * 50
               )}px`
+            : 800
           : undefined
       }
       width={!fullHeight ? "100%" : undefined}

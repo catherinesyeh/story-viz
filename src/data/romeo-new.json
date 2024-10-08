@@ -8,7 +8,7 @@
   "num_chapters": 6,
   "num_scenes": 44,
   "num_characters": 31,
-  "num_locations": 8,
+  "num_locations": 9,
   "chapters": [
     {
       "chapter": "Prologue",
@@ -19,7 +19,7 @@
       "importance": 1.0,
       "conflict": 1.0,
       "locations": {
-        "Verona, At The Capulet's Feast": 1
+        "Verona": 1
       },
       "characters": {
         "Chorus": 1
@@ -32,13 +32,13 @@
       "scenes": 11,
       "length": 40992,
       "num_lines": 808,
-      "summary": "In this chapter, tensions between the Capulets and Montagues escalate into a fight, leading to Prince Escalus's warning; meanwhile, Romeo's unrequited love for Rosaline is revealed, and he meets Juliet at the Capulet feast, where they fall in love despite their families' feud.",
+      "summary": "In this chapter, a street brawl between the Capulet and Montague servants is interrupted by Prince Escalus, who warns them against further violence; meanwhile, Romeo reveals his unrequited love for Rosaline, and at the Capulet feast, he meets and falls in love with Juliet, unaware of their families' feud.",
       "importance": 0.84,
       "conflict": 0.65,
       "locations": {
-        "Verona, A Churchyard": 3,
-        "Verona, At The Capulet's Feast": 2,
+        "Verona": 4,
         "A Street": 1,
+        "Verona, At The Capulet's Feast": 1,
         "Capulet's House": 5
       },
       "characters": {
@@ -46,24 +46,24 @@
         "Gregory": 1,
         "Abram": 1,
         "Balthasar": 1,
-        "Benvolio": 5,
+        "Benvolio": 6,
         "Tybalt": 2,
         "Officer": 1,
-        "Old Capulet": 1,
+        "Old Capulet": 4,
         "Old Montague": 2,
         "Prince Escalus": 1,
         "Lady Montague": 2,
-        "Romeo Montague": 6,
-        "Juliet Capulet": 5,
+        "Romeo Montague": 5,
         "County Paris": 1,
-        "Servant": 1,
-        "Servant 3": 2,
+        "Servant": 2,
         "Lady Capulet": 1,
         "Nurse": 2,
+        "Juliet Capulet": 2,
         "Servingman": 1,
         "Mercutio": 1,
         "Servant 1": 1,
-        "Servant 2": 1
+        "Servant 2": 1,
+        "Servant 3": 1
       },
       "importance_rank": 5,
       "conflict_rank": 5
@@ -73,14 +73,15 @@
       "scenes": 9,
       "length": 37195,
       "num_lines": 753,
-      "summary": "Romeo and Juliet confess their love for each other, leading to their secret marriage arranged by Friar Laurence, while their friends remain unaware of their relationship.",
+      "summary": "Romeo and Juliet confess their love in secret, leading to their decision to marry, while their friends remain unaware of their relationship.",
       "importance": 0.84,
       "conflict": 0.49,
       "locations": {
-        "Capulet's Orchard": 4,
+        "A Lane By The Wall Of Capulet's Orchard": 1,
+        "Orchard": 1,
+        "Capulet's House": 3,
         "Friar Laurence's Cell": 3,
-        "A Street": 1,
-        "Capulet's House": 1
+        "A Street": 1
       },
       "characters": {
         "Romeo Montague": 6,
@@ -99,13 +100,11 @@
       "scenes": 13,
       "length": 45141,
       "num_lines": 884,
-      "summary": "In a series of tragic events, Mercutio is killed in a fight with Tybalt, prompting Romeo to seek revenge and kill Tybalt, leading to his banishment; Juliet, unaware of these events, faces her own turmoil as her father arranges her marriage to Paris, resulting in her desperate decision to seek help from Friar Laurence.",
+      "summary": "In a series of tragic events, Mercutio is killed by Tybalt while Romeo tries to intervene, leading to Romeo avenging Mercutio's death by killing Tybalt, resulting in his banishment; Juliet, unaware of these events, faces her own turmoil as her father arranges her marriage to Paris, leading her to seek help from Friar Laurence.",
       "importance": 0.93,
       "conflict": 0.81,
       "locations": {
-        "A Public Place": 2,
-        "Verona, A Churchyard": 1,
-        "Verona, At The Capulet's Feast": 1,
+        "Verona": 4,
         "Capulet's House": 7,
         "Friar Laurence's Cell": 2
       },
@@ -113,13 +112,14 @@
         "Benvolio": 4,
         "Mercutio": 4,
         "Tybalt": 3,
-        "Romeo Montague": 7,
+        "Romeo Montague": 6,
         "Prince Escalus": 1,
         "Lady Capulet": 5,
-        "Juliet Capulet": 8,
+        "Old Montague": 1,
+        "Juliet Capulet": 6,
         "Nurse": 7,
         "Friar Laurence": 2,
-        "Old Capulet": 1,
+        "Old Capulet": 3,
         "County Paris": 1
       },
       "importance_rank": 3,
@@ -130,7 +130,7 @@
       "scenes": 6,
       "length": 23359,
       "num_lines": 464,
-      "summary": "Juliet agrees to marry Paris while secretly planning to escape, drinks a potion to feign death, leading to the Capulet family's grief upon discovering her 'lifeless' body.",
+      "summary": "Juliet agrees to marry Paris while secretly planning to escape, drinks a potion to avoid the wedding, and is found lifeless, leading to the Capulet family's grief.",
       "importance": 0.88,
       "conflict": 0.72,
       "locations": {
@@ -141,10 +141,10 @@
       "characters": {
         "Friar Laurence": 2,
         "County Paris": 2,
-        "Juliet Capulet": 4,
+        "Juliet Capulet": 3,
+        "Old Capulet": 3,
         "Nurse": 5,
         "Lady Capulet": 4,
-        "Old Capulet": 2,
         "Fellow": 1,
         "Musician 1": 1,
         "Musician 2": 1,
@@ -158,24 +158,26 @@
       "scenes": 4,
       "length": 24134,
       "num_lines": 469,
-      "summary": "In the tragic conclusion of the story, Romeo learns of Juliet's death, leading to their untimely demise in the Capulet tomb, while the truth of their love reconciles their feuding families.",
+      "summary": "In the tragic conclusion of the story, Romeo learns of Juliet's death, leading to their untimely demise in the Capulet tomb, ultimately resulting in the reconciliation of the feuding families.",
       "importance": 0.97,
       "conflict": 0.95,
       "locations": {
-        "A Street": 1,
+        "Verona": 1,
         "Friar Laurence's Cell": 1,
-        "Verona": 2
+        "Verona Churchyard": 2
       },
       "characters": {
-        "Romeo Montague": 3,
+        "Romeo Montague": 2,
         "Balthasar": 3,
         "Apothecary": 1,
         "Friar Laurence": 3,
         "Friar John": 1,
         "County Paris": 2,
-        "Juliet Capulet": 2,
+        "Juliet Capulet": 1,
         "Chief Watch": 1,
-        "Prince Escalus": 1
+        "Prince Escalus": 1,
+        "Old Capulet": 1,
+        "Old Montague": 1
       },
       "importance_rank": 2,
       "conflict_rank": 2
@@ -191,7 +193,7 @@
       "text": "Two households, both alike in dignity,\nIn fair Verona, where we lay our scene,\nFrom ancient grudge break to new mutiny,\nWhere civil blood makes civil hands unclean.\nFrom forth the fatal loins of these two foes\nA pair of star-cross'd lovers take their life;\nWhose misadventur'd piteous overthrows\nDoth with their death bury their parents' strife.\nThe fearful passage of their death-mark'd love,\nAnd the continuance of their parents' rage,\nWhich, but their children's end, naught could remove,\nIs now the two hours' traffic of our stage;\nThe which if you with patient ears attend,\nWhat here shall miss, our toil shall strive to mend.\n[Exit.]",
       "length": 639,
       "num_lines": 15,
-      "location": "Verona, At The Capulet's Feast",
+      "location": "Verona",
       "importance": 1.0,
       "conflict": 1.0,
       "characters": [
@@ -218,7 +220,7 @@
       "text": "Enter Sampson and Gregory (with swords and bucklers) of the house\nof Capulet.\nSamp. Gregory, on my word, we'll not carry coals.\nGreg. No, for then we should be colliers.\nSamp. I mean, an we be in choler, we'll draw.\nGreg. Ay, while you live, draw your neck out of collar.\nSamp. I strike quickly, being moved.\nGreg. But thou art not quickly moved to strike.\nSamp. A dog of the house of Montague moves me.\nGreg. To move is to stir, and to be valiant is to stand.\nTherefore, if thou art moved, thou runn'st away.\nSamp. A dog of that house shall move me to stand. I will take\nthe\nwall of any man or maid of Montague's.\nGreg. That shows thee a weak slave; for the weakest goes to the\nwall.\nSamp. 'Tis true; and therefore women, being the weaker vessels,\nare\never thrust to the wall. Therefore I will push Montague's men\nfrom the wall and thrust his maids to the wall.\nGreg. The quarrel is between our masters and us their men.\nSamp. 'Tis all one. I will show myself a tyrant. When I have\nfought\nwith the men, I will be cruel with the maids- I will cut off\ntheir heads.\nGreg. The heads of the maids?\nSamp. Ay, the heads of the maids, or their maidenheads.\nTake it in what sense thou wilt.\nGreg. They must take it in sense that feel it.\nSamp. Me they shall feel while I am able to stand; and 'tis\nknown I\nam a pretty piece of flesh.\nGreg. 'Tis well thou art not fish; if thou hadst, thou hadst\nbeen\npoor-John. Draw thy tool! Here comes two of the house of\nMontagues.\nEnter two other Servingmen [Abram and Balthasar].\nSamp. My naked weapon is out. Quarrel! I will back thee.\nGreg. How? turn thy back and run?\nSamp. Fear me not.\nGreg. No, marry. I fear thee!\nSamp. Let us take the law of our sides; let them begin.\nGreg. I will frown as I pass by, and let them take it as they\nlist.\nSamp. Nay, as they dare. I will bite my thumb at them; which is\ndisgrace to them, if they bear it.\nAbr. Do you bite your thumb at us, sir?\nSamp. I do bite my thumb, sir.\nAbr. Do you bite your thumb at us, sir?\nSamp. [aside to Gregory] Is the law of our side if I say ay?\nGreg. [aside to Sampson] No.\nSamp. No, sir, I do not bite my thumb at you, sir; but I bite\nmy\nthumb, sir.\nGreg. Do you quarrel, sir?\nAbr. Quarrel, sir? No, sir.\nSamp. But if you do, sir, am for you. I serve as good a man as\nyou.\nAbr. No better.\nSamp. Well, sir.\nEnter Benvolio.\nGreg. [aside to Sampson] Say 'better.' Here comes one of my\nmaster's kinsmen.\nSamp. Yes, better, sir.\nAbr. You lie.\nSamp. Draw, if you be men. Gregory, remember thy swashing blow.\nThey fight.\nBen. Part, fools! [Beats down their swords.]\nPut up your swords. You know not what you do.\nEnter Tybalt.\nTyb. What, art thou drawn among these heartless hinds?\nTurn thee Benvolio! look upon thy death.\nBen. I do but keep the peace. Put up thy sword,\nOr manage it to part these men with me.\nTyb. What, drawn, and talk of peace? I hate the word\nAs I hate hell, all Montagues, and thee.\nHave at thee, coward! They fight.\nEnter an officer, and three or four Citizens with clubs or\npartisans.\nOfficer. Clubs, bills, and partisans! Strike! beat them down!\nCitizens. Down with the Capulets! Down with the Montagues!",
       "length": 3122,
       "num_lines": 81,
-      "location": "Verona, A Churchyard",
+      "location": "Verona",
       "importance": 0.9,
       "conflict": 0.8,
       "characters": [
@@ -299,7 +301,7 @@
       "text": "Enter Old Capulet in his gown, and his Wife.\nCap. What noise is this? Give me my long sword, ho!\nWife. A crutch, a crutch! Why call you for a sword?\nCap. My sword, I say! Old Montague is come\nAnd flourishes his blade in spite of me.\nEnter Old Montague and his Wife.\nMon. Thou villain Capulet!- Hold me not, let me go.\nM. Wife. Thou shalt not stir one foot to seek a foe.\nEnter Prince Escalus, with his Train.\nPrince. Rebellious subjects, enemies to peace,\nProfaners of this neighbour-stained steel-\nWill they not hear? What, ho! you men, you beasts,\nThat quench the fire of your pernicious rage\nWith purple fountains issuing from your veins!\nOn pain of torture, from those bloody hands\nThrow your mistempered weapons to the ground\nAnd hear the sentence of your moved prince.\nThree civil brawls, bred of an airy word\nBy thee, old Capulet, and Montague,\nHave thrice disturb'd the quiet of our streets\nAnd made Verona's ancient citizens\nCast by their grave beseeming ornaments\nTo wield old partisans, in hands as old,\nCank'red with peace, to part your cank'red hate.\nIf ever you disturb our streets again,\nYour lives shall pay the forfeit of the peace.\nFor this time all the rest depart away.\nYou, Capulet, shall go along with me;\nAnd, Montague, come you this afternoon,\nTo know our farther pleasure in this case,\nTo old Freetown, our common judgment place.\nOnce more, on pain of death, all men depart.\nExeunt [all but Montague, his Wife, and Benvolio].",
       "length": 1450,
       "num_lines": 33,
-      "location": "Verona, At The Capulet's Feast",
+      "location": "Verona",
       "importance": 1.0,
       "conflict": 1.0,
       "characters": [
@@ -353,12 +355,12 @@
       "text": "Mon. Who set this ancient quarrel new abroach?\nSpeak, nephew, were you by when it began?\nBen. Here were the servants of your adversary\nAnd yours, close fighting ere I did approach.\nI drew to part them. In the instant came\nThe fiery Tybalt, with his sword prepar'd;\nWhich, as he breath'd defiance to my ears,\nHe swung about his head and cut the winds,\nWho, nothing hurt withal, hiss'd him in scorn.\nWhile we were interchanging thrusts and blows,\nCame more and more, and fought on part and part,\nTill the Prince came, who parted either part.\nM. Wife. O, where is Romeo? Saw you him to-day?\nRight glad I am he was not at this fray.\nBen. Madam, an hour before the worshipp'd sun\nPeer'd forth the golden window of the East,\nA troubled mind drave me to walk abroad;\nWhere, underneath the grove of sycamore\nThat westward rooteth from the city's side,\nSo early walking did I see your son.\nTowards him I made; but he was ware of me\nAnd stole into the covert of the wood.\nI- measuring his affections by my own,\nWhich then most sought where most might not be found,\nBeing one too many by my weary self-\nPursu'd my humour, not Pursuing his,\nAnd gladly shunn'd who gladly fled from me.\nMon. Many a morning hath he there been seen,\nWith tears augmenting the fresh morning's dew,\nAdding to clouds more clouds with his deep sighs;\nBut all so soon as the all-cheering sun\nShould in the farthest East bean to draw\nThe shady curtains from Aurora's bed,\nAway from light steals home my heavy son\nAnd private in his chamber pens himself,\nShuts up his windows, locks fair daylight out\nAnd makes himself an artificial night.\nBlack and portentous must this humour prove\nUnless good counsel may the cause remove.\nBen. My noble uncle, do you know the cause?\nMon. I neither know it nor can learn of him.\nBen. Have you importun'd him by any means?\nMon. Both by myself and many other friends;\nBut he, his own affections' counsellor,\nIs to himself- I will not say how true-\nBut to himself so secret and so close,\nSo far from sounding and discovery,\nAs is the bud bit with an envious worm\nEre he can spread his sweet leaves to the air\nOr dedicate his beauty to the sun.\nCould we but learn from whence his sorrows grow,\nWe would as willingly give cure as know.\nEnter Romeo.\nBen. See, where he comes. So please you step aside,\nI'll know his grievance, or be much denied.\nMon. I would thou wert so happy by thy stay\nTo hear true shrift. Come, madam, let's away,\nExeunt [Montague and Wife].",
       "length": 2454,
       "num_lines": 58,
-      "location": "Verona, A Churchyard",
+      "location": "Verona",
       "importance": 0.8,
       "conflict": 0.6,
       "characters": [
         {
-          "name": "Romeo Montague",
+          "name": "Old Montague",
           "role": "Concerned father trying to understand his son's sadness and the cause of the feud",
           "importance": 0.9,
           "emotion": "Worried and anxious",
@@ -398,7 +400,7 @@
       "text": "Ben. Good morrow, cousin.\nRom. Is the day so young?\nBen. But new struck nine.\nRom. Ah me! sad hours seem long.\nWas that my father that went hence so fast?\nBen. It was. What sadness lengthens Romeo's hours?\nRom. Not having that which having makes them short.\nBen. In love?\nRom. Out-\nBen. Of love?\nRom. Out of her favour where I am in love.\nBen. Alas that love, so gentle in his view,\nShould be so tyrannous and rough in proof!\nRom. Alas that love, whose view is muffled still,\nShould without eyes see pathways to his will!\nWhere shall we dine? O me! What fray was here?\nYet tell me not, for I have heard it all.\nHere's much to do with hate, but more with love.\nWhy then, O brawling love! O loving hate!\nO anything, of nothing first create!\nO heavy lightness! serious vanity!\nMisshapen chaos of well-seeming forms!\nFeather of lead, bright smoke, cold fire, sick health!\nStill-waking sleep, that is not what it is\nThis love feel I, that feel no love in this.\nDost thou not laugh?\nBen. No, coz, I rather weep.\nRom. Good heart, at what?\nBen. At thy good heart's oppression.\nRom. Why, such is love's transgression.\nGriefs of mine own lie heavy in my breast,\nWhich thou wilt propagate, to have it prest\nWith more of thine. This love that thou hast shown\nDoth add more grief to too much of mine own.\nLove is a smoke rais'd with the fume of sighs;\nBeing purg'd, a fire sparkling in lovers' eyes;\nBeing vex'd, a sea nourish'd with lovers' tears.\nWhat is it else? A madness most discreet,\nA choking gall, and a preserving sweet.\nFarewell, my coz.\nBen. Soft! I will go along.\nAn if you leave me so, you do me wrong.\nRom. Tut! I have lost myself; I am not here:\nThis is not Romeo, he's some other where.\nBen. Tell me in sadness, who is that you love?\nRom. What, shall I groan and tell thee?\nBen. Groan? Why, no;\nBut sadly tell me who.\nRom. Bid a sick man in sadness make his will.\nAh, word ill urg'd to one that is so ill!\nIn sadness, cousin, I do love a woman.\nBen. I aim'd so near when I suppos'd you lov'd.\nRom. A right good markman! And she's fair I love.\nBen. A right fair mark, fair coz, is soonest hit.\nRom. Well, in that hit you miss. She'll not be hit\nWith Cupid's arrow. She hath Dian's wit,\nAnd, in strong proof of chastity well arm'd,\nFrom Love's weak childish bow she lives unharm'd.\nShe will not stay the siege of loving terms,\nNor bide th' encounter of assailing eyes,\nNor ope her lap to saint-seducing gold.\nO, she's rich in beauty; only poor\nThat, when she dies, with beauty dies her store.\nBen. Then she hath sworn that she will still live chaste?\nRom. She hath, and in that sparing makes huge waste;\nFor beauty, starv'd with her severity,\nCuts beauty off from all posterity.\nShe is too fair, too wise, wisely too fair,\nTo merit bliss by making me despair.\nShe hath forsworn to love, and in that vow\nDo I live dead that live to tell it now.\nBen. Be rul'd by me: forget to think of her.\nRom. O, teach me how I should forget to think!\nBen. By giving liberty unto thine eyes.\nExamine other beauties.\nRom. 'Tis the way\nTo call hers (exquisite) in question more.\nThese happy masks that kiss fair ladies' brows,\nBeing black puts us in mind they hide the fair.\nHe that is strucken blind cannot forget\nThe precious treasure of his eyesight lost.\nShow me a mistress that is passing fair,\nWhat doth her beauty serve but as a note\nWhere I may read who pass'd that passing fair?\nFarewell. Thou canst not teach me to forget.\nBen. I'll pay that doctrine, or else die in debt. Exeunt.",
       "length": 3474,
       "num_lines": 86,
-      "location": "Verona, A Churchyard",
+      "location": "Verona",
       "importance": 0.8,
       "conflict": 0.6,
       "characters": [
@@ -412,7 +414,7 @@
           "importance_rank": 1
         },
         {
-          "name": "Old Montague",
+          "name": "Benvolio",
           "role": "Romeo's cousin and friend, trying to help him move on from his unrequited love.",
           "importance": 0.8,
           "emotion": "concerned and supportive",
@@ -439,7 +441,7 @@
       "conflict": 0.5,
       "characters": [
         {
-          "name": "Juliet Capulet",
+          "name": "Old Capulet",
           "role": "Father of Juliet, reluctant to marry her off too soon",
           "importance": 0.9,
           "emotion": "protective and cautious",
@@ -502,7 +504,7 @@
           "importance_rank": 1
         },
         {
-          "name": "Servant 3",
+          "name": "Servant",
           "role": "Informs Romeo about the Capulet feast and invites him to join.",
           "importance": 0.4,
           "emotion": "neutral and polite",
@@ -673,7 +675,7 @@
       "conflict": 1.0,
       "characters": [
         {
-          "name": "Juliet Capulet",
+          "name": "Old Capulet",
           "role": "Host of the ball, trying to maintain peace and enjoyment among guests",
           "importance": 1.0,
           "emotion": "Jovial but authoritative",
@@ -754,7 +756,7 @@
           "importance_rank": 4
         },
         {
-          "name": "Juliet Capulet",
+          "name": "Old Capulet",
           "role": "Juliet's father, hosting the banquet",
           "importance": 0.5,
           "emotion": "cheerful and welcoming",
@@ -776,7 +778,7 @@
       "text": "ACT II. Scene I.\nA lane by the wall of Capulet's orchard.\nEnter Romeo alone.\nRom. Can I go forward when my heart is here?\nTurn back, dull earth, and find thy centre out.\n[Climbs the wall and leaps down within it.]",
       "length": 213,
       "num_lines": 6,
-      "location": "Capulet's Orchard",
+      "location": "A Lane By The Wall Of Capulet's Orchard",
       "importance": 0.8,
       "conflict": 0.5,
       "characters": [
@@ -803,7 +805,7 @@
       "text": "Enter Benvolio with Mercutio.\nBen. Romeo! my cousin Romeo! Romeo!\nMer. He is wise,\nAnd, on my life, hath stol'n him home to bed.\nBen. He ran this way, and leapt this orchard wall.\nCall, good Mercutio.\nMer. Nay, I'll conjure too.\nRomeo! humours! madman! passion! lover!\nAppear thou in the likeness of a sigh;\nSpeak but one rhyme, and I am satisfied!\nCry but 'Ah me!' pronounce but 'love' and 'dove';\nSpeak to my gossip Venus one fair word,\nOne nickname for her purblind son and heir,\nYoung auburn Cupid, he that shot so trim\nWhen King Cophetua lov'd the beggar maid!\nHe heareth not, he stirreth not, be moveth not;\nThe ape is dead, and I must conjure him.\nI conjure thee by Rosaline's bright eyes.\nBy her high forehead and her scarlet lip,\nBy her fine foot, straight leg, and quivering thigh,\nAnd the demesnes that there adjacent lie,\nThat in thy likeness thou appear to us!\nBen. An if he hear thee, thou wilt anger him.\nMer. This cannot anger him. 'Twould anger him\nTo raise a spirit in his mistress' circle\nOf some strange nature, letting it there stand\nTill she had laid it and conjur'd it down.\nThat were some spite; my invocation\nIs fair and honest: in his mistress' name,\nI conjure only but to raise up him.\nBen. Come, he hath hid himself among these trees\nTo be consorted with the humorous night.\nBlind is his love and best befits the dark.\nMer. If love be blind, love cannot hit the mark.\nNow will he sit under a medlar tree\nAnd wish his mistress were that kind of fruit\nAs maids call medlars when they laugh alone.\nO, Romeo, that she were, O that she were\nAn open et cetera, thou a pop'rin pear!\nRomeo, good night. I'll to my truckle-bed;\nThis field-bed is too cold for me to sleep.\nCome, shall we go?\nBen. Go then, for 'tis in vain\n'To seek him here that means not to be found.\nExeunt.",
       "length": 1794,
       "num_lines": 45,
-      "location": "Capulet's Orchard",
+      "location": "Orchard",
       "importance": 0.8,
       "conflict": 0.3,
       "characters": [
@@ -839,7 +841,7 @@
       "text": "Scene II.\nCapulet's orchard.\nEnter Romeo.\nRom. He jests at scars that never felt a wound.\nEnter Juliet above at a window.\nBut soft! What light through yonder window breaks?\nIt is the East, and Juliet is the sun!\nArise, fair sun, and kill the envious moon,\nWho is already sick and pale with grief\nThat thou her maid art far more fair than she.\nBe not her maid, since she is envious.\nHer vestal livery is but sick and green,\nAnd none but fools do wear it. Cast it off.\nIt is my lady; O, it is my love!\nO that she knew she were!\nShe speaks, yet she says nothing. What of that?\nHer eye discourses; I will answer it.\nI am too bold; 'tis not to me she speaks.\nTwo of the fairest stars in all the heaven,\nHaving some business, do entreat her eyes\nTo twinkle in their spheres till they return.\nWhat if her eyes were there, they in her head?\nThe brightness of her cheek would shame those stars\nAs daylight doth a lamp; her eyes in heaven\nWould through the airy region stream so bright\nThat birds would sing and think it were not night.\nSee how she leans her cheek upon her hand!\nO that I were a glove upon that hand,\nThat I might touch that cheek!\nJul. Ah me!\nRom. She speaks.\nO, speak again, bright angel! for thou art\nAs glorious to this night, being o'er my head,\nAs is a winged messenger of heaven\nUnto the white-upturned wond'ring eyes\nOf mortals that fall back to gaze on him\nWhen he bestrides the lazy-pacing clouds\nAnd sails upon the bosom of the air.\nJul. O Romeo, Romeo! wherefore art thou Romeo?\nDeny thy father and refuse thy name!\nOr, if thou wilt not, be but sworn my love,\nAnd I'll no longer be a Capulet.\nRom. [aside] Shall I hear more, or shall I speak at this?\nJul. 'Tis but thy name that is my enemy.\nThou art thyself, though not a Montague.\nWhat's Montague? it is nor hand, nor foot,\nNor arm, nor face, nor any other part\nBelonging to a man. O, be some other name!\nWhat's in a name? That which we call a rose\nBy any other name would smell as sweet.\nSo Romeo would, were he not Romeo call'd,\nRetain that dear perfection which he owes\nWithout that title. Romeo, doff thy name;\nAnd for that name, which is no part of thee,\nTake all myself.\nRom. I take thee at thy word.\nCall me but love, and I'll be new baptiz'd;\nHenceforth I never will be Romeo.\nJul. What man art thou that, thus bescreen'd in night,\nSo stumblest on my counsel?\nRom. By a name\nI know not how to tell thee who I am.\nMy name, dear saint, is hateful to myself,\nBecause it is an enemy to thee.\nHad I it written, I would tear the word.\nJul. My ears have yet not drunk a hundred words\nOf that tongue's utterance, yet I know the sound.\nArt thou not Romeo, and a Montague?\nRom. Neither, fair saint, if either thee dislike.\nJul. How cam'st thou hither, tell me, and wherefore?\nThe orchard walls are high and hard to climb,\nAnd the place death, considering who thou art,\nIf any of my kinsmen find thee here.\nRom. With love's light wings did I o'erperch these walls;\nFor stony limits cannot hold love out,\nAnd what love can do, that dares love attempt.\nTherefore thy kinsmen are no let to me.\nJul. If they do see thee, they will murther thee.\nRom. Alack, there lies more peril in thine eye\nThan twenty of their swords! Look thou but sweet,\nAnd I am proof against their enmity.\nJul. I would not for the world they saw thee here.\nRom. I have night's cloak to hide me from their sight;\nAnd but thou love me, let them find me here.\nMy life were better ended by their hate\nThan death prorogued, wanting of thy love.\nJul. By whose direction found'st thou out this place?\nRom. By love, that first did prompt me to enquire.\nHe lent me counsel, and I lent him eyes.\nI am no pilot; yet, wert thou as far\nAs that vast shore wash'd with the farthest sea,\nI would adventure for such merchandise.\nJul. Thou knowest the mask of night is on my face;\nElse would a maiden blush bepaint my cheek\nFor that which thou hast heard me speak to-night.\nFain would I dwell on form- fain, fain deny\nWhat I have spoke; but farewell compliment!\nDost thou love me, I know thou wilt say 'Ay';\nAnd I will take thy word. Yet, if thou swear'st,\nThou mayst prove false. At lovers' perjuries,\nThey say Jove laughs. O gentle Romeo,\nIf thou dost love, pronounce it faithfully.\nOr if thou thinkest I am too quickly won,\nI'll frown, and be perverse, and say thee nay,\nSo thou wilt woo; but else, not for the world.\nIn truth, fair Montague, I am too fond,\nAnd therefore thou mayst think my haviour light;\nBut trust me, gentleman, I'll prove more true\nThan those that have more cunning to be strange.\nI should have been more strange, I must confess,\nBut that thou overheard'st, ere I was ware,\nMy true-love passion. Therefore pardon me,\nAnd not impute this yielding to light love,\nWhich the dark night hath so discovered.\nRom. Lady, by yonder blessed moon I swear,\nThat tips with silver all these fruit-tree tops-\nJul. O, swear not by the moon, th' inconstant moon,\nThat monthly changes in her circled orb,\nLest that thy love prove likewise variable.\nRom. What shall I swear by?\nJul. Do not swear at all;\nOr if thou wilt, swear by thy gracious self,\nWhich is the god of my idolatry,\nAnd I'll believe thee.\nRom. If my heart's dear love-\nJul. Well, do not swear. Although I joy in thee,\nI have no joy of this contract to-night.\nIt is too rash, too unadvis'd, too sudden;\nToo like the lightning, which doth cease to be\nEre one can say 'It lightens.' Sweet, good night!\nThis bud of love, by summer's ripening breath,\nMay prove a beauteous flow'r when next we meet.\nGood night, good night! As sweet repose and rest\nCome to thy heart as that within my breast!\nRom. O, wilt thou leave me so unsatisfied?\nJul. What satisfaction canst thou have to-night?\nRom. Th' exchange of thy love's faithful vow for mine.\nJul. I gave thee mine before thou didst request it;\nAnd yet I would it were to give again.\nRom. Would'st thou withdraw it? For what purpose, love?\nJul. But to be frank and give it thee again.\nAnd yet I wish but for the thing I have.\nMy bounty is as boundless as the sea,\nMy love as deep; the more I give to thee,\nThe more I have, for both are infinite.\nI hear some noise within. Dear love, adieu!\n[Nurse] calls within.\nAnon, good nurse! Sweet Montague, be true.\nStay but a little, I will come again. [Exit.]\nRom. O blessed, blessed night! I am afeard,\nBeing in night, all this is but a dream,\nToo flattering-sweet to be substantial.\nEnter Juliet above.\nJul. Three words, dear Romeo, and good night indeed.\nIf that thy bent of love be honourable,\nThy purpose marriage, send me word to-morrow,\nBy one that I'll procure to come to thee,\nWhere and what time thou wilt perform the rite;\nAnd all my fortunes at thy foot I'll lay\nAnd follow thee my lord throughout the world.\nNurse. (within) Madam!\nJul. I come, anon.- But if thou meanest not well,\nI do beseech thee-\nNurse. (within) Madam!\nJul. By-and-by I come.-\nTo cease thy suit and leave me to my grief.\nTo-morrow will I send.\nRom. So thrive my soul-\nJul. A thousand times good night! Exit.\nRom. A thousand times the worse, to want thy light!\nLove goes toward love as schoolboys from their books;\nBut love from love, towards school with heavy looks.\nEnter Juliet again, [above].\nJul. Hist! Romeo, hist! O for a falconer's voice\nTo lure this tassel-gentle back again!\nBondage is hoarse and may not speak aloud;\nElse would I tear the cave where Echo lies,\nAnd make her airy tongue more hoarse than mine\nWith repetition of my Romeo's name.\nRomeo!\nRom. It is my soul that calls upon my name.\nHow silver-sweet sound lovers' tongues by night,\nLike softest music to attending ears!\nJul. Romeo!\nRom. My dear?\nJul. At what o'clock to-morrow\nShall I send to thee?\nRom. By the hour of nine.\nJul. I will not fail. 'Tis twenty years till then.\nI have forgot why I did call thee back.\nRom. Let me stand here till thou remember it.\nJul. I shall forget, to have thee still stand there,\nRememb'ring how I love thy company.\nRom. And I'll still stay, to have thee still forget,\nForgetting any other home but this.\nJul. 'Tis almost morning. I would have thee gone-\nAnd yet no farther than a wanton's bird,\nThat lets it hop a little from her hand,\nLike a poor prisoner in his twisted gyves,\nAnd with a silk thread plucks it back again,\nSo loving-jealous of his liberty.\nRom. I would I were thy bird.\nJul. Sweet, so would I.\nYet I should kill thee with much cherishing.\nGood night, good night! Parting is such sweet sorrow,\nThat I shall say good night till it be morrow.\n[Exit.]\nRom. Sleep dwell upon thine eyes, peace in thy breast!\nWould I were sleep and peace, so sweet to rest!\nHence will I to my ghostly father's cell,\nHis help to crave and my dear hap to tell.\nExit",
       "length": 8621,
       "num_lines": 212,
-      "location": "Capulet's Orchard",
+      "location": "Capulet's House",
       "importance": 1.0,
       "conflict": 0.5,
       "characters": [
@@ -1037,7 +1039,7 @@
       "text": "Scene V.\nCapulet's orchard.\nEnter Juliet.\nJul. The clock struck nine when I did send the nurse;\nIn half an hour she promis'd to return.\nPerchance she cannot meet him. That's not so.\nO, she is lame! Love's heralds should be thoughts,\nWhich ten times faster glide than the sun's beams\nDriving back shadows over low'ring hills.\nTherefore do nimble-pinion'd doves draw Love,\nAnd therefore hath the wind-swift Cupid wings.\nNow is the sun upon the highmost hill\nOf this day's journey, and from nine till twelve\nIs three long hours; yet she is not come.\nHad she affections and warm youthful blood,\nShe would be as swift in motion as a ball;\nMy words would bandy her to my sweet love,\nAnd his to me,\nBut old folks, many feign as they were dead-\nUnwieldy, slow, heavy and pale as lead.\nEnter Nurse [and Peter].\nO God, she comes! O honey nurse, what news?\nHast thou met with him? Send thy man away.\nNurse. Peter, stay at the gate.\n[Exit Peter.]\nJul. Now, good sweet nurse- O Lord, why look'st thou sad?\nThough news be sad, yet tell them merrily;\nIf good, thou shamest the music of sweet news\nBy playing it to me with so sour a face.\nNurse. I am aweary, give me leave awhile.\nFie, how my bones ache! What a jaunce have I had!\nJul. I would thou hadst my bones, and I thy news.\nNay, come, I pray thee speak. Good, good nurse, speak.\nNurse. Jesu, what haste! Can you not stay awhile?\nDo you not see that I am out of breath?\nJul. How art thou out of breath when thou hast breath\nTo say to me that thou art out of breath?\nThe excuse that thou dost make in this delay\nIs longer than the tale thou dost excuse.\nIs thy news good or bad? Answer to that.\nSay either, and I'll stay the circumstance.\nLet me be satisfied, is't good or bad?\nNurse. Well, you have made a simple choice; you know not how to\nchoose a man. Romeo? No, not he. Though his face be better\nthan\nany man's, yet his leg excels all men's; and for a hand and a\nfoot, and a body, though they be not to be talk'd on, yet\nthey\nare past compare. He is not the flower of courtesy, but, I'll\nwarrant him, as gentle as a lamb. Go thy ways, wench; serve\nGod.\nWhat, have you din'd at home?\nJul. No, no. But all this did I know before.\nWhat says he of our marriage? What of that?\nNurse. Lord, how my head aches! What a head have I!\nIt beats as it would fall in twenty pieces.\nMy back o' t' other side,- ah, my back, my back!\nBeshrew your heart for sending me about\nTo catch my death with jauncing up and down!\nJul. I' faith, I am sorry that thou art not well.\nSweet, sweet, sweet nurse, tell me, what says my love?\nNurse. Your love says, like an honest gentleman, and a\ncourteous,\nand a kind, and a handsome; and, I warrant, a virtuous- Where\nis\nyour mother?\nJul. Where is my mother? Why, she is within.\nWhere should she be? How oddly thou repliest!\n'Your love says, like an honest gentleman,\n\"Where is your mother?\"'\nNurse. O God's Lady dear!\nAre you so hot? Marry come up, I trow.\nIs this the poultice for my aching bones?\nHenceforward do your messages yourself.\nJul. Here's such a coil! Come, what says Romeo?\nNurse. Have you got leave to go to shrift to-day?\nJul. I have.\nNurse. Then hie you hence to Friar Laurence' cell;\nThere stays a husband to make you a wife.\nNow comes the wanton blood up in your cheeks:\nThey'll be in scarlet straight at any news.\nHie you to church; I must another way,\nTo fetch a ladder, by the which your love\nMust climb a bird's nest soon when it is dark.\nI am the drudge, and toil in your delight;\nBut you shall bear the burthen soon at night.\nGo; I'll to dinner; hie you to the cell.\nJul. Hie to high fortune! Honest nurse, farewell.\nExeunt.",
       "length": 3610,
       "num_lines": 89,
-      "location": "Capulet's Orchard",
+      "location": "Capulet's House",
       "importance": 0.9,
       "conflict": 0.5,
       "characters": [
@@ -1118,7 +1120,7 @@
       "text": "Enter Mercutio, Benvolio, and Men.\nBen. I pray thee, good Mercutio, let's retire.\nThe day is hot, the Capulets abroad.\nAnd if we meet, we shall not scape a brawl,\nFor now, these hot days, is the mad blood stirring.\nMer. Thou art like one of these fellows that, when he enters\nthe\nconfines of a tavern, claps me his sword upon the table and\nsays\n'God send me no need of thee!' and by the operation of the\nsecond\ncup draws him on the drawer, when indeed there is no need.\nBen. Am I like such a fellow?\nMer. Come, come, thou art as hot a jack in thy mood as any in\nItaly; and as soon moved to be moody, and as soon moody to be\nmoved.\nBen. And what to?\nMer. Nay, an there were two such, we should have none shortly,\nfor\none would kill the other. Thou! why, thou wilt quarrel with a\nman\nthat hath a hair more or a hair less in his beard than thou\nhast.\nThou wilt quarrel with a man for cracking nuts, having no\nother\nreason but because thou hast hazel eyes. What eye but such an\neye\nwould spy out such a quarrel? Thy head is as full of quarrels\nas\nan egg is full of meat; and yet thy head hath been beaten as\naddle as an egg for quarrelling. Thou hast quarrell'd with a\nman\nfor coughing in the street, because he hath wakened thy dog\nthat\nhath lain asleep in the sun. Didst thou not fall out with a\ntailor for wearing his new doublet before Easter, with\nanother\nfor tying his new shoes with an old riband? And yet thou wilt\ntutor me from quarrelling!\nBen. An I were so apt to quarrel as thou art, any man should\nbuy\nthe fee simple of my life for an hour and a quarter.\nMer. The fee simple? O simple!",
       "length": 1594,
       "num_lines": 43,
-      "location": "A Public Place",
+      "location": "Verona",
       "importance": 0.8,
       "conflict": 0.7,
       "characters": [
@@ -1154,7 +1156,7 @@
       "text": "Enter Tybalt and others.\nBen. By my head, here come the Capulets.\nMer. By my heel, I care not.\nTyb. Follow me close, for I will speak to them.\nGentlemen, good den. A word with one of you.\nMer. And but one word with one of us?\nCouple it with something; make it a word and a blow.\nTyb. You shall find me apt enough to that, sir, an you will\ngive me\noccasion.\nMer. Could you not take some occasion without giving?\nTyb. Mercutio, thou consortest with Romeo.\nMer. Consort? What, dost thou make us minstrels? An thou make\nminstrels of us, look to hear nothing but discords. Here's my\nfiddlestick; here's that shall make you dance. Zounds,\nconsort!\nBen. We talk here in the public haunt of men.\nEither withdraw unto some private place\nAnd reason coldly of your grievances,\nOr else depart. Here all eyes gaze on us.\nMer. Men's eyes were made to look, and let them gaze.\nI will not budge for no man's pleasure,\nEnter Romeo.\nTyb. Well, peace be with you, sir. Here comes my man.\nMer. But I'll be hang'd, sir, if he wear your livery.\nMarry, go before to field, he'll be your follower!\nYour worship in that sense may call him man.\nTyb. Romeo, the love I bear thee can afford\nNo better term than this: thou art a villain.\nRom. Tybalt, the reason that I have to love thee\nDoth much excuse the appertaining rage\nTo such a greeting. Villain am I none.\nTherefore farewell. I see thou knowest me not.\nTyb. Boy, this shall not excuse the injuries\nThat thou hast done me; therefore turn and draw.\nRom. I do protest I never injur'd thee,\nBut love thee better than thou canst devise\nTill thou shalt know the reason of my love;\nAnd so good Capulet, which name I tender\nAs dearly as mine own, be satisfied.\nMer. O calm, dishonourable, vile submission!\nAlla stoccata carries it away. [Draws.]\nTybalt, you ratcatcher, will you walk?\nTyb. What wouldst thou have with me?\nMer. Good King of Cats, nothing but one of your nine lives.\nThat I\nmean to make bold withal, and, as you shall use me hereafter,\ndry-beat the rest of the eight. Will you pluck your sword out\nof\nhis pitcher by the ears? Make haste, lest mine be about your\nears\nere it be out.\nTyb. I am for you. [Draws.]\nRom. Gentle Mercutio, put thy rapier up.\nMer. Come, sir, your passado!",
       "length": 2217,
       "num_lines": 55,
-      "location": "A Public Place",
+      "location": "Verona",
       "importance": 1.0,
       "conflict": 1.0,
       "characters": [
@@ -1200,7 +1202,7 @@
       "conflict_rank": 1
     },
     {
-      "title": "Public Place - Mercutio Killed, Tybalt Flees",
+      "title": "Mercutio Killed, Tybalt Flees",
       "summary": "Mercutio and Tybalt fight; Romeo tries to intervene and Mercutio is fatally wounded under Romeo's arm, causing Romeo to vow revenge.",
       "chapter": "Act III",
       "first_line": 101,
@@ -1208,7 +1210,7 @@
       "text": "[They fight.]\nRom. Draw, Benvolio; beat down their weapons.\nGentlemen, for shame! forbear this outrage!\nTybalt, Mercutio, the Prince expressly hath\nForbid this bandying in Verona streets.\nHold, Tybalt! Good Mercutio!\nTybalt under Romeo's arm thrusts Mercutio in, and flies\n[with his Followers].\nMer. I am hurt.\nA plague o' both your houses! I am sped.\nIs he gone and hath nothing?\nBen. What, art thou hurt?\nMer. Ay, ay, a scratch, a scratch. Marry, 'tis enough.\nWhere is my page? Go, villain, fetch a surgeon.\n[Exit Page.]\nRom. Courage, man. The hurt cannot be much.\nMer. No, 'tis not so deep as a well, nor so wide as a church\ndoor;\nbut 'tis enough, 'twill serve. Ask for me to-morrow, and you\nshall find me a grave man. I am peppered, I warrant, for this\nworld. A plague o' both your houses! Zounds, a dog, a rat, a\nmouse, a cat, to scratch a man to death! a braggart, a rogue,\na\nvillain, that fights by the book of arithmetic! Why the devil\ncame you between us? I was hurt under your arm.\nRom. I thought all for the best.\nMer. Help me into some house, Benvolio,\nOr I shall faint. A plague o' both your houses!\nThey have made worms' meat of me. I have it,\nAnd soundly too. Your houses!\n[Exit. [supported by Benvolio].",
       "length": 1219,
       "num_lines": 31,
-      "location": "Verona, A Churchyard",
+      "location": "Verona",
       "importance": 1.0,
       "conflict": 1.0,
       "characters": [
@@ -1254,7 +1256,7 @@
       "conflict_rank": 2
     },
     {
-      "title": "Public Place - Romeo Kills Tybalt, Is Banished",
+      "title": "Public Place - Romeo Kills Tybalt",
       "summary": "Romeo, enraged by Mercutio's death, fights and kills Tybalt, then flees as the Prince arrives and declares Romeo's banishment.",
       "chapter": "Act III",
       "first_line": 132,
@@ -1262,7 +1264,7 @@
       "text": "Rom. This gentleman, the Prince's near ally,\nMy very friend, hath got this mortal hurt\nIn my behalf- my reputation stain'd\nWith Tybalt's slander- Tybalt, that an hour\nHath been my kinsman. O sweet Juliet,\nThy beauty hath made me effeminate\nAnd in my temper soft'ned valour's steel.\nEnter Benvolio.\nBen. O Romeo, Romeo, brave Mercutio's dead!\nThat gallant spirit hath aspir'd the clouds,\nWhich too untimely here did scorn the earth.\nRom. This day's black fate on moe days doth depend;\nThis but begins the woe others must end.\nEnter Tybalt.\nBen. Here comes the furious Tybalt back again.\nRom. Alive in triumph, and Mercutio slain?\nAway to heaven respective lenity,\nAnd fire-ey'd fury be my conduct now!\nNow, Tybalt, take the 'villain' back again\nThat late thou gavest me; for Mercutio's soul\nIs but a little way above our heads,\nStaying for thine to keep him company.\nEither thou or I, or both, must go with him.\nTyb. Thou, wretched boy, that didst consort him here,\nShalt with him hence.\nRom. This shall determine that.\nThey fight. Tybalt falls.\nBen. Romeo, away, be gone!\nThe citizens are up, and Tybalt slain.\nStand not amaz'd. The Prince will doom thee death\nIf thou art taken. Hence, be gone, away!\nRom. O, I am fortune's fool!\nBen. Why dost thou stay?\nExit Romeo.\nEnter Citizens.\nCitizen. Which way ran he that kill'd Mercutio?\nTybalt, that murtherer, which way ran he?\nBen. There lies that Tybalt.\nCitizen. Up, sir, go with me.\nI charge thee in the Prince's name obey.\nEnter Prince [attended], Old Montague, Capulet, their Wives,\nand [others].\nPrince. Where are the vile beginners of this fray?\nBen. O noble Prince. I can discover all\nThe unlucky manage of this fatal brawl.\nThere lies the man, slain by young Romeo,\nThat slew thy kinsman, brave Mercutio.\nCap. Wife. Tybalt, my cousin! O my brother's child!\nO Prince! O husband! O, the blood is spill'd\nOf my dear kinsman! Prince, as thou art true,\nFor blood of ours shed blood of Montague.\nO cousin, cousin!\nPrince. Benvolio, who began this bloody fray?\nBen. Tybalt, here slain, whom Romeo's hand did stay.\nRomeo, that spoke him fair, bid him bethink\nHow nice the quarrel was, and urg'd withal\nYour high displeasure. All this- uttered\nWith gentle breath, calm look, knees humbly bow'd-\nCould not take truce with the unruly spleen\nOf Tybalt deaf to peace, but that he tilts\nWith piercing steel at bold Mercutio's breast;\nWho, all as hot, turns deadly point to point,\nAnd, with a martial scorn, with one hand beats\nCold death aside and with the other sends\nIt back to Tybalt, whose dexterity\nRetorts it. Romeo he cries aloud,\n'Hold, friends! friends, part!' and swifter than his tongue,\nHis agile arm beats down their fatal points,\nAnd 'twixt them rushes; underneath whose arm\nAn envious thrust from Tybalt hit the life\nOf stout Mercutio, and then Tybalt fled;\nBut by-and-by comes back to Romeo,\nWho had but newly entertain'd revenge,\nAnd to't they go like lightning; for, ere I\nCould draw to part them, was stout Tybalt slain;\nAnd, as he fell, did Romeo turn and fly.\nThis is the truth, or let Benvolio die.\nCap. Wife. He is a kinsman to the Montague;\nAffection makes him false, he speaks not true.\nSome twenty of them fought in this black strife,\nAnd all those twenty could but kill one life.\nI beg for justice, which thou, Prince, must give.\nRomeo slew Tybalt; Romeo must not live.\nPrince. Romeo slew him; he slew Mercutio.\nWho now the price of his dear blood doth owe?\nMon. Not Romeo, Prince; he was Mercutio's friend;\nHis fault concludes but what the law should end,\nThe life of Tybalt.\nPrince. And for that offence\nImmediately we do exile him hence.\nI have an interest in your hate's proceeding,\nMy blood for your rude brawls doth lie a-bleeding;\nBut I'll amerce you with so strong a fine\nThat you shall all repent the loss of mine.\nI will be deaf to pleading and excuses;\nNor tears nor prayers shall purchase out abuses.\nTherefore use none. Let Romeo hence in haste,\nElse, when he is found, that hour is his last.\nBear hence this body, and attend our will.\nMercy but murders, pardoning those that kill.\nExeunt.",
       "length": 4071,
       "num_lines": 101,
-      "location": "Verona, At The Capulet's Feast",
+      "location": "Verona",
       "importance": 1.0,
       "conflict": 1.0,
       "characters": [
@@ -1321,7 +1323,7 @@
           "importance_rank": 6
         },
         {
-          "name": "Romeo Montague",
+          "name": "Old Montague",
           "role": "Defending Romeo and arguing against his punishment",
           "importance": 1.0,
           "emotion": "Protective and pleading",
@@ -1371,7 +1373,7 @@
       "conflict_rank": 13
     },
     {
-      "title": "Capulet's Orchard - Tybalt's Death and Romeo's Banishment",
+      "title": "Tybalt's Death and Romeo's Banishment",
       "summary": "The Nurse arrives and, after much confusion, informs Juliet of Tybalt's death and Romeo's banishment, leaving Juliet devastated.",
       "chapter": "Act III",
       "first_line": 274,
@@ -1407,7 +1409,7 @@
       "conflict_rank": 4
     },
     {
-      "title": "Friar Laurence's Cell - Romeo Learns of His Banishment",
+      "title": "Romeo Learns of His Banishment",
       "summary": "Romeo learns of his banishment from the Friar and is overcome with despair, considering it worse than death.",
       "chapter": "Act III",
       "first_line": 388,
@@ -1452,7 +1454,7 @@
       "conflict_rank": 6
     },
     {
-      "title": "Friar Laurence's Cell - The Nurse Finds Romeo",
+      "title": "The Nurse Finds Romeo",
       "summary": "The Nurse finds Romeo at the Friar's cell, both lamenting their fate, and the Friar scolds Romeo for his despair and encourages him to see Juliet.",
       "chapter": "Act III",
       "first_line": 474,
@@ -1587,7 +1589,7 @@
       "conflict_rank": 11
     },
     {
-      "title": "Juliet's Chamber - The Arranged Marriage",
+      "title": "The Arranged Marriage",
       "summary": "Lady Capulet informs Juliet of the arranged marriage to Paris, but Juliet firmly refuses, leading to a confrontation with her father.",
       "chapter": "Act III",
       "first_line": 681,
@@ -1618,7 +1620,7 @@
           "importance_rank": 2
         },
         {
-          "name": "Juliet Capulet",
+          "name": "Old Capulet",
           "role": "Entering to discuss Juliet's marriage plans",
           "importance": 0.6,
           "emotion": "Authoritative and determined",
@@ -1632,7 +1634,7 @@
       "conflict_rank": 8
     },
     {
-      "title": "Juliet's Chamber - Capulet Confronts Juliet",
+      "title": "Capulet Confronts Juliet",
       "summary": "Capulet, enraged by Juliet's refusal, threatens to disown her if she doesn't marry Paris, leaving Juliet desperate.",
       "chapter": "Act III",
       "first_line": 753,
@@ -1645,7 +1647,7 @@
       "conflict": 0.8,
       "characters": [
         {
-          "name": "Juliet Capulet",
+          "name": "Old Capulet",
           "role": "Angry father insisting on Juliet's marriage to Paris",
           "importance": 1.0,
           "emotion": "Furious and frustrated",
@@ -1686,7 +1688,7 @@
       "conflict_rank": 9
     },
     {
-      "title": "Juliet's Chamber - Juliet Seeks Help from the Nurse",
+      "title": "Juliet Seeks Help from the Nurse",
       "summary": "Juliet, abandoned by her parents and betrayed by the Nurse's advice to marry Paris, decides to seek help from Friar Laurence.",
       "chapter": "Act III",
       "first_line": 829,
@@ -1731,7 +1733,7 @@
       "conflict_rank": 5
     },
     {
-      "title": "Paris and Juliet meet at Friar Laurence's cell",
+      "title": "Paris and Juliet meet",
       "summary": "Paris visits Friar Laurence to arrange his marriage with Juliet; Juliet arrives and reluctantly agrees to the wedding while secretly planning to escape with Friar Laurence's help.",
       "chapter": "Act IV",
       "first_line": 3,
@@ -1789,7 +1791,7 @@
       "conflict": 0.6,
       "characters": [
         {
-          "name": "Juliet Capulet",
+          "name": "Old Capulet",
           "role": "Father of Juliet, eager to arrange her marriage to Paris and pleased with her change of heart",
           "importance": 0.9,
           "emotion": "relieved and hopeful",
@@ -2054,7 +2056,7 @@
       "text": "ACT V. Scene I.\nMantua. A street.\nEnter Romeo.\nRom. If I may trust the flattering truth of sleep\nMy dreams presage some joyful news at hand.\nMy bosom's lord sits lightly in his throne,\nAnd all this day an unaccustom'd spirit\nLifts me above the ground with cheerful thoughts.\nI dreamt my lady came and found me dead\n(Strange dream that gives a dead man leave to think!)\nAnd breath'd such life with kisses in my lips\nThat I reviv'd and was an emperor.\nAh me! how sweet is love itself possess'd,\nWhen but love's shadows are so rich in joy!\nEnter Romeo's Man Balthasar, booted.\nNews from Verona! How now, Balthasar?\nDost thou not bring me letters from the friar?\nHow doth my lady? Is my father well?\nHow fares my Juliet? That I ask again,\nFor nothing can be ill if she be well.\nMan. Then she is well, and nothing can be ill.\nHer body sleeps in Capel's monument,\nAnd her immortal part with angels lives.\nI saw her laid low in her kindred's vault\nAnd presently took post to tell it you.\nO, pardon me for bringing these ill news,\nSince you did leave it for my office, sir.\nRom. Is it e'en so? Then I defy you, stars!\nThou knowest my lodging. Get me ink and paper\nAnd hire posthorses. I will hence to-night.\nMan. I do beseech you, sir, have patience.\nYour looks are pale and wild and do import\nSome misadventure.\nRom. Tush, thou art deceiv'd.\nLeave me and do the thing I bid thee do.\nHast thou no letters to me from the friar?\nMan. No, my good lord.\nRom. No matter. Get thee gone\nAnd hire those horses. I'll be with thee straight.\nExit [Balthasar].\nWell, Juliet, I will lie with thee to-night.\nLet's see for means. O mischief, thou art swift\nTo enter in the thoughts of desperate men!\nI do remember an apothecary,\nAnd hereabouts 'a dwells, which late I noted\nIn tatt'red weeds, with overwhelming brows,\nCulling of simples. Meagre were his looks,\nSharp misery had worn him to the bones;\nAnd in his needy shop a tortoise hung,\nAn alligator stuff'd, and other skins\nOf ill-shaped fishes; and about his shelves\nA beggarly account of empty boxes,\nGreen earthen pots, bladders, and musty seeds,\nRemnants of packthread, and old cakes of roses\nWere thinly scattered, to make up a show.\nNoting this penury, to myself I said,\n'An if a man did need a poison now\nWhose sale is present death in Mantua,\nHere lives a caitiff wretch would sell it him.'\nO, this same thought did but forerun my need,\nAnd this same needy man must sell it me.\nAs I remember, this should be the house.\nBeing holiday, the beggar's shop is shut. What, ho!\napothecary!\nEnter Apothecary.\nApoth. Who calls so loud?\nRom. Come hither, man. I see that thou art poor.\nHold, there is forty ducats. Let me have\nA dram of poison, such soon-speeding gear\nAs will disperse itself through all the veins\nThat the life-weary taker mall fall dead,\nAnd that the trunk may be discharg'd of breath\nAs violently as hasty powder fir'd\nDoth hurry from the fatal cannon's womb.\nApoth. Such mortal drugs I have; but Mantua's law\nIs death to any he that utters them.\nRom. Art thou so bare and full of wretchedness\nAnd fearest to die? Famine is in thy cheeks,\nNeed and oppression starveth in thine eyes,\nContempt and beggary hangs upon thy back:\nThe world is not thy friend, nor the world's law;\nThe world affords no law to make thee rich;\nThen be not poor, but break it and take this.\nApoth. My poverty but not my will consents.\nRom. I pay thy poverty and not thy will.\nApoth. Put this in any liquid thing you will\nAnd drink it off, and if you had the strength\nOf twenty men, it would dispatch you straight.\nRom. There is thy gold- worse poison to men's souls,\nDoing more murther in this loathsome world,\nThan these poor compounds that thou mayst not sell.\nI sell thee poison; thou hast sold me none.\nFarewell. Buy food and get thyself in flesh.\nCome, cordial and not poison, go with me\nTo Juliet's grave; for there must I use thee.\nExeunt.",
       "length": 3869,
       "num_lines": 96,
-      "location": "A Street",
+      "location": "Verona",
       "importance": 1.0,
       "conflict": 1.0,
       "characters": [
@@ -2127,7 +2129,7 @@
       "conflict_rank": 4
     },
     {
-      "title": "Death of Romeo and Juliet",
+      "title": "The monument of the Capulets",
       "summary": "Romeo and Juliet die in the Capulet tomb.",
       "chapter": "Act V",
       "first_line": 131,
@@ -2135,7 +2137,7 @@
       "text": "Scene III.\nVerona. A churchyard; in it the monument of the Capulets.\nEnter Paris and his Page with flowers and [a torch].\nPar. Give me thy torch, boy. Hence, and stand aloof.\nYet put it out, for I would not be seen.\nUnder yond yew tree lay thee all along,\nHolding thine ear close to the hollow ground.\nSo shall no foot upon the churchyard tread\n(Being loose, unfirm, with digging up of graves)\nBut thou shalt hear it. Whistle then to me,\nAs signal that thou hear'st something approach.\nGive me those flowers. Do as I bid thee, go.\nPage. [aside] I am almost afraid to stand alone\nHere in the churchyard; yet I will adventure. [Retires.]\nPar. Sweet flower, with flowers thy bridal bed I strew\n(O woe! thy canopy is dust and stones)\nWhich with sweet water nightly I will dew;\nOr, wanting that, with tears distill'd by moans.\nThe obsequies that I for thee will keep\nNightly shall be to strew thy grave and weep.\nWhistle Boy.\nThe boy gives warning something doth approach.\nWhat cursed foot wanders this way to-night\nTo cross my obsequies and true love's rite?\nWhat, with a torch? Muffle me, night, awhile. [Retires.]\nEnter Romeo, and Balthasar with a torch, a mattock,\nand a crow of iron.\nRom. Give me that mattock and the wrenching iron.\nHold, take this letter. Early in the morning\nSee thou deliver it to my lord and father.\nGive me the light. Upon thy life I charge thee,\nWhate'er thou hearest or seest, stand all aloof\nAnd do not interrupt me in my course.\nWhy I descend into this bed of death\nIs partly to behold my lady's face,\nBut chiefly to take thence from her dead finger\nA precious ring- a ring that I must use\nIn dear employment. Therefore hence, be gone.\nBut if thou, jealous, dost return to pry\nIn what I farther shall intend to do,\nBy heaven, I will tear thee joint by joint\nAnd strew this hungry churchyard with thy limbs.\nThe time and my intents are savage-wild,\nMore fierce and more inexorable far\nThan empty tigers or the roaring sea.\nBal. I will be gone, sir, and not trouble you.\nRom. So shalt thou show me friendship. Take thou that.\nLive, and be prosperous; and farewell, good fellow.\nBal. [aside] For all this same, I'll hide me hereabout.\nHis looks I fear, and his intents I doubt. [Retires.]\nRom. Thou detestable maw, thou womb of death,\nGorg'd with the dearest morsel of the earth,\nThus I enforce thy rotten jaws to open,\nAnd in despite I'll cram thee with more food.\nRomeo opens the tomb.\nPar. This is that banish'd haughty Montague\nThat murd'red my love's cousin- with which grief\nIt is supposed the fair creature died-\nAnd here is come to do some villanous shame\nTo the dead bodies. I will apprehend him.\nStop thy unhallowed toil, vile Montague!\nCan vengeance be pursu'd further than death?\nCondemned villain, I do apprehend thee.\nObey, and go with me; for thou must die.\nRom. I must indeed; and therefore came I hither.\nGood gentle youth, tempt not a desp'rate man.\nFly hence and leave me. Think upon these gone;\nLet them affright thee. I beseech thee, youth,\nPut not another sin upon my head\nBy urging me to fury. O, be gone!\nBy heaven, I love thee better than myself,\nFor I come hither arm'd against myself.\nStay not, be gone. Live, and hereafter say\nA madman's mercy bid thee run away.\nPar. I do defy thy conjuration\nAnd apprehend thee for a felon here.\nRom. Wilt thou provoke me? Then have at thee, boy!\nThey fight.\nPage. O Lord, they fight! I will go call the watch.\n[Exit. Paris falls.]\nPar. O, I am slain! If thou be merciful,\nOpen the tomb, lay me with Juliet. [Dies.]\nRom. In faith, I will. Let me peruse this face.\nMercutio's kinsman, noble County Paris!\nWhat said my man when my betossed soul\nDid not attend him as we rode? I think\nHe told me Paris should have married Juliet.\nSaid he not so? or did I dream it so?\nOr am I mad, hearing him talk of Juliet\nTo think it was so? O, give me thy hand,\nOne writ with me in sour misfortune's book!\nI'll bury thee in a triumphant grave.\nA grave? O, no, a lanthorn, slaught'red youth,\nFor here lies Juliet, and her beauty makes\nThis vault a feasting presence full of light.\nDeath, lie thou there, by a dead man interr'd.\n[Lays him in the tomb.]\nHow oft when men are at the point of death\nHave they been merry! which their keepers call\nA lightning before death. O, how may I\nCall this a lightning? O my love! my wife!\nDeath, that hath suck'd the honey of thy breath,\nHath had no power yet upon thy beauty.\nThou art not conquer'd. Beauty's ensign yet\nIs crimson in thy lips and in thy cheeks,\nAnd death's pale flag is not advanced there.\nTybalt, liest thou there in thy bloody sheet?\nO, what more favour can I do to thee\nThan with that hand that cut thy youth in twain\nTo sunder his that was thine enemy?\nForgive me, cousin. Ah, dear Juliet,\nWhy art thou yet so fair? Shall I believe\nThat unsubstantial Death is amorous,\nAnd that the lean abhorred monster keeps\nThee here in dark to be his paramour?\nFor fear of that I still will stay with thee\nAnd never from this palace of dim night\nDepart again. Here, here will I remain\nWith worms that are thy chambermaids. O, here\nWill I set up my everlasting rest\nAnd shake the yoke of inauspicious stars\nFrom this world-wearied flesh. Eyes, look your last!\nArms, take your last embrace! and, lips, O you\nThe doors of breath, seal with a righteous kiss\nA dateless bargain to engrossing death!\nCome, bitter conduct; come, unsavoury guide!\nThou desperate pilot, now at once run on\nThe dashing rocks thy seasick weary bark!\nHere's to my love! [Drinks.] O true apothecary!\nThy drugs are quick. Thus with a kiss I die. Falls.\nEnter Friar [Laurence], with lanthorn, crow, and spade.\nFriar. Saint Francis be my speed! how oft to-night\nHave my old feet stumbled at graves! Who's there?\nBal. Here's one, a friend, and one that knows you well.\nFriar. Bliss be upon you! Tell me, good my friend,\nWhat torch is yond that vainly lends his light\nTo grubs and eyeless skulls? As I discern,\nIt burneth in the Capels' monument.\nBal. It doth so, holy sir; and there's my master,\nOne that you love.\nFriar. Who is it?\nBal. Romeo.\nFriar. How long hath he been there?\nBal. Full half an hour.\nFriar. Go with me to the vault.\nBal. I dare not, sir.\nMy master knows not but I am gone hence,\nAnd fearfully did menace me with death\nIf I did stay to look on his intents.\nFriar. Stay then; I'll go alone. Fear comes upon me.\nO, much I fear some ill unthrifty thing.\nBal. As I did sleep under this yew tree here,\nI dreamt my master and another fought,\nAnd that my master slew him.\nFriar. Romeo!\nAlack, alack, what blood is this which stains\nThe stony entrance of this sepulchre?\nWhat mean these masterless and gory swords\nTo lie discolour'd by this place of peace? [Enters the tomb.]\nRomeo! O, pale! Who else? What, Paris too?\nAnd steep'd in blood? Ah, what an unkind hour\nIs guilty of this lamentable chance! The lady stirs.\nJuliet rises.\nJul. O comfortable friar! where is my lord?\nI do remember well where I should be,\nAnd there I am. Where is my Romeo?\nFriar. I hear some noise. Lady, come from that nest\nOf death, contagion, and unnatural sleep.\nA greater power than we can contradict\nHath thwarted our intents. Come, come away.\nThy husband in thy bosom there lies dead;\nAnd Paris too. Come, I'll dispose of thee\nAmong a sisterhood of holy nuns.\nStay not to question, for the watch is coming.\nCome, go, good Juliet. I dare no longer stay.\nJul. Go, get thee hence, for I will not away.\nExit [Friar].\nWhat's here? A cup, clos'd in my true love's hand?\nPoison, I see, hath been his timeless end.\nO churl! drunk all, and left no friendly drop\nTo help me after? I will kiss thy lips.\nHaply some poison yet doth hang on them\nTo make me die with a restorative. [Kisses him.]\nThy lips are warm!\nChief Watch. [within] Lead, boy. Which way?\nYea, noise? Then I'll be brief. O happy dagger!\n[Snatches Romeo's dagger.]\nThis is thy sheath; there rest, and let me die.\nShe stabs herself and falls [on Romeo's body].",
       "length": 7889,
       "num_lines": 189,
-      "location": "Verona",
+      "location": "Verona Churchyard",
       "importance": 1.0,
       "conflict": 1.0,
       "characters": [
@@ -2198,7 +2200,7 @@
       "text": "Enter [Paris's] Boy and Watch.\nBoy. This is the place. There, where the torch doth burn.\nChief Watch. 'the ground is bloody. Search about the\nchurchyard.\nGo, some of you; whoe'er you find attach.\n[Exeunt some of the Watch.]\nPitiful sight! here lies the County slain;\nAnd Juliet bleeding, warm, and newly dead,\nWho here hath lain this two days buried.\nGo, tell the Prince; run to the Capulets;\nRaise up the Montagues; some others search.\n[Exeunt others of the Watch.]\nWe see the ground whereon these woes do lie,\nBut the true ground of all these piteous woes\nWe cannot without circumstance descry.\nEnter [some of the Watch,] with Romeo's Man [Balthasar].\n2. Watch. Here's Romeo's man. We found him in the churchyard.\nChief Watch. Hold him in safety till the Prince come hither.\nEnter Friar [Laurence] and another Watchman.\n3. Watch. Here is a friar that trembles, sighs, and weeps.\nWe took this mattock and this spade from him\nAs he was coming from this churchyard side.\nChief Watch. A great suspicion! Stay the friar too.\nEnter the Prince [and Attendants].\nPrince. What misadventure is so early up,\nThat calls our person from our morning rest?\nEnter Capulet and his Wife [with others].\nCap. What should it be, that they so shriek abroad?\nWife. The people in the street cry 'Romeo,'\nSome 'Juliet,' and some 'Paris'; and all run,\nWith open outcry, toward our monument.\nPrince. What fear is this which startles in our ears?\nChief Watch. Sovereign, here lies the County Paris slain;\nAnd Romeo dead; and Juliet, dead before,\nWarm and new kill'd.\nPrince. Search, seek, and know how this foul murder comes.\nChief Watch. Here is a friar, and slaughter'd Romeo's man,\nWith instruments upon them fit to open\nThese dead men's tombs.\nCap. O heavens! O wife, look how our daughter bleeds!\nThis dagger hath mista'en, for, lo, his house\nIs empty on the back of Montague,\nAnd it missheathed in my daughter's bosom!\nWife. O me! this sight of death is as a bell\nThat warns my old age to a sepulchre.\nEnter Montague [and others].\nPrince. Come, Montague; for thou art early up\nTo see thy son and heir more early down.\nMon. Alas, my liege, my wife is dead to-night!\nGrief of my son's exile hath stopp'd her breath.\nWhat further woe conspires against mine age?\nPrince. Look, and thou shalt see.\nMon. O thou untaught! what manners is in this,\nTo press before thy father to a grave?\nPrince. Seal up the mouth of outrage for a while,\nTill we can clear these ambiguities\nAnd know their spring, their head, their true descent;\nAnd then will I be general of your woes\nAnd lead you even to death. Meantime forbear,\nAnd let mischance be slave to patience.\nBring forth the parties of suspicion.\nFriar. I am the greatest, able to do least,\nYet most suspected, as the time and place\nDoth make against me, of this direful murther;\nAnd here I stand, both to impeach and purge\nMyself condemned and myself excus'd.\nPrince. Then say at once what thou dost know in this.\nFriar. I will be brief, for my short date of breath\nIs not so long as is a tedious tale.\nRomeo, there dead, was husband to that Juliet;\nAnd she, there dead, that Romeo's faithful wife.\nI married them; and their stol'n marriage day\nWas Tybalt's doomsday, whose untimely death\nBanish'd the new-made bridegroom from this city;\nFor whom, and not for Tybalt, Juliet pin'd.\nYou, to remove that siege of grief from her,\nBetroth'd and would have married her perforce\nTo County Paris. Then comes she to me\nAnd with wild looks bid me devise some mean\nTo rid her from this second marriage,\nOr in my cell there would she kill herself.\nThen gave I her (so tutored by my art)\nA sleeping potion; which so took effect\nAs I intended, for it wrought on her\nThe form of death. Meantime I writ to Romeo\nThat he should hither come as this dire night\nTo help to take her from her borrowed grave,\nBeing the time the potion's force should cease.\nBut he which bore my letter, Friar John,\nWas stay'd by accident, and yesternight\nReturn'd my letter back. Then all alone\nAt the prefixed hour of her waking\nCame I to take her from her kindred's vault;\nMeaning to keep her closely at my cell\nTill I conveniently could send to Romeo.\nBut when I came, some minute ere the time\nOf her awaking, here untimely lay\nThe noble Paris and true Romeo dead.\nShe wakes; and I entreated her come forth\nAnd bear this work of heaven with patience;\nBut then a noise did scare me from the tomb,\nAnd she, too desperate, would not go with me,\nBut, as it seems, did violence on herself.\nAll this I know, and to the marriage\nHer nurse is privy; and if aught in this\nMiscarried by my fault, let my old life\nBe sacrific'd, some hour before his time,\nUnto the rigour of severest law.\nPrince. We still have known thee for a holy man.\nWhere's Romeo's man? What can he say in this?\nBal. I brought my master news of Juliet's death;\nAnd then in post he came from Mantua\nTo this same place, to this same monument.\nThis letter he early bid me give his father,\nAnd threat'ned me with death, going in the vault,\nIf I departed not and left him there.\nPrince. Give me the letter. I will look on it.\nWhere is the County's page that rais'd the watch?\nSirrah, what made your master in this place?\nBoy. He came with flowers to strew his lady's grave;\nAnd bid me stand aloof, and so I did.\nAnon comes one with light to ope the tomb;\nAnd by-and-by my master drew on him;\nAnd then I ran away to call the watch.\nPrince. This letter doth make good the friar's words,\nTheir course of love, the tidings of her death;\nAnd here he writes that he did buy a poison\nOf a poor pothecary, and therewithal\nCame to this vault to die, and lie with Juliet.\nWhere be these enemies? Capulet, Montague,\nSee what a scourge is laid upon your hate,\nThat heaven finds means to kill your joys with love!\nAnd I, for winking at you, discords too,\nHave lost a brace of kinsmen. All are punish'd.\nCap. O brother Montague, give me thy hand.\nThis is my daughter's jointure, for no more\nCan I demand.\nMon. But I can give thee more;\nFor I will raise her statue in pure gold,\nThat whiles Verona by that name is known,\nThere shall no figure at such rate be set\nAs that of true and faithful Juliet.\nCap. As rich shall Romeo's by his lady's lie-\nPoor sacrifices of our enmity!\nPrince. A glooming peace this morning with it brings.\nThe sun for sorrow will not show his head.\nGo hence, to have more talk of these sad things;\nSome shall be pardon'd, and some punished;\nFor never was a story of more woe\nThan this of Juliet and her Romeo.",
       "length": 6458,
       "num_lines": 150,
-      "location": "Verona",
+      "location": "Verona Churchyard",
       "importance": 1.0,
       "conflict": 1.0,
       "characters": [
@@ -2248,7 +2250,7 @@
           "importance_rank": 2
         },
         {
-          "name": "Juliet Capulet",
+          "name": "Old Capulet",
           "role": "He mourns the loss of his daughter and seeks reconciliation with Montague.",
           "importance": 0.9,
           "emotion": "grief-stricken and remorseful",
@@ -2257,7 +2259,7 @@
           "importance_rank": 3
         },
         {
-          "name": "Romeo Montague",
+          "name": "Old Montague",
           "role": "He grieves for the loss of his son and seeks to honor Juliet.",
           "importance": 0.9,
           "emotion": "devastated and regretful",
@@ -2277,250 +2279,254 @@
       "quote": "From ancient grudge break to new mutiny.",
       "group": "main characters",
       "color": "rgb(255, 0, 0)",
-      "explanation": "Red symbolizes the intense emotions and the tragic nature of the story."
+      "explanation": "Red represents the passion and conflict central to the story."
     },
     {
       "name": "Sampson",
       "quote": "I will take the wall of any man or maid of Montague's.",
-      "group": "Capulet servants",
-      "color": "rgb(0, 255, 0)",
-      "explanation": "Green represents the aggressive and confrontational nature of Sampson."
+      "group": "upper class",
+      "color": "rgb(0, 128, 0)",
+      "explanation": "Green symbolizes the aggressive nature of the Capulet servants."
     },
     {
       "name": "Gregory",
       "quote": "The quarrel is between our masters and us their men.",
-      "group": "Capulet servants",
+      "group": "upper class",
       "color": "rgb(0, 0, 255)",
-      "explanation": "Blue symbolizes Gregory's more cautious and playful demeanor."
+      "explanation": "Blue represents loyalty and support among the Capulet servants."
     },
     {
       "name": "Abram",
       "quote": "Do you bite your thumb at us, sir?",
-      "group": "Montague servants",
+      "group": "upper class",
       "color": "rgb(255, 165, 0)",
-      "explanation": "Orange reflects Abram's fiery spirit and loyalty to the Montagues."
+      "explanation": "Orange signifies the tension and conflict between the Montagues and Capulets."
     },
     {
       "name": "Balthasar",
       "quote": "No better.",
-      "group": "Montague servants",
+      "group": "upper class",
       "color": "rgb(128, 0, 128)",
-      "explanation": "Purple signifies Balthasar's loyalty and readiness to defend his master."
+      "explanation": "Purple represents the loyalty of the Montague servants."
     },
     {
       "name": "Benvolio",
       "quote": "Put up your swords. You know not what you do.",
-      "group": "Montague family",
-      "color": "rgb(75, 0, 130)",
-      "explanation": "Indigo represents Benvolio's calm and diplomatic nature."
+      "group": "main characters",
+      "color": "rgb(0, 255, 255)",
+      "explanation": "Cyan symbolizes peace and calmness amidst chaos."
     },
     {
       "name": "Tybalt",
       "quote": "I hate the word as I hate hell, all Montagues, and thee.",
-      "group": "Capulet family",
+      "group": "main characters",
       "color": "rgb(255, 20, 147)",
-      "explanation": "Deep pink symbolizes Tybalt's fiery temper and aggression."
+      "explanation": "Deep pink represents Tybalt's fiery temper and aggression."
     },
     {
       "name": "Officer",
       "quote": "Clubs, bills, and partisans! Strike! beat them down!",
-      "group": "authority figures",
+      "group": "supporting characters",
       "color": "rgb(255, 255, 0)",
-      "explanation": "Yellow represents the authoritative and commanding presence of the Officer."
+      "explanation": "Yellow signifies authority and order."
     },
     {
       "name": "Old Capulet",
       "quote": "What noise is this? Give me my long sword, ho!",
-      "group": "Capulet family",
-      "color": "rgb(255, 0, 255)",
-      "explanation": "Magenta reflects Old Capulet's anger and confrontational nature."
+      "group": "upper class",
+      "color": "rgb(255, 192, 203)",
+      "explanation": "Light pink represents the protective nature of a father."
     },
     {
       "name": "Old Montague",
       "quote": "Thou villain Capulet!- Hold me not, let me go.",
-      "group": "Montague family",
-      "color": "rgb(0, 255, 255)",
-      "explanation": "Cyan symbolizes Old Montague's readiness to confront his rival."
+      "group": "upper class",
+      "color": "rgb(128, 128, 0)",
+      "explanation": "Olive green symbolizes the desire for peace."
     },
     {
       "name": "Prince Escalus",
       "quote": "Rebellious subjects, enemies to peace.",
-      "group": "authority figures",
-      "color": "rgb(128, 128, 128)",
-      "explanation": "Gray represents the Prince's role as a mediator in the conflict."
+      "group": "main characters",
+      "color": "rgb(0, 0, 0)",
+      "explanation": "Black represents authority and the weight of law."
     },
     {
       "name": "Lady Montague",
       "quote": "Thou shalt not stir one foot to seek a foe.",
-      "group": "Montague family",
-      "color": "rgb(255, 192, 203)",
-      "explanation": "Light pink symbolizes Lady Montague's nurturing and protective nature."
+      "group": "upper class",
+      "color": "rgb(255, 105, 180)",
+      "explanation": "Hot pink symbolizes maternal concern."
     },
     {
       "name": "Romeo Montague",
-      "quote": "O, she doth teach the torches to burn bright!",
-      "group": "Montague family",
-      "color": "rgb(255, 105, 180)",
-      "explanation": "Hot pink reflects Romeo's passionate and romantic nature."
-    },
-    {
-      "name": "Juliet Capulet",
-      "quote": "My only love, sprung from my only hate!",
-      "group": "Capulet family",
-      "color": "rgb(255, 140, 0)",
-      "explanation": "Dark orange symbolizes Juliet's youthful passion and conflict."
+      "quote": "O, she's rich in beauty; only poor that, when she dies, with beauty dies her store.",
+      "group": "main characters",
+      "color": "rgb(0, 255, 0)",
+      "explanation": "Green represents Romeo's youthful passion."
     },
     {
       "name": "County Paris",
       "quote": "Younger than she are happy mothers made.",
-      "group": "suitors",
-      "color": "rgb(0, 128, 0)",
-      "explanation": "Forest green represents Paris's hopeful and persistent nature."
+      "group": "upper class",
+      "color": "rgb(255, 140, 0)",
+      "explanation": "Dark orange signifies ambition and desire."
     },
     {
       "name": "Servant",
       "quote": "I must to the learned. In good time!",
-      "group": "servants",
-      "color": "rgb(255, 215, 0)",
-      "explanation": "Gold symbolizes the servant's role in the social hierarchy."
-    },
-    {
-      "name": "Servant 3",
-      "quote": "Now I'll tell you without asking. My master is the great rich Capulet; and if you be not of the house of Montagues, I pray come and crush a cup of wine.",
-      "group": "servants",
-      "color": "rgb(0, 0, 0)",
-      "explanation": "Black represents the servant's lower status and comic relief."
+      "group": "supporting characters",
+      "color": "rgb(0, 128, 128)",
+      "explanation": "Teal represents the comic relief in the story."
     },
     {
       "name": "Lady Capulet",
       "quote": "How stands your disposition to be married?",
-      "group": "Capulet family",
-      "color": "rgb(255, 69, 0)",
-      "explanation": "Red-orange symbolizes Lady Capulet's eagerness for Juliet's marriage."
+      "group": "upper class",
+      "color": "rgb(255, 20, 147)",
+      "explanation": "Deep pink symbolizes the pressure of societal expectations."
     },
     {
       "name": "Nurse",
       "quote": "An I might live to see thee married once, I have my wish.",
-      "group": "Capulet family",
-      "color": "rgb(255, 220, 196)",
-      "explanation": "Peach represents the Nurse's nurturing and humorous nature."
+      "group": "supporting characters",
+      "color": "rgb(255, 0, 255)",
+      "explanation": "Magenta represents the nurturing and caring nature of the Nurse."
+    },
+    {
+      "name": "Juliet Capulet",
+      "quote": "My only love, sprung from my only hate!",
+      "group": "main characters",
+      "color": "rgb(255, 0, 255)",
+      "explanation": "Magenta represents Juliet's passionate love."
     },
     {
       "name": "Servingman",
-      "quote": "Cheerly, boys! Be brisk awhile, and the longer liver take all.",
-      "group": "servants",
-      "color": "rgb(173, 216, 230)",
-      "explanation": "Light blue reflects the Servingman's cheerful and energetic demeanor."
+      "quote": "Madam, the guests are come, supper serv'd up.",
+      "group": "supporting characters",
+      "color": "rgb(128, 128, 128)",
+      "explanation": "Gray symbolizes the background characters who support the main plot."
     },
     {
       "name": "Mercutio",
-      "quote": "If love be rough with you, be rough with love. Prick love for pricking, and you beat love down.",
+      "quote": "If love be rough with you, be rough with love.",
       "group": "main characters",
-      "color": "rgb(100, 149, 237)",
-      "explanation": "This color represents Mercutio's playful and lively personality, reminiscent of the bright blue skies of a carefree day."
+      "color": "rgb(255, 165, 0)",
+      "explanation": "Orange represents Mercutio's playful and witty nature."
     },
     {
       "name": "Servant 1",
       "quote": "Where's Potpan, that he helps not to take away?",
       "group": "servants",
-      "color": "rgb(255, 165, 255)",
-      "explanation": "This light purple color reflects the often overlooked yet essential role of servants in the story, adding a touch of whimsy."
+      "color": "rgb(100, 149, 237)",
+      "explanation": "This color represents the hardworking and somewhat frustrated nature of Servant 1."
     },
     {
       "name": "Servant 2",
       "quote": "When good manners shall lie all in one or two men's hands, and they unwash'd too, 'tis a foul thing.",
       "group": "servants",
-      "color": "rgb(255, 228, 196)",
-      "explanation": "This soft peach color symbolizes the frustration and discontent of the servants as they prepare for the feast."
+      "color": "rgb(255, 99, 71)",
+      "explanation": "This color reflects Servant 2's discontent and frustration with the state of affairs."
+    },
+    {
+      "name": "Servant 3",
+      "quote": "Cheerly, boys! Be brisk awhile, and the longer liver take all.",
+      "group": "servants",
+      "color": "rgb(60, 179, 113)",
+      "explanation": "This color symbolizes the cheerful and encouraging demeanor of Servant 3."
     },
     {
       "name": "Friar Laurence",
       "quote": "O, mickle is the powerful grace that lies in plants, herbs, stones, and their true qualities;",
-      "group": "main characters",
-      "color": "rgb(34, 139, 34)",
-      "explanation": "This green color represents Friar Laurence's connection to nature and his role as a healer."
+      "group": "clergy",
+      "color": "rgb(75, 0, 130)",
+      "explanation": "This deep color represents the wisdom and contemplative nature of Friar Laurence."
     },
     {
       "name": "Peter",
       "quote": "I saw no man use you at his pleasure.",
       "group": "servants",
-      "color": "rgb(255, 215, 255)",
-      "explanation": "This light pink color reflects Peter's innocence and loyalty as he serves the Nurse."
+      "color": "rgb(255, 215, 0)",
+      "explanation": "This bright color reflects Peter's neutral yet assertive role among the servants."
     },
     {
       "name": "Fellow",
       "quote": "Things for the cook, sir; but I know not what.",
       "group": "servants",
-      "color": "rgb(255, 140, 0)",
-      "explanation": "This orange color symbolizes the bustling energy of the servants as they prepare for the feast."
+      "color": "rgb(255, 105, 180)",
+      "explanation": "This playful color represents the light-hearted and somewhat clueless nature of Fellow."
     },
     {
       "name": "Musician 1",
       "quote": "Not a dump we! 'Tis no time to play now.",
       "group": "musicians",
-      "color": "rgb(135, 206, 250)",
-      "explanation": "This sky blue color represents the light-heartedness and creativity of the musicians."
+      "color": "rgb(255, 20, 147)",
+      "explanation": "This vibrant color reflects the frustration and urgency of Musician 1."
     },
     {
       "name": "Musician 2",
       "quote": "Pray you put up your dagger, and put out your wit.",
       "group": "musicians",
-      "color": "rgb(255, 182, 193)",
-      "explanation": "This light pink color reflects the playful banter and camaraderie among the musicians."
+      "color": "rgb(0, 191, 255)",
+      "explanation": "This calming color represents the mediating role of Musician 2."
     },
     {
       "name": "Apothecary",
       "quote": "My poverty but not my will consents.",
-      "group": "minor characters",
-      "color": "rgb(128, 0, 0)",
-      "explanation": "This dark red color symbolizes the desperation and moral conflict faced by the Apothecary."
+      "group": "clergy",
+      "color": "rgb(255, 69, 0)",
+      "explanation": "This color symbolizes the conflicted nature of the Apothecary, caught between need and morality."
     },
     {
       "name": "Friar John",
       "quote": "I could not send it- here it is again- Nor get a messenger to bring it thee, So fearful were they of infection.",
-      "group": "minor characters",
-      "color": "rgb(255, 99, 71)",
-      "explanation": "This tomato red color represents the urgency and tension surrounding Friar John's failed delivery."
+      "group": "clergy",
+      "color": "rgb(255, 228, 196)",
+      "explanation": "This soft color reflects Friar John's apologetic and frustrated demeanor."
     },
     {
       "name": "Chief Watch",
       "quote": "The ground is bloody. Search about the churchyard.",
       "group": "watchmen",
-      "color": "rgb(255, 240, 224)",
-      "explanation": "This pale yellow color symbolizes the somber duty of the watchmen as they investigate the tragic events."
+      "color": "rgb(128, 0, 0)",
+      "explanation": "This dark color represents the serious and authoritative nature of the Chief Watch."
     }
   ],
   "locations": [
     {
-      "name": "Verona, At The Capulet's Feast",
-      "quote": "Two households, both alike in dignity, In fair Verona, where we lay our scene."
-    },
-    {
-      "name": "Verona, A Churchyard",
-      "quote": "Ah, Tybalt, Tybalt, the best friend I had!"
+      "name": "Verona",
+      "quote": "In fair Verona, where we lay our scene."
     },
     {
       "name": "A Street",
-      "quote": "What, drawn, and talk of peace? I hate the word As I hate hell, all Montagues, and thee."
+      "quote": "A dog of the house of Montague moves me."
+    },
+    {
+      "name": "Verona, At The Capulet's Feast",
+      "quote": "O, she doth teach the torches to burn bright!"
     },
     {
       "name": "Capulet's House",
-      "quote": "Welcome, gentlemen! Ladies that have their toes Unplagu'd with corns will have a bout with you."
+      "quote": "Welcome, gentlemen! Ladies that have their toes unplagu'd with corns will have a bout with you."
     },
     {
-      "name": "Capulet's Orchard",
-      "quote": "Can I go forward when my heart is here? Turn back, dull earth, and find thy centre out."
+      "name": "A Lane By The Wall Of Capulet's Orchard",
+      "quote": "Can I go forward when my heart is here?"
+    },
+    {
+      "name": "Orchard",
+      "quote": "He jests at scars that never felt a wound."
     },
     {
       "name": "Friar Laurence's Cell",
-      "quote": "O, mickle is the powerful grace that lies In plants, herbs, stones, and their true qualities."
+      "quote": "The grey-ey'd morn smiles on the frowning night."
     },
     {
       "name": "A Public Place",
-      "quote": "The day is hot, the Capulets abroad. And if we meet, we shall not scape a brawl."
+      "quote": "I pray thee, good Mercutio, let's retire."
     },
     {
-      "name": "Verona",
+      "name": "Verona Churchyard",
       "quote": "O, I am fortune's fool!"
     }
   ]

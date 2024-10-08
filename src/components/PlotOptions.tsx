@@ -69,18 +69,21 @@ function PlotOptions() {
     "gatsby-mov",
     "alice",
     "alice2",
+    "alice-new",
     "alice-mov",
     "wizard",
     "wizard-mov",
     "aladdin",
     "pride",
-    "romeo-new",
+    "pride-new",
     "romeo",
+    "romeo-new",
     "yourname",
     "sound",
     "anne",
     "coco",
     "mendips",
+    "mendips-new",
   ].sort();
   const yAxisOptions = ["location", "character", "importance", "sentiment"];
 

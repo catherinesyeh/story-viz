@@ -14,6 +14,7 @@ import {
   textColor,
 } from "../utils/colors";
 import {
+  chapterFormatted,
   getFontFamily,
   getFontWeight,
   normalize,
@@ -149,7 +150,7 @@ function XAxis() {
                     }
                     fontSize={"smaller"}
                   >
-                    {chapterName.startsWith("Act") || chapterName === "Prologue"
+                    {chapterFormatted(chapterName)
                       ? chapterName
                       : "Ch. " + chapterName}
                   </text>
