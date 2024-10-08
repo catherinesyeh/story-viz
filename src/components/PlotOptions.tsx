@@ -80,6 +80,7 @@ function PlotOptions() {
     "romeo",
     "romeo-new",
     "yourname",
+    "yourname-new",
     "sound",
     "anne",
     "coco",
