@@ -167,8 +167,9 @@ const scene_data = (all_data: any, chapter_data: Chapter[]): Scene[] => {
     scene.ratings = scene.ratings ? scene.ratings : {};
     scene.ratings.conflict = scene.ratings.conflict
       ? scene.ratings.conflict
-      : scene.conflict;
-
+      : scene.conflict
+      ? scene.conflict
+      : 0;
     let importance_scalar = 1;
     let length_to_compare = data.length;
     let chapter_importance = 0;

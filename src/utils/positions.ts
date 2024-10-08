@@ -986,7 +986,6 @@ const color_bar_pos = (plotWidth: number, scenePos: Position[]) => {
   const width = 1200;
   const gap = 6 / num_bars;
   const section = width / num_bars - gap * 2 * character_offset;
-  console.log(section);
   const y = scenePos[0].y + location_height + 2 * location_offset;
   const total_width =
     section * (num_bars - 1) +

@@ -72,6 +72,7 @@ function PlotOptions() {
     "alice-new",
     "alice-mov",
     "wizard",
+    "wizard-new",
     "wizard-mov",
     "aladdin",
     "pride",
@@ -91,6 +92,7 @@ function PlotOptions() {
 
   const set_pos = () => {
     if (scene_data) {
+      //check if ratingDict.conflict has any undefined values
       setPositions(
         scene_data,
         scenes,
