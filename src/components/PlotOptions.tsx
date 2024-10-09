@@ -83,6 +83,7 @@ function PlotOptions() {
     "yourname-new",
     "sound",
     "anne",
+    "anne-new",
     "coco",
     "mendips",
     "mendips-new",
