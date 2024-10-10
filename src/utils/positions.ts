@@ -170,7 +170,9 @@ const characterPos = (
       return {
         x: initialScenePos[scene].x - 0.5 * character_height,
         y:
-          prom_inc * (char_importance_rank - 1) + character_offset * char_index,
+          0.5 * character_offset +
+          prom_inc * (char_importance_rank - 1) +
+          character_offset * char_index,
       };
     });
   });
@@ -896,7 +898,9 @@ const update_scene_summaries_large = (
 
   // find max Y value in sceneBoxes
   const max_y =
-    Math.max(...sceneBoxes.map((box) => (!isNaN(box.y) ? box.y : 0))) + yShift;
+    Math.max(
+      ...sceneBoxes.map((box) => (!isNaN(box.y) ? box.y + box.height : 0))
+    ) + yShift;
 
   sceneSummaryTexts.forEach((text, i) => {
     const new_box = { ...baseBox };
