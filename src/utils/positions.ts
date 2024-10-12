@@ -200,6 +200,55 @@ const characterPos = (
       };
     });
   });
+
+  const charStackPos = [] as Position[][];
+  const yLines = [] as any; // Array to store each y-line and the characters placed on it
+
+  characterScenes.forEach((character) => {
+    let foundLine = false;
+
+    // Iterate over each existing y-line
+    for (let line of yLines) {
+      const canShareLine = line.characters.every(
+        (placedCharacter: CharacterScene) =>
+          placedCharacter.scenes.every(
+            (scene: number) => !character.scenes.includes(scene) // Ensure no shared scenes with any character on this line
+          )
+      );
+
+      if (canShareLine) {
+        // Place character on this line
+        charStackPos.push(
+          character.scenes.map((scene) => {
+            return {
+              x: initialScenePos[scene].x - 0.5 * character_height,
+              y: line.y, // Use the y-coordinate of this line
+            };
+          })
+        );
+        // Add this character to the list of characters on this line
+        line.characters.push(character);
+        foundLine = true;
+        break;
+      }
+    }
+
+    if (!foundLine) {
+      // Create a new line for the character
+      const newY = location_height * 0.75 * yLines.length; // Calculate new y based on current number of lines
+      charStackPos.push(
+        character.scenes.map((scene) => {
+          return {
+            x: initialScenePos[scene].x - 0.5 * character_height,
+            y: newY, // Place character on a new line
+          };
+        })
+      );
+      // Add a new line with this character
+      yLines.push({ y: newY, characters: [character] });
+    }
+  });
+
   const charListPos = characterScenes.map((character) => {
     const i = sortedCharacters.findIndex(
       (char) => char.character === character.character
@@ -217,6 +266,7 @@ const characterPos = (
     promPos: promPos,
     emotionPos: emotionPos,
     charListPos: charListPos,
+    charStackPos: charStackPos,
   };
 };
 
@@ -491,11 +541,22 @@ const addStartAndEndPoints = (
   ]);
 };
 
-const updateScenePos = (initialScenePos: Position[], max_y: number) => {
+const updateScenePos = (
+  initialScenePos: Position[],
+  max_y: number,
+  yAxis: string
+) => {
   // update scenePos y coords if max_y is greater than the current max
   if (max_y >= initialScenePos[0].y - 1.25 * location_offset) {
     initialScenePos.forEach((pos) => {
       pos.y = max_y + 1.25 * location_offset;
+    });
+  } else if (
+    yAxis.includes("stacked") &&
+    max_y < initialScenePos[0].y - 1.25 * location_offset
+  ) {
+    initialScenePos.forEach((pos) => {
+      pos.y = max_y + 0.75 * location_height;
     });
   }
   return initialScenePos;
@@ -730,7 +791,7 @@ const color_description_boxes = (
   character_data: CharacterData[]
 ) => {
   return characterScenes.map((char, i) => {
-    console.log(char.character);
+    // console.log(char.character);
     const cur_quote =
       character_data.find((c) => c.character === char.character) ||
       character_data[i];
@@ -1293,7 +1354,9 @@ export const getAllPositions = (
       ? characterInfo.promPos
       : yAxis === "sentiment"
       ? characterInfo.emotionPos
-      : characterInfo.charListPos;
+      : yAxis === "character"
+      ? characterInfo.charListPos
+      : characterInfo.charStackPos;
 
   const initCharacterSquares = characterSquares(
     characterScenes,
@@ -1323,7 +1386,7 @@ export const getAllPositions = (
   // compute max y value of characterPos
   const max_y = Math.max(...initMaxYPerSceneUpdated);
 
-  initScenePos = updateScenePos(initScenePos, max_y);
+  initScenePos = updateScenePos(initScenePos, max_y, yAxis);
 
   const initSceneBoxes = sceneBoxes(
     sceneCharacters,

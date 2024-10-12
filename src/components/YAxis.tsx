@@ -30,20 +30,24 @@ function YAxis() {
     location_chunks,
     location_data,
     sortedCharacters,
+    sceneCharacters,
   } = dataStore();
-  const { locationPos, yShift, characterPos } = positionStore();
+  const { locationPos, yShift, characterPos, scenePos } = positionStore();
 
   const maxCharLength = 20;
-
   const num_characters = characterScenes.length;
-  const maxLoc =
-    locations.length <= 8
-      ? locationPos[locations.length - 1]
-      : Math.max(
-          700,
-          num_characters * (0.5 * character_offset + character_height)
-        );
+  const maxLoc = yAxis.includes("stacked")
+    ? scenePos[0].y - 0.5 * location_height
+    : locations.length <= 8
+    ? locationPos[locations.length - 1]
+    : Math.max(
+        700,
+        num_characters * (0.5 * character_offset + character_height)
+      );
 
+  const max_characters_per_scene = Math.max(
+    ...sceneCharacters.map((char) => char.characters.length)
+  );
   return (
     <g id="y-axis" transform={"translate(0 " + yShift + ")"}>
       {/* add locations to y axis */}
@@ -109,34 +113,40 @@ function YAxis() {
           </g>
         ))}
       {/* vertical bar with sentiment gradient */}
-      {(yAxis === "sentiment" || yAxis === "importance") && (
+      {(yAxis === "sentiment" ||
+        yAxis === "importance" ||
+        yAxis.includes("(stacked)")) && (
         <g>
-          <rect
-            id="y-gradient"
-            x={location_buffer}
-            y={0.5 * location_offset}
-            width={location_offset}
-            height={maxLoc + location_offset}
-            fill={`url(#vert-legend${yAxis})`}
-          ></rect>
-          <text
-            x={location_buffer + 0.5 * location_offset}
-            y={1.5 * location_offset}
-            className="y-axis-label"
-            textAnchor="middle"
-            fill="white"
-          >
-            1
-          </text>
-          <text
-            x={location_buffer + 0.5 * location_offset}
-            y={maxLoc + location_offset}
-            className="y-axis-label"
-            textAnchor="middle"
-            fill={yAxis === "sentiment" ? "white" : "black"}
-          >
-            {yAxis === "sentiment" ? -1 : 0}
-          </text>
+          {!yAxis.includes("(stacked)") && (
+            <>
+              <rect
+                id="y-gradient"
+                x={location_buffer}
+                y={0.5 * location_offset}
+                width={location_offset}
+                height={maxLoc + location_offset}
+                fill={`url(#vert-legend${yAxis})`}
+              />
+              <text
+                x={location_buffer + 0.5 * location_offset}
+                y={1.5 * location_offset}
+                className="y-axis-label"
+                textAnchor="middle"
+                fill="white"
+              >
+                1
+              </text>
+              <text
+                x={location_buffer + 0.5 * location_offset}
+                y={maxLoc + location_offset}
+                className="y-axis-label"
+                textAnchor="middle"
+                fill={yAxis === "sentiment" ? "white" : "black"}
+              >
+                {yAxis === "sentiment" ? -1 : max_characters_per_scene}
+              </text>
+            </>
+          )}
           {/* Add the rotated label */}
           <text
             transform={`rotate(-90)`}
@@ -144,7 +154,11 @@ function YAxis() {
             y={location_buffer - location_offset} // Adjust to position left of the legend bar
             textAnchor="middle"
           >
-            {yAxis === "sentiment" ? "sentiment" : "importance"}
+            {yAxis === "sentiment"
+              ? "sentiment"
+              : yAxis === "importance"
+              ? "importance"
+              : "character"}
           </text>
         </g>
       )}

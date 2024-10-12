@@ -209,9 +209,11 @@ function SceneOverlay() {
                         <tspan className="bold">{char.character} </tspan>
                         <tspan className="emphasis">
                           (importance:{" "}
-                          {scene.characters
-                            .find((c) => c.name === char.character)
-                            ?.importance.toFixed(2)}
+                          {
+                            scene.characters.find(
+                              (c) => c.name === char.character
+                            )?.importance_rank
+                          }
                           )
                         </tspan>
                       </text>

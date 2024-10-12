@@ -88,7 +88,13 @@ function PlotOptions() {
     "mendips",
     "mendips-new",
   ].sort();
-  const yAxisOptions = ["location", "character", "importance", "sentiment"];
+  const yAxisOptions = [
+    "location",
+    "character",
+    "character (stacked)",
+    "importance",
+    "sentiment",
+  ];
 
   const [scaleByLength, setScaleByLength] = useState(false);
 

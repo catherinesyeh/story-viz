@@ -159,6 +159,11 @@ const chapter_data = (all_data: any): Chapter[] => {
 };
 const scene_data = (all_data: any, chapter_data: Chapter[]): Scene[] => {
   const data = all_data["scenes"];
+
+  const max_characters_per_scene = Math.max(
+    ...data.map((scene: any) => scene.characters.length)
+  );
+
   data.forEach((scene: any, i: number) => {
     // fix data inconsistencies
     scene.name = scene.name ? scene.name : scene.title;
@@ -206,11 +211,11 @@ const scene_data = (all_data: any, chapter_data: Chapter[]): Scene[] => {
         : character.importance >= 1
         ? character.importance
         : character.importance * num_characters;
-      if (!character.importance || character.importance > 1) {
-        character.importance =
-          (scene.characters.length + 1 - character.importance_rank) /
-          scene.characters.length;
-      }
+      // if (!character.importance || character.importance > 1) {
+      character.importance =
+        (max_characters_per_scene + 1 - character.importance_rank) /
+        max_characters_per_scene;
+      // }
       character.rating = character.rating
         ? character.rating
         : character.sentiment
@@ -478,30 +483,37 @@ const sceneCharacters = (
   });
 
 // split scene summaries into chunks of 105 characters
-const sceneSummaries = (
-  data: Scene[],
-  characterScenes: CharacterScene[]
-): SceneSummary[] =>
+const sceneSummaries = (data: Scene[]): SceneSummary[] =>
   data.map((scene) => {
     // also chunk each character's quote for the first emotion in their emotions list
     // save in a dictionary with character name as key
     const chunk_size = 117;
-    const chunkedEmotions = scene.characters.map((character) => {
+    const characters = scene.characters;
+    const chunkedEmotions = characters.map((character) => {
       const chunked = chunkQuote('"' + character.quote + '"', chunk_size);
       return { character: character.name, emotion_quote: chunked };
     });
 
     // sort chunked emotions by the order in characterScenes
+    // const sortedEmotions = chunkedEmotions.sort((a, b) => {
+    //   const aIndex = characterScenes.findIndex(
+    //     (charScene) =>
+    //       charScene.character.toLowerCase() === a.character.toLowerCase()
+    //   );
+    //   const bIndex = characterScenes.findIndex(
+    //     (charScene) =>
+    //       charScene.character.toLowerCase() === b.character.toLowerCase()
+    //   );
+    //   return aIndex - bIndex;
+    // });
+
+    // sort chunked emotions by character importance rank
     const sortedEmotions = chunkedEmotions.sort((a, b) => {
-      const aIndex = characterScenes.findIndex(
-        (charScene) =>
-          charScene.character.toLowerCase() === a.character.toLowerCase()
-      );
-      const bIndex = characterScenes.findIndex(
-        (charScene) =>
-          charScene.character.toLowerCase() === b.character.toLowerCase()
-      );
-      return aIndex - bIndex;
+      const aImportRank =
+        characters.find((c) => c.name === a.character)?.importance_rank || 0;
+      const bImportRank =
+        characters.find((c) => c.name === b.character)?.importance_rank || 0;
+      return aImportRank - bImportRank;
     });
 
     const chunked = chunkQuote(scene.summary, chunk_size);
@@ -627,10 +639,7 @@ export const getAllData = (init_data: any) => {
     init_scene_data,
     init_characterScenes
   );
-  const init_sceneSummaries = sceneSummaries(
-    init_scene_data,
-    init_characterScenes
-  );
+  const init_sceneSummaries = sceneSummaries(init_scene_data);
 
   const rating_info = createRatingDict(init_scene_data);
   const init_ratingDict = rating_info.ratingDict;
