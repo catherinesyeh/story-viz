@@ -1,6 +1,6 @@
 import { color_dict } from "./colors";
 import { bezierCommand, svgPath } from "./curve";
-import { normalizeMarkerSize, getStringWidth } from "./helpers";
+import { normalizeMarkerSize } from "./helpers";
 
 import {
   location_height,
@@ -14,7 +14,6 @@ import {
   location_buffer,
 } from "./consts";
 import {
-  CharacterQuote,
   CharacterScene,
   LocationQuote,
   Scene,
@@ -270,7 +269,7 @@ const characterPos = (
         line.characters.includes(characterScenes[i])
       );
       char.forEach((pos) => {
-        pos.y = line_ind * char_inc_new;
+        pos.y = line_ind * char_inc_new + 0.5 * character_offset;
       });
     });
   }
@@ -282,7 +281,7 @@ const characterPos = (
     return character.scenes.map((scene) => {
       return {
         x: initialScenePos[scene].x - 0.5 * character_height,
-        y: char_inc * i,
+        y: char_inc * i + 0.5 * character_offset,
       };
     });
   });
@@ -578,6 +577,7 @@ const updateScenePos = (
       pos.y = max_y + 1.25 * location_offset;
     });
   } else if (
+    yAxis &&
     yAxis.includes("stacked") &&
     max_y < initialScenePos[0].y - 1.25 * location_offset
   ) {
@@ -644,78 +644,6 @@ const sceneBoxes = (
       height: bottom - top + character_height,
     };
   });
-
-// compute pos of legend items
-const legendPos = (plotWidth: number, sortedCharacters: CharacterData[]) => {
-  // get characterNames from characterScenes
-  const characters = sortedCharacters.map((char) =>
-    char.short ? char.short : char.character
-  );
-
-  const divide_by = Math.max(5, characters.length / 4);
-
-  const numRows = Math.round(characters.length / divide_by);
-
-  // break characters into groups of numRows
-  const groups = characters.reduce((acc, char, i) => {
-    const groupIndex = Math.floor(i / numRows);
-    if (!acc[groupIndex]) {
-      acc[groupIndex] = [];
-    }
-    acc[groupIndex].push(char);
-    return acc;
-  }, [] as string[][]);
-
-  // find max length of characters in each row
-  const max_lengths = groups.map((group) => {
-    return Math.max(...group.map((char) => getStringWidth(char)));
-  });
-  let legend_offset =
-    max_lengths[max_lengths.length - 1] * 4 + 2.25 * character_offset;
-
-  let all_pos = [] as Position[];
-
-  // compute positions for each character
-  groups.reverse().forEach((group, i) => {
-    const my_offset = legend_offset;
-    group.forEach((_, j) => {
-      const x_offset = plotWidth - my_offset;
-      const y_offset =
-        location_offset * 0.5 + (group.length - j - 1) * 1.6 * character_height;
-
-      all_pos.push({
-        x: x_offset,
-        y: y_offset,
-      });
-    });
-
-    let factor = 4;
-    if (i < groups.length - 1) {
-      factor =
-        max_lengths[max_lengths.length - i - 2] /
-        max_lengths[max_lengths.length - i - 1];
-    }
-    legend_offset +=
-      max_lengths[max_lengths.length - i - 1] * 4 +
-      2.75 * factor * character_offset;
-  });
-
-  return all_pos.reverse();
-};
-// legend box pos
-const legend_box_pos = (plotWidth: number, legendPos: Position[]) => {
-  // find min x in legendPos
-  const min_x = Math.min(...legendPos.map((pos) => pos.x));
-  // find max y in legendPos
-  const max_y = Math.max(...legendPos.map((pos) => pos.y));
-  return {
-    x: min_x - character_offset,
-    y: 0,
-    width: plotWidth - min_x + character_offset,
-    height: max_y + 1.4 * character_offset,
-  };
-};
-
 // location quote box positions
 const location_quote_boxes = (
   locations: string[],
@@ -764,97 +692,11 @@ const location_quote_texts = (
     });
   });
 
-// character quote box positions
-const character_quote_boxes = (
-  characterScenes: CharacterScene[],
-  legend_box_pos: Box,
-  character_quotes: CharacterQuote[]
-) => {
-  // console.log(character_quotes);
-  return characterScenes.map((char, i) => {
-    // console.log(char.character);
-    const cur_quote =
-      character_quotes.find((c) => c.character === char.character) ||
-      character_quotes[i];
-    const width = scene_base * 5.5 + character_offset;
-    return {
-      x: Math.min(
-        legend_box_pos.x,
-        legend_box_pos.x + legend_box_pos.width - width
-      ),
-      y: legend_box_pos.y + legend_box_pos.height + 1.75 * character_offset,
-      width: width,
-      height: (Math.max(cur_quote.quote.length, 2) + 2.45) * character_offset,
-    };
-  });
-};
-
-// character quote text positions
-const character_quote_texts = (
-  characterScenes: CharacterScene[],
-  character_quote_boxes: Box[],
-  character_quotes: CharacterQuote[]
-) =>
-  characterScenes.map((char, i) => {
-    const cur_quote =
-      character_quotes.find((c) => c.character === char.character) ||
-      character_quotes[i];
-    return cur_quote.quote.map((_, j) => {
-      return {
-        x:
-          character_quote_boxes[i].x +
-          0.75 * location_offset +
-          0.6 * location_height,
-        y: character_quote_boxes[i].y + (j + 2.55) * character_offset,
-      };
-    });
-  });
-
-// color description box positions
-const color_description_boxes = (
-  character_quote_boxes: Box[],
-  characterScenes: CharacterScene[],
-  character_data: CharacterData[]
-) => {
-  return characterScenes.map((char, i) => {
-    // console.log(char.character);
-    const cur_quote =
-      character_data.find((c) => c.character === char.character) ||
-      character_data[i];
-
-    return {
-      x: character_quote_boxes[i].x,
-      y: character_quote_boxes[i].y + character_quote_boxes[i].height,
-      width: character_quote_boxes[i].width,
-      height: (cur_quote.explanation.length + 1.45) * character_offset,
-    };
-  });
-};
-
-const color_description_texts = (
-  characterScenes: CharacterScene[],
-  color_description_boxes: Box[],
-  character_data: CharacterData[]
-) =>
-  characterScenes.map((char, i) => {
-    const cur_quote =
-      character_data.find((c) => c.character === char.character) ||
-      character_data[i];
-
-    const explanation = cur_quote.explanation as string[];
-    return explanation.map((_, j) => {
-      return {
-        x: color_description_boxes[i].x + 0.75 * location_offset,
-        y: color_description_boxes[i].y + (j + 1.45) * character_offset,
-      };
-    });
-  });
-
 // scene quote box positions
-const base_scene_summary_box = (legendBoxPos: Box) => {
+const base_scene_summary_box = (plotWidth: number) => {
   const width = scene_base * 8.5;
   return {
-    x: legendBoxPos.x - width - 2 * character_offset,
+    x: plotWidth - width - 2 * character_offset,
     y: 0,
     width: width,
   } as SceneSummaryBox;
@@ -939,8 +781,7 @@ export const findOverlappingScenes = (
   sceneCharacters: SceneCharacter[],
   characterScenes: CharacterScene[],
   characterPos: Position[][],
-  sceneSummaryTexts: any,
-  yShift: number
+  sceneSummaryTexts: any
 ) =>
   potentialOverlappingScenes.reduce((acc: number[], sceneIndex) => {
     const characters = sceneCharacters[sceneIndex]
@@ -960,7 +801,7 @@ export const findOverlappingScenes = (
       const height = sceneSummaryTexts[sceneIndex]
         ? sceneSummaryTexts[sceneIndex].height
         : sceneSummaryTexts.height;
-      if (charPos && charPos.y < height - yShift + character_offset) {
+      if (charPos && charPos.y < height + character_offset) {
         acc.push(sceneIndex);
         return true;
       }
@@ -976,9 +817,7 @@ const update_scene_summaries_large = (
   plotWidth: number,
   baseBox: SceneSummaryBox,
   sceneSummaryTexts: SceneSummaryText[],
-  sceneBoxes: Box[],
-  yShift: number,
-  legend_box_pos: Box
+  sceneBoxes: Box[]
 ) => {
   const new_scene_summary_boxes = [] as SceneSummaryBox[];
   const new_scene_summary_texts = [] as SceneSummaryText[];
@@ -986,16 +825,13 @@ const update_scene_summaries_large = (
   const width = baseBox.width;
 
   // find max Y value in sceneBoxes
-  const max_y =
-    Math.max(
-      ...sceneBoxes.map((box) => (!isNaN(box.y) ? box.y + box.height : 0))
-    ) + yShift;
+  const max_y = Math.max(
+    ...sceneBoxes.map((box) => (!isNaN(box.y) ? box.y + box.height : 0))
+  );
 
   sceneSummaryTexts.forEach((text, i) => {
     const new_box = { ...baseBox };
     const new_text = { ...text };
-
-    new_box.y += yShift; // shift all scene summary boxes down by yShift
 
     const scene_x = sceneBoxes[i].x;
     const right = plotWidth - width > scene_x + sceneWidth;
@@ -1016,18 +852,6 @@ const update_scene_summaries_large = (
       new_box.y += scene_y;
     } else {
       new_box.y += max_y - height;
-    }
-
-    // adjust y value if it overlaps with legend box
-
-    if (
-      new_box.y > legend_box_pos.y &&
-      new_box.y < legend_box_pos.y + legend_box_pos.height &&
-      new_box.x + new_box.width > legend_box_pos.x &&
-      new_box.x + new_box.width < legend_box_pos.x + legend_box_pos.width
-    ) {
-      new_box.y =
-        legend_box_pos.y + legend_box_pos.height + 1.75 * character_offset;
     }
 
     // calculate y_translate
@@ -1058,16 +882,13 @@ const update_scene_summaries_large = (
 
 // update scene summary box and text positions
 const update_scene_summaries = (
-  legendBoxPos: Box,
   plotWidth: number,
   scenePos: Position[],
   baseBox: SceneSummaryBox,
   characterScenes: CharacterScene[],
   sceneCharacters: SceneCharacter[],
   characterPos: Position[][],
-  sceneSummaryTexts: SceneSummaryText[],
-  characterQuoteBoxes: Box[],
-  yShift: number
+  sceneSummaryTexts: SceneSummaryText[]
 ) => {
   // find scenes that will overlap with the scene overlay using scenePos, save their indices
   const potentialOverlappingScenes = findPotentialOverlappingScenes(
@@ -1081,8 +902,7 @@ const update_scene_summaries = (
     sceneCharacters,
     characterScenes,
     characterPos,
-    sceneSummaryTexts,
-    yShift
+    sceneSummaryTexts
   );
 
   // update scene summary box and text positions
@@ -1094,7 +914,6 @@ const update_scene_summaries = (
 
     if (overlappingScenes.includes(i) || baseBox.x < scene_offset) {
       new_box.x = plotWidth - baseBox.width;
-      new_box.y = characterQuoteBoxes[0].y;
     }
     new_scene_summary_boxes.push(new_box);
 
@@ -1130,24 +949,6 @@ const update_scene_summaries = (
         // move the text to the left of the plot
         x_translate = -1 * (new_text.x - scene_offset);
         new_box.x = scene_offset - 0.9 * character_offset;
-
-        const box_right_edge = new_box.x + new_box.width + character_offset;
-
-        const shift_y =
-          box_right_edge > legendBoxPos.x &&
-          box_right_edge < legendBoxPos.x + legendBoxPos.width
-            ? legendBoxPos.height + 1.75 * character_offset
-            : 0;
-        new_box.y = shift_y;
-        if (shift_y > 0) {
-          new_text.y += shift_y;
-          new_text.title_y += shift_y;
-          new_text.summary_y += shift_y;
-          new_text.location_y += shift_y;
-          new_text.divider_y += shift_y;
-          new_text.character_y += shift_y;
-          new_text.character_list_y += shift_y;
-        }
       } else {
         new_text.y += y_translate;
         new_text.title_y += y_translate;
@@ -1249,73 +1050,6 @@ const overlayPath = (
   return final_path;
 };
 
-const getLegendOverlap = (
-  scenePos: Position[],
-  legendBoxPos: Box,
-  sceneCharacters: SceneCharacter[],
-  characterScenes: CharacterScene[],
-  characterPos: Position[][],
-  legendPos: Position[],
-  scene_width: number
-) => {
-  const potentialOverlappingScenes = findPotentialOverlappingScenes(
-    scenePos,
-    legendBoxPos
-  );
-
-  const overlappingScenes = findOverlappingScenes(
-    potentialOverlappingScenes,
-    sceneCharacters,
-    characterScenes,
-    characterPos,
-    legendBoxPos,
-    0
-  );
-
-  if (overlappingScenes.length === 0) {
-    return 0;
-  }
-
-  const all_scene_indices = sceneCharacters.map((_, i) => i);
-
-  const actualOverlappingScenes = findOverlappingScenes(
-    all_scene_indices,
-    sceneCharacters,
-    characterScenes,
-    characterPos,
-    legendBoxPos,
-    0
-  );
-
-  // find gap wide enough to fit legend box
-  // start from last scene in overlappingScenes and go backwards
-
-  let xShift = 0;
-  for (let i = actualOverlappingScenes.length - 1; i > 0; i--) {
-    const scene_index = actualOverlappingScenes[i];
-    const cur_x = scenePos[scene_index].x;
-
-    let prev_scene_index = actualOverlappingScenes[i - 1];
-    let prev_x = scenePos[prev_scene_index].x;
-
-    if (cur_x - prev_x > legendBoxPos.width + 0.75 * scene_width) {
-      xShift =
-        legendBoxPos.x - (cur_x - 0.75 * scene_width - legendBoxPos.width);
-      break;
-    }
-  }
-
-  // shift legend if xShift is not 0
-  if (xShift !== 0) {
-    legendBoxPos.x -= xShift;
-    legendPos.forEach((pos) => {
-      pos.x -= xShift;
-    });
-  }
-
-  return xShift === 0 ? legendBoxPos.height + character_offset : 0;
-};
-
 // get all positions
 export const getAllPositions = (
   scene_data: Scene[],
@@ -1326,7 +1060,6 @@ export const getAllPositions = (
   sceneCharacters: SceneCharacter[],
   location_quotes: LocationQuote[],
   sceneSummaries: SceneSummary[],
-  character_quotes: CharacterQuote[],
   sortedCharacters: CharacterData[],
   evenSpacing: boolean,
   ratingDict: RatingDict,
@@ -1421,24 +1154,6 @@ export const getAllPositions = (
     characterScenes
   );
 
-  const initLegendPos = legendPos(plotWidth, sortedCharacters);
-  const initLegendBoxPos = legend_box_pos(plotWidth, initLegendPos);
-
-  let yShift = 0;
-  if (locations.length < 5) {
-    yShift = initLegendBoxPos.height + character_offset;
-  } else {
-    yShift = getLegendOverlap(
-      initScenePos,
-      initLegendBoxPos,
-      sceneCharacters,
-      characterScenes,
-      initCharacterPos,
-      initLegendPos,
-      sceneWidth
-    );
-  }
-
   const initLocationQuoteBoxes = location_quote_boxes(
     locations,
     initLocationPos,
@@ -1451,31 +1166,7 @@ export const getAllPositions = (
     initLocationQuoteBoxes
   );
 
-  const initCharacterQuoteBoxes = character_quote_boxes(
-    characterScenes,
-    initLegendBoxPos,
-    character_quotes
-  );
-
-  const initCharacterQuoteTexts = character_quote_texts(
-    characterScenes,
-    initCharacterQuoteBoxes,
-    character_quotes
-  );
-
-  const initColorQuoteBoxes = color_description_boxes(
-    initCharacterQuoteBoxes,
-    characterScenes,
-    sortedCharacters
-  );
-
-  const initColorQuoteTexts = color_description_texts(
-    characterScenes,
-    initColorQuoteBoxes,
-    sortedCharacters
-  );
-
-  const initSceneSummaryBox = base_scene_summary_box(initLegendBoxPos);
+  const initSceneSummaryBox = base_scene_summary_box(plotWidth);
 
   let initSceneSummaryTexts = scene_summary_texts(
     initSceneSummaryBox,
@@ -1488,16 +1179,13 @@ export const getAllPositions = (
 
   if (scenes.length <= 24) {
     updatedSceneSummaryPos = update_scene_summaries(
-      initLegendBoxPos,
       plotWidth,
       initScenePos,
       initSceneSummaryBox,
       characterScenes,
       sceneCharacters,
       initCharacterPos,
-      initSceneSummaryTexts,
-      initCharacterQuoteBoxes,
-      yShift
+      initSceneSummaryTexts
     );
   } else {
     updatedSceneSummaryPos = update_scene_summaries_large(
@@ -1505,9 +1193,7 @@ export const getAllPositions = (
       plotWidth,
       initSceneSummaryBox,
       initSceneSummaryTexts,
-      initSceneBoxes,
-      yShift,
-      initLegendBoxPos
+      initSceneBoxes
     );
   }
 
@@ -1564,21 +1250,14 @@ export const getAllPositions = (
     characterSquares: initCharacterSquares,
     characterPaths: initCharacterPaths,
     sceneBoxes: initSceneBoxes,
-    legendPos: initLegendPos,
-    legendBoxPos: initLegendBoxPos,
     locationQuoteBoxes: initLocationQuoteBoxes,
     locationQuoteTexts: initLocationQuoteTexts,
-    characterQuoteBoxes: initCharacterQuoteBoxes,
-    characterQuoteTexts: initCharacterQuoteTexts,
-    colorQuoteBoxes: initColorQuoteBoxes,
-    colorQuoteTexts: initColorQuoteTexts,
     sceneSummaryBoxes: initSceneSummaryBoxes,
     sceneSummaryTexts: initSceneSummaryTexts,
     colorBarPos: initColorBarPos,
     conflictPath: initConflictPath,
     importancePath: initImportancePath,
     lengthPath: initLengthPath,
-    yShift: yShift,
     minConflictY: min_conflict_y,
   };
 };

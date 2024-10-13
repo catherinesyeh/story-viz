@@ -20,7 +20,7 @@ function MainPlot() {
     characterColor: characterColorBy,
     hidden,
   } = storyStore();
-  const { sceneBoxes, characterPaths, characterPos, characterSquares, yShift } =
+  const { sceneBoxes, characterPaths, characterPos, characterSquares } =
     positionStore();
   const {
     scene_data,
@@ -52,7 +52,7 @@ function MainPlot() {
   );
 
   return (
-    <g id="main-plot" transform={"translate(0 " + yShift + ")"}>
+    <g id="main-plot">
       {/* white boxes behind each scene */}
       <g id="scene-box-fills">
         {sceneCharacters.map(

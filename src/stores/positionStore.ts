@@ -4,7 +4,6 @@ import {
   getAllData,
   LocationQuote,
   CharacterScene,
-  CharacterQuote,
   SceneCharacter,
   SceneSummary,
   CharacterData,
@@ -30,7 +29,6 @@ const init_pos_values = getAllPositions(
   init_data_values.sceneCharacters,
   init_data_values.location_quotes,
   init_data_values.sceneSummaries,
-  init_data_values.character_quotes,
   init_data_values.sortedCharacters,
   true,
   init_data_values.ratingDict
@@ -48,21 +46,14 @@ interface IStore {
   characterSquares: Box[][];
   characterPaths: string[][];
   sceneBoxes: Box[];
-  legendPos: Position[];
-  legendBoxPos: Box;
   locationQuoteBoxes: Box[];
   locationQuoteTexts: Position[][];
-  characterQuoteBoxes: Box[];
-  characterQuoteTexts: Position[][];
-  colorQuoteBoxes: Box[];
-  colorQuoteTexts: Position[][];
   sceneSummaryBoxes: SceneSummaryBox[];
   sceneSummaryTexts: SceneSummaryText[];
   colorBarPos: Box[];
   conflictPath: string;
   importancePath: string;
   lengthPath: string;
-  yShift: number;
   minConflictY: number;
 
   setPositions: (
@@ -74,7 +65,6 @@ interface IStore {
     sceneCharacters: SceneCharacter[],
     location_quotes: LocationQuote[],
     sceneSummaries: SceneSummary[],
-    character_quotes: CharacterQuote[],
     sortedCharacters: CharacterData[],
     evenSpacing: boolean,
     ratingDict: RatingDict,
@@ -89,7 +79,6 @@ interface IStore {
     sceneCharacters: SceneCharacter[],
     location_quotes: LocationQuote[],
     sceneSummaries: SceneSummary[],
-    character_quotes: CharacterQuote[],
     sortedCharacters: CharacterData[],
     evenSpacing: boolean,
     ratingDict: RatingDict,
@@ -108,21 +97,14 @@ const initialState = {
   characterSquares: init_pos_values.characterSquares,
   characterPaths: init_pos_values.characterPaths,
   sceneBoxes: init_pos_values.sceneBoxes,
-  legendPos: init_pos_values.legendPos,
-  legendBoxPos: init_pos_values.legendBoxPos,
   locationQuoteBoxes: init_pos_values.locationQuoteBoxes,
   locationQuoteTexts: init_pos_values.locationQuoteTexts,
-  characterQuoteBoxes: init_pos_values.characterQuoteBoxes,
-  characterQuoteTexts: init_pos_values.characterQuoteTexts,
-  colorQuoteBoxes: init_pos_values.colorQuoteBoxes,
-  colorQuoteTexts: init_pos_values.colorQuoteTexts,
   sceneSummaryBoxes: init_pos_values.sceneSummaryBoxes,
   sceneSummaryTexts: init_pos_values.sceneSummaryTexts,
   colorBarPos: init_pos_values.colorBarPos,
   conflictPath: init_pos_values.conflictPath,
   importancePath: init_pos_values.importancePath,
   lengthPath: init_pos_values.lengthPath,
-  yShift: init_pos_values.yShift,
   minConflictY: init_pos_values.minConflictY,
 };
 
@@ -137,7 +119,6 @@ export const positionStore = create<IStore>((set, get) => ({
     sceneCharacters: SceneCharacter[],
     location_quotes: LocationQuote[],
     sceneSummaries: SceneSummary[],
-    character_quotes: CharacterQuote[],
     sortedCharacters: CharacterData[],
     evenSpacing: boolean,
     ratingDict: RatingDict,
@@ -152,7 +133,6 @@ export const positionStore = create<IStore>((set, get) => ({
       sceneCharacters,
       location_quotes,
       sceneSummaries,
-      character_quotes,
       sortedCharacters,
       evenSpacing,
       ratingDict,
@@ -175,21 +155,14 @@ export const positionStore = create<IStore>((set, get) => ({
       characterSquares: newPositions.characterSquares,
       characterPaths: newPositions.characterPaths,
       sceneBoxes: newPositions.sceneBoxes,
-      legendPos: newPositions.legendPos,
-      legendBoxPos: newPositions.legendBoxPos,
       locationQuoteBoxes: newPositions.locationQuoteBoxes,
       locationQuoteTexts: newPositions.locationQuoteTexts,
-      characterQuoteBoxes: newPositions.characterQuoteBoxes,
-      characterQuoteTexts: newPositions.characterQuoteTexts,
-      colorQuoteBoxes: newPositions.colorQuoteBoxes,
-      colorQuoteTexts: newPositions.colorQuoteTexts,
       sceneSummaryBoxes: newPositions.sceneSummaryBoxes,
       sceneSummaryTexts: newPositions.sceneSummaryTexts,
       colorBarPos: newPositions.colorBarPos,
       conflictPath: newPositions.conflictPath,
       importancePath: newPositions.importancePath,
       lengthPath: newPositions.lengthPath,
-      yShift: newPositions.yShift,
       minConflictY: newPositions.minConflictY,
     });
   },
@@ -202,7 +175,6 @@ export const positionStore = create<IStore>((set, get) => ({
     sceneCharacters: SceneCharacter[],
     location_quotes: LocationQuote[],
     sceneSummaries: SceneSummary[],
-    character_quotes: CharacterQuote[],
     sortedCharacters: CharacterData[],
     evenSpacing: boolean,
     ratingDict: RatingDict,
@@ -218,7 +190,6 @@ export const positionStore = create<IStore>((set, get) => ({
       sceneCharacters,
       location_quotes,
       sceneSummaries,
-      character_quotes,
       sortedCharacters,
       evenSpacing,
       ratingDict,

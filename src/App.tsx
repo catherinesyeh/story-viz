@@ -1,5 +1,6 @@
 import "./App.scss";
 import ChapterSlider from "./components/ChapterSlider";
+import LegendDiv from "./components/LegendDiv";
 import PlotOptions from "./components/PlotOptions";
 import StoryVis from "./components/StoryVis";
 import { dataStore } from "./stores/dataStore";
@@ -41,6 +42,7 @@ function App() {
 
         <PlotOptions />
       </header>
+      <LegendDiv />
       <div id="story-contain">
         <StoryVis />
       </div>

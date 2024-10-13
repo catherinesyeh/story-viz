@@ -47,7 +47,7 @@ function XAxis() {
     showChapters,
   } = storyStore();
 
-  const { scenePos, yShift, minConflictY } = positionStore();
+  const { scenePos, minConflictY } = positionStore();
 
   // active chapters
   const activeChapterDivisions =
@@ -84,8 +84,7 @@ function XAxis() {
       id="x-axis"
       transform={
         "translate(0 " +
-        (yShift +
-          (overlay !== "none" ? extra_yshift(minConflictY, scenePos) : 0)) +
+        (overlay !== "none" ? extra_yshift(minConflictY, scenePos) : 0) +
         ")"
       }
     >

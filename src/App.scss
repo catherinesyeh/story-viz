@@ -139,6 +139,132 @@ h1 {
   font-weight: 700;
   letter-spacing: 0.4px;
 }
+
+// LEGEND
+#legend-outer {
+  width: 100%;
+  border: 1px solid #eee;
+  padding: 0.25rem 0.5rem;
+  margin-bottom: 0.5rem;
+  position: relative;
+
+  #character-legend {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
+    font-size: xx-small;
+    transition: 0.3s;
+    column-gap: 0.5rem;
+
+    .legend-item {
+      cursor: pointer;
+      transition: 0.3s;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+
+      &:hover {
+        opacity: 0.7;
+      }
+      &.faded:hover {
+        opacity: 0.5;
+      }
+      &.no-click {
+        pointer-events: none;
+      }
+
+      .legend-square {
+        width: 0.5rem;
+        height: 0.5rem;
+        stroke-width: 1;
+      }
+
+      &.faded {
+        opacity: 0.3;
+      }
+    }
+  }
+
+  .reset-button {
+    position: absolute;
+    right: 0;
+    bottom: calc(100% - 4px);
+    padding: 0;
+    transition: 0.3s;
+    background: transparent !important;
+
+    &:hover {
+      opacity: 0.7;
+    }
+
+    &:disabled {
+      pointer-events: none;
+    }
+
+    span {
+      font-size: xx-small !important;
+    }
+  }
+}
+
+// Character info
+#character-info {
+  border: 1px solid #eee;
+  position: absolute;
+  margin-top: 1rem;
+  z-index: 999;
+  right: 0;
+  background: rgb(255, 255, 255, 0.9);
+  transition: 0.3s;
+
+  .hidden,
+  &.hidden {
+    visibility: hidden;
+    pointer-events: none;
+    opacity: 0;
+  }
+
+  p {
+    margin: 0;
+  }
+
+  b,
+  p {
+    transition: 0.3s;
+  }
+
+  .character-inner {
+    padding: 0.5rem 0.75rem;
+    width: 500px;
+    font-size: x-small;
+    transition: 0.3s;
+
+    &.grid {
+      display: grid;
+      grid-template-columns: auto 1fr;
+      gap: 0.75rem;
+      align-items: center;
+
+      p {
+        margin-top: 2px;
+      }
+    }
+
+    &.explanation {
+      font-style: italic;
+
+      &.hidden {
+        padding: 0;
+      }
+    }
+  }
+
+  .character-image {
+    border-radius: 100%;
+    transition: 0.3s;
+    width: 2.5rem;
+  }
+}
+
 #story-contain {
   width: 100%;
   max-width: 1900px;

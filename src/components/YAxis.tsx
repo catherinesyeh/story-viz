@@ -32,7 +32,7 @@ function YAxis() {
     sortedCharacters,
     sceneCharacters,
   } = dataStore();
-  const { locationPos, yShift, characterPos, scenePos } = positionStore();
+  const { locationPos, characterPos, scenePos } = positionStore();
 
   const maxCharLength = 20;
   const num_characters = characterScenes.length;
@@ -49,7 +49,7 @@ function YAxis() {
     ...sceneCharacters.map((char) => char.characters.length)
   );
   return (
-    <g id="y-axis" transform={"translate(0 " + yShift + ")"}>
+    <g id="y-axis">
       {/* add locations to y axis */}
       {yAxis === "location" &&
         locations.map((location, i) => (

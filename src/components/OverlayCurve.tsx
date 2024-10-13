@@ -11,17 +11,11 @@ import { positionStore } from "../stores/positionStore";
 function OverlayCurve() {
   const { overlay, sceneHover, locationHover, characterHover, colorBy } =
     storyStore();
-  const {
-    conflictPath,
-    importancePath,
-    lengthPath,
-    scenePos,
-    yShift,
-    minConflictY,
-  } = positionStore();
+  const { conflictPath, importancePath, lengthPath, scenePos, minConflictY } =
+    positionStore();
   const { scenes } = dataStore();
   return (
-    <g id="conflict-container" transform={"translate(0 " + yShift + ")"}>
+    <g id="conflict-container">
       {/* add conflict curve */}
       <path
         id="conflict-curve"
