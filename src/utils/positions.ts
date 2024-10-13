@@ -1,4 +1,3 @@
-import { color_dict } from "./colors";
 import { bezierCommand, svgPath } from "./curve";
 import { normalizeMarkerSize } from "./helpers";
 
@@ -971,37 +970,6 @@ const update_scene_summaries = (
   };
 };
 
-// color bar positions
-const color_bar_pos = (plotWidth: number, scenePos: Position[]) => {
-  const num_bars = Object.keys(color_dict).length;
-  const width = 1200;
-  const gap = 6 / num_bars;
-  const section = width / num_bars - gap * 2 * character_offset;
-  const y = scenePos[0].y + location_height + 2 * location_offset;
-  const total_width =
-    section * (num_bars - 1) +
-    gap * (num_bars - 1) * num_bars * character_offset;
-  const start_offset =
-    (plotWidth - num_bars * location_offset - total_width) / 2;
-  return Object.keys(color_dict).map((_, i) => {
-    return {
-      x:
-        start_offset +
-        location_offset +
-        section * i +
-        gap * i * num_bars * character_offset,
-      // width / (2 + 0.2 * Math.max(0, num_bars - 3)) +
-      // 1 +
-      // i * section +
-      // i * gap * num_bars * character_offset +
-      // location_offset,
-      y: y,
-      width: section,
-      height: character_height,
-    };
-  });
-};
-
 // compute overlay curve positions based on conflict/importance/etc. rating of each scene
 const overlay_points = (
   ratings: number[],
@@ -1200,10 +1168,7 @@ export const getAllPositions = (
   const initSceneSummaryBoxes = updatedSceneSummaryPos.scene_summary_boxes;
   initSceneSummaryTexts = updatedSceneSummaryPos.scene_summary_texts;
 
-  const initColorBarPos = color_bar_pos(plotWidth, initScenePos);
-
-  const plotHeight =
-    initColorBarPos[0].y + initColorBarPos[0].height + 8 * character_height;
+  const plotHeight = initScenePos[0].y + location_height * 2.5;
 
   const min_conflict_y = max_y + location_buffer;
   const initConflictPoints = overlay_points(
@@ -1254,7 +1219,6 @@ export const getAllPositions = (
     locationQuoteTexts: initLocationQuoteTexts,
     sceneSummaryBoxes: initSceneSummaryBoxes,
     sceneSummaryTexts: initSceneSummaryTexts,
-    colorBarPos: initColorBarPos,
     conflictPath: initConflictPath,
     importancePath: initImportancePath,
     lengthPath: initLengthPath,

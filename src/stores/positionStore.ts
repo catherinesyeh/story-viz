@@ -50,7 +50,6 @@ interface IStore {
   locationQuoteTexts: Position[][];
   sceneSummaryBoxes: SceneSummaryBox[];
   sceneSummaryTexts: SceneSummaryText[];
-  colorBarPos: Box[];
   conflictPath: string;
   importancePath: string;
   lengthPath: string;
@@ -101,7 +100,6 @@ const initialState = {
   locationQuoteTexts: init_pos_values.locationQuoteTexts,
   sceneSummaryBoxes: init_pos_values.sceneSummaryBoxes,
   sceneSummaryTexts: init_pos_values.sceneSummaryTexts,
-  colorBarPos: init_pos_values.colorBarPos,
   conflictPath: init_pos_values.conflictPath,
   importancePath: init_pos_values.importancePath,
   lengthPath: init_pos_values.lengthPath,
@@ -159,7 +157,6 @@ export const positionStore = create<IStore>((set, get) => ({
       locationQuoteTexts: newPositions.locationQuoteTexts,
       sceneSummaryBoxes: newPositions.sceneSummaryBoxes,
       sceneSummaryTexts: newPositions.sceneSummaryTexts,
-      colorBarPos: newPositions.colorBarPos,
       conflictPath: newPositions.conflictPath,
       importancePath: newPositions.importancePath,
       lengthPath: newPositions.lengthPath,
