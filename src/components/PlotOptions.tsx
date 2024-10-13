@@ -99,7 +99,6 @@ function PlotOptions() {
 
   const set_pos = () => {
     if (scene_data) {
-      //check if ratingDict.conflict has any undefined values
       setPositions(
         scene_data,
         scenes,

@@ -8,6 +8,7 @@ import { positionStore } from "../stores/positionStore";
 import { extra_yshift } from "../utils/consts";
 import { storyStore } from "../stores/storyStore";
 import { dataStore } from "../stores/dataStore";
+import Legend from "./Legend";
 
 function StoryVis() {
   const { plotWidth, plotHeight, minConflictY, scenePos } = positionStore();
@@ -38,7 +39,7 @@ function StoryVis() {
       <YAxis />
       <XAxis />
       <MainPlot />
-      {/* <Legend /> */}
+      <Legend />
       <OverlayInfo />
     </svg>
   );

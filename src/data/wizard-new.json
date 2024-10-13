@@ -1877,7 +1877,7 @@
           "emotion": "passive and vulnerable",
           "sentiment": 0.0,
           "quote": "Is he stuffed?",
-          "importance_rank": 4
+          "importance_rank": 3
         },
         {
           "name": "Tin Woodman",
@@ -1886,16 +1886,7 @@
           "emotion": "passive and vulnerable",
           "sentiment": 0.0,
           "quote": "That's why he nearly blunted my claws.",
-          "importance_rank": 5
-        },
-        {
-          "name": "Dorothy",
-          "role": "Helps the Scarecrow and Tin Woodman",
-          "importance": 1.0,
-          "emotion": "determined",
-          "sentiment": 1.0,
-          "quote": "Of course he's stuffed.",
-          "importance_rank": 3
+          "importance_rank": 4
         }
       ],
       "number": 2,

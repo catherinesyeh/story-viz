@@ -5,7 +5,6 @@ function OverlayInfo() {
   return (
     <g id="overlay-info">
       <LocationOverlay />
-      {/* <CharacterOverlay /> */}
       <SceneOverlay />
     </g>
   );

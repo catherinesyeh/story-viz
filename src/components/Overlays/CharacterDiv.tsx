@@ -2,9 +2,11 @@ import { useEffect, useState } from "react";
 import { dataStore } from "../../stores/dataStore";
 import { storyStore } from "../../stores/storyStore";
 import { getColor, getLLMColor, textColorLLM } from "../../utils/colors";
+import { onlyLetters } from "../../utils/helpers";
+import ImageDiv from "../ImageDiv";
 
 function CharacterDiv() {
-  const { characterHover, characterColor } = storyStore();
+  const { characterHover, characterColor, story } = storyStore();
   const { character_data, sortedCharacters } = dataStore();
 
   const [accentColor, setAccentColor] = useState("rgb(0, 0, 0)");
@@ -45,7 +47,17 @@ function CharacterDiv() {
       className={characterHover !== "" ? "" : "hidden"}
     >
       <div className="character-inner grid">
-        <img className="character-image" src={"characters/placeholder.png"} />
+        <ImageDiv
+          className="character-image"
+          src={
+            "characters/" +
+            onlyLetters(story.replace("-mov", "")) +
+            "/" +
+            character_data.find((c) => c.character === characterHover)?.key +
+            ".png"
+          }
+          placeholder="characters/placeholder.png"
+        />
         <div>
           <b style={{ color: accentColor }}>
             {characterName || "Character"} ({characterGroup || "Group"})

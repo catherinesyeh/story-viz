@@ -18,10 +18,18 @@
   padding: 0.5rem 1rem;
 }
 
+#header-container {
+  position: fixed;
+  z-index: 99;
+  background: white;
+  margin-top: -0.5rem;
+  padding-top: 0.5rem;
+  width: calc(100% - 2rem);
+}
+
 header {
   display: flex;
   justify-content: space-between;
-  // align-items: center;
   margin-bottom: 1.2rem;
   gap: 20px;
 
