@@ -24,7 +24,8 @@
   background: white;
   margin-top: -0.5rem;
   padding-top: 0.5rem;
-  width: calc(100% - 2rem);
+  padding-right: 1rem;
+  width: calc(100% - 1rem);
 }
 
 header {
@@ -158,7 +159,7 @@ h1 {
 
   #character-legend {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
     font-size: xx-small;
     transition: 0.3s;
     column-gap: 0.5rem;
@@ -273,15 +274,211 @@ h1 {
   }
 }
 
+#location-overlay {
+  position: absolute;
+  margin-top: 1rem;
+  left: calc(160px + 2rem);
+  padding: 0.5rem 0.75rem;
+  width: 500px;
+  font-size: x-small;
+  z-index: 999;
+  background: rgb(255, 255, 255, 0.9);
+  border: 1px solid #eee;
+  transition: 0.3s;
+
+  &.hidden {
+    visibility: hidden;
+    pointer-events: none;
+    opacity: 0;
+  }
+
+  p {
+    margin-bottom: 0;
+    margin-top: 2px;
+  }
+}
+
 #story-contain {
   width: 100%;
   max-width: 1900px;
   overflow-x: auto;
   display: block;
   position: relative;
-  margin: 0 auto 50px;
+  margin: 0 auto 40px;
   scrollbar-width: none;
+  position: relative;
   // hide scrollbar
+
+  #y-axis-div {
+    position: fixed;
+    left: 0;
+    padding-left: 1rem;
+    padding-right: 0.5rem;
+    width: 160px;
+    margin-top: -0.2rem;
+    font-size: x-small;
+    background: white;
+    scrollbar-width: none;
+    overflow-y: auto;
+
+    p {
+      margin: 0;
+    }
+
+    #character-axis {
+      padding-top: 5px;
+    }
+
+    .location-box,
+    .character-name {
+      display: flex;
+      align-items: center;
+      justify-content: end;
+      text-align: right;
+      transition: 0.3s;
+      cursor: pointer;
+
+      &.faded {
+        opacity: 0.15;
+      }
+
+      &:hover {
+        opacity: 0.7;
+      }
+      &.faded:hover {
+        opacity: 0.3;
+      }
+      &.no-click {
+        pointer-events: none;
+      }
+    }
+
+    .character-name {
+      align-items: baseline;
+    }
+
+    #color-axis-outer {
+      height: 100%;
+      position: relative;
+
+      p {
+        position: absolute;
+        transform: rotate(-90deg) translateY(-100%) translateX(50%);
+        top: 50%;
+        margin-top: 0.5rem;
+      }
+
+      #color-axis {
+        transition: 0.3s;
+        height: 100%;
+        margin-left: 1.5rem;
+        width: 1rem;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0.25rem 0;
+        background: linear-gradient(
+          to top,
+          rgb(252, 251, 253),
+          rgb(217, 216, 234),
+          rgb(158, 155, 201),
+          rgb(106, 81, 164),
+          rgb(63, 0, 125)
+        );
+
+        &.hidden {
+          visibility: hidden;
+          pointer-events: none;
+          opacity: 0;
+          // width: 0 !important;
+          padding: 0;
+          margin: 0 !important;
+        }
+
+        &.sentiment {
+          background: linear-gradient(
+            to top,
+            rgb(5, 48, 97),
+            rgb(107, 172, 208),
+            rgb(242, 239, 238),
+            rgb(228, 130, 104),
+            rgb(103, 0, 31)
+          );
+        }
+
+        span {
+          color: white;
+          &:last-child {
+            transform: translateY(-100%);
+          }
+        }
+      }
+    }
+  }
+
+  #x-axis-outer {
+    position: fixed;
+    overflow-x: auto;
+    left: 1rem;
+    width: calc(100% - 2rem);
+    background: white;
+    scrollbar-width: none;
+  }
+
+  #x-axis-div {
+    position: fixed;
+    background: white;
+    left: 0;
+    bottom: 80px;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    z-index: 999;
+    font-size: x-small;
+    scrollbar-width: none;
+    overflow-x: auto;
+    overflow-y: hidden;
+    height: 140px;
+
+    #x-axis-inner {
+      border-top: 2px solid black;
+      width: max-content;
+      position: relative;
+      padding-right: 0.5rem;
+      // add small arrow head to the right of x-axis
+
+      &:not(.hide-arrow) {
+        padding-right: 1rem;
+        padding-top: 0.5rem;
+
+        &::after {
+          content: "";
+          position: absolute;
+          right: -0.5rem; /* Adjust the distance to the right of the x-axis */
+          top: -0.01rem; /* Align vertically with the x-axis */
+          transform: translateY(-50%); /* Center the arrow vertically */
+          border-left: 8px solid black; /* Arrow point */
+          border-top: 5px solid transparent; /* Arrow top side */
+          border-bottom: 5px solid transparent; /* Arrow bottom side */
+        }
+      }
+    }
+
+    .x-axis-scene {
+      display: inline-flex;
+      align-items: end;
+      text-align: right;
+      width: 140px;
+      position: relative;
+      line-height: 1rem;
+
+      p {
+        transform: translateX(-100%) rotate(-45deg) translateY(100%);
+        transform-origin: 100% 100%;
+        position: absolute;
+      }
+    }
+  }
 
   #story {
     font-size: calc(0.8rem + 0.1vw);
@@ -604,8 +801,8 @@ h1 {
   background: white;
   position: fixed;
   bottom: 0;
-  padding: 0.5rem 0;
-  width: calc(100% - 2rem);
+  padding: 0.5rem 1rem 0.5rem 0;
+  width: calc(100% - 1rem);
 }
 
 #color-bars {

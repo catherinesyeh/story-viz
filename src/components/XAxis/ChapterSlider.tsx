@@ -1,5 +1,5 @@
 import { Button, RangeSlider } from "@mantine/core";
-import { dataStore } from "../stores/dataStore";
+import { dataStore } from "../../stores/dataStore";
 import Colorbar from "./Colorbar";
 
 function ChapterSlider() {

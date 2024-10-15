@@ -68,6 +68,7 @@ export interface LocationData {
   name: string;
   key: string;
   quote: string;
+  emoji?: string;
 }
 
 export interface CharacterData {
@@ -88,6 +89,7 @@ export interface ColorQuote {
 export interface LocationQuote {
   location: string;
   quote: string[];
+  emoji?: string;
 }
 
 export interface CharacterScene {
@@ -286,6 +288,7 @@ const location_quotes = (
       return {
         location: location.name,
         quote: chunked,
+        emoji: location.emoji ? location.emoji : "",
       };
     })
     // now sort by the order of 'locations'

@@ -1,5 +1,5 @@
-import { dataStore } from "../stores/dataStore";
-import { color_dict } from "../utils/colors";
+import { dataStore } from "../../stores/dataStore";
+import { color_dict } from "../../utils/colors";
 
 function Colorbar() {
   const { minLines, maxLines } = dataStore();

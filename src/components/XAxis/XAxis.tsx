@@ -1,18 +1,18 @@
-import { storyStore } from "../stores/storyStore";
-import { dataStore } from "../stores/dataStore";
+import { storyStore } from "../../stores/storyStore";
+import { dataStore } from "../../stores/dataStore";
 import {
   character_height,
   character_offset,
-  extra_yshift,
+  location_buffer,
   location_offset,
-} from "../utils/consts";
+} from "../../utils/consts";
 import {
   conflictColor,
   emotionColor,
   importanceColor,
   lengthColor,
   textColor,
-} from "../utils/colors";
+} from "../../utils/colors";
 import {
   chapterFormatted,
   getFontFamily,
@@ -20,8 +20,8 @@ import {
   normalize,
   normalizeFontSize,
   normalizeTextOffset,
-} from "../utils/helpers";
-import { positionStore } from "../stores/positionStore";
+} from "../../utils/helpers";
+import { positionStore } from "../../stores/positionStore";
 
 function XAxis() {
   const {
@@ -47,7 +47,7 @@ function XAxis() {
     showChapters,
   } = storyStore();
 
-  const { scenePos, minConflictY } = positionStore();
+  const { scenePos } = positionStore();
 
   // active chapters
   const activeChapterDivisions =
@@ -78,13 +78,14 @@ function XAxis() {
     activeChapterDivisions[activeChapterDivisions.length - 1].index +
       numScenesInLastActiveChapter
   );
+  const maxChars = 24;
 
   return (
     <g
       id="x-axis"
       transform={
         "translate(0 " +
-        (overlay !== "none" ? extra_yshift(minConflictY, scenePos) : 0) +
+        (overlay !== "none" ? location_buffer - 1.75 * character_offset : 0) +
         ")"
       }
     >
@@ -97,7 +98,7 @@ function XAxis() {
             const chapterName = chapter.chapter;
             const chapterPos = scenePos[chapter.index];
 
-            const lineLength = sizeBy === "default" ? 110 : 130;
+            const lineLength = sizeBy === "default" ? 80 : 100;
 
             return (
               chapterPos &&
@@ -108,7 +109,7 @@ function XAxis() {
                     "rotate(45," +
                     (chapterPos.x - 2 * character_offset) +
                     ", " +
-                    chapterPos.y +
+                    location_offset * 2 +
                     ")"
                   }
                   className={
@@ -127,8 +128,8 @@ function XAxis() {
                   <line
                     x1={chapterPos.x - 2 * character_offset}
                     x2={chapterPos.x - 2 * character_offset}
-                    y1={chapterPos.y - location_offset}
-                    y2={chapterPos.y + lineLength}
+                    y1={location_offset * 2 - location_offset}
+                    y2={location_offset * 2 + lineLength}
                     stroke="gray"
                     strokeWidth="1"
                     strokeDasharray={"4"}
@@ -136,7 +137,7 @@ function XAxis() {
                   />
                   <text
                     x={chapterPos.x - 1.75 * character_offset}
-                    y={chapterPos.y + lineLength + 5}
+                    y={location_offset * 2 + lineLength + 5}
                     textAnchor="end"
                     fill="gray"
                     className="chapter-label"
@@ -144,14 +145,19 @@ function XAxis() {
                       "rotate(-90," +
                       (chapterPos.x - 1.75 * character_offset) +
                       ", " +
-                      (chapterPos.y + lineLength + 5) +
+                      (location_offset * 2 + lineLength + 5) +
                       ")"
                     }
                     fontSize={"smaller"}
                   >
                     {chapterFormatted(chapterName)
-                      ? chapterName
-                      : "Ch. " + chapterName}
+                      ? chapterName.length > maxChars
+                        ? chapterName.slice(0, maxChars) + "..."
+                        : chapterName
+                      : "Ch. " +
+                        (chapterName.length > maxChars
+                          ? chapterName.slice(0, maxChars - 4) + "..."
+                          : chapterName)}
                   </text>
                 </g>
               )
@@ -235,7 +241,7 @@ function XAxis() {
                 activeScenePos[i] && (
                   <text
                     x={activeScenePos[i].x + j * character_offset * textOffset}
-                    y={activeScenePos[i].y + 0.25 * character_height}
+                    y={location_offset * 2 + 0.25 * character_height}
                     textAnchor="end"
                     key={"scene" + i + j}
                     fill={color}
@@ -249,7 +255,7 @@ function XAxis() {
                       (activeScenePos[i].x +
                         j * character_offset * textOffset) +
                       ", " +
-                      (activeScenePos[i].y + 0.25 * character_height) +
+                      (location_offset * 2 + 0.25 * character_height) +
                       ")"
                     }
                     onMouseEnter={() => setSceneHover(scene)}
@@ -270,14 +276,16 @@ function XAxis() {
           markerEnd="url(#head)"
           strokeWidth="2"
           stroke="black"
-          d={`M${scenePos[0].x},${scenePos[0].y - 0.75 * location_offset}, ${
-            scenePos[scenePos.length - 1].x
-          },${scenePos[0].y - 0.75 * location_offset}`}
+          d={`M${scenePos[0].x},${
+            location_offset * 2 - 0.75 * location_offset
+          }, ${scenePos[scenePos.length - 1].x},${
+            location_offset * 2 - 0.75 * location_offset
+          }`}
         />
         {/* add label to arrow */}
         <text
           x={scenePos[0].x + 0.5 * character_offset}
-          y={scenePos[0].y - 1.1 * location_offset}
+          y={location_offset * 2 - 1.1 * location_offset}
           textAnchor="start"
           fill={
             overlay === "none" || colorBy === "default"

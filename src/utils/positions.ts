@@ -14,7 +14,6 @@ import {
 } from "./consts";
 import {
   CharacterScene,
-  LocationQuote,
   Scene,
   SceneCharacter,
   SceneSummary,
@@ -291,6 +290,7 @@ const characterPos = (
     emotionPos: emotionPos,
     charListPos: charListPos,
     charStackPos: charStackPos,
+    charInc: char_inc,
   };
 };
 
@@ -643,53 +643,6 @@ const sceneBoxes = (
       height: bottom - top + character_height,
     };
   });
-// location quote box positions
-const location_quote_boxes = (
-  locations: string[],
-  locationPos: number[],
-  location_quotes: LocationQuote[]
-) => {
-  // console.log(location_quotes);
-  return locations.map((loc, i) => {
-    // console.log(loc);
-    const cur_quote =
-      location_quotes.find((quote) => quote.location === loc) ||
-      location_quotes[i];
-    const y_pos =
-      i < 3
-        ? locationPos[Math.min(locations.length - 2, 2)]
-        : i > locations.length - 3
-        ? locationPos[locations.length - 3]
-        : locationPos[i];
-    return {
-      x: scene_offset - 1.25 * location_offset,
-      y: y_pos,
-      width: scene_base * 5.5 - 2 * character_offset,
-      height: (cur_quote.quote.length + 2.5) * character_offset,
-    };
-  });
-};
-
-// location quote text positions
-const location_quote_texts = (
-  locations: string[],
-  location_quotes: LocationQuote[],
-  location_quote_boxes: Box[]
-) =>
-  locations.map((loc, i) => {
-    const cur_quote =
-      location_quotes.find((quote) => quote.location === loc) ||
-      location_quotes[i];
-    return cur_quote.quote.map((_, j) => {
-      return {
-        x: scene_offset - 0.5 * location_offset,
-        y:
-          location_quote_boxes[i].y +
-          character_offset +
-          (j + 1.5) * character_offset,
-      };
-    });
-  });
 
 // scene quote box positions
 const base_scene_summary_box = (plotWidth: number) => {
@@ -1026,7 +979,6 @@ export const getAllPositions = (
   characterScenes: CharacterScene[],
   sceneLocations: string[],
   sceneCharacters: SceneCharacter[],
-  location_quotes: LocationQuote[],
   sceneSummaries: SceneSummary[],
   sortedCharacters: CharacterData[],
   evenSpacing: boolean,
@@ -1085,6 +1037,8 @@ export const getAllPositions = (
       ? characterInfo.charListPos
       : characterInfo.charStackPos;
 
+  const charInc = characterInfo.charInc;
+
   const initCharacterSquares = characterSquares(
     characterScenes,
     initScenePos,
@@ -1122,18 +1076,6 @@ export const getAllPositions = (
     characterScenes
   );
 
-  const initLocationQuoteBoxes = location_quote_boxes(
-    locations,
-    initLocationPos,
-    location_quotes
-  );
-
-  const initLocationQuoteTexts = location_quote_texts(
-    locations,
-    location_quotes,
-    initLocationQuoteBoxes
-  );
-
   const initSceneSummaryBox = base_scene_summary_box(plotWidth);
 
   let initSceneSummaryTexts = scene_summary_texts(
@@ -1168,9 +1110,10 @@ export const getAllPositions = (
   const initSceneSummaryBoxes = updatedSceneSummaryPos.scene_summary_boxes;
   initSceneSummaryTexts = updatedSceneSummaryPos.scene_summary_texts;
 
-  const plotHeight = initScenePos[0].y + location_height * 2.5;
+  // const plotHeight = initScenePos[0].y + location_height * 2.5;
+  const plotHeight = max_y + location_offset;
 
-  const min_conflict_y = max_y + location_buffer;
+  const min_conflict_y = location_buffer;
   const initConflictPoints = overlay_points(
     ratingDict.conflict,
     min_conflict_y,
@@ -1209,19 +1152,17 @@ export const getAllPositions = (
     sceneWidth: sceneWidth,
     plotWidth: plotWidth,
     plotHeight: plotHeight,
-    locationPos: initLocationPos,
     scenePos: initScenePos,
     characterPos: initCharacterPos,
     characterSquares: initCharacterSquares,
     characterPaths: initCharacterPaths,
     sceneBoxes: initSceneBoxes,
-    locationQuoteBoxes: initLocationQuoteBoxes,
-    locationQuoteTexts: initLocationQuoteTexts,
     sceneSummaryBoxes: initSceneSummaryBoxes,
     sceneSummaryTexts: initSceneSummaryTexts,
     conflictPath: initConflictPath,
     importancePath: initImportancePath,
     lengthPath: initLengthPath,
     minConflictY: min_conflict_y,
+    charInc: charInc,
   };
 };

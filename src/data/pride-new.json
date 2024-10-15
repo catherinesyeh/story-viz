@@ -7129,51 +7129,63 @@
   "locations": [
     {
       "name": "Bennet Household",
-      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife."
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "emoji": "\ud83c\udfe1"
     },
     {
       "name": "Netherfield",
-      "quote": "Mr. Bingley was good looking and gentleman-like; he had a pleasant countenance, and easy, unaffected manners."
+      "quote": "Mr. Bingley was good looking and gentleman-like; he had a pleasant countenance, and easy, unaffected manners.",
+      "emoji": "\ud83c\udff0"
     },
     {
       "name": "Assembly Hall",
-      "quote": "I cannot comprehend the neglect of a family library in such days as these."
+      "quote": "Elizabeth listened in silence, but was not convinced; their behaviour at the assembly had not been calculated to please in general.",
+      "emoji": "\ud83c\udfdb\ufe0f"
     },
     {
       "name": "Lucas Lodge",
-      "quote": "Lady Lucas was a very good kind of woman, not too clever to be a valuable neighbour to Mrs. Bennet."
+      "quote": "Sir William Lucas had been formerly in trade in Meryton, where he had made a tolerable fortune and risen to the honour of knighthood.",
+      "emoji": "\ud83c\udfe0"
     },
     {
       "name": "Longbourn Village",
-      "quote": "The village of Longbourn was only one mile from Meryton; a most convenient distance for the young ladies."
+      "quote": "The village of Longbourn was only one mile from Meryton; a most convenient distance for the young ladies.",
+      "emoji": "\ud83c\udf33"
     },
     {
       "name": "Bennet Household And Netherfield",
-      "quote": "Elizabeth did not quit her room for a moment, nor were the other ladies often absent."
+      "quote": "Elizabeth did not quit her room for a moment, nor were the other ladies often absent; the gentlemen being out, they had in fact nothing to do elsewhere.",
+      "emoji": "\ud83c\udfe1\ud83c\udff0"
     },
     {
       "name": "Drawing Room In A Country House",
-      "quote": "The manner in which they spoke of the Meryton assembly was sufficiently characteristic."
+      "quote": "Mr. Darcy stood near them in silent indignation at such a mode of passing the evening, to the exclusion of all conversation.",
+      "emoji": "\ud83d\udecb\ufe0f"
     },
     {
       "name": "Bingley's Drawing Room",
-      "quote": "I think I have heard you say, that their uncle is an attorney in Meryton."
+      "quote": "Miss Bingley was engrossed by Mr. Darcy, her sister scarcely less so; and as for Mr. Hurst, by whom Elizabeth sat, he was an indolent man, who lived only to eat, drink, and play at cards.",
+      "emoji": "\ud83d\udecb\ufe0f"
     },
     {
       "name": "Pemberley Estate",
-      "quote": "It ought to be good; it has been the work of many generations."
+      "quote": "It ought to be good; it has been the work of many generations.",
+      "emoji": "\ud83c\udff0"
     },
     {
       "name": "Mr. Philips's House",
-      "quote": "Mr. Philips visited them all, and this opened to his nieces a source of felicity unknown before."
+      "quote": "Mr. Philips visited them all, and this opened to his nieces a source of felicity unknown before.",
+      "emoji": "\ud83c\udfe1"
     },
     {
       "name": "A Social Gathering",
-      "quote": "What a charming amusement for young people this is, Mr. Darcy!"
+      "quote": "The ladies of Longbourn soon waited on those of Netherfield. The visit was returned in due form.",
+      "emoji": "\ud83c\udf89"
     },
     {
       "name": "Bingley\u2019s Residence",
-      "quote": "I hope it will soon be increased by seeing her quite well."
+      "quote": "Mr. Bingley was quite uncomfortable; his sisters declared that they were miserable.",
+      "emoji": "\ud83c\udfe0"
     }
   ]
 }

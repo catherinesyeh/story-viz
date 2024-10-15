@@ -1,23 +1,51 @@
-import { useState, useRef, useEffect } from "react";
+import { useRef, useEffect } from "react";
 import "./App.scss";
-import ChapterSlider from "./components/ChapterSlider";
+import ChapterSlider from "./components/XAxis/ChapterSlider";
 import LegendDiv from "./components/LegendDiv";
 import PlotOptions from "./components/PlotOptions";
 import StoryVis from "./components/StoryVis";
 import { dataStore } from "./stores/dataStore";
 import { Button, Divider } from "@mantine/core";
 import { FiFileText } from "react-icons/fi";
+import YAxisDiv from "./components/YAxis/YAxisDiv";
+import { storyStore } from "./stores/storyStore";
+import { positionStore } from "./stores/positionStore";
+import {
+  character_offset,
+  location_buffer,
+  location_height,
+} from "./utils/consts";
 
 function App() {
   const { data, scene_data } = dataStore();
-
-  const [marginTop, setMarginTop] = useState(0);
+  const { plotHeight } = positionStore();
+  const {
+    setStoryMarginTop,
+    storyMarginTop,
+    story,
+    fullHeight,
+    yAxisHeight,
+    yAxis,
+    setStoryScrollX,
+    storyScrollX,
+    overlay,
+  } = storyStore();
   const headerRef = useRef<HTMLDivElement>(null);
+
+  const ratio = yAxisHeight / plotHeight;
+  const margin =
+    story.includes("-new") &&
+    !fullHeight &&
+    (yAxis === "location" || yAxis === "character")
+      ? 160 * ratio
+      : yAxis === "location" || yAxis === "character"
+      ? 160
+      : 20;
 
   const handleResize = () => {
     if (headerRef.current) {
-      const headerHeight = headerRef.current.clientHeight - 10;
-      setMarginTop(headerHeight);
+      const headerHeight = headerRef.current.clientHeight - 5;
+      setStoryMarginTop(headerHeight);
     }
   };
 
@@ -29,9 +57,25 @@ function App() {
   }, []);
 
   useEffect(() => {
+    if (document) {
+      const elem = document.getElementById("story-contain");
+      if (elem) {
+        elem.scrollTo({
+          left: storyScrollX,
+          //   behavior: "smooth",
+        });
+      }
+    }
+  }, [storyScrollX]);
+
+  const handleScroll = (e: HTMLElement) => {
+    const scroll = e.scrollLeft;
+    setStoryScrollX(scroll);
+  };
+
+  useEffect(() => {
     if (scene_data) handleResize();
   }, [scene_data]);
-
   return (
     <div id="app">
       <div id="header-container" ref={headerRef}>
@@ -69,7 +113,25 @@ function App() {
         <LegendDiv />
       </div>
 
-      <div id="story-contain" style={{ marginTop: marginTop }}>
+      <div
+        id="story-contain"
+        style={{
+          marginTop: storyMarginTop,
+          width: `calc(100% - ${margin}px)`,
+          marginLeft: `calc(${margin}px - 1rem`,
+          marginBottom: fullHeight
+            ? `${
+                location_height * 2.5 * ratio +
+                (overlay !== "none" ? 80 : 0) +
+                40
+              }px`
+            : "40px",
+        }}
+        onScroll={(e) => {
+          handleScroll(e.currentTarget);
+        }}
+      >
+        <YAxisDiv />
         <StoryVis />
       </div>
       <ChapterSlider />

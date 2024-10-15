@@ -11,7 +11,6 @@ import {
 import { dataStore } from "../stores/dataStore";
 import { RatingDict } from "../utils/data";
 import { positionStore } from "../stores/positionStore";
-import { scene_base } from "../utils/consts";
 
 function Defs() {
   const { sceneHover, characterColor } = storyStore();
@@ -88,9 +87,9 @@ function Defs() {
               scenePos[og_last_scene] && scenePos[og_first_scene]
                 ? scenePos[og_last_scene].x -
                   scenePos[og_first_scene].x +
-                  sceneWidth
+                  (sceneWidth / 3) * 2
                 : 0;
-            const fade_in_buffer = scene_base / line_length / 3;
+            const fade_in_buffer = sceneWidth / line_length / 3;
             const fade_in_buffer_percent = fade_in_buffer * 100;
 
             const start_gap =

@@ -8,6 +8,16 @@ interface IStore {
   setYAxis: (val: string) => void;
   fullHeight: boolean;
   setFullHeight: (val: boolean) => void;
+  storyMarginTop: number;
+  setStoryMarginTop: (val: number) => void;
+  yAxisHeight: number;
+  setYAxisHeight: (val: number) => void;
+  xAxisWidth: number;
+  setXAxisWidth: (val: number) => void;
+  storyScroll: number;
+  setStoryScroll: (val: number) => void;
+  storyScrollX: number;
+  setStoryScrollX: (val: number) => void;
 
   overlay: string;
   setOverlay: (val: string) => void;
@@ -36,13 +46,15 @@ interface IStore {
 
 const initialState = {
   yAxis: "location",
-  fullHeight: false,
   overlay: "none",
   colorBy: "sentiment",
   sizeBy: "length",
   weightBy: "importance",
   characterColor: "llm",
   showChapters: false,
+
+  storyScroll: 0,
+  storyScrollX: 0,
 
   locationHover: "",
   characterHover: "",
@@ -52,11 +64,21 @@ const initialState = {
 
 export const storyStore = create<IStore>()((set) => ({
   story: "gatsby",
+  fullHeight: false,
+  yAxisHeight: 0,
+  xAxisWidth: 0,
+  storyMarginTop: 0,
   ...initialState,
 
   setStory: (val: string) => set({ story: val }),
   setYAxis: (val: string) => set({ yAxis: val }),
   setFullHeight: (val: boolean) => set({ fullHeight: val }),
+  setYAxisHeight: (val: number) => set({ yAxisHeight: val }),
+  setXAxisWidth: (val: number) => set({ xAxisWidth: val }),
+
+  setStoryMarginTop: (val: number) => set({ storyMarginTop: val }),
+  setStoryScroll: (val: number) => set({ storyScroll: val }),
+  setStoryScrollX: (val: number) => set({ storyScrollX: val }),
 
   setOverlay: (val: string) => set({ overlay: val }),
   setColorBy: (val: string) => set({ colorBy: val }),

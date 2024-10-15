@@ -1,21 +1,29 @@
-import { storyStore } from "../stores/storyStore";
+import { storyStore } from "../../stores/storyStore";
 import {
   location_offset,
   character_offset,
   character_height,
   location_height,
-} from "../utils/consts";
-import { dataStore } from "../stores/dataStore";
-import { positionStore } from "../stores/positionStore";
+  location_buffer,
+} from "../../utils/consts";
+import { dataStore } from "../../stores/dataStore";
+import { positionStore } from "../../stores/positionStore";
 
 function OverlayCurve() {
   const { overlay, sceneHover, locationHover, characterHover, colorBy } =
     storyStore();
-  const { conflictPath, importancePath, lengthPath, scenePos, minConflictY } =
+  const { conflictPath, importancePath, lengthPath, scenePos } =
     positionStore();
   const { scenes } = dataStore();
   return (
-    <g id="conflict-container">
+    <g
+      id="conflict-container"
+      transform={
+        "translate(0 " +
+        (overlay !== "none" ? -0.5 * character_height : 0) +
+        ")"
+      }
+    >
       {/* add conflict curve */}
       <path
         id="conflict-curve"
@@ -45,7 +53,7 @@ function OverlayCurve() {
           className="white-overlay"
           fill="url(#white-gradient)"
           x={scenePos[0].x}
-          y={minConflictY - location_height + 0.5 * character_height}
+          y={location_buffer - location_height + 0.5 * character_height}
           width={
             overlay === "none" ||
             sceneHover === "" ||
@@ -66,7 +74,7 @@ function OverlayCurve() {
               ? scenePos[scenePos.length - 1].x
               : scenePos[scenes.indexOf(sceneHover)].x + 0.5 * character_offset
           }
-          y={minConflictY - location_height + 0.5 * character_height}
+          y={location_buffer - location_height + 0.5 * character_height}
           width={
             overlay === "none" ||
             sceneHover === "" ||
@@ -90,21 +98,21 @@ function OverlayCurve() {
           markerEnd={overlay === "none" ? "" : "url(#head)"}
           strokeWidth="2"
           stroke="black"
-          d={`M${scenePos[0].x},${minConflictY} , ${scenePos[0].x},${
-            minConflictY - location_height + 0.5 * character_height
+          d={`M${scenePos[0].x},${location_buffer} , ${scenePos[0].x},${
+            location_buffer - location_height + 0.5 * character_height
           }`}
         />
         {/* add label to arrow */}
         <text
           x={scenePos[0].x - 0.5 * location_offset}
-          y={minConflictY || 0}
+          y={location_buffer || 0}
           textAnchor="start"
           className="conflict-label"
           transform={
             "rotate(-90," +
             (scenePos[0].x - 0.5 * location_offset) +
             ", " +
-            minConflictY +
+            location_buffer +
             ")"
           }
         >

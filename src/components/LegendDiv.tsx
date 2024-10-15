@@ -4,6 +4,7 @@ import { storyStore } from "../stores/storyStore";
 import { getColor } from "../utils/colors";
 import CharacterDiv from "./Overlays/CharacterDiv";
 import { FaRedo } from "react-icons/fa";
+import LocationDiv from "./Overlays/LocationDiv";
 
 function LegendDiv() {
   const {
@@ -102,6 +103,7 @@ function LegendDiv() {
         })}
       </div>
       <CharacterDiv />
+      <LocationDiv />
     </div>
   );
 }
