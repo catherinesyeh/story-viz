@@ -10,11 +10,8 @@ import { FiFileText } from "react-icons/fi";
 import YAxisDiv from "./components/YAxis/YAxisDiv";
 import { storyStore } from "./stores/storyStore";
 import { positionStore } from "./stores/positionStore";
-import {
-  character_offset,
-  location_buffer,
-  location_height,
-} from "./utils/consts";
+import { location_height } from "./utils/consts";
+import SceneDiv from "./components/Overlays/SceneDiv";
 
 function App() {
   const { data, scene_data } = dataStore();
@@ -135,6 +132,7 @@ function App() {
         <StoryVis />
       </div>
       <ChapterSlider />
+      <SceneDiv />
     </div>
   );
 }

@@ -1,6 +1,5 @@
 import Defs from "./Defs";
 import MainPlot from "./MainPlot";
-import OverlayInfo from "./Overlays/OverlayInfo";
 import { positionStore } from "../stores/positionStore";
 import { storyStore } from "../stores/storyStore";
 import { dataStore } from "../stores/dataStore";
@@ -82,7 +81,6 @@ function StoryVis() {
       >
         <Defs />
         <MainPlot />
-        <OverlayInfo />
       </svg>
       <XAxisSVG />
     </div>

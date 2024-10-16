@@ -16,7 +16,6 @@ import {
   CharacterScene,
   Scene,
   SceneCharacter,
-  SceneSummary,
   CharacterData,
   RatingDict,
 } from "./data";
@@ -644,76 +643,6 @@ const sceneBoxes = (
     };
   });
 
-// scene quote box positions
-const base_scene_summary_box = (plotWidth: number) => {
-  const width = scene_base * 8.5;
-  return {
-    x: plotWidth - width - 2 * character_offset,
-    y: 0,
-    width: width,
-  } as SceneSummaryBox;
-};
-
-const scene_summary_texts = (
-  scene_summary_boxes: SceneSummaryBox,
-  scenes: string[],
-  sceneSummaries: SceneSummary[],
-  numRatings: number
-) =>
-  scenes.map((_, i) => {
-    const start_x = scene_summary_boxes.x + 0.9 * character_offset;
-    const end_x = start_x + scene_summary_boxes.width - 1.7 * location_offset;
-    const section =
-      (end_x - start_x) / numRatings -
-      (1 - 0.05 * (numRatings + 1)) * character_offset;
-
-    let start_y = 1.75 * character_offset;
-    const title_y = start_y + 2.4 * character_offset;
-    const summary_y = title_y + 1.6 * character_offset;
-    const end_summary_y =
-      summary_y + 1.2 * sceneSummaries[i].summary.length * character_offset;
-    const location_y = end_summary_y + 0.6 * character_offset;
-    const divider_y = location_y + character_offset;
-    const character_y = divider_y + 1.6 * character_offset;
-    const character_list_y = character_y + 1.6 * character_offset;
-
-    // compute offset needed for each character in the list
-    let total_offset = 0;
-    const character_offsets = sceneSummaries[i].emotions.map((char: any) => {
-      const cur_offset = total_offset;
-      total_offset +=
-        (char.emotion_quote.length - 1) * 1.2 * character_offset +
-        1.6 * character_offset;
-      return cur_offset;
-    });
-
-    const num_characters = sceneSummaries[i].emotions.length;
-    const last_character = sceneSummaries[i].emotions[num_characters - 1];
-    const last_quote_index = last_character.emotion_quote.length - 1;
-
-    const height =
-      character_list_y +
-      1.4 * num_characters * character_offset +
-      1.2 * last_quote_index * character_offset +
-      character_offsets[num_characters - 1] +
-      character_offset;
-
-    return {
-      x: start_x,
-      end_x: end_x,
-      section: section,
-      y: start_y,
-      title_y: title_y,
-      summary_y: summary_y,
-      location_y: location_y,
-      divider_y: divider_y,
-      character_y: character_y,
-      character_list_y: character_list_y,
-      character_offsets: character_offsets,
-      height: height,
-    };
-  });
-
 export const findPotentialOverlappingScenes = (
   scenePos: Position[],
   baseBox: SceneSummaryBox
@@ -762,166 +691,6 @@ export const findOverlappingScenes = (
 
     return acc;
   }, []);
-
-// update scene summary box and text positions (if more than 24 scenes)
-const update_scene_summaries_large = (
-  sceneWidth: number,
-  plotWidth: number,
-  baseBox: SceneSummaryBox,
-  sceneSummaryTexts: SceneSummaryText[],
-  sceneBoxes: Box[]
-) => {
-  const new_scene_summary_boxes = [] as SceneSummaryBox[];
-  const new_scene_summary_texts = [] as SceneSummaryText[];
-
-  const width = baseBox.width;
-
-  // find max Y value in sceneBoxes
-  const max_y = Math.max(
-    ...sceneBoxes.map((box) => (!isNaN(box.y) ? box.y + box.height : 0))
-  );
-
-  sceneSummaryTexts.forEach((text, i) => {
-    const new_box = { ...baseBox };
-    const new_text = { ...text };
-
-    const scene_x = sceneBoxes[i].x;
-    const right = plotWidth - width > scene_x + sceneWidth;
-
-    if (right) {
-      new_box.x = scene_x + sceneWidth;
-    } else {
-      new_box.x = scene_x - sceneWidth - width + sceneBoxes[i].width;
-    }
-
-    // find character with min y value in this scene
-    const scene_y = sceneBoxes[i].y;
-    const height = text.height;
-    // find max y in characterPos
-    const alignTop = max_y - height > scene_y;
-
-    if (alignTop) {
-      new_box.y += scene_y;
-    } else {
-      new_box.y += max_y - height;
-    }
-
-    // calculate y_translate
-    const y_translate = new_box.y - baseBox.y;
-    // calculate x_translate
-    const x_translate = new_box.x - baseBox.x;
-
-    new_text.y += y_translate;
-    new_text.title_y += y_translate;
-    new_text.summary_y += y_translate;
-    new_text.location_y += y_translate;
-    new_text.divider_y += y_translate;
-    new_text.character_y += y_translate;
-    new_text.character_list_y += y_translate;
-
-    new_text.x += x_translate;
-    new_text.end_x += x_translate;
-
-    new_scene_summary_boxes.push(new_box);
-    new_scene_summary_texts.push(new_text);
-  });
-
-  return {
-    scene_summary_boxes: new_scene_summary_boxes,
-    scene_summary_texts: new_scene_summary_texts,
-  };
-};
-
-// update scene summary box and text positions
-const update_scene_summaries = (
-  plotWidth: number,
-  scenePos: Position[],
-  baseBox: SceneSummaryBox,
-  characterScenes: CharacterScene[],
-  sceneCharacters: SceneCharacter[],
-  characterPos: Position[][],
-  sceneSummaryTexts: SceneSummaryText[]
-) => {
-  // find scenes that will overlap with the scene overlay using scenePos, save their indices
-  const potentialOverlappingScenes = findPotentialOverlappingScenes(
-    scenePos,
-    baseBox
-  );
-
-  // iterating over overlappingScenes, check if any character squares will overlap with the scene overlay using characterPos
-  const overlappingScenes = findOverlappingScenes(
-    potentialOverlappingScenes,
-    sceneCharacters,
-    characterScenes,
-    characterPos,
-    sceneSummaryTexts
-  );
-
-  // update scene summary box and text positions
-  const new_scene_summary_boxes = [] as SceneSummaryBox[];
-  const new_scene_summary_texts = [] as SceneSummaryText[];
-
-  sceneSummaryTexts.forEach((text, i) => {
-    const new_box = { ...baseBox };
-
-    if (overlappingScenes.includes(i) || baseBox.x < scene_offset) {
-      new_box.x = plotWidth - baseBox.width;
-    }
-    new_scene_summary_boxes.push(new_box);
-
-    const new_text = { ...text };
-    if (overlappingScenes.includes(i) || baseBox.x < scene_offset) {
-      // also check if there is still any overlap with the character squares
-
-      const characters = sceneCharacters[i].characters;
-
-      let x_translate = new_box.x - new_text.x + 0.9 * character_offset;
-      let y_translate = new_box.y - new_text.y + 1.75 * character_offset;
-
-      // see if any characters' y pos will overlap with the scene overlay
-      const still_overlap = characters.some((char) => {
-        // find index in characterScenes of this scene
-        const charIndex = characterScenes.findIndex(
-          (c) => c.character === char
-        );
-        // find index of scene
-        const charSceneIndex = characterScenes[charIndex].scenes.findIndex(
-          (s) => s === i
-        );
-        const charPos = characterPos[charIndex][charSceneIndex];
-        return (
-          charPos &&
-          charPos.x > new_box.x - character_offset &&
-          charPos.y <
-            sceneSummaryTexts[i].height + y_translate + character_offset
-        );
-      });
-
-      if (still_overlap) {
-        // move the text to the left of the plot
-        x_translate = -1 * (new_text.x - scene_offset);
-        new_box.x = scene_offset - 0.9 * character_offset;
-      } else {
-        new_text.y += y_translate;
-        new_text.title_y += y_translate;
-        new_text.summary_y += y_translate;
-        new_text.location_y += y_translate;
-        new_text.divider_y += y_translate;
-        new_text.character_y += y_translate;
-        new_text.character_list_y += y_translate;
-      }
-
-      new_text.x += x_translate;
-      new_text.end_x += x_translate;
-    }
-    new_scene_summary_texts.push(new_text);
-  });
-
-  return {
-    scene_summary_boxes: new_scene_summary_boxes,
-    scene_summary_texts: new_scene_summary_texts,
-  };
-};
 
 // compute overlay curve positions based on conflict/importance/etc. rating of each scene
 const overlay_points = (
@@ -979,7 +748,6 @@ export const getAllPositions = (
   characterScenes: CharacterScene[],
   sceneLocations: string[],
   sceneCharacters: SceneCharacter[],
-  sceneSummaries: SceneSummary[],
   sortedCharacters: CharacterData[],
   evenSpacing: boolean,
   ratingDict: RatingDict,
@@ -1076,40 +844,6 @@ export const getAllPositions = (
     characterScenes
   );
 
-  const initSceneSummaryBox = base_scene_summary_box(plotWidth);
-
-  let initSceneSummaryTexts = scene_summary_texts(
-    initSceneSummaryBox,
-    scenes,
-    sceneSummaries,
-    Object.keys(ratingDict).length
-  );
-
-  let updatedSceneSummaryPos;
-
-  if (scenes.length <= 24) {
-    updatedSceneSummaryPos = update_scene_summaries(
-      plotWidth,
-      initScenePos,
-      initSceneSummaryBox,
-      characterScenes,
-      sceneCharacters,
-      initCharacterPos,
-      initSceneSummaryTexts
-    );
-  } else {
-    updatedSceneSummaryPos = update_scene_summaries_large(
-      sceneWidth,
-      plotWidth,
-      initSceneSummaryBox,
-      initSceneSummaryTexts,
-      initSceneBoxes
-    );
-  }
-
-  const initSceneSummaryBoxes = updatedSceneSummaryPos.scene_summary_boxes;
-  initSceneSummaryTexts = updatedSceneSummaryPos.scene_summary_texts;
-
   // const plotHeight = initScenePos[0].y + location_height * 2.5;
   const plotHeight = max_y + location_offset;
 
@@ -1157,8 +891,6 @@ export const getAllPositions = (
     characterSquares: initCharacterSquares,
     characterPaths: initCharacterPaths,
     sceneBoxes: initSceneBoxes,
-    sceneSummaryBoxes: initSceneSummaryBoxes,
-    sceneSummaryTexts: initSceneSummaryTexts,
     conflictPath: initConflictPath,
     importancePath: initImportancePath,
     lengthPath: initLengthPath,

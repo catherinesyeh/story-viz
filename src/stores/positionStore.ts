@@ -4,18 +4,11 @@ import {
   getAllData,
   CharacterScene,
   SceneCharacter,
-  SceneSummary,
   CharacterData,
   RatingDict,
 } from "../utils/data";
 import init_data from "../data/gatsby.json";
-import {
-  Box,
-  Position,
-  SceneSummaryBox,
-  SceneSummaryText,
-  getAllPositions,
-} from "../utils/positions";
+import { Box, Position, getAllPositions } from "../utils/positions";
 
 /* INITIAL VALUES */
 const init_data_values = getAllData(init_data);
@@ -26,7 +19,6 @@ const init_pos_values = getAllPositions(
   init_data_values.characterScenes,
   init_data_values.sceneLocations,
   init_data_values.sceneCharacters,
-  init_data_values.sceneSummaries,
   init_data_values.sortedCharacters,
   true,
   init_data_values.ratingDict
@@ -43,8 +35,6 @@ interface IStore {
   characterSquares: Box[][];
   characterPaths: string[][];
   sceneBoxes: Box[];
-  sceneSummaryBoxes: SceneSummaryBox[];
-  sceneSummaryTexts: SceneSummaryText[];
   conflictPath: string;
   importancePath: string;
   lengthPath: string;
@@ -58,7 +48,6 @@ interface IStore {
     characterScenes: CharacterScene[],
     sceneLocations: string[],
     sceneCharacters: SceneCharacter[],
-    sceneSummaries: SceneSummary[],
     sortedCharacters: CharacterData[],
     evenSpacing: boolean,
     ratingDict: RatingDict,
@@ -71,7 +60,6 @@ interface IStore {
     characterScenes: CharacterScene[],
     sceneLocations: string[],
     sceneCharacters: SceneCharacter[],
-    sceneSummaries: SceneSummary[],
     sortedCharacters: CharacterData[],
     evenSpacing: boolean,
     ratingDict: RatingDict,
@@ -89,8 +77,6 @@ const initialState = {
   characterSquares: init_pos_values.characterSquares,
   characterPaths: init_pos_values.characterPaths,
   sceneBoxes: init_pos_values.sceneBoxes,
-  sceneSummaryBoxes: init_pos_values.sceneSummaryBoxes,
-  sceneSummaryTexts: init_pos_values.sceneSummaryTexts,
   conflictPath: init_pos_values.conflictPath,
   importancePath: init_pos_values.importancePath,
   lengthPath: init_pos_values.lengthPath,
@@ -107,7 +93,6 @@ export const positionStore = create<IStore>((set, get) => ({
     characterScenes: CharacterScene[],
     sceneLocations: string[],
     sceneCharacters: SceneCharacter[],
-    sceneSummaries: SceneSummary[],
     sortedCharacters: CharacterData[],
     evenSpacing: boolean,
     ratingDict: RatingDict,
@@ -120,7 +105,6 @@ export const positionStore = create<IStore>((set, get) => ({
       characterScenes,
       sceneLocations,
       sceneCharacters,
-      sceneSummaries,
       sortedCharacters,
       evenSpacing,
       ratingDict,
@@ -142,8 +126,6 @@ export const positionStore = create<IStore>((set, get) => ({
       characterSquares: newPositions.characterSquares,
       characterPaths: newPositions.characterPaths,
       sceneBoxes: newPositions.sceneBoxes,
-      sceneSummaryBoxes: newPositions.sceneSummaryBoxes,
-      sceneSummaryTexts: newPositions.sceneSummaryTexts,
       conflictPath: newPositions.conflictPath,
       importancePath: newPositions.importancePath,
       lengthPath: newPositions.lengthPath,
@@ -158,7 +140,6 @@ export const positionStore = create<IStore>((set, get) => ({
     characterScenes: CharacterScene[],
     sceneLocations: string[],
     sceneCharacters: SceneCharacter[],
-    sceneSummaries: SceneSummary[],
     sortedCharacters: CharacterData[],
     evenSpacing: boolean,
     ratingDict: RatingDict,
@@ -172,7 +153,6 @@ export const positionStore = create<IStore>((set, get) => ({
       characterScenes,
       sceneLocations,
       sceneCharacters,
-      sceneSummaries,
       sortedCharacters,
       evenSpacing,
       ratingDict,
