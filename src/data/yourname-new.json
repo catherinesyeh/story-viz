@@ -2794,71 +2794,88 @@
   "locations": [
     {
       "name": "Train",
-      "quote": "\"My name is Mitsuha!\" The girl shouts, undoing the cord she'd used to tie back her hair and holding it out to me."
+      "quote": "I don't recognize that ringtone, I think drowsily.",
+      "emoji": "\ud83d\ude86"
     },
     {
       "name": "Unknown Bedroom",
-      "quote": "\"I'm...a girl?\" Abruptly, the drowsy fog enveloping my body is gone."
+      "quote": "I'm...a girl?",
+      "emoji": "\ud83d\udecf\ufe0f"
     },
     {
       "name": "Itomori",
-      "quote": "\"Sis, you're so late!\" As I open the sliding door and step into the living room, Yotsuha's accusation flies to greet me."
+      "quote": "The deep-green mountains form their ranks under white clouds in a blue sky.",
+      "emoji": "\ud83c\udfde\ufe0f"
     },
     {
       "name": "School",
-      "quote": "\"With a sharp tak, tak, tak, the teacher writes a short poem on the blackboard.\""
+      "quote": "You seriously don't remember?",
+      "emoji": "\ud83c\udfeb"
     },
     {
       "name": "Miyamizu Shrine",
-      "quote": "\"Our braided cords hold a thousand years of Itomori's history. I tell you, that school of yours really should put priority on teachin' this sort of town history to you children.\""
+      "quote": "Our braided cords hold a thousand years of Itomori's history.",
+      "emoji": "\u26e9\ufe0f"
     },
     {
       "name": "Strange Bathroom",
-      "quote": "\"What a weird dream,\" I say out loud."
+      "quote": "What a weird dream.",
+      "emoji": "\ud83d\udebd"
     },
     {
       "name": "Tokyo",
-      "quote": "\"This world is far too dazzling,\" I murmur."
+      "quote": "This world is far too dazzling.",
+      "emoji": "\ud83c\udfd9\ufe0f"
     },
     {
       "name": "Restaurants",
-      "quote": "\"So listen, after class today, wanna go to that cafe again?\" Takagi asks."
+      "quote": "So listen, after class today, wanna go to that cafe again?",
+      "emoji": "\ud83c\udf7d\ufe0f"
     },
     {
       "name": "Dressing Room",
-      "quote": "\"All done!\" I hand the skirt to Miss Okudera."
+      "quote": "This is amazing! Taki, wow!",
+      "emoji": "\ud83d\udc57"
     },
     {
       "name": "Taki's Workplace",
-      "quote": "\"...What is this?\" I say the words aloud, despite myself. I'm staring at my hand."
+      "quote": "...What is this?",
+      "emoji": "\ud83c\udfe2"
     },
     {
       "name": "Mitsuha's Home",
-      "quote": "\"What the heck is this life??\" I stare at the notebook."
+      "quote": "What the heck is this life??",
+      "emoji": "\ud83c\udfe0"
     },
     {
       "name": "Smartphone Diary Entries",
-      "quote": "\"Mitsuha, you twit, don't go scarfing down crazy-expensive cakes!\""
+      "quote": "Mitsuha, you twit, don't go scarfing down crazy-expensive cakes!",
+      "emoji": "\ud83d\udcf1"
     },
     {
       "name": "A Quiet Inn Room",
-      "quote": "\"The sun rises between the buildings. Little by little, the daylight glints off countless windows.\""
+      "quote": "I can't take it, and I scream.",
+      "emoji": "\ud83d\udecc"
     },
     {
       "name": "Mountain Area",
-      "quote": "\"The air is crisp and dry, and there's a strong scent of dead leaves in the pleasant wind.\""
+      "quote": "The air is crisp and dry, and there's a strong scent of dead leaves in the pleasant wind.",
+      "emoji": "\u26f0\ufe0f"
     },
     {
       "name": "Mayor's Office",
-      "quote": "\"Most importantly, economic revitalization, in order to sustain the village restoration project!\""
+      "quote": "Most importantly, economic revitalization, in order to sustain the village restoration project!",
+      "emoji": "\ud83c\udfdb\ufe0f"
     },
     {
       "name": "Yotsuya",
-      "quote": "\"...Are you hungry? We could go get dinner somewhere\u2014\""
+      "quote": "I wonder...",
+      "emoji": "\ud83c\udfd9\ufe0f"
     },
     {
       "name": "Ward Library",
-      "quote": "\"I expect that's local dialect, isn't it? I hear the elderly people in Itomori still use ancient Japanese words here and there.\""
+      "quote": "Good morning, everyone.",
+      "emoji": "\ud83d\udcda"
     }
   ]
 }

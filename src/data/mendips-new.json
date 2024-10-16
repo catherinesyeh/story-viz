@@ -4018,59 +4018,73 @@
   "locations": [
     {
       "name": "Fair Acres Manor",
-      "quote": "It was a fair morning of early summer, when the low beams of the eastern sun, threw flickering shadows across the lawn, which lay before Fair Acres Manor, nestling under the shelter of the Mendip Hills, somewhere between Wells and Cheddar."
+      "quote": "It was a fair morning of early summer, when the low beams of the eastern sun, threw flickering shadows across the lawn, which lay before Fair Acres Manor, nestling under the shelter of the Mendip Hills, somewhere between Wells and Cheddar.",
+      "emoji": "\ud83c\udfe1"
     },
     {
       "name": "Rural Setting",
-      "quote": "An isolated manorial farm like Fair Acres, and a family like the Falconers who inhabited it, are all but impossible to find nowadays."
+      "quote": "The dewy lawn before Fair Acres, with its beautiful mosaic of white and gold, fringed with circles of deepest crimson here and there, would not suit the taste of the conventional gardener of these days.",
+      "emoji": "\ud83c\udf3e"
     },
     {
       "name": "Wells",
-      "quote": "The squire's high \"four-wheel\" drew up before the door of the Swan Hotel at Wells about twelve o'clock that day."
+      "quote": "The squire's high 'four-wheel' drew up before the door of the Swan Hotel at Wells about twelve o'clock that day. Mr. Falconer was well-known there, and there was a general rush to meet him.",
+      "emoji": "\ud83c\udfd9\ufe0f"
     },
     {
       "name": "Ebbor Valley",
-      "quote": "The family embarks on a holiday excursion, facing challenges and tensions, leading to moments of connection and reflection."
+      "quote": "The family embarks on a holiday excursion, facing challenges and tensions, leading to moments of connection and reflection in Ebbor Valley.",
+      "emoji": "\ud83c\udfde\ufe0f"
     },
     {
       "name": "Mendip Mines",
-      "quote": "The family embarks on a holiday excursion, facing challenges and tensions, leading to moments of connection and reflection."
+      "quote": "The family embarks on a holiday excursion, facing challenges and tensions, leading to moments of connection and reflection in the Mendip Mines.",
+      "emoji": "\u26cf\ufe0f"
     },
     {
       "name": "Cheddar",
-      "quote": "The family embarks on a holiday excursion, facing challenges and tensions, leading to moments of connection and reflection."
+      "quote": "The family embarks on a holiday excursion, facing challenges and tensions, leading to moments of connection and reflection in Cheddar.",
+      "emoji": "\ud83e\uddc0"
     },
     {
       "name": "Clifton, Sion Hill",
-      "quote": "Gilbert Arundel arrives in Clifton to meet his mother, contemplating the changes in the area and his emotions towards Joyce."
+      "quote": "Gilbert Arundel arrives in Clifton to meet his mother, contemplating the changes in the area and his emotions towards Joyce.",
+      "emoji": "\ud83c\udfd9\ufe0f"
     },
     {
       "name": "Mr. Scott's Farm",
-      "quote": "Charlotte prepares for her visit to Barley Wood, receiving advice from her aunt."
+      "quote": "Charlotte prepares for her visit to Barley Wood, receiving advice from her aunt, while Joyce shares her experiences and captivates guests at a dinner party before receiving news of her father's illness at Mr. Scott's Farm.",
+      "emoji": "\ud83d\ude9c"
     },
     {
       "name": "Barley Wood",
-      "quote": "Charlotte prepares for her visit to Barley Wood, receiving advice from her aunt."
+      "quote": "Charlotte prepares for her visit to Barley Wood, receiving advice from her aunt, while Joyce shares her experiences and captivates guests at a dinner party before receiving news of her father's illness.",
+      "emoji": "\ud83c\udf33"
     },
     {
       "name": "Indoor Setting",
-      "quote": "Joyce shares her experiences and captivates guests at a dinner party before receiving news of her father's illness."
+      "quote": "The family gathers for breakfast, revealing tensions between Melville and his mother, and the dynamics of their household in an indoor setting.",
+      "emoji": "\ud83c\udfe0"
     },
     {
       "name": "Joyce's Home",
-      "quote": "Joyce navigates a chaotic city to comfort a dying man, highlighting the effects of violence and the quest for peace."
+      "quote": "Joyce navigates a chaotic city to comfort a dying man, highlighting the effects of violence and the quest for peace in her home.",
+      "emoji": "\ud83c\udfe1"
     },
     {
       "name": "Bristol",
-      "quote": "Joyce and her children leave Fair Acres for Bristol, facing family farewells and political unrest."
+      "quote": "Joyce and her children leave Fair Acres for Bristol, facing family farewells and political unrest, culminating in Joyce's unsettling encounter with a mob.",
+      "emoji": "\ud83c\udfd9\ufe0f"
     },
     {
       "name": "Infirmary",
-      "quote": "Joyce navigates a chaotic city to comfort a dying man, highlighting the effects of violence and the quest for peace."
+      "quote": "Joyce navigates a chaotic city to comfort a dying man, highlighting the effects of violence and the quest for peace at the infirmary.",
+      "emoji": "\ud83c\udfe5"
     },
     {
       "name": "Abbot's Leigh",
-      "quote": "Gilbert Arundel reflects on his life and family as the old year comes to a peaceful close."
+      "quote": "Gilbert Arundel reflects on his life and family as the old year comes to a peaceful close at Abbot's Leigh.",
+      "emoji": "\ud83c\udfde\ufe0f"
     }
   ]
 }

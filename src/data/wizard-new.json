@@ -7404,99 +7404,123 @@
   "locations": [
     {
       "name": "Kansas Prairies",
-      "quote": "Dorothy lived in the midst of the great Kansas prairies, with Uncle Henry, who was a farmer, and Aunt Em, who was the farmer's wife."
+      "quote": "Dorothy lived in the midst of the great Kansas prairies, with Uncle Henry, who was a farmer, and Aunt Em, who was the farmer's wife.",
+      "emoji": "\ud83c\udf3e"
     },
     {
       "name": "Uncle Henry's Farmhouse",
-      "quote": "Aunt Em dropped her work and came to the door. One glance told her of the danger close at hand."
+      "quote": "Aunt Em dropped her work and came to the door. One glance told her of the danger close at hand.",
+      "emoji": "\ud83c\udfe1"
     },
     {
       "name": "Dorothy's House In A Cyclone",
-      "quote": "The house whirled around two or three times and rose slowly through the air."
+      "quote": "The house whirled around two or three times and rose slowly through the air.",
+      "emoji": "\ud83c\udfe0\ud83c\udf2a\ufe0f"
     },
     {
       "name": "Land Of Oz",
-      "quote": "The cyclone had set the house down very gently\u2014for a cyclone\u2014in the midst of a country of marvelous beauty."
+      "quote": "The cyclone had set the house down very gently\u2014for a cyclone\u2014in the midst of a country of marvelous beauty.",
+      "emoji": "\ud83c\udf08"
     },
     {
       "name": "Wicked Witch's Castle",
-      "quote": "There are her two feet, still sticking out from under a block of wood."
+      "quote": "She was so old that she dried up quickly in the sun. That is the end of her.",
+      "emoji": "\ud83c\udff0"
     },
     {
       "name": "Fields Of Buttercups",
-      "quote": "The Scarecrow listened carefully, and said, 'I cannot understand why you should wish to leave this beautiful country and go back to the dry, gray place you call Kansas.'"
+      "quote": "The farms were not nearly so well cared for here as they were farther back.",
+      "emoji": "\ud83c\udf3c"
     },
     {
       "name": "Forest",
-      "quote": "They were obliged to camp out that night under a large tree in the forest, for there were no houses near."
+      "quote": "They found the forest very thick on this side, and it looked dark and gloomy.",
+      "emoji": "\ud83c\udf33"
     },
     {
       "name": "Cornfield",
-      "quote": "Dorothy leaned her chin upon her hand and gazed thoughtfully at the Scarecrow."
+      "quote": "There was a great cornfield beyond the fence, and not far away she saw a Scarecrow, placed high on a pole to keep the birds from the ripe corn.",
+      "emoji": "\ud83c\udf3d"
     },
     {
       "name": "By The Roadside Near A Brook",
-      "quote": "At noon they sat down by the roadside, near a little brook, and Dorothy opened her basket and got out some bread."
+      "quote": "At noon they sat down by the roadside, near a little brook, and Dorothy opened her basket and got out some bread.",
+      "emoji": "\ud83d\udca7"
     },
     {
       "name": "River",
-      "quote": "They found the forest very thick on this side, and it looked dark and gloomy."
+      "quote": "They suddenly came upon a broad river, flowing swiftly just before them.",
+      "emoji": "\ud83c\udf0a"
     },
     {
       "name": "Meadow Of Poppies",
-      "quote": "The travelers face challenges crossing a river, leading to the Scarecrow being stranded."
+      "quote": "The travelers face challenges crossing a river, leading to the Scarecrow being stranded, but they regroup and encounter a poppy field where Dorothy and the Lion fall asleep.",
+      "emoji": "\ud83c\udf3a"
     },
     {
       "name": "Beautiful Country Of The Quadlings",
-      "quote": "The travelers face the Hammer-Heads while crossing a rocky hill."
+      "quote": "The travelers face the Hammer-Heads while crossing a rocky hill, but with the help of the Winged Monkeys, they reach the Quadlings' land and are warmly welcomed.",
+      "emoji": "\ud83c\udf04"
     },
     {
       "name": "A Cozy Dining Room",
-      "quote": "The group wakes up after being saved by the mice, continues their journey towards the Emerald City."
+      "quote": "The group wakes up after being saved by the mice, continues their journey towards the Emerald City, faces unfriendliness from locals, seeks shelter at a farmhouse, enjoys a meal, and finally reaches the Emerald City where they meet the Guardian of the Gates.",
+      "emoji": "\ud83c\udf7d\ufe0f"
     },
     {
       "name": "Palace Of Oz",
-      "quote": "The travelers confront the Wizard of Oz, only to discover he is a humble old man who admits to being a fraud."
+      "quote": "The travelers confront the Wizard of Oz, only to discover he is a humble old man who admits to being a fraud, yet promises to help them.",
+      "emoji": "\ud83c\udfdb\ufe0f"
     },
     {
       "name": "Yellow Castle",
-      "quote": "The travelers face multiple attacks from the Wicked Witch of the West."
+      "quote": "The travelers face multiple attacks from the Wicked Witch of the West, but they manage to fend off her minions until the Witch captures Dorothy, leading to her accidental defeat.",
+      "emoji": "\ud83c\udff0\ud83d\udc9b"
     },
     {
       "name": "Dorothy's Camp In Oz",
-      "quote": "Dorothy helps Oz build a balloon to return home."
+      "quote": "Dorothy helps Oz build a balloon to return home, but he accidentally leaves without her, leaving her behind in Oz.",
+      "emoji": "\ud83c\udfd5\ufe0f"
     },
     {
       "name": "Wizard's Balloon Departure",
-      "quote": "Dorothy helps Oz build a balloon to return home."
+      "quote": "Dorothy helps Oz build a balloon to return home, but he accidentally leaves without her, leaving her behind in Oz.",
+      "emoji": "\ud83c\udf88"
     },
     {
       "name": "Forest With A Wall",
-      "quote": "The group constructs a ladder to scale a wall and encounters a land of fragile china people."
+      "quote": "The group constructs a ladder to scale a wall and encounters a land of fragile china people, where Dorothy inadvertently injures a cow and meets a princess who warns of the perils of leaving their realm.",
+      "emoji": "\ud83c\udf32\ud83e\uddf1"
     },
     {
       "name": "China Country",
-      "quote": "The group constructs a ladder to scale a wall and encounters a land of fragile china people."
+      "quote": "The group constructs a ladder to scale a wall and encounters a land of fragile china people, where Dorothy inadvertently injures a cow and meets a princess who warns of the perils of leaving their realm.",
+      "emoji": "\ud83c\udfee"
     },
     {
       "name": "Disagreeable Country",
-      "quote": "The travelers encounter a wild forest, where the Lion agrees to fight a monstrous spider."
+      "quote": "The travelers encounter a wild forest, where the Lion agrees to fight a monstrous spider to become King of the animals, ultimately defeating the creature and earning their loyalty.",
+      "emoji": "\ud83c\udf2a\ufe0f"
     },
     {
       "name": "Spider's Lair",
-      "quote": "The travelers encounter a wild forest, where the Lion agrees to fight a monstrous spider."
+      "quote": "The travelers encounter a wild forest, where the Lion agrees to fight a monstrous spider to become King of the animals, ultimately defeating the creature and earning their loyalty.",
+      "emoji": "\ud83d\udd77\ufe0f"
     },
     {
       "name": "Steep Hill",
-      "quote": "The travelers face the Hammer-Heads while crossing a rocky hill."
+      "quote": "The travelers face the Hammer-Heads while crossing a rocky hill, but with the help of the Winged Monkeys, they reach the Quadlings' land and are warmly welcomed.",
+      "emoji": "\u26f0\ufe0f"
     },
     {
       "name": "Castle Of Glinda",
-      "quote": "Dorothy and her friends meet Glinda the Good Witch, who helps them fulfill their desires."
+      "quote": "Dorothy and her friends meet Glinda the Good Witch, who helps them fulfill their desires, and Dorothy uses the power of the Silver Shoes to return home to Kansas.",
+      "emoji": "\ud83c\udff0\u2728"
     },
     {
       "name": "Land Of The Winkies",
-      "quote": "Dorothy and her friends meet Glinda the Good Witch, who helps them fulfill their desires."
+      "quote": "Dorothy and her friends meet Glinda the Good Witch, who helps them fulfill their desires, and Dorothy uses the power of the Silver Shoes to return home to Kansas.",
+      "emoji": "\ud83c\udfde\ufe0f"
     }
   ]
 }

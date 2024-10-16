@@ -2495,39 +2495,48 @@
   "locations": [
     {
       "name": "Verona",
-      "quote": "In fair Verona, where we lay our scene."
+      "quote": "In fair Verona, where we lay our scene,",
+      "emoji": "\ud83c\udfd9\ufe0f"
     },
     {
       "name": "A Street",
-      "quote": "A dog of the house of Montague moves me."
+      "quote": "A dog of the house of Montague moves me.",
+      "emoji": "\ud83d\udeb6\u200d\u2642\ufe0f"
     },
     {
       "name": "Verona, At The Capulet's Feast",
-      "quote": "O, she doth teach the torches to burn bright!"
+      "quote": "O, she doth teach the torches to burn bright!",
+      "emoji": "\ud83c\udf89"
     },
     {
       "name": "Capulet's House",
-      "quote": "Welcome, gentlemen! Ladies that have their toes unplagu'd with corns will have a bout with you."
+      "quote": "Welcome, gentlemen! Ladies that have their toes Unplagu'd with corns will have a bout with you.",
+      "emoji": "\ud83c\udfe0"
     },
     {
       "name": "A Lane By The Wall Of Capulet's Orchard",
-      "quote": "Can I go forward when my heart is here?"
+      "quote": "Can I go forward when my heart is here?",
+      "emoji": "\ud83c\udf33"
     },
     {
       "name": "Orchard",
-      "quote": "He jests at scars that never felt a wound."
+      "quote": "He ran this way, and leapt this orchard wall.",
+      "emoji": "\ud83c\udf4f"
     },
     {
       "name": "Friar Laurence's Cell",
-      "quote": "The grey-ey'd morn smiles on the frowning night."
+      "quote": "The grey-ey'd morn smiles on the frowning night,",
+      "emoji": "\ud83c\udff0"
     },
     {
       "name": "A Public Place",
-      "quote": "I pray thee, good Mercutio, let's retire."
+      "quote": "The day is hot, the Capulets abroad.",
+      "emoji": "\ud83c\udf1e"
     },
     {
       "name": "Verona Churchyard",
-      "quote": "O, I am fortune's fool!"
+      "quote": "In the tragic conclusion of the story, Romeo learns of Juliet's death.",
+      "emoji": "\u26b0\ufe0f"
     }
   ]
 }
