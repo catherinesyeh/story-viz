@@ -11,6 +11,7 @@ function CharacterDiv() {
   const { character_data, sortedCharacters } = dataStore();
 
   const [accentColor, setAccentColor] = useState("rgb(0, 0, 0)");
+  const [changeMargin, setChangeMargin] = useState(true);
   const [characterName, setCharacterName] = useState("");
   const [characterGroup, setCharacterGroup] = useState("");
   const [characterQuote, setCharacterQuote] = useState("");
@@ -22,6 +23,9 @@ function CharacterDiv() {
 
   useEffect(() => {
     const handleMouseMove = (event: MouseEvent) => {
+      if (!changeMargin) {
+        return;
+      }
       event.preventDefault();
       event.stopPropagation();
       let curX = event.clientX;
@@ -80,16 +84,18 @@ function CharacterDiv() {
       id="character-info"
       style={{
         borderColor: accentColor.split(")")[0] + ", 0.3)",
-        marginTop: `calc(${marginTop}px + 1rem)`,
+        marginTop: "calc(" + marginTop + "px + 1rem)",
       }}
       className={characterHover !== "" ? "" : "hidden"}
       onMouseEnter={(e) => {
         e.preventDefault();
         e.stopPropagation();
+        setChangeMargin(false);
       }}
       onMouseLeave={(e) => {
         e.preventDefault();
         e.stopPropagation();
+        setChangeMargin(true);
       }}
     >
       <div className="character-inner grid">
