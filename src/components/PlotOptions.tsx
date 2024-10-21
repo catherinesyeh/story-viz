@@ -84,6 +84,7 @@ function PlotOptions() {
     "coco",
     "mendips",
     "mendips-new",
+    "frankenstein-new",
   ].sort();
   const yAxisOptions = [
     "location",
