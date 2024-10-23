@@ -90,17 +90,21 @@ function App() {
               <span>
                 {data["author"] ? data["author"] : data["director"]}{" "}
                 <Divider orientation="vertical" /> {data["year"]}{" "}
-                <Divider orientation="vertical" />{" "}
-                <a href={data["url"]} target="_blank" title={data["title"]}>
-                  <Button
-                    size="xs compact"
-                    variant="light"
-                    id="info-button"
-                    leftSection={<FiFileText />}
-                  >
-                    Full {data["type"] === "Movie" ? "Script" : "Text"}
-                  </Button>
-                </a>
+                {data["url"] && (
+                  <>
+                    <Divider orientation="vertical" />{" "}
+                    <a href={data["url"]} target="_blank" title={data["title"]}>
+                      <Button
+                        size="xs compact"
+                        variant="light"
+                        id="info-button"
+                        leftSection={<FiFileText />}
+                      >
+                        Full {data["type"] === "Movie" ? "Script" : "Text"}
+                      </Button>
+                    </a>
+                  </>
+                )}
               </span>
             </div>
           </div>

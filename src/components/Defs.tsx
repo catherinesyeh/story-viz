@@ -165,7 +165,9 @@ function Defs() {
                     <stop
                       offset={fade_in_percent - fade_in_buffer_percent + "%"}
                       stopColor={
-                        segIndex === 0 ? start_color : "rgb(255,255,255,0)"
+                        segIndex === 0 && og_first_scene === first_scene
+                          ? start_color
+                          : "rgb(255,255,255, 1)"
                       }
                     />
                     <stop
@@ -234,9 +236,10 @@ function Defs() {
                     <stop
                       offset={fade_out_percent + fade_in_buffer_percent + "%"}
                       stopColor={
-                        segIndex === segments.length - 1
+                        segIndex === segments.length - 1 &&
+                        og_last_scene === last_scene
                           ? end_color
-                          : "rgb(255,255,255,0)"
+                          : "rgb(255,255,255,1)"
                       }
                     />
                   </>
