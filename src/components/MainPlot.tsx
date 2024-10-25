@@ -6,7 +6,7 @@ import {
   getLLMColor,
   importanceColor,
 } from "../utils/colors";
-import { character_height } from "../utils/consts";
+import { character_height, character_offset } from "../utils/consts";
 import { positionStore } from "../stores/positionStore";
 import { normalizeMarkerSize } from "../utils/helpers";
 
@@ -20,6 +20,9 @@ function MainPlot() {
     characterColor: characterColorBy,
     hidden,
     yAxis,
+    showChapters,
+    fullHeight,
+    story,
   } = storyStore();
   const {
     sceneBoxes,
@@ -28,6 +31,8 @@ function MainPlot() {
     characterSquares,
     firstPoints,
     lastPoints,
+    scenePos,
+    plotHeight,
   } = positionStore();
   const {
     scene_data,
@@ -315,6 +320,42 @@ function MainPlot() {
               />
             )
         )}
+      </g>
+      {/* add chapter divisions */}
+      <g id="chapter-lines">
+        {activeChapterDivisions &&
+          activeChapterDivisions.length > 0 &&
+          activeChapterDivisions[0].chapter &&
+          activeChapterDivisions.map((chapter, i) => {
+            const chapterPos = scenePos[chapter.index];
+            const chapterX = chapterPos && chapterPos.x - character_offset;
+            return (
+              <line
+                x1={chapterX}
+                x2={chapterX}
+                y1={0}
+                y2={plotHeight}
+                stroke={"rgb(0,0,0,0.7)"}
+                strokeWidth={2}
+                strokeDasharray={
+                  story.includes("-new") && !fullHeight ? "4" : "8"
+                }
+                key={"chapterline" + i}
+                className={
+                  "chapterline " +
+                  (showChapters ? "" : "hidden ") +
+                  ((locationHover === "" &&
+                    sceneHover === "" &&
+                    characterHover === "") ||
+                  chapter.locations.includes(locationHover) ||
+                  chapter.scenes.includes(sceneHover) ||
+                  chapter.characters.includes(characterHover)
+                    ? ""
+                    : "faded")
+                }
+              />
+            );
+          })}
       </g>
     </g>
   );

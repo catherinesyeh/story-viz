@@ -619,17 +619,27 @@ h1 {
       transition: 0.3s;
     }
 
+    .chapterline {
+      transition: 0.3s;
+    }
+
+    .chapterline.hidden {
+      stroke-opacity: 0;
+    }
+
     .scene-name.faded .scene-name-text,
     .location-group.faded .location-name,
     .chapter-line-group.faded .chapter-label {
       fill-opacity: 0.15;
     }
 
-    .chapter-line-group.faded .chapter-line {
+    .chapter-line-group.faded .chapter-line,
+    .chapterline.faded {
       stroke-opacity: 0.15;
     }
 
-    .chapter-line-group.hidden {
+    .chapter-line-group.hidden,
+    .chapterline.hidden {
       pointer-events: none;
       visibility: hidden;
 

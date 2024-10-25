@@ -141,8 +141,27 @@ export const onlyLetters = (s: string) => s.replace(/[^a-zA-Z ]/g, "");
 // format chapter name
 export const chapterFormatted = (chapterName: string) => {
   return (
-    chapterName.startsWith("Act") ||
-    chapterName === "Prologue" ||
-    chapterName.toLowerCase().includes("chapter")
+    chapterName &&
+    (chapterName.startsWith("Act") ||
+      chapterName === "Prologue" ||
+      chapterName.toLowerCase().includes("chapter"))
   );
+};
+
+export const extractChapterName = (fullChapterName: string) => {
+  if (fullChapterName && fullChapterName.includes(":")) {
+    fullChapterName = fullChapterName.split(":")[0];
+  } else if (fullChapterName && fullChapterName.includes(".")) {
+    fullChapterName = fullChapterName.split(".")[0];
+  }
+
+  if (fullChapterName && fullChapterName.toLowerCase().includes("the last")) {
+    return fullChapterName;
+  }
+
+  // Regular expression to match "Chapter" followed by any word (which could be a number, Roman numeral, or word)
+  const match = fullChapterName && fullChapterName.match(/^chapter \S+/i);
+
+  // If a match is found, return it, otherwise return an empty string or handle it as needed
+  return match ? match[0] : fullChapterName;
 };

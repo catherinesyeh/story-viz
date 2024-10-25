@@ -15,6 +15,7 @@ import {
 } from "../../utils/colors";
 import {
   chapterFormatted,
+  extractChapterName,
   getFontFamily,
   getFontWeight,
   normalize,
@@ -95,10 +96,16 @@ function XAxis() {
         {activeChapterDivisions &&
           activeChapterDivisions.length > 0 &&
           activeChapterDivisions.map((chapter, i) => {
-            const chapterName = chapter.chapter;
+            let chapterName = chapter.chapter;
+
+            // also if it's something like "Chapter 1 The Beginning" only take "Chapter 1"
+            if (chapterName) {
+              chapterName = extractChapterName(chapterName);
+            }
+
             const chapterPos = scenePos[chapter.index];
 
-            const lineLength = sizeBy === "default" ? 80 : 100;
+            const lineLength = sizeBy === "default" ? 40 : 60;
 
             return (
               chapterPos &&
@@ -130,16 +137,17 @@ function XAxis() {
                     x2={chapterPos.x - 2 * character_offset}
                     y1={location_offset * 2 - location_offset}
                     y2={location_offset * 2 + lineLength}
-                    stroke="gray"
-                    strokeWidth="1"
-                    strokeDasharray={"4"}
+                    stroke="black"
+                    strokeWidth="2"
+                    // strokeDasharray={"4"}
                     className="chapter-line"
                   />
                   <text
                     x={chapterPos.x - 1.75 * character_offset}
                     y={location_offset * 2 + lineLength + 5}
                     textAnchor="end"
-                    fill="gray"
+                    fill="black"
+                    fontWeight={"bold"}
                     className="chapter-label"
                     transform={
                       "rotate(-90," +
@@ -196,7 +204,7 @@ function XAxis() {
                   ? normalizeTextOffset(ratings.importance)
                   : normalizeTextOffset(numLines);
 
-              const fontSize =
+              let fontSize =
                 sizeBy === "default"
                   ? 0.8
                   : sizeBy === "conflict"
@@ -208,7 +216,11 @@ function XAxis() {
                   : normalizeFontSize(numLines) +
                     (ratings.conflict >= 0.66 ? 0.2 : 0);
 
-              const color =
+              if (showChapters) {
+                fontSize = fontSize / 2;
+              }
+
+              let color =
                 colorBy === "default"
                   ? "black"
                   : colorBy === "sentiment"
@@ -218,6 +230,11 @@ function XAxis() {
                   : colorBy === "importance"
                   ? importanceColor(ratings.importance)
                   : lengthColor(numLines);
+
+              // make color transparent if showChapters is true
+              if (showChapters) {
+                color = color.replace(")", ", 0.5)");
+              }
 
               const weight =
                 weightBy === "importance"
@@ -240,7 +257,13 @@ function XAxis() {
               return (
                 activeScenePos[i] && (
                   <text
-                    x={activeScenePos[i].x + j * character_offset * textOffset}
+                    x={
+                      activeScenePos[i].x +
+                      j *
+                        character_offset *
+                        textOffset *
+                        (showChapters ? 0.6 : 1)
+                    }
                     y={location_offset * 2 + 0.25 * character_height}
                     textAnchor="end"
                     key={"scene" + i + j}
@@ -253,7 +276,10 @@ function XAxis() {
                     transform={
                       "rotate(-45," +
                       (activeScenePos[i].x +
-                        j * character_offset * textOffset) +
+                        j *
+                          character_offset *
+                          textOffset *
+                          (showChapters ? 0.6 : 1)) +
                       ", " +
                       (location_offset * 2 + 0.25 * character_height) +
                       ")"
@@ -276,16 +302,16 @@ function XAxis() {
           markerEnd="url(#head)"
           strokeWidth="2"
           stroke="black"
-          d={`M${scenePos[0].x},${
+          d={`M${scenePos[0].x - 1.25 * character_offset},${
             location_offset * 2 - 0.75 * location_offset
-          }, ${scenePos[scenePos.length - 1].x},${
+          }, ${scenePos[scenePos.length - 1].x + 1.25 * character_offset},${
             location_offset * 2 - 0.75 * location_offset
           }`}
         />
         {/* add label to arrow */}
         <text
-          x={scenePos[0].x + 0.5 * character_offset}
-          y={location_offset * 2 - 1.1 * location_offset}
+          x={scenePos[0].x - 0.5 * character_offset}
+          y={location_offset * 2 - 1.25 * location_offset}
           textAnchor="start"
           fill={
             overlay === "none" || colorBy === "default"

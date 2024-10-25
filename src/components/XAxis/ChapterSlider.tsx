@@ -1,6 +1,7 @@
 import { Button, RangeSlider } from "@mantine/core";
 import { dataStore } from "../../stores/dataStore";
 import Colorbar from "./Colorbar";
+import { extractChapterName } from "../../utils/helpers";
 
 function ChapterSlider() {
   const {
@@ -10,10 +11,12 @@ function ChapterSlider() {
     resetActiveChapters,
     chapterDivisions,
   } = dataStore();
-  const first_chapter = chapterDivisions ? chapterDivisions[0].chapter : "";
-  const last_chapter = chapterDivisions
+  let first_chapter = chapterDivisions ? chapterDivisions[0].chapter : "";
+  first_chapter = extractChapterName(first_chapter);
+  let last_chapter = chapterDivisions
     ? chapterDivisions[chapterDivisions.length - 1].chapter
     : "";
+  last_chapter = extractChapterName(last_chapter);
   const maxChars = 20;
   return (
     <div id="slider-contain">
