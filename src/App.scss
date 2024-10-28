@@ -337,10 +337,12 @@ h1 {
     }
 
     &.explanation {
+      transition: 0.3s;
       font-style: italic;
 
       &.hidden {
         padding: 0;
+        height: 0;
       }
     }
   }

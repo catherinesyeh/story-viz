@@ -1,7 +1,12 @@
 import { useEffect, useState } from "react";
 import { dataStore } from "../../stores/dataStore";
 import { storyStore } from "../../stores/storyStore";
-import { getColor, getLLMColor, textColorLLM } from "../../utils/colors";
+import {
+  getColor,
+  getGroupColor,
+  getLLMColor,
+  textColorLLM,
+} from "../../utils/colors";
 import { onlyLetters } from "../../utils/helpers";
 import ImageDiv from "../ImageDiv";
 
@@ -54,6 +59,9 @@ function CharacterDiv() {
     };
   }, []);
 
+  const sortedGroups = sortedCharacters.map((char) => char.group);
+  const uniqueGroups = [...new Set(sortedGroups)];
+
   useEffect(() => {
     if (characterHover !== "") {
       const character = character_data.find(
@@ -63,8 +71,11 @@ function CharacterDiv() {
         const charColor = getColor(character.character, sortedCharacters);
         const llmColor =
           getLLMColor(character.character, sortedCharacters) || charColor;
+        const groupColor = getGroupColor(character.group, uniqueGroups);
         if (characterColor === "llm") {
           setAccentColor(llmColor);
+        } else if (characterColor === "group") {
+          setAccentColor(groupColor);
         } else {
           setAccentColor(charColor);
         }
@@ -120,7 +131,7 @@ function CharacterDiv() {
       <div
         className={
           "character-inner explanation " +
-          (characterExplanation ? "" : "hidden")
+          (characterExplanation && characterColor === "llm" ? "" : "hidden")
         }
         style={{ background: accentColor.split(")")[0] + ", 0.6)" }}
       >
