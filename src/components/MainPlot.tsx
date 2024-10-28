@@ -166,7 +166,7 @@ function MainPlot() {
                   strokeOpacity={0.1}
                   stroke={dashColor}
                   strokeWidth="4"
-                  strokeDasharray={"10"}
+                  strokeDasharray={"12"}
                   className={
                     "dashed-lines " +
                     (hidden.includes(character.character) ? "hidden " : "") +
