@@ -70,16 +70,18 @@ function SceneDiv() {
       }}
     >
       <div id="scene-ratings">
-        <div
-          className="rating-box"
-          style={{
-            backgroundColor: lengthColor(lengthVal),
-            color: textColor(lengthVal, false),
-          }}
-        >
-          <b>Length: </b>
-          {numLines} lines
-        </div>
+        {sceneHover !== "" && (
+          <div
+            className="rating-box"
+            style={{
+              backgroundColor: lengthColor(lengthVal),
+              color: textColor(lengthVal, false),
+            }}
+          >
+            <b>Length: </b>
+            {numLines} lines
+          </div>
+        )}
         {scene &&
           Object.keys(scene.ratings).map((rating) => {
             let rating_val = (scene.ratings as Record<string, number>)[rating];
@@ -126,51 +128,54 @@ function SceneDiv() {
         </div>
       )}
 
-      <div id="scene-characters">
-        <div id="scene-header">
-          <b>Characters:</b>
-        </div>
-        {scene &&
-          sceneSummary &&
-          sceneSummary.emotions.map((char) => {
-            const character = scene.characters.find(
-              (c) => c.name === char.character
-            ) as any;
-            const emotion = character.emotion;
-            const rating = character.rating;
-            const llmColor = getLLMColor(char.character, sortedCharacters);
-            return (
-              <div key={char.character} className="character-info">
-                <div className="char-header">
-                  <b style={{ color: llmColor }}>
-                    {char.character}{" "}
-                    <span style={{ fontWeight: 500 }}>
-                      (importance:{" "}
-                      {
-                        scene.characters.find((c) => c.name === char.character)
-                          ?.importance_rank
-                      }
-                      )
-                    </span>
-                  </b>
-                  <div className="emotion-box">
-                    <b>{emotion}:</b>
-                    <div
-                      className="emotion-color"
-                      style={{
-                        backgroundColor: emotionColor(rating),
-                        color: textColor(rating, true),
-                      }}
-                    >
-                      {rating.toFixed(2)}
+      {sceneHover !== "" && (
+        <div id="scene-characters">
+          <div id="scene-header">
+            <b>Characters:</b>
+          </div>
+          {scene &&
+            sceneSummary &&
+            sceneSummary.emotions.map((char) => {
+              const character = scene.characters.find(
+                (c) => c.name === char.character
+              ) as any;
+              const emotion = character.emotion;
+              const rating = character.rating;
+              const llmColor = getLLMColor(char.character, sortedCharacters);
+              return (
+                <div key={char.character} className="character-info">
+                  <div className="char-header">
+                    <b style={{ color: llmColor }}>
+                      {char.character}{" "}
+                      <span style={{ fontWeight: 500 }}>
+                        (importance:{" "}
+                        {
+                          scene.characters.find(
+                            (c) => c.name === char.character
+                          )?.importance_rank
+                        }
+                        )
+                      </span>
+                    </b>
+                    <div className="emotion-box">
+                      <b>{emotion}:</b>
+                      <div
+                        className="emotion-color"
+                        style={{
+                          backgroundColor: emotionColor(rating),
+                          color: textColor(rating, true),
+                        }}
+                      >
+                        {rating.toFixed(2)}
+                      </div>
                     </div>
                   </div>
+                  <div className="char-quote">"{character.quote}"</div>
                 </div>
-                <div className="char-quote">"{character.quote}"</div>
-              </div>
-            );
-          })}
-      </div>
+              );
+            })}
+        </div>
+      )}
     </div>
   );
 }

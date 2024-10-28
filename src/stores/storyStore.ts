@@ -40,6 +40,8 @@ interface IStore {
   setSceneHover: (val: string) => void;
   hidden: string[];
   setHidden: (val: string[]) => void;
+  showLegend: boolean;
+  setShowLegend: (val: boolean) => void;
 
   resetAll: () => void;
 }
@@ -60,6 +62,7 @@ const initialState = {
   characterHover: "",
   sceneHover: "",
   hidden: [],
+  showLegend: true,
 };
 
 export const storyStore = create<IStore>()((set) => ({
@@ -91,5 +94,6 @@ export const storyStore = create<IStore>()((set) => ({
   setCharacterHover: (val: string) => set({ characterHover: val }),
   setSceneHover: (val: string) => set({ sceneHover: val }),
   setHidden: (val: string[]) => set({ hidden: val }),
+  setShowLegend: (val: boolean) => set({ showLegend: val }),
   resetAll: () => set({ ...initialState }),
 }));

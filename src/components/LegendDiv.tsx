@@ -1,9 +1,9 @@
 import { Button } from "@mantine/core";
 import { dataStore } from "../stores/dataStore";
 import { storyStore } from "../stores/storyStore";
-import { getColor } from "../utils/colors";
+import { getColor, getGroupColor, textColorLLM } from "../utils/colors";
 import CharacterDiv from "./Overlays/CharacterDiv";
-import { FaRedo } from "react-icons/fa";
+import { FaChevronUp, FaRedo } from "react-icons/fa";
 import LocationDiv from "./Overlays/LocationDiv";
 
 function LegendDiv() {
@@ -19,6 +19,8 @@ function LegendDiv() {
     hidden,
     characterColor: characterColorBy,
     setHidden,
+    showLegend,
+    setShowLegend,
   } = storyStore();
 
   // Update array with list of hidden characters
@@ -27,6 +29,37 @@ function LegendDiv() {
       ? hidden.filter((item: string) => item !== name)
       : [...hidden, name];
     setHidden(newHidden);
+  };
+
+  const hideAll = (groupChars: any) => {
+    const groupNames = groupChars.map((char: any) => char.character);
+    // add all characters in group to hidden if any are not hidden already
+    const newHidden = hidden;
+    groupNames.forEach((name: string) => {
+      if (!newHidden.includes(name)) {
+        newHidden.push(name);
+      }
+    });
+    setHidden(newHidden);
+  };
+
+  const showAll = (groupChars: any) => {
+    const groupNames = groupChars.map((char: any) => char.character);
+    // remove all characters in group from hidden if any are hidden
+    const newHidden = hidden.filter(
+      (name: string) => !groupNames.includes(name)
+    );
+    setHidden(newHidden);
+  };
+
+  const noCharsInHidden = (groupChars: any) => {
+    const groupNames = groupChars.map((char: any) => char.character);
+    return groupNames.every((name: string) => !hidden.includes(name));
+  };
+
+  const allCharsInHidden = (groupChars: any) => {
+    const groupNames = groupChars.map((char: any) => char.character);
+    return groupNames.every((name: string) => hidden.includes(name));
   };
 
   // active chapters
@@ -56,8 +89,25 @@ function LegendDiv() {
   });
 
   const maxChars = 18;
+  const sortedGroups = sortedCharacters.map((char) => char.group);
+  const uniqueGroups = [...new Set(sortedGroups)];
+
+  // map characters to groups
+  const characterGroups = uniqueGroups.map((group) => {
+    return sortedCharacters.filter((char) => char.group === group);
+  });
+
   return (
     <div id="legend-outer">
+      <Button
+        size="xs"
+        variant="transparent"
+        rightSection={<FaChevronUp />}
+        className={"show-button reset-button " + (!showLegend ? "rotate" : "")}
+        onClick={() => setShowLegend(!showLegend)}
+      >
+        {showLegend ? "Hide legend" : "Show legend"}
+      </Button>
       <Button
         size="xs"
         variant="transparent"
@@ -68,36 +118,89 @@ function LegendDiv() {
       >
         Reset
       </Button>
-      <div id="character-legend">
-        {sortedCharacters.map((character) => {
-          const color =
-            characterColorBy === "llm" && character.color
-              ? character.color
-              : getColor(character.character, sortedCharacters);
-          const name = character.character;
-          const displayName =
-            name.length > maxChars ? name.slice(0, maxChars) + "..." : name;
+      <div id="character-legend" className={!showLegend ? "hidden" : ""}>
+        {characterGroups.map((groupChars, index) => {
+          const group = groupChars[0].group;
+          const numChars = groupChars.length;
+          const groupColor = getGroupColor(group, uniqueGroups).replace(
+            ")",
+            ", 0.5)"
+          );
+          const fontColor = textColorLLM(groupColor);
+
+          const num_columns = Math.ceil(numChars / 8);
+
           return (
             <div
-              key={character.character}
-              className={
-                "legend-item " +
-                (activeCharacters
-                  .map((char) => char.character)
-                  .includes(character.character)
-                  ? ""
-                  : "faded no-click") +
-                (hidden.includes(character.character) ? "faded" : "")
-              }
-              onClick={() => updateHidden(character.character)}
-              onMouseEnter={() => setCharacterHover(character.character)}
-              onMouseLeave={() => setCharacterHover("")}
+              key={index}
+              className={"group-container"}
+              style={{
+                borderColor: groupColor,
+                gridColumn: `span ${num_columns}`,
+              }}
             >
               <div
-                className="legend-square"
-                style={{ backgroundColor: color }}
-              ></div>
-              <span className="legend-name">{displayName}</span>
+                className="group-header"
+                style={{ backgroundColor: groupColor, color: fontColor }}
+              >
+                <b>
+                  {group} ({numChars})
+                </b>
+                <div>
+                  <span
+                    onClick={() => hideAll(groupChars)}
+                    className={allCharsInHidden(groupChars) ? "faded" : ""}
+                  >
+                    hide all
+                  </span>
+                  <span className="divider">/</span>
+                  <span
+                    onClick={() => showAll(groupChars)}
+                    className={noCharsInHidden(groupChars) ? "faded" : ""}
+                  >
+                    show all
+                  </span>
+                </div>
+              </div>
+              <div className="group-contain-inner">
+                {groupChars.map((character) => {
+                  const color =
+                    characterColorBy === "llm" && character.color
+                      ? character.color
+                      : getColor(character.character, sortedCharacters);
+                  const name = character.character;
+                  const displayName =
+                    name.length > maxChars
+                      ? name.slice(0, maxChars) + "..."
+                      : name;
+
+                  return (
+                    <div
+                      key={character.character}
+                      className={
+                        "legend-item " +
+                        (activeCharacters
+                          .map((char) => char.character)
+                          .includes(character.character)
+                          ? ""
+                          : "faded no-click") +
+                        (hidden.includes(character.character) ? "faded" : "")
+                      }
+                      onClick={() => updateHidden(character.character)}
+                      onMouseEnter={() =>
+                        setCharacterHover(character.character)
+                      }
+                      onMouseLeave={() => setCharacterHover("")}
+                    >
+                      <div
+                        className="legend-square"
+                        style={{ backgroundColor: color }}
+                      ></div>
+                      <span className="legend-name">{displayName}</span>
+                    </div>
+                  );
+                })}
+              </div>
             </div>
           );
         })}

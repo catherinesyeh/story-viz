@@ -26,6 +26,7 @@ function App() {
     setStoryScrollX,
     storyScrollX,
     overlay,
+    showLegend,
   } = storyStore();
   const headerRef = useRef<HTMLDivElement>(null);
 
@@ -72,7 +73,7 @@ function App() {
 
   useEffect(() => {
     if (scene_data) handleResize();
-  }, [scene_data]);
+  }, [scene_data, showLegend]);
   return (
     <div id="app">
       <div id="header-container" ref={headerRef}>

@@ -74,6 +74,15 @@ export const getColor = (
   return finalColor;
 };
 
+// get group color
+export const getGroupColor = (group: string, sortedGroups: string[]) => {
+  const charIndex = sortedGroups.indexOf(group);
+  const colorIndex = charIndex / (sortedGroups.length - 1);
+  let finalColor = chroma(allColors(colorIndex)).css();
+
+  return finalColor;
+};
+
 // get llm color for character
 export const getLLMColor = (
   character: string,

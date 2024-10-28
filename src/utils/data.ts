@@ -260,6 +260,7 @@ const character_data = (all_data: any): CharacterData[] => {
       ? character.character
       : character.name;
     character.key = character.key ? character.key : character.character;
+    character.group = character.group.toLowerCase();
 
     if (!Array.isArray(character.explanation)) {
       character.explanation = chunkQuote(character.explanation as string, 92);
