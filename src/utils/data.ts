@@ -107,6 +107,7 @@ export interface CharacterQuote {
 export interface SceneCharacter {
   scene: string;
   characters: string[];
+  groups: string[];
 }
 
 export interface SceneSummary {
@@ -131,6 +132,7 @@ export interface ChapterDivision {
   scenes: string[];
   locations: string[];
   characters: string[];
+  groups: string[];
 }
 
 /* DATA */
@@ -464,25 +466,32 @@ const sceneChunks = (scenes: string[]): string[][] =>
 const sceneCharacters = (
   scenes: string[],
   data: Scene[],
-  characterScenes: CharacterScene[]
+  characterScenes: CharacterScene[],
+  sortedCharacters: CharacterData[]
 ): SceneCharacter[] =>
   scenes.map((scene) => {
     // find characters in scene using data
     const dataScene = data.find((s) => s.name === scene) as any;
+    const sortedChars = dataScene.characters
+      .map((char: Scene) => char.name)
+      .sort((a: string, b: string) => {
+        // find index of character in characterScenes
+        const aIndex = characterScenes.findIndex(
+          (charScene) => charScene.character.toLowerCase() === a.toLowerCase()
+        );
+        const bIndex = characterScenes.findIndex(
+          (charScene) => charScene.character.toLowerCase() === b.toLowerCase()
+        );
+        return aIndex - bIndex;
+      });
+    const groups = sortedChars.map(
+      (char: string) =>
+        sortedCharacters.find((c) => c.character === char)?.group || ""
+    );
     return {
       scene: scene,
-      characters: dataScene.characters
-        .map((char: Scene) => char.name)
-        .sort((a: string, b: string) => {
-          // find index of character in characterScenes
-          const aIndex = characterScenes.findIndex(
-            (charScene) => charScene.character.toLowerCase() === a.toLowerCase()
-          );
-          const bIndex = characterScenes.findIndex(
-            (charScene) => charScene.character.toLowerCase() === b.toLowerCase()
-          );
-          return aIndex - bIndex;
-        }),
+      characters: sortedChars,
+      groups: groups,
     };
   });
 
@@ -563,7 +572,10 @@ const createRatingDict = (data: Scene[]): any => {
 };
 
 // get chapter divisions by finding last instance of each unique chapter name
-const getChapterDivisions = (data: Scene[]): ChapterDivision[] => {
+const getChapterDivisions = (
+  data: Scene[],
+  sortedCharacters: CharacterData[]
+): ChapterDivision[] => {
   const chapters = Array.from(new Set(data.map((scene) => scene.chapter)));
 
   const chapterDivisions = chapters.map((chapter) => {
@@ -592,12 +604,23 @@ const getChapterDivisions = (data: Scene[]): ChapterDivision[] => {
       )
     );
 
+    // find all groups in chapter
+    const chapterGroups = Array.from(
+      new Set(
+        chapterCharacters.map(
+          (char) =>
+            sortedCharacters.find((c) => c.character === char)?.group || ""
+        )
+      )
+    );
+
     return {
       chapter: chapter,
       index: firstSceneIndex,
       scenes: sceneNames,
       locations: chapterLocations,
       characters: chapterCharacters,
+      groups: chapterGroups,
     };
   });
 
@@ -641,7 +664,8 @@ export const getAllData = (init_data: any) => {
   const init_sceneCharacters = sceneCharacters(
     init_scenes,
     init_scene_data,
-    init_characterScenes
+    init_characterScenes,
+    init_sorted_characters
   );
   const init_sceneSummaries = sceneSummaries(init_scene_data);
 
@@ -650,7 +674,10 @@ export const getAllData = (init_data: any) => {
   const minLines = rating_info.minLines;
   const maxLines = rating_info.maxLines;
 
-  const chapterDivisions = getChapterDivisions(init_scene_data);
+  const chapterDivisions = getChapterDivisions(
+    init_scene_data,
+    init_sorted_characters
+  );
   const num_chapters = chapterDivisions.length;
 
   return {

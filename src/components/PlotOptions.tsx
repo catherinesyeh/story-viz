@@ -56,7 +56,13 @@ function PlotOptions() {
     "length",
     "default",
   ];
-  const characterColorOptions = ["default", "llm", "sentiment", "importance"];
+  const characterColorOptions = [
+    "default",
+    "llm",
+    "group",
+    "sentiment",
+    "importance",
+  ];
   const sizeByOptions = ["conflict", "importance", "length", "default"];
   const overlayOptions = ["conflict", "importance", "length", "none"];
   const storyOptions = [

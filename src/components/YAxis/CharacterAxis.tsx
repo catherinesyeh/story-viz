@@ -1,13 +1,23 @@
 import { dataStore } from "../../stores/dataStore";
 import { positionStore } from "../../stores/positionStore";
 import { storyStore } from "../../stores/storyStore";
+import { getGroupColor } from "../../utils/colors";
 
 function CharacterAxis() {
-  const { yAxisHeight, setCharacterHover, hidden, setHidden } = storyStore();
+  const {
+    yAxisHeight,
+    characterHover,
+    setCharacterHover,
+    hidden,
+    setHidden,
+    story,
+    fullHeight,
+    groupHover,
+  } = storyStore();
   const { sortedCharacters } = dataStore();
   const { plotHeight, charInc } = positionStore();
   const ratio = yAxisHeight / plotHeight;
-  const maxCharLength = 24;
+  const maxCharLength = 20;
   // Update array with list of hidden characters
   const updateHidden = (name: string) => {
     const newHidden = hidden.includes(name)
@@ -15,6 +25,9 @@ function CharacterAxis() {
       : [...hidden, name];
     setHidden(newHidden);
   };
+
+  const sortedGroups = sortedCharacters.map((char) => char.group);
+  const uniqueGroups = [...new Set(sortedGroups)];
   return (
     <div id="character-axis">
       {sortedCharacters.map((char) => {
@@ -23,9 +36,17 @@ function CharacterAxis() {
             key={char.character}
             className={
               "character-name " +
-              (hidden.includes(char.character) ? "faded" : "")
+              (hidden.includes(char.character) ||
+              (groupHover !== "" && groupHover !== char.group) ||
+              (characterHover !== "" && characterHover !== char.character)
+                ? "faded"
+                : "")
             }
-            style={{ height: charInc * ratio }}
+            style={{
+              height: charInc * ratio,
+              borderColor: getGroupColor(char.group, uniqueGroups),
+              borderWidth: story.includes("-new") && !fullHeight ? 2 : 4,
+            }}
             onMouseEnter={() => setCharacterHover(char.character)}
             onMouseLeave={() => setCharacterHover("")}
             onClick={() => updateHidden(char.character)}

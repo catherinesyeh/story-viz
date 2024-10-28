@@ -114,7 +114,7 @@ function CharacterDiv() {
           <b style={{ color: accentColor }}>
             {characterName || "Character"} ({characterGroup || "Group"})
           </b>
-          <p>{characterQuote || "Quote"}</p>
+          <p>{'"' + characterQuote + '"' || "Quote"}</p>
         </div>
       </div>
       <div

@@ -179,6 +179,11 @@ h1 {
       // height: max-content;
       position: relative;
       border-radius: 0.2rem;
+      transition: 0.3s;
+
+      &.faded {
+        opacity: 0.3;
+      }
 
       .group-header {
         width: calc(100% + 1rem);
@@ -523,6 +528,8 @@ h1 {
 
     .character-name {
       align-items: baseline;
+      border-right: 4px solid #eee;
+      padding-right: 0.5rem;
     }
 
     #color-axis-outer {
@@ -696,7 +703,8 @@ h1 {
       transition: 0.3s;
     }
 
-    .chapterline.hidden {
+    .chapterline.hidden,
+    .dashed-lines.hidden {
       stroke-opacity: 0;
     }
 

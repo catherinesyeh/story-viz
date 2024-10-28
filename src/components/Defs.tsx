@@ -7,6 +7,7 @@ import {
   getColor,
   getLLMColor,
   lengthColor,
+  getGroupColor,
 } from "../utils/colors";
 import { dataStore } from "../stores/dataStore";
 import { RatingDict } from "../utils/data";
@@ -49,11 +50,18 @@ function Defs() {
       activeChapterDivisions[activeChapterDivisions.length - 1].index +
         numScenesInLastActiveChapter
     );
+
+  const sortedGroups = sortedCharacters.map((char) => char.group);
+  const uniqueGroups = [...new Set(sortedGroups)];
+
   return (
     <defs>
       <g id="gradients">
         {characterScenes.map((char, i) => {
           const charScenes = char.scenes;
+          const group = sortedCharacters.find(
+            (c) => c.character === char.character
+          )?.group;
           const og_segments = [] as number[][];
           let og_cur_seg = [] as number[];
           // Create segments for each continuous set of scenes
@@ -112,6 +120,9 @@ function Defs() {
             const charColor = getColor(char.character, sortedCharacters);
             const llmColor =
               getLLMColor(char.character, sortedCharacters) || charColor;
+            const groupColor = group
+              ? getGroupColor(group, uniqueGroups)
+              : charColor;
 
             const firstScene =
               scene_data[first_scene] &&
@@ -139,6 +150,8 @@ function Defs() {
                 ? charColor
                 : characterColor === "llm"
                 ? llmColor
+                : characterColor === "group"
+                ? groupColor
                 : characterColor === "sentiment"
                 ? emotion_color
                 : importance_color;
@@ -147,6 +160,8 @@ function Defs() {
                 ? charColor
                 : characterColor === "llm"
                 ? llmColor
+                : characterColor === "group"
+                ? groupColor
                 : characterColor === "sentiment"
                 ? emotion_color2
                 : importance_color2;
@@ -177,6 +192,8 @@ function Defs() {
                           ? charColor
                           : characterColor === "llm"
                           ? llmColor
+                          : characterColor === "group"
+                          ? groupColor
                           : characterColor === "sentiment"
                           ? emotionColor(firstScene.rating)
                           : importanceColor(firstScene.importance)
@@ -198,6 +215,8 @@ function Defs() {
                       ? charColor
                       : characterColor === "llm"
                       ? llmColor
+                      : characterColor === "group"
+                      ? groupColor
                       : characterColor === "sentiment"
                       ? emotion_color
                       : importance_color;
@@ -228,6 +247,8 @@ function Defs() {
                           ? charColor
                           : characterColor === "llm"
                           ? llmColor
+                          : characterColor === "group"
+                          ? groupColor
                           : characterColor === "sentiment"
                           ? emotionColor(lastScene.rating)
                           : importanceColor(lastScene.importance)

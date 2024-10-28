@@ -3,6 +3,7 @@ import { dataStore } from "../stores/dataStore";
 import {
   emotionColor,
   getColor,
+  getGroupColor,
   getLLMColor,
   importanceColor,
 } from "../utils/colors";
@@ -23,6 +24,7 @@ function MainPlot() {
     showChapters,
     fullHeight,
     story,
+    groupHover,
   } = storyStore();
   const {
     sceneBoxes,
@@ -63,6 +65,9 @@ function MainPlot() {
     (_, i) => i >= firstActiveScene && i < lastActiveScene
   );
 
+  const sortedGroups = sortedCharacters.map((char) => char.group);
+  const uniqueGroups = [...new Set(sortedGroups)];
+
   return (
     <g id="main-plot">
       {/* white boxes behind each scene */}
@@ -75,7 +80,8 @@ function MainPlot() {
                   "scene-box-fill " +
                   (locationHover === sceneLocations[i] ||
                   sceneHover === scene.scene ||
-                  scene.characters.includes(characterHover)
+                  scene.characters.includes(characterHover) ||
+                  scene.groups.includes(groupHover)
                     ? "highlight"
                     : "")
                 }
@@ -94,6 +100,9 @@ function MainPlot() {
       <g id="character-paths">
         {characterScenes.map((character, i) => {
           const charScenes = character.scenes;
+          const group = sortedCharacters.find(
+            (c) => c.character === character.character
+          )?.group;
           const charActiveScenes =
             charScenes &&
             charScenes.filter(
@@ -116,6 +125,10 @@ function MainPlot() {
           const llmColor =
             getLLMColor(character.character, sortedCharacters) || charColor;
 
+          const groupColor = group
+            ? getGroupColor(group, uniqueGroups)
+            : charColor;
+
           const charFirstPoint = firstPoints[i];
           const charLastPoint = lastPoints[i];
           const dashColor =
@@ -123,6 +136,8 @@ function MainPlot() {
               ? llmColor
               : characterColorBy === "default"
               ? charColor
+              : characterColorBy === "group"
+              ? groupColor
               : "gray";
 
           return (
@@ -134,7 +149,9 @@ function MainPlot() {
                 " " +
                 (hidden.includes(character.character) ? "hidden" : "") +
                 " " +
-                (characterHover !== "" && characterHover !== character.character
+                ((characterHover !== "" &&
+                  characterHover !== character.character) ||
+                (groupHover !== "" && groupHover !== group)
                   ? "faded"
                   : "")
               }
@@ -152,10 +169,12 @@ function MainPlot() {
                   strokeDasharray={"10"}
                   className={
                     "dashed-lines " +
+                    (hidden.includes(character.character) ? "hidden " : "") +
                     (locationHover !== "" ||
                     sceneHover !== "" ||
                     (characterHover !== "" &&
-                      characterHover !== character.character)
+                      characterHover !== character.character) ||
+                    (groupHover !== "" && groupHover !== group)
                       ? "faded"
                       : "")
                   }
@@ -170,7 +189,8 @@ function MainPlot() {
                   (locationHover !== "" ||
                   sceneHover !== "" ||
                   (characterHover !== "" &&
-                    characterHover !== character.character)
+                    characterHover !== character.character) ||
+                  (groupHover !== "" && groupHover !== group)
                     ? "faded"
                     : "")
                 }
@@ -227,6 +247,8 @@ function MainPlot() {
                               ? charColor
                               : characterColorBy === "llm"
                               ? llmColor
+                              : characterColorBy === "group"
+                              ? groupColor
                               : characterColorBy === "sentiment"
                               ? emotion_color
                               : importance_color
@@ -272,7 +294,13 @@ function MainPlot() {
                         : charActivePos[0].y + 0.8 * character_height
                     }
                     textAnchor={firstScene === 0 ? "start" : "end"}
-                    fill={characterColorBy === "llm" ? llmColor : charColor}
+                    fill={
+                      characterColorBy === "llm"
+                        ? llmColor
+                        : characterColorBy === "group"
+                        ? groupColor
+                        : charColor
+                    }
                     paintOrder="stroke"
                     stroke="rgb(255,255,255,0.8)"
                     strokeWidth={4}
@@ -302,7 +330,8 @@ function MainPlot() {
                   "scene-box " +
                   (locationHover === sceneLocations[i] ||
                   sceneHover === scene.scene ||
-                  scene.characters.includes(characterHover)
+                  scene.characters.includes(characterHover) ||
+                  scene.groups.includes(groupHover)
                     ? "highlight"
                     : "")
                 }
@@ -346,10 +375,12 @@ function MainPlot() {
                   (showChapters ? "" : "hidden ") +
                   ((locationHover === "" &&
                     sceneHover === "" &&
-                    characterHover === "") ||
+                    characterHover === "" &&
+                    groupHover === "") ||
                   chapter.locations.includes(locationHover) ||
                   chapter.scenes.includes(sceneHover) ||
-                  chapter.characters.includes(characterHover)
+                  chapter.characters.includes(characterHover) ||
+                  chapter.groups.includes(groupHover)
                     ? ""
                     : "faded")
                 }

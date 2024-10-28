@@ -16,11 +16,14 @@ function LegendDiv() {
 
   const {
     setCharacterHover,
+    characterHover,
+    groupHover,
     hidden,
     characterColor: characterColorBy,
     setHidden,
     showLegend,
     setShowLegend,
+    setGroupHover,
   } = storyStore();
 
   // Update array with list of hidden characters
@@ -122,6 +125,7 @@ function LegendDiv() {
         {characterGroups.map((groupChars, index) => {
           const group = groupChars[0].group;
           const numChars = groupChars.length;
+          const charNames = groupChars.map((char) => char.character);
           const groupColor = getGroupColor(group, uniqueGroups).replace(
             ")",
             ", 0.5)"
@@ -133,7 +137,14 @@ function LegendDiv() {
           return (
             <div
               key={index}
-              className={"group-container"}
+              className={
+                "group-container " +
+                ((characterHover !== "" &&
+                  !charNames.includes(characterHover)) ||
+                (groupHover !== "" && groupHover !== group)
+                  ? "faded"
+                  : "")
+              }
               style={{
                 borderColor: groupColor,
                 gridColumn: `span ${num_columns}`,
@@ -142,6 +153,8 @@ function LegendDiv() {
               <div
                 className="group-header"
                 style={{ backgroundColor: groupColor, color: fontColor }}
+                onMouseEnter={() => setGroupHover(group)}
+                onMouseLeave={() => setGroupHover("")}
               >
                 <b>
                   {group} ({numChars})

@@ -46,6 +46,7 @@ function XAxis() {
     weightBy,
     overlay,
     showChapters,
+    groupHover,
   } = storyStore();
 
   const { scenePos } = positionStore();
@@ -124,10 +125,12 @@ function XAxis() {
                     (showChapters ? "" : "hidden ") +
                     ((locationHover === "" &&
                       sceneHover === "" &&
-                      characterHover === "") ||
+                      characterHover === "" &&
+                      groupHover === "") ||
                     chapter.locations.includes(locationHover) ||
                     chapter.scenes.includes(sceneHover) ||
-                    chapter.characters.includes(characterHover)
+                    chapter.characters.includes(characterHover) ||
+                    chapter.groups.includes(groupHover)
                       ? ""
                       : "faded")
                   }
@@ -178,10 +181,12 @@ function XAxis() {
               "scene-name " +
               ((locationHover === "" &&
                 sceneHover === "" &&
-                characterHover === "") ||
+                characterHover === "" &&
+                groupHover === "") ||
               locationHover === sceneLocations[i] ||
               sceneHover === scene ||
-              sceneCharacters[i].characters.includes(characterHover)
+              sceneCharacters[i].characters.includes(characterHover) ||
+              sceneCharacters[i].groups.includes(groupHover)
                 ? ""
                 : "faded")
             }
