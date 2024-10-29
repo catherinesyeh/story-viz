@@ -75,7 +75,7 @@ function YAxisDiv() {
             story.includes("-new") && !fullHeight
               ? 12 * ratio
               : yAxis === "character"
-              ? Math.min(14, 14 * ratio)
+              ? Math.min(11, 14 * ratio)
               : 10,
         }}
       >

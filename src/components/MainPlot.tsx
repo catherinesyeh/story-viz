@@ -112,6 +112,7 @@ function MainPlot() {
             charScenes.indexOf(scene)
           );
           const firstScene = charActiveScenes[0];
+          const lastScene = charActiveScenes[charActiveScenes.length - 1];
           const charActiveSquares =
             charActiveIndices &&
             characterSquares[i] &&
@@ -129,8 +130,14 @@ function MainPlot() {
             ? getGroupColor(group, uniqueGroups)
             : charColor;
 
-          const charFirstPoint = firstPoints[i];
-          const charLastPoint = lastPoints[i];
+          const charFirstPoint = {
+            x: scenePos[firstScene] && scenePos[firstScene].x,
+            y: firstPoints[i] && firstPoints[i].y,
+          };
+          const charLastPoint = {
+            x: scenePos[lastScene] && scenePos[lastScene].x,
+            y: lastPoints[i] && lastPoints[i].y,
+          };
           const dashColor =
             characterColorBy === "llm"
               ? llmColor
