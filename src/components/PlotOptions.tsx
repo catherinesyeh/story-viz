@@ -95,6 +95,7 @@ function PlotOptions() {
     "frankenstein-new",
     "threads-new",
     "time-new",
+    "whispers-new",
     "victoria-new",
   ].sort();
   const yAxisOptions = [
