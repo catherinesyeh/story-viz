@@ -124,11 +124,17 @@ function App() {
           width: `calc(100% - ${margin}px)`,
           marginLeft: `calc(${margin}px - 1rem`,
           marginBottom:
-            fullHeight || (plotHeight * ratio > 800 && chapterView)
+            fullHeight ||
+            (window &&
+              plotHeight * ratio >
+                window.innerHeight -
+                  storyMarginTop -
+                  (story.includes("-new") && !chapterView ? 150 : 250))
               ? `${
                   location_height * 2.5 * ratio +
                   (overlay !== "none" ? 80 : 0) +
-                  40
+                  40 +
+                  (story.includes("-new") && !chapterView ? 40 : 0)
                 }px`
               : "40px",
         }}

@@ -41,7 +41,11 @@ function SceneDiv() {
       let overlayHeight = overlay ? overlay.clientHeight : 0;
 
       const overlayWidth =
-        scene && scene.characters && scene.characters.length > 10 ? 800 : 650;
+        scene && scene.characters && scene.characters.length > 8
+          ? scene.characters.length > 16
+            ? 850
+            : 750
+          : 650;
       const maxRight = overlayWidth + 2 * buffer;
 
       if (curX + maxRight > max_x) {
@@ -74,8 +78,10 @@ function SceneDiv() {
         sceneHover === ""
           ? "hidden"
           : "" +
-            (scene && scene.characters && scene.characters.length > 10
-              ? " wide"
+            (scene && scene.characters && scene.characters.length > 8
+              ? scene.characters.length > 16
+                ? " extra-wide"
+                : " wide"
               : "")
       }
       style={{
@@ -92,8 +98,8 @@ function SceneDiv() {
               color: textColor(lengthVal, false),
             }}
           >
-            <b>Length: </b>
-            {numLines} lines
+            <b>length: </b>
+            {numLines} lines{" "}
           </div>
         )}
         {scene &&
@@ -156,8 +162,10 @@ function SceneDiv() {
           <div
             id="scene-char-inner"
             className={
-              scene && scene.characters && scene.characters.length > 10
-                ? "two-col"
+              scene && scene.characters && scene.characters.length > 8
+                ? scene.characters.length > 16
+                  ? "two-col three-col"
+                  : "two-col"
                 : ""
             }
           >
@@ -175,16 +183,20 @@ function SceneDiv() {
                 return (
                   <div key={char.character} className="character-info">
                     <div className="char-header">
-                      <b className="char-name" style={{ color: llmColor }}>
+                      <b className="char-name">
+                        <div
+                          className="square"
+                          style={{ backgroundColor: llmColor }}
+                        />
                         {char.character}{" "}
-                        <span style={{ fontWeight: 500 }}>
-                          (
-                          {scene &&
-                          scene.characters &&
-                          scene.characters.length > 10
-                            ? "imp"
-                            : "importance"}
-                          :{" "}
+                        <span
+                          style={{
+                            fontWeight: 400,
+                            opacity: 0.7,
+                            fontFamily: "var(--mantine-font-family)",
+                          }}
+                        >
+                          (importance:{" "}
                           {
                             scene.characters.find(
                               (c) => c.name === char.character

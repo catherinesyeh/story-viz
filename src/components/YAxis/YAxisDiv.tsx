@@ -71,8 +71,15 @@ function YAxisDiv() {
               ? (location_buffer - character_offset) * ratio
               : 0),
           marginBottom:
-            fullHeight || (plotHeight * ratio > 800 && chapterView)
-              ? location_height * 2.5 * ratio + 5
+            fullHeight ||
+            (window &&
+              plotHeight * ratio >
+                window.innerHeight -
+                  storyMarginTop -
+                  (story.includes("-new") && !chapterView ? 150 : 250))
+              ? location_height * 2.5 * ratio +
+                5 +
+                (story.includes("-new") && !chapterView ? 30 : 0)
               : undefined,
           fontSize:
             story.includes("-new") && !fullHeight && !chapterView

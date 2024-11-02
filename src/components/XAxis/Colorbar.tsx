@@ -12,8 +12,8 @@ function Colorbar() {
               {scale === "sentiment"
                 ? "negative"
                 : scale === "length"
-                ? "shortest"
-                : "least"}
+                ? "short"
+                : "low"}
               <span>
                 {scale === "sentiment" ? -1 : scale === "length" ? minLines : 0}
               </span>
@@ -21,10 +21,10 @@ function Colorbar() {
             <div className={"gradient " + scale} />
             <p className="number-label">
               {scale === "length"
-                ? "longest"
+                ? "long"
                 : scale === "sentiment"
                 ? "positive"
-                : "most"}
+                : "high"}
 
               <span className="number-label">
                 {scale === "length" ? maxLines : 1}

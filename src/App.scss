@@ -394,7 +394,11 @@ h1 {
   row-gap: 0.5rem;
 
   &.wide {
-    width: 800px;
+    width: 750px;
+  }
+
+  &.extra-wide {
+    width: 850px;
   }
 
   &.hidden {
@@ -457,6 +461,10 @@ h1 {
         grid-template-columns: 1fr 1fr;
         column-gap: 1rem;
 
+        &.three-col {
+          grid-template-columns: 1fr 1fr 1fr;
+        }
+
         .char-header {
           align-items: baseline;
           .char-name {
@@ -470,34 +478,42 @@ h1 {
       }
 
       .character-info {
-        margin-bottom: 0.1rem;
+        margin-bottom: 0.25rem;
       }
     }
 
     .char-header {
       b {
-        font-weight: 600;
+        font-weight: 500;
+
+        &.char-name {
+          font-family: "Shantell Sans";
+          font-size: 10.5px;
+        }
       }
 
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      gap: 1rem;
+      .square {
+        width: 0.5rem;
+        height: 0.5rem;
+        margin-right: 5px;
+        display: inline-block;
+      }
+
+      // display: flex;
+      // justify-content: space-between;
+      // align-items: center;
+      // gap: 1rem;
 
       .emotion-box {
         display: flex;
         align-items: center;
-        gap: 0.5rem;
-
-        b {
-          font-weight: 500;
-        }
+        gap: 0.25rem;
+        margin-top: 0.1rem;
 
         .emotion-color {
-          width: 40px;
           text-align: center;
-          font-size: smaller;
-          padding: 0.1rem 0.5rem;
+          font-size: 8px;
+          padding: 0 0.4rem;
         }
       }
     }
@@ -632,6 +648,15 @@ h1 {
     width: calc(100% - 2rem);
     background: white;
     scrollbar-width: none;
+
+    &::before {
+      content: "";
+      position: fixed;
+      height: 100%;
+      left: 0;
+      width: 1rem;
+      background: white;
+    }
   }
 
   #x-axis-div {
