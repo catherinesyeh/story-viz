@@ -748,6 +748,17 @@ const overlayPath = (
     point.y + character_height / 2,
   ]);
 
+  // adjust overlay_coords[0]
+  overlay_coords[0] = [
+    overlay_coords[0][0] - 1.25 * character_offset,
+    overlay_coords[0][1],
+  ];
+  // adjust overlay_coords[overlay_coords.length - 1]
+  overlay_coords[overlay_coords.length - 1] = [
+    overlay_coords[overlay_coords.length - 1][0] + 1.25 * character_offset,
+    overlay_coords[overlay_coords.length - 1][1],
+  ];
+
   const path = svgPath(overlay_coords, {}, bezierCommand, 0.3);
 
   // add a point at the beginning and end of the curve to close it off

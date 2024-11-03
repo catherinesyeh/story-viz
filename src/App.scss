@@ -74,57 +74,61 @@ header {
       }
     }
   }
+}
 
-  #options {
+#options {
+  display: flex;
+  gap: 20px;
+  overflow-x: auto;
+  scrollbar-width: none;
+
+  .options-contain {
+    font-size: calc(0.65rem + 0.05vw);
+    transition: 0.3s;
     display: flex;
-    gap: 20px;
-    overflow-x: auto;
-    scrollbar-width: none;
+    flex-direction: column;
+    gap: 2px;
 
-    .options-contain {
-      font-size: calc(0.65rem + 0.05vw);
-      transition: 0.3s;
+    .options-inner {
       display: flex;
-      flex-direction: column;
-      gap: 2px;
+      gap: 20px;
+      align-items: end;
+      width: max-content;
 
-      .options-inner {
-        display: flex;
-        gap: 20px;
-        align-items: end;
-        width: max-content;
-      }
-
-      .annotation {
-        font-size: smaller;
-        margin-top: 2px;
-
-        span {
-          letter-spacing: 0.3px;
-          font-weight: 600;
-        }
+      &.color {
+        align-items: center;
       }
     }
 
-    .mantine-Switch-label {
-      font-weight: 500;
-    }
+    .annotation {
+      font-size: smaller;
+      margin-top: 2px;
 
-    .mantine-Switch-body {
-      padding: 0 0 6px;
-      flex-direction: column;
-      gap: 8px;
+      span {
+        letter-spacing: 0.3px;
+        font-weight: 600;
+      }
     }
+  }
 
-    .mantine-Select-root {
-      display: block;
-      align-items: center;
-      gap: 10px;
-    }
+  .mantine-Switch-label {
+    font-weight: 500;
+  }
 
-    .mantine-Select-input {
-      width: 110px;
-    }
+  .mantine-Switch-body {
+    padding: 0 0 6px;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .mantine-Select-root {
+    display: block;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .mantine-Select-input {
+    width: 110px;
   }
 }
 
@@ -185,6 +189,10 @@ h1 {
 
       &.faded {
         opacity: 0.3;
+      }
+
+      &.light-faded {
+        opacity: 0.7;
       }
 
       .group-header {
@@ -291,6 +299,45 @@ h1 {
 
     span {
       font-size: xx-small !important;
+    }
+  }
+}
+
+// Color grid
+#colorgrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(0.75rem, 1fr));
+  max-width: 250px;
+  transition: 0.3s;
+
+  &.large {
+    max-width: 500px;
+  }
+
+  &.hidden {
+    visibility: hidden;
+    pointer-events: none;
+    opacity: 0;
+    width: 0;
+  }
+
+  .colorgrid-square {
+    width: 0.75rem;
+    height: 0.75rem;
+    transition: 0.3s;
+
+    &:hover {
+      opacity: 0.7;
+    }
+    &.faded:hover {
+      opacity: 0.5;
+    }
+    &.no-click {
+      pointer-events: none;
+    }
+
+    &.faded {
+      opacity: 0.3;
     }
   }
 }
@@ -970,16 +1017,6 @@ h1 {
   }
 }
 
-// @media (max-width: 1700px) {
-//   header {
-//     #options {
-//       .mantine-Select-input {
-//         width: 80px;
-//       }
-//     }
-//   }
-// }
-
 @media (max-width: 1500px) {
   header {
     align-items: baseline;
@@ -1052,6 +1089,25 @@ h1 {
   bottom: 0;
   padding: 0.5rem 1rem 0.5rem 0;
   width: calc(100% - 1rem);
+
+  #options {
+    display: grid;
+    grid-template-columns: 1fr auto auto;
+
+    .options-contain {
+      width: 100%;
+
+      .options-inner.slider {
+        display: grid;
+        grid-template-columns: auto 1fr;
+        width: 100%;
+
+        label {
+          width: max-content;
+        }
+      }
+    }
+  }
 }
 
 #color-bars {
@@ -1062,6 +1118,15 @@ h1 {
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
+  transition: 0.3s;
+
+  &.hidden {
+    visibility: hidden;
+    pointer-events: none;
+    opacity: 0;
+    width: 0;
+    margin-left: -20px;
+  }
 
   .color-bar {
     .inner-bar {
@@ -1139,11 +1204,20 @@ h1 {
 }
 
 #chapter-slider {
+  position: relative;
   display: flex;
   align-items: center;
-  font-size: 12px;
+  font-size: x-small;
   gap: 1rem;
   transition: 0.3s;
+
+  .label {
+    position: absolute;
+    bottom: 100%;
+    margin-bottom: -1px;
+    font-size: 11.5px;
+    font-weight: 500;
+  }
 
   &.hidden {
     opacity: 0;
@@ -1154,6 +1228,7 @@ h1 {
 
   .mantine-Slider-root {
     width: 100%;
+    min-width: 200px;
   }
 
   button {

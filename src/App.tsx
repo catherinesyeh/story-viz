@@ -1,6 +1,5 @@
 import { useRef, useEffect } from "react";
 import "./App.scss";
-import ChapterSlider from "./components/XAxis/ChapterSlider";
 import LegendDiv from "./components/LegendDiv";
 import PlotOptions from "./components/PlotOptions";
 import StoryVis from "./components/StoryVis";
@@ -12,6 +11,7 @@ import { storyStore } from "./stores/storyStore";
 import { positionStore } from "./stores/positionStore";
 import { location_height } from "./utils/consts";
 import SceneDiv from "./components/Overlays/SceneDiv";
+import SceneOptions from "./components/XAxis/SceneOptions";
 
 function App() {
   const { data, scene_data } = dataStore();
@@ -145,7 +145,7 @@ function App() {
         <YAxisDiv />
         <StoryVis />
       </div>
-      <ChapterSlider />
+      <SceneOptions />
       <SceneDiv />
     </div>
   );

@@ -1,6 +1,5 @@
 import { Button, RangeSlider } from "@mantine/core";
 import { dataStore } from "../../stores/dataStore";
-import Colorbar from "./Colorbar";
 import { extractChapterName } from "../../utils/helpers";
 
 function ChapterSlider() {
@@ -19,13 +18,13 @@ function ChapterSlider() {
   last_chapter = extractChapterName(last_chapter);
   const maxChars = 20;
   return (
-    <div id="slider-contain">
-      <Colorbar />
+    <div id="slider-outer">
       <div
         id="chapter-slider"
         className={first_chapter && last_chapter ? "" : "hidden"}
       >
-        <b>filter by chapter:</b>
+        <span className="label">Filter by chapter:</span>
+        {/* <b>filter by chapter:</b> */}
         <span>
           {first_chapter && first_chapter.length > maxChars
             ? first_chapter.slice(0, maxChars) + "..."

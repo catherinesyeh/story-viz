@@ -10,6 +10,9 @@ interface IStore {
   setChapterView: (val: boolean) => void;
   fullHeight: boolean;
   setFullHeight: (val: boolean) => void;
+  scaleByLength: boolean;
+  setScaleByLength: (val: boolean) => void;
+
   storyMarginTop: number;
   setStoryMarginTop: (val: number) => void;
   yAxisHeight: number;
@@ -58,6 +61,7 @@ const initialState = {
   weightBy: "importance",
   characterColor: "llm",
   showChapters: false,
+  scaleByLength: false,
 
   storyScroll: 0,
   storyScrollX: 0,
@@ -85,6 +89,7 @@ export const storyStore = create<IStore>()((set) => ({
   setFullHeight: (val: boolean) => set({ fullHeight: val }),
   setYAxisHeight: (val: number) => set({ yAxisHeight: val }),
   setXAxisWidth: (val: number) => set({ xAxisWidth: val }),
+  setScaleByLength: (val: boolean) => set({ scaleByLength: val }),
 
   setStoryMarginTop: (val: number) => set({ storyMarginTop: val }),
   setStoryScroll: (val: number) => set({ storyScroll: val }),

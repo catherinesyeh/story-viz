@@ -143,7 +143,8 @@ function LegendDiv() {
                   !charNames.includes(characterHover)) ||
                 (groupHover !== "" && groupHover !== group)
                   ? "faded"
-                  : "")
+                  : "") +
+                (allCharsInHidden(groupChars) ? " light-faded" : "")
               }
               style={{
                 borderColor: groupColor,

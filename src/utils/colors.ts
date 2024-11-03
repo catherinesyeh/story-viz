@@ -59,7 +59,7 @@ export const color_dict = {
   importance: importance_increments,
   conflict: conflict_increments,
   sentiment: emotion_increments,
-};
+} as { [key: string]: number[] };
 
 // get color for character
 export const getColor = (
