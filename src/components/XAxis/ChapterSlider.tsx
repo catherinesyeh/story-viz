@@ -18,7 +18,10 @@ function ChapterSlider() {
   last_chapter = extractChapterName(last_chapter);
   const maxChars = 20;
   return (
-    <div id="slider-outer">
+    <div
+      id="slider-outer"
+      className={first_chapter && last_chapter ? "" : "hidden"}
+    >
       <div
         id="chapter-slider"
         className={first_chapter && last_chapter ? "" : "hidden"}

@@ -6,6 +6,7 @@ import { positionStore } from "../../stores/positionStore";
 import { high_conflict_font, med_conflict_font } from "../../utils/consts";
 import ChapterSlider from "./ChapterSlider";
 import Colorbar from "./Colorbar";
+import { extractChapterName } from "../../utils/helpers";
 
 function SceneOptions() {
   const {
@@ -47,6 +48,13 @@ function SceneOptions() {
   ];
   const sizeByOptions = ["conflict", "importance", "length", "default"];
   const overlayOptions = ["conflict", "importance", "length", "none"];
+
+  let first_chapter = chapterDivisions ? chapterDivisions[0].chapter : "";
+  first_chapter = extractChapterName(first_chapter);
+  let last_chapter = chapterDivisions
+    ? chapterDivisions[chapterDivisions.length - 1].chapter
+    : "";
+  last_chapter = extractChapterName(last_chapter);
 
   const set_pos = () => {
     if (scene_data) {
@@ -111,12 +119,19 @@ function SceneOptions() {
 
   return (
     <div id="slider-contain">
-      <div id="options">
-        <div className="options-contain">
+      <div
+        id={"options"}
+        className={first_chapter && last_chapter ? "slider" : ""}
+      >
+        <div className={"options-contain"}>
           <span>
             <b>Chapters</b>
           </span>
-          <div className="options-inner slider">
+          <div
+            className={
+              "options-inner " + (first_chapter && last_chapter ? "slider" : "")
+            }
+          >
             <Switch
               size="xs"
               label="Show labels"

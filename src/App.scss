@@ -1090,9 +1090,10 @@ h1 {
   padding: 0.5rem 1rem 0.5rem 0;
   width: calc(100% - 1rem);
 
-  #options {
+  #options.slider {
     display: grid;
     grid-template-columns: 1fr auto auto;
+    transition: 0.3s;
 
     .options-contain {
       width: 100%;
@@ -1203,6 +1204,18 @@ h1 {
   }
 }
 
+#slider-outer {
+  transition: 0.3s;
+
+  &.hidden {
+    opacity: 0;
+    pointer-events: none;
+    visibility: hidden;
+    height: 0;
+    width: 0;
+  }
+}
+
 #chapter-slider {
   position: relative;
   display: flex;
@@ -1211,19 +1224,20 @@ h1 {
   gap: 1rem;
   transition: 0.3s;
 
+  &.hidden {
+    opacity: 0;
+    pointer-events: none;
+    visibility: hidden;
+    height: 0;
+    width: 0;
+  }
+
   .label {
     position: absolute;
     bottom: 100%;
     margin-bottom: -1px;
     font-size: 11.5px;
     font-weight: 500;
-  }
-
-  &.hidden {
-    opacity: 0;
-    pointer-events: none;
-    visibility: hidden;
-    height: 0;
   }
 
   .mantine-Slider-root {
