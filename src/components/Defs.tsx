@@ -12,6 +12,7 @@ import {
 import { dataStore } from "../stores/dataStore";
 import { RatingDict } from "../utils/data";
 import { positionStore } from "../stores/positionStore";
+import { character_offset } from "../utils/consts";
 
 function Defs() {
   const { sceneHover, characterColor } = storyStore();
@@ -349,11 +350,16 @@ function Defs() {
                 const denom =
                   activeScenePos[activeScenePos.length - 1] && firstScenePos
                     ? activeScenePos[activeScenePos.length - 1].x -
-                      firstScenePos.x
+                      firstScenePos.x +
+                      2.5 * character_offset
                     : 1;
                 let percent =
                   activeScenePos[j] && firstScenePos
-                    ? ((activeScenePos[j].x - firstScenePos.x) / denom) * 100
+                    ? ((activeScenePos[j].x -
+                        firstScenePos.x +
+                        1.25 * character_offset) /
+                        denom) *
+                      100
                     : 0;
 
                 return (

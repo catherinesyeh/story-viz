@@ -139,7 +139,7 @@ function SceneDiv() {
                   : "Chapter " + scene.chapter
                 : `Scene ${scene.number}: ${scene.name}`}
             </b>
-            {!chapterView && (
+            {!chapterView && scene.chapter && (
               <b style={{ fontWeight: 600 }}>
                 {chapterFormatted(scene.chapter)
                   ? scene.chapter
