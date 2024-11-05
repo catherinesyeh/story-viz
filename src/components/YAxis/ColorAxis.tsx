@@ -16,7 +16,13 @@ function ColorAxis() {
 
   return (
     <div id="color-axis-outer">
-      <p>{yAxis.includes("stacked") ? "character" : yAxis}</p>
+      <p>
+        {yAxis.includes("stacked")
+          ? story.includes("-themes")
+            ? "themes"
+            : "character"
+          : yAxis}
+      </p>
       <div
         id="color-axis"
         className={yAxis.includes("stacked") ? "hidden" : yAxis}

@@ -317,9 +317,9 @@ const chapter_scene_data = (
       );
       // get the character's emotion, quote, and rating from the first scene
       const top_scene = sorted_scenes[0];
-      const top_index = chap_scenes.findIndex(
-        (scene) => scene.number === top_scene.number
-      );
+      const top_index =
+        top_scene &&
+        chap_scenes.findIndex((scene) => scene.number === top_scene.number);
       const c =
         top_scene &&
         top_scene.characters.find((scene_char) => scene_char.name === char);

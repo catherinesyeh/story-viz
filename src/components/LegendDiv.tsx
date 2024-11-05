@@ -132,7 +132,8 @@ function LegendDiv() {
           );
           const fontColor = textColorLLM(groupColor);
 
-          const num_columns = Math.ceil(numChars / 8);
+          const num_columns =
+            numChars < 30 ? Math.ceil(numChars / 8) : Math.ceil(numChars / 12);
 
           return (
             <div

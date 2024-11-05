@@ -307,7 +307,7 @@ h1 {
 #colorgrid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(0.75rem, 1fr));
-  max-width: 250px;
+  max-width: 300px;
   transition: 0.3s;
 
   &.large {

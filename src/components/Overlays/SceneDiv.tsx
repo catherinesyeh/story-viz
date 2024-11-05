@@ -14,7 +14,7 @@ import { chapterFormatted, normalize } from "../../utils/helpers";
 function SceneDiv() {
   const { scene_data, minLines, maxLines, sceneSummaries, sortedCharacters } =
     dataStore();
-  const { sceneHover, chapterView } = storyStore();
+  const { sceneHover, chapterView, story } = storyStore();
 
   const scene = scene_data.find((scene) => scene.name === sceneHover);
   const scene_index = scene_data.findIndex(
@@ -204,7 +204,10 @@ function SceneDiv() {
       {sceneHover !== "" && (
         <div id="scene-characters">
           <div id="scene-header">
-            <b>Characters:</b>
+            <b>
+              {story.includes("-themes") ? "Themes" : "Characters"}:{" "}
+              {scene && scene.characters && scene.characters.length}
+            </b>
           </div>
           <div
             id="scene-char-inner"

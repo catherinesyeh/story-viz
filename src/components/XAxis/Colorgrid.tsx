@@ -106,7 +106,7 @@ function Colorgrid(props: any) {
               sortedCharacters.length <
                 (window && window.innerWidth < 1500 && window.innerWidth > 1200
                   ? 40
-                  : 20)
+                  : 25)
             ? sortedCharacters.length * 12
             : undefined,
       }}

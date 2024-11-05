@@ -39,6 +39,7 @@ function PlotOptions() {
     "gatsby",
     "gatsby2",
     "gatsby-new",
+    "gatsby-new-themes",
     "gatsby-mov",
     "alice",
     "alice2",
@@ -63,15 +64,31 @@ function PlotOptions() {
     "frankenstein-new",
     "threads-new",
     "time-new",
+    "time-new-themes",
     "whispers-new",
     "victoria-new",
   ].sort();
+  // const yAxisOptions = [
+  //   "location",
+  //   "character",
+  //   "character (stacked)",
+  //   "importance",
+  //   "sentiment",
+  // ];
   const yAxisOptions = [
-    "location",
-    "character",
-    "character (stacked)",
-    "importance",
-    "sentiment",
+    { label: "location", value: "location" },
+    {
+      label: story.includes("-themes") ? "themes" : "character",
+      value: "character",
+    },
+    {
+      label: story.includes("-themes")
+        ? "themes (stacked)"
+        : "character (stacked)",
+      value: "character (stacked)",
+    },
+    { label: "importance", value: "importance" },
+    { label: "sentiment", value: "sentiment" },
   ];
 
   const handleStoryChange = async () => {
@@ -164,7 +181,7 @@ function PlotOptions() {
       <Divider orientation="vertical" />
       <div className="options-contain">
         <span>
-          <b>Characters</b>
+          <b>{story.includes("-themes") ? "Themes" : "Characters"}</b>
         </span>
         <div
           className={
