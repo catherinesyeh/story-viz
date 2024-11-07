@@ -6,6 +6,7 @@ node_modules
 dist/
 archive/
 secrets.json
+.env
 scripts/
 json/
 chapters/

@@ -12,6 +12,7 @@ import { positionStore } from "./stores/positionStore";
 import { location_height } from "./utils/consts";
 import SceneDiv from "./components/Overlays/SceneDiv";
 import SceneOptions from "./components/XAxis/SceneOptions";
+import AuthWrapper from "./components/AuthWrapper";
 
 function App() {
   const { data, scene_data } = dataStore();
@@ -75,79 +76,85 @@ function App() {
 
   useEffect(() => {
     if (scene_data) handleResize();
-  }, [scene_data, showLegend]);
+  }, [scene_data, showLegend, headerRef.current]);
   return (
-    <div id="app">
-      <div id="header-container" ref={headerRef}>
-        <header>
-          <div id="story-header">
-            <a href={data["url"]} target="_blank" title={data["title"]}>
-              <img
-                src={data["image"]}
-                alt={data["title"]}
-                className="story-image"
-              />
-            </a>
-            <div id="story-info">
-              <h1>{data["title"]}</h1>
-              <span>
-                {data["author"] ? data["author"] : data["director"]}{" "}
-                <Divider orientation="vertical" /> {data["year"]}{" "}
-                {data["url"] && (
-                  <>
-                    <Divider orientation="vertical" />{" "}
-                    <a href={data["url"]} target="_blank" title={data["title"]}>
-                      <Button
-                        size="xs compact"
-                        variant="light"
-                        id="info-button"
-                        leftSection={<FiFileText />}
+    <AuthWrapper>
+      <div id="app">
+        <div id="header-container" ref={headerRef}>
+          <header>
+            <div id="story-header">
+              <a href={data["url"]} target="_blank" title={data["title"]}>
+                <img
+                  src={data["image"]}
+                  alt={data["title"]}
+                  className="story-image"
+                />
+              </a>
+              <div id="story-info">
+                <h1>{data["title"]}</h1>
+                <span>
+                  {data["author"] ? data["author"] : data["director"]}{" "}
+                  <Divider orientation="vertical" /> {data["year"]}{" "}
+                  {data["url"] && (
+                    <>
+                      <Divider orientation="vertical" />{" "}
+                      <a
+                        href={data["url"]}
+                        target="_blank"
+                        title={data["title"]}
                       >
-                        Full {data["type"] === "Movie" ? "Script" : "Text"}
-                      </Button>
-                    </a>
-                  </>
-                )}
-              </span>
+                        <Button
+                          size="xs compact"
+                          variant="light"
+                          id="info-button"
+                          leftSection={<FiFileText />}
+                        >
+                          Full {data["type"] === "Movie" ? "Script" : "Text"}
+                        </Button>
+                      </a>
+                    </>
+                  )}
+                </span>
+              </div>
             </div>
-          </div>
 
-          <PlotOptions />
-        </header>
-        <LegendDiv />
-      </div>
+            <PlotOptions />
+          </header>
+          <LegendDiv />
+        </div>
 
-      <div
-        id="story-contain"
-        style={{
-          marginTop: storyMarginTop,
-          width: `calc(100% - ${margin}px)`,
-          marginLeft: `calc(${margin}px - 1rem`,
-          marginBottom:
-            fullHeight ||
-            (window &&
-              plotHeight * ratio >
-                window.innerHeight -
-                  storyMarginTop -
-                  (story.includes("-new") && !chapterView ? 150 : 250))
-              ? `${
-                  location_height * 2.5 * ratio +
-                  (overlay !== "none" ? 80 : 0) +
-                  40 +
-                  (story.includes("-new") && !chapterView ? 40 : 0)
-                }px`
-              : "40px",
-        }}
-        onScroll={(e) => {
-          handleScroll(e.currentTarget);
-        }}
-      >
-        <YAxisDiv />
-        <StoryVis />
+        <div
+          id="story-contain"
+          style={{
+            marginTop: storyMarginTop,
+            width: `calc(100% - ${margin}px)`,
+            marginLeft: `calc(${margin}px - 1rem`,
+            marginBottom:
+              fullHeight ||
+              (window &&
+                plotHeight * ratio >
+                  window.innerHeight -
+                    storyMarginTop -
+                    (story.includes("-new") && !chapterView ? 150 : 250))
+                ? `${
+                    location_height * 2.5 * ratio +
+                    (overlay !== "none" ? 80 : 0) +
+                    40 +
+                    (story.includes("-new") && !chapterView ? 40 : 0)
+                  }px`
+                : "40px",
+          }}
+          onScroll={(e) => {
+            handleScroll(e.currentTarget);
+          }}
+        >
+          <YAxisDiv />
+          <StoryVis />
+        </div>
+        <SceneOptions />
+        <SceneDiv />
       </div>
-      <SceneOptions />
-      <SceneDiv />
-    </div>
+    </AuthWrapper>
   );
 }
 
