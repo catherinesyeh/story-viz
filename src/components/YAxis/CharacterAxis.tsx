@@ -18,7 +18,7 @@ function CharacterAxis() {
   const { sortedCharacters } = dataStore();
   const { plotHeight, charInc } = positionStore();
   const ratio = yAxisHeight / plotHeight;
-  const maxCharLength = 20;
+  const maxCharLength = 16;
   // Update array with list of hidden characters
   const updateHidden = (name: string) => {
     const newHidden = hidden.includes(name)

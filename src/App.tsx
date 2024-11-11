@@ -91,7 +91,10 @@ function App() {
                 />
               </a>
               <div id="story-info">
-                <h1>{data["title"]}</h1>
+                <h1>
+                  {data["title"]}
+                  {story.includes("-themes") ? " (Themes)" : ""}
+                </h1>
                 <span>
                   {data["author"] ? data["author"] : data["director"]}{" "}
                   <Divider orientation="vertical" /> {data["year"]}{" "}

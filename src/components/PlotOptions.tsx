@@ -69,6 +69,10 @@ function PlotOptions() {
     "whispers-new",
     "victoria-new",
     "starlight-new",
+    "bookstore-new",
+    "bookstore-new-themes",
+    "color-new",
+    "color-new-themes",
   ].sort();
   // const yAxisOptions = [
   //   "location",
