@@ -23,6 +23,8 @@ function SceneOptions() {
     yAxis,
     setFullHeight,
     setScaleByLength,
+    story,
+    chapterView,
     scaleByLength,
   } = storyStore();
 
@@ -108,7 +110,12 @@ function SceneOptions() {
 
   useEffect(() => {
     set_pos();
-    if (scenes.length < 24 && plotHeight < 800) {
+    if (
+      (scenes.length < 24 && plotHeight < 800) ||
+      (chapterView &&
+        story.includes("-themes") &&
+        (yAxis === "sentiment" || yAxis.includes("stacked")))
+    ) {
       setFullHeight(false);
     }
   }, [scene_data, plotHeight, scaleByLength, yAxis]);

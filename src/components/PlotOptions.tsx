@@ -154,7 +154,12 @@ function PlotOptions() {
             label="Full height"
             labelPosition="left"
             checked={fullHeight}
-            disabled={scenes.length < 24 && plotHeight < 800}
+            disabled={
+              (scenes.length < 24 && plotHeight < 800) ||
+              (chapterView &&
+                story.includes("-themes") &&
+                (yAxis === "sentiment" || yAxis.includes("stacked")))
+            }
             onChange={(event) => setFullHeight(event.currentTarget.checked)}
           />
           <Select

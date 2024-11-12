@@ -1,14 +1,7 @@
 import { useEffect, useState } from "react";
 import { dataStore } from "../../stores/dataStore";
 import { storyStore } from "../../stores/storyStore";
-import {
-  conflictColor,
-  emotionColor,
-  getLLMColor,
-  importanceColor,
-  lengthColor,
-  textColor,
-} from "../../utils/colors";
+import { emotionColor, getLLMColor, textColor } from "../../utils/colors";
 import { chapterFormatted, normalize } from "../../utils/helpers";
 
 function SceneDiv() {
@@ -27,6 +20,7 @@ function SceneDiv() {
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
 
   const buffer = 30;
+  const maxCharsToShow = 18;
 
   useEffect(() => {
     const handleMouseMove = (event: MouseEvent) => {
@@ -89,78 +83,6 @@ function SceneDiv() {
         top: mousePosition.y - buffer + "px",
       }}
     >
-      <div id="scene-ratings">
-        {sceneHover !== "" && (
-          <div className="rating-outer">
-            {/* <div className={"rating-colorbar"}>
-              <span className="min">{minLines}</span>
-              <div className="bar" />
-              <span className="max">{maxLines}</span>
-            </div> */}
-            <div
-              className="rating-box"
-              style={{
-                backgroundColor: lengthColor(lengthVal),
-                color: textColor(lengthVal, false),
-              }}
-            >
-              <b>length: </b>
-              {lengthVal < 0.4 ? "short" : lengthVal > 0.6 ? "long" : "med"} (
-              {numLines} lines)
-            </div>
-          </div>
-        )}
-        {scene &&
-          Object.keys(scene.ratings).map((rating) => {
-            let rating_val = (scene.ratings as Record<string, number>)[rating];
-            return (
-              <div key={rating} className="rating-outer">
-                {/* <div className={"rating-colorbar "}>
-                  <span
-                    className="min"
-                    style={{
-                      color: rating === "sentiment" ? "white" : "black",
-                    }}
-                  >
-                    {rating === "sentiment" ? -1 : 0}
-                  </span>
-                  <div className={"bar " + rating} />
-                  <span className="max">{1}</span>
-                </div> */}
-                <div
-                  className="rating-box"
-                  style={{
-                    backgroundColor:
-                      rating === "sentiment"
-                        ? emotionColor(rating_val)
-                        : rating === "conflict"
-                        ? conflictColor(rating_val)
-                        : importanceColor(rating_val),
-                    color:
-                      rating === "sentiment"
-                        ? textColor(rating_val, true)
-                        : textColor(rating_val, false),
-                  }}
-                >
-                  <b>{rating}:</b>{" "}
-                  {rating === "sentiment"
-                    ? rating_val < -0.2
-                      ? "neg"
-                      : rating_val > 0.2
-                      ? "pos"
-                      : "neutral"
-                    : rating_val < 0.4
-                    ? "low"
-                    : rating_val > 0.6
-                    ? "high"
-                    : "med"}{" "}
-                  ({rating_val !== undefined && rating_val.toFixed(2)})
-                </div>
-              </div>
-            );
-          })}
-      </div>
-
       {scene && (
         <div id="scene-info">
           <div id="scene-header">
@@ -189,7 +111,7 @@ function SceneDiv() {
             <b style={{ fontWeight: 600 }}>{chapterView && "Main "}Location:</b>{" "}
             {scene.location}{" "}
             {chapterView && scene.allLocations && (
-              <span>
+              <span style={{ opacity: 0.7 }}>
                 {"(" +
                   scene.allLocations[scene.location] +
                   (scene.allLocations[scene.location] > 1
@@ -198,6 +120,101 @@ function SceneDiv() {
               </span>
             )}
           </p>
+          {/* <b style={{ fontWeight: 600 }}>Ratings:</b> */}
+          <div id="scene-ratings">
+            {sceneHover !== "" && (
+              <div className="rating-outer">
+                <div className={"rating-colorbar"}>
+                  <span className="min">{minLines}</span>
+                  <div className={"bar "}>
+                    <div
+                      className="tip"
+                      style={{ left: `${lengthVal * 100}%` }}
+                    />
+                  </div>
+                  <span className="max">{maxLines}</span>
+                </div>
+                <div
+                  className="rating-box"
+                  style={
+                    {
+                      // backgroundColor: lengthColor(lengthVal),
+                      // color: textColor(lengthVal, false),
+                    }
+                  }
+                >
+                  <b>length: </b>
+                  {lengthVal < 0.4
+                    ? "short"
+                    : lengthVal > 0.6
+                    ? "long"
+                    : "med"}{" "}
+                  <span style={{ opacity: 0.7 }}>({numLines} lines)</span>
+                </div>
+              </div>
+            )}
+            {scene &&
+              Object.keys(scene.ratings).map((rating) => {
+                const rating_val = (scene.ratings as Record<string, number>)[
+                  rating
+                ];
+                // convert to normalized percent
+                const rating_val_norm =
+                  rating === "sentiment"
+                    ? normalize(rating_val, -1, 1, 0, 1)
+                    : rating_val;
+
+                return (
+                  <div key={rating} className="rating-outer">
+                    <div className={"rating-colorbar "}>
+                      <span className="min">
+                        {rating === "sentiment" ? -1 : 0}
+                      </span>
+                      <div className={"bar " + rating}>
+                        <div
+                          className="tip"
+                          style={{ left: `${rating_val_norm * 100}%` }}
+                        />
+                      </div>
+                      <span className="max">{1}</span>
+                    </div>
+                    <div
+                      className="rating-box"
+                      style={
+                        {
+                          // backgroundColor:
+                          //   rating === "sentiment"
+                          //     ? emotionColor(rating_val)
+                          //     : rating === "conflict"
+                          //     ? conflictColor(rating_val)
+                          //     : importanceColor(rating_val),
+                          // color:
+                          //   rating === "sentiment"
+                          //     ? textColor(rating_val, true)
+                          //     : textColor(rating_val, false),
+                        }
+                      }
+                    >
+                      <b>{rating}:</b>{" "}
+                      {rating === "sentiment"
+                        ? rating_val < -0.2
+                          ? "neg"
+                          : rating_val > 0.2
+                          ? "pos"
+                          : "neutral"
+                        : rating_val < 0.4
+                        ? "low"
+                        : rating_val > 0.6
+                        ? "high"
+                        : "med"}{" "}
+                      <span style={{ opacity: 0.7 }}>
+                        ({rating_val !== undefined && rating_val.toFixed(2)})
+                      </span>
+                    </div>
+                  </div>
+                );
+              })}
+          </div>
         </div>
       )}
 
@@ -207,6 +224,11 @@ function SceneDiv() {
             <b>
               {story.includes("-themes") ? "Themes" : "Characters"}:{" "}
               {scene && scene.characters && scene.characters.length}
+              {scene &&
+                scene.characters &&
+                scene.characters.length > maxCharsToShow && (
+                  <span>{" (top " + maxCharsToShow + " shown)"}</span>
+                )}
             </b>
           </div>
           <div
@@ -221,7 +243,7 @@ function SceneDiv() {
           >
             {scene &&
               sceneSummary &&
-              sceneSummary.emotions.map((char) => {
+              sceneSummary.emotions.slice(0, maxCharsToShow).map((char) => {
                 const character = scene.characters.find(
                   (c) => c.name === char.character
                 ) as any;
@@ -239,20 +261,22 @@ function SceneDiv() {
                           className="square"
                           style={{ backgroundColor: llmColor }}
                         />
-                        {char.character}{" "}
-                        <span
-                          style={{
-                            fontWeight: 400,
-                            opacity: 0.7,
-                            fontFamily: "var(--mantine-font-family)",
-                          }}
-                        >
-                          (importance: {character.importance_rank}
-                          {character.numScenes
-                            ? ", scenes: " + character.numScenes
-                            : ""}
-                          )
-                        </span>
+                        <div>
+                          {char.character}{" "}
+                          <span
+                            style={{
+                              fontWeight: 400,
+                              opacity: 0.7,
+                              fontFamily: "var(--mantine-font-family)",
+                            }}
+                          >
+                            (importance: {character.importance_rank}
+                            {character.numScenes
+                              ? ", scenes: " + character.numScenes
+                              : ""}
+                            )
+                          </span>
+                        </div>
                       </b>
                       <div className="emotion-box">
                         <b>{emotion}:</b>
