@@ -2,11 +2,10 @@ import { Button } from "@mantine/core";
 import { dataStore } from "../stores/dataStore";
 import { storyStore } from "../stores/storyStore";
 import { getColor, getGroupColor, textColorLLM } from "../utils/colors";
-import CharacterDiv from "./Overlays/CharacterDiv";
+// import CharacterDiv from "./Overlays/CharacterDiv";
 import { FaChevronUp, FaRedo } from "react-icons/fa";
-import LocationDiv from "./Overlays/LocationDiv";
 
-function LegendDiv() {
+function LegendDiv(props: any) {
   const {
     sortedCharacters,
     chapterDivisions,
@@ -25,6 +24,8 @@ function LegendDiv() {
     setShowLegend,
     setGroupHover,
   } = storyStore();
+
+  const inSidebar = props.inSidebar || false;
 
   // Update array with list of hidden characters
   const updateHidden = (name: string) => {
@@ -91,7 +92,7 @@ function LegendDiv() {
       .includes(char.character);
   });
 
-  const maxChars = 18;
+  const maxChars = inSidebar ? 28 : 18;
   const sortedGroups = sortedCharacters.map((char) => char.group);
   const uniqueGroups = [...new Set(sortedGroups)];
 
@@ -101,26 +102,30 @@ function LegendDiv() {
   });
 
   return (
-    <div id="legend-outer">
-      <Button
-        size="xs"
-        variant="transparent"
-        rightSection={<FaChevronUp />}
-        className={"show-button reset-button " + (!showLegend ? "rotate" : "")}
-        onClick={() => setShowLegend(!showLegend)}
-      >
-        {showLegend ? "Hide legend" : "Show legend"}
-      </Button>
-      <Button
-        size="xs"
-        variant="transparent"
-        leftSection={<FaRedo />}
-        className="reset-button"
-        disabled={hidden.length === 0}
-        onClick={() => setHidden([])}
-      >
-        Reset
-      </Button>
+    <div id="legend-outer" className={inSidebar ? "sidebar" : ""}>
+      <div id="buttons">
+        <Button
+          size="xs"
+          variant="transparent"
+          rightSection={<FaChevronUp />}
+          className={
+            "show-button reset-button " + (!showLegend ? "rotate" : "")
+          }
+          onClick={() => setShowLegend(!showLegend)}
+        >
+          {showLegend ? "Hide legend" : "Show legend"}
+        </Button>
+        <Button
+          size="xs"
+          variant="transparent"
+          leftSection={<FaRedo />}
+          className="reset-button"
+          disabled={hidden.length === 0}
+          onClick={() => setHidden([])}
+        >
+          Reset
+        </Button>
+      </div>
       <div id="character-legend" className={!showLegend ? "hidden" : ""}>
         {characterGroups.map((groupChars, index) => {
           const group = groupChars[0].group;
@@ -132,8 +137,11 @@ function LegendDiv() {
           );
           const fontColor = textColorLLM(groupColor);
 
-          const num_columns =
-            numChars < 30 ? Math.ceil(numChars / 8) : Math.ceil(numChars / 12);
+          const num_columns = inSidebar
+            ? 2
+            : numChars < 30
+            ? Math.ceil(numChars / 8)
+            : Math.ceil(numChars / 12);
 
           return (
             <div
@@ -220,8 +228,8 @@ function LegendDiv() {
           );
         })}
       </div>
-      <CharacterDiv />
-      <LocationDiv />
+      {/* <CharacterDiv /> */}
+      {/* <LocationDiv /> */}
     </div>
   );
 }

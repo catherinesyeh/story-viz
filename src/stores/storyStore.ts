@@ -50,6 +50,9 @@ interface IStore {
   showLegend: boolean;
   setShowLegend: (val: boolean) => void;
 
+  sidebarOpen: boolean;
+  setSidebarOpen: (val: boolean) => void;
+
   resetAll: () => void;
 }
 
@@ -81,6 +84,7 @@ export const storyStore = create<IStore>()((set) => ({
   yAxisHeight: 0,
   xAxisWidth: 0,
   storyMarginTop: 0,
+  sidebarOpen: false,
   ...initialState,
 
   setStory: (val: string) => set({ story: val }),
@@ -108,5 +112,6 @@ export const storyStore = create<IStore>()((set) => ({
   setSceneHover: (val: string) => set({ sceneHover: val }),
   setHidden: (val: string[]) => set({ hidden: val }),
   setShowLegend: (val: boolean) => set({ showLegend: val }),
+  setSidebarOpen: (val: boolean) => set({ sidebarOpen: val }),
   resetAll: () => set({ ...initialState }),
 }));

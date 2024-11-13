@@ -1,28 +1,17 @@
-import { Select, Divider, Switch } from "@mantine/core";
+import { Switch } from "@mantine/core";
 import { storyStore } from "../../stores/storyStore";
 import { dataStore } from "../../stores/dataStore";
 import { useEffect } from "react";
 import { positionStore } from "../../stores/positionStore";
-import { high_conflict_font, med_conflict_font } from "../../utils/consts";
 import ChapterSlider from "./ChapterSlider";
-import Colorbar from "./Colorbar";
 import { extractChapterName } from "../../utils/helpers";
 
 function SceneOptions() {
   const {
-    overlay,
-    setOverlay,
-    colorBy,
-    setColorBy,
-    sizeBy,
-    setSizeBy,
-    weightBy,
-    setWeightBy,
     showChapters,
     setShowChapters,
     yAxis,
     setFullHeight,
-    setScaleByLength,
     story,
     chapterView,
     scaleByLength,
@@ -41,15 +30,6 @@ function SceneOptions() {
     chapterDivisions,
   } = dataStore();
   const { setPaths, setPositions, plotHeight } = positionStore();
-  const colorByOptions = [
-    "conflict",
-    "sentiment",
-    "importance",
-    "length",
-    "default",
-  ];
-  const sizeByOptions = ["conflict", "importance", "length", "default"];
-  const overlayOptions = ["conflict", "importance", "length", "none"];
 
   let first_chapter = chapterDivisions ? chapterDivisions[0].chapter : "";
   first_chapter = extractChapterName(first_chapter);
@@ -150,7 +130,7 @@ function SceneOptions() {
             <ChapterSlider />
           </div>
         </div>
-        <Divider orientation="vertical" />
+        {/* <Divider orientation="vertical" />
         <div className="options-contain">
           <b>Scenes</b>
           <div className="options-inner">
@@ -216,7 +196,7 @@ function SceneOptions() {
             </span>{" "}
             conflict in scene
           </i>
-        </div>
+        </div> */}
       </div>
     </div>
   );

@@ -20,6 +20,8 @@ function Colorgrid(props: any) {
   } = storyStore();
   const gridType = props.gridType;
 
+  const fullWidth = props.fullWidth || false;
+
   // active chapters
   const activeChapterDivisions =
     chapterDivisions &&
@@ -94,21 +96,27 @@ function Colorgrid(props: any) {
         gridType === ""
           ? "hidden"
           : "" +
-            (window && window.innerWidth < 1500 && window.innerWidth > 1200
+            (!fullWidth &&
+            window &&
+            window.innerWidth < 1500 &&
+            window.innerWidth > 1200
               ? " large"
+              : fullWidth
+              ? " full-width"
               : "")
       }
       style={{
-        width:
-          gridType === "group"
-            ? characterGroups.length * 12
-            : (gridType === "default" || gridType === "llm") &&
-              sortedCharacters.length <
-                (window && window.innerWidth < 1500 && window.innerWidth > 1200
-                  ? 40
-                  : 25)
-            ? sortedCharacters.length * 12
-            : undefined,
+        width: fullWidth
+          ? "100%"
+          : gridType === "group"
+          ? characterGroups.length * 12
+          : (gridType === "default" || gridType === "llm") &&
+            sortedCharacters.length <
+              (window && window.innerWidth < 1500 && window.innerWidth > 1200
+                ? 40
+                : 25)
+          ? sortedCharacters.length * 12
+          : undefined,
       }}
     >
       {/* create a square for each character, color determined by gridType */}

@@ -11,7 +11,7 @@ import { onlyLetters } from "../../utils/helpers";
 import ImageDiv from "../ImageDiv";
 
 function CharacterDiv() {
-  const { characterHover, characterColor, story, storyMarginTop } =
+  const { characterHover, characterColor, story, storyMarginTop, sidebarOpen } =
     storyStore();
   const { character_data, sortedCharacters } = dataStore();
 
@@ -24,7 +24,7 @@ function CharacterDiv() {
 
   const [marginTop, setMarginTop] = useState(0);
 
-  const buffer = 30;
+  const buffer = 10;
 
   useEffect(() => {
     const handleMouseMove = (event: MouseEvent) => {
@@ -96,6 +96,8 @@ function CharacterDiv() {
       style={{
         borderColor: accentColor.split(")")[0] + ", 0.3)",
         marginTop: "calc(" + marginTop + "px + 1rem)",
+        top: storyMarginTop,
+        right: sidebarOpen ? "calc(440px + 1rem)" : "1rem",
       }}
       className={characterHover !== "" ? "" : "hidden"}
       onMouseEnter={(e) => {

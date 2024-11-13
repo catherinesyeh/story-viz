@@ -4,8 +4,15 @@ import { dataStore } from "../../stores/dataStore";
 import { positionStore } from "../../stores/positionStore";
 
 function LocationDiv() {
-  const { locationHover, yAxisHeight, yAxis, story, fullHeight, chapterView } =
-    storyStore();
+  const {
+    locationHover,
+    yAxisHeight,
+    yAxis,
+    story,
+    fullHeight,
+    chapterView,
+    storyMarginTop,
+  } = storyStore();
   const { location_quotes } = dataStore();
   const { plotHeight } = positionStore();
   const [locationName, setLocationName] = useState("");
@@ -43,6 +50,7 @@ function LocationDiv() {
           (yAxis === "location" || yAxis === "character")
             ? "calc(" + 160 * ratio + "px + 2rem)"
             : "calc(160px + 2rem)",
+        top: storyMarginTop,
       }}
     >
       <b>

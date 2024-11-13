@@ -1,6 +1,5 @@
 import { useRef, useEffect } from "react";
 import "./App.scss";
-import LegendDiv from "./components/LegendDiv";
 import PlotOptions from "./components/PlotOptions";
 import StoryVis from "./components/StoryVis";
 import { dataStore } from "./stores/dataStore";
@@ -123,7 +122,7 @@ function App() {
 
             <PlotOptions />
           </header>
-          <LegendDiv />
+          {/* <LegendDiv /> */}
         </div>
 
         <div

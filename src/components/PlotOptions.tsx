@@ -3,13 +3,12 @@ import { storyStore } from "../stores/storyStore";
 import { dataStore } from "../stores/dataStore";
 import { useEffect } from "react";
 import { positionStore } from "../stores/positionStore";
-import Colorbar from "./XAxis/Colorbar";
-import Colorgrid from "./XAxis/Colorgrid";
+import Sidebar from "./Sidebar";
+import LocationDiv from "./Overlays/LocationDiv";
+import CharacterDiv from "./Overlays/CharacterDiv";
 
 function PlotOptions() {
   const {
-    characterColor,
-    setCharacterColor,
     story,
     setStory,
     resetAll,
@@ -28,13 +27,6 @@ function PlotOptions() {
   const { data, setData, scenes, resetActiveChapters, num_chapters } =
     dataStore();
   const { plotHeight } = positionStore();
-  const characterColorOptions = [
-    "default",
-    "llm",
-    "group",
-    "sentiment",
-    "importance",
-  ];
   const storyOptions = [
     "gatsby",
     // "gatsby2",
@@ -191,10 +183,12 @@ function PlotOptions() {
           >
             Reset All
           </Button>
+          <Divider orientation="vertical" />
+          <Sidebar />
         </div>
       </div>
-      <Divider orientation="vertical" />
-      <div className="options-contain">
+      {/* <Divider orientation="vertical" /> */}
+      {/* <div className="options-contain">
         <span>
           <b>{story.includes("-themes") ? "Themes" : "Characters"}</b>
         </span>
@@ -234,6 +228,15 @@ function PlotOptions() {
         </div>
         <i className="annotation">Size = relative importance in scene</i>
       </div>
+      <Divider orientation="vertical" /> */}
+      {/* <div className="options-contain">
+        <b>Characters / Scenes</b>
+        <div className="options-inner">
+          <Sidebar />
+        </div>
+      </div> */}
+      <CharacterDiv />
+      <LocationDiv />
     </div>
   );
 }

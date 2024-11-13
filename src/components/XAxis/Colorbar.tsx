@@ -4,9 +4,10 @@ function Colorbar(props: any) {
   const { minLines, maxLines } = dataStore();
 
   const barType = props.barType;
+  const fullWidth = props.fullWidth || false;
   return (
     <div id="color-bars" className={barType === "default" ? "hidden" : ""}>
-      <div className={"color-bar"}>
+      <div className={"color-bar " + (fullWidth ? "full-width" : "")}>
         <div className="inner-bar">
           <p className="number-label">
             {barType === "sentiment"
