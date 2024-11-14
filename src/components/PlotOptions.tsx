@@ -15,6 +15,7 @@ function PlotOptions() {
     setCharacterHover,
     setLocationHover,
     setSceneHover,
+    setGroupHover,
     setHidden,
     yAxis,
     setYAxis,
@@ -114,6 +115,7 @@ function PlotOptions() {
         setLocationHover("");
         setCharacterHover("");
         setSceneHover("");
+        setGroupHover("");
       }
     } catch (error) {
       console.log("Error loading story data", error);

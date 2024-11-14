@@ -590,10 +590,13 @@ const sceneCharacters = (
         );
         return aIndex - bIndex;
       });
-    const groups = sortedChars.map(
+    let groups = sortedChars.map(
       (char: string) =>
         sortedCharacters.find((c) => c.character === char)?.group || ""
     );
+    // remove duplicates and empty strings
+    groups = Array.from(new Set(groups)).filter((group) => group !== "");
+
     return {
       scene: scene,
       characters: sortedChars,

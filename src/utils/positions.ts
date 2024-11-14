@@ -202,13 +202,14 @@ const characterPos = (
 
     if (!foundLine) {
       // Create a new line for the character
-      const new_inc = 2.5 * character_offset + character_height;
+      const new_inc =
+        2.5 * character_offset + character_height + 0.5 * character_offset;
       const newY = new_inc * yLines.length; // Calculate new y based on current number of lines
       charStackPos.push(
         character.scenes.map((scene) => {
           return {
             x: initialScenePos[scene].x - 0.5 * character_height,
-            y: newY + 0.5 * character_offset, // Place character on a new line
+            y: newY, // Place character on a new line
           };
         })
       );
