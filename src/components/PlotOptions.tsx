@@ -34,43 +34,65 @@ function PlotOptions() {
     "gatsby-new",
     "gatsby-new-themes",
     "gatsby-mov",
+
     "alice",
     // "alice2",
     "alice-new",
     "alice-new-themes",
     "alice-mov",
+
     "wizard",
     "wizard-new",
     "wizard-new-themes",
     "wizard-mov",
+
     "aladdin",
+
     "pride",
     "pride-new",
     "pride-new-themes",
+
     "romeo",
     "romeo-new",
     "romeo-new-themes",
+
     "yourname",
     "yourname-new",
     "yourname-new-themes",
+
     "sound",
+
     "anne",
     "anne-new",
+    "anne-new-themes",
+
     "coco",
+
     "mendips",
     "mendips-new",
+    "mendips-new-themes",
+
     "frankenstein-new",
+    "frankenstein-new-themes",
+
     "threads-new",
     "threads-new-themes",
+
     "time-new",
     "time-new-themes",
+
     "whispers-new",
     "whispers-new-themes",
+
     "victoria-new",
+    "victoria-new-themes",
+
     "starlight-new",
     "starlight-new-themes",
+
     "bookstore-new",
     "bookstore-new-themes",
+
     "color-new",
     "color-new-themes",
   ].sort();
