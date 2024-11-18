@@ -12,14 +12,32 @@ const allColors = chroma.scale(
   colors1.concat(colors2).concat(colors3).concat(colors4)
 );
 
-export const emotionColor = d3
-  .scaleSequential(d3.interpolateRdBu)
-  .domain([1, -1]);
-export const conflictColor = d3.scaleSequential(d3.interpolateGreens);
-export const importanceColor = d3.scaleSequential(d3.interpolatePurples);
-export const lengthColor = d3.scaleSequential(d3.interpolateOranges);
+// export const emotionColor = d3
+// .scaleSequential(d3.interpolateRdBu).domain([1, -1]);
 
-export const groupColors = [
+// const blues = chroma.scale("Blues").padding([0.1, 0]).colors(7).reverse();
+const blues = chroma.scale("RdBu").padding([0.6, 0]).colors(7).reverse();
+// const reds = chroma.scale("Reds").padding([0.1, 0]).colors(7);
+const reds = chroma.scale("RdBu").padding([0, 0.6]).colors(7).reverse();
+export const emotionColor = chroma
+  .scale(blues.concat("#ddd").concat(reds))
+  .domain([-1, 1]);
+// console.log(emotionColor.colors(5));
+
+// export const conflictColor = d3.scaleSequential(d3.interpolateGreens);
+export const conflictColor = chroma.scale("Greens").padding([0.25, 0]);
+// console.log(conflictColor.colors(5));
+
+// export const importanceColor = d3.scaleSequential(d3.interpolatePurples);
+export const importanceColor = chroma.scale("Purples").padding([0.25, 0]);
+// console.log(importanceColor.colors(5));
+
+// export const lengthColor = d3
+//   .scaleSequential(d3.interpolateOranges);
+export const lengthColor = chroma.scale("Oranges").padding([0.25, 0]);
+// console.log(lengthColor.colors(5));
+
+export default [
   d3.scaleSequential(d3.interpolateOrRd),
   d3.scaleSequential(d3.interpolatePuRd),
   d3.scaleSequential(d3.interpolateBuPu),

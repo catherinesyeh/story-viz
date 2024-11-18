@@ -519,11 +519,11 @@ h1 {
           position: relative;
           background: linear-gradient(
             to right,
-            rgb(255, 245, 235),
-            rgb(253, 206, 160),
-            rgb(251, 141, 61),
-            rgb(213, 75, 4),
-            rgb(127, 39, 4)
+            #fdd0a2,
+            #fd9e54,
+            #f16913,
+            #c03f02,
+            #7f2704
           );
 
           .tip {
@@ -539,10 +539,10 @@ h1 {
           &.importance {
             background: linear-gradient(
               to right,
-              rgb(252, 251, 253),
-              rgb(217, 216, 234),
-              rgb(158, 155, 201),
-              rgb(106, 81, 164),
+              rgb(218, 218, 235),
+              rgb(173, 172, 210),
+              rgb(128, 125, 186),
+              rgb(95, 60, 153),
               rgb(63, 0, 125)
             );
           }
@@ -550,10 +550,10 @@ h1 {
           &.conflict {
             background: linear-gradient(
               to right,
-              rgb(247, 252, 245),
-              rgb(198, 232, 191),
-              rgb(115, 195, 120),
-              rgb(34, 139, 69),
+              rgb(199, 233, 192),
+              rgb(139, 207, 137),
+              rgb(65, 171, 93),
+              rgb(18, 124, 57),
               rgb(0, 68, 27)
             );
           }
@@ -561,11 +561,11 @@ h1 {
           &.sentiment {
             background: linear-gradient(
               to right,
-              rgb(5, 48, 97),
-              rgb(107, 172, 208),
-              rgb(242, 239, 238),
-              rgb(228, 130, 104),
-              rgb(103, 0, 31)
+              rgb(8, 48, 107),
+              rgb(120, 180, 216),
+              rgb(221, 221, 221),
+              rgb(249, 113, 84),
+              rgb(103, 0, 13)
             );
           }
         }
@@ -773,10 +773,10 @@ h1 {
         padding: 0.25rem 0;
         background: linear-gradient(
           to top,
-          rgb(252, 251, 253),
-          rgb(217, 216, 234),
-          rgb(158, 155, 201),
-          rgb(106, 81, 164),
+          rgb(218, 218, 235),
+          rgb(173, 172, 210),
+          rgb(128, 125, 186),
+          rgb(95, 60, 153),
           rgb(63, 0, 125)
         );
 
@@ -792,11 +792,11 @@ h1 {
         &.sentiment {
           background: linear-gradient(
             to top,
-            rgb(5, 48, 97),
-            rgb(107, 172, 208),
-            rgb(242, 239, 238),
-            rgb(228, 130, 104),
-            rgb(103, 0, 31)
+            rgb(8, 48, 107),
+            rgb(120, 180, 216),
+            rgb(221, 221, 221),
+            rgb(249, 113, 84),
+            rgb(103, 0, 13)
           );
         }
 
@@ -1289,20 +1289,20 @@ h1 {
         height: 0.6rem;
         background: linear-gradient(
           to right,
-          rgb(255, 245, 235),
-          rgb(253, 206, 160),
-          rgb(251, 141, 61),
-          rgb(213, 75, 4),
-          rgb(127, 39, 4)
+          #fdd0a2,
+          #fd9e54,
+          #f16913,
+          #c03f02,
+          #7f2704
         );
 
         &.importance {
           background: linear-gradient(
             to right,
-            rgb(252, 251, 253),
-            rgb(217, 216, 234),
-            rgb(158, 155, 201),
-            rgb(106, 81, 164),
+            rgb(218, 218, 235),
+            rgb(173, 172, 210),
+            rgb(128, 125, 186),
+            rgb(95, 60, 153),
             rgb(63, 0, 125)
           );
         }
@@ -1310,10 +1310,10 @@ h1 {
         &.conflict {
           background: linear-gradient(
             to right,
-            rgb(247, 252, 245),
-            rgb(198, 232, 191),
-            rgb(115, 195, 120),
-            rgb(34, 139, 69),
+            rgb(199, 233, 192),
+            rgb(139, 207, 137),
+            rgb(65, 171, 93),
+            rgb(18, 124, 57),
             rgb(0, 68, 27)
           );
         }
@@ -1321,11 +1321,11 @@ h1 {
         &.sentiment {
           background: linear-gradient(
             to right,
-            rgb(5, 48, 97),
-            rgb(107, 172, 208),
-            rgb(242, 239, 238),
-            rgb(228, 130, 104),
-            rgb(103, 0, 31)
+            rgb(8, 48, 107),
+            rgb(120, 180, 216),
+            rgb(221, 221, 221),
+            rgb(249, 113, 84),
+            rgb(103, 0, 13)
           );
         }
       }
@@ -1453,6 +1453,9 @@ h1 {
   }
   .margin-bottom {
     margin-bottom: 0.5rem;
+  }
+  .margin-top {
+    margin-top: 0.75rem;
   }
 }
 

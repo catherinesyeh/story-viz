@@ -10,6 +10,7 @@ import {
 import { character_height, character_offset } from "../utils/consts";
 import { positionStore } from "../stores/positionStore";
 import { normalizeMarkerSize } from "../utils/helpers";
+import chroma from "chroma-js";
 
 function MainPlot() {
   const {
@@ -230,10 +231,14 @@ function MainPlot() {
                     const char_data = scene_data[scene].characters.find(
                       (c) => c.name === character.character
                     ) as any;
-                    const emotion_val = char_data.rating;
-                    const importance_val = char_data.importance;
-                    const emotion_color = emotionColor(emotion_val);
-                    const importance_color = importanceColor(importance_val);
+                    const emotion_val = char_data.rating as number;
+                    const importance_val = char_data.importance as number;
+                    const emotion_color = chroma(
+                      emotionColor(emotion_val)
+                    ).css();
+                    const importance_color = chroma(
+                      importanceColor(importance_val)
+                    ).css();
 
                     return (
                       charActiveSquares[j] && (

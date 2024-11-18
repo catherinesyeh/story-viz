@@ -24,7 +24,7 @@ export const normalizeMarkerSize = (value: number) =>
   normalize(value, 0, character_height, 1, 14);
 
 export const normalizeFontSize = (value: number) =>
-  normalize(value, 0, 1, 0.6, 1.4);
+  normalize(value, 0, 1, 0.5, 1.2);
 
 export const normalizeTextOffset = (value: number) =>
   normalize(value, 0, 1, 1, 2.2);

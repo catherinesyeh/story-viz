@@ -5,6 +5,7 @@ import {
   character_offset,
   location_buffer,
   location_offset,
+  med_conflict_font,
 } from "../../utils/consts";
 import {
   conflictColor,
@@ -16,13 +17,13 @@ import {
 import {
   chapterFormatted,
   extractChapterName,
-  getFontFamily,
   getFontWeight,
   normalize,
   normalizeFontSize,
   normalizeTextOffset,
 } from "../../utils/helpers";
 import { positionStore } from "../../stores/positionStore";
+import chroma from "chroma-js";
 
 function XAxis() {
   const {
@@ -229,12 +230,12 @@ function XAxis() {
                 colorBy === "default"
                   ? "black"
                   : colorBy === "sentiment"
-                  ? emotionColor(ratings.sentiment)
+                  ? chroma(emotionColor(ratings.sentiment)).css()
                   : colorBy === "conflict"
-                  ? conflictColor(ratings.conflict)
+                  ? chroma(conflictColor(ratings.conflict)).css()
                   : colorBy === "importance"
-                  ? importanceColor(ratings.importance)
-                  : lengthColor(numLines);
+                  ? chroma(importanceColor(ratings.importance)).css()
+                  : chroma(lengthColor(numLines)).css();
 
               // make color transparent if showChapters is true
               if (showChapters) {
@@ -250,14 +251,14 @@ function XAxis() {
                   ? getFontWeight(numLines)
                   : 500;
 
-              const letterSpacing =
-                ratings.conflict >= 0.66
-                  ? fontSize > 1.2 && weight > 600
-                    ? 4.5
-                    : fontSize > 1 && weight > 400
-                    ? 3
-                    : 1.5
-                  : 0;
+              // const letterSpacing =
+              //   ratings.conflict >= 0.66
+              //     ? fontSize > 1.2 && weight > 600
+              //       ? 4.5
+              //       : fontSize > 1 && weight > 400
+              //       ? 3
+              //       : 1.5
+              //     : 0;
 
               return (
                 activeScenePos[i] && (
@@ -275,9 +276,10 @@ function XAxis() {
                     fill={color}
                     className="scene-name-text"
                     fontSize={"calc(" + fontSize + "rem + 0.1vw)"}
-                    letterSpacing={letterSpacing}
+                    // letterSpacing={letterSpacing}
                     fontWeight={weight}
-                    fontFamily={getFontFamily(ratings.conflict)}
+                    fontFamily={med_conflict_font}
+                    // fontFamily={getFontFamily(ratings.conflict)}
                     transform={
                       "rotate(-45," +
                       (activeScenePos[i].x +

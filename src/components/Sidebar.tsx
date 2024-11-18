@@ -4,7 +4,6 @@ import Colorbar from "./XAxis/Colorbar";
 import Colorgrid from "./XAxis/Colorgrid";
 import LegendDiv from "./LegendDiv";
 import { IoMdOpen } from "react-icons/io";
-import { high_conflict_font, med_conflict_font } from "../utils/consts";
 import { dataStore } from "../stores/dataStore";
 
 function Sidebar() {
@@ -127,7 +126,16 @@ function Sidebar() {
               <div className="sidebar-settings">
                 <div className="options-contain">
                   <div className="options-inner">
-                    <i className="annotation">
+                    <Switch
+                      size="xs"
+                      label="Scale scenes by length"
+                      labelPosition="right"
+                      checked={scaleByLength}
+                      onChange={(event) =>
+                        setScaleByLength(event.currentTarget.checked)
+                      }
+                    />
+                    {/* <i className="annotation">
                       Font = <span>low</span> -{" "}
                       <span style={{ fontFamily: med_conflict_font }}>
                         medium
@@ -144,8 +152,8 @@ function Sidebar() {
                         high
                       </span>{" "}
                       conflict in scene
-                    </i>
-                    <div className="two-col margin-bottom">
+                    </i> */}
+                    <div className="two-col margin-bottom margin-top">
                       <Select
                         size="xs"
                         label="Font size"
@@ -188,15 +196,6 @@ function Sidebar() {
                     <div className="margin-bottom">
                       <Colorbar barType={colorBy} />
                     </div>
-                    <Switch
-                      size="xs"
-                      label="Scale scenes by length"
-                      labelPosition="right"
-                      checked={scaleByLength}
-                      onChange={(event) =>
-                        setScaleByLength(event.currentTarget.checked)
-                      }
-                    />
                   </div>
                 </div>
               </div>

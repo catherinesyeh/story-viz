@@ -3,6 +3,7 @@ import { dataStore } from "../../stores/dataStore";
 import { storyStore } from "../../stores/storyStore";
 import { emotionColor, getLLMColor, textColor } from "../../utils/colors";
 import { chapterFormatted, normalize } from "../../utils/helpers";
+import chroma from "chroma-js";
 
 function SceneDiv() {
   const { scene_data, minLines, maxLines, sceneSummaries, sortedCharacters } =
@@ -250,7 +251,7 @@ function SceneDiv() {
                 let emotion = character.emotion;
                 // capitalize first letter
                 emotion = emotion.charAt(0).toUpperCase() + emotion.slice(1);
-                const rating = character.rating;
+                const rating = character.rating as number;
                 const llmColor = getLLMColor(char.character, sortedCharacters);
                 // const top_scene = character.top_scene;
                 return (
@@ -283,7 +284,7 @@ function SceneDiv() {
                         <div
                           className="emotion-color"
                           style={{
-                            backgroundColor: emotionColor(rating),
+                            backgroundColor: chroma(emotionColor(rating)).css(),
                             color: textColor(rating, true),
                           }}
                         >
