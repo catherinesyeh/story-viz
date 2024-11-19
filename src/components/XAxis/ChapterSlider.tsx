@@ -17,6 +17,19 @@ function ChapterSlider() {
     : "";
   last_chapter = extractChapterName(last_chapter);
   const maxChars = 20;
+
+  // Function to get chapter name by index
+  const getChapterName = (value: number) => {
+    if (!chapterDivisions || value < 1 || value > chapterDivisions.length) {
+      return "";
+    }
+    const chapter = chapterDivisions[value - 1].chapter;
+    const chapterName = extractChapterName(chapter);
+    return chapterName && chapterName.length > maxChars
+      ? chapterName.slice(0, maxChars) + "..."
+      : chapterName;
+  };
+
   return (
     <div
       id="slider-outer"
@@ -40,6 +53,7 @@ function ChapterSlider() {
           value={activeChapters}
           onChange={setActiveChapters}
           size={"sm"}
+          label={(value) => getChapterName(value)} // Display chapter names on hover
         />
         <span>
           {last_chapter && last_chapter.length > maxChars

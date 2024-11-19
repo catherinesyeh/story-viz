@@ -105,7 +105,10 @@ function SceneOptions() {
   }, [activeChapters]);
 
   return (
-    <div id="slider-contain">
+    <div
+      id="slider-contain"
+      className={first_chapter && last_chapter ? "" : "hidden"}
+    >
       <div
         id={"options"}
         className={first_chapter && last_chapter ? "slider" : ""}
@@ -125,6 +128,7 @@ function SceneOptions() {
               labelPosition="left"
               checked={showChapters}
               onChange={(event) => setShowChapters(event.currentTarget.checked)}
+              className={first_chapter && last_chapter ? "" : "hidden"}
             />
 
             <ChapterSlider />

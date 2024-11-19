@@ -239,7 +239,7 @@ function Sidebar() {
         onClick={open}
         variant="outline"
         rightSection={<IoMdOpen />}
-        style={{ width: 198 }}
+        style={{ width: 200 }}
       >
         {themeView ? "Theme" : "Character"} / Scene Settings
       </Button>

@@ -1233,6 +1233,30 @@ h1 {
   bottom: 0;
   padding: 0.5rem 1rem 0.5rem 0;
   width: calc(100% - 1rem);
+  transition: 0.3s;
+
+  &.hidden {
+    visibility: hidden;
+    pointer-events: none;
+    opacity: 0;
+    padding: 0;
+    width: 0;
+    height: 0;
+  }
+
+  .mantine-Slider-label {
+    font-size: smaller;
+    font-weight: 600;
+  }
+
+  .mantine-Switch-root {
+    transition: 0.3s;
+    &.hidden {
+      visibility: hidden;
+      pointer-events: none;
+      opacity: 0;
+    }
+  }
 
   #options.slider {
     display: grid;
