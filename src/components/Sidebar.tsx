@@ -5,10 +5,11 @@ import Colorgrid from "./XAxis/Colorgrid";
 import LegendDiv from "./LegendDiv";
 import { IoMdOpen } from "react-icons/io";
 import { dataStore } from "../stores/dataStore";
+import { useEffect } from "react";
 
 function Sidebar() {
   const {
-    story,
+    themeView,
     characterColor,
     setCharacterColor,
     sidebarOpen,
@@ -19,11 +20,11 @@ function Sidebar() {
     setWeightBy,
     colorBy,
     setColorBy,
-    overlay,
-    setOverlay,
     scaleByLength,
     setScaleByLength,
     resetAll,
+    showOverlay,
+    setShowOverlay,
   } = storyStore();
 
   const { resetActiveChapters, num_chapters } = dataStore();
@@ -45,7 +46,6 @@ function Sidebar() {
   ];
 
   const sizeByOptions = ["conflict", "importance", "length", "default"];
-  const overlayOptions = ["conflict", "importance", "length", "none"];
   const colorByOptions = [
     "conflict",
     "sentiment",
@@ -54,13 +54,19 @@ function Sidebar() {
     "default",
   ];
 
+  useEffect(() => {
+    if (colorBy === "default") {
+      setShowOverlay(false);
+    }
+  }, [colorBy]);
+
   return (
     <div id="sidebar">
       <Drawer
         position="right"
         opened={sidebarOpen}
         onClose={close}
-        title="Character / Scene Settings"
+        title={(themeView ? "Theme" : "Character") + " / Scene Settings"}
       >
         <Accordion
           multiple
@@ -68,8 +74,8 @@ function Sidebar() {
           defaultValue={["character", "scene"]}
         >
           <Accordion.Item key="character" value="character">
-            <Accordion.Control icon={story.includes("-themes") ? "💡" : "👩🏻"}>
-              {story.includes("-themes") ? "Themes" : "Characters"}
+            <Accordion.Control icon={themeView ? "💡" : "👩🏻"}>
+              {themeView ? "Themes" : "Characters"}
             </Accordion.Control>
             <Accordion.Panel>
               <div className="sidebar-settings">
@@ -126,15 +132,27 @@ function Sidebar() {
               <div className="sidebar-settings">
                 <div className="options-contain">
                   <div className="options-inner">
-                    <Switch
-                      size="xs"
-                      label="Scale scenes by length"
-                      labelPosition="right"
-                      checked={scaleByLength}
-                      onChange={(event) =>
-                        setScaleByLength(event.currentTarget.checked)
-                      }
-                    />
+                    <div className="two-col">
+                      <Switch
+                        size="xs"
+                        label="Scale scenes by length"
+                        labelPosition="right"
+                        checked={scaleByLength}
+                        onChange={(event) =>
+                          setScaleByLength(event.currentTarget.checked)
+                        }
+                      />
+                      <Switch
+                        size="xs"
+                        label="Show overlay curve"
+                        labelPosition="right"
+                        disabled={colorBy === "default"}
+                        checked={showOverlay}
+                        onChange={(event) =>
+                          setShowOverlay(event.currentTarget.checked)
+                        }
+                      />
+                    </div>
                     {/* <i className="annotation">
                       Font = <span>low</span> -{" "}
                       <span style={{ fontFamily: med_conflict_font }}>
@@ -173,17 +191,17 @@ function Sidebar() {
                         }}
                       />
                     </div>
-                    <div className="two-col margin-bottom">
-                      <Select
-                        size="xs"
-                        label="Color"
-                        data={colorByOptions}
-                        value={colorBy}
-                        onChange={(value) => {
-                          if (value) setColorBy(value);
-                        }}
-                      />
-                      <Select
+                    {/* <div className="two-col margin-bottom"> */}
+                    <Select
+                      size="xs"
+                      label="Color"
+                      data={colorByOptions}
+                      value={colorBy}
+                      onChange={(value) => {
+                        if (value) setColorBy(value);
+                      }}
+                    />
+                    {/* <Select
                         size="xs"
                         label="Overlay"
                         data={overlayOptions}
@@ -191,8 +209,8 @@ function Sidebar() {
                         onChange={(value) => {
                           if (value) setOverlay(value);
                         }}
-                      />
-                    </div>
+                      /> */}
+                    {/* </div> */}
                     <div className="margin-bottom">
                       <Colorbar barType={colorBy} />
                     </div>
@@ -221,8 +239,9 @@ function Sidebar() {
         onClick={open}
         variant="outline"
         rightSection={<IoMdOpen />}
+        style={{ width: 198 }}
       >
-        Character / Scene Settings
+        {themeView ? "Theme" : "Character"} / Scene Settings
       </Button>
     </div>
   );

@@ -45,7 +45,7 @@ function XAxis() {
     sizeBy,
     colorBy,
     weightBy,
-    overlay,
+    showOverlay,
     showChapters,
     groupHover,
   } = storyStore();
@@ -88,7 +88,7 @@ function XAxis() {
       id="x-axis"
       transform={
         "translate(0 " +
-        (overlay !== "none" ? location_buffer - 1.75 * character_offset : 0) +
+        (showOverlay ? location_buffer - 1.75 * character_offset : 0) +
         ")"
       }
     >
@@ -321,7 +321,7 @@ function XAxis() {
           y={location_offset * 2 - 1.25 * location_offset}
           textAnchor="start"
           fill={
-            overlay === "none" || colorBy === "default"
+            !showOverlay || colorBy === "default"
               ? "black"
               : colorBy === "conflict"
               ? textColor(scene_data[0].ratings.conflict, false)

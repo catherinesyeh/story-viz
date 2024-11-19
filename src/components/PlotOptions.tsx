@@ -23,6 +23,8 @@ function PlotOptions() {
     setFullHeight,
     chapterView,
     setChapterView,
+    themeView,
+    setThemeView,
   } = storyStore();
 
   const { data, setData, scenes, resetActiveChapters, num_chapters } =
@@ -96,23 +98,19 @@ function PlotOptions() {
     "color-new",
     "color-new-themes",
   ].sort();
-  // const yAxisOptions = [
-  //   "location",
-  //   "character",
-  //   "character (stacked)",
-  //   "importance",
-  //   "sentiment",
-  // ];
+
+  const storyOptionsDisplay = storyOptions.filter(
+    (s) => !s.includes("-themes")
+  );
+
   const yAxisOptions = [
     { label: "location", value: "location" },
     {
-      label: story.includes("-themes") ? "themes" : "character",
+      label: themeView ? "themes" : "character",
       value: "character",
     },
     {
-      label: story.includes("-themes")
-        ? "themes (stacked)"
-        : "character (stacked)",
+      label: themeView ? "themes (stacked)" : "character (stacked)",
       value: "character (stacked)",
     },
     { label: "importance", value: "importance" },
@@ -132,6 +130,14 @@ function PlotOptions() {
           viewChapters = true;
         }
 
+        if (
+          themeView &&
+          !story.includes("-themes") &&
+          !storyOptions.includes(story + "-themes")
+        ) {
+          setThemeView(false);
+        }
+
         setData(new_data.default, viewChapters);
         setChapterView(viewChapters);
 
@@ -148,6 +154,13 @@ function PlotOptions() {
   };
 
   useEffect(() => {
+    if (
+      themeView &&
+      !story.includes("-themes") &&
+      storyOptions.includes(story + "-themes")
+    ) {
+      setStory(story + "-themes");
+    }
     handleStoryChange();
   }, [story]);
 
@@ -155,19 +168,19 @@ function PlotOptions() {
     setData(data, chapterView);
   }, [chapterView]);
 
+  useEffect(() => {
+    if (themeView) {
+      setStory(story + "-themes");
+    } else {
+      setStory(story.replace("-themes", ""));
+    }
+  }, [themeView]);
+
   return (
     <div id="options">
       <div className="options-contain">
         <b>Visualization Settings</b>
         <div className="options-inner">
-          <Switch
-            size="xs"
-            label="Chapter view"
-            labelPosition="left"
-            checked={chapterView}
-            disabled={!story.includes("-new")}
-            onChange={(event) => setChapterView(event.currentTarget.checked)}
-          />
           <Switch
             size="xs"
             label="Full height"
@@ -181,9 +194,31 @@ function PlotOptions() {
             }
             onChange={(event) => setFullHeight(event.currentTarget.checked)}
           />
+          <Switch
+            size="xs"
+            label={(chapterView ? "Chapter" : "Scene") + " view"}
+            labelPosition="left"
+            checked={chapterView}
+            disabled={!story.includes("-new")}
+            onChange={(event) => setChapterView(event.currentTarget.checked)}
+            style={{ width: 85 }}
+          />
+          <Switch
+            size="xs"
+            label={(themeView ? "Theme" : "Character") + " view"}
+            labelPosition="left"
+            checked={themeView}
+            disabled={
+              !story.includes("-themes") &&
+              !storyOptions.includes(story + "-themes")
+            }
+            onChange={(event) => setThemeView(event.currentTarget.checked)}
+            style={{ width: 95 }}
+          />
+
           <Select
             size="xs"
-            data={storyOptions}
+            data={storyOptionsDisplay}
             label="Story"
             value={story}
             onChange={(value) => {

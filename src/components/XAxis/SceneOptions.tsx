@@ -12,7 +12,7 @@ function SceneOptions() {
     setShowChapters,
     yAxis,
     setFullHeight,
-    story,
+    themeView,
     chapterView,
     scaleByLength,
   } = storyStore();
@@ -93,7 +93,7 @@ function SceneOptions() {
     if (
       (scenes.length < 24 && plotHeight < 800) ||
       (chapterView &&
-        story.includes("-themes") &&
+        themeView &&
         (yAxis === "sentiment" || yAxis.includes("stacked")))
     ) {
       setFullHeight(false);

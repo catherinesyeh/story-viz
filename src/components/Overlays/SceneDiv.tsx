@@ -1,14 +1,13 @@
 import { useEffect, useState } from "react";
 import { dataStore } from "../../stores/dataStore";
 import { storyStore } from "../../stores/storyStore";
-import { emotionColor, getLLMColor, textColor } from "../../utils/colors";
+import { getLLMColor } from "../../utils/colors";
 import { chapterFormatted, normalize } from "../../utils/helpers";
-import chroma from "chroma-js";
 
 function SceneDiv() {
   const { scene_data, minLines, maxLines, sceneSummaries, sortedCharacters } =
     dataStore();
-  const { sceneHover, chapterView, story } = storyStore();
+  const { sceneHover, chapterView, themeView } = storyStore();
 
   const scene = scene_data.find((scene) => scene.name === sceneHover);
   const scene_index = scene_data.findIndex(
@@ -21,7 +20,7 @@ function SceneDiv() {
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
 
   const buffer = 30;
-  const maxCharsToShow = 18;
+  const maxCharsToShow = 16;
 
   useEffect(() => {
     const handleMouseMove = (event: MouseEvent) => {
@@ -36,11 +35,7 @@ function SceneDiv() {
       let overlayHeight = overlay ? overlay.clientHeight : 0;
 
       const overlayWidth =
-        scene && scene.characters && scene.characters.length > 8
-          ? scene.characters.length > 16
-            ? 850
-            : 750
-          : 650;
+        scene && scene.characters && scene.characters.length > 8 ? 750 : 660;
       const maxRight = overlayWidth + 2 * buffer;
 
       if (curX + maxRight > max_x) {
@@ -74,9 +69,7 @@ function SceneDiv() {
           ? "hidden"
           : "" +
             (scene && scene.characters && scene.characters.length > 8
-              ? scene.characters.length > 16
-                ? " extra-wide"
-                : " wide"
+              ? " wide"
               : "")
       }
       style={{
@@ -223,7 +216,7 @@ function SceneDiv() {
         <div id="scene-characters">
           <div id="scene-header">
             <b>
-              {story.includes("-themes") ? "Themes" : "Characters"}:{" "}
+              {themeView ? "Themes" : "Characters"}:{" "}
               {scene && scene.characters && scene.characters.length}
               {scene &&
                 scene.characters &&
@@ -236,9 +229,7 @@ function SceneDiv() {
             id="scene-char-inner"
             className={
               scene && scene.characters && scene.characters.length > 8
-                ? scene.characters.length > 16
-                  ? "two-col three-col"
-                  : "two-col"
+                ? "two-col"
                 : ""
             }
           >
@@ -252,6 +243,7 @@ function SceneDiv() {
                 // capitalize first letter
                 emotion = emotion.charAt(0).toUpperCase() + emotion.slice(1);
                 const rating = character.rating as number;
+                const rating_val_norm = normalize(rating, -1, 1, 0, 1);
                 const llmColor = getLLMColor(char.character, sortedCharacters);
                 // const top_scene = character.top_scene;
                 return (
@@ -280,8 +272,12 @@ function SceneDiv() {
                         </div>
                       </b>
                       <div className="emotion-box">
-                        <b>{emotion}:</b>
-                        <div
+                        <b>
+                          {emotion}
+                          {/* {" "} */}
+                          {/* {rating < -0.2 ? "🙁" : rating > 0.2 ? "🙂" : "😐"} */}
+                        </b>
+                        {/* <div
                           className="emotion-color"
                           style={{
                             backgroundColor: chroma(emotionColor(rating)).css(),
@@ -289,6 +285,21 @@ function SceneDiv() {
                           }}
                         >
                           {rating.toFixed(2)}
+                        </div> */}
+                        <div className="rating-outer">
+                          <div className={"rating-colorbar mini"}>
+                            <span className="min">{-1}</span>
+                            <div className={"bar sentiment "}>
+                              <div
+                                className="tip"
+                                style={{ left: `${rating_val_norm * 100}%` }}
+                              />
+                              {/* <span className="rating">
+                                {rating.toFixed(2)}
+                              </span> */}
+                            </div>
+                            <span className="max">{1}</span>
+                          </div>
                         </div>
                       </div>
                     </div>

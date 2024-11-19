@@ -8,6 +8,8 @@ interface IStore {
   setYAxis: (val: string) => void;
   chapterView: boolean;
   setChapterView: (val: boolean) => void;
+  themeView: boolean;
+  setThemeView: (val: boolean) => void;
   fullHeight: boolean;
   setFullHeight: (val: boolean) => void;
   scaleByLength: boolean;
@@ -24,8 +26,8 @@ interface IStore {
   storyScrollX: number;
   setStoryScrollX: (val: number) => void;
 
-  overlay: string;
-  setOverlay: (val: string) => void;
+  showOverlay: boolean;
+  setShowOverlay: (val: boolean) => void;
   colorBy: string;
   setColorBy: (val: string) => void;
   sizeBy: string;
@@ -58,13 +60,13 @@ interface IStore {
 
 const initialState = {
   yAxis: "location",
-  overlay: "none",
   colorBy: "sentiment",
   sizeBy: "importance",
   weightBy: "conflict",
   characterColor: "llm",
   showChapters: false,
   scaleByLength: false,
+  showOverlay: false,
 
   storyScroll: 0,
   storyScrollX: 0,
@@ -80,6 +82,7 @@ const initialState = {
 export const storyStore = create<IStore>()((set) => ({
   story: "gatsby",
   chapterView: false,
+  themeView: false,
   fullHeight: false,
   yAxisHeight: 0,
   xAxisWidth: 0,
@@ -90,6 +93,7 @@ export const storyStore = create<IStore>()((set) => ({
   setStory: (val: string) => set({ story: val }),
   setYAxis: (val: string) => set({ yAxis: val }),
   setChapterView: (val: boolean) => set({ chapterView: val }),
+  setThemeView: (val: boolean) => set({ themeView: val }),
   setFullHeight: (val: boolean) => set({ fullHeight: val }),
   setYAxisHeight: (val: number) => set({ yAxisHeight: val }),
   setXAxisWidth: (val: number) => set({ xAxisWidth: val }),
@@ -99,7 +103,7 @@ export const storyStore = create<IStore>()((set) => ({
   setStoryScroll: (val: number) => set({ storyScroll: val }),
   setStoryScrollX: (val: number) => set({ storyScrollX: val }),
 
-  setOverlay: (val: string) => set({ overlay: val }),
+  setShowOverlay: (val: boolean) => set({ showOverlay: val }),
   setColorBy: (val: string) => set({ colorBy: val }),
   setSizeBy: (val: string) => set({ sizeBy: val }),
   setWeightBy: (val: string) => set({ weightBy: val }),

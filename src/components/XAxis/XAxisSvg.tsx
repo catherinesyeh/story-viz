@@ -14,7 +14,7 @@ import XAxis from "./XAxis";
 function XAxisSVG() {
   const { plotWidth, plotHeight } = positionStore();
   const {
-    overlay,
+    showOverlay,
     story,
     yAxis,
     fullHeight,
@@ -79,7 +79,7 @@ function XAxisSVG() {
         viewBox={`0 0 ${plotWidth} ${
           location_height * 2.5 -
           character_height +
-          (overlay !== "none"
+          (showOverlay
             ? location_buffer - character_offset
             : 0.75 * character_offset)
         }`} // Maintain your calculated dimensions here for correct scaling

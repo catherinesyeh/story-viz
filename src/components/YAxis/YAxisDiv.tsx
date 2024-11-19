@@ -19,7 +19,7 @@ function YAxisDiv() {
     setStoryScroll,
     fullHeight,
     story,
-    overlay,
+    showOverlay,
     yAxis,
     chapterView,
   } = storyStore();
@@ -67,9 +67,7 @@ function YAxisDiv() {
         style={{
           height:
             plotHeight * ratio +
-            (overlay !== "none"
-              ? (location_buffer - character_offset) * ratio
-              : 0),
+            (showOverlay ? (location_buffer - character_offset) * ratio : 0),
           marginBottom:
             fullHeight ||
             (window &&

@@ -10,7 +10,7 @@ import { dataStore } from "../../stores/dataStore";
 import { positionStore } from "../../stores/positionStore";
 
 function OverlayCurve() {
-  const { overlay, sceneHover, locationHover, characterHover, colorBy } =
+  const { showOverlay, sceneHover, locationHover, characterHover, colorBy } =
     storyStore();
   const { conflictPath, importancePath, lengthPath, scenePos } =
     positionStore();
@@ -19,18 +19,16 @@ function OverlayCurve() {
     <g
       id="conflict-container"
       transform={
-        "translate(0 " +
-        (overlay !== "none" ? -0.5 * character_height : 0) +
-        ")"
+        "translate(0 " + (showOverlay ? -0.5 * character_height : 0) + ")"
       }
     >
       {/* add conflict curve */}
       <path
         id="conflict-curve"
         d={
-          overlay === "importance"
+          colorBy === "importance"
             ? importancePath
-            : overlay === "conflict"
+            : colorBy === "conflict"
             ? conflictPath
             : lengthPath
         }
@@ -38,15 +36,15 @@ function OverlayCurve() {
         fill={colorBy === "default" ? "#ddd" : "url(#rating" + colorBy + ")"}
         strokeWidth={2}
         className={
-          (overlay !== "none" ? "highlight" : "") +
-          (overlay !== "none" && (locationHover !== "" || characterHover !== "")
+          (showOverlay ? "highlight" : "") +
+          (showOverlay && (locationHover !== "" || characterHover !== "")
             ? " faded"
             : "")
         }
       />
       <g
         id="overlays"
-        fillOpacity={overlay === "none" || sceneHover === "" ? 0 : 0.7}
+        fillOpacity={!showOverlay || sceneHover === "" ? 0 : 0.7}
       >
         <rect
           id="left-overlay"
@@ -55,7 +53,7 @@ function OverlayCurve() {
           x={scenePos[0].x - 1.25 * character_offset}
           y={location_buffer - location_height + 0.5 * character_height}
           width={
-            overlay === "none" ||
+            !showOverlay ||
             sceneHover === "" ||
             (sceneHover !== "" && !scenePos[scenes.indexOf(sceneHover)])
               ? 0
@@ -70,7 +68,7 @@ function OverlayCurve() {
           className="white-overlay"
           fill="url(#white-gradient-right)"
           x={
-            overlay === "none" ||
+            !showOverlay ||
             sceneHover === "" ||
             (sceneHover !== "" && !scenePos[scenes.indexOf(sceneHover)])
               ? scenePos[scenePos.length - 1].x + 1.25 * character_offset
@@ -78,7 +76,7 @@ function OverlayCurve() {
           }
           y={location_buffer - location_height + 0.5 * character_height}
           width={
-            overlay === "none" ||
+            !showOverlay ||
             sceneHover === "" ||
             (sceneHover !== "" && !scenePos[scenes.indexOf(sceneHover)])
               ? 0
@@ -94,11 +92,11 @@ function OverlayCurve() {
         id="y-arrow"
         fillOpacity={0}
         strokeOpacity={0}
-        className={overlay !== "none" ? "highlight" : ""}
+        className={showOverlay ? "highlight" : ""}
       >
         <path
           id="arrow-line-y"
-          markerEnd={overlay === "none" ? "" : "url(#head)"}
+          markerEnd={!showOverlay ? "" : "url(#head)"}
           strokeWidth="2"
           stroke="black"
           d={`M${
@@ -121,7 +119,7 @@ function OverlayCurve() {
             ")"
           }
         >
-          {overlay.charAt(0).toUpperCase() + overlay.slice(1)} (max: 1)
+          {colorBy.charAt(0).toUpperCase() + colorBy.slice(1)} (max: 1)
         </text>
       </g>
     </g>

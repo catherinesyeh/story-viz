@@ -5,7 +5,8 @@ import { storyStore } from "../../stores/storyStore";
 function ColorAxis() {
   const { sceneCharacters } = dataStore();
   const { plotHeight } = positionStore();
-  const { yAxis, yAxisHeight, fullHeight, story, chapterView } = storyStore();
+  const { yAxis, yAxisHeight, fullHeight, story, chapterView, themeView } =
+    storyStore();
   const max_characters_per_scene = Math.max(
     ...sceneCharacters.map((char) => char.characters.length)
   );
@@ -18,7 +19,7 @@ function ColorAxis() {
     <div id="color-axis-outer">
       <p>
         {yAxis.includes("stacked")
-          ? story.includes("-themes")
+          ? themeView
             ? "themes"
             : "character"
           : yAxis}

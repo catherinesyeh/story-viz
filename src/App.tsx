@@ -25,7 +25,7 @@ function App() {
     yAxis,
     setStoryScrollX,
     storyScrollX,
-    overlay,
+    showOverlay,
     showLegend,
     chapterView,
   } = storyStore();
@@ -92,7 +92,7 @@ function App() {
               <div id="story-info">
                 <h1>
                   {data["title"]}
-                  {story.includes("-themes") ? " (Themes)" : ""}
+                  {/* {story.includes("-themes") ? " (Themes)" : ""} */}
                 </h1>
                 <span>
                   {data["author"] ? data["author"] : data["director"]}{" "}
@@ -140,7 +140,7 @@ function App() {
                     (story.includes("-new") && !chapterView ? 150 : 250))
                 ? `${
                     location_height * 2.5 * ratio +
-                    (overlay !== "none" ? 80 : 0) +
+                    (showOverlay ? 80 : 0) +
                     40 +
                     (story.includes("-new") && !chapterView ? 40 : 0)
                   }px`
