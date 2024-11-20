@@ -234,8 +234,26 @@ h1 {
         justify-content: space-between;
         align-items: center;
         column-gap: 0.5rem;
+        transition: 0.3s;
 
-        span {
+        &.no-margin {
+          margin-bottom: -0.25rem;
+        }
+
+        .expand-button {
+          margin-right: 0.4rem;
+          font-weight: 800;
+          transition: 0.3s;
+
+          svg {
+            margin-bottom: -0.5px;
+            width: 0.5rem !important;
+            height: 0.5rem !important;
+          }
+        }
+
+        span,
+        b {
           cursor: pointer;
           transition: 0.3s;
 
@@ -262,6 +280,14 @@ h1 {
         display: grid;
         grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
         align-items: start;
+        transition: 0.3s;
+
+        &.hidden {
+          visibility: hidden;
+          pointer-events: none;
+          opacity: 0;
+          height: 0;
+        }
       }
     }
 
@@ -292,6 +318,13 @@ h1 {
       &.faded {
         opacity: 0.3;
       }
+    }
+  }
+
+  .compact-button {
+    height: 1.5rem;
+    .mantine-Button-label {
+      font-size: 10px !important;
     }
   }
 

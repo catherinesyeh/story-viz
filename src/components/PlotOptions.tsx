@@ -25,6 +25,7 @@ function PlotOptions() {
     setChapterView,
     themeView,
     setThemeView,
+    setMinimized,
   } = storyStore();
 
   const { data, setData, scenes, resetActiveChapters, num_chapters } =
@@ -100,6 +101,9 @@ function PlotOptions() {
 
     "emma-new",
     "emma-new-themes",
+
+    "greatexp-new",
+    "greatexp-new-themes",
   ].sort();
 
   const storyOptionsDisplay = storyOptions.filter(
@@ -146,6 +150,7 @@ function PlotOptions() {
 
         // reset the following values
         setHidden([]);
+        setMinimized([]);
         setLocationHover("");
         setCharacterHover("");
         setSceneHover("");

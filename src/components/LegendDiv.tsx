@@ -3,7 +3,7 @@ import { dataStore } from "../stores/dataStore";
 import { storyStore } from "../stores/storyStore";
 import { getColor, getGroupColor, textColorLLM } from "../utils/colors";
 // import CharacterDiv from "./Overlays/CharacterDiv";
-import { FaChevronUp, FaRedo } from "react-icons/fa";
+import { FaChevronUp, FaRedo, FaPlus, FaMinus } from "react-icons/fa";
 
 function LegendDiv(props: any) {
   const {
@@ -23,6 +23,8 @@ function LegendDiv(props: any) {
     showLegend,
     setShowLegend,
     setGroupHover,
+    minimized,
+    setMinimized,
   } = storyStore();
 
   const inSidebar = props.inSidebar || false;
@@ -64,6 +66,29 @@ function LegendDiv(props: any) {
   const allCharsInHidden = (groupChars: any) => {
     const groupNames = groupChars.map((char: any) => char.character);
     return groupNames.every((name: string) => hidden.includes(name));
+  };
+
+  // Update array with list of minimized groups
+  const updateMinimized = (group: string) => {
+    const newMinimized = minimized.includes(group)
+      ? minimized.filter((item: string) => item !== group)
+      : [...minimized, group];
+    setMinimized(newMinimized);
+  };
+
+  const minimizeAll = () => {
+    const newMinimized = sortedCharacters.map((char) => char.group);
+    setMinimized(newMinimized);
+  };
+
+  const expandAll = () => {
+    setMinimized([]);
+  };
+
+  const allMinized = () => {
+    return (
+      minimized.length === sortedCharacters.map((char) => char.group).length
+    );
   };
 
   // active chapters
@@ -161,12 +186,18 @@ function LegendDiv(props: any) {
               }}
             >
               <div
-                className="group-header"
+                className={
+                  "group-header " +
+                  (minimized.includes(group) ? "no-margin" : "")
+                }
                 style={{ backgroundColor: groupColor, color: fontColor }}
                 onMouseEnter={() => setGroupHover(group)}
                 onMouseLeave={() => setGroupHover("")}
               >
-                <b>
+                <b onClick={() => updateMinimized(group)}>
+                  <span className="expand-button">
+                    {minimized.includes(group) ? <FaPlus /> : <FaMinus />}
+                  </span>
                   {group} ({numChars})
                 </b>
                 <div>
@@ -185,7 +216,12 @@ function LegendDiv(props: any) {
                   </span>
                 </div>
               </div>
-              <div className="group-contain-inner">
+              <div
+                className={
+                  "group-contain-inner " +
+                  (minimized.includes(group) ? "hidden" : "")
+                }
+              >
                 {groupChars.map((character) => {
                   const color =
                     characterColorBy === "llm" && character.color
@@ -227,6 +263,30 @@ function LegendDiv(props: any) {
             </div>
           );
         })}
+        <Button
+          size="compact-xs"
+          className="compact-button"
+          fullWidth
+          disabled={minimized.length === 0}
+          onClick={() => {
+            expandAll();
+          }}
+          style={{ marginTop: "0.15rem" }}
+        >
+          Expand All
+        </Button>
+        <Button
+          size="compact-xs"
+          className="compact-button"
+          fullWidth
+          disabled={allMinized()}
+          onClick={() => {
+            minimizeAll();
+          }}
+          style={{ marginTop: "0.15rem" }}
+        >
+          Minimize All
+        </Button>
       </div>
       {/* <CharacterDiv /> */}
       {/* <LocationDiv /> */}
