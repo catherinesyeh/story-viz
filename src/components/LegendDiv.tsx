@@ -264,6 +264,7 @@ function LegendDiv(props: any) {
           );
         })}
         <Button
+          variant="outline"
           size="compact-xs"
           className="compact-button"
           fullWidth
@@ -276,6 +277,7 @@ function LegendDiv(props: any) {
           Expand All
         </Button>
         <Button
+          variant="outline"
           size="compact-xs"
           className="compact-button"
           fullWidth
