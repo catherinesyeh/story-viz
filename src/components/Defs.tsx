@@ -13,6 +13,7 @@ import { dataStore } from "../stores/dataStore";
 import { RatingDict } from "../utils/data";
 import { positionStore } from "../stores/positionStore";
 import { character_offset } from "../utils/consts";
+import chroma from "chroma-js";
 
 function Defs() {
   const { sceneHover, characterColor } = storyStore();
@@ -136,15 +137,19 @@ function Defs() {
                 (c) => c.name === char.character
               ) as any);
 
-            const emotion_val = firstScene.rating;
-            const importance_val = firstScene.importance;
-            const emotion_color = emotionColor(emotion_val);
-            const importance_color = importanceColor(importance_val);
+            const emotion_val = firstScene.rating as number;
+            const importance_val = firstScene.importance as number;
+            const emotion_color = chroma(emotionColor(emotion_val)).css();
+            const importance_color = chroma(
+              importanceColor(importance_val)
+            ).css();
 
-            const emotion_val2 = lastScene.rating;
-            const importance_val2 = lastScene.importance;
-            const emotion_color2 = emotionColor(emotion_val2);
-            const importance_color2 = importanceColor(importance_val2);
+            const emotion_val2 = lastScene.rating as number;
+            const importance_val2 = lastScene.importance as number;
+            const emotion_color2 = chroma(emotionColor(emotion_val2)).css();
+            const importance_color2 = chroma(
+              importanceColor(importance_val2)
+            ).css();
 
             const start_color =
               characterColor === "default"
@@ -188,17 +193,7 @@ function Defs() {
                     />
                     <stop
                       offset={fade_in_percent + "%"}
-                      stopColor={
-                        characterColor === "default"
-                          ? charColor
-                          : characterColor === "llm"
-                          ? llmColor
-                          : characterColor === "group"
-                          ? groupColor
-                          : characterColor === "sentiment"
-                          ? emotionColor(firstScene.rating)
-                          : importanceColor(firstScene.importance)
-                      }
+                      stopColor={start_color}
                     />
                   </>
                 )}
@@ -206,10 +201,14 @@ function Defs() {
                   const char_data = scene_data[scene].characters.find(
                     (c) => c.name === char.character
                   ) as any;
-                  const emotion_val = char_data.rating;
-                  const importance_val = char_data.importance;
-                  const emotion_color = emotionColor(emotion_val);
-                  const importance_color = importanceColor(importance_val);
+                  const emotion_val = char_data.rating as number;
+                  const importance_val = char_data.importance as number;
+                  const seg_emotion_color = chroma(
+                    emotionColor(emotion_val)
+                  ).css();
+                  const seg_importance_color = chroma(
+                    importanceColor(importance_val)
+                  ).css();
 
                   const start_color =
                     characterColor === "default"
@@ -219,8 +218,8 @@ function Defs() {
                       : characterColor === "group"
                       ? groupColor
                       : characterColor === "sentiment"
-                      ? emotion_color
-                      : importance_color;
+                      ? seg_emotion_color
+                      : seg_importance_color;
 
                   const start_gap =
                     scenePos[scene] && scenePos[first_scene]
@@ -243,17 +242,7 @@ function Defs() {
                   <>
                     <stop
                       offset={fade_out_percent + "%"}
-                      stopColor={
-                        characterColor === "default"
-                          ? charColor
-                          : characterColor === "llm"
-                          ? llmColor
-                          : characterColor === "group"
-                          ? groupColor
-                          : characterColor === "sentiment"
-                          ? emotionColor(lastScene.rating)
-                          : importanceColor(lastScene.importance)
-                      }
+                      stopColor={end_color}
                     />
                     <stop
                       offset={fade_out_percent + fade_in_buffer_percent + "%"}
@@ -299,7 +288,7 @@ function Defs() {
                 {color_incs.map((val, j) => (
                   <stop
                     offset={`${vals[j]}%`}
-                    stopColor={d3scale(val)}
+                    stopColor={chroma(d3scale(val)).css()}
                     key={"vert-legend stop" + scale + j}
                   />
                 ))}
@@ -318,7 +307,7 @@ function Defs() {
               {color_incs.map((val, j) => (
                 <stop
                   offset={`${vals[j]}%`}
-                  stopColor={d3scale(val)}
+                  stopColor={chroma(d3scale(val)).css()}
                   key={"legend stop" + scale + j}
                 />
               ))}
@@ -367,12 +356,12 @@ function Defs() {
                     offset={`${percent}%`}
                     stopColor={
                       rating_type === "sentiment"
-                        ? emotionColor(rating)
+                        ? chroma(emotionColor(rating)).css()
                         : rating_type === "conflict"
-                        ? conflictColor(rating)
+                        ? chroma(conflictColor(rating)).css()
                         : rating_type === "importance"
-                        ? importanceColor(rating)
-                        : lengthColor(rating)
+                        ? chroma(importanceColor(rating)).css()
+                        : chroma(lengthColor(rating)).css()
                     }
                     key={"rating stop" + rating_type + j}
                   />
