@@ -93,12 +93,21 @@ export const getColor = (
 };
 
 // get group color
-export const getGroupColor = (group: string, sortedGroups: string[]) => {
+export const getGroupColor = (
+  group: string,
+  sortedGroups: string[],
+  individual: boolean = false,
+  saturation: number = -1
+) => {
   const charIndex = sortedGroups.indexOf(group);
   const colorIndex = charIndex / (sortedGroups.length - 1);
-  let finalColor = chroma(allColors(colorIndex)).css();
+  let finalColor = chroma(allColors(colorIndex));
 
-  return finalColor;
+  if (individual && saturation !== -1) {
+    // adjust saturation based on groupIndex and numInGroup
+    finalColor = chroma(finalColor).saturate(saturation);
+  }
+  return finalColor.css();
 };
 
 // get llm color for character

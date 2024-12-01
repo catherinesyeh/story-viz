@@ -126,7 +126,6 @@ function MainPlot() {
 
           const llmColor =
             getLLMColor(character.character, sortedCharacters) || charColor;
-
           const groupColor = group
             ? getGroupColor(group, uniqueGroups)
             : charColor;

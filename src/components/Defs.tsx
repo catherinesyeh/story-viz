@@ -55,7 +55,25 @@ function Defs() {
 
   const sortedGroups = sortedCharacters.map((char) => char.group);
   const uniqueGroups = [...new Set(sortedGroups)];
+  // map index of each character in their group
+  // const characterGroups = uniqueGroups.map((group) => {
+  //   return sortedCharacters.filter((char) => char.group === group);
+  // });
+  // const groupIndices = characterGroups
+  //   .map((groupChars) => {
+  //     const group = groupChars[0].group;
 
+  //     const gIndices = groupChars.map((char, i) => {
+  //       const charName = char.character;
+
+  //       const saturation = i;
+  //       const groupColor = getGroupColor(group, uniqueGroups, true, saturation);
+  //       return { character: charName, color: groupColor };
+  //     });
+
+  //     return gIndices;
+  //   })
+  //   .flat();
   return (
     <defs>
       <g id="gradients">

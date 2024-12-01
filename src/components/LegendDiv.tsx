@@ -156,11 +156,11 @@ function LegendDiv(props: any) {
           const group = groupChars[0].group;
           const numChars = groupChars.length;
           const charNames = groupChars.map((char) => char.character);
-          const groupColor = getGroupColor(group, uniqueGroups).replace(
+          const groupColorFaded = getGroupColor(group, uniqueGroups).replace(
             ")",
             ", 0.5)"
           );
-          const fontColor = textColorLLM(groupColor);
+          const fontColor = textColorLLM(groupColorFaded);
 
           const num_columns = inSidebar
             ? 2
@@ -181,7 +181,7 @@ function LegendDiv(props: any) {
                 (allCharsInHidden(groupChars) ? " light-faded" : "")
               }
               style={{
-                borderColor: groupColor,
+                borderColor: groupColorFaded,
                 gridColumn: `span ${num_columns}`,
               }}
             >
@@ -190,7 +190,7 @@ function LegendDiv(props: any) {
                   "group-header " +
                   (minimized.includes(group) ? "no-margin" : "")
                 }
-                style={{ backgroundColor: groupColor, color: fontColor }}
+                style={{ backgroundColor: groupColorFaded, color: fontColor }}
                 onMouseEnter={() => setGroupHover(group)}
                 onMouseLeave={() => setGroupHover("")}
               >
@@ -223,32 +223,34 @@ function LegendDiv(props: any) {
                 }
               >
                 {groupChars.map((character) => {
-                  const color =
-                    characterColorBy === "llm" && character.color
-                      ? character.color
-                      : getColor(character.character, sortedCharacters);
                   const name = character.character;
                   const displayName =
                     name.length > maxChars
                       ? name.slice(0, maxChars) + "..."
                       : name;
+                  // const saturation = charIndex;
+                  const groupColor = getGroupColor(group, uniqueGroups);
+                  const color =
+                    characterColorBy === "llm" && character.color
+                      ? character.color
+                      : characterColorBy === "group"
+                      ? groupColor
+                      : getColor(name, sortedCharacters);
 
                   return (
                     <div
-                      key={character.character}
+                      key={name}
                       className={
                         "legend-item " +
                         (activeCharacters
                           .map((char) => char.character)
-                          .includes(character.character)
+                          .includes(name)
                           ? ""
                           : "faded no-click") +
-                        (hidden.includes(character.character) ? "faded" : "")
+                        (hidden.includes(name) ? "faded" : "")
                       }
-                      onClick={() => updateHidden(character.character)}
-                      onMouseEnter={() =>
-                        setCharacterHover(character.character)
-                      }
+                      onClick={() => updateHidden(name)}
+                      onMouseEnter={() => setCharacterHover(name)}
                       onMouseLeave={() => setCharacterHover("")}
                     >
                       <div
