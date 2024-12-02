@@ -11,6 +11,7 @@ import {
 import { chapterFormatted, normalize } from "../../utils/helpers";
 import ChapterNetwork from "../Overlays/CharacterNetwork";
 import chroma from "chroma-js";
+import LocationChart from "./LocationChart";
 
 function SceneDiv() {
   const { scene_data, minLines, maxLines, sceneSummaries, sortedCharacters } =
@@ -46,7 +47,9 @@ function SceneDiv() {
       let overlayHeight = overlay ? overlay.clientHeight : 0;
 
       const overlayWidth =
-        scene && scene.characters && scene.characters.length > 8 ? 750 : 670;
+        scene && scene.characters && scene.characters.length > 8 && !chapterView
+          ? 750
+          : 670;
       const maxRight = overlayWidth + 2 * buffer;
 
       if (curX + maxRight > max_x) {
@@ -115,19 +118,23 @@ function SceneDiv() {
             )}
           </div>
           <p>{scene.summary}</p>
-          <p>
-            <b style={{ fontWeight: 600 }}>{chapterView && "Main "}Location:</b>{" "}
-            {scene.location}{" "}
-            {chapterView && scene.allLocations && (
-              <span style={{ opacity: 0.7 }}>
-                {"(" +
-                  scene.allLocations[scene.location] +
-                  (scene.allLocations[scene.location] > 1
-                    ? " scenes)"
-                    : " scene)")}
-              </span>
-            )}
-          </p>
+          {!chapterView && (
+            <p>
+              <b style={{ fontWeight: 600 }}>
+                {chapterView && "Main "}Location:
+              </b>{" "}
+              {scene.location}{" "}
+              {chapterView && scene.allLocations && (
+                <span style={{ opacity: 0.7 }}>
+                  {"(" +
+                    scene.allLocations[scene.location] +
+                    (scene.allLocations[scene.location] > 1
+                      ? " scenes)"
+                      : " scene)")}
+                </span>
+              )}
+            </p>
+          )}
           {/* <b style={{ fontWeight: 600 }}>Ratings:</b> */}
           <div id="scene-ratings">
             {sceneHover !== "" && (
@@ -228,30 +235,39 @@ function SceneDiv() {
 
       {sceneHover !== "" && (
         <div id="scene-characters">
-          <div id="scene-header">
-            <b>
-              {themeView ? "Themes" : "Characters"}:{" "}
-              {scene && scene.characters && scene.characters.length}
-              {scene &&
-                scene.characters &&
-                scene.characters.length > maxCharsToShow &&
-                !chapterView && (
-                  <span>{" (top " + maxCharsToShow + " shown)"}</span>
-                )}
-            </b>
+          <div id="scene-header" className={chapterView ? "split" : ""}>
+            <div className="character-header">
+              <b>
+                {themeView ? "Themes" : "Characters"}:{" "}
+                {scene && scene.characters && scene.characters.length}
+                {scene &&
+                  scene.characters &&
+                  scene.characters.length > maxCharsToShow &&
+                  !chapterView && (
+                    <span>{" (top " + maxCharsToShow + " shown)"}</span>
+                  )}
+              </b>
+              {chapterView && (
+                <span className="key-text">
+                  circle size = importance, line thickness = # of mutual scenes
+                </span>
+              )}
+            </div>
             {chapterView && (
-              <span className="key-text">
-                circle size = importance, line thickness = # of mutual scenes
-              </span>
+              <b>
+                Locations:{" "}
+                {scene &&
+                  scene.allLocations &&
+                  Object.keys(scene.allLocations).length}
+              </b>
             )}
           </div>
           <div
             id="scene-char-inner"
             className={
-              scene &&
-              scene.characters &&
-              scene.characters.length > 8 &&
-              !chapterView
+              chapterView
+                ? "split"
+                : scene && scene.characters && scene.characters.length > 8
                 ? "two-col"
                 : ""
             }
@@ -357,7 +373,12 @@ function SceneDiv() {
                 );
               })
             ) : (
-              <ChapterNetwork />
+              <>
+                <div>
+                  <ChapterNetwork />
+                </div>
+                <LocationChart />
+              </>
             )}
           </div>
         </div>

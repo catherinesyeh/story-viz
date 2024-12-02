@@ -658,9 +658,22 @@ h1 {
     gap: 1rem;
     font-size: 11px;
 
+    &.split {
+      display: grid;
+      grid-template-columns: 3fr 1fr;
+      column-gap: 2rem;
+    }
+
     .key-text {
       font-size: smaller;
       opacity: 0.7;
+    }
+
+    .character-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1rem;
     }
   }
 
@@ -673,6 +686,12 @@ h1 {
 
     #scene-char-inner {
       transition: 0.3s;
+
+      &.split {
+        display: grid;
+        grid-template-columns: 3fr 1fr;
+        column-gap: 2rem;
+      }
 
       &.two-col {
         display: grid;
