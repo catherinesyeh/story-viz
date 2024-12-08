@@ -1,5 +1,5 @@
-import Defs from "./Defs";
-import MainPlot from "./MainPlot";
+import Defs from "./Vis/Defs";
+import MainPlot from "./Vis/MainPlot";
 import { positionStore } from "../stores/positionStore";
 import { storyStore } from "../stores/storyStore";
 import { dataStore } from "../stores/dataStore";

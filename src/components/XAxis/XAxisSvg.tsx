@@ -8,7 +8,7 @@ import {
   location_height,
   location_offset,
 } from "../../utils/consts";
-import OverlayCurve from "../Overlays/OverlayCurve";
+import OverlayCurve from "../Vis/OverlayCurve";
 import XAxis from "./XAxis";
 
 function XAxisSVG() {

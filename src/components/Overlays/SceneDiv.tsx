@@ -9,9 +9,9 @@ import {
   importanceColor,
 } from "../../utils/colors";
 import { chapterFormatted, normalize } from "../../utils/helpers";
-import ChapterNetwork from "../Overlays/CharacterNetwork";
+import ChapterNetwork from "../Vis/CharacterNetwork";
 import chroma from "chroma-js";
-import LocationChart from "./LocationChart";
+import LocationChart from "../Vis/LocationChart";
 
 function SceneDiv() {
   const { scene_data, minLines, maxLines, sceneSummaries, sortedCharacters } =

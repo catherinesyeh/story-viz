@@ -1,7 +1,7 @@
 import { Button } from "@mantine/core";
-import { dataStore } from "../stores/dataStore";
-import { storyStore } from "../stores/storyStore";
-import { getColor, getGroupColor, textColorLLM } from "../utils/colors";
+import { dataStore } from "../../stores/dataStore";
+import { storyStore } from "../../stores/storyStore";
+import { getColor, getGroupColor, textColorLLM } from "../../utils/colors";
 // import CharacterDiv from "./Overlays/CharacterDiv";
 import { FaChevronUp, FaRedo, FaPlus, FaMinus } from "react-icons/fa";
 

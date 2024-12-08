@@ -1,4 +1,4 @@
-import { storyStore } from "../stores/storyStore";
+import { storyStore } from "../../stores/storyStore";
 import {
   color_dict,
   emotionColor,
@@ -8,11 +8,11 @@ import {
   getLLMColor,
   lengthColor,
   getGroupColor,
-} from "../utils/colors";
-import { dataStore } from "../stores/dataStore";
-import { RatingDict } from "../utils/data";
-import { positionStore } from "../stores/positionStore";
-import { character_offset } from "../utils/consts";
+} from "../../utils/colors";
+import { dataStore } from "../../stores/dataStore";
+import { RatingDict } from "../../utils/data";
+import { positionStore } from "../../stores/positionStore";
+import { character_offset } from "../../utils/consts";
 import chroma from "chroma-js";
 
 function Defs() {

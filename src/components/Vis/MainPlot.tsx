@@ -1,15 +1,15 @@
-import { storyStore } from "../stores/storyStore";
-import { dataStore } from "../stores/dataStore";
+import { storyStore } from "../../stores/storyStore";
+import { dataStore } from "../../stores/dataStore";
 import {
   emotionColor,
   getColor,
   getGroupColor,
   getLLMColor,
   importanceColor,
-} from "../utils/colors";
-import { character_height, character_offset } from "../utils/consts";
-import { positionStore } from "../stores/positionStore";
-import { normalizeMarkerSize } from "../utils/helpers";
+} from "../../utils/colors";
+import { character_height, character_offset } from "../../utils/consts";
+import { positionStore } from "../../stores/positionStore";
+import { normalizeMarkerSize } from "../../utils/helpers";
 import chroma from "chroma-js";
 
 function MainPlot() {

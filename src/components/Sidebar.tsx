@@ -2,7 +2,7 @@ import { Accordion, Button, Drawer, Select, Switch } from "@mantine/core";
 import { storyStore } from "../stores/storyStore";
 import Colorbar from "./XAxis/Colorbar";
 import Colorgrid from "./XAxis/Colorgrid";
-import LegendDiv from "./LegendDiv";
+import LegendDiv from "./Vis/LegendDiv";
 import { IoMdOpen } from "react-icons/io";
 import { dataStore } from "../stores/dataStore";
 import { useEffect } from "react";
@@ -25,6 +25,7 @@ function Sidebar() {
     resetAll,
     showOverlay,
     setShowOverlay,
+    chapterView,
   } = storyStore();
 
   const { resetActiveChapters, num_chapters } = dataStore();
@@ -66,7 +67,12 @@ function Sidebar() {
         position="right"
         opened={sidebarOpen}
         onClose={close}
-        title={(themeView ? "Theme" : "Character") + " / Scene Settings"}
+        title={
+          (themeView ? "Theme" : "Character") +
+          " / " +
+          (chapterView ? "Chapter" : "Scene") +
+          " Settings"
+        }
       >
         <Accordion
           multiple
@@ -128,7 +134,9 @@ function Sidebar() {
             </Accordion.Panel>
           </Accordion.Item>
           <Accordion.Item key="scene" value="scene">
-            <Accordion.Control icon="📖">Scenes</Accordion.Control>
+            <Accordion.Control icon="📖">
+              {chapterView ? "Chapters" : "Scenes"}
+            </Accordion.Control>
             <Accordion.Panel>
               <div className="sidebar-settings">
                 <div className="options-contain">
@@ -136,7 +144,7 @@ function Sidebar() {
                     <div className="two-col">
                       <Switch
                         size="xs"
-                        label="Scale scenes by length"
+                        label={"Scale by length"}
                         labelPosition="right"
                         checked={scaleByLength}
                         onChange={(event) =>
@@ -240,9 +248,10 @@ function Sidebar() {
         onClick={open}
         variant="outline"
         rightSection={<IoMdOpen />}
-        style={{ width: 200 }}
+        style={{ width: 210 }}
       >
-        {themeView ? "Theme" : "Character"} / Scene Settings
+        {themeView ? "Theme" : "Character"} /{" "}
+        {chapterView ? "Chapter" : "Scene"} Settings
       </Button>
     </div>
   );
