@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { storyStore } from "../../stores/storyStore";
 import { dataStore } from "../../stores/dataStore";
 import { positionStore } from "../../stores/positionStore";
+import { location_height } from "../../utils/consts";
 
 function LocationDiv() {
   const {
@@ -19,7 +20,7 @@ function LocationDiv() {
   const [locationQuote, setLocationQuote] = useState("");
   const [locationEmoji, setLocationEmoji] = useState("");
 
-  const ratio = yAxisHeight / plotHeight;
+  const ratio = plotHeight < location_height ? 1 : yAxisHeight / plotHeight;
 
   useEffect(() => {
     if (locationHover !== "") {

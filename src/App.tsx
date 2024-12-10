@@ -33,7 +33,7 @@ function App() {
   } = storyStore();
   const headerRef = useRef<HTMLDivElement>(null);
 
-  const ratio = yAxisHeight / plotHeight;
+  const ratio = plotHeight < location_height ? 1 : yAxisHeight / plotHeight;
   const margin =
     story.includes("-new") &&
     !fullHeight &&

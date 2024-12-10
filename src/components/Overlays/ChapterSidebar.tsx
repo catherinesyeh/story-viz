@@ -4,7 +4,7 @@ import SceneDivInner from "./SceneDivInner";
 import { FaArrowLeftLong, FaArrowRightLong } from "react-icons/fa6";
 
 function ChapterSidebar() {
-  const { storyMarginTop, detailView, frozenScene } = storyStore();
+  const { storyMarginTop, detailView, chapterHover } = storyStore();
   return (
     <div
       id="chapter-sidebar"
@@ -15,7 +15,7 @@ function ChapterSidebar() {
         <Button
           size="xs"
           variant="transparent"
-          disabled={!frozenScene || !frozenScene.scene}
+          disabled={chapterHover === ""}
           leftSection={<FaArrowLeftLong />}
         >
           prev chapter
@@ -23,7 +23,7 @@ function ChapterSidebar() {
         <Button
           size="xs"
           variant="transparent"
-          disabled={!frozenScene || !frozenScene.scene}
+          disabled={chapterHover === ""}
           rightSection={<FaArrowRightLong />}
         >
           next chapter

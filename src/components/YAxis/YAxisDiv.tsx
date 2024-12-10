@@ -24,7 +24,7 @@ function YAxisDiv() {
     chapterView,
   } = storyStore();
 
-  const ratio = yAxisHeight / plotHeight;
+  const ratio = plotHeight < location_height ? 1 : yAxisHeight / plotHeight;
 
   useEffect(() => {
     if (document) {

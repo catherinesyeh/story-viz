@@ -13,7 +13,7 @@ function LocationAxis() {
     characterHover,
     setLocationHover,
   } = storyStore();
-  const ratio = yAxisHeight / plotHeight;
+  const ratio = plotHeight < location_height ? 1 : yAxisHeight / plotHeight;
   const locHeight = location_height * ratio;
   return (
     <>

@@ -48,8 +48,8 @@ function XAxis() {
     showOverlay,
     showChapters,
     groupHover,
-    frozenScene,
-    setFrozenScene,
+    chapterHover,
+    setChapterHover,
     chapterView,
     detailView,
   } = storyStore();
@@ -87,15 +87,11 @@ function XAxis() {
   );
   const maxChars = 24;
 
-  const updateFrozenScene = (sceneName: string) => {
+  const updateChapterHover = (sceneName: string) => {
     if (chapterView && detailView) {
       const scene = scene_data.find((s) => s.name === sceneName);
-      if (scene && frozenScene && scene !== frozenScene.scene) {
-        setFrozenScene({
-          scene: scene,
-          minLines: minLines,
-          maxLines: maxLines,
-        });
+      if (scene && scene.name !== chapterHover) {
+        setChapterHover(scene.name);
       }
     }
   };
@@ -293,11 +289,7 @@ function XAxis() {
                     fill={color}
                     className={
                       "scene-name-text " +
-                      (frozenScene &&
-                      frozenScene.scene &&
-                      frozenScene.scene.name === scene
-                        ? "frozen"
-                        : "")
+                      (chapterHover === scene ? "frozen" : "")
                     }
                     fontSize={"calc(" + fontSize + "rem + 0.1vw)"}
                     // letterSpacing={letterSpacing}
@@ -317,12 +309,9 @@ function XAxis() {
                     }
                     onMouseEnter={() => setSceneHover(scene)}
                     onMouseLeave={() => setSceneHover("")}
-                    onClick={() => updateFrozenScene(scene)}
+                    onClick={() => updateChapterHover(scene)}
                   >
-                    {frozenScene &&
-                      frozenScene.scene &&
-                      frozenScene.scene.name === scene &&
-                      "⭐ "}
+                    {chapterHover === scene && "⭐ "}
                     {chunk}
                   </text>
                 )

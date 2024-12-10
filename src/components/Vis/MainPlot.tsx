@@ -28,8 +28,8 @@ function MainPlot() {
     groupHover,
     chapterView,
     detailView,
-    setFrozenScene,
-    frozenScene,
+    chapterHover,
+    setChapterHover,
   } = storyStore();
   const {
     sceneBoxes,
@@ -50,8 +50,6 @@ function MainPlot() {
     sortedCharacters,
     activeChapters,
     chapterDivisions,
-    minLines,
-    maxLines,
   } = dataStore();
 
   const activeChapterDivisions = chapterDivisions.filter(
@@ -75,15 +73,11 @@ function MainPlot() {
   const sortedGroups = sortedCharacters.map((char) => char.group);
   const uniqueGroups = [...new Set(sortedGroups)];
 
-  const updateFrozenScene = (sceneName: string) => {
+  const updateChapterHover = (sceneName: string) => {
     if (chapterView && detailView) {
       const scene = scene_data.find((s) => s.name === sceneName);
-      if (scene && frozenScene && scene !== frozenScene.scene) {
-        setFrozenScene({
-          scene: scene,
-          minLines: minLines,
-          maxLines: maxLines,
-        });
+      if (scene && scene.name !== chapterHover) {
+        setChapterHover(scene.name);
       }
     }
   };
@@ -364,11 +358,7 @@ function MainPlot() {
                   scene.groups.includes(groupHover)
                     ? "highlight"
                     : "") +
-                  (frozenScene &&
-                  frozenScene.scene &&
-                  frozenScene.scene.name === scene.scene
-                    ? " frozen"
-                    : "")
+                  (chapterHover === scene.scene ? " frozen" : "")
                 }
                 x={activeSceneBoxes[i].x}
                 y={activeSceneBoxes[i].y}
@@ -376,19 +366,13 @@ function MainPlot() {
                 height={activeSceneBoxes[i].height}
                 fillOpacity={0}
                 strokeOpacity={0}
-                strokeDasharray={
-                  frozenScene &&
-                  frozenScene.scene &&
-                  frozenScene.scene.name === scene.scene
-                    ? "4"
-                    : "0"
-                }
+                strokeDasharray={chapterHover === scene.scene ? "4" : "0"}
                 stroke={"rgb(0,0,0,0.7)"}
                 strokeWidth={2}
                 key={"scenegroup" + i}
                 onMouseEnter={() => setSceneHover(scene.scene)}
                 onMouseLeave={() => setSceneHover("")}
-                onClick={() => updateFrozenScene(scene.scene)}
+                onClick={() => updateChapterHover(scene.scene)}
               />
             )
         )}

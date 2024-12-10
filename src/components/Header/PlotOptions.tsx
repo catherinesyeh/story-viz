@@ -1,5 +1,5 @@
 import { Select, Divider, Button, Switch } from "@mantine/core";
-import { FrozenScene, storyStore } from "../../stores/storyStore";
+import { storyStore } from "../../stores/storyStore";
 import { dataStore } from "../../stores/dataStore";
 import { useEffect } from "react";
 import { positionStore } from "../../stores/positionStore";
@@ -28,8 +28,8 @@ function PlotOptions() {
     setMinimized,
     detailView,
     setDetailView,
-    setFrozenScene,
-    frozenScene,
+    chapterHover,
+    setChapterHover,
   } = storyStore();
 
   const { data, setData, scenes, resetActiveChapters, num_chapters } =
@@ -163,7 +163,7 @@ function PlotOptions() {
         setCharacterHover("");
         setSceneHover("");
         setGroupHover("");
-        setFrozenScene({} as FrozenScene);
+        setChapterHover("");
       }
     } catch (error) {
       console.log("Error loading story data", error);
@@ -183,8 +183,8 @@ function PlotOptions() {
 
   useEffect(() => {
     let chapter = "";
-    if (detailView && frozenScene && frozenScene.scene && !chapterView) {
-      chapter = frozenScene.scene.name;
+    if (detailView && chapterHover !== "" && !chapterView) {
+      chapter = chapterHover;
     }
     setData(data, chapterView, chapter);
   }, [chapterView, detailView]);
@@ -198,8 +198,8 @@ function PlotOptions() {
   }, [themeView]);
 
   useEffect(() => {
-    if (!detailView && frozenScene && frozenScene.scene) {
-      setFrozenScene({} as FrozenScene);
+    if (!detailView && chapterHover !== "") {
+      setChapterHover("");
     }
   }, [detailView]);
 
@@ -227,8 +227,7 @@ function PlotOptions() {
             labelPosition="left"
             checked={detailView}
             disabled={
-              !story.includes("-new") ||
-              (!chapterView && (!frozenScene || !frozenScene.scene))
+              !story.includes("-new") || (!chapterView && chapterHover === "")
             }
             onChange={(event) => setDetailView(event.currentTarget.checked)}
           />
@@ -238,8 +237,7 @@ function PlotOptions() {
             labelPosition="left"
             checked={chapterView}
             disabled={
-              !story.includes("-new") ||
-              (detailView && (!frozenScene || !frozenScene.scene))
+              !story.includes("-new") || (detailView && chapterHover === "")
             }
             onChange={(event) => setChapterView(event.currentTarget.checked)}
             style={{ width: 85 }}

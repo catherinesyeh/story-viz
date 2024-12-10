@@ -5,7 +5,7 @@ import { storyStore } from "../../stores/storyStore";
 import { dataStore } from "../../stores/dataStore";
 import { useEffect, useRef } from "react";
 import XAxisSVG from "../XAxis/XAxisSvg";
-import { scene_overlay_width } from "../../utils/consts";
+import { location_height, scene_overlay_width } from "../../utils/consts";
 
 function StoryVis() {
   const { plotWidth, plotHeight, scenePos } = positionStore();
@@ -68,7 +68,9 @@ function StoryVis() {
         id="story"
         ref={storyRef}
         height={
-          fullHeight
+          detailView && plotHeight < location_height
+            ? location_height
+            : fullHeight
             ? yAxis === "location" && plotHeight > 800
               ? `${800 + (locations.length - 8) * 50}px`
               : yAxis === "character" && plotHeight > 800
@@ -78,7 +80,9 @@ function StoryVis() {
         }
         width={
           detailView
-            ? `calc(100% + ${scene_overlay_width}px)`
+            ? plotWidth < scene_overlay_width
+              ? plotWidth
+              : `calc(100% + ${scene_overlay_width}px)`
             : !fullHeight
             ? "100%"
             : undefined

@@ -13,15 +13,23 @@ import CharacterNetwork from "../Vis/CharacterNetwork";
 import LocationChart from "../Vis/LocationChart";
 
 function SceneDivInner(props: any) {
-  const { scene_data, minLines, maxLines, sceneSummaries, sortedCharacters } =
-    dataStore();
+  const {
+    scene_data,
+    sceneSummaries,
+    sortedCharacters,
+    chapter_data,
+    chapterMin,
+    chapterMax,
+    sceneMin,
+    sceneMax,
+  } = dataStore();
   const {
     sceneHover,
     chapterView,
     themeView,
     characterColor,
     detailView,
-    frozenScene,
+    chapterHover,
   } = storyStore();
 
   let scene;
@@ -31,10 +39,9 @@ function SceneDivInner(props: any) {
     inSidebar &&
     detailView &&
     (!chapterView || sceneHover === "") &&
-    frozenScene &&
-    frozenScene.scene
+    chapterHover !== ""
   ) {
-    scene = frozenScene.scene;
+    scene = chapter_data.find((scene) => scene.chapter === chapterHover);
   } else {
     scene = scene_data.find((scene) => scene.name === sceneHover);
   }
@@ -42,18 +49,17 @@ function SceneDivInner(props: any) {
     (scene) => scene.name === sceneHover
   );
   const numLines = scene ? scene.numLines : 0;
-  let min_lines = minLines;
-  let max_lines = maxLines;
+  let min_lines = sceneMin;
+  let max_lines = sceneMax;
   if (
-    inSidebar &&
-    detailView &&
-    (!chapterView || sceneHover === "") &&
-    frozenScene &&
-    frozenScene.minLines &&
-    frozenScene.maxLines
+    chapterView ||
+    (inSidebar &&
+      detailView &&
+      (!chapterView || sceneHover === "") &&
+      chapterHover !== "")
   ) {
-    min_lines = frozenScene.minLines;
-    max_lines = frozenScene.maxLines;
+    min_lines = chapterMin;
+    max_lines = chapterMax;
   }
   const lengthVal = normalize(numLines, min_lines, max_lines, 0, 1);
   const sceneSummary = sceneSummaries[scene_index];
@@ -69,9 +75,7 @@ function SceneDivInner(props: any) {
         <div
           id="scene-info"
           className={
-            detailView &&
-            sceneHover === "" &&
-            (!frozenScene || !frozenScene.scene)
+            detailView && sceneHover === "" && chapterHover === ""
               ? "transparent"
               : ""
           }
@@ -101,7 +105,7 @@ function SceneDivInner(props: any) {
             {detailView &&
               inSidebar &&
               sceneHover === "" &&
-              (!frozenScene || !frozenScene.scene) && (
+              chapterHover === "" && (
                 <p>Hover on a chapter to see more details! Click to lock it.</p>
               )}
           </div>
@@ -125,7 +129,7 @@ function SceneDivInner(props: any) {
           )}
           {/* <b style={{ fontWeight: 600 }}>Ratings:</b> */}
           <div id="scene-ratings">
-            {((frozenScene && frozenScene.scene) || sceneHover !== "") && (
+            {(chapterHover !== "" || sceneHover !== "") && (
               <div className="rating-outer">
                 <div className={"rating-colorbar"}>
                   <span className="min">{min_lines}</span>
@@ -222,7 +226,7 @@ function SceneDivInner(props: any) {
         </div>
       )}
 
-      {((frozenScene && frozenScene.scene) || sceneHover !== "") && (
+      {(chapterHover !== "" || sceneHover !== "") && (
         <div id="scene-characters">
           <div
             id="scene-header"

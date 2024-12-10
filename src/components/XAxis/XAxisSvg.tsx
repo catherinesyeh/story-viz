@@ -27,7 +27,7 @@ function XAxisSVG() {
     detailView,
   } = storyStore();
 
-  const ratio = yAxisHeight / plotHeight;
+  const ratio = plotHeight < location_height ? 1 : yAxisHeight / plotHeight;
   const margin =
     story.includes("-new") &&
     !fullHeight &&
@@ -95,7 +95,9 @@ function XAxisSVG() {
         id="story"
         width={
           detailView
-            ? `calc(100% + ${scene_overlay_width}px)`
+            ? plotWidth < scene_overlay_width
+              ? plotWidth
+              : `calc(100% + ${scene_overlay_width}px)`
             : !fullHeight
             ? "100%"
             : plotWidth * ratio

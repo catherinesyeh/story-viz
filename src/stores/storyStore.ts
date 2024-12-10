@@ -1,11 +1,4 @@
 import { create } from "zustand";
-import { Scene } from "../utils/data";
-
-export interface FrozenScene {
-  scene: Scene;
-  minLines: number;
-  maxLines: number;
-}
 
 // values that don't need to persist across sessions
 interface IStore {
@@ -54,8 +47,8 @@ interface IStore {
   setGroupHover: (val: string) => void;
   sceneHover: string;
   setSceneHover: (val: string) => void;
-  frozenScene: FrozenScene;
-  setFrozenScene: (val: FrozenScene) => void;
+  chapterHover: string;
+  setChapterHover: (val: string) => void;
   hidden: string[];
   setHidden: (val: string[]) => void;
   showLegend: boolean;
@@ -88,7 +81,7 @@ const initialState = {
   characterHover: "",
   groupHover: "",
   sceneHover: "",
-  frozenScene: {} as FrozenScene,
+  chapterHover: "",
   hidden: [],
   minimized: [],
   showLegend: true,
@@ -130,7 +123,7 @@ export const storyStore = create<IStore>()((set) => ({
   setCharacterHover: (val: string) => set({ characterHover: val }),
   setGroupHover: (val: string) => set({ groupHover: val }),
   setSceneHover: (val: string) => set({ sceneHover: val }),
-  setFrozenScene: (val: FrozenScene) => set({ frozenScene: val }),
+  setChapterHover: (val: string) => set({ chapterHover: val }),
   setHidden: (val: string[]) => set({ hidden: val }),
   setShowLegend: (val: boolean) => set({ showLegend: val }),
   setMinimized: (val: string[]) => set({ minimized: val }),

@@ -23,6 +23,7 @@ interface IStore {
   data: any;
 
   scene_data: Scene[];
+  chapter_data: Scene[];
   location_data: LocationData[];
   character_data: CharacterData[];
 
@@ -44,6 +45,11 @@ interface IStore {
   ratingDict: RatingDict;
   minLines: number;
   maxLines: number;
+  sceneMin: number;
+  sceneMax: number;
+  chapterMin: number;
+  chapterMax: number;
+
   chapterDivisions: ChapterDivision[];
   num_chapters: number;
   activeChapters: [number, number];
@@ -57,6 +63,7 @@ const initialState = {
   data: init_data,
 
   scene_data: init_data_values.scene_data,
+  chapter_data: init_data_values.chapter_data,
   location_data: init_data_values.location_data,
   character_data: init_data_values.character_data,
 
@@ -78,6 +85,11 @@ const initialState = {
   ratingDict: init_data_values.ratingDict,
   minLines: init_data_values.minLines,
   maxLines: init_data_values.maxLines,
+  sceneMin: init_data_values.sceneMin,
+  sceneMax: init_data_values.sceneMax,
+  chapterMin: init_data_values.chapterMin,
+  chapterMax: init_data_values.chapterMax,
+
   chapterDivisions: init_data_values.chapterDivisions,
   num_chapters: init_data_values.num_chapters,
   activeChapters: [1, init_data_values.num_chapters] as [number, number],
@@ -94,6 +106,7 @@ export const dataStore = create<IStore>((set) => ({
     set({
       data: init_data,
       scene_data: newData.scene_data,
+      chapter_data: newData.chapter_data,
       location_data: newData.location_data,
       character_data: newData.character_data,
 
@@ -115,6 +128,11 @@ export const dataStore = create<IStore>((set) => ({
       ratingDict: newData.ratingDict,
       minLines: newData.minLines,
       maxLines: newData.maxLines,
+      sceneMin: newData.sceneMin,
+      sceneMax: newData.sceneMax,
+      chapterMin: newData.chapterMin,
+      chapterMax: newData.chapterMax,
+
       chapterDivisions: newData.chapterDivisions,
       num_chapters: newData.num_chapters,
       activeChapters: [1, newData.num_chapters] as [number, number],

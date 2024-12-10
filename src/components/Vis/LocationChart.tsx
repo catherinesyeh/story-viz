@@ -2,8 +2,8 @@ import { dataStore } from "../../stores/dataStore";
 import { storyStore } from "../../stores/storyStore";
 
 function LocationChart(props: any) {
-  const { scene_data, location_data } = dataStore();
-  const { sceneHover, frozenScene, detailView, chapterView } = storyStore();
+  const { scene_data, location_data, chapter_data } = dataStore();
+  const { sceneHover, chapterHover, detailView, chapterView } = storyStore();
 
   const inSidebar = props.inSidebar || false;
 
@@ -12,10 +12,9 @@ function LocationChart(props: any) {
     inSidebar &&
     detailView &&
     (!chapterView || sceneHover === "") &&
-    frozenScene &&
-    frozenScene.scene
+    chapterHover !== ""
   ) {
-    scene = frozenScene.scene;
+    scene = chapter_data.find((scene) => scene.chapter === chapterHover);
   } else {
     scene = scene_data.find((scene) => scene.name === sceneHover);
   }

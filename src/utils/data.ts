@@ -173,16 +173,9 @@ const chapter_data = (all_data: any): Chapter[] => {
   return data;
 };
 
-const scene_data = (
-  all_data: any,
-  chapter_data: Chapter[],
-  chapter: string = ""
-): Scene[] => {
+const scene_data = (all_data: any, chapter_data: Chapter[]): Scene[] => {
   let data = all_data["scenes"];
 
-  if (chapter !== "") {
-    data = data.filter((scene: any) => scene.chapter === chapter);
-  }
   const max_characters_per_scene = Math.max(
     ...data.map((scene: any) => scene.characters.length)
   );
@@ -784,14 +777,33 @@ export const getAllData = (
   chapter: string = ""
 ) => {
   const init_chapter_data = chapter_data(init_data);
-  let init_scene_data = scene_data(init_data, init_chapter_data, chapter);
+  const sceneMinMax = getMinMaxLines(init_data["scenes"]);
+  const sceneMin = sceneMinMax[0];
+  const sceneMax = sceneMinMax[1];
+
+  let init_scene_data = scene_data(init_data, init_chapter_data);
   const init_chapter_scene_data = chapter_scene_data(
     init_chapter_data,
     init_scene_data
   );
+
+  const chapterMinMax = getMinMaxLines(init_chapter_scene_data);
+  const chapterMin = chapterMinMax[0];
+  const chapterMax = chapterMinMax[1];
+
   if (chapterView && init_chapter_scene_data.length > 0) {
     init_scene_data = init_chapter_scene_data;
   }
+
+  if (chapter !== "") {
+    init_scene_data = init_scene_data
+      .filter((scene: any) => scene.chapter === chapter)
+      .map((scene: any, i: number) => {
+        scene.number = i + 1;
+        return scene;
+      });
+  }
+
   const init_location_data = location_data(init_data);
   const init_character_data = character_data(init_data);
 
@@ -843,6 +855,7 @@ export const getAllData = (
 
   return {
     scene_data: init_scene_data,
+    chapter_data: init_chapter_scene_data,
     location_data: init_location_data,
     character_data: init_character_data,
     locations: init_locations,
@@ -860,6 +873,10 @@ export const getAllData = (
     ratingDict: init_ratingDict,
     minLines: minLines,
     maxLines: maxLines,
+    sceneMin: sceneMin,
+    sceneMax: sceneMax,
+    chapterMin: chapterMin,
+    chapterMax: chapterMax,
     chapterDivisions: chapterDivisions,
     num_chapters: num_chapters,
   };

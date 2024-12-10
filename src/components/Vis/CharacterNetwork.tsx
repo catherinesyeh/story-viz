@@ -23,9 +23,9 @@ type Node = {
 };
 
 function CharacterNetwork(props: any) {
-  const { sceneHover, characterColor, frozenScene, detailView, chapterView } =
+  const { sceneHover, characterColor, chapterHover, detailView, chapterView } =
     storyStore();
-  const { scene_data, sceneCharacters, character_data, sortedCharacters } =
+  const { scene_data, character_data, sortedCharacters, chapter_data } =
     dataStore();
   const svgRef = useRef<SVGSVGElement | null>(null);
 
@@ -34,41 +34,37 @@ function CharacterNetwork(props: any) {
   const inSidebar = props.inSidebar || false;
 
   let cur_scene: Scene | undefined;
-  let cur_scene_characters;
   if (
     inSidebar &&
     detailView &&
     (!chapterView || sceneHover === "") &&
-    frozenScene &&
-    frozenScene.scene
+    chapterHover !== ""
   ) {
-    cur_scene = frozenScene.scene;
-    cur_scene_characters = sceneCharacters.find(
-      (d) => d.scene === cur_scene?.name
-    );
+    cur_scene = chapter_data.find((d) => d.chapter === chapterHover);
   } else {
     cur_scene = scene_data.find((d) => d.name === sceneHover);
-    cur_scene_characters = sceneCharacters.find((d) => d.scene === sceneHover);
   }
 
   const sortedGroups = sortedCharacters.map((char) => char.group);
   const uniqueGroups = [...new Set(sortedGroups)];
 
   useEffect(() => {
+    console.log("cur_scene", cur_scene?.name);
     const og_links = cur_scene?.links || [];
 
-    const scene_characters = cur_scene_characters?.characters || [];
+    const scene_characters = cur_scene?.characters || [];
 
     const nodes = scene_characters.map((d) => {
-      const c_data = character_data.find((c) => c.character === d);
+      const c_name = d.name;
+      const c_data = character_data.find((c) => c.character === c_name);
       const group = c_data?.group;
 
-      const s_data = cur_scene?.characters.find((c) => c.name === d);
+      const s_data = d;
       const emotion_val = s_data?.rating || 0;
       const importance_val = s_data?.importance || 0;
 
-      const charColor = getColor(d, sortedCharacters);
-      const llmColor = getLLMColor(d, sortedCharacters) || charColor;
+      const charColor = getColor(c_name, sortedCharacters);
+      const llmColor = getLLMColor(c_name, sortedCharacters) || charColor;
       const groupColor = group ? getGroupColor(group, uniqueGroups) : charColor;
       const emotion_color = chroma(emotionColor(emotion_val as number)).css();
       const importance_color = chroma(
@@ -76,7 +72,7 @@ function CharacterNetwork(props: any) {
       ).css();
 
       return {
-        id: d,
+        id: c_name,
         group: group || "",
         importance: importance_val,
         color:
@@ -245,23 +241,23 @@ function CharacterNetwork(props: any) {
       .attr("dy", ".35em");
 
     // Handle resizing
-    const updateDimensions = () => {
-      const newWidth = parentElement.offsetWidth;
-      const newHeight = parentElement.offsetHeight;
+    // const updateDimensions = () => {
+    // const newWidth = parentElement.offsetWidth;
+    // const newHeight = parentElement.offsetHeight;
 
-      svg.attr("width", newWidth).attr("height", newHeight);
+    //   svg.attr("width", newWidth).attr("height", newHeight);
 
-      // Update simulation center
-      simulation
-        .force("center", d3.forceCenter(newWidth / 2, newHeight / 2))
-        .alpha(1)
-        .restart();
-    };
+    //   // Update simulation center
+    //   simulation
+    //     .force("center", d3.forceCenter(newWidth / 2, newHeight / 2))
+    //     .alpha(1)
+    //     .restart();
+    // };
 
-    window.addEventListener("resize", updateDimensions);
+    // window.addEventListener("resize", updateDimensions);
 
     return () => {
-      window.removeEventListener("resize", updateDimensions);
+      // window.removeEventListener("resize", updateDimensions);
       simulation.stop(); // Clean up the simulation on unmount
     };
   }, [cur_scene]);

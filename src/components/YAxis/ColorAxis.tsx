@@ -1,6 +1,7 @@
 import { dataStore } from "../../stores/dataStore";
 import { positionStore } from "../../stores/positionStore";
 import { storyStore } from "../../stores/storyStore";
+import { location_height } from "../../utils/consts";
 
 function ColorAxis() {
   const { sceneCharacters } = dataStore();
@@ -11,7 +12,7 @@ function ColorAxis() {
     ...sceneCharacters.map((char) => char.characters.length)
   );
 
-  const ratio = yAxisHeight / plotHeight;
+  const ratio = plotHeight < location_height ? 1 : yAxisHeight / plotHeight;
 
   const margin = yAxis === "importance" ? 1.6 : 1.5;
 

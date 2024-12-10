@@ -2,6 +2,7 @@ import { dataStore } from "../../stores/dataStore";
 import { positionStore } from "../../stores/positionStore";
 import { storyStore } from "../../stores/storyStore";
 import { getGroupColor } from "../../utils/colors";
+import { location_height } from "../../utils/consts";
 
 function CharacterAxis() {
   const {
@@ -17,7 +18,7 @@ function CharacterAxis() {
   } = storyStore();
   const { sortedCharacters } = dataStore();
   const { plotHeight, charInc } = positionStore();
-  const ratio = yAxisHeight / plotHeight;
+  const ratio = plotHeight < location_height ? 1 : yAxisHeight / plotHeight;
   const maxCharLength = 16;
   // Update array with list of hidden characters
   const updateHidden = (name: string) => {
