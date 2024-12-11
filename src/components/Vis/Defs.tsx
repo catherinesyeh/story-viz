@@ -48,9 +48,10 @@ function Defs() {
   const activeScenePos =
     scenePos &&
     scenePos.slice(
-      activeChapterDivisions[0].index,
-      activeChapterDivisions[activeChapterDivisions.length - 1].index +
-        numScenesInLastActiveChapter
+      activeChapterDivisions[0] && activeChapterDivisions[0].index,
+      activeChapterDivisions[activeChapterDivisions.length - 1] &&
+        activeChapterDivisions[activeChapterDivisions.length - 1].index +
+          numScenesInLastActiveChapter
     );
 
   const sortedGroups = sortedCharacters.map((char) => char.group);
@@ -339,9 +340,10 @@ function Defs() {
         {Object.keys(ratingDict).map((rating_type) => {
           const curDict = ratingDict[rating_type as keyof RatingDict];
           const activeRatings = curDict.slice(
-            activeChapterDivisions[0].index,
-            activeChapterDivisions[activeChapterDivisions.length - 1].index +
-              numScenesInLastActiveChapter
+            activeChapterDivisions[0] && activeChapterDivisions[0].index,
+            activeChapterDivisions[activeChapterDivisions.length - 1] &&
+              activeChapterDivisions[activeChapterDivisions.length - 1].index +
+                numScenesInLastActiveChapter
           );
           return (
             <linearGradient

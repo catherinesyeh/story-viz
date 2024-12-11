@@ -10,11 +10,13 @@ function ChapterSlider() {
     resetActiveChapters,
     chapterDivisions,
   } = dataStore();
-  let first_chapter = chapterDivisions ? chapterDivisions[0].chapter : "";
+  let first_chapter =
+    chapterDivisions && chapterDivisions[0] ? chapterDivisions[0].chapter : "";
   first_chapter = extractChapterName(first_chapter);
-  let last_chapter = chapterDivisions
-    ? chapterDivisions[chapterDivisions.length - 1].chapter
-    : "";
+  let last_chapter =
+    chapterDivisions && chapterDivisions[chapterDivisions.length - 1]
+      ? chapterDivisions[chapterDivisions.length - 1].chapter
+      : "";
   last_chapter = extractChapterName(last_chapter);
   const maxChars = 20;
 

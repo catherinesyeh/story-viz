@@ -31,11 +31,13 @@ function SceneOptions() {
   } = dataStore();
   const { setPaths, setPositions, plotHeight } = positionStore();
 
-  let first_chapter = chapterDivisions ? chapterDivisions[0].chapter : "";
+  let first_chapter =
+    chapterDivisions && chapterDivisions[0] ? chapterDivisions[0].chapter : "";
   first_chapter = extractChapterName(first_chapter);
-  let last_chapter = chapterDivisions
-    ? chapterDivisions[chapterDivisions.length - 1].chapter
-    : "";
+  let last_chapter =
+    chapterDivisions && chapterDivisions[chapterDivisions.length - 1]
+      ? chapterDivisions[chapterDivisions.length - 1].chapter
+      : "";
   last_chapter = extractChapterName(last_chapter);
 
   const set_pos = () => {
@@ -64,12 +66,17 @@ function SceneOptions() {
           return i >= activeChapters[0] - 1 && i < activeChapters[1];
         });
       const lastActiveChapter =
+        activeChapterDivisions &&
         activeChapterDivisions[activeChapterDivisions.length - 1];
-      const numScenesInLastActiveChapter = lastActiveChapter.scenes.length;
+      const numScenesInLastActiveChapter =
+        lastActiveChapter &&
+        lastActiveChapter.scenes &&
+        lastActiveChapter.scenes.length;
       const activeScenes = [
-        activeChapterDivisions[0].index,
-        activeChapterDivisions[activeChapterDivisions.length - 1].index +
-          numScenesInLastActiveChapter,
+        activeChapterDivisions[0] && activeChapterDivisions[0].index,
+        activeChapterDivisions[activeChapterDivisions.length - 1] &&
+          activeChapterDivisions[activeChapterDivisions.length - 1].index +
+            numScenesInLastActiveChapter,
       ] as [number, number];
 
       setPaths(

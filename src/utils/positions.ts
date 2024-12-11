@@ -593,13 +593,17 @@ const updateScenePos = (
   yAxis: string
 ) => {
   // update scenePos y coords if max_y is greater than the current max
-  if (max_y >= initialScenePos[0].y - 1.25 * location_offset) {
+  if (
+    initialScenePos[0] &&
+    max_y >= initialScenePos[0].y - 1.25 * location_offset
+  ) {
     initialScenePos.forEach((pos) => {
       pos.y = max_y + 1.25 * location_offset;
     });
   } else if (
     yAxis &&
     yAxis.includes("stacked") &&
+    initialScenePos[0] &&
     max_y < initialScenePos[0].y - 1.25 * location_offset
   ) {
     initialScenePos.forEach((pos) => {
@@ -751,13 +755,15 @@ const overlayPath = (
 
   // adjust overlay_coords[0]
   overlay_coords[0] = [
-    overlay_coords[0][0] - 1.25 * character_offset,
-    overlay_coords[0][1],
+    overlay_coords[0] && overlay_coords[0][0] - 1.25 * character_offset,
+    overlay_coords[0] && overlay_coords[0][1],
   ];
   // adjust overlay_coords[overlay_coords.length - 1]
   overlay_coords[overlay_coords.length - 1] = [
-    overlay_coords[overlay_coords.length - 1][0] + 1.25 * character_offset,
-    overlay_coords[overlay_coords.length - 1][1],
+    overlay_coords[overlay_coords.length - 1] &&
+      overlay_coords[overlay_coords.length - 1][0] + 1.25 * character_offset,
+    overlay_coords[overlay_coords.length - 1] &&
+      overlay_coords[overlay_coords.length - 1][1],
   ];
 
   const path = svgPath(overlay_coords, {}, bezierCommand, 0.3);

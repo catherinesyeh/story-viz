@@ -64,26 +64,33 @@ function XAxis() {
     });
   const lastActiveChapter =
     activeChapterDivisions[activeChapterDivisions.length - 1];
-  const numScenesInLastActiveChapter = lastActiveChapter.scenes.length;
+  const numScenesInLastActiveChapter =
+    lastActiveChapter &&
+    lastActiveChapter.scenes &&
+    lastActiveChapter.scenes.length;
   const activeScenes = scenes.slice(
-    activeChapterDivisions[0].index,
-    activeChapterDivisions[activeChapterDivisions.length - 1].index +
-      numScenesInLastActiveChapter
+    activeChapterDivisions[0] && activeChapterDivisions[0].index,
+    activeChapterDivisions[activeChapterDivisions.length - 1] &&
+      activeChapterDivisions[activeChapterDivisions.length - 1].index +
+        numScenesInLastActiveChapter
   );
   const activeScenePos = scenePos.slice(
-    activeChapterDivisions[0].index,
-    activeChapterDivisions[activeChapterDivisions.length - 1].index +
-      numScenesInLastActiveChapter
+    activeChapterDivisions[0] && activeChapterDivisions[0].index,
+    activeChapterDivisions[activeChapterDivisions.length - 1] &&
+      activeChapterDivisions[activeChapterDivisions.length - 1].index +
+        numScenesInLastActiveChapter
   );
   const activeSceneChunks = sceneChunks.slice(
-    activeChapterDivisions[0].index,
-    activeChapterDivisions[activeChapterDivisions.length - 1].index +
-      numScenesInLastActiveChapter
+    activeChapterDivisions[0] && activeChapterDivisions[0].index,
+    activeChapterDivisions[activeChapterDivisions.length - 1] &&
+      activeChapterDivisions[activeChapterDivisions.length - 1].index +
+        numScenesInLastActiveChapter
   );
   const activeSceneData = scene_data.slice(
-    activeChapterDivisions[0].index,
-    activeChapterDivisions[activeChapterDivisions.length - 1].index +
-      numScenesInLastActiveChapter
+    activeChapterDivisions[0] && activeChapterDivisions[0].index,
+    activeChapterDivisions[activeChapterDivisions.length - 1] &&
+      activeChapterDivisions[activeChapterDivisions.length - 1].index +
+        numScenesInLastActiveChapter
   );
   const maxChars = 24;
 
@@ -327,15 +334,16 @@ function XAxis() {
           markerEnd="url(#head)"
           strokeWidth="2"
           stroke="black"
-          d={`M${scenePos[0].x - 1.25 * character_offset},${
+          d={`M${scenePos[0] && scenePos[0].x - 1.25 * character_offset},${
             location_offset * 2 - 0.75 * location_offset
-          }, ${scenePos[scenePos.length - 1].x + 1.25 * character_offset},${
-            location_offset * 2 - 0.75 * location_offset
-          }`}
+          }, ${
+            scenePos[scenePos.length - 1] &&
+            scenePos[scenePos.length - 1].x + 1.25 * character_offset
+          },${location_offset * 2 - 0.75 * location_offset}`}
         />
         {/* add label to arrow */}
         <text
-          x={scenePos[0].x - 0.5 * character_offset}
+          x={scenePos[0] && scenePos[0].x - 0.5 * character_offset}
           y={location_offset * 2 - 1.25 * location_offset}
           textAnchor="start"
           fill={

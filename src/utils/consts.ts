@@ -29,6 +29,7 @@ export const scene_width = (locations: string[], scenes: string[]) => {
   return width;
 };
 export const plot_width = (scene_pos: Position[]) =>
+  scene_pos[scene_pos.length - 1] &&
   scene_pos[scene_pos.length - 1].x + scene_margin;
 
 // old: not currently being used

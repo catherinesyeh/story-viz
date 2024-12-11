@@ -50,16 +50,18 @@ function OverlayCurve() {
           id="left-overlay"
           className="white-overlay"
           fill="url(#white-gradient)"
-          x={scenePos[0].x - 1.25 * character_offset}
+          x={scenePos[0] && scenePos[0].x - 1.25 * character_offset}
           y={location_buffer - location_height + 0.5 * character_height}
           width={
             !showOverlay ||
             sceneHover === "" ||
             (sceneHover !== "" && !scenePos[scenes.indexOf(sceneHover)])
               ? 0
-              : scenePos[scenes.indexOf(sceneHover)].x -
-                scenePos[0].x +
-                1.25 * character_offset
+              : scenePos[scenes.indexOf(sceneHover)] &&
+                scenePos[0] &&
+                scenePos[scenes.indexOf(sceneHover)].x -
+                  scenePos[0].x +
+                  1.25 * character_offset
           }
           height={location_height + 0.5 * character_height}
         />
@@ -71,8 +73,10 @@ function OverlayCurve() {
             !showOverlay ||
             sceneHover === "" ||
             (sceneHover !== "" && !scenePos[scenes.indexOf(sceneHover)])
-              ? scenePos[scenePos.length - 1].x + 1.25 * character_offset
-              : scenePos[scenes.indexOf(sceneHover)].x + 0.5 * character_offset
+              ? scenePos[scenePos.length - 1] &&
+                scenePos[scenePos.length - 1].x + 1.25 * character_offset
+              : scenePos[scenes.indexOf(sceneHover)] &&
+                scenePos[scenes.indexOf(sceneHover)].x + 0.5 * character_offset
           }
           y={location_buffer - location_height + 0.5 * character_height}
           width={
@@ -80,9 +84,11 @@ function OverlayCurve() {
             sceneHover === "" ||
             (sceneHover !== "" && !scenePos[scenes.indexOf(sceneHover)])
               ? 0
-              : scenePos[scenePos.length - 1].x -
-                scenePos[scenes.indexOf(sceneHover)].x +
-                1.25 * character_offset
+              : scenePos[scenePos.length - 1] &&
+                scenePos[scenes.indexOf(sceneHover)] &&
+                scenePos[scenePos.length - 1].x -
+                  scenePos[scenes.indexOf(sceneHover)].x +
+                  1.25 * character_offset
           }
           height={location_height + 0.5 * character_height}
         />
@@ -100,20 +106,20 @@ function OverlayCurve() {
           strokeWidth="2"
           stroke="black"
           d={`M${
-            scenePos[0].x - 1.25 * character_offset
-          },${location_buffer} , ${scenePos[0].x - 1.25 * character_offset},${
-            location_buffer - location_height + 0.5 * character_height
-          }`}
+            scenePos[0] && scenePos[0].x - 1.25 * character_offset
+          },${location_buffer} , ${
+            scenePos[0] && scenePos[0].x - 1.25 * character_offset
+          },${location_buffer - location_height + 0.5 * character_height}`}
         />
         {/* add label to arrow */}
         <text
-          x={scenePos[0].x - 1.5 * location_offset}
+          x={scenePos[0] && scenePos[0].x - 1.5 * location_offset}
           y={location_buffer || 0}
           textAnchor="start"
           className="conflict-label"
           transform={
             "rotate(-90," +
-            (scenePos[0].x - 1.5 * location_offset) +
+            (scenePos[0] && scenePos[0].x - 1.5 * location_offset) +
             ", " +
             location_buffer +
             ")"
