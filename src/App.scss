@@ -1316,12 +1316,35 @@ h1 {
   right: 1rem;
   width: 670px;
   transition: 0.3s;
+  z-index: 99;
 
   &.hidden {
     width: 0;
     visibility: hidden;
     pointer-events: none;
     opacity: 0;
+  }
+
+  .close {
+    position: absolute;
+    font-weight: 400;
+    font-family: "Shantell Sans";
+    top: -1.25rem;
+    height: 1rem;
+
+    span {
+      font-size: x-small !important;
+    }
+  }
+
+  button {
+    transition: 0.3s !important;
+    background: transparent !important;
+    outline: transparent !important;
+
+    &:hover {
+      opacity: 0.7;
+    }
   }
 
   .buttons {
@@ -1334,15 +1357,6 @@ h1 {
     border: 1px solid #eee;
     border-radius: 0.3rem 0.3rem 0 0;
     height: 1.6rem;
-
-    button {
-      transition: 0.3s !important;
-      background: transparent !important;
-
-      &:hover {
-        opacity: 0.7;
-      }
-    }
   }
 
   #scene-overlay {
