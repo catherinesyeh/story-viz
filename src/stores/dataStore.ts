@@ -54,7 +54,7 @@ interface IStore {
   num_chapters: number;
   activeChapters: [number, number];
 
-  setData: (val: any, val2: boolean, val3: string) => void;
+  setData: (val: any, val2: boolean, val3: string, val4: boolean) => void;
   setActiveChapters: (val: [number, number]) => void;
   resetActiveChapters: (val: number) => void;
 }
@@ -100,42 +100,46 @@ export const dataStore = create<IStore>((set) => ({
   setData: (
     init_data: any,
     chapterView: boolean = false,
-    chapter: string = ""
+    chapter: string = "",
+    same_story: boolean = false
   ) => {
     const newData = getAllData(init_data, chapterView, chapter);
-    set({
-      data: init_data,
-      scene_data: newData.scene_data,
-      chapter_data: newData.chapter_data,
-      location_data: newData.location_data,
-      character_data: newData.character_data,
+    set(() => {
+      const updates: Partial<IStore> = {
+        data: init_data,
+        scene_data: newData.scene_data,
+        location_data: newData.location_data,
+        character_data: newData.character_data,
+        locations: newData.locations,
+        location_quotes: newData.location_quotes,
+        location_chunks: newData.location_chunks,
+        characters: newData.characters,
+        characterScenes: newData.characterScenes,
+        character_quotes: newData.character_quotes,
+        sortedCharacters: newData.sortedCharacters,
+        scenes: newData.scenes,
+        sceneLocations: newData.sceneLocations,
+        sceneChunks: newData.sceneChunks,
+        sceneCharacters: newData.sceneCharacters,
+        sceneSummaries: newData.sceneSummaries,
+        ratingDict: newData.ratingDict,
+        minLines: newData.minLines,
+        maxLines: newData.maxLines,
+        chapterDivisions: newData.chapterDivisions,
+        num_chapters: newData.num_chapters,
+        activeChapters: [1, newData.num_chapters],
+      };
 
-      locations: newData.locations,
-      location_quotes: newData.location_quotes,
-      location_chunks: newData.location_chunks,
+      // Perform comparison logic only for chapter_data
+      if (!same_story) {
+        updates.chapter_data = newData.chapter_data;
+        updates.sceneMin = newData.sceneMin;
+        updates.sceneMax = newData.sceneMax;
+        updates.chapterMin = newData.chapterMin;
+        updates.chapterMax = newData.chapterMax;
+      }
 
-      characters: newData.characters,
-      characterScenes: newData.characterScenes,
-      character_quotes: newData.character_quotes,
-      sortedCharacters: newData.sortedCharacters,
-
-      scenes: newData.scenes,
-      sceneLocations: newData.sceneLocations,
-      sceneChunks: newData.sceneChunks,
-      sceneCharacters: newData.sceneCharacters,
-      sceneSummaries: newData.sceneSummaries,
-
-      ratingDict: newData.ratingDict,
-      minLines: newData.minLines,
-      maxLines: newData.maxLines,
-      sceneMin: newData.sceneMin,
-      sceneMax: newData.sceneMax,
-      chapterMin: newData.chapterMin,
-      chapterMax: newData.chapterMax,
-
-      chapterDivisions: newData.chapterDivisions,
-      num_chapters: newData.num_chapters,
-      activeChapters: [1, newData.num_chapters] as [number, number],
+      return updates;
     });
   },
   setActiveChapters: (val: [number, number]) => set({ activeChapters: val }),

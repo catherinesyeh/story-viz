@@ -166,7 +166,7 @@ function PlotOptions() {
         if (chapterHover !== "" && !chapterView && detailView) {
           chapter = chapterHover;
         }
-        setData(new_data.default, viewChapters, chapter);
+        setData(new_data.default, viewChapters, chapter, sameStory);
         setChapterView(viewChapters);
 
         // reset the following values
@@ -202,7 +202,7 @@ function PlotOptions() {
     if (detailView && chapterHover !== "" && !chapterView) {
       chapter = chapterHover;
     }
-    setData(data, chapterView, chapter);
+    setData(data, chapterView, chapter, true);
   }, [chapterView, detailView, chapterHover]);
 
   useEffect(() => {

@@ -11,6 +11,7 @@ import {
 import { chapterFormatted, normalize } from "../../utils/helpers";
 import CharacterNetwork from "../Vis/CharacterNetwork";
 import LocationChart from "../Vis/LocationChart";
+import { useEffect } from "react";
 
 function SceneDivInner(props: any) {
   const {
