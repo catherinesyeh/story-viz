@@ -1,0 +1,193 @@
+﻿Group,Category,Subcategory,Part of book,Percent
+All,Scene,Divider,Beginning,39.40%
+All,Scene,Transition - topical,Beginning,25.53%
+All,Scene,Transition - character(s) enter or leave,Beginning,8.77%
+All,Scene,Transition - time passes,Beginning,8.93%
+All,Scene,Transition - location change,Beginning,15.58%
+All,Scene,Transition - description <--> dialogue,Beginning,1.79%
+All,Scene,Divider,Middle,21.34%
+All,Scene,Transition - topical,Middle,38.09%
+All,Scene,Transition - character(s) enter or leave,Middle,16.68%
+All,Scene,Transition - time passes,Middle,9.52%
+All,Scene,Transition - location change,Middle,8.40%
+All,Scene,Transition - description <--> dialogue,Middle,5.95%
+All,Scene,Divider,End,43.79%
+All,Scene,Transition - topical,End,28.47%
+All,Scene,Transition - character(s) enter or leave,End,1.43%
+All,Scene,Transition - time passes,End,17.07%
+All,Scene,Transition - location change,End,6.01%
+All,Scene,Transition - description <--> dialogue,End,3.23%
+Well-known,Scene,Divider,Beginning,37.77%
+Well-known,Scene,Transition - topical,Beginning,38.74%
+Well-known,Scene,Transition - character(s) enter or leave,Beginning,12.12%
+Well-known,Scene,Transition - time passes,Beginning,0.00%
+Well-known,Scene,Transition - location change,Beginning,11.36%
+Well-known,Scene,Transition - description <--> dialogue,Beginning,0.00%
+Well-known,Scene,Divider,Middle,23.93%
+Well-known,Scene,Transition - topical,Middle,35.47%
+Well-known,Scene,Transition - character(s) enter or leave,Middle,18.38%
+Well-known,Scene,Transition - time passes,Middle,0.00%
+Well-known,Scene,Transition - location change,Middle,13.89%
+Well-known,Scene,Transition - description <--> dialogue,Middle,8.33%
+Well-known,Scene,Divider,End,49.07%
+Well-known,Scene,Transition - topical,End,33.33%
+Well-known,Scene,Transition - character(s) enter or leave,End,0.00%
+Well-known,Scene,Transition - time passes,End,5.56%
+Well-known,Scene,Transition - location change,End,9.26%
+Well-known,Scene,Transition - description <--> dialogue,End,2.78%
+Lesser known,Scene,Divider,Beginning,50.00%
+Lesser known,Scene,Transition - topical,Beginning,16.67%
+Lesser known,Scene,Transition - character(s) enter or leave,Beginning,8.33%
+Lesser known,Scene,Transition - time passes,Beginning,20.83%
+Lesser known,Scene,Transition - location change,Beginning,0.00%
+Lesser known,Scene,Transition - description <--> dialogue,Beginning,4.17%
+Lesser known,Scene,Divider,Middle,20.32%
+Lesser known,Scene,Transition - topical,Middle,42.30%
+Lesser known,Scene,Transition - character(s) enter or leave,Middle,9.44%
+Lesser known,Scene,Transition - time passes,Middle,22.22%
+Lesser known,Scene,Transition - location change,Middle,5.71%
+Lesser known,Scene,Transition - description <--> dialogue,Middle,0.00%
+Lesser known,Scene,Divider,End,48.33%
+Lesser known,Scene,Transition - topical,End,28.33%
+Lesser known,Scene,Transition - character(s) enter or leave,End,3.33%
+Lesser known,Scene,Transition - time passes,End,20.00%
+Lesser known,Scene,Transition - location change,End,0.00%
+Lesser known,Scene,Transition - description <--> dialogue,End,0.00%
+LLM-generated,Scene,Divider,Beginning,18.75%
+LLM-generated,Scene,Transition - topical,Beginning,6.25%
+LLM-generated,Scene,Transition - character(s) enter or leave,Beginning,6.25%
+LLM-generated,Scene,Transition - time passes,Beginning,31.25%
+LLM-generated,Scene,Transition - location change,Beginning,37.50%
+LLM-generated,Scene,Transition - description <--> dialogue,Beginning,0.00%
+LLM-generated,Scene,Divider,Middle,16.67%
+LLM-generated,Scene,Transition - topical,Middle,20.83%
+LLM-generated,Scene,Transition - character(s) enter or leave,Middle,20.83%
+LLM-generated,Scene,Transition - time passes,Middle,33.33%
+LLM-generated,Scene,Transition - location change,Middle,0.00%
+LLM-generated,Scene,Transition - description <--> dialogue,Middle,8.33%
+LLM-generated,Scene,Divider,End,17.14%
+LLM-generated,Scene,Transition - topical,End,12.14%
+LLM-generated,Scene,Transition - character(s) enter or leave,End,5.00%
+LLM-generated,Scene,Transition - time passes,End,51.43%
+LLM-generated,Scene,Transition - location change,End,7.14%
+LLM-generated,Scene,Transition - description <--> dialogue,End,7.14%
+All,Character,Phsyically in scene,Beginning,93.69%
+All,Character,Mentioned only,Beginning,4.34%
+All,Character,Mislabelled/incorrect,Beginning,0.70%
+All,Character,Missing,Beginning,1.27%
+All,Character,Phsyically in scene,Middle,94.46%
+All,Character,Mentioned only,Middle,2.71%
+All,Character,Mislabelled/incorrect,Middle,1.87%
+All,Character,Missing,Middle,0.96%
+All,Character,Phsyically in scene,End,89.77%
+All,Character,Mentioned only,End,5.44%
+All,Character,Mislabelled/incorrect,End,0.00%
+All,Character,Missing,End,4.80%
+Well-known,Character,Phsyically in scene,Beginning,92.80%
+Well-known,Character,Mentioned only,Beginning,4.76%
+Well-known,Character,Mislabelled/incorrect,Beginning,1.63%
+Well-known,Character,Missing,Beginning,0.81%
+Well-known,Character,Phsyically in scene,Middle,97.00%
+Well-known,Character,Mentioned only,Middle,1.55%
+Well-known,Character,Mislabelled/incorrect,Middle,0.00%
+Well-known,Character,Missing,Middle,1.45%
+Well-known,Character,Phsyically in scene,End,87.31%
+Well-known,Character,Mentioned only,End,12.69%
+Well-known,Character,Mislabelled/incorrect,End,0.00%
+Well-known,Character,Missing,End,0.00%
+Lesser known,Character,Phsyically in scene,Beginning,92.47%
+Lesser known,Character,Mentioned only,Beginning,5.38%
+Lesser known,Character,Mislabelled/incorrect,Beginning,0.00%
+Lesser known,Character,Missing,Beginning,2.15%
+Lesser known,Character,Phsyically in scene,Middle,92.86%
+Lesser known,Character,Mentioned only,Middle,4.76%
+Lesser known,Character,Mislabelled/incorrect,Middle,1.59%
+Lesser known,Character,Missing,Middle,0.79%
+Lesser known,Character,Phsyically in scene,End,88.81%
+Lesser known,Character,Mentioned only,End,0.00%
+Lesser known,Character,Mislabelled/incorrect,End,0.00%
+Lesser known,Character,Missing,End,11.19%
+LLM-generated,Character,Phsyically in scene,Beginning,100.00%
+LLM-generated,Character,Mentioned only,Beginning,0.00%
+LLM-generated,Character,Mislabelled/incorrect,Beginning,0.00%
+LLM-generated,Character,Missing,Beginning,0.00%
+LLM-generated,Character,Phsyically in scene,Middle,95.83%
+LLM-generated,Character,Mentioned only,Middle,0.00%
+LLM-generated,Character,Mislabelled/incorrect,Middle,4.17%
+LLM-generated,Character,Missing,Middle,0.00%
+LLM-generated,Character,Phsyically in scene,End,97.92%
+LLM-generated,Character,Mentioned only,End,0.00%
+LLM-generated,Character,Mislabelled/incorrect,End,0.00%
+LLM-generated,Character,Missing,End,2.08%
+All,Quote,"Accurate, spoken",Beginning,62.84%
+All,Quote,Paraphrased,Beginning,2.65%
+All,Quote,Describes character,Beginning,9.42%
+All,Quote,Mismatch b/t quote + emotion,Beginning,4.68%
+All,Quote,Incorrect emotion,Beginning,1.36%
+All,Quote,Incorrect quote,Beginning,19.05%
+All,Quote,"Accurate, spoken",Middle,67.40%
+All,Quote,Paraphrased,Middle,3.58%
+All,Quote,Describes character,Middle,6.64%
+All,Quote,Mismatch b/t quote + emotion,Middle,4.22%
+All,Quote,Incorrect emotion,Middle,0.00%
+All,Quote,Incorrect quote,Middle,18.17%
+All,Quote,"Accurate, spoken",End,67.83%
+All,Quote,Paraphrased,End,1.56%
+All,Quote,Describes character,End,6.02%
+All,Quote,Mismatch b/t quote + emotion,End,3.79%
+All,Quote,Incorrect emotion,End,0.00%
+All,Quote,Incorrect quote,End,20.80%
+Well-known,Quote,"Accurate, spoken",Beginning,83.89%
+Well-known,Quote,Paraphrased,Beginning,1.59%
+Well-known,Quote,Describes character,Beginning,4.76%
+Well-known,Quote,Mismatch b/t quote + emotion,Beginning,5.75%
+Well-known,Quote,Incorrect emotion,Beginning,3.17%
+Well-known,Quote,Incorrect quote,Beginning,0.83%
+Well-known,Quote,"Accurate, spoken",Middle,81.77%
+Well-known,Quote,Paraphrased,Middle,4.29%
+Well-known,Quote,Describes character,Middle,7.36%
+Well-known,Quote,Mismatch b/t quote + emotion,Middle,6.58%
+Well-known,Quote,Incorrect emotion,Middle,0.00%
+Well-known,Quote,Incorrect quote,Middle,0.00%
+Well-known,Quote,"Accurate, spoken",End,80.01%
+Well-known,Quote,Paraphrased,End,1.08%
+Well-known,Quote,Describes character,End,5.92%
+Well-known,Quote,Mismatch b/t quote + emotion,End,4.61%
+Well-known,Quote,Incorrect emotion,End,0.00%
+Well-known,Quote,Incorrect quote,End,8.38%
+Lesser known,Quote,"Accurate, spoken",Beginning,62.75%
+Lesser known,Quote,Paraphrased,Beginning,4.60%
+Lesser known,Quote,Describes character,Beginning,8.88%
+Lesser known,Quote,Mismatch b/t quote + emotion,Beginning,5.16%
+Lesser known,Quote,Incorrect emotion,Beginning,0.00%
+Lesser known,Quote,Incorrect quote,Beginning,18.62%
+Lesser known,Quote,"Accurate, spoken",Middle,50.49%
+Lesser known,Quote,Paraphrased,Middle,4.07%
+Lesser known,Quote,Describes character,Middle,8.13%
+Lesser known,Quote,Mismatch b/t quote + emotion,Middle,3.25%
+Lesser known,Quote,Incorrect emotion,Middle,0.00%
+Lesser known,Quote,Incorrect quote,Middle,34.06%
+Lesser known,Quote,"Accurate, spoken",End,55.19%
+Lesser known,Quote,Paraphrased,End,0.00%
+Lesser known,Quote,Describes character,End,8.12%
+Lesser known,Quote,Mismatch b/t quote + emotion,End,4.23%
+Lesser known,Quote,Incorrect emotion,End,0.00%
+Lesser known,Quote,Incorrect quote,End,32.46%
+LLM-generated,Quote,"Accurate, spoken",Beginning,36.96%
+LLM-generated,Quote,Paraphrased,Beginning,0.00%
+LLM-generated,Quote,Describes character,Beginning,14.67%
+LLM-generated,Quote,Mismatch b/t quote + emotion,Beginning,2.17%
+LLM-generated,Quote,Incorrect emotion,Beginning,0.00%
+LLM-generated,Quote,Incorrect quote,Beginning,46.20%
+LLM-generated,Quote,"Accurate, spoken",Middle,75.43%
+LLM-generated,Quote,Paraphrased,Middle,0.00%
+LLM-generated,Quote,Describes character,Middle,0.00%
+LLM-generated,Quote,Mismatch b/t quote + emotion,Middle,0.00%
+LLM-generated,Quote,Incorrect emotion,Middle,0.00%
+LLM-generated,Quote,Incorrect quote,Middle,24.57%
+LLM-generated,Quote,"Accurate, spoken",End,71.57%
+LLM-generated,Quote,Paraphrased,End,3.85%
+LLM-generated,Quote,Describes character,End,2.17%
+LLM-generated,Quote,Mismatch b/t quote + emotion,End,2.17%
+LLM-generated,Quote,Incorrect emotion,End,0.00%
+LLM-generated,Quote,Incorrect quote,End,20.23%
