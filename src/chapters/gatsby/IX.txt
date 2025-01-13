@@ -1,0 +1,499 @@
+LINE 1: After two years I remember the rest of that day, and that night and
+LINE 2: the next day, only as an endless drill of police and photographers and
+LINE 3: newspaper men in and out of Gatsby's front door. A rope stretched
+LINE 4: across the main gate and a policeman by it kept out the curious, but
+LINE 5: little boys soon discovered that they could enter through my yard, and
+LINE 6: there were always a few of them clustered open-mouthed about the
+LINE 7: pool. Someone with a positive manner, perhaps a detective, used the
+LINE 8: expression "madman" as he bent over Wilson's body that afternoon, and
+LINE 9: the adventitious authority of his voice set the key for the newspaper
+LINE 10: reports next morning.
+LINE 11: Most of those reports were a nightmare—grotesque, circumstantial,
+LINE 12: eager, and untrue. When Michaelis's testimony at the inquest brought
+LINE 13: to light Wilson's suspicions of his wife I thought the whole tale
+LINE 14: would shortly be served up in racy pasquinade—but Catherine, who might
+LINE 15: have said anything, didn't say a word. She showed a surprising amount
+LINE 16: of character about it too—looked at the coroner with determined eyes
+LINE 17: under that corrected brow of hers, and swore that her sister had never
+LINE 18: seen Gatsby, that her sister was completely happy with her husband,
+LINE 19: that her sister had been into no mischief whatever. She convinced
+LINE 20: herself of it, and cried into her handkerchief, as if the very
+LINE 21: suggestion was more than she could endure. So Wilson was reduced to a
+LINE 22: man "deranged by grief" in order that the case might remain in its
+LINE 23: simplest form. And it rested there.
+LINE 24: But all this part of it seemed remote and unessential. I found myself
+LINE 25: on Gatsby's side, and alone. From the moment I telephoned news of the
+LINE 26: catastrophe to West Egg village, every surmise about him, and every
+LINE 27: practical question, was referred to me. At first I was surprised and
+LINE 28: confused; then, as he lay in his house and didn't move or breathe or
+LINE 29: speak, hour upon hour, it grew upon me that I was responsible, because
+LINE 30: no one else was interested—interested, I mean, with that intense
+LINE 31: personal interest to which everyone has some vague right at the end.
+LINE 32: I called up Daisy half an hour after we found him, called her
+LINE 33: instinctively and without hesitation. But she and Tom had gone away
+LINE 34: early that afternoon, and taken baggage with them.
+LINE 35: "Left no address?"
+LINE 36: "No."
+LINE 37: "Say when they'd be back?"
+LINE 38: "No."
+LINE 39: "Any idea where they are? How I could reach them?"
+LINE 40: "I don't know. Can't say."
+LINE 41: I wanted to get somebody for him. I wanted to go into the room where
+LINE 42: he lay and reassure him: "I'll get somebody for you, Gatsby. Don't
+LINE 43: worry. Just trust me and I'll get somebody for you—"
+LINE 44: Meyer Wolfshiem's name wasn't in the phone book. The butler gave me
+LINE 45: his office address on Broadway, and I called Information, but by the
+LINE 46: time I had the number it was long after five, and no one answered the
+LINE 47: phone.
+LINE 48: "Will you ring again?"
+LINE 49: "I've rung three times."
+LINE 50: "It's very important."
+LINE 51: "Sorry. I'm afraid no one's there."
+LINE 52: I went back to the drawing-room and thought for an instant that they
+LINE 53: were chance visitors, all these official people who suddenly filled
+LINE 54: it. But, though they drew back the sheet and looked at Gatsby with
+LINE 55: shocked eyes, his protest continued in my brain:
+LINE 56: "Look here, old sport, you've got to get somebody for me. You've got
+LINE 57: to try hard. I can't go through this alone."
+LINE 58: Someone started to ask me questions, but I broke away and going
+LINE 59: upstairs looked hastily through the unlocked parts of his desk—he'd
+LINE 60: never told me definitely that his parents were dead. But there was
+LINE 61: nothing—only the picture of Dan Cody, a token of forgotten violence,
+LINE 62: staring down from the wall.
+LINE 63: Next morning I sent the butler to New York with a letter to Wolfshiem,
+LINE 64: which asked for information and urged him to come out on the next
+LINE 65: train. That request seemed superfluous when I wrote it. I was sure
+LINE 66: he'd start when he saw the newspapers, just as I was sure there'd be a
+LINE 67: wire from Daisy before noon—but neither a wire nor Mr. Wolfshiem
+LINE 68: arrived; no one arrived except more police and photographers and
+LINE 69: newspaper men. When the butler brought back Wolfshiem's answer I began
+LINE 70: to have a feeling of defiance, of scornful solidarity between Gatsby
+LINE 71: and me against them all.
+LINE 72: Dear Mr. Carraway. This has been one of the most terrible shocks of
+LINE 73: my life to me I hardly can believe it that it is true at all. Such a
+LINE 74: mad act as that man did should make us all think. I cannot come down
+LINE 75: now as I am tied up in some very important business and cannot get
+LINE 76: mixed up in this thing now. If there is anything I can do a little
+LINE 77: later let me know in a letter by Edgar. I hardly know where I am when
+LINE 78: I hear about a thing like this and am completely knocked down and
+LINE 79: out.
+LINE 80: Yours truly
+LINE 81: Meyer Wolfshiem
+LINE 82: and then hasty addenda beneath:
+LINE 83: Let me know about the funeral etc do not know his family at all.
+LINE 84: When the phone rang that afternoon and Long Distance said Chicago was
+LINE 85: calling I thought this would be Daisy at last. But the connection came
+LINE 86: through as a man's voice, very thin and far away.
+LINE 87: "This is Slagle speaking …"
+LINE 88: "Yes?" The name was unfamiliar.
+LINE 89: "Hell of a note, isn't it? Get my wire?"
+LINE 90: "There haven't been any wires."
+LINE 91: "Young Parke's in trouble," he said rapidly. "They picked him up when
+LINE 92: he handed the bonds over the counter. They got a circular from New
+LINE 93: York giving 'em the numbers just five minutes before. What d'you know
+LINE 94: about that, hey? You never can tell in these hick towns—"
+LINE 95: "Hello!" I interrupted breathlessly. "Look here—this isn't Mr.
+LINE 96: Gatsby. Mr. Gatsby's dead."
+LINE 97: There was a long silence on the other end of the wire, followed by an
+LINE 98: exclamation … then a quick squawk as the connection was broken.
+LINE 99: ------------------------------------------------------------------------
+LINE 100: I think it was on the third day that a telegram signed Henry C. Gatz
+LINE 101: arrived from a town in Minnesota. It said only that the sender was
+LINE 102: leaving immediately and to postpone the funeral until he came.
+LINE 103: It was Gatsby's father, a solemn old man, very helpless and dismayed,
+LINE 104: bundled up in a long cheap ulster against the warm September day. His
+LINE 105: eyes leaked continuously with excitement, and when I took the bag and
+LINE 106: umbrella from his hands he began to pull so incessantly at his sparse
+LINE 107: grey beard that I had difficulty in getting off his coat. He was on
+LINE 108: the point of collapse, so I took him into the music-room and made him
+LINE 109: sit down while I sent for something to eat. But he wouldn't eat, and
+LINE 110: the glass of milk spilled from his trembling hand.
+LINE 111: "I saw it in the Chicago newspaper," he said. "It was all in the
+LINE 112: Chicago newspaper. I started right away."
+LINE 113: "I didn't know how to reach you."
+LINE 114: His eyes, seeing nothing, moved ceaselessly about the room.
+LINE 115: "It was a madman," he said. "He must have been mad."
+LINE 116: "Wouldn't you like some coffee?" I urged him.
+LINE 117: "I don't want anything. I'm all right now, Mr.—"
+LINE 118: "Carraway."
+LINE 119: "Well, I'm all right now. Where have they got Jimmy?"
+LINE 120: I took him into the drawing-room, where his son lay, and left him
+LINE 121: there. Some little boys had come up on the steps and were looking into
+LINE 122: the hall; when I told them who had arrived, they went reluctantly
+LINE 123: away.
+LINE 124: After a little while Mr. Gatz opened the door and came out, his mouth
+LINE 125: ajar, his face flushed slightly, his eyes leaking isolated and
+LINE 126: unpunctual tears. He had reached an age where death no longer has the
+LINE 127: quality of ghastly surprise, and when he looked around him now for the
+LINE 128: first time and saw the height and splendour of the hall and the great
+LINE 129: rooms opening out from it into other rooms, his grief began to be
+LINE 130: mixed with an awed pride. I helped him to a bedroom upstairs; while he
+LINE 131: took off his coat and vest I told him that all arrangements had been
+LINE 132: deferred until he came.
+LINE 133: "I didn't know what you'd want, Mr. Gatsby—"
+LINE 134: "Gatz is my name."
+LINE 135: "—Mr. Gatz. I thought you might want to take the body West."
+LINE 136: He shook his head.
+LINE 137: "Jimmy always liked it better down East. He rose up to his position in
+LINE 138: the East. Were you a friend of my boy's, Mr.—?"
+LINE 139: "We were close friends."
+LINE 140: "He had a big future before him, you know. He was only a young man,
+LINE 141: but he had a lot of brain power here."
+LINE 142: He touched his head impressively, and I nodded.
+LINE 143: "If he'd of lived, he'd of been a great man. A man like James J.
+LINE 144: Hill. He'd of helped build up the country."
+LINE 145: "That's true," I said, uncomfortably.
+LINE 146: He fumbled at the embroidered coverlet, trying to take it from the
+LINE 147: bed, and lay down stiffly—was instantly asleep.
+LINE 148: That night an obviously frightened person called up, and demanded to
+LINE 149: know who I was before he would give his name.
+LINE 150: "This is Mr. Carraway," I said.
+LINE 151: "Oh!" He sounded relieved. "This is Klipspringer."
+LINE 152: I was relieved too, for that seemed to promise another friend at
+LINE 153: Gatsby's grave. I didn't want it to be in the papers and draw a
+LINE 154: sightseeing crowd, so I'd been calling up a few people myself. They
+LINE 155: were hard to find.
+LINE 156: "The funeral's tomorrow," I said. "Three o'clock, here at the house.
+LINE 157: I wish you'd tell anybody who'd be interested."
+LINE 158: "Oh, I will," he broke out hastily. "Of course I'm not likely to see
+LINE 159: anybody, but if I do."
+LINE 160: His tone made me suspicious.
+LINE 161: "Of course you'll be there yourself."
+LINE 162: "Well, I'll certainly try. What I called up about is—"
+LINE 163: "Wait a minute," I interrupted. "How about saying you'll come?"
+LINE 164: "Well, the fact is—the truth of the matter is that I'm staying with
+LINE 165: some people up here in Greenwich, and they rather expect me to be with
+LINE 166: them tomorrow. In fact, there's a sort of picnic or something. Of
+LINE 167: course I'll do my best to get away."
+LINE 168: I ejaculated an unrestrained "Huh!" and he must have heard me, for he
+LINE 169: went on nervously:
+LINE 170: "What I called up about was a pair of shoes I left there. I wonder if
+LINE 171: it'd be too much trouble to have the butler send them on. You see,
+LINE 172: they're tennis shoes, and I'm sort of helpless without them. My
+LINE 173: address is care of B. F.—"
+LINE 174: I didn't hear the rest of the name, because I hung up the receiver.
+LINE 175: After that I felt a certain shame for Gatsby—one gentleman to whom I
+LINE 176: telephoned implied that he had got what he deserved. However, that was
+LINE 177: my fault, for he was one of those who used to sneer most bitterly at
+LINE 178: Gatsby on the courage of Gatsby's liquor, and I should have known
+LINE 179: better than to call him.
+LINE 180: The morning of the funeral I went up to New York to see Meyer
+LINE 181: Wolfshiem; I couldn't seem to reach him any other way. The door that I
+LINE 182: pushed open, on the advice of an elevator boy, was marked "The
+LINE 183: Swastika Holding Company," and at first there didn't seem to be anyone
+LINE 184: inside. But when I'd shouted "hello" several times in vain, an
+LINE 185: argument broke out behind a partition, and presently a lovely Jewess
+LINE 186: appeared at an interior door and scrutinized me with black hostile
+LINE 187: eyes.
+LINE 188: "Nobody's in," she said. "Mr. Wolfshiem's gone to Chicago."
+LINE 189: The first part of this was obviously untrue, for someone had begun to
+LINE 190: whistle "The Rosary," tunelessly, inside.
+LINE 191: "Please say that Mr. Carraway wants to see him."
+LINE 192: "I can't get him back from Chicago, can I?"
+LINE 193: At this moment a voice, unmistakably Wolfshiem's, called "Stella!"
+LINE 194: from the other side of the door.
+LINE 195: "Leave your name on the desk," she said quickly. "I'll give it to him
+LINE 196: when he gets back."
+LINE 197: "But I know he's there."
+LINE 198: She took a step toward me and began to slide her hands indignantly up
+LINE 199: and down her hips.
+LINE 200: "You young men think you can force your way in here any time," she
+LINE 201: scolded. "We're getting sickantired of it. When I say he's in Chicago,
+LINE 202: he's in Chicago."
+LINE 203: I mentioned Gatsby.
+LINE 204: "Oh-h!" She looked at me over again. "Will you just—What was your
+LINE 205: name?"
+LINE 206: She vanished. In a moment Meyer Wolfshiem stood solemnly in the
+LINE 207: doorway, holding out both hands. He drew me into his office, remarking
+LINE 208: in a reverent voice that it was a sad time for all of us, and offered
+LINE 209: me a cigar.
+LINE 210: "My memory goes back to when first I met him," he said. "A young major
+LINE 211: just out of the army and covered over with medals he got in the war.
+LINE 212: He was so hard up he had to keep on wearing his uniform because he
+LINE 213: couldn't buy some regular clothes. First time I saw him was when he
+LINE 214: came into Winebrenner's poolroom at Forty-third Street and asked for a
+LINE 215: job. He hadn't eat anything for a couple of days. 'Come on have some
+LINE 216: lunch with me,' I said. He ate more than four dollars' worth of food
+LINE 217: in half an hour."
+LINE 218: "Did you start him in business?" I inquired.
+LINE 219: "Start him! I made him."
+LINE 220: "Oh."
+LINE 221: "I raised him up out of nothing, right out of the gutter. I saw right
+LINE 222: away he was a fine-appearing, gentlemanly young man, and when he told
+LINE 223: me he was at Oggsford I knew I could use him good. I got him to join
+LINE 224: the American Legion and he used to stand high there. Right off he did
+LINE 225: some work for a client of mine up to Albany. We were so thick like
+LINE 226: that in everything"—he held up two bulbous fingers—"always together."
+LINE 227: I wondered if this partnership had included the World's Series
+LINE 228: transaction in 1919.
+LINE 229: "Now he's dead," I said after a moment. "You were his closest friend,
+LINE 230: so I know you'll want to come to his funeral this afternoon."
+LINE 231: "I'd like to come."
+LINE 232: "Well, come then."
+LINE 233: The hair in his nostrils quivered slightly, and as he shook his head
+LINE 234: his eyes filled with tears.
+LINE 235: "I can't do it—I can't get mixed up in it," he said.
+LINE 236: "There's nothing to get mixed up in. It's all over now."
+LINE 237: "When a man gets killed I never like to get mixed up in it in any
+LINE 238: way. I keep out. When I was a young man it was different—if a friend
+LINE 239: of mine died, no matter how, I stuck with them to the end. You may
+LINE 240: think that's sentimental, but I mean it—to the bitter end."
+LINE 241: I saw that for some reason of his own he was determined not to come,
+LINE 242: so I stood up.
+LINE 243: "Are you a college man?" he inquired suddenly.
+LINE 244: For a moment I thought he was going to suggest a "gonnegtion," but he
+LINE 245: only nodded and shook my hand.
+LINE 246: "Let us learn to show our friendship for a man when he is alive and
+LINE 247: not after he is dead," he suggested. "After that my own rule is to let
+LINE 248: everything alone."
+LINE 249: When I left his office the sky had turned dark and I got back to West
+LINE 250: Egg in a drizzle. After changing my clothes I went next door and found
+LINE 251: Mr. Gatz walking up and down excitedly in the hall. His pride in his
+LINE 252: son and in his son's possessions was continually increasing and now he
+LINE 253: had something to show me.
+LINE 254: "Jimmy sent me this picture." He took out his wallet with trembling
+LINE 255: fingers. "Look there."
+LINE 256: It was a photograph of the house, cracked in the corners and dirty
+LINE 257: with many hands. He pointed out every detail to me eagerly. "Look
+LINE 258: there!" and then sought admiration from my eyes. He had shown it so
+LINE 259: often that I think it was more real to him now than the house itself.
+LINE 260: "Jimmy sent it to me. I think it's a very pretty picture. It shows up
+LINE 261: well."
+LINE 262: "Very well. Had you seen him lately?"
+LINE 263: "He come out to see me two years ago and bought me the house I live in
+LINE 264: now. Of course we was broke up when he run off from home, but I see
+LINE 265: now there was a reason for it. He knew he had a big future in front of
+LINE 266: him. And ever since he made a success he was very generous with me."
+LINE 267: He seemed reluctant to put away the picture, held it for another
+LINE 268: minute, lingeringly, before my eyes. Then he returned the wallet and
+LINE 269: pulled from his pocket a ragged old copy of a book called Hopalong
+LINE 270: Cassidy.
+LINE 271: "Look here, this is a book he had when he was a boy. It just shows
+LINE 272: you."
+LINE 273: He opened it at the back cover and turned it around for me to see. On
+LINE 274: the last flyleaf was printed the word schedule, and the date September
+LINE 275: 12, 1906. And underneath:
+LINE 276: Rise from bed 6:00 a.m.
+LINE 277: Dumbell exercise and wall-scaling 6:15-6:30 "
+LINE 278: Study electricity, etc. 7:15-8:15 "
+LINE 279: Work 8:30-4:30 p.m.
+LINE 280: Baseball and sports 4:30-5:00 "
+LINE 281: Practise elocution, poise and how to attain it 5:00-6:00 "
+LINE 282: Study needed inventions 7:00-9:00 "
+LINE 283: General Resolves
+LINE 284: * No wasting time at Shafters or [a name, indecipherable]
+LINE 285: * No more smokeing or chewing.
+LINE 286: * Bath every other day
+LINE 287: * Read one improving book or magazine per week
+LINE 288: * Save $5.00 [crossed out] $3.00 per week
+LINE 289: * Be better to parents
+LINE 290: "I came across this book by accident," said the old man. "It just
+LINE 291: shows you, don't it?"
+LINE 292: "It just shows you."
+LINE 293: "Jimmy was bound to get ahead. He always had some resolves like this
+LINE 294: or something. Do you notice what he's got about improving his mind? He
+LINE 295: was always great for that. He told me I et like a hog once, and I beat
+LINE 296: him for it."
+LINE 297: He was reluctant to close the book, reading each item aloud and then
+LINE 298: looking eagerly at me. I think he rather expected me to copy down the
+LINE 299: list for my own use.
+LINE 300: A little before three the Lutheran minister arrived from Flushing, and
+LINE 301: I began to look involuntarily out the windows for other cars. So did
+LINE 302: Gatsby's father. And as the time passed and the servants came in and
+LINE 303: stood waiting in the hall, his eyes began to blink anxiously, and he
+LINE 304: spoke of the rain in a worried, uncertain way. The minister glanced
+LINE 305: several times at his watch, so I took him aside and asked him to wait
+LINE 306: for half an hour. But it wasn't any use. Nobody came.
+LINE 307: ------------------------------------------------------------------------
+LINE 308: About five o'clock our procession of three cars reached the cemetery
+LINE 309: and stopped in a thick drizzle beside the gate—first a motor hearse,
+LINE 310: horribly black and wet, then Mr. Gatz and the minister and me in the
+LINE 311: limousine, and a little later four or five servants and the postman
+LINE 312: from West Egg, in Gatsby's station wagon, all wet to the skin. As we
+LINE 313: started through the gate into the cemetery I heard a car stop and then
+LINE 314: the sound of someone splashing after us over the soggy ground. I
+LINE 315: looked around. It was the man with owl-eyed glasses whom I had found
+LINE 316: marvelling over Gatsby's books in the library one night three months
+LINE 317: before.
+LINE 318: I'd never seen him since then. I don't know how he knew about the
+LINE 319: funeral, or even his name. The rain poured down his thick glasses, and
+LINE 320: he took them off and wiped them to see the protecting canvas unrolled
+LINE 321: from Gatsby's grave.
+LINE 322: I tried to think about Gatsby then for a moment, but he was already
+LINE 323: too far away, and I could only remember, without resentment, that
+LINE 324: Daisy hadn't sent a message or a flower. Dimly I heard someone murmur
+LINE 325: "Blessed are the dead that the rain falls on," and then the owl-eyed
+LINE 326: man said "Amen to that," in a brave voice.
+LINE 327: We straggled down quickly through the rain to the cars. Owl-eyes spoke
+LINE 328: to me by the gate.
+LINE 329: "I couldn't get to the house," he remarked.
+LINE 330: "Neither could anybody else."
+LINE 331: "Go on!" He started. "Why, my God! they used to go there by the
+LINE 332: hundreds."
+LINE 333: He took off his glasses and wiped them again, outside and in.
+LINE 334: "The poor son-of-a-bitch," he said.
+LINE 335: ------------------------------------------------------------------------
+LINE 336: One of my most vivid memories is of coming back West from prep school
+LINE 337: and later from college at Christmas time. Those who went farther than
+LINE 338: Chicago would gather in the old dim Union Station at six o'clock of a
+LINE 339: December evening, with a few Chicago friends, already caught up into
+LINE 340: their own holiday gaieties, to bid them a hasty goodbye. I remember
+LINE 341: the fur coats of the girls returning from Miss This-or-That's and the
+LINE 342: chatter of frozen breath and the hands waving overhead as we caught
+LINE 343: sight of old acquaintances, and the matchings of invitations: "Are you
+LINE 344: going to the Ordways'? the Herseys'? the Schultzes'?" and the long
+LINE 345: green tickets clasped tight in our gloved hands. And last the murky
+LINE 346: yellow cars of the Chicago, Milwaukee and St. Paul railroad looking
+LINE 347: cheerful as Christmas itself on the tracks beside the gate.
+LINE 348: When we pulled out into the winter night and the real snow, our snow,
+LINE 349: began to stretch out beside us and twinkle against the windows, and
+LINE 350: the dim lights of small Wisconsin stations moved by, a sharp wild
+LINE 351: brace came suddenly into the air. We drew in deep breaths of it as we
+LINE 352: walked back from dinner through the cold vestibules, unutterably aware
+LINE 353: of our identity with this country for one strange hour, before we
+LINE 354: melted indistinguishably into it again.
+LINE 355: That's my Middle West—not the wheat or the prairies or the lost Swede
+LINE 356: towns, but the thrilling returning trains of my youth, and the street
+LINE 357: lamps and sleigh bells in the frosty dark and the shadows of holly
+LINE 358: wreaths thrown by lighted windows on the snow. I am part of that, a
+LINE 359: little solemn with the feel of those long winters, a little complacent
+LINE 360: from growing up in the Carraway house in a city where dwellings are
+LINE 361: still called through decades by a family's name. I see now that this
+LINE 362: has been a story of the West, after all—Tom and Gatsby, Daisy and
+LINE 363: Jordan and I, were all Westerners, and perhaps we possessed some
+LINE 364: deficiency in common which made us subtly unadaptable to Eastern life.
+LINE 365: Even when the East excited me most, even when I was most keenly aware
+LINE 366: of its superiority to the bored, sprawling, swollen towns beyond the
+LINE 367: Ohio, with their interminable inquisitions which spared only the
+LINE 368: children and the very old—even then it had always for me a quality of
+LINE 369: distortion. West Egg, especially, still figures in my more fantastic
+LINE 370: dreams. I see it as a night scene by El Greco: a hundred houses, at
+LINE 371: once conventional and grotesque, crouching under a sullen, overhanging
+LINE 372: sky and a lustreless moon. In the foreground four solemn men in dress
+LINE 373: suits are walking along the sidewalk with a stretcher on which lies a
+LINE 374: drunken woman in a white evening dress. Her hand, which dangles over
+LINE 375: the side, sparkles cold with jewels. Gravely the men turn in at a
+LINE 376: house—the wrong house. But no one knows the woman's name, and no one
+LINE 377: cares.
+LINE 378: After Gatsby's death the East was haunted for me like that, distorted
+LINE 379: beyond my eyes' power of correction. So when the blue smoke of brittle
+LINE 380: leaves was in the air and the wind blew the wet laundry stiff on the
+LINE 381: line I decided to come back home.
+LINE 382: There was one thing to be done before I left, an awkward, unpleasant
+LINE 383: thing that perhaps had better have been let alone. But I wanted to
+LINE 384: leave things in order and not just trust that obliging and indifferent
+LINE 385: sea to sweep my refuse away. I saw Jordan Baker and talked over and
+LINE 386: around what had happened to us together, and what had happened
+LINE 387: afterward to me, and she lay perfectly still, listening, in a big
+LINE 388: chair.
+LINE 389: She was dressed to play golf, and I remember thinking she looked like
+LINE 390: a good illustration, her chin raised a little jauntily, her hair the
+LINE 391: colour of an autumn leaf, her face the same brown tint as the
+LINE 392: fingerless glove on her knee. When I had finished she told me without
+LINE 393: comment that she was engaged to another man. I doubted that, though
+LINE 394: there were several she could have married at a nod of her head, but I
+LINE 395: pretended to be surprised. For just a minute I wondered if I wasn't
+LINE 396: making a mistake, then I thought it all over again quickly and got up
+LINE 397: to say goodbye.
+LINE 398: "Nevertheless you did throw me over," said Jordan suddenly. "You threw
+LINE 399: me over on the telephone. I don't give a damn about you now, but it
+LINE 400: was a new experience for me, and I felt a little dizzy for a while."
+LINE 401: We shook hands.
+LINE 402: "Oh, and do you remember"—she added—"a conversation we had once about
+LINE 403: driving a car?"
+LINE 404: "Why—not exactly."
+LINE 405: "You said a bad driver was only safe until she met another bad driver?
+LINE 406: Well, I met another bad driver, didn't I? I mean it was careless of me
+LINE 407: to make such a wrong guess. I thought you were rather an honest,
+LINE 408: straightforward person. I thought it was your secret pride."
+LINE 409: "I'm thirty," I said. "I'm five years too old to lie to myself and
+LINE 410: call it honour."
+LINE 411: She didn't answer. Angry, and half in love with her, and tremendously
+LINE 412: sorry, I turned away.
+LINE 413: ------------------------------------------------------------------------
+LINE 414: One afternoon late in October I saw Tom Buchanan. He was walking ahead
+LINE 415: of me along Fifth Avenue in his alert, aggressive way, his hands out a
+LINE 416: little from his body as if to fight off interference, his head moving
+LINE 417: sharply here and there, adapting itself to his restless eyes. Just as
+LINE 418: I slowed up to avoid overtaking him he stopped and began frowning into
+LINE 419: the windows of a jewellery store. Suddenly he saw me and walked back,
+LINE 420: holding out his hand.
+LINE 421: "What's the matter, Nick? Do you object to shaking hands with me?"
+LINE 422: "Yes. You know what I think of you."
+LINE 423: "You're crazy, Nick," he said quickly. "Crazy as hell. I don't know
+LINE 424: what's the matter with you."
+LINE 425: "Tom," I inquired, "what did you say to Wilson that afternoon?"
+LINE 426: He stared at me without a word, and I knew I had guessed right about
+LINE 427: those missing hours. I started to turn away, but he took a step after
+LINE 428: me and grabbed my arm.
+LINE 429: "I told him the truth," he said. "He came to the door while we were
+LINE 430: getting ready to leave, and when I sent down word that we weren't in
+LINE 431: he tried to force his way upstairs. He was crazy enough to kill me if
+LINE 432: I hadn't told him who owned the car. His hand was on a revolver in his
+LINE 433: pocket every minute he was in the house—" He broke off defiantly.
+LINE 434: "What if I did tell him? That fellow had it coming to him. He threw
+LINE 435: dust into your eyes just like he did in Daisy's, but he was a tough
+LINE 436: one. He ran over Myrtle like you'd run over a dog and never even
+LINE 437: stopped his car."
+LINE 438: There was nothing I could say, except the one unutterable fact that it
+LINE 439: wasn't true.
+LINE 440: "And if you think I didn't have my share of suffering—look here, when
+LINE 441: I went to give up that flat and saw that damn box of dog biscuits
+LINE 442: sitting there on the sideboard, I sat down and cried like a baby. By
+LINE 443: God it was awful—"
+LINE 444: I couldn't forgive him or like him, but I saw that what he had done
+LINE 445: was, to him, entirely justified. It was all very careless and
+LINE 446: confused. They were careless people, Tom and Daisy—they smashed up
+LINE 447: things and creatures and then retreated back into their money or their
+LINE 448: vast carelessness, or whatever it was that kept them together, and let
+LINE 449: other people clean up the mess they had made …
+LINE 450: I shook hands with him; it seemed silly not to, for I felt suddenly as
+LINE 451: though I were talking to a child. Then he went into the jewellery
+LINE 452: store to buy a pearl necklace—or perhaps only a pair of cuff
+LINE 453: buttons—rid of my provincial squeamishness forever.
+LINE 454: ------------------------------------------------------------------------
+LINE 455: Gatsby's house was still empty when I left—the grass on his lawn had
+LINE 456: grown as long as mine. One of the taxi drivers in the village never
+LINE 457: took a fare past the entrance gate without stopping for a minute and
+LINE 458: pointing inside; perhaps it was he who drove Daisy and Gatsby over to
+LINE 459: East Egg the night of the accident, and perhaps he had made a story
+LINE 460: about it all his own. I didn't want to hear it and I avoided him when
+LINE 461: I got off the train.
+LINE 462: I spent my Saturday nights in New York because those gleaming,
+LINE 463: dazzling parties of his were with me so vividly that I could still
+LINE 464: hear the music and the laughter, faint and incessant, from his garden,
+LINE 465: and the cars going up and down his drive. One night I did hear a
+LINE 466: material car there, and saw its lights stop at his front steps. But I
+LINE 467: didn't investigate. Probably it was some final guest who had been away
+LINE 468: at the ends of the earth and didn't know that the party was over.
+LINE 469: On the last night, with my trunk packed and my car sold to the grocer,
+LINE 470: I went over and looked at that huge incoherent failure of a house once
+LINE 471: more. On the white steps an obscene word, scrawled by some boy with a
+LINE 472: piece of brick, stood out clearly in the moonlight, and I erased it,
+LINE 473: drawing my shoe raspingly along the stone. Then I wandered down to the
+LINE 474: beach and sprawled out on the sand.
+LINE 475: Most of the big shore places were closed now and there were hardly any
+LINE 476: lights except the shadowy, moving glow of a ferryboat across the
+LINE 477: Sound. And as the moon rose higher the inessential houses began to
+LINE 478: melt away until gradually I became aware of the old island here that
+LINE 479: flowered once for Dutch sailors' eyes—a fresh, green breast of the new
+LINE 480: world. Its vanished trees, the trees that had made way for Gatsby's
+LINE 481: house, had once pandered in whispers to the last and greatest of all
+LINE 482: human dreams; for a transitory enchanted moment man must have held his
+LINE 483: breath in the presence of this continent, compelled into an aesthetic
+LINE 484: contemplation he neither understood nor desired, face to face for the
+LINE 485: last time in history with something commensurate to his capacity for
+LINE 486: wonder.
+LINE 487: And as I sat there brooding on the old, unknown world, I thought of
+LINE 488: Gatsby's wonder when he first picked out the green light at the end of
+LINE 489: Daisy's dock. He had come a long way to this blue lawn, and his dream
+LINE 490: must have seemed so close that he could hardly fail to grasp it. He
+LINE 491: did not know that it was already behind him, somewhere back in that
+LINE 492: vast obscurity beyond the city, where the dark fields of the republic
+LINE 493: rolled on under the night.
+LINE 494: Gatsby believed in the green light, the orgastic future that year by
+LINE 495: year recedes before us. It eluded us then, but that's no
+LINE 496: matter—tomorrow we will run faster, stretch out our arms further … And
+LINE 497: one fine morning—
+LINE 498: So we beat on, boats against the current, borne back ceaselessly into
+LINE 499: the past.

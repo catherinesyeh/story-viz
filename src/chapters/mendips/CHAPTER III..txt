@@ -1,0 +1,401 @@
+LINE 1: THE PALACE.
+LINE 2: The old baronial Palace of Wells, surrounded by its moat and reached by
+LINE 3: a drawbridge--not raised now as in olden times,--is in perfect harmony
+LINE 4: with the city in which it stands. In it, but not of it; for when once
+LINE 5: the gateway is passed, the near neighbourhood of the market-place is
+LINE 6: forgotten, such traffic as this little city knows is left behind; and
+LINE 7: the gardens of the Palace might well be supposed to be far from all
+LINE 8: human habitations, so complete is the repose which broods over it.
+LINE 9: Encircled by battlemented walls, and standing in a wide demesne, a
+LINE 10: stranger is at once struck with the unusual beauty of its surroundings.
+LINE 11: Mr. Arundel's admiration rather disconcerted his friend.
+LINE 12: "Come on, Arundel. Don't stare about like that; some of the family may
+LINE 13: be at the windows."
+LINE 14: But Mr. Arundel did not heed his friend's entreaty.
+LINE 15: "Come on; it is so like a country clodhopper to stand looking at a big
+LINE 16: house, as if you had never seen one before."
+LINE 17: "I never have seen one before, in the least like this big house," was
+LINE 18: the reply; "and what are those ruins? It is odd, Falconer, that you
+LINE 19: never prepared me for the beautiful things I was to find in
+LINE 20: Somersetshire."
+LINE 21: "It's a mighty damp place," Melville said. "Rheumatism and low fever
+LINE 22: haunt the servants' quarters, which are on a level with the moat; but,
+LINE 23: my dear fellow, do come on."
+LINE 24: "Can't we cross over to that old wall? It is like a glimpse of Paradise
+LINE 25: through there."
+LINE 26: "No, no, we must go up to the front like well-mannered folk. Come, don't
+LINE 27: be so obstinate, Arundel."
+LINE 28: Whether Melville would have succeeded in his attempts to draw his friend
+LINE 29: towards the entrance-porch, which stood in the centre of a long line of
+LINE 30: windows of the lower story of this side of the Palace, I do not know,
+LINE 31: had not a clerical figure in knee-breeches and shovel hat, been seen
+LINE 32: advancing over the emerald turf, and approaching the two young men.
+LINE 33: [Illustration: Gateway of the Bishop's Palace, Wells.]
+LINE 34: Melville began to show signs of nervousness, and the grand air which he
+LINE 35: maintained to his inferiors gave place to a rather servile and
+LINE 36: cringing manner, as he carefully removed his high narrow hat from his
+LINE 37: curled head and, bowing low, said:
+LINE 38: "My lord, my friend Mr. Arundel is anxious to pay his respects to you."
+LINE 39: The bishop looked with keen grey eyes at Melville, and said stiffly:
+LINE 40: "Mr. Falconer's son, I think?"
+LINE 41: "Yes, my lord; your lordship's humble servant," again bowing till the
+LINE 42: tails of his short-waisted coat stood up like those of a
+LINE 43: robin-redbreast.
+LINE 44: "Arundel, Arundel," the bishop repeated; "Arundel: the name is familiar
+LINE 45: to me."
+LINE 46: "My mother, my lord, had the honour of your lordship's acquaintance some
+LINE 47: years ago. She was Annabella Thorndeane."
+LINE 48: The bishop's somewhat stiff manner changed at once. He extended his
+LINE 49: hand, and said:
+LINE 50: "To have known your mother is to bear her always in affectionate
+LINE 51: remembrance. Where is she living?"
+LINE 52: "Since my father's death, my lord, my mother has had no settled home.
+LINE 53: She has lived within reach of me, first at Winchester, and then at
+LINE 54: Oxford. Now she will settle where I do."
+LINE 55: "And what profession are you taking, may I inquire?"
+LINE 56: "The law I believe; things are not yet decided, my lord; but there is
+LINE 57: some notion of a partnership in Bristol, when I have passed the needful
+LINE 58: examinations."
+LINE 59: "Well, well, we must have lawyers, and can no more do without them than
+LINE 60: doctors, eh?" All this time Melville had fidgeted, and felt annoyed at
+LINE 61: the bishop's coldness to him. "I am alone just now in the Palace;
+LINE 62: health, or rather the search for health, has taken the ladies to the
+LINE 63: east coast, a very distant spot--Cromer in Norfolk. But bracing was
+LINE 64: recommended, and our Western sea cannot come under that head. But will
+LINE 65: you walk round; I shall be pleased to show you over the grounds, and the
+LINE 66: gallery, where the portraits of my predecessors hang. One has the mark
+LINE 67: of a bullet in his cheek, caught in the battle of Sedgemoor. All our
+LINE 68: surroundings speak of warlike times, and there are moments now when I
+LINE 69: feel as if I would gladly pull up my drawbridge and have done with the
+LINE 70: world without. There is strife in the streets, and storms even in our
+LINE 71: little tea-cup, I can assure you."
+LINE 72: The bishop now led the way round to the gardens at which Arundel had
+LINE 73: looked with longing eyes through the ruins. Suddenly the bishop turned
+LINE 74: sharply on Melville, looking him down from head to foot with anything
+LINE 75: but an approving glance.
+LINE 76: "And what profession, sir, do you mean to take up?--law, like your
+LINE 77: friend--or what?"
+LINE 78: "I am going to travel for a year, my lord."
+LINE 79: "Travel! humph! Your good father has several sons, I think?"
+LINE 80: "Four younger sons, my lord; so much the worse for me."
+LINE 81: "I hope you set them a good example," said the bishop, drily. "I should
+LINE 82: venture to suggest that your father might want help with his estate."
+LINE 83: "He has a steward, my lord, an old servant."
+LINE 84: "Stewards mean money, don't they? and a gentleman with a small landed
+LINE 85: property cannot be overburdened with that article nowadays, more
+LINE 86: especially if he has five sons."
+LINE 87: Melville's brow clouded, and he would fain, if he had dared, given vent
+LINE 88: to some rather uncomplimentary adjectives, of which "old meddler" was
+LINE 89: one.
+LINE 90: "Here," said the bishop, "are the ruins of the old Hall, where, report
+LINE 91: says, the last abbot of Glastonbury was hanged. He was tried here by the
+LINE 92: king's orders, for suppression of some of the church lands which the
+LINE 93: king had seized. That," pointing to the end of the Palace, "is the part
+LINE 94: of the building which was blown down, or, rather, the roof blown in,
+LINE 95: upon one of my predecessors during the last century. Both Bishop Kidder
+LINE 96: and his wife were buried in their bed in the ruins. But not to dwell on
+LINE 97: these memories, I have pleasanter ones to recount. On that terrace walk,
+LINE 98: where we will now mount and take a view of the surrounding country, the
+LINE 99: pious Ken--that God-fearing and steadfast man--composed the hymns,
+LINE 100: which, morning and night, bring him to our minds."
+LINE 101: Melville Falconer had forgotten, if he had ever heard, those hymns; but
+LINE 102: Mr. Arundel said:
+LINE 103: "My mother will be interested, indeed, my lord, to hear I have been on
+LINE 104: the spot where those hymns had birth."
+LINE 105: "Ay," said the bishop; "and we must have her here one day and show her
+LINE 106: this fair place. One can imagine, as he gazed out on this prospect, that
+LINE 107: the saintly Ken was eager to call on every one to 'shake off dull
+LINE 108: sloth,' and rise early with the birds to offer the sacrifice of the
+LINE 109: morning."
+LINE 110: It was indeed a fair prospect towards which the bishop waved his hand.
+LINE 111: Fields of buttercups lay like burnished gold in the summer sunshine.
+LINE 112: Beyond these fields, known as the Bishop's Fields, was a belt of copse,
+LINE 113: and further still the grassy slopes of a hill, really of no very exalted
+LINE 114: height, but from its strongly defined outline and the sudden elevation
+LINE 115: of its steep sides from the valley below it, it assumes almost
+LINE 116: mountainous proportions, and is a striking feature in the landscape as
+LINE 117: seen from Wells and its neighbourhood. A wooded height, known as Tor
+LINE 118: Hill, rises nearer to the Palace, and then the line sweeps round to the
+LINE 119: Mendip range, which shuts in Wells on the north-east, and across which a
+LINE 120: long, straight road lies in the direction of Bristol.
+LINE 121: The bishop continued to chat pleasantly as he led his visitors along the
+LINE 122: broad terrace walk on the top of the battlemented wall. Then he passed
+LINE 123: down into the garden, and ascended a spiral stone staircase which led to
+LINE 124: a small ante-chamber, and then into the long gallery.
+LINE 125: This room is one of the principal features of the Palace at Wells, with
+LINE 126: its long line of small, deep bay windows, and its beautiful groined
+LINE 127: roof, the walls covered with portraits of many bishops who have held the
+LINE 128: see.
+LINE 129: Archbishop Laud looks down with a somewhat grim face, like a man who had
+LINE 130: set himself to endure hardness, and never flinch from the line he had
+LINE 131: marked out for himself. Saintly Ken, too, is there, and keen,
+LINE 132: thin-lipped Wolsey, who had not learned when he sat for that picture the
+LINE 133: bitter lesson which his old age brought him, not to put his trust in
+LINE 134: princes, or in any child of man.
+LINE 135: The war-like bishop, too, with the hole in his cheek, had, a very
+LINE 136: unwarlike expression.
+LINE 137: "A jolly old fellow!" Mr. Arundel remarked; "not like a man who cared to
+LINE 138: handle a musket or bayonet."
+LINE 139: "No; appearances are deceitful at times," the bishop said. "The stairs
+LINE 140: up which we came, open into my study, from that little ante-chamber; and
+LINE 141: I confess I should take flight by them and get into the chapel if by
+LINE 142: chance the Palace is besieged."
+LINE 143: "Not much fear of that," Melville said, "in these days."
+LINE 144: "These days are not as quiet as they may look, young sir. It strikes me,
+LINE 145: before you are grey-headed, there will be a desperate struggle between
+LINE 146: law and anarchy--between the king and the people. The horizon is dark
+LINE 147: enough. There are graver matters pressing than gewgaws and finery and
+LINE 148: personal indulgence. We are too much given in Wells to look upon it as
+LINE 149: the world, and refuse to believe in the near approach of the storm of
+LINE 150: which there are signs already, and not far from us. But, young
+LINE 151: gentlemen, I have an appointment, and must not delay if I wish to be
+LINE 152: punctual. I shall hope to see you again, Mr. Arundel. How long will you
+LINE 153: be in our neighbourhood?"
+LINE 154: "For a few days, my lord."
+LINE 155: "Well, well. I shall come out to Fair Acres with my son, and pay my
+LINE 156: respects to your excellent parents, Mr. Falconer, of whom I have heard
+LINE 157: much during my short residence in Wells."
+LINE 158: The young men felt that the time for departure had come, and taking
+LINE 159: leave of the bishop, they passed under the old gateway, and were again
+LINE 160: on the square of green turf which separated it from the cloister door.
+LINE 161: A row of noble elms skirted the moat, and Melville proposed that they
+LINE 162: should take a turn under them. The moat was full, and the stately swans
+LINE 163: came sailing towards the sloping bank, where two girls were standing.
+LINE 164: Quaint figures now we should think they were, with the short, plain
+LINE 165: skirts of their frocks bordered with a narrow frill, thin white
+LINE 166: stockings, which sandalled shoes displayed to advantage, and little
+LINE 167: tippets crossed over their shoulders surmounted by large gipsy hats or
+LINE 168: bonnets. But nothing could destroy the symmetry of the arm and hand,
+LINE 169: which was stretched out towards the swans with a bit of bread. And Mr.
+LINE 170: Arundel exclaimed:
+LINE 171: "There are the two girls we saw in the cathedral Falconer; one is your
+LINE 172: sister."
+LINE 173: Before Melville could rejoin, Joyce had turned, and now came forward to
+LINE 174: her brother with heightened colour, saying:
+LINE 175: "I think my father will be ready to go home now, Melville, and we had
+LINE 176: better go back to the Swan."
+LINE 177: Charlotte all this time had been posing before her grand cousin and his
+LINE 178: friend, hoping to attract his attention.
+LINE 179: "Introduce me, Falconer," Mr. Arundel said, standing with a native grace
+LINE 180: which characterised him, with his hat in his hand.
+LINE 181: "My sister," said Melville, carelessly, "and my cousin, Miss Benson;"
+LINE 182: and he was passing on to continue his walk towards the Bishop's Fields;
+LINE 183: but Mr. Arundel did not follow him.
+LINE 184: "Your sister says we shall be wanted at the Swan Inn, and must not
+LINE 185: linger by the live swans."
+LINE 186: "Oh, no; we are going to Fair Acres quite independently of my father. I
+LINE 187: have ordered our carriage; you ought to come to the end of the Moat,
+LINE 188: there is a fine view of Dulcot."
+LINE 189: But Mr. Arundel showed no intention of following his friend. "Nay," he
+LINE 190: said, "let me see the swans have the last bit of bun. See, they are
+LINE 191: coming for it. Do you always bring them buns?"
+LINE 192: "Not always; but I had a convenient halfpenny left from the change at
+LINE 193: Willmott's, so I went to buy a stale bun at the little shop in Saddler
+LINE 194: Street."
+LINE 195: "Happy swans to be so remembered!" Mr. Arundel said, as he watched the
+LINE 196: last wedge of the stale bun gobbled up by the master of the brood, while
+LINE 197: his wife gave him a savage peck with her black bill.
+LINE 198: "It is a pity they are so greedy; it spoils their beauty," Joyce said.
+LINE 199: Then, with sudden recollection, she said, "Oh! Charlotte, I have
+LINE 200: forgotten to take Piers' sparrow-hawk to Mr. Plume's. I must go at once
+LINE 201: to Aunt Letitia's and fetch it. I left it in the basket there."
+LINE 202: "Can I go and fetch the sparrow-hawk, Miss Falconer?" Mr. Arundel began.
+LINE 203: "Come, Arundel," Melville interrupted, "you and I can stroll round this
+LINE 204: moat; we are not returning, as I told you, with Joyce."
+LINE 205: But Mr. Arundel deliberately turned in the direction in which Joyce was
+LINE 206: hastening; and Charlotte, much to her cousin's vexation, was left with
+LINE 207: him.
+LINE 208: A muttered exclamation, which was not fit for ears polite to hear,
+LINE 209: escaped Melville's lips, and Charlotte's soft speeches were lost on
+LINE 210: him.
+LINE 211: "It is so nice to see you here, Cousin Melville. Won't you come and pay
+LINE 212: auntie a visit?"
+LINE 213: Melville had particularly desired to escape a visit to the Vicar's
+LINE 214: Close, but he began to fear it was inevitable.
+LINE 215: "Do tell me about college," Charlotte began. "I am dying to hear,
+LINE 216: because I have a special interest in college now." This was said with a
+LINE 217: smile and glance which were meant to make an impression. "And do you
+LINE 218: wear one of those sweet hoods with snow-white fur round it, Cousin
+LINE 219: Melville? They do look so pretty!"
+LINE 220: "Well--no," drawled Melville, evasively; "I have not taken my B.A. yet."
+LINE 221: "Mr. Bamfylde, the new minor Canon at the cathedral, wears one; and it
+LINE 222: is so charming!"
+LINE 223: "Humph!" Melville rejoined.
+LINE 224: What were all the minor canons in the world to him that he should care
+LINE 225: whether they wore fur-lined or silk-lined hoods at their backs?
+LINE 226: They had reached the turnstile now leading into the Cathedral Green.
+LINE 227: "I say," he began, "I think I must bid you good-bye here, Charlotte. I
+LINE 228: will call on Aunt Letitia another day, for I must look after the
+LINE 229: carriage. I am afraid there should be some mistake. I want a pair of
+LINE 230: greys to post with, and I should not wonder if they tried to pass off
+LINE 231: two old bays, with their bones just through their skins."
+LINE 232: And the next minute the fine gentleman was sauntering off in the
+LINE 233: opposite direction to poor Charlotte, who went away disconsolate.
+LINE 234: Meantime Mr. Arundel and Joyce had walked quickly to the Vicar's Close,
+LINE 235: and Joyce, having captured her basket with the dead bird, was surprised
+LINE 236: to find Mr. Arundel waiting for her at the little gate.
+LINE 237: "Mr. Plume's shop is in New Street," she said. "It is scarcely to be
+LINE 238: called a shop, but there are a few stuffed birds in the window. We must
+LINE 239: go up the steps by the chapel into the North Liberty."
+LINE 240: Mr. Arundel was struck with the business-like fashion in which Joyce
+LINE 241: conducted her interview with Mr. Plume.
+LINE 242: He was a little dried-up-looking man, whose front parlour had that
+LINE 243: peculiar scent which is characteristic of rooms where stuffed animals
+LINE 244: are kept.
+LINE 245: Mr. Plume did not confine himself to birds. A large fox, with gleaming
+LINE 246: teeth and glassy eyes, stared at the customers from a shelf in a recess
+LINE 247: by the fire-place. A badger was on another; and owls of all sizes and
+LINE 248: colours were standing, with one foot tucked up, and a certain stony
+LINE 249: stare in their great round, unshadowed eyes.
+LINE 250: Mr. Plume did not waste words.
+LINE 251: "Sparry-'awk," he said "sparry-'awk; it is of not great value, missie.
+LINE 252: Humph!" he continued, "it's not a rare speciment, but I'll set it up.
+LINE 253: How's the young gentleman, eh?"
+LINE 254: "Quite well, thank you, Mr. Plume; and please have the bird ready by the
+LINE 255: next time we come into Wells. We must not stop now; but what a noise
+LINE 256: those men are making."
+LINE 257: As she spoke, Mr. Arundel went out to the door, and Joyce, peeping
+LINE 258: through the cases in the window, saw a cart being dragged up the hill
+LINE 259: towards the Bristol Road by four rough-looking men. Another huge man sat
+LINE 260: in the cart, his head lolling upon his breast, evidently the worse for
+LINE 261: drink. A few wild-looking men and boys and a lean pony followed; and two
+LINE 262: or three women, with their hair hanging down their backs, brought up the
+LINE 263: rear; and all were shouting at the top of their voices some rhyme, the
+LINE 264: drift of which was, that the justices had got the worst of it, and that
+LINE 265: Bob was free.
+LINE 266: "What does it all mean?" Mr. Arundel said.
+LINE 267: "Oh, it's only some of the rough Mendip folk. One of 'em was taken up
+LINE 268: for snaring rabbits, and there was a great row. I suppose the justices
+LINE 269: have let him off--afraid to do anything else. There is a deal of
+LINE 270: ill-blood in them parts; and they say it's even worse in the cities than
+LINE 271: what it is in the country. Dear me!" said Mr. Plume, stroking the back
+LINE 272: of a stuffed spaniel which was handy. "It's a thousand pities folks
+LINE 273: can't mind their own business, instead of annoying respectable folks.
+LINE 274: Good-day to you, Miss Falconer. Good-day to you, sir."
+LINE 275: When outside the shop Joyce paused and watched the straggling crowd wind
+LINE 276: up the steep hill.
+LINE 277: "It is dreadful to see people like this," she said, with a sigh. "I must
+LINE 278: ask father about it; for he has been sitting on the bench to-day. I hope
+LINE 279: they are not angry with him."
+LINE 280: "I hope not," Mr. Arundel said; "they look little better than savages,
+LINE 281: and would knock any one on the head for a trifle."
+LINE 282: "We must make haste," Joyce said, "for father does not like to be kept
+LINE 283: waiting, and mother expects us home to tea. I dare say we shall get to
+LINE 284: Fair Acres before you do."
+LINE 285: "Why can't we all drive together?" Mr. Arundel asked.
+LINE 286: Joyce hesitated a moment, but only for a moment.
+LINE 287: "You are thought too grand to drive in our four-wheel," she said,
+LINE 288: smiling.
+LINE 289: "Grand! Who said so?"
+LINE 290: "Melville, of course. He said you would be shocked to rumble and jolt
+LINE 291: over the roads, and that your luggage must go on the roof of the
+LINE 292: post-chaise."
+LINE 293: Mr. Arundel laughed a merry, pleasant laugh, and said:
+LINE 294: "I am sorry your brother should have given you such a bad account of me.
+LINE 295: Poor fellow!"
+LINE 296: Joyce looked up quickly.
+LINE 297: "Then you don't think exactly as Melville does?"
+LINE 298: "No, I hope not," was the reply.
+LINE 299: "But he is a friend of yours, is not he?"
+LINE 300: "Yes, he is a friend--up to a certain point. Do not think me
+LINE 301: ungracious."
+LINE 302: "Oh! no. I understand."
+LINE 303: "Melville thinks a great deal of you, and is so proud that you have come
+LINE 304: here. I am glad you have come also, now I have seen you, though when I
+LINE 305: first heard you were coming I dreaded it; and so did mother. But I must
+LINE 306: not stop to talk any more now, except to ask you to make mother feel as
+LINE 307: you have made me feel, that you are not so very grand, after all."
+LINE 308: The squire was seen at the door of the Crown as Joyce and Mr. Arundel
+LINE 309: turned into Saddler Street, and Joyce ran quickly towards him. Her
+LINE 310: father waved his hand impatiently.
+LINE 311: [Illustration: S. Cuthbert's, Wells.]
+LINE 312: "Come, Joyce; come, make haste!"
+LINE 313: In another moment she had mounted to her seat by his side, and they were
+LINE 314: off at a quick trot. The good old horse knew that her head was turned
+LINE 315: homewards and went cheerily down the High Street, past the noble
+LINE 316: church of St. Cuthbert, where there was no traffic to impede its
+LINE 317: progress.
+LINE 318: The squire was silent until they were fairly out of the town, when he
+LINE 319: said:
+LINE 320: "So your grand brother can't ride in his father's carriage! He and his
+LINE 321: fine friend may pay for the chaise; I shall not."
+LINE 322: "I do not think the friend is fine after all," Joyce said; "he laughed
+LINE 323: at the idea of the post-chaise."
+LINE 324: The squire cracked his whip impatiently.
+LINE 325: "He may well laugh. Ah! little Joyce, there are many graver questions at
+LINE 326: issue than the freaks of an over-indulged, reckless boy like Melville.
+LINE 327: We had a stormy scene in the court to-day. That man who was let off a
+LINE 328: month, in gaol richly deserved punishment; but there was a division on
+LINE 329: the bench and my conviction was overruled."
+LINE 330: "Oh!" Joyce exclaimed, "I saw a crowd of rough people going up the
+LINE 331: Bristol Road; they had taken a pony out of a cart, and were dragging it
+LINE 332: up the hill, with a man in it, who was half asleep."
+LINE 333: "Half drunk," said the squire; "that is more likely. They are a rough
+LINE 334: lot on Mendip, more like savages than the inhabitants of a civilised
+LINE 335: country."
+LINE 336: "What is to be done to make them better, father? Has not Mrs. More tried
+LINE 337: to get the children taught?"
+LINE 338: "Yes, she has been trying for years to make the schools succeed; but
+LINE 339: there is plenty of labour and little to show for it."
+LINE 340: "Perhaps," said Joyce, "there is some good done, though we don't see it.
+LINE 341: It is always easier to see bad things than good ones; so easy to see
+LINE 342: faults in those about us, and to be blind to their goodness."
+LINE 343: The squire laughed; between this father and daughter there existed a
+LINE 344: sympathetic friendship wholly independent of the natural tie of parent
+LINE 345: and child.
+LINE 346: "You are right, Joyce, quite right; but I am afraid one does not need
+LINE 347: glasses to find out the bad things."
+LINE 348: "Father, let us put them on to find the good ones, then," Joyce
+LINE 349: rejoined.
+LINE 350: The squire leaned back, and let the old horse go her own pace, and her
+LINE 351: own way.
+LINE 352: "Ah! my little Joyce, that is wise advice. Thank God, I need no
+LINE 353: spectacles to find out the good in _you_. I look to you to keep things
+LINE 354: smooth at home for the next few days, and to help me to do the same. I
+LINE 355: am quick-tempered, I know, and when I flare out, I am sorry afterwards."
+LINE 356: "You don't often 'flare out,' as you say, to _me_, dear dad."
+LINE 357: "What did your aunt say to you to-day?--called you her 'rustic,' I'll
+LINE 358: answer for it."
+LINE 359: "Oh, yes, of course she did; and she wants me to pay a grand visit to
+LINE 360: Barley Wood."
+LINE 361: "To Barley Wood!--to Mrs. Hannah More! Mother won't hear of it. Your
+LINE 362: aunt had better not meddle. What do you think about it yourself?"
+LINE 363: "I should like to pay a visit--a _short_ visit--to Barley Wood. That is
+LINE 364: quite different from going to school. But with the boys coming home, and
+LINE 365: Melville and his friend at Fair Acres, I doubt if I could be spared. It
+LINE 366: might do me good to go, father; I mean, make me all the more useful at
+LINE 367: home afterwards."
+LINE 368: "What do you expect Mrs. Hannah More to do to you?--cut you into a
+LINE 369: pattern, as she would cut an old woman's cloak, eh? However, if you wish
+LINE 370: to go, and any more is said, I'll manage it for you. Perhaps no more
+LINE 371: _will_ be said; your aunt is just as likely to forget all about it."
+LINE 372: "Yes, I know that," Joyce said, with a little ring of disappointment in
+LINE 373: her voice.
+LINE 374: "I'll tell you what pattern I would not have you cut into on any
+LINE 375: account; and that is poor die-away, languishing Charlotte Benson. Poor
+LINE 376: thing! if she is a specimen of boarding-schools and accomplishments, I
+LINE 377: would sooner have Jane Watson for a daughter."
+LINE 378: "Charlotte paints flowers very well, father," Joyce said; "and she has
+LINE 379: worked a figure in Berlin wool of a woman in a red gown feeding
+LINE 380: chickens; and----"
+LINE 381: They had been jogging along at a very leisurely pace, and the sound of
+LINE 382: fast-trotting horses made Joyce look back.
+LINE 383: "To the right, father! quick! it's the post-chaise from the Swan."
+LINE 384: The squire pulled up towards the high hedge, and the post-chaise dashed
+LINE 385: past, the luggage behind, and the two young men lying back in it. The
+LINE 386: gates of Fair Acres were in sight, and the carriage turned in with an
+LINE 387: imposing flourish of the post-boy's whip.
+LINE 388: "Look here, Joyce, that is a sign of the times. That poor foolish
+LINE 389: popinjay of ours is only drifting on with the tide. He has brought
+LINE 390: another young fellow, I daresay, as idle as himself, to eat my bread and
+LINE 391: give himself airs. Well, I will put up with it for a week, and then
+LINE 392: _both_ have notice to quit; nor do I desire to see either of them darken
+LINE 393: my door again. Melville shall travel if he likes, but it shall be across
+LINE 394: the water--to America, where, if a little of this nonsense is not
+LINE 395: knocked out of him, my name is not Arthur Falconer."
+LINE 396: With this outburst of masculine indignation the squire subsided, and
+LINE 397: then quietly drove round to the stables, while the post-chaise was
+LINE 398: being unloaded at the front door; and Melville was giving the post-boy
+LINE 399: as large a "douceur"--or, as we should have it called in these days, a
+LINE 400: "tip"--as befitted the imitator of the first gentleman in Europe.
+LINE 401: [Illustration]

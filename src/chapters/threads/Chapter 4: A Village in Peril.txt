@@ -1,0 +1,126 @@
+LINE 1: Elara had barely stepped into the village square when she noticed something was
+LINE 2: wrong. The air buzzed with unease, the usual chatter of the market subdued, and
+LINE 3: the villagers' faces lined with worry. They spoke in hushed tones, casting
+LINE 4: furtive glances around, as if afraid of being overheard by some unseen force.
+LINE 5: Elara's heart clenched. She knew that her recent work—her weaving of fate—had
+LINE 6: not gone unnoticed.
+LINE 7: She moved through the square cautiously, her eyes scanning the crowd for
+LINE 8: familiar faces. Whispers followed her like shadows. She caught fragments of
+LINE 9: conversations—words like "strange" and "magic" floated on the wind, making her
+LINE 10: stomach twist. The village had always been a quiet, superstitious place, but
+LINE 11: now, after the fire in Glenth, things felt different. The unease was thick,
+LINE 12: tangible.
+LINE 13: "Elara!" a voice called, breaking through the murmurs. She turned to see Mayor
+LINE 14: Felin approaching her, his face grim, his brows furrowed in deep concern. He
+LINE 15: was a tall, imposing figure, though normally kind-hearted. Today, however,
+LINE 16: there was no warmth in his gaze. "I've been looking for you."
+LINE 17: Elara's throat tightened. "Is something wrong, Mayor?"
+LINE 18: Felin's jaw clenched as he gestured for her to walk with him, leading her to
+LINE 19: the quieter edge of the square. His voice was low, but the accusation was
+LINE 20: clear. "There have been... strange occurrences lately. Things we can't explain.
+LINE 21: People are starting to worry."
+LINE 22: She swallowed, trying to keep her voice steady. "What kind of things?"
+LINE 23: Felin crossed his arms, his expression hardening. "Crops are withering. Animals
+LINE 24: are falling ill. Just this morning, Liza told me of a family that woke to find
+LINE 25: their well dried up overnight." He met her eyes, his gaze sharp. "And ever
+LINE 26: since the fire in Glenth, people have been wondering if it's all connected."
+LINE 27: Elara's stomach churned. The weight of his words pressed down on her, and she
+LINE 28: felt the familiar dread rising in her chest. "You think it has something to do
+LINE 29: with me," she whispered, though it wasn't a question.
+LINE 30: "I'm not saying that," Felin replied, though the look in his eyes suggested
+LINE 31: otherwise. "But the villagers... they're starting to talk. They've noticed the
+LINE 32: way you've been keeping to yourself. The way you've stopped weaving." He
+LINE 33: sighed, rubbing a hand over his face. "You've always been a part of this
+LINE 34: village, Elara. But now people are scared."
+LINE 35: Elara felt her pulse quicken. She wanted to deny it, to insist that her weaving
+LINE 36: had nothing to do with the strange events. But deep down, she feared it was
+LINE 37: true. The power she had wielded, the fate she had woven—it was spiraling out of
+LINE 38: control. "I don't know what's happening," she said softly, her voice barely
+LINE 39: above a whisper. "But I never meant for any of this."
+LINE 40: Felin's expression softened slightly, but the worry remained. "Then help us
+LINE 41: figure it out, Elara. If you have any idea how to stop this, you need to try.
+LINE 42: Before things get worse."
+LINE 43: The wheat fields stretched out before Elara, a golden sea under the pale
+LINE 44: morning sun. Normally, the sight would have brought her comfort, the familiar
+LINE 45: sight of the crops swaying in the breeze a reminder of the simple, steady
+LINE 46: rhythm of village life. But today, the fields were quiet, unnaturally still.
+LINE 47: The wheat, once tall and vibrant, now sagged, its golden hue dull and lifeless.
+LINE 48: Elara stood at the edge of the field, her heart sinking at the sight. She had
+LINE 49: heard the rumors, but seeing it with her own eyes made it real. Something was
+LINE 50: terribly wrong. The crops were dying, and she feared she knew why.
+LINE 51: A voice broke the silence, harsh and accusatory. "You did this."
+LINE 52: Elara turned to see Rurik, the village blacksmith, standing a few paces behind
+LINE 53: her. His broad frame was tense, his fists clenched at his sides, and his eyes
+LINE 54: burned with anger. Rurik had always been quick to temper, but this was
+LINE 55: different. This was hatred.
+LINE 56: "I... I didn't," Elara stammered, though even she wasn't sure if it was the
+LINE 57: truth. "I don't know what's happening, but—"
+LINE 58: "You don't know?" Rurik spat, his voice rising. "Ever since you started
+LINE 59: meddling with your tapestries, things have been going wrong. First Glenth
+LINE 60: burns, and now our fields are dying. Don't pretend you don't know what you've
+LINE 61: done!"
+LINE 62: Elara's chest tightened. She could feel the weight of Rurik's accusations
+LINE 63: pressing down on her, could see the doubt in his eyes. "I never meant for any
+LINE 64: of this to happen," she said, her voice trembling. "I didn't want—"
+LINE 65: "Didn't want what?" Rurik snarled, stepping closer. "Didn't want to see our
+LINE 66: village fall apart? Didn't want to curse us with your magic? You should have
+LINE 67: left well enough alone, Elara. But now... now it's too late."
+LINE 68: Elara took a step back, her heart pounding in her chest. She could feel the
+LINE 69: anger radiating from Rurik, the distrust that had taken root in his heart. And
+LINE 70: she knew, deep down, that he wasn't the only one who felt this way.
+LINE 71: Before she could respond, Rurik turned and stormed off, his heavy footsteps
+LINE 72: echoing in the quiet field. Elara stood there, her hands trembling at her
+LINE 73: sides, her mind racing. She had no answers, no solutions. All she had was the
+LINE 74: terrible knowledge that something had gone horribly wrong—and she was powerless
+LINE 75: to stop it.
+LINE 76: The village square was crowded when Elara returned, the usual hum of the market
+LINE 77: replaced by a thick, tense silence. People stood in clusters, whispering to one
+LINE 78: another, casting nervous glances toward the center of the square where a small
+LINE 79: group of villagers had gathered. At the heart of it all stood Rurik, his voice
+LINE 80: booming as he spoke to the crowd, his words sharp and filled with anger.
+LINE 81: Elara's stomach twisted as she made her way through the crowd, her heart
+LINE 82: pounding in her chest. She had a sinking feeling that she knew exactly what
+LINE 83: this was about.
+LINE 84: "She's the one responsible," Rurik was saying, his voice carrying over the
+LINE 85: hushed murmurs of the villagers. "Ever since she started weaving those cursed
+LINE 86: tapestries, everything's gone wrong. The crops are failing, the animals are
+LINE 87: dying, and the fire in Glenth—none of it is a coincidence."
+LINE 88: Elara's breath caught in her throat as she stepped into the clearing, her eyes
+LINE 89: locking with Rurik's. He sneered at her, his hands clenched into fists. "There
+LINE 90: she is. The weaver of fate. The one who's been playing with powers she doesn't
+LINE 91: understand."
+LINE 92: The crowd murmured in agreement, their eyes turning toward Elara with suspicion
+LINE 93: and fear. She could feel their distrust like a physical force, pressing down on
+LINE 94: her, suffocating her.
+LINE 95: "I didn't cause this," she said, her voice shaking but firm. "I never wanted
+LINE 96: any of this to happen. You have to believe me."
+LINE 97: Rurik's laugh was cold and bitter. "Believe you? How can we believe you when
+LINE 98: everything around us is falling apart? We've seen the way you've been hiding,
+LINE 99: the way you've stopped weaving. You're guilty, Elara. Whether you meant to or
+LINE 100: not, you've brought this curse upon us."
+LINE 101: Mayor Felin stepped forward, his face grim as he addressed the crowd.
+LINE 102: "Everyone, please," he said, his voice calm but authoritative. "We need to stay
+LINE 103: calm and figure this out together."
+LINE 104: But Rurik wasn't listening. He stepped toward Elara, his eyes burning with
+LINE 105: rage. "You're dangerous," he growled. "And I, for one, won't stand by and watch
+LINE 106: you destroy this village."
+LINE 107: Before anyone could react, Rurik lunged at her, his hand reaching for her arm.
+LINE 108: Elara stumbled back, her heart racing in terror. But before he could grab her,
+LINE 109: someone stepped between them—Liza, the village healer.
+LINE 110: "Stop this!" Liza shouted, her voice strong and unwavering. "This isn't the
+LINE 111: way."
+LINE 112: Rurik hesitated, his eyes narrowing. "She's cursed us," he spat. "We can't just
+LINE 113: stand by and do nothing."
+LINE 114: Liza held her ground, her gaze steady. "We don't know that for sure. And even
+LINE 115: if she has some power, violence won't solve anything. We need to figure out
+LINE 116: what's really going on."
+LINE 117: Rurik scowled, but he didn't argue. Instead, he stormed off, muttering under
+LINE 118: his breath as the crowd began to disperse. Elara stood frozen, her heart still
+LINE 119: racing, her mind swirling with fear and confusion. She had never felt so alone,
+LINE 120: so lost. The village had turned against her, and she didn't know how to fix it.
+LINE 121: As Liza turned to face her, Elara could see the sympathy in her eyes. "We'll
+LINE 122: figure this out," Liza said softly, her hand resting gently on Elara's arm.
+LINE 123: "But you need to be honest with us. If there's anything you know—anything you
+LINE 124: can do to help—you need to tell us."
+LINE 125: Elara nodded, though she wasn't sure if there was anything she could say that
+LINE 126: would make things right.

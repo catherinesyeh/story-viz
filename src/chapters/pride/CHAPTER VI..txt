@@ -1,0 +1,210 @@
+LINE 1: The ladies of Longbourn soon waited on those of Netherfield. The visit
+LINE 2: was returned in due form. Miss Bennet's pleasing manners grew on the
+LINE 3: good will of Mrs. Hurst and Miss Bingley; and though the mother was
+LINE 4: found to be intolerable and the younger sisters not worth speaking to, a
+LINE 5: wish of being better acquainted with _them_, was expressed towards the
+LINE 6: two eldest. By Jane this attention was received with the greatest
+LINE 7: pleasure; but Elizabeth still saw superciliousness in their treatment of
+LINE 8: every body, hardly excepting even her sister, and could not like them;
+LINE 9: though their kindness to Jane, such as it was, had a value as arising in
+LINE 10: all probability from the influence of their brother's admiration. It was
+LINE 11: generally evident whenever they met, that he _did_ admire her; and to
+LINE 12: _her_ it was equally evident that Jane was yielding to the preference
+LINE 13: which she had begun to entertain for him from the first, and was in a
+LINE 14: way to be very much in love; but she considered with pleasure that it
+LINE 15: was not likely to be discovered by the world in general, since Jane
+LINE 16: united with great strength of feeling, a composure of temper and a
+LINE 17: uniform cheerfulness of manner, which would guard her from the
+LINE 18: suspicions of the impertinent. She mentioned this to her friend Miss
+LINE 19: Lucas.
+LINE 20: "It may perhaps be pleasant," replied Charlotte, "to be able to impose
+LINE 21: on the public in such a case; but it is sometimes a disadvantage to be
+LINE 22: so very guarded. If a woman conceals her affection with the same skill
+LINE 23: from the object of it, she may lose the opportunity of fixing him; and
+LINE 24: it will then be but poor consolation to believe the world equally in the
+LINE 25: dark. There is so much of gratitude or vanity in almost every
+LINE 26: attachment, that it is not safe to leave any to itself. We can all
+LINE 27: _begin_ freely--a slight preference is natural enough; but there are
+LINE 28: very few of us who have heart enough to be really in love without
+LINE 29: encouragement. In nine cases out of ten, a woman had better shew _more_
+LINE 30: affection than she feels. Bingley likes your sister undoubtedly; but he
+LINE 31: may never do more than like her, if she does not help him on."
+LINE 32: "But she does help him on, as much as her nature will allow. If _I_ can
+LINE 33: perceive her regard for him, he must be a simpleton indeed not to
+LINE 34: discover it too."
+LINE 35: "Remember, Eliza, that he does not know Jane's disposition as you do."
+LINE 36: "But if a woman is partial to a man, and does not endeavour to conceal
+LINE 37: it, he must find it out."
+LINE 38: "Perhaps he must, if he sees enough of her. But though Bingley and Jane
+LINE 39: meet tolerably often, it is never for many hours together; and as they
+LINE 40: always see each other in large mixed parties, it is impossible that
+LINE 41: every moment should be employed in conversing together. Jane should
+LINE 42: therefore make the most of every half hour in which she can command his
+LINE 43: attention. When she is secure of him, there will be leisure for falling
+LINE 44: in love as much as she chuses."
+LINE 45: "Your plan is a good one," replied Elizabeth, "where nothing is in
+LINE 46: question but the desire of being well married; and if I were determined
+LINE 47: to get a rich husband, or any husband, I dare say I should adopt it. But
+LINE 48: these are not Jane's feelings; she is not acting by design. As yet, she
+LINE 49: cannot even be certain of the degree of her own regard, nor of its
+LINE 50: reasonableness. She has known him only a fortnight. She danced four
+LINE 51: dances with him at Meryton; she saw him one morning at his own house,
+LINE 52: and has since dined in company with him four times. This is not quite
+LINE 53: enough to make her understand his character."
+LINE 54: "Not as you represent it. Had she merely _dined_ with him, she might
+LINE 55: only have discovered whether he had a good appetite; but you must
+LINE 56: remember that four evenings have been also spent together--and four
+LINE 57: evenings may do a great deal."
+LINE 58: "Yes; these four evenings have enabled them to ascertain that they both
+LINE 59: like Vingt-un better than Commerce; but with respect to any other
+LINE 60: leading characteristic, I do not imagine that much has been unfolded."
+LINE 61: "Well," said Charlotte, "I wish Jane success with all my heart; and if
+LINE 62: she were married to him to-morrow, I should think she had as good a
+LINE 63: chance of happiness, as if she were to be studying his character for a
+LINE 64: twelvemonth. Happiness in marriage is entirely a matter of chance. If
+LINE 65: the dispositions of the parties are ever so well known to each other, or
+LINE 66: ever so similar before-hand, it does not advance their felicity in the
+LINE 67: least. They always continue to grow sufficiently unlike afterwards to
+LINE 68: have their share of vexation; and it is better to know as little as
+LINE 69: possible of the defects of the person with whom you are to pass your
+LINE 70: life."
+LINE 71: "You make me laugh, Charlotte; but it is not sound. You know it is not
+LINE 72: sound, and that you would never act in this way yourself."
+LINE 73: Occupied in observing Mr. Bingley's attentions to her sister, Elizabeth
+LINE 74: was far from suspecting that she was herself becoming an object of some
+LINE 75: interest in the eyes of his friend. Mr. Darcy had at first scarcely
+LINE 76: allowed her to be pretty; he had looked at her without admiration at the
+LINE 77: ball; and when they next met, he looked at her only to criticise. But no
+LINE 78: sooner had he made it clear to himself and his friends that she had
+LINE 79: hardly a good feature in her face, than he began to find it was rendered
+LINE 80: uncommonly intelligent by the beautiful expression of her dark eyes. To
+LINE 81: this discovery succeeded some others equally mortifying. Though he had
+LINE 82: detected with a critical eye more than one failure of perfect symmetry
+LINE 83: in her form, he was forced to acknowledge her figure to be light and
+LINE 84: pleasing; and in spite of his asserting that her manners were not those
+LINE 85: of the fashionable world, he was caught by their easy playfulness. Of
+LINE 86: this she was perfectly unaware;--to her he was only the man who made
+LINE 87: himself agreeable no where, and who had not thought her handsome enough
+LINE 88: to dance with.
+LINE 89: He began to wish to know more of her, and as a step towards conversing
+LINE 90: with her himself, attended to her conversation with others. His doing so
+LINE 91: drew her notice. It was at Sir William Lucas's, where a large party were
+LINE 92: assembled.
+LINE 93: "What does Mr. Darcy mean," said she to Charlotte, "by listening to my
+LINE 94: conversation with Colonel Forster?"
+LINE 95: "That is a question which Mr. Darcy only can answer."
+LINE 96: "But if he does it any more I shall certainly let him know that I see
+LINE 97: what he is about. He has a very satirical eye, and if I do not begin by
+LINE 98: being impertinent myself, I shall soon grow afraid of him."
+LINE 99: On his approaching them soon afterwards, though without seeming to have
+LINE 100: any intention of speaking, Miss Lucas defied her friend to mention such
+LINE 101: a subject to him, which immediately provoking Elizabeth to do it, she
+LINE 102: turned to him and said,
+LINE 103: "Did not you think, Mr. Darcy, that I expressed myself uncommonly well
+LINE 104: just now, when I was teazing Colonel Forster to give us a ball at
+LINE 105: Meryton?"
+LINE 106: "With great energy;--but it is a subject which always makes a lady
+LINE 107: energetic."
+LINE 108: "You are severe on us."
+LINE 109: "It will be _her_ turn soon to be teazed," said Miss Lucas. "I am going
+LINE 110: to open the instrument, Eliza, and you know what follows."
+LINE 111: "You are a very strange creature by way of a friend!--always wanting me
+LINE 112: to play and sing before any body and every body!--If my vanity had taken
+LINE 113: a musical turn, you would have been invaluable, but as it is, I would
+LINE 114: really rather not sit down before those who must be in the habit of
+LINE 115: hearing the very best performers." On Miss Lucas's persevering, however,
+LINE 116: she added, "Very well; if it must be so, it must." And gravely glancing
+LINE 117: at Mr. Darcy, "There is a fine old saying, which every body here is of
+LINE 118: course familiar with--'Keep your breath to cool your porridge,'--and I
+LINE 119: shall keep mine to swell my song."
+LINE 120: Her performance was pleasing, though by no means capital. After a song
+LINE 121: or two, and before she could reply to the entreaties of several that she
+LINE 122: would sing again, she was eagerly succeeded at the instrument by her
+LINE 123: sister Mary, who having, in consequence of being the only plain one in
+LINE 124: the family, worked hard for knowledge and accomplishments, was always
+LINE 125: impatient for display.
+LINE 126: Mary had neither genius nor taste; and though vanity had given her
+LINE 127: application, it had given her likewise a pedantic air and conceited
+LINE 128: manner, which would have injured a higher degree of excellence than she
+LINE 129: had reached. Elizabeth, easy and unaffected, had been listened to with
+LINE 130: much more pleasure, though not playing half so well; and Mary, at the
+LINE 131: end of a long concerto, was glad to purchase praise and gratitude by
+LINE 132: Scotch and Irish airs, at the request of her younger sisters, who with
+LINE 133: some of the Lucases and two or three officers joined eagerly in dancing
+LINE 134: at one end of the room.
+LINE 135: Mr. Darcy stood near them in silent indignation at such a mode of
+LINE 136: passing the evening, to the exclusion of all conversation, and was too
+LINE 137: much engrossed by his own thoughts to perceive that Sir William Lucas
+LINE 138: was his neighbour, till Sir William thus began.
+LINE 139: "What a charming amusement for young people this is, Mr. Darcy!--There
+LINE 140: is nothing like dancing after all.--I consider it as one of the first
+LINE 141: refinements of polished societies."
+LINE 142: "Certainly, Sir;--and it has the advantage also of being in vogue
+LINE 143: amongst the less polished societies of the world.--Every savage can
+LINE 144: dance."
+LINE 145: Sir William only smiled. "Your friend performs delightfully;" he
+LINE 146: continued after a pause, on seeing Bingley join the group;--"and I doubt
+LINE 147: not that you are an adept in the science yourself, Mr. Darcy."
+LINE 148: "You saw me dance at Meryton, I believe, Sir."
+LINE 149: "Yes, indeed, and received no inconsiderable pleasure from the sight. Do
+LINE 150: you often dance at St. James's?"
+LINE 151: "Never, sir."
+LINE 152: "Do you not think it would be a proper compliment to the place?"
+LINE 153: "It is a compliment which I never pay to any place if I can avoid it."
+LINE 154: "You have a house in town, I conclude?"
+LINE 155: Mr. Darcy bowed.
+LINE 156: "I had once some thoughts of fixing in town myself--for I am fond of
+LINE 157: superior society; but I did not feel quite certain that the air of
+LINE 158: London would agree with Lady Lucas."
+LINE 159: He paused in hopes of an answer; but his companion was not disposed to
+LINE 160: make any; and Elizabeth at that instant moving towards them, he was
+LINE 161: struck with the notion of doing a very gallant thing, and called out to
+LINE 162: her,
+LINE 163: "My dear Miss Eliza, why are not you dancing?--Mr. Darcy, you must allow
+LINE 164: me to present this young lady to you as a very desirable partner.--You
+LINE 165: cannot refuse to dance, I am sure, when so much beauty is before you."
+LINE 166: And taking her hand, he would have given it to Mr. Darcy, who, though
+LINE 167: extremely surprised, was not unwilling to receive it, when she instantly
+LINE 168: drew back, and said with some discomposure to Sir William,
+LINE 169: "Indeed, Sir, I have not the least intention of dancing.--I entreat you
+LINE 170: not to suppose that I moved this way in order to beg for a partner."
+LINE 171: Mr. Darcy with grave propriety requested to be allowed the honour of her
+LINE 172: hand; but in vain. Elizabeth was determined; nor did Sir William at all
+LINE 173: shake her purpose by his attempt at persuasion.
+LINE 174: "You excel so much in the dance, Miss Eliza, that it is cruel to deny me
+LINE 175: the happiness of seeing you; and though this gentleman dislikes the
+LINE 176: amusement in general, he can have no objection, I am sure, to oblige us
+LINE 177: for one half hour."
+LINE 178: "Mr. Darcy is all politeness," said Elizabeth, smiling.
+LINE 179: "He is indeed--but considering the inducement, my dear Miss Eliza, we
+LINE 180: cannot wonder at his complaisance; for who would object to such a
+LINE 181: partner?"
+LINE 182: Elizabeth looked archly, and turned away. Her resistance had not
+LINE 183: injured her with the gentleman, and he was thinking of her with some
+LINE 184: complacency, when thus accosted by Miss Bingley,
+LINE 185: "I can guess the subject of your reverie."
+LINE 186: "I should imagine not."
+LINE 187: "You are considering how insupportable it would be to pass many evenings
+LINE 188: in this manner--in such society; and indeed I am quite of your opinion.
+LINE 189: I was never more annoyed! The insipidity and yet the noise; the
+LINE 190: nothingness and yet the self-importance of all these people!--What would
+LINE 191: I give to hear your strictures on them!"
+LINE 192: "Your conjecture is totally wrong, I assure you. My mind was more
+LINE 193: agreeably engaged. I have been meditating on the very great pleasure
+LINE 194: which a pair of fine eyes in the face of a pretty woman can bestow."
+LINE 195: Miss Bingley immediately fixed her eyes on his face, and desired he
+LINE 196: would tell her what lady had the credit of inspiring such reflections.
+LINE 197: Mr. Darcy replied with great intrepidity,
+LINE 198: "Miss Elizabeth Bennet."
+LINE 199: "Miss Elizabeth Bennet!" repeated Miss Bingley. "I am all astonishment.
+LINE 200: How long has she been such a favourite?--and pray when am I to wish you
+LINE 201: joy?"
+LINE 202: "That is exactly the question which I expected you to ask. A lady's
+LINE 203: imagination is very rapid; it jumps from admiration to love, from love
+LINE 204: to matrimony in a moment. I knew you would be wishing me joy."
+LINE 205: "Nay, if you are so serious about it, I shall consider the matter as
+LINE 206: absolutely settled. You will have a charming mother-in-law, indeed, and
+LINE 207: of course she will be always at Pemberley with you."
+LINE 208: He listened to her with perfect indifference, while she chose to
+LINE 209: entertain herself in this manner, and as his composure convinced her
+LINE 210: that all was safe, her wit flowed long.

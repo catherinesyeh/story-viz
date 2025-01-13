@@ -1,0 +1,257 @@
+LINE 1: Bentley Drummle, who was so sulky a fellow that he even took up a book
+LINE 2: as if its writer had done him an injury, did not take up an
+LINE 3: acquaintance in a more agreeable spirit. Heavy in figure, movement, and
+LINE 4: comprehension,—in the sluggish complexion of his face, and in the
+LINE 5: large, awkward tongue that seemed to loll about in his mouth as he
+LINE 6: himself lolled about in a room,—he was idle, proud, niggardly,
+LINE 7: reserved, and suspicious. He came of rich people down in Somersetshire,
+LINE 8: who had nursed this combination of qualities until they made the
+LINE 9: discovery that it was just of age and a blockhead. Thus, Bentley
+LINE 10: Drummle had come to Mr. Pocket when he was a head taller than that
+LINE 11: gentleman, and half a dozen heads thicker than most gentlemen.
+LINE 12: Startop had been spoilt by a weak mother and kept at home when he ought
+LINE 13: to have been at school, but he was devotedly attached to her, and
+LINE 14: admired her beyond measure. He had a woman's delicacy of feature, and
+LINE 15: was—"as you may see, though you never saw her," said Herbert to
+LINE 16: me—"exactly like his mother." It was but natural that I should take to
+LINE 17: him much more kindly than to Drummle, and that, even in the earliest
+LINE 18: evenings of our boating, he and I should pull homeward abreast of one
+LINE 19: another, conversing from boat to boat, while Bentley Drummle came up in
+LINE 20: our wake alone, under the overhanging banks and among the rushes. He
+LINE 21: would always creep in-shore like some uncomfortable amphibious
+LINE 22: creature, even when the tide would have sent him fast upon his way; and
+LINE 23: I always think of him as coming after us in the dark or by the
+LINE 24: back-water, when our own two boats were breaking the sunset or the
+LINE 25: moonlight in mid-stream.
+LINE 26: Herbert was my intimate companion and friend. I presented him with a
+LINE 27: half-share in my boat, which was the occasion of his often coming down
+LINE 28: to Hammersmith; and my possession of a half-share in his chambers often
+LINE 29: took me up to London. We used to walk between the two places at all
+LINE 30: hours. I have an affection for the road yet (though it is not so
+LINE 31: pleasant a road as it was then), formed in the impressibility of
+LINE 32: untried youth and hope.
+LINE 33: When I had been in Mr. Pocket's family a month or two, Mr. and Mrs.
+LINE 34: Camilla turned up. Camilla was Mr. Pocket's sister. Georgiana, whom I
+LINE 35: had seen at Miss Havisham's on the same occasion, also turned up. She
+LINE 36: was a cousin,—an indigestive single woman, who called her rigidity
+LINE 37: religion, and her liver love. These people hated me with the hatred of
+LINE 38: cupidity and disappointment. As a matter of course, they fawned upon me
+LINE 39: in my prosperity with the basest meanness. Towards Mr. Pocket, as a
+LINE 40: grown-up infant with no notion of his own interests, they showed the
+LINE 41: complacent forbearance I had heard them express. Mrs. Pocket they held
+LINE 42: in contempt; but they allowed the poor soul to have been heavily
+LINE 43: disappointed in life, because that shed a feeble reflected light upon
+LINE 44: themselves.
+LINE 45: These were the surroundings among which I settled down, and applied
+LINE 46: myself to my education. I soon contracted expensive habits, and began
+LINE 47: to spend an amount of money that within a few short months I should
+LINE 48: have thought almost fabulous; but through good and evil I stuck to my
+LINE 49: books. There was no other merit in this, than my having sense enough to
+LINE 50: feel my deficiencies. Between Mr. Pocket and Herbert I got on fast;
+LINE 51: and, with one or the other always at my elbow to give me the start I
+LINE 52: wanted, and clear obstructions out of my road, I must have been as
+LINE 53: great a dolt as Drummle if I had done less.
+LINE 54: I had not seen Mr. Wemmick for some weeks, when I thought I would write
+LINE 55: him a note and propose to go home with him on a certain evening. He
+LINE 56: replied that it would give him much pleasure, and that he would expect
+LINE 57: me at the office at six o'clock. Thither I went, and there I found him,
+LINE 58: putting the key of his safe down his back as the clock struck.
+LINE 59: "Did you think of walking down to Walworth?" said he.
+LINE 60: "Certainly," said I, "if you approve."
+LINE 61: "Very much," was Wemmick's reply, "for I have had my legs under the
+LINE 62: desk all day, and shall be glad to stretch them. Now, I'll tell you
+LINE 63: what I have got for supper, Mr. Pip. I have got a stewed steak,—which
+LINE 64: is of home preparation,—and a cold roast fowl,—which is from the
+LINE 65: cook's-shop. I think it's tender, because the master of the shop was a
+LINE 66: Juryman in some cases of ours the other day, and we let him down easy.
+LINE 67: I reminded him of it when I bought the fowl, and I said, "Pick us out a
+LINE 68: good one, old Briton, because if we had chosen to keep you in the box
+LINE 69: another day or two, we could easily have done it." He said to that,
+LINE 70: "Let me make you a present of the best fowl in the shop." I let him, of
+LINE 71: course. As far as it goes, it's property and portable. You don't object
+LINE 72: to an aged parent, I hope?"
+LINE 73: I really thought he was still speaking of the fowl, until he added,
+LINE 74: "Because I have got an aged parent at my place." I then said what
+LINE 75: politeness required.
+LINE 76: "So, you haven't dined with Mr. Jaggers yet?" he pursued, as we walked
+LINE 77: along.
+LINE 78: "Not yet."
+LINE 79: "He told me so this afternoon when he heard you were coming. I expect
+LINE 80: you'll have an invitation to-morrow. He's going to ask your pals, too.
+LINE 81: Three of 'em; ain't there?"
+LINE 82: Although I was not in the habit of counting Drummle as one of my
+LINE 83: intimate associates, I answered, "Yes."
+LINE 84: "Well, he's going to ask the whole gang,"—I hardly felt complimented by
+LINE 85: the word,—"and whatever he gives you, he'll give you good. Don't look
+LINE 86: forward to variety, but you'll have excellence. And there's another rum
+LINE 87: thing in his house," proceeded Wemmick, after a moment's pause, as if
+LINE 88: the remark followed on the housekeeper understood; "he never lets a
+LINE 89: door or window be fastened at night."
+LINE 90: "Is he never robbed?"
+LINE 91: "That's it!" returned Wemmick. "He says, and gives it out publicly, "I
+LINE 92: want to see the man who'll rob _me_." Lord bless you, I have heard him,
+LINE 93: a hundred times, if I have heard him once, say to regular cracksmen in
+LINE 94: our front office, "You know where I live; now, no bolt is ever drawn
+LINE 95: there; why don't you do a stroke of business with me? Come; can't I
+LINE 96: tempt you?" Not a man of them, sir, would be bold enough to try it on,
+LINE 97: for love or money."
+LINE 98: "They dread him so much?" said I.
+LINE 99: "Dread him," said Wemmick. "I believe you they dread him. Not but what
+LINE 100: he's artful, even in his defiance of them. No silver, sir. Britannia
+LINE 101: metal, every spoon."
+LINE 102: "So they wouldn't have much," I observed, "even if they—"
+LINE 103: "Ah! But _he_ would have much," said Wemmick, cutting me short, "and
+LINE 104: they know it. He'd have their lives, and the lives of scores of 'em.
+LINE 105: He'd have all he could get. And it's impossible to say what he couldn't
+LINE 106: get, if he gave his mind to it."
+LINE 107: I was falling into meditation on my guardian's greatness, when Wemmick
+LINE 108: remarked:—
+LINE 109: "As to the absence of plate, that's only his natural depth, you know. A
+LINE 110: river's its natural depth, and he's his natural depth. Look at his
+LINE 111: watch-chain. That's real enough."
+LINE 112: "It's very massive," said I.
+LINE 113: "Massive?" repeated Wemmick. "I think so. And his watch is a gold
+LINE 114: repeater, and worth a hundred pound if it's worth a penny. Mr. Pip,
+LINE 115: there are about seven hundred thieves in this town who know all about
+LINE 116: that watch; there's not a man, a woman, or a child, among them, who
+LINE 117: wouldn't identify the smallest link in that chain, and drop it as if it
+LINE 118: was red hot, if inveigled into touching it."
+LINE 119: At first with such discourse, and afterwards with conversation of a
+LINE 120: more general nature, did Mr. Wemmick and I beguile the time and the
+LINE 121: road, until he gave me to understand that we had arrived in the
+LINE 122: district of Walworth.
+LINE 123: It appeared to be a collection of back lanes, ditches, and little
+LINE 124: gardens, and to present the aspect of a rather dull retirement.
+LINE 125: Wemmick's house was a little wooden cottage in the midst of plots of
+LINE 126: garden, and the top of it was cut out and painted like a battery
+LINE 127: mounted with guns.
+LINE 128: "My own doing," said Wemmick. "Looks pretty; don't it?"
+LINE 129: I highly commended it, I think it was the smallest house I ever saw;
+LINE 130: with the queerest gothic windows (by far the greater part of them
+LINE 131: sham), and a gothic door almost too small to get in at.
+LINE 132: "That's a real flagstaff, you see," said Wemmick, "and on Sundays I run
+LINE 133: up a real flag. Then look here. After I have crossed this bridge, I
+LINE 134: hoist it up—so—and cut off the communication."
+LINE 135: The bridge was a plank, and it crossed a chasm about four feet wide and
+LINE 136: two deep. But it was very pleasant to see the pride with which he
+LINE 137: hoisted it up and made it fast; smiling as he did so, with a relish and
+LINE 138: not merely mechanically.
+LINE 139: "At nine o'clock every night, Greenwich time," said Wemmick, "the gun
+LINE 140: fires. There he is, you see! And when you hear him go, I think you'll
+LINE 141: say he's a Stinger."
+LINE 142: The piece of ordnance referred to, was mounted in a separate fortress,
+LINE 143: constructed of lattice-work. It was protected from the weather by an
+LINE 144: ingenious little tarpaulin contrivance in the nature of an umbrella.
+LINE 145: "Then, at the back," said Wemmick, "out of sight, so as not to impede
+LINE 146: the idea of fortifications,—for it's a principle with me, if you have
+LINE 147: an idea, carry it out and keep it up,—I don't know whether that's your
+LINE 148: opinion—"
+LINE 149: I said, decidedly.
+LINE 150: "—At the back, there's a pig, and there are fowls and rabbits; then, I
+LINE 151: knock together my own little frame, you see, and grow cucumbers; and
+LINE 152: you'll judge at supper what sort of a salad I can raise. So, sir," said
+LINE 153: Wemmick, smiling again, but seriously too, as he shook his head, "if
+LINE 154: you can suppose the little place besieged, it would hold out a devil of
+LINE 155: a time in point of provisions."
+LINE 156: Then, he conducted me to a bower about a dozen yards off, but which was
+LINE 157: approached by such ingenious twists of path that it took quite a long
+LINE 158: time to get at; and in this retreat our glasses were already set forth.
+LINE 159: Our punch was cooling in an ornamental lake, on whose margin the bower
+LINE 160: was raised. This piece of water (with an island in the middle which
+LINE 161: might have been the salad for supper) was of a circular form, and he
+LINE 162: had constructed a fountain in it, which, when you set a little mill
+LINE 163: going and took a cork out of a pipe, played to that powerful extent
+LINE 164: that it made the back of your hand quite wet.
+LINE 165: "I am my own engineer, and my own carpenter, and my own plumber, and my
+LINE 166: own gardener, and my own Jack of all Trades," said Wemmick, in
+LINE 167: acknowledging my compliments. "Well; it's a good thing, you know. It
+LINE 168: brushes the Newgate cobwebs away, and pleases the Aged. You wouldn't
+LINE 169: mind being at once introduced to the Aged, would you? It wouldn't put
+LINE 170: you out?"
+LINE 171: I expressed the readiness I felt, and we went into the castle. There we
+LINE 172: found, sitting by a fire, a very old man in a flannel coat: clean,
+LINE 173: cheerful, comfortable, and well cared for, but intensely deaf.
+LINE 174: "Well aged parent," said Wemmick, shaking hands with him in a cordial
+LINE 175: and jocose way, "how am you?"
+LINE 176: "All right, John; all right!" replied the old man.
+LINE 177: "Here's Mr. Pip, aged parent," said Wemmick, "and I wish you could hear
+LINE 178: his name. Nod away at him, Mr. Pip; that's what he likes. Nod away at
+LINE 179: him, if you please, like winking!"
+LINE 180: "This is a fine place of my son's, sir," cried the old man, while I
+LINE 181: nodded as hard as I possibly could. "This is a pretty pleasure-ground,
+LINE 182: sir. This spot and these beautiful works upon it ought to be kept
+LINE 183: together by the Nation, after my son's time, for the people's
+LINE 184: enjoyment."
+LINE 185: "You're as proud of it as Punch; ain't you, Aged?" said Wemmick,
+LINE 186: contemplating the old man, with his hard face really softened;
+LINE 187: "_there's_ a nod for you;" giving him a tremendous one; "_there's_
+LINE 188: another for you;" giving him a still more tremendous one; "you like
+LINE 189: that, don't you? If you're not tired, Mr. Pip—though I know it's tiring
+LINE 190: to strangers—will you tip him one more? You can't think how it pleases
+LINE 191: him."
+LINE 192: I tipped him several more, and he was in great spirits. We left him
+LINE 193: bestirring himself to feed the fowls, and we sat down to our punch in
+LINE 194: the arbour; where Wemmick told me, as he smoked a pipe, that it had
+LINE 195: taken him a good many years to bring the property up to its present
+LINE 196: pitch of perfection.
+LINE 197: "Is it your own, Mr. Wemmick?"
+LINE 198: "O yes," said Wemmick, "I have got hold of it, a bit at a time. It's a
+LINE 199: freehold, by George!"
+LINE 200: "Is it indeed? I hope Mr. Jaggers admires it?"
+LINE 201: "Never seen it," said Wemmick. "Never heard of it. Never seen the Aged.
+LINE 202: Never heard of him. No; the office is one thing, and private life is
+LINE 203: another. When I go into the office, I leave the Castle behind me, and
+LINE 204: when I come into the Castle, I leave the office behind me. If it's not
+LINE 205: in any way disagreeable to you, you'll oblige me by doing the same. I
+LINE 206: don't wish it professionally spoken about."
+LINE 207: Of course I felt my good faith involved in the observance of his
+LINE 208: request. The punch being very nice, we sat there drinking it and
+LINE 209: talking, until it was almost nine o'clock. "Getting near gun-fire,"
+LINE 210: said Wemmick then, as he laid down his pipe; "it's the Aged's treat."
+LINE 211: Proceeding into the Castle again, we found the Aged heating the poker,
+LINE 212: with expectant eyes, as a preliminary to the performance of this great
+LINE 213: nightly ceremony. Wemmick stood with his watch in his hand until the
+LINE 214: moment was come for him to take the red-hot poker from the Aged, and
+LINE 215: repair to the battery. He took it, and went out, and presently the
+LINE 216: Stinger went off with a Bang that shook the crazy little box of a
+LINE 217: cottage as if it must fall to pieces, and made every glass and teacup
+LINE 218: in it ring. Upon this, the Aged—who I believe would have been blown out
+LINE 219: of his arm-chair but for holding on by the elbows—cried out exultingly,
+LINE 220: "He's fired! I heerd him!" and I nodded at the old gentleman until it
+LINE 221: is no figure of speech to declare that I absolutely could not see him.
+LINE 222: The interval between that time and supper Wemmick devoted to showing me
+LINE 223: his collection of curiosities. They were mostly of a felonious
+LINE 224: character; comprising the pen with which a celebrated forgery had been
+LINE 225: committed, a distinguished razor or two, some locks of hair, and
+LINE 226: several manuscript confessions written under condemnation,—upon which
+LINE 227: Mr. Wemmick set particular value as being, to use his own words, "every
+LINE 228: one of 'em Lies, sir." These were agreeably dispersed among small
+LINE 229: specimens of china and glass, various neat trifles made by the
+LINE 230: proprietor of the museum, and some tobacco-stoppers carved by the Aged.
+LINE 231: They were all displayed in that chamber of the Castle into which I had
+LINE 232: been first inducted, and which served, not only as the general
+LINE 233: sitting-room but as the kitchen too, if I might judge from a saucepan
+LINE 234: on the hob, and a brazen bijou over the fireplace designed for the
+LINE 235: suspension of a roasting-jack.
+LINE 236: There was a neat little girl in attendance, who looked after the Aged
+LINE 237: in the day. When she had laid the supper-cloth, the bridge was lowered
+LINE 238: to give her means of egress, and she withdrew for the night. The supper
+LINE 239: was excellent; and though the Castle was rather subject to dry-rot
+LINE 240: insomuch that it tasted like a bad nut, and though the pig might have
+LINE 241: been farther off, I was heartily pleased with my whole entertainment.
+LINE 242: Nor was there any drawback on my little turret bedroom, beyond there
+LINE 243: being such a very thin ceiling between me and the flagstaff, that when
+LINE 244: I lay down on my back in bed, it seemed as if I had to balance that
+LINE 245: pole on my forehead all night.
+LINE 246: Wemmick was up early in the morning, and I am afraid I heard him
+LINE 247: cleaning my boots. After that, he fell to gardening, and I saw him from
+LINE 248: my gothic window pretending to employ the Aged, and nodding at him in a
+LINE 249: most devoted manner. Our breakfast was as good as the supper, and at
+LINE 250: half-past eight precisely we started for Little Britain. By degrees,
+LINE 251: Wemmick got dryer and harder as we went along, and his mouth tightened
+LINE 252: into a post-office again. At last, when we got to his place of business
+LINE 253: and he pulled out his key from his coat-collar, he looked as
+LINE 254: unconscious of his Walworth property as if the Castle and the
+LINE 255: drawbridge and the arbour and the lake and the fountain and the Aged,
+LINE 256: had all been blown into space together by the last discharge of the
+LINE 257: Stinger.

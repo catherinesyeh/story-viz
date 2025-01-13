@@ -1,0 +1,267 @@
+LINE 1: "MY DEAR MR PIP:—
+LINE 2: "I write this by request of Mr. Gargery, for to let you know that he is
+LINE 3: going to London in company with Mr. Wopsle and would be glad if
+LINE 4: agreeable to be allowed to see you. He would call at Barnard's Hotel
+LINE 5: Tuesday morning at nine o'clock, when if not agreeable please leave
+LINE 6: word. Your poor sister is much the same as when you left. We talk of
+LINE 7: you in the kitchen every night, and wonder what you are saying and
+LINE 8: doing. If now considered in the light of a liberty, excuse it for the
+LINE 9: love of poor old days. No more, dear Mr. Pip, from
+LINE 10: "Your ever obliged, and affectionate servant,
+LINE 11: "BIDDY."
+LINE 12: "P.S. He wishes me most particular to write _what larks_. He says you
+LINE 13: will understand. I hope and do not doubt it will be agreeable to see
+LINE 14: him, even though a gentleman, for you had ever a good heart, and he is
+LINE 15: a worthy, worthy man. I have read him all, excepting only the last
+LINE 16: little sentence, and he wishes me most particular to write again _what
+LINE 17: larks_."
+LINE 18: I received this letter by the post on Monday morning, and therefore its
+LINE 19: appointment was for next day. Let me confess exactly with what feelings
+LINE 20: I looked forward to Joe's coming.
+LINE 21: Not with pleasure, though I was bound to him by so many ties; no; with
+LINE 22: considerable disturbance, some mortification, and a keen sense of
+LINE 23: incongruity. If I could have kept him away by paying money, I certainly
+LINE 24: would have paid money. My greatest reassurance was that he was coming
+LINE 25: to Barnard's Inn, not to Hammersmith, and consequently would not fall
+LINE 26: in Bentley Drummle's way. I had little objection to his being seen by
+LINE 27: Herbert or his father, for both of whom I had a respect; but I had the
+LINE 28: sharpest sensitiveness as to his being seen by Drummle, whom I held in
+LINE 29: contempt. So, throughout life, our worst weaknesses and meannesses are
+LINE 30: usually committed for the sake of the people whom we most despise.
+LINE 31: I had begun to be always decorating the chambers in some quite
+LINE 32: unnecessary and inappropriate way or other, and very expensive those
+LINE 33: wrestles with Barnard proved to be. By this time, the rooms were vastly
+LINE 34: different from what I had found them, and I enjoyed the honour of
+LINE 35: occupying a few prominent pages in the books of a neighbouring
+LINE 36: upholsterer. I had got on so fast of late, that I had even started a
+LINE 37: boy in boots,—top boots,—in bondage and slavery to whom I might have
+LINE 38: been said to pass my days. For, after I had made the monster (out of
+LINE 39: the refuse of my washerwoman's family), and had clothed him with a blue
+LINE 40: coat, canary waistcoat, white cravat, creamy breeches, and the boots
+LINE 41: already mentioned, I had to find him a little to do and a great deal to
+LINE 42: eat; and with both of those horrible requirements he haunted my
+LINE 43: existence.
+LINE 44: This avenging phantom was ordered to be on duty at eight on Tuesday
+LINE 45: morning in the hall, (it was two feet square, as charged for
+LINE 46: floorcloth,) and Herbert suggested certain things for breakfast that he
+LINE 47: thought Joe would like. While I felt sincerely obliged to him for being
+LINE 48: so interested and considerate, I had an odd half-provoked sense of
+LINE 49: suspicion upon me, that if Joe had been coming to see _him_, he
+LINE 50: wouldn't have been quite so brisk about it.
+LINE 51: However, I came into town on the Monday night to be ready for Joe, and
+LINE 52: I got up early in the morning, and caused the sitting-room and
+LINE 53: breakfast-table to assume their most splendid appearance. Unfortunately
+LINE 54: the morning was drizzly, and an angel could not have concealed the fact
+LINE 55: that Barnard was shedding sooty tears outside the window, like some
+LINE 56: weak giant of a Sweep.
+LINE 57: As the time approached I should have liked to run away, but the Avenger
+LINE 58: pursuant to orders was in the hall, and presently I heard Joe on the
+LINE 59: staircase. I knew it was Joe, by his clumsy manner of coming
+LINE 60: upstairs,—his state boots being always too big for him,—and by the time
+LINE 61: it took him to read the names on the other floors in the course of his
+LINE 62: ascent. When at last he stopped outside our door, I could hear his
+LINE 63: finger tracing over the painted letters of my name, and I afterwards
+LINE 64: distinctly heard him breathing in at the keyhole. Finally he gave a
+LINE 65: faint single rap, and Pepper—such was the compromising name of the
+LINE 66: avenging boy—announced "Mr. Gargery!" I thought he never would have
+LINE 67: done wiping his feet, and that I must have gone out to lift him off the
+LINE 68: mat, but at last he came in.
+LINE 69: "Joe, how are you, Joe?"
+LINE 70: "Pip, how AIR you, Pip?"
+LINE 71: With his good honest face all glowing and shining, and his hat put down
+LINE 72: on the floor between us, he caught both my hands and worked them
+LINE 73: straight up and down, as if I had been the last-patented Pump.
+LINE 74: "I am glad to see you, Joe. Give me your hat."
+LINE 75: But Joe, taking it up carefully with both hands, like a bird's-nest
+LINE 76: with eggs in it, wouldn't hear of parting with that piece of property,
+LINE 77: and persisted in standing talking over it in a most uncomfortable way.
+LINE 78: "Which you have that growed," said Joe, "and that swelled, and that
+LINE 79: gentle-folked;" Joe considered a little before he discovered this word;
+LINE 80: "as to be sure you are a honour to your king and country."
+LINE 81: "And you, Joe, look wonderfully well."
+LINE 82: "Thank God," said Joe, "I'm ekerval to most. And your sister, she's no
+LINE 83: worse than she were. And Biddy, she's ever right and ready. And all
+LINE 84: friends is no backerder, if not no forarder. 'Ceptin Wopsle; he's had a
+LINE 85: drop."
+LINE 86: All this time (still with both hands taking great care of the
+LINE 87: bird's-nest), Joe was rolling his eyes round and round the room, and
+LINE 88: round and round the flowered pattern of my dressing-gown.
+LINE 89: "Had a drop, Joe?"
+LINE 90: "Why yes," said Joe, lowering his voice, "he's left the Church and went
+LINE 91: into the playacting. Which the playacting have likeways brought him to
+LINE 92: London along with me. And his wish were," said Joe, getting the
+LINE 93: bird's-nest under his left arm for the moment, and groping in it for an
+LINE 94: egg with his right; "if no offence, as I would 'and you that."
+LINE 95: I took what Joe gave me, and found it to be the crumpled play-bill of a
+LINE 96: small metropolitan theatre, announcing the first appearance, in that
+LINE 97: very week, of "the celebrated Provincial Amateur of Roscian renown,
+LINE 98: whose unique performance in the highest tragic walk of our National
+LINE 99: Bard has lately occasioned so great a sensation in local dramatic
+LINE 100: circles."
+LINE 101: "Were you at his performance, Joe?" I inquired.
+LINE 102: "I _were_," said Joe, with emphasis and solemnity.
+LINE 103: "Was there a great sensation?"
+LINE 104: "Why," said Joe, "yes, there certainly were a peck of orange-peel.
+LINE 105: Partickler when he see the ghost. Though I put it to yourself, sir,
+LINE 106: whether it were calc'lated to keep a man up to his work with a good
+LINE 107: hart, to be continiwally cutting in betwixt him and the Ghost with
+LINE 108: "Amen!" A man may have had a misfortun' and been in the Church," said
+LINE 109: Joe, lowering his voice to an argumentative and feeling tone, "but that
+LINE 110: is no reason why you should put him out at such a time. Which I
+LINE 111: meantersay, if the ghost of a man's own father cannot be allowed to
+LINE 112: claim his attention, what can, Sir? Still more, when his mourning 'at
+LINE 113: is unfortunately made so small as that the weight of the black feathers
+LINE 114: brings it off, try to keep it on how you may."
+LINE 115: A ghost-seeing effect in Joe's own countenance informed me that Herbert
+LINE 116: had entered the room. So, I presented Joe to Herbert, who held out his
+LINE 117: hand; but Joe backed from it, and held on by the bird's-nest.
+LINE 118: "Your servant, Sir," said Joe, "which I hope as you and Pip"—here his
+LINE 119: eye fell on the Avenger, who was putting some toast on table, and so
+LINE 120: plainly denoted an intention to make that young gentleman one of the
+LINE 121: family, that I frowned it down and confused him more—"I meantersay, you
+LINE 122: two gentlemen,—which I hope as you get your elths in this close spot?
+LINE 123: For the present may be a werry good inn, according to London opinions,"
+LINE 124: said Joe, confidentially, "and I believe its character do stand it; but
+LINE 125: I wouldn't keep a pig in it myself,—not in the case that I wished him
+LINE 126: to fatten wholesome and to eat with a meller flavour on him."
+LINE 127: Having borne this flattering testimony to the merits of our
+LINE 128: dwelling-place, and having incidentally shown this tendency to call me
+LINE 129: "sir," Joe, being invited to sit down to table, looked all round the
+LINE 130: room for a suitable spot on which to deposit his hat,—as if it were
+LINE 131: only on some very few rare substances in nature that it could find a
+LINE 132: resting place,—and ultimately stood it on an extreme corner of the
+LINE 133: chimney-piece, from which it ever afterwards fell off at intervals.
+LINE 134: "Do you take tea, or coffee, Mr. Gargery?" asked Herbert, who always
+LINE 135: presided of a morning.
+LINE 136: "Thankee, Sir," said Joe, stiff from head to foot, "I'll take whichever
+LINE 137: is most agreeable to yourself."
+LINE 138: "What do you say to coffee?"
+LINE 139: "Thankee, Sir," returned Joe, evidently dispirited by the proposal,
+LINE 140: "since you _are_ so kind as make chice of coffee, I will not run
+LINE 141: contrairy to your own opinions. But don't you never find it a little
+LINE 142: 'eating?"
+LINE 143: "Say tea then," said Herbert, pouring it out.
+LINE 144: Here Joe's hat tumbled off the mantel-piece, and he started out of his
+LINE 145: chair and picked it up, and fitted it to the same exact spot. As if it
+LINE 146: were an absolute point of good breeding that it should tumble off again
+LINE 147: soon.
+LINE 148: "When did you come to town, Mr. Gargery?"
+LINE 149: "Were it yesterday afternoon?" said Joe, after coughing behind his
+LINE 150: hand, as if he had had time to catch the whooping-cough since he came.
+LINE 151: "No it were not. Yes it were. Yes. It were yesterday afternoon" (with
+LINE 152: an appearance of mingled wisdom, relief, and strict impartiality).
+LINE 153: "Have you seen anything of London yet?"
+LINE 154: "Why, yes, Sir," said Joe, "me and Wopsle went off straight to look at
+LINE 155: the Blacking Ware'us. But we didn't find that it come up to its
+LINE 156: likeness in the red bills at the shop doors; which I meantersay," added
+LINE 157: Joe, in an explanatory manner, "as it is there drawd too
+LINE 158: architectooralooral."
+LINE 159: I really believe Joe would have prolonged this word (mightily
+LINE 160: expressive to my mind of some architecture that I know) into a perfect
+LINE 161: Chorus, but for his attention being providentially attracted by his
+LINE 162: hat, which was toppling. Indeed, it demanded from him a constant
+LINE 163: attention, and a quickness of eye and hand, very like that exacted by
+LINE 164: wicket-keeping. He made extraordinary play with it, and showed the
+LINE 165: greatest skill; now, rushing at it and catching it neatly as it
+LINE 166: dropped; now, merely stopping it midway, beating it up, and humouring
+LINE 167: it in various parts of the room and against a good deal of the pattern
+LINE 168: of the paper on the wall, before he felt it safe to close with it;
+LINE 169: finally splashing it into the slop-basin, where I took the liberty of
+LINE 170: laying hands upon it.
+LINE 171: [Illustration]
+LINE 172: As to his shirt-collar, and his coat-collar, they were perplexing to
+LINE 173: reflect upon,—insoluble mysteries both. Why should a man scrape himself
+LINE 174: to that extent, before he could consider himself full dressed? Why
+LINE 175: should he suppose it necessary to be purified by suffering for his
+LINE 176: holiday clothes? Then he fell into such unaccountable fits of
+LINE 177: meditation, with his fork midway between his plate and his mouth; had
+LINE 178: his eyes attracted in such strange directions; was afflicted with such
+LINE 179: remarkable coughs; sat so far from the table, and dropped so much more
+LINE 180: than he ate, and pretended that he hadn't dropped it; that I was
+LINE 181: heartily glad when Herbert left us for the City.
+LINE 182: I had neither the good sense nor the good feeling to know that this was
+LINE 183: all my fault, and that if I had been easier with Joe, Joe would have
+LINE 184: been easier with me. I felt impatient of him and out of temper with
+LINE 185: him; in which condition he heaped coals of fire on my head.
+LINE 186: "Us two being now alone, sir,"—began Joe.
+LINE 187: "Joe," I interrupted, pettishly, "how can you call me, sir?"
+LINE 188: Joe looked at me for a single instant with something faintly like
+LINE 189: reproach. Utterly preposterous as his cravat was, and as his collars
+LINE 190: were, I was conscious of a sort of dignity in the look.
+LINE 191: "Us two being now alone," resumed Joe, "and me having the intentions
+LINE 192: and abilities to stay not many minutes more, I will now
+LINE 193: conclude—leastways begin—to mention what have led to my having had the
+LINE 194: present honour. For was it not," said Joe, with his old air of lucid
+LINE 195: exposition, "that my only wish were to be useful to you, I should not
+LINE 196: have had the honour of breaking wittles in the company and abode of
+LINE 197: gentlemen."
+LINE 198: I was so unwilling to see the look again, that I made no remonstrance
+LINE 199: against this tone.
+LINE 200: "Well, sir," pursued Joe, "this is how it were. I were at the Bargemen
+LINE 201: t'other night, Pip;"—whenever he subsided into affection, he called me
+LINE 202: Pip, and whenever he relapsed into politeness he called me sir; "when
+LINE 203: there come up in his shay-cart, Pumblechook. Which that same
+LINE 204: identical," said Joe, going down a new track, "do comb my 'air the
+LINE 205: wrong way sometimes, awful, by giving out up and down town as it were
+LINE 206: him which ever had your infant companionation and were looked upon as a
+LINE 207: playfellow by yourself."
+LINE 208: "Nonsense. It was you, Joe."
+LINE 209: "Which I fully believed it were, Pip," said Joe, slightly tossing his
+LINE 210: head, "though it signify little now, sir. Well, Pip; this same
+LINE 211: identical, which his manners is given to blusterous, come to me at the
+LINE 212: Bargemen (wot a pipe and a pint of beer do give refreshment to the
+LINE 213: workingman, sir, and do not over stimilate), and his word were,
+LINE 214: 'Joseph, Miss Havisham she wish to speak to you.'"
+LINE 215: "Miss Havisham, Joe?"
+LINE 216: "'She wish,' were Pumblechook's word, 'to speak to you.'" Joe sat and
+LINE 217: rolled his eyes at the ceiling.
+LINE 218: "Yes, Joe? Go on, please."
+LINE 219: "Next day, sir," said Joe, looking at me as if I were a long way off,
+LINE 220: "having cleaned myself, I go and I see Miss A."
+LINE 221: "Miss A., Joe? Miss Havisham?"
+LINE 222: "Which I say, sir," replied Joe, with an air of legal formality, as if
+LINE 223: he were making his will, "Miss A., or otherways Havisham. Her
+LINE 224: expression air then as follering: 'Mr. Gargery. You air in
+LINE 225: correspondence with Mr. Pip?' Having had a letter from you, I were able
+LINE 226: to say 'I am.' (When I married your sister, sir, I said 'I will;' and
+LINE 227: when I answered your friend, Pip, I said 'I am.') 'Would you tell him,
+LINE 228: then,' said she, 'that which Estella has come home and would be glad to
+LINE 229: see him.'"
+LINE 230: I felt my face fire up as I looked at Joe. I hope one remote cause of
+LINE 231: its firing may have been my consciousness that if I had known his
+LINE 232: errand, I should have given him more encouragement.
+LINE 233: "Biddy," pursued Joe, "when I got home and asked her fur to write the
+LINE 234: message to you, a little hung back. Biddy says, 'I know he will be very
+LINE 235: glad to have it by word of mouth, it is holiday time, you want to see
+LINE 236: him, go!' I have now concluded, sir," said Joe, rising from his chair,
+LINE 237: "and, Pip, I wish you ever well and ever prospering to a greater and a
+LINE 238: greater height."
+LINE 239: "But you are not going now, Joe?"
+LINE 240: "Yes I am," said Joe.
+LINE 241: "But you are coming back to dinner, Joe?"
+LINE 242: "No I am not," said Joe.
+LINE 243: Our eyes met, and all the "Sir" melted out of that manly heart as he
+LINE 244: gave me his hand.
+LINE 245: "Pip, dear old chap, life is made of ever so many partings welded
+LINE 246: together, as I may say, and one man's a blacksmith, and one's a
+LINE 247: whitesmith, and one's a goldsmith, and one's a coppersmith. Diwisions
+LINE 248: among such must come, and must be met as they come. If there's been any
+LINE 249: fault at all to-day, it's mine. You and me is not two figures to be
+LINE 250: together in London; nor yet anywheres else but what is private, and
+LINE 251: beknown, and understood among friends. It ain't that I am proud, but
+LINE 252: that I want to be right, as you shall never see me no more in these
+LINE 253: clothes. I'm wrong in these clothes. I'm wrong out of the forge, the
+LINE 254: kitchen, or off th' meshes. You won't find half so much fault in me if
+LINE 255: you think of me in my forge dress, with my hammer in my hand, or even
+LINE 256: my pipe. You won't find half so much fault in me if, supposing as you
+LINE 257: should ever wish to see me, you come and put your head in at the forge
+LINE 258: window and see Joe the blacksmith, there, at the old anvil, in the old
+LINE 259: burnt apron, sticking to the old work. I'm awful dull, but I hope I've
+LINE 260: beat out something nigh the rights of this at last. And so GOD bless
+LINE 261: you, dear old Pip, old chap, GOD bless you!"
+LINE 262: I had not been mistaken in my fancy that there was a simple dignity in
+LINE 263: him. The fashion of his dress could no more come in its way when he
+LINE 264: spoke these words than it could come in its way in Heaven. He touched
+LINE 265: me gently on the forehead, and went out. As soon as I could recover
+LINE 266: myself sufficiently, I hurried out after him and looked for him in the
+LINE 267: neighbouring streets; but he was gone.

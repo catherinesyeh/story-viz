@@ -1,0 +1,560 @@
+LINE 1: In my younger and more vulnerable years my father gave me some advice
+LINE 2: that I've been turning over in my mind ever since.
+LINE 3: "Whenever you feel like criticizing anyone," he told me, "just
+LINE 4: remember that all the people in this world haven't had the advantages
+LINE 5: that you've had."
+LINE 6: He didn't say any more, but we've always been unusually communicative
+LINE 7: in a reserved way, and I understood that he meant a great deal more
+LINE 8: than that. In consequence, I'm inclined to reserve all judgements, a
+LINE 9: habit that has opened up many curious natures to me and also made me
+LINE 10: the victim of not a few veteran bores. The abnormal mind is quick to
+LINE 11: detect and attach itself to this quality when it appears in a normal
+LINE 12: person, and so it came about that in college I was unjustly accused of
+LINE 13: being a politician, because I was privy to the secret griefs of wild,
+LINE 14: unknown men. Most of the confidences were unsought—frequently I have
+LINE 15: feigned sleep, preoccupation, or a hostile levity when I realized by
+LINE 16: some unmistakable sign that an intimate revelation was quivering on
+LINE 17: the horizon; for the intimate revelations of young men, or at least
+LINE 18: the terms in which they express them, are usually plagiaristic and
+LINE 19: marred by obvious suppressions. Reserving judgements is a matter of
+LINE 20: infinite hope. I am still a little afraid of missing something if I
+LINE 21: forget that, as my father snobbishly suggested, and I snobbishly
+LINE 22: repeat, a sense of the fundamental decencies is parcelled out
+LINE 23: unequally at birth.
+LINE 24: And, after boasting this way of my tolerance, I come to the admission
+LINE 25: that it has a limit. Conduct may be founded on the hard rock or the
+LINE 26: wet marshes, but after a certain point I don't care what it's founded
+LINE 27: on. When I came back from the East last autumn I felt that I wanted
+LINE 28: the world to be in uniform and at a sort of moral attention forever; I
+LINE 29: wanted no more riotous excursions with privileged glimpses into the
+LINE 30: human heart. Only Gatsby, the man who gives his name to this book, was
+LINE 31: exempt from my reaction—Gatsby, who represented everything for which I
+LINE 32: have an unaffected scorn. If personality is an unbroken series of
+LINE 33: successful gestures, then there was something gorgeous about him, some
+LINE 34: heightened sensitivity to the promises of life, as if he were related
+LINE 35: to one of those intricate machines that register earthquakes ten
+LINE 36: thousand miles away. This responsiveness had nothing to do with that
+LINE 37: flabby impressionability which is dignified under the name of the
+LINE 38: "creative temperament"—it was an extraordinary gift for hope, a
+LINE 39: romantic readiness such as I have never found in any other person and
+LINE 40: which it is not likely I shall ever find again. No—Gatsby turned out
+LINE 41: all right at the end; it is what preyed on Gatsby, what foul dust
+LINE 42: floated in the wake of his dreams that temporarily closed out my
+LINE 43: interest in the abortive sorrows and short-winded elations of men.
+LINE 44: ------------------------------------------------------------------------
+LINE 45: My family have been prominent, well-to-do people in this Middle
+LINE 46: Western city for three generations. The Carraways are something of a
+LINE 47: clan, and we have a tradition that we're descended from the Dukes of
+LINE 48: Buccleuch, but the actual founder of my line was my grandfather's
+LINE 49: brother, who came here in fifty-one, sent a substitute to the Civil
+LINE 50: War, and started the wholesale hardware business that my father
+LINE 51: carries on today.
+LINE 52: I never saw this great-uncle, but I'm supposed to look like him—with
+LINE 53: special reference to the rather hard-boiled painting that hangs in
+LINE 54: father's office. I graduated from New Haven in 1915, just a quarter of
+LINE 55: a century after my father, and a little later I participated in that
+LINE 56: delayed Teutonic migration known as the Great War. I enjoyed the
+LINE 57: counter-raid so thoroughly that I came back restless. Instead of being
+LINE 58: the warm centre of the world, the Middle West now seemed like the
+LINE 59: ragged edge of the universe—so I decided to go East and learn the bond
+LINE 60: business. Everybody I knew was in the bond business, so I supposed it
+LINE 61: could support one more single man. All my aunts and uncles talked it
+LINE 62: over as if they were choosing a prep school for me, and finally said,
+LINE 63: "Why—ye-es," with very grave, hesitant faces. Father agreed to finance
+LINE 64: me for a year, and after various delays I came East, permanently, I
+LINE 65: thought, in the spring of twenty-two.
+LINE 66: The practical thing was to find rooms in the city, but it was a warm
+LINE 67: season, and I had just left a country of wide lawns and friendly
+LINE 68: trees, so when a young man at the office suggested that we take a
+LINE 69: house together in a commuting town, it sounded like a great idea. He
+LINE 70: found the house, a weather-beaten cardboard bungalow at eighty a
+LINE 71: month, but at the last minute the firm ordered him to Washington, and
+LINE 72: I went out to the country alone. I had a dog—at least I had him for a
+LINE 73: few days until he ran away—and an old Dodge and a Finnish woman, who
+LINE 74: made my bed and cooked breakfast and muttered Finnish wisdom to
+LINE 75: herself over the electric stove.
+LINE 76: It was lonely for a day or so until one morning some man, more
+LINE 77: recently arrived than I, stopped me on the road.
+LINE 78: "How do you get to West Egg village?" he asked helplessly.
+LINE 79: I told him. And as I walked on I was lonely no longer. I was a guide,
+LINE 80: a pathfinder, an original settler. He had casually conferred on me the
+LINE 81: freedom of the neighbourhood.
+LINE 82: And so with the sunshine and the great bursts of leaves growing on the
+LINE 83: trees, just as things grow in fast movies, I had that familiar
+LINE 84: conviction that life was beginning over again with the summer.
+LINE 85: There was so much to read, for one thing, and so much fine health to
+LINE 86: be pulled down out of the young breath-giving air. I bought a dozen
+LINE 87: volumes on banking and credit and investment securities, and they
+LINE 88: stood on my shelf in red and gold like new money from the mint,
+LINE 89: promising to unfold the shining secrets that only Midas and Morgan and
+LINE 90: Maecenas knew. And I had the high intention of reading many other
+LINE 91: books besides. I was rather literary in college—one year I wrote a
+LINE 92: series of very solemn and obvious editorials for the Yale News—and now
+LINE 93: I was going to bring back all such things into my life and become
+LINE 94: again that most limited of all specialists, the "well-rounded man."
+LINE 95: This isn't just an epigram—life is much more successfully looked at
+LINE 96: from a single window, after all.
+LINE 97: It was a matter of chance that I should have rented a house in one of
+LINE 98: the strangest communities in North America. It was on that slender
+LINE 99: riotous island which extends itself due east of New York—and where
+LINE 100: there are, among other natural curiosities, two unusual formations of
+LINE 101: land. Twenty miles from the city a pair of enormous eggs, identical in
+LINE 102: contour and separated only by a courtesy bay, jut out into the most
+LINE 103: domesticated body of salt water in the Western hemisphere, the great
+LINE 104: wet barnyard of Long Island Sound. They are not perfect ovals—like the
+LINE 105: egg in the Columbus story, they are both crushed flat at the contact
+LINE 106: end—but their physical resemblance must be a source of perpetual
+LINE 107: wonder to the gulls that fly overhead. To the wingless a more
+LINE 108: interesting phenomenon is their dissimilarity in every particular
+LINE 109: except shape and size.
+LINE 110: I lived at West Egg, the—well, the less fashionable of the two, though
+LINE 111: this is a most superficial tag to express the bizarre and not a little
+LINE 112: sinister contrast between them. My house was at the very tip of the
+LINE 113: egg, only fifty yards from the Sound, and squeezed between two huge
+LINE 114: places that rented for twelve or fifteen thousand a season. The one on
+LINE 115: my right was a colossal affair by any standard—it was a factual
+LINE 116: imitation of some Hôtel de Ville in Normandy, with a tower on one
+LINE 117: side, spanking new under a thin beard of raw ivy, and a marble
+LINE 118: swimming pool, and more than forty acres of lawn and garden. It was
+LINE 119: Gatsby's mansion. Or, rather, as I didn't know Mr. Gatsby, it was a
+LINE 120: mansion inhabited by a gentleman of that name. My own house was an
+LINE 121: eyesore, but it was a small eyesore, and it had been overlooked, so I
+LINE 122: had a view of the water, a partial view of my neighbour's lawn, and
+LINE 123: the consoling proximity of millionaires—all for eighty dollars a
+LINE 124: month.
+LINE 125: Across the courtesy bay the white palaces of fashionable East Egg
+LINE 126: glittered along the water, and the history of the summer really begins
+LINE 127: on the evening I drove over there to have dinner with the Tom
+LINE 128: Buchanans. Daisy was my second cousin once removed, and I'd known Tom
+LINE 129: in college. And just after the war I spent two days with them in
+LINE 130: Chicago.
+LINE 131: Her husband, among various physical accomplishments, had been one of
+LINE 132: the most powerful ends that ever played football at New Haven—a
+LINE 133: national figure in a way, one of those men who reach such an acute
+LINE 134: limited excellence at twenty-one that everything afterward savours of
+LINE 135: anticlimax. His family were enormously wealthy—even in college his
+LINE 136: freedom with money was a matter for reproach—but now he'd left Chicago
+LINE 137: and come East in a fashion that rather took your breath away: for
+LINE 138: instance, he'd brought down a string of polo ponies from Lake
+LINE 139: Forest. It was hard to realize that a man in my own generation was
+LINE 140: wealthy enough to do that.
+LINE 141: Why they came East I don't know. They had spent a year in France for
+LINE 142: no particular reason, and then drifted here and there unrestfully
+LINE 143: wherever people played polo and were rich together. This was a
+LINE 144: permanent move, said Daisy over the telephone, but I didn't believe
+LINE 145: it—I had no sight into Daisy's heart, but I felt that Tom would drift
+LINE 146: on forever seeking, a little wistfully, for the dramatic turbulence of
+LINE 147: some irrecoverable football game.
+LINE 148: And so it happened that on a warm windy evening I drove over to East
+LINE 149: Egg to see two old friends whom I scarcely knew at all. Their house
+LINE 150: was even more elaborate than I expected, a cheerful red-and-white
+LINE 151: Georgian Colonial mansion, overlooking the bay. The lawn started at
+LINE 152: the beach and ran towards the front door for a quarter of a mile,
+LINE 153: jumping over sundials and brick walks and burning gardens—finally when
+LINE 154: it reached the house drifting up the side in bright vines as though
+LINE 155: from the momentum of its run. The front was broken by a line of French
+LINE 156: windows, glowing now with reflected gold and wide open to the warm
+LINE 157: windy afternoon, and Tom Buchanan in riding clothes was standing with
+LINE 158: his legs apart on the front porch.
+LINE 159: He had changed since his New Haven years. Now he was a sturdy
+LINE 160: straw-haired man of thirty, with a rather hard mouth and a
+LINE 161: supercilious manner. Two shining arrogant eyes had established
+LINE 162: dominance over his face and gave him the appearance of always leaning
+LINE 163: aggressively forward. Not even the effeminate swank of his riding
+LINE 164: clothes could hide the enormous power of that body—he seemed to fill
+LINE 165: those glistening boots until he strained the top lacing, and you could
+LINE 166: see a great pack of muscle shifting when his shoulder moved under his
+LINE 167: thin coat. It was a body capable of enormous leverage—a cruel body.
+LINE 168: His speaking voice, a gruff husky tenor, added to the impression of
+LINE 169: fractiousness he conveyed. There was a touch of paternal contempt in
+LINE 170: it, even toward people he liked—and there were men at New Haven who
+LINE 171: had hated his guts.
+LINE 172: "Now, don't think my opinion on these matters is final," he seemed to
+LINE 173: say, "just because I'm stronger and more of a man than you are." We
+LINE 174: were in the same senior society, and while we were never intimate I
+LINE 175: always had the impression that he approved of me and wanted me to like
+LINE 176: him with some harsh, defiant wistfulness of his own.
+LINE 177: We talked for a few minutes on the sunny porch.
+LINE 178: "I've got a nice place here," he said, his eyes flashing about
+LINE 179: restlessly.
+LINE 180: Turning me around by one arm, he moved a broad flat hand along the
+LINE 181: front vista, including in its sweep a sunken Italian garden, a half
+LINE 182: acre of deep, pungent roses, and a snub-nosed motorboat that bumped
+LINE 183: the tide offshore.
+LINE 184: "It belonged to Demaine, the oil man." He turned me around again,
+LINE 185: politely and abruptly. "We'll go inside."
+LINE 186: We walked through a high hallway into a bright rosy-coloured space,
+LINE 187: fragilely bound into the house by French windows at either end. The
+LINE 188: windows were ajar and gleaming white against the fresh grass outside
+LINE 189: that seemed to grow a little way into the house. A breeze blew through
+LINE 190: the room, blew curtains in at one end and out the other like pale
+LINE 191: flags, twisting them up toward the frosted wedding-cake of the
+LINE 192: ceiling, and then rippled over the wine-coloured rug, making a shadow
+LINE 193: on it as wind does on the sea.
+LINE 194: The only completely stationary object in the room was an enormous
+LINE 195: couch on which two young women were buoyed up as though upon an
+LINE 196: anchored balloon. They were both in white, and their dresses were
+LINE 197: rippling and fluttering as if they had just been blown back in after a
+LINE 198: short flight around the house. I must have stood for a few moments
+LINE 199: listening to the whip and snap of the curtains and the groan of a
+LINE 200: picture on the wall. Then there was a boom as Tom Buchanan shut the
+LINE 201: rear windows and the caught wind died out about the room, and the
+LINE 202: curtains and the rugs and the two young women ballooned slowly to the
+LINE 203: floor.
+LINE 204: The younger of the two was a stranger to me. She was extended full
+LINE 205: length at her end of the divan, completely motionless, and with her
+LINE 206: chin raised a little, as if she were balancing something on it which
+LINE 207: was quite likely to fall. If she saw me out of the corner of her eyes
+LINE 208: she gave no hint of it—indeed, I was almost surprised into murmuring
+LINE 209: an apology for having disturbed her by coming in.
+LINE 210: The other girl, Daisy, made an attempt to rise—she leaned slightly
+LINE 211: forward with a conscientious expression—then she laughed, an absurd,
+LINE 212: charming little laugh, and I laughed too and came forward into the
+LINE 213: room.
+LINE 214: "I'm p-paralysed with happiness."
+LINE 215: She laughed again, as if she said something very witty, and held my
+LINE 216: hand for a moment, looking up into my face, promising that there was
+LINE 217: no one in the world she so much wanted to see. That was a way she
+LINE 218: had. She hinted in a murmur that the surname of the balancing girl was
+LINE 219: Baker. (I've heard it said that Daisy's murmur was only to make people
+LINE 220: lean toward her; an irrelevant criticism that made it no less
+LINE 221: charming.)
+LINE 222: At any rate, Miss Baker's lips fluttered, she nodded at me almost
+LINE 223: imperceptibly, and then quickly tipped her head back again—the object
+LINE 224: she was balancing had obviously tottered a little and given her
+LINE 225: something of a fright. Again a sort of apology arose to my lips.
+LINE 226: Almost any exhibition of complete self-sufficiency draws a stunned
+LINE 227: tribute from me.
+LINE 228: I looked back at my cousin, who began to ask me questions in her low,
+LINE 229: thrilling voice. It was the kind of voice that the ear follows up and
+LINE 230: down, as if each speech is an arrangement of notes that will never be
+LINE 231: played again. Her face was sad and lovely with bright things in it,
+LINE 232: bright eyes and a bright passionate mouth, but there was an excitement
+LINE 233: in her voice that men who had cared for her found difficult to forget:
+LINE 234: a singing compulsion, a whispered "Listen," a promise that she had
+LINE 235: done gay, exciting things just a while since and that there were gay,
+LINE 236: exciting things hovering in the next hour.
+LINE 237: I told her how I had stopped off in Chicago for a day on my way East,
+LINE 238: and how a dozen people had sent their love through me.
+LINE 239: "Do they miss me?" she cried ecstatically.
+LINE 240: "The whole town is desolate. All the cars have the left rear wheel
+LINE 241: painted black as a mourning wreath, and there's a persistent wail all
+LINE 242: night along the north shore."
+LINE 243: "How gorgeous! Let's go back, Tom. Tomorrow!" Then she added
+LINE 244: irrelevantly: "You ought to see the baby."
+LINE 245: "I'd like to."
+LINE 246: "She's asleep. She's three years old. Haven't you ever seen her?"
+LINE 247: "Never."
+LINE 248: "Well, you ought to see her. She's—"
+LINE 249: Tom Buchanan, who had been hovering restlessly about the room, stopped
+LINE 250: and rested his hand on my shoulder.
+LINE 251: "What you doing, Nick?"
+LINE 252: "I'm a bond man."
+LINE 253: "Who with?"
+LINE 254: I told him.
+LINE 255: "Never heard of them," he remarked decisively.
+LINE 256: This annoyed me.
+LINE 257: "You will," I answered shortly. "You will if you stay in the East."
+LINE 258: "Oh, I'll stay in the East, don't you worry," he said, glancing at
+LINE 259: Daisy and then back at me, as if he were alert for something
+LINE 260: more. "I'd be a God damned fool to live anywhere else."
+LINE 261: At this point Miss Baker said: "Absolutely!" with such suddenness that
+LINE 262: I started—it was the first word she had uttered since I came into the
+LINE 263: room. Evidently it surprised her as much as it did me, for she yawned
+LINE 264: and with a series of rapid, deft movements stood up into the room.
+LINE 265: "I'm stiff," she complained, "I've been lying on that sofa for as long
+LINE 266: as I can remember."
+LINE 267: "Don't look at me," Daisy retorted, "I've been trying to get you to
+LINE 268: New York all afternoon."
+LINE 269: "No, thanks," said Miss Baker to the four cocktails just in from the
+LINE 270: pantry. "I'm absolutely in training."
+LINE 271: Her host looked at her incredulously.
+LINE 272: "You are!" He took down his drink as if it were a drop in the bottom
+LINE 273: of a glass. "How you ever get anything done is beyond me."
+LINE 274: I looked at Miss Baker, wondering what it was she "got done." I
+LINE 275: enjoyed looking at her. She was a slender, small-breasted girl, with
+LINE 276: an erect carriage, which she accentuated by throwing her body backward
+LINE 277: at the shoulders like a young cadet. Her grey sun-strained eyes looked
+LINE 278: back at me with polite reciprocal curiosity out of a wan, charming,
+LINE 279: discontented face. It occurred to me now that I had seen her, or a
+LINE 280: picture of her, somewhere before.
+LINE 281: "You live in West Egg," she remarked contemptuously. "I know somebody
+LINE 282: there."
+LINE 283: "I don't know a single—"
+LINE 284: "You must know Gatsby."
+LINE 285: "Gatsby?" demanded Daisy. "What Gatsby?"
+LINE 286: Before I could reply that he was my neighbour dinner was announced;
+LINE 287: wedging his tense arm imperatively under mine, Tom Buchanan compelled
+LINE 288: me from the room as though he were moving a checker to another square.
+LINE 289: Slenderly, languidly, their hands set lightly on their hips, the two
+LINE 290: young women preceded us out on to a rosy-coloured porch, open toward
+LINE 291: the sunset, where four candles flickered on the table in the
+LINE 292: diminished wind.
+LINE 293: "Why candles?" objected Daisy, frowning. She snapped them out with her
+LINE 294: fingers. "In two weeks it'll be the longest day in the year." She
+LINE 295: looked at us all radiantly. "Do you always watch for the longest day
+LINE 296: of the year and then miss it? I always watch for the longest day in
+LINE 297: the year and then miss it."
+LINE 298: "We ought to plan something," yawned Miss Baker, sitting down at the
+LINE 299: table as if she were getting into bed.
+LINE 300: "All right," said Daisy. "What'll we plan?" She turned to me
+LINE 301: helplessly: "What do people plan?"
+LINE 302: Before I could answer her eyes fastened with an awed expression on her
+LINE 303: little finger.
+LINE 304: "Look!" she complained; "I hurt it."
+LINE 305: We all looked—the knuckle was black and blue.
+LINE 306: "You did it, Tom," she said accusingly. "I know you didn't mean to,
+LINE 307: but you did do it. That's what I get for marrying a brute of a man, a
+LINE 308: great, big, hulking physical specimen of a—"
+LINE 309: "I hate that word 'hulking,' " objected Tom crossly, "even in
+LINE 310: kidding."
+LINE 311: "Hulking," insisted Daisy.
+LINE 312: Sometimes she and Miss Baker talked at once, unobtrusively and with a
+LINE 313: bantering inconsequence that was never quite chatter, that was as cool
+LINE 314: as their white dresses and their impersonal eyes in the absence of all
+LINE 315: desire. They were here, and they accepted Tom and me, making only a
+LINE 316: polite pleasant effort to entertain or to be entertained. They knew
+LINE 317: that presently dinner would be over and a little later the evening too
+LINE 318: would be over and casually put away. It was sharply different from the
+LINE 319: West, where an evening was hurried from phase to phase towards its
+LINE 320: close, in a continually disappointed anticipation or else in sheer
+LINE 321: nervous dread of the moment itself.
+LINE 322: "You make me feel uncivilized, Daisy," I confessed on my second glass
+LINE 323: of corky but rather impressive claret. "Can't you talk about crops or
+LINE 324: something?"
+LINE 325: I meant nothing in particular by this remark, but it was taken up in
+LINE 326: an unexpected way.
+LINE 327: "Civilization's going to pieces," broke out Tom violently. "I've
+LINE 328: gotten to be a terrible pessimist about things. Have you read The Rise
+LINE 329: of the Coloured Empires by this man Goddard?"
+LINE 330: "Why, no," I answered, rather surprised by his tone.
+LINE 331: "Well, it's a fine book, and everybody ought to read it. The idea is
+LINE 332: if we don't look out the white race will be—will be utterly
+LINE 333: submerged. It's all scientific stuff; it's been proved."
+LINE 334: "Tom's getting very profound," said Daisy, with an expression of
+LINE 335: unthoughtful sadness. "He reads deep books with long words in
+LINE 336: them. What was that word we—"
+LINE 337: "Well, these books are all scientific," insisted Tom, glancing at her
+LINE 338: impatiently. "This fellow has worked out the whole thing. It's up to
+LINE 339: us, who are the dominant race, to watch out or these other races will
+LINE 340: have control of things."
+LINE 341: "We've got to beat them down," whispered Daisy, winking ferociously
+LINE 342: toward the fervent sun.
+LINE 343: "You ought to live in California—" began Miss Baker, but Tom
+LINE 344: interrupted her by shifting heavily in his chair.
+LINE 345: "This idea is that we're Nordics. I am, and you are, and you are,
+LINE 346: and—" After an infinitesimal hesitation he included Daisy with a
+LINE 347: slight nod, and she winked at me again. "—And we've produced all the
+LINE 348: things that go to make civilization—oh, science and art, and all
+LINE 349: that. Do you see?"
+LINE 350: There was something pathetic in his concentration, as if his
+LINE 351: complacency, more acute than of old, was not enough to him any more.
+LINE 352: When, almost immediately, the telephone rang inside and the butler
+LINE 353: left the porch Daisy seized upon the momentary interruption and leaned
+LINE 354: towards me.
+LINE 355: "I'll tell you a family secret," she whispered enthusiastically.
+LINE 356: "It's about the butler's nose. Do you want to hear about the butler's
+LINE 357: nose?"
+LINE 358: "That's why I came over tonight."
+LINE 359: "Well, he wasn't always a butler; he used to be the silver polisher
+LINE 360: for some people in New York that had a silver service for two hundred
+LINE 361: people. He had to polish it from morning till night, until finally it
+LINE 362: began to affect his nose—"
+LINE 363: "Things went from bad to worse," suggested Miss Baker.
+LINE 364: "Yes. Things went from bad to worse, until finally he had to give up
+LINE 365: his position."
+LINE 366: For a moment the last sunshine fell with romantic affection upon her
+LINE 367: glowing face; her voice compelled me forward breathlessly as I
+LINE 368: listened—then the glow faded, each light deserting her with lingering
+LINE 369: regret, like children leaving a pleasant street at dusk.
+LINE 370: The butler came back and murmured something close to Tom's ear,
+LINE 371: whereupon Tom frowned, pushed back his chair, and without a word went
+LINE 372: inside. As if his absence quickened something within her, Daisy leaned
+LINE 373: forward again, her voice glowing and singing.
+LINE 374: "I love to see you at my table, Nick. You remind me of a—of a rose, an
+LINE 375: absolute rose. Doesn't he?" She turned to Miss Baker for confirmation:
+LINE 376: "An absolute rose?"
+LINE 377: This was untrue. I am not even faintly like a rose. She was only
+LINE 378: extemporizing, but a stirring warmth flowed from her, as if her heart
+LINE 379: was trying to come out to you concealed in one of those breathless,
+LINE 380: thrilling words. Then suddenly she threw her napkin on the table and
+LINE 381: excused herself and went into the house.
+LINE 382: Miss Baker and I exchanged a short glance consciously devoid of
+LINE 383: meaning. I was about to speak when she sat up alertly and said "Sh!"
+LINE 384: in a warning voice. A subdued impassioned murmur was audible in the
+LINE 385: room beyond, and Miss Baker leaned forward unashamed, trying to
+LINE 386: hear. The murmur trembled on the verge of coherence, sank down,
+LINE 387: mounted excitedly, and then ceased altogether.
+LINE 388: "This Mr. Gatsby you spoke of is my neighbour—" I began.
+LINE 389: "Don't talk. I want to hear what happens."
+LINE 390: "Is something happening?" I inquired innocently.
+LINE 391: "You mean to say you don't know?" said Miss Baker, honestly surprised.
+LINE 392: "I thought everybody knew."
+LINE 393: "I don't."
+LINE 394: "Why—" she said hesitantly. "Tom's got some woman in New York."
+LINE 395: "Got some woman?" I repeated blankly.
+LINE 396: Miss Baker nodded.
+LINE 397: "She might have the decency not to telephone him at dinner time.
+LINE 398: Don't you think?"
+LINE 399: Almost before I had grasped her meaning there was the flutter of a
+LINE 400: dress and the crunch of leather boots, and Tom and Daisy were back at
+LINE 401: the table.
+LINE 402: "It couldn't be helped!" cried Daisy with tense gaiety.
+LINE 403: She sat down, glanced searchingly at Miss Baker and then at me, and
+LINE 404: continued: "I looked outdoors for a minute, and it's very romantic
+LINE 405: outdoors. There's a bird on the lawn that I think must be a
+LINE 406: nightingale come over on the Cunard or White Star Line. He's singing
+LINE 407: away—" Her voice sang: "It's romantic, isn't it, Tom?"
+LINE 408: "Very romantic," he said, and then miserably to me: "If it's light
+LINE 409: enough after dinner, I want to take you down to the stables."
+LINE 410: The telephone rang inside, startlingly, and as Daisy shook her head
+LINE 411: decisively at Tom the subject of the stables, in fact all subjects,
+LINE 412: vanished into air. Among the broken fragments of the last five minutes
+LINE 413: at table I remember the candles being lit again, pointlessly, and I
+LINE 414: was conscious of wanting to look squarely at everyone, and yet to
+LINE 415: avoid all eyes. I couldn't guess what Daisy and Tom were thinking, but
+LINE 416: I doubt if even Miss Baker, who seemed to have mastered a certain
+LINE 417: hardy scepticism, was able utterly to put this fifth guest's shrill
+LINE 418: metallic urgency out of mind. To a certain temperament the situation
+LINE 419: might have seemed intriguing—my own instinct was to telephone
+LINE 420: immediately for the police.
+LINE 421: The horses, needless to say, were not mentioned again. Tom and Miss
+LINE 422: Baker, with several feet of twilight between them, strolled back into
+LINE 423: the library, as if to a vigil beside a perfectly tangible body, while,
+LINE 424: trying to look pleasantly interested and a little deaf, I followed
+LINE 425: Daisy around a chain of connecting verandas to the porch in front. In
+LINE 426: its deep gloom we sat down side by side on a wicker settee.
+LINE 427: Daisy took her face in her hands as if feeling its lovely shape, and
+LINE 428: her eyes moved gradually out into the velvet dusk. I saw that
+LINE 429: turbulent emotions possessed her, so I asked what I thought would be
+LINE 430: some sedative questions about her little girl.
+LINE 431: "We don't know each other very well, Nick," she said suddenly. "Even
+LINE 432: if we are cousins. You didn't come to my wedding."
+LINE 433: "I wasn't back from the war."
+LINE 434: "That's true." She hesitated. "Well, I've had a very bad time, Nick,
+LINE 435: and I'm pretty cynical about everything."
+LINE 436: Evidently she had reason to be. I waited but she didn't say any more,
+LINE 437: and after a moment I returned rather feebly to the subject of her
+LINE 438: daughter.
+LINE 439: "I suppose she talks, and—eats, and everything."
+LINE 440: "Oh, yes." She looked at me absently. "Listen, Nick; let me tell you
+LINE 441: what I said when she was born. Would you like to hear?"
+LINE 442: "Very much."
+LINE 443: "It'll show you how I've gotten to feel about—things. Well, she was
+LINE 444: less than an hour old and Tom was God knows where. I woke up out of
+LINE 445: the ether with an utterly abandoned feeling, and asked the nurse right
+LINE 446: away if it was a boy or a girl. She told me it was a girl, and so I
+LINE 447: turned my head away and wept. 'All right,' I said, 'I'm glad it's a
+LINE 448: girl. And I hope she'll be a fool—that's the best thing a girl can be
+LINE 449: in this world, a beautiful little fool.'
+LINE 450: "You see I think everything's terrible anyhow," she went on in a
+LINE 451: convinced way. "Everybody thinks so—the most advanced people. And I
+LINE 452: know. I've been everywhere and seen everything and done everything."
+LINE 453: Her eyes flashed around her in a defiant way, rather like Tom's, and
+LINE 454: she laughed with thrilling scorn. "Sophisticated—God, I'm
+LINE 455: sophisticated!"
+LINE 456: The instant her voice broke off, ceasing to compel my attention, my
+LINE 457: belief, I felt the basic insincerity of what she had said. It made me
+LINE 458: uneasy, as though the whole evening had been a trick of some sort to
+LINE 459: exact a contributory emotion from me. I waited, and sure enough, in a
+LINE 460: moment she looked at me with an absolute smirk on her lovely face, as
+LINE 461: if she had asserted her membership in a rather distinguished secret
+LINE 462: society to which she and Tom belonged.
+LINE 463: ------------------------------------------------------------------------
+LINE 464: Inside, the crimson room bloomed with light. Tom and Miss Baker sat at
+LINE 465: either end of the long couch and she read aloud to him from the
+LINE 466: Saturday Evening Post—the words, murmurous and uninflected, running
+LINE 467: together in a soothing tune. The lamplight, bright on his boots and
+LINE 468: dull on the autumn-leaf yellow of her hair, glinted along the paper as
+LINE 469: she turned a page with a flutter of slender muscles in her arms.
+LINE 470: When we came in she held us silent for a moment with a lifted hand.
+LINE 471: "To be continued," she said, tossing the magazine on the table, "in
+LINE 472: our very next issue."
+LINE 473: Her body asserted itself with a restless movement of her knee, and she
+LINE 474: stood up.
+LINE 475: "Ten o'clock," she remarked, apparently finding the time on the
+LINE 476: ceiling. "Time for this good girl to go to bed."
+LINE 477: "Jordan's going to play in the tournament tomorrow," explained Daisy,
+LINE 478: "over at Westchester."
+LINE 479: "Oh—you're Jordan Baker."
+LINE 480: I knew now why her face was familiar—its pleasing contemptuous
+LINE 481: expression had looked out at me from many rotogravure pictures of the
+LINE 482: sporting life at Asheville and Hot Springs and Palm Beach. I had heard
+LINE 483: some story of her too, a critical, unpleasant story, but what it was I
+LINE 484: had forgotten long ago.
+LINE 485: "Good night," she said softly. "Wake me at eight, won't you."
+LINE 486: "If you'll get up."
+LINE 487: "I will. Good night, Mr. Carraway. See you anon."
+LINE 488: "Of course you will," confirmed Daisy. "In fact I think I'll arrange a
+LINE 489: marriage. Come over often, Nick, and I'll sort of—oh—fling you
+LINE 490: together. You know—lock you up accidentally in linen closets and push
+LINE 491: you out to sea in a boat, and all that sort of thing—"
+LINE 492: "Good night," called Miss Baker from the stairs. "I haven't heard a
+LINE 493: word."
+LINE 494: "She's a nice girl," said Tom after a moment. "They oughtn't to let
+LINE 495: her run around the country this way."
+LINE 496: "Who oughtn't to?" inquired Daisy coldly.
+LINE 497: "Her family."
+LINE 498: "Her family is one aunt about a thousand years old. Besides, Nick's
+LINE 499: going to look after her, aren't you, Nick? She's going to spend lots
+LINE 500: of weekends out here this summer. I think the home influence will be
+LINE 501: very good for her."
+LINE 502: Daisy and Tom looked at each other for a moment in silence.
+LINE 503: "Is she from New York?" I asked quickly.
+LINE 504: "From Louisville. Our white girlhood was passed together there. Our
+LINE 505: beautiful white—"
+LINE 506: "Did you give Nick a little heart to heart talk on the veranda?"
+LINE 507: demanded Tom suddenly.
+LINE 508: "Did I?" She looked at me. "I can't seem to remember, but I think we
+LINE 509: talked about the Nordic race. Yes, I'm sure we did. It sort of crept
+LINE 510: up on us and first thing you know—"
+LINE 511: "Don't believe everything you hear, Nick," he advised me.
+LINE 512: I said lightly that I had heard nothing at all, and a few minutes
+LINE 513: later I got up to go home. They came to the door with me and stood
+LINE 514: side by side in a cheerful square of light. As I started my motor
+LINE 515: Daisy peremptorily called: "Wait!
+LINE 516: "I forgot to ask you something, and it's important. We heard you were
+LINE 517: engaged to a girl out West."
+LINE 518: "That's right," corroborated Tom kindly. "We heard that you were
+LINE 519: engaged."
+LINE 520: "It's a libel. I'm too poor."
+LINE 521: "But we heard it," insisted Daisy, surprising me by opening up again
+LINE 522: in a flower-like way. "We heard it from three people, so it must be
+LINE 523: true."
+LINE 524: Of course I knew what they were referring to, but I wasn't even
+LINE 525: vaguely engaged. The fact that gossip had published the banns was one
+LINE 526: of the reasons I had come East. You can't stop going with an old
+LINE 527: friend on account of rumours, and on the other hand I had no intention
+LINE 528: of being rumoured into marriage.
+LINE 529: Their interest rather touched me and made them less remotely
+LINE 530: rich—nevertheless, I was confused and a little disgusted as I drove
+LINE 531: away. It seemed to me that the thing for Daisy to do was to rush out
+LINE 532: of the house, child in arms—but apparently there were no such
+LINE 533: intentions in her head. As for Tom, the fact that he "had some woman
+LINE 534: in New York" was really less surprising than that he had been
+LINE 535: depressed by a book. Something was making him nibble at the edge of
+LINE 536: stale ideas as if his sturdy physical egotism no longer nourished his
+LINE 537: peremptory heart.
+LINE 538: Already it was deep summer on roadhouse roofs and in front of wayside
+LINE 539: garages, where new red petrol-pumps sat out in pools of light, and
+LINE 540: when I reached my estate at West Egg I ran the car under its shed and
+LINE 541: sat for a while on an abandoned grass roller in the yard. The wind had
+LINE 542: blown off, leaving a loud, bright night, with wings beating in the
+LINE 543: trees and a persistent organ sound as the full bellows of the earth
+LINE 544: blew the frogs full of life. The silhouette of a moving cat wavered
+LINE 545: across the moonlight, and, turning my head to watch it, I saw that I
+LINE 546: was not alone—fifty feet away a figure had emerged from the shadow of
+LINE 547: my neighbour's mansion and was standing with his hands in his pockets
+LINE 548: regarding the silver pepper of the stars. Something in his leisurely
+LINE 549: movements and the secure position of his feet upon the lawn suggested
+LINE 550: that it was Mr. Gatsby himself, come out to determine what share was
+LINE 551: his of our local heavens.
+LINE 552: I decided to call to him. Miss Baker had mentioned him at dinner, and
+LINE 553: that would do for an introduction. But I didn't call to him, for he
+LINE 554: gave a sudden intimation that he was content to be alone—he stretched
+LINE 555: out his arms toward the dark water in a curious way, and, far as I was
+LINE 556: from him, I could have sworn he was trembling. Involuntarily I glanced
+LINE 557: seaward—and distinguished nothing except a single green light, minute
+LINE 558: and far away, that might have been the end of a dock. When I looked
+LINE 559: once more for Gatsby he had vanished, and I was alone again in the
+LINE 560: unquiet darkness.

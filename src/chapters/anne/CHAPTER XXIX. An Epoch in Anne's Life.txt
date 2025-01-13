@@ -1,0 +1,258 @@
+LINE 1: ANNE was bringing the cows home from the back pasture by way of Lover's
+LINE 2: Lane. It was a September evening and all the gaps and clearings in the
+LINE 3: woods were brimmed up with ruby sunset light. Here and there the lane
+LINE 4: was splashed with it, but for the most part it was already quite shadowy
+LINE 5: beneath the maples, and the spaces under the firs were filled with a
+LINE 6: clear violet dusk like airy wine. The winds were out in their tops, and
+LINE 7: there is no sweeter music on earth than that which the wind makes in the
+LINE 8: fir trees at evening.
+LINE 9: The cows swung placidly down the lane, and Anne followed them dreamily,
+LINE 10: repeating aloud the battle canto from _Marmion_--which had also been part
+LINE 11: of their English course the preceding winter and which Miss Stacy had
+LINE 12: made them learn off by heart--and exulting in its rushing lines and the
+LINE 13: clash of spears in its imagery. When she came to the lines
+LINE 14: The stubborn spearsmen still made good
+LINE 15: Their dark impenetrable wood,
+LINE 16: she stopped in ecstasy to shut her eyes that she might the better fancy
+LINE 17: herself one of that heroic ring. When she opened them again it was to
+LINE 18: behold Diana coming through the gate that led into the Barry field and
+LINE 19: looking so important that Anne instantly divined there was news to be
+LINE 20: told. But betray too eager curiosity she would not.
+LINE 21: "Isn't this evening just like a purple dream, Diana? It makes me so glad
+LINE 22: to be alive. In the mornings I always think the mornings are best; but
+LINE 23: when evening comes I think it's lovelier still."
+LINE 24: "It's a very fine evening," said Diana, "but oh, I have such news, Anne.
+LINE 25: Guess. You can have three guesses."
+LINE 26: "Charlotte Gillis is going to be married in the church after all and
+LINE 27: Mrs. Allan wants us to decorate it," cried Anne.
+LINE 28: "No. Charlotte's beau won't agree to that, because nobody ever has been
+LINE 29: married in the church yet, and he thinks it would seem too much like a
+LINE 30: funeral. It's too mean, because it would be such fun. Guess again."
+LINE 31: "Jane's mother is going to let her have a birthday party?"
+LINE 32: Diana shook her head, her black eyes dancing with merriment.
+LINE 33: "I can't think what it can be," said Anne in despair, "unless it's that
+LINE 34: Moody Spurgeon MacPherson saw you home from prayer meeting last night.
+LINE 35: Did he?"
+LINE 36: "I should think not," exclaimed Diana indignantly. "I wouldn't be likely
+LINE 37: to boast of it if he did, the horrid creature! I knew you couldn't guess
+LINE 38: it. Mother had a letter from Aunt Josephine today, and Aunt Josephine
+LINE 39: wants you and me to go to town next Tuesday and stop with her for the
+LINE 40: Exhibition. There!"
+LINE 41: "Oh, Diana," whispered Anne, finding it necessary to lean up against a
+LINE 42: maple tree for support, "do you really mean it? But I'm afraid Marilla
+LINE 43: won't let me go. She will say that she can't encourage gadding about.
+LINE 44: That was what she said last week when Jane invited me to go with them
+LINE 45: in their double-seated buggy to the American concert at the White Sands
+LINE 46: Hotel. I wanted to go, but Marilla said I'd be better at home learning
+LINE 47: my lessons and so would Jane. I was bitterly disappointed, Diana. I felt
+LINE 48: so heartbroken that I wouldn't say my prayers when I went to bed. But I
+LINE 49: repented of that and got up in the middle of the night and said them."
+LINE 50: "I'll tell you," said Diana, "we'll get Mother to ask Marilla. She'll be
+LINE 51: more likely to let you go then; and if she does we'll have the time
+LINE 52: of our lives, Anne. I've never been to an Exhibition, and it's so
+LINE 53: aggravating to hear the other girls talking about their trips. Jane and
+LINE 54: Ruby have been twice, and they're going this year again."
+LINE 55: "I'm not going to think about it at all until I know whether I can go
+LINE 56: or not," said Anne resolutely. "If I did and then was disappointed, it
+LINE 57: would be more than I could bear. But in case I do go I'm very glad my
+LINE 58: new coat will be ready by that time. Marilla didn't think I needed a new
+LINE 59: coat. She said my old one would do very well for another winter and
+LINE 60: that I ought to be satisfied with having a new dress. The dress is very
+LINE 61: pretty, Diana--navy blue and made so fashionably. Marilla always makes
+LINE 62: my dresses fashionably now, because she says she doesn't intend to have
+LINE 63: Matthew going to Mrs. Lynde to make them. I'm so glad. It is ever so
+LINE 64: much easier to be good if your clothes are fashionable. At least, it is
+LINE 65: easier for me. I suppose it doesn't make such a difference to naturally
+LINE 66: good people. But Matthew said I must have a new coat, so Marilla
+LINE 67: bought a lovely piece of blue broadcloth, and it's being made by a real
+LINE 68: dressmaker over at Carmody. It's to be done Saturday night, and I'm
+LINE 69: trying not to imagine myself walking up the church aisle on Sunday in
+LINE 70: my new suit and cap, because I'm afraid it isn't right to imagine such
+LINE 71: things. But it just slips into my mind in spite of me. My cap is so
+LINE 72: pretty. Matthew bought it for me the day we were over at Carmody. It is
+LINE 73: one of those little blue velvet ones that are all the rage, with gold
+LINE 74: cord and tassels. Your new hat is elegant, Diana, and so becoming. When
+LINE 75: I saw you come into church last Sunday my heart swelled with pride to
+LINE 76: think you were my dearest friend. Do you suppose it's wrong for us to
+LINE 77: think so much about our clothes? Marilla says it is very sinful. But it
+LINE 78: is such an interesting subject, isn't it?"
+LINE 79: Marilla agreed to let Anne go to town, and it was arranged that
+LINE 80: Mr. Barry should take the girls in on the following Tuesday. As
+LINE 81: Charlottetown was thirty miles away and Mr. Barry wished to go and
+LINE 82: return the same day, it was necessary to make a very early start. But
+LINE 83: Anne counted it all joy, and was up before sunrise on Tuesday morning.
+LINE 84: A glance from her window assured her that the day would be fine, for
+LINE 85: the eastern sky behind the firs of the Haunted Wood was all silvery
+LINE 86: and cloudless. Through the gap in the trees a light was shining in the
+LINE 87: western gable of Orchard Slope, a token that Diana was also up.
+LINE 88: Anne was dressed by the time Matthew had the fire on and had the
+LINE 89: breakfast ready when Marilla came down, but for her own part was much
+LINE 90: too excited to eat. After breakfast the jaunty new cap and jacket were
+LINE 91: donned, and Anne hastened over the brook and up through the firs to
+LINE 92: Orchard Slope. Mr. Barry and Diana were waiting for her, and they were
+LINE 93: soon on the road.
+LINE 94: It was a long drive, but Anne and Diana enjoyed every minute of it. It
+LINE 95: was delightful to rattle along over the moist roads in the early red
+LINE 96: sunlight that was creeping across the shorn harvest fields. The air was
+LINE 97: fresh and crisp, and little smoke-blue mists curled through the valleys
+LINE 98: and floated off from the hills. Sometimes the road went through woods
+LINE 99: where maples were beginning to hang out scarlet banners; sometimes it
+LINE 100: crossed rivers on bridges that made Anne's flesh cringe with the old,
+LINE 101: half-delightful fear; sometimes it wound along a harbor shore and passed
+LINE 102: by a little cluster of weather-gray fishing huts; again it mounted to
+LINE 103: hills whence a far sweep of curving upland or misty-blue sky could be
+LINE 104: seen; but wherever it went there was much of interest to discuss. It was
+LINE 105: almost noon when they reached town and found their way to "Beechwood."
+LINE 106: It was quite a fine old mansion, set back from the street in a seclusion
+LINE 107: of green elms and branching beeches. Miss Barry met them at the door
+LINE 108: with a twinkle in her sharp black eyes.
+LINE 109: "So you've come to see me at last, you Anne-girl," she said. "Mercy,
+LINE 110: child, how you have grown! You're taller than I am, I declare. And
+LINE 111: you're ever so much better looking than you used to be, too. But I dare
+LINE 112: say you know that without being told."
+LINE 113: "Indeed I didn't," said Anne radiantly. "I know I'm not so freckled as
+LINE 114: I used to be, so I've much to be thankful for, but I really hadn't dared
+LINE 115: to hope there was any other improvement. I'm so glad you think there is,
+LINE 116: Miss Barry." Miss Barry's house was furnished with "great magnificence,"
+LINE 117: as Anne told Marilla afterward. The two little country girls were rather
+LINE 118: abashed by the splendor of the parlor where Miss Barry left them when
+LINE 119: she went to see about dinner.
+LINE 120: "Isn't it just like a palace?" whispered Diana. "I never was in Aunt
+LINE 121: Josephine's house before, and I'd no idea it was so grand. I just wish
+LINE 122: Julia Bell could see this--she puts on such airs about her mother's
+LINE 123: parlor."
+LINE 124: "Velvet carpet," sighed Anne luxuriously, "and silk curtains! I've
+LINE 125: dreamed of such things, Diana. But do you know I don't believe I feel
+LINE 126: very comfortable with them after all. There are so many things in this
+LINE 127: room and all so splendid that there is no scope for imagination. That is
+LINE 128: one consolation when you are poor--there are so many more things you can
+LINE 129: imagine about."
+LINE 130: Their sojourn in town was something that Anne and Diana dated from for
+LINE 131: years. From first to last it was crowded with delights.
+LINE 132: On Wednesday Miss Barry took them to the Exhibition grounds and kept
+LINE 133: them there all day.
+LINE 134: "It was splendid," Anne related to Marilla later on. "I never imagined
+LINE 135: anything so interesting. I don't really know which department was the
+LINE 136: most interesting. I think I liked the horses and the flowers and the
+LINE 137: fancywork best. Josie Pye took first prize for knitted lace. I was
+LINE 138: real glad she did. And I was glad that I felt glad, for it shows I'm
+LINE 139: improving, don't you think, Marilla, when I can rejoice in Josie's
+LINE 140: success? Mr. Harmon Andrews took second prize for Gravenstein apples
+LINE 141: and Mr. Bell took first prize for a pig. Diana said she thought it was
+LINE 142: ridiculous for a Sunday-school superintendent to take a prize in pigs,
+LINE 143: but I don't see why. Do you? She said she would always think of it after
+LINE 144: this when he was praying so solemnly. Clara Louise MacPherson took a
+LINE 145: prize for painting, and Mrs. Lynde got first prize for homemade butter
+LINE 146: and cheese. So Avonlea was pretty well represented, wasn't it? Mrs.
+LINE 147: Lynde was there that day, and I never knew how much I really liked her
+LINE 148: until I saw her familiar face among all those strangers. There
+LINE 149: were thousands of people there, Marilla. It made me feel dreadfully
+LINE 150: insignificant. And Miss Barry took us up to the grandstand to see
+LINE 151: the horse races. Mrs. Lynde wouldn't go; she said horse racing was an
+LINE 152: abomination and, she being a church member, thought it her bounden duty
+LINE 153: to set a good example by staying away. But there were so many there I
+LINE 154: don't believe Mrs. Lynde's absence would ever be noticed. I don't think,
+LINE 155: though, that I ought to go very often to horse races, because they _are_
+LINE 156: awfully fascinating. Diana got so excited that she offered to bet me
+LINE 157: ten cents that the red horse would win. I didn't believe he would, but
+LINE 158: I refused to bet, because I wanted to tell Mrs. Allan all about
+LINE 159: everything, and I felt sure it wouldn't do to tell her that. It's always
+LINE 160: wrong to do anything you can't tell the minister's wife. It's as good as
+LINE 161: an extra conscience to have a minister's wife for your friend. And I was
+LINE 162: very glad I didn't bet, because the red horse _did_ win, and I would have
+LINE 163: lost ten cents. So you see that virtue was its own reward. We saw a man
+LINE 164: go up in a balloon. I'd love to go up in a balloon, Marilla; it would
+LINE 165: be simply thrilling; and we saw a man selling fortunes. You paid him ten
+LINE 166: cents and a little bird picked out your fortune for you. Miss Barry gave
+LINE 167: Diana and me ten cents each to have our fortunes told. Mine was that I
+LINE 168: would marry a dark-complected man who was very wealthy, and I would go
+LINE 169: across water to live. I looked carefully at all the dark men I saw after
+LINE 170: that, but I didn't care much for any of them, and anyhow I suppose
+LINE 171: it's too early to be looking out for him yet. Oh, it was a
+LINE 172: never-to-be-forgotten day, Marilla. I was so tired I couldn't sleep at
+LINE 173: night. Miss Barry put us in the spare room, according to promise. It
+LINE 174: was an elegant room, Marilla, but somehow sleeping in a spare room isn't
+LINE 175: what I used to think it was. That's the worst of growing up, and I'm
+LINE 176: beginning to realize it. The things you wanted so much when you were a
+LINE 177: child don't seem half so wonderful to you when you get them."
+LINE 178: Thursday the girls had a drive in the park, and in the evening Miss
+LINE 179: Barry took them to a concert in the Academy of Music, where a noted
+LINE 180: prima donna was to sing. To Anne the evening was a glittering vision of
+LINE 181: delight.
+LINE 182: "Oh, Marilla, it was beyond description. I was so excited I couldn't
+LINE 183: even talk, so you may know what it was like. I just sat in enraptured
+LINE 184: silence. Madame Selitsky was perfectly beautiful, and wore white satin
+LINE 185: and diamonds. But when she began to sing I never thought about anything
+LINE 186: else. Oh, I can't tell you how I felt. But it seemed to me that it could
+LINE 187: never be hard to be good any more. I felt like I do when I look up to
+LINE 188: the stars. Tears came into my eyes, but, oh, they were such happy tears.
+LINE 189: I was so sorry when it was all over, and I told Miss Barry I didn't see
+LINE 190: how I was ever to return to common life again. She said she thought if
+LINE 191: we went over to the restaurant across the street and had an ice cream
+LINE 192: it might help me. That sounded so prosaic; but to my surprise I found
+LINE 193: it true. The ice cream was delicious, Marilla, and it was so lovely and
+LINE 194: dissipated to be sitting there eating it at eleven o'clock at night.
+LINE 195: Diana said she believed she was born for city life. Miss Barry asked
+LINE 196: me what my opinion was, but I said I would have to think it over very
+LINE 197: seriously before I could tell her what I really thought. So I thought it
+LINE 198: over after I went to bed. That is the best time to think things out. And
+LINE 199: I came to the conclusion, Marilla, that I wasn't born for city life and
+LINE 200: that I was glad of it. It's nice to be eating ice cream at brilliant
+LINE 201: restaurants at eleven o'clock at night once in a while; but as a regular
+LINE 202: thing I'd rather be in the east gable at eleven, sound asleep, but kind
+LINE 203: of knowing even in my sleep that the stars were shining outside and that
+LINE 204: the wind was blowing in the firs across the brook. I told Miss Barry
+LINE 205: so at breakfast the next morning and she laughed. Miss Barry generally
+LINE 206: laughed at anything I said, even when I said the most solemn things. I
+LINE 207: don't think I liked it, Marilla, because I wasn't trying to be funny.
+LINE 208: But she is a most hospitable lady and treated us royally."
+LINE 209: Friday brought going-home time, and Mr. Barry drove in for the girls.
+LINE 210: "Well, I hope you've enjoyed yourselves," said Miss Barry, as she bade
+LINE 211: them good-bye.
+LINE 212: "Indeed we have," said Diana.
+LINE 213: "And you, Anne-girl?"
+LINE 214: "I've enjoyed every minute of the time," said Anne, throwing her arms
+LINE 215: impulsively about the old woman's neck and kissing her wrinkled cheek.
+LINE 216: Diana would never have dared to do such a thing and felt rather aghast
+LINE 217: at Anne's freedom. But Miss Barry was pleased, and she stood on her
+LINE 218: veranda and watched the buggy out of sight. Then she went back into her
+LINE 219: big house with a sigh. It seemed very lonely, lacking those fresh young
+LINE 220: lives. Miss Barry was a rather selfish old lady, if the truth must
+LINE 221: be told, and had never cared much for anybody but herself. She valued
+LINE 222: people only as they were of service to her or amused her. Anne had
+LINE 223: amused her, and consequently stood high in the old lady's good graces.
+LINE 224: But Miss Barry found herself thinking less about Anne's quaint speeches
+LINE 225: than of her fresh enthusiasms, her transparent emotions, her little
+LINE 226: winning ways, and the sweetness of her eyes and lips.
+LINE 227: "I thought Marilla Cuthbert was an old fool when I heard she'd adopted
+LINE 228: a girl out of an orphan asylum," she said to herself, "but I guess she
+LINE 229: didn't make much of a mistake after all. If I'd a child like Anne in the
+LINE 230: house all the time I'd be a better and happier woman."
+LINE 231: Anne and Diana found the drive home as pleasant as the drive
+LINE 232: in--pleasanter, indeed, since there was the delightful consciousness of
+LINE 233: home waiting at the end of it. It was sunset when they passed through
+LINE 234: White Sands and turned into the shore road. Beyond, the Avonlea hills
+LINE 235: came out darkly against the saffron sky. Behind them the moon was rising
+LINE 236: out of the sea that grew all radiant and transfigured in her light.
+LINE 237: Every little cove along the curving road was a marvel of dancing
+LINE 238: ripples. The waves broke with a soft swish on the rocks below them, and
+LINE 239: the tang of the sea was in the strong, fresh air.
+LINE 240: "Oh, but it's good to be alive and to be going home," breathed Anne.
+LINE 241: When she crossed the log bridge over the brook the kitchen light of
+LINE 242: Green Gables winked her a friendly welcome back, and through the open
+LINE 243: door shone the hearth fire, sending out its warm red glow athwart the
+LINE 244: chilly autumn night. Anne ran blithely up the hill and into the kitchen,
+LINE 245: where a hot supper was waiting on the table.
+LINE 246: "So you've got back?" said Marilla, folding up her knitting.
+LINE 247: "Yes, and oh, it's so good to be back," said Anne joyously. "I could
+LINE 248: kiss everything, even to the clock. Marilla, a broiled chicken! You
+LINE 249: don't mean to say you cooked that for me!"
+LINE 250: "Yes, I did," said Marilla. "I thought you'd be hungry after such
+LINE 251: a drive and need something real appetizing. Hurry and take off your
+LINE 252: things, and we'll have supper as soon as Matthew comes in. I'm glad
+LINE 253: you've got back, I must say. It's been fearful lonesome here without
+LINE 254: you, and I never put in four longer days."
+LINE 255: After supper Anne sat before the fire between Matthew and Marilla, and
+LINE 256: gave them a full account of her visit.
+LINE 257: "I've had a splendid time," she concluded happily, "and I feel that it
+LINE 258: marks an epoch in my life. But the best of it all was the coming home."

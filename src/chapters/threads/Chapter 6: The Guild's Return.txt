@@ -1,0 +1,133 @@
+LINE 1: Elara had barely set foot outside her cottage when she saw the figure waiting
+LINE 2: for her at the edge of the village square. He was tall, dressed in dark robes
+LINE 3: that billowed in the wind, with an air of authority that made him stand out
+LINE 4: among the simple villagers. His gaze was fixed on her, and though his face was
+LINE 5: unfamiliar, there was something unsettlingly familiar in the way he held
+LINE 6: himself.
+LINE 7: The villagers parted as he walked toward her, their whispers filling the
+LINE 8: square. Elara's heart quickened. This man wasn't from the village—he wasn't
+LINE 9: like anyone she had ever met before. And yet, there was no mistaking that he
+LINE 10: had come for her. As he approached, the noise around her seemed to fade, until
+LINE 11: it was just the two of them standing amidst the sea of onlookers.
+LINE 12: "Elara," he said, his voice smooth, almost too smooth. "I've been waiting for
+LINE 13: you."
+LINE 14: She blinked, her hand instinctively moving toward the edge of her shawl,
+LINE 15: gripping it tightly. "Who are you?" she asked, her voice quieter than she
+LINE 16: intended.
+LINE 17: He smiled, though the gesture didn't reach his eyes. "My name is Maelis. I come
+LINE 18: on behalf of the Weaver's Guild."
+LINE 19: The mention of the guild sent a chill down Elara's spine. She had heard
+LINE 20: whispers of it before—a secretive organization that was said to control the
+LINE 21: threads of fate. But they were just stories, passed down through generations.
+LINE 22: She had never imagined they were real, let alone that they would come looking
+LINE 23: for her.
+LINE 24: "What do you want with me?" she asked, trying to keep her voice steady.
+LINE 25: Maelis stepped closer, his gaze never wavering. "You've been weaving fate,
+LINE 26: haven't you?" he said softly, though there was no judgment in his tone, only
+LINE 27: curiosity. "The things you've done—both intentional and unintentional—have not
+LINE 28: gone unnoticed. The guild has been watching."
+LINE 29: Elara's breath caught. The idea that she had been observed, that her actions
+LINE 30: had been tracked, sent a wave of fear through her. "I never meant to—"
+LINE 31: "It doesn't matter what you meant," Maelis interrupted, his voice calm but
+LINE 32: firm. "What matters is what you can do. And the guild is very interested in
+LINE 33: your talents."
+LINE 34: She took a step back, her mind racing. "I don't want anything to do with your
+LINE 35: guild."
+LINE 36: His smile widened, but there was no warmth in it. "It's not a matter of what
+LINE 37: you want, Elara. It's a matter of what is meant to be."
+LINE 38: Before she could respond, Maelis turned and began walking toward the edge of
+LINE 39: the village. "Think carefully," he called over his shoulder. "The guild offers
+LINE 40: power, control over your gift. But if you choose to walk away... there are
+LINE 41: consequences."
+LINE 42: Elara sat at her loom, her hands trembling as they hovered over the threads.
+LINE 43: She hadn't woven since Maelis's visit, hadn't dared to touch the loom, afraid
+LINE 44: of what she might weave into existence. But the words he had left her with
+LINE 45: echoed in her mind, haunting her every thought. The guild offers power, control
+LINE 46: over your gift. But at what cost?
+LINE 47: A knock on the door interrupted her thoughts, and she turned to see Grandmother
+LINE 48: Nira standing in the doorway, her expression more serious than Elara had ever
+LINE 49: seen. "I heard about the man who came to see you," Nira said softly, stepping
+LINE 50: inside and closing the door behind her.
+LINE 51: Elara swallowed, her throat tight. "He's from the Weaver's Guild. He wants me
+LINE 52: to join them."
+LINE 53: Nira nodded, her eyes dark with worry. "I feared this day would come," she
+LINE 54: murmured, sitting beside her. "The guild has always watched our family. We have
+LINE 55: a long history with them, though it's not something I wanted you to ever be
+LINE 56: part of."
+LINE 57: Elara frowned, confusion flickering across her face. "What do you mean?"
+LINE 58: Nira sighed, her hands clasped tightly in her lap. "Our ancestors were part of
+LINE 59: the guild long ago, but they left—fled, really—when they realized what the
+LINE 60: guild was truly about. It's not just about weaving fate. It's about control.
+LINE 61: The guild manipulates entire kingdoms, shaping their destinies to serve their
+LINE 62: own ends."
+LINE 63: Elara's stomach churned. "And now they want me?"
+LINE 64: Nira nodded grimly. "They see your potential. You've already woven things that
+LINE 65: most weavers could only dream of. But if you join them, you'll be bound to
+LINE 66: their will. You'll lose the freedom to choose how you use your gift."
+LINE 67: Elara's mind raced. The idea of having control over her power was tempting, but
+LINE 68: the thought of being tied to an organization that manipulated fate for their
+LINE 69: own gain filled her with dread. "What should I do?" she whispered, her voice
+LINE 70: barely audible.
+LINE 71: Nira reached out, placing a hand on her shoulder. "The choice is yours, Elara.
+LINE 72: But remember, once you step into their world, there's no turning back."
+LINE 73: The air was thick with the scent of pine and damp earth as Elara made her way
+LINE 74: through the forest, her thoughts swirling in a storm of indecision. She had
+LINE 75: come to the shrine again, hoping that the quiet would help her think, would
+LINE 76: give her some clarity about what she should do. The trees loomed around her,
+LINE 77: their branches forming a canopy that blocked out much of the sky, casting the
+LINE 78: forest in a muted, green light.
+LINE 79: As she neared the shrine, she felt the familiar sense of peace wash over her,
+LINE 80: the weight of her worries lifting slightly. But this time, the peace didn't
+LINE 81: last long. Maelis's words echoed in her mind, the threat of the guild hanging
+LINE 82: over her like a dark cloud. She couldn't shake the feeling that no matter what
+LINE 83: she chose, it would change everything.
+LINE 84: She knelt before the shrine, her hands resting on the cool stone as she closed
+LINE 85: her eyes and let her thoughts drift. What would it mean to join the guild?
+LINE 86: Could she trust them? Could she trust herself with the power they promised to
+LINE 87: give her? And if she refused, what consequences would she face?
+LINE 88: A rustling sound in the underbrush startled her, and she opened her eyes to see
+LINE 89: a figure emerging from the shadows. Maelis stood at the edge of the clearing,
+LINE 90: watching her with an unreadable expression. "You're thinking about it, aren't
+LINE 91: you?" he said, his voice low and smooth.
+LINE 92: Elara stood, her heart pounding in her chest. "You followed me."
+LINE 93: Maelis smiled, though there was no humor in it. "I'm not here to pressure you,
+LINE 94: Elara. I'm here to remind you of the reality you face. The guild can offer you
+LINE 95: a way to control your gift, to use it for more than just small changes in a
+LINE 96: village square. You could shape the world."
+LINE 97: Elara's jaw tightened. "But at what cost?"
+LINE 98: Maelis's eyes darkened. "Every choice has a cost. But what is freedom if you
+LINE 99: cannot control your own fate?"
+LINE 100: She hesitated, the weight of his words pressing down on her. The idea of
+LINE 101: control was tempting—terrifying, but tempting. "I need time to think," she
+LINE 102: said, her voice wavering slightly.
+LINE 103: Maelis nodded, though his gaze remained sharp. "Take all the time you need. But
+LINE 104: don't wait too long. Fate waits for no one."
+LINE 105: Elara sat in her cottage that evening, staring at the tapestry she had woven
+LINE 106: earlier that day. It was simple, a peaceful village scene, but she knew it
+LINE 107: represented so much more than that. It represented the life she had built here,
+LINE 108: the quiet simplicity of it, the connections she had with the people around her.
+LINE 109: Joining the guild would mean leaving all of that behind.
+LINE 110: A soft knock at the door drew her from her thoughts, and she turned to see Nira
+LINE 111: standing in the doorway, her face lined with concern. "Have you made your
+LINE 112: decision?" Nira asked quietly.
+LINE 113: Elara shook her head. "I don't know what to do. If I join the guild, I'll have
+LINE 114: control over my gift. But if I stay, I'll always be afraid of it, afraid of
+LINE 115: what I might do."
+LINE 116: Nira stepped into the room, her eyes filled with a deep sadness. "The guild may
+LINE 117: offer control, but it comes at a price. They will use you, Elara. They will
+LINE 118: shape you to fit their needs. And once you're part of them, there is no escape."
+LINE 119: Elara felt tears prick at the corners of her eyes. "But I don't know if I can
+LINE 120: handle this on my own. I've already caused so much damage."
+LINE 121: Nira's expression softened, and she placed a gentle hand on Elara's cheek. "You
+LINE 122: are stronger than you know. You have the power to choose your own path, to
+LINE 123: decide how you want to use your gift. The guild doesn't own your fate. You do."
+LINE 124: Elara blinked back the tears, her heart aching with the weight of her decision.
+LINE 125: "I'm scared, Grandmother."
+LINE 126: Nira smiled, her eyes soft. "We all are, child. But fear is not the enemy. It's
+LINE 127: what we do with it that matters."
+LINE 128: Elara took a deep breath, her resolve hardening. She knew what she had to do.
+LINE 129: The guild had come for her, offering power and control, but they couldn't offer
+LINE 130: her the one thing she valued most: her freedom.
+LINE 131: "I won't join them," she whispered, the words steady and firm.
+LINE 132: Nira nodded, her eyes filled with pride. "Then you have already chosen the
+LINE 133: right path."

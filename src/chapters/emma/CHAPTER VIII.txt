@@ -1,0 +1,362 @@
+LINE 1: Harriet slept at Hartfield that night. For some weeks past she had been
+LINE 2: spending more than half her time there, and gradually getting to have a
+LINE 3: bed-room appropriated to herself; and Emma judged it best in every
+LINE 4: respect, safest and kindest, to keep her with them as much as possible
+LINE 5: just at present. She was obliged to go the next morning for an hour or
+LINE 6: two to Mrs. Goddard's, but it was then to be settled that she should
+LINE 7: return to Hartfield, to make a regular visit of some days.
+LINE 8: While she was gone, Mr. Knightley called, and sat some time with Mr.
+LINE 9: Woodhouse and Emma, till Mr. Woodhouse, who had previously made up his
+LINE 10: mind to walk out, was persuaded by his daughter not to defer it, and
+LINE 11: was induced by the entreaties of both, though against the scruples of
+LINE 12: his own civility, to leave Mr. Knightley for that purpose. Mr.
+LINE 13: Knightley, who had nothing of ceremony about him, was offering by his
+LINE 14: short, decided answers, an amusing contrast to the protracted apologies
+LINE 15: and civil hesitations of the other.
+LINE 16: "Well, I believe, if you will excuse me, Mr. Knightley, if you will not
+LINE 17: consider me as doing a very rude thing, I shall take Emma's advice and
+LINE 18: go out for a quarter of an hour. As the sun is out, I believe I had
+LINE 19: better take my three turns while I can. I treat you without ceremony,
+LINE 20: Mr. Knightley. We invalids think we are privileged people."
+LINE 21: "My dear sir, do not make a stranger of me."
+LINE 22: "I leave an excellent substitute in my daughter. Emma will be happy to
+LINE 23: entertain you. And therefore I think I will beg your excuse and take my
+LINE 24: three turns—my winter walk."
+LINE 25: "You cannot do better, sir."
+LINE 26: "I would ask for the pleasure of your company, Mr. Knightley, but I am
+LINE 27: a very slow walker, and my pace would be tedious to you; and, besides,
+LINE 28: you have another long walk before you, to Donwell Abbey."
+LINE 29: "Thank you, sir, thank you; I am going this moment myself; and I think
+LINE 30: the sooner _you_ go the better. I will fetch your greatcoat and open
+LINE 31: the garden door for you."
+LINE 32: Mr. Woodhouse at last was off; but Mr. Knightley, instead of being
+LINE 33: immediately off likewise, sat down again, seemingly inclined for more
+LINE 34: chat. He began speaking of Harriet, and speaking of her with more
+LINE 35: voluntary praise than Emma had ever heard before.
+LINE 36: "I cannot rate her beauty as you do," said he; "but she is a pretty
+LINE 37: little creature, and I am inclined to think very well of her
+LINE 38: disposition. Her character depends upon those she is with; but in good
+LINE 39: hands she will turn out a valuable woman."
+LINE 40: "I am glad you think so; and the good hands, I hope, may not be
+LINE 41: wanting."
+LINE 42: "Come," said he, "you are anxious for a compliment, so I will tell you
+LINE 43: that you have improved her. You have cured her of her school-girl's
+LINE 44: giggle; she really does you credit."
+LINE 45: "Thank you. I should be mortified indeed if I did not believe I had
+LINE 46: been of some use; but it is not every body who will bestow praise where
+LINE 47: they may. _You_ do not often overpower me with it."
+LINE 48: "You are expecting her again, you say, this morning?"
+LINE 49: "Almost every moment. She has been gone longer already than she
+LINE 50: intended."
+LINE 51: "Something has happened to delay her; some visitors perhaps."
+LINE 52: "Highbury gossips!—Tiresome wretches!"
+LINE 53: "Harriet may not consider every body tiresome that you would."
+LINE 54: Emma knew this was too true for contradiction, and therefore said
+LINE 55: nothing. He presently added, with a smile,
+LINE 56: "I do not pretend to fix on times or places, but I must tell you that I
+LINE 57: have good reason to believe your little friend will soon hear of
+LINE 58: something to her advantage."
+LINE 59: "Indeed! how so? of what sort?"
+LINE 60: "A very serious sort, I assure you;" still smiling.
+LINE 61: "Very serious! I can think of but one thing—Who is in love with her?
+LINE 62: Who makes you their confidant?"
+LINE 63: Emma was more than half in hopes of Mr. Elton's having dropt a hint.
+LINE 64: Mr. Knightley was a sort of general friend and adviser, and she knew
+LINE 65: Mr. Elton looked up to him.
+LINE 66: "I have reason to think," he replied, "that Harriet Smith will soon
+LINE 67: have an offer of marriage, and from a most unexceptionable
+LINE 68: quarter:—Robert Martin is the man. Her visit to Abbey-Mill, this
+LINE 69: summer, seems to have done his business. He is desperately in love and
+LINE 70: means to marry her."
+LINE 71: "He is very obliging," said Emma; "but is he sure that Harriet means to
+LINE 72: marry him?"
+LINE 73: "Well, well, means to make her an offer then. Will that do? He came to
+LINE 74: the Abbey two evenings ago, on purpose to consult me about it. He knows
+LINE 75: I have a thorough regard for him and all his family, and, I believe,
+LINE 76: considers me as one of his best friends. He came to ask me whether I
+LINE 77: thought it would be imprudent in him to settle so early; whether I
+LINE 78: thought her too young: in short, whether I approved his choice
+LINE 79: altogether; having some apprehension perhaps of her being considered
+LINE 80: (especially since _your_ making so much of her) as in a line of society
+LINE 81: above him. I was very much pleased with all that he said. I never hear
+LINE 82: better sense from any one than Robert Martin. He always speaks to the
+LINE 83: purpose; open, straightforward, and very well judging. He told me every
+LINE 84: thing; his circumstances and plans, and what they all proposed doing in
+LINE 85: the event of his marriage. He is an excellent young man, both as son
+LINE 86: and brother. I had no hesitation in advising him to marry. He proved to
+LINE 87: me that he could afford it; and that being the case, I was convinced he
+LINE 88: could not do better. I praised the fair lady too, and altogether sent
+LINE 89: him away very happy. If he had never esteemed my opinion before, he
+LINE 90: would have thought highly of me then; and, I dare say, left the house
+LINE 91: thinking me the best friend and counsellor man ever had. This happened
+LINE 92: the night before last. Now, as we may fairly suppose, he would not
+LINE 93: allow much time to pass before he spoke to the lady, and as he does not
+LINE 94: appear to have spoken yesterday, it is not unlikely that he should be
+LINE 95: at Mrs. Goddard's to-day; and she may be detained by a visitor, without
+LINE 96: thinking him at all a tiresome wretch."
+LINE 97: "Pray, Mr. Knightley," said Emma, who had been smiling to herself
+LINE 98: through a great part of this speech, "how do you know that Mr. Martin
+LINE 99: did not speak yesterday?"
+LINE 100: "Certainly," replied he, surprized, "I do not absolutely know it; but
+LINE 101: it may be inferred. Was not she the whole day with you?"
+LINE 102: "Come," said she, "I will tell you something, in return for what you
+LINE 103: have told me. He did speak yesterday—that is, he wrote, and was
+LINE 104: refused."
+LINE 105: This was obliged to be repeated before it could be believed; and Mr.
+LINE 106: Knightley actually looked red with surprize and displeasure, as he
+LINE 107: stood up, in tall indignation, and said,
+LINE 108: "Then she is a greater simpleton than I ever believed her. What is the
+LINE 109: foolish girl about?"
+LINE 110: "Oh! to be sure," cried Emma, "it is always incomprehensible to a man
+LINE 111: that a woman should ever refuse an offer of marriage. A man always
+LINE 112: imagines a woman to be ready for any body who asks her."
+LINE 113: "Nonsense! a man does not imagine any such thing. But what is the
+LINE 114: meaning of this? Harriet Smith refuse Robert Martin? madness, if it is
+LINE 115: so; but I hope you are mistaken."
+LINE 116: "I saw her answer!—nothing could be clearer."
+LINE 117: "You saw her answer!—you wrote her answer too. Emma, this is your
+LINE 118: doing. You persuaded her to refuse him."
+LINE 119: "And if I did, (which, however, I am far from allowing) I should not
+LINE 120: feel that I had done wrong. Mr. Martin is a very respectable young man,
+LINE 121: but I cannot admit him to be Harriet's equal; and am rather surprized
+LINE 122: indeed that he should have ventured to address her. By your account, he
+LINE 123: does seem to have had some scruples. It is a pity that they were ever
+LINE 124: got over."
+LINE 125: "Not Harriet's equal!" exclaimed Mr. Knightley loudly and warmly; and
+LINE 126: with calmer asperity, added, a few moments afterwards, "No, he is not
+LINE 127: her equal indeed, for he is as much her superior in sense as in
+LINE 128: situation. Emma, your infatuation about that girl blinds you. What are
+LINE 129: Harriet Smith's claims, either of birth, nature or education, to any
+LINE 130: connexion higher than Robert Martin? She is the natural daughter of
+LINE 131: nobody knows whom, with probably no settled provision at all, and
+LINE 132: certainly no respectable relations. She is known only as
+LINE 133: parlour-boarder at a common school. She is not a sensible girl, nor a
+LINE 134: girl of any information. She has been taught nothing useful, and is too
+LINE 135: young and too simple to have acquired any thing herself. At her age she
+LINE 136: can have no experience, and with her little wit, is not very likely
+LINE 137: ever to have any that can avail her. She is pretty, and she is good
+LINE 138: tempered, and that is all. My only scruple in advising the match was on
+LINE 139: his account, as being beneath his deserts, and a bad connexion for him.
+LINE 140: I felt that, as to fortune, in all probability he might do much better;
+LINE 141: and that as to a rational companion or useful helpmate, he could not do
+LINE 142: worse. But I could not reason so to a man in love, and was willing to
+LINE 143: trust to there being no harm in her, to her having that sort of
+LINE 144: disposition, which, in good hands, like his, might be easily led aright
+LINE 145: and turn out very well. The advantage of the match I felt to be all on
+LINE 146: her side; and had not the smallest doubt (nor have I now) that there
+LINE 147: would be a general cry-out upon her extreme good luck. Even _your_
+LINE 148: satisfaction I made sure of. It crossed my mind immediately that you
+LINE 149: would not regret your friend's leaving Highbury, for the sake of her
+LINE 150: being settled so well. I remember saying to myself, 'Even Emma, with
+LINE 151: all her partiality for Harriet, will think this a good match.'"
+LINE 152: "I cannot help wondering at your knowing so little of Emma as to say
+LINE 153: any such thing. What! think a farmer, (and with all his sense and all
+LINE 154: his merit Mr. Martin is nothing more,) a good match for my intimate
+LINE 155: friend! Not regret her leaving Highbury for the sake of marrying a man
+LINE 156: whom I could never admit as an acquaintance of my own! I wonder you
+LINE 157: should think it possible for me to have such feelings. I assure you
+LINE 158: mine are very different. I must think your statement by no means fair.
+LINE 159: You are not just to Harriet's claims. They would be estimated very
+LINE 160: differently by others as well as myself; Mr. Martin may be the richest
+LINE 161: of the two, but he is undoubtedly her inferior as to rank in
+LINE 162: society.—The sphere in which she moves is much above his.—It would be a
+LINE 163: degradation."
+LINE 164: "A degradation to illegitimacy and ignorance, to be married to a
+LINE 165: respectable, intelligent gentleman-farmer!"
+LINE 166: "As to the circumstances of her birth, though in a legal sense she may
+LINE 167: be called Nobody, it will not hold in common sense. She is not to pay
+LINE 168: for the offence of others, by being held below the level of those with
+LINE 169: whom she is brought up.—There can scarcely be a doubt that her father
+LINE 170: is a gentleman—and a gentleman of fortune.—Her allowance is very
+LINE 171: liberal; nothing has ever been grudged for her improvement or
+LINE 172: comfort.—That she is a gentleman's daughter, is indubitable to me; that
+LINE 173: she associates with gentlemen's daughters, no one, I apprehend, will
+LINE 174: deny.—She is superior to Mr. Robert Martin."
+LINE 175: "Whoever might be her parents," said Mr. Knightley, "whoever may have
+LINE 176: had the charge of her, it does not appear to have been any part of
+LINE 177: their plan to introduce her into what you would call good society.
+LINE 178: After receiving a very indifferent education she is left in Mrs.
+LINE 179: Goddard's hands to shift as she can;—to move, in short, in Mrs.
+LINE 180: Goddard's line, to have Mrs. Goddard's acquaintance. Her friends
+LINE 181: evidently thought this good enough for her; and it _was_ good enough.
+LINE 182: She desired nothing better herself. Till you chose to turn her into a
+LINE 183: friend, her mind had no distaste for her own set, nor any ambition
+LINE 184: beyond it. She was as happy as possible with the Martins in the summer.
+LINE 185: She had no sense of superiority then. If she has it now, you have given
+LINE 186: it. You have been no friend to Harriet Smith, Emma. Robert Martin would
+LINE 187: never have proceeded so far, if he had not felt persuaded of her not
+LINE 188: being disinclined to him. I know him well. He has too much real feeling
+LINE 189: to address any woman on the haphazard of selfish passion. And as to
+LINE 190: conceit, he is the farthest from it of any man I know. Depend upon it
+LINE 191: he had encouragement."
+LINE 192: It was most convenient to Emma not to make a direct reply to this
+LINE 193: assertion; she chose rather to take up her own line of the subject
+LINE 194: again.
+LINE 195: "You are a very warm friend to Mr. Martin; but, as I said before, are
+LINE 196: unjust to Harriet. Harriet's claims to marry well are not so
+LINE 197: contemptible as you represent them. She is not a clever girl, but she
+LINE 198: has better sense than you are aware of, and does not deserve to have
+LINE 199: her understanding spoken of so slightingly. Waiving that point,
+LINE 200: however, and supposing her to be, as you describe her, only pretty and
+LINE 201: good-natured, let me tell you, that in the degree she possesses them,
+LINE 202: they are not trivial recommendations to the world in general, for she
+LINE 203: is, in fact, a beautiful girl, and must be thought so by ninety-nine
+LINE 204: people out of an hundred; and till it appears that men are much more
+LINE 205: philosophic on the subject of beauty than they are generally supposed;
+LINE 206: till they do fall in love with well-informed minds instead of handsome
+LINE 207: faces, a girl, with such loveliness as Harriet, has a certainty of
+LINE 208: being admired and sought after, of having the power of chusing from
+LINE 209: among many, consequently a claim to be nice. Her good-nature, too, is
+LINE 210: not so very slight a claim, comprehending, as it does, real, thorough
+LINE 211: sweetness of temper and manner, a very humble opinion of herself, and a
+LINE 212: great readiness to be pleased with other people. I am very much
+LINE 213: mistaken if your sex in general would not think such beauty, and such
+LINE 214: temper, the highest claims a woman could possess."
+LINE 215: "Upon my word, Emma, to hear you abusing the reason you have, is almost
+LINE 216: enough to make me think so too. Better be without sense, than misapply
+LINE 217: it as you do."
+LINE 218: "To be sure!" cried she playfully. "I know _that_ is the feeling of you
+LINE 219: all. I know that such a girl as Harriet is exactly what every man
+LINE 220: delights in—what at once bewitches his senses and satisfies his
+LINE 221: judgment. Oh! Harriet may pick and chuse. Were you, yourself, ever to
+LINE 222: marry, she is the very woman for you. And is she, at seventeen, just
+LINE 223: entering into life, just beginning to be known, to be wondered at
+LINE 224: because she does not accept the first offer she receives? No—pray let
+LINE 225: her have time to look about her."
+LINE 226: "I have always thought it a very foolish intimacy," said Mr. Knightley
+LINE 227: presently, "though I have kept my thoughts to myself; but I now
+LINE 228: perceive that it will be a very unfortunate one for Harriet. You will
+LINE 229: puff her up with such ideas of her own beauty, and of what she has a
+LINE 230: claim to, that, in a little while, nobody within her reach will be good
+LINE 231: enough for her. Vanity working on a weak head, produces every sort of
+LINE 232: mischief. Nothing so easy as for a young lady to raise her expectations
+LINE 233: too high. Miss Harriet Smith may not find offers of marriage flow in so
+LINE 234: fast, though she is a very pretty girl. Men of sense, whatever you may
+LINE 235: chuse to say, do not want silly wives. Men of family would not be very
+LINE 236: fond of connecting themselves with a girl of such obscurity—and most
+LINE 237: prudent men would be afraid of the inconvenience and disgrace they
+LINE 238: might be involved in, when the mystery of her parentage came to be
+LINE 239: revealed. Let her marry Robert Martin, and she is safe, respectable,
+LINE 240: and happy for ever; but if you encourage her to expect to marry
+LINE 241: greatly, and teach her to be satisfied with nothing less than a man of
+LINE 242: consequence and large fortune, she may be a parlour-boarder at Mrs.
+LINE 243: Goddard's all the rest of her life—or, at least, (for Harriet Smith is
+LINE 244: a girl who will marry somebody or other,) till she grow desperate, and
+LINE 245: is glad to catch at the old writing-master's son."
+LINE 246: "We think so very differently on this point, Mr. Knightley, that there
+LINE 247: can be no use in canvassing it. We shall only be making each other more
+LINE 248: angry. But as to my _letting_ her marry Robert Martin, it is
+LINE 249: impossible; she has refused him, and so decidedly, I think, as must
+LINE 250: prevent any second application. She must abide by the evil of having
+LINE 251: refused him, whatever it may be; and as to the refusal itself, I will
+LINE 252: not pretend to say that I might not influence her a little; but I
+LINE 253: assure you there was very little for me or for any body to do. His
+LINE 254: appearance is so much against him, and his manner so bad, that if she
+LINE 255: ever were disposed to favour him, she is not now. I can imagine, that
+LINE 256: before she had seen any body superior, she might tolerate him. He was
+LINE 257: the brother of her friends, and he took pains to please her; and
+LINE 258: altogether, having seen nobody better (that must have been his great
+LINE 259: assistant) she might not, while she was at Abbey-Mill, find him
+LINE 260: disagreeable. But the case is altered now. She knows now what gentlemen
+LINE 261: are; and nothing but a gentleman in education and manner has any chance
+LINE 262: with Harriet."
+LINE 263: "Nonsense, errant nonsense, as ever was talked!" cried Mr.
+LINE 264: Knightley.—"Robert Martin's manners have sense, sincerity, and
+LINE 265: good-humour to recommend them; and his mind has more true gentility
+LINE 266: than Harriet Smith could understand."
+LINE 267: Emma made no answer, and tried to look cheerfully unconcerned, but was
+LINE 268: really feeling uncomfortable and wanting him very much to be gone. She
+LINE 269: did not repent what she had done; she still thought herself a better
+LINE 270: judge of such a point of female right and refinement than he could be;
+LINE 271: but yet she had a sort of habitual respect for his judgment in general,
+LINE 272: which made her dislike having it so loudly against her; and to have him
+LINE 273: sitting just opposite to her in angry state, was very disagreeable.
+LINE 274: Some minutes passed in this unpleasant silence, with only one attempt
+LINE 275: on Emma's side to talk of the weather, but he made no answer. He was
+LINE 276: thinking. The result of his thoughts appeared at last in these words.
+LINE 277: "Robert Martin has no great loss—if he can but think so; and I hope it
+LINE 278: will not be long before he does. Your views for Harriet are best known
+LINE 279: to yourself; but as you make no secret of your love of match-making, it
+LINE 280: is fair to suppose that views, and plans, and projects you have;—and as
+LINE 281: a friend I shall just hint to you that if Elton is the man, I think it
+LINE 282: will be all labour in vain."
+LINE 283: Emma laughed and disclaimed. He continued,
+LINE 284: "Depend upon it, Elton will not do. Elton is a very good sort of man,
+LINE 285: and a very respectable vicar of Highbury, but not at all likely to make
+LINE 286: an imprudent match. He knows the value of a good income as well as any
+LINE 287: body. Elton may talk sentimentally, but he will act rationally. He is
+LINE 288: as well acquainted with his own claims, as you can be with Harriet's.
+LINE 289: He knows that he is a very handsome young man, and a great favourite
+LINE 290: wherever he goes; and from his general way of talking in unreserved
+LINE 291: moments, when there are only men present, I am convinced that he does
+LINE 292: not mean to throw himself away. I have heard him speak with great
+LINE 293: animation of a large family of young ladies that his sisters are
+LINE 294: intimate with, who have all twenty thousand pounds apiece."
+LINE 295: "I am very much obliged to you," said Emma, laughing again. "If I had
+LINE 296: set my heart on Mr. Elton's marrying Harriet, it would have been very
+LINE 297: kind to open my eyes; but at present I only want to keep Harriet to
+LINE 298: myself. I have done with match-making indeed. I could never hope to
+LINE 299: equal my own doings at Randalls. I shall leave off while I am well."
+LINE 300: "Good morning to you,"—said he, rising and walking off abruptly. He was
+LINE 301: very much vexed. He felt the disappointment of the young man, and was
+LINE 302: mortified to have been the means of promoting it, by the sanction he
+LINE 303: had given; and the part which he was persuaded Emma had taken in the
+LINE 304: affair, was provoking him exceedingly.
+LINE 305: Emma remained in a state of vexation too; but there was more
+LINE 306: indistinctness in the causes of her's, than in his. She did not always
+LINE 307: feel so absolutely satisfied with herself, so entirely convinced that
+LINE 308: her opinions were right and her adversary's wrong, as Mr. Knightley. He
+LINE 309: walked off in more complete self-approbation than he left for her. She
+LINE 310: was not so materially cast down, however, but that a little time and
+LINE 311: the return of Harriet were very adequate restoratives. Harriet's
+LINE 312: staying away so long was beginning to make her uneasy. The possibility
+LINE 313: of the young man's coming to Mrs. Goddard's that morning, and meeting
+LINE 314: with Harriet and pleading his own cause, gave alarming ideas. The dread
+LINE 315: of such a failure after all became the prominent uneasiness; and when
+LINE 316: Harriet appeared, and in very good spirits, and without having any such
+LINE 317: reason to give for her long absence, she felt a satisfaction which
+LINE 318: settled her with her own mind, and convinced her, that let Mr.
+LINE 319: Knightley think or say what he would, she had done nothing which
+LINE 320: woman's friendship and woman's feelings would not justify.
+LINE 321: He had frightened her a little about Mr. Elton; but when she considered
+LINE 322: that Mr. Knightley could not have observed him as she had done, neither
+LINE 323: with the interest, nor (she must be allowed to tell herself, in spite
+LINE 324: of Mr. Knightley's pretensions) with the skill of such an observer on
+LINE 325: such a question as herself, that he had spoken it hastily and in anger,
+LINE 326: she was able to believe, that he had rather said what he wished
+LINE 327: resentfully to be true, than what he knew any thing about. He certainly
+LINE 328: might have heard Mr. Elton speak with more unreserve than she had ever
+LINE 329: done, and Mr. Elton might not be of an imprudent, inconsiderate
+LINE 330: disposition as to money matters; he might naturally be rather attentive
+LINE 331: than otherwise to them; but then, Mr. Knightley did not make due
+LINE 332: allowance for the influence of a strong passion at war with all
+LINE 333: interested motives. Mr. Knightley saw no such passion, and of course
+LINE 334: thought nothing of its effects; but she saw too much of it to feel a
+LINE 335: doubt of its overcoming any hesitations that a reasonable prudence
+LINE 336: might originally suggest; and more than a reasonable, becoming degree
+LINE 337: of prudence, she was very sure did not belong to Mr. Elton.
+LINE 338: Harriet's cheerful look and manner established hers: she came back, not
+LINE 339: to think of Mr. Martin, but to talk of Mr. Elton. Miss Nash had been
+LINE 340: telling her something, which she repeated immediately with great
+LINE 341: delight. Mr. Perry had been to Mrs. Goddard's to attend a sick child,
+LINE 342: and Miss Nash had seen him, and he had told Miss Nash, that as he was
+LINE 343: coming back yesterday from Clayton Park, he had met Mr. Elton, and
+LINE 344: found to his great surprize, that Mr. Elton was actually on his road to
+LINE 345: London, and not meaning to return till the morrow, though it was the
+LINE 346: whist-club night, which he had been never known to miss before; and Mr.
+LINE 347: Perry had remonstrated with him about it, and told him how shabby it
+LINE 348: was in him, their best player, to absent himself, and tried very much
+LINE 349: to persuade him to put off his journey only one day; but it would not
+LINE 350: do; Mr. Elton had been determined to go on, and had said in a _very_
+LINE 351: _particular_ way indeed, that he was going on business which he would
+LINE 352: not put off for any inducement in the world; and something about a very
+LINE 353: enviable commission, and being the bearer of something exceedingly
+LINE 354: precious. Mr. Perry could not quite understand him, but he was very
+LINE 355: sure there must be a _lady_ in the case, and he told him so; and Mr.
+LINE 356: Elton only looked very conscious and smiling, and rode off in great
+LINE 357: spirits. Miss Nash had told her all this, and had talked a great deal
+LINE 358: more about Mr. Elton; and said, looking so very significantly at her,
+LINE 359: "that she did not pretend to understand what his business might be, but
+LINE 360: she only knew that any woman whom Mr. Elton could prefer, she should
+LINE 361: think the luckiest woman in the world; for, beyond a doubt, Mr. Elton
+LINE 362: had not his equal for beauty or agreeableness."

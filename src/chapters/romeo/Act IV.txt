@@ -1,0 +1,464 @@
+LINE 1: ACT IV. Scene I.
+LINE 2: Friar Laurence's cell.
+LINE 3: Enter Friar, [Laurence] and County Paris.
+LINE 4: Friar. On Thursday, sir? The time is very short.
+LINE 5: Par. My father Capulet will have it so,
+LINE 6: And I am nothing slow to slack his haste.
+LINE 7: Friar. You say you do not know the lady's mind.
+LINE 8: Uneven is the course; I like it not.
+LINE 9: Par. Immoderately she weeps for Tybalt's death,
+LINE 10: And therefore have I little talk'd of love;
+LINE 11: For Venus smiles not in a house of tears.
+LINE 12: Now, sir, her father counts it dangerous
+LINE 13: That she do give her sorrow so much sway,
+LINE 14: And in his wisdom hastes our marriage
+LINE 15: To stop the inundation of her tears,
+LINE 16: Which, too much minded by herself alone,
+LINE 17: May be put from her by society.
+LINE 18: Now do you know the reason of this haste.
+LINE 19: Friar. [aside] I would I knew not why it should be slow'd.-
+LINE 20: Look, sir, here comes the lady toward my cell.
+LINE 21: Enter Juliet.
+LINE 22: Par. Happily met, my lady and my wife!
+LINE 23: Jul. That may be, sir, when I may be a wife.
+LINE 24: Par. That may be must be, love, on Thursday next.
+LINE 25: Jul. What must be shall be.
+LINE 26: Friar. That's a certain text.
+LINE 27: Par. Come you to make confession to this father?
+LINE 28: Jul. To answer that, I should confess to you.
+LINE 29: Par. Do not deny to him that you love me.
+LINE 30: Jul. I will confess to you that I love him.
+LINE 31: Par. So will ye, I am sure, that you love me.
+LINE 32: Jul. If I do so, it will be of more price,
+LINE 33: Being spoke behind your back, than to your face.
+LINE 34: Par. Poor soul, thy face is much abus'd with tears.
+LINE 35: Jul. The tears have got small victory by that,
+LINE 36: For it was bad enough before their spite.
+LINE 37: Par. Thou wrong'st it more than tears with that report.
+LINE 38: Jul. That is no slander, sir, which is a truth;
+LINE 39: And what I spake, I spake it to my face.
+LINE 40: Par. Thy face is mine, and thou hast sland'red it.
+LINE 41: Jul. It may be so, for it is not mine own.
+LINE 42: Are you at leisure, holy father, now,
+LINE 43: Or shall I come to you at evening mass?
+LINE 44: Friar. My leisure serves me, pensive daughter, now.
+LINE 45: My lord, we must entreat the time alone.
+LINE 46: Par. God shield I should disturb devotion!
+LINE 47: Juliet, on Thursday early will I rouse ye.
+LINE 48: Till then, adieu, and keep this holy kiss. Exit.
+LINE 49: Jul. O, shut the door! and when thou hast done so,
+LINE 50: Come weep with me- past hope, past cure, past help!
+LINE 51: Friar. Ah, Juliet, I already know thy grief;
+LINE 52: It strains me past the compass of my wits.
+LINE 53: I hear thou must, and nothing may prorogue it,
+LINE 54: On Thursday next be married to this County.
+LINE 55: Jul. Tell me not, friar, that thou hear'st of this,
+LINE 56: Unless thou tell me how I may prevent it.
+LINE 57: If in thy wisdom thou canst give no help,
+LINE 58: Do thou but call my resolution wise
+LINE 59: And with this knife I'll help it presently.
+LINE 60: God join'd my heart and Romeo's, thou our hands;
+LINE 61: And ere this hand, by thee to Romeo's seal'd,
+LINE 62: Shall be the label to another deed,
+LINE 63: Or my true heart with treacherous revolt
+LINE 64: Turn to another, this shall slay them both.
+LINE 65: Therefore, out of thy long-experienc'd time,
+LINE 66: Give me some present counsel; or, behold,
+LINE 67: 'Twixt my extremes and me this bloody knife
+LINE 68: Shall play the empire, arbitrating that
+LINE 69: Which the commission of thy years and art
+LINE 70: Could to no issue of true honour bring.
+LINE 71: Be not so long to speak. I long to die
+LINE 72: If what thou speak'st speak not of remedy.
+LINE 73: Friar. Hold, daughter. I do spy a kind of hope,
+LINE 74: Which craves as desperate an execution
+LINE 75: As that is desperate which we would prevent.
+LINE 76: If, rather than to marry County Paris
+LINE 77: Thou hast the strength of will to slay thyself,
+LINE 78: Then is it likely thou wilt undertake
+LINE 79: A thing like death to chide away this shame,
+LINE 80: That cop'st with death himself to scape from it;
+LINE 81: And, if thou dar'st, I'll give thee remedy.
+LINE 82: Jul. O, bid me leap, rather than marry Paris,
+LINE 83: From off the battlements of yonder tower,
+LINE 84: Or walk in thievish ways, or bid me lurk
+LINE 85: Where serpents are; chain me with roaring bears,
+LINE 86: Or shut me nightly in a charnel house,
+LINE 87: O'ercover'd quite with dead men's rattling bones,
+LINE 88: With reeky shanks and yellow chapless skulls;
+LINE 89: Or bid me go into a new-made grave
+LINE 90: And hide me with a dead man in his shroud-
+LINE 91: Things that, to hear them told, have made me tremble-
+LINE 92: And I will do it without fear or doubt,
+LINE 93: To live an unstain'd wife to my sweet love.
+LINE 94: Friar. Hold, then. Go home, be merry, give consent
+LINE 95: To marry Paris. Wednesday is to-morrow.
+LINE 96: To-morrow night look that thou lie alone;
+LINE 97: Let not the nurse lie with thee in thy chamber.
+LINE 98: Take thou this vial, being then in bed,
+LINE 99: And this distilled liquor drink thou off;
+LINE 100: When presently through all thy veins shall run
+LINE 101: A cold and drowsy humour; for no pulse
+LINE 102: Shall keep his native progress, but surcease;
+LINE 103: No warmth, no breath, shall testify thou livest;
+LINE 104: The roses in thy lips and cheeks shall fade
+LINE 105: To paly ashes, thy eyes' windows fall
+LINE 106: Like death when he shuts up the day of life;
+LINE 107: Each part, depriv'd of supple government,
+LINE 108: Shall, stiff and stark and cold, appear like death;
+LINE 109: And in this borrowed likeness of shrunk death
+LINE 110: Thou shalt continue two-and-forty hours,
+LINE 111: And then awake as from a pleasant sleep.
+LINE 112: Now, when the bridegroom in the morning comes
+LINE 113: To rouse thee from thy bed, there art thou dead.
+LINE 114: Then, as the manner of our country is,
+LINE 115: In thy best robes uncovered on the bier
+LINE 116: Thou shalt be borne to that same ancient vault
+LINE 117: Where all the kindred of the Capulets lie.
+LINE 118: In the mean time, against thou shalt awake,
+LINE 119: Shall Romeo by my letters know our drift;
+LINE 120: And hither shall he come; and he and I
+LINE 121: Will watch thy waking, and that very night
+LINE 122: Shall Romeo bear thee hence to Mantua.
+LINE 123: And this shall free thee from this present shame,
+LINE 124: If no inconstant toy nor womanish fear
+LINE 125: Abate thy valour in the acting it.
+LINE 126: Jul. Give me, give me! O, tell not me of fear!
+LINE 127: Friar. Hold! Get you gone, be strong and prosperous
+LINE 128: In this resolve. I'll send a friar with speed
+LINE 129: To Mantua, with my letters to thy lord.
+LINE 130: Jul. Love give me strength! and strength shall help afford.
+LINE 131: Farewell, dear father.
+LINE 132: Exeunt.
+LINE 133: Scene II.
+LINE 134: Capulet's house.
+LINE 135: Enter Father Capulet, Mother, Nurse, and Servingmen,
+LINE 136: two or three.
+LINE 137: Cap. So many guests invite as here are writ.
+LINE 138: [Exit a Servingman.]
+LINE 139: Sirrah, go hire me twenty cunning cooks.
+LINE 140: Serv. You shall have none ill, sir; for I'll try if they can
+LINE 141: lick
+LINE 142: their fingers.
+LINE 143: Cap. How canst thou try them so?
+LINE 144: Serv. Marry, sir, 'tis an ill cook that cannot lick his own
+LINE 145: fingers. Therefore he that cannot lick his fingers goes not
+LINE 146: with
+LINE 147: me.
+LINE 148: Cap. Go, begone.
+LINE 149: Exit Servingman.
+LINE 150: We shall be much unfurnish'd for this time.
+LINE 151: What, is my daughter gone to Friar Laurence?
+LINE 152: Nurse. Ay, forsooth.
+LINE 153: Cap. Well, be may chance to do some good on her.
+LINE 154: A peevish self-will'd harlotry it is.
+LINE 155: Enter Juliet.
+LINE 156: Nurse. See where she comes from shrift with merry look.
+LINE 157: Cap. How now, my headstrong? Where have you been gadding?
+LINE 158: Jul. Where I have learnt me to repent the sin
+LINE 159: Of disobedient opposition
+LINE 160: To you and your behests, and am enjoin'd
+LINE 161: By holy Laurence to fall prostrate here
+LINE 162: To beg your pardon. Pardon, I beseech you!
+LINE 163: Henceforward I am ever rul'd by you.
+LINE 164: Cap. Send for the County. Go tell him of this.
+LINE 165: I'll have this knot knit up to-morrow morning.
+LINE 166: Jul. I met the youthful lord at Laurence' cell
+LINE 167: And gave him what becomed love I might,
+LINE 168: Not stepping o'er the bounds of modesty.
+LINE 169: Cap. Why, I am glad on't. This is well. Stand up.
+LINE 170: This is as't should be. Let me see the County.
+LINE 171: Ay, marry, go, I say, and fetch him hither.
+LINE 172: Now, afore God, this reverend holy friar,
+LINE 173: All our whole city is much bound to him.
+LINE 174: Jul. Nurse, will you go with me into my closet
+LINE 175: To help me sort such needful ornaments
+LINE 176: As you think fit to furnish me to-morrow?
+LINE 177: Mother. No, not till Thursday. There is time enough.
+LINE 178: Cap. Go, nurse, go with her. We'll to church to-morrow.
+LINE 179: Exeunt Juliet and Nurse.
+LINE 180: Mother. We shall be short in our provision.
+LINE 181: 'Tis now near night.
+LINE 182: Cap. Tush, I will stir about,
+LINE 183: And all things shall be well, I warrant thee, wife.
+LINE 184: Go thou to Juliet, help to deck up her.
+LINE 185: I'll not to bed to-night; let me alone.
+LINE 186: I'll play the housewife for this once. What, ho!
+LINE 187: They are all forth; well, I will walk myself
+LINE 188: To County Paris, to prepare him up
+LINE 189: Against to-morrow. My heart is wondrous light,
+LINE 190: Since this same wayward girl is so reclaim'd.
+LINE 191: Exeunt.
+LINE 192: Scene III.
+LINE 193: Juliet's chamber.
+LINE 194: Enter Juliet and Nurse.
+LINE 195: Jul. Ay, those attires are best; but, gentle nurse,
+LINE 196: I pray thee leave me to myself to-night;
+LINE 197: For I have need of many orisons
+LINE 198: To move the heavens to smile upon my state,
+LINE 199: Which, well thou knowest, is cross and full of sin.
+LINE 200: Enter Mother.
+LINE 201: Mother. What, are you busy, ho? Need you my help?
+LINE 202: Jul. No, madam; we have cull'd such necessaries
+LINE 203: As are behoveful for our state to-morrow.
+LINE 204: So please you, let me now be left alone,
+LINE 205: And let the nurse this night sit up with you;
+LINE 206: For I am sure you have your hands full all
+LINE 207: In this so sudden business.
+LINE 208: Mother. Good night.
+LINE 209: Get thee to bed, and rest; for thou hast need.
+LINE 210: Exeunt [Mother and Nurse.]
+LINE 211: Jul. Farewell! God knows when we shall meet again.
+LINE 212: I have a faint cold fear thrills through my veins
+LINE 213: That almost freezes up the heat of life.
+LINE 214: I'll call them back again to comfort me.
+LINE 215: Nurse!- What should she do here?
+LINE 216: My dismal scene I needs must act alone.
+LINE 217: Come, vial.
+LINE 218: What if this mixture do not work at all?
+LINE 219: Shall I be married then to-morrow morning?
+LINE 220: No, No! This shall forbid it. Lie thou there.
+LINE 221: Lays down a dagger.
+LINE 222: What if it be a poison which the friar
+LINE 223: Subtilly hath minist'red to have me dead,
+LINE 224: Lest in this marriage he should be dishonour'd
+LINE 225: Because he married me before to Romeo?
+LINE 226: I fear it is; and yet methinks it should not,
+LINE 227: For he hath still been tried a holy man.
+LINE 228: I will not entertain so bad a thought.
+LINE 229: How if, when I am laid into the tomb,
+LINE 230: I wake before the time that Romeo
+LINE 231: Come to redeem me? There's a fearful point!
+LINE 232: Shall I not then be stifled in the vault,
+LINE 233: To whose foul mouth no healthsome air breathes in,
+LINE 234: And there die strangled ere my Romeo comes?
+LINE 235: Or, if I live, is it not very like
+LINE 236: The horrible conceit of death and night,
+LINE 237: Together with the terror of the place-
+LINE 238: As in a vault, an ancient receptacle
+LINE 239: Where for this many hundred years the bones
+LINE 240: Of all my buried ancestors are pack'd;
+LINE 241: Where bloody Tybalt, yet but green in earth,
+LINE 242: Lies fest'ring in his shroud; where, as they say,
+LINE 243: At some hours in the night spirits resort-
+LINE 244: Alack, alack, is it not like that I,
+LINE 245: So early waking- what with loathsome smells,
+LINE 246: And shrieks like mandrakes torn out of the earth,
+LINE 247: That living mortals, hearing them, run mad-
+LINE 248: O, if I wake, shall I not be distraught,
+LINE 249: Environed with all these hideous fears,
+LINE 250: And madly play with my forefathers' joints,
+LINE 251: And pluck the mangled Tybalt from his shroud,
+LINE 252: And, in this rage, with some great kinsman's bone
+LINE 253: As with a club dash out my desp'rate brains?
+LINE 254: O, look! methinks I see my cousin's ghost
+LINE 255: Seeking out Romeo, that did spit his body
+LINE 256: Upon a rapier's point. Stay, Tybalt, stay!
+LINE 257: Romeo, I come! this do I drink to thee.
+LINE 258: She [drinks and] falls upon her bed within the curtains.
+LINE 259: Scene IV.
+LINE 260: Capulet's house.
+LINE 261: Enter Lady of the House and Nurse.
+LINE 262: Lady. Hold, take these keys and fetch more spices, nurse.
+LINE 263: Nurse. They call for dates and quinces in the pastry.
+LINE 264: Enter Old Capulet.
+LINE 265: Cap. Come, stir, stir, stir! The second cock hath crow'd,
+LINE 266: The curfew bell hath rung, 'tis three o'clock.
+LINE 267: Look to the bak'd meats, good Angelica;
+LINE 268: Spare not for cost.
+LINE 269: Nurse. Go, you cot-quean, go,
+LINE 270: Get you to bed! Faith, you'll be sick to-morrow
+LINE 271: For this night's watching.
+LINE 272: Cap. No, not a whit. What, I have watch'd ere now
+LINE 273: All night for lesser cause, and ne'er been sick.
+LINE 274: Lady. Ay, you have been a mouse-hunt in your time;
+LINE 275: But I will watch you from such watching now.
+LINE 276: Exeunt Lady and Nurse.
+LINE 277: Cap. A jealous hood, a jealous hood!
+LINE 278: Enter three or four [Fellows, with spits and logs and baskets.
+LINE 279: What is there? Now, fellow,
+LINE 280: Fellow. Things for the cook, sir; but I know not what.
+LINE 281: Cap. Make haste, make haste. [Exit Fellow.] Sirrah, fetch drier
+LINE 282: logs.
+LINE 283: Call Peter; he will show thee where they are.
+LINE 284: Fellow. I have a head, sir, that will find out logs
+LINE 285: And never trouble Peter for the matter.
+LINE 286: Cap. Mass, and well said; a merry whoreson, ha!
+LINE 287: Thou shalt be loggerhead. [Exit Fellow.] Good faith, 'tis
+LINE 288: day.
+LINE 289: The County will be here with music straight,
+LINE 290: For so he said he would. Play music.
+LINE 291: I hear him near.
+LINE 292: Nurse! Wife! What, ho! What, nurse, I say!
+LINE 293: Enter Nurse.
+LINE 294: Go waken Juliet; go and trim her up.
+LINE 295: I'll go and chat with Paris. Hie, make haste,
+LINE 296: Make haste! The bridegroom he is come already:
+LINE 297: Make haste, I say.
+LINE 298: [Exeunt.]
+LINE 299: Scene V.
+LINE 300: Juliet's chamber.
+LINE 301: [Enter Nurse.]
+LINE 302: Nurse. Mistress! what, mistress! Juliet! Fast, I warrant her,
+LINE 303: she.
+LINE 304: Why, lamb! why, lady! Fie, you slug-abed!
+LINE 305: Why, love, I say! madam! sweetheart! Why, bride!
+LINE 306: What, not a word? You take your pennyworths now!
+LINE 307: Sleep for a week; for the next night, I warrant,
+LINE 308: The County Paris hath set up his rest
+LINE 309: That you shall rest but little. God forgive me!
+LINE 310: Marry, and amen. How sound is she asleep!
+LINE 311: I needs must wake her. Madam, madam, madam!
+LINE 312: Ay, let the County take you in your bed!
+LINE 313: He'll fright you up, i' faith. Will it not be?
+LINE 314: [Draws aside the curtains.]
+LINE 315: What, dress'd, and in your clothes, and down again?
+LINE 316: I must needs wake you. Lady! lady! lady!
+LINE 317: Alas, alas! Help, help! My lady's dead!
+LINE 318: O weraday that ever I was born!
+LINE 319: Some aqua-vitae, ho! My lord! my lady!
+LINE 320: Enter Mother.
+LINE 321: Mother. What noise is here?
+LINE 322: Nurse. O lamentable day!
+LINE 323: Mother. What is the matter?
+LINE 324: Nurse. Look, look! O heavy day!
+LINE 325: Mother. O me, O me! My child, my only life!
+LINE 326: Revive, look up, or I will die with thee!
+LINE 327: Help, help! Call help.
+LINE 328: Enter Father.
+LINE 329: Father. For shame, bring Juliet forth; her lord is come.
+LINE 330: Nurse. She's dead, deceas'd; she's dead! Alack the day!
+LINE 331: Mother. Alack the day, she's dead, she's dead, she's dead!
+LINE 332: Cap. Ha! let me see her. Out alas! she's cold,
+LINE 333: Her blood is settled, and her joints are stiff;
+LINE 334: Life and these lips have long been separated.
+LINE 335: Death lies on her like an untimely frost
+LINE 336: Upon the sweetest flower of all the field.
+LINE 337: Nurse. O lamentable day!
+LINE 338: Mother. O woful time!
+LINE 339: Cap. Death, that hath ta'en her hence to make me wail,
+LINE 340: Ties up my tongue and will not let me speak.
+LINE 341: Enter Friar [Laurence] and the County [Paris], with Musicians.
+LINE 342: Friar. Come, is the bride ready to go to church?
+LINE 343: Cap. Ready to go, but never to return.
+LINE 344: O son, the night before thy wedding day
+LINE 345: Hath Death lain with thy wife. See, there she lies,
+LINE 346: Flower as she was, deflowered by him.
+LINE 347: Death is my son-in-law, Death is my heir;
+LINE 348: My daughter he hath wedded. I will die
+LINE 349: And leave him all. Life, living, all is Death's.
+LINE 350: Par. Have I thought long to see this morning's face,
+LINE 351: And doth it give me such a sight as this?
+LINE 352: Mother. Accurs'd, unhappy, wretched, hateful day!
+LINE 353: Most miserable hour that e'er time saw
+LINE 354: In lasting labour of his pilgrimage!
+LINE 355: But one, poor one, one poor and loving child,
+LINE 356: But one thing to rejoice and solace in,
+LINE 357: And cruel Death hath catch'd it from my sight!
+LINE 358: Nurse. O woe? O woful, woful, woful day!
+LINE 359: Most lamentable day, most woful day
+LINE 360: That ever ever I did yet behold!
+LINE 361: O day! O day! O day! O hateful day!
+LINE 362: Never was seen so black a day as this.
+LINE 363: O woful day! O woful day!
+LINE 364: Par. Beguil'd, divorced, wronged, spited, slain!
+LINE 365: Most detestable Death, by thee beguil'd,
+LINE 366: By cruel cruel thee quite overthrown!
+LINE 367: O love! O life! not life, but love in death!
+LINE 368: Cap. Despis'd, distressed, hated, martyr'd, kill'd!
+LINE 369: Uncomfortable time, why cam'st thou now
+LINE 370: To murther, murther our solemnity?
+LINE 371: O child! O child! my soul, and not my child!
+LINE 372: Dead art thou, dead! alack, my child is dead,
+LINE 373: And with my child my joys are buried!
+LINE 374: Friar. Peace, ho, for shame! Confusion's cure lives not
+LINE 375: In these confusions. Heaven and yourself
+LINE 376: Had part in this fair maid! now heaven hath all,
+LINE 377: And all the better is it for the maid.
+LINE 378: Your part in her you could not keep from death,
+LINE 379: But heaven keeps his part in eternal life.
+LINE 380: The most you sought was her promotion,
+LINE 381: For 'twas your heaven she should be advanc'd;
+LINE 382: And weep ye now, seeing she is advanc'd
+LINE 383: Above the clouds, as high as heaven itself?
+LINE 384: O, in this love, you love your child so ill
+LINE 385: That you run mad, seeing that she is well.
+LINE 386: She's not well married that lives married long,
+LINE 387: But she's best married that dies married young.
+LINE 388: Dry up your tears and stick your rosemary
+LINE 389: On this fair corse, and, as the custom is,
+LINE 390: In all her best array bear her to church;
+LINE 391: For though fond nature bids us all lament,
+LINE 392: Yet nature's tears are reason's merriment.
+LINE 393: Cap. All things that we ordained festival
+LINE 394: Turn from their office to black funeral-
+LINE 395: Our instruments to melancholy bells,
+LINE 396: Our wedding cheer to a sad burial feast;
+LINE 397: Our solemn hymns to sullen dirges change;
+LINE 398: Our bridal flowers serve for a buried corse;
+LINE 399: And all things change them to the contrary.
+LINE 400: Friar. Sir, go you in; and, madam, go with him;
+LINE 401: And go, Sir Paris. Every one prepare
+LINE 402: To follow this fair corse unto her grave.
+LINE 403: The heavens do low'r upon you for some ill;
+LINE 404: Move them no more by crossing their high will.
+LINE 405: Exeunt. Manent Musicians [and Nurse].
+LINE 406: 1. Mus. Faith, we may put up our pipes and be gone.
+LINE 407: Nurse. Honest good fellows, ah, put up, put up!
+LINE 408: For well you know this is a pitiful case. [Exit.]
+LINE 409: 1. Mus. Ay, by my troth, the case may be amended.
+LINE 410: Enter Peter.
+LINE 411: Pet. Musicians, O, musicians, 'Heart's ease,' 'Heart's ease'!
+LINE 412: O, an you will have me live, play 'Heart's ease.'
+LINE 413: 1. Mus. Why 'Heart's ease'?
+LINE 414: Pet. O, musicians, because my heart itself plays 'My heart is
+LINE 415: full
+LINE 416: of woe.' O, play me some merry dump to comfort me.
+LINE 417: 1. Mus. Not a dump we! 'Tis no time to play now.
+LINE 418: Pet. You will not then?
+LINE 419: 1. Mus. No.
+LINE 420: Pet. I will then give it you soundly.
+LINE 421: 1. Mus. What will you give us?
+LINE 422: Pet. No money, on my faith, but the gleek. I will give you the
+LINE 423: minstrel.
+LINE 424: 1. Mus. Then will I give you the serving-creature.
+LINE 425: Pet. Then will I lay the serving-creature's dagger on your
+LINE 426: pate.
+LINE 427: I will carry no crotchets. I'll re you, I'll fa you. Do you
+LINE 428: note
+LINE 429: me?
+LINE 430: 1. Mus. An you re us and fa us, you note us.
+LINE 431: 2. Mus. Pray you put up your dagger, and put out your wit.
+LINE 432: Pet. Then have at you with my wit! I will dry-beat you with an
+LINE 433: iron
+LINE 434: wit, and put up my iron dagger. Answer me like men.
+LINE 435: 'When griping grief the heart doth wound,
+LINE 436: And doleful dumps the mind oppress,
+LINE 437: Then music with her silver sound'-
+LINE 438: Why 'silver sound'? Why 'music with her silver sound'?
+LINE 439: What say you, Simon Catling?
+LINE 440: 1. Mus. Marry, sir, because silver hath a sweet sound.
+LINE 441: Pet. Pretty! What say you, Hugh Rebeck?
+LINE 442: 2. Mus. I say 'silver sound' because musicians sound for
+LINE 443: silver.
+LINE 444: Pet. Pretty too! What say you, James Soundpost?
+LINE 445: 3. Mus. Faith, I know not what to say.
+LINE 446: Pet. O, I cry you mercy! you are the singer. I will say for
+LINE 447: you. It
+LINE 448: is 'music with her silver sound' because musicians have no
+LINE 449: gold
+LINE 450: for sounding.
+LINE 451: 'Then music with her silver sound
+LINE 452: With speedy help doth lend redress.' [Exit.
+LINE 453: 1. Mus. What a pestilent knave is this same?
+LINE 454: 2. Mus. Hang him, Jack! Come, we'll in here, tarry for the
+LINE 455: mourners, and stay dinner.
+LINE 456: Exeunt.
+LINE 457: <<THIS ELECTRONIC VERSION OF THE COMPLETE WORKS OF WILLIAM
+LINE 458: SHAKESPEARE IS COPYRIGHT 1990-1993 BY WORLD LIBRARY, INC., AND IS
+LINE 459: PROVIDED BY PROJECT GUTENBERG ETEXT OF CARNEGIE MELLON UNIVERSITY
+LINE 460: WITH PERMISSION. ELECTRONIC AND MACHINE READABLE COPIES MAY BE
+LINE 461: DISTRIBUTED SO LONG AS SUCH COPIES (1) ARE FOR YOUR OR OTHERS
+LINE 462: PERSONAL USE ONLY, AND (2) ARE NOT DISTRIBUTED OR USED
+LINE 463: COMMERCIALLY. PROHIBITED COMMERCIAL DISTRIBUTION INCLUDES BY ANY
+LINE 464: SERVICE THAT CHARGES FOR DOWNLOAD TIME OR FOR MEMBERSHIP.>>

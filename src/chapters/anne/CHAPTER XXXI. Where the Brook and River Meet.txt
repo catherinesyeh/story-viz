@@ -1,0 +1,189 @@
+LINE 1: ANNE had her "good" summer and enjoyed it wholeheartedly. She and Diana
+LINE 2: fairly lived outdoors, reveling in all the delights that Lover's Lane
+LINE 3: and the Dryad's Bubble and Willowmere and Victoria Island afforded.
+LINE 4: Marilla offered no objections to Anne's gypsyings. The Spencervale
+LINE 5: doctor who had come the night Minnie May had the croup met Anne at the
+LINE 6: house of a patient one afternoon early in vacation, looked her over
+LINE 7: sharply, screwed up his mouth, shook his head, and sent a message to
+LINE 8: Marilla Cuthbert by another person. It was:
+LINE 9: "Keep that redheaded girl of yours in the open air all summer and don't
+LINE 10: let her read books until she gets more spring into her step."
+LINE 11: This message frightened Marilla wholesomely. She read Anne's death
+LINE 12: warrant by consumption in it unless it was scrupulously obeyed. As a
+LINE 13: result, Anne had the golden summer of her life as far as freedom and
+LINE 14: frolic went. She walked, rowed, berried, and dreamed to her heart's
+LINE 15: content; and when September came she was bright-eyed and alert, with a
+LINE 16: step that would have satisfied the Spencervale doctor and a heart full
+LINE 17: of ambition and zest once more.
+LINE 18: "I feel just like studying with might and main," she declared as she
+LINE 19: brought her books down from the attic. "Oh, you good old friends, I'm
+LINE 20: glad to see your honest faces once more--yes, even you, geometry. I've
+LINE 21: had a perfectly beautiful summer, Marilla, and now I'm rejoicing as a
+LINE 22: strong man to run a race, as Mr. Allan said last Sunday. Doesn't Mr.
+LINE 23: Allan preach magnificent sermons? Mrs. Lynde says he is improving every
+LINE 24: day and the first thing we know some city church will gobble him up
+LINE 25: and then we'll be left and have to turn to and break in another green
+LINE 26: preacher. But I don't see the use of meeting trouble halfway, do you,
+LINE 27: Marilla? I think it would be better just to enjoy Mr. Allan while we
+LINE 28: have him. If I were a man I think I'd be a minister. They can have
+LINE 29: such an influence for good, if their theology is sound; and it must be
+LINE 30: thrilling to preach splendid sermons and stir your hearers' hearts. Why
+LINE 31: can't women be ministers, Marilla? I asked Mrs. Lynde that and she was
+LINE 32: shocked and said it would be a scandalous thing. She said there might
+LINE 33: be female ministers in the States and she believed there was, but thank
+LINE 34: goodness we hadn't got to that stage in Canada yet and she hoped we
+LINE 35: never would. But I don't see why. I think women would make splendid
+LINE 36: ministers. When there is a social to be got up or a church tea or
+LINE 37: anything else to raise money the women have to turn to and do the work.
+LINE 38: I'm sure Mrs. Lynde can pray every bit as well as Superintendent Bell
+LINE 39: and I've no doubt she could preach too with a little practice."
+LINE 40: "Yes, I believe she could," said Marilla dryly. "She does plenty of
+LINE 41: unofficial preaching as it is. Nobody has much of a chance to go wrong
+LINE 42: in Avonlea with Rachel to oversee them."
+LINE 43: "Marilla," said Anne in a burst of confidence, "I want to tell you
+LINE 44: something and ask you what you think about it. It has worried me
+LINE 45: terribly--on Sunday afternoons, that is, when I think specially about
+LINE 46: such matters. I do really want to be good; and when I'm with you or Mrs.
+LINE 47: Allan or Miss Stacy I want it more than ever and I want to do just what
+LINE 48: would please you and what you would approve of. But mostly when I'm with
+LINE 49: Mrs. Lynde I feel desperately wicked and as if I wanted to go and do the
+LINE 50: very thing she tells me I oughtn't to do. I feel irresistibly tempted
+LINE 51: to do it. Now, what do you think is the reason I feel like that? Do you
+LINE 52: think it's because I'm really bad and unregenerate?"
+LINE 53: Marilla looked dubious for a moment. Then she laughed.
+LINE 54: "If you are I guess I am too, Anne, for Rachel often has that very
+LINE 55: effect on me. I sometimes think she'd have more of an influence for
+LINE 56: good, as you say yourself, if she didn't keep nagging people to do
+LINE 57: right. There should have been a special commandment against nagging.
+LINE 58: But there, I shouldn't talk so. Rachel is a good Christian woman and she
+LINE 59: means well. There isn't a kinder soul in Avonlea and she never shirks
+LINE 60: her share of work."
+LINE 61: "I'm very glad you feel the same," said Anne decidedly. "It's so
+LINE 62: encouraging. I shan't worry so much over that after this. But I dare say
+LINE 63: there'll be other things to worry me. They keep coming up new all the
+LINE 64: time--things to perplex you, you know. You settle one question and
+LINE 65: there's another right after. There are so many things to be thought over
+LINE 66: and decided when you're beginning to grow up. It keeps me busy all the
+LINE 67: time thinking them over and deciding what is right. It's a serious thing
+LINE 68: to grow up, isn't it, Marilla? But when I have such good friends as
+LINE 69: you and Matthew and Mrs. Allan and Miss Stacy I ought to grow up
+LINE 70: successfully, and I'm sure it will be my own fault if I don't. I feel
+LINE 71: it's a great responsibility because I have only the one chance. If I
+LINE 72: don't grow up right I can't go back and begin over again. I've grown two
+LINE 73: inches this summer, Marilla. Mr. Gillis measured me at Ruby's party. I'm
+LINE 74: so glad you made my new dresses longer. That dark-green one is so pretty
+LINE 75: and it was sweet of you to put on the flounce. Of course I know it
+LINE 76: wasn't really necessary, but flounces are so stylish this fall and Josie
+LINE 77: Pye has flounces on all her dresses. I know I'll be able to study better
+LINE 78: because of mine. I shall have such a comfortable feeling deep down in my
+LINE 79: mind about that flounce."
+LINE 80: "It's worth something to have that," admitted Marilla.
+LINE 81: Miss Stacy came back to Avonlea school and found all her pupils eager
+LINE 82: for work once more. Especially did the Queen's class gird up their loins
+LINE 83: for the fray, for at the end of the coming year, dimly shadowing their
+LINE 84: pathway already, loomed up that fateful thing known as "the Entrance,"
+LINE 85: at the thought of which one and all felt their hearts sink into their
+LINE 86: very shoes. Suppose they did not pass! That thought was doomed to
+LINE 87: haunt Anne through the waking hours of that winter, Sunday afternoons
+LINE 88: inclusive, to the almost entire exclusion of moral and theological
+LINE 89: problems. When Anne had bad dreams she found herself staring miserably
+LINE 90: at pass lists of the Entrance exams, where Gilbert Blythe's name was
+LINE 91: blazoned at the top and in which hers did not appear at all.
+LINE 92: But it was a jolly, busy, happy swift-flying winter. Schoolwork was
+LINE 93: as interesting, class rivalry as absorbing, as of yore. New worlds of
+LINE 94: thought, feeling, and ambition, fresh, fascinating fields of unexplored
+LINE 95: knowledge seemed to be opening out before Anne's eager eyes.
+LINE 96: "Hills peeped o'er hill and Alps on Alps arose."
+LINE 97: Much of all this was due to Miss Stacy's tactful, careful, broadminded
+LINE 98: guidance. She led her class to think and explore and discover for
+LINE 99: themselves and encouraged straying from the old beaten paths to a degree
+LINE 100: that quite shocked Mrs. Lynde and the school trustees, who viewed all
+LINE 101: innovations on established methods rather dubiously.
+LINE 102: Apart from her studies Anne expanded socially, for Marilla, mindful of
+LINE 103: the Spencervale doctor's dictum, no longer vetoed occasional outings.
+LINE 104: The Debating Club flourished and gave several concerts; there were one
+LINE 105: or two parties almost verging on grown-up affairs; there were sleigh
+LINE 106: drives and skating frolics galore.
+LINE 107: Between times Anne grew, shooting up so rapidly that Marilla was
+LINE 108: astonished one day, when they were standing side by side, to find the
+LINE 109: girl was taller than herself.
+LINE 110: "Why, Anne, how you've grown!" she said, almost unbelievingly. A sigh
+LINE 111: followed on the words. Marilla felt a queer regret over Anne's inches.
+LINE 112: The child she had learned to love had vanished somehow and here was this
+LINE 113: tall, serious-eyed girl of fifteen, with the thoughtful brows and the
+LINE 114: proudly poised little head, in her place. Marilla loved the girl as much
+LINE 115: as she had loved the child, but she was conscious of a queer sorrowful
+LINE 116: sense of loss. And that night, when Anne had gone to prayer meeting
+LINE 117: with Diana, Marilla sat alone in the wintry twilight and indulged in the
+LINE 118: weakness of a cry. Matthew, coming in with a lantern, caught her at it
+LINE 119: and gazed at her in such consternation that Marilla had to laugh through
+LINE 120: her tears.
+LINE 121: "I was thinking about Anne," she explained. "She's got to be such a big
+LINE 122: girl--and she'll probably be away from us next winter. I'll miss her
+LINE 123: terrible."
+LINE 124: "She'll be able to come home often," comforted Matthew, to whom Anne was
+LINE 125: as yet and always would be the little, eager girl he had brought home
+LINE 126: from Bright River on that June evening four years before. "The branch
+LINE 127: railroad will be built to Carmody by that time."
+LINE 128: "It won't be the same thing as having her here all the time," sighed
+LINE 129: Marilla gloomily, determined to enjoy her luxury of grief uncomforted.
+LINE 130: "But there--men can't understand these things!"
+LINE 131: There were other changes in Anne no less real than the physical change.
+LINE 132: For one thing, she became much quieter. Perhaps she thought all the
+LINE 133: more and dreamed as much as ever, but she certainly talked less. Marilla
+LINE 134: noticed and commented on this also.
+LINE 135: "You don't chatter half as much as you used to, Anne, nor use half as
+LINE 136: many big words. What has come over you?"
+LINE 137: Anne colored and laughed a little, as she dropped her book and looked
+LINE 138: dreamily out of the window, where big fat red buds were bursting out on
+LINE 139: the creeper in response to the lure of the spring sunshine.
+LINE 140: "I don't know--I don't want to talk as much," she said, denting her
+LINE 141: chin thoughtfully with her forefinger. "It's nicer to think dear, pretty
+LINE 142: thoughts and keep them in one's heart, like treasures. I don't like to
+LINE 143: have them laughed at or wondered over. And somehow I don't want to use
+LINE 144: big words any more. It's almost a pity, isn't it, now that I'm really
+LINE 145: growing big enough to say them if I did want to. It's fun to be almost
+LINE 146: grown up in some ways, but it's not the kind of fun I expected, Marilla.
+LINE 147: There's so much to learn and do and think that there isn't time for big
+LINE 148: words. Besides, Miss Stacy says the short ones are much stronger and
+LINE 149: better. She makes us write all our essays as simply as possible. It was
+LINE 150: hard at first. I was so used to crowding in all the fine big words I
+LINE 151: could think of--and I thought of any number of them. But I've got used
+LINE 152: to it now and I see it's so much better."
+LINE 153: "What has become of your story club? I haven't heard you speak of it for
+LINE 154: a long time."
+LINE 155: "The story club isn't in existence any longer. We hadn't time for
+LINE 156: it--and anyhow I think we had got tired of it. It was silly to be
+LINE 157: writing about love and murder and elopements and mysteries. Miss Stacy
+LINE 158: sometimes has us write a story for training in composition, but she
+LINE 159: won't let us write anything but what might happen in Avonlea in our own
+LINE 160: lives, and she criticizes it very sharply and makes us criticize our own
+LINE 161: too. I never thought my compositions had so many faults until I began to
+LINE 162: look for them myself. I felt so ashamed I wanted to give up altogether,
+LINE 163: but Miss Stacy said I could learn to write well if I only trained myself
+LINE 164: to be my own severest critic. And so I am trying to."
+LINE 165: "You've only two more months before the Entrance," said Marilla. "Do you
+LINE 166: think you'll be able to get through?"
+LINE 167: Anne shivered.
+LINE 168: "I don't know. Sometimes I think I'll be all right--and then I get
+LINE 169: horribly afraid. We've studied hard and Miss Stacy has drilled us
+LINE 170: thoroughly, but we mayn't get through for all that. We've each got a
+LINE 171: stumbling block. Mine is geometry of course, and Jane's is Latin, and
+LINE 172: Ruby and Charlie's is algebra, and Josie's is arithmetic. Moody Spurgeon
+LINE 173: says he feels it in his bones that he is going to fail in English
+LINE 174: history. Miss Stacy is going to give us examinations in June just as
+LINE 175: hard as we'll have at the Entrance and mark us just as strictly, so
+LINE 176: we'll have some idea. I wish it was all over, Marilla. It haunts me.
+LINE 177: Sometimes I wake up in the night and wonder what I'll do if I don't
+LINE 178: pass."
+LINE 179: "Why, go to school next year and try again," said Marilla unconcernedly.
+LINE 180: "Oh, I don't believe I'd have the heart for it. It would be such a
+LINE 181: disgrace to fail, especially if Gil--if the others passed. And I get so
+LINE 182: nervous in an examination that I'm likely to make a mess of it. I wish I
+LINE 183: had nerves like Jane Andrews. Nothing rattles her."
+LINE 184: Anne sighed and, dragging her eyes from the witcheries of the spring
+LINE 185: world, the beckoning day of breeze and blue, and the green things
+LINE 186: upspringing in the garden, buried herself resolutely in her book.
+LINE 187: There would be other springs, but if she did not succeed in passing the
+LINE 188: Entrance, Anne felt convinced that she would never recover sufficiently
+LINE 189: to enjoy them.

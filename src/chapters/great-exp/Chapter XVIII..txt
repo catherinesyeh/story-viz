@@ -1,0 +1,450 @@
+LINE 1: It was in the fourth year of my apprenticeship to Joe, and it was a
+LINE 2: Saturday night. There was a group assembled round the fire at the Three
+LINE 3: Jolly Bargemen, attentive to Mr. Wopsle as he read the newspaper aloud.
+LINE 4: Of that group I was one.
+LINE 5: A highly popular murder had been committed, and Mr. Wopsle was imbrued
+LINE 6: in blood to the eyebrows. He gloated over every abhorrent adjective in
+LINE 7: the description, and identified himself with every witness at the
+LINE 8: Inquest. He faintly moaned, "I am done for," as the victim, and he
+LINE 9: barbarously bellowed, "I'll serve you out," as the murderer. He gave
+LINE 10: the medical testimony, in pointed imitation of our local practitioner;
+LINE 11: and he piped and shook, as the aged turnpike-keeper who had heard
+LINE 12: blows, to an extent so very paralytic as to suggest a doubt regarding
+LINE 13: the mental competency of that witness. The coroner, in Mr. Wopsle's
+LINE 14: hands, became Timon of Athens; the beadle, Coriolanus. He enjoyed
+LINE 15: himself thoroughly, and we all enjoyed ourselves, and were delightfully
+LINE 16: comfortable. In this cosey state of mind we came to the verdict Wilful
+LINE 17: Murder.
+LINE 18: Then, and not sooner, I became aware of a strange gentleman leaning
+LINE 19: over the back of the settle opposite me, looking on. There was an
+LINE 20: expression of contempt on his face, and he bit the side of a great
+LINE 21: forefinger as he watched the group of faces.
+LINE 22: "Well!" said the stranger to Mr. Wopsle, when the reading was done,
+LINE 23: "you have settled it all to your own satisfaction, I have no doubt?"
+LINE 24: Everybody started and looked up, as if it were the murderer. He looked
+LINE 25: at everybody coldly and sarcastically.
+LINE 26: "Guilty, of course?" said he. "Out with it. Come!"
+LINE 27: "Sir," returned Mr. Wopsle, "without having the honour of your
+LINE 28: acquaintance, I do say Guilty." Upon this we all took courage to unite
+LINE 29: in a confirmatory murmur.
+LINE 30: "I know you do," said the stranger; "I knew you would. I told you so.
+LINE 31: But now I'll ask you a question. Do you know, or do you not know, that
+LINE 32: the law of England supposes every man to be innocent, until he is
+LINE 33: proved—proved—to be guilty?"
+LINE 34: "Sir," Mr. Wopsle began to reply, "as an Englishman myself, I—"
+LINE 35: "Come!" said the stranger, biting his forefinger at him. "Don't evade
+LINE 36: the question. Either you know it, or you don't know it. Which is it to
+LINE 37: be?"
+LINE 38: He stood with his head on one side and himself on one side, in a
+LINE 39: bullying, interrogative manner, and he threw his forefinger at Mr.
+LINE 40: Wopsle,—as it were to mark him out—before biting it again.
+LINE 41: "Now!" said he. "Do you know it, or don't you know it?"
+LINE 42: "Certainly I know it," replied Mr. Wopsle.
+LINE 43: "Certainly you know it. Then why didn't you say so at first? Now, I'll
+LINE 44: ask you another question,"—taking possession of Mr. Wopsle, as if he
+LINE 45: had a right to him,—"_do_ you know that none of these witnesses have
+LINE 46: yet been cross-examined?"
+LINE 47: Mr. Wopsle was beginning, "I can only say—" when the stranger stopped
+LINE 48: him.
+LINE 49: "What? You won't answer the question, yes or no? Now, I'll try you
+LINE 50: again." Throwing his finger at him again. "Attend to me. Are you aware,
+LINE 51: or are you not aware, that none of these witnesses have yet been
+LINE 52: cross-examined? Come, I only want one word from you. Yes, or no?"
+LINE 53: Mr. Wopsle hesitated, and we all began to conceive rather a poor
+LINE 54: opinion of him.
+LINE 55: "Come!" said the stranger, "I'll help you. You don't deserve help, but
+LINE 56: I'll help you. Look at that paper you hold in your hand. What is it?"
+LINE 57: "What is it?" repeated Mr. Wopsle, eyeing it, much at a loss.
+LINE 58: "Is it," pursued the stranger in his most sarcastic and suspicious
+LINE 59: manner, "the printed paper you have just been reading from?"
+LINE 60: "Undoubtedly."
+LINE 61: "Undoubtedly. Now, turn to that paper, and tell me whether it
+LINE 62: distinctly states that the prisoner expressly said that his legal
+LINE 63: advisers instructed him altogether to reserve his defence?"
+LINE 64: "I read that just now," Mr. Wopsle pleaded.
+LINE 65: "Never mind what you read just now, sir; I don't ask you what you read
+LINE 66: just now. You may read the Lord's Prayer backwards, if you like,—and,
+LINE 67: perhaps, have done it before to-day. Turn to the paper. No, no, no my
+LINE 68: friend; not to the top of the column; you know better than that; to the
+LINE 69: bottom, to the bottom." (We all began to think Mr. Wopsle full of
+LINE 70: subterfuge.) "Well? Have you found it?"
+LINE 71: "Here it is," said Mr. Wopsle.
+LINE 72: "Now, follow that passage with your eye, and tell me whether it
+LINE 73: distinctly states that the prisoner expressly said that he was
+LINE 74: instructed by his legal advisers wholly to reserve his defence? Come!
+LINE 75: Do you make that of it?"
+LINE 76: Mr. Wopsle answered, "Those are not the exact words."
+LINE 77: "Not the exact words!" repeated the gentleman bitterly. "Is that the
+LINE 78: exact substance?"
+LINE 79: "Yes," said Mr. Wopsle.
+LINE 80: "Yes," repeated the stranger, looking round at the rest of the company
+LINE 81: with his right hand extended towards the witness, Wopsle. "And now I
+LINE 82: ask you what you say to the conscience of that man who, with that
+LINE 83: passage before his eyes, can lay his head upon his pillow after having
+LINE 84: pronounced a fellow-creature guilty, unheard?"
+LINE 85: We all began to suspect that Mr. Wopsle was not the man we had thought
+LINE 86: him, and that he was beginning to be found out.
+LINE 87: "And that same man, remember," pursued the gentleman, throwing his
+LINE 88: finger at Mr. Wopsle heavily,—"that same man might be summoned as a
+LINE 89: juryman upon this very trial, and, having thus deeply committed
+LINE 90: himself, might return to the bosom of his family and lay his head upon
+LINE 91: his pillow, after deliberately swearing that he would well and truly
+LINE 92: try the issue joined between Our Sovereign Lord the King and the
+LINE 93: prisoner at the bar, and would a true verdict give according to the
+LINE 94: evidence, so help him God!"
+LINE 95: We were all deeply persuaded that the unfortunate Wopsle had gone too
+LINE 96: far, and had better stop in his reckless career while there was yet
+LINE 97: time.
+LINE 98: The strange gentleman, with an air of authority not to be disputed, and
+LINE 99: with a manner expressive of knowing something secret about every one of
+LINE 100: us that would effectually do for each individual if he chose to
+LINE 101: disclose it, left the back of the settle, and came into the space
+LINE 102: between the two settles, in front of the fire, where he remained
+LINE 103: standing, his left hand in his pocket, and he biting the forefinger of
+LINE 104: his right.
+LINE 105: "From information I have received," said he, looking round at us as we
+LINE 106: all quailed before him, "I have reason to believe there is a blacksmith
+LINE 107: among you, by name Joseph—or Joe—Gargery. Which is the man?"
+LINE 108: "Here is the man," said Joe.
+LINE 109: The strange gentleman beckoned him out of his place, and Joe went.
+LINE 110: "You have an apprentice," pursued the stranger, "commonly known as Pip?
+LINE 111: Is he here?"
+LINE 112: "I am here!" I cried.
+LINE 113: The stranger did not recognise me, but I recognised him as the
+LINE 114: gentleman I had met on the stairs, on the occasion of my second visit
+LINE 115: to Miss Havisham. I had known him the moment I saw him looking over the
+LINE 116: settle, and now that I stood confronting him with his hand upon my
+LINE 117: shoulder, I checked off again in detail his large head, his dark
+LINE 118: complexion, his deep-set eyes, his bushy black eyebrows, his large
+LINE 119: watch-chain, his strong black dots of beard and whisker, and even the
+LINE 120: smell of scented soap on his great hand.
+LINE 121: "I wish to have a private conference with you two," said he, when he
+LINE 122: had surveyed me at his leisure. "It will take a little time. Perhaps we
+LINE 123: had better go to your place of residence. I prefer not to anticipate my
+LINE 124: communication here; you will impart as much or as little of it as you
+LINE 125: please to your friends afterwards; I have nothing to do with that."
+LINE 126: Amidst a wondering silence, we three walked out of the Jolly Bargemen,
+LINE 127: and in a wondering silence walked home. While going along, the strange
+LINE 128: gentleman occasionally looked at me, and occasionally bit the side of
+LINE 129: his finger. As we neared home, Joe vaguely acknowledging the occasion
+LINE 130: as an impressive and ceremonious one, went on ahead to open the front
+LINE 131: door. Our conference was held in the state parlour, which was feebly
+LINE 132: lighted by one candle.
+LINE 133: It began with the strange gentleman's sitting down at the table,
+LINE 134: drawing the candle to him, and looking over some entries in his
+LINE 135: pocket-book. He then put up the pocket-book and set the candle a little
+LINE 136: aside, after peering round it into the darkness at Joe and me, to
+LINE 137: ascertain which was which.
+LINE 138: "My name," he said, "is Jaggers, and I am a lawyer in London. I am
+LINE 139: pretty well known. I have unusual business to transact with you, and I
+LINE 140: commence by explaining that it is not of my originating. If my advice
+LINE 141: had been asked, I should not have been here. It was not asked, and you
+LINE 142: see me here. What I have to do as the confidential agent of another, I
+LINE 143: do. No less, no more."
+LINE 144: Finding that he could not see us very well from where he sat, he got
+LINE 145: up, and threw one leg over the back of a chair and leaned upon it; thus
+LINE 146: having one foot on the seat of the chair, and one foot on the ground.
+LINE 147: "Now, Joseph Gargery, I am the bearer of an offer to relieve you of
+LINE 148: this young fellow your apprentice. You would not object to cancel his
+LINE 149: indentures at his request and for his good? You would want nothing for
+LINE 150: so doing?"
+LINE 151: "Lord forbid that I should want anything for not standing in Pip's
+LINE 152: way," said Joe, staring.
+LINE 153: "Lord forbidding is pious, but not to the purpose," returned Mr.
+LINE 154: Jaggers. "The question is, Would you want anything? Do you want
+LINE 155: anything?"
+LINE 156: "The answer is," returned Joe, sternly, "No."
+LINE 157: I thought Mr. Jaggers glanced at Joe, as if he considered him a fool
+LINE 158: for his disinterestedness. But I was too much bewildered between
+LINE 159: breathless curiosity and surprise, to be sure of it.
+LINE 160: "Very well," said Mr. Jaggers. "Recollect the admission you have made,
+LINE 161: and don't try to go from it presently."
+LINE 162: "Who's a-going to try?" retorted Joe.
+LINE 163: "I don't say anybody is. Do you keep a dog?"
+LINE 164: "Yes, I do keep a dog."
+LINE 165: "Bear in mind then, that Brag is a good dog, but Holdfast is a better.
+LINE 166: Bear that in mind, will you?" repeated Mr. Jaggers, shutting his eyes
+LINE 167: and nodding his head at Joe, as if he were forgiving him something.
+LINE 168: "Now, I return to this young fellow. And the communication I have got
+LINE 169: to make is, that he has great expectations."
+LINE 170: Joe and I gasped, and looked at one another.
+LINE 171: "I am instructed to communicate to him," said Mr. Jaggers, throwing his
+LINE 172: finger at me sideways, "that he will come into a handsome property.
+LINE 173: Further, that it is the desire of the present possessor of that
+LINE 174: property, that he be immediately removed from his present sphere of
+LINE 175: life and from this place, and be brought up as a gentleman,—in a word,
+LINE 176: as a young fellow of great expectations."
+LINE 177: My dream was out; my wild fancy was surpassed by sober reality; Miss
+LINE 178: Havisham was going to make my fortune on a grand scale.
+LINE 179: "Now, Mr. Pip," pursued the lawyer, "I address the rest of what I have
+LINE 180: to say, to you. You are to understand, first, that it is the request of
+LINE 181: the person from whom I take my instructions that you always bear the
+LINE 182: name of Pip. You will have no objection, I dare say, to your great
+LINE 183: expectations being encumbered with that easy condition. But if you have
+LINE 184: any objection, this is the time to mention it."
+LINE 185: My heart was beating so fast, and there was such a singing in my ears,
+LINE 186: that I could scarcely stammer I had no objection.
+LINE 187: "I should think not! Now you are to understand, secondly, Mr. Pip, that
+LINE 188: the name of the person who is your liberal benefactor remains a
+LINE 189: profound secret, until the person chooses to reveal it. I am empowered
+LINE 190: to mention that it is the intention of the person to reveal it at first
+LINE 191: hand by word of mouth to yourself. When or where that intention may be
+LINE 192: carried out, I cannot say; no one can say. It may be years hence. Now,
+LINE 193: you are distinctly to understand that you are most positively
+LINE 194: prohibited from making any inquiry on this head, or any allusion or
+LINE 195: reference, however distant, to any individual whomsoever as _the_
+LINE 196: individual, in all the communications you may have with me. If you have
+LINE 197: a suspicion in your own breast, keep that suspicion in your own breast.
+LINE 198: It is not the least to the purpose what the reasons of this prohibition
+LINE 199: are; they may be the strongest and gravest reasons, or they may be mere
+LINE 200: whim. This is not for you to inquire into. The condition is laid down.
+LINE 201: Your acceptance of it, and your observance of it as binding, is the
+LINE 202: only remaining condition that I am charged with, by the person from
+LINE 203: whom I take my instructions, and for whom I am not otherwise
+LINE 204: responsible. That person is the person from whom you derive your
+LINE 205: expectations, and the secret is solely held by that person and by me.
+LINE 206: Again, not a very difficult condition with which to encumber such a
+LINE 207: rise in fortune; but if you have any objection to it, this is the time
+LINE 208: to mention it. Speak out."
+LINE 209: Once more, I stammered with difficulty that I had no objection.
+LINE 210: "I should think not! Now, Mr. Pip, I have done with stipulations."
+LINE 211: Though he called me Mr. Pip, and began rather to make up to me, he
+LINE 212: still could not get rid of a certain air of bullying suspicion; and
+LINE 213: even now he occasionally shut his eyes and threw his finger at me while
+LINE 214: he spoke, as much as to express that he knew all kinds of things to my
+LINE 215: disparagement, if he only chose to mention them. "We come next, to mere
+LINE 216: details of arrangement. You must know that, although I have used the
+LINE 217: term 'expectations' more than once, you are not endowed with
+LINE 218: expectations only. There is already lodged in my hands a sum of money
+LINE 219: amply sufficient for your suitable education and maintenance. You will
+LINE 220: please consider me your guardian. Oh!" for I was going to thank him, "I
+LINE 221: tell you at once, I am paid for my services, or I shouldn't render
+LINE 222: them. It is considered that you must be better educated, in accordance
+LINE 223: with your altered position, and that you will be alive to the
+LINE 224: importance and necessity of at once entering on that advantage."
+LINE 225: I said I had always longed for it.
+LINE 226: "Never mind what you have always longed for, Mr. Pip," he retorted;
+LINE 227: "keep to the record. If you long for it now, that's enough. Am I
+LINE 228: answered that you are ready to be placed at once under some proper
+LINE 229: tutor? Is that it?"
+LINE 230: I stammered yes, that was it.
+LINE 231: "Good. Now, your inclinations are to be consulted. I don't think that
+LINE 232: wise, mind, but it's my trust. Have you ever heard of any tutor whom
+LINE 233: you would prefer to another?"
+LINE 234: I had never heard of any tutor but Biddy and Mr. Wopsle's great-aunt;
+LINE 235: so, I replied in the negative.
+LINE 236: "There is a certain tutor, of whom I have some knowledge, who I think
+LINE 237: might suit the purpose," said Mr. Jaggers. "I don't recommend him,
+LINE 238: observe; because I never recommend anybody. The gentleman I speak of is
+LINE 239: one Mr. Matthew Pocket."
+LINE 240: Ah! I caught at the name directly. Miss Havisham's relation. The
+LINE 241: Matthew whom Mr. and Mrs. Camilla had spoken of. The Matthew whose
+LINE 242: place was to be at Miss Havisham's head, when she lay dead, in her
+LINE 243: bride's dress on the bride's table.
+LINE 244: "You know the name?" said Mr. Jaggers, looking shrewdly at me, and then
+LINE 245: shutting up his eyes while he waited for my answer.
+LINE 246: My answer was, that I had heard of the name.
+LINE 247: "Oh!" said he. "You have heard of the name. But the question is, what
+LINE 248: do you say of it?"
+LINE 249: I said, or tried to say, that I was much obliged to him for his
+LINE 250: recommendation—
+LINE 251: "No, my young friend!" he interrupted, shaking his great head very
+LINE 252: slowly. "Recollect yourself!"
+LINE 253: Not recollecting myself, I began again that I was much obliged to him
+LINE 254: for his recommendation—
+LINE 255: "No, my young friend," he interrupted, shaking his head and frowning
+LINE 256: and smiling both at once,—"no, no, no; it's very well done, but it
+LINE 257: won't do; you are too young to fix me with it. Recommendation is not
+LINE 258: the word, Mr. Pip. Try another."
+LINE 259: Correcting myself, I said that I was much obliged to him for his
+LINE 260: mention of Mr. Matthew Pocket—
+LINE 261: "_That_'s more like it!" cried Mr. Jaggers.—And (I added), I would
+LINE 262: gladly try that gentleman.
+LINE 263: "Good. You had better try him in his own house. The way shall be
+LINE 264: prepared for you, and you can see his son first, who is in London. When
+LINE 265: will you come to London?"
+LINE 266: I said (glancing at Joe, who stood looking on, motionless), that I
+LINE 267: supposed I could come directly.
+LINE 268: "First," said Mr. Jaggers, "you should have some new clothes to come
+LINE 269: in, and they should not be working-clothes. Say this day week. You'll
+LINE 270: want some money. Shall I leave you twenty guineas?"
+LINE 271: He produced a long purse, with the greatest coolness, and counted them
+LINE 272: out on the table and pushed them over to me. This was the first time he
+LINE 273: had taken his leg from the chair. He sat astride of the chair when he
+LINE 274: had pushed the money over, and sat swinging his purse and eyeing Joe.
+LINE 275: "Well, Joseph Gargery? You look dumbfoundered?"
+LINE 276: "I _am_!" said Joe, in a very decided manner.
+LINE 277: "It was understood that you wanted nothing for yourself, remember?"
+LINE 278: "It were understood," said Joe. "And it are understood. And it ever
+LINE 279: will be similar according."
+LINE 280: "But what," said Mr. Jaggers, swinging his purse,—"what if it was in my
+LINE 281: instructions to make you a present, as compensation?"
+LINE 282: "As compensation what for?" Joe demanded.
+LINE 283: "For the loss of his services."
+LINE 284: Joe laid his hand upon my shoulder with the touch of a woman. I have
+LINE 285: often thought him since, like the steam-hammer that can crush a man or
+LINE 286: pat an egg-shell, in his combination of strength with gentleness. "Pip
+LINE 287: is that hearty welcome," said Joe, "to go free with his services, to
+LINE 288: honour and fortun', as no words can tell him. But if you think as Money
+LINE 289: can make compensation to me for the loss of the little child—what come
+LINE 290: to the forge—and ever the best of friends!—"
+LINE 291: O dear good Joe, whom I was so ready to leave and so unthankful to, I
+LINE 292: see you again, with your muscular blacksmith's arm before your eyes,
+LINE 293: and your broad chest heaving, and your voice dying away. O dear good
+LINE 294: faithful tender Joe, I feel the loving tremble of your hand upon my
+LINE 295: arm, as solemnly this day as if it had been the rustle of an angel's
+LINE 296: wing!
+LINE 297: But I encouraged Joe at the time. I was lost in the mazes of my future
+LINE 298: fortunes, and could not retrace the by-paths we had trodden together. I
+LINE 299: begged Joe to be comforted, for (as he said) we had ever been the best
+LINE 300: of friends, and (as I said) we ever would be so. Joe scooped his eyes
+LINE 301: with his disengaged wrist, as if he were bent on gouging himself, but
+LINE 302: said not another word.
+LINE 303: Mr. Jaggers had looked on at this, as one who recognised in Joe the
+LINE 304: village idiot, and in me his keeper. When it was over, he said,
+LINE 305: weighing in his hand the purse he had ceased to swing:—
+LINE 306: "Now, Joseph Gargery, I warn you this is your last chance. No half
+LINE 307: measures with me. If you mean to take a present that I have it in
+LINE 308: charge to make you, speak out, and you shall have it. If on the
+LINE 309: contrary you mean to say—" Here, to his great amazement, he was stopped
+LINE 310: by Joe's suddenly working round him with every demonstration of a fell
+LINE 311: pugilistic purpose.
+LINE 312: "Which I meantersay," cried Joe, "that if you come into my place
+LINE 313: bull-baiting and badgering me, come out! Which I meantersay as sech if
+LINE 314: you're a man, come on! Which I meantersay that what I say, I meantersay
+LINE 315: and stand or fall by!"
+LINE 316: I drew Joe away, and he immediately became placable; merely stating to
+LINE 317: me, in an obliging manner and as a polite expostulatory notice to any
+LINE 318: one whom it might happen to concern, that he were not a-going to be
+LINE 319: bull-baited and badgered in his own place. Mr. Jaggers had risen when
+LINE 320: Joe demonstrated, and had backed near the door. Without evincing any
+LINE 321: inclination to come in again, he there delivered his valedictory
+LINE 322: remarks. They were these.
+LINE 323: "Well, Mr. Pip, I think the sooner you leave here—as you are to be a
+LINE 324: gentleman—the better. Let it stand for this day week, and you shall
+LINE 325: receive my printed address in the meantime. You can take a
+LINE 326: hackney-coach at the stage-coach office in London, and come straight to
+LINE 327: me. Understand, that I express no opinion, one way or other, on the
+LINE 328: trust I undertake. I am paid for undertaking it, and I do so. Now,
+LINE 329: understand that, finally. Understand that!"
+LINE 330: He was throwing his finger at both of us, and I think would have gone
+LINE 331: on, but for his seeming to think Joe dangerous, and going off.
+LINE 332: Something came into my head which induced me to run after him, as he
+LINE 333: was going down to the Jolly Bargemen, where he had left a hired
+LINE 334: carriage.
+LINE 335: "I beg your pardon, Mr. Jaggers."
+LINE 336: "Halloa!" said he, facing round, "what's the matter?"
+LINE 337: "I wish to be quite right, Mr. Jaggers, and to keep to your directions;
+LINE 338: so I thought I had better ask. Would there be any objection to my
+LINE 339: taking leave of any one I know, about here, before I go away?"
+LINE 340: "No," said he, looking as if he hardly understood me.
+LINE 341: "I don't mean in the village only, but up town?"
+LINE 342: "No," said he. "No objection."
+LINE 343: I thanked him and ran home again, and there I found that Joe had
+LINE 344: already locked the front door and vacated the state parlour, and was
+LINE 345: seated by the kitchen fire with a hand on each knee, gazing intently at
+LINE 346: the burning coals. I too sat down before the fire and gazed at the
+LINE 347: coals, and nothing was said for a long time.
+LINE 348: My sister was in her cushioned chair in her corner, and Biddy sat at
+LINE 349: her needle-work before the fire, and Joe sat next Biddy, and I sat next
+LINE 350: Joe in the corner opposite my sister. The more I looked into the
+LINE 351: glowing coals, the more incapable I became of looking at Joe; the
+LINE 352: longer the silence lasted, the more unable I felt to speak.
+LINE 353: At length I got out, "Joe, have you told Biddy?"
+LINE 354: "No, Pip," returned Joe, still looking at the fire, and holding his
+LINE 355: knees tight, as if he had private information that they intended to
+LINE 356: make off somewhere, "which I left it to yourself, Pip."
+LINE 357: "I would rather you told, Joe."
+LINE 358: "Pip's a gentleman of fortun' then," said Joe, "and God bless him in
+LINE 359: it!"
+LINE 360: Biddy dropped her work, and looked at me. Joe held his knees and looked
+LINE 361: at me. I looked at both of them. After a pause, they both heartily
+LINE 362: congratulated me; but there was a certain touch of sadness in their
+LINE 363: congratulations that I rather resented.
+LINE 364: I took it upon myself to impress Biddy (and through Biddy, Joe) with
+LINE 365: the grave obligation I considered my friends under, to know nothing and
+LINE 366: say nothing about the maker of my fortune. It would all come out in
+LINE 367: good time, I observed, and in the meanwhile nothing was to be said,
+LINE 368: save that I had come into great expectations from a mysterious patron.
+LINE 369: Biddy nodded her head thoughtfully at the fire as she took up her work
+LINE 370: again, and said she would be very particular; and Joe, still detaining
+LINE 371: his knees, said, "Ay, ay, I'll be ekervally partickler, Pip;" and then
+LINE 372: they congratulated me again, and went on to express so much wonder at
+LINE 373: the notion of my being a gentleman that I didn't half like it.
+LINE 374: Infinite pains were then taken by Biddy to convey to my sister some
+LINE 375: idea of what had happened. To the best of my belief, those efforts
+LINE 376: entirely failed. She laughed and nodded her head a great many times,
+LINE 377: and even repeated after Biddy, the words "Pip" and "Property." But I
+LINE 378: doubt if they had more meaning in them than an election cry, and I
+LINE 379: cannot suggest a darker picture of her state of mind.
+LINE 380: I never could have believed it without experience, but as Joe and Biddy
+LINE 381: became more at their cheerful ease again, I became quite gloomy.
+LINE 382: Dissatisfied with my fortune, of course I could not be; but it is
+LINE 383: possible that I may have been, without quite knowing it, dissatisfied
+LINE 384: with myself.
+LINE 385: Anyhow, I sat with my elbow on my knee and my face upon my hand,
+LINE 386: looking into the fire, as those two talked about my going away, and
+LINE 387: about what they should do without me, and all that. And whenever I
+LINE 388: caught one of them looking at me, though never so pleasantly (and they
+LINE 389: often looked at me,—particularly Biddy), I felt offended: as if they
+LINE 390: were expressing some mistrust of me. Though Heaven knows they never did
+LINE 391: by word or sign.
+LINE 392: At those times I would get up and look out at the door; for our kitchen
+LINE 393: door opened at once upon the night, and stood open on summer evenings
+LINE 394: to air the room. The very stars to which I then raised my eyes, I am
+LINE 395: afraid I took to be but poor and humble stars for glittering on the
+LINE 396: rustic objects among which I had passed my life.
+LINE 397: "Saturday night," said I, when we sat at our supper of bread and cheese
+LINE 398: and beer. "Five more days, and then the day before _the_ day! They'll
+LINE 399: soon go."
+LINE 400: "Yes, Pip," observed Joe, whose voice sounded hollow in his beer-mug.
+LINE 401: "They'll soon go."
+LINE 402: "Soon, soon go," said Biddy.
+LINE 403: "I have been thinking, Joe, that when I go down town on Monday, and
+LINE 404: order my new clothes, I shall tell the tailor that I'll come and put
+LINE 405: them on there, or that I'll have them sent to Mr. Pumblechook's. It
+LINE 406: would be very disagreeable to be stared at by all the people here."
+LINE 407: "Mr. and Mrs. Hubble might like to see you in your new gen-teel figure
+LINE 408: too, Pip," said Joe, industriously cutting his bread, with his cheese
+LINE 409: on it, in the palm of his left hand, and glancing at my untasted supper
+LINE 410: as if he thought of the time when we used to compare slices. "So might
+LINE 411: Wopsle. And the Jolly Bargemen might take it as a compliment."
+LINE 412: "That's just what I don't want, Joe. They would make such a business of
+LINE 413: it,—such a coarse and common business,—that I couldn't bear myself."
+LINE 414: "Ah, that indeed, Pip!" said Joe. "If you couldn't abear yourself—"
+LINE 415: Biddy asked me here, as she sat holding my sister's plate, "Have you
+LINE 416: thought about when you'll show yourself to Mr. Gargery, and your sister
+LINE 417: and me? You will show yourself to us; won't you?"
+LINE 418: "Biddy," I returned with some resentment, "you are so exceedingly quick
+LINE 419: that it's difficult to keep up with you."
+LINE 420: ("She always were quick," observed Joe.)
+LINE 421: "If you had waited another moment, Biddy, you would have heard me say
+LINE 422: that I shall bring my clothes here in a bundle one evening,—most likely
+LINE 423: on the evening before I go away."
+LINE 424: Biddy said no more. Handsomely forgiving her, I soon exchanged an
+LINE 425: affectionate good night with her and Joe, and went up to bed. When I
+LINE 426: got into my little room, I sat down and took a long look at it, as a
+LINE 427: mean little room that I should soon be parted from and raised above,
+LINE 428: for ever. It was furnished with fresh young remembrances too, and even
+LINE 429: at the same moment I fell into much the same confused division of mind
+LINE 430: between it and the better rooms to which I was going, as I had been in
+LINE 431: so often between the forge and Miss Havisham's, and Biddy and Estella.
+LINE 432: The sun had been shining brightly all day on the roof of my attic, and
+LINE 433: the room was warm. As I put the window open and stood looking out, I
+LINE 434: saw Joe come slowly forth at the dark door, below, and take a turn or
+LINE 435: two in the air; and then I saw Biddy come, and bring him a pipe and
+LINE 436: light it for him. He never smoked so late, and it seemed to hint to me
+LINE 437: that he wanted comforting, for some reason or other.
+LINE 438: He presently stood at the door immediately beneath me, smoking his
+LINE 439: pipe, and Biddy stood there too, quietly talking to him, and I knew
+LINE 440: that they talked of me, for I heard my name mentioned in an endearing
+LINE 441: tone by both of them more than once. I would not have listened for
+LINE 442: more, if I could have heard more; so I drew away from the window, and
+LINE 443: sat down in my one chair by the bedside, feeling it very sorrowful and
+LINE 444: strange that this first night of my bright fortunes should be the
+LINE 445: loneliest I had ever known.
+LINE 446: Looking towards the open window, I saw light wreaths from Joe's pipe
+LINE 447: floating there, and I fancied it was like a blessing from Joe,—not
+LINE 448: obtruded on me or paraded before me, but pervading the air we shared
+LINE 449: together. I put my light out, and crept into bed; and it was an uneasy
+LINE 450: bed now, and I never slept the old sound sleep in it any more.

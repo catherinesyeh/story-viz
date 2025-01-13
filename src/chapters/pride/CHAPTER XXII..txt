@@ -1,0 +1,150 @@
+LINE 1: The Bennets were engaged to dine with the Lucases, and again during the
+LINE 2: chief of the day, was Miss Lucas so kind as to listen to Mr. Collins.
+LINE 3: Elizabeth took an opportunity of thanking her. "It keeps him in good
+LINE 4: humour," said she, "and I am more obliged to you than I can express."
+LINE 5: Charlotte assured her friend of her satisfaction in being useful, and
+LINE 6: that it amply repaid her for the little sacrifice of her time. This was
+LINE 7: very amiable, but Charlotte's kindness extended farther than Elizabeth
+LINE 8: had any conception of;--its object was nothing less, than to secure her
+LINE 9: from any return of Mr. Collins's addresses, by engaging them towards
+LINE 10: herself. Such was Miss Lucas's scheme; and appearances were so
+LINE 11: favourable that when they parted at night, she would have felt almost
+LINE 12: sure of success if he had not been to leave Hertfordshire so very soon.
+LINE 13: But here, she did injustice to the fire and independence of his
+LINE 14: character, for it led him to escape out of Longbourn House the next
+LINE 15: morning with admirable slyness, and hasten to Lucas Lodge to throw
+LINE 16: himself at her feet. He was anxious to avoid the notice of his cousins,
+LINE 17: from a conviction that if they saw him depart, they could not fail to
+LINE 18: conjecture his design, and he was not willing to have the attempt known
+LINE 19: till its success could be known likewise; for though feeling almost
+LINE 20: secure, and with reason, for Charlotte had been tolerably encouraging,
+LINE 21: he was comparatively diffident since the adventure of Wednesday. His
+LINE 22: reception however was of the most flattering kind. Miss Lucas perceived
+LINE 23: him from an upper window as he walked towards the house, and instantly
+LINE 24: set out to meet him accidentally in the lane. But little had she dared
+LINE 25: to hope that so much love and eloquence awaited her there.
+LINE 26: In as short a time as Mr. Collins's long speeches would allow, every
+LINE 27: thing was settled between them to the satisfaction of both; and as they
+LINE 28: entered the house, he earnestly entreated her to name the day that was
+LINE 29: to make him the happiest of men; and though such a solicitation must be
+LINE 30: waved for the present, the lady felt no inclination to trifle with his
+LINE 31: happiness. The stupidity with which he was favoured by nature, must
+LINE 32: guard his courtship from any charm that could make a woman wish for its
+LINE 33: continuance; and Miss Lucas, who accepted him solely from the pure and
+LINE 34: disinterested desire of an establishment, cared not how soon that
+LINE 35: establishment were gained.
+LINE 36: Sir William and Lady Lucas were speedily applied to for their consent;
+LINE 37: and it was bestowed with a most joyful alacrity. Mr. Collins's present
+LINE 38: circumstances made it a most eligible match for their daughter, to whom
+LINE 39: they could give little fortune; and his prospects of future wealth were
+LINE 40: exceedingly fair. Lady Lucas began directly to calculate with more
+LINE 41: interest than the matter had ever excited before, how many years longer
+LINE 42: Mr. Bennet was likely to live; and Sir William gave it as his decided
+LINE 43: opinion, that whenever Mr. Collins should be in possession of the
+LINE 44: Longbourn estate, it would be highly expedient that both he and his wife
+LINE 45: should make their appearance at St. James's. The whole family in short
+LINE 46: were properly overjoyed on the occasion. The younger girls formed hopes
+LINE 47: of _coming out_ a year or two sooner than they might otherwise have
+LINE 48: done; and the boys were relieved from their apprehension of Charlotte's
+LINE 49: dying an old maid. Charlotte herself was tolerably composed. She had
+LINE 50: gained her point, and had time to consider of it. Her reflections were
+LINE 51: in general satisfactory. Mr. Collins to be sure was neither sensible nor
+LINE 52: agreeable; his society was irksome, and his attachment to her must be
+LINE 53: imaginary. But still he would be her husband.--Without thinking highly
+LINE 54: either of men or of matrimony, marriage had always been her object; it
+LINE 55: was the only honourable provision for well-educated young women of small
+LINE 56: fortune, and however uncertain of giving happiness, must be their
+LINE 57: pleasantest preservative from want. This preservative she had now
+LINE 58: obtained; and at the age of twenty-seven, without having ever been
+LINE 59: handsome, she felt all the good luck of it. The least agreeable
+LINE 60: circumstance in the business, was the surprise it must occasion to
+LINE 61: Elizabeth Bennet, whose friendship she valued beyond that of any other
+LINE 62: person. Elizabeth would wonder, and probably would blame her; and though
+LINE 63: her resolution was not to be shaken, her feelings must be hurt by such
+LINE 64: disapprobation. She resolved to give her the information herself, and
+LINE 65: therefore charged Mr. Collins when he returned to Longbourn to dinner,
+LINE 66: to drop no hint of what had passed before any of the family. A promise
+LINE 67: of secrecy was of course very dutifully given, but it could not be kept
+LINE 68: without difficulty; for the curiosity excited by his long absence, burst
+LINE 69: forth in such very direct questions on his return, as required some
+LINE 70: ingenuity to evade, and he was at the same time exercising great
+LINE 71: self-denial, for he was longing to publish his prosperous love.
+LINE 72: As he was to begin his journey too early on the morrow to see any of the
+LINE 73: family, the ceremony of leave-taking was performed when the ladies moved
+LINE 74: for the night; and Mrs. Bennet with great politeness and cordiality said
+LINE 75: how happy they should be to see him at Longbourn again, whenever his
+LINE 76: other engagements might allow him to visit them.
+LINE 77: "My dear Madam," he replied, "this invitation is particularly
+LINE 78: gratifying, because it is what I have been hoping to receive; and you
+LINE 79: may be very certain that I shall avail myself of it as soon as
+LINE 80: possible."
+LINE 81: They were all astonished; and Mr. Bennet, who could by no means wish for
+LINE 82: so speedy a return, immediately said,
+LINE 83: "But is there not danger of Lady Catherine's disapprobation here, my
+LINE 84: good sir?--You had better neglect your relations, than run the risk of
+LINE 85: offending your patroness."
+LINE 86: "My dear sir," replied Mr. Collins, "I am particularly obliged to you
+LINE 87: for this friendly caution, and you may depend upon my not taking so
+LINE 88: material a step without her ladyship's concurrence."
+LINE 89: "You cannot be too much on your guard. Risk any thing rather than her
+LINE 90: displeasure; and if you find it likely to be raised by your coming to us
+LINE 91: again, which I should think exceedingly probable, stay quietly at home,
+LINE 92: and be satisfied that _we_ shall take no offence."
+LINE 93: "Believe me, my dear sir, my gratitude is warmly excited by such
+LINE 94: affectionate attention; and depend upon it, you will speedily receive
+LINE 95: from me a letter of thanks for this, as well as for every other mark of
+LINE 96: your regard during my stay in Hertfordshire. As for my fair cousins,
+LINE 97: though my absence may not be long enough to render it necessary, I shall
+LINE 98: now take the liberty of wishing them health and happiness, not excepting
+LINE 99: my cousin Elizabeth."
+LINE 100: With proper civilities the ladies then withdrew; all of them equally
+LINE 101: surprised to find that he meditated a quick return. Mrs. Bennet wished
+LINE 102: to understand by it that he thought of paying his addresses to one of
+LINE 103: her younger girls, and Mary might have been prevailed on to accept him.
+LINE 104: She rated his abilities much higher than any of the others; there was a
+LINE 105: solidity in his reflections which often struck her, and though by no
+LINE 106: means so clever as herself, she thought that if encouraged to read and
+LINE 107: improve himself by such an example as her's, he might become a very
+LINE 108: agreeable companion. But on the following morning, every hope of this
+LINE 109: kind was done away. Miss Lucas called soon after breakfast, and in a
+LINE 110: private conference with Elizabeth related the event of the day before.
+LINE 111: The possibility of Mr. Collins's fancying himself in love with her
+LINE 112: friend had once occurred to Elizabeth within the last day or two; but
+LINE 113: that Charlotte could encourage him, seemed almost as far from
+LINE 114: possibility as that she could encourage him herself, and her
+LINE 115: astonishment was consequently so great as to overcome at first the
+LINE 116: bounds of decorum, and she could not help crying out,
+LINE 117: "Engaged to Mr. Collins! my dear Charlotte,--impossible!"
+LINE 118: The steady countenance which Miss Lucas had commanded in telling her
+LINE 119: story, gave way to a momentary confusion here on receiving so direct a
+LINE 120: reproach; though, as it was no more than she expected, she soon
+LINE 121: regained her composure, and calmly replied,
+LINE 122: "Why should you be surprised, my dear Eliza?--Do you think it incredible
+LINE 123: that Mr. Collins should be able to procure any woman's good opinion,
+LINE 124: because he was not so happy as to succeed with you?"
+LINE 125: But Elizabeth had now recollected herself, and making a strong effort
+LINE 126: for it, was able to assure her with tolerable firmness that the prospect
+LINE 127: of their relationship was highly grateful to her, and that she wished
+LINE 128: her all imaginable happiness.
+LINE 129: "I see what you are feeling," replied Charlotte,--"you must be
+LINE 130: surprised, very much surprised,--so lately as Mr. Collins was wishing to
+LINE 131: marry you. But when you have had time to think it all over, I hope you
+LINE 132: will be satisfied with what I have done. I am not romantic you know. I
+LINE 133: never was. I ask only a comfortable home; and considering Mr. Collins's
+LINE 134: character, connections, and situation in life, I am convinced that my
+LINE 135: chance of happiness with him is as fair, as most people can boast on
+LINE 136: entering the marriage state."
+LINE 137: Elizabeth quietly answered "Undoubtedly;"--and after an awkward pause,
+LINE 138: they returned to the rest of the family. Charlotte did not stay much
+LINE 139: longer, and Elizabeth was then left to reflect on what she had heard. It
+LINE 140: was a long time before she became at all reconciled to the idea of so
+LINE 141: unsuitable a match. The strangeness of Mr. Collins's making two offers
+LINE 142: of marriage within three days, was nothing in comparison of his being
+LINE 143: now accepted. She had always felt that Charlotte's opinion of matrimony
+LINE 144: was not exactly like her own, but she could not have supposed it
+LINE 145: possible that when called into action, she would have sacrificed every
+LINE 146: better feeling to worldly advantage. Charlotte the wife of Mr. Collins,
+LINE 147: was a most humiliating picture!--And to the pang of a friend disgracing
+LINE 148: herself and sunk in her esteem, was added the distressing conviction
+LINE 149: that it was impossible for that friend to be tolerably happy in the lot
+LINE 150: she had chosen.

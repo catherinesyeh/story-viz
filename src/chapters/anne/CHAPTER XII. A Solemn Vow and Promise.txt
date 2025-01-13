@@ -1,0 +1,180 @@
+LINE 1: IT was not until the next Friday that Marilla heard the story of the
+LINE 2: flower-wreathed hat. She came home from Mrs. Lynde's and called Anne to
+LINE 3: account.
+LINE 4: "Anne, Mrs. Rachel says you went to church last Sunday with your hat
+LINE 5: rigged out ridiculous with roses and buttercups. What on earth put you
+LINE 6: up to such a caper? A pretty-looking object you must have been!"
+LINE 7: "Oh. I know pink and yellow aren't becoming to me," began Anne.
+LINE 8: "Becoming fiddlesticks! It was putting flowers on your hat at all,
+LINE 9: no matter what color they were, that was ridiculous. You are the most
+LINE 10: aggravating child!"
+LINE 11: "I don't see why it's any more ridiculous to wear flowers on your hat
+LINE 12: than on your dress," protested Anne. "Lots of little girls there had
+LINE 13: bouquets pinned on their dresses. What's the difference?"
+LINE 14: Marilla was not to be drawn from the safe concrete into dubious paths of
+LINE 15: the abstract.
+LINE 16: "Don't answer me back like that, Anne. It was very silly of you to do
+LINE 17: such a thing. Never let me catch you at such a trick again. Mrs. Rachel
+LINE 18: says she thought she would sink through the floor when she saw you come
+LINE 19: in all rigged out like that. She couldn't get near enough to tell you
+LINE 20: to take them off till it was too late. She says people talked about it
+LINE 21: something dreadful. Of course they would think I had no better sense
+LINE 22: than to let you go decked out like that."
+LINE 23: "Oh, I'm so sorry," said Anne, tears welling into her eyes. "I never
+LINE 24: thought you'd mind. The roses and buttercups were so sweet and pretty
+LINE 25: I thought they'd look lovely on my hat. Lots of the little girls had
+LINE 26: artificial flowers on their hats. I'm afraid I'm going to be a dreadful
+LINE 27: trial to you. Maybe you'd better send me back to the asylum. That would
+LINE 28: be terrible; I don't think I could endure it; most likely I would go
+LINE 29: into consumption; I'm so thin as it is, you see. But that would be
+LINE 30: better than being a trial to you."
+LINE 31: "Nonsense," said Marilla, vexed at herself for having made the child
+LINE 32: cry. "I don't want to send you back to the asylum, I'm sure. All I want
+LINE 33: is that you should behave like other little girls and not make yourself
+LINE 34: ridiculous. Don't cry any more. I've got some news for you. Diana Barry
+LINE 35: came home this afternoon. I'm going up to see if I can borrow a skirt
+LINE 36: pattern from Mrs. Barry, and if you like you can come with me and get
+LINE 37: acquainted with Diana."
+LINE 38: Anne rose to her feet, with clasped hands, the tears still glistening on
+LINE 39: her cheeks; the dish towel she had been hemming slipped unheeded to the
+LINE 40: floor.
+LINE 41: "Oh, Marilla, I'm frightened--now that it has come I'm actually
+LINE 42: frightened. What if she shouldn't like me! It would be the most tragical
+LINE 43: disappointment of my life."
+LINE 44: "Now, don't get into a fluster. And I do wish you wouldn't use such long
+LINE 45: words. It sounds so funny in a little girl. I guess Diana 'll like you
+LINE 46: well enough. It's her mother you've got to reckon with. If she doesn't
+LINE 47: like you it won't matter how much Diana does. If she has heard about
+LINE 48: your outburst to Mrs. Lynde and going to church with buttercups round
+LINE 49: your hat I don't know what she'll think of you. You must be polite and
+LINE 50: well behaved, and don't make any of your startling speeches. For pity's
+LINE 51: sake, if the child isn't actually trembling!"
+LINE 52: Anne _was_ trembling. Her face was pale and tense.
+LINE 53: "Oh, Marilla, you'd be excited, too, if you were going to meet a little
+LINE 54: girl you hoped to be your bosom friend and whose mother mightn't like
+LINE 55: you," she said as she hastened to get her hat.
+LINE 56: They went over to Orchard Slope by the short cut across the brook and up
+LINE 57: the firry hill grove. Mrs. Barry came to the kitchen door in answer to
+LINE 58: Marilla's knock. She was a tall black-eyed, black-haired woman, with a
+LINE 59: very resolute mouth. She had the reputation of being very strict with
+LINE 60: her children.
+LINE 61: "How do you do, Marilla?" she said cordially. "Come in. And this is the
+LINE 62: little girl you have adopted, I suppose?"
+LINE 63: "Yes, this is Anne Shirley," said Marilla.
+LINE 64: "Spelled with an E," gasped Anne, who, tremulous and excited as she was,
+LINE 65: was determined there should be no misunderstanding on that important
+LINE 66: point.
+LINE 67: Mrs. Barry, not hearing or not comprehending, merely shook hands and
+LINE 68: said kindly:
+LINE 69: "How are you?"
+LINE 70: "I am well in body although considerable rumpled up in spirit, thank you
+LINE 71: ma'am," said Anne gravely. Then aside to Marilla in an audible whisper,
+LINE 72: "There wasn't anything startling in that, was there, Marilla?"
+LINE 73: Diana was sitting on the sofa, reading a book which she dropped when the
+LINE 74: callers entered. She was a very pretty little girl, with her mother's
+LINE 75: black eyes and hair, and rosy cheeks, and the merry expression which was
+LINE 76: her inheritance from her father.
+LINE 77: "This is my little girl Diana," said Mrs. Barry. "Diana, you might take
+LINE 78: Anne out into the garden and show her your flowers. It will be better
+LINE 79: for you than straining your eyes over that book. She reads entirely
+LINE 80: too much--" this to Marilla as the little girls went out--"and I can't
+LINE 81: prevent her, for her father aids and abets her. She's always poring over
+LINE 82: a book. I'm glad she has the prospect of a playmate--perhaps it will
+LINE 83: take her more out-of-doors."
+LINE 84: Outside in the garden, which was full of mellow sunset light streaming
+LINE 85: through the dark old firs to the west of it, stood Anne and Diana,
+LINE 86: gazing bashfully at each other over a clump of gorgeous tiger lilies.
+LINE 87: The Barry garden was a bowery wilderness of flowers which would have
+LINE 88: delighted Anne's heart at any time less fraught with destiny. It was
+LINE 89: encircled by huge old willows and tall firs, beneath which flourished
+LINE 90: flowers that loved the shade. Prim, right-angled paths neatly bordered
+LINE 91: with clamshells, intersected it like moist red ribbons and in the beds
+LINE 92: between old-fashioned flowers ran riot. There were rosy bleeding-hearts
+LINE 93: and great splendid crimson peonies; white, fragrant narcissi and thorny,
+LINE 94: sweet Scotch roses; pink and blue and white columbines and lilac-tinted
+LINE 95: Bouncing Bets; clumps of southernwood and ribbon grass and mint; purple
+LINE 96: Adam-and-Eve, daffodils, and masses of sweet clover white with its
+LINE 97: delicate, fragrant, feathery sprays; scarlet lightning that shot
+LINE 98: its fiery lances over prim white musk-flowers; a garden it was where
+LINE 99: sunshine lingered and bees hummed, and winds, beguiled into loitering,
+LINE 100: purred and rustled.
+LINE 101: "Oh, Diana," said Anne at last, clasping her hands and speaking almost
+LINE 102: in a whisper, "oh, do you think you can like me a little--enough to be
+LINE 103: my bosom friend?"
+LINE 104: Diana laughed. Diana always laughed before she spoke.
+LINE 105: "Why, I guess so," she said frankly. "I'm awfully glad you've come to
+LINE 106: live at Green Gables. It will be jolly to have somebody to play with.
+LINE 107: There isn't any other girl who lives near enough to play with, and I've
+LINE 108: no sisters big enough."
+LINE 109: "Will you swear to be my friend forever and ever?" demanded Anne
+LINE 110: eagerly.
+LINE 111: Diana looked shocked.
+LINE 112: "Why it's dreadfully wicked to swear," she said rebukingly.
+LINE 113: "Oh no, not my kind of swearing. There are two kinds, you know."
+LINE 114: "I never heard of but one kind," said Diana doubtfully.
+LINE 115: "There really is another. Oh, it isn't wicked at all. It just means
+LINE 116: vowing and promising solemnly."
+LINE 117: "Well, I don't mind doing that," agreed Diana, relieved. "How do you do
+LINE 118: it?"
+LINE 119: "We must join hands--so," said Anne gravely. "It ought to be over
+LINE 120: running water. We'll just imagine this path is running water. I'll
+LINE 121: repeat the oath first. I solemnly swear to be faithful to my bosom
+LINE 122: friend, Diana Barry, as long as the sun and moon shall endure. Now you
+LINE 123: say it and put my name in."
+LINE 124: Diana repeated the "oath" with a laugh fore and aft. Then she said:
+LINE 125: "You're a queer girl, Anne. I heard before that you were queer. But I
+LINE 126: believe I'm going to like you real well."
+LINE 127: When Marilla and Anne went home Diana went with them as far as the log
+LINE 128: bridge. The two little girls walked with their arms about each other.
+LINE 129: At the brook they parted with many promises to spend the next afternoon
+LINE 130: together.
+LINE 131: "Well, did you find Diana a kindred spirit?" asked Marilla as they went
+LINE 132: up through the garden of Green Gables.
+LINE 133: "Oh yes," sighed Anne, blissfully unconscious of any sarcasm on
+LINE 134: Marilla's part. "Oh Marilla, I'm the happiest girl on Prince Edward
+LINE 135: Island this very moment. I assure you I'll say my prayers with a right
+LINE 136: good-will tonight. Diana and I are going to build a playhouse in Mr.
+LINE 137: William Bell's birch grove tomorrow. Can I have those broken pieces of
+LINE 138: china that are out in the woodshed? Diana's birthday is in February and
+LINE 139: mine is in March. Don't you think that is a very strange coincidence?
+LINE 140: Diana is going to lend me a book to read. She says it's perfectly
+LINE 141: splendid and tremendously exciting. She's going to show me a place back
+LINE 142: in the woods where rice lilies grow. Don't you think Diana has got very
+LINE 143: soulful eyes? I wish I had soulful eyes. Diana is going to teach me to
+LINE 144: sing a song called 'Nelly in the Hazel Dell.' She's going to give me a
+LINE 145: picture to put up in my room; it's a perfectly beautiful picture, she
+LINE 146: says--a lovely lady in a pale blue silk dress. A sewing-machine agent
+LINE 147: gave it to her. I wish I had something to give Diana. I'm an inch taller
+LINE 148: than Diana, but she is ever so much fatter; she says she'd like to be
+LINE 149: thin because it's so much more graceful, but I'm afraid she only said
+LINE 150: it to soothe my feelings. We're going to the shore some day to gather
+LINE 151: shells. We have agreed to call the spring down by the log bridge the
+LINE 152: Dryad's Bubble. Isn't that a perfectly elegant name? I read a story
+LINE 153: once about a spring called that. A dryad is sort of a grown-up fairy, I
+LINE 154: think."
+LINE 155: "Well, all I hope is you won't talk Diana to death," said Marilla. "But
+LINE 156: remember this in all your planning, Anne. You're not going to play all
+LINE 157: the time nor most of it. You'll have your work to do and it'll have to
+LINE 158: be done first."
+LINE 159: Anne's cup of happiness was full, and Matthew caused it to overflow. He
+LINE 160: had just got home from a trip to the store at Carmody, and he sheepishly
+LINE 161: produced a small parcel from his pocket and handed it to Anne, with a
+LINE 162: deprecatory look at Marilla.
+LINE 163: "I heard you say you liked chocolate sweeties, so I got you some," he
+LINE 164: said.
+LINE 165: "Humph," sniffed Marilla. "It'll ruin her teeth and stomach. There,
+LINE 166: there, child, don't look so dismal. You can eat those, since Matthew
+LINE 167: has gone and got them. He'd better have brought you peppermints. They're
+LINE 168: wholesomer. Don't sicken yourself eating all them at once now."
+LINE 169: "Oh, no, indeed, I won't," said Anne eagerly. "I'll just eat one
+LINE 170: tonight, Marilla. And I can give Diana half of them, can't I? The
+LINE 171: other half will taste twice as sweet to me if I give some to her. It's
+LINE 172: delightful to think I have something to give her."
+LINE 173: "I will say it for the child," said Marilla when Anne had gone to
+LINE 174: her gable, "she isn't stingy. I'm glad, for of all faults I detest
+LINE 175: stinginess in a child. Dear me, it's only three weeks since she came,
+LINE 176: and it seems as if she'd been here always. I can't imagine the place
+LINE 177: without her. Now, don't be looking I told-you-so, Matthew. That's bad
+LINE 178: enough in a woman, but it isn't to be endured in a man. I'm perfectly
+LINE 179: willing to own up that I'm glad I consented to keep the child and that
+LINE 180: I'm getting fond of her, but don't you rub it in, Matthew Cuthbert."

@@ -1,0 +1,415 @@
+LINE 1: I was three-and-twenty years of age. Not another word had I heard to
+LINE 2: enlighten me on the subject of my expectations, and my twenty-third
+LINE 3: birthday was a week gone. We had left Barnard's Inn more than a year,
+LINE 4: and lived in the Temple. Our chambers were in Garden-court, down by the
+LINE 5: river.
+LINE 6: Mr. Pocket and I had for some time parted company as to our original
+LINE 7: relations, though we continued on the best terms. Notwithstanding my
+LINE 8: inability to settle to anything,—which I hope arose out of the restless
+LINE 9: and incomplete tenure on which I held my means,—I had a taste for
+LINE 10: reading, and read regularly so many hours a day. That matter of
+LINE 11: Herbert's was still progressing, and everything with me was as I have
+LINE 12: brought it down to the close of the last preceding chapter.
+LINE 13: Business had taken Herbert on a journey to Marseilles. I was alone, and
+LINE 14: had a dull sense of being alone. Dispirited and anxious, long hoping
+LINE 15: that to-morrow or next week would clear my way, and long disappointed,
+LINE 16: I sadly missed the cheerful face and ready response of my friend.
+LINE 17: It was wretched weather; stormy and wet, stormy and wet; and mud, mud,
+LINE 18: mud, deep in all the streets. Day after day, a vast heavy veil had been
+LINE 19: driving over London from the East, and it drove still, as if in the
+LINE 20: East there were an eternity of cloud and wind. So furious had been the
+LINE 21: gusts, that high buildings in town had had the lead stripped off their
+LINE 22: roofs; and in the country, trees had been torn up, and sails of
+LINE 23: windmills carried away; and gloomy accounts had come in from the coast,
+LINE 24: of shipwreck and death. Violent blasts of rain had accompanied these
+LINE 25: rages of wind, and the day just closed as I sat down to read had been
+LINE 26: the worst of all.
+LINE 27: Alterations have been made in that part of the Temple since that time,
+LINE 28: and it has not now so lonely a character as it had then, nor is it so
+LINE 29: exposed to the river. We lived at the top of the last house, and the
+LINE 30: wind rushing up the river shook the house that night, like discharges
+LINE 31: of cannon, or breakings of a sea. When the rain came with it and dashed
+LINE 32: against the windows, I thought, raising my eyes to them as they rocked,
+LINE 33: that I might have fancied myself in a storm-beaten lighthouse.
+LINE 34: Occasionally, the smoke came rolling down the chimney as though it
+LINE 35: could not bear to go out into such a night; and when I set the doors
+LINE 36: open and looked down the staircase, the staircase lamps were blown out;
+LINE 37: and when I shaded my face with my hands and looked through the black
+LINE 38: windows (opening them ever so little was out of the question in the
+LINE 39: teeth of such wind and rain), I saw that the lamps in the court were
+LINE 40: blown out, and that the lamps on the bridges and the shore were
+LINE 41: shuddering, and that the coal-fires in barges on the river were being
+LINE 42: carried away before the wind like red-hot splashes in the rain.
+LINE 43: I read with my watch upon the table, purposing to close my book at
+LINE 44: eleven o'clock. As I shut it, Saint Paul's, and all the many
+LINE 45: church-clocks in the City—some leading, some accompanying, some
+LINE 46: following—struck that hour. The sound was curiously flawed by the wind;
+LINE 47: and I was listening, and thinking how the wind assailed and tore it,
+LINE 48: when I heard a footstep on the stair.
+LINE 49: What nervous folly made me start, and awfully connect it with the
+LINE 50: footstep of my dead sister, matters not. It was past in a moment, and I
+LINE 51: listened again, and heard the footstep stumble in coming on.
+LINE 52: Remembering then, that the staircase-lights were blown out, I took up
+LINE 53: my reading-lamp and went out to the stair-head. Whoever was below had
+LINE 54: stopped on seeing my lamp, for all was quiet.
+LINE 55: "There is some one down there, is there not?" I called out, looking
+LINE 56: down.
+LINE 57: "Yes," said a voice from the darkness beneath.
+LINE 58: "What floor do you want?"
+LINE 59: "The top. Mr. Pip."
+LINE 60: "That is my name.—There is nothing the matter?"
+LINE 61: "Nothing the matter," returned the voice. And the man came on.
+LINE 62: I stood with my lamp held out over the stair-rail, and he came slowly
+LINE 63: within its light. It was a shaded lamp, to shine upon a book, and its
+LINE 64: circle of light was very contracted; so that he was in it for a mere
+LINE 65: instant, and then out of it. In the instant, I had seen a face that was
+LINE 66: strange to me, looking up with an incomprehensible air of being touched
+LINE 67: and pleased by the sight of me.
+LINE 68: Moving the lamp as the man moved, I made out that he was substantially
+LINE 69: dressed, but roughly, like a voyager by sea. That he had long iron-grey
+LINE 70: hair. That his age was about sixty. That he was a muscular man, strong
+LINE 71: on his legs, and that he was browned and hardened by exposure to
+LINE 72: weather. As he ascended the last stair or two, and the light of my lamp
+LINE 73: included us both, I saw, with a stupid kind of amazement, that he was
+LINE 74: holding out both his hands to me.
+LINE 75: "Pray what is your business?" I asked him.
+LINE 76: "My business?" he repeated, pausing. "Ah! Yes. I will explain my
+LINE 77: business, by your leave."
+LINE 78: "Do you wish to come in?"
+LINE 79: "Yes," he replied; "I wish to come in, master."
+LINE 80: I had asked him the question inhospitably enough, for I resented the
+LINE 81: sort of bright and gratified recognition that still shone in his face.
+LINE 82: I resented it, because it seemed to imply that he expected me to
+LINE 83: respond to it. But I took him into the room I had just left, and,
+LINE 84: having set the lamp on the table, asked him as civilly as I could to
+LINE 85: explain himself.
+LINE 86: He looked about him with the strangest air,—an air of wondering
+LINE 87: pleasure, as if he had some part in the things he admired,—and he
+LINE 88: pulled off a rough outer coat, and his hat. Then, I saw that his head
+LINE 89: was furrowed and bald, and that the long iron-grey hair grew only on
+LINE 90: its sides. But, I saw nothing that in the least explained him. On the
+LINE 91: contrary, I saw him next moment, once more holding out both his hands
+LINE 92: to me.
+LINE 93: "What do you mean?" said I, half suspecting him to be mad.
+LINE 94: He stopped in his looking at me, and slowly rubbed his right hand over
+LINE 95: his head. "It's disapinting to a man," he said, in a coarse broken
+LINE 96: voice, "arter having looked for'ard so distant, and come so fur; but
+LINE 97: you're not to blame for that,—neither on us is to blame for that. I'll
+LINE 98: speak in half a minute. Give me half a minute, please."
+LINE 99: He sat down on a chair that stood before the fire, and covered his
+LINE 100: forehead with his large brown veinous hands. I looked at him
+LINE 101: attentively then, and recoiled a little from him; but I did not know
+LINE 102: him.
+LINE 103: "There's no one nigh," said he, looking over his shoulder; "is there?"
+LINE 104: "Why do you, a stranger coming into my rooms at this time of the night,
+LINE 105: ask that question?" said I.
+LINE 106: "You're a game one," he returned, shaking his head at me with a
+LINE 107: deliberate affection, at once most unintelligible and most
+LINE 108: exasperating; "I'm glad you've grow'd up, a game one! But don't catch
+LINE 109: hold of me. You'd be sorry arterwards to have done it."
+LINE 110: I relinquished the intention he had detected, for I knew him! Even yet
+LINE 111: I could not recall a single feature, but I knew him! If the wind and
+LINE 112: the rain had driven away the intervening years, had scattered all the
+LINE 113: intervening objects, had swept us to the churchyard where we first
+LINE 114: stood face to face on such different levels, I could not have known my
+LINE 115: convict more distinctly than I knew him now as he sat in the chair
+LINE 116: before the fire. No need to take a file from his pocket and show it to
+LINE 117: me; no need to take the handkerchief from his neck and twist it round
+LINE 118: his head; no need to hug himself with both his arms, and take a
+LINE 119: shivering turn across the room, looking back at me for recognition. I
+LINE 120: knew him before he gave me one of those aids, though, a moment before,
+LINE 121: I had not been conscious of remotely suspecting his identity.
+LINE 122: He came back to where I stood, and again held out both his hands. Not
+LINE 123: knowing what to do,—for, in my astonishment I had lost my
+LINE 124: self-possession,—I reluctantly gave him my hands. He grasped them
+LINE 125: heartily, raised them to his lips, kissed them, and still held them.
+LINE 126: "You acted noble, my boy," said he. "Noble, Pip! And I have never
+LINE 127: forgot it!"
+LINE 128: At a change in his manner as if he were even going to embrace me, I
+LINE 129: laid a hand upon his breast and put him away.
+LINE 130: "Stay!" said I. "Keep off! If you are grateful to me for what I did
+LINE 131: when I was a little child, I hope you have shown your gratitude by
+LINE 132: mending your way of life. If you have come here to thank me, it was not
+LINE 133: necessary. Still, however you have found me out, there must be
+LINE 134: something good in the feeling that has brought you here, and I will not
+LINE 135: repulse you; but surely you must understand that—I—"
+LINE 136: My attention was so attracted by the singularity of his fixed look at
+LINE 137: me, that the words died away on my tongue.
+LINE 138: "You was a-saying," he observed, when we had confronted one another in
+LINE 139: silence, "that surely I must understand. What, surely must I
+LINE 140: understand?"
+LINE 141: "That I cannot wish to renew that chance intercourse with you of long
+LINE 142: ago, under these different circumstances. I am glad to believe you have
+LINE 143: repented and recovered yourself. I am glad to tell you so. I am glad
+LINE 144: that, thinking I deserve to be thanked, you have come to thank me. But
+LINE 145: our ways are different ways, none the less. You are wet, and you look
+LINE 146: weary. Will you drink something before you go?"
+LINE 147: He had replaced his neckerchief loosely, and had stood, keenly
+LINE 148: observant of me, biting a long end of it. "I think," he answered, still
+LINE 149: with the end at his mouth and still observant of me, "that I _will_
+LINE 150: drink (I thank you) afore I go."
+LINE 151: There was a tray ready on a side-table. I brought it to the table near
+LINE 152: the fire, and asked him what he would have? He touched one of the
+LINE 153: bottles without looking at it or speaking, and I made him some hot rum
+LINE 154: and water. I tried to keep my hand steady while I did so, but his look
+LINE 155: at me as he leaned back in his chair with the long draggled end of his
+LINE 156: neckerchief between his teeth—evidently forgotten—made my hand very
+LINE 157: difficult to master. When at last I put the glass to him, I saw with
+LINE 158: amazement that his eyes were full of tears.
+LINE 159: Up to this time I had remained standing, not to disguise that I wished
+LINE 160: him gone. But I was softened by the softened aspect of the man, and
+LINE 161: felt a touch of reproach. "I hope," said I, hurriedly putting something
+LINE 162: into a glass for myself, and drawing a chair to the table, "that you
+LINE 163: will not think I spoke harshly to you just now. I had no intention of
+LINE 164: doing it, and I am sorry for it if I did. I wish you well and happy!"
+LINE 165: As I put my glass to my lips, he glanced with surprise at the end of
+LINE 166: his neckerchief, dropping from his mouth when he opened it, and
+LINE 167: stretched out his hand. I gave him mine, and then he drank, and drew
+LINE 168: his sleeve across his eyes and forehead.
+LINE 169: "How are you living?" I asked him.
+LINE 170: "I've been a sheep-farmer, stock-breeder, other trades besides, away in
+LINE 171: the new world," said he; "many a thousand mile of stormy water off from
+LINE 172: this."
+LINE 173: "I hope you have done well?"
+LINE 174: "I've done wonderfully well. There's others went out alonger me as has
+LINE 175: done well too, but no man has done nigh as well as me. I'm famous for
+LINE 176: it."
+LINE 177: "I am glad to hear it."
+LINE 178: "I hope to hear you say so, my dear boy."
+LINE 179: Without stopping to try to understand those words or the tone in which
+LINE 180: they were spoken, I turned off to a point that had just come into my
+LINE 181: mind.
+LINE 182: "Have you ever seen a messenger you once sent to me," I inquired,
+LINE 183: "since he undertook that trust?"
+LINE 184: "Never set eyes upon him. I warn't likely to it."
+LINE 185: "He came faithfully, and he brought me the two one-pound notes. I was a
+LINE 186: poor boy then, as you know, and to a poor boy they were a little
+LINE 187: fortune. But, like you, I have done well since, and you must let me pay
+LINE 188: them back. You can put them to some other poor boy's use." I took out
+LINE 189: my purse.
+LINE 190: He watched me as I laid my purse upon the table and opened it, and he
+LINE 191: watched me as I separated two one-pound notes from its contents. They
+LINE 192: were clean and new, and I spread them out and handed them over to him.
+LINE 193: Still watching me, he laid them one upon the other, folded them
+LINE 194: long-wise, gave them a twist, set fire to them at the lamp, and dropped
+LINE 195: the ashes into the tray.
+LINE 196: "May I make so bold," he said then, with a smile that was like a frown,
+LINE 197: and with a frown that was like a smile, "as ask you _how_ you have done
+LINE 198: well, since you and me was out on them lone shivering marshes?"
+LINE 199: "How?"
+LINE 200: "Ah!"
+LINE 201: He emptied his glass, got up, and stood at the side of the fire, with
+LINE 202: his heavy brown hand on the mantel-shelf. He put a foot up to the bars,
+LINE 203: to dry and warm it, and the wet boot began to steam; but, he neither
+LINE 204: looked at it, nor at the fire, but steadily looked at me. It was only
+LINE 205: now that I began to tremble.
+LINE 206: When my lips had parted, and had shaped some words that were without
+LINE 207: sound, I forced myself to tell him (though I could not do it
+LINE 208: distinctly), that I had been chosen to succeed to some property.
+LINE 209: "Might a mere warmint ask what property?" said he.
+LINE 210: I faltered, "I don't know."
+LINE 211: "Might a mere warmint ask whose property?" said he.
+LINE 212: I faltered again, "I don't know."
+LINE 213: "Could I make a guess, I wonder," said the Convict, "at your income
+LINE 214: since you come of age! As to the first figure now. Five?"
+LINE 215: With my heart beating like a heavy hammer of disordered action, I rose
+LINE 216: out of my chair, and stood with my hand upon the back of it, looking
+LINE 217: wildly at him.
+LINE 218: "Concerning a guardian," he went on. "There ought to have been some
+LINE 219: guardian, or such-like, whiles you was a minor. Some lawyer, maybe. As
+LINE 220: to the first letter of that lawyer's name now. Would it be J?"
+LINE 221: All the truth of my position came flashing on me; and its
+LINE 222: disappointments, dangers, disgraces, consequences of all kinds, rushed
+LINE 223: in in such a multitude that I was borne down by them and had to
+LINE 224: struggle for every breath I drew.
+LINE 225: "Put it," he resumed, "as the employer of that lawyer whose name begun
+LINE 226: with a J, and might be Jaggers,—put it as he had come over sea to
+LINE 227: Portsmouth, and had landed there, and had wanted to come on to you.
+LINE 228: 'However, you have found me out,' you says just now. Well! However, did
+LINE 229: I find you out? Why, I wrote from Portsmouth to a person in London, for
+LINE 230: particulars of your address. That person's name? Why, Wemmick."
+LINE 231: I could not have spoken one word, though it had been to save my life. I
+LINE 232: stood, with a hand on the chair-back and a hand on my breast, where I
+LINE 233: seemed to be suffocating,—I stood so, looking wildly at him, until I
+LINE 234: grasped at the chair, when the room began to surge and turn. He caught
+LINE 235: me, drew me to the sofa, put me up against the cushions, and bent on
+LINE 236: one knee before me, bringing the face that I now well remembered, and
+LINE 237: that I shuddered at, very near to mine.
+LINE 238: "Yes, Pip, dear boy, I've made a gentleman on you! It's me wot has done
+LINE 239: it! I swore that time, sure as ever I earned a guinea, that guinea
+LINE 240: should go to you. I swore arterwards, sure as ever I spec'lated and got
+LINE 241: rich, you should get rich. I lived rough, that you should live smooth;
+LINE 242: I worked hard, that you should be above work. What odds, dear boy? Do I
+LINE 243: tell it, fur you to feel a obligation? Not a bit. I tell it, fur you to
+LINE 244: know as that there hunted dunghill dog wot you kep life in, got his
+LINE 245: head so high that he could make a gentleman,—and, Pip, you're him!"
+LINE 246: The abhorrence in which I held the man, the dread I had of him, the
+LINE 247: repugnance with which I shrank from him, could not have been exceeded
+LINE 248: if he had been some terrible beast.
+LINE 249: "Look'ee here, Pip. I'm your second father. You're my son,—more to me
+LINE 250: nor any son. I've put away money, only for you to spend. When I was a
+LINE 251: hired-out shepherd in a solitary hut, not seeing no faces but faces of
+LINE 252: sheep till I half forgot wot men's and women's faces wos like, I see
+LINE 253: yourn. I drops my knife many a time in that hut when I was a-eating my
+LINE 254: dinner or my supper, and I says, 'Here's the boy again, a looking at me
+LINE 255: whiles I eats and drinks!' I see you there a many times, as plain as
+LINE 256: ever I see you on them misty marshes. 'Lord strike me dead!' I says
+LINE 257: each time,—and I goes out in the air to say it under the open
+LINE 258: heavens,—'but wot, if I gets liberty and money, I'll make that boy a
+LINE 259: gentleman!' And I done it. Why, look at you, dear boy! Look at these
+LINE 260: here lodgings of yourn, fit for a lord! A lord? Ah! You shall show
+LINE 261: money with lords for wagers, and beat 'em!"
+LINE 262: In his heat and triumph, and in his knowledge that I had been nearly
+LINE 263: fainting, he did not remark on my reception of all this. It was the one
+LINE 264: grain of relief I had.
+LINE 265: "Look'ee here!" he went on, taking my watch out of my pocket, and
+LINE 266: turning towards him a ring on my finger, while I recoiled from his
+LINE 267: touch as if he had been a snake, "a gold 'un and a beauty: _that's_ a
+LINE 268: gentleman's, I hope! A diamond all set round with rubies; _that's_ a
+LINE 269: gentleman's, I hope! Look at your linen; fine and beautiful! Look at
+LINE 270: your clothes; better ain't to be got! And your books too," turning his
+LINE 271: eyes round the room, "mounting up, on their shelves, by hundreds! And
+LINE 272: you read 'em; don't you? I see you'd been a reading of 'em when I come
+LINE 273: in. Ha, ha, ha! You shall read 'em to me, dear boy! And if they're in
+LINE 274: foreign languages wot I don't understand, I shall be just as proud as
+LINE 275: if I did."
+LINE 276: Again he took both my hands and put them to his lips, while my blood
+LINE 277: ran cold within me.
+LINE 278: "Don't you mind talking, Pip," said he, after again drawing his sleeve
+LINE 279: over his eyes and forehead, as the click came in his throat which I
+LINE 280: well remembered,—and he was all the more horrible to me that he was so
+LINE 281: much in earnest; "you can't do better nor keep quiet, dear boy. You
+LINE 282: ain't looked slowly forward to this as I have; you wosn't prepared for
+LINE 283: this as I wos. But didn't you never think it might be me?"
+LINE 284: "O no, no, no," I returned, "Never, never!"
+LINE 285: "Well, you see it _wos_ me, and single-handed. Never a soul in it but
+LINE 286: my own self and Mr. Jaggers."
+LINE 287: "Was there no one else?" I asked.
+LINE 288: "No," said he, with a glance of surprise: "who else should there be?
+LINE 289: And, dear boy, how good looking you have growed! There's bright eyes
+LINE 290: somewheres—eh? Isn't there bright eyes somewheres, wot you love the
+LINE 291: thoughts on?"
+LINE 292: O Estella, Estella!
+LINE 293: "They shall be yourn, dear boy, if money can buy 'em. Not that a
+LINE 294: gentleman like you, so well set up as you, can't win 'em off of his own
+LINE 295: game; but money shall back you! Let me finish wot I was a telling you,
+LINE 296: dear boy. From that there hut and that there hiring-out, I got money
+LINE 297: left me by my master (which died, and had been the same as me), and got
+LINE 298: my liberty and went for myself. In every single thing I went for, I
+LINE 299: went for you. 'Lord strike a blight upon it,' I says, wotever it was I
+LINE 300: went for, 'if it ain't for him!' It all prospered wonderful. As I giv'
+LINE 301: you to understand just now, I'm famous for it. It was the money left
+LINE 302: me, and the gains of the first few year wot I sent home to Mr.
+LINE 303: Jaggers—all for you—when he first come arter you, agreeable to my
+LINE 304: letter."
+LINE 305: O that he had never come! That he had left me at the forge,—far from
+LINE 306: contented, yet, by comparison happy!
+LINE 307: "And then, dear boy, it was a recompense to me, look'ee here, to know
+LINE 308: in secret that I was making a gentleman. The blood horses of them
+LINE 309: colonists might fling up the dust over me as I was walking; what do I
+LINE 310: say? I says to myself, 'I'm making a better gentleman nor ever _you_'ll
+LINE 311: be!' When one of 'em says to another, 'He was a convict, a few year
+LINE 312: ago, and is a ignorant common fellow now, for all he's lucky,' what do
+LINE 313: I say? I says to myself, 'If I ain't a gentleman, nor yet ain't got no
+LINE 314: learning, I'm the owner of such. All on you owns stock and land; which
+LINE 315: on you owns a brought-up London gentleman?' This way I kep myself
+LINE 316: a-going. And this way I held steady afore my mind that I would for
+LINE 317: certain come one day and see my boy, and make myself known to him, on
+LINE 318: his own ground."
+LINE 319: He laid his hand on my shoulder. I shuddered at the thought that for
+LINE 320: anything I knew, his hand might be stained with blood.
+LINE 321: "It warn't easy, Pip, for me to leave them parts, nor yet it warn't
+LINE 322: safe. But I held to it, and the harder it was, the stronger I held, for
+LINE 323: I was determined, and my mind firm made up. At last I done it. Dear
+LINE 324: boy, I done it!"
+LINE 325: I tried to collect my thoughts, but I was stunned. Throughout, I had
+LINE 326: seemed to myself to attend more to the wind and the rain than to him;
+LINE 327: even now, I could not separate his voice from those voices, though
+LINE 328: those were loud and his was silent.
+LINE 329: "Where will you put me?" he asked, presently. "I must be put
+LINE 330: somewheres, dear boy."
+LINE 331: "To sleep?" said I.
+LINE 332: "Yes. And to sleep long and sound," he answered; "for I've been
+LINE 333: sea-tossed and sea-washed, months and months."
+LINE 334: "My friend and companion," said I, rising from the sofa, "is absent;
+LINE 335: you must have his room."
+LINE 336: "He won't come back to-morrow; will he?"
+LINE 337: "No," said I, answering almost mechanically, in spite of my utmost
+LINE 338: efforts; "not to-morrow."
+LINE 339: "Because, look'ee here, dear boy," he said, dropping his voice, and
+LINE 340: laying a long finger on my breast in an impressive manner, "caution is
+LINE 341: necessary."
+LINE 342: "How do you mean? Caution?"
+LINE 343: "By G——, it's Death!"
+LINE 344: "What's death?"
+LINE 345: "I was sent for life. It's death to come back. There's been overmuch
+LINE 346: coming back of late years, and I should of a certainty be hanged if
+LINE 347: took."
+LINE 348: Nothing was needed but this; the wretched man, after loading wretched
+LINE 349: me with his gold and silver chains for years, had risked his life to
+LINE 350: come to me, and I held it there in my keeping! If I had loved him
+LINE 351: instead of abhorring him; if I had been attracted to him by the
+LINE 352: strongest admiration and affection, instead of shrinking from him with
+LINE 353: the strongest repugnance; it could have been no worse. On the contrary,
+LINE 354: it would have been better, for his preservation would then have
+LINE 355: naturally and tenderly addressed my heart.
+LINE 356: My first care was to close the shutters, so that no light might be seen
+LINE 357: from without, and then to close and make fast the doors. While I did
+LINE 358: so, he stood at the table drinking rum and eating biscuit; and when I
+LINE 359: saw him thus engaged, I saw my convict on the marshes at his meal
+LINE 360: again. It almost seemed to me as if he must stoop down presently, to
+LINE 361: file at his leg.
+LINE 362: When I had gone into Herbert's room, and had shut off any other
+LINE 363: communication between it and the staircase than through the room in
+LINE 364: which our conversation had been held, I asked him if he would go to
+LINE 365: bed? He said yes, but asked me for some of my "gentleman's linen" to
+LINE 366: put on in the morning. I brought it out, and laid it ready for him, and
+LINE 367: my blood again ran cold when he again took me by both hands to give me
+LINE 368: good-night.
+LINE 369: I got away from him, without knowing how I did it, and mended the fire
+LINE 370: in the room where we had been together, and sat down by it, afraid to
+LINE 371: go to bed. For an hour or more, I remained too stunned to think; and it
+LINE 372: was not until I began to think, that I began fully to know how wrecked
+LINE 373: I was, and how the ship in which I had sailed was gone to pieces.
+LINE 374: Miss Havisham's intentions towards me, all a mere dream; Estella not
+LINE 375: designed for me; I only suffered in Satis House as a convenience, a
+LINE 376: sting for the greedy relations, a model with a mechanical heart to
+LINE 377: practise on when no other practice was at hand; those were the first
+LINE 378: smarts I had. But, sharpest and deepest pain of all,—it was for the
+LINE 379: convict, guilty of I knew not what crimes, and liable to be taken out
+LINE 380: of those rooms where I sat thinking, and hanged at the Old Bailey door,
+LINE 381: that I had deserted Joe.
+LINE 382: I would not have gone back to Joe now, I would not have gone back to
+LINE 383: Biddy now, for any consideration; simply, I suppose, because my sense
+LINE 384: of my own worthless conduct to them was greater than every
+LINE 385: consideration. No wisdom on earth could have given me the comfort that
+LINE 386: I should have derived from their simplicity and fidelity; but I could
+LINE 387: never, never, undo what I had done.
+LINE 388: In every rage of wind and rush of rain, I heard pursuers. Twice, I
+LINE 389: could have sworn there was a knocking and whispering at the outer door.
+LINE 390: With these fears upon me, I began either to imagine or recall that I
+LINE 391: had had mysterious warnings of this man's approach. That, for weeks
+LINE 392: gone by, I had passed faces in the streets which I had thought like
+LINE 393: his. That these likenesses had grown more numerous, as he, coming over
+LINE 394: the sea, had drawn nearer. That his wicked spirit had somehow sent
+LINE 395: these messengers to mine, and that now on this stormy night he was as
+LINE 396: good as his word, and with me.
+LINE 397: Crowding up with these reflections came the reflection that I had seen
+LINE 398: him with my childish eyes to be a desperately violent man; that I had
+LINE 399: heard that other convict reiterate that he had tried to murder him;
+LINE 400: that I had seen him down in the ditch tearing and fighting like a wild
+LINE 401: beast. Out of such remembrances I brought into the light of the fire a
+LINE 402: half-formed terror that it might not be safe to be shut up there with
+LINE 403: him in the dead of the wild solitary night. This dilated until it
+LINE 404: filled the room, and impelled me to take a candle and go in and look at
+LINE 405: my dreadful burden.
+LINE 406: He had rolled a handkerchief round his head, and his face was set and
+LINE 407: lowering in his sleep. But he was asleep, and quietly too, though he
+LINE 408: had a pistol lying on the pillow. Assured of this, I softly removed the
+LINE 409: key to the outside of his door, and turned it on him before I again sat
+LINE 410: down by the fire. Gradually I slipped from the chair and lay on the
+LINE 411: floor. When I awoke without having parted in my sleep with the
+LINE 412: perception of my wretchedness, the clocks of the Eastward churches were
+LINE 413: striking five, the candles were wasted out, the fire was dead, and the
+LINE 414: wind and rain intensified the thick black darkness.
+LINE 415: THIS IS THE END OF THE SECOND STAGE OF PIP'S EXPECTATIONS.

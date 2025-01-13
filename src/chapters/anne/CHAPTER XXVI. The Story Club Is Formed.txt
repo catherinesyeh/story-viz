@@ -1,0 +1,215 @@
+LINE 1: JUNIOR Avonlea found it hard to settle down to humdrum existence
+LINE 2: again. To Anne in particular things seemed fearfully flat, stale, and
+LINE 3: unprofitable after the goblet of excitement she had been sipping for
+LINE 4: weeks. Could she go back to the former quiet pleasures of those faraway
+LINE 5: days before the concert? At first, as she told Diana, she did not really
+LINE 6: think she could.
+LINE 7: "I'm positively certain, Diana, that life can never be quite the
+LINE 8: same again as it was in those olden days," she said mournfully, as if
+LINE 9: referring to a period of at least fifty years back. "Perhaps after a
+LINE 10: while I'll get used to it, but I'm afraid concerts spoil people for
+LINE 11: everyday life. I suppose that is why Marilla disapproves of them.
+LINE 12: Marilla is such a sensible woman. It must be a great deal better to be
+LINE 13: sensible; but still, I don't believe I'd really want to be a sensible
+LINE 14: person, because they are so unromantic. Mrs. Lynde says there is no
+LINE 15: danger of my ever being one, but you can never tell. I feel just now
+LINE 16: that I may grow up to be sensible yet. But perhaps that is only because
+LINE 17: I'm tired. I simply couldn't sleep last night for ever so long. I just
+LINE 18: lay awake and imagined the concert over and over again. That's one
+LINE 19: splendid thing about such affairs--it's so lovely to look back to them."
+LINE 20: Eventually, however, Avonlea school slipped back into its old groove
+LINE 21: and took up its old interests. To be sure, the concert left traces. Ruby
+LINE 22: Gillis and Emma White, who had quarreled over a point of precedence in
+LINE 23: their platform seats, no longer sat at the same desk, and a promising
+LINE 24: friendship of three years was broken up. Josie Pye and Julia Bell did
+LINE 25: not "speak" for three months, because Josie Pye had told Bessie Wright
+LINE 26: that Julia Bell's bow when she got up to recite made her think of a
+LINE 27: chicken jerking its head, and Bessie told Julia. None of the Sloanes
+LINE 28: would have any dealings with the Bells, because the Bells had declared
+LINE 29: that the Sloanes had too much to do in the program, and the Sloanes had
+LINE 30: retorted that the Bells were not capable of doing the little they had to
+LINE 31: do properly. Finally, Charlie Sloane fought Moody Spurgeon MacPherson,
+LINE 32: because Moody Spurgeon had said that Anne Shirley put on airs about
+LINE 33: her recitations, and Moody Spurgeon was "licked"; consequently Moody
+LINE 34: Spurgeon's sister, Ella May, would not "speak" to Anne Shirley all the
+LINE 35: rest of the winter. With the exception of these trifling frictions, work
+LINE 36: in Miss Stacy's little kingdom went on with regularity and smoothness.
+LINE 37: The winter weeks slipped by. It was an unusually mild winter, with so
+LINE 38: little snow that Anne and Diana could go to school nearly every day by
+LINE 39: way of the Birch Path. On Anne's birthday they were tripping lightly
+LINE 40: down it, keeping eyes and ears alert amid all their chatter, for Miss
+LINE 41: Stacy had told them that they must soon write a composition on "A
+LINE 42: Winter's Walk in the Woods," and it behooved them to be observant.
+LINE 43: "Just think, Diana, I'm thirteen years old today," remarked Anne in an
+LINE 44: awed voice. "I can scarcely realize that I'm in my teens. When I woke
+LINE 45: this morning it seemed to me that everything must be different. You've
+LINE 46: been thirteen for a month, so I suppose it doesn't seem such a novelty
+LINE 47: to you as it does to me. It makes life seem so much more interesting.
+LINE 48: In two more years I'll be really grown up. It's a great comfort to think
+LINE 49: that I'll be able to use big words then without being laughed at."
+LINE 50: "Ruby Gillis says she means to have a beau as soon as she's fifteen,"
+LINE 51: said Diana.
+LINE 52: "Ruby Gillis thinks of nothing but beaus," said Anne disdainfully.
+LINE 53: "She's actually delighted when anyone writes her name up in a
+LINE 54: take-notice for all she pretends to be so mad. But I'm afraid that is an
+LINE 55: uncharitable speech. Mrs. Allan says we should never make uncharitable
+LINE 56: speeches; but they do slip out so often before you think, don't they? I
+LINE 57: simply can't talk about Josie Pye without making an uncharitable speech,
+LINE 58: so I never mention her at all. You may have noticed that. I'm trying to
+LINE 59: be as much like Mrs. Allan as I possibly can, for I think she's perfect.
+LINE 60: Mr. Allan thinks so too. Mrs. Lynde says he just worships the ground she
+LINE 61: treads on and she doesn't really think it right for a minister to
+LINE 62: set his affections so much on a mortal being. But then, Diana, even
+LINE 63: ministers are human and have their besetting sins just like everybody
+LINE 64: else. I had such an interesting talk with Mrs. Allan about besetting
+LINE 65: sins last Sunday afternoon. There are just a few things it's proper
+LINE 66: to talk about on Sundays and that is one of them. My besetting sin is
+LINE 67: imagining too much and forgetting my duties. I'm striving very hard
+LINE 68: to overcome it and now that I'm really thirteen perhaps I'll get on
+LINE 69: better."
+LINE 70: "In four more years we'll be able to put our hair up," said Diana.
+LINE 71: "Alice Bell is only sixteen and she is wearing hers up, but I think
+LINE 72: that's ridiculous. I shall wait until I'm seventeen."
+LINE 73: "If I had Alice Bell's crooked nose," said Anne decidedly, "I
+LINE 74: wouldn't--but there! I won't say what I was going to because it was
+LINE 75: extremely uncharitable. Besides, I was comparing it with my own nose and
+LINE 76: that's vanity. I'm afraid I think too much about my nose ever since I
+LINE 77: heard that compliment about it long ago. It really is a great comfort to
+LINE 78: me. Oh, Diana, look, there's a rabbit. That's something to remember for
+LINE 79: our woods composition. I really think the woods are just as lovely in
+LINE 80: winter as in summer. They're so white and still, as if they were asleep
+LINE 81: and dreaming pretty dreams."
+LINE 82: "I won't mind writing that composition when its time comes," sighed
+LINE 83: Diana. "I can manage to write about the woods, but the one we're to
+LINE 84: hand in Monday is terrible. The idea of Miss Stacy telling us to write a
+LINE 85: story out of our own heads!"
+LINE 86: "Why, it's as easy as wink," said Anne.
+LINE 87: "It's easy for you because you have an imagination," retorted Diana,
+LINE 88: "but what would you do if you had been born without one? I suppose you
+LINE 89: have your composition all done?"
+LINE 90: Anne nodded, trying hard not to look virtuously complacent and failing
+LINE 91: miserably.
+LINE 92: "I wrote it last Monday evening. It's called 'The Jealous Rival; or In
+LINE 93: Death Not Divided.' I read it to Marilla and she said it was stuff and
+LINE 94: nonsense. Then I read it to Matthew and he said it was fine. That is
+LINE 95: the kind of critic I like. It's a sad, sweet story. I just cried like
+LINE 96: a child while I was writing it. It's about two beautiful maidens called
+LINE 97: Cordelia Montmorency and Geraldine Seymour who lived in the same village
+LINE 98: and were devotedly attached to each other. Cordelia was a regal brunette
+LINE 99: with a coronet of midnight hair and duskly flashing eyes. Geraldine was
+LINE 100: a queenly blonde with hair like spun gold and velvety purple eyes."
+LINE 101: "I never saw anybody with purple eyes," said Diana dubiously.
+LINE 102: "Neither did I. I just imagined them. I wanted something out of the
+LINE 103: common. Geraldine had an alabaster brow too. I've found out what an
+LINE 104: alabaster brow is. That is one of the advantages of being thirteen. You
+LINE 105: know so much more than you did when you were only twelve."
+LINE 106: "Well, what became of Cordelia and Geraldine?" asked Diana, who was
+LINE 107: beginning to feel rather interested in their fate.
+LINE 108: "They grew in beauty side by side until they were sixteen. Then Bertram
+LINE 109: DeVere came to their native village and fell in love with the fair
+LINE 110: Geraldine. He saved her life when her horse ran away with her in a
+LINE 111: carriage, and she fainted in his arms and he carried her home three
+LINE 112: miles; because, you understand, the carriage was all smashed up. I found
+LINE 113: it rather hard to imagine the proposal because I had no experience to
+LINE 114: go by. I asked Ruby Gillis if she knew anything about how men proposed
+LINE 115: because I thought she'd likely be an authority on the subject, having so
+LINE 116: many sisters married. Ruby told me she was hid in the hall pantry when
+LINE 117: Malcolm Andres proposed to her sister Susan. She said Malcolm told Susan
+LINE 118: that his dad had given him the farm in his own name and then said, 'What
+LINE 119: do you say, darling pet, if we get hitched this fall?' And Susan said,
+LINE 120: 'Yes--no--I don't know--let me see'--and there they were, engaged as
+LINE 121: quick as that. But I didn't think that sort of a proposal was a very
+LINE 122: romantic one, so in the end I had to imagine it out as well as I could.
+LINE 123: I made it very flowery and poetical and Bertram went on his knees,
+LINE 124: although Ruby Gillis says it isn't done nowadays. Geraldine accepted
+LINE 125: him in a speech a page long. I can tell you I took a lot of trouble
+LINE 126: with that speech. I rewrote it five times and I look upon it as my
+LINE 127: masterpiece. Bertram gave her a diamond ring and a ruby necklace
+LINE 128: and told her they would go to Europe for a wedding tour, for he was
+LINE 129: immensely wealthy. But then, alas, shadows began to darken over their
+LINE 130: path. Cordelia was secretly in love with Bertram herself and when
+LINE 131: Geraldine told her about the engagement she was simply furious,
+LINE 132: especially when she saw the necklace and the diamond ring. All her
+LINE 133: affection for Geraldine turned to bitter hate and she vowed that she
+LINE 134: should never marry Bertram. But she pretended to be Geraldine's friend
+LINE 135: the same as ever. One evening they were standing on the bridge over a
+LINE 136: rushing turbulent stream and Cordelia, thinking they were alone, pushed
+LINE 137: Geraldine over the brink with a wild, mocking, 'Ha, ha, ha.' But Bertram
+LINE 138: saw it all and he at once plunged into the current, exclaiming, 'I
+LINE 139: will save thee, my peerless Geraldine.' But alas, he had forgotten he
+LINE 140: couldn't swim, and they were both drowned, clasped in each other's arms.
+LINE 141: Their bodies were washed ashore soon afterwards. They were buried in the
+LINE 142: one grave and their funeral was most imposing, Diana. It's so much
+LINE 143: more romantic to end a story up with a funeral than a wedding. As for
+LINE 144: Cordelia, she went insane with remorse and was shut up in a lunatic
+LINE 145: asylum. I thought that was a poetical retribution for her crime."
+LINE 146: "How perfectly lovely!" sighed Diana, who belonged to Matthew's school
+LINE 147: of critics. "I don't see how you can make up such thrilling things out
+LINE 148: of your own head, Anne. I wish my imagination was as good as yours."
+LINE 149: "It would be if you'd only cultivate it," said Anne cheeringly. "I've
+LINE 150: just thought of a plan, Diana. Let you and me have a story club all our
+LINE 151: own and write stories for practice. I'll help you along until you can
+LINE 152: do them by yourself. You ought to cultivate your imagination, you know.
+LINE 153: Miss Stacy says so. Only we must take the right way. I told her about
+LINE 154: the Haunted Wood, but she said we went the wrong way about it in that."
+LINE 155: This was how the story club came into existence. It was limited to Diana
+LINE 156: and Anne at first, but soon it was extended to include Jane Andrews
+LINE 157: and Ruby Gillis and one or two others who felt that their imaginations
+LINE 158: needed cultivating. No boys were allowed in it--although Ruby Gillis
+LINE 159: opined that their admission would make it more exciting--and each member
+LINE 160: had to produce one story a week.
+LINE 161: "It's extremely interesting," Anne told Marilla. "Each girl has to read
+LINE 162: her story out loud and then we talk it over. We are going to keep them
+LINE 163: all sacredly and have them to read to our descendants. We each write
+LINE 164: under a nom-de-plume. Mine is Rosamond Montmorency. All the girls
+LINE 165: do pretty well. Ruby Gillis is rather sentimental. She puts too much
+LINE 166: lovemaking into her stories and you know too much is worse than too
+LINE 167: little. Jane never puts any because she says it makes her feel so silly
+LINE 168: when she had to read it out loud. Jane's stories are extremely sensible.
+LINE 169: Then Diana puts too many murders into hers. She says most of the time
+LINE 170: she doesn't know what to do with the people so she kills them off to get
+LINE 171: rid of them. I mostly always have to tell them what to write about, but
+LINE 172: that isn't hard for I've millions of ideas."
+LINE 173: "I think this story-writing business is the foolishest yet," scoffed
+LINE 174: Marilla. "You'll get a pack of nonsense into your heads and waste time
+LINE 175: that should be put on your lessons. Reading stories is bad enough but
+LINE 176: writing them is worse."
+LINE 177: "But we're so careful to put a moral into them all, Marilla," explained
+LINE 178: Anne. "I insist upon that. All the good people are rewarded and all
+LINE 179: the bad ones are suitably punished. I'm sure that must have a wholesome
+LINE 180: effect. The moral is the great thing. Mr. Allan says so. I read one of
+LINE 181: my stories to him and Mrs. Allan and they both agreed that the moral was
+LINE 182: excellent. Only they laughed in the wrong places. I like it better when
+LINE 183: people cry. Jane and Ruby almost always cry when I come to the pathetic
+LINE 184: parts. Diana wrote her Aunt Josephine about our club and her Aunt
+LINE 185: Josephine wrote back that we were to send her some of our stories. So
+LINE 186: we copied out four of our very best and sent them. Miss Josephine Barry
+LINE 187: wrote back that she had never read anything so amusing in her life. That
+LINE 188: kind of puzzled us because the stories were all very pathetic and almost
+LINE 189: everybody died. But I'm glad Miss Barry liked them. It shows our club
+LINE 190: is doing some good in the world. Mrs. Allan says that ought to be our
+LINE 191: object in everything. I do really try to make it my object but I forget
+LINE 192: so often when I'm having fun. I hope I shall be a little like Mrs. Allan
+LINE 193: when I grow up. Do you think there is any prospect of it, Marilla?"
+LINE 194: "I shouldn't say there was a great deal" was Marilla's encouraging
+LINE 195: answer. "I'm sure Mrs. Allan was never such a silly, forgetful little
+LINE 196: girl as you are."
+LINE 197: "No; but she wasn't always so good as she is now either," said Anne
+LINE 198: seriously. "She told me so herself--that is, she said she was a dreadful
+LINE 199: mischief when she was a girl and was always getting into scrapes. I felt
+LINE 200: so encouraged when I heard that. Is it very wicked of me, Marilla,
+LINE 201: to feel encouraged when I hear that other people have been bad and
+LINE 202: mischievous? Mrs. Lynde says it is. Mrs. Lynde says she always feels
+LINE 203: shocked when she hears of anyone ever having been naughty, no matter how
+LINE 204: small they were. Mrs. Lynde says she once heard a minister confess that
+LINE 205: when he was a boy he stole a strawberry tart out of his aunt's pantry
+LINE 206: and she never had any respect for that minister again. Now, I wouldn't
+LINE 207: have felt that way. I'd have thought that it was real noble of him to
+LINE 208: confess it, and I'd have thought what an encouraging thing it would be
+LINE 209: for small boys nowadays who do naughty things and are sorry for them
+LINE 210: to know that perhaps they may grow up to be ministers in spite of it.
+LINE 211: That's how I'd feel, Marilla."
+LINE 212: "The way I feel at present, Anne," said Marilla, "is that it's high time
+LINE 213: you had those dishes washed. You've taken half an hour longer than
+LINE 214: you should with all your chattering. Learn to work first and talk
+LINE 215: afterwards."

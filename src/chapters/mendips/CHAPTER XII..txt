@@ -1,0 +1,528 @@
+LINE 1: ON THE ROAD TO BRISTOL.
+LINE 2: A carriage stood before the door of Fair Acres one bright morning in
+LINE 3: April, an old-fashioned travelling carriage, with a "dickey," or back
+LINE 4: seat piled with luggage, and more packages waiting to be pushed under
+LINE 5: the seat inside, which a lady was superintending and remonstrating with
+LINE 6: a young sailor for his rough and ready help.
+LINE 7: "Take care, take care, Harry; there is glass in that hamper. Oh! we must
+LINE 8: have the carriage closed after all."
+LINE 9: "Nonsense, Joyce; I'll manage it. There, let that bag go into the hold,
+LINE 10: and heave over the box. I'll cram them all in."
+LINE 11: "The captain is right, miss--beg your pardon, missus, I should
+LINE 12: say"--said old Thomas, wiping his head vigorously with his pocket
+LINE 13: handkerchief.
+LINE 14: "Very well; now we are all ready. I hope mother is coming. Gently,
+LINE 15: Falcon, gently; don't pull dear old Duke so roughly."
+LINE 16: "I want to take Duke to Bristol, mother; Grannie has left Fair Acres,
+LINE 17: and she is old; why shouldn't Duke?"
+LINE 18: "Duke would not be happy in Great George Street; would you, dear Duke?"
+LINE 19: Joyce bent down to the grizzled head of the friend of so many years, and
+LINE 20: said:
+LINE 21: "Ah! Duke, we are all getting old."
+LINE 22: Presently more voices were heard in the hall, and Mrs. Falconer appeared
+LINE 23: with a little grand-daughter on either side, while Susan Priday brought
+LINE 24: up the procession with the baby in her arms.
+LINE 25: "Now, dear mother, I think we are all ready. Have you enough wraps?
+LINE 26: Where are Melville and Gratian and Piers?"
+LINE 27: "Melville is not dressed," said Piers, coming forward, "and Gratian has
+LINE 28: just had her cup of chocolate taken her in bed."
+LINE 29: "I must run and say Good-bye to her," exclaimed Joyce. "What a pity to
+LINE 30: lie in bed on this lovely morning!"
+LINE 31: Joyce tripped upstairs and tapped at the door of the room which had been
+LINE 32: her mother's in years past.
+LINE 33: To the amazement of all the world, Gratian Anson had signified to
+LINE 34: Melville Falconer that she was ready to be mistress of Fair Acres, and
+LINE 35: include him in the bargain. On the whole the plan had answered fairly
+LINE 36: well; but Mrs. Falconer had found the new _régime_ a perpetual vexation,
+LINE 37: and three years before this time had, by her son-in-law's advice,
+LINE 38: retired to a little cottage on Clifton Down with Piers, within reach of
+LINE 39: the great joy and comfort of her declining years--Joyce and her husband
+LINE 40: and children.
+LINE 41: Gratian kept Melville in good order. There were rumours in the
+LINE 42: neighbourhood that she took charge of the purse, and that an allowance
+LINE 43: was doled out to her lord and master, which she never permitted him to
+LINE 44: exceed. However that might be, Gratian certainly managed to get through
+LINE 45: without heavy debts, and the squire's will had provided for the
+LINE 46: maintenance of his widow, and the boys had each their portion paid from
+LINE 47: the estate.
+LINE 48: Mr. Watson and Ralph virtually managed the farm, and Ralph held a good
+LINE 49: position and was greatly respected. Only one of the twins was left. The
+LINE 50: sea rolled over the bright hair of Bunny, on his second voyage. He was
+LINE 51: washed from the mast by a huge wave, off the coast of Africa, and
+LINE 52: engulfed in the stormy waters, never to rise again. This sorrow had told
+LINE 53: greatly on Mrs. Falconer, and she had aged very much since we saw her
+LINE 54: last. But she was touchingly gentle and tender to Joyce, and her
+LINE 55: children were the delight of her heart.
+LINE 56: Joyce's tap was answered by a sleepy "Come in."
+LINE 57: "We are just starting, Gratian," Joyce said; "I could not go without
+LINE 58: bidding you good-bye, and thanking you for a very pleasant visit."
+LINE 59: "What makes you start so early?"
+LINE 60: "Gilbert wished us to be off by ten o'clock. He says Bristol is likely
+LINE 61: to be in a ferment to-day, and he did not wish us to be late."
+LINE 62: "Late! Well I should think twelve would have been time enough to start.
+LINE 63: Bid mother and Piers good-bye for me. Is Melville down stairs?"
+LINE 64: "I have not seen him," Joyce said; "but perhaps he is in the study."
+LINE 65: "Good-bye again," Joyce said, stooping to kiss Gratian; "we have had a
+LINE 66: very happy fortnight. I do like my children to know the dear old place."
+LINE 67: "We are very glad to have you," Gratian replied; "and, Joyce, if you pay
+LINE 68: a visit at any of the best houses at Clifton, or near Bristol, notice if
+LINE 69: the curtains are flowered damask or watered, for new curtains we _must_
+LINE 70: have in the dining room."
+LINE 71: Another yawn, and "Good-bye, love to Aunt Annabella," and Gratian's
+LINE 72: head, in the many-frilled night-cap, which scarcely hid a row of
+LINE 73: curl-papers, fell back upon the pillow.
+LINE 74: And now Falcon's voice was heard.
+LINE 75: "Mother, _do_ come; why doesn't Aunt Gratian get up? mother! How lazy
+LINE 76: she is!"
+LINE 77: "Hush! Falcon," for Joyce saw her brother issuing forth from his
+LINE 78: dressing-room in a magnificent loose dressing-gown, and a scarlet fez
+LINE 79: with a tassel on his head.
+LINE 80: "Why! Joyce, off already?" he said; "I must come down and see the last
+LINE 81: of the infants. Thank goodness they are not mine!"
+LINE 82: "I have been to bid Gratian good-bye, and thanked her for her kindness;
+LINE 83: we are a large party."
+LINE 84: "Oh! so much the better," said Melville, good-temperedly; "we are very
+LINE 85: glad to have you. What a regular family coach! Where did that come
+LINE 86: from?"
+LINE 87: "From the 'Swan.' Ralph ordered it yesterday."
+LINE 88: At last they were all packed in.
+LINE 89: Joyce was the last, and she was just about to step into the carriage
+LINE 90: when Mr. Paget came riding up.
+LINE 91: "Oh! you are off, Mrs. Arundel. I just called to tell you that there is
+LINE 92: news of disturbances in Bristol. A great mob collected in Queen's Square
+LINE 93: last night, and political feeling is exciting the people to madness. I
+LINE 94: suppose Arundel will ride out to meet you?"
+LINE 95: "He told me to start early, that we might get through Bristol before the
+LINE 96: afternoon."
+LINE 97: "Ah! Well, I daresay it will be all right. Upon my word, what a pretty
+LINE 98: party you are! A rose and her rosebuds--eh! Mrs. Falconer? Where is
+LINE 99: Ralph?"
+LINE 100: "Gone early to Bridgwater; there is a cattle sale to-day, and he and Mr.
+LINE 101: Watson went off at six o'clock."
+LINE 102: "Ralph does not let the grass grow under his feet,--eh! Falconer? It is
+LINE 103: the early bird that finds the worm."
+LINE 104: Melville smiled. The gorgeous colours of his dressing gown and fez came
+LINE 105: out in grand relief against the old porch, and Mr. Paget thought to
+LINE 106: himself, how odd it was that Mr. Falconer's son should be so entirely
+LINE 107: unlike either father or mother. He had dismounted; while old Thomas held
+LINE 108: the horse, he had helped Joyce into the carriage, and patted the rounded
+LINE 109: cheeks of the baby, whom her mother now took from her grandmother, and
+LINE 110: settled comfortably on her knee, while he called out to Falcon, who was
+LINE 111: in the dickey with Susan and the luggage, not to put out his eyes with a
+LINE 112: long cane he was brandishing, kicking his feet vigorously all the time,
+LINE 113: and shouting "Gee up!" at the pitch of his young lungs. The two little
+LINE 114: rosebuds of girls sat demure and quiet on the back seat with their uncle
+LINE 115: Piers; and then, with a final "Good-bye" and waving his hands, the
+LINE 116: scarlet-coated post-boy cracked his whip, and Joyce and her children
+LINE 117: were fairly off for home; for, sweet as the old home was, and full of
+LINE 118: tender memories, the large city house in Great George Street was dearer
+LINE 119: still.
+LINE 120: [Illustration: Queen's Square, Bristol.]
+LINE 121: Never had a cloud of mistrust or doubt come between Gilbert and his
+LINE 122: wife. They were subject, as we all are, to the little trials and
+LINE 123: annoyances of life, but these were all, outside that inner temple where,
+LINE 124: secure in each other's love, and bound by the golden chain of faith and
+LINE 125: trust in God, who had given them so many beautiful gifts and tokens of
+LINE 126: His loving care, they could always retire and feel that they were happy.
+LINE 127: This fair and gracious temple of married love is one of the most
+LINE 128: beautiful possessions that any one can rejoice in. But it needs to be
+LINE 129: carefully watched, lest any moth should enter, or rust mar its
+LINE 130: brightness, or serpent creep into the paradise.
+LINE 131: As the Vestals of ancient days kept their altar light pure and clear, so
+LINE 132: should the true wife pray to keep the light of this, her sacred temple,
+LINE 133: pure, and replenish it from time to time with the heavenly graces of
+LINE 134: Hope, Faith, and Charity, those three, the greatest of which is Charity;
+LINE 135: for it is one of the laws of our being, that in whatever position we
+LINE 136: find ourselves we cannot be secure without watching and prayer
+LINE 137: Sometimes the wreckage of a fair ship, or the first falling of the stone
+LINE 138: which is to end in the ruin of that house, may be traced to some small
+LINE 139: failure in duty, some slight wrong or omission unrepaired, or some angry
+LINE 140: word unrepented of. The woman who hopes to get through life loved and
+LINE 141: honoured to the end, and who would guard the first enthusiasm of her
+LINE 142: husband's love in all its freshness, must not expect to do so without
+LINE 143: continual care, forbearance in small matters, and bright, cheerful
+LINE 144: taking up of little crosses, which turns many a thorn into a flower,
+LINE 145: many a rough stone into a radiant jewel.
+LINE 146: Mr. Paget turned away from watching the carriage roll off, and said to
+LINE 147: Melville and Harry:
+LINE 148: "I hope they will have a safe journey; there is much ill-feeling abroad;
+LINE 149: and they are making a desperate effort in Bristol to secure the return
+LINE 150: of two Reform candidates. It is an unhappy business," said peace-loving
+LINE 151: Mr. Paget. "It is far better to let well alone."
+LINE 152: "Yes," said Melville, who was far too indolent by nature to have any
+LINE 153: very keen political feeling, "it was great nonsense of old Wetherall to
+LINE 154: split with his party about the Papists, and now to be against Reform."
+LINE 155: "As an old Tory, I am with him there," said Mr. Paget; "and there is
+LINE 156: something brave in the way he has put his own interests aside for what
+LINE 157: he believes to be right. But a judge ought not to be so violent a
+LINE 158: partisan. I hope Mrs. Arundel and those pretty babies of hers won't come
+LINE 159: in for any stone throwing and smashing of windows. There is to be a
+LINE 160: great meeting in Queen's Square to-day."
+LINE 161: "Turn in to breakfast, Mr. Paget," Melville said. "My wife has a
+LINE 162: headache, and is not come down yet. But Harry and I will do the
+LINE 163: honours."
+LINE 164: "Thank you kindly, no. I must ride into Wells. Why," he said, pulling
+LINE 165: the sleeve of Melville's dressing-gown, "you look like an Eastern Rajah!
+LINE 166: Your brother's blue jacket shows it off grandly. Upon my word, we are
+LINE 167: all very plain folks when compared with the master of Fair Acres."
+LINE 168: Then, slipping a shilling into old Thomas's hand, Mr. Paget mounted his
+LINE 169: horse and rode away.
+LINE 170: "A regular old country bumpkin!" Melville exclaimed. "He looks as if he
+LINE 171: had come out of the Ark, and taken the pattern of Noah's coat!"
+LINE 172: "He is a splendid old fellow," Harry said. "I wish we had more county
+LINE 173: gentlemen like him. But I am rather sorry I did not offer to go on the
+LINE 174: box of the carriage. I hope Joyce won't get into any crowd, or come in
+LINE 175: for stone throwing and uproar."
+LINE 176: "Oh, bother it! She will be all right. No one would want to steal her
+LINE 177: children; there is enough of that article in the world and to spare,
+LINE 178: without taking other people's."
+LINE 179: Harry was nevertheless uneasy.
+LINE 180: The unsettled condition of the whole district was becoming daily more
+LINE 181: serious. The popular cry in Bristol only the year before had been for
+LINE 182: Sir Charles Wetherall, and no Popery!
+LINE 183: The people who went out to meet him when he came to open the assize, had
+LINE 184: cheered and applauded him, trying to take the horses out of the carriage
+LINE 185: and drag him into the city in triumph. But now a change had come over
+LINE 186: the mind of the people, and the Reform Bill was exciting them to frenzy
+LINE 187: and hatred of every man who opposed it, of whom their once idolized
+LINE 188: Recorder was one of the most prominent.
+LINE 189: As we look back over the half century which lies between our own days
+LINE 190: and those of the great riots in the ancient city of Bristol, it is
+LINE 191: strange to mark how the questions, then so furiously contested, are now
+LINE 192: settled; how the pendulum, then swinging so violently, has subsided into
+LINE 193: a more regular beat; how even the second Reform Bill, carried by a large
+LINE 194: majority, is now a thing of the past; how the exclusion of any one from
+LINE 195: holding office, parliamentary or social, on the ground of religion, is
+LINE 196: now considered an act of tyrannical, and ill-judged interference,
+LINE 197: between the conscience of a man, and his duty to God.
+LINE 198: These fifty years, full of the great events so strongly marked by the
+LINE 199: discoveries of science, are full also of lessons, which we do well to
+LINE 200: ponder. They seem to take the text and preach patience to those who are
+LINE 201: hot-headed, and eager to press on any reform, or to advocate, with
+LINE 202: intemperate zeal, any scheme, even though they honestly believe it is
+LINE 203: for the good of the people.
+LINE 204: The wise advice of the Poet Laureate seems worthy to be followed at this
+LINE 205: very moment, when the kingdom is, from one end to the other, vibrating
+LINE 206: with the burning questions which shall decide the success, or
+LINE 207: non-success, of the two great parties which divide the nation:
+LINE 208: "Have patience--ourselves are full
+LINE 209: Of social wrong; and maybe wildest dreams
+LINE 210: Are but the needful preludes of the truth.
+LINE 211: This fine old world of ours is but a child
+LINE 212: Yet in the go-cart. _Patience!_ Give it time
+LINE 213: To learn its limbs--there is _a Hand that guides_."
+LINE 214: The carriage containing the happy mother and her children went merrily
+LINE 215: on its way to Bristol.
+LINE 216: The first glory of the spring was reigning everywhere. The hedgerows
+LINE 217: were full of starry primroses, and the copses carpeted with bluebells.
+LINE 218: Fair companies of wind flowers quivered in the gentle breeze, and the
+LINE 219: variety of foliage in the woods was almost as great as in autumn. Every
+LINE 220: shade of green shone in the sunlight, from silvery birch to emerald
+LINE 221: lime, sober elm, and russet oak, with the young tassels hanging on the
+LINE 222: birch, and the contrasting sombre dark hue of the pines, clothing the
+LINE 223: woods with surpassing beauty.
+LINE 224: The baby, lulled by the motion of the carriage and the regular sound of
+LINE 225: the horses' hoofs, was soon in profound slumber. Little Lota and
+LINE 226: Lettice, who bore the names of the aunt and niece in the Vicar's Close,
+LINE 227: after taking some buns from their grandmother's well-filled basket, also
+LINE 228: subsided into sleep. Lota was taken by her grandmother, and Lettice,
+LINE 229: with the support of Piers' arm, had a comfortable nap. Only Falcon, in
+LINE 230: the "dickey" behind, was wide awake. He was a noble-looking boy of five
+LINE 231: years old, with fresh, blue eyes and a fair complexion. He was like his
+LINE 232: mother in features, and his grandfather in his stout, athletic build. He
+LINE 233: had a loud, childish voice, and, as he whipped the back of the carriage,
+LINE 234: he sang lustily, in a sort of monotone, which kept time with the horses'
+LINE 235: feet:
+LINE 236: "Home--home--home to father."
+LINE 237: His mother heard the words, and they found an echo in her heart of
+LINE 238: "Home--home to Gilbert."
+LINE 239: Joyce's girlish loveliness had developed into the matured beauty of the
+LINE 240: mother, which is always so attractive. Her face shone with that soft
+LINE 241: light of motherhood and happy wifehood which we look for in vain on many
+LINE 242: faces which are beautiful, but _lack_ something. Her own mother
+LINE 243: acknowledged the charm, and often thought how much dearer and more
+LINE 244: beautiful Joyce had become in her eyes since her marriage, and how the
+LINE 245: father who had loved her so dearly would have rejoiced to see her now.
+LINE 246: This thought was in her mind when Joyce said:
+LINE 247: "Is not Lota too heavy for you, mother? Shall we change? Let me give you
+LINE 248: baby."
+LINE 249: "No, dear, no; it would be a pity to wake the baby; how sweet she looks.
+LINE 250: There will never be any children in the old home now, I am afraid." And
+LINE 251: Mrs. Falconer sighed.
+LINE 252: "I don't think they are wanted," Joyce said; "but perhaps till people
+LINE 253: have babies they don't know how delightful they are. Piers is laughing
+LINE 254: at me."
+LINE 255: "Not at you. I was only thinking how Gratian and Melville would hate the
+LINE 256: bother of children about the house."
+LINE 257: "They were very kind to us," Joyce said. "It seems to me that we may be
+LINE 258: very thankful Melville married Gratian."
+LINE 259: "Yes, she keeps him in good order."
+LINE 260: Mrs. Falconer had still a weak, very weak, place in her heart for
+LINE 261: Melville, and she said, sharply:
+LINE 262: "That's not a becoming way to speak of your eldest brother."
+LINE 263: Piers shrugged his shoulders. He took in, more fully than his mother
+LINE 264: could, the trouble that Melville's conduct had brought upon them all,
+LINE 265: especially on Ralph--Ralph, who might have done so well in scholarship,
+LINE 266: now acting as steward to his brother, with less thanks and less pay than
+LINE 267: he deserved. It irritated Piers to see Melville's self-satisfaction, and
+LINE 268: to know that from sheer indolence, if Ralph had not come to the rescue,
+LINE 269: he would have brought the inheritance of his fathers to hopeless ruin.
+LINE 270: Melville had his wish now. Gratian took care that their position should
+LINE 271: be recognised, and they visited at the houses of the neighbouring
+LINE 272: gentry, where Gratian's ready tact, and powers of fascination, were
+LINE 273: acknowledged. It became the fashion to enliven a dull, heavy dinner by
+LINE 274: inviting Mrs. Melville Falconer, who could tell amusing stories,
+LINE 275: seasoned with French phrases, and listen with apparently deep interest
+LINE 276: to the stories other people told, whether they related to the weather,
+LINE 277: the crops, or the fashions.
+LINE 278: Joyce saw the cloud on Piers' face, and hastened to say that Ralph had
+LINE 279: written a very clever treatise on draining land, and that Gilbert
+LINE 280: thought it would draw people's attention to the subject, from the
+LINE 281: masterly way in which it was treated.
+LINE 282: "So Ralph's brains are of great use, after all;" she said.
+LINE 283: "He is thrown away at Fair Acres. Harry says so, and I don't think it is
+LINE 284: fair or just. I never could get over Melville's horrid selfishness, and
+LINE 285: I don't wish to get over it."
+LINE 286: "Piers!" Joyce said, reproachfully; "remember he is your brother."
+LINE 287: "We have all good cause to remember it," was the muttered rejoinder.
+LINE 288: And now, as they passed through the villages nearer Bristol, large knots
+LINE 289: of people were congregated here and there. Some stared at the carriage
+LINE 290: as they passed, some hissed, and angry voices cried:
+LINE 291: "No Popery!" and "Reform!"
+LINE 292: When within some four miles of the city, Susan Priday leaned over and
+LINE 293: said:
+LINE 294: "There is a great crowd coming on behind us, ma'am; they look a very
+LINE 295: rough lot."
+LINE 296: The carriage was going up a steep hill, and just as it had slowly
+LINE 297: reached the top, some fifty or sixty men came out from a lane, which
+LINE 298: turned off towards Bath, and called out to the post-boy to stop.
+LINE 299: They were fierce, wild-looking men, and, as the post-boy tried to take
+LINE 300: no notice and whip on his horses, the bridles were seized and the
+LINE 301: carriage was surrounded.
+LINE 302: Then a number of voices shouted--
+LINE 303: "Reform! Reform! Are ye for Reform? you grand folks; if ye are, speak
+LINE 304: out!"
+LINE 305: "Let go the horses' heads!" said Piers. "Let go! How dare you obstruct
+LINE 306: the high road?"
+LINE 307: "Aye! aye! you young fool; we'll teach you manners!" and one of the men
+LINE 308: clenched his fist and shook it at Piers. In another moment the crowd
+LINE 309: from behind, which Susan Priday had seen, came breathlessly up the hill,
+LINE 310: women with children in their arms, all screaming, at the top of their
+LINE 311: voices, "Reform! Reform!"
+LINE 312: One woman held up a child with a pinched, wan face, and said--
+LINE 313: "You rich folks, you'd trample on us if you could, and we are starving!
+LINE 314: Look here!" and she bared the legs of the poor emaciated baby. "Look
+LINE 315: here! Look at your fat, stuffed-out childer, and look at _this_!"
+LINE 316: "Look 'ee here, missus; we are a-going to Bristol to cry for Reform. If
+LINE 317: you say you will have nothing to do with the tyrant, Wetherall, and his
+LINE 318: cursed lot, you may go on. If not, we'll seize the carriage, we'll turn
+LINE 319: ye all out into the road, and we'll drive in state to the big meeting in
+LINE 320: Queen's Square! My! what a lark that will be!"
+LINE 321: "Listen," Joyce said, standing up in the carriage with her child in her
+LINE 322: arms; "I am on my way home with these little children. Surely you will
+LINE 323: not stop me and endanger their lives?"
+LINE 324: "We will! we will! if you don't give us your word you are for Reform and
+LINE 325: dead against Wetherall."
+LINE 326: "Why," Joyce said fearlessly, "only a year ago, and near this very
+LINE 327: place, the men and women of Bristol shouted, 'Long live Wetherall!' And
+LINE 328: now!"
+LINE 329: "Now we say, _curse_ him!" growled a big, brawny man.
+LINE 330: The little girls, awakened by the uproar, began to cry with fear, and
+LINE 331: Falcon called out, "Let mother go on, you bad men! I say, let her go on!
+LINE 332: Father will be so angry with you!"
+LINE 333: "Hush! hush! dear Master Falcon," Susan said; "you will only make them
+LINE 334: worse. Hush!"
+LINE 335: And now, as Joyce looked over the faces crowding round her, she beckoned
+LINE 336: to the woman, who had been thrust back by the pressure of others who
+LINE 337: wanted to see the inhabitants of the carriage.
+LINE 338: "Come here," she said, holding out some of the buns; "I am so sorry for
+LINE 339: your hungry baby. Give her one of these buns, and do believe me when I
+LINE 340: say I am sorry for all your troubles."
+LINE 341: The sweet, ringing voice began to have effect, and the clamour ceased.
+LINE 342: "I am no enemy of the poor. My husband and I wish to do what we can for
+LINE 343: you, and I believe, nay, I know, he is an advocate of Reform, but not
+LINE 344: for rebellion against authority, and violence."
+LINE 345: The execrations were changed now to cheers.
+LINE 346: "Let 'em pass, she is a good 'un; let 'em pass, she has a kind heart;
+LINE 347: she has a pretty face, too. Here," said a man, "I am the father of that
+LINE 348: poor babby; shake hands, missus."
+LINE 349: Joyce stretched out her hand at once, and it was taken in a strong grip.
+LINE 350: "Thank you," she said; "I knew you would not be cruel to my little
+LINE 351: children. Will you all remember that I ask you to be peaceable, and to
+LINE 352: pray to God to help you and give you bread for your children. He is a
+LINE 353: kind and loving Father; don't forget that."
+LINE 354: As Joyce stood before that seething crowd of strange, wan faces, for
+LINE 355: many of them bore too plainly the marks of fasting and hunger, the baby
+LINE 356: in her arms raised a pitiful cry, and she pressed it closer and soothed
+LINE 357: it, while the baby lifted its little hand and stroked its mother's face.
+LINE 358: "Aye, she is of the right sort," they cried; "she is a mother who loves
+LINE 359: her child. She ain't too grand to cosset her babby. Let her go on!"
+LINE 360: The post-boy cracked his whip, and the carriage was just starting, when
+LINE 361: Joyce suddenly turned ashen white, and sinking back in the carriage, the
+LINE 362: baby would have fallen had not Piers caught it by its cloak.
+LINE 363: "What is it?--what is it, Joyce, my dear?" Mrs. Falconer asked. "You put
+LINE 364: too much strain on yourself; you are feeling the effects. Joyce!"
+LINE 365: But Joyce did not speak. Her mother opened the basket, and taking out a
+LINE 366: bottle, held it to Joyce's lips.
+LINE 367: "Take some wine; do try to sip it, Joyce."
+LINE 368: But Joyce sat up and put it from her. "No, thank you, dear mother. I was
+LINE 369: faint, rather faint. Perhaps it _was_ too much for me speaking to that
+LINE 370: angry crowd. Oh!" and she put her hand to her eyes, "their faces, their
+LINE 371: dreadful faces! I am better now."
+LINE 372: And, with wonderful self-restraint, Joyce did not tell her mother or
+LINE 373: Piers that, amidst that throng of ragged, wild people, she had seen the
+LINE 374: face of the man whom she believed had caused her father's death.
+LINE 375: Falcon's voice from the "dickey" was now heard. "Here's father! here's
+LINE 376: father!"
+LINE 377: And presently Gilbert trotted up on horseback, and was received with
+LINE 378: shouts from his little boy and deep thankfulness from those inside the
+LINE 379: carriage.
+LINE 380: "The crowd is getting very thick in the city," he said, "and I thought I
+LINE 381: would ride out and be your escort. Why, my darling, you don't look much
+LINE 382: better for country air," he said, anxiously scanning her face.
+LINE 383: "We have been surrounded by a mob," Piers said, "and Joyce asked them to
+LINE 384: let us pass, and that was rather too much even for her nerves. There are
+LINE 385: some two hundred men and women coming on behind us."
+LINE 386: "Then push on," Gilbert said to the post boy, "and I will be your _avant
+LINE 387: courier_. The crowd in Bristol is fairly orderly so far, and I think we
+LINE 388: shall get through pretty well. Why, Susan!" he said, "you look almost as
+LINE 389: white as your mistress. I shall be glad to get you all safe home."
+LINE 390: Joyce rose in the carriage again, and, turning, looked back at Susan.
+LINE 391: Her face told that she also had recognised her father; and, with a
+LINE 392: sudden gesture of sympathy, Joyce put her hand on her faithful and
+LINE 393: trusted servant's arm, and gave it a pressure which she understood.
+LINE 394: "Oh! dear madam," she said, "it was very dreadful."
+LINE 395: "Yes," Joyce said, "but the danger is past now that we have Mr. Arundel
+LINE 396: with us. Hold Falcon firmly when we get into the streets."
+LINE 397: "I shall be glad to get home now," said little Falcon. "I am as tired as
+LINE 398: mother is."
+LINE 399: That surging crowd, increasing hourly in numbers and in vehemence,
+LINE 400: thronged the narrow streets, and made the progress of the carriage very
+LINE 401: slow.
+LINE 402: The young man who rode before it attracted attention, and he was called
+LINE 403: upon several times to declare whether he would vote for Protheroe and
+LINE 404: Baillie, and whether he was an anti-reformer or a reformer.
+LINE 405: These questions were generally shouted at him and followed by cries and
+LINE 406: cheers, so that the reply could not be heard.
+LINE 407: Erect and fearless, Gilbert rode on, clearing the way for the carriage,
+LINE 408: which contained all that was most precious to him in the world. Had he
+LINE 409: turned a hair, or shown the slightest sign of fear, it is probable he
+LINE 410: would have had stones hurled at him, or insulting missives, such as
+LINE 411: rotten eggs or dead rats, thrown into the carriage. But there was
+LINE 412: something in the way Gilbert guided his horse through the throng, and in
+LINE 413: the steadfast outlook of his eyes, that won the mob, and not a finger
+LINE 414: was raised against him. He even heard cries of "pretty dears!" from
+LINE 415: behind.
+LINE 416: "It's their father, I daresay. Pretty dears! And that's their mother,
+LINE 417: with the youngest. She is as white as a ghostie."
+LINE 418: So on they passed safely over Bristol Bridge, through Wine Street, and
+LINE 419: Corn Street, narrow thoroughfares, which necessitated at the best of
+LINE 420: times, but slow progress.
+LINE 421: As they passed along Saint Augustine's Back they left the great
+LINE 422: proportion of the crowd on the other side of the river. It was making,
+LINE 423: by way of King Street, for Queen's Square, where the great meeting was
+LINE 424: to assemble before the Mansion House, and the two whig candidates were
+LINE 425: to harangue the people.
+LINE 426: The heat of controversy was fanned continually into a fiercer flame; and
+LINE 427: moderate men, like Gilbert Arundel, were rare. While desiring any change
+LINE 428: which might give the people their just rights, and conscious of many
+LINE 429: abuses which needed reform, Gilbert took up no party cry, nor did he try
+LINE 430: to exalt his own side by heaping abuse on the other. When the need
+LINE 431: came, he would be ready to act for the defence of right and order, but
+LINE 432: he stood aloof, with singular discretion, from the hot-headed
+LINE 433: politicians of the Union, and thus he was, with many others, innocent of
+LINE 434: the great outbreak of lawlessness and riot, which, in a few short
+LINE 435: months, was to disgrace the annals of the city of Bristol.
+LINE 436: The great thoroughfare of Park Street was comparatively empty, and
+LINE 437: Gilbert reined in his horse and rode by the side of the carriage.
+LINE 438: "We are nearly home now," he said; "and there you will be safe. Is
+LINE 439: anything the matter?" he asked, leaning forward to Joyce.
+LINE 440: "I will tell you," she said, in a low voice, "but not now." And then the
+LINE 441: carriage turned into Great George Street, and the children and Joyce and
+LINE 442: the luggage were deposited there, while Mrs. Falconer and Piers were
+LINE 443: taken on to Clifton. Mrs. Arundel shared the large town house with her
+LINE 444: son, but she was away on a visit, and only two servants were in the wide
+LINE 445: old-fashioned hall to receive the travellers.
+LINE 446: The children's spacious nursery was bright and cheerful, commanding a
+LINE 447: view of the cathedral just below, the tower of St. Mary Redclyffe
+LINE 448: Church, of the tall masts of the ships, and of the hills beyond. A
+LINE 449: blazing fire in the old grate, and the rocking chair by the high guard,
+LINE 450: looked inviting, and Joyce sat down there with little Joy in her arms,
+LINE 451: while Susan put Lota and Lettice to rest in their cots in the next room,
+LINE 452: to sleep after the excitement of the morning; and Falcon rushed to the
+LINE 453: garden to inquire into the condition of the white rabbit, which he had
+LINE 454: left in its hutch when they went to Fair Acres some three weeks before.
+LINE 455: Gilbert, who had been looking after the luggage, and settling the
+LINE 456: postboy's fee, soon came up, and, kneeling down by the chair, took both
+LINE 457: mother and baby in a loving embrace.
+LINE 458: "My two Joys," he said; "my two best Joys. I am afraid you have been a
+LINE 459: good deal frightened, my darling; but cheer up now; the danger, if there
+LINE 460: was any, is over, thank God!"
+LINE 461: "Gilbert, it was not the crowd, it was not the fear about the poor
+LINE 462: people who stopped the carriage, it was that amongst those dreadful
+LINE 463: faces I saw Bob Priday's, the man who stopped us on Mendip years ago,
+LINE 464: and who, as we think, killed dear father. Oh, it was the sight of his
+LINE 465: face which was too much for me! And poor Susan saw him also. It brought
+LINE 466: it all back. Father! father!"
+LINE 467: Gilbert stroked his wife's head tenderly as it lay upon his shoulder,
+LINE 468: and said:
+LINE 469: "Are you sure it was Bob Priday? So many years have passed."
+LINE 470: "Quite, quite sure. And, though I have not spoken to Susan yet, I _know_
+LINE 471: she is sure also."
+LINE 472: "You did not tell your mother, then, or Piers?"
+LINE 473: "No, no; I would not have given mother the pain I felt, for anything.
+LINE 474: Dear mother! I let her drive off with scarcely a good-bye, and she has
+LINE 475: been so kind at Fair Acres, and has enjoyed the children in the old
+LINE 476: house. But, oh! Gilbert," she said, rallying, "it is so delightful to be
+LINE 477: at home with you again. While we have each other nothing can be _very_
+LINE 478: bad, can it?"
+LINE 479: "Nothing," he said, fervently. "And now, while you are resting, I must
+LINE 480: go down to the office, for my partner is at the meeting at the "White
+LINE 481: Lion," helping to bolster up poor Hart-Davies to fight the Tories'
+LINE 482: battle. He is a good fellow, and everybody respects him; but the truth
+LINE 483: is, the tide is too strong in Bristol now for any but some very
+LINE 484: exceptional man to battle against it."
+LINE 485: "You think the Whigs will carry the election?"
+LINE 486: "Without a doubt."
+LINE 487: "Are you going to the meeting in Queen's Square?"
+LINE 488: "I think not. We cannot both leave the office at once, and I do not
+LINE 489: greatly care about it. I do increasingly feel that these men who clamour
+LINE 490: for their cause injure it. They are exciting the mob in Bristol--always
+LINE 491: inflammable material--and this fury of rage against old Wetherall is
+LINE 492: most dangerous. Everyone expects that if he attempts to open the next
+LINE 493: assize there will be a riot it will be difficult to quell. Happy little
+LINE 494: Joy," he said, kissing the baby's cheek; "to sleep on in peace while
+LINE 495: your fellow-citizens of Bristol are shouting themselves hoarse."
+LINE 496: Susan now came in from the next room, and took the baby from Joyce,
+LINE 497: while Gilbert left the nursery, saying:
+LINE 498: "We must dine at a fashionable hour to-day. I shall not be back till
+LINE 499: five;"--and Susan and her mistress were left alone.
+LINE 500: "Did he see us, Susan? Your father; do you think he saw us?"
+LINE 501: "I think he did, ma'am--at least, I think he saw me."
+LINE 502: "You feel no doubt at all that it was your father, Susan?"
+LINE 503: "No, oh no!" said poor Susan, struggling to restrain her convulsive
+LINE 504: sobs; "and I don't know what is to be done. Oh, dear, dear, madam!"
+LINE 505: "We must leave it in God's hands, Susan."
+LINE 506: "If he finds me out it will be so dreadful; but I don't think he will
+LINE 507: dare to do so."
+LINE 508: "No," Joyce said; "he will hide away from us knowing that suspicion, at
+LINE 509: least, must have fastened on him."
+LINE 510: "Dear madam, I wonder you have ever been able to bear to have me near
+LINE 511: you. His daughter!--_his_ daughter!"
+LINE 512: "I thought we had settled long ago, Susan, that your services to me and
+LINE 513: mine, and your love for the children, must always win my gratitude
+LINE 514: and----"
+LINE 515: "Dear madam, I know how good you are. I know how you took me out of the
+LINE 516: lowest depths of misery, just as no one else would have done. But if I
+LINE 517: am to bring trouble on you by staying here, if he, my father, is to
+LINE 518: bring more trouble on you, I would rather run away and hide myself, and
+LINE 519: never look upon your face again."
+LINE 520: "Do not say so, Susan; let us trust in God, and He will protect us. Your
+LINE 521: father, if he recognised me, which I doubt, is very unlikely to come
+LINE 522: forward when a serious charge might be brought against him. It was a
+LINE 523: great shock at first for me to see him; but let us dismiss it from our
+LINE 524: minds now, and do not let us speak of it to anyone but Mr. Arundel.
+LINE 525: Certainly not to Mrs. Falconer."
+LINE 526: "Very well, dear madam, I will do all you desire me," Susan said, and
+LINE 527: clasping little Joy in her arms, she turned away.
+LINE 528: [Illustration]

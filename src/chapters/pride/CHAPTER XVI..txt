@@ -1,0 +1,299 @@
+LINE 1: As no objection was made to the young people's engagement with their
+LINE 2: aunt, and all Mr. Collins's scruples of leaving Mr. and Mrs. Bennet for
+LINE 3: a single evening during his visit were most steadily resisted, the coach
+LINE 4: conveyed him and his five cousins at a suitable hour to Meryton; and the
+LINE 5: girls had the pleasure of hearing, as they entered the drawing-room,
+LINE 6: that Mr. Wickham had accepted their uncle's invitation, and was then in
+LINE 7: the house.
+LINE 8: When this information was given, and they had all taken their seats, Mr.
+LINE 9: Collins was at leisure to look around him and admire, and he was so much
+LINE 10: struck with the size and furniture of the apartment, that he declared he
+LINE 11: might almost have supposed himself in the small summer breakfast parlour
+LINE 12: at Rosings; a comparison that did not at first convey much
+LINE 13: gratification; but when Mrs. Philips understood from him what Rosings
+LINE 14: was, and who was its proprietor, when she had listened to the
+LINE 15: description of only one of Lady Catherine's drawing-rooms, and found
+LINE 16: that the chimney-piece alone had cost eight hundred pounds, she felt all
+LINE 17: the force of the compliment, and would hardly have resented a comparison
+LINE 18: with the housekeeper's room.
+LINE 19: In describing to her all the grandeur of Lady Catherine and her mansion,
+LINE 20: with occasional digressions in praise of his own humble abode, and the
+LINE 21: improvements it was receiving, he was happily employed until the
+LINE 22: gentlemen joined them; and he found in Mrs. Philips a very attentive
+LINE 23: listener, whose opinion of his consequence increased with what she
+LINE 24: heard, and who was resolving to retail it all among her neighbours as
+LINE 25: soon as she could. To the girls, who could not listen to their cousin,
+LINE 26: and who had nothing to do but to wish for an instrument, and examine
+LINE 27: their own indifferent imitations of china on the mantle-piece, the
+LINE 28: interval of waiting appeared very long. It was over at last however. The
+LINE 29: gentlemen did approach; and when Mr. Wickham walked into the room,
+LINE 30: Elizabeth felt that she had neither been seeing him before, nor thinking
+LINE 31: of him since, with the smallest degree of unreasonable admiration. The
+LINE 32: officers of the ----shire were in general a very creditable,
+LINE 33: gentleman-like set, and the best of them were of the present party; but
+LINE 34: Mr. Wickham was as far beyond them all in person, countenance, air, and
+LINE 35: walk, as _they_ were superior to the broad-faced stuffy uncle Philips,
+LINE 36: breathing port wine, who followed them into the room.
+LINE 37: Mr. Wickham was the happy man towards whom almost every female eye was
+LINE 38: turned, and Elizabeth was the happy woman by whom he finally seated
+LINE 39: himself; and the agreeable manner in which he immediately fell into
+LINE 40: conversation, though it was only on its being a wet night, and on the
+LINE 41: probability of a rainy season, made her feel that the commonest,
+LINE 42: dullest, most thread-bare topic might be rendered interesting by the
+LINE 43: skill of the speaker.
+LINE 44: With such rivals for the notice of the fair, as Mr. Wickham and the
+LINE 45: officers, Mr. Collins seemed likely to sink into insignificance; to the
+LINE 46: young ladies he certainly was nothing; but he had still at intervals a
+LINE 47: kind listener in Mrs. Philips, and was, by her watchfulness, most
+LINE 48: abundantly supplied with coffee and muffin.
+LINE 49: When the card tables were placed, he had an opportunity of obliging her
+LINE 50: in return, by sitting down to whist.
+LINE 51: "I know little of the game, at present," said he, "but I shall be glad
+LINE 52: to improve myself, for in my situation of life----" Mrs. Philips was
+LINE 53: very thankful for his compliance, but could not wait for his reason.
+LINE 54: Mr. Wickham did not play at whist, and with ready delight was he
+LINE 55: received at the other table between Elizabeth and Lydia. At first there
+LINE 56: seemed danger of Lydia's engrossing him entirely, for she was a most
+LINE 57: determined talker; but being likewise extremely fond of lottery tickets,
+LINE 58: she soon grew too much interested in the game, too eager in making bets
+LINE 59: and exclaiming after prizes, to have attention for any one in
+LINE 60: particular. Allowing for the common demands of the game, Mr. Wickham was
+LINE 61: therefore at leisure to talk to Elizabeth, and she was very willing to
+LINE 62: hear him, though what she chiefly wished to hear she could not hope to
+LINE 63: be told, the history of his acquaintance with Mr. Darcy. She dared not
+LINE 64: even mention that gentleman. Her curiosity however was unexpectedly
+LINE 65: relieved. Mr. Wickham began the subject himself. He inquired how far
+LINE 66: Netherfield was from Meryton; and, after receiving her answer, asked in
+LINE 67: an hesitating manner how long Mr. Darcy had been staying there.
+LINE 68: "About a month," said Elizabeth; and then, unwilling to let the subject
+LINE 69: drop, added, "He is a man of very large property in Derbyshire, I
+LINE 70: understand."
+LINE 71: "Yes," replied Wickham;--"his estate there is a noble one. A clear ten
+LINE 72: thousand per annum. You could not have met with a person more capable of
+LINE 73: giving you certain information on that head than myself--for I have been
+LINE 74: connected with his family in a particular manner from my infancy."
+LINE 75: Elizabeth could not but look surprised.
+LINE 76: "You may well be surprised, Miss Bennet, at such an assertion, after
+LINE 77: seeing, as you probably might, the very cold manner of our meeting
+LINE 78: yesterday.--Are you much acquainted with Mr. Darcy?"
+LINE 79: "As much as I ever wish to be," cried Elizabeth warmly,--"I have spent
+LINE 80: four days in the same house with him, and I think him very
+LINE 81: disagreeable."
+LINE 82: "I have no right to give _my_ opinion," said Wickham, "as to his being
+LINE 83: agreeable or otherwise. I am not qualified to form one. I have known him
+LINE 84: too long and too well to be a fair judge. It is impossible for _me_ to
+LINE 85: be impartial. But I believe your opinion of him would in general
+LINE 86: astonish--and perhaps you would not express it quite so strongly
+LINE 87: anywhere else.--Here you are in your own family."
+LINE 88: "Upon my word I say no more _here_ than I might say in any house in the
+LINE 89: neighbourhood, except Netherfield. He is not at all liked in
+LINE 90: Hertfordshire. Every body is disgusted with his pride. You will not find
+LINE 91: him more favourably spoken of by any one."
+LINE 92: "I cannot pretend to be sorry," said Wickham, after a short
+LINE 93: interruption, "that he or that any man should not be estimated beyond
+LINE 94: their deserts; but with _him_ I believe it does not often happen. The
+LINE 95: world is blinded by his fortune and consequence, or frightened by his
+LINE 96: high and imposing manners, and sees him only as he chuses to be seen."
+LINE 97: "I should take him, even on _my_ slight acquaintance, to be an
+LINE 98: ill-tempered man." Wickham only shook his head.
+LINE 99: "I wonder," said he, at the next opportunity of speaking, "whether he is
+LINE 100: likely to be in this country much longer."
+LINE 101: "I do not at all know; but I _heard_ nothing of his going away when I
+LINE 102: was at Netherfield. I hope your plans in favour of the ----shire will
+LINE 103: not be affected by his being in the neighbourhood."
+LINE 104: "Oh! no--it is not for _me_ to be driven away by Mr. Darcy. If _he_
+LINE 105: wishes to avoid seeing _me_, he must go. We are not on friendly terms,
+LINE 106: and it always gives me pain to meet him, but I have no reason for
+LINE 107: avoiding _him_ but what I might proclaim to all the world; a sense of
+LINE 108: very great ill usage, and most painful regrets at his being what he is.
+LINE 109: His father, Miss Bennet, the late Mr. Darcy, was one of the best men
+LINE 110: that ever breathed, and the truest friend I ever had; and I can never be
+LINE 111: in company with this Mr. Darcy without being grieved to the soul by a
+LINE 112: thousand tender recollections. His behaviour to myself has been
+LINE 113: scandalous; but I verily believe I could forgive him any thing and every
+LINE 114: thing, rather than his disappointing the hopes and disgracing the memory
+LINE 115: of his father."
+LINE 116: Elizabeth found the interest of the subject increase, and listened with
+LINE 117: all her heart; but the delicacy of it prevented farther inquiry.
+LINE 118: Mr. Wickham began to speak on more general topics, Meryton, the
+LINE 119: neighbourhood, the society, appearing highly pleased with all that he
+LINE 120: had yet seen, and speaking of the latter especially, with gentle but
+LINE 121: very intelligible gallantry.
+LINE 122: "It was the prospect of constant society, and good society," he added,
+LINE 123: "which was my chief inducement to enter the ----shire. I knew it to be a
+LINE 124: most respectable, agreeable corps, and my friend Denny tempted me
+LINE 125: farther by his account of their present quarters, and the very great
+LINE 126: attentions and excellent acquaintance Meryton had procured them.
+LINE 127: Society, I own, is necessary to me. I have been a disappointed man, and
+LINE 128: my spirits will not bear solitude. I _must_ have employment and society.
+LINE 129: A military life is not what I was intended for, but circumstances have
+LINE 130: now made it eligible. The church _ought_ to have been my profession--I
+LINE 131: was brought up for the church, and I should at this time have been in
+LINE 132: possession of a most valuable living, had it pleased the gentleman we
+LINE 133: were speaking of just now."
+LINE 134: "Indeed!"
+LINE 135: "Yes--the late Mr. Darcy bequeathed me the next presentation of the best
+LINE 136: living in his gift. He was my godfather, and excessively attached to me.
+LINE 137: I cannot do justice to his kindness. He meant to provide for me amply,
+LINE 138: and thought he had done it; but when the living fell, it was given
+LINE 139: elsewhere."
+LINE 140: "Good heavens!" cried Elizabeth; "but how could _that_ be?--How could
+LINE 141: his will be disregarded?--Why did not you seek legal redress?"
+LINE 142: "There was just such an informality in the terms of the bequest as to
+LINE 143: give me no hope from law. A man of honour could not have doubted the
+LINE 144: intention, but Mr. Darcy chose to doubt it--or to treat it as a merely
+LINE 145: conditional recommendation, and to assert that I had forfeited all claim
+LINE 146: to it by extravagance, imprudence, in short any thing or nothing.
+LINE 147: Certain it is, that the living became vacant two years ago, exactly as I
+LINE 148: was of an age to hold it, and that it was given to another man; and no
+LINE 149: less certain is it, that I cannot accuse myself of having really done
+LINE 150: any thing to deserve to lose it. I have a warm, unguarded temper, and I
+LINE 151: may perhaps have sometimes spoken my opinion _of_ him, and _to_ him, too
+LINE 152: freely. I can recal nothing worse. But the fact is, that we are very
+LINE 153: different sort of men, and that he hates me."
+LINE 154: "This is quite shocking!--He deserves to be publicly disgraced."
+LINE 155: "Some time or other he _will_ be--but it shall not be by _me_. Till I
+LINE 156: can forget his father, I can never defy or expose _him_."
+LINE 157: Elizabeth honoured him for such feelings, and thought him handsomer than
+LINE 158: ever as he expressed them.
+LINE 159: "But what," said she, after a pause, "can have been his motive?--what
+LINE 160: can have induced him to behave so cruelly?"
+LINE 161: "A thorough, determined dislike of me--a dislike which I cannot but
+LINE 162: attribute in some measure to jealousy. Had the late Mr. Darcy liked me
+LINE 163: less, his son might have borne with me better; but his father's uncommon
+LINE 164: attachment to me, irritated him I believe very early in life. He had not
+LINE 165: a temper to bear the sort of competition in which we stood--the sort of
+LINE 166: preference which was often given me."
+LINE 167: "I had not thought Mr. Darcy so bad as this--though I have never liked
+LINE 168: him, I had not thought so very ill of him--I had supposed him to be
+LINE 169: despising his fellow-creatures in general, but did not suspect him of
+LINE 170: descending to such malicious revenge, such injustice, such inhumanity as
+LINE 171: this!"
+LINE 172: After a few minutes reflection, however, she continued, "I _do_ remember
+LINE 173: his boasting one day, at Netherfield, of the implacability of his
+LINE 174: resentments, of his having an unforgiving temper. His disposition must
+LINE 175: be dreadful."
+LINE 176: "I will not trust myself on the subject," replied Wickham, "_I_ can
+LINE 177: hardly be just to him."
+LINE 178: Elizabeth was again deep in thought, and after a time exclaimed, "To
+LINE 179: treat in such a manner, the god-son, the friend, the favourite of his
+LINE 180: father!"--She could have added, "A young man too, like _you_, whose very
+LINE 181: countenance may vouch for your being amiable"--but she contented
+LINE 182: herself with "And one, too, who had probably been his own companion from
+LINE 183: childhood, connected together, as I think you said, in the closest
+LINE 184: manner!"
+LINE 185: "We were born in the same parish, within the same park, the greatest
+LINE 186: part of our youth was passed together; inmates of the same house,
+LINE 187: sharing the same amusements, objects of the same parental care. _My_
+LINE 188: father began life in the profession which your uncle, Mr. Philips,
+LINE 189: appears to do so much credit to--but he gave up every thing to be of use
+LINE 190: to the late Mr. Darcy, and devoted all his time to the care of the
+LINE 191: Pemberley property. He was most highly esteemed by Mr. Darcy, a most
+LINE 192: intimate, confidential friend. Mr. Darcy often acknowledged himself to
+LINE 193: be under the greatest obligations to my father's active superintendance,
+LINE 194: and when immediately before my father's death, Mr. Darcy gave him a
+LINE 195: voluntary promise of providing for me, I am convinced that he felt it to
+LINE 196: be as much a debt of gratitude to _him_, as of affection to myself."
+LINE 197: "How strange!" cried Elizabeth. "How abominable!--I wonder that the very
+LINE 198: pride of this Mr. Darcy has not made him just to you!--If from no better
+LINE 199: motive, that he should not have been too proud to be dishonest,--for
+LINE 200: dishonesty I must call it."
+LINE 201: "It _is_ wonderful,"--replied Wickham,--"for almost all his actions may
+LINE 202: be traced to pride;--and pride has often been his best friend. It has
+LINE 203: connected him nearer with virtue than any other feeling. But we are none
+LINE 204: of us consistent; and in his behaviour to me, there were stronger
+LINE 205: impulses even than pride."
+LINE 206: "Can such abominable pride as his, have ever done him good?"
+LINE 207: "Yes. It has often led him to be liberal and generous,--to give his
+LINE 208: money freely, to display hospitality, to assist his tenants, and relieve
+LINE 209: the poor. Family pride, and _filial_ pride, for he is very proud of what
+LINE 210: his father was, have done this. Not to appear to disgrace his family, to
+LINE 211: degenerate from the popular qualities, or lose the influence of the
+LINE 212: Pemberley House, is a powerful motive. He has also _brotherly_ pride,
+LINE 213: which with _some_ brotherly affection, makes him a very kind and careful
+LINE 214: guardian of his sister; and you will hear him generally cried up as the
+LINE 215: most attentive and best of brothers."
+LINE 216: "What sort of a girl is Miss Darcy?"
+LINE 217: He shook his head.--"I wish I could call her amiable. It gives me pain
+LINE 218: to speak ill of a Darcy. But she is too much like her brother,--very,
+LINE 219: very proud.--As a child, she was affectionate and pleasing, and
+LINE 220: extremely fond of me; and I have devoted hours and hours to her
+LINE 221: amusement. But she is nothing to me now. She is a handsome girl, about
+LINE 222: fifteen or sixteen, and I understand highly accomplished. Since her
+LINE 223: father's death, her home has been London, where a lady lives with her,
+LINE 224: and superintends her education."
+LINE 225: After many pauses and many trials of other subjects, Elizabeth could not
+LINE 226: help reverting once more to the first, and saying,
+LINE 227: "I am astonished at his intimacy with Mr. Bingley! How can Mr. Bingley,
+LINE 228: who seems good humour itself, and is, I really believe, truly amiable,
+LINE 229: be in friendship with such a man? How can they suit each other?--Do you
+LINE 230: know Mr. Bingley?"
+LINE 231: "Not at all."
+LINE 232: "He is a sweet tempered, amiable, charming man. He cannot know what Mr.
+LINE 233: Darcy is."
+LINE 234: "Probably not;--but Mr. Darcy can please where he chuses. He does not
+LINE 235: want abilities. He can be a conversible companion if he thinks it worth
+LINE 236: his while. Among those who are at all his equals in consequence, he is a
+LINE 237: very different man from what he is to the less prosperous. His pride
+LINE 238: never deserts him; but with the rich, he is liberal-minded, just,
+LINE 239: sincere, rational, honourable, and perhaps agreeable,--allowing
+LINE 240: something for fortune and figure."
+LINE 241: The whist party soon afterwards breaking up, the players gathered round
+LINE 242: the other table, and Mr. Collins took his station between his cousin
+LINE 243: Elizabeth and Mrs. Philips.--The usual inquiries as to his success were
+LINE 244: made by the latter. It had not been very great; he had lost every point;
+LINE 245: but when Mrs. Philips began to express her concern thereupon, he assured
+LINE 246: her with much earnest gravity that it was not of the least importance,
+LINE 247: that he considered the money as a mere trifle, and begged she would not
+LINE 248: make herself uneasy.
+LINE 249: "I know very well, madam," said he, "that when persons sit down to a
+LINE 250: card table, they must take their chance of these things,--and happily I
+LINE 251: am not in such circumstances as to make five shillings any object. There
+LINE 252: are undoubtedly many who could not say the same, but thanks to Lady
+LINE 253: Catherine de Bourgh, I am removed far beyond the necessity of regarding
+LINE 254: little matters."
+LINE 255: Mr. Wickham's attention was caught; and after observing Mr. Collins for
+LINE 256: a few moments, he asked Elizabeth in a low voice whether her relation
+LINE 257: were very intimately acquainted with the family of de Bourgh.
+LINE 258: "Lady Catherine de Bourgh," she replied, "has very lately given him a
+LINE 259: living. I hardly know how Mr. Collins was first introduced to her
+LINE 260: notice, but he certainly has not known her long."
+LINE 261: "You know of course that Lady Catherine de Bourgh and Lady Anne Darcy
+LINE 262: were sisters; consequently that she is aunt to the present Mr. Darcy."
+LINE 263: "No, indeed, I did not.--I knew nothing at all of Lady Catherine's
+LINE 264: connections. I never heard of her existence till the day before
+LINE 265: yesterday."
+LINE 266: "Her daughter, Miss de Bourgh, will have a very large fortune, and it is
+LINE 267: believed that she and her cousin will unite the two estates."
+LINE 268: This information made Elizabeth smile, as she thought of poor Miss
+LINE 269: Bingley. Vain indeed must be all her attentions, vain and useless her
+LINE 270: affection for his sister and her praise of himself, if he were already
+LINE 271: self-destined to another.
+LINE 272: "Mr. Collins," said she, "speaks highly both of Lady Catherine and her
+LINE 273: daughter; but from some particulars that he has related of her ladyship,
+LINE 274: I suspect his gratitude misleads him, and that in spite of her being his
+LINE 275: patroness, she is an arrogant, conceited woman."
+LINE 276: "I believe her to be both in a great degree," replied Wickham; "I have
+LINE 277: not seen her for many years, but I very well remember that I never liked
+LINE 278: her, and that her manners were dictatorial and insolent. She has the
+LINE 279: reputation of being remarkably sensible and clever; but I rather believe
+LINE 280: she derives part of her abilities from her rank and fortune, part from
+LINE 281: her authoritative manner, and the rest from the pride of her nephew, who
+LINE 282: chuses that every one connected with him should have an understanding of
+LINE 283: the first class."
+LINE 284: Elizabeth allowed that he had given a very rational account of it, and
+LINE 285: they continued talking together with mutual satisfaction till supper put
+LINE 286: an end to cards; and gave the rest of the ladies their share of Mr.
+LINE 287: Wickham's attentions. There could be no conversation in the noise of
+LINE 288: Mrs. Philips's supper party, but his manners recommended him to every
+LINE 289: body. Whatever he said, was said well; and whatever he did, done
+LINE 290: gracefully. Elizabeth went away with her head full of him. She could
+LINE 291: think of nothing but of Mr. Wickham, and of what he had told her, all
+LINE 292: the way home; but there was not time for her even to mention his name as
+LINE 293: they went, for neither Lydia nor Mr. Collins were once silent. Lydia
+LINE 294: talked incessantly of lottery tickets, of the fish she had lost and the
+LINE 295: fish she had won, and Mr. Collins, in describing the civility of Mr. and
+LINE 296: Mrs. Philips, protesting that he did not in the least regard his losses
+LINE 297: at whist, enumerating all the dishes at supper, and repeatedly fearing
+LINE 298: that he crouded his cousins, had more to say than he could well manage
+LINE 299: before the carriage stopped at Longbourn House.

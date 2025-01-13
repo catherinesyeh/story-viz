@@ -1,0 +1,167 @@
+LINE 1: "I do not know what your opinion may be, Mrs. Weston," said Mr.
+LINE 2: Knightley, "of this great intimacy between Emma and Harriet Smith, but
+LINE 3: I think it a bad thing."
+LINE 4: "A bad thing! Do you really think it a bad thing?—why so?"
+LINE 5: "I think they will neither of them do the other any good."
+LINE 6: "You surprize me! Emma must do Harriet good: and by supplying her with
+LINE 7: a new object of interest, Harriet may be said to do Emma good. I have
+LINE 8: been seeing their intimacy with the greatest pleasure. How very
+LINE 9: differently we feel!—Not think they will do each other any good! This
+LINE 10: will certainly be the beginning of one of our quarrels about Emma, Mr.
+LINE 11: Knightley."
+LINE 12: "Perhaps you think I am come on purpose to quarrel with you, knowing
+LINE 13: Weston to be out, and that you must still fight your own battle."
+LINE 14: "Mr. Weston would undoubtedly support me, if he were here, for he
+LINE 15: thinks exactly as I do on the subject. We were speaking of it only
+LINE 16: yesterday, and agreeing how fortunate it was for Emma, that there
+LINE 17: should be such a girl in Highbury for her to associate with. Mr.
+LINE 18: Knightley, I shall not allow you to be a fair judge in this case. You
+LINE 19: are so much used to live alone, that you do not know the value of a
+LINE 20: companion; and, perhaps no man can be a good judge of the comfort a
+LINE 21: woman feels in the society of one of her own sex, after being used to
+LINE 22: it all her life. I can imagine your objection to Harriet Smith. She is
+LINE 23: not the superior young woman which Emma's friend ought to be. But on
+LINE 24: the other hand, as Emma wants to see her better informed, it will be an
+LINE 25: inducement to her to read more herself. They will read together. She
+LINE 26: means it, I know."
+LINE 27: "Emma has been meaning to read more ever since she was twelve years
+LINE 28: old. I have seen a great many lists of her drawing-up at various times
+LINE 29: of books that she meant to read regularly through—and very good lists
+LINE 30: they were—very well chosen, and very neatly arranged—sometimes
+LINE 31: alphabetically, and sometimes by some other rule. The list she drew up
+LINE 32: when only fourteen—I remember thinking it did her judgment so much
+LINE 33: credit, that I preserved it some time; and I dare say she may have made
+LINE 34: out a very good list now. But I have done with expecting any course of
+LINE 35: steady reading from Emma. She will never submit to any thing requiring
+LINE 36: industry and patience, and a subjection of the fancy to the
+LINE 37: understanding. Where Miss Taylor failed to stimulate, I may safely
+LINE 38: affirm that Harriet Smith will do nothing.—You never could persuade her
+LINE 39: to read half so much as you wished.—You know you could not."
+LINE 40: "I dare say," replied Mrs. Weston, smiling, "that I thought so
+LINE 41: _then_;—but since we have parted, I can never remember Emma's omitting
+LINE 42: to do any thing I wished."
+LINE 43: "There is hardly any desiring to refresh such a memory as _that_,"—said
+LINE 44: Mr. Knightley, feelingly; and for a moment or two he had done. "But I,"
+LINE 45: he soon added, "who have had no such charm thrown over my senses, must
+LINE 46: still see, hear, and remember. Emma is spoiled by being the cleverest
+LINE 47: of her family. At ten years old, she had the misfortune of being able
+LINE 48: to answer questions which puzzled her sister at seventeen. She was
+LINE 49: always quick and assured: Isabella slow and diffident. And ever since
+LINE 50: she was twelve, Emma has been mistress of the house and of you all. In
+LINE 51: her mother she lost the only person able to cope with her. She inherits
+LINE 52: her mother's talents, and must have been under subjection to her."
+LINE 53: "I should have been sorry, Mr. Knightley, to be dependent on _your_
+LINE 54: recommendation, had I quitted Mr. Woodhouse's family and wanted another
+LINE 55: situation; I do not think you would have spoken a good word for me to
+LINE 56: any body. I am sure you always thought me unfit for the office I held."
+LINE 57: "Yes," said he, smiling. "You are better placed _here_; very fit for a
+LINE 58: wife, but not at all for a governess. But you were preparing yourself
+LINE 59: to be an excellent wife all the time you were at Hartfield. You might
+LINE 60: not give Emma such a complete education as your powers would seem to
+LINE 61: promise; but you were receiving a very good education from _her_, on
+LINE 62: the very material matrimonial point of submitting your own will, and
+LINE 63: doing as you were bid; and if Weston had asked me to recommend him a
+LINE 64: wife, I should certainly have named Miss Taylor."
+LINE 65: "Thank you. There will be very little merit in making a good wife to
+LINE 66: such a man as Mr. Weston."
+LINE 67: "Why, to own the truth, I am afraid you are rather thrown away, and
+LINE 68: that with every disposition to bear, there will be nothing to be borne.
+LINE 69: We will not despair, however. Weston may grow cross from the wantonness
+LINE 70: of comfort, or his son may plague him."
+LINE 71: "I hope not _that_.—It is not likely. No, Mr. Knightley, do not
+LINE 72: foretell vexation from that quarter."
+LINE 73: "Not I, indeed. I only name possibilities. I do not pretend to Emma's
+LINE 74: genius for foretelling and guessing. I hope, with all my heart, the
+LINE 75: young man may be a Weston in merit, and a Churchill in fortune.—But
+LINE 76: Harriet Smith—I have not half done about Harriet Smith. I think her the
+LINE 77: very worst sort of companion that Emma could possibly have. She knows
+LINE 78: nothing herself, and looks upon Emma as knowing every thing. She is a
+LINE 79: flatterer in all her ways; and so much the worse, because undesigned.
+LINE 80: Her ignorance is hourly flattery. How can Emma imagine she has any
+LINE 81: thing to learn herself, while Harriet is presenting such a delightful
+LINE 82: inferiority? And as for Harriet, I will venture to say that _she_
+LINE 83: cannot gain by the acquaintance. Hartfield will only put her out of
+LINE 84: conceit with all the other places she belongs to. She will grow just
+LINE 85: refined enough to be uncomfortable with those among whom birth and
+LINE 86: circumstances have placed her home. I am much mistaken if Emma's
+LINE 87: doctrines give any strength of mind, or tend at all to make a girl
+LINE 88: adapt herself rationally to the varieties of her situation in
+LINE 89: life.—They only give a little polish."
+LINE 90: "I either depend more upon Emma's good sense than you do, or am more
+LINE 91: anxious for her present comfort; for I cannot lament the acquaintance.
+LINE 92: How well she looked last night!"
+LINE 93: "Oh! you would rather talk of her person than her mind, would you? Very
+LINE 94: well; I shall not attempt to deny Emma's being pretty."
+LINE 95: "Pretty! say beautiful rather. Can you imagine any thing nearer perfect
+LINE 96: beauty than Emma altogether—face and figure?"
+LINE 97: "I do not know what I could imagine, but I confess that I have seldom
+LINE 98: seen a face or figure more pleasing to me than hers. But I am a partial
+LINE 99: old friend."
+LINE 100: "Such an eye!—the true hazle eye—and so brilliant! regular features,
+LINE 101: open countenance, with a complexion! oh! what a bloom of full health,
+LINE 102: and such a pretty height and size; such a firm and upright figure!
+LINE 103: There is health, not merely in her bloom, but in her air, her head, her
+LINE 104: glance. One hears sometimes of a child being 'the picture of health;'
+LINE 105: now, Emma always gives me the idea of being the complete picture of
+LINE 106: grown-up health. She is loveliness itself. Mr. Knightley, is not she?"
+LINE 107: "I have not a fault to find with her person," he replied. "I think her
+LINE 108: all you describe. I love to look at her; and I will add this praise,
+LINE 109: that I do not think her personally vain. Considering how very handsome
+LINE 110: she is, she appears to be little occupied with it; her vanity lies
+LINE 111: another way. Mrs. Weston, I am not to be talked out of my dislike of
+LINE 112: Harriet Smith, or my dread of its doing them both harm."
+LINE 113: "And I, Mr. Knightley, am equally stout in my confidence of its not
+LINE 114: doing them any harm. With all dear Emma's little faults, she is an
+LINE 115: excellent creature. Where shall we see a better daughter, or a kinder
+LINE 116: sister, or a truer friend? No, no; she has qualities which may be
+LINE 117: trusted; she will never lead any one really wrong; she will make no
+LINE 118: lasting blunder; where Emma errs once, she is in the right a hundred
+LINE 119: times."
+LINE 120: "Very well; I will not plague you any more. Emma shall be an angel, and
+LINE 121: I will keep my spleen to myself till Christmas brings John and
+LINE 122: Isabella. John loves Emma with a reasonable and therefore not a blind
+LINE 123: affection, and Isabella always thinks as he does; except when he is not
+LINE 124: quite frightened enough about the children. I am sure of having their
+LINE 125: opinions with me."
+LINE 126: "I know that you all love her really too well to be unjust or unkind;
+LINE 127: but excuse me, Mr. Knightley, if I take the liberty (I consider myself,
+LINE 128: you know, as having somewhat of the privilege of speech that Emma's
+LINE 129: mother might have had) the liberty of hinting that I do not think any
+LINE 130: possible good can arise from Harriet Smith's intimacy being made a
+LINE 131: matter of much discussion among you. Pray excuse me; but supposing any
+LINE 132: little inconvenience may be apprehended from the intimacy, it cannot be
+LINE 133: expected that Emma, accountable to nobody but her father, who perfectly
+LINE 134: approves the acquaintance, should put an end to it, so long as it is a
+LINE 135: source of pleasure to herself. It has been so many years my province to
+LINE 136: give advice, that you cannot be surprized, Mr. Knightley, at this
+LINE 137: little remains of office."
+LINE 138: "Not at all," cried he; "I am much obliged to you for it. It is very
+LINE 139: good advice, and it shall have a better fate than your advice has often
+LINE 140: found; for it shall be attended to."
+LINE 141: "Mrs. John Knightley is easily alarmed, and might be made unhappy about
+LINE 142: her sister."
+LINE 143: "Be satisfied," said he, "I will not raise any outcry. I will keep my
+LINE 144: ill-humour to myself. I have a very sincere interest in Emma. Isabella
+LINE 145: does not seem more my sister; has never excited a greater interest;
+LINE 146: perhaps hardly so great. There is an anxiety, a curiosity in what one
+LINE 147: feels for Emma. I wonder what will become of her!"
+LINE 148: "So do I," said Mrs. Weston gently, "very much."
+LINE 149: "She always declares she will never marry, which, of course, means just
+LINE 150: nothing at all. But I have no idea that she has yet ever seen a man she
+LINE 151: cared for. It would not be a bad thing for her to be very much in love
+LINE 152: with a proper object. I should like to see Emma in love, and in some
+LINE 153: doubt of a return; it would do her good. But there is nobody hereabouts
+LINE 154: to attach her; and she goes so seldom from home."
+LINE 155: "There does, indeed, seem as little to tempt her to break her
+LINE 156: resolution at present," said Mrs. Weston, "as can well be; and while
+LINE 157: she is so happy at Hartfield, I cannot wish her to be forming any
+LINE 158: attachment which would be creating such difficulties on poor Mr.
+LINE 159: Woodhouse's account. I do not recommend matrimony at present to Emma,
+LINE 160: though I mean no slight to the state, I assure you."
+LINE 161: Part of her meaning was to conceal some favourite thoughts of her own
+LINE 162: and Mr. Weston's on the subject, as much as possible. There were wishes
+LINE 163: at Randalls respecting Emma's destiny, but it was not desirable to have
+LINE 164: them suspected; and the quiet transition which Mr. Knightley soon
+LINE 165: afterwards made to "What does Weston think of the weather; shall we
+LINE 166: have rain?" convinced her that he had nothing more to say or surmise
+LINE 167: about Hartfield.

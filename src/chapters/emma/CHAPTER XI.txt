@@ -1,0 +1,182 @@
+LINE 1: Mr. Elton must now be left to himself. It was no longer in Emma's power
+LINE 2: to superintend his happiness or quicken his measures. The coming of her
+LINE 3: sister's family was so very near at hand, that first in anticipation,
+LINE 4: and then in reality, it became henceforth her prime object of interest;
+LINE 5: and during the ten days of their stay at Hartfield it was not to be
+LINE 6: expected—she did not herself expect—that any thing beyond occasional,
+LINE 7: fortuitous assistance could be afforded by her to the lovers. They
+LINE 8: might advance rapidly if they would, however; they must advance somehow
+LINE 9: or other whether they would or no. She hardly wished to have more
+LINE 10: leisure for them. There are people, who the more you do for them, the
+LINE 11: less they will do for themselves.
+LINE 12: Mr. and Mrs. John Knightley, from having been longer than usual absent
+LINE 13: from Surry, were exciting of course rather more than the usual
+LINE 14: interest. Till this year, every long vacation since their marriage had
+LINE 15: been divided between Hartfield and Donwell Abbey; but all the holidays
+LINE 16: of this autumn had been given to sea-bathing for the children, and it
+LINE 17: was therefore many months since they had been seen in a regular way by
+LINE 18: their Surry connexions, or seen at all by Mr. Woodhouse, who could not
+LINE 19: be induced to get so far as London, even for poor Isabella's sake; and
+LINE 20: who consequently was now most nervously and apprehensively happy in
+LINE 21: forestalling this too short visit.
+LINE 22: He thought much of the evils of the journey for her, and not a little
+LINE 23: of the fatigues of his own horses and coachman who were to bring some
+LINE 24: of the party the last half of the way; but his alarms were needless;
+LINE 25: the sixteen miles being happily accomplished, and Mr. and Mrs. John
+LINE 26: Knightley, their five children, and a competent number of
+LINE 27: nursery-maids, all reaching Hartfield in safety. The bustle and joy of
+LINE 28: such an arrival, the many to be talked to, welcomed, encouraged, and
+LINE 29: variously dispersed and disposed of, produced a noise and confusion
+LINE 30: which his nerves could not have borne under any other cause, nor have
+LINE 31: endured much longer even for this; but the ways of Hartfield and the
+LINE 32: feelings of her father were so respected by Mrs. John Knightley, that
+LINE 33: in spite of maternal solicitude for the immediate enjoyment of her
+LINE 34: little ones, and for their having instantly all the liberty and
+LINE 35: attendance, all the eating and drinking, and sleeping and playing,
+LINE 36: which they could possibly wish for, without the smallest delay, the
+LINE 37: children were never allowed to be long a disturbance to him, either in
+LINE 38: themselves or in any restless attendance on them.
+LINE 39: Mrs. John Knightley was a pretty, elegant little woman, of gentle,
+LINE 40: quiet manners, and a disposition remarkably amiable and affectionate;
+LINE 41: wrapt up in her family; a devoted wife, a doating mother, and so
+LINE 42: tenderly attached to her father and sister that, but for these higher
+LINE 43: ties, a warmer love might have seemed impossible. She could never see a
+LINE 44: fault in any of them. She was not a woman of strong understanding or
+LINE 45: any quickness; and with this resemblance of her father, she inherited
+LINE 46: also much of his constitution; was delicate in her own health,
+LINE 47: over-careful of that of her children, had many fears and many nerves,
+LINE 48: and was as fond of her own Mr. Wingfield in town as her father could be
+LINE 49: of Mr. Perry. They were alike too, in a general benevolence of temper,
+LINE 50: and a strong habit of regard for every old acquaintance.
+LINE 51: Mr. John Knightley was a tall, gentleman-like, and very clever man;
+LINE 52: rising in his profession, domestic, and respectable in his private
+LINE 53: character; but with reserved manners which prevented his being
+LINE 54: generally pleasing; and capable of being sometimes out of humour. He
+LINE 55: was not an ill-tempered man, not so often unreasonably cross as to
+LINE 56: deserve such a reproach; but his temper was not his great perfection;
+LINE 57: and, indeed, with such a worshipping wife, it was hardly possible that
+LINE 58: any natural defects in it should not be increased. The extreme
+LINE 59: sweetness of her temper must hurt his. He had all the clearness and
+LINE 60: quickness of mind which she wanted, and he could sometimes act an
+LINE 61: ungracious, or say a severe thing.
+LINE 62: He was not a great favourite with his fair sister-in-law. Nothing wrong
+LINE 63: in him escaped her. She was quick in feeling the little injuries to
+LINE 64: Isabella, which Isabella never felt herself. Perhaps she might have
+LINE 65: passed over more had his manners been flattering to Isabella's sister,
+LINE 66: but they were only those of a calmly kind brother and friend, without
+LINE 67: praise and without blindness; but hardly any degree of personal
+LINE 68: compliment could have made her regardless of that greatest fault of all
+LINE 69: in her eyes which he sometimes fell into, the want of respectful
+LINE 70: forbearance towards her father. There he had not always the patience
+LINE 71: that could have been wished. Mr. Woodhouse's peculiarities and
+LINE 72: fidgetiness were sometimes provoking him to a rational remonstrance or
+LINE 73: sharp retort equally ill-bestowed. It did not often happen; for Mr.
+LINE 74: John Knightley had really a great regard for his father-in-law, and
+LINE 75: generally a strong sense of what was due to him; but it was too often
+LINE 76: for Emma's charity, especially as there was all the pain of
+LINE 77: apprehension frequently to be endured, though the offence came not. The
+LINE 78: beginning, however, of every visit displayed none but the properest
+LINE 79: feelings, and this being of necessity so short might be hoped to pass
+LINE 80: away in unsullied cordiality. They had not been long seated and
+LINE 81: composed when Mr. Woodhouse, with a melancholy shake of the head and a
+LINE 82: sigh, called his daughter's attention to the sad change at Hartfield
+LINE 83: since she had been there last.
+LINE 84: "Ah, my dear," said he, "poor Miss Taylor—It is a grievous business."
+LINE 85: "Oh yes, sir," cried she with ready sympathy, "how you must miss her!
+LINE 86: And dear Emma, too!—What a dreadful loss to you both!—I have been so
+LINE 87: grieved for you.—I could not imagine how you could possibly do without
+LINE 88: her.—It is a sad change indeed.—But I hope she is pretty well, sir."
+LINE 89: "Pretty well, my dear—I hope—pretty well.—I do not know but that the
+LINE 90: place agrees with her tolerably."
+LINE 91: Mr. John Knightley here asked Emma quietly whether there were any
+LINE 92: doubts of the air of Randalls.
+LINE 93: "Oh! no—none in the least. I never saw Mrs. Weston better in my
+LINE 94: life—never looking so well. Papa is only speaking his own regret."
+LINE 95: "Very much to the honour of both," was the handsome reply.
+LINE 96: "And do you see her, sir, tolerably often?" asked Isabella in the
+LINE 97: plaintive tone which just suited her father.
+LINE 98: Mr. Woodhouse hesitated.—"Not near so often, my dear, as I could wish."
+LINE 99: "Oh! papa, we have missed seeing them but one entire day since they
+LINE 100: married. Either in the morning or evening of every day, excepting one,
+LINE 101: have we seen either Mr. Weston or Mrs. Weston, and generally both,
+LINE 102: either at Randalls or here—and as you may suppose, Isabella, most
+LINE 103: frequently here. They are very, very kind in their visits. Mr. Weston
+LINE 104: is really as kind as herself. Papa, if you speak in that melancholy
+LINE 105: way, you will be giving Isabella a false idea of us all. Every body
+LINE 106: must be aware that Miss Taylor must be missed, but every body ought
+LINE 107: also to be assured that Mr. and Mrs. Weston do really prevent our
+LINE 108: missing her by any means to the extent we ourselves anticipated—which
+LINE 109: is the exact truth."
+LINE 110: "Just as it should be," said Mr. John Knightley, "and just as I hoped
+LINE 111: it was from your letters. Her wish of shewing you attention could not
+LINE 112: be doubted, and his being a disengaged and social man makes it all
+LINE 113: easy. I have been always telling you, my love, that I had no idea of
+LINE 114: the change being so very material to Hartfield as you apprehended; and
+LINE 115: now you have Emma's account, I hope you will be satisfied."
+LINE 116: "Why, to be sure," said Mr. Woodhouse—"yes, certainly—I cannot deny
+LINE 117: that Mrs. Weston, poor Mrs. Weston, does come and see us pretty
+LINE 118: often—but then—she is always obliged to go away again."
+LINE 119: "It would be very hard upon Mr. Weston if she did not, papa.—You quite
+LINE 120: forget poor Mr. Weston."
+LINE 121: "I think, indeed," said John Knightley pleasantly, "that Mr. Weston has
+LINE 122: some little claim. You and I, Emma, will venture to take the part of
+LINE 123: the poor husband. I, being a husband, and you not being a wife, the
+LINE 124: claims of the man may very likely strike us with equal force. As for
+LINE 125: Isabella, she has been married long enough to see the convenience of
+LINE 126: putting all the Mr. Westons aside as much as she can."
+LINE 127: "Me, my love," cried his wife, hearing and understanding only in part.—
+LINE 128: "Are you talking about me?—I am sure nobody ought to be, or can be, a
+LINE 129: greater advocate for matrimony than I am; and if it had not been for
+LINE 130: the misery of her leaving Hartfield, I should never have thought of
+LINE 131: Miss Taylor but as the most fortunate woman in the world; and as to
+LINE 132: slighting Mr. Weston, that excellent Mr. Weston, I think there is
+LINE 133: nothing he does not deserve. I believe he is one of the very
+LINE 134: best-tempered men that ever existed. Excepting yourself and your
+LINE 135: brother, I do not know his equal for temper. I shall never forget his
+LINE 136: flying Henry's kite for him that very windy day last Easter—and ever
+LINE 137: since his particular kindness last September twelvemonth in writing
+LINE 138: that note, at twelve o'clock at night, on purpose to assure me that
+LINE 139: there was no scarlet fever at Cobham, I have been convinced there could
+LINE 140: not be a more feeling heart nor a better man in existence.—If any body
+LINE 141: can deserve him, it must be Miss Taylor."
+LINE 142: "Where is the young man?" said John Knightley. "Has he been here on
+LINE 143: this occasion—or has he not?"
+LINE 144: "He has not been here yet," replied Emma. "There was a strong
+LINE 145: expectation of his coming soon after the marriage, but it ended in
+LINE 146: nothing; and I have not heard him mentioned lately."
+LINE 147: "But you should tell them of the letter, my dear," said her father. "He
+LINE 148: wrote a letter to poor Mrs. Weston, to congratulate her, and a very
+LINE 149: proper, handsome letter it was. She shewed it to me. I thought it very
+LINE 150: well done of him indeed. Whether it was his own idea you know, one
+LINE 151: cannot tell. He is but young, and his uncle, perhaps—"
+LINE 152: "My dear papa, he is three-and-twenty. You forget how time passes."
+LINE 153: "Three-and-twenty!—is he indeed?—Well, I could not have thought it—and
+LINE 154: he was but two years old when he lost his poor mother! Well, time does
+LINE 155: fly indeed!—and my memory is very bad. However, it was an exceeding
+LINE 156: good, pretty letter, and gave Mr. and Mrs. Weston a great deal of
+LINE 157: pleasure. I remember it was written from Weymouth, and dated Sept.
+LINE 158: 28th—and began, 'My dear Madam,' but I forget how it went on; and it
+LINE 159: was signed 'F. C. Weston Churchill.'—I remember that perfectly."
+LINE 160: "How very pleasing and proper of him!" cried the good-hearted Mrs. John
+LINE 161: Knightley. "I have no doubt of his being a most amiable young man. But
+LINE 162: how sad it is that he should not live at home with his father! There is
+LINE 163: something so shocking in a child's being taken away from his parents
+LINE 164: and natural home! I never could comprehend how Mr. Weston could part
+LINE 165: with him. To give up one's child! I really never could think well of
+LINE 166: any body who proposed such a thing to any body else."
+LINE 167: "Nobody ever did think well of the Churchills, I fancy," observed Mr.
+LINE 168: John Knightley coolly. "But you need not imagine Mr. Weston to have
+LINE 169: felt what you would feel in giving up Henry or John. Mr. Weston is
+LINE 170: rather an easy, cheerful-tempered man, than a man of strong feelings;
+LINE 171: he takes things as he finds them, and makes enjoyment of them somehow
+LINE 172: or other, depending, I suspect, much more upon what is called society
+LINE 173: for his comforts, that is, upon the power of eating and drinking, and
+LINE 174: playing whist with his neighbours five times a week, than upon family
+LINE 175: affection, or any thing that home affords."
+LINE 176: Emma could not like what bordered on a reflection on Mr. Weston, and
+LINE 177: had half a mind to take it up; but she struggled, and let it pass. She
+LINE 178: would keep the peace if possible; and there was something honourable
+LINE 179: and valuable in the strong domestic habits, the all-sufficiency of home
+LINE 180: to himself, whence resulted her brother's disposition to look down on
+LINE 181: the common rate of social intercourse, and those to whom it was
+LINE 182: important.—It had a high claim to forbearance.

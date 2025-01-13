@@ -1,0 +1,555 @@
+LINE 1: There was music from my neighbour's house through the summer nights.
+LINE 2: In his blue gardens men and girls came and went like moths among the
+LINE 3: whisperings and the champagne and the stars. At high tide in the
+LINE 4: afternoon I watched his guests diving from the tower of his raft, or
+LINE 5: taking the sun on the hot sand of his beach while his two motorboats
+LINE 6: slit the waters of the Sound, drawing aquaplanes over cataracts of
+LINE 7: foam. On weekends his Rolls-Royce became an omnibus, bearing parties
+LINE 8: to and from the city between nine in the morning and long past
+LINE 9: midnight, while his station wagon scampered like a brisk yellow bug to
+LINE 10: meet all trains. And on Mondays eight servants, including an extra
+LINE 11: gardener, toiled all day with mops and scrubbing-brushes and hammers
+LINE 12: and garden-shears, repairing the ravages of the night before.
+LINE 13: Every Friday five crates of oranges and lemons arrived from a
+LINE 14: fruiterer in New York—every Monday these same oranges and lemons left
+LINE 15: his back door in a pyramid of pulpless halves. There was a machine in
+LINE 16: the kitchen which could extract the juice of two hundred oranges in
+LINE 17: half an hour if a little button was pressed two hundred times by a
+LINE 18: butler's thumb.
+LINE 19: At least once a fortnight a corps of caterers came down with several
+LINE 20: hundred feet of canvas and enough coloured lights to make a Christmas
+LINE 21: tree of Gatsby's enormous garden. On buffet tables, garnished with
+LINE 22: glistening hors-d'oeuvre, spiced baked hams crowded against salads of
+LINE 23: harlequin designs and pastry pigs and turkeys bewitched to a dark
+LINE 24: gold. In the main hall a bar with a real brass rail was set up, and
+LINE 25: stocked with gins and liquors and with cordials so long forgotten that
+LINE 26: most of his female guests were too young to know one from another.
+LINE 27: By seven o'clock the orchestra has arrived, no thin five-piece affair,
+LINE 28: but a whole pitful of oboes and trombones and saxophones and viols and
+LINE 29: cornets and piccolos, and low and high drums. The last swimmers have
+LINE 30: come in from the beach now and are dressing upstairs; the cars from
+LINE 31: New York are parked five deep in the drive, and already the halls and
+LINE 32: salons and verandas are gaudy with primary colours, and hair bobbed in
+LINE 33: strange new ways, and shawls beyond the dreams of Castile. The bar is
+LINE 34: in full swing, and floating rounds of cocktails permeate the garden
+LINE 35: outside, until the air is alive with chatter and laughter, and casual
+LINE 36: innuendo and introductions forgotten on the spot, and enthusiastic
+LINE 37: meetings between women who never knew each other's names.
+LINE 38: The lights grow brighter as the earth lurches away from the sun, and
+LINE 39: now the orchestra is playing yellow cocktail music, and the opera of
+LINE 40: voices pitches a key higher. Laughter is easier minute by minute,
+LINE 41: spilled with prodigality, tipped out at a cheerful word. The groups
+LINE 42: change more swiftly, swell with new arrivals, dissolve and form in the
+LINE 43: same breath; already there are wanderers, confident girls who weave
+LINE 44: here and there among the stouter and more stable, become for a sharp,
+LINE 45: joyous moment the centre of a group, and then, excited with triumph,
+LINE 46: glide on through the sea-change of faces and voices and colour under
+LINE 47: the constantly changing light.
+LINE 48: Suddenly one of these gypsies, in trembling opal, seizes a cocktail
+LINE 49: out of the air, dumps it down for courage and, moving her hands like
+LINE 50: Frisco, dances out alone on the canvas platform. A momentary hush; the
+LINE 51: orchestra leader varies his rhythm obligingly for her, and there is a
+LINE 52: burst of chatter as the erroneous news goes around that she is Gilda
+LINE 53: Gray's understudy from the Follies. The party has begun.
+LINE 54: I believe that on the first night I went to Gatsby's house I was one
+LINE 55: of the few guests who had actually been invited. People were not
+LINE 56: invited—they went there. They got into automobiles which bore them out
+LINE 57: to Long Island, and somehow they ended up at Gatsby's door. Once there
+LINE 58: they were introduced by somebody who knew Gatsby, and after that they
+LINE 59: conducted themselves according to the rules of behaviour associated
+LINE 60: with an amusement park. Sometimes they came and went without having
+LINE 61: met Gatsby at all, came for the party with a simplicity of heart that
+LINE 62: was its own ticket of admission.
+LINE 63: I had been actually invited. A chauffeur in a uniform of robin's-egg
+LINE 64: blue crossed my lawn early that Saturday morning with a surprisingly
+LINE 65: formal note from his employer: the honour would be entirely Gatsby's,
+LINE 66: it said, if I would attend his "little party" that night. He had seen
+LINE 67: me several times, and had intended to call on me long before, but a
+LINE 68: peculiar combination of circumstances had prevented it—signed Jay
+LINE 69: Gatsby, in a majestic hand.
+LINE 70: Dressed up in white flannels I went over to his lawn a little after
+LINE 71: seven, and wandered around rather ill at ease among swirls and eddies
+LINE 72: of people I didn't know—though here and there was a face I had noticed
+LINE 73: on the commuting train. I was immediately struck by the number of
+LINE 74: young Englishmen dotted about; all well dressed, all looking a little
+LINE 75: hungry, and all talking in low, earnest voices to solid and prosperous
+LINE 76: Americans. I was sure that they were selling something: bonds or
+LINE 77: insurance or automobiles. They were at least agonizingly aware of the
+LINE 78: easy money in the vicinity and convinced that it was theirs for a few
+LINE 79: words in the right key.
+LINE 80: As soon as I arrived I made an attempt to find my host, but the two or
+LINE 81: three people of whom I asked his whereabouts stared at me in such an
+LINE 82: amazed way, and denied so vehemently any knowledge of his movements,
+LINE 83: that I slunk off in the direction of the cocktail table—the only place
+LINE 84: in the garden where a single man could linger without looking
+LINE 85: purposeless and alone.
+LINE 86: I was on my way to get roaring drunk from sheer embarrassment when
+LINE 87: Jordan Baker came out of the house and stood at the head of the marble
+LINE 88: steps, leaning a little backward and looking with contemptuous
+LINE 89: interest down into the garden.
+LINE 90: Welcome or not, I found it necessary to attach myself to someone
+LINE 91: before I should begin to address cordial remarks to the passersby.
+LINE 92: "Hello!" I roared, advancing toward her. My voice seemed unnaturally
+LINE 93: loud across the garden.
+LINE 94: "I thought you might be here," she responded absently as I came up.
+LINE 95: "I remembered you lived next door to—"
+LINE 96: She held my hand impersonally, as a promise that she'd take care of me
+LINE 97: in a minute, and gave ear to two girls in twin yellow dresses, who
+LINE 98: stopped at the foot of the steps.
+LINE 99: "Hello!" they cried together. "Sorry you didn't win."
+LINE 100: That was for the golf tournament. She had lost in the finals the week
+LINE 101: before.
+LINE 102: "You don't know who we are," said one of the girls in yellow, "but we
+LINE 103: met you here about a month ago."
+LINE 104: "You've dyed your hair since then," remarked Jordan, and I started,
+LINE 105: but the girls had moved casually on and her remark was addressed to
+LINE 106: the premature moon, produced like the supper, no doubt, out of a
+LINE 107: caterer's basket. With Jordan's slender golden arm resting in mine, we
+LINE 108: descended the steps and sauntered about the garden. A tray of
+LINE 109: cocktails floated at us through the twilight, and we sat down at a
+LINE 110: table with the two girls in yellow and three men, each one introduced
+LINE 111: to us as Mr. Mumble.
+LINE 112: "Do you come to these parties often?" inquired Jordan of the girl
+LINE 113: beside her.
+LINE 114: "The last one was the one I met you at," answered the girl, in an
+LINE 115: alert confident voice. She turned to her companion: "Wasn't it for
+LINE 116: you, Lucille?"
+LINE 117: It was for Lucille, too.
+LINE 118: "I like to come," Lucille said. "I never care what I do, so I always
+LINE 119: have a good time. When I was here last I tore my gown on a chair, and
+LINE 120: he asked me my name and address—inside of a week I got a package from
+LINE 121: Croirier's with a new evening gown in it."
+LINE 122: "Did you keep it?" asked Jordan.
+LINE 123: "Sure I did. I was going to wear it tonight, but it was too big in the
+LINE 124: bust and had to be altered. It was gas blue with lavender beads. Two
+LINE 125: hundred and sixty-five dollars."
+LINE 126: "There's something funny about a fellow that'll do a thing like that,"
+LINE 127: said the other girl eagerly. "He doesn't want any trouble with
+LINE 128: anybody."
+LINE 129: "Who doesn't?" I inquired.
+LINE 130: "Gatsby. Somebody told me—"
+LINE 131: The two girls and Jordan leaned together confidentially.
+LINE 132: "Somebody told me they thought he killed a man once."
+LINE 133: A thrill passed over all of us. The three Mr. Mumbles bent forward and
+LINE 134: listened eagerly.
+LINE 135: "I don't think it's so much that," argued Lucille sceptically; "It's
+LINE 136: more that he was a German spy during the war."
+LINE 137: One of the men nodded in confirmation.
+LINE 138: "I heard that from a man who knew all about him, grew up with him in
+LINE 139: Germany," he assured us positively.
+LINE 140: "Oh, no," said the first girl, "it couldn't be that, because he was in
+LINE 141: the American army during the war." As our credulity switched back to
+LINE 142: her she leaned forward with enthusiasm. "You look at him sometimes
+LINE 143: when he thinks nobody's looking at him. I'll bet he killed a man."
+LINE 144: She narrowed her eyes and shivered. Lucille shivered. We all turned
+LINE 145: and looked around for Gatsby. It was testimony to the romantic
+LINE 146: speculation he inspired that there were whispers about him from those
+LINE 147: who had found little that it was necessary to whisper about in this
+LINE 148: world.
+LINE 149: The first supper—there would be another one after midnight—was now
+LINE 150: being served, and Jordan invited me to join her own party, who were
+LINE 151: spread around a table on the other side of the garden. There were
+LINE 152: three married couples and Jordan's escort, a persistent undergraduate
+LINE 153: given to violent innuendo, and obviously under the impression that
+LINE 154: sooner or later Jordan was going to yield him up her person to a
+LINE 155: greater or lesser degree. Instead of rambling, this party had
+LINE 156: preserved a dignified homogeneity, and assumed to itself the function
+LINE 157: of representing the staid nobility of the countryside—East Egg
+LINE 158: condescending to West Egg and carefully on guard against its
+LINE 159: spectroscopic gaiety.
+LINE 160: "Let's get out," whispered Jordan, after a somehow wasteful and
+LINE 161: inappropriate half-hour; "this is much too polite for me."
+LINE 162: We got up, and she explained that we were going to find the host: I
+LINE 163: had never met him, she said, and it was making me uneasy. The
+LINE 164: undergraduate nodded in a cynical, melancholy way.
+LINE 165: The bar, where we glanced first, was crowded, but Gatsby was not
+LINE 166: there. She couldn't find him from the top of the steps, and he wasn't
+LINE 167: on the veranda. On a chance we tried an important-looking door, and
+LINE 168: walked into a high Gothic library, panelled with carved English oak,
+LINE 169: and probably transported complete from some ruin overseas.
+LINE 170: A stout, middle-aged man, with enormous owl-eyed spectacles, was
+LINE 171: sitting somewhat drunk on the edge of a great table, staring with
+LINE 172: unsteady concentration at the shelves of books. As we entered he
+LINE 173: wheeled excitedly around and examined Jordan from head to foot.
+LINE 174: "What do you think?" he demanded impetuously.
+LINE 175: "About what?"
+LINE 176: He waved his hand toward the bookshelves.
+LINE 177: "About that. As a matter of fact you needn't bother to ascertain. I
+LINE 178: ascertained. They're real."
+LINE 179: "The books?"
+LINE 180: He nodded.
+LINE 181: "Absolutely real—have pages and everything. I thought they'd be a nice
+LINE 182: durable cardboard. Matter of fact, they're absolutely real. Pages
+LINE 183: and—Here! Lemme show you."
+LINE 184: Taking our scepticism for granted, he rushed to the bookcases and
+LINE 185: returned with Volume One of the Stoddard Lectures.
+LINE 186: "See!" he cried triumphantly. "It's a bona-fide piece of printed
+LINE 187: matter. It fooled me. This fella's a regular Belasco. It's a
+LINE 188: triumph. What thoroughness! What realism! Knew when to stop,
+LINE 189: too—didn't cut the pages. But what do you want? What do you expect?"
+LINE 190: He snatched the book from me and replaced it hastily on its shelf,
+LINE 191: muttering that if one brick was removed the whole library was liable
+LINE 192: to collapse.
+LINE 193: "Who brought you?" he demanded. "Or did you just come? I was brought.
+LINE 194: Most people were brought."
+LINE 195: Jordan looked at him alertly, cheerfully, without answering.
+LINE 196: "I was brought by a woman named Roosevelt," he continued. "Mrs. Claud
+LINE 197: Roosevelt. Do you know her? I met her somewhere last night. I've been
+LINE 198: drunk for about a week now, and I thought it might sober me up to sit
+LINE 199: in a library."
+LINE 200: "Has it?"
+LINE 201: "A little bit, I think. I can't tell yet. I've only been here an hour.
+LINE 202: Did I tell you about the books? They're real. They're—"
+LINE 203: "You told us."
+LINE 204: We shook hands with him gravely and went back outdoors.
+LINE 205: There was dancing now on the canvas in the garden; old men pushing
+LINE 206: young girls backward in eternal graceless circles, superior couples
+LINE 207: holding each other tortuously, fashionably, and keeping in the
+LINE 208: corners—and a great number of single girls dancing individually or
+LINE 209: relieving the orchestra for a moment of the burden of the banjo or the
+LINE 210: traps. By midnight the hilarity had increased. A celebrated tenor had
+LINE 211: sung in Italian, and a notorious contralto had sung in jazz, and
+LINE 212: between the numbers people were doing "stunts" all over the garden,
+LINE 213: while happy, vacuous bursts of laughter rose toward the summer sky. A
+LINE 214: pair of stage twins, who turned out to be the girls in yellow, did a
+LINE 215: baby act in costume, and champagne was served in glasses bigger than
+LINE 216: finger-bowls. The moon had risen higher, and floating in the Sound was
+LINE 217: a triangle of silver scales, trembling a little to the stiff, tinny
+LINE 218: drip of the banjoes on the lawn.
+LINE 219: I was still with Jordan Baker. We were sitting at a table with a man
+LINE 220: of about my age and a rowdy little girl, who gave way upon the
+LINE 221: slightest provocation to uncontrollable laughter. I was enjoying
+LINE 222: myself now. I had taken two finger-bowls of champagne, and the scene
+LINE 223: had changed before my eyes into something significant, elemental, and
+LINE 224: profound.
+LINE 225: At a lull in the entertainment the man looked at me and smiled.
+LINE 226: "Your face is familiar," he said politely. "Weren't you in the First
+LINE 227: Division during the war?"
+LINE 228: "Why yes. I was in the Twenty-eighth Infantry."
+LINE 229: "I was in the Sixteenth until June nineteen-eighteen. I knew I'd seen
+LINE 230: you somewhere before."
+LINE 231: We talked for a moment about some wet, grey little villages in France.
+LINE 232: Evidently he lived in this vicinity, for he told me that he had just
+LINE 233: bought a hydroplane, and was going to try it out in the morning.
+LINE 234: "Want to go with me, old sport? Just near the shore along the Sound."
+LINE 235: "What time?"
+LINE 236: "Any time that suits you best."
+LINE 237: It was on the tip of my tongue to ask his name when Jordan looked
+LINE 238: around and smiled.
+LINE 239: "Having a gay time now?" she inquired.
+LINE 240: "Much better." I turned again to my new acquaintance. "This is an
+LINE 241: unusual party for me. I haven't even seen the host. I live over
+LINE 242: there—" I waved my hand at the invisible hedge in the distance, "and
+LINE 243: this man Gatsby sent over his chauffeur with an invitation."
+LINE 244: For a moment he looked at me as if he failed to understand.
+LINE 245: "I'm Gatsby," he said suddenly.
+LINE 246: "What!" I exclaimed. "Oh, I beg your pardon."
+LINE 247: "I thought you knew, old sport. I'm afraid I'm not a very good host."
+LINE 248: He smiled understandingly—much more than understandingly. It was one
+LINE 249: of those rare smiles with a quality of eternal reassurance in it, that
+LINE 250: you may come across four or five times in life. It faced—or seemed to
+LINE 251: face—the whole eternal world for an instant, and then concentrated on
+LINE 252: you with an irresistible prejudice in your favour. It understood you
+LINE 253: just so far as you wanted to be understood, believed in you as you
+LINE 254: would like to believe in yourself, and assured you that it had
+LINE 255: precisely the impression of you that, at your best, you hoped to
+LINE 256: convey. Precisely at that point it vanished—and I was looking at an
+LINE 257: elegant young roughneck, a year or two over thirty, whose elaborate
+LINE 258: formality of speech just missed being absurd. Some time before he
+LINE 259: introduced himself I'd got a strong impression that he was picking his
+LINE 260: words with care.
+LINE 261: Almost at the moment when Mr. Gatsby identified himself a butler
+LINE 262: hurried toward him with the information that Chicago was calling him
+LINE 263: on the wire. He excused himself with a small bow that included each of
+LINE 264: us in turn.
+LINE 265: "If you want anything just ask for it, old sport," he urged me.
+LINE 266: "Excuse me. I will rejoin you later."
+LINE 267: When he was gone I turned immediately to Jordan—constrained to assure
+LINE 268: her of my surprise. I had expected that Mr. Gatsby would be a florid
+LINE 269: and corpulent person in his middle years.
+LINE 270: "Who is he?" I demanded. "Do you know?"
+LINE 271: "He's just a man named Gatsby."
+LINE 272: "Where is he from, I mean? And what does he do?"
+LINE 273: "Now you're started on the subject," she answered with a wan smile.
+LINE 274: "Well, he told me once he was an Oxford man."
+LINE 275: A dim background started to take shape behind him, but at her next
+LINE 276: remark it faded away.
+LINE 277: "However, I don't believe it."
+LINE 278: "Why not?"
+LINE 279: "I don't know," she insisted, "I just don't think he went there."
+LINE 280: Something in her tone reminded me of the other girl's "I think he
+LINE 281: killed a man," and had the effect of stimulating my curiosity. I would
+LINE 282: have accepted without question the information that Gatsby sprang from
+LINE 283: the swamps of Louisiana or from the lower East Side of New York. That
+LINE 284: was comprehensible. But young men didn't—at least in my provincial
+LINE 285: inexperience I believed they didn't—drift coolly out of nowhere and
+LINE 286: buy a palace on Long Island Sound.
+LINE 287: "Anyhow, he gives large parties," said Jordan, changing the subject
+LINE 288: with an urban distaste for the concrete. "And I like large parties.
+LINE 289: They're so intimate. At small parties there isn't any privacy."
+LINE 290: There was the boom of a bass drum, and the voice of the orchestra
+LINE 291: leader rang out suddenly above the echolalia of the garden.
+LINE 292: "Ladies and gentlemen," he cried. "At the request of Mr. Gatsby we are
+LINE 293: going to play for you Mr. Vladmir Tostoff's latest work, which
+LINE 294: attracted so much attention at Carnegie Hall last May. If you read the
+LINE 295: papers you know there was a big sensation." He smiled with jovial
+LINE 296: condescension, and added: "Some sensation!" Whereupon everybody
+LINE 297: laughed.
+LINE 298: "The piece is known," he concluded lustily, "as 'Vladmir Tostoff's
+LINE 299: Jazz History of the World!' "
+LINE 300: The nature of Mr. Tostoff's composition eluded me, because just as it
+LINE 301: began my eyes fell on Gatsby, standing alone on the marble steps and
+LINE 302: looking from one group to another with approving eyes. His tanned skin
+LINE 303: was drawn attractively tight on his face and his short hair looked as
+LINE 304: though it were trimmed every day. I could see nothing sinister about
+LINE 305: him. I wondered if the fact that he was not drinking helped to set him
+LINE 306: off from his guests, for it seemed to me that he grew more correct as
+LINE 307: the fraternal hilarity increased. When the "Jazz History of the World"
+LINE 308: was over, girls were putting their heads on men's shoulders in a
+LINE 309: puppyish, convivial way, girls were swooning backward playfully into
+LINE 310: men's arms, even into groups, knowing that someone would arrest their
+LINE 311: falls—but no one swooned backward on Gatsby, and no French bob touched
+LINE 312: Gatsby's shoulder, and no singing quartets were formed with Gatsby's
+LINE 313: head for one link.
+LINE 314: "I beg your pardon."
+LINE 315: Gatsby's butler was suddenly standing beside us.
+LINE 316: "Miss Baker?" he inquired. "I beg your pardon, but Mr. Gatsby would
+LINE 317: like to speak to you alone."
+LINE 318: "With me?" she exclaimed in surprise.
+LINE 319: "Yes, madame."
+LINE 320: She got up slowly, raising her eyebrows at me in astonishment, and
+LINE 321: followed the butler toward the house. I noticed that she wore her
+LINE 322: evening-dress, all her dresses, like sports clothes—there was a
+LINE 323: jauntiness about her movements as if she had first learned to walk
+LINE 324: upon golf courses on clean, crisp mornings.
+LINE 325: I was alone and it was almost two. For some time confused and
+LINE 326: intriguing sounds had issued from a long, many-windowed room which
+LINE 327: overhung the terrace. Eluding Jordan's undergraduate, who was now
+LINE 328: engaged in an obstetrical conversation with two chorus girls, and who
+LINE 329: implored me to join him, I went inside.
+LINE 330: The large room was full of people. One of the girls in yellow was
+LINE 331: playing the piano, and beside her stood a tall, red-haired young lady
+LINE 332: from a famous chorus, engaged in song. She had drunk a quantity of
+LINE 333: champagne, and during the course of her song she had decided, ineptly,
+LINE 334: that everything was very, very sad—she was not only singing, she was
+LINE 335: weeping too. Whenever there was a pause in the song she filled it with
+LINE 336: gasping, broken sobs, and then took up the lyric again in a quavering
+LINE 337: soprano. The tears coursed down her cheeks—not freely, however, for
+LINE 338: when they came into contact with her heavily beaded eyelashes they
+LINE 339: assumed an inky colour, and pursued the rest of their way in slow
+LINE 340: black rivulets. A humorous suggestion was made that she sing the notes
+LINE 341: on her face, whereupon she threw up her hands, sank into a chair, and
+LINE 342: went off into a deep vinous sleep.
+LINE 343: "She had a fight with a man who says he's her husband," explained a
+LINE 344: girl at my elbow.
+LINE 345: I looked around. Most of the remaining women were now having fights
+LINE 346: with men said to be their husbands. Even Jordan's party, the quartet
+LINE 347: from East Egg, were rent asunder by dissension. One of the men was
+LINE 348: talking with curious intensity to a young actress, and his wife, after
+LINE 349: attempting to laugh at the situation in a dignified and indifferent
+LINE 350: way, broke down entirely and resorted to flank attacks—at intervals
+LINE 351: she appeared suddenly at his side like an angry diamond, and hissed:
+LINE 352: "You promised!" into his ear.
+LINE 353: The reluctance to go home was not confined to wayward men. The hall
+LINE 354: was at present occupied by two deplorably sober men and their highly
+LINE 355: indignant wives. The wives were sympathizing with each other in
+LINE 356: slightly raised voices.
+LINE 357: "Whenever he sees I'm having a good time he wants to go home."
+LINE 358: "Never heard anything so selfish in my life."
+LINE 359: "We're always the first ones to leave."
+LINE 360: "So are we."
+LINE 361: "Well, we're almost the last tonight," said one of the men sheepishly.
+LINE 362: "The orchestra left half an hour ago."
+LINE 363: In spite of the wives' agreement that such malevolence was beyond
+LINE 364: credibility, the dispute ended in a short struggle, and both wives
+LINE 365: were lifted, kicking, into the night.
+LINE 366: As I waited for my hat in the hall the door of the library opened and
+LINE 367: Jordan Baker and Gatsby came out together. He was saying some last
+LINE 368: word to her, but the eagerness in his manner tightened abruptly into
+LINE 369: formality as several people approached him to say goodbye.
+LINE 370: Jordan's party were calling impatiently to her from the porch, but she
+LINE 371: lingered for a moment to shake hands.
+LINE 372: "I've just heard the most amazing thing," she whispered. "How long
+LINE 373: were we in there?"
+LINE 374: "Why, about an hour."
+LINE 375: "It was … simply amazing," she repeated abstractedly. "But I swore I
+LINE 376: wouldn't tell it and here I am tantalizing you." She yawned gracefully
+LINE 377: in my face. "Please come and see me … Phone book … Under the name of
+LINE 378: Mrs. Sigourney Howard … My aunt …" She was hurrying off as she
+LINE 379: talked—her brown hand waved a jaunty salute as she melted into her
+LINE 380: party at the door.
+LINE 381: Rather ashamed that on my first appearance I had stayed so late, I
+LINE 382: joined the last of Gatsby's guests, who were clustered around him. I
+LINE 383: wanted to explain that I'd hunted for him early in the evening and to
+LINE 384: apologize for not having known him in the garden.
+LINE 385: "Don't mention it," he enjoined me eagerly. "Don't give it another
+LINE 386: thought, old sport." The familiar expression held no more familiarity
+LINE 387: than the hand which reassuringly brushed my shoulder. "And don't
+LINE 388: forget we're going up in the hydroplane tomorrow morning, at nine
+LINE 389: o'clock."
+LINE 390: Then the butler, behind his shoulder:
+LINE 391: "Philadelphia wants you on the phone, sir."
+LINE 392: "All right, in a minute. Tell them I'll be right there … Good night."
+LINE 393: "Good night."
+LINE 394: "Good night." He smiled—and suddenly there seemed to be a pleasant
+LINE 395: significance in having been among the last to go, as if he had desired
+LINE 396: it all the time. "Good night, old sport … Good night."
+LINE 397: But as I walked down the steps I saw that the evening was not quite
+LINE 398: over. Fifty feet from the door a dozen headlights illuminated a
+LINE 399: bizarre and tumultuous scene. In the ditch beside the road, right side
+LINE 400: up, but violently shorn of one wheel, rested a new coupé which had
+LINE 401: left Gatsby's drive not two minutes before. The sharp jut of a wall
+LINE 402: accounted for the detachment of the wheel, which was now getting
+LINE 403: considerable attention from half a dozen curious chauffeurs. However,
+LINE 404: as they had left their cars blocking the road, a harsh, discordant din
+LINE 405: from those in the rear had been audible for some time, and added to
+LINE 406: the already violent confusion of the scene.
+LINE 407: A man in a long duster had dismounted from the wreck and now stood in
+LINE 408: the middle of the road, looking from the car to the tyre and from the
+LINE 409: tyre to the observers in a pleasant, puzzled way.
+LINE 410: "See!" he explained. "It went in the ditch."
+LINE 411: The fact was infinitely astonishing to him, and I recognized first the
+LINE 412: unusual quality of wonder, and then the man—it was the late patron of
+LINE 413: Gatsby's library.
+LINE 414: "How'd it happen?"
+LINE 415: He shrugged his shoulders.
+LINE 416: "I know nothing whatever about mechanics," he said decisively.
+LINE 417: "But how did it happen? Did you run into the wall?"
+LINE 418: "Don't ask me," said Owl Eyes, washing his hands of the whole
+LINE 419: matter. "I know very little about driving—next to nothing. It
+LINE 420: happened, and that's all I know."
+LINE 421: "Well, if you're a poor driver you oughtn't to try driving at night."
+LINE 422: "But I wasn't even trying," he explained indignantly, "I wasn't even
+LINE 423: trying."
+LINE 424: An awed hush fell upon the bystanders.
+LINE 425: "Do you want to commit suicide?"
+LINE 426: "You're lucky it was just a wheel! A bad driver and not even trying!"
+LINE 427: "You don't understand," explained the criminal. "I wasn't driving.
+LINE 428: There's another man in the car."
+LINE 429: The shock that followed this declaration found voice in a sustained
+LINE 430: "Ah-h-h!" as the door of the coupé swung slowly open. The crowd—it was
+LINE 431: now a crowd—stepped back involuntarily, and when the door had opened
+LINE 432: wide there was a ghostly pause. Then, very gradually, part by part, a
+LINE 433: pale, dangling individual stepped out of the wreck, pawing tentatively
+LINE 434: at the ground with a large uncertain dancing shoe.
+LINE 435: Blinded by the glare of the headlights and confused by the incessant
+LINE 436: groaning of the horns, the apparition stood swaying for a moment
+LINE 437: before he perceived the man in the duster.
+LINE 438: "Wha's matter?" he inquired calmly. "Did we run outa gas?"
+LINE 439: "Look!"
+LINE 440: Half a dozen fingers pointed at the amputated wheel—he stared at it
+LINE 441: for a moment, and then looked upward as though he suspected that it
+LINE 442: had dropped from the sky.
+LINE 443: "It came off," someone explained.
+LINE 444: He nodded.
+LINE 445: "At first I din' notice we'd stopped."
+LINE 446: A pause. Then, taking a long breath and straightening his shoulders,
+LINE 447: he remarked in a determined voice:
+LINE 448: "Wonder'ff tell me where there's a gas'line station?"
+LINE 449: At least a dozen men, some of them a little better off than he was,
+LINE 450: explained to him that wheel and car were no longer joined by any
+LINE 451: physical bond.
+LINE 452: "Back out," he suggested after a moment. "Put her in reverse."
+LINE 453: "But the wheel's off!"
+LINE 454: He hesitated.
+LINE 455: "No harm in trying," he said.
+LINE 456: The caterwauling horns had reached a crescendo and I turned away and
+LINE 457: cut across the lawn toward home. I glanced back once. A wafer of a
+LINE 458: moon was shining over Gatsby's house, making the night fine as before,
+LINE 459: and surviving the laughter and the sound of his still glowing garden.
+LINE 460: A sudden emptiness seemed to flow now from the windows and the great
+LINE 461: doors, endowing with complete isolation the figure of the host, who
+LINE 462: stood on the porch, his hand up in a formal gesture of farewell.
+LINE 463: ------------------------------------------------------------------------
+LINE 464: Reading over what I have written so far, I see I have given the
+LINE 465: impression that the events of three nights several weeks apart were
+LINE 466: all that absorbed me. On the contrary, they were merely casual events
+LINE 467: in a crowded summer, and, until much later, they absorbed me
+LINE 468: infinitely less than my personal affairs.
+LINE 469: Most of the time I worked. In the early morning the sun threw my
+LINE 470: shadow westward as I hurried down the white chasms of lower New York
+LINE 471: to the Probity Trust. I knew the other clerks and young bond-salesmen
+LINE 472: by their first names, and lunched with them in dark, crowded
+LINE 473: restaurants on little pig sausages and mashed potatoes and coffee. I
+LINE 474: even had a short affair with a girl who lived in Jersey City and
+LINE 475: worked in the accounting department, but her brother began throwing
+LINE 476: mean looks in my direction, so when she went on her vacation in July I
+LINE 477: let it blow quietly away.
+LINE 478: I took dinner usually at the Yale Club—for some reason it was the
+LINE 479: gloomiest event of my day—and then I went upstairs to the library and
+LINE 480: studied investments and securities for a conscientious hour. There
+LINE 481: were generally a few rioters around, but they never came into the
+LINE 482: library, so it was a good place to work. After that, if the night was
+LINE 483: mellow, I strolled down Madison Avenue past the old Murray Hill Hotel,
+LINE 484: and over 33rd Street to the Pennsylvania Station.
+LINE 485: I began to like New York, the racy, adventurous feel of it at night,
+LINE 486: and the satisfaction that the constant flicker of men and women and
+LINE 487: machines gives to the restless eye. I liked to walk up Fifth Avenue
+LINE 488: and pick out romantic women from the crowd and imagine that in a few
+LINE 489: minutes I was going to enter into their lives, and no one would ever
+LINE 490: know or disapprove. Sometimes, in my mind, I followed them to their
+LINE 491: apartments on the corners of hidden streets, and they turned and
+LINE 492: smiled back at me before they faded through a door into warm
+LINE 493: darkness. At the enchanted metropolitan twilight I felt a haunting
+LINE 494: loneliness sometimes, and felt it in others—poor young clerks who
+LINE 495: loitered in front of windows waiting until it was time for a solitary
+LINE 496: restaurant dinner—young clerks in the dusk, wasting the most poignant
+LINE 497: moments of night and life.
+LINE 498: Again at eight o'clock, when the dark lanes of the Forties were lined
+LINE 499: five deep with throbbing taxicabs, bound for the theatre district, I
+LINE 500: felt a sinking in my heart. Forms leaned together in the taxis as they
+LINE 501: waited, and voices sang, and there was laughter from unheard jokes,
+LINE 502: and lighted cigarettes made unintelligible circles inside. Imagining
+LINE 503: that I, too, was hurrying towards gaiety and sharing their intimate
+LINE 504: excitement, I wished them well.
+LINE 505: For a while I lost sight of Jordan Baker, and then in midsummer I
+LINE 506: found her again. At first I was flattered to go places with her,
+LINE 507: because she was a golf champion, and everyone knew her name. Then it
+LINE 508: was something more. I wasn't actually in love, but I felt a sort of
+LINE 509: tender curiosity. The bored haughty face that she turned to the world
+LINE 510: concealed something—most affectations conceal something eventually,
+LINE 511: even though they don't in the beginning—and one day I found what it
+LINE 512: was. When we were on a house-party together up in Warwick, she left a
+LINE 513: borrowed car out in the rain with the top down, and then lied about
+LINE 514: it—and suddenly I remembered the story about her that had eluded me
+LINE 515: that night at Daisy's. At her first big golf tournament there was a
+LINE 516: row that nearly reached the newspapers—a suggestion that she had moved
+LINE 517: her ball from a bad lie in the semifinal round. The thing approached
+LINE 518: the proportions of a scandal—then died away. A caddy retracted his
+LINE 519: statement, and the only other witness admitted that he might have been
+LINE 520: mistaken. The incident and the name had remained together in my mind.
+LINE 521: Jordan Baker instinctively avoided clever, shrewd men, and now I saw
+LINE 522: that this was because she felt safer on a plane where any divergence
+LINE 523: from a code would be thought impossible. She was incurably dishonest.
+LINE 524: She wasn't able to endure being at a disadvantage and, given this
+LINE 525: unwillingness, I suppose she had begun dealing in subterfuges when she
+LINE 526: was very young in order to keep that cool, insolent smile turned to
+LINE 527: the world and yet satisfy the demands of her hard, jaunty body.
+LINE 528: It made no difference to me. Dishonesty in a woman is a thing you
+LINE 529: never blame deeply—I was casually sorry, and then I forgot. It was on
+LINE 530: that same house-party that we had a curious conversation about driving
+LINE 531: a car. It started because she passed so close to some workmen that our
+LINE 532: fender flicked a button on one man's coat.
+LINE 533: "You're a rotten driver," I protested. "Either you ought to be more
+LINE 534: careful, or you oughtn't to drive at all."
+LINE 535: "I am careful."
+LINE 536: "No, you're not."
+LINE 537: "Well, other people are," she said lightly.
+LINE 538: "What's that got to do with it?"
+LINE 539: "They'll keep out of my way," she insisted. "It takes two to make an
+LINE 540: accident."
+LINE 541: "Suppose you met somebody just as careless as yourself."
+LINE 542: "I hope I never will," she answered. "I hate careless people. That's
+LINE 543: why I like you."
+LINE 544: Her grey, sun-strained eyes stared straight ahead, but she had
+LINE 545: deliberately shifted our relations, and for a moment I thought I loved
+LINE 546: her. But I am slow-thinking and full of interior rules that act as
+LINE 547: brakes on my desires, and I knew that first I had to get myself
+LINE 548: definitely out of that tangle back home. I'd been writing letters once
+LINE 549: a week and signing them: "Love, Nick," and all I could think of was
+LINE 550: how, when that certain girl played tennis, a faint moustache of
+LINE 551: perspiration appeared on her upper lip. Nevertheless there was a vague
+LINE 552: understanding that had to be tactfully broken off before I was free.
+LINE 553: Everyone suspects himself of at least one of the cardinal virtues, and
+LINE 554: this is mine: I am one of the few honest people that I have ever
+LINE 555: known.

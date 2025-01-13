@@ -1,0 +1,345 @@
+LINE 1: MARILLA laid her knitting on her lap and leaned back in her chair. Her
+LINE 2: eyes were tired, and she thought vaguely that she must see about having
+LINE 3: her glasses changed the next time she went to town, for her eyes had
+LINE 4: grown tired very often of late.
+LINE 5: It was nearly dark, for the full November twilight had fallen around
+LINE 6: Green Gables, and the only light in the kitchen came from the dancing
+LINE 7: red flames in the stove.
+LINE 8: Anne was curled up Turk-fashion on the hearthrug, gazing into that
+LINE 9: joyous glow where the sunshine of a hundred summers was being distilled
+LINE 10: from the maple cordwood. She had been reading, but her book had slipped
+LINE 11: to the floor, and now she was dreaming, with a smile on her parted lips.
+LINE 12: Glittering castles in Spain were shaping themselves out of the mists and
+LINE 13: rainbows of her lively fancy; adventures wonderful and enthralling
+LINE 14: were happening to her in cloudland--adventures that always turned out
+LINE 15: triumphantly and never involved her in scrapes like those of actual
+LINE 16: life.
+LINE 17: Marilla looked at her with a tenderness that would never have been
+LINE 18: suffered to reveal itself in any clearer light than that soft mingling
+LINE 19: of fireshine and shadow. The lesson of a love that should display itself
+LINE 20: easily in spoken word and open look was one Marilla could never learn.
+LINE 21: But she had learned to love this slim, gray-eyed girl with an affection
+LINE 22: all the deeper and stronger from its very undemonstrativeness. Her love
+LINE 23: made her afraid of being unduly indulgent, indeed. She had an uneasy
+LINE 24: feeling that it was rather sinful to set one's heart so intensely on any
+LINE 25: human creature as she had set hers on Anne, and perhaps she performed a
+LINE 26: sort of unconscious penance for this by being stricter and more critical
+LINE 27: than if the girl had been less dear to her. Certainly Anne herself had
+LINE 28: no idea how Marilla loved her. She sometimes thought wistfully that
+LINE 29: Marilla was very hard to please and distinctly lacking in sympathy
+LINE 30: and understanding. But she always checked the thought reproachfully,
+LINE 31: remembering what she owed to Marilla.
+LINE 32: "Anne," said Marilla abruptly, "Miss Stacy was here this afternoon when
+LINE 33: you were out with Diana."
+LINE 34: Anne came back from her other world with a start and a sigh.
+LINE 35: "Was she? Oh, I'm so sorry I wasn't in. Why didn't you call me, Marilla?
+LINE 36: Diana and I were only over in the Haunted Wood. It's lovely in the woods
+LINE 37: now. All the little wood things--the ferns and the satin leaves and the
+LINE 38: crackerberries--have gone to sleep, just as if somebody had tucked them
+LINE 39: away until spring under a blanket of leaves. I think it was a little
+LINE 40: gray fairy with a rainbow scarf that came tiptoeing along the last
+LINE 41: moonlight night and did it. Diana wouldn't say much about that, though.
+LINE 42: Diana has never forgotten the scolding her mother gave her about
+LINE 43: imagining ghosts into the Haunted Wood. It had a very bad effect on
+LINE 44: Diana's imagination. It blighted it. Mrs. Lynde says Myrtle Bell is a
+LINE 45: blighted being. I asked Ruby Gillis why Myrtle was blighted, and Ruby
+LINE 46: said she guessed it was because her young man had gone back on her. Ruby
+LINE 47: Gillis thinks of nothing but young men, and the older she gets the worse
+LINE 48: she is. Young men are all very well in their place, but it doesn't do to
+LINE 49: drag them into everything, does it? Diana and I are thinking seriously
+LINE 50: of promising each other that we will never marry but be nice old maids
+LINE 51: and live together forever. Diana hasn't quite made up her mind though,
+LINE 52: because she thinks perhaps it would be nobler to marry some wild,
+LINE 53: dashing, wicked young man and reform him. Diana and I talk a great deal
+LINE 54: about serious subjects now, you know. We feel that we are so much older
+LINE 55: than we used to be that it isn't becoming to talk of childish matters.
+LINE 56: It's such a solemn thing to be almost fourteen, Marilla. Miss Stacy took
+LINE 57: all us girls who are in our teens down to the brook last Wednesday, and
+LINE 58: talked to us about it. She said we couldn't be too careful what habits
+LINE 59: we formed and what ideals we acquired in our teens, because by the time
+LINE 60: we were twenty our characters would be developed and the foundation laid
+LINE 61: for our whole future life. And she said if the foundation was shaky we
+LINE 62: could never build anything really worth while on it. Diana and I talked
+LINE 63: the matter over coming home from school. We felt extremely solemn,
+LINE 64: Marilla. And we decided that we would try to be very careful indeed and
+LINE 65: form respectable habits and learn all we could and be as sensible as
+LINE 66: possible, so that by the time we were twenty our characters would be
+LINE 67: properly developed. It's perfectly appalling to think of being twenty,
+LINE 68: Marilla. It sounds so fearfully old and grown up. But why was Miss Stacy
+LINE 69: here this afternoon?"
+LINE 70: "That is what I want to tell you, Anne, if you'll ever give me a chance
+LINE 71: to get a word in edgewise. She was talking about you."
+LINE 72: "About me?" Anne looked rather scared. Then she flushed and exclaimed:
+LINE 73: "Oh, I know what she was saying. I meant to tell you, Marilla, honestly
+LINE 74: I did, but I forgot. Miss Stacy caught me reading Ben Hur in school
+LINE 75: yesterday afternoon when I should have been studying my Canadian
+LINE 76: history. Jane Andrews lent it to me. I was reading it at dinner hour,
+LINE 77: and I had just got to the chariot race when school went in. I was simply
+LINE 78: wild to know how it turned out--although I felt sure Ben Hur must win,
+LINE 79: because it wouldn't be poetical justice if he didn't--so I spread the
+LINE 80: history open on my desk lid and then tucked Ben Hur between the desk and
+LINE 81: my knee. I just looked as if I were studying Canadian history, you know,
+LINE 82: while all the while I was reveling in Ben Hur. I was so interested in it
+LINE 83: that I never noticed Miss Stacy coming down the aisle until all at
+LINE 84: once I just looked up and there she was looking down at me, so
+LINE 85: reproachful-like. I can't tell you how ashamed I felt, Marilla,
+LINE 86: especially when I heard Josie Pye giggling. Miss Stacy took Ben Hur
+LINE 87: away, but she never said a word then. She kept me in at recess and
+LINE 88: talked to me. She said I had done very wrong in two respects. First, I
+LINE 89: was wasting the time I ought to have put on my studies; and secondly,
+LINE 90: I was deceiving my teacher in trying to make it appear I was reading a
+LINE 91: history when it was a storybook instead. I had never realized until that
+LINE 92: moment, Marilla, that what I was doing was deceitful. I was shocked. I
+LINE 93: cried bitterly, and asked Miss Stacy to forgive me and I'd never do such
+LINE 94: a thing again; and I offered to do penance by never so much as looking
+LINE 95: at Ben Hur for a whole week, not even to see how the chariot race turned
+LINE 96: out. But Miss Stacy said she wouldn't require that, and she forgave me
+LINE 97: freely. So I think it wasn't very kind of her to come up here to you
+LINE 98: about it after all."
+LINE 99: "Miss Stacy never mentioned such a thing to me, Anne, and its only your
+LINE 100: guilty conscience that's the matter with you. You have no business to be
+LINE 101: taking storybooks to school. You read too many novels anyhow. When I was
+LINE 102: a girl I wasn't so much as allowed to look at a novel."
+LINE 103: "Oh, how can you call Ben Hur a novel when it's really such a religious
+LINE 104: book?" protested Anne. "Of course it's a little too exciting to be
+LINE 105: proper reading for Sunday, and I only read it on weekdays. And I never
+LINE 106: read _any_ book now unless either Miss Stacy or Mrs. Allan thinks it is a
+LINE 107: proper book for a girl thirteen and three-quarters to read. Miss Stacy
+LINE 108: made me promise that. She found me reading a book one day called, The
+LINE 109: Lurid Mystery of the Haunted Hall. It was one Ruby Gillis had lent me,
+LINE 110: and, oh, Marilla, it was so fascinating and creepy. It just curdled the
+LINE 111: blood in my veins. But Miss Stacy said it was a very silly, unwholesome
+LINE 112: book, and she asked me not to read any more of it or any like it. I
+LINE 113: didn't mind promising not to read any more like it, but it was _agonizing_
+LINE 114: to give back that book without knowing how it turned out. But my love
+LINE 115: for Miss Stacy stood the test and I did. It's really wonderful, Marilla,
+LINE 116: what you can do when you're truly anxious to please a certain person."
+LINE 117: "Well, I guess I'll light the lamp and get to work," said Marilla. "I
+LINE 118: see plainly that you don't want to hear what Miss Stacy had to say.
+LINE 119: You're more interested in the sound of your own tongue than in anything
+LINE 120: else."
+LINE 121: "Oh, indeed, Marilla, I do want to hear it," cried Anne contritely. "I
+LINE 122: won't say another word--not one. I know I talk too much, but I am really
+LINE 123: trying to overcome it, and although I say far too much, yet if you only
+LINE 124: knew how many things I want to say and don't, you'd give me some credit
+LINE 125: for it. Please tell me, Marilla."
+LINE 126: "Well, Miss Stacy wants to organize a class among her advanced students
+LINE 127: who mean to study for the entrance examination into Queen's. She intends
+LINE 128: to give them extra lessons for an hour after school. And she came to ask
+LINE 129: Matthew and me if we would like to have you join it. What do you think
+LINE 130: about it yourself, Anne? Would you like to go to Queen's and pass for a
+LINE 131: teacher?"
+LINE 132: "Oh, Marilla!" Anne straightened to her knees and clasped her hands.
+LINE 133: "It's been the dream of my life--that is, for the last six months, ever
+LINE 134: since Ruby and Jane began to talk of studying for the Entrance. But I
+LINE 135: didn't say anything about it, because I supposed it would be perfectly
+LINE 136: useless. I'd love to be a teacher. But won't it be dreadfully expensive?
+LINE 137: Mr. Andrews says it cost him one hundred and fifty dollars to put Prissy
+LINE 138: through, and Prissy wasn't a dunce in geometry."
+LINE 139: "I guess you needn't worry about that part of it. When Matthew and I
+LINE 140: took you to bring up we resolved we would do the best we could for you
+LINE 141: and give you a good education. I believe in a girl being fitted to earn
+LINE 142: her own living whether she ever has to or not. You'll always have a home
+LINE 143: at Green Gables as long as Matthew and I are here, but nobody knows what
+LINE 144: is going to happen in this uncertain world, and it's just as well to be
+LINE 145: prepared. So you can join the Queen's class if you like, Anne."
+LINE 146: "Oh, Marilla, thank you." Anne flung her arms about Marilla's waist and
+LINE 147: looked up earnestly into her face. "I'm extremely grateful to you and
+LINE 148: Matthew. And I'll study as hard as I can and do my very best to be a
+LINE 149: credit to you. I warn you not to expect much in geometry, but I think I
+LINE 150: can hold my own in anything else if I work hard."
+LINE 151: "I dare say you'll get along well enough. Miss Stacy says you are bright
+LINE 152: and diligent." Not for worlds would Marilla have told Anne just what
+LINE 153: Miss Stacy had said about her; that would have been to pamper vanity.
+LINE 154: "You needn't rush to any extreme of killing yourself over your books.
+LINE 155: There is no hurry. You won't be ready to try the Entrance for a year and
+LINE 156: a half yet. But it's well to begin in time and be thoroughly grounded,
+LINE 157: Miss Stacy says."
+LINE 158: "I shall take more interest than ever in my studies now," said Anne
+LINE 159: blissfully, "because I have a purpose in life. Mr. Allan says everybody
+LINE 160: should have a purpose in life and pursue it faithfully. Only he says
+LINE 161: we must first make sure that it is a worthy purpose. I would call it a
+LINE 162: worthy purpose to want to be a teacher like Miss Stacy, wouldn't you,
+LINE 163: Marilla? I think it's a very noble profession."
+LINE 164: The Queen's class was organized in due time. Gilbert Blythe, Anne
+LINE 165: Shirley, Ruby Gillis, Jane Andrews, Josie Pye, Charlie Sloane, and Moody
+LINE 166: Spurgeon MacPherson joined it. Diana Barry did not, as her parents
+LINE 167: did not intend to send her to Queen's. This seemed nothing short of a
+LINE 168: calamity to Anne. Never, since the night on which Minnie May had had the
+LINE 169: croup, had she and Diana been separated in anything. On the evening when
+LINE 170: the Queen's class first remained in school for the extra lessons and
+LINE 171: Anne saw Diana go slowly out with the others, to walk home alone through
+LINE 172: the Birch Path and Violet Vale, it was all the former could do to keep
+LINE 173: her seat and refrain from rushing impulsively after her chum. A lump
+LINE 174: came into her throat, and she hastily retired behind the pages of her
+LINE 175: uplifted Latin grammar to hide the tears in her eyes. Not for worlds
+LINE 176: would Anne have had Gilbert Blythe or Josie Pye see those tears.
+LINE 177: "But, oh, Marilla, I really felt that I had tasted the bitterness of
+LINE 178: death, as Mr. Allan said in his sermon last Sunday, when I saw Diana go
+LINE 179: out alone," she said mournfully that night. "I thought how splendid it
+LINE 180: would have been if Diana had only been going to study for the Entrance,
+LINE 181: too. But we can't have things perfect in this imperfect world, as Mrs.
+LINE 182: Lynde says. Mrs. Lynde isn't exactly a comforting person sometimes, but
+LINE 183: there's no doubt she says a great many very true things. And I think the
+LINE 184: Queen's class is going to be extremely interesting. Jane and Ruby
+LINE 185: are just going to study to be teachers. That is the height of their
+LINE 186: ambition. Ruby says she will only teach for two years after she gets
+LINE 187: through, and then she intends to be married. Jane says she will devote
+LINE 188: her whole life to teaching, and never, never marry, because you are paid
+LINE 189: a salary for teaching, but a husband won't pay you anything, and growls
+LINE 190: if you ask for a share in the egg and butter money. I expect Jane speaks
+LINE 191: from mournful experience, for Mrs. Lynde says that her father is a
+LINE 192: perfect old crank, and meaner than second skimmings. Josie Pye says she
+LINE 193: is just going to college for education's sake, because she won't have to
+LINE 194: earn her own living; she says of course it is different with orphans who
+LINE 195: are living on charity--_they_ have to hustle. Moody Spurgeon is going to
+LINE 196: be a minister. Mrs. Lynde says he couldn't be anything else with a name
+LINE 197: like that to live up to. I hope it isn't wicked of me, Marilla, but
+LINE 198: really the thought of Moody Spurgeon being a minister makes me laugh.
+LINE 199: He's such a funny-looking boy with that big fat face, and his little
+LINE 200: blue eyes, and his ears sticking out like flaps. But perhaps he will
+LINE 201: be more intellectual looking when he grows up. Charlie Sloane says he's
+LINE 202: going to go into politics and be a member of Parliament, but Mrs. Lynde
+LINE 203: says he'll never succeed at that, because the Sloanes are all honest
+LINE 204: people, and it's only rascals that get on in politics nowadays."
+LINE 205: "What is Gilbert Blythe going to be?" queried Marilla, seeing that Anne
+LINE 206: was opening her Cæsar.
+LINE 207: "I don't happen to know what Gilbert Blythe's ambition in life is--if he
+LINE 208: has any," said Anne scornfully.
+LINE 209: There was open rivalry between Gilbert and Anne now. Previously the
+LINE 210: rivalry had been rather one-sided, but there was no longer any doubt
+LINE 211: that Gilbert was as determined to be first in class as Anne was. He was
+LINE 212: a foeman worthy of her steel. The other members of the class tacitly
+LINE 213: acknowledged their superiority, and never dreamed of trying to compete
+LINE 214: with them.
+LINE 215: Since the day by the pond when she had refused to listen to his plea
+LINE 216: for forgiveness, Gilbert, save for the aforesaid determined rivalry,
+LINE 217: had evinced no recognition whatever of the existence of Anne Shirley. He
+LINE 218: talked and jested with the other girls, exchanged books and puzzles with
+LINE 219: them, discussed lessons and plans, sometimes walked home with one or the
+LINE 220: other of them from prayer meeting or Debating Club. But Anne Shirley
+LINE 221: he simply ignored, and Anne found out that it is not pleasant to be
+LINE 222: ignored. It was in vain that she told herself with a toss of her head
+LINE 223: that she did not care. Deep down in her wayward, feminine little heart
+LINE 224: she knew that she did care, and that if she had that chance of the Lake
+LINE 225: of Shining Waters again she would answer very differently. All at
+LINE 226: once, as it seemed, and to her secret dismay, she found that the old
+LINE 227: resentment she had cherished against him was gone--gone just when she
+LINE 228: most needed its sustaining power. It was in vain that she recalled every
+LINE 229: incident and emotion of that memorable occasion and tried to feel
+LINE 230: the old satisfying anger. That day by the pond had witnessed its last
+LINE 231: spasmodic flicker. Anne realized that she had forgiven and forgotten
+LINE 232: without knowing it. But it was too late.
+LINE 233: And at least neither Gilbert nor anybody else, not even Diana, should
+LINE 234: ever suspect how sorry she was and how much she wished she hadn't been
+LINE 235: so proud and horrid! She determined to "shroud her feelings in deepest
+LINE 236: oblivion," and it may be stated here and now that she did it, so
+LINE 237: successfully that Gilbert, who possibly was not quite so indifferent as
+LINE 238: he seemed, could not console himself with any belief that Anne felt his
+LINE 239: retaliatory scorn. The only poor comfort he had was that she snubbed
+LINE 240: Charlie Sloane, unmercifully, continually, and undeservedly.
+LINE 241: Otherwise the winter passed away in a round of pleasant duties and
+LINE 242: studies. For Anne the days slipped by like golden beads on the necklace
+LINE 243: of the year. She was happy, eager, interested; there were lessons to be
+LINE 244: learned and honor to be won; delightful books to read; new pieces to be
+LINE 245: practiced for the Sunday-school choir; pleasant Saturday afternoons at
+LINE 246: the manse with Mrs. Allan; and then, almost before Anne realized it,
+LINE 247: spring had come again to Green Gables and all the world was abloom once
+LINE 248: more.
+LINE 249: Studies palled just a wee bit then; the Queen's class, left behind in
+LINE 250: school while the others scattered to green lanes and leafy wood cuts and
+LINE 251: meadow byways, looked wistfully out of the windows and discovered that
+LINE 252: Latin verbs and French exercises had somehow lost the tang and zest they
+LINE 253: had possessed in the crisp winter months. Even Anne and Gilbert lagged
+LINE 254: and grew indifferent. Teacher and taught were alike glad when the term
+LINE 255: was ended and the glad vacation days stretched rosily before them.
+LINE 256: "But you've done good work this past year," Miss Stacy told them on the
+LINE 257: last evening, "and you deserve a good, jolly vacation. Have the best
+LINE 258: time you can in the out-of-door world and lay in a good stock of health
+LINE 259: and vitality and ambition to carry you through next year. It will be the
+LINE 260: tug of war, you know--the last year before the Entrance."
+LINE 261: "Are you going to be back next year, Miss Stacy?" asked Josie Pye.
+LINE 262: Josie Pye never scrupled to ask questions; in this instance the rest of
+LINE 263: the class felt grateful to her; none of them would have dared to ask
+LINE 264: it of Miss Stacy, but all wanted to, for there had been alarming rumors
+LINE 265: running at large through the school for some time that Miss Stacy was
+LINE 266: not coming back the next year--that she had been offered a position
+LINE 267: in the grade school of her own home district and meant to accept. The
+LINE 268: Queen's class listened in breathless suspense for her answer.
+LINE 269: "Yes, I think I will," said Miss Stacy. "I thought of taking another
+LINE 270: school, but I have decided to come back to Avonlea. To tell the truth,
+LINE 271: I've grown so interested in my pupils here that I found I couldn't leave
+LINE 272: them. So I'll stay and see you through."
+LINE 273: "Hurrah!" said Moody Spurgeon. Moody Spurgeon had never been so carried
+LINE 274: away by his feelings before, and he blushed uncomfortably every time he
+LINE 275: thought about it for a week.
+LINE 276: "Oh, I'm so glad," said Anne, with shining eyes. "Dear Stacy, it would
+LINE 277: be perfectly dreadful if you didn't come back. I don't believe I could
+LINE 278: have the heart to go on with my studies at all if another teacher came
+LINE 279: here."
+LINE 280: When Anne got home that night she stacked all her textbooks away in an
+LINE 281: old trunk in the attic, locked it, and threw the key into the blanket
+LINE 282: box.
+LINE 283: "I'm not even going to look at a schoolbook in vacation," she told
+LINE 284: Marilla. "I've studied as hard all the term as I possibly could and I've
+LINE 285: pored over that geometry until I know every proposition in the first
+LINE 286: book off by heart, even when the letters _are_ changed. I just feel tired
+LINE 287: of everything sensible and I'm going to let my imagination run riot for
+LINE 288: the summer. Oh, you needn't be alarmed, Marilla. I'll only let it run
+LINE 289: riot within reasonable limits. But I want to have a real good jolly time
+LINE 290: this summer, for maybe it's the last summer I'll be a little girl. Mrs.
+LINE 291: Lynde says that if I keep stretching out next year as I've done this
+LINE 292: I'll have to put on longer skirts. She says I'm all running to legs and
+LINE 293: eyes. And when I put on longer skirts I shall feel that I have to live
+LINE 294: up to them and be very dignified. It won't even do to believe in fairies
+LINE 295: then, I'm afraid; so I'm going to believe in them with all my whole
+LINE 296: heart this summer. I think we're going to have a very gay vacation. Ruby
+LINE 297: Gillis is going to have a birthday party soon and there's the Sunday
+LINE 298: school picnic and the missionary concert next month. And Mr. Barry says
+LINE 299: that some evening he'll take Diana and me over to the White Sands Hotel
+LINE 300: and have dinner there. They have dinner there in the evening, you know.
+LINE 301: Jane Andrews was over once last summer and she says it was a dazzling
+LINE 302: sight to see the electric lights and the flowers and all the lady guests
+LINE 303: in such beautiful dresses. Jane says it was her first glimpse into high
+LINE 304: life and she'll never forget it to her dying day."
+LINE 305: Mrs. Lynde came up the next afternoon to find out why Marilla had not
+LINE 306: been at the Aid meeting on Thursday. When Marilla was not at Aid meeting
+LINE 307: people knew there was something wrong at Green Gables.
+LINE 308: "Matthew had a bad spell with his heart Thursday," Marilla explained,
+LINE 309: "and I didn't feel like leaving him. Oh, yes, he's all right again now,
+LINE 310: but he takes them spells oftener than he used to and I'm anxious about
+LINE 311: him. The doctor says he must be careful to avoid excitement. That's easy
+LINE 312: enough, for Matthew doesn't go about looking for excitement by any means
+LINE 313: and never did, but he's not to do any very heavy work either and you
+LINE 314: might as well tell Matthew not to breathe as not to work. Come and lay
+LINE 315: off your things, Rachel. You'll stay to tea?"
+LINE 316: "Well, seeing you're so pressing, perhaps I might as well, stay" said
+LINE 317: Mrs. Rachel, who had not the slightest intention of doing anything else.
+LINE 318: Mrs. Rachel and Marilla sat comfortably in the parlor while Anne got the
+LINE 319: tea and made hot biscuits that were light and white enough to defy even
+LINE 320: Mrs. Rachel's criticism.
+LINE 321: "I must say Anne has turned out a real smart girl," admitted Mrs.
+LINE 322: Rachel, as Marilla accompanied her to the end of the lane at sunset.
+LINE 323: "She must be a great help to you."
+LINE 324: "She is," said Marilla, "and she's real steady and reliable now. I used
+LINE 325: to be afraid she'd never get over her featherbrained ways, but she has
+LINE 326: and I wouldn't be afraid to trust her in anything now."
+LINE 327: "I never would have thought she'd have turned out so well that first day
+LINE 328: I was here three years ago," said Mrs. Rachel. "Lawful heart, shall I
+LINE 329: ever forget that tantrum of hers! When I went home that night I says to
+LINE 330: Thomas, says I, 'Mark my words, Thomas, Marilla Cuthbert 'll live to
+LINE 331: rue the step she's took.' But I was mistaken and I'm real glad of it. I
+LINE 332: ain't one of those kind of people, Marilla, as can never be brought to
+LINE 333: own up that they've made a mistake. No, that never was my way, thank
+LINE 334: goodness. I did make a mistake in judging Anne, but it weren't no
+LINE 335: wonder, for an odder, unexpecteder witch of a child there never was in
+LINE 336: this world, that's what. There was no ciphering her out by the rules
+LINE 337: that worked with other children. It's nothing short of wonderful how
+LINE 338: she's improved these three years, but especially in looks. She's a real
+LINE 339: pretty girl got to be, though I can't say I'm overly partial to that
+LINE 340: pale, big-eyed style myself. I like more snap and color, like Diana
+LINE 341: Barry has or Ruby Gillis. Ruby Gillis's looks are real showy. But
+LINE 342: somehow--I don't know how it is but when Anne and them are together,
+LINE 343: though she ain't half as handsome, she makes them look kind of common
+LINE 344: and overdone--something like them white June lilies she calls narcissus
+LINE 345: alongside of the big, red peonies, that's what."

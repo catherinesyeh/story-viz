@@ -1,0 +1,151 @@
+LINE 1: Elizabeth passed the chief of the night in her sister's room, and in the
+LINE 2: morning had the pleasure of being able to send a tolerable answer to the
+LINE 3: enquiries which she very early received from Mr. Bingley by a housemaid,
+LINE 4: and some time afterwards from the two elegant ladies who waited on his
+LINE 5: sisters. In spite of this amendment, however, she requested to have a
+LINE 6: note sent to Longbourn, desiring her mother to visit Jane, and form her
+LINE 7: own judgment of her situation. The note was immediately dispatched, and
+LINE 8: its contents as quickly complied with. Mrs. Bennet, accompanied by her
+LINE 9: two youngest girls, reached Netherfield soon after the family breakfast.
+LINE 10: Had she found Jane in any apparent danger, Mrs. Bennet would have been
+LINE 11: very miserable; but being satisfied on seeing her that her illness was
+LINE 12: not alarming, she had no wish of her recovering immediately, as her
+LINE 13: restoration to health would probably remove her from Netherfield. She
+LINE 14: would not listen therefore to her daughter's proposal of being carried
+LINE 15: home; neither did the apothecary, who arrived about the same time, think
+LINE 16: it at all advisable. After sitting a little while with Jane, on Miss
+LINE 17: Bingley's appearance and invitation, the mother and three daughters all
+LINE 18: attended her into the breakfast parlour. Bingley met them with hopes
+LINE 19: that Mrs. Bennet had not found Miss Bennet worse than she expected.
+LINE 20: "Indeed I have, Sir," was her answer. "She is a great deal too ill to be
+LINE 21: moved. Mr. Jones says we must not think of moving her. We must trespass
+LINE 22: a little longer on your kindness."
+LINE 23: "Removed!" cried Bingley. "It must not be thought of. My sister, I am
+LINE 24: sure, will not hear of her removal."
+LINE 25: "You may depend upon it, Madam," said Miss Bingley, with cold civility,
+LINE 26: "that Miss Bennet shall receive every possible attention while she
+LINE 27: remains with us."
+LINE 28: Mrs. Bennet was profuse in her acknowledgments.
+LINE 29: "I am sure," she added, "if it was not for such good friends I do not
+LINE 30: know what would become of her, for she is very ill indeed, and suffers a
+LINE 31: vast deal, though with the greatest patience in the world, which is
+LINE 32: always the way with her, for she has, without exception, the sweetest
+LINE 33: temper I ever met with. I often tell my other girls they are nothing to
+LINE 34: _her_. You have a sweet room here, Mr. Bingley, and a charming prospect
+LINE 35: over that gravel walk. I do not know a place in the country that is
+LINE 36: equal to Netherfield. You will not think of quitting it in a hurry I
+LINE 37: hope, though you have but a short lease."
+LINE 38: "Whatever I do is done in a hurry," replied he; "and therefore if I
+LINE 39: should resolve to quit Netherfield, I should probably be off in five
+LINE 40: minutes. At present, however, I consider myself as quite fixed here."
+LINE 41: "That is exactly what I should have supposed of you," said Elizabeth.
+LINE 42: "You begin to comprehend me, do you?" cried he, turning towards her.
+LINE 43: "Oh! yes--I understand you perfectly."
+LINE 44: "I wish I might take this for a compliment; but to be so easily seen
+LINE 45: through I am afraid is pitiful."
+LINE 46: "That is as it happens. It does not necessarily follow that a deep,
+LINE 47: intricate character is more or less estimable than such a one as yours."
+LINE 48: "Lizzy," cried her mother, "remember where you are, and do not run on in
+LINE 49: the wild manner that you are suffered to do at home."
+LINE 50: "I did not know before," continued Bingley immediately, "that you were a
+LINE 51: studier of character. It must be an amusing study."
+LINE 52: "Yes; but intricate characters are the _most_ amusing. They have at
+LINE 53: least that advantage."
+LINE 54: "The country," said Darcy, "can in general supply but few subjects for
+LINE 55: such a study. In a country neighbourhood you move in a very confined
+LINE 56: and unvarying society."
+LINE 57: "But people themselves alter so much, that there is something new to be
+LINE 58: observed in them for ever."
+LINE 59: "Yes, indeed," cried Mrs. Bennet, offended by his manner of mentioning a
+LINE 60: country neighbourhood. "I assure you there is quite as much of _that_
+LINE 61: going on in the country as in town."
+LINE 62: Every body was surprised; and Darcy, after looking at her for a moment,
+LINE 63: turned silently away. Mrs. Bennet, who fancied she had gained a complete
+LINE 64: victory over him, continued her triumph.
+LINE 65: "I cannot see that London has any great advantage over the country for
+LINE 66: my part, except the shops and public places. The country is a vast deal
+LINE 67: pleasanter, is not it, Mr. Bingley?"
+LINE 68: "When I am in the country," he replied, "I never wish to leave it; and
+LINE 69: when I am in town it is pretty much the same. They have each their
+LINE 70: advantages, and I can be equally happy in either."
+LINE 71: "Aye--that is because you have the right disposition. But that
+LINE 72: gentleman," looking at Darcy, "seemed to think the country was nothing
+LINE 73: at all."
+LINE 74: "Indeed, Mama, you are mistaken," said Elizabeth, blushing for her
+LINE 75: mother. "You quite mistook Mr. Darcy. He only meant that there were not
+LINE 76: such a variety of people to be met with in the country as in town, which
+LINE 77: you must acknowledge to be true."
+LINE 78: "Certainly, my dear, nobody said there were; but as to not meeting with
+LINE 79: many people in this neighbourhood, I believe there are few
+LINE 80: neighbourhoods larger. I know we dine with four and twenty families."
+LINE 81: Nothing but concern for Elizabeth could enable Bingley to keep his
+LINE 82: countenance. His sister was less delicate, and directed her eye towards
+LINE 83: Mr. Darcy with a very expressive smile. Elizabeth, for the sake of
+LINE 84: saying something that might turn her mother's thoughts, now asked her if
+LINE 85: Charlotte Lucas had been at Longbourn since _her_ coming away.
+LINE 86: "Yes, she called yesterday with her father. What an agreeable man Sir
+LINE 87: William is, Mr. Bingley--is not he? so much the man of fashion! so
+LINE 88: genteel and so easy!--He has always something to say to every
+LINE 89: body.--_That_ is my idea of good breeding; and those persons who fancy
+LINE 90: themselves very important and never open their mouths, quite mistake the
+LINE 91: matter."
+LINE 92: "Did Charlotte dine with you?"
+LINE 93: "No, she would go home. I fancy she was wanted about the mince pies. For
+LINE 94: my part, Mr. Bingley, _I_ always keep servants that can do their own
+LINE 95: work; _my_ daughters are brought up differently. But every body is to
+LINE 96: judge for themselves, and the Lucases are very good sort of girls, I
+LINE 97: assure you. It is a pity they are not handsome! Not that _I_ think
+LINE 98: Charlotte so _very_ plain--but then she is our particular friend."
+LINE 99: "She seems a very pleasant young woman," said Bingley.
+LINE 100: "Oh! dear, yes;--but you must own she is very plain. Lady Lucas herself
+LINE 101: has often said so, and envied me Jane's beauty. I do not like to boast
+LINE 102: of my own child, but to be sure, Jane--one does not often see any body
+LINE 103: better looking. It is what every body says. I do not trust my own
+LINE 104: partiality. When she was only fifteen, there was a gentleman at my
+LINE 105: brother Gardiner's in town, so much in love with her, that my
+LINE 106: sister-in-law was sure he would make her an offer before we came away.
+LINE 107: But however he did not. Perhaps he thought her too young. However, he
+LINE 108: wrote some verses on her, and very pretty they were."
+LINE 109: "And so ended his affection," said Elizabeth impatiently. "There has
+LINE 110: been many a one, I fancy, overcome in the same way. I wonder who first
+LINE 111: discovered the efficacy of poetry in driving away love!"
+LINE 112: "I have been used to consider poetry as the _food_ of love," said Darcy.
+LINE 113: "Of a fine, stout, healthy love it may. Every thing nourishes what is
+LINE 114: strong already. But if it be only a slight, thin sort of inclination, I
+LINE 115: am convinced that one good sonnet will starve it entirely away."
+LINE 116: Darcy only smiled; and the general pause which ensued made Elizabeth
+LINE 117: tremble lest her mother should be exposing herself again. She longed to
+LINE 118: speak, but could think of nothing to say; and after a short silence Mrs.
+LINE 119: Bennet began repeating her thanks to Mr. Bingley for his kindness to
+LINE 120: Jane, with an apology for troubling him also with Lizzy. Mr. Bingley was
+LINE 121: unaffectedly civil in his answer, and forced his younger sister to be
+LINE 122: civil also, and say what the occasion required. She performed her part
+LINE 123: indeed without much graciousness, but Mrs. Bennet was satisfied, and
+LINE 124: soon afterwards ordered her carriage. Upon this signal, the youngest of
+LINE 125: her daughters put herself forward. The two girls had been whispering to
+LINE 126: each other during the whole visit, and the result of it was, that the
+LINE 127: youngest should tax Mr. Bingley with having promised on his first coming
+LINE 128: into the country to give a ball at Netherfield.
+LINE 129: Lydia was a stout, well-grown girl of fifteen, with a fine complexion
+LINE 130: and good-humoured countenance; a favourite with her mother, whose
+LINE 131: affection had brought her into public at an early age. She had high
+LINE 132: animal spirits, and a sort of natural self-consequence, which the
+LINE 133: attentions of the officers, to whom her uncle's good dinners and her own
+LINE 134: easy manners recommended her, had increased into assurance. She was very
+LINE 135: equal therefore to address Mr. Bingley on the subject of the ball, and
+LINE 136: abruptly reminded him of his promise; adding, that it would be the most
+LINE 137: shameful thing in the world if he did not keep it. His answer to this
+LINE 138: sudden attack was delightful to their mother's ear.
+LINE 139: "I am perfectly ready, I assure you, to keep my engagement; and when
+LINE 140: your sister is recovered, you shall if you please name the very day of
+LINE 141: the ball. But you would not wish to be dancing while she is ill."
+LINE 142: Lydia declared herself satisfied. "Oh! yes--it would be much better to
+LINE 143: wait till Jane was well, and by that time most likely Captain Carter
+LINE 144: would be at Meryton again. And when you have given _your_ ball," she
+LINE 145: added, "I shall insist on their giving one also. I shall tell Colonel
+LINE 146: Forster it will be quite a shame if he does not."
+LINE 147: Mrs. Bennet and her daughters then departed, and Elizabeth returned
+LINE 148: instantly to Jane, leaving her own and her relations' behaviour to the
+LINE 149: remarks of the two ladies and Mr. Darcy; the latter of whom, however,
+LINE 150: could not be prevailed on to join in their censure of _her_, in spite of
+LINE 151: all Miss Bingley's witticisms on _fine eyes_.

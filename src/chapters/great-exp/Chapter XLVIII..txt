@@ -1,0 +1,237 @@
+LINE 1: The second of the two meetings referred to in the last chapter occurred
+LINE 2: about a week after the first. I had again left my boat at the wharf
+LINE 3: below Bridge; the time was an hour earlier in the afternoon; and,
+LINE 4: undecided where to dine, I had strolled up into Cheapside, and was
+LINE 5: strolling along it, surely the most unsettled person in all the busy
+LINE 6: concourse, when a large hand was laid upon my shoulder by some one
+LINE 7: overtaking me. It was Mr. Jaggers's hand, and he passed it through my
+LINE 8: arm.
+LINE 9: "As we are going in the same direction, Pip, we may walk together.
+LINE 10: Where are you bound for?"
+LINE 11: "For the Temple, I think," said I.
+LINE 12: "Don't you know?" said Mr. Jaggers.
+LINE 13: "Well," I returned, glad for once to get the better of him in
+LINE 14: cross-examination, "I do _not_ know, for I have not made up my mind."
+LINE 15: "You are going to dine?" said Mr. Jaggers. "You don't mind admitting
+LINE 16: that, I suppose?"
+LINE 17: "No," I returned, "I don't mind admitting that."
+LINE 18: "And are not engaged?"
+LINE 19: "I don't mind admitting also that I am not engaged."
+LINE 20: "Then," said Mr. Jaggers, "come and dine with me."
+LINE 21: I was going to excuse myself, when he added, "Wemmick's coming." So I
+LINE 22: changed my excuse into an acceptance,—the few words I had uttered,
+LINE 23: serving for the beginning of either,—and we went along Cheapside and
+LINE 24: slanted off to Little Britain, while the lights were springing up
+LINE 25: brilliantly in the shop windows, and the street lamp-lighters, scarcely
+LINE 26: finding ground enough to plant their ladders on in the midst of the
+LINE 27: afternoon's bustle, were skipping up and down and running in and out,
+LINE 28: opening more red eyes in the gathering fog than my rushlight tower at
+LINE 29: the Hummums had opened white eyes in the ghostly wall.
+LINE 30: At the office in Little Britain there was the usual letter-writing,
+LINE 31: hand-washing, candle-snuffing, and safe-locking, that closed the
+LINE 32: business of the day. As I stood idle by Mr. Jaggers's fire, its rising
+LINE 33: and falling flame made the two casts on the shelf look as if they were
+LINE 34: playing a diabolical game at bo-peep with me; while the pair of coarse,
+LINE 35: fat office candles that dimly lighted Mr. Jaggers as he wrote in a
+LINE 36: corner were decorated with dirty winding-sheets, as if in remembrance
+LINE 37: of a host of hanged clients.
+LINE 38: We went to Gerrard Street, all three together, in a hackney-coach: And,
+LINE 39: as soon as we got there, dinner was served. Although I should not have
+LINE 40: thought of making, in that place, the most distant reference by so much
+LINE 41: as a look to Wemmick's Walworth sentiments, yet I should have had no
+LINE 42: objection to catching his eye now and then in a friendly way. But it
+LINE 43: was not to be done. He turned his eyes on Mr. Jaggers whenever he
+LINE 44: raised them from the table, and was as dry and distant to me as if
+LINE 45: there were twin Wemmicks, and this was the wrong one.
+LINE 46: "Did you send that note of Miss Havisham's to Mr. Pip, Wemmick?" Mr.
+LINE 47: Jaggers asked, soon after we began dinner.
+LINE 48: "No, sir," returned Wemmick; "it was going by post, when you brought
+LINE 49: Mr. Pip into the office. Here it is." He handed it to his principal
+LINE 50: instead of to me.
+LINE 51: "It's a note of two lines, Pip," said Mr. Jaggers, handing it on, "sent
+LINE 52: up to me by Miss Havisham on account of her not being sure of your
+LINE 53: address. She tells me that she wants to see you on a little matter of
+LINE 54: business you mentioned to her. You'll go down?"
+LINE 55: "Yes," said I, casting my eyes over the note, which was exactly in
+LINE 56: those terms.
+LINE 57: "When do you think of going down?"
+LINE 58: "I have an impending engagement," said I, glancing at Wemmick, who was
+LINE 59: putting fish into the post-office, "that renders me rather uncertain of
+LINE 60: my time. At once, I think."
+LINE 61: "If Mr. Pip has the intention of going at once," said Wemmick to Mr.
+LINE 62: Jaggers, "he needn't write an answer, you know."
+LINE 63: Receiving this as an intimation that it was best not to delay, I
+LINE 64: settled that I would go to-morrow, and said so. Wemmick drank a glass
+LINE 65: of wine, and looked with a grimly satisfied air at Mr. Jaggers, but not
+LINE 66: at me.
+LINE 67: "So, Pip! Our friend the Spider," said Mr. Jaggers, "has played his
+LINE 68: cards. He has won the pool."
+LINE 69: It was as much as I could do to assent.
+LINE 70: "Hah! He is a promising fellow—in his way—but he may not have it all
+LINE 71: his own way. The stronger will win in the end, but the stronger has to
+LINE 72: be found out first. If he should turn to, and beat her—"
+LINE 73: "Surely," I interrupted, with a burning face and heart, "you do not
+LINE 74: seriously think that he is scoundrel enough for that, Mr. Jaggers?"
+LINE 75: "I didn't say so, Pip. I am putting a case. If he should turn to and
+LINE 76: beat her, he may possibly get the strength on his side; if it should be
+LINE 77: a question of intellect, he certainly will not. It would be chance work
+LINE 78: to give an opinion how a fellow of that sort will turn out in such
+LINE 79: circumstances, because it's a toss-up between two results."
+LINE 80: "May I ask what they are?"
+LINE 81: "A fellow like our friend the Spider," answered Mr. Jaggers, "either
+LINE 82: beats or cringes. He may cringe and growl, or cringe and not growl; but
+LINE 83: he either beats or cringes. Ask Wemmick _his_ opinion."
+LINE 84: "Either beats or cringes," said Wemmick, not at all addressing himself
+LINE 85: to me.
+LINE 86: "So here's to Mrs. Bentley Drummle," said Mr. Jaggers, taking a
+LINE 87: decanter of choicer wine from his dumb-waiter, and filling for each of
+LINE 88: us and for himself, "and may the question of supremacy be settled to
+LINE 89: the lady's satisfaction! To the satisfaction of the lady _and_ the
+LINE 90: gentleman, it never will be. Now, Molly, Molly, Molly, Molly, how slow
+LINE 91: you are to-day!"
+LINE 92: She was at his elbow when he addressed her, putting a dish upon the
+LINE 93: table. As she withdrew her hands from it, she fell back a step or two,
+LINE 94: nervously muttering some excuse. And a certain action of her fingers,
+LINE 95: as she spoke, arrested my attention.
+LINE 96: "What's the matter?" said Mr. Jaggers.
+LINE 97: "Nothing. Only the subject we were speaking of," said I, "was rather
+LINE 98: painful to me."
+LINE 99: The action of her fingers was like the action of knitting. She stood
+LINE 100: looking at her master, not understanding whether she was free to go, or
+LINE 101: whether he had more to say to her and would call her back if she did
+LINE 102: go. Her look was very intent. Surely, I had seen exactly such eyes and
+LINE 103: such hands on a memorable occasion very lately!
+LINE 104: He dismissed her, and she glided out of the room. But she remained
+LINE 105: before me as plainly as if she were still there. I looked at those
+LINE 106: hands, I looked at those eyes, I looked at that flowing hair; and I
+LINE 107: compared them with other hands, other eyes, other hair, that I knew of,
+LINE 108: and with what those might be after twenty years of a brutal husband and
+LINE 109: a stormy life. I looked again at those hands and eyes of the
+LINE 110: housekeeper, and thought of the inexplicable feeling that had come over
+LINE 111: me when I last walked—not alone—in the ruined garden, and through the
+LINE 112: deserted brewery. I thought how the same feeling had come back when I
+LINE 113: saw a face looking at me, and a hand waving to me from a stage-coach
+LINE 114: window; and how it had come back again and had flashed about me like
+LINE 115: lightning, when I had passed in a carriage—not alone—through a sudden
+LINE 116: glare of light in a dark street. I thought how one link of association
+LINE 117: had helped that identification in the theatre, and how such a link,
+LINE 118: wanting before, had been riveted for me now, when I had passed by a
+LINE 119: chance swift from Estella's name to the fingers with their knitting
+LINE 120: action, and the attentive eyes. And I felt absolutely certain that this
+LINE 121: woman was Estella's mother.
+LINE 122: Mr. Jaggers had seen me with Estella, and was not likely to have missed
+LINE 123: the sentiments I had been at no pains to conceal. He nodded when I said
+LINE 124: the subject was painful to me, clapped me on the back, put round the
+LINE 125: wine again, and went on with his dinner.
+LINE 126: Only twice more did the housekeeper reappear, and then her stay in the
+LINE 127: room was very short, and Mr. Jaggers was sharp with her. But her hands
+LINE 128: were Estella's hands, and her eyes were Estella's eyes, and if she had
+LINE 129: reappeared a hundred times I could have been neither more sure nor less
+LINE 130: sure that my conviction was the truth.
+LINE 131: It was a dull evening, for Wemmick drew his wine, when it came round,
+LINE 132: quite as a matter of business,—just as he might have drawn his salary
+LINE 133: when that came round,—and with his eyes on his chief, sat in a state of
+LINE 134: perpetual readiness for cross-examination. As to the quantity of wine,
+LINE 135: his post-office was as indifferent and ready as any other post-office
+LINE 136: for its quantity of letters. From my point of view, he was the wrong
+LINE 137: twin all the time, and only externally like the Wemmick of Walworth.
+LINE 138: We took our leave early, and left together. Even when we were groping
+LINE 139: among Mr. Jaggers's stock of boots for our hats, I felt that the right
+LINE 140: twin was on his way back; and we had not gone half a dozen yards down
+LINE 141: Gerrard Street in the Walworth direction, before I found that I was
+LINE 142: walking arm in arm with the right twin, and that the wrong twin had
+LINE 143: evaporated into the evening air.
+LINE 144: "Well!" said Wemmick, "that's over! He's a wonderful man, without his
+LINE 145: living likeness; but I feel that I have to screw myself up when I dine
+LINE 146: with him,—and I dine more comfortably unscrewed."
+LINE 147: I felt that this was a good statement of the case, and told him so.
+LINE 148: "Wouldn't say it to anybody but yourself," he answered. "I know that
+LINE 149: what is said between you and me goes no further."
+LINE 150: I asked him if he had ever seen Miss Havisham's adopted daughter, Mrs.
+LINE 151: Bentley Drummle. He said no. To avoid being too abrupt, I then spoke of
+LINE 152: the Aged and of Miss Skiffins. He looked rather sly when I mentioned
+LINE 153: Miss Skiffins, and stopped in the street to blow his nose, with a roll
+LINE 154: of the head, and a flourish not quite free from latent boastfulness.
+LINE 155: "Wemmick," said I, "do you remember telling me, before I first went to
+LINE 156: Mr. Jaggers's private house, to notice that housekeeper?"
+LINE 157: "Did I?" he replied. "Ah, I dare say I did. Deuce take me," he added,
+LINE 158: suddenly, "I know I did. I find I am not quite unscrewed yet."
+LINE 159: "A wild beast tamed, you called her."
+LINE 160: "And what do _you_ call her?"
+LINE 161: "The same. How did Mr. Jaggers tame her, Wemmick?"
+LINE 162: "That's his secret. She has been with him many a long year."
+LINE 163: "I wish you would tell me her story. I feel a particular interest in
+LINE 164: being acquainted with it. You know that what is said between you and me
+LINE 165: goes no further."
+LINE 166: "Well!" Wemmick replied, "I don't know her story,—that is, I don't know
+LINE 167: all of it. But what I do know I'll tell you. We are in our private and
+LINE 168: personal capacities, of course."
+LINE 169: "Of course."
+LINE 170: "A score or so of years ago, that woman was tried at the Old Bailey for
+LINE 171: murder, and was acquitted. She was a very handsome young woman, and I
+LINE 172: believe had some gypsy blood in her. Anyhow, it was hot enough when it
+LINE 173: was up, as you may suppose."
+LINE 174: "But she was acquitted."
+LINE 175: "Mr. Jaggers was for her," pursued Wemmick, with a look full of
+LINE 176: meaning, "and worked the case in a way quite astonishing. It was a
+LINE 177: desperate case, and it was comparatively early days with him then, and
+LINE 178: he worked it to general admiration; in fact, it may almost be said to
+LINE 179: have made him. He worked it himself at the police-office, day after day
+LINE 180: for many days, contending against even a committal; and at the trial
+LINE 181: where he couldn't work it himself, sat under counsel, and—every one
+LINE 182: knew—put in all the salt and pepper. The murdered person was a woman,—a
+LINE 183: woman a good ten years older, very much larger, and very much stronger.
+LINE 184: It was a case of jealousy. They both led tramping lives, and this woman
+LINE 185: in Gerrard Street here had been married very young, over the broomstick
+LINE 186: (as we say), to a tramping man, and was a perfect fury in point of
+LINE 187: jealousy. The murdered woman,—more a match for the man, certainly, in
+LINE 188: point of years—was found dead in a barn near Hounslow Heath. There had
+LINE 189: been a violent struggle, perhaps a fight. She was bruised and scratched
+LINE 190: and torn, and had been held by the throat, at last, and choked. Now,
+LINE 191: there was no reasonable evidence to implicate any person but this
+LINE 192: woman, and on the improbabilities of her having been able to do it Mr.
+LINE 193: Jaggers principally rested his case. You may be sure," said Wemmick,
+LINE 194: touching me on the sleeve, "that he never dwelt upon the strength of
+LINE 195: her hands then, though he sometimes does now."
+LINE 196: I had told Wemmick of his showing us her wrists, that day of the dinner
+LINE 197: party.
+LINE 198: "Well, sir!" Wemmick went on; "it happened—happened, don't you
+LINE 199: see?—that this woman was so very artfully dressed from the time of her
+LINE 200: apprehension, that she looked much slighter than she really was; in
+LINE 201: particular, her sleeves are always remembered to have been so skilfully
+LINE 202: contrived that her arms had quite a delicate look. She had only a
+LINE 203: bruise or two about her,—nothing for a tramp,—but the backs of her
+LINE 204: hands were lacerated, and the question was, Was it with finger-nails?
+LINE 205: Now, Mr. Jaggers showed that she had struggled through a great lot of
+LINE 206: brambles which were not as high as her face; but which she could not
+LINE 207: have got through and kept her hands out of; and bits of those brambles
+LINE 208: were actually found in her skin and put in evidence, as well as the
+LINE 209: fact that the brambles in question were found on examination to have
+LINE 210: been broken through, and to have little shreds of her dress and little
+LINE 211: spots of blood upon them here and there. But the boldest point he made
+LINE 212: was this: it was attempted to be set up, in proof of her jealousy, that
+LINE 213: she was under strong suspicion of having, at about the time of the
+LINE 214: murder, frantically destroyed her child by this man—some three years
+LINE 215: old—to revenge herself upon him. Mr. Jaggers worked that in this way:
+LINE 216: "We say these are not marks of finger-nails, but marks of brambles, and
+LINE 217: we show you the brambles. You say they are marks of finger-nails, and
+LINE 218: you set up the hypothesis that she destroyed her child. You must accept
+LINE 219: all consequences of that hypothesis. For anything we know, she may have
+LINE 220: destroyed her child, and the child in clinging to her may have
+LINE 221: scratched her hands. What then? You are not trying her for the murder
+LINE 222: of her child; why don't you? As to this case, if you _will_ have
+LINE 223: scratches, we say that, for anything we know, you may have accounted
+LINE 224: for them, assuming for the sake of argument that you have not invented
+LINE 225: them?" "To sum up, sir," said Wemmick, "Mr. Jaggers was altogether too
+LINE 226: many for the jury, and they gave in."
+LINE 227: "Has she been in his service ever since?"
+LINE 228: "Yes; but not only that," said Wemmick, "she went into his service
+LINE 229: immediately after her acquittal, tamed as she is now. She has since
+LINE 230: been taught one thing and another in the way of her duties, but she was
+LINE 231: tamed from the beginning."
+LINE 232: "Do you remember the sex of the child?"
+LINE 233: "Said to have been a girl."
+LINE 234: "You have nothing more to say to me to-night?"
+LINE 235: "Nothing. I got your letter and destroyed it. Nothing."
+LINE 236: We exchanged a cordial good-night, and I went home, with new matter for
+LINE 237: my thoughts, though with no relief from the old.

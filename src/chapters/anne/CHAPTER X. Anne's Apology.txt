@@ -1,0 +1,217 @@
+LINE 1: MARILLA said nothing to Matthew about the affair that evening; but when
+LINE 2: Anne proved still refractory the next morning an explanation had to be
+LINE 3: made to account for her absence from the breakfast table. Marilla told
+LINE 4: Matthew the whole story, taking pains to impress him with a due sense of
+LINE 5: the enormity of Anne's behavior.
+LINE 6: "It's a good thing Rachel Lynde got a calling down; she's a meddlesome
+LINE 7: old gossip," was Matthew's consolatory rejoinder.
+LINE 8: "Matthew Cuthbert, I'm astonished at you. You know that Anne's behavior
+LINE 9: was dreadful, and yet you take her part! I suppose you'll be saying next
+LINE 10: thing that she oughtn't to be punished at all!"
+LINE 11: "Well now--no--not exactly," said Matthew uneasily. "I reckon she
+LINE 12: ought to be punished a little. But don't be too hard on her, Marilla.
+LINE 13: Recollect she hasn't ever had anyone to teach her right. You're--you're
+LINE 14: going to give her something to eat, aren't you?"
+LINE 15: "When did you ever hear of me starving people into good behavior?"
+LINE 16: demanded Marilla indignantly. "She'll have her meals regular, and
+LINE 17: I'll carry them up to her myself. But she'll stay up there until she's
+LINE 18: willing to apologize to Mrs. Lynde, and that's final, Matthew."
+LINE 19: Breakfast, dinner, and supper were very silent meals--for Anne still
+LINE 20: remained obdurate. After each meal Marilla carried a well-filled tray
+LINE 21: to the east gable and brought it down later on not noticeably depleted.
+LINE 22: Matthew eyed its last descent with a troubled eye. Had Anne eaten
+LINE 23: anything at all?
+LINE 24: When Marilla went out that evening to bring the cows from the back
+LINE 25: pasture, Matthew, who had been hanging about the barns and watching,
+LINE 26: slipped into the house with the air of a burglar and crept upstairs. As
+LINE 27: a general thing Matthew gravitated between the kitchen and the little
+LINE 28: bedroom off the hall where he slept; once in a while he ventured
+LINE 29: uncomfortably into the parlor or sitting room when the minister came to
+LINE 30: tea. But he had never been upstairs in his own house since the spring he
+LINE 31: helped Marilla paper the spare bedroom, and that was four years ago.
+LINE 32: He tiptoed along the hall and stood for several minutes outside the
+LINE 33: door of the east gable before he summoned courage to tap on it with his
+LINE 34: fingers and then open the door to peep in.
+LINE 35: Anne was sitting on the yellow chair by the window gazing mournfully out
+LINE 36: into the garden. Very small and unhappy she looked, and Matthew's heart
+LINE 37: smote him. He softly closed the door and tiptoed over to her.
+LINE 38: "Anne," he whispered, as if afraid of being overheard, "how are you
+LINE 39: making it, Anne?"
+LINE 40: Anne smiled wanly.
+LINE 41: "Pretty well. I imagine a good deal, and that helps to pass the time. Of
+LINE 42: course, it's rather lonesome. But then, I may as well get used to that."
+LINE 43: Anne smiled again, bravely facing the long years of solitary
+LINE 44: imprisonment before her.
+LINE 45: Matthew recollected that he must say what he had come to say without
+LINE 46: loss of time, lest Marilla return prematurely. "Well now, Anne, don't
+LINE 47: you think you'd better do it and have it over with?" he whispered.
+LINE 48: "It'll have to be done sooner or later, you know, for Marilla's a
+LINE 49: dreadful deter-mined woman--dreadful determined, Anne. Do it right off,
+LINE 50: I say, and have it over."
+LINE 51: "Do you mean apologize to Mrs. Lynde?"
+LINE 52: "Yes--apologize--that's the very word," said Matthew eagerly. "Just
+LINE 53: smooth it over so to speak. That's what I was trying to get at."
+LINE 54: "I suppose I could do it to oblige you," said Anne thoughtfully. "It
+LINE 55: would be true enough to say I am sorry, because I _am_ sorry now. I wasn't
+LINE 56: a bit sorry last night. I was mad clear through, and I stayed mad all
+LINE 57: night. I know I did because I woke up three times and I was just
+LINE 58: furious every time. But this morning it was over. I wasn't in a temper
+LINE 59: anymore--and it left a dreadful sort of goneness, too. I felt so ashamed
+LINE 60: of myself. But I just couldn't think of going and telling Mrs. Lynde
+LINE 61: so. It would be so humiliating. I made up my mind I'd stay shut up here
+LINE 62: forever rather than do that. But still--I'd do anything for you--if you
+LINE 63: really want me to--"
+LINE 64: "Well now, of course I do. It's terrible lonesome downstairs without
+LINE 65: you. Just go and smooth things over--that's a good girl."
+LINE 66: "Very well," said Anne resignedly. "I'll tell Marilla as soon as she
+LINE 67: comes in I've repented."
+LINE 68: "That's right--that's right, Anne. But don't tell Marilla I said
+LINE 69: anything about it. She might think I was putting my oar in and I
+LINE 70: promised not to do that."
+LINE 71: "Wild horses won't drag the secret from me," promised Anne solemnly.
+LINE 72: "How would wild horses drag a secret from a person anyhow?"
+LINE 73: But Matthew was gone, scared at his own success. He fled hastily to the
+LINE 74: remotest corner of the horse pasture lest Marilla should suspect what
+LINE 75: he had been up to. Marilla herself, upon her return to the house, was
+LINE 76: agreeably surprised to hear a plaintive voice calling, "Marilla" over
+LINE 77: the banisters.
+LINE 78: "Well?" she said, going into the hall.
+LINE 79: "I'm sorry I lost my temper and said rude things, and I'm willing to go
+LINE 80: and tell Mrs. Lynde so."
+LINE 81: "Very well." Marilla's crispness gave no sign of her relief. She had
+LINE 82: been wondering what under the canopy she should do if Anne did not give
+LINE 83: in. "I'll take you down after milking."
+LINE 84: Accordingly, after milking, behold Marilla and Anne walking down the
+LINE 85: lane, the former erect and triumphant, the latter drooping and dejected.
+LINE 86: But halfway down Anne's dejection vanished as if by enchantment. She
+LINE 87: lifted her head and stepped lightly along, her eyes fixed on the sunset
+LINE 88: sky and an air of subdued exhilaration about her. Marilla beheld the
+LINE 89: change disapprovingly. This was no meek penitent such as it behooved her
+LINE 90: to take into the presence of the offended Mrs. Lynde.
+LINE 91: "What are you thinking of, Anne?" she asked sharply.
+LINE 92: "I'm imagining out what I must say to Mrs. Lynde," answered Anne
+LINE 93: dreamily.
+LINE 94: This was satisfactory--or should have been so. But Marilla could not
+LINE 95: rid herself of the notion that something in her scheme of punishment was
+LINE 96: going askew. Anne had no business to look so rapt and radiant.
+LINE 97: Rapt and radiant Anne continued until they were in the very presence
+LINE 98: of Mrs. Lynde, who was sitting knitting by her kitchen window. Then the
+LINE 99: radiance vanished. Mournful penitence appeared on every feature. Before
+LINE 100: a word was spoken Anne suddenly went down on her knees before the
+LINE 101: astonished Mrs. Rachel and held out her hands beseechingly.
+LINE 102: "Oh, Mrs. Lynde, I am so extremely sorry," she said with a quiver in
+LINE 103: her voice. "I could never express all my sorrow, no, not if I used up
+LINE 104: a whole dictionary. You must just imagine it. I behaved terribly to
+LINE 105: you--and I've disgraced the dear friends, Matthew and Marilla, who have
+LINE 106: let me stay at Green Gables although I'm not a boy. I'm a dreadfully
+LINE 107: wicked and ungrateful girl, and I deserve to be punished and cast out
+LINE 108: by respectable people forever. It was very wicked of me to fly into a
+LINE 109: temper because you told me the truth. It _was_ the truth; every word you
+LINE 110: said was true. My hair is red and I'm freckled and skinny and ugly.
+LINE 111: What I said to you was true, too, but I shouldn't have said it. Oh, Mrs.
+LINE 112: Lynde, please, please, forgive me. If you refuse it will be a lifelong
+LINE 113: sorrow on a poor little orphan girl, would you, even if she had a
+LINE 114: dreadful temper? Oh, I am sure you wouldn't. Please say you forgive me,
+LINE 115: Mrs. Lynde."
+LINE 116: Anne clasped her hands together, bowed her head, and waited for the word
+LINE 117: of judgment.
+LINE 118: There was no mistaking her sincerity--it breathed in every tone of her
+LINE 119: voice. Both Marilla and Mrs. Lynde recognized its unmistakable ring.
+LINE 120: But the former under-stood in dismay that Anne was actually enjoying
+LINE 121: her valley of humiliation--was reveling in the thoroughness of her
+LINE 122: abasement. Where was the wholesome punishment upon which she, Marilla,
+LINE 123: had plumed herself? Anne had turned it into a species of positive
+LINE 124: pleasure.
+LINE 125: Good Mrs. Lynde, not being overburdened with perception, did not see
+LINE 126: this. She only perceived that Anne had made a very thorough apology and
+LINE 127: all resentment vanished from her kindly, if somewhat officious, heart.
+LINE 128: "There, there, get up, child," she said heartily. "Of course I forgive
+LINE 129: you. I guess I was a little too hard on you, anyway. But I'm such an
+LINE 130: outspoken person. You just mustn't mind me, that's what. It can't be
+LINE 131: denied your hair is terrible red; but I knew a girl once--went to school
+LINE 132: with her, in fact--whose hair was every mite as red as yours when she
+LINE 133: was young, but when she grew up it darkened to a real handsome auburn. I
+LINE 134: wouldn't be a mite surprised if yours did, too--not a mite."
+LINE 135: "Oh, Mrs. Lynde!" Anne drew a long breath as she rose to her feet. "You
+LINE 136: have given me a hope. I shall always feel that you are a benefactor. Oh,
+LINE 137: I could endure anything if I only thought my hair would be a handsome
+LINE 138: auburn when I grew up. It would be so much easier to be good if one's
+LINE 139: hair was a handsome auburn, don't you think? And now may I go out into
+LINE 140: your garden and sit on that bench under the apple-trees while you and
+LINE 141: Marilla are talking? There is so much more scope for imagination out
+LINE 142: there."
+LINE 143: "Laws, yes, run along, child. And you can pick a bouquet of them white
+LINE 144: June lilies over in the corner if you like."
+LINE 145: As the door closed behind Anne Mrs. Lynde got briskly up to light a
+LINE 146: lamp.
+LINE 147: "She's a real odd little thing. Take this chair, Marilla; it's easier
+LINE 148: than the one you've got; I just keep that for the hired boy to sit
+LINE 149: on. Yes, she certainly is an odd child, but there is something kind of
+LINE 150: taking about her after all. I don't feel so surprised at you and Matthew
+LINE 151: keeping her as I did--nor so sorry for you, either. She may turn out all
+LINE 152: right. Of course, she has a queer way of expressing herself--a little
+LINE 153: too--well, too kind of forcible, you know; but she'll likely get over
+LINE 154: that now that she's come to live among civilized folks. And then, her
+LINE 155: temper's pretty quick, I guess; but there's one comfort, a child that
+LINE 156: has a quick temper, just blaze up and cool down, ain't never likely to
+LINE 157: be sly or deceitful. Preserve me from a sly child, that's what. On the
+LINE 158: whole, Marilla, I kind of like her."
+LINE 159: When Marilla went home Anne came out of the fragrant twilight of the
+LINE 160: orchard with a sheaf of white narcissi in her hands.
+LINE 161: "I apologized pretty well, didn't I?" she said proudly as they went
+LINE 162: down the lane. "I thought since I had to do it I might as well do it
+LINE 163: thoroughly."
+LINE 164: "You did it thoroughly, all right enough," was Marilla's comment.
+LINE 165: Marilla was dismayed at finding herself inclined to laugh over the
+LINE 166: recollection. She had also an uneasy feeling that she ought to scold
+LINE 167: Anne for apologizing so well; but then, that was ridiculous! She
+LINE 168: compromised with her conscience by saying severely:
+LINE 169: "I hope you won't have occasion to make many more such apologies. I hope
+LINE 170: you'll try to control your temper now, Anne."
+LINE 171: "That wouldn't be so hard if people wouldn't twit me about my looks,"
+LINE 172: said Anne with a sigh. "I don't get cross about other things; but I'm
+LINE 173: _so_ tired of being twitted about my hair and it just makes me boil right
+LINE 174: over. Do you suppose my hair will really be a handsome auburn when I
+LINE 175: grow up?"
+LINE 176: "You shouldn't think so much about your looks, Anne. I'm afraid you are
+LINE 177: a very vain little girl."
+LINE 178: "How can I be vain when I know I'm homely?" protested Anne. "I love
+LINE 179: pretty things; and I hate to look in the glass and see something that
+LINE 180: isn't pretty. It makes me feel so sorrowful--just as I feel when I look
+LINE 181: at any ugly thing. I pity it because it isn't beautiful."
+LINE 182: "Handsome is as handsome does," quoted Marilla. "I've had that said
+LINE 183: to me before, but I have my doubts about it," remarked skeptical Anne,
+LINE 184: sniffing at her narcissi. "Oh, aren't these flowers sweet! It was lovely
+LINE 185: of Mrs. Lynde to give them to me. I have no hard feelings against Mrs.
+LINE 186: Lynde now. It gives you a lovely, comfortable feeling to apologize and
+LINE 187: be forgiven, doesn't it? Aren't the stars bright tonight? If you could
+LINE 188: live in a star, which one would you pick? I'd like that lovely clear big
+LINE 189: one away over there above that dark hill."
+LINE 190: "Anne, do hold your tongue," said Marilla, thoroughly worn out trying to
+LINE 191: follow the gyrations of Anne's thoughts.
+LINE 192: Anne said no more until they turned into their own lane. A little gypsy
+LINE 193: wind came down it to meet them, laden with the spicy perfume of young
+LINE 194: dew-wet ferns. Far up in the shadows a cheerful light gleamed out
+LINE 195: through the trees from the kitchen at Green Gables. Anne suddenly came
+LINE 196: close to Marilla and slipped her hand into the older woman's hard palm.
+LINE 197: "It's lovely to be going home and know it's home," she said. "I love
+LINE 198: Green Gables already, and I never loved any place before. No place ever
+LINE 199: seemed like home. Oh, Marilla, I'm so happy. I could pray right now and
+LINE 200: not find it a bit hard."
+LINE 201: Something warm and pleasant welled up in Marilla's heart at touch of
+LINE 202: that thin little hand in her own--a throb of the maternity she had
+LINE 203: missed, perhaps. Its very unaccustomedness and sweetness disturbed
+LINE 204: her. She hastened to restore her sensations to their normal calm by
+LINE 205: inculcating a moral.
+LINE 206: "If you'll be a good girl you'll always be happy, Anne. And you should
+LINE 207: never find it hard to say your prayers."
+LINE 208: "Saying one's prayers isn't exactly the same thing as praying," said
+LINE 209: Anne meditatively. "But I'm going to imagine that I'm the wind that is
+LINE 210: blowing up there in those tree tops. When I get tired of the trees I'll
+LINE 211: imagine I'm gently waving down here in the ferns--and then I'll fly over
+LINE 212: to Mrs. Lynde's garden and set the flowers dancing--and then I'll go
+LINE 213: with one great swoop over the clover field--and then I'll blow over the
+LINE 214: Lake of Shining Waters and ripple it all up into little sparkling waves.
+LINE 215: Oh, there's so much scope for imagination in a wind! So I'll not talk
+LINE 216: any more just now, Marilla."
+LINE 217: "Thanks be to goodness for that," breathed Marilla in devout relief.

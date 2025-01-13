@@ -1,0 +1,132 @@
+LINE 1: All this time Dorothy and her companions had been walking through the
+LINE 2: thick woods. The road was still paved with yellow brick, but these were
+LINE 3: much covered by dried branches and dead leaves from the trees, and the
+LINE 4: walking was not at all good.
+LINE 5: There were few birds in this part of the forest, for birds love the
+LINE 6: open country where there is plenty of sunshine. But now and then there
+LINE 7: came a deep growl from some wild animal hidden among the trees. These
+LINE 8: sounds made the little girl's heart beat fast, for she did not know
+LINE 9: what made them; but Toto knew, and he walked close to Dorothy's side,
+LINE 10: and did not even bark in return.
+LINE 11: "How long will it be," the child asked of the Tin Woodman, "before we
+LINE 12: are out of the forest?"
+LINE 13: "I cannot tell," was the answer, "for I have never been to the Emerald
+LINE 14: City. But my father went there once, when I was a boy, and he said it
+LINE 15: was a long journey through a dangerous country, although nearer to the
+LINE 16: city where Oz dwells the country is beautiful. But I am not afraid so
+LINE 17: long as I have my oil-can, and nothing can hurt the Scarecrow, while
+LINE 18: you bear upon your forehead the mark of the Good Witch's kiss, and that
+LINE 19: will protect you from harm."
+LINE 20: "But Toto!" said the girl anxiously. "What will protect him?"
+LINE 21: "We must protect him ourselves if he is in danger," replied the Tin
+LINE 22: Woodman.
+LINE 23: Just as he spoke there came from the forest a terrible roar, and the
+LINE 24: next moment a great Lion bounded into the road. With one blow of his
+LINE 25: paw he sent the Scarecrow spinning over and over to the edge of the
+LINE 26: road, and then he struck at the Tin Woodman with his sharp claws. But,
+LINE 27: to the Lion's surprise, he could make no impression on the tin,
+LINE 28: although the Woodman fell over in the road and lay still.
+LINE 29: Little Toto, now that he had an enemy to face, ran barking toward the
+LINE 30: Lion, and the great beast had opened his mouth to bite the dog, when
+LINE 31: Dorothy, fearing Toto would be killed, and heedless of danger, rushed
+LINE 32: forward and slapped the Lion upon his nose as hard as she could, while
+LINE 33: she cried out:
+LINE 34: "Don't you dare to bite Toto! You ought to be ashamed of yourself, a
+LINE 35: big beast like you, to bite a poor little dog!"
+LINE 36: "I didn't bite him," said the Lion, as he rubbed his nose with his paw
+LINE 37: where Dorothy had hit it.
+LINE 38: "No, but you tried to," she retorted. "You are nothing but a big
+LINE 39: coward."
+LINE 40: "I know it," said the Lion, hanging his head in shame. "I've always
+LINE 41: known it. But how can I help it?"
+LINE 42: "I don't know, I'm sure. To think of your striking a stuffed man, like
+LINE 43: the poor Scarecrow!"
+LINE 44: "Is he stuffed?" asked the Lion in surprise, as he watched her pick up
+LINE 45: the Scarecrow and set him upon his feet, while she patted him into
+LINE 46: shape again.
+LINE 47: "Of course he's stuffed," replied Dorothy, who was still angry.
+LINE 48: "That's why he went over so easily," remarked the Lion. "It astonished
+LINE 49: me to see him whirl around so. Is the other one stuffed also?"
+LINE 50: "No," said Dorothy, "he's made of tin." And she helped the Woodman up
+LINE 51: again.
+LINE 52: "That's why he nearly blunted my claws," said the Lion. "When they
+LINE 53: scratched against the tin it made a cold shiver run down my back. What
+LINE 54: is that little animal you are so tender of?"
+LINE 55: "He is my dog, Toto," answered Dorothy.
+LINE 56: "Is he made of tin, or stuffed?" asked the Lion.
+LINE 57: "Neither. He's a—a—a meat dog," said the girl.
+LINE 58: "Oh! He's a curious animal and seems remarkably small, now that I look
+LINE 59: at him. No one would think of biting such a little thing, except a
+LINE 60: coward like me," continued the Lion sadly.
+LINE 61: "What makes you a coward?" asked Dorothy, looking at the great beast in
+LINE 62: wonder, for he was as big as a small horse.
+LINE 63: "It's a mystery," replied the Lion. "I suppose I was born that way. All
+LINE 64: the other animals in the forest naturally expect me to be brave, for
+LINE 65: the Lion is everywhere thought to be the King of Beasts. I learned that
+LINE 66: if I roared very loudly every living thing was frightened and got out
+LINE 67: of my way. Whenever I've met a man I've been awfully scared; but I just
+LINE 68: roared at him, and he has always run away as fast as he could go. If
+LINE 69: the elephants and the tigers and the bears had ever tried to fight me,
+LINE 70: I should have run myself—I'm such a coward; but just as soon as they
+LINE 71: hear me roar they all try to get away from me, and of course I let them
+LINE 72: go."
+LINE 73: "But that isn't right. The King of Beasts shouldn't be a coward," said
+LINE 74: the Scarecrow.
+LINE 75: "I know it," returned the Lion, wiping a tear from his eye with the tip
+LINE 76: of his tail. "It is my great sorrow, and makes my life very unhappy.
+LINE 77: But whenever there is danger, my heart begins to beat fast."
+LINE 78: "Perhaps you have heart disease," said the Tin Woodman.
+LINE 79: "It may be," said the Lion.
+LINE 80: "If you have," continued the Tin Woodman, "you ought to be glad, for it
+LINE 81: proves you have a heart. For my part, I have no heart; so I cannot have
+LINE 82: heart disease."
+LINE 83: "Perhaps," said the Lion thoughtfully, "if I had no heart I should not
+LINE 84: be a coward."
+LINE 85: "Have you brains?" asked the Scarecrow.
+LINE 86: "I suppose so. I've never looked to see," replied the Lion.
+LINE 87: "I am going to the Great Oz to ask him to give me some," remarked the
+LINE 88: Scarecrow, "for my head is stuffed with straw."
+LINE 89: "And I am going to ask him to give me a heart," said the Woodman.
+LINE 90: "And I am going to ask him to send Toto and me back to Kansas," added
+LINE 91: Dorothy.
+LINE 92: "Do you think Oz could give me courage?" asked the Cowardly Lion.
+LINE 93: "Just as easily as he could give me brains," said the Scarecrow.
+LINE 94: "Or give me a heart," said the Tin Woodman.
+LINE 95: "Or send me back to Kansas," said Dorothy.
+LINE 96: "Then, if you don't mind, I'll go with you," said the Lion, "for my
+LINE 97: life is simply unbearable without a bit of courage."
+LINE 98: "You will be very welcome," answered Dorothy, "for you will help to
+LINE 99: keep away the other wild beasts. It seems to me they must be more
+LINE 100: cowardly than you are if they allow you to scare them so easily."
+LINE 101: "They really are," said the Lion, "but that doesn't make me any braver,
+LINE 102: and as long as I know myself to be a coward I shall be unhappy."
+LINE 103: So once more the little company set off upon the journey, the Lion
+LINE 104: walking with stately strides at Dorothy's side. Toto did not approve of
+LINE 105: this new comrade at first, for he could not forget how nearly he had
+LINE 106: been crushed between the Lion's great jaws. But after a time he became
+LINE 107: more at ease, and presently Toto and the Cowardly Lion had grown to be
+LINE 108: good friends.
+LINE 109: During the rest of that day there was no other adventure to mar the
+LINE 110: peace of their journey. Once, indeed, the Tin Woodman stepped upon a
+LINE 111: beetle that was crawling along the road, and killed the poor little
+LINE 112: thing. This made the Tin Woodman very unhappy, for he was always
+LINE 113: careful not to hurt any living creature; and as he walked along he wept
+LINE 114: several tears of sorrow and regret. These tears ran slowly down his
+LINE 115: face and over the hinges of his jaw, and there they rusted. When
+LINE 116: Dorothy presently asked him a question the Tin Woodman could not open
+LINE 117: his mouth, for his jaws were tightly rusted together. He became greatly
+LINE 118: frightened at this and made many motions to Dorothy to relieve him, but
+LINE 119: she could not understand. The Lion was also puzzled to know what was
+LINE 120: wrong. But the Scarecrow seized the oil-can from Dorothy's basket and
+LINE 121: oiled the Woodman's jaws, so that after a few moments he could talk as
+LINE 122: well as before.
+LINE 123: "This will serve me a lesson," said he, "to look where I step. For if I
+LINE 124: should kill another bug or beetle I should surely cry again, and crying
+LINE 125: rusts my jaws so that I cannot speak."
+LINE 126: Thereafter he walked very carefully, with his eyes on the road, and
+LINE 127: when he saw a tiny ant toiling by he would step over it, so as not to
+LINE 128: harm it. The Tin Woodman knew very well he had no heart, and therefore
+LINE 129: he took great care never to be cruel or unkind to anything.
+LINE 130: "You people with hearts," he said, "have something to guide you, and
+LINE 131: need never do wrong; but I have no heart, and so I must be very
+LINE 132: careful. When Oz gives me a heart of course I needn't mind so much."

@@ -1,0 +1,68 @@
+LINE 1: The Project Gutenberg eBook of The Wonderful Wizard of Oz
+LINE 2: 
+LINE 3: This ebook is for the use of anyone anywhere in the United States and
+LINE 4: most other parts of the world at no cost and with almost no restrictions
+LINE 5: whatsoever. You may copy it, give it away or re-use it under the terms
+LINE 6: of the Project Gutenberg License included with this ebook or online
+LINE 7: at www.gutenberg.org. If you are not located in the United States,
+LINE 8: you will have to check the laws of the country where you are located
+LINE 9: before using this eBook.
+LINE 10: Title: The Wonderful Wizard of Oz
+LINE 11: Author: L. Frank Baum
+LINE 12: Release date: February 1, 1993 [eBook #55]
+LINE 13: Most recently updated: March 30, 2021
+LINE 14: Language: English
+LINE 15: *** START OF THE PROJECT GUTENBERG EBOOK THE WONDERFUL WIZARD OF OZ ***
+LINE 16: [Illustration]
+LINE 17: The Wonderful Wizard of Oz
+LINE 18: by L. Frank Baum
+LINE 19: This book is dedicated to my good friend & comrade
+LINE 20: My Wife
+LINE 21: L.F.B.
+LINE 22: Contents
+LINE 23: Introduction
+LINE 24: Chapter I. The Cyclone
+LINE 25: Chapter II. The Council with the Munchkins
+LINE 26: Chapter III. How Dorothy Saved the Scarecrow
+LINE 27: Chapter IV. The Road Through the Forest
+LINE 28: Chapter V. The Rescue of the Tin Woodman
+LINE 29: Chapter VI. The Cowardly Lion
+LINE 30: Chapter VII. The Journey to the Great Oz
+LINE 31: Chapter VIII. The Deadly Poppy Field
+LINE 32: Chapter IX. The Queen of the Field Mice
+LINE 33: Chapter X. The Guardian of the Gates
+LINE 34: Chapter XI. The Emerald City of Oz
+LINE 35: Chapter XII. The Search for the Wicked Witch
+LINE 36: Chapter XIII. The Rescue
+LINE 37: Chapter XIV. The Winged Monkeys
+LINE 38: Chapter XV. The Discovery of Oz, the Terrible
+LINE 39: Chapter XVI. The Magic Art of the Great Humbug
+LINE 40: Chapter XVII. How the Balloon Was Launched
+LINE 41: Chapter XVIII. Away to the South
+LINE 42: Chapter XIX. Attacked by the Fighting Trees
+LINE 43: Chapter XX. The Dainty China Country
+LINE 44: Chapter XXI. The Lion Becomes the King of Beasts
+LINE 45: Chapter XXII. The Country of the Quadlings
+LINE 46: Chapter XXIII. Glinda The Good Witch Grants Dorothy's Wish
+LINE 47: Chapter XXIV. Home Again
+LINE 48: Introduction
+LINE 49: Folklore, legends, myths and fairy tales have followed childhood
+LINE 50: through the ages, for every healthy youngster has a wholesome and
+LINE 51: instinctive love for stories fantastic, marvelous and manifestly
+LINE 52: unreal. The winged fairies of Grimm and Andersen have brought more
+LINE 53: happiness to childish hearts than all other human creations.
+LINE 54: Yet the old time fairy tale, having served for generations, may now be
+LINE 55: classed as "historical" in the children's library; for the time has
+LINE 56: come for a series of newer "wonder tales" in which the stereotyped
+LINE 57: genie, dwarf and fairy are eliminated, together with all the horrible
+LINE 58: and blood-curdling incidents devised by their authors to point a
+LINE 59: fearsome moral to each tale. Modern education includes morality;
+LINE 60: therefore the modern child seeks only entertainment in its wonder tales
+LINE 61: and gladly dispenses with all disagreeable incident.
+LINE 62: Having this thought in mind, the story of "The Wonderful Wizard of Oz"
+LINE 63: was written solely to please children of today. It aspires to being a
+LINE 64: modernized fairy tale, in which the wonderment and joy are retained and
+LINE 65: the heartaches and nightmares are left out.
+LINE 66: L. Frank Baum
+LINE 67: Chicago, April, 1900.
+LINE 68: The Wonderful Wizard of Oz

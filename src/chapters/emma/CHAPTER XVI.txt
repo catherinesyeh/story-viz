@@ -1,0 +1,163 @@
+LINE 1: The hair was curled, and the maid sent away, and Emma sat down to think
+LINE 2: and be miserable.—It was a wretched business indeed!—Such an overthrow
+LINE 3: of every thing she had been wishing for!—Such a development of every
+LINE 4: thing most unwelcome!—Such a blow for Harriet!—that was the worst of
+LINE 5: all. Every part of it brought pain and humiliation, of some sort or
+LINE 6: other; but, compared with the evil to Harriet, all was light; and she
+LINE 7: would gladly have submitted to feel yet more mistaken—more in
+LINE 8: error—more disgraced by mis-judgment, than she actually was, could the
+LINE 9: effects of her blunders have been confined to herself.
+LINE 10: "If I had not persuaded Harriet into liking the man, I could have borne
+LINE 11: any thing. He might have doubled his presumption to me—but poor
+LINE 12: Harriet!"
+LINE 13: How she could have been so deceived!—He protested that he had never
+LINE 14: thought seriously of Harriet—never! She looked back as well as she
+LINE 15: could; but it was all confusion. She had taken up the idea, she
+LINE 16: supposed, and made every thing bend to it. His manners, however, must
+LINE 17: have been unmarked, wavering, dubious, or she could not have been so
+LINE 18: misled.
+LINE 19: The picture!—How eager he had been about the picture!—and the
+LINE 20: charade!—and an hundred other circumstances;—how clearly they had
+LINE 21: seemed to point at Harriet. To be sure, the charade, with its "ready
+LINE 22: wit"—but then the "soft eyes"—in fact it suited neither; it was a
+LINE 23: jumble without taste or truth. Who could have seen through such
+LINE 24: thick-headed nonsense?
+LINE 25: Certainly she had often, especially of late, thought his manners to
+LINE 26: herself unnecessarily gallant; but it had passed as his way, as a mere
+LINE 27: error of judgment, of knowledge, of taste, as one proof among others
+LINE 28: that he had not always lived in the best society, that with all the
+LINE 29: gentleness of his address, true elegance was sometimes wanting; but,
+LINE 30: till this very day, she had never, for an instant, suspected it to mean
+LINE 31: any thing but grateful respect to her as Harriet's friend.
+LINE 32: To Mr. John Knightley was she indebted for her first idea on the
+LINE 33: subject, for the first start of its possibility. There was no denying
+LINE 34: that those brothers had penetration. She remembered what Mr. Knightley
+LINE 35: had once said to her about Mr. Elton, the caution he had given, the
+LINE 36: conviction he had professed that Mr. Elton would never marry
+LINE 37: indiscreetly; and blushed to think how much truer a knowledge of his
+LINE 38: character had been there shewn than any she had reached herself. It was
+LINE 39: dreadfully mortifying; but Mr. Elton was proving himself, in many
+LINE 40: respects, the very reverse of what she had meant and believed him;
+LINE 41: proud, assuming, conceited; very full of his own claims, and little
+LINE 42: concerned about the feelings of others.
+LINE 43: Contrary to the usual course of things, Mr. Elton's wanting to pay his
+LINE 44: addresses to her had sunk him in her opinion. His professions and his
+LINE 45: proposals did him no service. She thought nothing of his attachment,
+LINE 46: and was insulted by his hopes. He wanted to marry well, and having the
+LINE 47: arrogance to raise his eyes to her, pretended to be in love; but she
+LINE 48: was perfectly easy as to his not suffering any disappointment that need
+LINE 49: be cared for. There had been no real affection either in his language
+LINE 50: or manners. Sighs and fine words had been given in abundance; but she
+LINE 51: could hardly devise any set of expressions, or fancy any tone of voice,
+LINE 52: less allied with real love. She need not trouble herself to pity him.
+LINE 53: He only wanted to aggrandise and enrich himself; and if Miss Woodhouse
+LINE 54: of Hartfield, the heiress of thirty thousand pounds, were not quite so
+LINE 55: easily obtained as he had fancied, he would soon try for Miss Somebody
+LINE 56: else with twenty, or with ten.
+LINE 57: But—that he should talk of encouragement, should consider her as aware
+LINE 58: of his views, accepting his attentions, meaning (in short), to marry
+LINE 59: him!—should suppose himself her equal in connexion or mind!—look down
+LINE 60: upon her friend, so well understanding the gradations of rank below
+LINE 61: him, and be so blind to what rose above, as to fancy himself shewing no
+LINE 62: presumption in addressing her!—It was most provoking.
+LINE 63: Perhaps it was not fair to expect him to feel how very much he was her
+LINE 64: inferior in talent, and all the elegancies of mind. The very want of
+LINE 65: such equality might prevent his perception of it; but he must know that
+LINE 66: in fortune and consequence she was greatly his superior. He must know
+LINE 67: that the Woodhouses had been settled for several generations at
+LINE 68: Hartfield, the younger branch of a very ancient family—and that the
+LINE 69: Eltons were nobody. The landed property of Hartfield certainly was
+LINE 70: inconsiderable, being but a sort of notch in the Donwell Abbey estate,
+LINE 71: to which all the rest of Highbury belonged; but their fortune, from
+LINE 72: other sources, was such as to make them scarcely secondary to Donwell
+LINE 73: Abbey itself, in every other kind of consequence; and the Woodhouses
+LINE 74: had long held a high place in the consideration of the neighbourhood
+LINE 75: which Mr. Elton had first entered not two years ago, to make his way as
+LINE 76: he could, without any alliances but in trade, or any thing to recommend
+LINE 77: him to notice but his situation and his civility.—But he had fancied
+LINE 78: her in love with him; that evidently must have been his dependence; and
+LINE 79: after raving a little about the seeming incongruity of gentle manners
+LINE 80: and a conceited head, Emma was obliged in common honesty to stop and
+LINE 81: admit that her own behaviour to him had been so complaisant and
+LINE 82: obliging, so full of courtesy and attention, as (supposing her real
+LINE 83: motive unperceived) might warrant a man of ordinary observation and
+LINE 84: delicacy, like Mr. Elton, in fancying himself a very decided favourite.
+LINE 85: If _she_ had so misinterpreted his feelings, she had little right to
+LINE 86: wonder that _he_, with self-interest to blind him, should have mistaken
+LINE 87: hers.
+LINE 88: The first error and the worst lay at her door. It was foolish, it was
+LINE 89: wrong, to take so active a part in bringing any two people together. It
+LINE 90: was adventuring too far, assuming too much, making light of what ought
+LINE 91: to be serious, a trick of what ought to be simple. She was quite
+LINE 92: concerned and ashamed, and resolved to do such things no more.
+LINE 93: "Here have I," said she, "actually talked poor Harriet into being very
+LINE 94: much attached to this man. She might never have thought of him but for
+LINE 95: me; and certainly never would have thought of him with hope, if I had
+LINE 96: not assured her of his attachment, for she is as modest and humble as I
+LINE 97: used to think him. Oh! that I had been satisfied with persuading her
+LINE 98: not to accept young Martin. There I was quite right. That was well done
+LINE 99: of me; but there I should have stopped, and left the rest to time and
+LINE 100: chance. I was introducing her into good company, and giving her the
+LINE 101: opportunity of pleasing some one worth having; I ought not to have
+LINE 102: attempted more. But now, poor girl, her peace is cut up for some time.
+LINE 103: I have been but half a friend to her; and if she were _not_ to feel
+LINE 104: this disappointment so very much, I am sure I have not an idea of any
+LINE 105: body else who would be at all desirable for her;—William Coxe—Oh! no, I
+LINE 106: could not endure William Coxe—a pert young lawyer."
+LINE 107: She stopt to blush and laugh at her own relapse, and then resumed a
+LINE 108: more serious, more dispiriting cogitation upon what had been, and might
+LINE 109: be, and must be. The distressing explanation she had to make to
+LINE 110: Harriet, and all that poor Harriet would be suffering, with the
+LINE 111: awkwardness of future meetings, the difficulties of continuing or
+LINE 112: discontinuing the acquaintance, of subduing feelings, concealing
+LINE 113: resentment, and avoiding eclat, were enough to occupy her in most
+LINE 114: unmirthful reflections some time longer, and she went to bed at last
+LINE 115: with nothing settled but the conviction of her having blundered most
+LINE 116: dreadfully.
+LINE 117: To youth and natural cheerfulness like Emma's, though under temporary
+LINE 118: gloom at night, the return of day will hardly fail to bring return of
+LINE 119: spirits. The youth and cheerfulness of morning are in happy analogy,
+LINE 120: and of powerful operation; and if the distress be not poignant enough
+LINE 121: to keep the eyes unclosed, they will be sure to open to sensations of
+LINE 122: softened pain and brighter hope.
+LINE 123: Emma got up on the morrow more disposed for comfort than she had gone
+LINE 124: to bed, more ready to see alleviations of the evil before her, and to
+LINE 125: depend on getting tolerably out of it.
+LINE 126: It was a great consolation that Mr. Elton should not be really in love
+LINE 127: with her, or so particularly amiable as to make it shocking to
+LINE 128: disappoint him—that Harriet's nature should not be of that superior
+LINE 129: sort in which the feelings are most acute and retentive—and that there
+LINE 130: could be no necessity for any body's knowing what had passed except the
+LINE 131: three principals, and especially for her father's being given a
+LINE 132: moment's uneasiness about it.
+LINE 133: These were very cheering thoughts; and the sight of a great deal of
+LINE 134: snow on the ground did her further service, for any thing was welcome
+LINE 135: that might justify their all three being quite asunder at present.
+LINE 136: The weather was most favourable for her; though Christmas Day, she
+LINE 137: could not go to church. Mr. Woodhouse would have been miserable had his
+LINE 138: daughter attempted it, and she was therefore safe from either exciting
+LINE 139: or receiving unpleasant and most unsuitable ideas. The ground covered
+LINE 140: with snow, and the atmosphere in that unsettled state between frost and
+LINE 141: thaw, which is of all others the most unfriendly for exercise, every
+LINE 142: morning beginning in rain or snow, and every evening setting in to
+LINE 143: freeze, she was for many days a most honourable prisoner. No
+LINE 144: intercourse with Harriet possible but by note; no church for her on
+LINE 145: Sunday any more than on Christmas Day; and no need to find excuses for
+LINE 146: Mr. Elton's absenting himself.
+LINE 147: It was weather which might fairly confine every body at home; and
+LINE 148: though she hoped and believed him to be really taking comfort in some
+LINE 149: society or other, it was very pleasant to have her father so well
+LINE 150: satisfied with his being all alone in his own house, too wise to stir
+LINE 151: out; and to hear him say to Mr. Knightley, whom no weather could keep
+LINE 152: entirely from them,—
+LINE 153: "Ah! Mr. Knightley, why do not you stay at home like poor Mr. Elton?"
+LINE 154: These days of confinement would have been, but for her private
+LINE 155: perplexities, remarkably comfortable, as such seclusion exactly suited
+LINE 156: her brother, whose feelings must always be of great importance to his
+LINE 157: companions; and he had, besides, so thoroughly cleared off his
+LINE 158: ill-humour at Randalls, that his amiableness never failed him during
+LINE 159: the rest of his stay at Hartfield. He was always agreeable and
+LINE 160: obliging, and speaking pleasantly of every body. But with all the hopes
+LINE 161: of cheerfulness, and all the present comfort of delay, there was still
+LINE 162: such an evil hanging over her in the hour of explanation with Harriet,
+LINE 163: as made it impossible for Emma to be ever perfectly at ease.

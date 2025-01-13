@@ -1,0 +1,232 @@
+LINE 1: A Mad Tea-Party
+LINE 2: There was a table set out under a tree in front of the house, and the
+LINE 3: March Hare and the Hatter were having tea at it: a Dormouse was sitting
+LINE 4: between them, fast asleep, and the other two were using it as a
+LINE 5: cushion, resting their elbows on it, and talking over its head. "Very
+LINE 6: uncomfortable for the Dormouse," thought Alice; "only, as it's asleep,
+LINE 7: I suppose it doesn't mind."
+LINE 8: The table was a large one, but the three were all crowded together at
+LINE 9: one corner of it: "No room! No room!" they cried out when they saw
+LINE 10: Alice coming. "There's _plenty_ of room!" said Alice indignantly, and
+LINE 11: she sat down in a large arm-chair at one end of the table.
+LINE 12: "Have some wine," the March Hare said in an encouraging tone.
+LINE 13: Alice looked all round the table, but there was nothing on it but tea.
+LINE 14: "I don't see any wine," she remarked.
+LINE 15: "There isn't any," said the March Hare.
+LINE 16: "Then it wasn't very civil of you to offer it," said Alice angrily.
+LINE 17: "It wasn't very civil of you to sit down without being invited," said
+LINE 18: the March Hare.
+LINE 19: "I didn't know it was _your_ table," said Alice; "it's laid for a great
+LINE 20: many more than three."
+LINE 21: "Your hair wants cutting," said the Hatter. He had been looking at
+LINE 22: Alice for some time with great curiosity, and this was his first
+LINE 23: speech.
+LINE 24: "You should learn not to make personal remarks," Alice said with some
+LINE 25: severity; "it's very rude."
+LINE 26: The Hatter opened his eyes very wide on hearing this; but all he _said_
+LINE 27: was, "Why is a raven like a writing-desk?"
+LINE 28: "Come, we shall have some fun now!" thought Alice. "I'm glad they've
+LINE 29: begun asking riddles.—I believe I can guess that," she added aloud.
+LINE 30: "Do you mean that you think you can find out the answer to it?" said
+LINE 31: the March Hare.
+LINE 32: "Exactly so," said Alice.
+LINE 33: "Then you should say what you mean," the March Hare went on.
+LINE 34: "I do," Alice hastily replied; "at least—at least I mean what I
+LINE 35: say—that's the same thing, you know."
+LINE 36: "Not the same thing a bit!" said the Hatter. "You might just as well
+LINE 37: say that 'I see what I eat' is the same thing as 'I eat what I see'!"
+LINE 38: "You might just as well say," added the March Hare, "that 'I like what
+LINE 39: I get' is the same thing as 'I get what I like'!"
+LINE 40: "You might just as well say," added the Dormouse, who seemed to be
+LINE 41: talking in his sleep, "that 'I breathe when I sleep' is the same thing
+LINE 42: as 'I sleep when I breathe'!"
+LINE 43: "It _is_ the same thing with you," said the Hatter, and here the
+LINE 44: conversation dropped, and the party sat silent for a minute, while
+LINE 45: Alice thought over all she could remember about ravens and
+LINE 46: writing-desks, which wasn't much.
+LINE 47: The Hatter was the first to break the silence. "What day of the month
+LINE 48: is it?" he said, turning to Alice: he had taken his watch out of his
+LINE 49: pocket, and was looking at it uneasily, shaking it every now and then,
+LINE 50: and holding it to his ear.
+LINE 51: Alice considered a little, and then said "The fourth."
+LINE 52: "Two days wrong!" sighed the Hatter. "I told you butter wouldn't suit
+LINE 53: the works!" he added looking angrily at the March Hare.
+LINE 54: "It was the _best_ butter," the March Hare meekly replied.
+LINE 55: "Yes, but some crumbs must have got in as well," the Hatter grumbled:
+LINE 56: "you shouldn't have put it in with the bread-knife."
+LINE 57: The March Hare took the watch and looked at it gloomily: then he dipped
+LINE 58: it into his cup of tea, and looked at it again: but he could think of
+LINE 59: nothing better to say than his first remark, "It was the _best_ butter,
+LINE 60: you know."
+LINE 61: Alice had been looking over his shoulder with some curiosity. "What a
+LINE 62: funny watch!" she remarked. "It tells the day of the month, and doesn't
+LINE 63: tell what o'clock it is!"
+LINE 64: "Why should it?" muttered the Hatter. "Does _your_ watch tell you what
+LINE 65: year it is?"
+LINE 66: "Of course not," Alice replied very readily: "but that's because it
+LINE 67: stays the same year for such a long time together."
+LINE 68: "Which is just the case with _mine_," said the Hatter.
+LINE 69: Alice felt dreadfully puzzled. The Hatter's remark seemed to have no
+LINE 70: sort of meaning in it, and yet it was certainly English. "I don't quite
+LINE 71: understand you," she said, as politely as she could.
+LINE 72: "The Dormouse is asleep again," said the Hatter, and he poured a little
+LINE 73: hot tea upon its nose.
+LINE 74: The Dormouse shook its head impatiently, and said, without opening its
+LINE 75: eyes, "Of course, of course; just what I was going to remark myself."
+LINE 76: "Have you guessed the riddle yet?" the Hatter said, turning to Alice
+LINE 77: again.
+LINE 78: "No, I give it up," Alice replied: "what's the answer?"
+LINE 79: "I haven't the slightest idea," said the Hatter.
+LINE 80: "Nor I," said the March Hare.
+LINE 81: Alice sighed wearily. "I think you might do something better with the
+LINE 82: time," she said, "than waste it in asking riddles that have no
+LINE 83: answers."
+LINE 84: "If you knew Time as well as I do," said the Hatter, "you wouldn't talk
+LINE 85: about wasting _it_. It's _him_."
+LINE 86: "I don't know what you mean," said Alice.
+LINE 87: "Of course you don't!" the Hatter said, tossing his head
+LINE 88: contemptuously. "I dare say you never even spoke to Time!"
+LINE 89: "Perhaps not," Alice cautiously replied: "but I know I have to beat
+LINE 90: time when I learn music."
+LINE 91: "Ah! that accounts for it," said the Hatter. "He won't stand beating.
+LINE 92: Now, if you only kept on good terms with him, he'd do almost anything
+LINE 93: you liked with the clock. For instance, suppose it were nine o'clock in
+LINE 94: the morning, just time to begin lessons: you'd only have to whisper a
+LINE 95: hint to Time, and round goes the clock in a twinkling! Half-past one,
+LINE 96: time for dinner!"
+LINE 97: ("I only wish it was," the March Hare said to itself in a whisper.)
+LINE 98: "That would be grand, certainly," said Alice thoughtfully: "but then—I
+LINE 99: shouldn't be hungry for it, you know."
+LINE 100: "Not at first, perhaps," said the Hatter: "but you could keep it to
+LINE 101: half-past one as long as you liked."
+LINE 102: "Is that the way _you_ manage?" Alice asked.
+LINE 103: The Hatter shook his head mournfully. "Not I!" he replied. "We
+LINE 104: quarrelled last March—just before _he_ went mad, you know—" (pointing
+LINE 105: with his tea spoon at the March Hare,) "—it was at the great concert
+LINE 106: given by the Queen of Hearts, and I had to sing
+LINE 107: 'Twinkle, twinkle, little bat!
+LINE 108: How I wonder what you're at!'
+LINE 109: You know the song, perhaps?"
+LINE 110: "I've heard something like it," said Alice.
+LINE 111: "It goes on, you know," the Hatter continued, "in this way:—
+LINE 112: 'Up above the world you fly,
+LINE 113: Like a tea-tray in the sky.
+LINE 114: Twinkle, twinkle—'"
+LINE 115: Here the Dormouse shook itself, and began singing in its sleep
+LINE 116: "_Twinkle, twinkle, twinkle, twinkle_—" and went on so long that they
+LINE 117: had to pinch it to make it stop.
+LINE 118: "Well, I'd hardly finished the first verse," said the Hatter, "when the
+LINE 119: Queen jumped up and bawled out, 'He's murdering the time! Off with his
+LINE 120: head!'"
+LINE 121: "How dreadfully savage!" exclaimed Alice.
+LINE 122: "And ever since that," the Hatter went on in a mournful tone, "he won't
+LINE 123: do a thing I ask! It's always six o'clock now."
+LINE 124: A bright idea came into Alice's head. "Is that the reason so many
+LINE 125: tea-things are put out here?" she asked.
+LINE 126: "Yes, that's it," said the Hatter with a sigh: "it's always tea-time,
+LINE 127: and we've no time to wash the things between whiles."
+LINE 128: "Then you keep moving round, I suppose?" said Alice.
+LINE 129: "Exactly so," said the Hatter: "as the things get used up."
+LINE 130: "But what happens when you come to the beginning again?" Alice ventured
+LINE 131: to ask.
+LINE 132: "Suppose we change the subject," the March Hare interrupted, yawning.
+LINE 133: "I'm getting tired of this. I vote the young lady tells us a story."
+LINE 134: "I'm afraid I don't know one," said Alice, rather alarmed at the
+LINE 135: proposal.
+LINE 136: "Then the Dormouse shall!" they both cried. "Wake up, Dormouse!" And
+LINE 137: they pinched it on both sides at once.
+LINE 138: The Dormouse slowly opened his eyes. "I wasn't asleep," he said in a
+LINE 139: hoarse, feeble voice: "I heard every word you fellows were saying."
+LINE 140: "Tell us a story!" said the March Hare.
+LINE 141: "Yes, please do!" pleaded Alice.
+LINE 142: "And be quick about it," added the Hatter, "or you'll be asleep again
+LINE 143: before it's done."
+LINE 144: "Once upon a time there were three little sisters," the Dormouse began
+LINE 145: in a great hurry; "and their names were Elsie, Lacie, and Tillie; and
+LINE 146: they lived at the bottom of a well—"
+LINE 147: "What did they live on?" said Alice, who always took a great interest
+LINE 148: in questions of eating and drinking.
+LINE 149: "They lived on treacle," said the Dormouse, after thinking a minute or
+LINE 150: two.
+LINE 151: "They couldn't have done that, you know," Alice gently remarked;
+LINE 152: "they'd have been ill."
+LINE 153: "So they were," said the Dormouse; "_very_ ill."
+LINE 154: Alice tried to fancy to herself what such an extraordinary ways of
+LINE 155: living would be like, but it puzzled her too much, so she went on: "But
+LINE 156: why did they live at the bottom of a well?"
+LINE 157: "Take some more tea," the March Hare said to Alice, very earnestly.
+LINE 158: "I've had nothing yet," Alice replied in an offended tone, "so I can't
+LINE 159: take more."
+LINE 160: "You mean you can't take _less_," said the Hatter: "it's very easy to
+LINE 161: take _more_ than nothing."
+LINE 162: "Nobody asked _your_ opinion," said Alice.
+LINE 163: "Who's making personal remarks now?" the Hatter asked triumphantly.
+LINE 164: Alice did not quite know what to say to this: so she helped herself to
+LINE 165: some tea and bread-and-butter, and then turned to the Dormouse, and
+LINE 166: repeated her question. "Why did they live at the bottom of a well?"
+LINE 167: The Dormouse again took a minute or two to think about it, and then
+LINE 168: said, "It was a treacle-well."
+LINE 169: "There's no such thing!" Alice was beginning very angrily, but the
+LINE 170: Hatter and the March Hare went "Sh! sh!" and the Dormouse sulkily
+LINE 171: remarked, "If you can't be civil, you'd better finish the story for
+LINE 172: yourself."
+LINE 173: "No, please go on!" Alice said very humbly; "I won't interrupt again. I
+LINE 174: dare say there may be _one_."
+LINE 175: "One, indeed!" said the Dormouse indignantly. However, he consented to
+LINE 176: go on. "And so these three little sisters—they were learning to draw,
+LINE 177: you know—"
+LINE 178: "What did they draw?" said Alice, quite forgetting her promise.
+LINE 179: "Treacle," said the Dormouse, without considering at all this time.
+LINE 180: "I want a clean cup," interrupted the Hatter: "let's all move one place
+LINE 181: on."
+LINE 182: He moved on as he spoke, and the Dormouse followed him: the March Hare
+LINE 183: moved into the Dormouse's place, and Alice rather unwillingly took the
+LINE 184: place of the March Hare. The Hatter was the only one who got any
+LINE 185: advantage from the change: and Alice was a good deal worse off than
+LINE 186: before, as the March Hare had just upset the milk-jug into his plate.
+LINE 187: Alice did not wish to offend the Dormouse again, so she began very
+LINE 188: cautiously: "But I don't understand. Where did they draw the treacle
+LINE 189: from?"
+LINE 190: "You can draw water out of a water-well," said the Hatter; "so I should
+LINE 191: think you could draw treacle out of a treacle-well—eh, stupid?"
+LINE 192: "But they were _in_ the well," Alice said to the Dormouse, not choosing
+LINE 193: to notice this last remark.
+LINE 194: "Of course they were," said the Dormouse; "—well in."
+LINE 195: This answer so confused poor Alice, that she let the Dormouse go on for
+LINE 196: some time without interrupting it.
+LINE 197: "They were learning to draw," the Dormouse went on, yawning and rubbing
+LINE 198: its eyes, for it was getting very sleepy; "and they drew all manner of
+LINE 199: things—everything that begins with an M—"
+LINE 200: "Why with an M?" said Alice.
+LINE 201: "Why not?" said the March Hare.
+LINE 202: Alice was silent.
+LINE 203: The Dormouse had closed its eyes by this time, and was going off into a
+LINE 204: doze; but, on being pinched by the Hatter, it woke up again with a
+LINE 205: little shriek, and went on: "—that begins with an M, such as
+LINE 206: mouse-traps, and the moon, and memory, and muchness—you know you say
+LINE 207: things are "much of a muchness"—did you ever see such a thing as a
+LINE 208: drawing of a muchness?"
+LINE 209: "Really, now you ask me," said Alice, very much confused, "I don't
+LINE 210: think—"
+LINE 211: "Then you shouldn't talk," said the Hatter.
+LINE 212: This piece of rudeness was more than Alice could bear: she got up in
+LINE 213: great disgust, and walked off; the Dormouse fell asleep instantly, and
+LINE 214: neither of the others took the least notice of her going, though she
+LINE 215: looked back once or twice, half hoping that they would call after her:
+LINE 216: the last time she saw them, they were trying to put the Dormouse into
+LINE 217: the teapot.
+LINE 218: "At any rate I'll never go _there_ again!" said Alice as she picked her
+LINE 219: way through the wood. "It's the stupidest tea-party I ever was at in
+LINE 220: all my life!"
+LINE 221: Just as she said this, she noticed that one of the trees had a door
+LINE 222: leading right into it. "That's very curious!" she thought. "But
+LINE 223: everything's curious today. I think I may as well go in at once." And
+LINE 224: in she went.
+LINE 225: Once more she found herself in the long hall, and close to the little
+LINE 226: glass table. "Now, I'll manage better this time," she said to herself,
+LINE 227: and began by taking the little golden key, and unlocking the door that
+LINE 228: led into the garden. Then she went to work nibbling at the mushroom
+LINE 229: (she had kept a piece of it in her pocket) till she was about a foot
+LINE 230: high: then she walked down the little passage: and _then_—she found
+LINE 231: herself at last in the beautiful garden, among the bright flower-beds
+LINE 232: and the cool fountains.

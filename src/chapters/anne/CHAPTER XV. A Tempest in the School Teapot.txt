@@ -1,0 +1,454 @@
+LINE 1: WHAT a splendid day!" said Anne, drawing a long breath. "Isn't it good
+LINE 2: just to be alive on a day like this? I pity the people who aren't born
+LINE 3: yet for missing it. They may have good days, of course, but they can
+LINE 4: never have this one. And it's splendider still to have such a lovely way
+LINE 5: to go to school by, isn't it?"
+LINE 6: "It's a lot nicer than going round by the road; that is so dusty
+LINE 7: and hot," said Diana practically, peeping into her dinner basket and
+LINE 8: mentally calculating if the three juicy, toothsome, raspberry tarts
+LINE 9: reposing there were divided among ten girls how many bites each girl
+LINE 10: would have.
+LINE 11: The little girls of Avonlea school always pooled their lunches, and
+LINE 12: to eat three raspberry tarts all alone or even to share them only with
+LINE 13: one's best chum would have forever and ever branded as "awful mean" the
+LINE 14: girl who did it. And yet, when the tarts were divided among ten girls
+LINE 15: you just got enough to tantalize you.
+LINE 16: The way Anne and Diana went to school _was_ a pretty one. Anne thought
+LINE 17: those walks to and from school with Diana couldn't be improved upon
+LINE 18: even by imagination. Going around by the main road would have been so
+LINE 19: unromantic; but to go by Lover's Lane and Willowmere and Violet Vale and
+LINE 20: the Birch Path was romantic, if ever anything was.
+LINE 21: Lover's Lane opened out below the orchard at Green Gables and stretched
+LINE 22: far up into the woods to the end of the Cuthbert farm. It was the way by
+LINE 23: which the cows were taken to the back pasture and the wood hauled home
+LINE 24: in winter. Anne had named it Lover's Lane before she had been a month at
+LINE 25: Green Gables.
+LINE 26: "Not that lovers ever really walk there," she explained to Marilla,
+LINE 27: "but Diana and I are reading a perfectly magnificent book and there's a
+LINE 28: Lover's Lane in it. So we want to have one, too. And it's a very pretty
+LINE 29: name, don't you think? So romantic! We can't imagine the lovers into it,
+LINE 30: you know. I like that lane because you can think out loud there without
+LINE 31: people calling you crazy."
+LINE 32: Anne, starting out alone in the morning, went down Lover's Lane as far
+LINE 33: as the brook. Here Diana met her, and the two little girls went on
+LINE 34: up the lane under the leafy arch of maples--"maples are such sociable
+LINE 35: trees," said Anne; "they're always rustling and whispering to
+LINE 36: you"--until they came to a rustic bridge. Then they left the lane
+LINE 37: and walked through Mr. Barry's back field and past Willowmere. Beyond
+LINE 38: Willowmere came Violet Vale--a little green dimple in the shadow of Mr.
+LINE 39: Andrew Bell's big woods. "Of course there are no violets there now,"
+LINE 40: Anne told Marilla, "but Diana says there are millions of them in spring.
+LINE 41: Oh, Marilla, can't you just imagine you see them? It actually takes away
+LINE 42: my breath. I named it Violet Vale. Diana says she never saw the beat
+LINE 43: of me for hitting on fancy names for places. It's nice to be clever at
+LINE 44: something, isn't it? But Diana named the Birch Path. She wanted to, so
+LINE 45: I let her; but I'm sure I could have found something more poetical than
+LINE 46: plain Birch Path. Anybody can think of a name like that. But the Birch
+LINE 47: Path is one of the prettiest places in the world, Marilla."
+LINE 48: It was. Other people besides Anne thought so when they stumbled on it.
+LINE 49: It was a little narrow, twisting path, winding down over a long hill
+LINE 50: straight through Mr. Bell's woods, where the light came down sifted
+LINE 51: through so many emerald screens that it was as flawless as the heart
+LINE 52: of a diamond. It was fringed in all its length with slim young birches,
+LINE 53: white stemmed and lissom boughed; ferns and starflowers and wild
+LINE 54: lilies-of-the-valley and scarlet tufts of pigeonberries grew thickly
+LINE 55: along it; and always there was a delightful spiciness in the air and
+LINE 56: music of bird calls and the murmur and laugh of wood winds in the trees
+LINE 57: overhead. Now and then you might see a rabbit skipping across the road
+LINE 58: if you were quiet--which, with Anne and Diana, happened about once in
+LINE 59: a blue moon. Down in the valley the path came out to the main road and
+LINE 60: then it was just up the spruce hill to the school.
+LINE 61: The Avonlea school was a whitewashed building, low in the eaves and
+LINE 62: wide in the windows, furnished inside with comfortable substantial
+LINE 63: old-fashioned desks that opened and shut, and were carved all over their
+LINE 64: lids with the initials and hieroglyphics of three generations of school
+LINE 65: children. The schoolhouse was set back from the road and behind it was
+LINE 66: a dusky fir wood and a brook where all the children put their bottles of
+LINE 67: milk in the morning to keep cool and sweet until dinner hour.
+LINE 68: Marilla had seen Anne start off to school on the first day of September
+LINE 69: with many secret misgivings. Anne was such an odd girl. How would she
+LINE 70: get on with the other children? And how on earth would she ever manage
+LINE 71: to hold her tongue during school hours?
+LINE 72: Things went better than Marilla feared, however. Anne came home that
+LINE 73: evening in high spirits.
+LINE 74: "I think I'm going to like school here," she announced. "I don't think
+LINE 75: much of the master, though. He's all the time curling his mustache
+LINE 76: and making eyes at Prissy Andrews. Prissy is grown up, you know. She's
+LINE 77: sixteen and she's studying for the entrance examination into Queen's
+LINE 78: Academy at Charlottetown next year. Tillie Boulter says the master is
+LINE 79: _dead gone_ on her. She's got a beautiful complexion and curly brown hair
+LINE 80: and she does it up so elegantly. She sits in the long seat at the back
+LINE 81: and he sits there, too, most of the time--to explain her lessons, he
+LINE 82: says. But Ruby Gillis says she saw him writing something on her slate
+LINE 83: and when Prissy read it she blushed as red as a beet and giggled; and
+LINE 84: Ruby Gillis says she doesn't believe it had anything to do with the
+LINE 85: lesson."
+LINE 86: "Anne Shirley, don't let me hear you talking about your teacher in that
+LINE 87: way again," said Marilla sharply. "You don't go to school to criticize
+LINE 88: the master. I guess he can teach _you_ something, and it's your business
+LINE 89: to learn. And I want you to understand right off that you are not to
+LINE 90: come home telling tales about him. That is something I won't encourage.
+LINE 91: I hope you were a good girl."
+LINE 92: "Indeed I was," said Anne comfortably. "It wasn't so hard as you might
+LINE 93: imagine, either. I sit with Diana. Our seat is right by the window and
+LINE 94: we can look down to the Lake of Shining Waters. There are a lot of nice
+LINE 95: girls in school and we had scrumptious fun playing at dinnertime. It's
+LINE 96: so nice to have a lot of little girls to play with. But of course I like
+LINE 97: Diana best and always will. I _adore_ Diana. I'm dreadfully far behind the
+LINE 98: others. They're all in the fifth book and I'm only in the fourth. I feel
+LINE 99: that it's kind of a disgrace. But there's not one of them has such an
+LINE 100: imagination as I have and I soon found that out. We had reading and
+LINE 101: geography and Canadian history and dictation today. Mr. Phillips said my
+LINE 102: spelling was disgraceful and he held up my slate so that everybody could
+LINE 103: see it, all marked over. I felt so mortified, Marilla; he might have
+LINE 104: been politer to a stranger, I think. Ruby Gillis gave me an apple and
+LINE 105: Sophia Sloane lent me a lovely pink card with 'May I see you home?' on
+LINE 106: it. I'm to give it back to her tomorrow. And Tillie Boulter let me wear
+LINE 107: her bead ring all the afternoon. Can I have some of those pearl beads
+LINE 108: off the old pincushion in the garret to make myself a ring? And oh,
+LINE 109: Marilla, Jane Andrews told me that Minnie MacPherson told her that she
+LINE 110: heard Prissy Andrews tell Sara Gillis that I had a very pretty nose.
+LINE 111: Marilla, that is the first compliment I have ever had in my life and you
+LINE 112: can't imagine what a strange feeling it gave me. Marilla, have I really
+LINE 113: a pretty nose? I know you'll tell me the truth."
+LINE 114: "Your nose is well enough," said Marilla shortly. Secretly she thought
+LINE 115: Anne's nose was a remarkable pretty one; but she had no intention of
+LINE 116: telling her so.
+LINE 117: That was three weeks ago and all had gone smoothly so far. And now, this
+LINE 118: crisp September morning, Anne and Diana were tripping blithely down the
+LINE 119: Birch Path, two of the happiest little girls in Avonlea.
+LINE 120: "I guess Gilbert Blythe will be in school today," said Diana. "He's been
+LINE 121: visiting his cousins over in New Brunswick all summer and he only came
+LINE 122: home Saturday night. He's _aw'fly_ handsome, Anne. And he teases the
+LINE 123: girls something terrible. He just torments our lives out."
+LINE 124: Diana's voice indicated that she rather liked having her life tormented
+LINE 125: out than not.
+LINE 126: "Gilbert Blythe?" said Anne. "Isn't his name that's written up on the
+LINE 127: porch wall with Julia Bell's and a big 'Take Notice' over them?"
+LINE 128: "Yes," said Diana, tossing her head, "but I'm sure he doesn't like Julia
+LINE 129: Bell so very much. I've heard him say he studied the multiplication
+LINE 130: table by her freckles."
+LINE 131: "Oh, don't speak about freckles to me," implored Anne. "It isn't
+LINE 132: delicate when I've got so many. But I do think that writing take-notices
+LINE 133: up on the wall about the boys and girls is the silliest ever. I should
+LINE 134: just like to see anybody dare to write my name up with a boy's. Not, of
+LINE 135: course," she hastened to add, "that anybody would."
+LINE 136: Anne sighed. She didn't want her name written up. But it was a little
+LINE 137: humiliating to know that there was no danger of it.
+LINE 138: "Nonsense," said Diana, whose black eyes and glossy tresses had played
+LINE 139: such havoc with the hearts of Avonlea schoolboys that her name figured
+LINE 140: on the porch walls in half a dozen take-notices. "It's only meant as
+LINE 141: a joke. And don't you be too sure your name won't ever be written up.
+LINE 142: Charlie Sloane is _dead gone_ on you. He told his mother--his _mother_,
+LINE 143: mind you--that you were the smartest girl in school. That's better than
+LINE 144: being good looking."
+LINE 145: "No, it isn't," said Anne, feminine to the core. "I'd rather be pretty
+LINE 146: than clever. And I hate Charlie Sloane, I can't bear a boy with goggle
+LINE 147: eyes. If anyone wrote my name up with his I'd never _get_ over it, Diana
+LINE 148: Barry. But it _is_ nice to keep head of your class."
+LINE 149: "You'll have Gilbert in your class after this," said Diana, "and he's
+LINE 150: used to being head of his class, I can tell you. He's only in the fourth
+LINE 151: book although he's nearly fourteen. Four years ago his father was sick
+LINE 152: and had to go out to Alberta for his health and Gilbert went with him.
+LINE 153: They were there three years and Gil didn't go to school hardly any
+LINE 154: until they came back. You won't find it so easy to keep head after this,
+LINE 155: Anne."
+LINE 156: "I'm glad," said Anne quickly. "I couldn't really feel proud of keeping
+LINE 157: head of little boys and girls of just nine or ten. I got up yesterday
+LINE 158: spelling 'ebullition.' Josie Pye was head and, mind you, she peeped
+LINE 159: in her book. Mr. Phillips didn't see her--he was looking at Prissy
+LINE 160: Andrews--but I did. I just swept her a look of freezing scorn and she
+LINE 161: got as red as a beet and spelled it wrong after all."
+LINE 162: "Those Pye girls are cheats all round," said Diana indignantly, as they
+LINE 163: climbed the fence of the main road. "Gertie Pye actually went and put
+LINE 164: her milk bottle in my place in the brook yesterday. Did you ever? I
+LINE 165: don't speak to her now."
+LINE 166: When Mr. Phillips was in the back of the room hearing Prissy Andrews's
+LINE 167: Latin, Diana whispered to Anne, "That's Gilbert Blythe sitting right
+LINE 168: across the aisle from you, Anne. Just look at him and see if you don't
+LINE 169: think he's handsome."
+LINE 170: Anne looked accordingly. She had a good chance to do so, for the said
+LINE 171: Gilbert Blythe was absorbed in stealthily pinning the long yellow braid
+LINE 172: of Ruby Gillis, who sat in front of him, to the back of her seat. He
+LINE 173: was a tall boy, with curly brown hair, roguish hazel eyes, and a mouth
+LINE 174: twisted into a teasing smile. Presently Ruby Gillis started up to take
+LINE 175: a sum to the master; she fell back into her seat with a little shriek,
+LINE 176: believing that her hair was pulled out by the roots. Everybody looked at
+LINE 177: her and Mr. Phillips glared so sternly that Ruby began to cry. Gilbert
+LINE 178: had whisked the pin out of sight and was studying his history with the
+LINE 179: soberest face in the world; but when the commotion subsided he looked at
+LINE 180: Anne and winked with inexpressible drollery.
+LINE 181: "I think your Gilbert Blythe _is_ handsome," confided Anne to Diana,
+LINE 182: "but I think he's very bold. It isn't good manners to wink at a strange
+LINE 183: girl."
+LINE 184: But it was not until the afternoon that things really began to happen.
+LINE 185: Mr. Phillips was back in the corner explaining a problem in algebra to
+LINE 186: Prissy Andrews and the rest of the scholars were doing pretty much as
+LINE 187: they pleased eating green apples, whispering, drawing pictures on their
+LINE 188: slates, and driving crickets harnessed to strings, up and down aisle.
+LINE 189: Gilbert Blythe was trying to make Anne Shirley look at him and failing
+LINE 190: utterly, because Anne was at that moment totally oblivious not only
+LINE 191: to the very existence of Gilbert Blythe, but of every other scholar in
+LINE 192: Avonlea school itself. With her chin propped on her hands and her eyes
+LINE 193: fixed on the blue glimpse of the Lake of Shining Waters that the west
+LINE 194: window afforded, she was far away in a gorgeous dreamland hearing and
+LINE 195: seeing nothing save her own wonderful visions.
+LINE 196: Gilbert Blythe wasn't used to putting himself out to make a girl look
+LINE 197: at him and meeting with failure. She _should_ look at him, that red-haired
+LINE 198: Shirley girl with the little pointed chin and the big eyes that weren't
+LINE 199: like the eyes of any other girl in Avonlea school.
+LINE 200: Gilbert reached across the aisle, picked up the end of Anne's long red
+LINE 201: braid, held it out at arm's length and said in a piercing whisper:
+LINE 202: "Carrots! Carrots!"
+LINE 203: Then Anne looked at him with a vengeance!
+LINE 204: She did more than look. She sprang to her feet, her bright fancies
+LINE 205: fallen into cureless ruin. She flashed one indignant glance at Gilbert
+LINE 206: from eyes whose angry sparkle was swiftly quenched in equally angry
+LINE 207: tears.
+LINE 208: "You mean, hateful boy!" she exclaimed passionately. "How dare you!"
+LINE 209: And then--thwack! Anne had brought her slate down on Gilbert's head and
+LINE 210: cracked it--slate not head--clear across.
+LINE 211: Avonlea school always enjoyed a scene. This was an especially enjoyable
+LINE 212: one. Everybody said "Oh" in horrified delight. Diana gasped. Ruby
+LINE 213: Gillis, who was inclined to be hysterical, began to cry. Tommy
+LINE 214: Sloane let his team of crickets escape him altogether while he stared
+LINE 215: open-mouthed at the tableau.
+LINE 216: Mr. Phillips stalked down the aisle and laid his hand heavily on Anne's
+LINE 217: shoulder.
+LINE 218: "Anne Shirley, what does this mean?" he said angrily. Anne returned no
+LINE 219: answer. It was asking too much of flesh and blood to expect her to tell
+LINE 220: before the whole school that she had been called "carrots." Gilbert it
+LINE 221: was who spoke up stoutly.
+LINE 222: "It was my fault Mr. Phillips. I teased her."
+LINE 223: Mr. Phillips paid no heed to Gilbert.
+LINE 224: "I am sorry to see a pupil of mine displaying such a temper and such
+LINE 225: a vindictive spirit," he said in a solemn tone, as if the mere fact of
+LINE 226: being a pupil of his ought to root out all evil passions from the hearts
+LINE 227: of small imperfect mortals. "Anne, go and stand on the platform in front
+LINE 228: of the blackboard for the rest of the afternoon."
+LINE 229: Anne would have infinitely preferred a whipping to this punishment under
+LINE 230: which her sensitive spirit quivered as from a whiplash. With a white,
+LINE 231: set face she obeyed. Mr. Phillips took a chalk crayon and wrote on the
+LINE 232: blackboard above her head.
+LINE 233: "Ann Shirley has a very bad temper. Ann Shirley must learn to control
+LINE 234: her temper," and then read it out loud so that even the primer class,
+LINE 235: who couldn't read writing, should understand it.
+LINE 236: Anne stood there the rest of the afternoon with that legend above her.
+LINE 237: She did not cry or hang her head. Anger was still too hot in her heart
+LINE 238: for that and it sustained her amid all her agony of humiliation. With
+LINE 239: resentful eyes and passion-red cheeks she confronted alike Diana's
+LINE 240: sympathetic gaze and Charlie Sloane's indignant nods and Josie Pye's
+LINE 241: malicious smiles. As for Gilbert Blythe, she would not even look at him.
+LINE 242: She would _never_ look at him again! She would never speak to him!!
+LINE 243: When school was dismissed Anne marched out with her red head held high.
+LINE 244: Gilbert Blythe tried to intercept her at the porch door.
+LINE 245: "I'm awfully sorry I made fun of your hair, Anne," he whispered
+LINE 246: contritely. "Honest I am. Don't be mad for keeps, now."
+LINE 247: Anne swept by disdainfully, without look or sign of hearing. "Oh
+LINE 248: how could you, Anne?" breathed Diana as they went down the road half
+LINE 249: reproachfully, half admiringly. Diana felt that _she_ could never have
+LINE 250: resisted Gilbert's plea.
+LINE 251: "I shall never forgive Gilbert Blythe," said Anne firmly. "And Mr.
+LINE 252: Phillips spelled my name without an e, too. The iron has entered into my
+LINE 253: soul, Diana."
+LINE 254: Diana hadn't the least idea what Anne meant but she understood it was
+LINE 255: something terrible.
+LINE 256: "You mustn't mind Gilbert making fun of your hair," she said soothingly.
+LINE 257: "Why, he makes fun of all the girls. He laughs at mine because it's
+LINE 258: so black. He's called me a crow a dozen times; and I never heard him
+LINE 259: apologize for anything before, either."
+LINE 260: "There's a great deal of difference between being called a crow and
+LINE 261: being called carrots," said Anne with dignity. "Gilbert Blythe has hurt
+LINE 262: my feelings _excruciatingly_, Diana."
+LINE 263: It is possible the matter might have blown over without more
+LINE 264: excruciation if nothing else had happened. But when things begin to
+LINE 265: happen they are apt to keep on.
+LINE 266: Avonlea scholars often spent noon hour picking gum in Mr. Bell's spruce
+LINE 267: grove over the hill and across his big pasture field. From there they
+LINE 268: could keep an eye on Eben Wright's house, where the master boarded. When
+LINE 269: they saw Mr. Phillips emerging therefrom they ran for the schoolhouse;
+LINE 270: but the distance being about three times longer than Mr. Wright's lane
+LINE 271: they were very apt to arrive there, breathless and gasping, some three
+LINE 272: minutes too late.
+LINE 273: On the following day Mr. Phillips was seized with one of his spasmodic
+LINE 274: fits of reform and announced before going home to dinner, that he should
+LINE 275: expect to find all the scholars in their seats when he returned. Anyone
+LINE 276: who came in late would be punished.
+LINE 277: All the boys and some of the girls went to Mr. Bell's spruce grove as
+LINE 278: usual, fully intending to stay only long enough to "pick a chew." But
+LINE 279: spruce groves are seductive and yellow nuts of gum beguiling; they
+LINE 280: picked and loitered and strayed; and as usual the first thing that
+LINE 281: recalled them to a sense of the flight of time was Jimmy Glover shouting
+LINE 282: from the top of a patriarchal old spruce "Master's coming."
+LINE 283: The girls who were on the ground, started first and managed to reach the
+LINE 284: schoolhouse in time but without a second to spare. The boys, who had to
+LINE 285: wriggle hastily down from the trees, were later; and Anne, who had not
+LINE 286: been picking gum at all but was wandering happily in the far end of the
+LINE 287: grove, waist deep among the bracken, singing softly to herself, with a
+LINE 288: wreath of rice lilies on her hair as if she were some wild divinity
+LINE 289: of the shadowy places, was latest of all. Anne could run like a deer,
+LINE 290: however; run she did with the impish result that she overtook the boys
+LINE 291: at the door and was swept into the schoolhouse among them just as Mr.
+LINE 292: Phillips was in the act of hanging up his hat.
+LINE 293: Mr. Phillips's brief reforming energy was over; he didn't want the
+LINE 294: bother of punishing a dozen pupils; but it was necessary to do something
+LINE 295: to save his word, so he looked about for a scapegoat and found it
+LINE 296: in Anne, who had dropped into her seat, gasping for breath, with a
+LINE 297: forgotten lily wreath hanging askew over one ear and giving her a
+LINE 298: particularly rakish and disheveled appearance.
+LINE 299: "Anne Shirley, since you seem to be so fond of the boys' company we
+LINE 300: shall indulge your taste for it this afternoon," he said sarcastically.
+LINE 301: "Take those flowers out of your hair and sit with Gilbert Blythe."
+LINE 302: The other boys snickered. Diana, turning pale with pity, plucked the
+LINE 303: wreath from Anne's hair and squeezed her hand. Anne stared at the master
+LINE 304: as if turned to stone.
+LINE 305: "Did you hear what I said, Anne?" queried Mr. Phillips sternly.
+LINE 306: "Yes, sir," said Anne slowly "but I didn't suppose you really meant it."
+LINE 307: "I assure you I did"--still with the sarcastic inflection which all the
+LINE 308: children, and Anne especially, hated. It flicked on the raw. "Obey me at
+LINE 309: once."
+LINE 310: For a moment Anne looked as if she meant to disobey. Then, realizing
+LINE 311: that there was no help for it, she rose haughtily, stepped across the
+LINE 312: aisle, sat down beside Gilbert Blythe, and buried her face in her arms
+LINE 313: on the desk. Ruby Gillis, who got a glimpse of it as it went down,
+LINE 314: told the others going home from school that she'd "acksually never seen
+LINE 315: anything like it--it was so white, with awful little red spots in it."
+LINE 316: To Anne, this was as the end of all things. It was bad enough to be
+LINE 317: singled out for punishment from among a dozen equally guilty ones; it
+LINE 318: was worse still to be sent to sit with a boy, but that that boy should
+LINE 319: be Gilbert Blythe was heaping insult on injury to a degree utterly
+LINE 320: unbearable. Anne felt that she could not bear it and it would be of
+LINE 321: no use to try. Her whole being seethed with shame and anger and
+LINE 322: humiliation.
+LINE 323: At first the other scholars looked and whispered and giggled and nudged.
+LINE 324: But as Anne never lifted her head and as Gilbert worked fractions as if
+LINE 325: his whole soul was absorbed in them and them only, they soon returned
+LINE 326: to their own tasks and Anne was forgotten. When Mr. Phillips called the
+LINE 327: history class out Anne should have gone, but Anne did not move, and
+LINE 328: Mr. Phillips, who had been writing some verses "To Priscilla" before he
+LINE 329: called the class, was thinking about an obstinate rhyme still and never
+LINE 330: missed her. Once, when nobody was looking, Gilbert took from his desk
+LINE 331: a little pink candy heart with a gold motto on it, "You are sweet," and
+LINE 332: slipped it under the curve of Anne's arm. Whereupon Anne arose, took the
+LINE 333: pink heart gingerly between the tips of her fingers, dropped it on the
+LINE 334: floor, ground it to powder beneath her heel, and resumed her position
+LINE 335: without deigning to bestow a glance on Gilbert.
+LINE 336: When school went out Anne marched to her desk, ostentatiously took out
+LINE 337: everything therein, books and writing tablet, pen and ink, testament and
+LINE 338: arithmetic, and piled them neatly on her cracked slate.
+LINE 339: "What are you taking all those things home for, Anne?" Diana wanted to
+LINE 340: know, as soon as they were out on the road. She had not dared to ask the
+LINE 341: question before.
+LINE 342: "I am not coming back to school any more," said Anne. Diana gasped and
+LINE 343: stared at Anne to see if she meant it.
+LINE 344: "Will Marilla let you stay home?" she asked.
+LINE 345: "She'll have to," said Anne. "I'll _never_ go to school to that man
+LINE 346: again."
+LINE 347: "Oh, Anne!" Diana looked as if she were ready to cry. "I do think you're
+LINE 348: mean. What shall I do? Mr. Phillips will make me sit with that horrid
+LINE 349: Gertie Pye--I know he will because she is sitting alone. Do come back,
+LINE 350: Anne."
+LINE 351: "I'd do almost anything in the world for you, Diana," said Anne sadly.
+LINE 352: "I'd let myself be torn limb from limb if it would do you any good. But
+LINE 353: I can't do this, so please don't ask it. You harrow up my very soul."
+LINE 354: "Just think of all the fun you will miss," mourned Diana. "We are going
+LINE 355: to build the loveliest new house down by the brook; and we'll be playing
+LINE 356: ball next week and you've never played ball, Anne. It's tremendously
+LINE 357: exciting. And we're going to learn a new song--Jane Andrews is
+LINE 358: practicing it up now; and Alice Andrews is going to bring a new Pansy
+LINE 359: book next week and we're all going to read it out loud, chapter about,
+LINE 360: down by the brook. And you know you are so fond of reading out loud,
+LINE 361: Anne."
+LINE 362: Nothing moved Anne in the least. Her mind was made up. She would not go
+LINE 363: to school to Mr. Phillips again; she told Marilla so when she got home.
+LINE 364: "Nonsense," said Marilla.
+LINE 365: "It isn't nonsense at all," said Anne, gazing at Marilla with solemn,
+LINE 366: reproachful eyes. "Don't you understand, Marilla? I've been insulted."
+LINE 367: "Insulted fiddlesticks! You'll go to school tomorrow as usual."
+LINE 368: "Oh, no." Anne shook her head gently. "I'm not going back, Marilla. I'll
+LINE 369: learn my lessons at home and I'll be as good as I can be and hold my
+LINE 370: tongue all the time if it's possible at all. But I will not go back to
+LINE 371: school, I assure you."
+LINE 372: Marilla saw something remarkably like unyielding stubbornness looking
+LINE 373: out of Anne's small face. She understood that she would have trouble in
+LINE 374: overcoming it; but she re-solved wisely to say nothing more just then.
+LINE 375: "I'll run down and see Rachel about it this evening," she thought.
+LINE 376: "There's no use reasoning with Anne now. She's too worked up and I've
+LINE 377: an idea she can be awful stubborn if she takes the notion. Far as I can
+LINE 378: make out from her story, Mr. Phillips has been carrying matters with a
+LINE 379: rather high hand. But it would never do to say so to her. I'll just talk
+LINE 380: it over with Rachel. She's sent ten children to school and she ought to
+LINE 381: know something about it. She'll have heard the whole story, too, by this
+LINE 382: time."
+LINE 383: Marilla found Mrs. Lynde knitting quilts as industriously and cheerfully
+LINE 384: as usual.
+LINE 385: "I suppose you know what I've come about," she said, a little
+LINE 386: shamefacedly.
+LINE 387: Mrs. Rachel nodded.
+LINE 388: "About Anne's fuss in school, I reckon," she said. "Tillie Boulter was
+LINE 389: in on her way home from school and told me about it."
+LINE 390: "I don't know what to do with her," said Marilla. "She declares she
+LINE 391: won't go back to school. I never saw a child so worked up. I've been
+LINE 392: expecting trouble ever since she started to school. I knew things were
+LINE 393: going too smooth to last. She's so high strung. What would you advise,
+LINE 394: Rachel?"
+LINE 395: "Well, since you've asked my advice, Marilla," said Mrs. Lynde
+LINE 396: amiably--Mrs. Lynde dearly loved to be asked for advice--"I'd just
+LINE 397: humor her a little at first, that's what I'd do. It's my belief that
+LINE 398: Mr. Phillips was in the wrong. Of course, it doesn't do to say so to the
+LINE 399: children, you know. And of course he did right to punish her yesterday
+LINE 400: for giving way to temper. But today it was different. The others who
+LINE 401: were late should have been punished as well as Anne, that's what. And I
+LINE 402: don't believe in making the girls sit with the boys for punishment. It
+LINE 403: isn't modest. Tillie Boulter was real indignant. She took Anne's part
+LINE 404: right through and said all the scholars did too. Anne seems real popular
+LINE 405: among them, somehow. I never thought she'd take with them so well."
+LINE 406: "Then you really think I'd better let her stay home," said Marilla in
+LINE 407: amazement.
+LINE 408: "Yes. That is I wouldn't say school to her again until she said it
+LINE 409: herself. Depend upon it, Marilla, she'll cool off in a week or so and
+LINE 410: be ready enough to go back of her own accord, that's what, while, if
+LINE 411: you were to make her go back right off, dear knows what freak or tantrum
+LINE 412: she'd take next and make more trouble than ever. The less fuss made the
+LINE 413: better, in my opinion. She won't miss much by not going to school, as
+LINE 414: far as _that_ goes. Mr. Phillips isn't any good at all as a teacher. The
+LINE 415: order he keeps is scandalous, that's what, and he neglects the young
+LINE 416: fry and puts all his time on those big scholars he's getting ready for
+LINE 417: Queen's. He'd never have got the school for another year if his uncle
+LINE 418: hadn't been a trustee--_the_ trustee, for he just leads the other two
+LINE 419: around by the nose, that's what. I declare, I don't know what education
+LINE 420: in this Island is coming to."
+LINE 421: Mrs. Rachel shook her head, as much as to say if she were only at the
+LINE 422: head of the educational system of the Province things would be much
+LINE 423: better managed.
+LINE 424: Marilla took Mrs. Rachel's advice and not another word was said to Anne
+LINE 425: about going back to school. She learned her lessons at home, did her
+LINE 426: chores, and played with Diana in the chilly purple autumn twilights;
+LINE 427: but when she met Gilbert Blythe on the road or encountered him in Sunday
+LINE 428: school she passed him by with an icy contempt that was no whit thawed by
+LINE 429: his evident desire to appease her. Even Diana's efforts as a peacemaker
+LINE 430: were of no avail. Anne had evidently made up her mind to hate Gilbert
+LINE 431: Blythe to the end of life.
+LINE 432: As much as she hated Gilbert, however, did she love Diana, with all the
+LINE 433: love of her passionate little heart, equally intense in its likes and
+LINE 434: dislikes. One evening Marilla, coming in from the orchard with a basket
+LINE 435: of apples, found Anne sitting along by the east window in the twilight,
+LINE 436: crying bitterly.
+LINE 437: "Whatever's the matter now, Anne?" she asked.
+LINE 438: "It's about Diana," sobbed Anne luxuriously. "I love Diana so, Marilla.
+LINE 439: I cannot ever live without her. But I know very well when we grow up
+LINE 440: that Diana will get married and go away and leave me. And oh, what shall
+LINE 441: I do? I hate her husband--I just hate him furiously. I've been imagining
+LINE 442: it all out--the wedding and everything--Diana dressed in snowy garments,
+LINE 443: with a veil, and looking as beautiful and regal as a queen; and me the
+LINE 444: bridesmaid, with a lovely dress too, and puffed sleeves, but with a
+LINE 445: breaking heart hid beneath my smiling face. And then bidding Diana
+LINE 446: goodbye-e-e--" Here Anne broke down entirely and wept with increasing
+LINE 447: bitterness.
+LINE 448: Marilla turned quickly away to hide her twitching face; but it was no
+LINE 449: use; she collapsed on the nearest chair and burst into such a hearty and
+LINE 450: unusual peal of laughter that Matthew, crossing the yard outside, halted
+LINE 451: in amazement. When had he heard Marilla laugh like that before?
+LINE 452: "Well, Anne Shirley," said Marilla as soon as she could speak, "if you
+LINE 453: must borrow trouble, for pity's sake borrow it handier home. I should
+LINE 454: think you had an imagination, sure enough."

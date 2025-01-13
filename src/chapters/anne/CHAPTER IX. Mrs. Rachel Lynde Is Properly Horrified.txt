@@ -1,0 +1,216 @@
+LINE 1: ANNE had been a fortnight at Green Gables before Mrs. Lynde arrived to
+LINE 2: inspect her. Mrs. Rachel, to do her justice, was not to blame for this.
+LINE 3: A severe and unseasonable attack of grippe had confined that good lady
+LINE 4: to her house ever since the occasion of her last visit to Green Gables.
+LINE 5: Mrs. Rachel was not often sick and had a well-defined contempt for
+LINE 6: people who were; but grippe, she asserted, was like no other illness on
+LINE 7: earth and could only be interpreted as one of the special visitations
+LINE 8: of Providence. As soon as her doctor allowed her to put her foot
+LINE 9: out-of-doors she hurried up to Green Gables, bursting with curiosity to
+LINE 10: see Matthew and Marilla's orphan, concerning whom all sorts of stories
+LINE 11: and suppositions had gone abroad in Avonlea.
+LINE 12: Anne had made good use of every waking moment of that fortnight. Already
+LINE 13: she was acquainted with every tree and shrub about the place. She had
+LINE 14: discovered that a lane opened out below the apple orchard and ran up
+LINE 15: through a belt of woodland; and she had explored it to its furthest end
+LINE 16: in all its delicious vagaries of brook and bridge, fir coppice and wild
+LINE 17: cherry arch, corners thick with fern, and branching byways of maple and
+LINE 18: mountain ash.
+LINE 19: She had made friends with the spring down in the hollow--that wonderful
+LINE 20: deep, clear icy-cold spring; it was set about with smooth red sandstones
+LINE 21: and rimmed in by great palm-like clumps of water fern; and beyond it was
+LINE 22: a log bridge over the brook.
+LINE 23: That bridge led Anne's dancing feet up over a wooded hill beyond, where
+LINE 24: perpetual twilight reigned under the straight, thick-growing firs and
+LINE 25: spruces; the only flowers there were myriads of delicate "June bells,"
+LINE 26: those shyest and sweetest of woodland blooms, and a few pale, aerial
+LINE 27: starflowers, like the spirits of last year's blossoms. Gossamers
+LINE 28: glimmered like threads of silver among the trees and the fir boughs and
+LINE 29: tassels seemed to utter friendly speech.
+LINE 30: All these raptured voyages of exploration were made in the odd half
+LINE 31: hours which she was allowed for play, and Anne talked Matthew and
+LINE 32: Marilla half-deaf over her discoveries. Not that Matthew complained, to
+LINE 33: be sure; he listened to it all with a wordless smile of enjoyment on his
+LINE 34: face; Marilla permitted the "chatter" until she found herself becoming
+LINE 35: too interested in it, whereupon she always promptly quenched Anne by a
+LINE 36: curt command to hold her tongue.
+LINE 37: Anne was out in the orchard when Mrs. Rachel came, wandering at her
+LINE 38: own sweet will through the lush, tremulous grasses splashed with ruddy
+LINE 39: evening sunshine; so that good lady had an excellent chance to talk
+LINE 40: her illness fully over, describing every ache and pulse beat with
+LINE 41: such evident enjoyment that Marilla thought even grippe must bring its
+LINE 42: compensations. When details were exhausted Mrs. Rachel introduced the
+LINE 43: real reason of her call.
+LINE 44: "I've been hearing some surprising things about you and Matthew."
+LINE 45: "I don't suppose you are any more surprised than I am myself," said
+LINE 46: Marilla. "I'm getting over my surprise now."
+LINE 47: "It was too bad there was such a mistake," said Mrs. Rachel
+LINE 48: sympathetically. "Couldn't you have sent her back?"
+LINE 49: "I suppose we could, but we decided not to. Matthew took a fancy to her.
+LINE 50: And I must say I like her myself--although I admit she has her faults.
+LINE 51: The house seems a different place already. She's a real bright little
+LINE 52: thing."
+LINE 53: Marilla said more than she had intended to say when she began, for she
+LINE 54: read disapproval in Mrs. Rachel's expression.
+LINE 55: "It's a great responsibility you've taken on yourself," said that
+LINE 56: lady gloomily, "especially when you've never had any experience with
+LINE 57: children. You don't know much about her or her real disposition, I
+LINE 58: suppose, and there's no guessing how a child like that will turn out.
+LINE 59: But I don't want to discourage you I'm sure, Marilla."
+LINE 60: "I'm not feeling discouraged," was Marilla's dry response, "when I make
+LINE 61: up my mind to do a thing it stays made up. I suppose you'd like to see
+LINE 62: Anne. I'll call her in."
+LINE 63: Anne came running in presently, her face sparkling with the delight of
+LINE 64: her orchard rovings; but, abashed at finding the delight herself in
+LINE 65: the unexpected presence of a stranger, she halted confusedly inside
+LINE 66: the door. She certainly was an odd-looking little creature in the short
+LINE 67: tight wincey dress she had worn from the asylum, below which her thin
+LINE 68: legs seemed ungracefully long. Her freckles were more numerous and
+LINE 69: obtrusive than ever; the wind had ruffled her hatless hair into
+LINE 70: over-brilliant disorder; it had never looked redder than at that moment.
+LINE 71: "Well, they didn't pick you for your looks, that's sure and certain,"
+LINE 72: was Mrs. Rachel Lynde's emphatic comment. Mrs. Rachel was one of those
+LINE 73: delightful and popular people who pride themselves on speaking their
+LINE 74: mind without fear or favor. "She's terrible skinny and homely, Marilla.
+LINE 75: Come here, child, and let me have a look at you. Lawful heart, did
+LINE 76: any one ever see such freckles? And hair as red as carrots! Come here,
+LINE 77: child, I say."
+LINE 78: Anne "came there," but not exactly as Mrs. Rachel expected. With one
+LINE 79: bound she crossed the kitchen floor and stood before Mrs. Rachel, her
+LINE 80: face scarlet with anger, her lips quivering, and her whole slender form
+LINE 81: trembling from head to foot.
+LINE 82: "I hate you," she cried in a choked voice, stamping her foot on the
+LINE 83: floor. "I hate you--I hate you--I hate you--" a louder stamp with each
+LINE 84: assertion of hatred. "How dare you call me skinny and ugly? How dare
+LINE 85: you say I'm freckled and redheaded? You are a rude, impolite, unfeeling
+LINE 86: woman!"
+LINE 87: "Anne!" exclaimed Marilla in consternation.
+LINE 88: But Anne continued to face Mrs. Rachel undauntedly, head up, eyes
+LINE 89: blazing, hands clenched, passionate indignation exhaling from her like
+LINE 90: an atmosphere.
+LINE 91: "How dare you say such things about me?" she repeated vehemently. "How
+LINE 92: would you like to have such things said about you? How would you like
+LINE 93: to be told that you are fat and clumsy and probably hadn't a spark of
+LINE 94: imagination in you? I don't care if I do hurt your feelings by saying
+LINE 95: so! I hope I hurt them. You have hurt mine worse than they were ever
+LINE 96: hurt before even by Mrs. Thomas' intoxicated husband. And I'll _never_
+LINE 97: forgive you for it, never, never!"
+LINE 98: Stamp! Stamp!
+LINE 99: "Did anybody ever see such a temper!" exclaimed the horrified Mrs.
+LINE 100: Rachel.
+LINE 101: "Anne go to your room and stay there until I come up," said Marilla,
+LINE 102: recovering her powers of speech with difficulty.
+LINE 103: Anne, bursting into tears, rushed to the hall door, slammed it until the
+LINE 104: tins on the porch wall outside rattled in sympathy, and fled through the
+LINE 105: hall and up the stairs like a whirlwind. A subdued slam above told that
+LINE 106: the door of the east gable had been shut with equal vehemence.
+LINE 107: "Well, I don't envy you your job bringing _that_ up, Marilla," said Mrs.
+LINE 108: Rachel with unspeakable solemnity.
+LINE 109: Marilla opened her lips to say she knew not what of apology or
+LINE 110: deprecation. What she did say was a surprise to herself then and ever
+LINE 111: afterwards.
+LINE 112: "You shouldn't have twitted her about her looks, Rachel."
+LINE 113: "Marilla Cuthbert, you don't mean to say that you are upholding her in
+LINE 114: such a terrible display of temper as we've just seen?" demanded Mrs.
+LINE 115: Rachel indignantly.
+LINE 116: "No," said Marilla slowly, "I'm not trying to excuse her. She's been
+LINE 117: very naughty and I'll have to give her a talking to about it. But we
+LINE 118: must make allowances for her. She's never been taught what is right. And
+LINE 119: you _were_ too hard on her, Rachel."
+LINE 120: Marilla could not help tacking on that last sentence, although she was
+LINE 121: again surprised at herself for doing it. Mrs. Rachel got up with an air
+LINE 122: of offended dignity.
+LINE 123: "Well, I see that I'll have to be very careful what I say after this,
+LINE 124: Marilla, since the fine feelings of orphans, brought from goodness
+LINE 125: knows where, have to be considered before anything else. Oh, no, I'm not
+LINE 126: vexed--don't worry yourself. I'm too sorry for you to leave any room for
+LINE 127: anger in my mind. You'll have your own troubles with that child. But
+LINE 128: if you'll take my advice--which I suppose you won't do, although I've
+LINE 129: brought up ten children and buried two--you'll do that 'talking to' you
+LINE 130: mention with a fair-sized birch switch. I should think _that_ would be the
+LINE 131: most effective language for that kind of a child. Her temper matches her
+LINE 132: hair I guess. Well, good evening, Marilla. I hope you'll come down to
+LINE 133: see me often as usual. But you can't expect me to visit here again in a
+LINE 134: hurry, if I'm liable to be flown at and insulted in such a fashion. It's
+LINE 135: something new in _my_ experience."
+LINE 136: Whereat Mrs. Rachel swept out and away--if a fat woman who always
+LINE 137: waddled _could_ be said to sweep away--and Marilla with a very solemn face
+LINE 138: betook herself to the east gable.
+LINE 139: On the way upstairs she pondered uneasily as to what she ought to do.
+LINE 140: She felt no little dismay over the scene that had just been enacted.
+LINE 141: How unfortunate that Anne should have displayed such temper before Mrs.
+LINE 142: Rachel Lynde, of all people! Then Marilla suddenly became aware of an
+LINE 143: uncomfortable and rebuking consciousness that she felt more humiliation
+LINE 144: over this than sorrow over the discovery of such a serious defect
+LINE 145: in Anne's disposition. And how was she to punish her? The amiable
+LINE 146: suggestion of the birch switch--to the efficiency of which all of Mrs.
+LINE 147: Rachel's own children could have borne smarting testimony--did not
+LINE 148: appeal to Marilla. She did not believe she could whip a child. No,
+LINE 149: some other method of punishment must be found to bring Anne to a proper
+LINE 150: realization of the enormity of her offense.
+LINE 151: Marilla found Anne face downward on her bed, crying bitterly, quite
+LINE 152: oblivious of muddy boots on a clean counterpane.
+LINE 153: "Anne," she said not ungently.
+LINE 154: No answer.
+LINE 155: "Anne," with greater severity, "get off that bed this minute and listen
+LINE 156: to what I have to say to you."
+LINE 157: Anne squirmed off the bed and sat rigidly on a chair beside it, her face
+LINE 158: swollen and tear-stained and her eyes fixed stubbornly on the floor.
+LINE 159: "This is a nice way for you to behave. Anne! Aren't you ashamed of
+LINE 160: yourself?"
+LINE 161: "She hadn't any right to call me ugly and redheaded," retorted Anne,
+LINE 162: evasive and defiant.
+LINE 163: "You hadn't any right to fly into such a fury and talk the way you did
+LINE 164: to her, Anne. I was ashamed of you--thoroughly ashamed of you. I
+LINE 165: wanted you to behave nicely to Mrs. Lynde, and instead of that you have
+LINE 166: disgraced me. I'm sure I don't know why you should lose your temper like
+LINE 167: that just because Mrs. Lynde said you were red-haired and homely. You
+LINE 168: say it yourself often enough."
+LINE 169: "Oh, but there's such a difference between saying a thing yourself and
+LINE 170: hearing other people say it," wailed Anne. "You may know a thing is
+LINE 171: so, but you can't help hoping other people don't quite think it is. I
+LINE 172: suppose you think I have an awful temper, but I couldn't help it. When
+LINE 173: she said those things something just rose right up in me and choked me.
+LINE 174: I _had_ to fly out at her."
+LINE 175: "Well, you made a fine exhibition of yourself I must say. Mrs. Lynde
+LINE 176: will have a nice story to tell about you everywhere--and she'll tell
+LINE 177: it, too. It was a dreadful thing for you to lose your temper like that,
+LINE 178: Anne."
+LINE 179: "Just imagine how you would feel if somebody told you to your face that
+LINE 180: you were skinny and ugly," pleaded Anne tearfully.
+LINE 181: An old remembrance suddenly rose up before Marilla. She had been a very
+LINE 182: small child when she had heard one aunt say of her to another, "What a
+LINE 183: pity she is such a dark, homely little thing." Marilla was every day of
+LINE 184: fifty before the sting had gone out of that memory.
+LINE 185: "I don't say that I think Mrs. Lynde was exactly right in saying what
+LINE 186: she did to you, Anne," she admitted in a softer tone. "Rachel is too
+LINE 187: outspoken. But that is no excuse for such behavior on your part. She
+LINE 188: was a stranger and an elderly person and my visitor--all three very good
+LINE 189: reasons why you should have been respectful to her. You were rude and
+LINE 190: saucy and"--Marilla had a saving inspiration of punishment--"you must go
+LINE 191: to her and tell her you are very sorry for your bad temper and ask her
+LINE 192: to forgive you."
+LINE 193: "I can never do that," said Anne determinedly and darkly. "You can
+LINE 194: punish me in any way you like, Marilla. You can shut me up in a dark,
+LINE 195: damp dungeon inhabited by snakes and toads and feed me only on bread and
+LINE 196: water and I shall not complain. But I cannot ask Mrs. Lynde to forgive
+LINE 197: me."
+LINE 198: "We're not in the habit of shutting people up in dark damp dungeons,"
+LINE 199: said Marilla drily, "especially as they're rather scarce in Avonlea. But
+LINE 200: apologize to Mrs. Lynde you must and shall and you'll stay here in your
+LINE 201: room until you can tell me you're willing to do it."
+LINE 202: "I shall have to stay here forever then," said Anne mournfully, "because
+LINE 203: I can't tell Mrs. Lynde I'm sorry I said those things to her. How can
+LINE 204: I? I'm _not_ sorry. I'm sorry I've vexed you; but I'm _glad_ I told her just
+LINE 205: what I did. It was a great satisfaction. I can't say I'm sorry when I'm
+LINE 206: not, can I? I can't even _imagine_ I'm sorry."
+LINE 207: "Perhaps your imagination will be in better working order by the
+LINE 208: morning," said Marilla, rising to depart. "You'll have the night to
+LINE 209: think over your conduct in and come to a better frame of mind. You said
+LINE 210: you would try to be a very good girl if we kept you at Green Gables, but
+LINE 211: I must say it hasn't seemed very much like it this evening."
+LINE 212: Leaving this Parthian shaft to rankle in Anne's stormy bosom, Marilla
+LINE 213: descended to the kitchen, grievously troubled in mind and vexed in
+LINE 214: soul. She was as angry with herself as with Anne, because, whenever she
+LINE 215: recalled Mrs. Rachel's dumbfounded countenance her lips twitched with
+LINE 216: amusement and she felt a most reprehensible desire to laugh.

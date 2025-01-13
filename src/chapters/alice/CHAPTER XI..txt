@@ -1,0 +1,181 @@
+LINE 1: Who Stole the Tarts?
+LINE 2: The King and Queen of Hearts were seated on their throne when they
+LINE 3: arrived, with a great crowd assembled about them—all sorts of little
+LINE 4: birds and beasts, as well as the whole pack of cards: the Knave was
+LINE 5: standing before them, in chains, with a soldier on each side to guard
+LINE 6: him; and near the King was the White Rabbit, with a trumpet in one
+LINE 7: hand, and a scroll of parchment in the other. In the very middle of the
+LINE 8: court was a table, with a large dish of tarts upon it: they looked so
+LINE 9: good, that it made Alice quite hungry to look at them—"I wish they'd
+LINE 10: get the trial done," she thought, "and hand round the refreshments!"
+LINE 11: But there seemed to be no chance of this, so she began looking at
+LINE 12: everything about her, to pass away the time.
+LINE 13: Alice had never been in a court of justice before, but she had read
+LINE 14: about them in books, and she was quite pleased to find that she knew
+LINE 15: the name of nearly everything there. "That's the judge," she said to
+LINE 16: herself, "because of his great wig."
+LINE 17: The judge, by the way, was the King; and as he wore his crown over the
+LINE 18: wig, (look at the frontispiece if you want to see how he did it,) he
+LINE 19: did not look at all comfortable, and it was certainly not becoming.
+LINE 20: "And that's the jury-box," thought Alice, "and those twelve creatures,"
+LINE 21: (she was obliged to say "creatures," you see, because some of them were
+LINE 22: animals, and some were birds,) "I suppose they are the jurors." She
+LINE 23: said this last word two or three times over to herself, being rather
+LINE 24: proud of it: for she thought, and rightly too, that very few little
+LINE 25: girls of her age knew the meaning of it at all. However, "jury-men"
+LINE 26: would have done just as well.
+LINE 27: The twelve jurors were all writing very busily on slates. "What are
+LINE 28: they doing?" Alice whispered to the Gryphon. "They can't have anything
+LINE 29: to put down yet, before the trial's begun."
+LINE 30: "They're putting down their names," the Gryphon whispered in reply,
+LINE 31: "for fear they should forget them before the end of the trial."
+LINE 32: "Stupid things!" Alice began in a loud, indignant voice, but she
+LINE 33: stopped hastily, for the White Rabbit cried out, "Silence in the
+LINE 34: court!" and the King put on his spectacles and looked anxiously round,
+LINE 35: to make out who was talking.
+LINE 36: Alice could see, as well as if she were looking over their shoulders,
+LINE 37: that all the jurors were writing down "stupid things!" on their slates,
+LINE 38: and she could even make out that one of them didn't know how to spell
+LINE 39: "stupid," and that he had to ask his neighbour to tell him. "A nice
+LINE 40: muddle their slates'll be in before the trial's over!" thought Alice.
+LINE 41: One of the jurors had a pencil that squeaked. This of course, Alice
+LINE 42: could _not_ stand, and she went round the court and got behind him, and
+LINE 43: very soon found an opportunity of taking it away. She did it so quickly
+LINE 44: that the poor little juror (it was Bill, the Lizard) could not make out
+LINE 45: at all what had become of it; so, after hunting all about for it, he
+LINE 46: was obliged to write with one finger for the rest of the day; and this
+LINE 47: was of very little use, as it left no mark on the slate.
+LINE 48: "Herald, read the accusation!" said the King.
+LINE 49: On this the White Rabbit blew three blasts on the trumpet, and then
+LINE 50: unrolled the parchment scroll, and read as follows:—
+LINE 51: "The Queen of Hearts, she made some tarts,
+LINE 52: All on a summer day:
+LINE 53: The Knave of Hearts, he stole those tarts,
+LINE 54: And took them quite away!"
+LINE 55: "Consider your verdict," the King said to the jury.
+LINE 56: "Not yet, not yet!" the Rabbit hastily interrupted. "There's a great
+LINE 57: deal to come before that!"
+LINE 58: "Call the first witness," said the King; and the White Rabbit blew
+LINE 59: three blasts on the trumpet, and called out, "First witness!"
+LINE 60: The first witness was the Hatter. He came in with a teacup in one hand
+LINE 61: and a piece of bread-and-butter in the other. "I beg pardon, your
+LINE 62: Majesty," he began, "for bringing these in: but I hadn't quite finished
+LINE 63: my tea when I was sent for."
+LINE 64: "You ought to have finished," said the King. "When did you begin?"
+LINE 65: The Hatter looked at the March Hare, who had followed him into the
+LINE 66: court, arm-in-arm with the Dormouse. "Fourteenth of March, I _think_ it
+LINE 67: was," he said.
+LINE 68: "Fifteenth," said the March Hare.
+LINE 69: "Sixteenth," added the Dormouse.
+LINE 70: "Write that down," the King said to the jury, and the jury eagerly
+LINE 71: wrote down all three dates on their slates, and then added them up, and
+LINE 72: reduced the answer to shillings and pence.
+LINE 73: "Take off your hat," the King said to the Hatter.
+LINE 74: "It isn't mine," said the Hatter.
+LINE 75: "_Stolen!_" the King exclaimed, turning to the jury, who instantly made
+LINE 76: a memorandum of the fact.
+LINE 77: "I keep them to sell," the Hatter added as an explanation; "I've none
+LINE 78: of my own. I'm a hatter."
+LINE 79: Here the Queen put on her spectacles, and began staring at the Hatter,
+LINE 80: who turned pale and fidgeted.
+LINE 81: "Give your evidence," said the King; "and don't be nervous, or I'll
+LINE 82: have you executed on the spot."
+LINE 83: This did not seem to encourage the witness at all: he kept shifting
+LINE 84: from one foot to the other, looking uneasily at the Queen, and in his
+LINE 85: confusion he bit a large piece out of his teacup instead of the
+LINE 86: bread-and-butter.
+LINE 87: Just at this moment Alice felt a very curious sensation, which puzzled
+LINE 88: her a good deal until she made out what it was: she was beginning to
+LINE 89: grow larger again, and she thought at first she would get up and leave
+LINE 90: the court; but on second thoughts she decided to remain where she was
+LINE 91: as long as there was room for her.
+LINE 92: "I wish you wouldn't squeeze so." said the Dormouse, who was sitting
+LINE 93: next to her. "I can hardly breathe."
+LINE 94: "I can't help it," said Alice very meekly: "I'm growing."
+LINE 95: "You've no right to grow _here_," said the Dormouse.
+LINE 96: "Don't talk nonsense," said Alice more boldly: "you know you're growing
+LINE 97: too."
+LINE 98: "Yes, but _I_ grow at a reasonable pace," said the Dormouse: "not in
+LINE 99: that ridiculous fashion." And he got up very sulkily and crossed over
+LINE 100: to the other side of the court.
+LINE 101: All this time the Queen had never left off staring at the Hatter, and,
+LINE 102: just as the Dormouse crossed the court, she said to one of the officers
+LINE 103: of the court, "Bring me the list of the singers in the last concert!"
+LINE 104: on which the wretched Hatter trembled so, that he shook both his shoes
+LINE 105: off.
+LINE 106: "Give your evidence," the King repeated angrily, "or I'll have you
+LINE 107: executed, whether you're nervous or not."
+LINE 108: "I'm a poor man, your Majesty," the Hatter began, in a trembling voice,
+LINE 109: "—and I hadn't begun my tea—not above a week or so—and what with the
+LINE 110: bread-and-butter getting so thin—and the twinkling of the tea—"
+LINE 111: "The twinkling of the _what?_" said the King.
+LINE 112: "It _began_ with the tea," the Hatter replied.
+LINE 113: "Of course twinkling begins with a T!" said the King sharply. "Do you
+LINE 114: take me for a dunce? Go on!"
+LINE 115: "I'm a poor man," the Hatter went on, "and most things twinkled after
+LINE 116: that—only the March Hare said—"
+LINE 117: "I didn't!" the March Hare interrupted in a great hurry.
+LINE 118: "You did!" said the Hatter.
+LINE 119: "I deny it!" said the March Hare.
+LINE 120: "He denies it," said the King: "leave out that part."
+LINE 121: "Well, at any rate, the Dormouse said—" the Hatter went on, looking
+LINE 122: anxiously round to see if he would deny it too: but the Dormouse denied
+LINE 123: nothing, being fast asleep.
+LINE 124: "After that," continued the Hatter, "I cut some more bread-and-butter—"
+LINE 125: "But what did the Dormouse say?" one of the jury asked.
+LINE 126: "That I can't remember," said the Hatter.
+LINE 127: "You _must_ remember," remarked the King, "or I'll have you executed."
+LINE 128: The miserable Hatter dropped his teacup and bread-and-butter, and went
+LINE 129: down on one knee. "I'm a poor man, your Majesty," he began.
+LINE 130: "You're a _very_ poor _speaker_," said the King.
+LINE 131: Here one of the guinea-pigs cheered, and was immediately suppressed by
+LINE 132: the officers of the court. (As that is rather a hard word, I will just
+LINE 133: explain to you how it was done. They had a large canvas bag, which tied
+LINE 134: up at the mouth with strings: into this they slipped the guinea-pig,
+LINE 135: head first, and then sat upon it.)
+LINE 136: "I'm glad I've seen that done," thought Alice. "I've so often read in
+LINE 137: the newspapers, at the end of trials, "There was some attempts at
+LINE 138: applause, which was immediately suppressed by the officers of the
+LINE 139: court," and I never understood what it meant till now."
+LINE 140: "If that's all you know about it, you may stand down," continued the
+LINE 141: King.
+LINE 142: "I can't go no lower," said the Hatter: "I'm on the floor, as it is."
+LINE 143: "Then you may _sit_ down," the King replied.
+LINE 144: Here the other guinea-pig cheered, and was suppressed.
+LINE 145: "Come, that finished the guinea-pigs!" thought Alice. "Now we shall get
+LINE 146: on better."
+LINE 147: "I'd rather finish my tea," said the Hatter, with an anxious look at
+LINE 148: the Queen, who was reading the list of singers.
+LINE 149: "You may go," said the King, and the Hatter hurriedly left the court,
+LINE 150: without even waiting to put his shoes on.
+LINE 151: "—and just take his head off outside," the Queen added to one of the
+LINE 152: officers: but the Hatter was out of sight before the officer could get
+LINE 153: to the door.
+LINE 154: "Call the next witness!" said the King.
+LINE 155: The next witness was the Duchess's cook. She carried the pepper-box in
+LINE 156: her hand, and Alice guessed who it was, even before she got into the
+LINE 157: court, by the way the people near the door began sneezing all at once.
+LINE 158: "Give your evidence," said the King.
+LINE 159: "Shan't," said the cook.
+LINE 160: The King looked anxiously at the White Rabbit, who said in a low voice,
+LINE 161: "Your Majesty must cross-examine _this_ witness."
+LINE 162: "Well, if I must, I must," the King said, with a melancholy air, and,
+LINE 163: after folding his arms and frowning at the cook till his eyes were
+LINE 164: nearly out of sight, he said in a deep voice, "What are tarts made of?"
+LINE 165: "Pepper, mostly," said the cook.
+LINE 166: "Treacle," said a sleepy voice behind her.
+LINE 167: "Collar that Dormouse," the Queen shrieked out. "Behead that Dormouse!
+LINE 168: Turn that Dormouse out of court! Suppress him! Pinch him! Off with his
+LINE 169: whiskers!"
+LINE 170: For some minutes the whole court was in confusion, getting the Dormouse
+LINE 171: turned out, and, by the time they had settled down again, the cook had
+LINE 172: disappeared.
+LINE 173: "Never mind!" said the King, with an air of great relief. "Call the
+LINE 174: next witness." And he added in an undertone to the Queen, "Really, my
+LINE 175: dear, _you_ must cross-examine the next witness. It quite makes my
+LINE 176: forehead ache!"
+LINE 177: Alice watched the White Rabbit as he fumbled over the list, feeling
+LINE 178: very curious to see what the next witness would be like, "—for they
+LINE 179: haven't got much evidence _yet_," she said to herself. Imagine her
+LINE 180: surprise, when the White Rabbit read out, at the top of his shrill
+LINE 181: little voice, the name "Alice!"

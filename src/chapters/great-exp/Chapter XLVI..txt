@@ -1,0 +1,252 @@
+LINE 1: Eight o'clock had struck before I got into the air, that was scented,
+LINE 2: not disagreeably, by the chips and shavings of the long-shore
+LINE 3: boat-builders, and mast, oar, and block makers. All that water-side
+LINE 4: region of the upper and lower Pool below Bridge was unknown ground to
+LINE 5: me; and when I struck down by the river, I found that the spot I wanted
+LINE 6: was not where I had supposed it to be, and was anything but easy to
+LINE 7: find. It was called Mill Pond Bank, Chinks's Basin; and I had no other
+LINE 8: guide to Chinks's Basin than the Old Green Copper Rope-walk.
+LINE 9: It matters not what stranded ships repairing in dry docks I lost myself
+LINE 10: among, what old hulls of ships in course of being knocked to pieces,
+LINE 11: what ooze and slime and other dregs of tide, what yards of
+LINE 12: ship-builders and ship-breakers, what rusty anchors blindly biting into
+LINE 13: the ground, though for years off duty, what mountainous country of
+LINE 14: accumulated casks and timber, how many rope-walks that were not the Old
+LINE 15: Green Copper. After several times falling short of my destination and
+LINE 16: as often overshooting it, I came unexpectedly round a corner, upon Mill
+LINE 17: Pond Bank. It was a fresh kind of place, all circumstances considered,
+LINE 18: where the wind from the river had room to turn itself round; and there
+LINE 19: were two or three trees in it, and there was the stump of a ruined
+LINE 20: windmill, and there was the Old Green Copper Rope-walk,—whose long and
+LINE 21: narrow vista I could trace in the moonlight, along a series of wooden
+LINE 22: frames set in the ground, that looked like superannuated
+LINE 23: haymaking-rakes which had grown old and lost most of their teeth.
+LINE 24: Selecting from the few queer houses upon Mill Pond Bank a house with a
+LINE 25: wooden front and three stories of bow-window (not bay-window, which is
+LINE 26: another thing), I looked at the plate upon the door, and read there,
+LINE 27: Mrs. Whimple. That being the name I wanted, I knocked, and an elderly
+LINE 28: woman of a pleasant and thriving appearance responded. She was
+LINE 29: immediately deposed, however, by Herbert, who silently led me into the
+LINE 30: parlour and shut the door. It was an odd sensation to see his very
+LINE 31: familiar face established quite at home in that very unfamiliar room
+LINE 32: and region; and I found myself looking at him, much as I looked at the
+LINE 33: corner-cupboard with the glass and china, the shells upon the
+LINE 34: chimney-piece, and the coloured engravings on the wall, representing
+LINE 35: the death of Captain Cook, a ship-launch, and his Majesty King George
+LINE 36: the Third in a state coachman's wig, leather-breeches, and top-boots,
+LINE 37: on the terrace at Windsor.
+LINE 38: "All is well, Handel," said Herbert, "and he is quite satisfied, though
+LINE 39: eager to see you. My dear girl is with her father; and if you'll wait
+LINE 40: till she comes down, I'll make you known to her, and then we'll go
+LINE 41: upstairs. _That's_ her father."
+LINE 42: I had become aware of an alarming growling overhead, and had probably
+LINE 43: expressed the fact in my countenance.
+LINE 44: "I am afraid he is a sad old rascal," said Herbert, smiling, "but I
+LINE 45: have never seen him. Don't you smell rum? He is always at it."
+LINE 46: "At rum?" said I.
+LINE 47: "Yes," returned Herbert, "and you may suppose how mild it makes his
+LINE 48: gout. He persists, too, in keeping all the provisions upstairs in his
+LINE 49: room, and serving them out. He keeps them on shelves over his head, and
+LINE 50: _will_ weigh them all. His room must be like a chandler's shop."
+LINE 51: While he thus spoke, the growling noise became a prolonged roar, and
+LINE 52: then died away.
+LINE 53: "What else can be the consequence," said Herbert, in explanation, "if
+LINE 54: he _will_ cut the cheese? A man with the gout in his right hand—and
+LINE 55: everywhere else—can't expect to get through a Double Gloucester without
+LINE 56: hurting himself."
+LINE 57: He seemed to have hurt himself very much, for he gave another furious
+LINE 58: roar.
+LINE 59: "To have Provis for an upper lodger is quite a godsend to Mrs.
+LINE 60: Whimple," said Herbert, "for of course people in general won't stand
+LINE 61: that noise. A curious place, Handel; isn't it?"
+LINE 62: It was a curious place, indeed; but remarkably well kept and clean.
+LINE 63: "Mrs. Whimple," said Herbert, when I told him so, "is the best of
+LINE 64: housewives, and I really do not know what my Clara would do without her
+LINE 65: motherly help. For, Clara has no mother of her own, Handel, and no
+LINE 66: relation in the world but old Gruffandgrim."
+LINE 67: "Surely that's not his name, Herbert?"
+LINE 68: "No, no," said Herbert, "that's my name for him. His name is Mr.
+LINE 69: Barley. But what a blessing it is for the son of my father and mother
+LINE 70: to love a girl who has no relations, and who can never bother herself
+LINE 71: or anybody else about her family!"
+LINE 72: Herbert had told me on former occasions, and now reminded me, that he
+LINE 73: first knew Miss Clara Barley when she was completing her education at
+LINE 74: an establishment at Hammersmith, and that on her being recalled home to
+LINE 75: nurse her father, he and she had confided their affection to the
+LINE 76: motherly Mrs. Whimple, by whom it had been fostered and regulated with
+LINE 77: equal kindness and discretion, ever since. It was understood that
+LINE 78: nothing of a tender nature could possibly be confided to old Barley, by
+LINE 79: reason of his being totally unequal to the consideration of any subject
+LINE 80: more psychological than Gout, Rum, and Purser's stores.
+LINE 81: As we were thus conversing in a low tone while Old Barley's sustained
+LINE 82: growl vibrated in the beam that crossed the ceiling, the room door
+LINE 83: opened, and a very pretty, slight, dark-eyed girl of twenty or so came
+LINE 84: in with a basket in her hand: whom Herbert tenderly relieved of the
+LINE 85: basket, and presented, blushing, as "Clara." She really was a most
+LINE 86: charming girl, and might have passed for a captive fairy, whom that
+LINE 87: truculent Ogre, Old Barley, had pressed into his service.
+LINE 88: "Look here," said Herbert, showing me the basket, with a compassionate
+LINE 89: and tender smile, after we had talked a little; "here's poor Clara's
+LINE 90: supper, served out every night. Here's her allowance of bread, and
+LINE 91: here's her slice of cheese, and here's her rum,—which I drink. This is
+LINE 92: Mr. Barley's breakfast for to-morrow, served out to be cooked. Two
+LINE 93: mutton-chops, three potatoes, some split peas, a little flour, two
+LINE 94: ounces of butter, a pinch of salt, and all this black pepper. It's
+LINE 95: stewed up together, and taken hot, and it's a nice thing for the gout,
+LINE 96: I should think!"
+LINE 97: There was something so natural and winning in Clara's resigned way of
+LINE 98: looking at these stores in detail, as Herbert pointed them out; and
+LINE 99: something so confiding, loving, and innocent in her modest manner of
+LINE 100: yielding herself to Herbert's embracing arm; and something so gentle in
+LINE 101: her, so much needing protection on Mill Pond Bank, by Chinks's Basin,
+LINE 102: and the Old Green Copper Rope-walk, with Old Barley growling in the
+LINE 103: beam,—that I would not have undone the engagement between her and
+LINE 104: Herbert for all the money in the pocket-book I had never opened.
+LINE 105: I was looking at her with pleasure and admiration, when suddenly the
+LINE 106: growl swelled into a roar again, and a frightful bumping noise was
+LINE 107: heard above, as if a giant with a wooden leg were trying to bore it
+LINE 108: through the ceiling to come at us. Upon this Clara said to Herbert,
+LINE 109: "Papa wants me, darling!" and ran away.
+LINE 110: "There is an unconscionable old shark for you!" said Herbert. "What do
+LINE 111: you suppose he wants now, Handel?"
+LINE 112: "I don't know," said I. "Something to drink?"
+LINE 113: "That's it!" cried Herbert, as if I had made a guess of extraordinary
+LINE 114: merit. "He keeps his grog ready mixed in a little tub on the table.
+LINE 115: Wait a moment, and you'll hear Clara lift him up to take some. There he
+LINE 116: goes!" Another roar, with a prolonged shake at the end. "Now," said
+LINE 117: Herbert, as it was succeeded by silence, "he's drinking. Now," said
+LINE 118: Herbert, as the growl resounded in the beam once more, "he's down again
+LINE 119: on his back!"
+LINE 120: Clara returned soon afterwards, and Herbert accompanied me upstairs to
+LINE 121: see our charge. As we passed Mr. Barley's door, he was heard hoarsely
+LINE 122: muttering within, in a strain that rose and fell like wind, the
+LINE 123: following Refrain, in which I substitute good wishes for something
+LINE 124: quite the reverse:—
+LINE 125: "Ahoy! Bless your eyes, here's old Bill Barley. Here's old Bill Barley,
+LINE 126: bless your eyes. Here's old Bill Barley on the flat of his back, by the
+LINE 127: Lord. Lying on the flat of his back like a drifting old dead flounder,
+LINE 128: here's your old Bill Barley, bless your eyes. Ahoy! Bless you."
+LINE 129: In this strain of consolation, Herbert informed me the invisible Barley
+LINE 130: would commune with himself by the day and night together; Often, while
+LINE 131: it was light, having, at the same time, one eye at a telescope which
+LINE 132: was fitted on his bed for the convenience of sweeping the river.
+LINE 133: In his two cabin rooms at the top of the house, which were fresh and
+LINE 134: airy, and in which Mr. Barley was less audible than below, I found
+LINE 135: Provis comfortably settled. He expressed no alarm, and seemed to feel
+LINE 136: none that was worth mentioning; but it struck me that he was
+LINE 137: softened,—indefinably, for I could not have said how, and could never
+LINE 138: afterwards recall how when I tried, but certainly.
+LINE 139: The opportunity that the day's rest had given me for reflection had
+LINE 140: resulted in my fully determining to say nothing to him respecting
+LINE 141: Compeyson. For anything I knew, his animosity towards the man might
+LINE 142: otherwise lead to his seeking him out and rushing on his own
+LINE 143: destruction. Therefore, when Herbert and I sat down with him by his
+LINE 144: fire, I asked him first of all whether he relied on Wemmick's judgment
+LINE 145: and sources of information?
+LINE 146: "Ay, ay, dear boy!" he answered, with a grave nod, "Jaggers knows."
+LINE 147: "Then, I have talked with Wemmick," said I, "and have come to tell you
+LINE 148: what caution he gave me and what advice."
+LINE 149: This I did accurately, with the reservation just mentioned; and I told
+LINE 150: him how Wemmick had heard, in Newgate prison (whether from officers or
+LINE 151: prisoners I could not say), that he was under some suspicion, and that
+LINE 152: my chambers had been watched; how Wemmick had recommended his keeping
+LINE 153: close for a time, and my keeping away from him; and what Wemmick had
+LINE 154: said about getting him abroad. I added, that of course, when the time
+LINE 155: came, I should go with him, or should follow close upon him, as might
+LINE 156: be safest in Wemmick's judgment. What was to follow that I did not
+LINE 157: touch upon; neither, indeed, was I at all clear or comfortable about it
+LINE 158: in my own mind, now that I saw him in that softer condition, and in
+LINE 159: declared peril for my sake. As to altering my way of living by
+LINE 160: enlarging my expenses, I put it to him whether in our present unsettled
+LINE 161: and difficult circumstances, it would not be simply ridiculous, if it
+LINE 162: were no worse?
+LINE 163: He could not deny this, and indeed was very reasonable throughout. His
+LINE 164: coming back was a venture, he said, and he had always known it to be a
+LINE 165: venture. He would do nothing to make it a desperate venture, and he had
+LINE 166: very little fear of his safety with such good help.
+LINE 167: Herbert, who had been looking at the fire and pondering, here said that
+LINE 168: something had come into his thoughts arising out of Wemmick's
+LINE 169: suggestion, which it might be worth while to pursue. "We are both good
+LINE 170: watermen, Handel, and could take him down the river ourselves when the
+LINE 171: right time comes. No boat would then be hired for the purpose, and no
+LINE 172: boatmen; that would save at least a chance of suspicion, and any chance
+LINE 173: is worth saving. Never mind the season; don't you think it might be a
+LINE 174: good thing if you began at once to keep a boat at the Temple stairs,
+LINE 175: and were in the habit of rowing up and down the river? You fall into
+LINE 176: that habit, and then who notices or minds? Do it twenty or fifty times,
+LINE 177: and there is nothing special in your doing it the twenty-first or
+LINE 178: fifty-first."
+LINE 179: I liked this scheme, and Provis was quite elated by it. We agreed that
+LINE 180: it should be carried into execution, and that Provis should never
+LINE 181: recognise us if we came below Bridge, and rowed past Mill Pond Bank.
+LINE 182: But we further agreed that he should pull down the blind in that part
+LINE 183: of his window which gave upon the east, whenever he saw us and all was
+LINE 184: right.
+LINE 185: Our conference being now ended, and everything arranged, I rose to go;
+LINE 186: remarking to Herbert that he and I had better not go home together, and
+LINE 187: that I would take half an hour's start of him. "I don't like to leave
+LINE 188: you here," I said to Provis, "though I cannot doubt your being safer
+LINE 189: here than near me. Good-bye!"
+LINE 190: "Dear boy," he answered, clasping my hands, "I don't know when we may
+LINE 191: meet again, and I don't like good-bye. Say good-night!"
+LINE 192: "Good-night! Herbert will go regularly between us, and when the time
+LINE 193: comes you may be certain I shall be ready. Good-night, good-night!"
+LINE 194: We thought it best that he should stay in his own rooms; and we left
+LINE 195: him on the landing outside his door, holding a light over the
+LINE 196: stair-rail to light us downstairs. Looking back at him, I thought of
+LINE 197: the first night of his return, when our positions were reversed, and
+LINE 198: when I little supposed my heart could ever be as heavy and anxious at
+LINE 199: parting from him as it was now.
+LINE 200: Old Barley was growling and swearing when we repassed his door, with no
+LINE 201: appearance of having ceased or of meaning to cease. When we got to the
+LINE 202: foot of the stairs, I asked Herbert whether he had preserved the name
+LINE 203: of Provis. He replied, certainly not, and that the lodger was Mr.
+LINE 204: Campbell. He also explained that the utmost known of Mr. Campbell there
+LINE 205: was, that he (Herbert) had Mr. Campbell consigned to him, and felt a
+LINE 206: strong personal interest in his being well cared for, and living a
+LINE 207: secluded life. So, when we went into the parlour where Mrs. Whimple and
+LINE 208: Clara were seated at work, I said nothing of my own interest in Mr.
+LINE 209: Campbell, but kept it to myself.
+LINE 210: When I had taken leave of the pretty, gentle, dark-eyed girl, and of
+LINE 211: the motherly woman who had not outlived her honest sympathy with a
+LINE 212: little affair of true love, I felt as if the Old Green Copper Rope-walk
+LINE 213: had grown quite a different place. Old Barley might be as old as the
+LINE 214: hills, and might swear like a whole field of troopers, but there were
+LINE 215: redeeming youth and trust and hope enough in Chinks's Basin to fill it
+LINE 216: to overflowing. And then I thought of Estella, and of our parting, and
+LINE 217: went home very sadly.
+LINE 218: All things were as quiet in the Temple as ever I had seen them. The
+LINE 219: windows of the rooms on that side, lately occupied by Provis, were dark
+LINE 220: and still, and there was no lounger in Garden Court. I walked past the
+LINE 221: fountain twice or thrice before I descended the steps that were between
+LINE 222: me and my rooms, but I was quite alone. Herbert, coming to my bedside
+LINE 223: when he came in,—for I went straight to bed, dispirited and
+LINE 224: fatigued,—made the same report. Opening one of the windows after that,
+LINE 225: he looked out into the moonlight, and told me that the pavement was as
+LINE 226: solemnly empty as the pavement of any cathedral at that same hour.
+LINE 227: Next day I set myself to get the boat. It was soon done, and the boat
+LINE 228: was brought round to the Temple stairs, and lay where I could reach her
+LINE 229: within a minute or two. Then, I began to go out as for training and
+LINE 230: practice: sometimes alone, sometimes with Herbert. I was often out in
+LINE 231: cold, rain, and sleet, but nobody took much note of me after I had been
+LINE 232: out a few times. At first, I kept above Blackfriars Bridge; but as the
+LINE 233: hours of the tide changed, I took towards London Bridge. It was Old
+LINE 234: London Bridge in those days, and at certain states of the tide there
+LINE 235: was a race and fall of water there which gave it a bad reputation. But
+LINE 236: I knew well enough how to 'shoot' the bridge after seeing it done, and
+LINE 237: so began to row about among the shipping in the Pool, and down to
+LINE 238: Erith. The first time I passed Mill Pond Bank, Herbert and I were
+LINE 239: pulling a pair of oars; and, both in going and returning, we saw the
+LINE 240: blind towards the east come down. Herbert was rarely there less
+LINE 241: frequently than three times in a week, and he never brought me a single
+LINE 242: word of intelligence that was at all alarming. Still, I knew that there
+LINE 243: was cause for alarm, and I could not get rid of the notion of being
+LINE 244: watched. Once received, it is a haunting idea; how many undesigning
+LINE 245: persons I suspected of watching me, it would be hard to calculate.
+LINE 246: In short, I was always full of fears for the rash man who was in
+LINE 247: hiding. Herbert had sometimes said to me that he found it pleasant to
+LINE 248: stand at one of our windows after dark, when the tide was running down,
+LINE 249: and to think that it was flowing, with everything it bore, towards
+LINE 250: Clara. But I thought with dread that it was flowing towards Magwitch,
+LINE 251: and that any black mark on its surface might be his pursuers, going
+LINE 252: swiftly, silently, and surely, to take him.

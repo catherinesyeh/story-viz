@@ -1,0 +1,238 @@
+LINE 1: In her furred travelling-dress, Estella seemed more delicately
+LINE 2: beautiful than she had ever seemed yet, even in my eyes. Her manner was
+LINE 3: more winning than she had cared to let it be to me before, and I
+LINE 4: thought I saw Miss Havisham's influence in the change.
+LINE 5: We stood in the Inn Yard while she pointed out her luggage to me, and
+LINE 6: when it was all collected I remembered—having forgotten everything but
+LINE 7: herself in the meanwhile—that I knew nothing of her destination.
+LINE 8: "I am going to Richmond," she told me. "Our lesson is, that there are
+LINE 9: two Richmonds, one in Surrey and one in Yorkshire, and that mine is the
+LINE 10: Surrey Richmond. The distance is ten miles. I am to have a carriage,
+LINE 11: and you are to take me. This is my purse, and you are to pay my charges
+LINE 12: out of it. O, you must take the purse! We have no choice, you and I,
+LINE 13: but to obey our instructions. We are not free to follow our own
+LINE 14: devices, you and I."
+LINE 15: As she looked at me in giving me the purse, I hoped there was an inner
+LINE 16: meaning in her words. She said them slightingly, but not with
+LINE 17: displeasure.
+LINE 18: "A carriage will have to be sent for, Estella. Will you rest here a
+LINE 19: little?"
+LINE 20: "Yes, I am to rest here a little, and I am to drink some tea, and you
+LINE 21: are to take care of me the while."
+LINE 22: She drew her arm through mine, as if it must be done, and I requested a
+LINE 23: waiter who had been staring at the coach like a man who had never seen
+LINE 24: such a thing in his life, to show us a private sitting-room. Upon that,
+LINE 25: he pulled out a napkin, as if it were a magic clue without which he
+LINE 26: couldn't find the way upstairs, and led us to the black hole of the
+LINE 27: establishment, fitted up with a diminishing mirror (quite a superfluous
+LINE 28: article, considering the hole's proportions), an anchovy sauce-cruet,
+LINE 29: and somebody's pattens. On my objecting to this retreat, he took us
+LINE 30: into another room with a dinner-table for thirty, and in the grate a
+LINE 31: scorched leaf of a copy-book under a bushel of coal-dust. Having looked
+LINE 32: at this extinct conflagration and shaken his head, he took my order;
+LINE 33: which, proving to be merely, "Some tea for the lady," sent him out of
+LINE 34: the room in a very low state of mind.
+LINE 35: I was, and I am, sensible that the air of this chamber, in its strong
+LINE 36: combination of stable with soup-stock, might have led one to infer that
+LINE 37: the coaching department was not doing well, and that the enterprising
+LINE 38: proprietor was boiling down the horses for the refreshment department.
+LINE 39: Yet the room was all in all to me, Estella being in it. I thought that
+LINE 40: with her I could have been happy there for life. (I was not at all
+LINE 41: happy there at the time, observe, and I knew it well.)
+LINE 42: "Where are you going to, at Richmond?" I asked Estella.
+LINE 43: "I am going to live," said she, "at a great expense, with a lady there,
+LINE 44: who has the power—or says she has—of taking me about, and introducing
+LINE 45: me, and showing people to me and showing me to people."
+LINE 46: "I suppose you will be glad of variety and admiration?"
+LINE 47: "Yes, I suppose so."
+LINE 48: She answered so carelessly, that I said, "You speak of yourself as if
+LINE 49: you were some one else."
+LINE 50: "Where did you learn how I speak of others? Come, come," said Estella,
+LINE 51: smiling delightfully, "you must not expect me to go to school to _you_;
+LINE 52: I must talk in my own way. How do you thrive with Mr. Pocket?"
+LINE 53: "I live quite pleasantly there; at least—" It appeared to me that I was
+LINE 54: losing a chance.
+LINE 55: "At least?" repeated Estella.
+LINE 56: "As pleasantly as I could anywhere, away from you."
+LINE 57: "You silly boy," said Estella, quite composedly, "how can you talk such
+LINE 58: nonsense? Your friend Mr. Matthew, I believe, is superior to the rest
+LINE 59: of his family?"
+LINE 60: "Very superior indeed. He is nobody's enemy—"
+LINE 61: "Don't add but his own," interposed Estella, "for I hate that class of
+LINE 62: man. But he really is disinterested, and above small jealousy and
+LINE 63: spite, I have heard?"
+LINE 64: "I am sure I have every reason to say so."
+LINE 65: "You have not every reason to say so of the rest of his people," said
+LINE 66: Estella, nodding at me with an expression of face that was at once
+LINE 67: grave and rallying, "for they beset Miss Havisham with reports and
+LINE 68: insinuations to your disadvantage. They watch you, misrepresent you,
+LINE 69: write letters about you (anonymous sometimes), and you are the torment
+LINE 70: and the occupation of their lives. You can scarcely realise to yourself
+LINE 71: the hatred those people feel for you."
+LINE 72: "They do me no harm, I hope?"
+LINE 73: Instead of answering, Estella burst out laughing. This was very
+LINE 74: singular to me, and I looked at her in considerable perplexity. When
+LINE 75: she left off—and she had not laughed languidly, but with real
+LINE 76: enjoyment—I said, in my diffident way with her,—
+LINE 77: "I hope I may suppose that you would not be amused if they did me any
+LINE 78: harm."
+LINE 79: "No, no you may be sure of that," said Estella. "You may be certain
+LINE 80: that I laugh because they fail. O, those people with Miss Havisham, and
+LINE 81: the tortures they undergo!" She laughed again, and even now when she
+LINE 82: had told me why, her laughter was very singular to me, for I could not
+LINE 83: doubt its being genuine, and yet it seemed too much for the occasion. I
+LINE 84: thought there must really be something more here than I knew; she saw
+LINE 85: the thought in my mind, and answered it.
+LINE 86: "It is not easy for even you." said Estella, "to know what satisfaction
+LINE 87: it gives me to see those people thwarted, or what an enjoyable sense of
+LINE 88: the ridiculous I have when they are made ridiculous. For you were not
+LINE 89: brought up in that strange house from a mere baby. I was. You had not
+LINE 90: your little wits sharpened by their intriguing against you, suppressed
+LINE 91: and defenceless, under the mask of sympathy and pity and what not that
+LINE 92: is soft and soothing. I had. You did not gradually open your round
+LINE 93: childish eyes wider and wider to the discovery of that impostor of a
+LINE 94: woman who calculates her stores of peace of mind for when she wakes up
+LINE 95: in the night. I did."
+LINE 96: It was no laughing matter with Estella now, nor was she summoning these
+LINE 97: remembrances from any shallow place. I would not have been the cause of
+LINE 98: that look of hers for all my expectations in a heap.
+LINE 99: "Two things I can tell you," said Estella. "First, notwithstanding the
+LINE 100: proverb that constant dropping will wear away a stone, you may set your
+LINE 101: mind at rest that these people never will—never would in a hundred
+LINE 102: years—impair your ground with Miss Havisham, in any particular, great
+LINE 103: or small. Second, I am beholden to you as the cause of their being so
+LINE 104: busy and so mean in vain, and there is my hand upon it."
+LINE 105: As she gave it to me playfully,—for her darker mood had been but
+LINE 106: momentary—I held it and put it to my lips. "You ridiculous boy," said
+LINE 107: Estella, "will you never take warning? Or do you kiss my hand in the
+LINE 108: same spirit in which I once let you kiss my cheek?"
+LINE 109: "What spirit was that?" said I.
+LINE 110: "I must think a moment. A spirit of contempt for the fawners and
+LINE 111: plotters."
+LINE 112: "If I say yes, may I kiss the cheek again?"
+LINE 113: "You should have asked before you touched the hand. But, yes, if you
+LINE 114: like."
+LINE 115: I leaned down, and her calm face was like a statue's. "Now," said
+LINE 116: Estella, gliding away the instant I touched her cheek, "you are to take
+LINE 117: care that I have some tea, and you are to take me to Richmond."
+LINE 118: Her reverting to this tone as if our association were forced upon us,
+LINE 119: and we were mere puppets, gave me pain; but everything in our
+LINE 120: intercourse did give me pain. Whatever her tone with me happened to be,
+LINE 121: I could put no trust in it, and build no hope on it; and yet I went on
+LINE 122: against trust and against hope. Why repeat it a thousand times? So it
+LINE 123: always was.
+LINE 124: I rang for the tea, and the waiter, reappearing with his magic clue,
+LINE 125: brought in by degrees some fifty adjuncts to that refreshment, but of
+LINE 126: tea not a glimpse. A teaboard, cups and saucers, plates, knives and
+LINE 127: forks (including carvers), spoons (various), salt-cellars, a meek
+LINE 128: little muffin confined with the utmost precaution under a strong iron
+LINE 129: cover, Moses in the bulrushes typified by a soft bit of butter in a
+LINE 130: quantity of parsley, a pale loaf with a powdered head, two proof
+LINE 131: impressions of the bars of the kitchen fireplace on triangular bits of
+LINE 132: bread, and ultimately a fat family urn; which the waiter staggered in
+LINE 133: with, expressing in his countenance burden and suffering. After a
+LINE 134: prolonged absence at this stage of the entertainment, he at length came
+LINE 135: back with a casket of precious appearance containing twigs. These I
+LINE 136: steeped in hot water, and so from the whole of these appliances
+LINE 137: extracted one cup of I don't know what for Estella.
+LINE 138: The bill paid, and the waiter remembered, and the ostler not forgotten,
+LINE 139: and the chambermaid taken into consideration,—in a word, the whole
+LINE 140: house bribed into a state of contempt and animosity, and Estella's
+LINE 141: purse much lightened,—we got into our post-coach and drove away.
+LINE 142: Turning into Cheapside and rattling up Newgate Street, we were soon
+LINE 143: under the walls of which I was so ashamed.
+LINE 144: "What place is that?" Estella asked me.
+LINE 145: I made a foolish pretence of not at first recognising it, and then told
+LINE 146: her. As she looked at it, and drew in her head again, murmuring,
+LINE 147: "Wretches!" I would not have confessed to my visit for any
+LINE 148: consideration.
+LINE 149: "Mr. Jaggers," said I, by way of putting it neatly on somebody else,
+LINE 150: "has the reputation of being more in the secrets of that dismal place
+LINE 151: than any man in London."
+LINE 152: "He is more in the secrets of every place, I think," said Estella, in a
+LINE 153: low voice.
+LINE 154: "You have been accustomed to see him often, I suppose?"
+LINE 155: "I have been accustomed to see him at uncertain intervals, ever since I
+LINE 156: can remember. But I know him no better now, than I did before I could
+LINE 157: speak plainly. What is your own experience of him? Do you advance with
+LINE 158: him?"
+LINE 159: "Once habituated to his distrustful manner," said I, "I have done very
+LINE 160: well."
+LINE 161: "Are you intimate?"
+LINE 162: "I have dined with him at his private house."
+LINE 163: "I fancy," said Estella, shrinking "that must be a curious place."
+LINE 164: "It is a curious place."
+LINE 165: I should have been chary of discussing my guardian too freely even with
+LINE 166: her; but I should have gone on with the subject so far as to describe
+LINE 167: the dinner in Gerrard Street, if we had not then come into a sudden
+LINE 168: glare of gas. It seemed, while it lasted, to be all alight and alive
+LINE 169: with that inexplicable feeling I had had before; and when we were out
+LINE 170: of it, I was as much dazed for a few moments as if I had been in
+LINE 171: lightning.
+LINE 172: So we fell into other talk, and it was principally about the way by
+LINE 173: which we were travelling, and about what parts of London lay on this
+LINE 174: side of it, and what on that. The great city was almost new to her, she
+LINE 175: told me, for she had never left Miss Havisham's neighbourhood until she
+LINE 176: had gone to France, and she had merely passed through London then in
+LINE 177: going and returning. I asked her if my guardian had any charge of her
+LINE 178: while she remained here? To that she emphatically said "God forbid!"
+LINE 179: and no more.
+LINE 180: It was impossible for me to avoid seeing that she cared to attract me;
+LINE 181: that she made herself winning, and would have won me even if the task
+LINE 182: had needed pains. Yet this made me none the happier, for even if she
+LINE 183: had not taken that tone of our being disposed of by others, I should
+LINE 184: have felt that she held my heart in her hand because she wilfully chose
+LINE 185: to do it, and not because it would have wrung any tenderness in her to
+LINE 186: crush it and throw it away.
+LINE 187: When we passed through Hammersmith, I showed her where Mr. Matthew
+LINE 188: Pocket lived, and said it was no great way from Richmond, and that I
+LINE 189: hoped I should see her sometimes.
+LINE 190: "O yes, you are to see me; you are to come when you think proper; you
+LINE 191: are to be mentioned to the family; indeed you are already mentioned."
+LINE 192: I inquired was it a large household she was going to be a member of?
+LINE 193: "No; there are only two; mother and daughter. The mother is a lady of
+LINE 194: some station, though not averse to increasing her income."
+LINE 195: "I wonder Miss Havisham could part with you again so soon."
+LINE 196: "It is a part of Miss Havisham's plans for me, Pip," said Estella, with
+LINE 197: a sigh, as if she were tired; "I am to write to her constantly and see
+LINE 198: her regularly and report how I go on,—I and the jewels,—for they are
+LINE 199: nearly all mine now."
+LINE 200: It was the first time she had ever called me by my name. Of course she
+LINE 201: did so purposely, and knew that I should treasure it up.
+LINE 202: We came to Richmond all too soon, and our destination there was a house
+LINE 203: by the green,—a staid old house, where hoops and powder and patches,
+LINE 204: embroidered coats, rolled stockings, ruffles and swords, had had their
+LINE 205: court days many a time. Some ancient trees before the house were still
+LINE 206: cut into fashions as formal and unnatural as the hoops and wigs and
+LINE 207: stiff skirts; but their own allotted places in the great procession of
+LINE 208: the dead were not far off, and they would soon drop into them and go
+LINE 209: the silent way of the rest.
+LINE 210: A bell with an old voice—which I dare say in its time had often said to
+LINE 211: the house, Here is the green farthingale, Here is the diamond-hilted
+LINE 212: sword, Here are the shoes with red heels and the blue solitaire—sounded
+LINE 213: gravely in the moonlight, and two cherry-coloured maids came fluttering
+LINE 214: out to receive Estella. The doorway soon absorbed her boxes, and she
+LINE 215: gave me her hand and a smile, and said good-night, and was absorbed
+LINE 216: likewise. And still I stood looking at the house, thinking how happy I
+LINE 217: should be if I lived there with her, and knowing that I never was happy
+LINE 218: with her, but always miserable.
+LINE 219: I got into the carriage to be taken back to Hammersmith, and I got in
+LINE 220: with a bad heart-ache, and I got out with a worse heart-ache. At our
+LINE 221: own door, I found little Jane Pocket coming home from a little party
+LINE 222: escorted by her little lover; and I envied her little lover, in spite
+LINE 223: of his being subject to Flopson.
+LINE 224: Mr. Pocket was out lecturing; for, he was a most delightful lecturer on
+LINE 225: domestic economy, and his treatises on the management of children and
+LINE 226: servants were considered the very best text-books on those themes. But
+LINE 227: Mrs. Pocket was at home, and was in a little difficulty, on account of
+LINE 228: the baby's having been accommodated with a needle-case to keep him
+LINE 229: quiet during the unaccountable absence (with a relative in the Foot
+LINE 230: Guards) of Millers. And more needles were missing than it could be
+LINE 231: regarded as quite wholesome for a patient of such tender years either
+LINE 232: to apply externally or to take as a tonic.
+LINE 233: Mr. Pocket being justly celebrated for giving most excellent practical
+LINE 234: advice, and for having a clear and sound perception of things and a
+LINE 235: highly judicious mind, I had some notion in my heart-ache of begging
+LINE 236: him to accept my confidence. But happening to look up at Mrs. Pocket as
+LINE 237: she sat reading her book of dignities after prescribing Bed as a
+LINE 238: sovereign remedy for baby, I thought—Well—No, I wouldn't.

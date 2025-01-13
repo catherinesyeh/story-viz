@@ -1,0 +1,113 @@
+LINE 1: The cottage was quieter than usual, save for the faint creak of Elara's loom as
+LINE 2: it sat untouched in the corner. Elara sat by the hearth, her hands clenched in
+LINE 3: her lap, staring into the flames. She had not woven since the fire in Glenth.
+LINE 4: The memory of it still haunted her, filling her with a gnawing guilt she
+LINE 5: couldn't shake. Her hands had been the ones to create that tapestry, to bring
+LINE 6: about that destruction, even if she hadn't fully understood what she was doing.
+LINE 7: Now, the loom seemed like a thing of menace, its threads fraught with danger.
+LINE 8: The door creaked open, and Elara looked up to see her grandmother stepping
+LINE 9: inside, carrying a basket of herbs from the garden. Grandmother Nira set the
+LINE 10: basket down and gave Elara a long, searching look. "You've been brooding too
+LINE 11: much, child," she said, her voice soft but firm. "Sitting by the fire won't
+LINE 12: change anything."
+LINE 13: Elara sighed, dropping her gaze to her hands. "What else can I do? I brought
+LINE 14: ruin to Glenth. I... I didn't mean to, but it happened because of me."
+LINE 15: Nira's eyes softened, though her expression remained grave. "Fate is a delicate
+LINE 16: thing, Elara. It's not something that can be controlled easily, even by those
+LINE 17: who have the gift."
+LINE 18: Elara's head snapped up, her heart thudding in her chest. "Gift?" she repeated,
+LINE 19: incredulous. "This doesn't feel like a gift. It feels like a curse."
+LINE 20: Nira crossed the room and sat beside her, her hands clasped tightly in her lap.
+LINE 21: "That's because you don't yet understand it. You're still learning, and you're
+LINE 22: frightened, as you should be. But our family has always had this gift—the
+LINE 23: ability to weave fate into the fabric of the world."
+LINE 24: Elara blinked, her mind reeling from her grandmother's words. "Our family?"
+LINE 25: Nira nodded slowly, her expression solemn. "For generations, the women in our
+LINE 26: family have been fate-weavers. It's why I've kept you so close, why I've taught
+LINE 27: you the old ways. You're not the first to have seen things in the threads. But
+LINE 28: you are the first in a long time to be able to truly shape them."
+LINE 29: Elara's throat tightened. "Why didn't you tell me sooner?"
+LINE 30: Nira's eyes flickered with something that looked like regret. "I had hoped...
+LINE 31: you wouldn't need to know. I had hoped the gift would remain dormant in you.
+LINE 32: But now that it's awakened, you need to be careful, Elara. The power to weave
+LINE 33: fate is dangerous, not just to others but to yourself as well."
+LINE 34: The weight of her grandmother's words settled heavily on Elara's shoulders. She
+LINE 35: had always known there was something special about her family's weaving,
+LINE 36: something that set them apart from the other seamstresses in the village. But
+LINE 37: to learn that they had been manipulating fate, shaping the destinies of
+LINE 38: others—it was almost too much to comprehend.
+LINE 39: "I don't want this," she whispered, her voice shaking. "I never asked for it."
+LINE 40: Nira's hand rested on her shoulder, a rare show of affection. "None of us did.
+LINE 41: But it's part of who you are now. You must learn to control it, or it will
+LINE 42: control you."
+LINE 43: Elara fled the cottage as soon as the conversation with her grandmother ended,
+LINE 44: her mind swirling with too many thoughts to process. She needed space—needed to
+LINE 45: breathe. Without thinking, her feet carried her through the village and into
+LINE 46: the forest, the trees closing in around her like a comforting embrace. The air
+LINE 47: was cool and crisp, and the scent of pine and earth filled her lungs as she
+LINE 48: made her way deeper into the woods.
+LINE 49: After what felt like hours, she came upon the forest shrine—a hidden place
+LINE 50: known only to a few, tucked away in a clearing surrounded by towering oaks. The
+LINE 51: shrine had always been a place of solace for Elara, a quiet refuge where she
+LINE 52: could clear her mind. She sank down onto the moss-covered stone bench, her
+LINE 53: thoughts still racing.
+LINE 54: The idea of weaving fate, of controlling the threads of people's lives,
+LINE 55: frightened her. She had never wanted such power. All she had ever wanted was to
+LINE 56: create beautiful tapestries, to bring joy to the villagers with her craft. But
+LINE 57: now, her hands were stained with the weight of fate, and she didn't know how to
+LINE 58: free herself from it.
+LINE 59: Her mind drifted back to Glenth—the fire, the destruction, the cries of the
+LINE 60: villagers as they fled their homes. It had all happened exactly as she had seen
+LINE 61: it in her tapestry. How could she have known? How could she have stopped it? A
+LINE 62: part of her wished she had never touched that loom, never discovered the
+LINE 63: strange power lurking within the threads.
+LINE 64: But another part of her—a quiet, insistent part—wondered if there was a way to
+LINE 65: use this power for good. Could she shape the threads in a way that helped
+LINE 66: people, that brought about positive change instead of ruin?
+LINE 67: The sound of rustling leaves drew her attention, and Elara looked up to see a
+LINE 68: deer emerging from the trees. It stood at the edge of the clearing, its dark
+LINE 69: eyes fixed on her. For a moment, they simply watched each other in silence.
+LINE 70: Then, without warning, the deer darted back into the forest, vanishing among
+LINE 71: the shadows.
+LINE 72: Elara exhaled slowly, her heart still pounding in her chest. She didn't have
+LINE 73: all the answers—not yet—but she knew one thing for certain: she couldn't ignore
+LINE 74: this gift. It was part of her now, whether she liked it or not. And if she
+LINE 75: didn't learn how to control it, it could destroy her—and everything she cared
+LINE 76: about.
+LINE 77: Later that evening, as the sun dipped low on the horizon, casting a golden
+LINE 78: light over the village, Elara returned to the cottage. Her thoughts were
+LINE 79: clearer now, though the weight of her newfound responsibility still pressed
+LINE 80: heavily on her. She had spent the day reflecting at the shrine, trying to come
+LINE 81: to terms with everything her grandmother had revealed. But there was still so
+LINE 82: much she didn't know, so much she didn't understand.
+LINE 83: When she pushed open the door, she was greeted by the sight of her younger
+LINE 84: sister, Lysa, sitting at the table, her small hands working diligently at a
+LINE 85: simple piece of embroidery. Lysa looked up and smiled brightly when she saw
+LINE 86: Elara, her innocent face full of warmth and curiosity. "Elara! I was wondering
+LINE 87: when you'd come back."
+LINE 88: Elara forced a smile and sat down across from her sister. "What are you working
+LINE 89: on?" she asked, though her mind was still elsewhere.
+LINE 90: "Just a flower," Lysa said, holding up the fabric to show her. "I wanted to
+LINE 91: make something pretty to give to Grandmother."
+LINE 92: Elara nodded, her heart aching at the simplicity of it all. Lysa had no idea of
+LINE 93: the burden their family carried, no idea of the power that ran through their
+LINE 94: bloodline. Elara wanted to protect her from it, to shield her from the weight
+LINE 95: of fate, but she knew it was only a matter of time before Lysa started asking
+LINE 96: questions.
+LINE 97: "Can you show me how to do that fancy stitch you use on your tapestries?" Lysa
+LINE 98: asked, her wide eyes filled with admiration.
+LINE 99: Elara hesitated, her fingers twitching as memories of the loom flooded back.
+LINE 100: She didn't want Lysa to become entangled in the same web of fate that she was.
+LINE 101: But she also couldn't bear to refuse her sister's request. "Maybe another
+LINE 102: time," she said softly. "It's... a little more complicated than what you're
+LINE 103: used to."
+LINE 104: Lysa's face fell, but she nodded in understanding. "Okay," she said quietly,
+LINE 105: returning to her embroidery. "But someday, I want to make something as
+LINE 106: beautiful as your tapestries."
+LINE 107: Elara swallowed the lump in her throat, guilt washing over her. Her
+LINE 108: tapestries—once a source of pride—now felt like a dangerous tool, capable of
+LINE 109: shaping destinies in ways she could barely comprehend. "Maybe someday," she
+LINE 110: whispered, though she wasn't sure if that was a promise she could keep.
+LINE 111: As Lysa continued to work, Elara sat back, her mind once again drifting to the
+LINE 112: future. She had to find a way to control her gift, to ensure that it didn't
+LINE 113: harm anyone else. But how? And who could she trust to help her?

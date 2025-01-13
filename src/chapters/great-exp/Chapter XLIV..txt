@@ -1,0 +1,256 @@
+LINE 1: In the room where the dressing-table stood, and where the wax-candles
+LINE 2: burnt on the wall, I found Miss Havisham and Estella; Miss Havisham
+LINE 3: seated on a settee near the fire, and Estella on a cushion at her feet.
+LINE 4: Estella was knitting, and Miss Havisham was looking on. They both
+LINE 5: raised their eyes as I went in, and both saw an alteration in me. I
+LINE 6: derived that, from the look they interchanged.
+LINE 7: "And what wind," said Miss Havisham, "blows you here, Pip?"
+LINE 8: Though she looked steadily at me, I saw that she was rather confused.
+LINE 9: Estella, pausing a moment in her knitting with her eyes upon me, and
+LINE 10: then going on, I fancied that I read in the action of her fingers, as
+LINE 11: plainly as if she had told me in the dumb alphabet, that she perceived
+LINE 12: I had discovered my real benefactor.
+LINE 13: "Miss Havisham," said I, "I went to Richmond yesterday, to speak to
+LINE 14: Estella; and finding that some wind had blown _her_ here, I followed."
+LINE 15: Miss Havisham motioning to me for the third or fourth time to sit down,
+LINE 16: I took the chair by the dressing-table, which I had often seen her
+LINE 17: occupy. With all that ruin at my feet and about me, it seemed a natural
+LINE 18: place for me, that day.
+LINE 19: "What I had to say to Estella, Miss Havisham, I will say before you,
+LINE 20: presently—in a few moments. It will not surprise you, it will not
+LINE 21: displease you. I am as unhappy as you can ever have meant me to be."
+LINE 22: Miss Havisham continued to look steadily at me. I could see in the
+LINE 23: action of Estella's fingers as they worked that she attended to what I
+LINE 24: said; but she did not look up.
+LINE 25: "I have found out who my patron is. It is not a fortunate discovery,
+LINE 26: and is not likely ever to enrich me in reputation, station, fortune,
+LINE 27: anything. There are reasons why I must say no more of that. It is not
+LINE 28: my secret, but another's."
+LINE 29: As I was silent for a while, looking at Estella and considering how to
+LINE 30: go on, Miss Havisham repeated, "It is not your secret, but another's.
+LINE 31: Well?"
+LINE 32: "When you first caused me to be brought here, Miss Havisham, when I
+LINE 33: belonged to the village over yonder, that I wish I had never left, I
+LINE 34: suppose I did really come here, as any other chance boy might have
+LINE 35: come,—as a kind of servant, to gratify a want or a whim, and to be paid
+LINE 36: for it?"
+LINE 37: "Ay, Pip," replied Miss Havisham, steadily nodding her head; "you did."
+LINE 38: "And that Mr. Jaggers—"
+LINE 39: "Mr. Jaggers," said Miss Havisham, taking me up in a firm tone, "had
+LINE 40: nothing to do with it, and knew nothing of it. His being my lawyer, and
+LINE 41: his being the lawyer of your patron is a coincidence. He holds the same
+LINE 42: relation towards numbers of people, and it might easily arise. Be that
+LINE 43: as it may, it did arise, and was not brought about by any one."
+LINE 44: Any one might have seen in her haggard face that there was no
+LINE 45: suppression or evasion so far.
+LINE 46: "But when I fell into the mistake I have so long remained in, at least
+LINE 47: you led me on?" said I.
+LINE 48: "Yes," she returned, again nodding steadily, "I let you go on."
+LINE 49: "Was that kind?"
+LINE 50: "Who am I," cried Miss Havisham, striking her stick upon the floor and
+LINE 51: flashing into wrath so suddenly that Estella glanced up at her in
+LINE 52: surprise,—"who am I, for God's sake, that I should be kind?"
+LINE 53: It was a weak complaint to have made, and I had not meant to make it. I
+LINE 54: told her so, as she sat brooding after this outburst.
+LINE 55: "Well, well, well!" she said. "What else?"
+LINE 56: "I was liberally paid for my old attendance here," I said, to soothe
+LINE 57: her, "in being apprenticed, and I have asked these questions only for
+LINE 58: my own information. What follows has another (and I hope more
+LINE 59: disinterested) purpose. In humouring my mistake, Miss Havisham, you
+LINE 60: punished—practised on—perhaps you will supply whatever term expresses
+LINE 61: your intention, without offence—your self-seeking relations?"
+LINE 62: "I did. Why, they would have it so! So would you. What has been my
+LINE 63: history, that I should be at the pains of entreating either them or you
+LINE 64: not to have it so! You made your own snares. _I_ never made them."
+LINE 65: Waiting until she was quiet again,—for this, too, flashed out of her in
+LINE 66: a wild and sudden way,—I went on.
+LINE 67: "I have been thrown among one family of your relations, Miss Havisham,
+LINE 68: and have been constantly among them since I went to London. I know them
+LINE 69: to have been as honestly under my delusion as I myself. And I should be
+LINE 70: false and base if I did not tell you, whether it is acceptable to you
+LINE 71: or no, and whether you are inclined to give credence to it or no, that
+LINE 72: you deeply wrong both Mr. Matthew Pocket and his son Herbert, if you
+LINE 73: suppose them to be otherwise than generous, upright, open, and
+LINE 74: incapable of anything designing or mean."
+LINE 75: "They are your friends," said Miss Havisham.
+LINE 76: "They made themselves my friends," said I, "when they supposed me to
+LINE 77: have superseded them; and when Sarah Pocket, Miss Georgiana, and
+LINE 78: Mistress Camilla were not my friends, I think."
+LINE 79: This contrasting of them with the rest seemed, I was glad to see, to do
+LINE 80: them good with her. She looked at me keenly for a little while, and
+LINE 81: then said quietly,—
+LINE 82: "What do you want for them?"
+LINE 83: "Only," said I, "that you would not confound them with the others. They
+LINE 84: may be of the same blood, but, believe me, they are not of the same
+LINE 85: nature."
+LINE 86: Still looking at me keenly, Miss Havisham repeated,—
+LINE 87: "What do you want for them?"
+LINE 88: "I am not so cunning, you see," I said, in answer, conscious that I
+LINE 89: reddened a little, "as that I could hide from you, even if I desired,
+LINE 90: that I do want something. Miss Havisham, if you would spare the money
+LINE 91: to do my friend Herbert a lasting service in life, but which from the
+LINE 92: nature of the case must be done without his knowledge, I could show you
+LINE 93: how."
+LINE 94: "Why must it be done without his knowledge?" she asked, settling her
+LINE 95: hands upon her stick, that she might regard me the more attentively.
+LINE 96: "Because," said I, "I began the service myself, more than two years
+LINE 97: ago, without his knowledge, and I don't want to be betrayed. Why I fail
+LINE 98: in my ability to finish it, I cannot explain. It is a part of the
+LINE 99: secret which is another person's and not mine."
+LINE 100: She gradually withdrew her eyes from me, and turned them on the fire.
+LINE 101: After watching it for what appeared in the silence and by the light of
+LINE 102: the slowly wasting candles to be a long time, she was roused by the
+LINE 103: collapse of some of the red coals, and looked towards me again—at
+LINE 104: first, vacantly—then, with a gradually concentrating attention. All
+LINE 105: this time Estella knitted on. When Miss Havisham had fixed her
+LINE 106: attention on me, she said, speaking as if there had been no lapse in
+LINE 107: our dialogue,—
+LINE 108: "What else?"
+LINE 109: "Estella," said I, turning to her now, and trying to command my
+LINE 110: trembling voice, "you know I love you. You know that I have loved you
+LINE 111: long and dearly."
+LINE 112: She raised her eyes to my face, on being thus addressed, and her
+LINE 113: fingers plied their work, and she looked at me with an unmoved
+LINE 114: countenance. I saw that Miss Havisham glanced from me to her, and from
+LINE 115: her to me.
+LINE 116: "I should have said this sooner, but for my long mistake. It induced me
+LINE 117: to hope that Miss Havisham meant us for one another. While I thought
+LINE 118: you could not help yourself, as it were, I refrained from saying it.
+LINE 119: But I must say it now."
+LINE 120: Preserving her unmoved countenance, and with her fingers still going,
+LINE 121: Estella shook her head.
+LINE 122: "I know," said I, in answer to that action,—"I know. I have no hope
+LINE 123: that I shall ever call you mine, Estella. I am ignorant what may become
+LINE 124: of me very soon, how poor I may be, or where I may go. Still, I love
+LINE 125: you. I have loved you ever since I first saw you in this house."
+LINE 126: Looking at me perfectly unmoved and with her fingers busy, she shook
+LINE 127: her head again.
+LINE 128: "It would have been cruel in Miss Havisham, horribly cruel, to practise
+LINE 129: on the susceptibility of a poor boy, and to torture me through all
+LINE 130: these years with a vain hope and an idle pursuit, if she had reflected
+LINE 131: on the gravity of what she did. But I think she did not. I think that,
+LINE 132: in the endurance of her own trial, she forgot mine, Estella."
+LINE 133: I saw Miss Havisham put her hand to her heart and hold it there, as she
+LINE 134: sat looking by turns at Estella and at me.
+LINE 135: "It seems," said Estella, very calmly, "that there are sentiments,
+LINE 136: fancies,—I don't know how to call them,—which I am not able to
+LINE 137: comprehend. When you say you love me, I know what you mean, as a form
+LINE 138: of words; but nothing more. You address nothing in my breast, you touch
+LINE 139: nothing there. I don't care for what you say at all. I have tried to
+LINE 140: warn you of this; now, have I not?"
+LINE 141: I said in a miserable manner, "Yes."
+LINE 142: "Yes. But you would not be warned, for you thought I did not mean it.
+LINE 143: Now, did you not think so?"
+LINE 144: "I thought and hoped you could not mean it. You, so young, untried, and
+LINE 145: beautiful, Estella! Surely it is not in Nature."
+LINE 146: "It is in _my_ nature," she returned. And then she added, with a stress
+LINE 147: upon the words, "It is in the nature formed within me. I make a great
+LINE 148: difference between you and all other people when I say so much. I can
+LINE 149: do no more."
+LINE 150: "Is it not true," said I, "that Bentley Drummle is in town here, and
+LINE 151: pursuing you?"
+LINE 152: "It is quite true," she replied, referring to him with the indifference
+LINE 153: of utter contempt.
+LINE 154: "That you encourage him, and ride out with him, and that he dines with
+LINE 155: you this very day?"
+LINE 156: She seemed a little surprised that I should know it, but again replied,
+LINE 157: "Quite true."
+LINE 158: "You cannot love him, Estella!"
+LINE 159: Her fingers stopped for the first time, as she retorted rather angrily,
+LINE 160: "What have I told you? Do you still think, in spite of it, that I do
+LINE 161: not mean what I say?"
+LINE 162: "You would never marry him, Estella?"
+LINE 163: She looked towards Miss Havisham, and considered for a moment with her
+LINE 164: work in her hands. Then she said, "Why not tell you the truth? I am
+LINE 165: going to be married to him."
+LINE 166: I dropped my face into my hands, but was able to control myself better
+LINE 167: than I could have expected, considering what agony it gave me to hear
+LINE 168: her say those words. When I raised my face again, there was such a
+LINE 169: ghastly look upon Miss Havisham's, that it impressed me, even in my
+LINE 170: passionate hurry and grief.
+LINE 171: "Estella, dearest Estella, do not let Miss Havisham lead you into this
+LINE 172: fatal step. Put me aside for ever,—you have done so, I well know,—but
+LINE 173: bestow yourself on some worthier person than Drummle. Miss Havisham
+LINE 174: gives you to him, as the greatest slight and injury that could be done
+LINE 175: to the many far better men who admire you, and to the few who truly
+LINE 176: love you. Among those few there may be one who loves you even as
+LINE 177: dearly, though he has not loved you as long, as I. Take him, and I can
+LINE 178: bear it better, for your sake!"
+LINE 179: My earnestness awoke a wonder in her that seemed as if it would have
+LINE 180: been touched with compassion, if she could have rendered me at all
+LINE 181: intelligible to her own mind.
+LINE 182: "I am going," she said again, in a gentler voice, "to be married to
+LINE 183: him. The preparations for my marriage are making, and I shall be
+LINE 184: married soon. Why do you injuriously introduce the name of my mother by
+LINE 185: adoption? It is my own act."
+LINE 186: "Your own act, Estella, to fling yourself away upon a brute?"
+LINE 187: "On whom should I fling myself away?" she retorted, with a smile.
+LINE 188: "Should I fling myself away upon the man who would the soonest feel (if
+LINE 189: people do feel such things) that I took nothing to him? There! It is
+LINE 190: done. I shall do well enough, and so will my husband. As to leading me
+LINE 191: into what you call this fatal step, Miss Havisham would have had me
+LINE 192: wait, and not marry yet; but I am tired of the life I have led, which
+LINE 193: has very few charms for me, and I am willing enough to change it. Say
+LINE 194: no more. We shall never understand each other."
+LINE 195: "Such a mean brute, such a stupid brute!" I urged, in despair.
+LINE 196: "Don't be afraid of my being a blessing to him," said Estella; "I shall
+LINE 197: not be that. Come! Here is my hand. Do we part on this, you visionary
+LINE 198: boy—or man?"
+LINE 199: "O Estella!" I answered, as my bitter tears fell fast on her hand, do
+LINE 200: what I would to restrain them; "even if I remained in England and could
+LINE 201: hold my head up with the rest, how could I see you Drummle's wife?"
+LINE 202: "Nonsense," she returned,—"nonsense. This will pass in no time."
+LINE 203: "Never, Estella!"
+LINE 204: "You will get me out of your thoughts in a week."
+LINE 205: "Out of my thoughts! You are part of my existence, part of myself. You
+LINE 206: have been in every line I have ever read since I first came here, the
+LINE 207: rough common boy whose poor heart you wounded even then. You have been
+LINE 208: in every prospect I have ever seen since,—on the river, on the sails of
+LINE 209: the ships, on the marshes, in the clouds, in the light, in the
+LINE 210: darkness, in the wind, in the woods, in the sea, in the streets. You
+LINE 211: have been the embodiment of every graceful fancy that my mind has ever
+LINE 212: become acquainted with. The stones of which the strongest London
+LINE 213: buildings are made are not more real, or more impossible to be
+LINE 214: displaced by your hands, than your presence and influence have been to
+LINE 215: me, there and everywhere, and will be. Estella, to the last hour of my
+LINE 216: life, you cannot choose but remain part of my character, part of the
+LINE 217: little good in me, part of the evil. But, in this separation, I
+LINE 218: associate you only with the good; and I will faithfully hold you to
+LINE 219: that always, for you must have done me far more good than harm, let me
+LINE 220: feel now what sharp distress I may. O God bless you, God forgive you!"
+LINE 221: In what ecstasy of unhappiness I got these broken words out of myself,
+LINE 222: I don't know. The rhapsody welled up within me, like blood from an
+LINE 223: inward wound, and gushed out. I held her hand to my lips some lingering
+LINE 224: moments, and so I left her. But ever afterwards, I remembered,—and soon
+LINE 225: afterwards with stronger reason,—that while Estella looked at me merely
+LINE 226: with incredulous wonder, the spectral figure of Miss Havisham, her hand
+LINE 227: still covering her heart, seemed all resolved into a ghastly stare of
+LINE 228: pity and remorse.
+LINE 229: All done, all gone! So much was done and gone, that when I went out at
+LINE 230: the gate, the light of the day seemed of a darker colour than when I
+LINE 231: went in. For a while, I hid myself among some lanes and by-paths, and
+LINE 232: then struck off to walk all the way to London. For, I had by that time
+LINE 233: come to myself so far as to consider that I could not go back to the
+LINE 234: inn and see Drummle there; that I could not bear to sit upon the coach
+LINE 235: and be spoken to; that I could do nothing half so good for myself as
+LINE 236: tire myself out.
+LINE 237: It was past midnight when I crossed London Bridge. Pursuing the narrow
+LINE 238: intricacies of the streets which at that time tended westward near the
+LINE 239: Middlesex shore of the river, my readiest access to the Temple was
+LINE 240: close by the river-side, through Whitefriars. I was not expected till
+LINE 241: to-morrow; but I had my keys, and, if Herbert were gone to bed, could
+LINE 242: get to bed myself without disturbing him.
+LINE 243: As it seldom happened that I came in at that Whitefriars gate after the
+LINE 244: Temple was closed, and as I was very muddy and weary, I did not take it
+LINE 245: ill that the night-porter examined me with much attention as he held
+LINE 246: the gate a little way open for me to pass in. To help his memory I
+LINE 247: mentioned my name.
+LINE 248: "I was not quite sure, sir, but I thought so. Here's a note, sir. The
+LINE 249: messenger that brought it, said would you be so good as read it by my
+LINE 250: lantern?"
+LINE 251: [Illustration]
+LINE 252: Much surprised by the request, I took the note. It was directed to
+LINE 253: Philip Pip, Esquire, and on the top of the superscription were the
+LINE 254: words, "PLEASE READ THIS, HERE." I opened it, the watchman holding up
+LINE 255: his light, and read inside, in Wemmick's writing,—
+LINE 256: "DON'T GO HOME."

@@ -1,0 +1,262 @@
+LINE 1: There could hardly be a happier creature in the world than Mrs. John
+LINE 2: Knightley, in this short visit to Hartfield, going about every morning
+LINE 3: among her old acquaintance with her five children, and talking over
+LINE 4: what she had done every evening with her father and sister. She had
+LINE 5: nothing to wish otherwise, but that the days did not pass so swiftly.
+LINE 6: It was a delightful visit;—perfect, in being much too short.
+LINE 7: In general their evenings were less engaged with friends than their
+LINE 8: mornings; but one complete dinner engagement, and out of the house too,
+LINE 9: there was no avoiding, though at Christmas. Mr. Weston would take no
+LINE 10: denial; they must all dine at Randalls one day;—even Mr. Woodhouse was
+LINE 11: persuaded to think it a possible thing in preference to a division of
+LINE 12: the party.
+LINE 13: How they were all to be conveyed, he would have made a difficulty if he
+LINE 14: could, but as his son and daughter's carriage and horses were actually
+LINE 15: at Hartfield, he was not able to make more than a simple question on
+LINE 16: that head; it hardly amounted to a doubt; nor did it occupy Emma long
+LINE 17: to convince him that they might in one of the carriages find room for
+LINE 18: Harriet also.
+LINE 19: Harriet, Mr. Elton, and Mr. Knightley, their own especial set, were the
+LINE 20: only persons invited to meet them;—the hours were to be early, as well
+LINE 21: as the numbers few; Mr. Woodhouse's habits and inclination being
+LINE 22: consulted in every thing.
+LINE 23: The evening before this great event (for it was a very great event that
+LINE 24: Mr. Woodhouse should dine out, on the 24th of December) had been spent
+LINE 25: by Harriet at Hartfield, and she had gone home so much indisposed with
+LINE 26: a cold, that, but for her own earnest wish of being nursed by Mrs.
+LINE 27: Goddard, Emma could not have allowed her to leave the house. Emma
+LINE 28: called on her the next day, and found her doom already signed with
+LINE 29: regard to Randalls. She was very feverish and had a bad sore throat:
+LINE 30: Mrs. Goddard was full of care and affection, Mr. Perry was talked of,
+LINE 31: and Harriet herself was too ill and low to resist the authority which
+LINE 32: excluded her from this delightful engagement, though she could not
+LINE 33: speak of her loss without many tears.
+LINE 34: Emma sat with her as long as she could, to attend her in Mrs. Goddard's
+LINE 35: unavoidable absences, and raise her spirits by representing how much
+LINE 36: Mr. Elton's would be depressed when he knew her state; and left her at
+LINE 37: last tolerably comfortable, in the sweet dependence of his having a
+LINE 38: most comfortless visit, and of their all missing her very much. She had
+LINE 39: not advanced many yards from Mrs. Goddard's door, when she was met by
+LINE 40: Mr. Elton himself, evidently coming towards it, and as they walked on
+LINE 41: slowly together in conversation about the invalid—of whom he, on the
+LINE 42: rumour of considerable illness, had been going to inquire, that he
+LINE 43: might carry some report of her to Hartfield—they were overtaken by Mr.
+LINE 44: John Knightley returning from the daily visit to Donwell, with his two
+LINE 45: eldest boys, whose healthy, glowing faces shewed all the benefit of a
+LINE 46: country run, and seemed to ensure a quick despatch of the roast mutton
+LINE 47: and rice pudding they were hastening home for. They joined company and
+LINE 48: proceeded together. Emma was just describing the nature of her friend's
+LINE 49: complaint;—"a throat very much inflamed, with a great deal of heat
+LINE 50: about her, a quick, low pulse, &c. and she was sorry to find from Mrs.
+LINE 51: Goddard that Harriet was liable to very bad sore-throats, and had often
+LINE 52: alarmed her with them." Mr. Elton looked all alarm on the occasion, as
+LINE 53: he exclaimed,
+LINE 54: "A sore-throat!—I hope not infectious. I hope not of a putrid
+LINE 55: infectious sort. Has Perry seen her? Indeed you should take care of
+LINE 56: yourself as well as of your friend. Let me entreat you to run no risks.
+LINE 57: Why does not Perry see her?"
+LINE 58: Emma, who was not really at all frightened herself, tranquillised this
+LINE 59: excess of apprehension by assurances of Mrs. Goddard's experience and
+LINE 60: care; but as there must still remain a degree of uneasiness which she
+LINE 61: could not wish to reason away, which she would rather feed and assist
+LINE 62: than not, she added soon afterwards—as if quite another subject,
+LINE 63: "It is so cold, so very cold—and looks and feels so very much like
+LINE 64: snow, that if it were to any other place or with any other party, I
+LINE 65: should really try not to go out to-day—and dissuade my father from
+LINE 66: venturing; but as he has made up his mind, and does not seem to feel
+LINE 67: the cold himself, I do not like to interfere, as I know it would be so
+LINE 68: great a disappointment to Mr. and Mrs. Weston. But, upon my word, Mr.
+LINE 69: Elton, in your case, I should certainly excuse myself. You appear to me
+LINE 70: a little hoarse already, and when you consider what demand of voice and
+LINE 71: what fatigues to-morrow will bring, I think it would be no more than
+LINE 72: common prudence to stay at home and take care of yourself to-night."
+LINE 73: Mr. Elton looked as if he did not very well know what answer to make;
+LINE 74: which was exactly the case; for though very much gratified by the kind
+LINE 75: care of such a fair lady, and not liking to resist any advice of her's,
+LINE 76: he had not really the least inclination to give up the visit;—but Emma,
+LINE 77: too eager and busy in her own previous conceptions and views to hear
+LINE 78: him impartially, or see him with clear vision, was very well satisfied
+LINE 79: with his muttering acknowledgment of its being "very cold, certainly
+LINE 80: very cold," and walked on, rejoicing in having extricated him from
+LINE 81: Randalls, and secured him the power of sending to inquire after Harriet
+LINE 82: every hour of the evening.
+LINE 83: "You do quite right," said she;—"we will make your apologies to Mr. and
+LINE 84: Mrs. Weston."
+LINE 85: But hardly had she so spoken, when she found her brother was civilly
+LINE 86: offering a seat in his carriage, if the weather were Mr. Elton's only
+LINE 87: objection, and Mr. Elton actually accepting the offer with much prompt
+LINE 88: satisfaction. It was a done thing; Mr. Elton was to go, and never had
+LINE 89: his broad handsome face expressed more pleasure than at this moment;
+LINE 90: never had his smile been stronger, nor his eyes more exulting than when
+LINE 91: he next looked at her.
+LINE 92: "Well," said she to herself, "this is most strange!—After I had got him
+LINE 93: off so well, to chuse to go into company, and leave Harriet ill
+LINE 94: behind!—Most strange indeed!—But there is, I believe, in many men,
+LINE 95: especially single men, such an inclination—such a passion for dining
+LINE 96: out—a dinner engagement is so high in the class of their pleasures,
+LINE 97: their employments, their dignities, almost their duties, that any thing
+LINE 98: gives way to it—and this must be the case with Mr. Elton; a most
+LINE 99: valuable, amiable, pleasing young man undoubtedly, and very much in
+LINE 100: love with Harriet; but still, he cannot refuse an invitation, he must
+LINE 101: dine out wherever he is asked. What a strange thing love is! he can see
+LINE 102: ready wit in Harriet, but will not dine alone for her."
+LINE 103: Soon afterwards Mr. Elton quitted them, and she could not but do him
+LINE 104: the justice of feeling that there was a great deal of sentiment in his
+LINE 105: manner of naming Harriet at parting; in the tone of his voice while
+LINE 106: assuring her that he should call at Mrs. Goddard's for news of her fair
+LINE 107: friend, the last thing before he prepared for the happiness of meeting
+LINE 108: her again, when he hoped to be able to give a better report; and he
+LINE 109: sighed and smiled himself off in a way that left the balance of
+LINE 110: approbation much in his favour.
+LINE 111: After a few minutes of entire silence between them, John Knightley
+LINE 112: began with—
+LINE 113: "I never in my life saw a man more intent on being agreeable than Mr.
+LINE 114: Elton. It is downright labour to him where ladies are concerned. With
+LINE 115: men he can be rational and unaffected, but when he has ladies to
+LINE 116: please, every feature works."
+LINE 117: "Mr. Elton's manners are not perfect," replied Emma; "but where there
+LINE 118: is a wish to please, one ought to overlook, and one does overlook a
+LINE 119: great deal. Where a man does his best with only moderate powers, he
+LINE 120: will have the advantage over negligent superiority. There is such
+LINE 121: perfect good-temper and good-will in Mr. Elton as one cannot but
+LINE 122: value."
+LINE 123: "Yes," said Mr. John Knightley presently, with some slyness, "he seems
+LINE 124: to have a great deal of good-will towards you."
+LINE 125: "Me!" she replied with a smile of astonishment, "are you imagining me
+LINE 126: to be Mr. Elton's object?"
+LINE 127: "Such an imagination has crossed me, I own, Emma; and if it never
+LINE 128: occurred to you before, you may as well take it into consideration
+LINE 129: now."
+LINE 130: "Mr. Elton in love with me!—What an idea!"
+LINE 131: "I do not say it is so; but you will do well to consider whether it is
+LINE 132: so or not, and to regulate your behaviour accordingly. I think your
+LINE 133: manners to him encouraging. I speak as a friend, Emma. You had better
+LINE 134: look about you, and ascertain what you do, and what you mean to do."
+LINE 135: "I thank you; but I assure you you are quite mistaken. Mr. Elton and I
+LINE 136: are very good friends, and nothing more;" and she walked on, amusing
+LINE 137: herself in the consideration of the blunders which often arise from a
+LINE 138: partial knowledge of circumstances, of the mistakes which people of
+LINE 139: high pretensions to judgment are for ever falling into; and not very
+LINE 140: well pleased with her brother for imagining her blind and ignorant, and
+LINE 141: in want of counsel. He said no more.
+LINE 142: Mr. Woodhouse had so completely made up his mind to the visit, that in
+LINE 143: spite of the increasing coldness, he seemed to have no idea of
+LINE 144: shrinking from it, and set forward at last most punctually with his
+LINE 145: eldest daughter in his own carriage, with less apparent consciousness
+LINE 146: of the weather than either of the others; too full of the wonder of his
+LINE 147: own going, and the pleasure it was to afford at Randalls to see that it
+LINE 148: was cold, and too well wrapt up to feel it. The cold, however, was
+LINE 149: severe; and by the time the second carriage was in motion, a few flakes
+LINE 150: of snow were finding their way down, and the sky had the appearance of
+LINE 151: being so overcharged as to want only a milder air to produce a very
+LINE 152: white world in a very short time.
+LINE 153: Emma soon saw that her companion was not in the happiest humour. The
+LINE 154: preparing and the going abroad in such weather, with the sacrifice of
+LINE 155: his children after dinner, were evils, were disagreeables at least,
+LINE 156: which Mr. John Knightley did not by any means like; he anticipated
+LINE 157: nothing in the visit that could be at all worth the purchase; and the
+LINE 158: whole of their drive to the vicarage was spent by him in expressing his
+LINE 159: discontent.
+LINE 160: "A man," said he, "must have a very good opinion of himself when he
+LINE 161: asks people to leave their own fireside, and encounter such a day as
+LINE 162: this, for the sake of coming to see him. He must think himself a most
+LINE 163: agreeable fellow; I could not do such a thing. It is the greatest
+LINE 164: absurdity—Actually snowing at this moment!—The folly of not allowing
+LINE 165: people to be comfortable at home—and the folly of people's not staying
+LINE 166: comfortably at home when they can! If we were obliged to go out such an
+LINE 167: evening as this, by any call of duty or business, what a hardship we
+LINE 168: should deem it;—and here are we, probably with rather thinner clothing
+LINE 169: than usual, setting forward voluntarily, without excuse, in defiance of
+LINE 170: the voice of nature, which tells man, in every thing given to his view
+LINE 171: or his feelings, to stay at home himself, and keep all under shelter
+LINE 172: that he can;—here are we setting forward to spend five dull hours in
+LINE 173: another man's house, with nothing to say or to hear that was not said
+LINE 174: and heard yesterday, and may not be said and heard again to-morrow.
+LINE 175: Going in dismal weather, to return probably in worse;—four horses and
+LINE 176: four servants taken out for nothing but to convey five idle, shivering
+LINE 177: creatures into colder rooms and worse company than they might have had
+LINE 178: at home."
+LINE 179: Emma did not find herself equal to give the pleased assent, which no
+LINE 180: doubt he was in the habit of receiving, to emulate the "Very true, my
+LINE 181: love," which must have been usually administered by his travelling
+LINE 182: companion; but she had resolution enough to refrain from making any
+LINE 183: answer at all. She could not be complying, she dreaded being
+LINE 184: quarrelsome; her heroism reached only to silence. She allowed him to
+LINE 185: talk, and arranged the glasses, and wrapped herself up, without opening
+LINE 186: her lips.
+LINE 187: They arrived, the carriage turned, the step was let down, and Mr.
+LINE 188: Elton, spruce, black, and smiling, was with them instantly. Emma
+LINE 189: thought with pleasure of some change of subject. Mr. Elton was all
+LINE 190: obligation and cheerfulness; he was so very cheerful in his civilities
+LINE 191: indeed, that she began to think he must have received a different
+LINE 192: account of Harriet from what had reached her. She had sent while
+LINE 193: dressing, and the answer had been, "Much the same—not better."
+LINE 194: "_My_ report from Mrs. Goddard's," said she presently, "was not so
+LINE 195: pleasant as I had hoped—'Not better' was _my_ answer."
+LINE 196: His face lengthened immediately; and his voice was the voice of
+LINE 197: sentiment as he answered.
+LINE 198: "Oh! no—I am grieved to find—I was on the point of telling you that
+LINE 199: when I called at Mrs. Goddard's door, which I did the very last thing
+LINE 200: before I returned to dress, I was told that Miss Smith was not better,
+LINE 201: by no means better, rather worse. Very much grieved and concerned—I had
+LINE 202: flattered myself that she must be better after such a cordial as I knew
+LINE 203: had been given her in the morning."
+LINE 204: Emma smiled and answered—"My visit was of use to the nervous part of
+LINE 205: her complaint, I hope; but not even I can charm away a sore throat; it
+LINE 206: is a most severe cold indeed. Mr. Perry has been with her, as you
+LINE 207: probably heard."
+LINE 208: "Yes—I imagined—that is—I did not—"
+LINE 209: "He has been used to her in these complaints, and I hope to-morrow
+LINE 210: morning will bring us both a more comfortable report. But it is
+LINE 211: impossible not to feel uneasiness. Such a sad loss to our party
+LINE 212: to-day!"
+LINE 213: "Dreadful!—Exactly so, indeed.—She will be missed every moment."
+LINE 214: This was very proper; the sigh which accompanied it was really
+LINE 215: estimable; but it should have lasted longer. Emma was rather in dismay
+LINE 216: when only half a minute afterwards he began to speak of other things,
+LINE 217: and in a voice of the greatest alacrity and enjoyment.
+LINE 218: "What an excellent device," said he, "the use of a sheepskin for
+LINE 219: carriages. How very comfortable they make it;—impossible to feel cold
+LINE 220: with such precautions. The contrivances of modern days indeed have
+LINE 221: rendered a gentleman's carriage perfectly complete. One is so fenced
+LINE 222: and guarded from the weather, that not a breath of air can find its way
+LINE 223: unpermitted. Weather becomes absolutely of no consequence. It is a very
+LINE 224: cold afternoon—but in this carriage we know nothing of the matter.—Ha!
+LINE 225: snows a little I see."
+LINE 226: "Yes," said John Knightley, "and I think we shall have a good deal of
+LINE 227: it."
+LINE 228: "Christmas weather," observed Mr. Elton. "Quite seasonable; and
+LINE 229: extremely fortunate we may think ourselves that it did not begin
+LINE 230: yesterday, and prevent this day's party, which it might very possibly
+LINE 231: have done, for Mr. Woodhouse would hardly have ventured had there been
+LINE 232: much snow on the ground; but now it is of no consequence. This is quite
+LINE 233: the season indeed for friendly meetings. At Christmas every body
+LINE 234: invites their friends about them, and people think little of even the
+LINE 235: worst weather. I was snowed up at a friend's house once for a week.
+LINE 236: Nothing could be pleasanter. I went for only one night, and could not
+LINE 237: get away till that very day se'nnight."
+LINE 238: Mr. John Knightley looked as if he did not comprehend the pleasure, but
+LINE 239: said only, coolly,
+LINE 240: "I cannot wish to be snowed up a week at Randalls."
+LINE 241: At another time Emma might have been amused, but she was too much
+LINE 242: astonished now at Mr. Elton's spirits for other feelings. Harriet
+LINE 243: seemed quite forgotten in the expectation of a pleasant party.
+LINE 244: "We are sure of excellent fires," continued he, "and every thing in the
+LINE 245: greatest comfort. Charming people, Mr. and Mrs. Weston;—Mrs. Weston
+LINE 246: indeed is much beyond praise, and he is exactly what one values, so
+LINE 247: hospitable, and so fond of society;—it will be a small party, but where
+LINE 248: small parties are select, they are perhaps the most agreeable of any.
+LINE 249: Mr. Weston's dining-room does not accommodate more than ten
+LINE 250: comfortably; and for my part, I would rather, under such circumstances,
+LINE 251: fall short by two than exceed by two. I think you will agree with me,
+LINE 252: (turning with a soft air to Emma,) I think I shall certainly have your
+LINE 253: approbation, though Mr. Knightley perhaps, from being used to the large
+LINE 254: parties of London, may not quite enter into our feelings."
+LINE 255: "I know nothing of the large parties of London, sir—I never dine with
+LINE 256: any body."
+LINE 257: "Indeed! (in a tone of wonder and pity,) I had no idea that the law had
+LINE 258: been so great a slavery. Well, sir, the time must come when you will be
+LINE 259: paid for all this, when you will have little labour and great
+LINE 260: enjoyment."
+LINE 261: "My first enjoyment," replied John Knightley, as they passed through
+LINE 262: the sweep-gate, "will be to find myself safe at Hartfield again."

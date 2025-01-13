@@ -1,0 +1,89 @@
+LINE 1: Next morning the Scarecrow said to his friends:
+LINE 2: "Congratulate me. I am going to Oz to get my brains at last. When I
+LINE 3: return I shall be as other men are."
+LINE 4: "I have always liked you as you were," said Dorothy simply.
+LINE 5: "It is kind of you to like a Scarecrow," he replied. "But surely you
+LINE 6: will think more of me when you hear the splendid thoughts my new brain
+LINE 7: is going to turn out." Then he said good-bye to them all in a cheerful
+LINE 8: voice and went to the Throne Room, where he rapped upon the door.
+LINE 9: "Come in," said Oz.
+LINE 10: The Scarecrow went in and found the little man sitting down by the
+LINE 11: window, engaged in deep thought.
+LINE 12: "I have come for my brains," remarked the Scarecrow, a little uneasily.
+LINE 13: "Oh, yes; sit down in that chair, please," replied Oz. "You must excuse
+LINE 14: me for taking your head off, but I shall have to do it in order to put
+LINE 15: your brains in their proper place."
+LINE 16: "That's all right," said the Scarecrow. "You are quite welcome to take
+LINE 17: my head off, as long as it will be a better one when you put it on
+LINE 18: again."
+LINE 19: So the Wizard unfastened his head and emptied out the straw. Then he
+LINE 20: entered the back room and took up a measure of bran, which he mixed
+LINE 21: with a great many pins and needles. Having shaken them together
+LINE 22: thoroughly, he filled the top of the Scarecrow's head with the mixture
+LINE 23: and stuffed the rest of the space with straw, to hold it in place.
+LINE 24: When he had fastened the Scarecrow's head on his body again he said to
+LINE 25: him, "Hereafter you will be a great man, for I have given you a lot of
+LINE 26: bran-new brains."
+LINE 27: The Scarecrow was both pleased and proud at the fulfillment of his
+LINE 28: greatest wish, and having thanked Oz warmly he went back to his
+LINE 29: friends.
+LINE 30: Dorothy looked at him curiously. His head was quite bulged out at the
+LINE 31: top with brains.
+LINE 32: "How do you feel?" she asked.
+LINE 33: "I feel wise indeed," he answered earnestly. "When I get used to my
+LINE 34: brains I shall know everything."
+LINE 35: "Why are those needles and pins sticking out of your head?" asked the
+LINE 36: Tin Woodman.
+LINE 37: "That is proof that he is sharp," remarked the Lion.
+LINE 38: "Well, I must go to Oz and get my heart," said the Woodman. So he
+LINE 39: walked to the Throne Room and knocked at the door.
+LINE 40: "Come in," called Oz, and the Woodman entered and said, "I have come
+LINE 41: for my heart."
+LINE 42: "Very well," answered the little man. "But I shall have to cut a hole
+LINE 43: in your breast, so I can put your heart in the right place. I hope it
+LINE 44: won't hurt you."
+LINE 45: "Oh, no," answered the Woodman. "I shall not feel it at all."
+LINE 46: So Oz brought a pair of tinsmith's shears and cut a small, square hole
+LINE 47: in the left side of the Tin Woodman's breast. Then, going to a chest of
+LINE 48: drawers, he took out a pretty heart, made entirely of silk and stuffed
+LINE 49: with sawdust.
+LINE 50: "Isn't it a beauty?" he asked.
+LINE 51: "It is, indeed!" replied the Woodman, who was greatly pleased. "But is
+LINE 52: it a kind heart?"
+LINE 53: "Oh, very!" answered Oz. He put the heart in the Woodman's breast and
+LINE 54: then replaced the square of tin, soldering it neatly together where it
+LINE 55: had been cut.
+LINE 56: "There," said he; "now you have a heart that any man might be proud of.
+LINE 57: I'm sorry I had to put a patch on your breast, but it really couldn't
+LINE 58: be helped."
+LINE 59: "Never mind the patch," exclaimed the happy Woodman. "I am very
+LINE 60: grateful to you, and shall never forget your kindness."
+LINE 61: "Don't speak of it," replied Oz.
+LINE 62: Then the Tin Woodman went back to his friends, who wished him every joy
+LINE 63: on account of his good fortune.
+LINE 64: The Lion now walked to the Throne Room and knocked at the door.
+LINE 65: "Come in," said Oz.
+LINE 66: "I have come for my courage," announced the Lion, entering the room.
+LINE 67: "Very well," answered the little man; "I will get it for you."
+LINE 68: He went to a cupboard and reaching up to a high shelf took down a
+LINE 69: square green bottle, the contents of which he poured into a green-gold
+LINE 70: dish, beautifully carved. Placing this before the Cowardly Lion, who
+LINE 71: sniffed at it as if he did not like it, the Wizard said:
+LINE 72: "Drink."
+LINE 73: "What is it?" asked the Lion.
+LINE 74: "Well," answered Oz, "if it were inside of you, it would be courage.
+LINE 75: You know, of course, that courage is always inside one; so that this
+LINE 76: really cannot be called courage until you have swallowed it. Therefore
+LINE 77: I advise you to drink it as soon as possible."
+LINE 78: The Lion hesitated no longer, but drank till the dish was empty.
+LINE 79: "How do you feel now?" asked Oz.
+LINE 80: "Full of courage," replied the Lion, who went joyfully back to his
+LINE 81: friends to tell them of his good fortune.
+LINE 82: Oz, left to himself, smiled to think of his success in giving the
+LINE 83: Scarecrow and the Tin Woodman and the Lion exactly what they thought
+LINE 84: they wanted. "How can I help being a humbug," he said, "when all these
+LINE 85: people make me do things that everybody knows can't be done? It was
+LINE 86: easy to make the Scarecrow and the Lion and the Woodman happy, because
+LINE 87: they imagined I could do anything. But it will take more than
+LINE 88: imagination to carry Dorothy back to Kansas, and I'm sure I don't know
+LINE 89: how it can be done."

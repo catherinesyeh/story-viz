@@ -1,0 +1,265 @@
+LINE 1: "Such was the history of my beloved cottagers. It impressed me deeply.
+LINE 2: I learned, from the views of social life which it developed, to admire
+LINE 3: their virtues and to deprecate the vices of mankind.
+LINE 4: "As yet I looked upon crime as a distant evil, benevolence and
+LINE 5: generosity were ever present before me, inciting within me a desire to
+LINE 6: become an actor in the busy scene where so many admirable qualities
+LINE 7: were called forth and displayed. But in giving an account of the
+LINE 8: progress of my intellect, I must not omit a circumstance which occurred
+LINE 9: in the beginning of the month of August of the same year.
+LINE 10: "One night during my accustomed visit to the neighbouring wood where I
+LINE 11: collected my own food and brought home firing for my protectors, I found on
+LINE 12: the ground a leathern portmanteau containing several articles of dress and
+LINE 13: some books. I eagerly seized the prize and returned with it to my hovel.
+LINE 14: Fortunately the books were written in the language, the elements of which I
+LINE 15: had acquired at the cottage; they consisted of _Paradise Lost_, a volume
+LINE 16: of _Plutarch's Lives_, and the _Sorrows of Werter_. The
+LINE 17: possession of these treasures gave me extreme delight; I now continually
+LINE 18: studied and exercised my mind upon these histories, whilst my friends were
+LINE 19: employed in their ordinary occupations.
+LINE 20: "I can hardly describe to you the effect of these books. They produced
+LINE 21: in me an infinity of new images and feelings, that sometimes raised me
+LINE 22: to ecstasy, but more frequently sunk me into the lowest dejection. In
+LINE 23: the _Sorrows of Werter_, besides the interest of its simple and affecting
+LINE 24: story, so many opinions are canvassed and so many lights thrown upon
+LINE 25: what had hitherto been to me obscure subjects that I found in it a
+LINE 26: never-ending source of speculation and astonishment. The gentle and
+LINE 27: domestic manners it described, combined with lofty sentiments and
+LINE 28: feelings, which had for their object something out of self, accorded
+LINE 29: well with my experience among my protectors and with the wants which
+LINE 30: were for ever alive in my own bosom. But I thought Werter himself a
+LINE 31: more divine being than I had ever beheld or imagined; his character
+LINE 32: contained no pretension, but it sank deep. The disquisitions upon
+LINE 33: death and suicide were calculated to fill me with wonder. I did not
+LINE 34: pretend to enter into the merits of the case, yet I inclined towards
+LINE 35: the opinions of the hero, whose extinction I wept, without precisely
+LINE 36: understanding it.
+LINE 37: "As I read, however, I applied much personally to my own feelings and
+LINE 38: condition. I found myself similar yet at the same time strangely
+LINE 39: unlike to the beings concerning whom I read and to whose conversation I
+LINE 40: was a listener. I sympathised with and partly understood them, but I
+LINE 41: was unformed in mind; I was dependent on none and related to none.
+LINE 42: 'The path of my departure was free,' and there was none to lament my
+LINE 43: annihilation. My person was hideous and my stature gigantic. What did
+LINE 44: this mean? Who was I? What was I? Whence did I come? What was my
+LINE 45: destination? These questions continually recurred, but I was unable to
+LINE 46: solve them.
+LINE 47: "The volume of _Plutarch's Lives_ which I possessed contained the
+LINE 48: histories of the first founders of the ancient republics. This book
+LINE 49: had a far different effect upon me from the _Sorrows of Werter_. I
+LINE 50: learned from Werter's imaginations despondency and gloom, but Plutarch
+LINE 51: taught me high thoughts; he elevated me above the wretched sphere of my
+LINE 52: own reflections, to admire and love the heroes of past ages. Many
+LINE 53: things I read surpassed my understanding and experience. I had a very
+LINE 54: confused knowledge of kingdoms, wide extents of country, mighty rivers,
+LINE 55: and boundless seas. But I was perfectly unacquainted with towns and
+LINE 56: large assemblages of men. The cottage of my protectors had been the
+LINE 57: only school in which I had studied human nature, but this book
+LINE 58: developed new and mightier scenes of action. I read of men concerned
+LINE 59: in public affairs, governing or massacring their species. I felt the
+LINE 60: greatest ardour for virtue rise within me, and abhorrence for vice, as
+LINE 61: far as I understood the signification of those terms, relative as they
+LINE 62: were, as I applied them, to pleasure and pain alone. Induced by these
+LINE 63: feelings, I was of course led to admire peaceable lawgivers, Numa,
+LINE 64: Solon, and Lycurgus, in preference to Romulus and Theseus. The
+LINE 65: patriarchal lives of my protectors caused these impressions to take a
+LINE 66: firm hold on my mind; perhaps, if my first introduction to humanity had
+LINE 67: been made by a young soldier, burning for glory and slaughter, I should
+LINE 68: have been imbued with different sensations.
+LINE 69: "But _Paradise Lost_ excited different and far deeper emotions. I read
+LINE 70: it, as I had read the other volumes which had fallen into my hands, as
+LINE 71: a true history. It moved every feeling of wonder and awe that the
+LINE 72: picture of an omnipotent God warring with his creatures was capable of
+LINE 73: exciting. I often referred the several situations, as their similarity
+LINE 74: struck me, to my own. Like Adam, I was apparently united by no link to
+LINE 75: any other being in existence; but his state was far different from mine
+LINE 76: in every other respect. He had come forth from the hands of God a
+LINE 77: perfect creature, happy and prosperous, guarded by the especial care of
+LINE 78: his Creator; he was allowed to converse with and acquire knowledge from
+LINE 79: beings of a superior nature, but I was wretched, helpless, and alone.
+LINE 80: Many times I considered Satan as the fitter emblem of my condition, for
+LINE 81: often, like him, when I viewed the bliss of my protectors, the bitter
+LINE 82: gall of envy rose within me.
+LINE 83: "Another circumstance strengthened and confirmed these feelings. Soon
+LINE 84: after my arrival in the hovel I discovered some papers in the pocket of
+LINE 85: the dress which I had taken from your laboratory. At first I had
+LINE 86: neglected them, but now that I was able to decipher the characters in
+LINE 87: which they were written, I began to study them with diligence. It was
+LINE 88: your journal of the four months that preceded my creation. You
+LINE 89: minutely described in these papers every step you took in the progress
+LINE 90: of your work; this history was mingled with accounts of domestic
+LINE 91: occurrences. You doubtless recollect these papers. Here they are.
+LINE 92: Everything is related in them which bears reference to my accursed
+LINE 93: origin; the whole detail of that series of disgusting circumstances
+LINE 94: which produced it is set in view; the minutest description of my odious
+LINE 95: and loathsome person is given, in language which painted your own
+LINE 96: horrors and rendered mine indelible. I sickened as I read. 'Hateful
+LINE 97: day when I received life!' I exclaimed in agony. 'Accursed creator!
+LINE 98: Why did you form a monster so hideous that even _you_ turned from me in
+LINE 99: disgust? God, in pity, made man beautiful and alluring, after his own
+LINE 100: image; but my form is a filthy type of yours, more horrid even from the
+LINE 101: very resemblance. Satan had his companions, fellow devils, to admire
+LINE 102: and encourage him, but I am solitary and abhorred.'
+LINE 103: "These were the reflections of my hours of despondency and solitude;
+LINE 104: but when I contemplated the virtues of the cottagers, their amiable and
+LINE 105: benevolent dispositions, I persuaded myself that when they should
+LINE 106: become acquainted with my admiration of their virtues they would
+LINE 107: compassionate me and overlook my personal deformity. Could they turn
+LINE 108: from their door one, however monstrous, who solicited their compassion
+LINE 109: and friendship? I resolved, at least, not to despair, but in every way
+LINE 110: to fit myself for an interview with them which would decide my fate. I
+LINE 111: postponed this attempt for some months longer, for the importance
+LINE 112: attached to its success inspired me with a dread lest I should fail.
+LINE 113: Besides, I found that my understanding improved so much with every
+LINE 114: day's experience that I was unwilling to commence this undertaking
+LINE 115: until a few more months should have added to my sagacity.
+LINE 116: "Several changes, in the meantime, took place in the cottage. The
+LINE 117: presence of Safie diffused happiness among its inhabitants, and I also
+LINE 118: found that a greater degree of plenty reigned there. Felix and Agatha
+LINE 119: spent more time in amusement and conversation, and were assisted in
+LINE 120: their labours by servants. They did not appear rich, but they were
+LINE 121: contented and happy; their feelings were serene and peaceful, while
+LINE 122: mine became every day more tumultuous. Increase of knowledge only
+LINE 123: discovered to me more clearly what a wretched outcast I was. I
+LINE 124: cherished hope, it is true, but it vanished when I beheld my person
+LINE 125: reflected in water or my shadow in the moonshine, even as that frail
+LINE 126: image and that inconstant shade.
+LINE 127: "I endeavoured to crush these fears and to fortify myself for the trial
+LINE 128: which in a few months I resolved to undergo; and sometimes I allowed my
+LINE 129: thoughts, unchecked by reason, to ramble in the fields of Paradise, and
+LINE 130: dared to fancy amiable and lovely creatures sympathising with my
+LINE 131: feelings and cheering my gloom; their angelic countenances breathed
+LINE 132: smiles of consolation. But it was all a dream; no Eve soothed my
+LINE 133: sorrows nor shared my thoughts; I was alone. I remembered Adam's
+LINE 134: supplication to his Creator. But where was mine? He had abandoned me,
+LINE 135: and in the bitterness of my heart I cursed him.
+LINE 136: "Autumn passed thus. I saw, with surprise and grief, the leaves decay
+LINE 137: and fall, and nature again assume the barren and bleak appearance it
+LINE 138: had worn when I first beheld the woods and the lovely moon. Yet I did
+LINE 139: not heed the bleakness of the weather; I was better fitted by my
+LINE 140: conformation for the endurance of cold than heat. But my chief
+LINE 141: delights were the sight of the flowers, the birds, and all the gay
+LINE 142: apparel of summer; when those deserted me, I turned with more attention
+LINE 143: towards the cottagers. Their happiness was not decreased by the
+LINE 144: absence of summer. They loved and sympathised with one another; and
+LINE 145: their joys, depending on each other, were not interrupted by the
+LINE 146: casualties that took place around them. The more I saw of them, the
+LINE 147: greater became my desire to claim their protection and kindness; my
+LINE 148: heart yearned to be known and loved by these amiable creatures; to see
+LINE 149: their sweet looks directed towards me with affection was the utmost
+LINE 150: limit of my ambition. I dared not think that they would turn them from
+LINE 151: me with disdain and horror. The poor that stopped at their door were
+LINE 152: never driven away. I asked, it is true, for greater treasures than a
+LINE 153: little food or rest: I required kindness and sympathy; but I did not
+LINE 154: believe myself utterly unworthy of it.
+LINE 155: "The winter advanced, and an entire revolution of the seasons had taken
+LINE 156: place since I awoke into life. My attention at this time was solely
+LINE 157: directed towards my plan of introducing myself into the cottage of my
+LINE 158: protectors. I revolved many projects, but that on which I finally
+LINE 159: fixed was to enter the dwelling when the blind old man should be alone.
+LINE 160: I had sagacity enough to discover that the unnatural hideousness of my
+LINE 161: person was the chief object of horror with those who had formerly
+LINE 162: beheld me. My voice, although harsh, had nothing terrible in it; I
+LINE 163: thought, therefore, that if in the absence of his children I could gain
+LINE 164: the good will and mediation of the old De Lacey, I might by his means
+LINE 165: be tolerated by my younger protectors.
+LINE 166: "One day, when the sun shone on the red leaves that strewed the ground
+LINE 167: and diffused cheerfulness, although it denied warmth, Safie, Agatha,
+LINE 168: and Felix departed on a long country walk, and the old man, at his own
+LINE 169: desire, was left alone in the cottage. When his children had departed,
+LINE 170: he took up his guitar and played several mournful but sweet airs, more
+LINE 171: sweet and mournful than I had ever heard him play before. At first his
+LINE 172: countenance was illuminated with pleasure, but as he continued,
+LINE 173: thoughtfulness and sadness succeeded; at length, laying aside the
+LINE 174: instrument, he sat absorbed in reflection.
+LINE 175: "My heart beat quick; this was the hour and moment of trial, which
+LINE 176: would decide my hopes or realise my fears. The servants were gone to a
+LINE 177: neighbouring fair. All was silent in and around the cottage; it was an
+LINE 178: excellent opportunity; yet, when I proceeded to execute my plan, my
+LINE 179: limbs failed me and I sank to the ground. Again I rose, and exerting
+LINE 180: all the firmness of which I was master, removed the planks which I had
+LINE 181: placed before my hovel to conceal my retreat. The fresh air revived
+LINE 182: me, and with renewed determination I approached the door of their
+LINE 183: cottage.
+LINE 184: "I knocked. 'Who is there?' said the old man. 'Come in.'
+LINE 185: "I entered. 'Pardon this intrusion,' said I; 'I am
+LINE 186: a traveller in want of a little rest; you would greatly oblige me if you
+LINE 187: would allow me to remain a few minutes before the fire.'
+LINE 188: "'Enter,' said De Lacey, 'and I will try in what
+LINE 189: manner I can to relieve your wants; but, unfortunately, my children are
+LINE 190: from home, and as I am blind, I am afraid I shall find it difficult to
+LINE 191: procure food for you.'
+LINE 192: "'Do not trouble yourself, my kind host; I have food; it is
+LINE 193: warmth and rest only that I need.'
+LINE 194: "I sat down, and a silence ensued. I knew that every minute was
+LINE 195: precious to me, yet I remained irresolute in what manner to commence
+LINE 196: the interview, when the old man addressed me.
+LINE 197: 'By your language, stranger, I suppose you are my countryman; are you
+LINE 198: French?'
+LINE 199: "'No; but I was educated by a French family and understand that
+LINE 200: language only. I am now going to claim the protection of some friends,
+LINE 201: whom I sincerely love, and of whose favour I have some hopes.'
+LINE 202: "'Are they Germans?'
+LINE 203: "'No, they are French. But let us change the subject. I am an
+LINE 204: unfortunate and deserted creature, I look around and I have no relation
+LINE 205: or friend upon earth. These amiable people to whom I go have never
+LINE 206: seen me and know little of me. I am full of fears, for if I fail
+LINE 207: there, I am an outcast in the world for ever.'
+LINE 208: "'Do not despair. To be friendless is indeed to be unfortunate, but
+LINE 209: the hearts of men, when unprejudiced by any obvious self-interest, are
+LINE 210: full of brotherly love and charity. Rely, therefore, on your hopes;
+LINE 211: and if these friends are good and amiable, do not despair.'
+LINE 212: "'They are kind—they are the most excellent creatures in the world;
+LINE 213: but, unfortunately, they are prejudiced against me. I have good
+LINE 214: dispositions; my life has been hitherto harmless and in some degree
+LINE 215: beneficial; but a fatal prejudice clouds their eyes, and where they
+LINE 216: ought to see a feeling and kind friend, they behold only a detestable
+LINE 217: monster.'
+LINE 218: "'That is indeed unfortunate; but if you are really blameless, cannot
+LINE 219: you undeceive them?'
+LINE 220: "'I am about to undertake that task; and it is on that account that I
+LINE 221: feel so many overwhelming terrors. I tenderly love these friends; I
+LINE 222: have, unknown to them, been for many months in the habits of daily
+LINE 223: kindness towards them; but they believe that I wish to injure them, and
+LINE 224: it is that prejudice which I wish to overcome.'
+LINE 225: "'Where do these friends reside?'
+LINE 226: "'Near this spot.'
+LINE 227: "The old man paused and then continued, 'If you will unreservedly
+LINE 228: confide to me the particulars of your tale, I perhaps may be of use in
+LINE 229: undeceiving them. I am blind and cannot judge of your countenance, but
+LINE 230: there is something in your words which persuades me that you are
+LINE 231: sincere. I am poor and an exile, but it will afford me true pleasure
+LINE 232: to be in any way serviceable to a human creature.'
+LINE 233: "'Excellent man! I thank you and accept your generous offer. You
+LINE 234: raise me from the dust by this kindness; and I trust that, by your aid,
+LINE 235: I shall not be driven from the society and sympathy of your fellow
+LINE 236: creatures.'
+LINE 237: "'Heaven forbid! Even if you were really criminal, for that can only
+LINE 238: drive you to desperation, and not instigate you to virtue. I also am
+LINE 239: unfortunate; I and my family have been condemned, although innocent;
+LINE 240: judge, therefore, if I do not feel for your misfortunes.'
+LINE 241: "'How can I thank you, my best and only benefactor? From your lips
+LINE 242: first have I heard the voice of kindness directed towards me; I shall
+LINE 243: be for ever grateful; and your present humanity assures me of success
+LINE 244: with those friends whom I am on the point of meeting.'
+LINE 245: "'May I know the names and residence of those friends?'
+LINE 246: "I paused. This, I thought, was the moment of decision, which was to
+LINE 247: rob me of or bestow happiness on me for ever. I struggled vainly for
+LINE 248: firmness sufficient to answer him, but the effort destroyed all my
+LINE 249: remaining strength; I sank on the chair and sobbed aloud. At that
+LINE 250: moment I heard the steps of my younger protectors. I had not a moment
+LINE 251: to lose, but seizing the hand of the old man, I cried, 'Now is the
+LINE 252: time! Save and protect me! You and your family are the friends whom I
+LINE 253: seek. Do not you desert me in the hour of trial!'
+LINE 254: "'Great God!' exclaimed the old man. 'Who are you?'
+LINE 255: "At that instant the cottage door was opened, and Felix, Safie, and
+LINE 256: Agatha entered. Who can describe their horror and consternation on
+LINE 257: beholding me? Agatha fainted, and Safie, unable to attend to her
+LINE 258: friend, rushed out of the cottage. Felix darted forward, and with
+LINE 259: supernatural force tore me from his father, to whose knees I clung, in
+LINE 260: a transport of fury, he dashed me to the ground and struck me violently
+LINE 261: with a stick. I could have torn him limb from limb, as the lion rends
+LINE 262: the antelope. But my heart sank within me as with bitter sickness, and
+LINE 263: I refrained. I saw him on the point of repeating his blow, when,
+LINE 264: overcome by pain and anguish, I quitted the cottage, and in the general
+LINE 265: tumult escaped unperceived to my hovel."

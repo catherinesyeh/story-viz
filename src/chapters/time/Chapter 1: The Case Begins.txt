@@ -1,0 +1,101 @@
+LINE 1: Alex Harper stood just beyond the yellow tape, eyes fixed on the sprawling
+LINE 2: luxury apartment ahead. The victim, a local celebrity whose name was already
+LINE 3: dominating the headlines, lay inside. Even from the doorway, Alex could sense
+LINE 4: the weight of the case, feel it pressing down like a thunderstorm on the
+LINE 5: horizon. This was not just another murder—this was a career-defining moment. A
+LINE 6: defining moment for a detective like Alex, teetering on the edge of personal
+LINE 7: crisis, eager for distraction yet wary of what this case might uncover.
+LINE 8: Sam Torres arrived moments later, boots crunching on the gravel as he nodded at
+LINE 9: Alex. "Big one, huh?" His voice was skeptical, as it often was in these
+LINE 10: moments—unsure of what lay ahead but always steady by Alex's side. "You ready
+LINE 11: for this?"
+LINE 12: Alex didn't respond right away. The air was thick with the scent of rain and
+LINE 13: city grime, a peculiar mix that always accompanied late summer evenings. "Ready
+LINE 14: as I'll ever be," Alex muttered, finally ducking under the tape and stepping
+LINE 15: into the apartment.
+LINE 16: The luxury within jarred with the violence that had unfolded. Marble floors
+LINE 17: gleamed under the soft glow of chandeliers, but the opulence was marred by the
+LINE 18: dark stain in the center of the living room. Blood. Alex's chest tightened,
+LINE 19: instinctively shifting into detective mode as their eyes swept over the details.
+LINE 20: "Officer Davis?" Alex called, glancing over at the young first responder who
+LINE 21: stood by the window, nervously fiddling with his radio. He jumped slightly at
+LINE 22: Alex's voice and turned, clearly unsettled by the scene.
+LINE 23: "Detective," Davis nodded, his face pale under the harsh light. "It's...bad.
+LINE 24: We've secured the scene, but the media's already buzzing outside. Chief
+LINE 25: Anderson's going to want answers, fast."
+LINE 26: Alex nodded curtly. "He always does." Anderson was known for his impatience, a
+LINE 27: man driven more by the need to keep his reputation clean than by a genuine
+LINE 28: desire for justice. Alex could hear the echo of the chief's voice in their head
+LINE 29: already: "Get it solved, Harper. Fast."
+LINE 30: After Officer Davis briefed them, Alex moved closer to examine the body. Sam
+LINE 31: stood at a distance, letting Alex take the lead as usual. His eyes scanned the
+LINE 32: room, though, and Alex could feel his skepticism growing with each passing
+LINE 33: second.
+LINE 34: "This place," Sam said, his voice low, "it doesn't fit, does it?"
+LINE 35: Alex knew what he meant. Everything about the apartment screamed wealth and
+LINE 36: status, but the crime? It was brutal—far more personal than any of this luxury
+LINE 37: suggested. Kneeling beside the body, Alex pulled on a pair of gloves and
+LINE 38: carefully inspected the scene. The woman's face was serene, as though untouched
+LINE 39: by the violence of her death. The rest of her, though, told a different story.
+LINE 40: "I don't know," Alex said, their voice soft, almost to themselves. "It
+LINE 41: feels...off."
+LINE 42: Sam crossed his arms, leaning against the marble counter. "What are you
+LINE 43: thinking?"
+LINE 44: Alex didn't answer right away, standing up and circling the body. The room was
+LINE 45: immaculate, yet something was missing. The methodical nature of the scene
+LINE 46: suggested this wasn't the work of someone driven by a spur-of-the-moment rage.
+LINE 47: Whoever did this had taken their time.
+LINE 48: "There's no sign of a break-in," Alex pointed out. "She knew her killer."
+LINE 49: Officer Davis cleared his throat from across the room. "There's more." He
+LINE 50: pointed toward a small corner table where a delicate glass of wine sat,
+LINE 51: untouched, beside a note. Alex's eyes narrowed. Whoever had been here wasn't in
+LINE 52: a hurry to leave.
+LINE 53: Back at the precinct, Captain Morgan loomed behind his desk, fingers tapping in
+LINE 54: a steady rhythm. The sound grated against Alex's nerves as they waited,
+LINE 55: standing just shy of the captain's gaze. He had a way of making them feel like
+LINE 56: a rookie, no matter how many cases they had under their belt.
+LINE 57: "Anderson's breathing down my neck," the captain said without preamble. "He
+LINE 58: wants this solved, and he wants it done cleanly. High-profile, rich family, you
+LINE 59: know the drill."
+LINE 60: Alex's jaw tightened. They knew the drill all too well. The rich got
+LINE 61: protection, the powerful had their secrets kept, and the ones caught in
+LINE 62: between—like Alex—had to navigate those treacherous waters. Still, they
+LINE 63: remained silent, waiting for the captain to continue.
+LINE 64: "Look," Morgan finally said, sighing, "I need your head in this. Anderson's
+LINE 65: already worried you're too close to burning out, and frankly, so am I."
+LINE 66: "I'm fine," Alex snapped, though the words felt hollow. They knew the captain
+LINE 67: was right—knew that the sleepless nights and personal demons were creeping into
+LINE 68: their work. But none of that mattered now. "We'll have something for you soon."
+LINE 69: Morgan didn't look convinced, but he let the matter drop. "Good. Get out there
+LINE 70: and figure this out. And Harper—" he added, his voice taking on a sharper tone,
+LINE 71: "don't mess this up."
+LINE 72: Outside the office, Sam waited, arms crossed as he leaned against the
+LINE 73: precinct's peeling walls. "How'd it go?"
+LINE 74: Alex rolled their eyes. "The usual. Pressure, threats. You know how it is."
+LINE 75: Sam gave a half-smile. "Yeah, but it's good to see you pissed off again. Means
+LINE 76: you're not giving up on this yet."
+LINE 77: Alex let out a breath, not quite ready to admit how much the captain's words
+LINE 78: had struck home. They glanced at the files in their hand. "We'll crack this. We
+LINE 79: have to."
+LINE 80: The precinct buzzed with activity as Alex made their way to the interview room.
+LINE 81: Emily Rivers sat inside, her hands folded tightly in her lap, her eyes red from
+LINE 82: crying. She was a friend of the victim—close, by all accounts—and Alex hoped
+LINE 83: she had more to offer than just tears.
+LINE 84: "Ms. Rivers," Alex said, sliding into the chair opposite her. "I know this is
+LINE 85: hard, but I need you to help us understand what happened."
+LINE 86: Emily sniffled, wiping her nose on a tissue. "She didn't deserve this," she
+LINE 87: whispered, her voice breaking. "None of this makes sense."
+LINE 88: Alex nodded, keeping their expression neutral, though their heart tightened.
+LINE 89: Cases like these were always hardest when the victim's loved ones sat across
+LINE 90: from them. "You said you saw her the night before. Can you tell me what she was
+LINE 91: like?"
+LINE 92: Emily swallowed hard. "She was...distracted. I thought it was just work, but
+LINE 93: now—now I'm wondering if she was scared." Her voice wavered, her eyes darting
+LINE 94: down to her lap. "I should've asked her. I should've known."
+LINE 95: Alex's mind raced. If the victim had been scared, that changed things. "Did she
+LINE 96: mention anyone? Any threats? Anyone unusual in her life lately?"
+LINE 97: Emily shook her head, tears slipping down her cheeks. "No, she was private. Too
+LINE 98: private. Even with me."
+LINE 99: Alex took a deep breath, leaning back in the chair. This was going to take more
+LINE 100: than just Emily's tears to solve. But somewhere, buried in her pain, there had
+LINE 101: to be something that would crack this case open.

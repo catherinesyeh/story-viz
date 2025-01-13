@@ -1,0 +1,224 @@
+LINE 1: The Mock Turtle's Story
+LINE 2: "You can't think how glad I am to see you again, you dear old thing!"
+LINE 3: said the Duchess, as she tucked her arm affectionately into Alice's,
+LINE 4: and they walked off together.
+LINE 5: Alice was very glad to find her in such a pleasant temper, and thought
+LINE 6: to herself that perhaps it was only the pepper that had made her so
+LINE 7: savage when they met in the kitchen.
+LINE 8: "When _I'm_ a Duchess," she said to herself, (not in a very hopeful
+LINE 9: tone though), "I won't have any pepper in my kitchen _at all_. Soup
+LINE 10: does very well without—Maybe it's always pepper that makes people
+LINE 11: hot-tempered," she went on, very much pleased at having found out a new
+LINE 12: kind of rule, "and vinegar that makes them sour—and camomile that makes
+LINE 13: them bitter—and—and barley-sugar and such things that make children
+LINE 14: sweet-tempered. I only wish people knew _that_: then they wouldn't be
+LINE 15: so stingy about it, you know—"
+LINE 16: She had quite forgotten the Duchess by this time, and was a little
+LINE 17: startled when she heard her voice close to her ear. "You're thinking
+LINE 18: about something, my dear, and that makes you forget to talk. I can't
+LINE 19: tell you just now what the moral of that is, but I shall remember it in
+LINE 20: a bit."
+LINE 21: "Perhaps it hasn't one," Alice ventured to remark.
+LINE 22: "Tut, tut, child!" said the Duchess. "Everything's got a moral, if only
+LINE 23: you can find it." And she squeezed herself up closer to Alice's side as
+LINE 24: she spoke.
+LINE 25: Alice did not much like keeping so close to her: first, because the
+LINE 26: Duchess was _very_ ugly; and secondly, because she was exactly the
+LINE 27: right height to rest her chin upon Alice's shoulder, and it was an
+LINE 28: uncomfortably sharp chin. However, she did not like to be rude, so she
+LINE 29: bore it as well as she could.
+LINE 30: "The game's going on rather better now," she said, by way of keeping up
+LINE 31: the conversation a little.
+LINE 32: "'Tis so," said the Duchess: "and the moral of that is—'Oh, 'tis love,
+LINE 33: 'tis love, that makes the world go round!'"
+LINE 34: "Somebody said," Alice whispered, "that it's done by everybody minding
+LINE 35: their own business!"
+LINE 36: "Ah, well! It means much the same thing," said the Duchess, digging her
+LINE 37: sharp little chin into Alice's shoulder as she added, "and the moral of
+LINE 38: _that_ is—'Take care of the sense, and the sounds will take care of
+LINE 39: themselves.'"
+LINE 40: "How fond she is of finding morals in things!" Alice thought to
+LINE 41: herself.
+LINE 42: "I dare say you're wondering why I don't put my arm round your waist,"
+LINE 43: the Duchess said after a pause: "the reason is, that I'm doubtful about
+LINE 44: the temper of your flamingo. Shall I try the experiment?"
+LINE 45: "He might bite," Alice cautiously replied, not feeling at all anxious
+LINE 46: to have the experiment tried.
+LINE 47: "Very true," said the Duchess: "flamingoes and mustard both bite. And
+LINE 48: the moral of that is—'Birds of a feather flock together.'"
+LINE 49: "Only mustard isn't a bird," Alice remarked.
+LINE 50: "Right, as usual," said the Duchess: "what a clear way you have of
+LINE 51: putting things!"
+LINE 52: "It's a mineral, I _think_," said Alice.
+LINE 53: "Of course it is," said the Duchess, who seemed ready to agree to
+LINE 54: everything that Alice said; "there's a large mustard-mine near here.
+LINE 55: And the moral of that is—'The more there is of mine, the less there is
+LINE 56: of yours.'"
+LINE 57: "Oh, I know!" exclaimed Alice, who had not attended to this last
+LINE 58: remark, "it's a vegetable. It doesn't look like one, but it is."
+LINE 59: "I quite agree with you," said the Duchess; "and the moral of that
+LINE 60: is—'Be what you would seem to be'—or if you'd like it put more
+LINE 61: simply—'Never imagine yourself not to be otherwise than what it might
+LINE 62: appear to others that what you were or might have been was not
+LINE 63: otherwise than what you had been would have appeared to them to be
+LINE 64: otherwise.'"
+LINE 65: "I think I should understand that better," Alice said very politely,
+LINE 66: "if I had it written down: but I can't quite follow it as you say it."
+LINE 67: "That's nothing to what I could say if I chose," the Duchess replied,
+LINE 68: in a pleased tone.
+LINE 69: "Pray don't trouble yourself to say it any longer than that," said
+LINE 70: Alice.
+LINE 71: "Oh, don't talk about trouble!" said the Duchess. "I make you a present
+LINE 72: of everything I've said as yet."
+LINE 73: "A cheap sort of present!" thought Alice. "I'm glad they don't give
+LINE 74: birthday presents like that!" But she did not venture to say it out
+LINE 75: loud.
+LINE 76: "Thinking again?" the Duchess asked, with another dig of her sharp
+LINE 77: little chin.
+LINE 78: "I've a right to think," said Alice sharply, for she was beginning to
+LINE 79: feel a little worried.
+LINE 80: "Just about as much right," said the Duchess, "as pigs have to fly; and
+LINE 81: the m—"
+LINE 82: But here, to Alice's great surprise, the Duchess's voice died away,
+LINE 83: even in the middle of her favourite word 'moral,' and the arm that was
+LINE 84: linked into hers began to tremble. Alice looked up, and there stood the
+LINE 85: Queen in front of them, with her arms folded, frowning like a
+LINE 86: thunderstorm.
+LINE 87: "A fine day, your Majesty!" the Duchess began in a low, weak voice.
+LINE 88: "Now, I give you fair warning," shouted the Queen, stamping on the
+LINE 89: ground as she spoke; "either you or your head must be off, and that in
+LINE 90: about half no time! Take your choice!"
+LINE 91: The Duchess took her choice, and was gone in a moment.
+LINE 92: "Let's go on with the game," the Queen said to Alice; and Alice was too
+LINE 93: much frightened to say a word, but slowly followed her back to the
+LINE 94: croquet-ground.
+LINE 95: The other guests had taken advantage of the Queen's absence, and were
+LINE 96: resting in the shade: however, the moment they saw her, they hurried
+LINE 97: back to the game, the Queen merely remarking that a moment's delay
+LINE 98: would cost them their lives.
+LINE 99: All the time they were playing the Queen never left off quarrelling
+LINE 100: with the other players, and shouting "Off with his head!" or "Off with
+LINE 101: her head!" Those whom she sentenced were taken into custody by the
+LINE 102: soldiers, who of course had to leave off being arches to do this, so
+LINE 103: that by the end of half an hour or so there were no arches left, and
+LINE 104: all the players, except the King, the Queen, and Alice, were in custody
+LINE 105: and under sentence of execution.
+LINE 106: Then the Queen left off, quite out of breath, and said to Alice, "Have
+LINE 107: you seen the Mock Turtle yet?"
+LINE 108: "No," said Alice. "I don't even know what a Mock Turtle is."
+LINE 109: "It's the thing Mock Turtle Soup is made from," said the Queen.
+LINE 110: "I never saw one, or heard of one," said Alice.
+LINE 111: "Come on, then," said the Queen, "and he shall tell you his history,"
+LINE 112: As they walked off together, Alice heard the King say in a low voice,
+LINE 113: to the company generally, "You are all pardoned." "Come, _that's_ a
+LINE 114: good thing!" she said to herself, for she had felt quite unhappy at the
+LINE 115: number of executions the Queen had ordered.
+LINE 116: They very soon came upon a Gryphon, lying fast asleep in the sun. (If
+LINE 117: you don't know what a Gryphon is, look at the picture.) "Up, lazy
+LINE 118: thing!" said the Queen, "and take this young lady to see the Mock
+LINE 119: Turtle, and to hear his history. I must go back and see after some
+LINE 120: executions I have ordered;" and she walked off, leaving Alice alone
+LINE 121: with the Gryphon. Alice did not quite like the look of the creature,
+LINE 122: but on the whole she thought it would be quite as safe to stay with it
+LINE 123: as to go after that savage Queen: so she waited.
+LINE 124: The Gryphon sat up and rubbed its eyes: then it watched the Queen till
+LINE 125: she was out of sight: then it chuckled. "What fun!" said the Gryphon,
+LINE 126: half to itself, half to Alice.
+LINE 127: "What _is_ the fun?" said Alice.
+LINE 128: "Why, _she_," said the Gryphon. "It's all her fancy, that: they never
+LINE 129: executes nobody, you know. Come on!"
+LINE 130: "Everybody says 'come on!' here," thought Alice, as she went slowly
+LINE 131: after it: "I never was so ordered about in all my life, never!"
+LINE 132: They had not gone far before they saw the Mock Turtle in the distance,
+LINE 133: sitting sad and lonely on a little ledge of rock, and, as they came
+LINE 134: nearer, Alice could hear him sighing as if his heart would break. She
+LINE 135: pitied him deeply. "What is his sorrow?" she asked the Gryphon, and the
+LINE 136: Gryphon answered, very nearly in the same words as before, "It's all
+LINE 137: his fancy, that: he hasn't got no sorrow, you know. Come on!"
+LINE 138: So they went up to the Mock Turtle, who looked at them with large eyes
+LINE 139: full of tears, but said nothing.
+LINE 140: "This here young lady," said the Gryphon, "she wants for to know your
+LINE 141: history, she do."
+LINE 142: "I'll tell it her," said the Mock Turtle in a deep, hollow tone: "sit
+LINE 143: down, both of you, and don't speak a word till I've finished."
+LINE 144: So they sat down, and nobody spoke for some minutes. Alice thought to
+LINE 145: herself, "I don't see how he can _ever_ finish, if he doesn't begin."
+LINE 146: But she waited patiently.
+LINE 147: "Once," said the Mock Turtle at last, with a deep sigh, "I was a real
+LINE 148: Turtle."
+LINE 149: These words were followed by a very long silence, broken only by an
+LINE 150: occasional exclamation of "Hjckrrh!" from the Gryphon, and the constant
+LINE 151: heavy sobbing of the Mock Turtle. Alice was very nearly getting up and
+LINE 152: saying, "Thank you, sir, for your interesting story," but she could not
+LINE 153: help thinking there _must_ be more to come, so she sat still and said
+LINE 154: nothing.
+LINE 155: "When we were little," the Mock Turtle went on at last, more calmly,
+LINE 156: though still sobbing a little now and then, "we went to school in the
+LINE 157: sea. The master was an old Turtle—we used to call him Tortoise—"
+LINE 158: "Why did you call him Tortoise, if he wasn't one?" Alice asked.
+LINE 159: "We called him Tortoise because he taught us," said the Mock Turtle
+LINE 160: angrily: "really you are very dull!"
+LINE 161: "You ought to be ashamed of yourself for asking such a simple
+LINE 162: question," added the Gryphon; and then they both sat silent and looked
+LINE 163: at poor Alice, who felt ready to sink into the earth. At last the
+LINE 164: Gryphon said to the Mock Turtle, "Drive on, old fellow! Don't be all
+LINE 165: day about it!" and he went on in these words:
+LINE 166: "Yes, we went to school in the sea, though you mayn't believe it—"
+LINE 167: "I never said I didn't!" interrupted Alice.
+LINE 168: "You did," said the Mock Turtle.
+LINE 169: "Hold your tongue!" added the Gryphon, before Alice could speak again.
+LINE 170: The Mock Turtle went on.
+LINE 171: "We had the best of educations—in fact, we went to school every day—"
+LINE 172: "_I've_ been to a day-school, too," said Alice; "you needn't be so
+LINE 173: proud as all that."
+LINE 174: "With extras?" asked the Mock Turtle a little anxiously.
+LINE 175: "Yes," said Alice, "we learned French and music."
+LINE 176: "And washing?" said the Mock Turtle.
+LINE 177: "Certainly not!" said Alice indignantly.
+LINE 178: "Ah! then yours wasn't a really good school," said the Mock Turtle in a
+LINE 179: tone of great relief. "Now at _ours_ they had at the end of the bill,
+LINE 180: 'French, music, _and washing_—extra.'"
+LINE 181: "You couldn't have wanted it much," said Alice; "living at the bottom
+LINE 182: of the sea."
+LINE 183: "I couldn't afford to learn it." said the Mock Turtle with a sigh. "I
+LINE 184: only took the regular course."
+LINE 185: "What was that?" inquired Alice.
+LINE 186: "Reeling and Writhing, of course, to begin with," the Mock Turtle
+LINE 187: replied; "and then the different branches of Arithmetic—Ambition,
+LINE 188: Distraction, Uglification, and Derision."
+LINE 189: "I never heard of 'Uglification,'" Alice ventured to say. "What is it?"
+LINE 190: The Gryphon lifted up both its paws in surprise. "What! Never heard of
+LINE 191: uglifying!" it exclaimed. "You know what to beautify is, I suppose?"
+LINE 192: "Yes," said Alice doubtfully: "it means—to—make—anything—prettier."
+LINE 193: "Well, then," the Gryphon went on, "if you don't know what to uglify
+LINE 194: is, you _are_ a simpleton."
+LINE 195: Alice did not feel encouraged to ask any more questions about it, so
+LINE 196: she turned to the Mock Turtle, and said "What else had you to learn?"
+LINE 197: "Well, there was Mystery," the Mock Turtle replied, counting off the
+LINE 198: subjects on his flappers, "—Mystery, ancient and modern, with
+LINE 199: Seaography: then Drawling—the Drawling-master was an old conger-eel,
+LINE 200: that used to come once a week: _he_ taught us Drawling, Stretching, and
+LINE 201: Fainting in Coils."
+LINE 202: "What was _that_ like?" said Alice.
+LINE 203: "Well, I can't show it you myself," the Mock Turtle said: "I'm too
+LINE 204: stiff. And the Gryphon never learnt it."
+LINE 205: "Hadn't time," said the Gryphon: "I went to the Classics master,
+LINE 206: though. He was an old crab, _he_ was."
+LINE 207: "I never went to him," the Mock Turtle said with a sigh: "he taught
+LINE 208: Laughing and Grief, they used to say."
+LINE 209: "So he did, so he did," said the Gryphon, sighing in his turn; and both
+LINE 210: creatures hid their faces in their paws.
+LINE 211: "And how many hours a day did you do lessons?" said Alice, in a hurry
+LINE 212: to change the subject.
+LINE 213: "Ten hours the first day," said the Mock Turtle: "nine the next, and so
+LINE 214: on."
+LINE 215: "What a curious plan!" exclaimed Alice.
+LINE 216: "That's the reason they're called lessons," the Gryphon remarked:
+LINE 217: "because they lessen from day to day."
+LINE 218: This was quite a new idea to Alice, and she thought it over a little
+LINE 219: before she made her next remark. "Then the eleventh day must have been
+LINE 220: a holiday?"
+LINE 221: "Of course it was," said the Mock Turtle.
+LINE 222: "And how did you manage on the twelfth?" Alice went on eagerly.
+LINE 223: "That's enough about lessons," the Gryphon interrupted in a very
+LINE 224: decided tone: "tell her something about the games now."

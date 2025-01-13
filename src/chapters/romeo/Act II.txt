@@ -1,0 +1,753 @@
+LINE 1: ACT II. Scene I.
+LINE 2: A lane by the wall of Capulet's orchard.
+LINE 3: Enter Romeo alone.
+LINE 4: Rom. Can I go forward when my heart is here?
+LINE 5: Turn back, dull earth, and find thy centre out.
+LINE 6: [Climbs the wall and leaps down within it.]
+LINE 7: Enter Benvolio with Mercutio.
+LINE 8: Ben. Romeo! my cousin Romeo! Romeo!
+LINE 9: Mer. He is wise,
+LINE 10: And, on my life, hath stol'n him home to bed.
+LINE 11: Ben. He ran this way, and leapt this orchard wall.
+LINE 12: Call, good Mercutio.
+LINE 13: Mer. Nay, I'll conjure too.
+LINE 14: Romeo! humours! madman! passion! lover!
+LINE 15: Appear thou in the likeness of a sigh;
+LINE 16: Speak but one rhyme, and I am satisfied!
+LINE 17: Cry but 'Ah me!' pronounce but 'love' and 'dove';
+LINE 18: Speak to my gossip Venus one fair word,
+LINE 19: One nickname for her purblind son and heir,
+LINE 20: Young auburn Cupid, he that shot so trim
+LINE 21: When King Cophetua lov'd the beggar maid!
+LINE 22: He heareth not, he stirreth not, be moveth not;
+LINE 23: The ape is dead, and I must conjure him.
+LINE 24: I conjure thee by Rosaline's bright eyes.
+LINE 25: By her high forehead and her scarlet lip,
+LINE 26: By her fine foot, straight leg, and quivering thigh,
+LINE 27: And the demesnes that there adjacent lie,
+LINE 28: That in thy likeness thou appear to us!
+LINE 29: Ben. An if he hear thee, thou wilt anger him.
+LINE 30: Mer. This cannot anger him. 'Twould anger him
+LINE 31: To raise a spirit in his mistress' circle
+LINE 32: Of some strange nature, letting it there stand
+LINE 33: Till she had laid it and conjur'd it down.
+LINE 34: That were some spite; my invocation
+LINE 35: Is fair and honest: in his mistress' name,
+LINE 36: I conjure only but to raise up him.
+LINE 37: Ben. Come, he hath hid himself among these trees
+LINE 38: To be consorted with the humorous night.
+LINE 39: Blind is his love and best befits the dark.
+LINE 40: Mer. If love be blind, love cannot hit the mark.
+LINE 41: Now will he sit under a medlar tree
+LINE 42: And wish his mistress were that kind of fruit
+LINE 43: As maids call medlars when they laugh alone.
+LINE 44: O, Romeo, that she were, O that she were
+LINE 45: An open et cetera, thou a pop'rin pear!
+LINE 46: Romeo, good night. I'll to my truckle-bed;
+LINE 47: This field-bed is too cold for me to sleep.
+LINE 48: Come, shall we go?
+LINE 49: Ben. Go then, for 'tis in vain
+LINE 50: 'To seek him here that means not to be found.
+LINE 51: Exeunt.
+LINE 52: Scene II.
+LINE 53: Capulet's orchard.
+LINE 54: Enter Romeo.
+LINE 55: Rom. He jests at scars that never felt a wound.
+LINE 56: Enter Juliet above at a window.
+LINE 57: But soft! What light through yonder window breaks?
+LINE 58: It is the East, and Juliet is the sun!
+LINE 59: Arise, fair sun, and kill the envious moon,
+LINE 60: Who is already sick and pale with grief
+LINE 61: That thou her maid art far more fair than she.
+LINE 62: Be not her maid, since she is envious.
+LINE 63: Her vestal livery is but sick and green,
+LINE 64: And none but fools do wear it. Cast it off.
+LINE 65: It is my lady; O, it is my love!
+LINE 66: O that she knew she were!
+LINE 67: She speaks, yet she says nothing. What of that?
+LINE 68: Her eye discourses; I will answer it.
+LINE 69: I am too bold; 'tis not to me she speaks.
+LINE 70: Two of the fairest stars in all the heaven,
+LINE 71: Having some business, do entreat her eyes
+LINE 72: To twinkle in their spheres till they return.
+LINE 73: What if her eyes were there, they in her head?
+LINE 74: The brightness of her cheek would shame those stars
+LINE 75: As daylight doth a lamp; her eyes in heaven
+LINE 76: Would through the airy region stream so bright
+LINE 77: That birds would sing and think it were not night.
+LINE 78: See how she leans her cheek upon her hand!
+LINE 79: O that I were a glove upon that hand,
+LINE 80: That I might touch that cheek!
+LINE 81: Jul. Ah me!
+LINE 82: Rom. She speaks.
+LINE 83: O, speak again, bright angel! for thou art
+LINE 84: As glorious to this night, being o'er my head,
+LINE 85: As is a winged messenger of heaven
+LINE 86: Unto the white-upturned wond'ring eyes
+LINE 87: Of mortals that fall back to gaze on him
+LINE 88: When he bestrides the lazy-pacing clouds
+LINE 89: And sails upon the bosom of the air.
+LINE 90: Jul. O Romeo, Romeo! wherefore art thou Romeo?
+LINE 91: Deny thy father and refuse thy name!
+LINE 92: Or, if thou wilt not, be but sworn my love,
+LINE 93: And I'll no longer be a Capulet.
+LINE 94: Rom. [aside] Shall I hear more, or shall I speak at this?
+LINE 95: Jul. 'Tis but thy name that is my enemy.
+LINE 96: Thou art thyself, though not a Montague.
+LINE 97: What's Montague? it is nor hand, nor foot,
+LINE 98: Nor arm, nor face, nor any other part
+LINE 99: Belonging to a man. O, be some other name!
+LINE 100: What's in a name? That which we call a rose
+LINE 101: By any other name would smell as sweet.
+LINE 102: So Romeo would, were he not Romeo call'd,
+LINE 103: Retain that dear perfection which he owes
+LINE 104: Without that title. Romeo, doff thy name;
+LINE 105: And for that name, which is no part of thee,
+LINE 106: Take all myself.
+LINE 107: Rom. I take thee at thy word.
+LINE 108: Call me but love, and I'll be new baptiz'd;
+LINE 109: Henceforth I never will be Romeo.
+LINE 110: Jul. What man art thou that, thus bescreen'd in night,
+LINE 111: So stumblest on my counsel?
+LINE 112: Rom. By a name
+LINE 113: I know not how to tell thee who I am.
+LINE 114: My name, dear saint, is hateful to myself,
+LINE 115: Because it is an enemy to thee.
+LINE 116: Had I it written, I would tear the word.
+LINE 117: Jul. My ears have yet not drunk a hundred words
+LINE 118: Of that tongue's utterance, yet I know the sound.
+LINE 119: Art thou not Romeo, and a Montague?
+LINE 120: Rom. Neither, fair saint, if either thee dislike.
+LINE 121: Jul. How cam'st thou hither, tell me, and wherefore?
+LINE 122: The orchard walls are high and hard to climb,
+LINE 123: And the place death, considering who thou art,
+LINE 124: If any of my kinsmen find thee here.
+LINE 125: Rom. With love's light wings did I o'erperch these walls;
+LINE 126: For stony limits cannot hold love out,
+LINE 127: And what love can do, that dares love attempt.
+LINE 128: Therefore thy kinsmen are no let to me.
+LINE 129: Jul. If they do see thee, they will murther thee.
+LINE 130: Rom. Alack, there lies more peril in thine eye
+LINE 131: Than twenty of their swords! Look thou but sweet,
+LINE 132: And I am proof against their enmity.
+LINE 133: Jul. I would not for the world they saw thee here.
+LINE 134: Rom. I have night's cloak to hide me from their sight;
+LINE 135: And but thou love me, let them find me here.
+LINE 136: My life were better ended by their hate
+LINE 137: Than death prorogued, wanting of thy love.
+LINE 138: Jul. By whose direction found'st thou out this place?
+LINE 139: Rom. By love, that first did prompt me to enquire.
+LINE 140: He lent me counsel, and I lent him eyes.
+LINE 141: I am no pilot; yet, wert thou as far
+LINE 142: As that vast shore wash'd with the farthest sea,
+LINE 143: I would adventure for such merchandise.
+LINE 144: Jul. Thou knowest the mask of night is on my face;
+LINE 145: Else would a maiden blush bepaint my cheek
+LINE 146: For that which thou hast heard me speak to-night.
+LINE 147: Fain would I dwell on form- fain, fain deny
+LINE 148: What I have spoke; but farewell compliment!
+LINE 149: Dost thou love me, I know thou wilt say 'Ay';
+LINE 150: And I will take thy word. Yet, if thou swear'st,
+LINE 151: Thou mayst prove false. At lovers' perjuries,
+LINE 152: They say Jove laughs. O gentle Romeo,
+LINE 153: If thou dost love, pronounce it faithfully.
+LINE 154: Or if thou thinkest I am too quickly won,
+LINE 155: I'll frown, and be perverse, and say thee nay,
+LINE 156: So thou wilt woo; but else, not for the world.
+LINE 157: In truth, fair Montague, I am too fond,
+LINE 158: And therefore thou mayst think my haviour light;
+LINE 159: But trust me, gentleman, I'll prove more true
+LINE 160: Than those that have more cunning to be strange.
+LINE 161: I should have been more strange, I must confess,
+LINE 162: But that thou overheard'st, ere I was ware,
+LINE 163: My true-love passion. Therefore pardon me,
+LINE 164: And not impute this yielding to light love,
+LINE 165: Which the dark night hath so discovered.
+LINE 166: Rom. Lady, by yonder blessed moon I swear,
+LINE 167: That tips with silver all these fruit-tree tops-
+LINE 168: Jul. O, swear not by the moon, th' inconstant moon,
+LINE 169: That monthly changes in her circled orb,
+LINE 170: Lest that thy love prove likewise variable.
+LINE 171: Rom. What shall I swear by?
+LINE 172: Jul. Do not swear at all;
+LINE 173: Or if thou wilt, swear by thy gracious self,
+LINE 174: Which is the god of my idolatry,
+LINE 175: And I'll believe thee.
+LINE 176: Rom. If my heart's dear love-
+LINE 177: Jul. Well, do not swear. Although I joy in thee,
+LINE 178: I have no joy of this contract to-night.
+LINE 179: It is too rash, too unadvis'd, too sudden;
+LINE 180: Too like the lightning, which doth cease to be
+LINE 181: Ere one can say 'It lightens.' Sweet, good night!
+LINE 182: This bud of love, by summer's ripening breath,
+LINE 183: May prove a beauteous flow'r when next we meet.
+LINE 184: Good night, good night! As sweet repose and rest
+LINE 185: Come to thy heart as that within my breast!
+LINE 186: Rom. O, wilt thou leave me so unsatisfied?
+LINE 187: Jul. What satisfaction canst thou have to-night?
+LINE 188: Rom. Th' exchange of thy love's faithful vow for mine.
+LINE 189: Jul. I gave thee mine before thou didst request it;
+LINE 190: And yet I would it were to give again.
+LINE 191: Rom. Would'st thou withdraw it? For what purpose, love?
+LINE 192: Jul. But to be frank and give it thee again.
+LINE 193: And yet I wish but for the thing I have.
+LINE 194: My bounty is as boundless as the sea,
+LINE 195: My love as deep; the more I give to thee,
+LINE 196: The more I have, for both are infinite.
+LINE 197: I hear some noise within. Dear love, adieu!
+LINE 198: [Nurse] calls within.
+LINE 199: Anon, good nurse! Sweet Montague, be true.
+LINE 200: Stay but a little, I will come again. [Exit.]
+LINE 201: Rom. O blessed, blessed night! I am afeard,
+LINE 202: Being in night, all this is but a dream,
+LINE 203: Too flattering-sweet to be substantial.
+LINE 204: Enter Juliet above.
+LINE 205: Jul. Three words, dear Romeo, and good night indeed.
+LINE 206: If that thy bent of love be honourable,
+LINE 207: Thy purpose marriage, send me word to-morrow,
+LINE 208: By one that I'll procure to come to thee,
+LINE 209: Where and what time thou wilt perform the rite;
+LINE 210: And all my fortunes at thy foot I'll lay
+LINE 211: And follow thee my lord throughout the world.
+LINE 212: Nurse. (within) Madam!
+LINE 213: Jul. I come, anon.- But if thou meanest not well,
+LINE 214: I do beseech thee-
+LINE 215: Nurse. (within) Madam!
+LINE 216: Jul. By-and-by I come.-
+LINE 217: To cease thy suit and leave me to my grief.
+LINE 218: To-morrow will I send.
+LINE 219: Rom. So thrive my soul-
+LINE 220: Jul. A thousand times good night! Exit.
+LINE 221: Rom. A thousand times the worse, to want thy light!
+LINE 222: Love goes toward love as schoolboys from their books;
+LINE 223: But love from love, towards school with heavy looks.
+LINE 224: Enter Juliet again, [above].
+LINE 225: Jul. Hist! Romeo, hist! O for a falconer's voice
+LINE 226: To lure this tassel-gentle back again!
+LINE 227: Bondage is hoarse and may not speak aloud;
+LINE 228: Else would I tear the cave where Echo lies,
+LINE 229: And make her airy tongue more hoarse than mine
+LINE 230: With repetition of my Romeo's name.
+LINE 231: Romeo!
+LINE 232: Rom. It is my soul that calls upon my name.
+LINE 233: How silver-sweet sound lovers' tongues by night,
+LINE 234: Like softest music to attending ears!
+LINE 235: Jul. Romeo!
+LINE 236: Rom. My dear?
+LINE 237: Jul. At what o'clock to-morrow
+LINE 238: Shall I send to thee?
+LINE 239: Rom. By the hour of nine.
+LINE 240: Jul. I will not fail. 'Tis twenty years till then.
+LINE 241: I have forgot why I did call thee back.
+LINE 242: Rom. Let me stand here till thou remember it.
+LINE 243: Jul. I shall forget, to have thee still stand there,
+LINE 244: Rememb'ring how I love thy company.
+LINE 245: Rom. And I'll still stay, to have thee still forget,
+LINE 246: Forgetting any other home but this.
+LINE 247: Jul. 'Tis almost morning. I would have thee gone-
+LINE 248: And yet no farther than a wanton's bird,
+LINE 249: That lets it hop a little from her hand,
+LINE 250: Like a poor prisoner in his twisted gyves,
+LINE 251: And with a silk thread plucks it back again,
+LINE 252: So loving-jealous of his liberty.
+LINE 253: Rom. I would I were thy bird.
+LINE 254: Jul. Sweet, so would I.
+LINE 255: Yet I should kill thee with much cherishing.
+LINE 256: Good night, good night! Parting is such sweet sorrow,
+LINE 257: That I shall say good night till it be morrow.
+LINE 258: [Exit.]
+LINE 259: Rom. Sleep dwell upon thine eyes, peace in thy breast!
+LINE 260: Would I were sleep and peace, so sweet to rest!
+LINE 261: Hence will I to my ghostly father's cell,
+LINE 262: His help to crave and my dear hap to tell.
+LINE 263: Exit
+LINE 264: Scene III.
+LINE 265: Friar Laurence's cell.
+LINE 266: Enter Friar, [Laurence] alone, with a basket.
+LINE 267: Friar. The grey-ey'd morn smiles on the frowning night,
+LINE 268: Check'ring the Eastern clouds with streaks of light;
+LINE 269: And flecked darkness like a drunkard reels
+LINE 270: From forth day's path and Titan's fiery wheels.
+LINE 271: Non, ere the sun advance his burning eye
+LINE 272: The day to cheer and night's dank dew to dry,
+LINE 273: I must up-fill this osier cage of ours
+LINE 274: With baleful weeds and precious-juiced flowers.
+LINE 275: The earth that's nature's mother is her tomb.
+LINE 276: What is her burying gave, that is her womb;
+LINE 277: And from her womb children of divers kind
+LINE 278: We sucking on her natural bosom find;
+LINE 279: Many for many virtues excellent,
+LINE 280: None but for some, and yet all different.
+LINE 281: O, mickle is the powerful grace that lies
+LINE 282: In plants, herbs, stones, and their true qualities;
+LINE 283: For naught so vile that on the earth doth live
+LINE 284: But to the earth some special good doth give;
+LINE 285: Nor aught so good but, strain'd from that fair use,
+LINE 286: Revolts from true birth, stumbling on abuse.
+LINE 287: Virtue itself turns vice, being misapplied,
+LINE 288: And vice sometime's by action dignified.
+LINE 289: Within the infant rind of this small flower
+LINE 290: Poison hath residence, and medicine power;
+LINE 291: For this, being smelt, with that part cheers each part;
+LINE 292: Being tasted, slays all senses with the heart.
+LINE 293: Two such opposed kings encamp them still
+LINE 294: In man as well as herbs- grace and rude will;
+LINE 295: And where the worser is predominant,
+LINE 296: Full soon the canker death eats up that plant.
+LINE 297: Enter Romeo.
+LINE 298: Rom. Good morrow, father.
+LINE 299: Friar. Benedicite!
+LINE 300: What early tongue so sweet saluteth me?
+LINE 301: Young son, it argues a distempered head
+LINE 302: So soon to bid good morrow to thy bed.
+LINE 303: Care keeps his watch in every old man's eye,
+LINE 304: And where care lodges sleep will never lie;
+LINE 305: But where unbruised youth with unstuff'd brain
+LINE 306: Doth couch his limbs, there golden sleep doth reign.
+LINE 307: Therefore thy earliness doth me assure
+LINE 308: Thou art uprous'd with some distemp'rature;
+LINE 309: Or if not so, then here I hit it right-
+LINE 310: Our Romeo hath not been in bed to-night.
+LINE 311: Rom. That last is true-the sweeter rest was mine.
+LINE 312: Friar. God pardon sin! Wast thou with Rosaline?
+LINE 313: Rom. With Rosaline, my ghostly father? No.
+LINE 314: I have forgot that name, and that name's woe.
+LINE 315: Friar. That's my good son! But where hast thou been then?
+LINE 316: Rom. I'll tell thee ere thou ask it me again.
+LINE 317: I have been feasting with mine enemy,
+LINE 318: Where on a sudden one hath wounded me
+LINE 319: That's by me wounded. Both our remedies
+LINE 320: Within thy help and holy physic lies.
+LINE 321: I bear no hatred, blessed man, for, lo,
+LINE 322: My intercession likewise steads my foe.
+LINE 323: Friar. Be plain, good son, and homely in thy drift
+LINE 324: Riddling confession finds but riddling shrift.
+LINE 325: Rom. Then plainly know my heart's dear love is set
+LINE 326: On the fair daughter of rich Capulet;
+LINE 327: As mine on hers, so hers is set on mine,
+LINE 328: And all combin'd, save what thou must combine
+LINE 329: By holy marriage. When, and where, and how
+LINE 330: We met, we woo'd, and made exchange of vow,
+LINE 331: I'll tell thee as we pass; but this I pray,
+LINE 332: That thou consent to marry us to-day.
+LINE 333: Friar. Holy Saint Francis! What a change is here!
+LINE 334: Is Rosaline, that thou didst love so dear,
+LINE 335: So soon forsaken? Young men's love then lies
+LINE 336: Not truly in their hearts, but in their eyes.
+LINE 337: Jesu Maria! What a deal of brine
+LINE 338: Hath wash'd thy sallow cheeks for Rosaline!
+LINE 339: How much salt water thrown away in waste,
+LINE 340: To season love, that of it doth not taste!
+LINE 341: The sun not yet thy sighs from heaven clears,
+LINE 342: Thy old groans ring yet in mine ancient ears.
+LINE 343: Lo, here upon thy cheek the stain doth sit
+LINE 344: Of an old tear that is not wash'd off yet.
+LINE 345: If e'er thou wast thyself, and these woes thine,
+LINE 346: Thou and these woes were all for Rosaline.
+LINE 347: And art thou chang'd? Pronounce this sentence then:
+LINE 348: Women may fall when there's no strength in men.
+LINE 349: Rom. Thou chid'st me oft for loving Rosaline.
+LINE 350: Friar. For doting, not for loving, pupil mine.
+LINE 351: Rom. And bad'st me bury love.
+LINE 352: Friar. Not in a grave
+LINE 353: To lay one in, another out to have.
+LINE 354: Rom. I pray thee chide not. She whom I love now
+LINE 355: Doth grace for grace and love for love allow.
+LINE 356: The other did not so.
+LINE 357: Friar. O, she knew well
+LINE 358: Thy love did read by rote, that could not spell.
+LINE 359: But come, young waverer, come go with me.
+LINE 360: In one respect I'll thy assistant be;
+LINE 361: For this alliance may so happy prove
+LINE 362: To turn your households' rancour to pure love.
+LINE 363: Rom. O, let us hence! I stand on sudden haste.
+LINE 364: Friar. Wisely, and slow. They stumble that run fast.
+LINE 365: Exeunt.
+LINE 366: Scene IV.
+LINE 367: A street.
+LINE 368: Enter Benvolio and Mercutio.
+LINE 369: Mer. Where the devil should this Romeo be?
+LINE 370: Came he not home to-night?
+LINE 371: Ben. Not to his father's. I spoke with his man.
+LINE 372: Mer. Why, that same pale hard-hearted wench, that Rosaline,
+LINE 373: Torments him so that he will sure run mad.
+LINE 374: Ben. Tybalt, the kinsman to old Capulet,
+LINE 375: Hath sent a letter to his father's house.
+LINE 376: Mer. A challenge, on my life.
+LINE 377: Ben. Romeo will answer it.
+LINE 378: Mer. Any man that can write may answer a letter.
+LINE 379: Ben. Nay, he will answer the letter's master, how he dares,
+LINE 380: being
+LINE 381: dared.
+LINE 382: Mer. Alas, poor Romeo, he is already dead! stabb'd with a white
+LINE 383: wench's black eye; shot through the ear with a love song; the
+LINE 384: very pin of his heart cleft with the blind bow-boy's
+LINE 385: butt-shaft;
+LINE 386: and is he a man to encounter Tybalt?
+LINE 387: Ben. Why, what is Tybalt?
+LINE 388: Mer. More than Prince of Cats, I can tell you. O, he's the
+LINE 389: courageous captain of compliments. He fights as you sing
+LINE 390: pricksong-keeps time, distance, and proportion; rests me his
+LINE 391: minim rest, one, two, and the third in your bosom! the very
+LINE 392: butcher of a silk button, a duellist, a duellist! a gentleman
+LINE 393: of
+LINE 394: the very first house, of the first and second cause. Ah, the
+LINE 395: immortal passado! the punto reverse! the hay.
+LINE 396: Ben. The what?
+LINE 397: Mer. The pox of such antic, lisping, affecting fantasticoes-
+LINE 398: these
+LINE 399: new tuners of accent! 'By Jesu, a very good blade! a very
+LINE 400: tall
+LINE 401: man! a very good whore!' Why, is not this a lamentable thing,
+LINE 402: grandsir, that we should be thus afflicted with these strange
+LINE 403: flies, these fashion-mongers, these pardona-mi's, who stand
+LINE 404: so
+LINE 405: much on the new form that they cannot sit at ease on the old
+LINE 406: bench? O, their bones, their bones!
+LINE 407: Enter Romeo.
+LINE 408: Ben. Here comes Romeo! here comes Romeo!
+LINE 409: Mer. Without his roe, like a dried herring. O flesh, flesh, how
+LINE 410: art
+LINE 411: thou fishified! Now is he for the numbers that Petrarch
+LINE 412: flowed
+LINE 413: in. Laura, to his lady, was but a kitchen wench (marry, she
+LINE 414: had a
+LINE 415: better love to berhyme her), Dido a dowdy, Cleopatra a gypsy,
+LINE 416: Helen and Hero hildings and harlots, This be a gray eye or
+LINE 417: so,
+LINE 418: but not to the purpose. Signior Romeo, bon jour! There's a
+LINE 419: French
+LINE 420: salutation to your French slop. You gave us the counterfeit
+LINE 421: fairly last night.
+LINE 422: Rom. Good morrow to you both. What counterfeit did I give you?
+LINE 423: Mer. The slip, sir, the slip. Can you not conceive?
+LINE 424: Rom. Pardon, good Mercutio. My business was great, and in such
+LINE 425: a
+LINE 426: case as mine a man may strain courtesy.
+LINE 427: Mer. That's as much as to say, such a case as yours constrains
+LINE 428: a
+LINE 429: man to bow in the hams.
+LINE 430: Rom. Meaning, to cursy.
+LINE 431: Mer. Thou hast most kindly hit it.
+LINE 432: Rom. A most courteous exposition.
+LINE 433: Mer. Nay, I am the very pink of courtesy.
+LINE 434: Rom. Pink for flower.
+LINE 435: Mer. Right.
+LINE 436: Rom. Why, then is my pump well-flower'd.
+LINE 437: Mer. Well said! Follow me this jest now till thou hast worn out
+LINE 438: thy
+LINE 439: pump, that, when the single sole of it is worn, the jest may
+LINE 440: remain, after the wearing, solely singular.
+LINE 441: Rom. O single-sold jest, solely singular for the singleness!
+LINE 442: Mer. Come between us, good Benvolio! My wits faint.
+LINE 443: Rom. Swits and spurs, swits and spurs! or I'll cry a match.
+LINE 444: Mer. Nay, if our wits run the wild-goose chase, I am done; for
+LINE 445: thou
+LINE 446: hast more of the wild goose in one of thy wits than, I am
+LINE 447: sure, I
+LINE 448: have in my whole five. Was I with you there for the goose?
+LINE 449: Rom. Thou wast never with me for anything when thou wast not
+LINE 450: there
+LINE 451: for the goose.
+LINE 452: Mer. I will bite thee by the ear for that jest.
+LINE 453: Rom. Nay, good goose, bite not!
+LINE 454: Mer. Thy wit is a very bitter sweeting; it is a most sharp
+LINE 455: sauce.
+LINE 456: Rom. And is it not, then, well serv'd in to a sweet goose?
+LINE 457: Mer. O, here's a wit of cheveril, that stretches from an inch
+LINE 458: narrow to an ell broad!
+LINE 459: Rom. I stretch it out for that word 'broad,' which, added to
+LINE 460: the
+LINE 461: goose, proves thee far and wide a broad goose.
+LINE 462: Mer. Why, is not this better now than groaning for love? Now
+LINE 463: art
+LINE 464: thou sociable, now art thou Romeo; now art thou what thou
+LINE 465: art, by
+LINE 466: art as well as by nature. For this drivelling love is like a
+LINE 467: great natural that runs lolling up and down to hide his
+LINE 468: bauble in
+LINE 469: a hole.
+LINE 470: Ben. Stop there, stop there!
+LINE 471: Mer. Thou desirest me to stop in my tale against the hair.
+LINE 472: Ben. Thou wouldst else have made thy tale large.
+LINE 473: Mer. O, thou art deceiv'd! I would have made it short; for I
+LINE 474: was
+LINE 475: come to the whole depth of my tale, and meant indeed to
+LINE 476: occupy
+LINE 477: the argument no longer.
+LINE 478: Rom. Here's goodly gear!
+LINE 479: Enter Nurse and her Man [Peter].
+LINE 480: Mer. A sail, a sail!
+LINE 481: Ben. Two, two! a shirt and a smock.
+LINE 482: Nurse. Peter!
+LINE 483: Peter. Anon.
+LINE 484: Nurse. My fan, Peter.
+LINE 485: Mer. Good Peter, to hide her face; for her fan's the fairer
+LINE 486: face of
+LINE 487: the two.
+LINE 488: Nurse. God ye good morrow, gentlemen.
+LINE 489: Mer. God ye good-den, fair gentlewoman.
+LINE 490: Nurse. Is it good-den?
+LINE 491: Mer. 'Tis no less, I tell ye; for the bawdy hand of the dial is
+LINE 492: now
+LINE 493: upon the prick of noon.
+LINE 494: Nurse. Out upon you! What a man are you!
+LINE 495: Rom. One, gentlewoman, that God hath made for himself to mar.
+LINE 496: Nurse. By my troth, it is well said. 'For himself to mar,'
+LINE 497: quoth
+LINE 498: 'a? Gentlemen, can any of you tell me where I may find the
+LINE 499: young
+LINE 500: Romeo?
+LINE 501: Rom. I can tell you; but young Romeo will be older when you
+LINE 502: have
+LINE 503: found him than he was when you sought him. I am the youngest
+LINE 504: of
+LINE 505: that name, for fault of a worse.
+LINE 506: Nurse. You say well.
+LINE 507: Mer. Yea, is the worst well? Very well took, i' faith! wisely,
+LINE 508: wisely.
+LINE 509: Nurse. If you be he, sir, I desire some confidence with you.
+LINE 510: Ben. She will endite him to some supper.
+LINE 511: Mer. A bawd, a bawd, a bawd! So ho!
+LINE 512: Rom. What hast thou found?
+LINE 513: Mer. No hare, sir; unless a hare, sir, in a lenten pie, that is
+LINE 514: something stale and hoar ere it be spent
+LINE 515: He walks by them and sings.
+LINE 516: An old hare hoar,
+LINE 517: And an old hare hoar,
+LINE 518: Is very good meat in Lent;
+LINE 519: But a hare that is hoar
+LINE 520: Is too much for a score
+LINE 521: When it hoars ere it be spent.
+LINE 522: Romeo, will you come to your father's? We'll to dinner
+LINE 523: thither.
+LINE 524: Rom. I will follow you.
+LINE 525: Mer. Farewell, ancient lady. Farewell,
+LINE 526: [sings] lady, lady, lady.
+LINE 527: Exeunt Mercutio, Benvolio.
+LINE 528: Nurse. Marry, farewell! I Pray you, Sir, what saucy merchant
+LINE 529: was
+LINE 530: this that was so full of his ropery?
+LINE 531: Rom. A gentleman, nurse, that loves to hear himself talk and
+LINE 532: will
+LINE 533: speak more in a minute than he will stand to in a month.
+LINE 534: Nurse. An 'a speak anything against me, I'll take him down, an
+LINE 535: 'a
+LINE 536: were lustier than he is, and twenty such jacks; and if I
+LINE 537: cannot,
+LINE 538: I'll find those that shall. Scurvy knave! I am none of his
+LINE 539: flirt-gills; I am none of his skains-mates. And thou must
+LINE 540: stand
+LINE 541: by too, and suffer every knave to use me at his pleasure!
+LINE 542: Peter. I saw no man use you at his pleasure. If I had, my
+LINE 543: weapon
+LINE 544: should quickly have been out, I warrant you. I dare draw as
+LINE 545: soon
+LINE 546: as another man, if I see occasion in a good quarrel, and the
+LINE 547: law
+LINE 548: on my side.
+LINE 549: Nurse. Now, afore God, I am so vexed that every part about me
+LINE 550: quivers. Scurvy knave! Pray you, sir, a word; and, as I told
+LINE 551: you,
+LINE 552: my young lady bid me enquire you out. What she bid me say, I
+LINE 553: will
+LINE 554: keep to myself; but first let me tell ye, if ye should lead
+LINE 555: her
+LINE 556: into a fool's paradise, as they say, it were a very gross
+LINE 557: kind of
+LINE 558: behaviour, as they say; for the gentlewoman is young; and
+LINE 559: therefore, if you should deal double with her, truly it were
+LINE 560: an
+LINE 561: ill thing to be off'red to any gentlewoman, and very weak
+LINE 562: dealing.
+LINE 563: Rom. Nurse, commend me to thy lady and mistress. I protest unto
+LINE 564: thee-
+LINE 565: Nurse. Good heart, and i' faith I will tell her as much. Lord,
+LINE 566: Lord! she will be a joyful woman.
+LINE 567: Rom. What wilt thou tell her, nurse? Thou dost not mark me.
+LINE 568: Nurse. I will tell her, sir, that you do protest, which, as I
+LINE 569: take
+LINE 570: it, is a gentlemanlike offer.
+LINE 571: Rom. Bid her devise
+LINE 572: Some means to come to shrift this afternoon;
+LINE 573: And there she shall at Friar Laurence' cell
+LINE 574: Be shriv'd and married. Here is for thy pains.
+LINE 575: Nurse. No, truly, sir; not a penny.
+LINE 576: Rom. Go to! I say you shall.
+LINE 577: Nurse. This afternoon, sir? Well, she shall be there.
+LINE 578: Rom. And stay, good nurse, behind the abbey wall.
+LINE 579: Within this hour my man shall be with thee
+LINE 580: And bring thee cords made like a tackled stair,
+LINE 581: Which to the high topgallant of my joy
+LINE 582: Must be my convoy in the secret night.
+LINE 583: Farewell. Be trusty, and I'll quit thy pains.
+LINE 584: Farewell. Commend me to thy mistress.
+LINE 585: Nurse. Now God in heaven bless thee! Hark you, sir.
+LINE 586: Rom. What say'st thou, my dear nurse?
+LINE 587: Nurse. Is your man secret? Did you ne'er hear say,
+LINE 588: Two may keep counsel, putting one away?
+LINE 589: Rom. I warrant thee my man's as true as steel.
+LINE 590: Nurse. Well, sir, my mistress is the sweetest lady. Lord, Lord!
+LINE 591: when 'twas a little prating thing- O, there is a nobleman in
+LINE 592: town, one Paris, that would fain lay knife aboard; but she,
+LINE 593: good
+LINE 594: soul, had as lieve see a toad, a very toad, as see him. I
+LINE 595: anger
+LINE 596: her sometimes, and tell her that Paris is the properer man;
+LINE 597: but
+LINE 598: I'll warrant you, when I say so, she looks as pale as any
+LINE 599: clout
+LINE 600: in the versal world. Doth not rosemary and Romeo begin both
+LINE 601: with
+LINE 602: a letter?
+LINE 603: Rom. Ay, nurse; what of that? Both with an R.
+LINE 604: Nurse. Ah, mocker! that's the dog's name. R is for the- No; I
+LINE 605: know
+LINE 606: it begins with some other letter; and she hath the prettiest
+LINE 607: sententious of it, of you and rosemary, that it would do you
+LINE 608: good
+LINE 609: to hear it.
+LINE 610: Rom. Commend me to thy lady.
+LINE 611: Nurse. Ay, a thousand times. [Exit Romeo.] Peter!
+LINE 612: Peter. Anon.
+LINE 613: Nurse. Peter, take my fan, and go before, and apace.
+LINE 614: Exeunt.
+LINE 615: Scene V.
+LINE 616: Capulet's orchard.
+LINE 617: Enter Juliet.
+LINE 618: Jul. The clock struck nine when I did send the nurse;
+LINE 619: In half an hour she promis'd to return.
+LINE 620: Perchance she cannot meet him. That's not so.
+LINE 621: O, she is lame! Love's heralds should be thoughts,
+LINE 622: Which ten times faster glide than the sun's beams
+LINE 623: Driving back shadows over low'ring hills.
+LINE 624: Therefore do nimble-pinion'd doves draw Love,
+LINE 625: And therefore hath the wind-swift Cupid wings.
+LINE 626: Now is the sun upon the highmost hill
+LINE 627: Of this day's journey, and from nine till twelve
+LINE 628: Is three long hours; yet she is not come.
+LINE 629: Had she affections and warm youthful blood,
+LINE 630: She would be as swift in motion as a ball;
+LINE 631: My words would bandy her to my sweet love,
+LINE 632: And his to me,
+LINE 633: But old folks, many feign as they were dead-
+LINE 634: Unwieldy, slow, heavy and pale as lead.
+LINE 635: Enter Nurse [and Peter].
+LINE 636: O God, she comes! O honey nurse, what news?
+LINE 637: Hast thou met with him? Send thy man away.
+LINE 638: Nurse. Peter, stay at the gate.
+LINE 639: [Exit Peter.]
+LINE 640: Jul. Now, good sweet nurse- O Lord, why look'st thou sad?
+LINE 641: Though news be sad, yet tell them merrily;
+LINE 642: If good, thou shamest the music of sweet news
+LINE 643: By playing it to me with so sour a face.
+LINE 644: Nurse. I am aweary, give me leave awhile.
+LINE 645: Fie, how my bones ache! What a jaunce have I had!
+LINE 646: Jul. I would thou hadst my bones, and I thy news.
+LINE 647: Nay, come, I pray thee speak. Good, good nurse, speak.
+LINE 648: Nurse. Jesu, what haste! Can you not stay awhile?
+LINE 649: Do you not see that I am out of breath?
+LINE 650: Jul. How art thou out of breath when thou hast breath
+LINE 651: To say to me that thou art out of breath?
+LINE 652: The excuse that thou dost make in this delay
+LINE 653: Is longer than the tale thou dost excuse.
+LINE 654: Is thy news good or bad? Answer to that.
+LINE 655: Say either, and I'll stay the circumstance.
+LINE 656: Let me be satisfied, is't good or bad?
+LINE 657: Nurse. Well, you have made a simple choice; you know not how to
+LINE 658: choose a man. Romeo? No, not he. Though his face be better
+LINE 659: than
+LINE 660: any man's, yet his leg excels all men's; and for a hand and a
+LINE 661: foot, and a body, though they be not to be talk'd on, yet
+LINE 662: they
+LINE 663: are past compare. He is not the flower of courtesy, but, I'll
+LINE 664: warrant him, as gentle as a lamb. Go thy ways, wench; serve
+LINE 665: God.
+LINE 666: What, have you din'd at home?
+LINE 667: Jul. No, no. But all this did I know before.
+LINE 668: What says he of our marriage? What of that?
+LINE 669: Nurse. Lord, how my head aches! What a head have I!
+LINE 670: It beats as it would fall in twenty pieces.
+LINE 671: My back o' t' other side,- ah, my back, my back!
+LINE 672: Beshrew your heart for sending me about
+LINE 673: To catch my death with jauncing up and down!
+LINE 674: Jul. I' faith, I am sorry that thou art not well.
+LINE 675: Sweet, sweet, sweet nurse, tell me, what says my love?
+LINE 676: Nurse. Your love says, like an honest gentleman, and a
+LINE 677: courteous,
+LINE 678: and a kind, and a handsome; and, I warrant, a virtuous- Where
+LINE 679: is
+LINE 680: your mother?
+LINE 681: Jul. Where is my mother? Why, she is within.
+LINE 682: Where should she be? How oddly thou repliest!
+LINE 683: 'Your love says, like an honest gentleman,
+LINE 684: "Where is your mother?"'
+LINE 685: Nurse. O God's Lady dear!
+LINE 686: Are you so hot? Marry come up, I trow.
+LINE 687: Is this the poultice for my aching bones?
+LINE 688: Henceforward do your messages yourself.
+LINE 689: Jul. Here's such a coil! Come, what says Romeo?
+LINE 690: Nurse. Have you got leave to go to shrift to-day?
+LINE 691: Jul. I have.
+LINE 692: Nurse. Then hie you hence to Friar Laurence' cell;
+LINE 693: There stays a husband to make you a wife.
+LINE 694: Now comes the wanton blood up in your cheeks:
+LINE 695: They'll be in scarlet straight at any news.
+LINE 696: Hie you to church; I must another way,
+LINE 697: To fetch a ladder, by the which your love
+LINE 698: Must climb a bird's nest soon when it is dark.
+LINE 699: I am the drudge, and toil in your delight;
+LINE 700: But you shall bear the burthen soon at night.
+LINE 701: Go; I'll to dinner; hie you to the cell.
+LINE 702: Jul. Hie to high fortune! Honest nurse, farewell.
+LINE 703: Exeunt.
+LINE 704: Scene VI.
+LINE 705: Friar Laurence's cell.
+LINE 706: Enter Friar [Laurence] and Romeo.
+LINE 707: Friar. So smile the heavens upon this holy act
+LINE 708: That after-hours with sorrow chide us not!
+LINE 709: Rom. Amen, amen! But come what sorrow can,
+LINE 710: It cannot countervail the exchange of joy
+LINE 711: That one short minute gives me in her sight.
+LINE 712: Do thou but close our hands with holy words,
+LINE 713: Then love-devouring death do what he dare-
+LINE 714: It is enough I may but call her mine.
+LINE 715: Friar. These violent delights have violent ends
+LINE 716: And in their triumph die, like fire and powder,
+LINE 717: Which, as they kiss, consume. The sweetest honey
+LINE 718: Is loathsome in his own deliciousness
+LINE 719: And in the taste confounds the appetite.
+LINE 720: Therefore love moderately: long love doth so;
+LINE 721: Too swift arrives as tardy as too slow.
+LINE 722: Enter Juliet.
+LINE 723: Here comes the lady. O, so light a foot
+LINE 724: Will ne'er wear out the everlasting flint.
+LINE 725: A lover may bestride the gossamer
+LINE 726: That idles in the wanton summer air,
+LINE 727: And yet not fall; so light is vanity.
+LINE 728: Jul. Good even to my ghostly confessor.
+LINE 729: Friar. Romeo shall thank thee, daughter, for us both.
+LINE 730: Jul. As much to him, else is his thanks too much.
+LINE 731: Rom. Ah, Juliet, if the measure of thy joy
+LINE 732: Be heap'd like mine, and that thy skill be more
+LINE 733: To blazon it, then sweeten with thy breath
+LINE 734: This neighbour air, and let rich music's tongue
+LINE 735: Unfold the imagin'd happiness that both
+LINE 736: Receive in either by this dear encounter.
+LINE 737: Jul. Conceit, more rich in matter than in words,
+LINE 738: Brags of his substance, not of ornament.
+LINE 739: They are but beggars that can count their worth;
+LINE 740: But my true love is grown to such excess
+LINE 741: cannot sum up sum of half my wealth.
+LINE 742: Friar. Come, come with me, and we will make short work;
+LINE 743: For, by your leaves, you shall not stay alone
+LINE 744: Till Holy Church incorporate two in one.
+LINE 745: [Exeunt.]
+LINE 746: <<THIS ELECTRONIC VERSION OF THE COMPLETE WORKS OF WILLIAM
+LINE 747: SHAKESPEARE IS COPYRIGHT 1990-1993 BY WORLD LIBRARY, INC., AND IS
+LINE 748: PROVIDED BY PROJECT GUTENBERG ETEXT OF CARNEGIE MELLON UNIVERSITY
+LINE 749: WITH PERMISSION. ELECTRONIC AND MACHINE READABLE COPIES MAY BE
+LINE 750: DISTRIBUTED SO LONG AS SUCH COPIES (1) ARE FOR YOUR OR OTHERS
+LINE 751: PERSONAL USE ONLY, AND (2) ARE NOT DISTRIBUTED OR USED
+LINE 752: COMMERCIALLY. PROHIBITED COMMERCIAL DISTRIBUTION INCLUDES BY ANY
+LINE 753: SERVICE THAT CHARGES FOR DOWNLOAD TIME OR FOR MEMBERSHIP.>>

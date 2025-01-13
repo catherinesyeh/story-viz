@@ -1,0 +1,407 @@
+LINE 1: About halfway between West Egg and New York the motor road hastily
+LINE 2: joins the railroad and runs beside it for a quarter of a mile, so as
+LINE 3: to shrink away from a certain desolate area of land. This is a valley
+LINE 4: of ashes—a fantastic farm where ashes grow like wheat into ridges and
+LINE 5: hills and grotesque gardens; where ashes take the forms of houses and
+LINE 6: chimneys and rising smoke and, finally, with a transcendent effort, of
+LINE 7: ash-grey men, who move dimly and already crumbling through the powdery
+LINE 8: air. Occasionally a line of grey cars crawls along an invisible track,
+LINE 9: gives out a ghastly creak, and comes to rest, and immediately the
+LINE 10: ash-grey men swarm up with leaden spades and stir up an impenetrable
+LINE 11: cloud, which screens their obscure operations from your sight.
+LINE 12: But above the grey land and the spasms of bleak dust which drift
+LINE 13: endlessly over it, you perceive, after a moment, the eyes of Doctor T.
+LINE 14: J. Eckleburg. The eyes of Doctor T. J. Eckleburg are blue and
+LINE 15: gigantic—their retinas are one yard high. They look out of no face,
+LINE 16: but, instead, from a pair of enormous yellow spectacles which pass
+LINE 17: over a nonexistent nose. Evidently some wild wag of an oculist set
+LINE 18: them there to fatten his practice in the borough of Queens, and then
+LINE 19: sank down himself into eternal blindness, or forgot them and moved
+LINE 20: away. But his eyes, dimmed a little by many paintless days, under sun
+LINE 21: and rain, brood on over the solemn dumping ground.
+LINE 22: The valley of ashes is bounded on one side by a small foul river, and,
+LINE 23: when the drawbridge is up to let barges through, the passengers on
+LINE 24: waiting trains can stare at the dismal scene for as long as half an
+LINE 25: hour. There is always a halt there of at least a minute, and it was
+LINE 26: because of this that I first met Tom Buchanan's mistress.
+LINE 27: The fact that he had one was insisted upon wherever he was known. His
+LINE 28: acquaintances resented the fact that he turned up in popular cafés
+LINE 29: with her and, leaving her at a table, sauntered about, chatting with
+LINE 30: whomsoever he knew. Though I was curious to see her, I had no desire
+LINE 31: to meet her—but I did. I went up to New York with Tom on the train one
+LINE 32: afternoon, and when we stopped by the ash-heaps he jumped to his feet
+LINE 33: and, taking hold of my elbow, literally forced me from the car.
+LINE 34: "We're getting off," he insisted. "I want you to meet my girl."
+LINE 35: I think he'd tanked up a good deal at luncheon, and his determination
+LINE 36: to have my company bordered on violence. The supercilious assumption
+LINE 37: was that on Sunday afternoon I had nothing better to do.
+LINE 38: I followed him over a low whitewashed railroad fence, and we walked
+LINE 39: back a hundred yards along the road under Doctor Eckleburg's
+LINE 40: persistent stare. The only building in sight was a small block of
+LINE 41: yellow brick sitting on the edge of the waste land, a sort of compact
+LINE 42: Main Street ministering to it, and contiguous to absolutely nothing.
+LINE 43: One of the three shops it contained was for rent and another was an
+LINE 44: all-night restaurant, approached by a trail of ashes; the third was a
+LINE 45: garage—Repairs. George B. Wilson. Cars bought and sold.—and I followed
+LINE 46: Tom inside.
+LINE 47: The interior was unprosperous and bare; the only car visible was the
+LINE 48: dust-covered wreck of a Ford which crouched in a dim corner. It had
+LINE 49: occurred to me that this shadow of a garage must be a blind, and that
+LINE 50: sumptuous and romantic apartments were concealed overhead, when the
+LINE 51: proprietor himself appeared in the door of an office, wiping his hands
+LINE 52: on a piece of waste. He was a blond, spiritless man, anaemic, and
+LINE 53: faintly handsome. When he saw us a damp gleam of hope sprang into his
+LINE 54: light blue eyes.
+LINE 55: "Hello, Wilson, old man," said Tom, slapping him jovially on the
+LINE 56: shoulder. "How's business?"
+LINE 57: "I can't complain," answered Wilson unconvincingly. "When are you
+LINE 58: going to sell me that car?"
+LINE 59: "Next week; I've got my man working on it now."
+LINE 60: "Works pretty slow, don't he?"
+LINE 61: "No, he doesn't," said Tom coldly. "And if you feel that way about it,
+LINE 62: maybe I'd better sell it somewhere else after all."
+LINE 63: "I don't mean that," explained Wilson quickly. "I just meant—"
+LINE 64: His voice faded off and Tom glanced impatiently around the garage.
+LINE 65: Then I heard footsteps on a stairs, and in a moment the thickish
+LINE 66: figure of a woman blocked out the light from the office door. She was
+LINE 67: in the middle thirties, and faintly stout, but she carried her flesh
+LINE 68: sensuously as some women can. Her face, above a spotted dress of dark
+LINE 69: blue crêpe-de-chine, contained no facet or gleam of beauty, but there
+LINE 70: was an immediately perceptible vitality about her as if the nerves of
+LINE 71: her body were continually smouldering. She smiled slowly and, walking
+LINE 72: through her husband as if he were a ghost, shook hands with Tom,
+LINE 73: looking him flush in the eye. Then she wet her lips, and without
+LINE 74: turning around spoke to her husband in a soft, coarse voice:
+LINE 75: "Get some chairs, why don't you, so somebody can sit down."
+LINE 76: "Oh, sure," agreed Wilson hurriedly, and went toward the little
+LINE 77: office, mingling immediately with the cement colour of the walls. A
+LINE 78: white ashen dust veiled his dark suit and his pale hair as it veiled
+LINE 79: everything in the vicinity—except his wife, who moved close to Tom.
+LINE 80: "I want to see you," said Tom intently. "Get on the next train."
+LINE 81: "All right."
+LINE 82: "I'll meet you by the newsstand on the lower level."
+LINE 83: She nodded and moved away from him just as George Wilson emerged with
+LINE 84: two chairs from his office door.
+LINE 85: We waited for her down the road and out of sight. It was a few days
+LINE 86: before the Fourth of July, and a grey, scrawny Italian child was
+LINE 87: setting torpedoes in a row along the railroad track.
+LINE 88: "Terrible place, isn't it," said Tom, exchanging a frown with Doctor
+LINE 89: Eckleburg.
+LINE 90: "Awful."
+LINE 91: "It does her good to get away."
+LINE 92: "Doesn't her husband object?"
+LINE 93: "Wilson? He thinks she goes to see her sister in New York. He's so
+LINE 94: dumb he doesn't know he's alive."
+LINE 95: So Tom Buchanan and his girl and I went up together to New York—or not
+LINE 96: quite together, for Mrs. Wilson sat discreetly in another car. Tom
+LINE 97: deferred that much to the sensibilities of those East Eggers who might
+LINE 98: be on the train.
+LINE 99: She had changed her dress to a brown figured muslin, which stretched
+LINE 100: tight over her rather wide hips as Tom helped her to the platform in
+LINE 101: New York. At the newsstand she bought a copy of Town Tattle and a
+LINE 102: moving-picture magazine, and in the station drugstore some cold cream
+LINE 103: and a small flask of perfume. Upstairs, in the solemn echoing drive
+LINE 104: she let four taxicabs drive away before she selected a new one,
+LINE 105: lavender-coloured with grey upholstery, and in this we slid out from
+LINE 106: the mass of the station into the glowing sunshine. But immediately she
+LINE 107: turned sharply from the window and, leaning forward, tapped on the
+LINE 108: front glass.
+LINE 109: "I want to get one of those dogs," she said earnestly. "I want to get
+LINE 110: one for the apartment. They're nice to have—a dog."
+LINE 111: We backed up to a grey old man who bore an absurd resemblance to John
+LINE 112: D. Rockefeller. In a basket swung from his neck cowered a dozen very
+LINE 113: recent puppies of an indeterminate breed.
+LINE 114: "What kind are they?" asked Mrs. Wilson eagerly, as he came to the
+LINE 115: taxi-window.
+LINE 116: "All kinds. What kind do you want, lady?"
+LINE 117: "I'd like to get one of those police dogs; I don't suppose you got
+LINE 118: that kind?"
+LINE 119: The man peered doubtfully into the basket, plunged in his hand and
+LINE 120: drew one up, wriggling, by the back of the neck.
+LINE 121: "That's no police dog," said Tom.
+LINE 122: "No, it's not exactly a police dog," said the man with disappointment
+LINE 123: in his voice. "It's more of an Airedale." He passed his hand over the
+LINE 124: brown washrag of a back. "Look at that coat. Some coat. That's a dog
+LINE 125: that'll never bother you with catching cold."
+LINE 126: "I think it's cute," said Mrs. Wilson enthusiastically. "How much is
+LINE 127: it?"
+LINE 128: "That dog?" He looked at it admiringly. "That dog will cost you ten
+LINE 129: dollars."
+LINE 130: The Airedale—undoubtedly there was an Airedale concerned in it
+LINE 131: somewhere, though its feet were startlingly white—changed hands and
+LINE 132: settled down into Mrs. Wilson's lap, where she fondled the
+LINE 133: weatherproof coat with rapture.
+LINE 134: "Is it a boy or a girl?" she asked delicately.
+LINE 135: "That dog? That dog's a boy."
+LINE 136: "It's a bitch," said Tom decisively. "Here's your money. Go and buy
+LINE 137: ten more dogs with it."
+LINE 138: We drove over to Fifth Avenue, warm and soft, almost pastoral, on the
+LINE 139: summer Sunday afternoon. I wouldn't have been surprised to see a great
+LINE 140: flock of white sheep turn the corner.
+LINE 141: "Hold on," I said, "I have to leave you here."
+LINE 142: "No you don't," interposed Tom quickly. "Myrtle'll be hurt if you
+LINE 143: don't come up to the apartment. Won't you, Myrtle?"
+LINE 144: "Come on," she urged. "I'll telephone my sister Catherine. She's said
+LINE 145: to be very beautiful by people who ought to know."
+LINE 146: "Well, I'd like to, but—"
+LINE 147: We went on, cutting back again over the Park toward the West Hundreds.
+LINE 148: At 158th Street the cab stopped at one slice in a long white cake of
+LINE 149: apartment-houses. Throwing a regal homecoming glance around the
+LINE 150: neighbourhood, Mrs. Wilson gathered up her dog and her other
+LINE 151: purchases, and went haughtily in.
+LINE 152: "I'm going to have the McKees come up," she announced as we rose in
+LINE 153: the elevator. "And, of course, I got to call up my sister, too."
+LINE 154: The apartment was on the top floor—a small living-room, a small
+LINE 155: dining-room, a small bedroom, and a bath. The living-room was crowded
+LINE 156: to the doors with a set of tapestried furniture entirely too large for
+LINE 157: it, so that to move about was to stumble continually over scenes of
+LINE 158: ladies swinging in the gardens of Versailles. The only picture was an
+LINE 159: over-enlarged photograph, apparently a hen sitting on a blurred rock.
+LINE 160: Looked at from a distance, however, the hen resolved itself into a
+LINE 161: bonnet, and the countenance of a stout old lady beamed down into the
+LINE 162: room. Several old copies of Town Tattle lay on the table together with
+LINE 163: a copy of Simon Called Peter, and some of the small scandal magazines
+LINE 164: of Broadway. Mrs. Wilson was first concerned with the dog. A reluctant
+LINE 165: elevator boy went for a box full of straw and some milk, to which he
+LINE 166: added on his own initiative a tin of large, hard dog biscuits—one of
+LINE 167: which decomposed apathetically in the saucer of milk all
+LINE 168: afternoon. Meanwhile Tom brought out a bottle of whisky from a locked
+LINE 169: bureau door.
+LINE 170: I have been drunk just twice in my life, and the second time was that
+LINE 171: afternoon; so everything that happened has a dim, hazy cast over it,
+LINE 172: although until after eight o'clock the apartment was full of cheerful
+LINE 173: sun. Sitting on Tom's lap Mrs. Wilson called up several people on the
+LINE 174: telephone; then there were no cigarettes, and I went out to buy some
+LINE 175: at the drugstore on the corner. When I came back they had both
+LINE 176: disappeared, so I sat down discreetly in the living-room and read a
+LINE 177: chapter of Simon Called Peter—either it was terrible stuff or the
+LINE 178: whisky distorted things, because it didn't make any sense to me.
+LINE 179: Just as Tom and Myrtle (after the first drink Mrs. Wilson and I called
+LINE 180: each other by our first names) reappeared, company commenced to arrive
+LINE 181: at the apartment door.
+LINE 182: The sister, Catherine, was a slender, worldly girl of about thirty,
+LINE 183: with a solid, sticky bob of red hair, and a complexion powdered milky
+LINE 184: white. Her eyebrows had been plucked and then drawn on again at a more
+LINE 185: rakish angle, but the efforts of nature toward the restoration of the
+LINE 186: old alignment gave a blurred air to her face. When she moved about
+LINE 187: there was an incessant clicking as innumerable pottery bracelets
+LINE 188: jingled up and down upon her arms. She came in with such a proprietary
+LINE 189: haste, and looked around so possessively at the furniture that I
+LINE 190: wondered if she lived here. But when I asked her she laughed
+LINE 191: immoderately, repeated my question aloud, and told me she lived with a
+LINE 192: girl friend at a hotel.
+LINE 193: Mr. McKee was a pale, feminine man from the flat below. He had just
+LINE 194: shaved, for there was a white spot of lather on his cheekbone, and he
+LINE 195: was most respectful in his greeting to everyone in the room. He
+LINE 196: informed me that he was in the "artistic game," and I gathered later
+LINE 197: that he was a photographer and had made the dim enlargement of
+LINE 198: Mrs. Wilson's mother which hovered like an ectoplasm on the wall. His
+LINE 199: wife was shrill, languid, handsome, and horrible. She told me with
+LINE 200: pride that her husband had photographed her a hundred and twenty-seven
+LINE 201: times since they had been married.
+LINE 202: Mrs. Wilson had changed her costume some time before, and was now
+LINE 203: attired in an elaborate afternoon dress of cream-coloured chiffon,
+LINE 204: which gave out a continual rustle as she swept about the room. With
+LINE 205: the influence of the dress her personality had also undergone a
+LINE 206: change. The intense vitality that had been so remarkable in the garage
+LINE 207: was converted into impressive hauteur. Her laughter, her gestures, her
+LINE 208: assertions became more violently affected moment by moment, and as she
+LINE 209: expanded the room grew smaller around her, until she seemed to be
+LINE 210: revolving on a noisy, creaking pivot through the smoky air.
+LINE 211: "My dear," she told her sister in a high, mincing shout, "most of
+LINE 212: these fellas will cheat you every time. All they think of is money. I
+LINE 213: had a woman up here last week to look at my feet, and when she gave me
+LINE 214: the bill you'd of thought she had my appendicitis out."
+LINE 215: "What was the name of the woman?" asked Mrs. McKee.
+LINE 216: "Mrs. Eberhardt. She goes around looking at people's feet in their own
+LINE 217: homes."
+LINE 218: "I like your dress," remarked Mrs. McKee, "I think it's adorable."
+LINE 219: Mrs. Wilson rejected the compliment by raising her eyebrow in disdain.
+LINE 220: "It's just a crazy old thing," she said. "I just slip it on sometimes
+LINE 221: when I don't care what I look like."
+LINE 222: "But it looks wonderful on you, if you know what I mean," pursued Mrs.
+LINE 223: McKee. "If Chester could only get you in that pose I think he could
+LINE 224: make something of it."
+LINE 225: We all looked in silence at Mrs. Wilson, who removed a strand of hair
+LINE 226: from over her eyes and looked back at us with a brilliant smile. Mr.
+LINE 227: McKee regarded her intently with his head on one side, and then moved
+LINE 228: his hand back and forth slowly in front of his face.
+LINE 229: "I should change the light," he said after a moment. "I'd like to
+LINE 230: bring out the modelling of the features. And I'd try to get hold of
+LINE 231: all the back hair."
+LINE 232: "I wouldn't think of changing the light," cried Mrs. McKee. "I think
+LINE 233: it's—"
+LINE 234: Her husband said "Sh!" and we all looked at the subject again,
+LINE 235: whereupon Tom Buchanan yawned audibly and got to his feet.
+LINE 236: "You McKees have something to drink," he said. "Get some more ice and
+LINE 237: mineral water, Myrtle, before everybody goes to sleep."
+LINE 238: "I told that boy about the ice." Myrtle raised her eyebrows in despair
+LINE 239: at the shiftlessness of the lower orders. "These people! You have to
+LINE 240: keep after them all the time."
+LINE 241: She looked at me and laughed pointlessly. Then she flounced over to
+LINE 242: the dog, kissed it with ecstasy, and swept into the kitchen, implying
+LINE 243: that a dozen chefs awaited her orders there.
+LINE 244: "I've done some nice things out on Long Island," asserted Mr. McKee.
+LINE 245: Tom looked at him blankly.
+LINE 246: "Two of them we have framed downstairs."
+LINE 247: "Two what?" demanded Tom.
+LINE 248: "Two studies. One of them I call Montauk Point—The Gulls, and the
+LINE 249: other I call Montauk Point—The Sea."
+LINE 250: The sister Catherine sat down beside me on the couch.
+LINE 251: "Do you live down on Long Island, too?" she inquired.
+LINE 252: "I live at West Egg."
+LINE 253: "Really? I was down there at a party about a month ago. At a man named
+LINE 254: Gatsby's. Do you know him?"
+LINE 255: "I live next door to him."
+LINE 256: "Well, they say he's a nephew or a cousin of Kaiser Wilhelm's. That's
+LINE 257: where all his money comes from."
+LINE 258: "Really?"
+LINE 259: She nodded.
+LINE 260: "I'm scared of him. I'd hate to have him get anything on me."
+LINE 261: This absorbing information about my neighbour was interrupted by Mrs.
+LINE 262: McKee's pointing suddenly at Catherine:
+LINE 263: "Chester, I think you could do something with her," she broke out, but
+LINE 264: Mr. McKee only nodded in a bored way, and turned his attention to Tom.
+LINE 265: "I'd like to do more work on Long Island, if I could get the entry.
+LINE 266: All I ask is that they should give me a start."
+LINE 267: "Ask Myrtle," said Tom, breaking into a short shout of laughter as
+LINE 268: Mrs. Wilson entered with a tray. "She'll give you a letter of
+LINE 269: introduction, won't you, Myrtle?"
+LINE 270: "Do what?" she asked, startled.
+LINE 271: "You'll give McKee a letter of introduction to your husband, so he can
+LINE 272: do some studies of him." His lips moved silently for a moment as he
+LINE 273: invented, " 'George B. Wilson at the Gasoline Pump,' or something like
+LINE 274: that."
+LINE 275: Catherine leaned close to me and whispered in my ear:
+LINE 276: "Neither of them can stand the person they're married to."
+LINE 277: "Can't they?"
+LINE 278: "Can't stand them." She looked at Myrtle and then at Tom. "What I say
+LINE 279: is, why go on living with them if they can't stand them? If I was them
+LINE 280: I'd get a divorce and get married to each other right away."
+LINE 281: "Doesn't she like Wilson either?"
+LINE 282: The answer to this was unexpected. It came from Myrtle, who had
+LINE 283: overheard the question, and it was violent and obscene.
+LINE 284: "You see," cried Catherine triumphantly. She lowered her voice again.
+LINE 285: "It's really his wife that's keeping them apart. She's a Catholic, and
+LINE 286: they don't believe in divorce."
+LINE 287: Daisy was not a Catholic, and I was a little shocked at the
+LINE 288: elaborateness of the lie.
+LINE 289: "When they do get married," continued Catherine, "they're going West
+LINE 290: to live for a while until it blows over."
+LINE 291: "It'd be more discreet to go to Europe."
+LINE 292: "Oh, do you like Europe?" she exclaimed surprisingly. "I just got back
+LINE 293: from Monte Carlo."
+LINE 294: "Really."
+LINE 295: "Just last year. I went over there with another girl."
+LINE 296: "Stay long?"
+LINE 297: "No, we just went to Monte Carlo and back. We went by way of
+LINE 298: Marseilles. We had over twelve hundred dollars when we started, but we
+LINE 299: got gyped out of it all in two days in the private rooms. We had an
+LINE 300: awful time getting back, I can tell you. God, how I hated that town!"
+LINE 301: The late afternoon sky bloomed in the window for a moment like the
+LINE 302: blue honey of the Mediterranean—then the shrill voice of Mrs. McKee
+LINE 303: called me back into the room.
+LINE 304: "I almost made a mistake, too," she declared vigorously. "I almost
+LINE 305: married a little kike who'd been after me for years. I knew he was
+LINE 306: below me. Everybody kept saying to me: 'Lucille, that man's way below
+LINE 307: you!' But if I hadn't met Chester, he'd of got me sure."
+LINE 308: "Yes, but listen," said Myrtle Wilson, nodding her head up and down,
+LINE 309: "at least you didn't marry him."
+LINE 310: "I know I didn't."
+LINE 311: "Well, I married him," said Myrtle, ambiguously. "And that's the
+LINE 312: difference between your case and mine."
+LINE 313: "Why did you, Myrtle?" demanded Catherine. "Nobody forced you to."
+LINE 314: Myrtle considered.
+LINE 315: "I married him because I thought he was a gentleman," she said
+LINE 316: finally. "I thought he knew something about breeding, but he wasn't
+LINE 317: fit to lick my shoe."
+LINE 318: "You were crazy about him for a while," said Catherine.
+LINE 319: "Crazy about him!" cried Myrtle incredulously. "Who said I was crazy
+LINE 320: about him? I never was any more crazy about him than I was about that
+LINE 321: man there."
+LINE 322: She pointed suddenly at me, and everyone looked at me accusingly. I
+LINE 323: tried to show by my expression that I expected no affection.
+LINE 324: "The only crazy I was was when I married him. I knew right away I made
+LINE 325: a mistake. He borrowed somebody's best suit to get married in, and
+LINE 326: never even told me about it, and the man came after it one day when he
+LINE 327: was out: 'Oh, is that your suit?' I said. 'This is the first I ever
+LINE 328: heard about it.' But I gave it to him and then I lay down and cried to
+LINE 329: beat the band all afternoon."
+LINE 330: "She really ought to get away from him," resumed Catherine to me.
+LINE 331: "They've been living over that garage for eleven years. And Tom's the
+LINE 332: first sweetie she ever had."
+LINE 333: The bottle of whisky—a second one—was now in constant demand by all
+LINE 334: present, excepting Catherine, who "felt just as good on nothing at
+LINE 335: all." Tom rang for the janitor and sent him for some celebrated
+LINE 336: sandwiches, which were a complete supper in themselves. I wanted to
+LINE 337: get out and walk eastward toward the park through the soft twilight,
+LINE 338: but each time I tried to go I became entangled in some wild, strident
+LINE 339: argument which pulled me back, as if with ropes, into my chair. Yet
+LINE 340: high over the city our line of yellow windows must have contributed
+LINE 341: their share of human secrecy to the casual watcher in the darkening
+LINE 342: streets, and I saw him too, looking up and wondering. I was within and
+LINE 343: without, simultaneously enchanted and repelled by the inexhaustible
+LINE 344: variety of life.
+LINE 345: Myrtle pulled her chair close to mine, and suddenly her warm breath
+LINE 346: poured over me the story of her first meeting with Tom.
+LINE 347: "It was on the two little seats facing each other that are always the
+LINE 348: last ones left on the train. I was going up to New York to see my
+LINE 349: sister and spend the night. He had on a dress suit and patent leather
+LINE 350: shoes, and I couldn't keep my eyes off him, but every time he looked
+LINE 351: at me I had to pretend to be looking at the advertisement over his
+LINE 352: head. When we came into the station he was next to me, and his white
+LINE 353: shirtfront pressed against my arm, and so I told him I'd have to call
+LINE 354: a policeman, but he knew I lied. I was so excited that when I got into
+LINE 355: a taxi with him I didn't hardly know I wasn't getting into a subway
+LINE 356: train. All I kept thinking about, over and over, was 'You can't live
+LINE 357: forever; you can't live forever.' "
+LINE 358: She turned to Mrs. McKee and the room rang full of her artificial
+LINE 359: laughter.
+LINE 360: "My dear," she cried, "I'm going to give you this dress as soon as I'm
+LINE 361: through with it. I've got to get another one tomorrow. I'm going to
+LINE 362: make a list of all the things I've got to get. A massage and a wave,
+LINE 363: and a collar for the dog, and one of those cute little ashtrays where
+LINE 364: you touch a spring, and a wreath with a black silk bow for mother's
+LINE 365: grave that'll last all summer. I got to write down a list so I won't
+LINE 366: forget all the things I got to do."
+LINE 367: It was nine o'clock—almost immediately afterward I looked at my watch
+LINE 368: and found it was ten. Mr. McKee was asleep on a chair with his fists
+LINE 369: clenched in his lap, like a photograph of a man of action. Taking out
+LINE 370: my handkerchief I wiped from his cheek the spot of dried lather that
+LINE 371: had worried me all the afternoon.
+LINE 372: The little dog was sitting on the table looking with blind eyes
+LINE 373: through the smoke, and from time to time groaning faintly. People
+LINE 374: disappeared, reappeared, made plans to go somewhere, and then lost
+LINE 375: each other, searched for each other, found each other a few feet
+LINE 376: away. Some time toward midnight Tom Buchanan and Mrs. Wilson stood
+LINE 377: face to face discussing, in impassioned voices, whether Mrs. Wilson
+LINE 378: had any right to mention Daisy's name.
+LINE 379: "Daisy! Daisy! Daisy!" shouted Mrs. Wilson. "I'll say it whenever I
+LINE 380: want to! Daisy! Dai—"
+LINE 381: Making a short deft movement, Tom Buchanan broke her nose with his
+LINE 382: open hand.
+LINE 383: Then there were bloody towels upon the bathroom floor, and women's
+LINE 384: voices scolding, and high over the confusion a long broken wail of
+LINE 385: pain. Mr. McKee awoke from his doze and started in a daze toward the
+LINE 386: door. When he had gone halfway he turned around and stared at the
+LINE 387: scene—his wife and Catherine scolding and consoling as they stumbled
+LINE 388: here and there among the crowded furniture with articles of aid, and
+LINE 389: the despairing figure on the couch, bleeding fluently, and trying to
+LINE 390: spread a copy of Town Tattle over the tapestry scenes of
+LINE 391: Versailles. Then Mr. McKee turned and continued on out the door.
+LINE 392: Taking my hat from the chandelier, I followed.
+LINE 393: "Come to lunch some day," he suggested, as we groaned down in the
+LINE 394: elevator.
+LINE 395: "Where?"
+LINE 396: "Anywhere."
+LINE 397: "Keep your hands off the lever," snapped the elevator boy.
+LINE 398: "I beg your pardon," said Mr. McKee with dignity, "I didn't know I was
+LINE 399: touching it."
+LINE 400: "All right," I agreed, "I'll be glad to."
+LINE 401: … I was standing beside his bed and he was sitting up between the
+LINE 402: sheets, clad in his underwear, with a great portfolio in his hands.
+LINE 403: "Beauty and the Beast … Loneliness … Old Grocery Horse … Brook'n
+LINE 404: Bridge …"
+LINE 405: Then I was lying half asleep in the cold lower level of the
+LINE 406: Pennsylvania Station, staring at the morning Tribune, and waiting for
+LINE 407: the four o'clock train.

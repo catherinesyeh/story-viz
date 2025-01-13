@@ -1,0 +1,235 @@
+LINE 1: Pig and Pepper
+LINE 2: For a minute or two she stood looking at the house, and wondering what
+LINE 3: to do next, when suddenly a footman in livery came running out of the
+LINE 4: wood—(she considered him to be a footman because he was in livery:
+LINE 5: otherwise, judging by his face only, she would have called him a
+LINE 6: fish)—and rapped loudly at the door with his knuckles. It was opened by
+LINE 7: another footman in livery, with a round face, and large eyes like a
+LINE 8: frog; and both footmen, Alice noticed, had powdered hair that curled
+LINE 9: all over their heads. She felt very curious to know what it was all
+LINE 10: about, and crept a little way out of the wood to listen.
+LINE 11: The Fish-Footman began by producing from under his arm a great letter,
+LINE 12: nearly as large as himself, and this he handed over to the other,
+LINE 13: saying, in a solemn tone, "For the Duchess. An invitation from the
+LINE 14: Queen to play croquet." The Frog-Footman repeated, in the same solemn
+LINE 15: tone, only changing the order of the words a little, "From the Queen.
+LINE 16: An invitation for the Duchess to play croquet."
+LINE 17: Then they both bowed low, and their curls got entangled together.
+LINE 18: Alice laughed so much at this, that she had to run back into the wood
+LINE 19: for fear of their hearing her; and when she next peeped out the
+LINE 20: Fish-Footman was gone, and the other was sitting on the ground near the
+LINE 21: door, staring stupidly up into the sky.
+LINE 22: Alice went timidly up to the door, and knocked.
+LINE 23: "There's no sort of use in knocking," said the Footman, "and that for
+LINE 24: two reasons. First, because I'm on the same side of the door as you
+LINE 25: are; secondly, because they're making such a noise inside, no one could
+LINE 26: possibly hear you." And certainly there _was_ a most extraordinary
+LINE 27: noise going on within—a constant howling and sneezing, and every now
+LINE 28: and then a great crash, as if a dish or kettle had been broken to
+LINE 29: pieces.
+LINE 30: "Please, then," said Alice, "how am I to get in?"
+LINE 31: "There might be some sense in your knocking," the Footman went on
+LINE 32: without attending to her, "if we had the door between us. For instance,
+LINE 33: if you were _inside_, you might knock, and I could let you out, you
+LINE 34: know." He was looking up into the sky all the time he was speaking, and
+LINE 35: this Alice thought decidedly uncivil. "But perhaps he can't help it,"
+LINE 36: she said to herself; "his eyes are so _very_ nearly at the top of his
+LINE 37: head. But at any rate he might answer questions.—How am I to get in?"
+LINE 38: she repeated, aloud.
+LINE 39: "I shall sit here," the Footman remarked, "till tomorrow—"
+LINE 40: At this moment the door of the house opened, and a large plate came
+LINE 41: skimming out, straight at the Footman's head: it just grazed his nose,
+LINE 42: and broke to pieces against one of the trees behind him.
+LINE 43: "—or next day, maybe," the Footman continued in the same tone, exactly
+LINE 44: as if nothing had happened.
+LINE 45: "How am I to get in?" asked Alice again, in a louder tone.
+LINE 46: "_Are_ you to get in at all?" said the Footman. "That's the first
+LINE 47: question, you know."
+LINE 48: It was, no doubt: only Alice did not like to be told so. "It's really
+LINE 49: dreadful," she muttered to herself, "the way all the creatures argue.
+LINE 50: It's enough to drive one crazy!"
+LINE 51: The Footman seemed to think this a good opportunity for repeating his
+LINE 52: remark, with variations. "I shall sit here," he said, "on and off, for
+LINE 53: days and days."
+LINE 54: "But what am _I_ to do?" said Alice.
+LINE 55: "Anything you like," said the Footman, and began whistling.
+LINE 56: "Oh, there's no use in talking to him," said Alice desperately: "he's
+LINE 57: perfectly idiotic!" And she opened the door and went in.
+LINE 58: The door led right into a large kitchen, which was full of smoke from
+LINE 59: one end to the other: the Duchess was sitting on a three-legged stool
+LINE 60: in the middle, nursing a baby; the cook was leaning over the fire,
+LINE 61: stirring a large cauldron which seemed to be full of soup.
+LINE 62: "There's certainly too much pepper in that soup!" Alice said to
+LINE 63: herself, as well as she could for sneezing.
+LINE 64: There was certainly too much of it in the air. Even the Duchess sneezed
+LINE 65: occasionally; and as for the baby, it was sneezing and howling
+LINE 66: alternately without a moment's pause. The only things in the kitchen
+LINE 67: that did not sneeze, were the cook, and a large cat which was sitting
+LINE 68: on the hearth and grinning from ear to ear.
+LINE 69: "Please would you tell me," said Alice, a little timidly, for she was
+LINE 70: not quite sure whether it was good manners for her to speak first, "why
+LINE 71: your cat grins like that?"
+LINE 72: "It's a Cheshire cat," said the Duchess, "and that's why. Pig!"
+LINE 73: She said the last word with such sudden violence that Alice quite
+LINE 74: jumped; but she saw in another moment that it was addressed to the
+LINE 75: baby, and not to her, so she took courage, and went on again:—
+LINE 76: "I didn't know that Cheshire cats always grinned; in fact, I didn't
+LINE 77: know that cats _could_ grin."
+LINE 78: "They all can," said the Duchess; "and most of 'em do."
+LINE 79: "I don't know of any that do," Alice said very politely, feeling quite
+LINE 80: pleased to have got into a conversation.
+LINE 81: "You don't know much," said the Duchess; "and that's a fact."
+LINE 82: Alice did not at all like the tone of this remark, and thought it would
+LINE 83: be as well to introduce some other subject of conversation. While she
+LINE 84: was trying to fix on one, the cook took the cauldron of soup off the
+LINE 85: fire, and at once set to work throwing everything within her reach at
+LINE 86: the Duchess and the baby—the fire-irons came first; then followed a
+LINE 87: shower of saucepans, plates, and dishes. The Duchess took no notice of
+LINE 88: them even when they hit her; and the baby was howling so much already,
+LINE 89: that it was quite impossible to say whether the blows hurt it or not.
+LINE 90: "Oh, _please_ mind what you're doing!" cried Alice, jumping up and down
+LINE 91: in an agony of terror. "Oh, there goes his _precious_ nose!" as an
+LINE 92: unusually large saucepan flew close by it, and very nearly carried it
+LINE 93: off.
+LINE 94: "If everybody minded their own business," the Duchess said in a hoarse
+LINE 95: growl, "the world would go round a deal faster than it does."
+LINE 96: "Which would _not_ be an advantage," said Alice, who felt very glad to
+LINE 97: get an opportunity of showing off a little of her knowledge. "Just
+LINE 98: think of what work it would make with the day and night! You see the
+LINE 99: earth takes twenty-four hours to turn round on its axis—"
+LINE 100: "Talking of axes," said the Duchess, "chop off her head!"
+LINE 101: Alice glanced rather anxiously at the cook, to see if she meant to take
+LINE 102: the hint; but the cook was busily stirring the soup, and seemed not to
+LINE 103: be listening, so she went on again: "Twenty-four hours, I _think_; or
+LINE 104: is it twelve? I—"
+LINE 105: "Oh, don't bother _me_," said the Duchess; "I never could abide
+LINE 106: figures!" And with that she began nursing her child again, singing a
+LINE 107: sort of lullaby to it as she did so, and giving it a violent shake at
+LINE 108: the end of every line:
+LINE 109: "Speak roughly to your little boy,
+LINE 110: And beat him when he sneezes:
+LINE 111: He only does it to annoy,
+LINE 112: Because he knows it teases."
+LINE 113: CHORUS.
+LINE 114: (In which the cook and the baby joined):
+LINE 115: "Wow! wow! wow!"
+LINE 116: While the Duchess sang the second verse of the song, she kept tossing
+LINE 117: the baby violently up and down, and the poor little thing howled so,
+LINE 118: that Alice could hardly hear the words:—
+LINE 119: "I speak severely to my boy,
+LINE 120: I beat him when he sneezes;
+LINE 121: For he can thoroughly enjoy
+LINE 122: The pepper when he pleases!"
+LINE 123: CHORUS.
+LINE 124: "Wow! wow! wow!"
+LINE 125: "Here! you may nurse it a bit, if you like!" the Duchess said to Alice,
+LINE 126: flinging the baby at her as she spoke. "I must go and get ready to play
+LINE 127: croquet with the Queen," and she hurried out of the room. The cook
+LINE 128: threw a frying-pan after her as she went out, but it just missed her.
+LINE 129: Alice caught the baby with some difficulty, as it was a queer-shaped
+LINE 130: little creature, and held out its arms and legs in all directions,
+LINE 131: "just like a star-fish," thought Alice. The poor little thing was
+LINE 132: snorting like a steam-engine when she caught it, and kept doubling
+LINE 133: itself up and straightening itself out again, so that altogether, for
+LINE 134: the first minute or two, it was as much as she could do to hold it.
+LINE 135: As soon as she had made out the proper way of nursing it, (which was to
+LINE 136: twist it up into a sort of knot, and then keep tight hold of its right
+LINE 137: ear and left foot, so as to prevent its undoing itself,) she carried it
+LINE 138: out into the open air. "If I don't take this child away with me,"
+LINE 139: thought Alice, "they're sure to kill it in a day or two: wouldn't it be
+LINE 140: murder to leave it behind?" She said the last words out loud, and the
+LINE 141: little thing grunted in reply (it had left off sneezing by this time).
+LINE 142: "Don't grunt," said Alice; "that's not at all a proper way of
+LINE 143: expressing yourself."
+LINE 144: The baby grunted again, and Alice looked very anxiously into its face
+LINE 145: to see what was the matter with it. There could be no doubt that it had
+LINE 146: a _very_ turn-up nose, much more like a snout than a real nose; also
+LINE 147: its eyes were getting extremely small for a baby: altogether Alice did
+LINE 148: not like the look of the thing at all. "But perhaps it was only
+LINE 149: sobbing," she thought, and looked into its eyes again, to see if there
+LINE 150: were any tears.
+LINE 151: No, there were no tears. "If you're going to turn into a pig, my dear,"
+LINE 152: said Alice, seriously, "I'll have nothing more to do with you. Mind
+LINE 153: now!" The poor little thing sobbed again (or grunted, it was impossible
+LINE 154: to say which), and they went on for some while in silence.
+LINE 155: Alice was just beginning to think to herself, "Now, what am I to do
+LINE 156: with this creature when I get it home?" when it grunted again, so
+LINE 157: violently, that she looked down into its face in some alarm. This time
+LINE 158: there could be _no_ mistake about it: it was neither more nor less than
+LINE 159: a pig, and she felt that it would be quite absurd for her to carry it
+LINE 160: further.
+LINE 161: So she set the little creature down, and felt quite relieved to see it
+LINE 162: trot away quietly into the wood. "If it had grown up," she said to
+LINE 163: herself, "it would have made a dreadfully ugly child: but it makes
+LINE 164: rather a handsome pig, I think." And she began thinking over other
+LINE 165: children she knew, who might do very well as pigs, and was just saying
+LINE 166: to herself, "if one only knew the right way to change them—" when she
+LINE 167: was a little startled by seeing the Cheshire Cat sitting on a bough of
+LINE 168: a tree a few yards off.
+LINE 169: The Cat only grinned when it saw Alice. It looked good-natured, she
+LINE 170: thought: still it had _very_ long claws and a great many teeth, so she
+LINE 171: felt that it ought to be treated with respect.
+LINE 172: "Cheshire Puss," she began, rather timidly, as she did not at all know
+LINE 173: whether it would like the name: however, it only grinned a little
+LINE 174: wider. "Come, it's pleased so far," thought Alice, and she went on.
+LINE 175: "Would you tell me, please, which way I ought to go from here?"
+LINE 176: "That depends a good deal on where you want to get to," said the Cat.
+LINE 177: "I don't much care where—" said Alice.
+LINE 178: "Then it doesn't matter which way you go," said the Cat.
+LINE 179: "—so long as I get _somewhere_," Alice added as an explanation.
+LINE 180: "Oh, you're sure to do that," said the Cat, "if you only walk long
+LINE 181: enough."
+LINE 182: Alice felt that this could not be denied, so she tried another
+LINE 183: question. "What sort of people live about here?"
+LINE 184: "In _that_ direction," the Cat said, waving its right paw round, "lives
+LINE 185: a Hatter: and in _that_ direction," waving the other paw, "lives a
+LINE 186: March Hare. Visit either you like: they're both mad."
+LINE 187: "But I don't want to go among mad people," Alice remarked.
+LINE 188: "Oh, you can't help that," said the Cat: "we're all mad here. I'm mad.
+LINE 189: You're mad."
+LINE 190: "How do you know I'm mad?" said Alice.
+LINE 191: "You must be," said the Cat, "or you wouldn't have come here."
+LINE 192: Alice didn't think that proved it at all; however, she went on "And how
+LINE 193: do you know that you're mad?"
+LINE 194: "To begin with," said the Cat, "a dog's not mad. You grant that?"
+LINE 195: "I suppose so," said Alice.
+LINE 196: "Well, then," the Cat went on, "you see, a dog growls when it's angry,
+LINE 197: and wags its tail when it's pleased. Now _I_ growl when I'm pleased,
+LINE 198: and wag my tail when I'm angry. Therefore I'm mad."
+LINE 199: "_I_ call it purring, not growling," said Alice.
+LINE 200: "Call it what you like," said the Cat. "Do you play croquet with the
+LINE 201: Queen to-day?"
+LINE 202: "I should like it very much," said Alice, "but I haven't been invited
+LINE 203: yet."
+LINE 204: "You'll see me there," said the Cat, and vanished.
+LINE 205: Alice was not much surprised at this, she was getting so used to queer
+LINE 206: things happening. While she was looking at the place where it had been,
+LINE 207: it suddenly appeared again.
+LINE 208: "By-the-bye, what became of the baby?" said the Cat. "I'd nearly
+LINE 209: forgotten to ask."
+LINE 210: "It turned into a pig," Alice quietly said, just as if it had come back
+LINE 211: in a natural way.
+LINE 212: "I thought it would," said the Cat, and vanished again.
+LINE 213: Alice waited a little, half expecting to see it again, but it did not
+LINE 214: appear, and after a minute or two she walked on in the direction in
+LINE 215: which the March Hare was said to live. "I've seen hatters before," she
+LINE 216: said to herself; "the March Hare will be much the most interesting, and
+LINE 217: perhaps as this is May it won't be raving mad—at least not so mad as it
+LINE 218: was in March." As she said this, she looked up, and there was the Cat
+LINE 219: again, sitting on a branch of a tree.
+LINE 220: "Did you say pig, or fig?" said the Cat.
+LINE 221: "I said pig," replied Alice; "and I wish you wouldn't keep appearing
+LINE 222: and vanishing so suddenly: you make one quite giddy."
+LINE 223: "All right," said the Cat; and this time it vanished quite slowly,
+LINE 224: beginning with the end of the tail, and ending with the grin, which
+LINE 225: remained some time after the rest of it had gone.
+LINE 226: "Well! I've often seen a cat without a grin," thought Alice; "but a
+LINE 227: grin without a cat! It's the most curious thing I ever saw in my life!"
+LINE 228: She had not gone much farther before she came in sight of the house of
+LINE 229: the March Hare: she thought it must be the right house, because the
+LINE 230: chimneys were shaped like ears and the roof was thatched with fur. It
+LINE 231: was so large a house, that she did not like to go nearer till she had
+LINE 232: nibbled some more of the lefthand bit of mushroom, and raised herself
+LINE 233: to about two feet high: even then she walked up towards it rather
+LINE 234: timidly, saying to herself "Suppose it should be raving mad after all!
+LINE 235: I almost wish I'd gone to see the Hatter instead!"

@@ -1,0 +1,213 @@
+LINE 1: Advice from a Caterpillar
+LINE 2: The Caterpillar and Alice looked at each other for some time in
+LINE 3: silence: at last the Caterpillar took the hookah out of its mouth, and
+LINE 4: addressed her in a languid, sleepy voice.
+LINE 5: "Who are _you?_" said the Caterpillar.
+LINE 6: This was not an encouraging opening for a conversation. Alice replied,
+LINE 7: rather shyly, "I—I hardly know, sir, just at present—at least I know
+LINE 8: who I _was_ when I got up this morning, but I think I must have been
+LINE 9: changed several times since then."
+LINE 10: "What do you mean by that?" said the Caterpillar sternly. "Explain
+LINE 11: yourself!"
+LINE 12: "I can't explain _myself_, I'm afraid, sir," said Alice, "because I'm
+LINE 13: not myself, you see."
+LINE 14: "I don't see," said the Caterpillar.
+LINE 15: "I'm afraid I can't put it more clearly," Alice replied very politely,
+LINE 16: "for I can't understand it myself to begin with; and being so many
+LINE 17: different sizes in a day is very confusing."
+LINE 18: "It isn't," said the Caterpillar.
+LINE 19: "Well, perhaps you haven't found it so yet," said Alice; "but when you
+LINE 20: have to turn into a chrysalis—you will some day, you know—and then
+LINE 21: after that into a butterfly, I should think you'll feel it a little
+LINE 22: queer, won't you?"
+LINE 23: "Not a bit," said the Caterpillar.
+LINE 24: "Well, perhaps your feelings may be different," said Alice; "all I know
+LINE 25: is, it would feel very queer to _me_."
+LINE 26: "You!" said the Caterpillar contemptuously. "Who are _you?_"
+LINE 27: Which brought them back again to the beginning of the conversation.
+LINE 28: Alice felt a little irritated at the Caterpillar's making such _very_
+LINE 29: short remarks, and she drew herself up and said, very gravely, "I
+LINE 30: think, you ought to tell me who _you_ are, first."
+LINE 31: "Why?" said the Caterpillar.
+LINE 32: Here was another puzzling question; and as Alice could not think of any
+LINE 33: good reason, and as the Caterpillar seemed to be in a _very_ unpleasant
+LINE 34: state of mind, she turned away.
+LINE 35: "Come back!" the Caterpillar called after her. "I've something
+LINE 36: important to say!"
+LINE 37: This sounded promising, certainly: Alice turned and came back again.
+LINE 38: "Keep your temper," said the Caterpillar.
+LINE 39: "Is that all?" said Alice, swallowing down her anger as well as she
+LINE 40: could.
+LINE 41: "No," said the Caterpillar.
+LINE 42: Alice thought she might as well wait, as she had nothing else to do,
+LINE 43: and perhaps after all it might tell her something worth hearing. For
+LINE 44: some minutes it puffed away without speaking, but at last it unfolded
+LINE 45: its arms, took the hookah out of its mouth again, and said, "So you
+LINE 46: think you're changed, do you?"
+LINE 47: "I'm afraid I am, sir," said Alice; "I can't remember things as I
+LINE 48: used—and I don't keep the same size for ten minutes together!"
+LINE 49: "Can't remember _what_ things?" said the Caterpillar.
+LINE 50: "Well, I've tried to say "How doth the little busy bee," but it all
+LINE 51: came different!" Alice replied in a very melancholy voice.
+LINE 52: "Repeat, "_You are old, Father William_,'" said the Caterpillar.
+LINE 53: Alice folded her hands, and began:—
+LINE 54: "You are old, Father William," the young man said,
+LINE 55: "And your hair has become very white;
+LINE 56: And yet you incessantly stand on your head—
+LINE 57: Do you think, at your age, it is right?"
+LINE 58: "In my youth," Father William replied to his son,
+LINE 59: "I feared it might injure the brain;
+LINE 60: But, now that I'm perfectly sure I have none,
+LINE 61: Why, I do it again and again."
+LINE 62: "You are old," said the youth, "as I mentioned before,
+LINE 63: And have grown most uncommonly fat;
+LINE 64: Yet you turned a back-somersault in at the door—
+LINE 65: Pray, what is the reason of that?"
+LINE 66: "In my youth," said the sage, as he shook his grey locks,
+LINE 67: "I kept all my limbs very supple
+LINE 68: By the use of this ointment—one shilling the box—
+LINE 69: Allow me to sell you a couple?"
+LINE 70: "You are old," said the youth, "and your jaws are too weak
+LINE 71: For anything tougher than suet;
+LINE 72: Yet you finished the goose, with the bones and the beak—
+LINE 73: Pray, how did you manage to do it?"
+LINE 74: "In my youth," said his father, "I took to the law,
+LINE 75: And argued each case with my wife;
+LINE 76: And the muscular strength, which it gave to my jaw,
+LINE 77: Has lasted the rest of my life."
+LINE 78: "You are old," said the youth, "one would hardly suppose
+LINE 79: That your eye was as steady as ever;
+LINE 80: Yet you balanced an eel on the end of your nose—
+LINE 81: What made you so awfully clever?"
+LINE 82: "I have answered three questions, and that is enough,"
+LINE 83: Said his father; "don't give yourself airs!
+LINE 84: Do you think I can listen all day to such stuff?
+LINE 85: Be off, or I'll kick you down stairs!"
+LINE 86: "That is not said right," said the Caterpillar.
+LINE 87: "Not _quite_ right, I'm afraid," said Alice, timidly; "some of the
+LINE 88: words have got altered."
+LINE 89: "It is wrong from beginning to end," said the Caterpillar decidedly,
+LINE 90: and there was silence for some minutes.
+LINE 91: The Caterpillar was the first to speak.
+LINE 92: "What size do you want to be?" it asked.
+LINE 93: "Oh, I'm not particular as to size," Alice hastily replied; "only one
+LINE 94: doesn't like changing so often, you know."
+LINE 95: "I _don't_ know," said the Caterpillar.
+LINE 96: Alice said nothing: she had never been so much contradicted in her life
+LINE 97: before, and she felt that she was losing her temper.
+LINE 98: "Are you content now?" said the Caterpillar.
+LINE 99: "Well, I should like to be a _little_ larger, sir, if you wouldn't
+LINE 100: mind," said Alice: "three inches is such a wretched height to be."
+LINE 101: "It is a very good height indeed!" said the Caterpillar angrily,
+LINE 102: rearing itself upright as it spoke (it was exactly three inches high).
+LINE 103: "But I'm not used to it!" pleaded poor Alice in a piteous tone. And she
+LINE 104: thought of herself, "I wish the creatures wouldn't be so easily
+LINE 105: offended!"
+LINE 106: "You'll get used to it in time," said the Caterpillar; and it put the
+LINE 107: hookah into its mouth and began smoking again.
+LINE 108: This time Alice waited patiently until it chose to speak again. In a
+LINE 109: minute or two the Caterpillar took the hookah out of its mouth and
+LINE 110: yawned once or twice, and shook itself. Then it got down off the
+LINE 111: mushroom, and crawled away in the grass, merely remarking as it went,
+LINE 112: "One side will make you grow taller, and the other side will make you
+LINE 113: grow shorter."
+LINE 114: "One side of _what?_ The other side of _what?_" thought Alice to
+LINE 115: herself.
+LINE 116: "Of the mushroom," said the Caterpillar, just as if she had asked it
+LINE 117: aloud; and in another moment it was out of sight.
+LINE 118: Alice remained looking thoughtfully at the mushroom for a minute,
+LINE 119: trying to make out which were the two sides of it; and as it was
+LINE 120: perfectly round, she found this a very difficult question. However, at
+LINE 121: last she stretched her arms round it as far as they would go, and broke
+LINE 122: off a bit of the edge with each hand.
+LINE 123: "And now which is which?" she said to herself, and nibbled a little of
+LINE 124: the right-hand bit to try the effect: the next moment she felt a
+LINE 125: violent blow underneath her chin: it had struck her foot!
+LINE 126: She was a good deal frightened by this very sudden change, but she felt
+LINE 127: that there was no time to be lost, as she was shrinking rapidly; so she
+LINE 128: set to work at once to eat some of the other bit. Her chin was pressed
+LINE 129: so closely against her foot, that there was hardly room to open her
+LINE 130: mouth; but she did it at last, and managed to swallow a morsel of the
+LINE 131: lefthand bit.
+LINE 132: * * * * * * *
+LINE 133: * * * * * *
+LINE 134: * * * * * * *
+LINE 135: "Come, my head's free at last!" said Alice in a tone of delight, which
+LINE 136: changed into alarm in another moment, when she found that her shoulders
+LINE 137: were nowhere to be found: all she could see, when she looked down, was
+LINE 138: an immense length of neck, which seemed to rise like a stalk out of a
+LINE 139: sea of green leaves that lay far below her.
+LINE 140: "What _can_ all that green stuff be?" said Alice. "And where _have_ my
+LINE 141: shoulders got to? And oh, my poor hands, how is it I can't see you?"
+LINE 142: She was moving them about as she spoke, but no result seemed to follow,
+LINE 143: except a little shaking among the distant green leaves.
+LINE 144: As there seemed to be no chance of getting her hands up to her head,
+LINE 145: she tried to get her head down to them, and was delighted to find that
+LINE 146: her neck would bend about easily in any direction, like a serpent. She
+LINE 147: had just succeeded in curving it down into a graceful zigzag, and was
+LINE 148: going to dive in among the leaves, which she found to be nothing but
+LINE 149: the tops of the trees under which she had been wandering, when a sharp
+LINE 150: hiss made her draw back in a hurry: a large pigeon had flown into her
+LINE 151: face, and was beating her violently with its wings.
+LINE 152: "Serpent!" screamed the Pigeon.
+LINE 153: "I'm _not_ a serpent!" said Alice indignantly. "Let me alone!"
+LINE 154: "Serpent, I say again!" repeated the Pigeon, but in a more subdued
+LINE 155: tone, and added with a kind of sob, "I've tried every way, and nothing
+LINE 156: seems to suit them!"
+LINE 157: "I haven't the least idea what you're talking about," said Alice.
+LINE 158: "I've tried the roots of trees, and I've tried banks, and I've tried
+LINE 159: hedges," the Pigeon went on, without attending to her; "but those
+LINE 160: serpents! There's no pleasing them!"
+LINE 161: Alice was more and more puzzled, but she thought there was no use in
+LINE 162: saying anything more till the Pigeon had finished.
+LINE 163: "As if it wasn't trouble enough hatching the eggs," said the Pigeon;
+LINE 164: "but I must be on the look-out for serpents night and day! Why, I
+LINE 165: haven't had a wink of sleep these three weeks!"
+LINE 166: "I'm very sorry you've been annoyed," said Alice, who was beginning to
+LINE 167: see its meaning.
+LINE 168: "And just as I'd taken the highest tree in the wood," continued the
+LINE 169: Pigeon, raising its voice to a shriek, "and just as I was thinking I
+LINE 170: should be free of them at last, they must needs come wriggling down
+LINE 171: from the sky! Ugh, Serpent!"
+LINE 172: "But I'm _not_ a serpent, I tell you!" said Alice. "I'm a—I'm a—"
+LINE 173: "Well! _What_ are you?" said the Pigeon. "I can see you're trying to
+LINE 174: invent something!"
+LINE 175: "I—I'm a little girl," said Alice, rather doubtfully, as she remembered
+LINE 176: the number of changes she had gone through that day.
+LINE 177: "A likely story indeed!" said the Pigeon in a tone of the deepest
+LINE 178: contempt. "I've seen a good many little girls in my time, but never
+LINE 179: _one_ with such a neck as that! No, no! You're a serpent; and there's
+LINE 180: no use denying it. I suppose you'll be telling me next that you never
+LINE 181: tasted an egg!"
+LINE 182: "I _have_ tasted eggs, certainly," said Alice, who was a very truthful
+LINE 183: child; "but little girls eat eggs quite as much as serpents do, you
+LINE 184: know."
+LINE 185: "I don't believe it," said the Pigeon; "but if they do, why then
+LINE 186: they're a kind of serpent, that's all I can say."
+LINE 187: This was such a new idea to Alice, that she was quite silent for a
+LINE 188: minute or two, which gave the Pigeon the opportunity of adding, "You're
+LINE 189: looking for eggs, I know _that_ well enough; and what does it matter to
+LINE 190: me whether you're a little girl or a serpent?"
+LINE 191: "It matters a good deal to _me_," said Alice hastily; "but I'm not
+LINE 192: looking for eggs, as it happens; and if I was, I shouldn't want
+LINE 193: _yours_: I don't like them raw."
+LINE 194: "Well, be off, then!" said the Pigeon in a sulky tone, as it settled
+LINE 195: down again into its nest. Alice crouched down among the trees as well
+LINE 196: as she could, for her neck kept getting entangled among the branches,
+LINE 197: and every now and then she had to stop and untwist it. After a while
+LINE 198: she remembered that she still held the pieces of mushroom in her hands,
+LINE 199: and she set to work very carefully, nibbling first at one and then at
+LINE 200: the other, and growing sometimes taller and sometimes shorter, until
+LINE 201: she had succeeded in bringing herself down to her usual height.
+LINE 202: It was so long since she had been anything near the right size, that it
+LINE 203: felt quite strange at first; but she got used to it in a few minutes,
+LINE 204: and began talking to herself, as usual. "Come, there's half my plan
+LINE 205: done now! How puzzling all these changes are! I'm never sure what I'm
+LINE 206: going to be, from one minute to another! However, I've got back to my
+LINE 207: right size: the next thing is, to get into that beautiful garden—how
+LINE 208: _is_ that to be done, I wonder?" As she said this, she came suddenly
+LINE 209: upon an open place, with a little house in it about four feet high.
+LINE 210: "Whoever lives there," thought Alice, "it'll never do to come upon them
+LINE 211: _this_ size: why, I should frighten them out of their wits!" So she
+LINE 212: began nibbling at the righthand bit again, and did not venture to go
+LINE 213: near the house till she had brought herself down to nine inches high.

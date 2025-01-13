@@ -1,0 +1,182 @@
+LINE 1: "I lay on my straw, but I could not sleep. I thought of the
+LINE 2: occurrences of the day. What chiefly struck me was the gentle manners
+LINE 3: of these people, and I longed to join them, but dared not. I
+LINE 4: remembered too well the treatment I had suffered the night before from
+LINE 5: the barbarous villagers, and resolved, whatever course of conduct I
+LINE 6: might hereafter think it right to pursue, that for the present I would
+LINE 7: remain quietly in my hovel, watching and endeavouring to discover the
+LINE 8: motives which influenced their actions.
+LINE 9: "The cottagers arose the next morning before the sun. The young woman
+LINE 10: arranged the cottage and prepared the food, and the youth departed
+LINE 11: after the first meal.
+LINE 12: "This day was passed in the same routine as that which preceded it.
+LINE 13: The young man was constantly employed out of doors, and the girl in
+LINE 14: various laborious occupations within. The old man, whom I soon
+LINE 15: perceived to be blind, employed his leisure hours on his instrument or
+LINE 16: in contemplation. Nothing could exceed the love and respect which the
+LINE 17: younger cottagers exhibited towards their venerable companion. They
+LINE 18: performed towards him every little office of affection and duty with
+LINE 19: gentleness, and he rewarded them by his benevolent smiles.
+LINE 20: "They were not entirely happy. The young man and his companion often
+LINE 21: went apart and appeared to weep. I saw no cause for their unhappiness,
+LINE 22: but I was deeply affected by it. If such lovely creatures were
+LINE 23: miserable, it was less strange that I, an imperfect and solitary being,
+LINE 24: should be wretched. Yet why were these gentle beings unhappy? They
+LINE 25: possessed a delightful house (for such it was in my eyes) and every
+LINE 26: luxury; they had a fire to warm them when chill and delicious viands
+LINE 27: when hungry; they were dressed in excellent clothes; and, still more,
+LINE 28: they enjoyed one another's company and speech, interchanging each day
+LINE 29: looks of affection and kindness. What did their tears imply? Did they
+LINE 30: really express pain? I was at first unable to solve these questions,
+LINE 31: but perpetual attention and time explained to me many appearances which
+LINE 32: were at first enigmatic.
+LINE 33: "A considerable period elapsed before I discovered one of the causes of
+LINE 34: the uneasiness of this amiable family: it was poverty, and they
+LINE 35: suffered that evil in a very distressing degree. Their nourishment
+LINE 36: consisted entirely of the vegetables of their garden and the milk of
+LINE 37: one cow, which gave very little during the winter, when its masters
+LINE 38: could scarcely procure food to support it. They often, I believe,
+LINE 39: suffered the pangs of hunger very poignantly, especially the two
+LINE 40: younger cottagers, for several times they placed food before the old
+LINE 41: man when they reserved none for themselves.
+LINE 42: "This trait of kindness moved me sensibly. I had been accustomed,
+LINE 43: during the night, to steal a part of their store for my own
+LINE 44: consumption, but when I found that in doing this I inflicted pain on
+LINE 45: the cottagers, I abstained and satisfied myself with berries, nuts, and
+LINE 46: roots which I gathered from a neighbouring wood.
+LINE 47: "I discovered also another means through which I was enabled to assist
+LINE 48: their labours. I found that the youth spent a great part of each day
+LINE 49: in collecting wood for the family fire, and during the night I often
+LINE 50: took his tools, the use of which I quickly discovered, and brought home
+LINE 51: firing sufficient for the consumption of several days.
+LINE 52: "I remember, the first time that I did this, the young woman, when she
+LINE 53: opened the door in the morning, appeared greatly astonished on seeing a great
+LINE 54: pile of wood on the outside. She uttered some words in a loud voice, and the
+LINE 55: youth joined her, who also expressed surprise. I observed, with pleasure,
+LINE 56: that he did not go to the forest that day, but spent it in repairing the
+LINE 57: cottage and cultivating the garden.
+LINE 58: "By degrees I made a discovery of still greater moment. I found that
+LINE 59: these people possessed a method of communicating their experience and
+LINE 60: feelings to one another by articulate sounds. I perceived that the words
+LINE 61: they spoke sometimes produced pleasure or pain, smiles or sadness, in the
+LINE 62: minds and countenances of the hearers. This was indeed a godlike science,
+LINE 63: and I ardently desired to become acquainted with it. But I was baffled in
+LINE 64: every attempt I made for this purpose. Their pronunciation was quick, and
+LINE 65: the words they uttered, not having any apparent connection with visible
+LINE 66: objects, I was unable to discover any clue by which I could unravel the
+LINE 67: mystery of their reference. By great application, however, and after having
+LINE 68: remained during the space of several revolutions of the moon in my hovel, I
+LINE 69: discovered the names that were given to some of the most familiar objects of
+LINE 70: discourse; I learned and applied the words, _fire, milk, bread,_ and
+LINE 71: _wood._ I learned also the names of the cottagers themselves. The youth
+LINE 72: and his companion had each of them several names, but the old man had only
+LINE 73: one, which was _father._ The girl was called _sister_ or
+LINE 74: _Agatha,_ and the youth _Felix, brother,_ or _son_. I cannot
+LINE 75: describe the delight I felt when I learned the ideas appropriated to each of
+LINE 76: these sounds and was able to pronounce them. I distinguished several other
+LINE 77: words without being able as yet to understand or apply them, such as _good,
+LINE 78: dearest, unhappy._
+LINE 79: "I spent the winter in this manner. The gentle manners and beauty of
+LINE 80: the cottagers greatly endeared them to me; when they were unhappy, I
+LINE 81: felt depressed; when they rejoiced, I sympathised in their joys. I saw
+LINE 82: few human beings besides them, and if any other happened to enter the
+LINE 83: cottage, their harsh manners and rude gait only enhanced to me the
+LINE 84: superior accomplishments of my friends. The old man, I could perceive,
+LINE 85: often endeavoured to encourage his children, as sometimes I found that
+LINE 86: he called them, to cast off their melancholy. He would talk in a
+LINE 87: cheerful accent, with an expression of goodness that bestowed pleasure
+LINE 88: even upon me. Agatha listened with respect, her eyes sometimes filled
+LINE 89: with tears, which she endeavoured to wipe away unperceived; but I
+LINE 90: generally found that her countenance and tone were more cheerful after
+LINE 91: having listened to the exhortations of her father. It was not thus
+LINE 92: with Felix. He was always the saddest of the group, and even to my
+LINE 93: unpractised senses, he appeared to have suffered more deeply than his
+LINE 94: friends. But if his countenance was more sorrowful, his voice was more
+LINE 95: cheerful than that of his sister, especially when he addressed the old
+LINE 96: man.
+LINE 97: "I could mention innumerable instances which, although slight, marked
+LINE 98: the dispositions of these amiable cottagers. In the midst of poverty
+LINE 99: and want, Felix carried with pleasure to his sister the first little
+LINE 100: white flower that peeped out from beneath the snowy ground. Early in
+LINE 101: the morning, before she had risen, he cleared away the snow that
+LINE 102: obstructed her path to the milk-house, drew water from the well, and
+LINE 103: brought the wood from the outhouse, where, to his perpetual
+LINE 104: astonishment, he found his store always replenished by an invisible
+LINE 105: hand. In the day, I believe, he worked sometimes for a neighbouring
+LINE 106: farmer, because he often went forth and did not return until dinner,
+LINE 107: yet brought no wood with him. At other times he worked in the garden,
+LINE 108: but as there was little to do in the frosty season, he read to the old
+LINE 109: man and Agatha.
+LINE 110: "This reading had puzzled me extremely at first, but by degrees I
+LINE 111: discovered that he uttered many of the same sounds when he read as when
+LINE 112: he talked. I conjectured, therefore, that he found on the paper signs
+LINE 113: for speech which he understood, and I ardently longed to comprehend
+LINE 114: these also; but how was that possible when I did not even understand
+LINE 115: the sounds for which they stood as signs? I improved, however,
+LINE 116: sensibly in this science, but not sufficiently to follow up any kind of
+LINE 117: conversation, although I applied my whole mind to the endeavour, for I
+LINE 118: easily perceived that, although I eagerly longed to discover myself to
+LINE 119: the cottagers, I ought not to make the attempt until I had first become
+LINE 120: master of their language, which knowledge might enable me to make them
+LINE 121: overlook the deformity of my figure, for with this also the contrast
+LINE 122: perpetually presented to my eyes had made me acquainted.
+LINE 123: "I had admired the perfect forms of my cottagers—their grace, beauty,
+LINE 124: and delicate complexions; but how was I terrified when I viewed myself
+LINE 125: in a transparent pool! At first I started back, unable to believe that
+LINE 126: it was indeed I who was reflected in the mirror; and when I became
+LINE 127: fully convinced that I was in reality the monster that I am, I was
+LINE 128: filled with the bitterest sensations of despondence and mortification.
+LINE 129: Alas! I did not yet entirely know the fatal effects of this miserable
+LINE 130: deformity.
+LINE 131: "As the sun became warmer and the light of day longer, the snow
+LINE 132: vanished, and I beheld the bare trees and the black earth. From this
+LINE 133: time Felix was more employed, and the heart-moving indications of
+LINE 134: impending famine disappeared. Their food, as I afterwards found, was
+LINE 135: coarse, but it was wholesome; and they procured a sufficiency of it.
+LINE 136: Several new kinds of plants sprang up in the garden, which they
+LINE 137: dressed; and these signs of comfort increased daily as the season
+LINE 138: advanced.
+LINE 139: "The old man, leaning on his son, walked each day at noon, when it did
+LINE 140: not rain, as I found it was called when the heavens poured forth its
+LINE 141: waters. This frequently took place, but a high wind quickly dried the
+LINE 142: earth, and the season became far more pleasant than it had been.
+LINE 143: "My mode of life in my hovel was uniform. During the morning I
+LINE 144: attended the motions of the cottagers, and when they were dispersed in
+LINE 145: various occupations, I slept; the remainder of the day was spent in
+LINE 146: observing my friends. When they had retired to rest, if there was any
+LINE 147: moon or the night was star-light, I went into the woods and collected
+LINE 148: my own food and fuel for the cottage. When I returned, as often as it
+LINE 149: was necessary, I cleared their path from the snow and performed those
+LINE 150: offices that I had seen done by Felix. I afterwards found that these
+LINE 151: labours, performed by an invisible hand, greatly astonished them; and
+LINE 152: once or twice I heard them, on these occasions, utter the words _good
+LINE 153: spirit, wonderful_; but I did not then understand the signification
+LINE 154: of these terms.
+LINE 155: "My thoughts now became more active, and I longed to discover the
+LINE 156: motives and feelings of these lovely creatures; I was inquisitive to
+LINE 157: know why Felix appeared so miserable and Agatha so sad. I thought
+LINE 158: (foolish wretch!) that it might be in my power to restore happiness to
+LINE 159: these deserving people. When I slept or was absent, the forms of the
+LINE 160: venerable blind father, the gentle Agatha, and the excellent Felix
+LINE 161: flitted before me. I looked upon them as superior beings who would be
+LINE 162: the arbiters of my future destiny. I formed in my imagination a
+LINE 163: thousand pictures of presenting myself to them, and their reception of
+LINE 164: me. I imagined that they would be disgusted, until, by my gentle
+LINE 165: demeanour and conciliating words, I should first win their favour and
+LINE 166: afterwards their love.
+LINE 167: "These thoughts exhilarated me and led me to apply with fresh ardour to
+LINE 168: the acquiring the art of language. My organs were indeed harsh, but
+LINE 169: supple; and although my voice was very unlike the soft music of their
+LINE 170: tones, yet I pronounced such words as I understood with tolerable ease.
+LINE 171: It was as the ass and the lap-dog; yet surely the gentle ass whose
+LINE 172: intentions were affectionate, although his manners were rude, deserved
+LINE 173: better treatment than blows and execration.
+LINE 174: "The pleasant showers and genial warmth of spring greatly altered the
+LINE 175: aspect of the earth. Men who before this change seemed to have been
+LINE 176: hid in caves dispersed themselves and were employed in various arts of
+LINE 177: cultivation. The birds sang in more cheerful notes, and the leaves
+LINE 178: began to bud forth on the trees. Happy, happy earth! Fit habitation
+LINE 179: for gods, which, so short a time before, was bleak, damp, and
+LINE 180: unwholesome. My spirits were elevated by the enchanting appearance of
+LINE 181: nature; the past was blotted from my memory, the present was tranquil,
+LINE 182: and the future gilded by bright rays of hope and anticipations of joy."

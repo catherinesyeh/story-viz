@@ -1,0 +1,195 @@
+LINE 1: One day when I was busy with my books and Mr. Pocket, I received a note
+LINE 2: by the post, the mere outside of which threw me into a great flutter;
+LINE 3: for, though I had never seen the handwriting in which it was addressed,
+LINE 4: I divined whose hand it was. It had no set beginning, as Dear Mr. Pip,
+LINE 5: or Dear Pip, or Dear Sir, or Dear Anything, but ran thus:—
+LINE 6: "I am to come to London the day after to-morrow by the midday coach. I
+LINE 7: believe it was settled you should meet me? At all events Miss Havisham
+LINE 8: has that impression, and I write in obedience to it. She sends you her
+LINE 9: regard.
+LINE 10: "Yours, ESTELLA."
+LINE 11: If there had been time, I should probably have ordered several suits of
+LINE 12: clothes for this occasion; but as there was not, I was fain to be
+LINE 13: content with those I had. My appetite vanished instantly, and I knew no
+LINE 14: peace or rest until the day arrived. Not that its arrival brought me
+LINE 15: either; for, then I was worse than ever, and began haunting the
+LINE 16: coach-office in Wood Street, Cheapside, before the coach had left the
+LINE 17: Blue Boar in our town. For all that I knew this perfectly well, I still
+LINE 18: felt as if it were not safe to let the coach-office be out of my sight
+LINE 19: longer than five minutes at a time; and in this condition of unreason I
+LINE 20: had performed the first half-hour of a watch of four or five hours,
+LINE 21: when Wemmick ran against me.
+LINE 22: "Halloa, Mr. Pip," said he; "how do you do? I should hardly have
+LINE 23: thought this was _your_ beat."
+LINE 24: I explained that I was waiting to meet somebody who was coming up by
+LINE 25: coach, and I inquired after the Castle and the Aged.
+LINE 26: "Both flourishing thankye," said Wemmick, "and particularly the Aged.
+LINE 27: He's in wonderful feather. He'll be eighty-two next birthday. I have a
+LINE 28: notion of firing eighty-two times, if the neighbourhood shouldn't
+LINE 29: complain, and that cannon of mine should prove equal to the pressure.
+LINE 30: However, this is not London talk. Where do you think I am going to?"
+LINE 31: "To the office?" said I, for he was tending in that direction.
+LINE 32: "Next thing to it," returned Wemmick, "I am going to Newgate. We are in
+LINE 33: a banker's-parcel case just at present, and I have been down the road
+LINE 34: taking a squint at the scene of action, and thereupon must have a word
+LINE 35: or two with our client."
+LINE 36: "Did your client commit the robbery?" I asked.
+LINE 37: "Bless your soul and body, no," answered Wemmick, very drily. "But he
+LINE 38: is accused of it. So might you or I be. Either of us might be accused
+LINE 39: of it, you know."
+LINE 40: "Only neither of us is," I remarked.
+LINE 41: "Yah!" said Wemmick, touching me on the breast with his forefinger;
+LINE 42: "you're a deep one, Mr. Pip! Would you like to have a look at Newgate?
+LINE 43: Have you time to spare?"
+LINE 44: I had so much time to spare, that the proposal came as a relief,
+LINE 45: notwithstanding its irreconcilability with my latent desire to keep my
+LINE 46: eye on the coach-office. Muttering that I would make the inquiry
+LINE 47: whether I had time to walk with him, I went into the office, and
+LINE 48: ascertained from the clerk with the nicest precision and much to the
+LINE 49: trying of his temper, the earliest moment at which the coach could be
+LINE 50: expected,—which I knew beforehand, quite as well as he. I then rejoined
+LINE 51: Mr. Wemmick, and affecting to consult my watch, and to be surprised by
+LINE 52: the information I had received, accepted his offer.
+LINE 53: We were at Newgate in a few minutes, and we passed through the lodge
+LINE 54: where some fetters were hanging up on the bare walls among the prison
+LINE 55: rules, into the interior of the jail. At that time jails were much
+LINE 56: neglected, and the period of exaggerated reaction consequent on all
+LINE 57: public wrongdoing—and which is always its heaviest and longest
+LINE 58: punishment—was still far off. So, felons were not lodged and fed better
+LINE 59: than soldiers (to say nothing of paupers), and seldom set fire to their
+LINE 60: prisons with the excusable object of improving the flavour of their
+LINE 61: soup. It was visiting time when Wemmick took me in, and a potman was
+LINE 62: going his rounds with beer; and the prisoners, behind bars in yards,
+LINE 63: were buying beer, and talking to friends; and a frowzy, ugly,
+LINE 64: disorderly, depressing scene it was.
+LINE 65: It struck me that Wemmick walked among the prisoners much as a gardener
+LINE 66: might walk among his plants. This was first put into my head by his
+LINE 67: seeing a shoot that had come up in the night, and saying, "What,
+LINE 68: Captain Tom? Are _you_ there? Ah, indeed!" and also, "Is that Black
+LINE 69: Bill behind the cistern? Why I didn't look for you these two months;
+LINE 70: how do you find yourself?" Equally in his stopping at the bars and
+LINE 71: attending to anxious whisperers,—always singly,—Wemmick with his
+LINE 72: post-office in an immovable state, looked at them while in conference,
+LINE 73: as if he were taking particular notice of the advance they had made,
+LINE 74: since last observed, towards coming out in full blow at their trial.
+LINE 75: He was highly popular, and I found that he took the familiar department
+LINE 76: of Mr. Jaggers's business; though something of the state of Mr. Jaggers
+LINE 77: hung about him too, forbidding approach beyond certain limits. His
+LINE 78: personal recognition of each successive client was comprised in a nod,
+LINE 79: and in his settling his hat a little easier on his head with both
+LINE 80: hands, and then tightening the post-office, and putting his hands in
+LINE 81: his pockets. In one or two instances there was a difficulty respecting
+LINE 82: the raising of fees, and then Mr. Wemmick, backing as far as possible
+LINE 83: from the insufficient money produced, said, "it's no use, my boy. I'm
+LINE 84: only a subordinate. I can't take it. Don't go on in that way with a
+LINE 85: subordinate. If you are unable to make up your quantum, my boy, you had
+LINE 86: better address yourself to a principal; there are plenty of principals
+LINE 87: in the profession, you know, and what is not worth the while of one,
+LINE 88: may be worth the while of another; that's my recommendation to you,
+LINE 89: speaking as a subordinate. Don't try on useless measures. Why should
+LINE 90: you? Now, who's next?"
+LINE 91: Thus, we walked through Wemmick's greenhouse, until he turned to me and
+LINE 92: said, "Notice the man I shall shake hands with." I should have done so,
+LINE 93: without the preparation, as he had shaken hands with no one yet.
+LINE 94: Almost as soon as he had spoken, a portly upright man (whom I can see
+LINE 95: now, as I write) in a well-worn olive-coloured frock-coat, with a
+LINE 96: peculiar pallor overspreading the red in his complexion, and eyes that
+LINE 97: went wandering about when he tried to fix them, came up to a corner of
+LINE 98: the bars, and put his hand to his hat—which had a greasy and fatty
+LINE 99: surface like cold broth—with a half-serious and half-jocose military
+LINE 100: salute.
+LINE 101: "Colonel, to you!" said Wemmick; "how are you, Colonel?"
+LINE 102: "All right, Mr. Wemmick."
+LINE 103: "Everything was done that could be done, but the evidence was too
+LINE 104: strong for us, Colonel."
+LINE 105: "Yes, it was too strong, sir,—but _I_ don't care."
+LINE 106: "No, no," said Wemmick, coolly, "_you_ don't care." Then, turning to
+LINE 107: me, "Served His Majesty this man. Was a soldier in the line and bought
+LINE 108: his discharge."
+LINE 109: I said, "Indeed?" and the man's eyes looked at me, and then looked over
+LINE 110: my head, and then looked all round me, and then he drew his hand across
+LINE 111: his lips and laughed.
+LINE 112: "I think I shall be out of this on Monday, sir," he said to Wemmick.
+LINE 113: "Perhaps," returned my friend, "but there's no knowing."
+LINE 114: "I am glad to have the chance of bidding you good-bye, Mr. Wemmick,"
+LINE 115: said the man, stretching out his hand between two bars.
+LINE 116: "Thankye," said Wemmick, shaking hands with him. "Same to you,
+LINE 117: Colonel."
+LINE 118: "If what I had upon me when taken had been real, Mr. Wemmick," said the
+LINE 119: man, unwilling to let his hand go, "I should have asked the favour of
+LINE 120: your wearing another ring—in acknowledgment of your attentions."
+LINE 121: "I'll accept the will for the deed," said Wemmick. "By the by; you were
+LINE 122: quite a pigeon-fancier." The man looked up at the sky. "I am told you
+LINE 123: had a remarkable breed of tumblers. _Could_ you commission any friend
+LINE 124: of yours to bring me a pair, if you've no further use for 'em?"
+LINE 125: "It shall be done, sir."
+LINE 126: "All right," said Wemmick, "they shall be taken care of.
+LINE 127: Good-afternoon, Colonel. Good-bye!" They shook hands again, and as we
+LINE 128: walked away Wemmick said to me, "A Coiner, a very good workman. The
+LINE 129: Recorder's report is made to-day, and he is sure to be executed on
+LINE 130: Monday. Still you see, as far as it goes, a pair of pigeons are
+LINE 131: portable property all the same." With that, he looked back, and nodded
+LINE 132: at this dead plant, and then cast his eyes about him in walking out of
+LINE 133: the yard, as if he were considering what other pot would go best in its
+LINE 134: place.
+LINE 135: As we came out of the prison through the lodge, I found that the great
+LINE 136: importance of my guardian was appreciated by the turnkeys, no less than
+LINE 137: by those whom they held in charge. "Well, Mr. Wemmick," said the
+LINE 138: turnkey, who kept us between the two studded and spiked lodge gates,
+LINE 139: and who carefully locked one before he unlocked the other, "what's Mr.
+LINE 140: Jaggers going to do with that water-side murder? Is he going to make it
+LINE 141: manslaughter, or what's he going to make of it?"
+LINE 142: "Why don't you ask him?" returned Wemmick.
+LINE 143: "O yes, I dare say!" said the turnkey.
+LINE 144: "Now, that's the way with them here, Mr. Pip," remarked Wemmick,
+LINE 145: turning to me with his post-office elongated. "They don't mind what
+LINE 146: they ask of me, the subordinate; but you'll never catch 'em asking any
+LINE 147: questions of my principal."
+LINE 148: "Is this young gentleman one of the 'prentices or articled ones of your
+LINE 149: office?" asked the turnkey, with a grin at Mr. Wemmick's humour.
+LINE 150: "There he goes again, you see!" cried Wemmick, "I told you so! Asks
+LINE 151: another question of the subordinate before his first is dry! Well,
+LINE 152: supposing Mr. Pip is one of them?"
+LINE 153: "Why then," said the turnkey, grinning again, "he knows what Mr.
+LINE 154: Jaggers is."
+LINE 155: "Yah!" cried Wemmick, suddenly hitting out at the turnkey in a
+LINE 156: facetious way, "you're dumb as one of your own keys when you have to do
+LINE 157: with my principal, you know you are. Let us out, you old fox, or I'll
+LINE 158: get him to bring an action against you for false imprisonment."
+LINE 159: The turnkey laughed, and gave us good day, and stood laughing at us
+LINE 160: over the spikes of the wicket when we descended the steps into the
+LINE 161: street.
+LINE 162: "Mind you, Mr. Pip," said Wemmick, gravely in my ear, as he took my arm
+LINE 163: to be more confidential; "I don't know that Mr. Jaggers does a better
+LINE 164: thing than the way in which he keeps himself so high. He's always so
+LINE 165: high. His constant height is of a piece with his immense abilities.
+LINE 166: That Colonel durst no more take leave of _him_, than that turnkey durst
+LINE 167: ask him his intentions respecting a case. Then, between his height and
+LINE 168: them, he slips in his subordinate,—don't you see?—and so he has 'em,
+LINE 169: soul and body."
+LINE 170: I was very much impressed, and not for the first time, by my guardian's
+LINE 171: subtlety. To confess the truth, I very heartily wished, and not for the
+LINE 172: first time, that I had had some other guardian of minor abilities.
+LINE 173: Mr. Wemmick and I parted at the office in Little Britain, where
+LINE 174: suppliants for Mr. Jaggers's notice were lingering about as usual, and
+LINE 175: I returned to my watch in the street of the coach-office, with some
+LINE 176: three hours on hand. I consumed the whole time in thinking how strange
+LINE 177: it was that I should be encompassed by all this taint of prison and
+LINE 178: crime; that, in my childhood out on our lonely marshes on a winter
+LINE 179: evening, I should have first encountered it; that, it should have
+LINE 180: reappeared on two occasions, starting out like a stain that was faded
+LINE 181: but not gone; that, it should in this new way pervade my fortune and
+LINE 182: advancement. While my mind was thus engaged, I thought of the beautiful
+LINE 183: young Estella, proud and refined, coming towards me, and I thought with
+LINE 184: absolute abhorrence of the contrast between the jail and her. I wished
+LINE 185: that Wemmick had not met me, or that I had not yielded to him and gone
+LINE 186: with him, so that, of all days in the year on this day, I might not
+LINE 187: have had Newgate in my breath and on my clothes. I beat the prison dust
+LINE 188: off my feet as I sauntered to and fro, and I shook it out of my dress,
+LINE 189: and I exhaled its air from my lungs. So contaminated did I feel,
+LINE 190: remembering who was coming, that the coach came quickly after all, and
+LINE 191: I was not yet free from the soiling consciousness of Mr. Wemmick's
+LINE 192: conservatory, when I saw her face at the coach window and her hand
+LINE 193: waving to me.
+LINE 194: What _was_ the nameless shadow which again in that one instant had
+LINE 195: passed?

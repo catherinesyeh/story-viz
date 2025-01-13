@@ -1,0 +1,314 @@
+LINE 1: Even with eyes protected by the green spectacles, Dorothy and her
+LINE 2: friends were at first dazzled by the brilliancy of the wonderful City.
+LINE 3: The streets were lined with beautiful houses all built of green marble
+LINE 4: and studded everywhere with sparkling emeralds. They walked over a
+LINE 5: pavement of the same green marble, and where the blocks were joined
+LINE 6: together were rows of emeralds, set closely, and glittering in the
+LINE 7: brightness of the sun. The window panes were of green glass; even the
+LINE 8: sky above the City had a green tint, and the rays of the sun were
+LINE 9: green.
+LINE 10: There were many people—men, women, and children—walking about, and
+LINE 11: these were all dressed in green clothes and had greenish skins. They
+LINE 12: looked at Dorothy and her strangely assorted company with wondering
+LINE 13: eyes, and the children all ran away and hid behind their mothers when
+LINE 14: they saw the Lion; but no one spoke to them. Many shops stood in the
+LINE 15: street, and Dorothy saw that everything in them was green. Green candy
+LINE 16: and green pop corn were offered for sale, as well as green shoes, green
+LINE 17: hats, and green clothes of all sorts. At one place a man was selling
+LINE 18: green lemonade, and when the children bought it Dorothy could see that
+LINE 19: they paid for it with green pennies.
+LINE 20: There seemed to be no horses nor animals of any kind; the men carried
+LINE 21: things around in little green carts, which they pushed before them.
+LINE 22: Everyone seemed happy and contented and prosperous.
+LINE 23: The Guardian of the Gates led them through the streets until they came
+LINE 24: to a big building, exactly in the middle of the City, which was the
+LINE 25: Palace of Oz, the Great Wizard. There was a soldier before the door,
+LINE 26: dressed in a green uniform and wearing a long green beard.
+LINE 27: "Here are strangers," said the Guardian of the Gates to him, "and they
+LINE 28: demand to see the Great Oz."
+LINE 29: "Step inside," answered the soldier, "and I will carry your message to
+LINE 30: him."
+LINE 31: So they passed through the Palace Gates and were led into a big room
+LINE 32: with a green carpet and lovely green furniture set with emeralds. The
+LINE 33: soldier made them all wipe their feet upon a green mat before entering
+LINE 34: this room, and when they were seated he said politely:
+LINE 35: "Please make yourselves comfortable while I go to the door of the
+LINE 36: Throne Room and tell Oz you are here."
+LINE 37: They had to wait a long time before the soldier returned. When, at
+LINE 38: last, he came back, Dorothy asked:
+LINE 39: "Have you seen Oz?"
+LINE 40: "Oh, no," returned the soldier; "I have never seen him. But I spoke to
+LINE 41: him as he sat behind his screen and gave him your message. He said he
+LINE 42: will grant you an audience, if you so desire; but each one of you must
+LINE 43: enter his presence alone, and he will admit but one each day.
+LINE 44: Therefore, as you must remain in the Palace for several days, I will
+LINE 45: have you shown to rooms where you may rest in comfort after your
+LINE 46: journey."
+LINE 47: "Thank you," replied the girl; "that is very kind of Oz."
+LINE 48: The soldier now blew upon a green whistle, and at once a young girl,
+LINE 49: dressed in a pretty green silk gown, entered the room. She had lovely
+LINE 50: green hair and green eyes, and she bowed low before Dorothy as she
+LINE 51: said, "Follow me and I will show you your room."
+LINE 52: So Dorothy said good-bye to all her friends except Toto, and taking the
+LINE 53: dog in her arms followed the green girl through seven passages and up
+LINE 54: three flights of stairs until they came to a room at the front of the
+LINE 55: Palace. It was the sweetest little room in the world, with a soft
+LINE 56: comfortable bed that had sheets of green silk and a green velvet
+LINE 57: counterpane. There was a tiny fountain in the middle of the room, that
+LINE 58: shot a spray of green perfume into the air, to fall back into a
+LINE 59: beautifully carved green marble basin. Beautiful green flowers stood in
+LINE 60: the windows, and there was a shelf with a row of little green books.
+LINE 61: When Dorothy had time to open these books she found them full of queer
+LINE 62: green pictures that made her laugh, they were so funny.
+LINE 63: In a wardrobe were many green dresses, made of silk and satin and
+LINE 64: velvet; and all of them fitted Dorothy exactly.
+LINE 65: "Make yourself perfectly at home," said the green girl, "and if you
+LINE 66: wish for anything ring the bell. Oz will send for you tomorrow
+LINE 67: morning."
+LINE 68: She left Dorothy alone and went back to the others. These she also led
+LINE 69: to rooms, and each one of them found himself lodged in a very pleasant
+LINE 70: part of the Palace. Of course this politeness was wasted on the
+LINE 71: Scarecrow; for when he found himself alone in his room he stood
+LINE 72: stupidly in one spot, just within the doorway, to wait till morning. It
+LINE 73: would not rest him to lie down, and he could not close his eyes; so he
+LINE 74: remained all night staring at a little spider which was weaving its web
+LINE 75: in a corner of the room, just as if it were not one of the most
+LINE 76: wonderful rooms in the world. The Tin Woodman lay down on his bed from
+LINE 77: force of habit, for he remembered when he was made of flesh; but not
+LINE 78: being able to sleep, he passed the night moving his joints up and down
+LINE 79: to make sure they kept in good working order. The Lion would have
+LINE 80: preferred a bed of dried leaves in the forest, and did not like being
+LINE 81: shut up in a room; but he had too much sense to let this worry him, so
+LINE 82: he sprang upon the bed and rolled himself up like a cat and purred
+LINE 83: himself asleep in a minute.
+LINE 84: The next morning, after breakfast, the green maiden came to fetch
+LINE 85: Dorothy, and she dressed her in one of the prettiest gowns, made of
+LINE 86: green brocaded satin. Dorothy put on a green silk apron and tied a
+LINE 87: green ribbon around Toto's neck, and they started for the Throne Room
+LINE 88: of the Great Oz.
+LINE 89: First they came to a great hall in which were many ladies and gentlemen
+LINE 90: of the court, all dressed in rich costumes. These people had nothing to
+LINE 91: do but talk to each other, but they always came to wait outside the
+LINE 92: Throne Room every morning, although they were never permitted to see
+LINE 93: Oz. As Dorothy entered they looked at her curiously, and one of them
+LINE 94: whispered:
+LINE 95: "Are you really going to look upon the face of Oz the Terrible?"
+LINE 96: "Of course," answered the girl, "if he will see me."
+LINE 97: "Oh, he will see you," said the soldier who had taken her message to
+LINE 98: the Wizard, "although he does not like to have people ask to see him.
+LINE 99: Indeed, at first he was angry and said I should send you back where you
+LINE 100: came from. Then he asked me what you looked like, and when I mentioned
+LINE 101: your silver shoes he was very much interested. At last I told him about
+LINE 102: the mark upon your forehead, and he decided he would admit you to his
+LINE 103: presence."
+LINE 104: Just then a bell rang, and the green girl said to Dorothy, "That is the
+LINE 105: signal. You must go into the Throne Room alone."
+LINE 106: She opened a little door and Dorothy walked boldly through and found
+LINE 107: herself in a wonderful place. It was a big, round room with a high
+LINE 108: arched roof, and the walls and ceiling and floor were covered with
+LINE 109: large emeralds set closely together. In the center of the roof was a
+LINE 110: great light, as bright as the sun, which made the emeralds sparkle in a
+LINE 111: wonderful manner.
+LINE 112: But what interested Dorothy most was the big throne of green marble
+LINE 113: that stood in the middle of the room. It was shaped like a chair and
+LINE 114: sparkled with gems, as did everything else. In the center of the chair
+LINE 115: was an enormous Head, without a body to support it or any arms or legs
+LINE 116: whatever. There was no hair upon this head, but it had eyes and a nose
+LINE 117: and mouth, and was much bigger than the head of the biggest giant.
+LINE 118: As Dorothy gazed upon this in wonder and fear, the eyes turned slowly
+LINE 119: and looked at her sharply and steadily. Then the mouth moved, and
+LINE 120: Dorothy heard a voice say:
+LINE 121: "I am Oz, the Great and Terrible. Who are you, and why do you seek me?"
+LINE 122: It was not such an awful voice as she had expected to come from the big
+LINE 123: Head; so she took courage and answered:
+LINE 124: "I am Dorothy, the Small and Meek. I have come to you for help."
+LINE 125: The eyes looked at her thoughtfully for a full minute. Then said the
+LINE 126: voice:
+LINE 127: "Where did you get the silver shoes?"
+LINE 128: "I got them from the Wicked Witch of the East, when my house fell on
+LINE 129: her and killed her," she replied.
+LINE 130: "Where did you get the mark upon your forehead?" continued the voice.
+LINE 131: "That is where the Good Witch of the North kissed me when she bade me
+LINE 132: good-bye and sent me to you," said the girl.
+LINE 133: Again the eyes looked at her sharply, and they saw she was telling the
+LINE 134: truth. Then Oz asked, "What do you wish me to do?"
+LINE 135: "Send me back to Kansas, where my Aunt Em and Uncle Henry are," she
+LINE 136: answered earnestly. "I don't like your country, although it is so
+LINE 137: beautiful. And I am sure Aunt Em will be dreadfully worried over my
+LINE 138: being away so long."
+LINE 139: The eyes winked three times, and then they turned up to the ceiling and
+LINE 140: down to the floor and rolled around so queerly that they seemed to see
+LINE 141: every part of the room. And at last they looked at Dorothy again.
+LINE 142: "Why should I do this for you?" asked Oz.
+LINE 143: "Because you are strong and I am weak; because you are a Great Wizard
+LINE 144: and I am only a little girl."
+LINE 145: "But you were strong enough to kill the Wicked Witch of the East," said
+LINE 146: Oz.
+LINE 147: "That just happened," returned Dorothy simply; "I could not help it."
+LINE 148: "Well," said the Head, "I will give you my answer. You have no right to
+LINE 149: expect me to send you back to Kansas unless you do something for me in
+LINE 150: return. In this country everyone must pay for everything he gets. If
+LINE 151: you wish me to use my magic power to send you home again you must do
+LINE 152: something for me first. Help me and I will help you."
+LINE 153: "What must I do?" asked the girl.
+LINE 154: "Kill the Wicked Witch of the West," answered Oz.
+LINE 155: "But I cannot!" exclaimed Dorothy, greatly surprised.
+LINE 156: "You killed the Witch of the East and you wear the silver shoes, which
+LINE 157: bear a powerful charm. There is now but one Wicked Witch left in all
+LINE 158: this land, and when you can tell me she is dead I will send you back to
+LINE 159: Kansas—but not before."
+LINE 160: The little girl began to weep, she was so much disappointed; and the
+LINE 161: eyes winked again and looked upon her anxiously, as if the Great Oz
+LINE 162: felt that she could help him if she would.
+LINE 163: "I never killed anything, willingly," she sobbed. "Even if I wanted to,
+LINE 164: how could I kill the Wicked Witch? If you, who are Great and Terrible,
+LINE 165: cannot kill her yourself, how do you expect me to do it?"
+LINE 166: "I do not know," said the Head; "but that is my answer, and until the
+LINE 167: Wicked Witch dies you will not see your uncle and aunt again. Remember
+LINE 168: that the Witch is Wicked—tremendously Wicked—and ought to be killed.
+LINE 169: Now go, and do not ask to see me again until you have done your task."
+LINE 170: Sorrowfully Dorothy left the Throne Room and went back where the Lion
+LINE 171: and the Scarecrow and the Tin Woodman were waiting to hear what Oz had
+LINE 172: said to her. "There is no hope for me," she said sadly, "for Oz will
+LINE 173: not send me home until I have killed the Wicked Witch of the West; and
+LINE 174: that I can never do."
+LINE 175: Her friends were sorry, but could do nothing to help her; so Dorothy
+LINE 176: went to her own room and lay down on the bed and cried herself to
+LINE 177: sleep.
+LINE 178: The next morning the soldier with the green whiskers came to the
+LINE 179: Scarecrow and said:
+LINE 180: "Come with me, for Oz has sent for you."
+LINE 181: So the Scarecrow followed him and was admitted into the great Throne
+LINE 182: Room, where he saw, sitting in the emerald throne, a most lovely Lady.
+LINE 183: She was dressed in green silk gauze and wore upon her flowing green
+LINE 184: locks a crown of jewels. Growing from her shoulders were wings,
+LINE 185: gorgeous in color and so light that they fluttered if the slightest
+LINE 186: breath of air reached them.
+LINE 187: When the Scarecrow had bowed, as prettily as his straw stuffing would
+LINE 188: let him, before this beautiful creature, she looked upon him sweetly,
+LINE 189: and said:
+LINE 190: "I am Oz, the Great and Terrible. Who are you, and why do you seek me?"
+LINE 191: Now the Scarecrow, who had expected to see the great Head Dorothy had
+LINE 192: told him of, was much astonished; but he answered her bravely.
+LINE 193: "I am only a Scarecrow, stuffed with straw. Therefore I have no brains,
+LINE 194: and I come to you praying that you will put brains in my head instead
+LINE 195: of straw, so that I may become as much a man as any other in your
+LINE 196: dominions."
+LINE 197: "Why should I do this for you?" asked the Lady.
+LINE 198: "Because you are wise and powerful, and no one else can help me,"
+LINE 199: answered the Scarecrow.
+LINE 200: "I never grant favors without some return," said Oz; "but this much I
+LINE 201: will promise. If you will kill for me the Wicked Witch of the West, I
+LINE 202: will bestow upon you a great many brains, and such good brains that you
+LINE 203: will be the wisest man in all the Land of Oz."
+LINE 204: "I thought you asked Dorothy to kill the Witch," said the Scarecrow, in
+LINE 205: surprise.
+LINE 206: "So I did. I don't care who kills her. But until she is dead I will not
+LINE 207: grant your wish. Now go, and do not seek me again until you have earned
+LINE 208: the brains you so greatly desire."
+LINE 209: The Scarecrow went sorrowfully back to his friends and told them what
+LINE 210: Oz had said; and Dorothy was surprised to find that the Great Wizard
+LINE 211: was not a Head, as she had seen him, but a lovely Lady.
+LINE 212: "All the same," said the Scarecrow, "she needs a heart as much as the
+LINE 213: Tin Woodman."
+LINE 214: On the next morning the soldier with the green whiskers came to the Tin
+LINE 215: Woodman and said:
+LINE 216: "Oz has sent for you. Follow me."
+LINE 217: So the Tin Woodman followed him and came to the great Throne Room. He
+LINE 218: did not know whether he would find Oz a lovely Lady or a Head, but he
+LINE 219: hoped it would be the lovely Lady. "For," he said to himself, "if it is
+LINE 220: the head, I am sure I shall not be given a heart, since a head has no
+LINE 221: heart of its own and therefore cannot feel for me. But if it is the
+LINE 222: lovely Lady I shall beg hard for a heart, for all ladies are themselves
+LINE 223: said to be kindly hearted."
+LINE 224: But when the Woodman entered the great Throne Room he saw neither the
+LINE 225: Head nor the Lady, for Oz had taken the shape of a most terrible Beast.
+LINE 226: It was nearly as big as an elephant, and the green throne seemed hardly
+LINE 227: strong enough to hold its weight. The Beast had a head like that of a
+LINE 228: rhinoceros, only there were five eyes in its face. There were five long
+LINE 229: arms growing out of its body, and it also had five long, slim legs.
+LINE 230: Thick, woolly hair covered every part of it, and a more
+LINE 231: dreadful-looking monster could not be imagined. It was fortunate the
+LINE 232: Tin Woodman had no heart at that moment, for it would have beat loud
+LINE 233: and fast from terror. But being only tin, the Woodman was not at all
+LINE 234: afraid, although he was much disappointed.
+LINE 235: "I am Oz, the Great and Terrible," spoke the Beast, in a voice that was
+LINE 236: one great roar. "Who are you, and why do you seek me?"
+LINE 237: "I am a Woodman, and made of tin. Therefore I have no heart, and cannot
+LINE 238: love. I pray you to give me a heart that I may be as other men are."
+LINE 239: "Why should I do this?" demanded the Beast.
+LINE 240: "Because I ask it, and you alone can grant my request," answered the
+LINE 241: Woodman.
+LINE 242: Oz gave a low growl at this, but said, gruffly: "If you indeed desire a
+LINE 243: heart, you must earn it."
+LINE 244: "How?" asked the Woodman.
+LINE 245: "Help Dorothy to kill the Wicked Witch of the West," replied the Beast.
+LINE 246: "When the Witch is dead, come to me, and I will then give you the
+LINE 247: biggest and kindest and most loving heart in all the Land of Oz."
+LINE 248: So the Tin Woodman was forced to return sorrowfully to his friends and
+LINE 249: tell them of the terrible Beast he had seen. They all wondered greatly
+LINE 250: at the many forms the Great Wizard could take upon himself, and the
+LINE 251: Lion said:
+LINE 252: "If he is a Beast when I go to see him, I shall roar my loudest, and so
+LINE 253: frighten him that he will grant all I ask. And if he is the lovely
+LINE 254: Lady, I shall pretend to spring upon her, and so compel her to do my
+LINE 255: bidding. And if he is the great Head, he will be at my mercy; for I
+LINE 256: will roll this head all about the room until he promises to give us
+LINE 257: what we desire. So be of good cheer, my friends, for all will yet be
+LINE 258: well."
+LINE 259: The next morning the soldier with the green whiskers led the Lion to
+LINE 260: the great Throne Room and bade him enter the presence of Oz.
+LINE 261: The Lion at once passed through the door, and glancing around saw, to
+LINE 262: his surprise, that before the throne was a Ball of Fire, so fierce and
+LINE 263: glowing he could scarcely bear to gaze upon it. His first thought was
+LINE 264: that Oz had by accident caught on fire and was burning up; but when he
+LINE 265: tried to go nearer, the heat was so intense that it singed his
+LINE 266: whiskers, and he crept back tremblingly to a spot nearer the door.
+LINE 267: Then a low, quiet voice came from the Ball of Fire, and these were the
+LINE 268: words it spoke:
+LINE 269: "I am Oz, the Great and Terrible. Who are you, and why do you seek me?"
+LINE 270: And the Lion answered, "I am a Cowardly Lion, afraid of everything. I
+LINE 271: came to you to beg that you give me courage, so that in reality I may
+LINE 272: become the King of Beasts, as men call me."
+LINE 273: "Why should I give you courage?" demanded Oz.
+LINE 274: "Because of all Wizards you are the greatest, and alone have power to
+LINE 275: grant my request," answered the Lion.
+LINE 276: The Ball of Fire burned fiercely for a time, and the voice said, "Bring
+LINE 277: me proof that the Wicked Witch is dead, and that moment I will give you
+LINE 278: courage. But as long as the Witch lives, you must remain a coward."
+LINE 279: The Lion was angry at this speech, but could say nothing in reply, and
+LINE 280: while he stood silently gazing at the Ball of Fire it became so
+LINE 281: furiously hot that he turned tail and rushed from the room. He was glad
+LINE 282: to find his friends waiting for him, and told them of his terrible
+LINE 283: interview with the Wizard.
+LINE 284: "What shall we do now?" asked Dorothy sadly.
+LINE 285: "There is only one thing we can do," returned the Lion, "and that is to
+LINE 286: go to the land of the Winkies, seek out the Wicked Witch, and destroy
+LINE 287: her."
+LINE 288: "But suppose we cannot?" said the girl.
+LINE 289: "Then I shall never have courage," declared the Lion.
+LINE 290: "And I shall never have brains," added the Scarecrow.
+LINE 291: "And I shall never have a heart," spoke the Tin Woodman.
+LINE 292: "And I shall never see Aunt Em and Uncle Henry," said Dorothy,
+LINE 293: beginning to cry.
+LINE 294: "Be careful!" cried the green girl. "The tears will fall on your green
+LINE 295: silk gown and spot it."
+LINE 296: So Dorothy dried her eyes and said, "I suppose we must try it; but I am
+LINE 297: sure I do not want to kill anybody, even to see Aunt Em again."
+LINE 298: "I will go with you; but I'm too much of a coward to kill the Witch,"
+LINE 299: said the Lion.
+LINE 300: "I will go too," declared the Scarecrow; "but I shall not be of much
+LINE 301: help to you, I am such a fool."
+LINE 302: "I haven't the heart to harm even a Witch," remarked the Tin Woodman;
+LINE 303: "but if you go I certainly shall go with you."
+LINE 304: Therefore it was decided to start upon their journey the next morning,
+LINE 305: and the Woodman sharpened his axe on a green grindstone and had all his
+LINE 306: joints properly oiled. The Scarecrow stuffed himself with fresh straw
+LINE 307: and Dorothy put new paint on his eyes that he might see better. The
+LINE 308: green girl, who was very kind to them, filled Dorothy's basket with
+LINE 309: good things to eat, and fastened a little bell around Toto's neck with
+LINE 310: a green ribbon.
+LINE 311: They went to bed quite early and slept soundly until daylight, when
+LINE 312: they were awakened by the crowing of a green cock that lived in the
+LINE 313: back yard of the Palace, and the cackling of a hen that had laid a
+LINE 314: green egg.

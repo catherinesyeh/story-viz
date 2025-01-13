@@ -1,0 +1,98 @@
+LINE 1: During dinner, Mr. Bennet scarcely spoke at all; but when the servants
+LINE 2: were withdrawn, he thought it time to have some conversation with his
+LINE 3: guest, and therefore started a subject in which he expected him to
+LINE 4: shine, by observing that he seemed very fortunate in his patroness. Lady
+LINE 5: Catherine de Bourgh's attention to his wishes, and consideration for his
+LINE 6: comfort, appeared very remarkable. Mr. Bennet could not have chosen
+LINE 7: better. Mr. Collins was eloquent in her praise. The subject elevated him
+LINE 8: to more than usual solemnity of manner, and with a most important aspect
+LINE 9: he protested that he had never in his life witnessed such behaviour in a
+LINE 10: person of rank--such affability and condescension, as he had himself
+LINE 11: experienced from Lady Catherine. She had been graciously pleased to
+LINE 12: approve of both the discourses, which he had already had the honour of
+LINE 13: preaching before her. She had also asked him twice to dine at Rosings,
+LINE 14: and had sent for him only the Saturday before, to make up her pool of
+LINE 15: quadrille in the evening. Lady Catherine was reckoned proud by many
+LINE 16: people he knew, but _he_ had never seen any thing but affability in her.
+LINE 17: She had always spoken to him as she would to any other gentleman; she
+LINE 18: made not the smallest objection to his joining in the society of the
+LINE 19: neighbourhood, nor to his leaving his parish occasionally for a week or
+LINE 20: two, to visit his relations. She had even condescended to advise him to
+LINE 21: marry as soon as he could, provided he chose with discretion; and had
+LINE 22: once paid him a visit in his humble parsonage; where she had perfectly
+LINE 23: approved all the alterations he had been making, and had even vouchsafed
+LINE 24: to suggest some herself,--some shelves in the closets up stairs.
+LINE 25: "That is all very proper and civil, I am sure," said Mrs. Bennet, "and I
+LINE 26: dare say she is a very agreeable woman. It is a pity that great ladies
+LINE 27: in general are not more like her. Does she live near you, sir?"
+LINE 28: "The garden in which stands my humble abode, is separated only by a lane
+LINE 29: from Rosings Park, her ladyship's residence."
+LINE 30: "I think you said she was a widow, sir? has she any family?"
+LINE 31: "She has one only daughter, the heiress of Rosings, and of very
+LINE 32: extensive property."
+LINE 33: "Ah!" cried Mrs. Bennet, shaking her head, "then she is better off than
+LINE 34: many girls. And what sort of young lady is she? is she handsome?"
+LINE 35: "She is a most charming young lady indeed. Lady Catherine herself says
+LINE 36: that in point of true beauty, Miss De Bourgh is far superior to the
+LINE 37: handsomest of her sex; because there is that in her features which marks
+LINE 38: the young woman of distinguished birth. She is unfortunately of a sickly
+LINE 39: constitution, which has prevented her making that progress in many
+LINE 40: accomplishments, which she could not otherwise have failed of; as I am
+LINE 41: informed by the lady who superintended her education, and who still
+LINE 42: resides with them. But she is perfectly amiable, and often condescends
+LINE 43: to drive by my humble abode in her little phaeton and ponies."
+LINE 44: "Has she been presented? I do not remember her name among the ladies at
+LINE 45: court."
+LINE 46: "Her indifferent state of health unhappily prevents her being in town;
+LINE 47: and by that means, as I told Lady Catherine myself one day, has deprived
+LINE 48: the British court of its brightest ornament. Her ladyship seemed pleased
+LINE 49: with the idea, and you may imagine that I am happy on every occasion to
+LINE 50: offer those little delicate compliments which are always acceptable to
+LINE 51: ladies. I have more than once observed to Lady Catherine, that her
+LINE 52: charming daughter seemed born to be a duchess, and that the most
+LINE 53: elevated rank, instead of giving her consequence, would be adorned by
+LINE 54: her.--These are the kind of little things which please her ladyship, and
+LINE 55: it is a sort of attention which I conceive myself peculiarly bound to
+LINE 56: pay."
+LINE 57: "You judge very properly," said Mr. Bennet, "and it is happy for you
+LINE 58: that you possess the talent of flattering with delicacy. May I ask
+LINE 59: whether these pleasing attentions proceed from the impulse of the
+LINE 60: moment, or are the result of previous study?"
+LINE 61: "They arise chiefly from what is passing at the time, and though I
+LINE 62: sometimes amuse myself with suggesting and arranging such little elegant
+LINE 63: compliments as may be adapted to ordinary occasions, I always wish to
+LINE 64: give them as unstudied an air as possible."
+LINE 65: Mr. Bennet's expectations were fully answered. His cousin was as absurd
+LINE 66: as he had hoped, and he listened to him with the keenest enjoyment,
+LINE 67: maintaining at the same time the most resolute composure of countenance,
+LINE 68: and except in an occasional glance at Elizabeth, requiring no partner in
+LINE 69: his pleasure.
+LINE 70: By tea-time however the dose had been enough, and Mr. Bennet was glad to
+LINE 71: take his guest into the drawing-room again, and when tea was over, glad
+LINE 72: to invite him to read aloud to the ladies. Mr. Collins readily assented,
+LINE 73: and a book was produced; but on beholding it, (for every thing announced
+LINE 74: it to be from a circulating library,) he started back, and begging
+LINE 75: pardon, protested that he never read novels.--Kitty stared at him, and
+LINE 76: Lydia exclaimed.--Other books were produced, and after some deliberation
+LINE 77: he chose Fordyce's Sermons. Lydia gaped as he opened the volume, and
+LINE 78: before he had, with very monotonous solemnity, read three pages, she
+LINE 79: interrupted him with,
+LINE 80: "Do you know, mama, that my uncle Philips talks of turning away Richard,
+LINE 81: and if he does, Colonel Forster will hire him. My aunt told me so
+LINE 82: herself on Saturday. I shall walk to Meryton to-morrow to hear more
+LINE 83: about it, and to ask when Mr. Denny comes back from town."
+LINE 84: Lydia was bid by her two eldest sisters to hold her tongue; but Mr.
+LINE 85: Collins, much offended, laid aside his book, and said,
+LINE 86: "I have often observed how little young ladies are interested by books
+LINE 87: of a serious stamp, though written solely for their benefit. It amazes
+LINE 88: me, I confess;--for certainly, there can be nothing so advantageous to
+LINE 89: them as instruction. But I will no longer importune my young cousin."
+LINE 90: Then turning to Mr. Bennet, he offered himself as his antagonist at
+LINE 91: backgammon. Mr. Bennet accepted the challenge, observing that he acted
+LINE 92: very wisely in leaving the girls to their own trifling amusements. Mrs.
+LINE 93: Bennet and her daughters apologised most civilly for Lydia's
+LINE 94: interruption, and promised that it should not occur again, if he would
+LINE 95: resume his book; but Mr. Collins, after assuring them that he bore his
+LINE 96: young cousin no ill will, and should never resent her behaviour as any
+LINE 97: affront, seated himself at another table with Mr. Bennet, and prepared
+LINE 98: for backgammon.

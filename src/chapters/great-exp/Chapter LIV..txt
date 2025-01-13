@@ -1,0 +1,475 @@
+LINE 1: It was one of those March days when the sun shines hot and the wind
+LINE 2: blows cold: when it is summer in the light, and winter in the shade. We
+LINE 3: had our pea-coats with us, and I took a bag. Of all my worldly
+LINE 4: possessions I took no more than the few necessaries that filled the
+LINE 5: bag. Where I might go, what I might do, or when I might return, were
+LINE 6: questions utterly unknown to me; nor did I vex my mind with them, for
+LINE 7: it was wholly set on Provis's safety. I only wondered for the passing
+LINE 8: moment, as I stopped at the door and looked back, under what altered
+LINE 9: circumstances I should next see those rooms, if ever.
+LINE 10: We loitered down to the Temple stairs, and stood loitering there, as if
+LINE 11: we were not quite decided to go upon the water at all. Of course, I had
+LINE 12: taken care that the boat should be ready and everything in order. After
+LINE 13: a little show of indecision, which there were none to see but the two
+LINE 14: or three amphibious creatures belonging to our Temple stairs, we went
+LINE 15: on board and cast off; Herbert in the bow, I steering. It was then
+LINE 16: about high-water,—half-past eight.
+LINE 17: Our plan was this. The tide, beginning to run down at nine, and being
+LINE 18: with us until three, we intended still to creep on after it had turned,
+LINE 19: and row against it until dark. We should then be well in those long
+LINE 20: reaches below Gravesend, between Kent and Essex, where the river is
+LINE 21: broad and solitary, where the water-side inhabitants are very few, and
+LINE 22: where lone public-houses are scattered here and there, of which we
+LINE 23: could choose one for a resting-place. There, we meant to lie by all
+LINE 24: night. The steamer for Hamburg and the steamer for Rotterdam would
+LINE 25: start from London at about nine on Thursday morning. We should know at
+LINE 26: what time to expect them, according to where we were, and would hail
+LINE 27: the first; so that, if by any accident we were not taken abroad, we
+LINE 28: should have another chance. We knew the distinguishing marks of each
+LINE 29: vessel.
+LINE 30: The relief of being at last engaged in the execution of the purpose was
+LINE 31: so great to me that I felt it difficult to realise the condition in
+LINE 32: which I had been a few hours before. The crisp air, the sunlight, the
+LINE 33: movement on the river, and the moving river itself,—the road that ran
+LINE 34: with us, seeming to sympathise with us, animate us, and encourage us
+LINE 35: on,—freshened me with new hope. I felt mortified to be of so little use
+LINE 36: in the boat; but, there were few better oarsmen than my two friends,
+LINE 37: and they rowed with a steady stroke that was to last all day.
+LINE 38: At that time, the steam-traffic on the Thames was far below its present
+LINE 39: extent, and watermen's boats were far more numerous. Of barges, sailing
+LINE 40: colliers, and coasting-traders, there were perhaps, as many as now; but
+LINE 41: of steam-ships, great and small, not a tithe or a twentieth part so
+LINE 42: many. Early as it was, there were plenty of scullers going here and
+LINE 43: there that morning, and plenty of barges dropping down with the tide;
+LINE 44: the navigation of the river between bridges, in an open boat, was a
+LINE 45: much easier and commoner matter in those days than it is in these; and
+LINE 46: we went ahead among many skiffs and wherries briskly.
+LINE 47: Old London Bridge was soon passed, and old Billingsgate Market with its
+LINE 48: oyster-boats and Dutchmen, and the White Tower and Traitor's Gate, and
+LINE 49: we were in among the tiers of shipping. Here were the Leith, Aberdeen,
+LINE 50: and Glasgow steamers, loading and unloading goods, and looking
+LINE 51: immensely high out of the water as we passed alongside; here, were
+LINE 52: colliers by the score and score, with the coal-whippers plunging off
+LINE 53: stages on deck, as counterweights to measures of coal swinging up,
+LINE 54: which were then rattled over the side into barges; here, at her
+LINE 55: moorings was to-morrow's steamer for Rotterdam, of which we took good
+LINE 56: notice; and here to-morrow's for Hamburg, under whose bowsprit we
+LINE 57: crossed. And now I, sitting in the stern, could see, with a faster
+LINE 58: beating heart, Mill Pond Bank and Mill Pond stairs.
+LINE 59: "Is he there?" said Herbert.
+LINE 60: "Not yet."
+LINE 61: "Right! He was not to come down till he saw us. Can you see his
+LINE 62: signal?"
+LINE 63: "Not well from here; but I think I see it.—Now I see him! Pull both.
+LINE 64: Easy, Herbert. Oars!"
+LINE 65: We touched the stairs lightly for a single moment, and he was on board,
+LINE 66: and we were off again. He had a boat-cloak with him, and a black canvas
+LINE 67: bag; and he looked as like a river-pilot as my heart could have wished.
+LINE 68: "Dear boy!" he said, putting his arm on my shoulder, as he took his
+LINE 69: seat. "Faithful dear boy, well done. Thankye, thankye!"
+LINE 70: Again among the tiers of shipping, in and out, avoiding rusty
+LINE 71: chain-cables frayed hempen hawsers and bobbing buoys, sinking for the
+LINE 72: moment floating broken baskets, scattering floating chips of wood and
+LINE 73: shaving, cleaving floating scum of coal, in and out, under the
+LINE 74: figure-head of the _John of Sunderland_ making a speech to the winds
+LINE 75: (as is done by many Johns), and the _Betsy of Yarmouth_ with a firm
+LINE 76: formality of bosom and her knobby eyes starting two inches out of her
+LINE 77: head; in and out, hammers going in ship-builders' yards, saws going at
+LINE 78: timber, clashing engines going at things unknown, pumps going in leaky
+LINE 79: ships, capstans going, ships going out to sea, and unintelligible
+LINE 80: sea-creatures roaring curses over the bulwarks at respondent
+LINE 81: lightermen, in and out,—out at last upon the clearer river, where the
+LINE 82: ships' boys might take their fenders in, no longer fishing in troubled
+LINE 83: waters with them over the side, and where the festooned sails might fly
+LINE 84: out to the wind.
+LINE 85: At the stairs where we had taken him abroad, and ever since, I had
+LINE 86: looked warily for any token of our being suspected. I had seen none. We
+LINE 87: certainly had not been, and at that time as certainly we were not
+LINE 88: either attended or followed by any boat. If we had been waited on by
+LINE 89: any boat, I should have run in to shore, and have obliged her to go on,
+LINE 90: or to make her purpose evident. But we held our own without any
+LINE 91: appearance of molestation.
+LINE 92: He had his boat-cloak on him, and looked, as I have said, a natural
+LINE 93: part of the scene. It was remarkable (but perhaps the wretched life he
+LINE 94: had led accounted for it) that he was the least anxious of any of us.
+LINE 95: He was not indifferent, for he told me that he hoped to live to see his
+LINE 96: gentleman one of the best of gentlemen in a foreign country; he was not
+LINE 97: disposed to be passive or resigned, as I understood it; but he had no
+LINE 98: notion of meeting danger half way. When it came upon him, he confronted
+LINE 99: it, but it must come before he troubled himself.
+LINE 100: "If you knowed, dear boy," he said to me, "what it is to sit here
+LINE 101: alonger my dear boy and have my smoke, arter having been day by day
+LINE 102: betwixt four walls, you'd envy me. But you don't know what it is."
+LINE 103: "I think I know the delights of freedom," I answered.
+LINE 104: "Ah," said he, shaking his head gravely. "But you don't know it equal
+LINE 105: to me. You must have been under lock and key, dear boy, to know it
+LINE 106: equal to me,—but I ain't a-going to be low."
+LINE 107: It occurred to me as inconsistent, that, for any mastering idea, he
+LINE 108: should have endangered his freedom, and even his life. But I reflected
+LINE 109: that perhaps freedom without danger was too much apart from all the
+LINE 110: habit of his existence to be to him what it would be to another man. I
+LINE 111: was not far out, since he said, after smoking a little:—
+LINE 112: "You see, dear boy, when I was over yonder, t'other side the world, I
+LINE 113: was always a looking to this side; and it come flat to be there, for
+LINE 114: all I was a growing rich. Everybody knowed Magwitch, and Magwitch could
+LINE 115: come, and Magwitch could go, and nobody's head would be troubled about
+LINE 116: him. They ain't so easy concerning me here, dear boy,—wouldn't be,
+LINE 117: leastwise, if they knowed where I was."
+LINE 118: "If all goes well," said I, "you will be perfectly free and safe again
+LINE 119: within a few hours."
+LINE 120: "Well," he returned, drawing a long breath, "I hope so."
+LINE 121: "And think so?"
+LINE 122: He dipped his hand in the water over the boat's gunwale, and said,
+LINE 123: smiling with that softened air upon him which was not new to me:—
+LINE 124: "Ay, I s'pose I think so, dear boy. We'd be puzzled to be more quiet
+LINE 125: and easy-going than we are at present. But—it's a flowing so soft and
+LINE 126: pleasant through the water, p'raps, as makes me think it—I was a
+LINE 127: thinking through my smoke just then, that we can no more see to the
+LINE 128: bottom of the next few hours than we can see to the bottom of this
+LINE 129: river what I catches hold of. Nor yet we can't no more hold their tide
+LINE 130: than I can hold this. And it's run through my fingers and gone, you
+LINE 131: see!" holding up his dripping hand.
+LINE 132: "But for your face I should think you were a little despondent," said
+LINE 133: I.
+LINE 134: "Not a bit on it, dear boy! It comes of flowing on so quiet, and of
+LINE 135: that there rippling at the boat's head making a sort of a Sunday tune.
+LINE 136: Maybe I'm a growing a trifle old besides."
+LINE 137: He put his pipe back in his mouth with an undisturbed expression of
+LINE 138: face, and sat as composed and contented as if we were already out of
+LINE 139: England. Yet he was as submissive to a word of advice as if he had been
+LINE 140: in constant terror; for, when we ran ashore to get some bottles of beer
+LINE 141: into the boat, and he was stepping out, I hinted that I thought he
+LINE 142: would be safest where he was, and he said. "Do you, dear boy?" and
+LINE 143: quietly sat down again.
+LINE 144: The air felt cold upon the river, but it was a bright day, and the
+LINE 145: sunshine was very cheering. The tide ran strong, I took care to lose
+LINE 146: none of it, and our steady stroke carried us on thoroughly well. By
+LINE 147: imperceptible degrees, as the tide ran out, we lost more and more of
+LINE 148: the nearer woods and hills, and dropped lower and lower between the
+LINE 149: muddy banks, but the tide was yet with us when we were off Gravesend.
+LINE 150: As our charge was wrapped in his cloak, I purposely passed within a
+LINE 151: boat or two's length of the floating Custom House, and so out to catch
+LINE 152: the stream, alongside of two emigrant ships, and under the bows of a
+LINE 153: large transport with troops on the forecastle looking down at us. And
+LINE 154: soon the tide began to slacken, and the craft lying at anchor to swing,
+LINE 155: and presently they had all swung round, and the ships that were taking
+LINE 156: advantage of the new tide to get up to the Pool began to crowd upon us
+LINE 157: in a fleet, and we kept under the shore, as much out of the strength of
+LINE 158: the tide now as we could, standing carefully off from low shallows and
+LINE 159: mudbanks.
+LINE 160: Our oarsmen were so fresh, by dint of having occasionally let her drive
+LINE 161: with the tide for a minute or two, that a quarter of an hour's rest
+LINE 162: proved full as much as they wanted. We got ashore among some slippery
+LINE 163: stones while we ate and drank what we had with us, and looked about. It
+LINE 164: was like my own marsh country, flat and monotonous, and with a dim
+LINE 165: horizon; while the winding river turned and turned, and the great
+LINE 166: floating buoys upon it turned and turned, and everything else seemed
+LINE 167: stranded and still. For now the last of the fleet of ships was round
+LINE 168: the last low point we had headed; and the last green barge,
+LINE 169: straw-laden, with a brown sail, had followed; and some
+LINE 170: ballast-lighters, shaped like a child's first rude imitation of a boat,
+LINE 171: lay low in the mud; and a little squat shoal-lighthouse on open piles
+LINE 172: stood crippled in the mud on stilts and crutches; and slimy stakes
+LINE 173: stuck out of the mud, and slimy stones stuck out of the mud, and red
+LINE 174: landmarks and tidemarks stuck out of the mud, and an old landing-stage
+LINE 175: and an old roofless building slipped into the mud, and all about us was
+LINE 176: stagnation and mud.
+LINE 177: We pushed off again, and made what way we could. It was much harder
+LINE 178: work now, but Herbert and Startop persevered, and rowed and rowed and
+LINE 179: rowed until the sun went down. By that time the river had lifted us a
+LINE 180: little, so that we could see above the bank. There was the red sun, on
+LINE 181: the low level of the shore, in a purple haze, fast deepening into
+LINE 182: black; and there was the solitary flat marsh; and far away there were
+LINE 183: the rising grounds, between which and us there seemed to be no life,
+LINE 184: save here and there in the foreground a melancholy gull.
+LINE 185: As the night was fast falling, and as the moon, being past the full,
+LINE 186: would not rise early, we held a little council; a short one, for
+LINE 187: clearly our course was to lie by at the first lonely tavern we could
+LINE 188: find. So, they plied their oars once more, and I looked out for
+LINE 189: anything like a house. Thus we held on, speaking little, for four or
+LINE 190: five dull miles. It was very cold, and, a collier coming by us, with
+LINE 191: her galley-fire smoking and flaring, looked like a comfortable home.
+LINE 192: The night was as dark by this time as it would be until morning; and
+LINE 193: what light we had, seemed to come more from the river than the sky, as
+LINE 194: the oars in their dipping struck at a few reflected stars.
+LINE 195: At this dismal time we were evidently all possessed by the idea that we
+LINE 196: were followed. As the tide made, it flapped heavily at irregular
+LINE 197: intervals against the shore; and whenever such a sound came, one or
+LINE 198: other of us was sure to start, and look in that direction. Here and
+LINE 199: there, the set of the current had worn down the bank into a little
+LINE 200: creek, and we were all suspicious of such places, and eyed them
+LINE 201: nervously. Sometimes, "What was that ripple?" one of us would say in a
+LINE 202: low voice. Or another, "Is that a boat yonder?" And afterwards we would
+LINE 203: fall into a dead silence, and I would sit impatiently thinking with
+LINE 204: what an unusual amount of noise the oars worked in the thowels.
+LINE 205: At length we descried a light and a roof, and presently afterwards ran
+LINE 206: alongside a little causeway made of stones that had been picked up hard
+LINE 207: by. Leaving the rest in the boat, I stepped ashore, and found the light
+LINE 208: to be in a window of a public-house. It was a dirty place enough, and I
+LINE 209: dare say not unknown to smuggling adventurers; but there was a good
+LINE 210: fire in the kitchen, and there were eggs and bacon to eat, and various
+LINE 211: liquors to drink. Also, there were two double-bedded rooms,—"such as
+LINE 212: they were," the landlord said. No other company was in the house than
+LINE 213: the landlord, his wife, and a grizzled male creature, the "Jack" of the
+LINE 214: little causeway, who was as slimy and smeary as if he had been
+LINE 215: low-water mark too.
+LINE 216: With this assistant, I went down to the boat again, and we all came
+LINE 217: ashore, and brought out the oars, and rudder and boat-hook, and all
+LINE 218: else, and hauled her up for the night. We made a very good meal by the
+LINE 219: kitchen fire, and then apportioned the bedrooms: Herbert and Startop
+LINE 220: were to occupy one; I and our charge the other. We found the air as
+LINE 221: carefully excluded from both, as if air were fatal to life; and there
+LINE 222: were more dirty clothes and bandboxes under the beds than I should have
+LINE 223: thought the family possessed. But we considered ourselves well off,
+LINE 224: notwithstanding, for a more solitary place we could not have found.
+LINE 225: While we were comforting ourselves by the fire after our meal, the
+LINE 226: Jack—who was sitting in a corner, and who had a bloated pair of shoes
+LINE 227: on, which he had exhibited while we were eating our eggs and bacon, as
+LINE 228: interesting relics that he had taken a few days ago from the feet of a
+LINE 229: drowned seaman washed ashore—asked me if we had seen a four-oared
+LINE 230: galley going up with the tide? When I told him No, he said she must
+LINE 231: have gone down then, and yet she "took up too," when she left there.
+LINE 232: "They must ha' thought better on't for some reason or another," said
+LINE 233: the Jack, "and gone down."
+LINE 234: "A four-oared galley, did you say?" said I.
+LINE 235: "A four," said the Jack, "and two sitters."
+LINE 236: "Did they come ashore here?"
+LINE 237: "They put in with a stone two-gallon jar for some beer. I'd ha' been
+LINE 238: glad to pison the beer myself," said the Jack, "or put some rattling
+LINE 239: physic in it."
+LINE 240: "Why?"
+LINE 241: "_I_ know why," said the Jack. He spoke in a slushy voice, as if much
+LINE 242: mud had washed into his throat.
+LINE 243: "He thinks," said the landlord, a weakly meditative man with a pale
+LINE 244: eye, who seemed to rely greatly on his Jack,—"he thinks they was, what
+LINE 245: they wasn't."
+LINE 246: "_I_ knows what I thinks," observed the Jack.
+LINE 247: "_You_ thinks Custom 'Us, Jack?" said the landlord.
+LINE 248: "I do," said the Jack.
+LINE 249: "Then you're wrong, Jack."
+LINE 250: "AM I!"
+LINE 251: In the infinite meaning of his reply and his boundless confidence in
+LINE 252: his views, the Jack took one of his bloated shoes off, looked into it,
+LINE 253: knocked a few stones out of it on the kitchen floor, and put it on
+LINE 254: again. He did this with the air of a Jack who was so right that he
+LINE 255: could afford to do anything.
+LINE 256: "Why, what do you make out that they done with their buttons then,
+LINE 257: Jack?" asked the landlord, vacillating weakly.
+LINE 258: "Done with their buttons?" returned the Jack. "Chucked 'em overboard.
+LINE 259: Swallered 'em. Sowed 'em, to come up small salad. Done with their
+LINE 260: buttons!"
+LINE 261: "Don't be cheeky, Jack," remonstrated the landlord, in a melancholy and
+LINE 262: pathetic way.
+LINE 263: "A Custom 'Us officer knows what to do with his Buttons," said the
+LINE 264: Jack, repeating the obnoxious word with the greatest contempt, "when
+LINE 265: they comes betwixt him and his own light. A four and two sitters don't
+LINE 266: go hanging and hovering, up with one tide and down with another, and
+LINE 267: both with and against another, without there being Custom 'Us at the
+LINE 268: bottom of it." Saying which he went out in disdain; and the landlord,
+LINE 269: having no one to reply upon, found it impracticable to pursue the
+LINE 270: subject.
+LINE 271: This dialogue made us all uneasy, and me very uneasy. The dismal wind
+LINE 272: was muttering round the house, the tide was flapping at the shore, and
+LINE 273: I had a feeling that we were caged and threatened. A four-oared galley
+LINE 274: hovering about in so unusual a way as to attract this notice was an
+LINE 275: ugly circumstance that I could not get rid of. When I had induced
+LINE 276: Provis to go up to bed, I went outside with my two companions (Startop
+LINE 277: by this time knew the state of the case), and held another council.
+LINE 278: Whether we should remain at the house until near the steamer's time,
+LINE 279: which would be about one in the afternoon, or whether we should put off
+LINE 280: early in the morning, was the question we discussed. On the whole we
+LINE 281: deemed it the better course to lie where we were, until within an hour
+LINE 282: or so of the steamer's time, and then to get out in her track, and
+LINE 283: drift easily with the tide. Having settled to do this, we returned into
+LINE 284: the house and went to bed.
+LINE 285: I lay down with the greater part of my clothes on, and slept well for a
+LINE 286: few hours. When I awoke, the wind had risen, and the sign of the house
+LINE 287: (the Ship) was creaking and banging about, with noises that startled
+LINE 288: me. Rising softly, for my charge lay fast asleep, I looked out of the
+LINE 289: window. It commanded the causeway where we had hauled up our boat, and,
+LINE 290: as my eyes adapted themselves to the light of the clouded moon, I saw
+LINE 291: two men looking into her. They passed by under the window, looking at
+LINE 292: nothing else, and they did not go down to the landing-place which I
+LINE 293: could discern to be empty, but struck across the marsh in the direction
+LINE 294: of the Nore.
+LINE 295: My first impulse was to call up Herbert, and show him the two men going
+LINE 296: away. But reflecting, before I got into his room, which was at the back
+LINE 297: of the house and adjoined mine, that he and Startop had had a harder
+LINE 298: day than I, and were fatigued, I forbore. Going back to my window, I
+LINE 299: could see the two men moving over the marsh. In that light, however, I
+LINE 300: soon lost them, and, feeling very cold, lay down to think of the
+LINE 301: matter, and fell asleep again.
+LINE 302: We were up early. As we walked to and fro, all four together, before
+LINE 303: breakfast, I deemed it right to recount what I had seen. Again our
+LINE 304: charge was the least anxious of the party. It was very likely that the
+LINE 305: men belonged to the Custom House, he said quietly, and that they had no
+LINE 306: thought of us. I tried to persuade myself that it was so,—as, indeed,
+LINE 307: it might easily be. However, I proposed that he and I should walk away
+LINE 308: together to a distant point we could see, and that the boat should take
+LINE 309: us aboard there, or as near there as might prove feasible, at about
+LINE 310: noon. This being considered a good precaution, soon after breakfast he
+LINE 311: and I set forth, without saying anything at the tavern.
+LINE 312: He smoked his pipe as we went along, and sometimes stopped to clap me
+LINE 313: on the shoulder. One would have supposed that it was I who was in
+LINE 314: danger, not he, and that he was reassuring me. We spoke very little. As
+LINE 315: we approached the point, I begged him to remain in a sheltered place,
+LINE 316: while I went on to reconnoitre; for it was towards it that the men had
+LINE 317: passed in the night. He complied, and I went on alone. There was no
+LINE 318: boat off the point, nor any boat drawn up anywhere near it, nor were
+LINE 319: there any signs of the men having embarked there. But, to be sure, the
+LINE 320: tide was high, and there might have been some footprints under water.
+LINE 321: When he looked out from his shelter in the distance, and saw that I
+LINE 322: waved my hat to him to come up, he rejoined me, and there we waited;
+LINE 323: sometimes lying on the bank, wrapped in our coats, and sometimes moving
+LINE 324: about to warm ourselves, until we saw our boat coming round. We got
+LINE 325: aboard easily, and rowed out into the track of the steamer. By that
+LINE 326: time it wanted but ten minutes of one o'clock, and we began to look out
+LINE 327: for her smoke.
+LINE 328: But, it was half-past one before we saw her smoke, and soon afterwards
+LINE 329: we saw behind it the smoke of another steamer. As they were coming on
+LINE 330: at full speed, we got the two bags ready, and took that opportunity of
+LINE 331: saying good-bye to Herbert and Startop. We had all shaken hands
+LINE 332: cordially, and neither Herbert's eyes nor mine were quite dry, when I
+LINE 333: saw a four-oared galley shoot out from under the bank but a little way
+LINE 334: ahead of us, and row out into the same track.
+LINE 335: A stretch of shore had been as yet between us and the steamer's smoke,
+LINE 336: by reason of the bend and wind of the river; but now she was visible,
+LINE 337: coming head on. I called to Herbert and Startop to keep before the
+LINE 338: tide, that she might see us lying by for her, and I adjured Provis to
+LINE 339: sit quite still, wrapped in his cloak. He answered cheerily, "Trust to
+LINE 340: me, dear boy," and sat like a statue. Meantime the galley, which was
+LINE 341: very skilfully handled, had crossed us, let us come up with her, and
+LINE 342: fallen alongside. Leaving just room enough for the play of the oars,
+LINE 343: she kept alongside, drifting when we drifted, and pulling a stroke or
+LINE 344: two when we pulled. Of the two sitters one held the rudder-lines, and
+LINE 345: looked at us attentively,—as did all the rowers; the other sitter was
+LINE 346: wrapped up, much as Provis was, and seemed to shrink, and whisper some
+LINE 347: instruction to the steerer as he looked at us. Not a word was spoken in
+LINE 348: either boat.
+LINE 349: Startop could make out, after a few minutes, which steamer was first,
+LINE 350: and gave me the word "Hamburg," in a low voice, as we sat face to face.
+LINE 351: She was nearing us very fast, and the beating of her peddles grew
+LINE 352: louder and louder. I felt as if her shadow were absolutely upon us,
+LINE 353: when the galley hailed us. I answered.
+LINE 354: "You have a returned Transport there," said the man who held the lines.
+LINE 355: "That's the man, wrapped in the cloak. His name is Abel Magwitch,
+LINE 356: otherwise Provis. I apprehend that man, and call upon him to surrender,
+LINE 357: and you to assist."
+LINE 358: At the same moment, without giving any audible direction to his crew,
+LINE 359: he ran the galley abroad of us. They had pulled one sudden stroke
+LINE 360: ahead, had got their oars in, had run athwart us, and were holding on
+LINE 361: to our gunwale, before we knew what they were doing. This caused great
+LINE 362: confusion on board the steamer, and I heard them calling to us, and
+LINE 363: heard the order given to stop the paddles, and heard them stop, but
+LINE 364: felt her driving down upon us irresistibly. In the same moment, I saw
+LINE 365: the steersman of the galley lay his hand on his prisoner's shoulder,
+LINE 366: and saw that both boats were swinging round with the force of the tide,
+LINE 367: and saw that all hands on board the steamer were running forward quite
+LINE 368: frantically. Still, in the same moment, I saw the prisoner start up,
+LINE 369: lean across his captor, and pull the cloak from the neck of the
+LINE 370: shrinking sitter in the galley. Still in the same moment, I saw that
+LINE 371: the face disclosed, was the face of the other convict of long ago.
+LINE 372: Still, in the same moment, I saw the face tilt backward with a white
+LINE 373: terror on it that I shall never forget, and heard a great cry on board
+LINE 374: the steamer, and a loud splash in the water, and felt the boat sink
+LINE 375: from under me.
+LINE 376: It was but for an instant that I seemed to struggle with a thousand
+LINE 377: mill-weirs and a thousand flashes of light; that instant past, I was
+LINE 378: taken on board the galley. Herbert was there, and Startop was there;
+LINE 379: but our boat was gone, and the two convicts were gone.
+LINE 380: What with the cries aboard the steamer, and the furious blowing off of
+LINE 381: her steam, and her driving on, and our driving on, I could not at first
+LINE 382: distinguish sky from water or shore from shore; but the crew of the
+LINE 383: galley righted her with great speed, and, pulling certain swift strong
+LINE 384: strokes ahead, lay upon their oars, every man looking silently and
+LINE 385: eagerly at the water astern. Presently a dark object was seen in it,
+LINE 386: bearing towards us on the tide. No man spoke, but the steersman held up
+LINE 387: his hand, and all softly backed water, and kept the boat straight and
+LINE 388: true before it. As it came nearer, I saw it to be Magwitch, swimming,
+LINE 389: but not swimming freely. He was taken on board, and instantly manacled
+LINE 390: at the wrists and ankles.
+LINE 391: The galley was kept steady, and the silent, eager look-out at the water
+LINE 392: was resumed. But, the Rotterdam steamer now came up, and apparently not
+LINE 393: understanding what had happened, came on at speed. By the time she had
+LINE 394: been hailed and stopped, both steamers were drifting away from us, and
+LINE 395: we were rising and falling in a troubled wake of water. The look-out
+LINE 396: was kept, long after all was still again and the two steamers were
+LINE 397: gone; but everybody knew that it was hopeless now.
+LINE 398: At length we gave it up, and pulled under the shore towards the tavern
+LINE 399: we had lately left, where we were received with no little surprise.
+LINE 400: Here I was able to get some comforts for Magwitch,—Provis no
+LINE 401: longer,—who had received some very severe injury in the chest, and a
+LINE 402: deep cut in the head.
+LINE 403: He told me that he believed himself to have gone under the keel of the
+LINE 404: steamer, and to have been struck on the head in rising. The injury to
+LINE 405: his chest (which rendered his breathing extremely painful) he thought
+LINE 406: he had received against the side of the galley. He added that he did
+LINE 407: not pretend to say what he might or might not have done to Compeyson,
+LINE 408: but that, in the moment of his laying his hand on his cloak to identify
+LINE 409: him, that villain had staggered up and staggered back, and they had
+LINE 410: both gone overboard together, when the sudden wrenching of him
+LINE 411: (Magwitch) out of our boat, and the endeavour of his captor to keep him
+LINE 412: in it, had capsized us. He told me in a whisper that they had gone down
+LINE 413: fiercely locked in each other's arms, and that there had been a
+LINE 414: struggle under water, and that he had disengaged himself, struck out,
+LINE 415: and swum away.
+LINE 416: I never had any reason to doubt the exact truth of what he thus told
+LINE 417: me. The officer who steered the galley gave the same account of their
+LINE 418: going overboard.
+LINE 419: When I asked this officer's permission to change the prisoner's wet
+LINE 420: clothes by purchasing any spare garments I could get at the
+LINE 421: public-house, he gave it readily: merely observing that he must take
+LINE 422: charge of everything his prisoner had about him. So the pocket-book
+LINE 423: which had once been in my hands passed into the officer's. He further
+LINE 424: gave me leave to accompany the prisoner to London; but declined to
+LINE 425: accord that grace to my two friends.
+LINE 426: The Jack at the Ship was instructed where the drowned man had gone
+LINE 427: down, and undertook to search for the body in the places where it was
+LINE 428: likeliest to come ashore. His interest in its recovery seemed to me to
+LINE 429: be much heightened when he heard that it had stockings on. Probably, it
+LINE 430: took about a dozen drowned men to fit him out completely; and that may
+LINE 431: have been the reason why the different articles of his dress were in
+LINE 432: various stages of decay.
+LINE 433: We remained at the public-house until the tide turned, and then
+LINE 434: Magwitch was carried down to the galley and put on board. Herbert and
+LINE 435: Startop were to get to London by land, as soon as they could. We had a
+LINE 436: doleful parting, and when I took my place by Magwitch's side, I felt
+LINE 437: that that was my place henceforth while he lived.
+LINE 438: For now, my repugnance to him had all melted away; and in the hunted,
+LINE 439: wounded, shackled creature who held my hand in his, I only saw a man
+LINE 440: who had meant to be my benefactor, and who had felt affectionately,
+LINE 441: gratefully, and generously, towards me with great constancy through a
+LINE 442: series of years. I only saw in him a much better man than I had been to
+LINE 443: Joe.
+LINE 444: His breathing became more difficult and painful as the night drew on,
+LINE 445: and often he could not repress a groan. I tried to rest him on the arm
+LINE 446: I could use, in any easy position; but it was dreadful to think that I
+LINE 447: could not be sorry at heart for his being badly hurt, since it was
+LINE 448: unquestionably best that he should die. That there were, still living,
+LINE 449: people enough who were able and willing to identify him, I could not
+LINE 450: doubt. That he would be leniently treated, I could not hope. He who had
+LINE 451: been presented in the worst light at his trial, who had since broken
+LINE 452: prison and had been tried again, who had returned from transportation
+LINE 453: under a life sentence, and who had occasioned the death of the man who
+LINE 454: was the cause of his arrest.
+LINE 455: As we returned towards the setting sun we had yesterday left behind us,
+LINE 456: and as the stream of our hopes seemed all running back, I told him how
+LINE 457: grieved I was to think that he had come home for my sake.
+LINE 458: "Dear boy," he answered, "I'm quite content to take my chance. I've
+LINE 459: seen my boy, and he can be a gentleman without me."
+LINE 460: No. I had thought about that, while we had been there side by side. No.
+LINE 461: Apart from any inclinations of my own, I understood Wemmick's hint now.
+LINE 462: I foresaw that, being convicted, his possessions would be forfeited to
+LINE 463: the Crown.
+LINE 464: "Lookee here, dear boy," said he "It's best as a gentleman should not
+LINE 465: be knowed to belong to me now. Only come to see me as if you come by
+LINE 466: chance alonger Wemmick. Sit where I can see you when I am swore to, for
+LINE 467: the last o' many times, and I don't ask no more."
+LINE 468: "I will never stir from your side," said I, "when I am suffered to be
+LINE 469: near you. Please God, I will be as true to you as you have been to me!"
+LINE 470: I felt his hand tremble as it held mine, and he turned his face away as
+LINE 471: he lay in the bottom of the boat, and I heard that old sound in his
+LINE 472: throat,—softened now, like all the rest of him. It was a good thing
+LINE 473: that he had touched this point, for it put into my mind what I might
+LINE 474: not otherwise have thought of until too late,—that he need never know
+LINE 475: how his hopes of enriching me had perished.

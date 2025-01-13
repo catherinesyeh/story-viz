@@ -1,0 +1,417 @@
+LINE 1: Now that I was left wholly to myself, I gave notice of my intention to
+LINE 2: quit the chambers in the Temple as soon as my tenancy could legally
+LINE 3: determine, and in the meanwhile to underlet them. At once I put bills
+LINE 4: up in the windows; for, I was in debt, and had scarcely any money, and
+LINE 5: began to be seriously alarmed by the state of my affairs. I ought
+LINE 6: rather to write that I should have been alarmed if I had had energy and
+LINE 7: concentration enough to help me to the clear perception of any truth
+LINE 8: beyond the fact that I was falling very ill. The late stress upon me
+LINE 9: had enabled me to put off illness, but not to put it away; I knew that
+LINE 10: it was coming on me now, and I knew very little else, and was even
+LINE 11: careless as to that.
+LINE 12: For a day or two, I lay on the sofa, or on the floor,—anywhere,
+LINE 13: according as I happened to sink down,—with a heavy head and aching
+LINE 14: limbs, and no purpose, and no power. Then there came, one night which
+LINE 15: appeared of great duration, and which teemed with anxiety and horror;
+LINE 16: and when in the morning I tried to sit up in my bed and think of it, I
+LINE 17: found I could not do so.
+LINE 18: Whether I really had been down in Garden Court in the dead of the
+LINE 19: night, groping about for the boat that I supposed to be there; whether
+LINE 20: I had two or three times come to myself on the staircase with great
+LINE 21: terror, not knowing how I had got out of bed; whether I had found
+LINE 22: myself lighting the lamp, possessed by the idea that he was coming up
+LINE 23: the stairs, and that the lights were blown out; whether I had been
+LINE 24: inexpressibly harassed by the distracted talking, laughing, and
+LINE 25: groaning of some one, and had half suspected those sounds to be of my
+LINE 26: own making; whether there had been a closed iron furnace in a dark
+LINE 27: corner of the room, and a voice had called out, over and over again,
+LINE 28: that Miss Havisham was consuming within it,—these were things that I
+LINE 29: tried to settle with myself and get into some order, as I lay that
+LINE 30: morning on my bed. But the vapour of a limekiln would come between me
+LINE 31: and them, disordering them all, and it was through the vapour at last
+LINE 32: that I saw two men looking at me.
+LINE 33: "What do you want?" I asked, starting; "I don't know you."
+LINE 34: "Well, sir," returned one of them, bending down and touching me on the
+LINE 35: shoulder, "this is a matter that you'll soon arrange, I dare say, but
+LINE 36: you're arrested."
+LINE 37: "What is the debt?"
+LINE 38: "Hundred and twenty-three pound, fifteen, six. Jeweller's account, I
+LINE 39: think."
+LINE 40: "What is to be done?"
+LINE 41: "You had better come to my house," said the man. "I keep a very nice
+LINE 42: house."
+LINE 43: I made some attempt to get up and dress myself. When I next attended to
+LINE 44: them, they were standing a little off from the bed, looking at me. I
+LINE 45: still lay there.
+LINE 46: "You see my state," said I. "I would come with you if I could; but
+LINE 47: indeed I am quite unable. If you take me from here, I think I shall die
+LINE 48: by the way."
+LINE 49: Perhaps they replied, or argued the point, or tried to encourage me to
+LINE 50: believe that I was better than I thought. Forasmuch as they hang in my
+LINE 51: memory by only this one slender thread, I don't know what they did,
+LINE 52: except that they forbore to remove me.
+LINE 53: That I had a fever and was avoided, that I suffered greatly, that I
+LINE 54: often lost my reason, that the time seemed interminable, that I
+LINE 55: confounded impossible existences with my own identity; that I was a
+LINE 56: brick in the house-wall, and yet entreating to be released from the
+LINE 57: giddy place where the builders had set me; that I was a steel beam of a
+LINE 58: vast engine, clashing and whirling over a gulf, and yet that I implored
+LINE 59: in my own person to have the engine stopped, and my part in it hammered
+LINE 60: off; that I passed through these phases of disease, I know of my own
+LINE 61: remembrance, and did in some sort know at the time. That I sometimes
+LINE 62: struggled with real people, in the belief that they were murderers, and
+LINE 63: that I would all at once comprehend that they meant to do me good, and
+LINE 64: would then sink exhausted in their arms, and suffer them to lay me
+LINE 65: down, I also knew at the time. But, above all, I knew that there was a
+LINE 66: constant tendency in all these people,—who, when I was very ill, would
+LINE 67: present all kinds of extraordinary transformations of the human face,
+LINE 68: and would be much dilated in size,—above all, I say, I knew that there
+LINE 69: was an extraordinary tendency in all these people, sooner or later, to
+LINE 70: settle down into the likeness of Joe.
+LINE 71: After I had turned the worst point of my illness, I began to notice
+LINE 72: that while all its other features changed, this one consistent feature
+LINE 73: did not change. Whoever came about me, still settled down into Joe. I
+LINE 74: opened my eyes in the night, and I saw, in the great chair at the
+LINE 75: bedside, Joe. I opened my eyes in the day, and, sitting on the
+LINE 76: window-seat, smoking his pipe in the shaded open window, still I saw
+LINE 77: Joe. I asked for cooling drink, and the dear hand that gave it me was
+LINE 78: Joe's. I sank back on my pillow after drinking, and the face that
+LINE 79: looked so hopefully and tenderly upon me was the face of Joe.
+LINE 80: At last, one day, I took courage, and said, "_Is_ it Joe?"
+LINE 81: And the dear old home-voice answered, "Which it air, old chap."
+LINE 82: "O Joe, you break my heart! Look angry at me, Joe. Strike me, Joe. Tell
+LINE 83: me of my ingratitude. Don't be so good to me!"
+LINE 84: For Joe had actually laid his head down on the pillow at my side, and
+LINE 85: put his arm round my neck, in his joy that I knew him.
+LINE 86: "Which dear old Pip, old chap," said Joe, "you and me was ever friends.
+LINE 87: And when you're well enough to go out for a ride—what larks!"
+LINE 88: After which, Joe withdrew to the window, and stood with his back
+LINE 89: towards me, wiping his eyes. And as my extreme weakness prevented me
+LINE 90: from getting up and going to him, I lay there, penitently whispering,
+LINE 91: "O God bless him! O God bless this gentle Christian man!"
+LINE 92: Joe's eyes were red when I next found him beside me; but I was holding
+LINE 93: his hand, and we both felt happy.
+LINE 94: "How long, dear Joe?"
+LINE 95: "Which you meantersay, Pip, how long have your illness lasted, dear old
+LINE 96: chap?"
+LINE 97: "Yes, Joe."
+LINE 98: "It's the end of May, Pip. To-morrow is the first of June."
+LINE 99: "And have you been here all that time, dear Joe?"
+LINE 100: "Pretty nigh, old chap. For, as I says to Biddy when the news of your
+LINE 101: being ill were brought by letter, which it were brought by the post,
+LINE 102: and being formerly single he is now married though underpaid for a deal
+LINE 103: of walking and shoe-leather, but wealth were not a object on his part,
+LINE 104: and marriage were the great wish of his hart—"
+LINE 105: "It is so delightful to hear you, Joe! But I interrupt you in what you
+LINE 106: said to Biddy."
+LINE 107: "Which it were," said Joe, "that how you might be amongst strangers,
+LINE 108: and that how you and me having been ever friends, a wisit at such a
+LINE 109: moment might not prove unacceptabobble. And Biddy, her word were, 'Go
+LINE 110: to him, without loss of time.' That," said Joe, summing up with his
+LINE 111: judicial air, "were the word of Biddy. 'Go to him,' Biddy say, 'without
+LINE 112: loss of time.' In short, I shouldn't greatly deceive you," Joe added,
+LINE 113: after a little grave reflection, "if I represented to you that the word
+LINE 114: of that young woman were, 'without a minute's loss of time.'"
+LINE 115: There Joe cut himself short, and informed me that I was to be talked to
+LINE 116: in great moderation, and that I was to take a little nourishment at
+LINE 117: stated frequent times, whether I felt inclined for it or not, and that
+LINE 118: I was to submit myself to all his orders. So I kissed his hand, and lay
+LINE 119: quiet, while he proceeded to indite a note to Biddy, with my love in
+LINE 120: it.
+LINE 121: Evidently Biddy had taught Joe to write. As I lay in bed looking at
+LINE 122: him, it made me, in my weak state, cry again with pleasure to see the
+LINE 123: pride with which he set about his letter. My bedstead, divested of its
+LINE 124: curtains, had been removed, with me upon it, into the sitting-room, as
+LINE 125: the airiest and largest, and the carpet had been taken away, and the
+LINE 126: room kept always fresh and wholesome night and day. At my own
+LINE 127: writing-table, pushed into a corner and cumbered with little bottles,
+LINE 128: Joe now sat down to his great work, first choosing a pen from the
+LINE 129: pen-tray as if it were a chest of large tools, and tucking up his
+LINE 130: sleeves as if he were going to wield a crow-bar or sledgehammer. It was
+LINE 131: necessary for Joe to hold on heavily to the table with his left elbow,
+LINE 132: and to get his right leg well out behind him, before he could begin;
+LINE 133: and when he did begin he made every downstroke so slowly that it might
+LINE 134: have been six feet long, while at every upstroke I could hear his pen
+LINE 135: spluttering extensively. He had a curious idea that the inkstand was on
+LINE 136: the side of him where it was not, and constantly dipped his pen into
+LINE 137: space, and seemed quite satisfied with the result. Occasionally, he was
+LINE 138: tripped up by some orthographical stumbling-block; but on the whole he
+LINE 139: got on very well indeed; and when he had signed his name, and had
+LINE 140: removed a finishing blot from the paper to the crown of his head with
+LINE 141: his two forefingers, he got up and hovered about the table, trying the
+LINE 142: effect of his performance from various points of view, as it lay there,
+LINE 143: with unbounded satisfaction.
+LINE 144: Not to make Joe uneasy by talking too much, even if I had been able to
+LINE 145: talk much, I deferred asking him about Miss Havisham until next day. He
+LINE 146: shook his head when I then asked him if she had recovered.
+LINE 147: "Is she dead, Joe?"
+LINE 148: "Why you see, old chap," said Joe, in a tone of remonstrance, and by
+LINE 149: way of getting at it by degrees, "I wouldn't go so far as to say that,
+LINE 150: for that's a deal to say; but she ain't—"
+LINE 151: "Living, Joe?"
+LINE 152: "That's nigher where it is," said Joe; "she ain't living."
+LINE 153: "Did she linger long, Joe?"
+LINE 154: "Arter you was took ill, pretty much about what you might call (if you
+LINE 155: was put to it) a week," said Joe; still determined, on my account, to
+LINE 156: come at everything by degrees.
+LINE 157: "Dear Joe, have you heard what becomes of her property?"
+LINE 158: "Well, old chap," said Joe, "it do appear that she had settled the most
+LINE 159: of it, which I meantersay tied it up, on Miss Estella. But she had
+LINE 160: wrote out a little coddleshell in her own hand a day or two afore the
+LINE 161: accident, leaving a cool four thousand to Mr. Matthew Pocket. And why,
+LINE 162: do you suppose, above all things, Pip, she left that cool four thousand
+LINE 163: unto him? 'Because of Pip's account of him, the said Matthew.' I am
+LINE 164: told by Biddy, that air the writing," said Joe, repeating the legal
+LINE 165: turn as if it did him infinite good, "'account of him the said
+LINE 166: Matthew.' And a cool four thousand, Pip!"
+LINE 167: I never discovered from whom Joe derived the conventional temperature
+LINE 168: of the four thousand pounds; but it appeared to make the sum of money
+LINE 169: more to him, and he had a manifest relish in insisting on its being
+LINE 170: cool.
+LINE 171: This account gave me great joy, as it perfected the only good thing I
+LINE 172: had done. I asked Joe whether he had heard if any of the other
+LINE 173: relations had any legacies?
+LINE 174: "Miss Sarah," said Joe, "she have twenty-five pound perannium fur to
+LINE 175: buy pills, on account of being bilious. Miss Georgiana, she have twenty
+LINE 176: pound down. Mrs.—what's the name of them wild beasts with humps, old
+LINE 177: chap?"
+LINE 178: "Camels?" said I, wondering why he could possibly want to know.
+LINE 179: Joe nodded. "Mrs. Camels," by which I presently understood he meant
+LINE 180: Camilla, "she have five pound fur to buy rushlights to put her in
+LINE 181: spirits when she wake up in the night."
+LINE 182: The accuracy of these recitals was sufficiently obvious to me, to give
+LINE 183: me great confidence in Joe's information. "And now," said Joe, "you
+LINE 184: ain't that strong yet, old chap, that you can take in more nor one
+LINE 185: additional shovelful to-day. Old Orlick he's been a bustin' open a
+LINE 186: dwelling-ouse."
+LINE 187: "Whose?" said I.
+LINE 188: "Not, I grant you, but what his manners is given to blusterous," said
+LINE 189: Joe, apologetically; "still, a Englishman's ouse is his Castle, and
+LINE 190: castles must not be busted 'cept when done in war time. And wotsume'er
+LINE 191: the failings on his part, he were a corn and seedsman in his hart."
+LINE 192: "Is it Pumblechook's house that has been broken into, then?"
+LINE 193: "That's it, Pip," said Joe; "and they took his till, and they took his
+LINE 194: cash-box, and they drinked his wine, and they partook of his wittles,
+LINE 195: and they slapped his face, and they pulled his nose, and they tied him
+LINE 196: up to his bedpust, and they giv' him a dozen, and they stuffed his
+LINE 197: mouth full of flowering annuals to prewent his crying out. But he
+LINE 198: knowed Orlick, and Orlick's in the county jail."
+LINE 199: By these approaches we arrived at unrestricted conversation. I was slow
+LINE 200: to gain strength, but I did slowly and surely become less weak, and Joe
+LINE 201: stayed with me, and I fancied I was little Pip again.
+LINE 202: For the tenderness of Joe was so beautifully proportioned to my need,
+LINE 203: that I was like a child in his hands. He would sit and talk to me in
+LINE 204: the old confidence, and with the old simplicity, and in the old
+LINE 205: unassertive protecting way, so that I would half believe that all my
+LINE 206: life since the days of the old kitchen was one of the mental troubles
+LINE 207: of the fever that was gone. He did everything for me except the
+LINE 208: household work, for which he had engaged a very decent woman, after
+LINE 209: paying off the laundress on his first arrival. "Which I do assure you,
+LINE 210: Pip," he would often say, in explanation of that liberty; "I found her
+LINE 211: a tapping the spare bed, like a cask of beer, and drawing off the
+LINE 212: feathers in a bucket, for sale. Which she would have tapped yourn next,
+LINE 213: and draw'd it off with you a laying on it, and was then a carrying away
+LINE 214: the coals gradiwally in the soup-tureen and wegetable-dishes, and the
+LINE 215: wine and spirits in your Wellington boots."
+LINE 216: We looked forward to the day when I should go out for a ride, as we had
+LINE 217: once looked forward to the day of my apprenticeship. And when the day
+LINE 218: came, and an open carriage was got into the Lane, Joe wrapped me up,
+LINE 219: took me in his arms, carried me down to it, and put me in, as if I were
+LINE 220: still the small helpless creature to whom he had so abundantly given of
+LINE 221: the wealth of his great nature.
+LINE 222: And Joe got in beside me, and we drove away together into the country,
+LINE 223: where the rich summer growth was already on the trees and on the grass,
+LINE 224: and sweet summer scents filled all the air. The day happened to be
+LINE 225: Sunday, and when I looked on the loveliness around me, and thought how
+LINE 226: it had grown and changed, and how the little wild-flowers had been
+LINE 227: forming, and the voices of the birds had been strengthening, by day and
+LINE 228: by night, under the sun and under the stars, while poor I lay burning
+LINE 229: and tossing on my bed, the mere remembrance of having burned and tossed
+LINE 230: there came like a check upon my peace. But when I heard the Sunday
+LINE 231: bells, and looked around a little more upon the outspread beauty, I
+LINE 232: felt that I was not nearly thankful enough,—that I was too weak yet to
+LINE 233: be even that,—and I laid my head on Joe's shoulder, as I had laid it
+LINE 234: long ago when he had taken me to the Fair or where not, and it was too
+LINE 235: much for my young senses.
+LINE 236: More composure came to me after a while, and we talked as we used to
+LINE 237: talk, lying on the grass at the old Battery. There was no change
+LINE 238: whatever in Joe. Exactly what he had been in my eyes then, he was in my
+LINE 239: eyes still; just as simply faithful, and as simply right.
+LINE 240: When we got back again, and he lifted me out, and carried me—so
+LINE 241: easily!—across the court and up the stairs, I thought of that eventful
+LINE 242: Christmas Day when he had carried me over the marshes. We had not yet
+LINE 243: made any allusion to my change of fortune, nor did I know how much of
+LINE 244: my late history he was acquainted with. I was so doubtful of myself
+LINE 245: now, and put so much trust in him, that I could not satisfy myself
+LINE 246: whether I ought to refer to it when he did not.
+LINE 247: "Have you heard, Joe," I asked him that evening, upon further
+LINE 248: consideration, as he smoked his pipe at the window, "who my patron
+LINE 249: was?"
+LINE 250: "I heerd," returned Joe, "as it were not Miss Havisham, old chap."
+LINE 251: "Did you hear who it was, Joe?"
+LINE 252: "Well! I heerd as it were a person what sent the person what giv' you
+LINE 253: the bank-notes at the Jolly Bargemen, Pip."
+LINE 254: "So it was."
+LINE 255: "Astonishing!" said Joe, in the placidest way.
+LINE 256: "Did you hear that he was dead, Joe?" I presently asked, with
+LINE 257: increasing diffidence.
+LINE 258: "Which? Him as sent the bank-notes, Pip?"
+LINE 259: "Yes."
+LINE 260: "I think," said Joe, after meditating a long time, and looking rather
+LINE 261: evasively at the window-seat, "as I _did_ hear tell that how he were
+LINE 262: something or another in a general way in that direction."
+LINE 263: "Did you hear anything of his circumstances, Joe?"
+LINE 264: "Not partickler, Pip."
+LINE 265: "If you would like to hear, Joe—" I was beginning, when Joe got up and
+LINE 266: came to my sofa.
+LINE 267: "Lookee here, old chap," said Joe, bending over me. "Ever the best of
+LINE 268: friends; ain't us, Pip?"
+LINE 269: I was ashamed to answer him.
+LINE 270: "Wery good, then," said Joe, as if I _had_ answered; "that's all right;
+LINE 271: that's agreed upon. Then why go into subjects, old chap, which as
+LINE 272: betwixt two sech must be for ever onnecessary? There's subjects enough
+LINE 273: as betwixt two sech, without onnecessary ones. Lord! To think of your
+LINE 274: poor sister and her Rampages! And don't you remember Tickler?"
+LINE 275: "I do indeed, Joe."
+LINE 276: "Lookee here, old chap," said Joe. "I done what I could to keep you and
+LINE 277: Tickler in sunders, but my power were not always fully equal to my
+LINE 278: inclinations. For when your poor sister had a mind to drop into you, it
+LINE 279: were not so much," said Joe, in his favourite argumentative way, "that
+LINE 280: she dropped into me too, if I put myself in opposition to her, but that
+LINE 281: she dropped into you always heavier for it. I noticed that. It ain't a
+LINE 282: grab at a man's whisker, not yet a shake or two of a man (to which your
+LINE 283: sister was quite welcome), that 'ud put a man off from getting a little
+LINE 284: child out of punishment. But when that little child is dropped into
+LINE 285: heavier for that grab of whisker or shaking, then that man naterally up
+LINE 286: and says to himself, 'Where is the good as you are a-doing? I grant you
+LINE 287: I see the 'arm,' says the man, 'but I don't see the good. I call upon
+LINE 288: you, sir, therefore, to pint out the good.'"
+LINE 289: "The man says?" I observed, as Joe waited for me to speak.
+LINE 290: "The man says," Joe assented. "Is he right, that man?"
+LINE 291: "Dear Joe, he is always right."
+LINE 292: "Well, old chap," said Joe, "then abide by your words. If he's always
+LINE 293: right (which in general he's more likely wrong), he's right when he
+LINE 294: says this: Supposing ever you kep any little matter to yourself, when
+LINE 295: you was a little child, you kep it mostly because you know'd as J.
+LINE 296: Gargery's power to part you and Tickler in sunders were not fully equal
+LINE 297: to his inclinations. Theerfore, think no more of it as betwixt two
+LINE 298: sech, and do not let us pass remarks upon onnecessary subjects. Biddy
+LINE 299: giv' herself a deal o' trouble with me afore I left (for I am almost
+LINE 300: awful dull), as I should view it in this light, and, viewing it in this
+LINE 301: light, as I should so put it. Both of which," said Joe, quite charmed
+LINE 302: with his logical arrangement, "being done, now this to you a true
+LINE 303: friend, say. Namely. You mustn't go a overdoing on it, but you must
+LINE 304: have your supper and your wine and water, and you must be put betwixt
+LINE 305: the sheets."
+LINE 306: The delicacy with which Joe dismissed this theme, and the sweet tact
+LINE 307: and kindness with which Biddy—who with her woman's wit had found me out
+LINE 308: so soon—had prepared him for it, made a deep impression on my mind. But
+LINE 309: whether Joe knew how poor I was, and how my great expectations had all
+LINE 310: dissolved, like our own marsh mists before the sun, I could not
+LINE 311: understand.
+LINE 312: Another thing in Joe that I could not understand when it first began to
+LINE 313: develop itself, but which I soon arrived at a sorrowful comprehension
+LINE 314: of, was this: As I became stronger and better, Joe became a little less
+LINE 315: easy with me. In my weakness and entire dependence on him, the dear
+LINE 316: fellow had fallen into the old tone, and called me by the old names,
+LINE 317: the dear "old Pip, old chap," that now were music in my ears. I too had
+LINE 318: fallen into the old ways, only happy and thankful that he let me. But,
+LINE 319: imperceptibly, though I held by them fast, Joe's hold upon them began
+LINE 320: to slacken; and whereas I wondered at this, at first, I soon began to
+LINE 321: understand that the cause of it was in me, and that the fault of it was
+LINE 322: all mine.
+LINE 323: Ah! Had I given Joe no reason to doubt my constancy, and to think that
+LINE 324: in prosperity I should grow cold to him and cast him off? Had I given
+LINE 325: Joe's innocent heart no cause to feel instinctively that as I got
+LINE 326: stronger, his hold upon me would be weaker, and that he had better
+LINE 327: loosen it in time and let me go, before I plucked myself away?
+LINE 328: It was on the third or fourth occasion of my going out walking in the
+LINE 329: Temple Gardens leaning on Joe's arm, that I saw this change in him very
+LINE 330: plainly. We had been sitting in the bright warm sunlight, looking at
+LINE 331: the river, and I chanced to say as we got up,—
+LINE 332: "See, Joe! I can walk quite strongly. Now, you shall see me walk back
+LINE 333: by myself."
+LINE 334: "Which do not overdo it, Pip," said Joe; "but I shall be happy fur to
+LINE 335: see you able, sir."
+LINE 336: The last word grated on me; but how could I remonstrate! I walked no
+LINE 337: further than the gate of the gardens, and then pretended to be weaker
+LINE 338: than I was, and asked Joe for his arm. Joe gave it me, but was
+LINE 339: thoughtful.
+LINE 340: I, for my part, was thoughtful too; for, how best to check this growing
+LINE 341: change in Joe was a great perplexity to my remorseful thoughts. That I
+LINE 342: was ashamed to tell him exactly how I was placed, and what I had come
+LINE 343: down to, I do not seek to conceal; but I hope my reluctance was not
+LINE 344: quite an unworthy one. He would want to help me out of his little
+LINE 345: savings, I knew, and I knew that he ought not to help me, and that I
+LINE 346: must not suffer him to do it.
+LINE 347: It was a thoughtful evening with both of us. But, before we went to
+LINE 348: bed, I had resolved that I would wait over to-morrow,—to-morrow being
+LINE 349: Sunday,—and would begin my new course with the new week. On Monday
+LINE 350: morning I would speak to Joe about this change, I would lay aside this
+LINE 351: last vestige of reserve, I would tell him what I had in my thoughts
+LINE 352: (that Secondly, not yet arrived at), and why I had not decided to go
+LINE 353: out to Herbert, and then the change would be conquered for ever. As I
+LINE 354: cleared, Joe cleared, and it seemed as though he had sympathetically
+LINE 355: arrived at a resolution too.
+LINE 356: We had a quiet day on the Sunday, and we rode out into the country, and
+LINE 357: then walked in the fields.
+LINE 358: "I feel thankful that I have been ill, Joe," I said.
+LINE 359: "Dear old Pip, old chap, you're a'most come round, sir."
+LINE 360: "It has been a memorable time for me, Joe."
+LINE 361: "Likeways for myself, sir," Joe returned.
+LINE 362: "We have had a time together, Joe, that I can never forget. There were
+LINE 363: days once, I know, that I did for a while forget; but I never shall
+LINE 364: forget these."
+LINE 365: "Pip," said Joe, appearing a little hurried and troubled, "there has
+LINE 366: been larks. And, dear sir, what have been betwixt us—have been."
+LINE 367: At night, when I had gone to bed, Joe came into my room, as he had done
+LINE 368: all through my recovery. He asked me if I felt sure that I was as well
+LINE 369: as in the morning?
+LINE 370: "Yes, dear Joe, quite."
+LINE 371: "And are always a getting stronger, old chap?"
+LINE 372: "Yes, dear Joe, steadily."
+LINE 373: Joe patted the coverlet on my shoulder with his great good hand, and
+LINE 374: said, in what I thought a husky voice, "Good night!"
+LINE 375: When I got up in the morning, refreshed and stronger yet, I was full of
+LINE 376: my resolution to tell Joe all, without delay. I would tell him before
+LINE 377: breakfast. I would dress at once and go to his room and surprise him;
+LINE 378: for, it was the first day I had been up early. I went to his room, and
+LINE 379: he was not there. Not only was he not there, but his box was gone.
+LINE 380: I hurried then to the breakfast-table, and on it found a letter. These
+LINE 381: were its brief contents:—
+LINE 382: "Not wishful to intrude I have departured fur you are well again dear
+LINE 383: Pip and will do better without
+LINE 384: JO.
+LINE 385: "P.S. Ever the best of friends."
+LINE 386: Enclosed in the letter was a receipt for the debt and costs on which I
+LINE 387: had been arrested. Down to that moment, I had vainly supposed that my
+LINE 388: creditor had withdrawn, or suspended proceedings until I should be
+LINE 389: quite recovered. I had never dreamed of Joe's having paid the money;
+LINE 390: but Joe had paid it, and the receipt was in his name.
+LINE 391: What remained for me now, but to follow him to the dear old forge, and
+LINE 392: there to have out my disclosure to him, and my penitent remonstrance
+LINE 393: with him, and there to relieve my mind and heart of that reserved
+LINE 394: Secondly, which had begun as a vague something lingering in my
+LINE 395: thoughts, and had formed into a settled purpose?
+LINE 396: The purpose was, that I would go to Biddy, that I would show her how
+LINE 397: humbled and repentant I came back, that I would tell her how I had lost
+LINE 398: all I once hoped for, that I would remind her of our old confidences in
+LINE 399: my first unhappy time. Then I would say to her, "Biddy, I think you
+LINE 400: once liked me very well, when my errant heart, even while it strayed
+LINE 401: away from you, was quieter and better with you than it ever has been
+LINE 402: since. If you can like me only half as well once more, if you can take
+LINE 403: me with all my faults and disappointments on my head, if you can
+LINE 404: receive me like a forgiven child (and indeed I am as sorry, Biddy, and
+LINE 405: have as much need of a hushing voice and a soothing hand), I hope I am
+LINE 406: a little worthier of you that I was,—not much, but a little. And,
+LINE 407: Biddy, it shall rest with you to say whether I shall work at the forge
+LINE 408: with Joe, or whether I shall try for any different occupation down in
+LINE 409: this country, or whether we shall go away to a distant place where an
+LINE 410: opportunity awaits me which I set aside, when it was offered, until I
+LINE 411: knew your answer. And now, dear Biddy, if you can tell me that you will
+LINE 412: go through the world with me, you will surely make it a better world
+LINE 413: for me, and me a better man for it, and I will try hard to make it a
+LINE 414: better world for you."
+LINE 415: Such was my purpose. After three days more of recovery, I went down to
+LINE 416: the old place to put it in execution. And how I sped in it is all I
+LINE 417: have left to tell.

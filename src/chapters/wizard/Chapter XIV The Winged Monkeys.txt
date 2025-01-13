@@ -1,0 +1,163 @@
+LINE 1: You will remember there was no road—not even a pathway—between the
+LINE 2: castle of the Wicked Witch and the Emerald City. When the four
+LINE 3: travelers went in search of the Witch she had seen them coming, and so
+LINE 4: sent the Winged Monkeys to bring them to her. It was much harder to
+LINE 5: find their way back through the big fields of buttercups and yellow
+LINE 6: daisies than it was being carried. They knew, of course, they must go
+LINE 7: straight east, toward the rising sun; and they started off in the right
+LINE 8: way. But at noon, when the sun was over their heads, they did not know
+LINE 9: which was east and which was west, and that was the reason they were
+LINE 10: lost in the great fields. They kept on walking, however, and at night
+LINE 11: the moon came out and shone brightly. So they lay down among the sweet
+LINE 12: smelling yellow flowers and slept soundly until morning—all but the
+LINE 13: Scarecrow and the Tin Woodman.
+LINE 14: The next morning the sun was behind a cloud, but they started on, as if
+LINE 15: they were quite sure which way they were going.
+LINE 16: "If we walk far enough," said Dorothy, "I am sure we shall sometime
+LINE 17: come to some place."
+LINE 18: But day by day passed away, and they still saw nothing before them but
+LINE 19: the scarlet fields. The Scarecrow began to grumble a bit.
+LINE 20: "We have surely lost our way," he said, "and unless we find it again in
+LINE 21: time to reach the Emerald City, I shall never get my brains."
+LINE 22: "Nor I my heart," declared the Tin Woodman. "It seems to me I can
+LINE 23: scarcely wait till I get to Oz, and you must admit this is a very long
+LINE 24: journey."
+LINE 25: "You see," said the Cowardly Lion, with a whimper, "I haven't the
+LINE 26: courage to keep tramping forever, without getting anywhere at all."
+LINE 27: Then Dorothy lost heart. She sat down on the grass and looked at her
+LINE 28: companions, and they sat down and looked at her, and Toto found that
+LINE 29: for the first time in his life he was too tired to chase a butterfly
+LINE 30: that flew past his head. So he put out his tongue and panted and looked
+LINE 31: at Dorothy as if to ask what they should do next.
+LINE 32: "Suppose we call the field mice," she suggested. "They could probably
+LINE 33: tell us the way to the Emerald City."
+LINE 34: "To be sure they could," cried the Scarecrow. "Why didn't we think of
+LINE 35: that before?"
+LINE 36: Dorothy blew the little whistle she had always carried about her neck
+LINE 37: since the Queen of the Mice had given it to her. In a few minutes they
+LINE 38: heard the pattering of tiny feet, and many of the small gray mice came
+LINE 39: running up to her. Among them was the Queen herself, who asked, in her
+LINE 40: squeaky little voice:
+LINE 41: "What can I do for my friends?"
+LINE 42: "We have lost our way," said Dorothy. "Can you tell us where the
+LINE 43: Emerald City is?"
+LINE 44: "Certainly," answered the Queen; "but it is a great way off, for you
+LINE 45: have had it at your backs all this time." Then she noticed Dorothy's
+LINE 46: Golden Cap, and said, "Why don't you use the charm of the Cap, and call
+LINE 47: the Winged Monkeys to you? They will carry you to the City of Oz in
+LINE 48: less than an hour."
+LINE 49: "I didn't know there was a charm," answered Dorothy, in surprise. "What
+LINE 50: is it?"
+LINE 51: "It is written inside the Golden Cap," replied the Queen of the Mice.
+LINE 52: "But if you are going to call the Winged Monkeys we must run away, for
+LINE 53: they are full of mischief and think it great fun to plague us."
+LINE 54: "Won't they hurt me?" asked the girl anxiously.
+LINE 55: "Oh, no. They must obey the wearer of the Cap. Good-bye!" And she
+LINE 56: scampered out of sight, with all the mice hurrying after her.
+LINE 57: Dorothy looked inside the Golden Cap and saw some words written upon
+LINE 58: the lining. These, she thought, must be the charm, so she read the
+LINE 59: directions carefully and put the Cap upon her head.
+LINE 60: "Ep-pe, pep-pe, kak-ke!" she said, standing on her left foot.
+LINE 61: "What did you say?" asked the Scarecrow, who did not know what she was
+LINE 62: doing.
+LINE 63: "Hil-lo, hol-lo, hel-lo!" Dorothy went on, standing this time on her
+LINE 64: right foot.
+LINE 65: "Hello!" replied the Tin Woodman calmly.
+LINE 66: "Ziz-zy, zuz-zy, zik!" said Dorothy, who was now standing on both feet.
+LINE 67: This ended the saying of the charm, and they heard a great chattering
+LINE 68: and flapping of wings, as the band of Winged Monkeys flew up to them.
+LINE 69: The King bowed low before Dorothy, and asked, "What is your command?"
+LINE 70: "We wish to go to the Emerald City," said the child, "and we have lost
+LINE 71: our way."
+LINE 72: "We will carry you," replied the King, and no sooner had he spoken than
+LINE 73: two of the Monkeys caught Dorothy in their arms and flew away with her.
+LINE 74: Others took the Scarecrow and the Woodman and the Lion, and one little
+LINE 75: Monkey seized Toto and flew after them, although the dog tried hard to
+LINE 76: bite him.
+LINE 77: The Scarecrow and the Tin Woodman were rather frightened at first, for
+LINE 78: they remembered how badly the Winged Monkeys had treated them before;
+LINE 79: but they saw that no harm was intended, so they rode through the air
+LINE 80: quite cheerfully, and had a fine time looking at the pretty gardens and
+LINE 81: woods far below them.
+LINE 82: Dorothy found herself riding easily between two of the biggest Monkeys,
+LINE 83: one of them the King himself. They had made a chair of their hands and
+LINE 84: were careful not to hurt her.
+LINE 85: "Why do you have to obey the charm of the Golden Cap?" she asked.
+LINE 86: "That is a long story," answered the King, with a winged laugh; "but as
+LINE 87: we have a long journey before us, I will pass the time by telling you
+LINE 88: about it, if you wish."
+LINE 89: "I shall be glad to hear it," she replied.
+LINE 90: "Once," began the leader, "we were a free people, living happily in the
+LINE 91: great forest, flying from tree to tree, eating nuts and fruit, and
+LINE 92: doing just as we pleased without calling anybody master. Perhaps some
+LINE 93: of us were rather too full of mischief at times, flying down to pull
+LINE 94: the tails of the animals that had no wings, chasing birds, and throwing
+LINE 95: nuts at the people who walked in the forest. But we were careless and
+LINE 96: happy and full of fun, and enjoyed every minute of the day. This was
+LINE 97: many years ago, long before Oz came out of the clouds to rule over this
+LINE 98: land.
+LINE 99: "There lived here then, away at the North, a beautiful princess, who
+LINE 100: was also a powerful sorceress. All her magic was used to help the
+LINE 101: people, and she was never known to hurt anyone who was good. Her name
+LINE 102: was Gayelette, and she lived in a handsome palace built from great
+LINE 103: blocks of ruby. Everyone loved her, but her greatest sorrow was that
+LINE 104: she could find no one to love in return, since all the men were much
+LINE 105: too stupid and ugly to mate with one so beautiful and wise. At last,
+LINE 106: however, she found a boy who was handsome and manly and wise beyond his
+LINE 107: years. Gayelette made up her mind that when he grew to be a man she
+LINE 108: would make him her husband, so she took him to her ruby palace and used
+LINE 109: all her magic powers to make him as strong and good and lovely as any
+LINE 110: woman could wish. When he grew to manhood, Quelala, as he was called,
+LINE 111: was said to be the best and wisest man in all the land, while his manly
+LINE 112: beauty was so great that Gayelette loved him dearly, and hastened to
+LINE 113: make everything ready for the wedding.
+LINE 114: "My grandfather was at that time the King of the Winged Monkeys which
+LINE 115: lived in the forest near Gayelette's palace, and the old fellow loved a
+LINE 116: joke better than a good dinner. One day, just before the wedding, my
+LINE 117: grandfather was flying out with his band when he saw Quelala walking
+LINE 118: beside the river. He was dressed in a rich costume of pink silk and
+LINE 119: purple velvet, and my grandfather thought he would see what he could
+LINE 120: do. At his word the band flew down and seized Quelala, carried him in
+LINE 121: their arms until they were over the middle of the river, and then
+LINE 122: dropped him into the water.
+LINE 123: "'Swim out, my fine fellow,' cried my grandfather, 'and see if the
+LINE 124: water has spotted your clothes.' Quelala was much too wise not to swim,
+LINE 125: and he was not in the least spoiled by all his good fortune. He
+LINE 126: laughed, when he came to the top of the water, and swam in to shore.
+LINE 127: But when Gayelette came running out to him she found his silks and
+LINE 128: velvet all ruined by the river.
+LINE 129: "The princess was angry, and she knew, of course, who did it. She had
+LINE 130: all the Winged Monkeys brought before her, and she said at first that
+LINE 131: their wings should be tied and they should be treated as they had
+LINE 132: treated Quelala, and dropped in the river. But my grandfather pleaded
+LINE 133: hard, for he knew the Monkeys would drown in the river with their wings
+LINE 134: tied, and Quelala said a kind word for them also; so that Gayelette
+LINE 135: finally spared them, on condition that the Winged Monkeys should ever
+LINE 136: after do three times the bidding of the owner of the Golden Cap. This
+LINE 137: Cap had been made for a wedding present to Quelala, and it is said to
+LINE 138: have cost the princess half her kingdom. Of course my grandfather and
+LINE 139: all the other Monkeys at once agreed to the condition, and that is how
+LINE 140: it happens that we are three times the slaves of the owner of the
+LINE 141: Golden Cap, whosoever he may be."
+LINE 142: "And what became of them?" asked Dorothy, who had been greatly
+LINE 143: interested in the story.
+LINE 144: "Quelala being the first owner of the Golden Cap," replied the Monkey,
+LINE 145: "he was the first to lay his wishes upon us. As his bride could not
+LINE 146: bear the sight of us, he called us all to him in the forest after he
+LINE 147: had married her and ordered us always to keep where she could never
+LINE 148: again set eyes on a Winged Monkey, which we were glad to do, for we
+LINE 149: were all afraid of her.
+LINE 150: "This was all we ever had to do until the Golden Cap fell into the
+LINE 151: hands of the Wicked Witch of the West, who made us enslave the Winkies,
+LINE 152: and afterward drive Oz himself out of the Land of the West. Now the
+LINE 153: Golden Cap is yours, and three times you have the right to lay your
+LINE 154: wishes upon us."
+LINE 155: As the Monkey King finished his story Dorothy looked down and saw the
+LINE 156: green, shining walls of the Emerald City before them. She wondered at
+LINE 157: the rapid flight of the Monkeys, but was glad the journey was over. The
+LINE 158: strange creatures set the travelers down carefully before the gate of
+LINE 159: the City, the King bowed low to Dorothy, and then flew swiftly away,
+LINE 160: followed by all his band.
+LINE 161: "That was a good ride," said the little girl.
+LINE 162: "Yes, and a quick way out of our troubles," replied the Lion. "How
+LINE 163: lucky it was you brought away that wonderful Cap!"

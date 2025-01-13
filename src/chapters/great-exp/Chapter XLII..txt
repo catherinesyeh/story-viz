@@ -1,0 +1,243 @@
+LINE 1: "Dear boy and Pip's comrade. I am not a-going fur to tell you my life
+LINE 2: like a song, or a story-book. But to give it you short and handy, I'll
+LINE 3: put it at once into a mouthful of English. In jail and out of jail, in
+LINE 4: jail and out of jail, in jail and out of jail. There, you've got it.
+LINE 5: That's _my_ life pretty much, down to such times as I got shipped off,
+LINE 6: arter Pip stood my friend.
+LINE 7: "I've been done everything to, pretty well—except hanged. I've been
+LINE 8: locked up as much as a silver tea-kittle. I've been carted here and
+LINE 9: carted there, and put out of this town, and put out of that town, and
+LINE 10: stuck in the stocks, and whipped and worried and drove. I've no more
+LINE 11: notion where I was born than you have—if so much. I first become aware
+LINE 12: of myself down in Essex, a thieving turnips for my living. Summun had
+LINE 13: run away from me—a man—a tinker—and he'd took the fire with him, and
+LINE 14: left me wery cold.
+LINE 15: "I know'd my name to be Magwitch, chrisen'd Abel. How did I know it?
+LINE 16: Much as I know'd the birds' names in the hedges to be chaffinch,
+LINE 17: sparrer, thrush. I might have thought it was all lies together, only as
+LINE 18: the birds' names come out true, I supposed mine did.
+LINE 19: "So fur as I could find, there warn't a soul that see young Abel
+LINE 20: Magwitch, with us little on him as in him, but wot caught fright at
+LINE 21: him, and either drove him off, or took him up. I was took up, took up,
+LINE 22: took up, to that extent that I reg'larly grow'd up took up.
+LINE 23: "This is the way it was, that when I was a ragged little creetur as
+LINE 24: much to be pitied as ever I see (not that I looked in the glass, for
+LINE 25: there warn't many insides of furnished houses known to me), I got the
+LINE 26: name of being hardened. 'This is a terrible hardened one,' they says to
+LINE 27: prison wisitors, picking out me. 'May be said to live in jails, this
+LINE 28: boy.' Then they looked at me, and I looked at them, and they measured
+LINE 29: my head, some on 'em,—they had better a measured my stomach,—and others
+LINE 30: on 'em giv me tracts what I couldn't read, and made me speeches what I
+LINE 31: couldn't understand. They always went on agen me about the Devil. But
+LINE 32: what the Devil was I to do? I must put something into my stomach,
+LINE 33: mustn't I?—Howsomever, I'm a getting low, and I know what's due. Dear
+LINE 34: boy and Pip's comrade, don't you be afeerd of me being low.
+LINE 35: "Tramping, begging, thieving, working sometimes when I could,—though
+LINE 36: that warn't as often as you may think, till you put the question
+LINE 37: whether you would ha' been over-ready to give me work yourselves,—a bit
+LINE 38: of a poacher, a bit of a labourer, a bit of a wagoner, a bit of a
+LINE 39: haymaker, a bit of a hawker, a bit of most things that don't pay and
+LINE 40: lead to trouble, I got to be a man. A deserting soldier in a
+LINE 41: Traveller's Rest, what lay hid up to the chin under a lot of taturs,
+LINE 42: learnt me to read; and a travelling Giant what signed his name at a
+LINE 43: penny a time learnt me to write. I warn't locked up as often now as
+LINE 44: formerly, but I wore out my good share of key-metal still.
+LINE 45: "At Epsom races, a matter of over twenty years ago, I got acquainted
+LINE 46: wi' a man whose skull I'd crack wi' this poker, like the claw of a
+LINE 47: lobster, if I'd got it on this hob. His right name was Compeyson; and
+LINE 48: that's the man, dear boy, what you see me a pounding in the ditch,
+LINE 49: according to what you truly told your comrade arter I was gone last
+LINE 50: night.
+LINE 51: "He set up fur a gentleman, this Compeyson, and he'd been to a public
+LINE 52: boarding-school and had learning. He was a smooth one to talk, and was
+LINE 53: a dab at the ways of gentlefolks. He was good-looking too. It was the
+LINE 54: night afore the great race, when I found him on the heath, in a booth
+LINE 55: that I know'd on. Him and some more was a sitting among the tables when
+LINE 56: I went in, and the landlord (which had a knowledge of me, and was a
+LINE 57: sporting one) called him out, and said, 'I think this is a man that
+LINE 58: might suit you,'—meaning I was.
+LINE 59: "Compeyson, he looks at me very noticing, and I look at him. He has a
+LINE 60: watch and a chain and a ring and a breast-pin and a handsome suit of
+LINE 61: clothes.
+LINE 62: "'To judge from appearances, you're out of luck,' says Compeyson to me.
+LINE 63: "'Yes, master, and I've never been in it much.' (I had come out of
+LINE 64: Kingston Jail last on a vagrancy committal. Not but what it might have
+LINE 65: been for something else; but it warn't.)
+LINE 66: "'Luck changes,' says Compeyson; 'perhaps yours is going to change.'
+LINE 67: "I says, 'I hope it may be so. There's room.'
+LINE 68: "'What can you do?' says Compeyson.
+LINE 69: "'Eat and drink,' I says; 'if you'll find the materials.'
+LINE 70: "Compeyson laughed, looked at me again very noticing, giv me five
+LINE 71: shillings, and appointed me for next night. Same place.
+LINE 72: "I went to Compeyson next night, same place, and Compeyson took me on
+LINE 73: to be his man and pardner. And what was Compeyson's business in which
+LINE 74: we was to go pardners? Compeyson's business was the swindling,
+LINE 75: handwriting forging, stolen bank-note passing, and such-like. All sorts
+LINE 76: of traps as Compeyson could set with his head, and keep his own legs
+LINE 77: out of and get the profits from and let another man in for, was
+LINE 78: Compeyson's business. He'd no more heart than a iron file, he was as
+LINE 79: cold as death, and he had the head of the Devil afore mentioned.
+LINE 80: "There was another in with Compeyson, as was called Arthur,—not as
+LINE 81: being so chrisen'd, but as a surname. He was in a Decline, and was a
+LINE 82: shadow to look at. Him and Compeyson had been in a bad thing with a
+LINE 83: rich lady some years afore, and they'd made a pot of money by it; but
+LINE 84: Compeyson betted and gamed, and he'd have run through the king's taxes.
+LINE 85: So, Arthur was a dying, and a dying poor and with the horrors on him,
+LINE 86: and Compeyson's wife (which Compeyson kicked mostly) was a having pity
+LINE 87: on him when she could, and Compeyson was a having pity on nothing and
+LINE 88: nobody.
+LINE 89: "I might a took warning by Arthur, but I didn't; and I won't pretend I
+LINE 90: was partick'ler—for where 'ud be the good on it, dear boy and comrade?
+LINE 91: So I begun wi' Compeyson, and a poor tool I was in his hands. Arthur
+LINE 92: lived at the top of Compeyson's house (over nigh Brentford it was), and
+LINE 93: Compeyson kept a careful account agen him for board and lodging, in
+LINE 94: case he should ever get better to work it out. But Arthur soon settled
+LINE 95: the account. The second or third time as ever I see him, he come a
+LINE 96: tearing down into Compeyson's parlour late at night, in only a flannel
+LINE 97: gown, with his hair all in a sweat, and he says to Compeyson's wife,
+LINE 98: 'Sally, she really is upstairs alonger me, now, and I can't get rid of
+LINE 99: her. She's all in white,' he says, 'wi' white flowers in her hair, and
+LINE 100: she's awful mad, and she's got a shroud hanging over her arm, and she
+LINE 101: says she'll put it on me at five in the morning.'
+LINE 102: "Says Compeyson: 'Why, you fool, don't you know she's got a living
+LINE 103: body? And how should she be up there, without coming through the door,
+LINE 104: or in at the window, and up the stairs?'
+LINE 105: "'I don't know how she's there,' says Arthur, shivering dreadful with
+LINE 106: the horrors, 'but she's standing in the corner at the foot of the bed,
+LINE 107: awful mad. And over where her heart's broke—_you_ broke it!—there's
+LINE 108: drops of blood.'
+LINE 109: "Compeyson spoke hardy, but he was always a coward. 'Go up alonger this
+LINE 110: drivelling sick man,' he says to his wife, 'and Magwitch, lend her a
+LINE 111: hand, will you?' But he never come nigh himself.
+LINE 112: "Compeyson's wife and me took him up to bed agen, and he raved most
+LINE 113: dreadful. 'Why look at her!' he cries out. 'She's a shaking the shroud
+LINE 114: at me! Don't you see her? Look at her eyes! Ain't it awful to see her
+LINE 115: so mad?' Next he cries, 'She'll put it on me, and then I'm done for!
+LINE 116: Take it away from her, take it away!' And then he catched hold of us,
+LINE 117: and kep on a talking to her, and answering of her, till I half believed
+LINE 118: I see her myself.
+LINE 119: "Compeyson's wife, being used to him, giv him some liquor to get the
+LINE 120: horrors off, and by and by he quieted. 'O, she's gone! Has her keeper
+LINE 121: been for her?' he says. 'Yes,' says Compeyson's wife. 'Did you tell him
+LINE 122: to lock her and bar her in?' 'Yes.' 'And to take that ugly thing away
+LINE 123: from her?' 'Yes, yes, all right.' 'You're a good creetur,' he says,
+LINE 124: 'don't leave me, whatever you do, and thank you!'
+LINE 125: "He rested pretty quiet till it might want a few minutes of five, and
+LINE 126: then he starts up with a scream, and screams out, 'Here she is! She's
+LINE 127: got the shroud again. She's unfolding it. She's coming out of the
+LINE 128: corner. She's coming to the bed. Hold me, both on you—one of each
+LINE 129: side—don't let her touch me with it. Hah! she missed me that time.
+LINE 130: Don't let her throw it over my shoulders. Don't let her lift me up to
+LINE 131: get it round me. She's lifting me up. Keep me down!' Then he lifted
+LINE 132: himself up hard, and was dead.
+LINE 133: "Compeyson took it easy as a good riddance for both sides. Him and me
+LINE 134: was soon busy, and first he swore me (being ever artful) on my own
+LINE 135: book,—this here little black book, dear boy, what I swore your comrade
+LINE 136: on.
+LINE 137: "Not to go into the things that Compeyson planned, and I done—which 'ud
+LINE 138: take a week—I'll simply say to you, dear boy, and Pip's comrade, that
+LINE 139: that man got me into such nets as made me his black slave. I was always
+LINE 140: in debt to him, always under his thumb, always a working, always a
+LINE 141: getting into danger. He was younger than me, but he'd got craft, and
+LINE 142: he'd got learning, and he overmatched me five hundred times told and no
+LINE 143: mercy. My Missis as I had the hard time wi'—Stop though! I ain't
+LINE 144: brought _her_ in—"
+LINE 145: He looked about him in a confused way, as if he had lost his place in
+LINE 146: the book of his remembrance; and he turned his face to the fire, and
+LINE 147: spread his hands broader on his knees, and lifted them off and put them
+LINE 148: on again.
+LINE 149: "There ain't no need to go into it," he said, looking round once more.
+LINE 150: "The time wi' Compeyson was a'most as hard a time as ever I had; that
+LINE 151: said, all's said. Did I tell you as I was tried, alone, for
+LINE 152: misdemeanor, while with Compeyson?"
+LINE 153: I answered, No.
+LINE 154: "Well!" he said, "I _was_, and got convicted. As to took up on
+LINE 155: suspicion, that was twice or three times in the four or five year that
+LINE 156: it lasted; but evidence was wanting. At last, me and Compeyson was both
+LINE 157: committed for felony,—on a charge of putting stolen notes in
+LINE 158: circulation,—and there was other charges behind. Compeyson says to me,
+LINE 159: 'Separate defences, no communication,' and that was all. And I was so
+LINE 160: miserable poor, that I sold all the clothes I had, except what hung on
+LINE 161: my back, afore I could get Jaggers.
+LINE 162: "When we was put in the dock, I noticed first of all what a gentleman
+LINE 163: Compeyson looked, wi' his curly hair and his black clothes and his
+LINE 164: white pocket-handkercher, and what a common sort of a wretch I looked.
+LINE 165: When the prosecution opened and the evidence was put short, aforehand,
+LINE 166: I noticed how heavy it all bore on me, and how light on him. When the
+LINE 167: evidence was giv in the box, I noticed how it was always me that had
+LINE 168: come for'ard, and could be swore to, how it was always me that the
+LINE 169: money had been paid to, how it was always me that had seemed to work
+LINE 170: the thing and get the profit. But when the defence come on, then I see
+LINE 171: the plan plainer; for, says the counsellor for Compeyson, 'My lord and
+LINE 172: gentlemen, here you has afore you, side by side, two persons as your
+LINE 173: eyes can separate wide; one, the younger, well brought up, who will be
+LINE 174: spoke to as such; one, the elder, ill brought up, who will be spoke to
+LINE 175: as such; one, the younger, seldom if ever seen in these here
+LINE 176: transactions, and only suspected; t'other, the elder, always seen in
+LINE 177: 'em and always wi' his guilt brought home. Can you doubt, if there is
+LINE 178: but one in it, which is the one, and, if there is two in it, which is
+LINE 179: much the worst one?' And such-like. And when it come to character,
+LINE 180: warn't it Compeyson as had been to the school, and warn't it his
+LINE 181: schoolfellows as was in this position and in that, and warn't it him as
+LINE 182: had been know'd by witnesses in such clubs and societies, and nowt to
+LINE 183: his disadvantage? And warn't it me as had been tried afore, and as had
+LINE 184: been know'd up hill and down dale in Bridewells and Lock-Ups! And when
+LINE 185: it come to speech-making, warn't it Compeyson as could speak to 'em wi'
+LINE 186: his face dropping every now and then into his white
+LINE 187: pocket-handkercher,—ah! and wi' verses in his speech, too,—and warn't
+LINE 188: it me as could only say, 'Gentlemen, this man at my side is a most
+LINE 189: precious rascal'? And when the verdict come, warn't it Compeyson as was
+LINE 190: recommended to mercy on account of good character and bad company, and
+LINE 191: giving up all the information he could agen me, and warn't it me as got
+LINE 192: never a word but Guilty? And when I says to Compeyson, 'Once out of
+LINE 193: this court, I'll smash that face of yourn!' ain't it Compeyson as prays
+LINE 194: the Judge to be protected, and gets two turnkeys stood betwixt us? And
+LINE 195: when we're sentenced, ain't it him as gets seven year, and me fourteen,
+LINE 196: and ain't it him as the Judge is sorry for, because he might a done so
+LINE 197: well, and ain't it me as the Judge perceives to be a old offender of
+LINE 198: wiolent passion, likely to come to worse?"
+LINE 199: He had worked himself into a state of great excitement, but he checked
+LINE 200: it, took two or three short breaths, swallowed as often, and stretching
+LINE 201: out his hand towards me said, in a reassuring manner, "I ain't a-going
+LINE 202: to be low, dear boy!"
+LINE 203: He had so heated himself that he took out his handkerchief and wiped
+LINE 204: his face and head and neck and hands, before he could go on.
+LINE 205: [Illustration]
+LINE 206: "I had said to Compeyson that I'd smash that face of his, and I swore
+LINE 207: Lord smash mine! to do it. We was in the same prison-ship, but I
+LINE 208: couldn't get at him for long, though I tried. At last I come behind him
+LINE 209: and hit him on the cheek to turn him round and get a smashing one at
+LINE 210: him, when I was seen and seized. The black-hole of that ship warn't a
+LINE 211: strong one, to a judge of black-holes that could swim and dive. I
+LINE 212: escaped to the shore, and I was a hiding among the graves there,
+LINE 213: envying them as was in 'em and all over, when I first see my boy!"
+LINE 214: He regarded me with a look of affection that made him almost abhorrent
+LINE 215: to me again, though I had felt great pity for him.
+LINE 216: "By my boy, I was giv to understand as Compeyson was out on them
+LINE 217: marshes too. Upon my soul, I half believe he escaped in his terror, to
+LINE 218: get quit of me, not knowing it was me as had got ashore. I hunted him
+LINE 219: down. I smashed his face. 'And now,' says I 'as the worst thing I can
+LINE 220: do, caring nothing for myself, I'll drag you back.' And I'd have swum
+LINE 221: off, towing him by the hair, if it had come to that, and I'd a got him
+LINE 222: aboard without the soldiers.
+LINE 223: "Of course he'd much the best of it to the last,—his character was so
+LINE 224: good. He had escaped when he was made half wild by me and my murderous
+LINE 225: intentions; and his punishment was light. I was put in irons, brought
+LINE 226: to trial again, and sent for life. I didn't stop for life, dear boy and
+LINE 227: Pip's comrade, being here."
+LINE 228: He wiped himself again, as he had done before, and then slowly took his
+LINE 229: tangle of tobacco from his pocket, and plucked his pipe from his
+LINE 230: button-hole, and slowly filled it, and began to smoke.
+LINE 231: "Is he dead?" I asked, after a silence.
+LINE 232: "Is who dead, dear boy?"
+LINE 233: "Compeyson."
+LINE 234: "He hopes _I_ am, if he's alive, you may be sure," with a fierce look.
+LINE 235: "I never heerd no more of him."
+LINE 236: Herbert had been writing with his pencil in the cover of a book. He
+LINE 237: softly pushed the book over to me, as Provis stood smoking with his
+LINE 238: eyes on the fire, and I read in it:—
+LINE 239: "Young Havisham's name was Arthur. Compeyson is the man who professed
+LINE 240: to be Miss Havisham's lover."
+LINE 241: I shut the book and nodded slightly to Herbert, and put the book by;
+LINE 242: but we neither of us said anything, and both looked at Provis as he
+LINE 243: stood smoking by the fire.

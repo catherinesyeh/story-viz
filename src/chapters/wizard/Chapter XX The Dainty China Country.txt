@@ -1,0 +1,142 @@
+LINE 1: While the Woodman was making a ladder from wood which he found in the
+LINE 2: forest Dorothy lay down and slept, for she was tired by the long walk.
+LINE 3: The Lion also curled himself up to sleep and Toto lay beside him.
+LINE 4: The Scarecrow watched the Woodman while he worked, and said to him:
+LINE 5: "I cannot think why this wall is here, nor what it is made of."
+LINE 6: "Rest your brains and do not worry about the wall," replied the
+LINE 7: Woodman. "When we have climbed over it, we shall know what is on the
+LINE 8: other side."
+LINE 9: After a time the ladder was finished. It looked clumsy, but the Tin
+LINE 10: Woodman was sure it was strong and would answer their purpose. The
+LINE 11: Scarecrow waked Dorothy and the Lion and Toto, and told them that the
+LINE 12: ladder was ready. The Scarecrow climbed up the ladder first, but he was
+LINE 13: so awkward that Dorothy had to follow close behind and keep him from
+LINE 14: falling off. When he got his head over the top of the wall the
+LINE 15: Scarecrow said, "Oh, my!"
+LINE 16: "Go on," exclaimed Dorothy.
+LINE 17: So the Scarecrow climbed farther up and sat down on the top of the
+LINE 18: wall, and Dorothy put her head over and cried, "Oh, my!" just as the
+LINE 19: Scarecrow had done.
+LINE 20: Then Toto came up, and immediately began to bark, but Dorothy made him
+LINE 21: be still.
+LINE 22: The Lion climbed the ladder next, and the Tin Woodman came last; but
+LINE 23: both of them cried, "Oh, my!" as soon as they looked over the wall.
+LINE 24: When they were all sitting in a row on the top of the wall, they looked
+LINE 25: down and saw a strange sight.
+LINE 26: Before them was a great stretch of country having a floor as smooth and
+LINE 27: shining and white as the bottom of a big platter. Scattered around were
+LINE 28: many houses made entirely of china and painted in the brightest colors.
+LINE 29: These houses were quite small, the biggest of them reaching only as
+LINE 30: high as Dorothy's waist. There were also pretty little barns, with
+LINE 31: china fences around them; and many cows and sheep and horses and pigs
+LINE 32: and chickens, all made of china, were standing about in groups.
+LINE 33: But the strangest of all were the people who lived in this queer
+LINE 34: country. There were milkmaids and shepherdesses, with brightly colored
+LINE 35: bodices and golden spots all over their gowns; and princesses with most
+LINE 36: gorgeous frocks of silver and gold and purple; and shepherds dressed in
+LINE 37: knee breeches with pink and yellow and blue stripes down them, and
+LINE 38: golden buckles on their shoes; and princes with jeweled crowns upon
+LINE 39: their heads, wearing ermine robes and satin doublets; and funny clowns
+LINE 40: in ruffled gowns, with round red spots upon their cheeks and tall,
+LINE 41: pointed caps. And, strangest of all, these people were all made of
+LINE 42: china, even to their clothes, and were so small that the tallest of
+LINE 43: them was no higher than Dorothy's knee.
+LINE 44: No one did so much as look at the travelers at first, except one little
+LINE 45: purple china dog with an extra-large head, which came to the wall and
+LINE 46: barked at them in a tiny voice, afterwards running away again.
+LINE 47: "How shall we get down?" asked Dorothy.
+LINE 48: They found the ladder so heavy they could not pull it up, so the
+LINE 49: Scarecrow fell off the wall and the others jumped down upon him so that
+LINE 50: the hard floor would not hurt their feet. Of course they took pains not
+LINE 51: to light on his head and get the pins in their feet. When all were
+LINE 52: safely down they picked up the Scarecrow, whose body was quite
+LINE 53: flattened out, and patted his straw into shape again.
+LINE 54: "We must cross this strange place in order to get to the other side,"
+LINE 55: said Dorothy, "for it would be unwise for us to go any other way except
+LINE 56: due South."
+LINE 57: They began walking through the country of the china people, and the
+LINE 58: first thing they came to was a china milkmaid milking a china cow. As
+LINE 59: they drew near, the cow suddenly gave a kick and kicked over the stool,
+LINE 60: the pail, and even the milkmaid herself, and all fell on the china
+LINE 61: ground with a great clatter.
+LINE 62: Dorothy was shocked to see that the cow had broken her leg off, and
+LINE 63: that the pail was lying in several small pieces, while the poor
+LINE 64: milkmaid had a nick in her left elbow.
+LINE 65: "There!" cried the milkmaid angrily. "See what you have done! My cow
+LINE 66: has broken her leg, and I must take her to the mender's shop and have
+LINE 67: it glued on again. What do you mean by coming here and frightening my
+LINE 68: cow?"
+LINE 69: "I'm very sorry," returned Dorothy. "Please forgive us."
+LINE 70: But the pretty milkmaid was much too vexed to make any answer. She
+LINE 71: picked up the leg sulkily and led her cow away, the poor animal limping
+LINE 72: on three legs. As she left them the milkmaid cast many reproachful
+LINE 73: glances over her shoulder at the clumsy strangers, holding her nicked
+LINE 74: elbow close to her side.
+LINE 75: Dorothy was quite grieved at this mishap.
+LINE 76: "We must be very careful here," said the kind-hearted Woodman, "or we
+LINE 77: may hurt these pretty little people so they will never get over it."
+LINE 78: A little farther on Dorothy met a most beautifully dressed young
+LINE 79: Princess, who stopped short as she saw the strangers and started to run
+LINE 80: away.
+LINE 81: Dorothy wanted to see more of the Princess, so she ran after her. But
+LINE 82: the china girl cried out:
+LINE 83: "Don't chase me! Don't chase me!"
+LINE 84: She had such a frightened little voice that Dorothy stopped and said,
+LINE 85: "Why not?"
+LINE 86: "Because," answered the Princess, also stopping, a safe distance away,
+LINE 87: "if I run I may fall down and break myself."
+LINE 88: "But could you not be mended?" asked the girl.
+LINE 89: "Oh, yes; but one is never so pretty after being mended, you know,"
+LINE 90: replied the Princess.
+LINE 91: "I suppose not," said Dorothy.
+LINE 92: "Now there is Mr. Joker, one of our clowns," continued the china lady,
+LINE 93: "who is always trying to stand upon his head. He has broken himself so
+LINE 94: often that he is mended in a hundred places, and doesn't look at all
+LINE 95: pretty. Here he comes now, so you can see for yourself."
+LINE 96: Indeed, a jolly little clown came walking toward them, and Dorothy
+LINE 97: could see that in spite of his pretty clothes of red and yellow and
+LINE 98: green he was completely covered with cracks, running every which way
+LINE 99: and showing plainly that he had been mended in many places.
+LINE 100: The Clown put his hands in his pockets, and after puffing out his
+LINE 101: cheeks and nodding his head at them saucily, he said:
+LINE 102: "My lady fair,
+LINE 103: Why do you stare
+LINE 104: At poor old Mr. Joker?
+LINE 105: You're quite as stiff
+LINE 106: And prim as if
+LINE 107: You'd eaten up a poker!"
+LINE 108: "Be quiet, sir!" said the Princess. "Can't you see these are strangers,
+LINE 109: and should be treated with respect?"
+LINE 110: "Well, that's respect, I expect," declared the Clown, and immediately
+LINE 111: stood upon his head.
+LINE 112: "Don't mind Mr. Joker," said the Princess to Dorothy. "He is
+LINE 113: considerably cracked in his head, and that makes him foolish."
+LINE 114: "Oh, I don't mind him a bit," said Dorothy. "But you are so beautiful,"
+LINE 115: she continued, "that I am sure I could love you dearly. Won't you let
+LINE 116: me carry you back to Kansas, and stand you on Aunt Em's mantel? I could
+LINE 117: carry you in my basket."
+LINE 118: "That would make me very unhappy," answered the china Princess. "You
+LINE 119: see, here in our country we live contentedly, and can talk and move
+LINE 120: around as we please. But whenever any of us are taken away our joints
+LINE 121: at once stiffen, and we can only stand straight and look pretty. Of
+LINE 122: course that is all that is expected of us when we are on mantels and
+LINE 123: cabinets and drawing-room tables, but our lives are much pleasanter
+LINE 124: here in our own country."
+LINE 125: "I would not make you unhappy for all the world!" exclaimed Dorothy.
+LINE 126: "So I'll just say good-bye."
+LINE 127: "Good-bye," replied the Princess.
+LINE 128: They walked carefully through the china country. The little animals and
+LINE 129: all the people scampered out of their way, fearing the strangers would
+LINE 130: break them, and after an hour or so the travelers reached the other
+LINE 131: side of the country and came to another china wall.
+LINE 132: It was not so high as the first, however, and by standing upon the
+LINE 133: Lion's back they all managed to scramble to the top. Then the Lion
+LINE 134: gathered his legs under him and jumped on the wall; but just as he
+LINE 135: jumped, he upset a china church with his tail and smashed it all to
+LINE 136: pieces.
+LINE 137: "That was too bad," said Dorothy, "but really I think we were lucky in
+LINE 138: not doing these little people more harm than breaking a cow's leg and a
+LINE 139: church. They are all so brittle!"
+LINE 140: "They are, indeed," said the Scarecrow, "and I am thankful I am made of
+LINE 141: straw and cannot be easily damaged. There are worse things in the world
+LINE 142: than being a Scarecrow."

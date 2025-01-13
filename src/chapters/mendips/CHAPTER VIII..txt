@@ -1,0 +1,455 @@
+LINE 1: BARLEY WOOD.
+LINE 2: Great preparations were made in the Vicar's Close at Wells for
+LINE 3: Charlotte's visit to Barley Wood. Her aunt gave her orders as to what
+LINE 4: she was to wear every day; how she was to be sure to make a proper
+LINE 5: curtsey at the door of the drawing-room when she entered Mrs. More's
+LINE 6: presence; that she was to play on the piano, and exhibit the screens she
+LINE 7: had just painted; and if Mrs. More admired them, she was to beg her to
+LINE 8: do her the favour to accept them.
+LINE 9: "Do not let Joyce commit herself by any rustic manners; you who have
+LINE 10: been carefully educated, my dear Charlotte, must try to do me credit,
+LINE 11: and give Joyce a hint--"
+LINE 12: "Joyce is so lovely!" Charlotte exclaimed, "it scarcely matters what she
+LINE 13: says, or wears."
+LINE 14: "My dear, Joyce has no _style_, and is given to express herself too
+LINE 15: freely; and, I _think_, her voice is sometimes pitched in too high a
+LINE 16: key. Yours is gentle and well modulated; now do me credit at Barley
+LINE 17: Wood, Charlotte; I have taken so much pains to form you on the model of
+LINE 18: a true gentlewoman; and you must remember how many girls would think it
+LINE 19: a great honour to pay a visit to Mrs. Hannah More."
+LINE 20: Charlotte promised to do her best; and when her uncle called to take her
+LINE 21: to the "Swan," where the four-wheel was waiting, she was in a flutter of
+LINE 22: excitement.
+LINE 23: Mr. Falconer greeted his sister in his usual frank kindly manner; and
+LINE 24: while Charlotte ran upstairs to get ready, Miss Falconer said:
+LINE 25: "I am glad to hear Melville is gone."
+LINE 26: The squire sighed.
+LINE 27: "Yes, he is gone, and his mother finds it hard to part from him."
+LINE 28: "Hard to part from him! Really, Arthur, when one considers how much
+LINE 29: anxiety he has caused, I wonder you should say that."
+LINE 30: "Ah! Letitia, that is all very well; but mothers' hearts are the same,
+LINE 31: whether their sons are good or bad. It seems to me that mothers
+LINE 32: generally love the children best, that give them the most trouble.
+LINE 33: However, the poor fellow is gone, bag and baggage. I went to Bath with
+LINE 34: him, and delivered him over to Mr. Crawford, a steady-going man he
+LINE 35: seems, and Melville will not have a chance of getting into mischief
+LINE 36: under his care, I hope. But it is an expensive matter. I had to put a
+LINE 37: hundred pounds into Crawford's keeping as a start; besides twenty I gave
+LINE 38: Melville."
+LINE 39: "You ought not to have given him more than five pounds," Miss Falconer
+LINE 40: said. "The whole management of Melville has been a mistake."
+LINE 41: "So you have told me before," said the squire. "My dear Letitia, single
+LINE 42: women always think they know a great deal about the affairs of married
+LINE 43: people, and, as experience is wanting, they commonly know nothing."
+LINE 44: "I have long since given up arguing the point with you, Arthur; however,
+LINE 45: let us say no more. I only hope that Melville may return a changed
+LINE 46: character, and then you will not regret this outlay for him. I only wish
+LINE 47: Joyce had some of the money spent on _her_."
+LINE 48: "Joyce!" the squire exclaimed--a smile breaking over his fine face;
+LINE 49: "Joyce! all the money in the world could not improve her. She is my joy
+LINE 50: and comfort. I half grudge letting her go to Barley Wood, even for a
+LINE 51: short visit."
+LINE 52: "You ought to be glad that she has had such an invitation; and, really,
+LINE 53: you have to thank me for it, Arthur. I take such a deep interest in
+LINE 54: Joyce. I have often tried to put before you what she needs, and now I
+LINE 55: have great hope that Mrs. More may suggest some plan for her."
+LINE 56: The squire began to feel very impatient; his sister's interest in his
+LINE 57: children was undoubted, but he did not want to have it perpetually
+LINE 58: brought before him. Miss Falconer had an unfortunate habit of sounding
+LINE 59: her own excellencies, especially with regard to her nieces and nephews.
+LINE 60: Then there were often little side hits at his wife; and it is always
+LINE 61: hard for a man like the squire, to be reminded that his sisters do not
+LINE 62: consider his wife their equal in the social scale, and the nearer the
+LINE 63: truth the less palatable is the assertion of it.
+LINE 64: "Is not Charlotte ready?" he exclaimed. "Joyce will be waiting at
+LINE 65: Draycot, where we are to pick her up. Thomas was to drive her there with
+LINE 66: her box, as he had an errand at Farmer Scott's."
+LINE 67: "In what did Joyce drive?"
+LINE 68: "In the gig; and Joyce likes to pay Mrs. Scott, who is a sad cripple, a
+LINE 69: visit sometimes, so it all fitted in very well. Come Charlotte, my
+LINE 70: dear," he said, turning to his niece. "We shall find the four-wheel at
+LINE 71: the 'Swan,' and I've the ostler at the Close gate waiting to take your
+LINE 72: luggage. Two boxes! Joyce only took one."
+LINE 73: "Charlotte was obliged to have a bonnet-box," her aunt said. "Her
+LINE 74: Tuscan bonnet would have been ruined with the dust if she had worn it."
+LINE 75: The squire was already in the little lobby, and, cutting short
+LINE 76: good-byes, he strode down the Close, while Charlotte ran back twice, to
+LINE 77: kiss her aunt and say in a tearful voice:
+LINE 78: "I cannot endure to leave you, sweet auntie."
+LINE 79: "Good-bye, my treasure, good-bye," Miss Falconer repeated again and
+LINE 80: again, and very genuine tears were on her own cheeks. They were a very
+LINE 81: demonstrative pair, and, as we should say in these days, "gushed" over
+LINE 82: each other, but real love did underlie the fanciful expression of it;
+LINE 83: and Miss Falconer looked on Charlotte with the pride that a modeller in
+LINE 84: plastic clay, looks upon the work of his hands, and remembers how
+LINE 85: carefully every detail has been wrought out, and how, in spite of a
+LINE 86: little flaw here and there, the result is satisfactory.
+LINE 87: Joyce was watching for her father at the door of Mr. Scott's farm, and
+LINE 88: came running down the garden between the lavender bushes and high
+LINE 89: shrub-fuschias, which were glowing scarlet in the sunshine.
+LINE 90: The squire waved his hand to the farmer's wife, who, crippled with
+LINE 91: rheumatism, could not leave her seat in the porch to come towards him. A
+LINE 92: farmboy lifted Joyce's box to the back seat, where she soon mounted
+LINE 93: with a quick, alert spring, and then, with a shilling handed to the boy,
+LINE 94: the squire drove off.
+LINE 95: Joyce's heart sank a little when they turned in at the gates of Barley
+LINE 96: Wood.
+LINE 97: "Are you coming in with us, father?"
+LINE 98: "No, no, my dear; I must get back as fast as I can. It is a good many
+LINE 99: miles for Mavis at a stretch."
+LINE 100: They drew up at the door, and an old servant answered the ringing of the
+LINE 101: bell, which Joyce had jumped down to pull by a handle, made of a deer's
+LINE 102: foot. The servant's face was not very pleasant, and a forbidding looking
+LINE 103: woman called out:
+LINE 104: "Company! yes, there's nothing but company. There's no rest from it."
+LINE 105: The boxes were taken down, and the squire, unwilling to prolong the
+LINE 106: parting, which he felt more keenly than he cared to own, waved his whip,
+LINE 107: and saying "Good bye, my Sunshine, good-bye," drove off.
+LINE 108: "This way," the woman said, passing across the hall and opening the door
+LINE 109: of a low, pretty room, sweet with that scent of rose leaves and
+LINE 110: lavender, which always belonged to the atmosphere of a country house
+LINE 111: long ago. It was an aroma in which many scents blended, with no very
+LINE 112: great strength--a fragrance which dwells in the memory amongst the
+LINE 113: pleasant things of early days.
+LINE 114: There was nothing very striking about Barley Wood; it was simply a
+LINE 115: pretty country residence--a place to live and die in. There was an air
+LINE 116: of tranquility about it, and an absence of anything like fashion or
+LINE 117: show, which was very refreshing.
+LINE 118: Miss Frowde rose to greet the two girls, and, saying that Mrs. More
+LINE 119: would see them after dinner, she led them to two rooms at the back of
+LINE 120: the house, near the servants' quarters.
+LINE 121: "The house will be full next week for the Bible meeting at Wrington, so
+LINE 122: we thought you would not object to these rooms. I hope you will be
+LINE 123: comfortable."
+LINE 124: The rooms opened out of each other, and were very plain in their
+LINE 125: furniture. Joyce, accustomed to her mother's scrupulous care about every
+LINE 126: little detail, noticed that the counterpane on her bed was a good deal
+LINE 127: rumpled, and there were rims of dust on the bosses of the old-fashioned
+LINE 128: round mirror. Evidently the servants at Barley Wood had not taken much
+LINE 129: trouble about the guests.
+LINE 130: Indeed, the shameful neglect of Mrs. More's servants, and their bad
+LINE 131: conduct, had even then been canvassed by outsiders, though the old lady
+LINE 132: herself was perfectly unconscious of it.
+LINE 133: The ingratitude of her servants, whom she had spoiled with such
+LINE 134: excessive indulgence, was a dark cloud over Hannah More's last days, and
+LINE 135: sent her forth at last, with all the weight of her years upon her, to
+LINE 136: seek a new home, and turn her back on Barley Wood for ever.
+LINE 137: The girls made a quick toilette and then went down, linked arm in arm,
+LINE 138: to the dining room, where Miss Frowde awaited them.
+LINE 139: The beautiful valley in which Wrington lies, stretched out before the
+LINE 140: windows, and the range of hills which enclosed it were shining in the
+LINE 141: full light of the July afternoon.
+LINE 142: Miss Frowde was not very conversational; she asked a few common-place
+LINE 143: questions, to which Joyce exerted herself to reply, but Charlotte took
+LINE 144: refuge in silence; she was far too much occupied with considering what
+LINE 145: impression she was making, to talk easily and naturally, as her cousin
+LINE 146: did.
+LINE 147: "I dare say you would like a turn in the grounds, after dinner," Miss
+LINE 148: Frowde said, "and I will inquire when dear Mrs. More would like to see
+LINE 149: you. It will only be one at a time; she is husbanding her strength for
+LINE 150: the Bible meeting, when seventeen or eighteen friends will dine here."
+LINE 151: Presently one of the maid servants came into the room.
+LINE 152: "Mrs. More wishes to see Miss _Fork_ner, and I was to say that the other
+LINE 153: might go into the village with you, Miss Frowde, if she pleased."
+LINE 154: "You had better go immediately," Miss Frowde said to Joyce. "Dear Mrs.
+LINE 155: More does not like to be kept waiting."
+LINE 156: Joyce rose at once and followed the maid to a small sitting room, where
+LINE 157: Mrs. More was seated in a deep armchair.
+LINE 158: A large table was near her, covered with books and papers, and a small
+LINE 159: fire burned upon the hearth.
+LINE 160: Joyce felt as if she were going into the presence of royalty, and far
+LINE 161: more in awe of Mrs. More, than she had done when offering her the milk
+LINE 162: at the carriage door, before Fair Acres.
+LINE 163: Indeed Hannah More had a certain queenly dignity about her, and the
+LINE 164: reflection of those palmy days when she was the admired of all admirers
+LINE 165: in the gay London world, the friend of Garrick and the great Dr.
+LINE 166: Johnson, did, in some degree, remain with her always.
+LINE 167: The spiritual life in which she had lived and moved for so many years,
+LINE 168: had lifted her far above the interests and pursuits which once she held
+LINE 169: to be the end and aim of life. Her religion was eminently practical, and
+LINE 170: to do good and to communicate was never forgotten. Nevertheless, the
+LINE 171: literary efforts which had made her famous, her brilliant conversation,
+LINE 172: her intellectual powers, had given her a certain tone and dignity, which
+LINE 173: while attractive, might yet be called the air of superiority, which in
+LINE 174: those days was conceded, to be as quite the proper attitude for any
+LINE 175: woman who had made herself a name. Now, in the great crowd of authors
+LINE 176: and craftswomen of the pen, it is hard for anyone to lift her head above
+LINE 177: her neighbours.
+LINE 178: A thing of the past indeed it is to remember how famous "the little
+LINE 179: Burney," as Dr. Johnson called her, became; how flattery was poured upon
+LINE 180: her, how no one dared to be jealous, because no one would dare to
+LINE 181: emulate her performances. To be great in London Society in Hannah More's
+LINE 182: early days, was to be great indeed. The author of "Percy" was presented
+LINE 183: with a laurel crown, the stems confined within an elegant ring, and
+LINE 184: Garrick himself read aloud the play to a select circle of admiring
+LINE 185: listeners!
+LINE 186: But though history repeats itself, and fashion ruled then as now, in
+LINE 187: literature as in other things, I think there was more honest and kindly
+LINE 188: appreciation of the work of others than we have now-a-days.
+LINE 189: The literary field was narrower, it is true, and therefore was not
+LINE 190: broken up into plots, each plot hedged in by various conceits--a barrier
+LINE 191: the uninitiated cannot pass. All flowers growing outside the barrier
+LINE 192: are called weeds; and if they are fragrant, they are pronounced sickly;
+LINE 193: if bright and vivid in colour, common. I may be wrong, but I think this
+LINE 194: self-sufficient, dogmatic criticism is very much on the increase, and
+LINE 195: that the little jealousies and rivalries amongst men and women who
+LINE 196: follow the same profession in art or literature grow more frequent.
+LINE 197: Tongue and pen are often both too sharp; and the superficial chatter
+LINE 198: about books and authors, pictures and music--both English and
+LINE 199: foreign--is too often passed as the real coin of the great realm of
+LINE 200: literature, when it is but a base imitation, stamped, it may be, on a
+LINE 201: showy surface with the same token, but utterly worthless when the first
+LINE 202: brilliancy is worn off.
+LINE 203: "Come, my dear Miss Falconer," was Mrs. More's greeting to Joyce; "come
+LINE 204: and sit near me, that we may have a pleasant chat. Tell me how you have
+LINE 205: sped since I saw you, and whether you have studied the Book I gave you."
+LINE 206: "Yes, madam," Joyce said, as she seated herself on a high Chippendale
+LINE 207: chair, the seat covered with fine cross-stitch, close to Mrs. More;
+LINE 208: "yes, madam, I have read all the passages you marked; and I had no
+LINE 209: notion before that the Bible was so beautiful."
+LINE 210: "Ah, my child, it is a deep mine; its treasures do not lie on the
+LINE 211: surface; and let me tell you that I, who have drunk of the waters at
+LINE 212: many springs, find in the Bible alone, the living fountain of water.
+LINE 213: Your aunt told me she was anxious as to your education; she thought you
+LINE 214: needed more than your good father found it convenient to give you."
+LINE 215: "Father has so many boys," Joyce said, "and, of course, boarding schools
+LINE 216: are very expensive. I have had to help mother a great deal at home, and
+LINE 217: I never wished to go to school. I think Aunt Letitia means by education
+LINE 218: accomplishments like Charlotte's, and I have none of them. But," Joyce
+LINE 219: went on, "I have a very clever brother, Ralph, and, when he is at home
+LINE 220: for the holidays, I write his Latin exercises, and he corrects them, and
+LINE 221: I can read French with him; and then I know a good deal of natural
+LINE 222: history--because my brother Piers is lame, and nothing amuses him like
+LINE 223: collections of birds, and moths, and insects."
+LINE 224: "Well," Hannah More said, smiling, "I think you have laid a very good
+LINE 225: foundation; upon this, as you grow older, you can build up many fair
+LINE 226: temples of knowledge, and I hope they will be ornamented by wisdom. You
+LINE 227: know my story, I dare say."
+LINE 228: Joyce hesitated, "I know you write plays and books. We have 'Christian
+LINE 229: Morals,' and 'Village Politics.' But----"
+LINE 230: "Oh," Hannah More said, "those are my published works. I was alluding to
+LINE 231: the story of my own life. I always like to bring it before the young,
+LINE 232: because I can say to them, I have tasted all the world can give, and
+LINE 233: found it vanity. My dear, if I were now depending on the favours of the
+LINE 234: great for happiness, or the showering upon me of the fame which my
+LINE 235: literary work brought me, where should I be? An old woman in her
+LINE 236: eightieth year, can no longer dine with bishops and princes of the land.
+LINE 237: She can take no part in routs, and theatres would be a weariness; but,
+LINE 238: thank God, and I beg you, my child, to mark this, I turned from those
+LINE 239: vanities to strive to serve the living God when I was in my heyday. And
+LINE 240: why? Because I felt them then to be _but_ vanity, often vexation of
+LINE 241: spirit, and the higher part of me loathed the false lustre of the gay
+LINE 242: world."
+LINE 243: Joyce listened attentively to every word Mrs. More said, and her young
+LINE 244: heart gave in its allegiance to the beautiful old lady who, in her own
+LINE 245: brilliant style, told her of the days of her youth, and of many little
+LINE 246: incidents connected with the names of distinguished men and women who
+LINE 247: had passed away.
+LINE 248: "I expected opposition," she said with a sigh, "but we were a fourfold
+LINE 249: band of sisters then, and we could meet a legion of objectors with a
+LINE 250: bright face. Now, I alone am left, and can no longer give personal care
+LINE 251: to the work. But I have kindled the spark, with God's help, and I do
+LINE 252: trust the light will shine over the hills of Somersetshire when I am
+LINE 253: laid in yonder churchyard. The Mendip miners give me the most
+LINE 254: uneasiness; they are so rough, and wild, and lawless."
+LINE 255: "Yes," Joyce said. "We, that is, Mr. Arundel and I, met the man who had
+LINE 256: been brought before the magistrates at Wells, and he knocked down Mr.
+LINE 257: Arundel, and----"
+LINE 258: "I heard of that. Poor Susan Priday, the man's daughter, has been a good
+LINE 259: girl, and has had a sad life indeed."
+LINE 260: "I felt so sorry for her," Joyce said, "and I should like to help her.
+LINE 261: She must be so unhappy with a bad father. If mother would let me, I
+LINE 262: should like to have her in the kitchen; but I know she would not allow
+LINE 263: it."
+LINE 264: Mrs. More smiled.
+LINE 265: "I suppose your good mother thinks the education in our school has
+LINE 266: spoiled Susan for service.
+LINE 267: "Mother is a good mistress," Joyce ventured to say, "and cares for the
+LINE 268: maids, as maids, but she has a notion that people who have to earn their
+LINE 269: bread, ought not to be able to read."
+LINE 270: "Ah! that is a notion many have shared with your mother. Why, when the
+LINE 271: great Edward Colston first proposed to begin the good work of education
+LINE 272: in Bristol, he was voted by the Mayor and Aldermen as a dangerous
+LINE 273: person, likely to turn the sons of the poor into vipers, who should
+LINE 274: sting the rich when once they were raised out of ignorance. All that
+LINE 275: feeling has passed away in Bristol, as it will pass away in time in the
+LINE 276: country districts. Edward Colston's name is held now in honour; his
+LINE 277: school sends out useful members of society year by year. Then there is
+LINE 278: Robert Raikes at Gloucester, how his work has taken root. So I comfort
+LINE 279: myself with thinking that before this century has counted out its last
+LINE 280: year, Hannah More's schools for the sons of the soil under Mendip, will
+LINE 281: have won their way humbly but steadily to swell the great tide of
+LINE 282: progress which is bearing us on its breast. It is a wonderful age!" she
+LINE 283: continued. "God has shown us marvellous things. Steam has become our
+LINE 284: servant, and its concentrated force seems likely to move kingdoms, and
+LINE 285: verify the prophecy that men shall go to and fro on the earth. Then in
+LINE 286: our cities coal-gas is captured, and turns night into day. Who shall say
+LINE 287: what hidden forces yet lie undiscovered, needing only the brain to
+LINE 288: conceive, and the hand of some Watt to demonstrate the power, lying
+LINE 289: concealed in the mysteries of God's natural kingdom. Who was with you
+LINE 290: on Mendip when the rough fellow attacked you?"
+LINE 291: "Mr. Arundel," Joyce said, in a low voice, the colour rising to her
+LINE 292: face.
+LINE 293: Hannah More smiled, and said:
+LINE 294: "Was he your _preux chevalier_?"
+LINE 295: Joyce blushed a still rosier red.
+LINE 296: "I don't understand," she said, simply.
+LINE 297: "Your devoted knight!"
+LINE 298: "Of course, how stupid; but I so seldom hear French spoken; and I expect
+LINE 299: Ralph and I have a strange pronunciation."
+LINE 300: "French pronunciation can only be acquired by much speaking; and now
+LINE 301: finish the story of your knight."
+LINE 302: "Oh, it was only that the man, Susan's father, was angry, and wanted to
+LINE 303: force me to give him money; and Mr. Arundel made him move out of the
+LINE 304: way, and then, of course, the man was furious, and hurled him down upon
+LINE 305: the heather and gorse. We had lost our way, and father had to come out
+LINE 306: with two men, and lanthorns to look for us."
+LINE 307: All the time Joyce was speaking she felt those dark eyes were fixed on
+LINE 308: her, and she hurried on to the end of her story. Hannah More was too
+LINE 309: keen an observer of faces not to read what was written on Joyce's; but
+LINE 310: she only stroked the fair, rounded cheek gently, and said; "We shall be
+LINE 311: friends, I hope; there is only a short space in earth left for me, but,
+LINE 312: long or short, you may reckon on my sympathy. We will talk about
+LINE 313: education to-morrow. I have some letters demanding attention. That pile
+LINE 314: is yet unread; many are begging letters, some are even less pleasant
+LINE 315: than that;" and the old lady sighed. Even then the dishonesty and
+LINE 316: extravagance of her household were beginning to be noticed outside
+LINE 317: Barley Wood. Although her own eyes were blinded as to the cause, she
+LINE 318: felt the results keenly.
+LINE 319: This first day at Barley Wood was the beginning of a new life to Joyce.
+LINE 320: While Charlotte in her secret heart found the country dull, and almost
+LINE 321: wished herself back in Wells, a new world opened for Joyce. Mrs. More
+LINE 322: would recite passages from Milton's "Paradise Lost," and fill Joyce's
+LINE 323: mind with the beauties of the Garden of Eden, till she had thoughts for
+LINE 324: nothing else. Mrs. More told her she reminded her of a great man who on
+LINE 325: reading Milton for the first time, said he forgot that there was anyone
+LINE 326: else in the world but himself and Adam and Eve!
+LINE 327: Charlotte dawdled over a bit of fancy work, which her aunt had hoped
+LINE 328: would awake Mrs. More's admiration, but as it met with but faint praise,
+LINE 329: Charlotte felt herself aggrieved, and made various uncomplimentary
+LINE 330: remarks, in private, upon the coarse aprons which Miss Frowde produced
+LINE 331: as needlework which was _really_ wanted. But the stories of London life
+LINE 332: pleased Charlotte, and she would wake up to interest when Mrs. More
+LINE 333: described the grand routs where the élite of London were gathered; of
+LINE 334: Johnson and his witty speeches; of Garrick, and of the continual round
+LINE 335: of gaiety which she had led, till she awoke from a dream to realities,
+LINE 336: and from those vanities to serve the living God.
+LINE 337: The Bible meeting at Wrington was the great event of the year, and the
+LINE 338: village was in holiday trim. The bells rang from the noble church tower;
+LINE 339: the school children, in clean white tippets and blue cotton frocks,
+LINE 340: walked in procession to Barley Wood, where tea was provided for parents
+LINE 341: and teachers, and several of those who had come to the meeting addressed
+LINE 342: them in simple words. Sir Thomas Acland had brought with him the Bishop
+LINE 343: of Ohio, and the good old man looked upon the scene before him, with
+LINE 344: eyes dim with emotion. Here in this Somersetshire village, lying under
+LINE 345: the range of low hills, had the influence of a good woman been felt. She
+LINE 346: had borne bitter scoffs and rudeness from her enemies; she had been
+LINE 347: laughed at even by her friends, and yet she had carried the banner of
+LINE 348: the Lord onward, and now in her old age the victory was won. The people
+LINE 349: loved her, and though there were malcontents in Wrington, as in every
+LINE 350: other place, still the feeling for the good work the four sisters had
+LINE 351: done, was stronger than that which was against it, and the Bible had
+LINE 352: become a treasure in many humble homes. No longer like that of which
+LINE 353: Joyce had spoken at Fair Acres--rarely opened and seldom read--nor like
+LINE 354: the one described by Hannah More herself as the only one she found at
+LINE 355: Cheddar, used to prop up a flower-pot in the window!
+LINE 356: There was a large dinner-party of seventeen at Barley Wood after the
+LINE 357: meeting, and this was a novelty to the two girls, who had never before
+LINE 358: sat down with so many at a table. Charlotte was in good spirits, having
+LINE 359: captured a pale-faced young clergyman, to whom she talked in her
+LINE 360: sentimental fashion, and who seemed almost as much fascinated by her, as
+LINE 361: she intended he should be.
+LINE 362: Joyce, on the contrary, had no time to think of herself. She was
+LINE 363: intently listening to all that was said, and the conversation of those
+LINE 364: refined and educated gentlemen charmed her. It was impossible not to be
+LINE 365: struck with her beautiful face, glowing with interest and, though silent
+LINE 366: herself, showing that she was drinking in all that was said around her.
+LINE 367: It was the same afterwards in Mrs. More's sitting-room, where all the
+LINE 368: guests gathered to sip fragrant tea and coffee, and talk over the
+LINE 369: burning questions of the day.
+LINE 370: The good Bishop of Ohio, who had laboured long in the field abroad, as
+LINE 371: Hannah More had laboured at home, knew well how rough was the road,
+LINE 372: which those who desire the highest good of others, must ever tread.
+LINE 373: Hannah More was speaking of the deep anxiety that the condition of the
+LINE 374: Mendip miners caused her, and how, of all her work, that seemed to be
+LINE 375: bringing forth the least fruit.
+LINE 376: "An ear here and there is gathered," she said; "but the harvest is scant
+LINE 377: indeed."
+LINE 378: Joyce, who had been listening earnestly, said:
+LINE 379: "Susan Priday is an 'ear,' I am sure. She seemed to try to do all she
+LINE 380: could, and--"
+LINE 381: The Bishop turned quickly. Joyce almost thought she ought not to have
+LINE 382: spoken, and that the Bishop and Mrs. More would think her forward, but
+LINE 383: the good old man said:
+LINE 384: "That is right, my dear young lady. It is well to remind our dear friend
+LINE 385: that the grains she has scattered are not all in vain. Some will fall on
+LINE 386: the good ground, and by God's blessing spring up and bear fruit. Who is
+LINE 387: Susan Priday?"
+LINE 388: "Come nearer the Bishop, Joyce," Mrs. More said, kindly, "and tell him
+LINE 389: your experience of Mendip miners, and of Susan also."
+LINE 390: Joyce did as she was told, and soon forgot her nervousness at being
+LINE 391: called upon to talk to so great a person as a Bishop, as she narrated
+LINE 392: with sweet simplicity, and yet with dramatic power, the story which we
+LINE 393: already know.
+LINE 394: By degrees the voices of people in other parts of the room ceased, and
+LINE 395: Joyce found herself the centre of interest as she told her story.
+LINE 396: "Who is she?" Sir Thomas Acland asked, as Joyce finished her story, and
+LINE 397: answered a summons from Miss Frowde at the further end of the room.
+LINE 398: Failing a little in the good manners, on which Miss Falconer put so high
+LINE 399: a value, Charlotte answered a question _not_ addressed to her.
+LINE 400: "She is my cousin, sir--Joyce Falconer. She has led a very retired life
+LINE 401: at Fair Acres."
+LINE 402: "There are many flowers that bloom unseen, and she is one of the fairest
+LINE 403: I ever saw. If a retired life produces such good effect, it strikes me,
+LINE 404: Mrs. More, we had all better go into retirement. But--"
+LINE 405: He stopped, for Joyce, with a white face from which every vestige of
+LINE 406: colour had vanished, came back to her position by Mrs. More's chair. Her
+LINE 407: hands were clasped tightly together, her whole attitude one of
+LINE 408: repressed emotion.
+LINE 409: "If you please, Mrs. More, I must beg you to excuse me. I am sent for to
+LINE 410: go home, for my father--Oh! my father!--is dying."
+LINE 411: Miss Frowde was close behind Joyce.
+LINE 412: "You must not agitate dear Mrs. More," she said. "I will take care of
+LINE 413: Miss Falconer," she added. "The gig is waiting."
+LINE 414: "Do you know any particulars?"
+LINE 415: Miss Frowde shook her head, and was leading Joyce away, when she
+LINE 416: suddenly turned back.
+LINE 417: "Dear madam, dear Mrs. More, please pray for me;" and, unable to resist
+LINE 418: the impulse, she threw her arms round the old lady's neck.
+LINE 419: "Miss Falconer, indeed you must restrain your emotion; you will agitate
+LINE 420: dear Mrs. More."
+LINE 421: But Hannah More held the trembling form of the poor stricken child
+LINE 422: close.
+LINE 423: "My dear," she whispered, "many are the sorrows through which I have
+LINE 424: passed, and He whom I trust has never forsaken me. Trust in Him, and to
+LINE 425: His loving kindness I commend you."
+LINE 426: Joyce raised herself from the old lady's arms, and the Bishop, deeply
+LINE 427: moved, laid his hand upon her head.
+LINE 428: "The Lord bless you and keep you, my child, now and evermore."
+LINE 429: Joyce did not weep or make any outward sign of great distress. She left
+LINE 430: all tears and cries to Charlotte, who, sincerely grieved, took care that
+LINE 431: every one should know it.
+LINE 432: "Shall I come? Shall I come with you? Oh, Joyce--my darling Joyce! Oh
+LINE 433: dear! Oh dear!"
+LINE 434: "No, Charlotte; don't come; don't come. Help me to fasten my cloak. I--I
+LINE 435: can't find the clasp."
+LINE 436: Miss Frowde thrust Charlotte aside, and fastening Joyce's cloak, seemed
+LINE 437: only anxious to get her off as speedily as possible. It was a very
+LINE 438: inconvenient episode; and if Mrs. More were the worse for the excitement
+LINE 439: it would be very disastrous. Secretly Miss Frowde wished she could get
+LINE 440: rid of Charlotte too, but as she only wept and moaned, and made no
+LINE 441: attempt to put her things together, Miss Frowde refrained from urging
+LINE 442: her to do so. Miss Frowde was not unkind or unfeeling, she was simply
+LINE 443: and absolutely devoted to Mrs. More; and, indeed, it was well that she
+LINE 444: was always at hand to perform the hundred and one kindly offices, which
+LINE 445: the spoiled and pampered domestics neglected.
+LINE 446: Joyce was soon ready, Charlotte clinging to her to the last, and
+LINE 447: following her to the hall, with sobs and tears.
+LINE 448: Nevertheless, as the gig drove off, and the wheels crunched the gravel
+LINE 449: on the drive, Charlotte returned to her room to bathe her eyes and
+LINE 450: smooth her hair, and soon returned with a woe-begone face to the
+LINE 451: sitting-room, and received, with some complacency, the condolences of
+LINE 452: the pale-faced curate in the corner, sharing his hymn-book when the
+LINE 453: family service of praise and prayer began, with which all gatherings
+LINE 454: closed at Barley Wood.
+LINE 455: [Illustration]

@@ -1,0 +1,125 @@
+LINE 1: After a few hours the road began to be rough, and the walking grew so
+LINE 2: difficult that the Scarecrow often stumbled over the yellow bricks,
+LINE 3: which were here very uneven. Sometimes, indeed, they were broken or
+LINE 4: missing altogether, leaving holes that Toto jumped across and Dorothy
+LINE 5: walked around. As for the Scarecrow, having no brains, he walked
+LINE 6: straight ahead, and so stepped into the holes and fell at full length
+LINE 7: on the hard bricks. It never hurt him, however, and Dorothy would pick
+LINE 8: him up and set him upon his feet again, while he joined her in laughing
+LINE 9: merrily at his own mishap.
+LINE 10: The farms were not nearly so well cared for here as they were farther
+LINE 11: back. There were fewer houses and fewer fruit trees, and the farther
+LINE 12: they went the more dismal and lonesome the country became.
+LINE 13: At noon they sat down by the roadside, near a little brook, and Dorothy
+LINE 14: opened her basket and got out some bread. She offered a piece to the
+LINE 15: Scarecrow, but he refused.
+LINE 16: "I am never hungry," he said, "and it is a lucky thing I am not, for my
+LINE 17: mouth is only painted, and if I should cut a hole in it so I could eat,
+LINE 18: the straw I am stuffed with would come out, and that would spoil the
+LINE 19: shape of my head."
+LINE 20: Dorothy saw at once that this was true, so she only nodded and went on
+LINE 21: eating her bread.
+LINE 22: "Tell me something about yourself and the country you came from," said
+LINE 23: the Scarecrow, when she had finished her dinner. So she told him all
+LINE 24: about Kansas, and how gray everything was there, and how the cyclone
+LINE 25: had carried her to this queer Land of Oz.
+LINE 26: The Scarecrow listened carefully, and said, "I cannot understand why
+LINE 27: you should wish to leave this beautiful country and go back to the dry,
+LINE 28: gray place you call Kansas."
+LINE 29: "That is because you have no brains" answered the girl. "No matter how
+LINE 30: dreary and gray our homes are, we people of flesh and blood would
+LINE 31: rather live there than in any other country, be it ever so beautiful.
+LINE 32: There is no place like home."
+LINE 33: The Scarecrow sighed.
+LINE 34: "Of course I cannot understand it," he said. "If your heads were
+LINE 35: stuffed with straw, like mine, you would probably all live in the
+LINE 36: beautiful places, and then Kansas would have no people at all. It is
+LINE 37: fortunate for Kansas that you have brains."
+LINE 38: "Won't you tell me a story, while we are resting?" asked the child.
+LINE 39: The Scarecrow looked at her reproachfully, and answered:
+LINE 40: "My life has been so short that I really know nothing whatever. I was
+LINE 41: only made day before yesterday. What happened in the world before that
+LINE 42: time is all unknown to me. Luckily, when the farmer made my head, one
+LINE 43: of the first things he did was to paint my ears, so that I heard what
+LINE 44: was going on. There was another Munchkin with him, and the first thing
+LINE 45: I heard was the farmer saying, 'How do you like those ears?'
+LINE 46: "'They aren't straight,'" answered the other.
+LINE 47: "'Never mind,'" said the farmer. "'They are ears just the same,'" which
+LINE 48: was true enough.
+LINE 49: "'Now I'll make the eyes,'" said the farmer. So he painted my right
+LINE 50: eye, and as soon as it was finished I found myself looking at him and
+LINE 51: at everything around me with a great deal of curiosity, for this was my
+LINE 52: first glimpse of the world.
+LINE 53: "'That's a rather pretty eye,'" remarked the Munchkin who was watching
+LINE 54: the farmer. "'Blue paint is just the color for eyes.'
+LINE 55: "'I think I'll make the other a little bigger,'" said the farmer. And
+LINE 56: when the second eye was done I could see much better than before. Then
+LINE 57: he made my nose and my mouth. But I did not speak, because at that time
+LINE 58: I didn't know what a mouth was for. I had the fun of watching them make
+LINE 59: my body and my arms and legs; and when they fastened on my head, at
+LINE 60: last, I felt very proud, for I thought I was just as good a man as
+LINE 61: anyone.
+LINE 62: "'This fellow will scare the crows fast enough,' said the farmer. 'He
+LINE 63: looks just like a man.'
+LINE 64: "'Why, he is a man,' said the other, and I quite agreed with him. The
+LINE 65: farmer carried me under his arm to the cornfield, and set me up on a
+LINE 66: tall stick, where you found me. He and his friend soon after walked
+LINE 67: away and left me alone.
+LINE 68: "I did not like to be deserted this way. So I tried to walk after them.
+LINE 69: But my feet would not touch the ground, and I was forced to stay on
+LINE 70: that pole. It was a lonely life to lead, for I had nothing to think of,
+LINE 71: having been made such a little while before. Many crows and other birds
+LINE 72: flew into the cornfield, but as soon as they saw me they flew away
+LINE 73: again, thinking I was a Munchkin; and this pleased me and made me feel
+LINE 74: that I was quite an important person. By and by an old crow flew near
+LINE 75: me, and after looking at me carefully he perched upon my shoulder and
+LINE 76: said:
+LINE 77: "'I wonder if that farmer thought to fool me in this clumsy manner. Any
+LINE 78: crow of sense could see that you are only stuffed with straw.' Then he
+LINE 79: hopped down at my feet and ate all the corn he wanted. The other birds,
+LINE 80: seeing he was not harmed by me, came to eat the corn too, so in a short
+LINE 81: time there was a great flock of them about me.
+LINE 82: "I felt sad at this, for it showed I was not such a good Scarecrow
+LINE 83: after all; but the old crow comforted me, saying, 'If you only had
+LINE 84: brains in your head you would be as good a man as any of them, and a
+LINE 85: better man than some of them. Brains are the only things worth having
+LINE 86: in this world, no matter whether one is a crow or a man.'
+LINE 87: "After the crows had gone I thought this over, and decided I would try
+LINE 88: hard to get some brains. By good luck you came along and pulled me off
+LINE 89: the stake, and from what you say I am sure the Great Oz will give me
+LINE 90: brains as soon as we get to the Emerald City."
+LINE 91: "I hope so," said Dorothy earnestly, "since you seem anxious to have
+LINE 92: them."
+LINE 93: "Oh, yes; I am anxious," returned the Scarecrow. "It is such an
+LINE 94: uncomfortable feeling to know one is a fool."
+LINE 95: "Well," said the girl, "let us go." And she handed the basket to the
+LINE 96: Scarecrow.
+LINE 97: There were no fences at all by the roadside now, and the land was rough
+LINE 98: and untilled. Toward evening they came to a great forest, where the
+LINE 99: trees grew so big and close together that their branches met over the
+LINE 100: road of yellow brick. It was almost dark under the trees, for the
+LINE 101: branches shut out the daylight; but the travelers did not stop, and
+LINE 102: went on into the forest.
+LINE 103: "If this road goes in, it must come out," said the Scarecrow, "and as
+LINE 104: the Emerald City is at the other end of the road, we must go wherever
+LINE 105: it leads us."
+LINE 106: "Anyone would know that," said Dorothy.
+LINE 107: "Certainly; that is why I know it," returned the Scarecrow. "If it
+LINE 108: required brains to figure it out, I never should have said it."
+LINE 109: After an hour or so the light faded away, and they found themselves
+LINE 110: stumbling along in the darkness. Dorothy could not see at all, but Toto
+LINE 111: could, for some dogs see very well in the dark; and the Scarecrow
+LINE 112: declared he could see as well as by day. So she took hold of his arm
+LINE 113: and managed to get along fairly well.
+LINE 114: "If you see any house, or any place where we can pass the night," she
+LINE 115: said, "you must tell me; for it is very uncomfortable walking in the
+LINE 116: dark."
+LINE 117: Soon after the Scarecrow stopped.
+LINE 118: "I see a little cottage at the right of us," he said, "built of logs
+LINE 119: and branches. Shall we go there?"
+LINE 120: "Yes, indeed," answered the child. "I am all tired out."
+LINE 121: So the Scarecrow led her through the trees until they reached the
+LINE 122: cottage, and Dorothy entered and found a bed of dried leaves in one
+LINE 123: corner. She lay down at once, and with Toto beside her soon fell into a
+LINE 124: sound sleep. The Scarecrow, who was never tired, stood up in another
+LINE 125: corner and waited patiently until morning came.

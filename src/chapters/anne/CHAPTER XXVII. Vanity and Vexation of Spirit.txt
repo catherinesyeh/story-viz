@@ -1,0 +1,211 @@
+LINE 1: MARILLA, walking home one late April evening from an Aid meeting,
+LINE 2: realized that the winter was over and gone with the thrill of delight
+LINE 3: that spring never fails to bring to the oldest and saddest as well as to
+LINE 4: the youngest and merriest. Marilla was not given to subjective analysis
+LINE 5: of her thoughts and feelings. She probably imagined that she was
+LINE 6: thinking about the Aids and their missionary box and the new carpet
+LINE 7: for the vestry room, but under these reflections was a harmonious
+LINE 8: consciousness of red fields smoking into pale-purply mists in the
+LINE 9: declining sun, of long, sharp-pointed fir shadows falling over the
+LINE 10: meadow beyond the brook, of still, crimson-budded maples around a
+LINE 11: mirrorlike wood pool, of a wakening in the world and a stir of hidden
+LINE 12: pulses under the gray sod. The spring was abroad in the land and
+LINE 13: Marilla's sober, middle-aged step was lighter and swifter because of its
+LINE 14: deep, primal gladness.
+LINE 15: Her eyes dwelt affectionately on Green Gables, peering through its
+LINE 16: network of trees and reflecting the sunlight back from its windows in
+LINE 17: several little coruscations of glory. Marilla, as she picked her steps
+LINE 18: along the damp lane, thought that it was really a satisfaction to know
+LINE 19: that she was going home to a briskly snapping wood fire and a table
+LINE 20: nicely spread for tea, instead of to the cold comfort of old Aid meeting
+LINE 21: evenings before Anne had come to Green Gables.
+LINE 22: Consequently, when Marilla entered her kitchen and found the fire black
+LINE 23: out, with no sign of Anne anywhere, she felt justly disappointed and
+LINE 24: irritated. She had told Anne to be sure and have tea ready at five
+LINE 25: o'clock, but now she must hurry to take off her second-best dress and
+LINE 26: prepare the meal herself against Matthew's return from plowing.
+LINE 27: "I'll settle Miss Anne when she comes home," said Marilla grimly, as
+LINE 28: she shaved up kindlings with a carving knife and with more vim than was
+LINE 29: strictly necessary. Matthew had come in and was waiting patiently for
+LINE 30: his tea in his corner. "She's gadding off somewhere with Diana, writing
+LINE 31: stories or practicing dialogues or some such tomfoolery, and never
+LINE 32: thinking once about the time or her duties. She's just got to be pulled
+LINE 33: up short and sudden on this sort of thing. I don't care if Mrs. Allan
+LINE 34: does say she's the brightest and sweetest child she ever knew. She may
+LINE 35: be bright and sweet enough, but her head is full of nonsense and there's
+LINE 36: never any knowing what shape it'll break out in next. Just as soon as
+LINE 37: she grows out of one freak she takes up with another. But there! Here I
+LINE 38: am saying the very thing I was so riled with Rachel Lynde for saying at
+LINE 39: the Aid today. I was real glad when Mrs. Allan spoke up for Anne, for
+LINE 40: if she hadn't I know I'd have said something too sharp to Rachel before
+LINE 41: everybody. Anne's got plenty of faults, goodness knows, and far be it
+LINE 42: from me to deny it. But I'm bringing her up and not Rachel Lynde, who'd
+LINE 43: pick faults in the Angel Gabriel himself if he lived in Avonlea. Just
+LINE 44: the same, Anne has no business to leave the house like this when I told
+LINE 45: her she was to stay home this afternoon and look after things. I must
+LINE 46: say, with all her faults, I never found her disobedient or untrustworthy
+LINE 47: before and I'm real sorry to find her so now."
+LINE 48: "Well now, I dunno," said Matthew, who, being patient and wise and,
+LINE 49: above all, hungry, had deemed it best to let Marilla talk her wrath
+LINE 50: out unhindered, having learned by experience that she got through
+LINE 51: with whatever work was on hand much quicker if not delayed by untimely
+LINE 52: argument. "Perhaps you're judging her too hasty, Marilla. Don't call her
+LINE 53: untrustworthy until you're sure she has disobeyed you. Mebbe it can all
+LINE 54: be explained--Anne's a great hand at explaining."
+LINE 55: "She's not here when I told her to stay," retorted Marilla. "I reckon
+LINE 56: she'll find it hard to explain _that_ to my satisfaction. Of course I knew
+LINE 57: you'd take her part, Matthew. But I'm bringing her up, not you."
+LINE 58: It was dark when supper was ready, and still no sign of Anne, coming
+LINE 59: hurriedly over the log bridge or up Lover's Lane, breathless and
+LINE 60: repentant with a sense of neglected duties. Marilla washed and put away
+LINE 61: the dishes grimly. Then, wanting a candle to light her way down the
+LINE 62: cellar, she went up to the east gable for the one that generally stood
+LINE 63: on Anne's table. Lighting it, she turned around to see Anne herself
+LINE 64: lying on the bed, face downward among the pillows.
+LINE 65: "Mercy on us," said astonished Marilla, "have you been asleep, Anne?"
+LINE 66: "No," was the muffled reply.
+LINE 67: "Are you sick then?" demanded Marilla anxiously, going over to the bed.
+LINE 68: Anne cowered deeper into her pillows as if desirous of hiding herself
+LINE 69: forever from mortal eyes.
+LINE 70: "No. But please, Marilla, go away and don't look at me. I'm in the
+LINE 71: depths of despair and I don't care who gets head in class or writes the
+LINE 72: best composition or sings in the Sunday-school choir any more. Little
+LINE 73: things like that are of no importance now because I don't suppose I'll
+LINE 74: ever be able to go anywhere again. My career is closed. Please, Marilla,
+LINE 75: go away and don't look at me."
+LINE 76: "Did anyone ever hear the like?" the mystified Marilla wanted to know.
+LINE 77: "Anne Shirley, whatever is the matter with you? What have you done? Get
+LINE 78: right up this minute and tell me. This minute, I say. There now, what is
+LINE 79: it?"
+LINE 80: Anne had slid to the floor in despairing obedience.
+LINE 81: "Look at my hair, Marilla," she whispered.
+LINE 82: Accordingly, Marilla lifted her candle and looked scrutinizingly at
+LINE 83: Anne's hair, flowing in heavy masses down her back. It certainly had a
+LINE 84: very strange appearance.
+LINE 85: "Anne Shirley, what have you done to your hair? Why, it's _green!_"
+LINE 86: Green it might be called, if it were any earthly color--a queer,
+LINE 87: dull, bronzy green, with streaks here and there of the original red
+LINE 88: to heighten the ghastly effect. Never in all her life had Marilla seen
+LINE 89: anything so grotesque as Anne's hair at that moment.
+LINE 90: "Yes, it's green," moaned Anne. "I thought nothing could be as bad as
+LINE 91: red hair. But now I know it's ten times worse to have green hair. Oh,
+LINE 92: Marilla, you little know how utterly wretched I am."
+LINE 93: "I little know how you got into this fix, but I mean to find out," said
+LINE 94: Marilla. "Come right down to the kitchen--it's too cold up here--and
+LINE 95: tell me just what you've done. I've been expecting something queer for
+LINE 96: some time. You haven't got into any scrape for over two months, and I
+LINE 97: was sure another one was due. Now, then, what did you do to your hair?"
+LINE 98: "I dyed it."
+LINE 99: "Dyed it! Dyed your hair! Anne Shirley, didn't you know it was a wicked
+LINE 100: thing to do?"
+LINE 101: "Yes, I knew it was a little wicked," admitted Anne. "But I thought it
+LINE 102: was worth while to be a little wicked to get rid of red hair. I counted
+LINE 103: the cost, Marilla. Besides, I meant to be extra good in other ways to
+LINE 104: make up for it."
+LINE 105: "Well," said Marilla sarcastically, "if I'd decided it was worth while
+LINE 106: to dye my hair I'd have dyed it a decent color at least. I wouldn't have
+LINE 107: dyed it green."
+LINE 108: "But I didn't mean to dye it green, Marilla," protested Anne dejectedly.
+LINE 109: "If I was wicked I meant to be wicked to some purpose. He said it would
+LINE 110: turn my hair a beautiful raven black--he positively assured me that it
+LINE 111: would. How could I doubt his word, Marilla? I know what it feels like
+LINE 112: to have your word doubted. And Mrs. Allan says we should never suspect
+LINE 113: anyone of not telling us the truth unless we have proof that they're
+LINE 114: not. I have proof now--green hair is proof enough for anybody. But I
+LINE 115: hadn't then and I believed every word he said _implicitly_."
+LINE 116: "Who said? Who are you talking about?"
+LINE 117: "The peddler that was here this afternoon. I bought the dye from him."
+LINE 118: "Anne Shirley, how often have I told you never to let one of those
+LINE 119: Italians in the house! I don't believe in encouraging them to come
+LINE 120: around at all."
+LINE 121: "Oh, I didn't let him in the house. I remembered what you told me, and I
+LINE 122: went out, carefully shut the door, and looked at his things on the step.
+LINE 123: Besides, he wasn't an Italian--he was a German Jew. He had a big box
+LINE 124: full of very interesting things and he told me he was working hard to
+LINE 125: make enough money to bring his wife and children out from Germany. He
+LINE 126: spoke so feelingly about them that it touched my heart. I wanted to buy
+LINE 127: something from him to help him in such a worthy object. Then all at once
+LINE 128: I saw the bottle of hair dye. The peddler said it was warranted to dye
+LINE 129: any hair a beautiful raven black and wouldn't wash off. In a trice I
+LINE 130: saw myself with beautiful raven-black hair and the temptation was
+LINE 131: irresistible. But the price of the bottle was seventy-five cents and I
+LINE 132: had only fifty cents left out of my chicken money. I think the peddler
+LINE 133: had a very kind heart, for he said that, seeing it was me, he'd sell it
+LINE 134: for fifty cents and that was just giving it away. So I bought it, and as
+LINE 135: soon as he had gone I came up here and applied it with an old hairbrush
+LINE 136: as the directions said. I used up the whole bottle, and oh, Marilla,
+LINE 137: when I saw the dreadful color it turned my hair I repented of being
+LINE 138: wicked, I can tell you. And I've been repenting ever since."
+LINE 139: "Well, I hope you'll repent to good purpose," said Marilla severely,
+LINE 140: "and that you've got your eyes opened to where your vanity has led you,
+LINE 141: Anne. Goodness knows what's to be done. I suppose the first thing is to
+LINE 142: give your hair a good washing and see if that will do any good."
+LINE 143: Accordingly, Anne washed her hair, scrubbing it vigorously with soap and
+LINE 144: water, but for all the difference it made she might as well have been
+LINE 145: scouring its original red. The peddler had certainly spoken the truth
+LINE 146: when he declared that the dye wouldn't wash off, however his veracity
+LINE 147: might be impeached in other respects.
+LINE 148: "Oh, Marilla, what shall I do?" questioned Anne in tears. "I can never
+LINE 149: live this down. People have pretty well forgotten my other mistakes--the
+LINE 150: liniment cake and setting Diana drunk and flying into a temper with
+LINE 151: Mrs. Lynde. But they'll never forget this. They will think I am not
+LINE 152: respectable. Oh, Marilla, 'what a tangled web we weave when first we
+LINE 153: practice to deceive.' That is poetry, but it is true. And oh, how Josie
+LINE 154: Pye will laugh! Marilla, I _cannot_ face Josie Pye. I am the unhappiest
+LINE 155: girl in Prince Edward Island."
+LINE 156: Anne's unhappiness continued for a week. During that time she went
+LINE 157: nowhere and shampooed her hair every day. Diana alone of outsiders knew
+LINE 158: the fatal secret, but she promised solemnly never to tell, and it may
+LINE 159: be stated here and now that she kept her word. At the end of the week
+LINE 160: Marilla said decidedly:
+LINE 161: "It's no use, Anne. That is fast dye if ever there was any. Your hair
+LINE 162: must be cut off; there is no other way. You can't go out with it looking
+LINE 163: like that."
+LINE 164: Anne's lips quivered, but she realized the bitter truth of Marilla's
+LINE 165: remarks. With a dismal sigh she went for the scissors.
+LINE 166: "Please cut it off at once, Marilla, and have it over. Oh, I feel that
+LINE 167: my heart is broken. This is such an unromantic affliction. The girls in
+LINE 168: books lose their hair in fevers or sell it to get money for some good
+LINE 169: deed, and I'm sure I wouldn't mind losing my hair in some such fashion
+LINE 170: half so much. But there is nothing comforting in having your hair cut
+LINE 171: off because you've dyed it a dreadful color, is there? I'm going to weep
+LINE 172: all the time you're cutting it off, if it won't interfere. It seems such
+LINE 173: a tragic thing."
+LINE 174: Anne wept then, but later on, when she went upstairs and looked in the
+LINE 175: glass, she was calm with despair. Marilla had done her work thoroughly
+LINE 176: and it had been necessary to shingle the hair as closely as possible.
+LINE 177: The result was not becoming, to state the case as mildly as may be. Anne
+LINE 178: promptly turned her glass to the wall.
+LINE 179: "I'll never, never look at myself again until my hair grows," she
+LINE 180: exclaimed passionately.
+LINE 181: Then she suddenly righted the glass.
+LINE 182: "Yes, I will, too. I'd do penance for being wicked that way. I'll look
+LINE 183: at myself every time I come to my room and see how ugly I am. And I
+LINE 184: won't try to imagine it away, either. I never thought I was vain about
+LINE 185: my hair, of all things, but now I know I was, in spite of its being
+LINE 186: red, because it was so long and thick and curly. I expect something will
+LINE 187: happen to my nose next."
+LINE 188: Anne's clipped head made a sensation in school on the following Monday,
+LINE 189: but to her relief nobody guessed the real reason for it, not even Josie
+LINE 190: Pye, who, however, did not fail to inform Anne that she looked like a
+LINE 191: perfect scarecrow.
+LINE 192: "I didn't say anything when Josie said that to me," Anne confided
+LINE 193: that evening to Marilla, who was lying on the sofa after one of her
+LINE 194: headaches, "because I thought it was part of my punishment and I ought
+LINE 195: to bear it patiently. It's hard to be told you look like a scarecrow
+LINE 196: and I wanted to say something back. But I didn't. I just swept her one
+LINE 197: scornful look and then I forgave her. It makes you feel very virtuous
+LINE 198: when you forgive people, doesn't it? I mean to devote all my energies
+LINE 199: to being good after this and I shall never try to be beautiful again. Of
+LINE 200: course it's better to be good. I know it is, but it's sometimes so hard
+LINE 201: to believe a thing even when you know it. I do really want to be good,
+LINE 202: Marilla, like you and Mrs. Allan and Miss Stacy, and grow up to be a
+LINE 203: credit to you. Diana says when my hair begins to grow to tie a black
+LINE 204: velvet ribbon around my head with a bow at one side. She says she
+LINE 205: thinks it will be very becoming. I will call it a snood--that sounds so
+LINE 206: romantic. But am I talking too much, Marilla? Does it hurt your head?"
+LINE 207: "My head is better now. It was terrible bad this afternoon, though.
+LINE 208: These headaches of mine are getting worse and worse. I'll have to see
+LINE 209: a doctor about them. As for your chatter, I don't know that I mind
+LINE 210: it--I've got so used to it."
+LINE 211: Which was Marilla's way of saying that she liked to hear it.

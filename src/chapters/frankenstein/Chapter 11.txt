@@ -1,0 +1,240 @@
+LINE 1: "It is with considerable difficulty that I remember the original era of
+LINE 2: my being; all the events of that period appear confused and indistinct.
+LINE 3: A strange multiplicity of sensations seized me, and I saw, felt, heard,
+LINE 4: and smelt at the same time; and it was, indeed, a long time before I
+LINE 5: learned to distinguish between the operations of my various senses. By
+LINE 6: degrees, I remember, a stronger light pressed upon my nerves, so that I
+LINE 7: was obliged to shut my eyes. Darkness then came over me and troubled
+LINE 8: me, but hardly had I felt this when, by opening my eyes, as I now
+LINE 9: suppose, the light poured in upon me again. I walked and, I believe,
+LINE 10: descended, but I presently found a great alteration in my sensations.
+LINE 11: Before, dark and opaque bodies had surrounded me, impervious to my
+LINE 12: touch or sight; but I now found that I could wander on at liberty, with
+LINE 13: no obstacles which I could not either surmount or avoid. The light
+LINE 14: became more and more oppressive to me, and the heat wearying me as I
+LINE 15: walked, I sought a place where I could receive shade. This was the
+LINE 16: forest near Ingolstadt; and here I lay by the side of a brook resting
+LINE 17: from my fatigue, until I felt tormented by hunger and thirst. This
+LINE 18: roused me from my nearly dormant state, and I ate some berries which I
+LINE 19: found hanging on the trees or lying on the ground. I slaked my thirst
+LINE 20: at the brook, and then lying down, was overcome by sleep.
+LINE 21: "It was dark when I awoke; I felt cold also, and half frightened, as it
+LINE 22: were, instinctively, finding myself so desolate. Before I had quitted
+LINE 23: your apartment, on a sensation of cold, I had covered myself with some
+LINE 24: clothes, but these were insufficient to secure me from the dews of
+LINE 25: night. I was a poor, helpless, miserable wretch; I knew, and could
+LINE 26: distinguish, nothing; but feeling pain invade me on all sides, I sat
+LINE 27: down and wept.
+LINE 28: "Soon a gentle light stole over the heavens and gave me a sensation of
+LINE 29: pleasure. I started up and beheld a radiant form rise from among the
+LINE 30: trees. [The moon] I gazed with a kind of wonder. It moved slowly,
+LINE 31: but it enlightened my path, and I again went out in search of berries.
+LINE 32: I was still cold when under one of the trees I found a huge cloak, with
+LINE 33: which I covered myself, and sat down upon the ground. No distinct
+LINE 34: ideas occupied my mind; all was confused. I felt light, and hunger,
+LINE 35: and thirst, and darkness; innumerable sounds rang in my ears, and on
+LINE 36: all sides various scents saluted me; the only object that I could
+LINE 37: distinguish was the bright moon, and I fixed my eyes on that with
+LINE 38: pleasure.
+LINE 39: "Several changes of day and night passed, and the orb of night had
+LINE 40: greatly lessened, when I began to distinguish my sensations from each
+LINE 41: other. I gradually saw plainly the clear stream that supplied me with
+LINE 42: drink and the trees that shaded me with their foliage. I was delighted
+LINE 43: when I first discovered that a pleasant sound, which often saluted my
+LINE 44: ears, proceeded from the throats of the little winged animals who had
+LINE 45: often intercepted the light from my eyes. I began also to observe,
+LINE 46: with greater accuracy, the forms that surrounded me and to perceive the
+LINE 47: boundaries of the radiant roof of light which canopied me. Sometimes I
+LINE 48: tried to imitate the pleasant songs of the birds but was unable.
+LINE 49: Sometimes I wished to express my sensations in my own mode, but the
+LINE 50: uncouth and inarticulate sounds which broke from me frightened me into
+LINE 51: silence again.
+LINE 52: "The moon had disappeared from the night, and again, with a lessened
+LINE 53: form, showed itself, while I still remained in the forest. My
+LINE 54: sensations had by this time become distinct, and my mind received every
+LINE 55: day additional ideas. My eyes became accustomed to the light and to
+LINE 56: perceive objects in their right forms; I distinguished the insect from
+LINE 57: the herb, and by degrees, one herb from another. I found that the
+LINE 58: sparrow uttered none but harsh notes, whilst those of the blackbird and
+LINE 59: thrush were sweet and enticing.
+LINE 60: "One day, when I was oppressed by cold, I found a fire which had been
+LINE 61: left by some wandering beggars, and was overcome with delight at the
+LINE 62: warmth I experienced from it. In my joy I thrust my hand into the live
+LINE 63: embers, but quickly drew it out again with a cry of pain. How strange,
+LINE 64: I thought, that the same cause should produce such opposite effects! I
+LINE 65: examined the materials of the fire, and to my joy found it to be
+LINE 66: composed of wood. I quickly collected some branches, but they were wet
+LINE 67: and would not burn. I was pained at this and sat still watching the
+LINE 68: operation of the fire. The wet wood which I had placed near the heat
+LINE 69: dried and itself became inflamed. I reflected on this, and by touching
+LINE 70: the various branches, I discovered the cause and busied myself in
+LINE 71: collecting a great quantity of wood, that I might dry it and have a
+LINE 72: plentiful supply of fire. When night came on and brought sleep with
+LINE 73: it, I was in the greatest fear lest my fire should be extinguished. I
+LINE 74: covered it carefully with dry wood and leaves and placed wet branches
+LINE 75: upon it; and then, spreading my cloak, I lay on the ground and sank
+LINE 76: into sleep.
+LINE 77: "It was morning when I awoke, and my first care was to visit the fire.
+LINE 78: I uncovered it, and a gentle breeze quickly fanned it into a flame. I
+LINE 79: observed this also and contrived a fan of branches, which roused the
+LINE 80: embers when they were nearly extinguished. When night came again I
+LINE 81: found, with pleasure, that the fire gave light as well as heat and that
+LINE 82: the discovery of this element was useful to me in my food, for I found
+LINE 83: some of the offals that the travellers had left had been roasted, and
+LINE 84: tasted much more savoury than the berries I gathered from the trees. I
+LINE 85: tried, therefore, to dress my food in the same manner, placing it on
+LINE 86: the live embers. I found that the berries were spoiled by this
+LINE 87: operation, and the nuts and roots much improved.
+LINE 88: "Food, however, became scarce, and I often spent the whole day
+LINE 89: searching in vain for a few acorns to assuage the pangs of hunger. When
+LINE 90: I found this, I resolved to quit the place that I had hitherto
+LINE 91: inhabited, to seek for one where the few wants I experienced would be
+LINE 92: more easily satisfied. In this emigration I exceedingly lamented the
+LINE 93: loss of the fire which I had obtained through accident and knew not how
+LINE 94: to reproduce it. I gave several hours to the serious consideration of
+LINE 95: this difficulty, but I was obliged to relinquish all attempt to supply
+LINE 96: it, and wrapping myself up in my cloak, I struck across the wood
+LINE 97: towards the setting sun. I passed three days in these rambles and at
+LINE 98: length discovered the open country. A great fall of snow had taken
+LINE 99: place the night before, and the fields were of one uniform white; the
+LINE 100: appearance was disconsolate, and I found my feet chilled by the cold
+LINE 101: damp substance that covered the ground.
+LINE 102: "It was about seven in the morning, and I longed to obtain food and
+LINE 103: shelter; at length I perceived a small hut, on a rising ground, which
+LINE 104: had doubtless been built for the convenience of some shepherd. This
+LINE 105: was a new sight to me, and I examined the structure with great
+LINE 106: curiosity. Finding the door open, I entered. An old man sat in it,
+LINE 107: near a fire, over which he was preparing his breakfast. He turned on
+LINE 108: hearing a noise, and perceiving me, shrieked loudly, and quitting the
+LINE 109: hut, ran across the fields with a speed of which his debilitated form
+LINE 110: hardly appeared capable. His appearance, different from any I had ever
+LINE 111: before seen, and his flight somewhat surprised me. But I was enchanted
+LINE 112: by the appearance of the hut; here the snow and rain could not
+LINE 113: penetrate; the ground was dry; and it presented to me then as exquisite
+LINE 114: and divine a retreat as Pandæmonium appeared to the dæmons of hell
+LINE 115: after their sufferings in the lake of fire. I greedily devoured the
+LINE 116: remnants of the shepherd's breakfast, which consisted of bread, cheese,
+LINE 117: milk, and wine; the latter, however, I did not like. Then, overcome by
+LINE 118: fatigue, I lay down among some straw and fell asleep.
+LINE 119: "It was noon when I awoke, and allured by the warmth of the sun, which
+LINE 120: shone brightly on the white ground, I determined to recommence my
+LINE 121: travels; and, depositing the remains of the peasant's breakfast in a
+LINE 122: wallet I found, I proceeded across the fields for several hours, until
+LINE 123: at sunset I arrived at a village. How miraculous did this appear! The
+LINE 124: huts, the neater cottages, and stately houses engaged my admiration by
+LINE 125: turns. The vegetables in the gardens, the milk and cheese that I saw
+LINE 126: placed at the windows of some of the cottages, allured my appetite. One
+LINE 127: of the best of these I entered, but I had hardly placed my foot within
+LINE 128: the door before the children shrieked, and one of the women fainted.
+LINE 129: The whole village was roused; some fled, some attacked me, until,
+LINE 130: grievously bruised by stones and many other kinds of missile weapons, I
+LINE 131: escaped to the open country and fearfully took refuge in a low hovel,
+LINE 132: quite bare, and making a wretched appearance after the palaces I had
+LINE 133: beheld in the village. This hovel however, joined a cottage of a neat
+LINE 134: and pleasant appearance, but after my late dearly bought experience, I
+LINE 135: dared not enter it. My place of refuge was constructed of wood, but so
+LINE 136: low that I could with difficulty sit upright in it. No wood, however,
+LINE 137: was placed on the earth, which formed the floor, but it was dry; and
+LINE 138: although the wind entered it by innumerable chinks, I found it an
+LINE 139: agreeable asylum from the snow and rain.
+LINE 140: "Here, then, I retreated and lay down happy to have found a shelter,
+LINE 141: however miserable, from the inclemency of the season, and still more
+LINE 142: from the barbarity of man. As soon as morning dawned I crept from my
+LINE 143: kennel, that I might view the adjacent cottage and discover if I could
+LINE 144: remain in the habitation I had found. It was situated against the back
+LINE 145: of the cottage and surrounded on the sides which were exposed by a pig
+LINE 146: sty and a clear pool of water. One part was open, and by that I had
+LINE 147: crept in; but now I covered every crevice by which I might be perceived
+LINE 148: with stones and wood, yet in such a manner that I might move them on
+LINE 149: occasion to pass out; all the light I enjoyed came through the sty, and
+LINE 150: that was sufficient for me.
+LINE 151: "Having thus arranged my dwelling and carpeted it with clean straw, I
+LINE 152: retired, for I saw the figure of a man at a distance, and I remembered
+LINE 153: too well my treatment the night before to trust myself in his power. I
+LINE 154: had first, however, provided for my sustenance for that day by a loaf
+LINE 155: of coarse bread, which I purloined, and a cup with which I could drink
+LINE 156: more conveniently than from my hand of the pure water which flowed by
+LINE 157: my retreat. The floor was a little raised, so that it was kept
+LINE 158: perfectly dry, and by its vicinity to the chimney of the cottage it was
+LINE 159: tolerably warm.
+LINE 160: "Being thus provided, I resolved to reside in this hovel until
+LINE 161: something should occur which might alter my determination. It was
+LINE 162: indeed a paradise compared to the bleak forest, my former residence,
+LINE 163: the rain-dropping branches, and dank earth. I ate my breakfast with
+LINE 164: pleasure and was about to remove a plank to procure myself a little
+LINE 165: water when I heard a step, and looking through a small chink, I beheld
+LINE 166: a young creature, with a pail on her head, passing before my hovel. The
+LINE 167: girl was young and of gentle demeanour, unlike what I have since found
+LINE 168: cottagers and farmhouse servants to be. Yet she was meanly dressed, a
+LINE 169: coarse blue petticoat and a linen jacket being her only garb; her fair
+LINE 170: hair was plaited but not adorned: she looked patient yet sad. I lost
+LINE 171: sight of her, and in about a quarter of an hour she returned bearing
+LINE 172: the pail, which was now partly filled with milk. As she walked along,
+LINE 173: seemingly incommoded by the burden, a young man met her, whose
+LINE 174: countenance expressed a deeper despondence. Uttering a few sounds with
+LINE 175: an air of melancholy, he took the pail from her head and bore it to the
+LINE 176: cottage himself. She followed, and they disappeared. Presently I saw
+LINE 177: the young man again, with some tools in his hand, cross the field
+LINE 178: behind the cottage; and the girl was also busied, sometimes in the
+LINE 179: house and sometimes in the yard.
+LINE 180: "On examining my dwelling, I found that one of the windows of the
+LINE 181: cottage had formerly occupied a part of it, but the panes had been
+LINE 182: filled up with wood. In one of these was a small and almost
+LINE 183: imperceptible chink through which the eye could just penetrate.
+LINE 184: Through this crevice a small room was visible, whitewashed and clean
+LINE 185: but very bare of furniture. In one corner, near a small fire, sat an
+LINE 186: old man, leaning his head on his hands in a disconsolate attitude. The
+LINE 187: young girl was occupied in arranging the cottage; but presently she
+LINE 188: took something out of a drawer, which employed her hands, and she sat
+LINE 189: down beside the old man, who, taking up an instrument, began to play
+LINE 190: and to produce sounds sweeter than the voice of the thrush or the
+LINE 191: nightingale. It was a lovely sight, even to me, poor wretch who had
+LINE 192: never beheld aught beautiful before. The silver hair and benevolent
+LINE 193: countenance of the aged cottager won my reverence, while the gentle
+LINE 194: manners of the girl enticed my love. He played a sweet mournful air
+LINE 195: which I perceived drew tears from the eyes of his amiable companion, of
+LINE 196: which the old man took no notice, until she sobbed audibly; he then
+LINE 197: pronounced a few sounds, and the fair creature, leaving her work, knelt
+LINE 198: at his feet. He raised her and smiled with such kindness and affection
+LINE 199: that I felt sensations of a peculiar and overpowering nature; they were
+LINE 200: a mixture of pain and pleasure, such as I had never before experienced,
+LINE 201: either from hunger or cold, warmth or food; and I withdrew from the
+LINE 202: window, unable to bear these emotions.
+LINE 203: "Soon after this the young man returned, bearing on his shoulders a
+LINE 204: load of wood. The girl met him at the door, helped to relieve him of
+LINE 205: his burden, and taking some of the fuel into the cottage, placed it on
+LINE 206: the fire; then she and the youth went apart into a nook of the cottage,
+LINE 207: and he showed her a large loaf and a piece of cheese. She seemed
+LINE 208: pleased and went into the garden for some roots and plants, which she
+LINE 209: placed in water, and then upon the fire. She afterwards continued her
+LINE 210: work, whilst the young man went into the garden and appeared busily
+LINE 211: employed in digging and pulling up roots. After he had been employed
+LINE 212: thus about an hour, the young woman joined him and they entered the
+LINE 213: cottage together.
+LINE 214: "The old man had, in the meantime, been pensive, but on the appearance
+LINE 215: of his companions he assumed a more cheerful air, and they sat down to
+LINE 216: eat. The meal was quickly dispatched. The young woman was again
+LINE 217: occupied in arranging the cottage, the old man walked before the
+LINE 218: cottage in the sun for a few minutes, leaning on the arm of the youth.
+LINE 219: Nothing could exceed in beauty the contrast between these two excellent
+LINE 220: creatures. One was old, with silver hairs and a countenance beaming
+LINE 221: with benevolence and love; the younger was slight and graceful in his
+LINE 222: figure, and his features were moulded with the finest symmetry, yet his
+LINE 223: eyes and attitude expressed the utmost sadness and despondency. The
+LINE 224: old man returned to the cottage, and the youth, with tools different
+LINE 225: from those he had used in the morning, directed his steps across the
+LINE 226: fields.
+LINE 227: "Night quickly shut in, but to my extreme wonder, I found that the
+LINE 228: cottagers had a means of prolonging light by the use of tapers, and was
+LINE 229: delighted to find that the setting of the sun did not put an end to the
+LINE 230: pleasure I experienced in watching my human neighbours. In the evening
+LINE 231: the young girl and her companion were employed in various occupations
+LINE 232: which I did not understand; and the old man again took up the
+LINE 233: instrument which produced the divine sounds that had enchanted me in
+LINE 234: the morning. So soon as he had finished, the youth began, not to play,
+LINE 235: but to utter sounds that were monotonous, and neither resembling the
+LINE 236: harmony of the old man's instrument nor the songs of the birds; I since
+LINE 237: found that he read aloud, but at that time I knew nothing of the
+LINE 238: science of words or letters.
+LINE 239: "The family, after having been thus occupied for a short time,
+LINE 240: extinguished their lights and retired, as I conjectured, to rest."

@@ -1,0 +1,168 @@
+LINE 1: DO you know," said Anne confidentially, "I've made up my mind to enjoy
+LINE 2: this drive. It's been my experience that you can nearly always enjoy
+LINE 3: things if you make up your mind firmly that you will. Of course, you
+LINE 4: must make it up _firmly_. I am not going to think about going back to
+LINE 5: the asylum while we're having our drive. I'm just going to think about
+LINE 6: the drive. Oh, look, there's one little early wild rose out! Isn't it
+LINE 7: lovely? Don't you think it must be glad to be a rose? Wouldn't it be
+LINE 8: nice if roses could talk? I'm sure they could tell us such lovely
+LINE 9: things. And isn't pink the most bewitching color in the world? I love
+LINE 10: it, but I can't wear it. Redheaded people can't wear pink, not even in
+LINE 11: imagination. Did you ever know of anybody whose hair was red when she
+LINE 12: was young, but got to be another color when she grew up?"
+LINE 13: "No, I don't know as I ever did," said Marilla mercilessly, "and I
+LINE 14: shouldn't think it likely to happen in your case either."
+LINE 15: Anne sighed.
+LINE 16: "Well, that is another hope gone. 'My life is a perfect graveyard of
+LINE 17: buried hopes.' That's a sentence I read in a book once, and I say it
+LINE 18: over to comfort myself whenever I'm disappointed in anything."
+LINE 19: "I don't see where the comforting comes in myself," said Marilla.
+LINE 20: "Why, because it sounds so nice and romantic, just as if I were a
+LINE 21: heroine in a book, you know. I am so fond of romantic things, and a
+LINE 22: graveyard full of buried hopes is about as romantic a thing as one can
+LINE 23: imagine isn't it? I'm rather glad I have one. Are we going across the
+LINE 24: Lake of Shining Waters today?"
+LINE 25: "We're not going over Barry's pond, if that's what you mean by your Lake
+LINE 26: of Shining Waters. We're going by the shore road."
+LINE 27: "Shore road sounds nice," said Anne dreamily. "Is it as nice as it
+LINE 28: sounds? Just when you said 'shore road' I saw it in a picture in my
+LINE 29: mind, as quick as that! And White Sands is a pretty name, too; but I
+LINE 30: don't like it as well as Avonlea. Avonlea is a lovely name. It just
+LINE 31: sounds like music. How far is it to White Sands?"
+LINE 32: "It's five miles; and as you're evidently bent on talking you might as
+LINE 33: well talk to some purpose by telling me what you know about yourself."
+LINE 34: "Oh, what I _know_ about myself isn't really worth telling," said Anne
+LINE 35: eagerly. "If you'll only let me tell you what I _imagine_ about myself
+LINE 36: you'll think it ever so much more interesting."
+LINE 37: "No, I don't want any of your imaginings. Just you stick to bald facts.
+LINE 38: Begin at the beginning. Where were you born and how old are you?"
+LINE 39: "I was eleven last March," said Anne, resigning herself to bald facts
+LINE 40: with a little sigh. "And I was born in Bolingbroke, Nova Scotia.
+LINE 41: My father's name was Walter Shirley, and he was a teacher in the
+LINE 42: Bolingbroke High School. My mother's name was Bertha Shirley. Aren't
+LINE 43: Walter and Bertha lovely names? I'm so glad my parents had nice names.
+LINE 44: It would be a real disgrace to have a father named--well, say Jedediah,
+LINE 45: wouldn't it?"
+LINE 46: "I guess it doesn't matter what a person's name is as long as he behaves
+LINE 47: himself," said Marilla, feeling herself called upon to inculcate a good
+LINE 48: and useful moral.
+LINE 49: "Well, I don't know." Anne looked thoughtful. "I read in a book once
+LINE 50: that a rose by any other name would smell as sweet, but I've never been
+LINE 51: able to believe it. I don't believe a rose _would_ be as nice if it was
+LINE 52: called a thistle or a skunk cabbage. I suppose my father could have been
+LINE 53: a good man even if he had been called Jedediah; but I'm sure it would
+LINE 54: have been a cross. Well, my mother was a teacher in the High school,
+LINE 55: too, but when she married father she gave up teaching, of course. A
+LINE 56: husband was enough responsibility. Mrs. Thomas said that they were
+LINE 57: a pair of babies and as poor as church mice. They went to live in a
+LINE 58: weeny-teeny little yellow house in Bolingbroke. I've never seen that
+LINE 59: house, but I've imagined it thousands of times. I think it must have
+LINE 60: had honeysuckle over the parlor window and lilacs in the front yard and
+LINE 61: lilies of the valley just inside the gate. Yes, and muslin curtains in
+LINE 62: all the windows. Muslin curtains give a house such an air. I was born
+LINE 63: in that house. Mrs. Thomas said I was the homeliest baby she ever saw, I
+LINE 64: was so scrawny and tiny and nothing but eyes, but that mother thought I
+LINE 65: was perfectly beautiful. I should think a mother would be a better judge
+LINE 66: than a poor woman who came in to scrub, wouldn't you? I'm glad she
+LINE 67: was satisfied with me anyhow, I would feel so sad if I thought I was a
+LINE 68: disappointment to her--because she didn't live very long after that, you
+LINE 69: see. She died of fever when I was just three months old. I do wish she'd
+LINE 70: lived long enough for me to remember calling her mother. I think it
+LINE 71: would be so sweet to say 'mother,' don't you? And father died four days
+LINE 72: afterwards from fever too. That left me an orphan and folks were at
+LINE 73: their wits' end, so Mrs. Thomas said, what to do with me. You see,
+LINE 74: nobody wanted me even then. It seems to be my fate. Father and mother
+LINE 75: had both come from places far away and it was well known they hadn't any
+LINE 76: relatives living. Finally Mrs. Thomas said she'd take me, though she was
+LINE 77: poor and had a drunken husband. She brought me up by hand. Do you know
+LINE 78: if there is anything in being brought up by hand that ought to make
+LINE 79: people who are brought up that way better than other people? Because
+LINE 80: whenever I was naughty Mrs. Thomas would ask me how I could be such a
+LINE 81: bad girl when she had brought me up by hand--reproachful-like.
+LINE 82: "Mr. and Mrs. Thomas moved away from Bolingbroke to Marysville, and I
+LINE 83: lived with them until I was eight years old. I helped look after the
+LINE 84: Thomas children--there were four of them younger than me--and I can tell
+LINE 85: you they took a lot of looking after. Then Mr. Thomas was killed
+LINE 86: falling under a train and his mother offered to take Mrs. Thomas and the
+LINE 87: children, but she didn't want me. Mrs. Thomas was at _her_ wits' end, so
+LINE 88: she said, what to do with me. Then Mrs. Hammond from up the river came
+LINE 89: down and said she'd take me, seeing I was handy with children, and
+LINE 90: I went up the river to live with her in a little clearing among the
+LINE 91: stumps. It was a very lonesome place. I'm sure I could never have
+LINE 92: lived there if I hadn't had an imagination. Mr. Hammond worked a little
+LINE 93: sawmill up there, and Mrs. Hammond had eight children. She had twins
+LINE 94: three times. I like babies in moderation, but twins three times in
+LINE 95: succession is _too much_. I told Mrs. Hammond so firmly, when the last
+LINE 96: pair came. I used to get so dreadfully tired carrying them about.
+LINE 97: "I lived up river with Mrs. Hammond over two years, and then Mr. Hammond
+LINE 98: died and Mrs. Hammond broke up housekeeping. She divided her children
+LINE 99: among her relatives and went to the States. I had to go to the asylum
+LINE 100: at Hopeton, because nobody would take me. They didn't want me at the
+LINE 101: asylum, either; they said they were over-crowded as it was. But they had
+LINE 102: to take me and I was there four months until Mrs. Spencer came."
+LINE 103: Anne finished up with another sigh, of relief this time. Evidently
+LINE 104: she did not like talking about her experiences in a world that had not
+LINE 105: wanted her.
+LINE 106: "Did you ever go to school?" demanded Marilla, turning the sorrel mare
+LINE 107: down the shore road.
+LINE 108: "Not a great deal. I went a little the last year I stayed with Mrs.
+LINE 109: Thomas. When I went up river we were so far from a school that I
+LINE 110: couldn't walk it in winter and there was a vacation in summer, so I
+LINE 111: could only go in the spring and fall. But of course I went while I was
+LINE 112: at the asylum. I can read pretty well and I know ever so many pieces of
+LINE 113: poetry off by heart--'The Battle of Hohenlinden' and 'Edinburgh after
+LINE 114: Flodden,' and 'Bingen of the Rhine,' and most of the 'Lady of the Lake'
+LINE 115: and most of 'The Seasons' by James Thompson. Don't you just love poetry
+LINE 116: that gives you a crinkly feeling up and down your back? There is a piece
+LINE 117: in the Fifth Reader--'The Downfall of Poland'--that is just full of
+LINE 118: thrills. Of course, I wasn't in the Fifth Reader--I was only in the
+LINE 119: Fourth--but the big girls used to lend me theirs to read."
+LINE 120: "Were those women--Mrs. Thomas and Mrs. Hammond--good to you?" asked
+LINE 121: Marilla, looking at Anne out of the corner of her eye.
+LINE 122: "O-o-o-h," faltered Anne. Her sensitive little face suddenly flushed
+LINE 123: scarlet and embarrassment sat on her brow. "Oh, they _meant_ to be--I know
+LINE 124: they meant to be just as good and kind as possible. And when people
+LINE 125: mean to be good to you, you don't mind very much when they're not
+LINE 126: quite--always. They had a good deal to worry them, you know. It's a very
+LINE 127: trying to have a drunken husband, you see; and it must be very trying to
+LINE 128: have twins three times in succession, don't you think? But I feel sure
+LINE 129: they meant to be good to me."
+LINE 130: Marilla asked no more questions. Anne gave herself up to a silent
+LINE 131: rapture over the shore road and Marilla guided the sorrel abstractedly
+LINE 132: while she pondered deeply. Pity was suddenly stirring in her heart for
+LINE 133: the child. What a starved, unloved life she had had--a life of drudgery
+LINE 134: and poverty and neglect; for Marilla was shrewd enough to read between
+LINE 135: the lines of Anne's history and divine the truth. No wonder she had been
+LINE 136: so delighted at the prospect of a real home. It was a pity she had to be
+LINE 137: sent back. What if she, Marilla, should indulge Matthew's unaccountable
+LINE 138: whim and let her stay? He was set on it; and the child seemed a nice,
+LINE 139: teachable little thing.
+LINE 140: "She's got too much to say," thought Marilla, "but she might be trained
+LINE 141: out of that. And there's nothing rude or slangy in what she does say.
+LINE 142: She's ladylike. It's likely her people were nice folks."
+LINE 143: The shore road was "woodsy and wild and lonesome." On the right hand,
+LINE 144: scrub firs, their spirits quite unbroken by long years of tussle with
+LINE 145: the gulf winds, grew thickly. On the left were the steep red sandstone
+LINE 146: cliffs, so near the track in places that a mare of less steadiness than
+LINE 147: the sorrel might have tried the nerves of the people behind her. Down
+LINE 148: at the base of the cliffs were heaps of surf-worn rocks or little sandy
+LINE 149: coves inlaid with pebbles as with ocean jewels; beyond lay the sea,
+LINE 150: shimmering and blue, and over it soared the gulls, their pinions
+LINE 151: flashing silvery in the sunlight.
+LINE 152: "Isn't the sea wonderful?" said Anne, rousing from a long, wide-eyed
+LINE 153: silence. "Once, when I lived in Marysville, Mr. Thomas hired an express
+LINE 154: wagon and took us all to spend the day at the shore ten miles away.
+LINE 155: I enjoyed every moment of that day, even if I had to look after the
+LINE 156: children all the time. I lived it over in happy dreams for years.
+LINE 157: But this shore is nicer than the Marysville shore. Aren't those gulls
+LINE 158: splendid? Would you like to be a gull? I think I would--that is, if I
+LINE 159: couldn't be a human girl. Don't you think it would be nice to wake up at
+LINE 160: sunrise and swoop down over the water and away out over that lovely blue
+LINE 161: all day; and then at night to fly back to one's nest? Oh, I can just
+LINE 162: imagine myself doing it. What big house is that just ahead, please?"
+LINE 163: "That's the White Sands Hotel. Mr. Kirke runs it, but the season hasn't
+LINE 164: begun yet. There are heaps of Americans come there for the summer. They
+LINE 165: think this shore is just about right."
+LINE 166: "I was afraid it might be Mrs. Spencer's place," said Anne mournfully.
+LINE 167: "I don't want to get there. Somehow, it will seem like the end of
+LINE 168: everything."

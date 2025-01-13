@@ -1,0 +1,231 @@
+LINE 1: The Queen's Croquet-Ground
+LINE 2: A large rose-tree stood near the entrance of the garden: the roses
+LINE 3: growing on it were white, but there were three gardeners at it, busily
+LINE 4: painting them red. Alice thought this a very curious thing, and she
+LINE 5: went nearer to watch them, and just as she came up to them she heard
+LINE 6: one of them say, "Look out now, Five! Don't go splashing paint over me
+LINE 7: like that!"
+LINE 8: "I couldn't help it," said Five, in a sulky tone; "Seven jogged my
+LINE 9: elbow."
+LINE 10: On which Seven looked up and said, "That's right, Five! Always lay the
+LINE 11: blame on others!"
+LINE 12: "_You'd_ better not talk!" said Five. "I heard the Queen say only
+LINE 13: yesterday you deserved to be beheaded!"
+LINE 14: "What for?" said the one who had spoken first.
+LINE 15: "That's none of _your_ business, Two!" said Seven.
+LINE 16: "Yes, it _is_ his business!" said Five, "and I'll tell him—it was for
+LINE 17: bringing the cook tulip-roots instead of onions."
+LINE 18: Seven flung down his brush, and had just begun "Well, of all the unjust
+LINE 19: things—" when his eye chanced to fall upon Alice, as she stood watching
+LINE 20: them, and he checked himself suddenly: the others looked round also,
+LINE 21: and all of them bowed low.
+LINE 22: "Would you tell me," said Alice, a little timidly, "why you are
+LINE 23: painting those roses?"
+LINE 24: Five and Seven said nothing, but looked at Two. Two began in a low
+LINE 25: voice, "Why the fact is, you see, Miss, this here ought to have been a
+LINE 26: _red_ rose-tree, and we put a white one in by mistake; and if the Queen
+LINE 27: was to find it out, we should all have our heads cut off, you know. So
+LINE 28: you see, Miss, we're doing our best, afore she comes, to—" At this
+LINE 29: moment Five, who had been anxiously looking across the garden, called
+LINE 30: out "The Queen! The Queen!" and the three gardeners instantly threw
+LINE 31: themselves flat upon their faces. There was a sound of many footsteps,
+LINE 32: and Alice looked round, eager to see the Queen.
+LINE 33: First came ten soldiers carrying clubs; these were all shaped like the
+LINE 34: three gardeners, oblong and flat, with their hands and feet at the
+LINE 35: corners: next the ten courtiers; these were ornamented all over with
+LINE 36: diamonds, and walked two and two, as the soldiers did. After these came
+LINE 37: the royal children; there were ten of them, and the little dears came
+LINE 38: jumping merrily along hand in hand, in couples: they were all
+LINE 39: ornamented with hearts. Next came the guests, mostly Kings and Queens,
+LINE 40: and among them Alice recognised the White Rabbit: it was talking in a
+LINE 41: hurried nervous manner, smiling at everything that was said, and went
+LINE 42: by without noticing her. Then followed the Knave of Hearts, carrying
+LINE 43: the King's crown on a crimson velvet cushion; and, last of all this
+LINE 44: grand procession, came THE KING AND QUEEN OF HEARTS.
+LINE 45: Alice was rather doubtful whether she ought not to lie down on her face
+LINE 46: like the three gardeners, but she could not remember ever having heard
+LINE 47: of such a rule at processions; "and besides, what would be the use of a
+LINE 48: procession," thought she, "if people had all to lie down upon their
+LINE 49: faces, so that they couldn't see it?" So she stood still where she was,
+LINE 50: and waited.
+LINE 51: When the procession came opposite to Alice, they all stopped and looked
+LINE 52: at her, and the Queen said severely "Who is this?" She said it to the
+LINE 53: Knave of Hearts, who only bowed and smiled in reply.
+LINE 54: "Idiot!" said the Queen, tossing her head impatiently; and, turning to
+LINE 55: Alice, she went on, "What's your name, child?"
+LINE 56: "My name is Alice, so please your Majesty," said Alice very politely;
+LINE 57: but she added, to herself, "Why, they're only a pack of cards, after
+LINE 58: all. I needn't be afraid of them!"
+LINE 59: "And who are _these?_" said the Queen, pointing to the three gardeners
+LINE 60: who were lying round the rose-tree; for, you see, as they were lying on
+LINE 61: their faces, and the pattern on their backs was the same as the rest of
+LINE 62: the pack, she could not tell whether they were gardeners, or soldiers,
+LINE 63: or courtiers, or three of her own children.
+LINE 64: "How should _I_ know?" said Alice, surprised at her own courage. "It's
+LINE 65: no business of _mine_."
+LINE 66: The Queen turned crimson with fury, and, after glaring at her for a
+LINE 67: moment like a wild beast, screamed "Off with her head! Off—"
+LINE 68: "Nonsense!" said Alice, very loudly and decidedly, and the Queen was
+LINE 69: silent.
+LINE 70: The King laid his hand upon her arm, and timidly said "Consider, my
+LINE 71: dear: she is only a child!"
+LINE 72: The Queen turned angrily away from him, and said to the Knave "Turn
+LINE 73: them over!"
+LINE 74: The Knave did so, very carefully, with one foot.
+LINE 75: "Get up!" said the Queen, in a shrill, loud voice, and the three
+LINE 76: gardeners instantly jumped up, and began bowing to the King, the Queen,
+LINE 77: the royal children, and everybody else.
+LINE 78: "Leave off that!" screamed the Queen. "You make me giddy." And then,
+LINE 79: turning to the rose-tree, she went on, "What _have_ you been doing
+LINE 80: here?"
+LINE 81: "May it please your Majesty," said Two, in a very humble tone, going
+LINE 82: down on one knee as he spoke, "we were trying—"
+LINE 83: "_I_ see!" said the Queen, who had meanwhile been examining the roses.
+LINE 84: "Off with their heads!" and the procession moved on, three of the
+LINE 85: soldiers remaining behind to execute the unfortunate gardeners, who ran
+LINE 86: to Alice for protection.
+LINE 87: "You shan't be beheaded!" said Alice, and she put them into a large
+LINE 88: flower-pot that stood near. The three soldiers wandered about for a
+LINE 89: minute or two, looking for them, and then quietly marched off after the
+LINE 90: others.
+LINE 91: "Are their heads off?" shouted the Queen.
+LINE 92: "Their heads are gone, if it please your Majesty!" the soldiers shouted
+LINE 93: in reply.
+LINE 94: "That's right!" shouted the Queen. "Can you play croquet?"
+LINE 95: The soldiers were silent, and looked at Alice, as the question was
+LINE 96: evidently meant for her.
+LINE 97: "Yes!" shouted Alice.
+LINE 98: "Come on, then!" roared the Queen, and Alice joined the procession,
+LINE 99: wondering very much what would happen next.
+LINE 100: "It's—it's a very fine day!" said a timid voice at her side. She was
+LINE 101: walking by the White Rabbit, who was peeping anxiously into her face.
+LINE 102: "Very," said Alice: "—where's the Duchess?"
+LINE 103: "Hush! Hush!" said the Rabbit in a low, hurried tone. He looked
+LINE 104: anxiously over his shoulder as he spoke, and then raised himself upon
+LINE 105: tiptoe, put his mouth close to her ear, and whispered "She's under
+LINE 106: sentence of execution."
+LINE 107: "What for?" said Alice.
+LINE 108: "Did you say 'What a pity!'?" the Rabbit asked.
+LINE 109: "No, I didn't," said Alice: "I don't think it's at all a pity. I said
+LINE 110: 'What for?'"
+LINE 111: "She boxed the Queen's ears—" the Rabbit began. Alice gave a little
+LINE 112: scream of laughter. "Oh, hush!" the Rabbit whispered in a frightened
+LINE 113: tone. "The Queen will hear you! You see, she came rather late, and the
+LINE 114: Queen said—"
+LINE 115: "Get to your places!" shouted the Queen in a voice of thunder, and
+LINE 116: people began running about in all directions, tumbling up against each
+LINE 117: other; however, they got settled down in a minute or two, and the game
+LINE 118: began. Alice thought she had never seen such a curious croquet-ground
+LINE 119: in her life; it was all ridges and furrows; the balls were live
+LINE 120: hedgehogs, the mallets live flamingoes, and the soldiers had to double
+LINE 121: themselves up and to stand on their hands and feet, to make the arches.
+LINE 122: The chief difficulty Alice found at first was in managing her flamingo:
+LINE 123: she succeeded in getting its body tucked away, comfortably enough,
+LINE 124: under her arm, with its legs hanging down, but generally, just as she
+LINE 125: had got its neck nicely straightened out, and was going to give the
+LINE 126: hedgehog a blow with its head, it _would_ twist itself round and look
+LINE 127: up in her face, with such a puzzled expression that she could not help
+LINE 128: bursting out laughing: and when she had got its head down, and was
+LINE 129: going to begin again, it was very provoking to find that the hedgehog
+LINE 130: had unrolled itself, and was in the act of crawling away: besides all
+LINE 131: this, there was generally a ridge or furrow in the way wherever she
+LINE 132: wanted to send the hedgehog to, and, as the doubled-up soldiers were
+LINE 133: always getting up and walking off to other parts of the ground, Alice
+LINE 134: soon came to the conclusion that it was a very difficult game indeed.
+LINE 135: The players all played at once without waiting for turns, quarrelling
+LINE 136: all the while, and fighting for the hedgehogs; and in a very short time
+LINE 137: the Queen was in a furious passion, and went stamping about, and
+LINE 138: shouting "Off with his head!" or "Off with her head!" about once in a
+LINE 139: minute.
+LINE 140: Alice began to feel very uneasy: to be sure, she had not as yet had any
+LINE 141: dispute with the Queen, but she knew that it might happen any minute,
+LINE 142: "and then," thought she, "what would become of me? They're dreadfully
+LINE 143: fond of beheading people here; the great wonder is, that there's any
+LINE 144: one left alive!"
+LINE 145: She was looking about for some way of escape, and wondering whether she
+LINE 146: could get away without being seen, when she noticed a curious
+LINE 147: appearance in the air: it puzzled her very much at first, but, after
+LINE 148: watching it a minute or two, she made it out to be a grin, and she said
+LINE 149: to herself "It's the Cheshire Cat: now I shall have somebody to talk
+LINE 150: to."
+LINE 151: "How are you getting on?" said the Cat, as soon as there was mouth
+LINE 152: enough for it to speak with.
+LINE 153: Alice waited till the eyes appeared, and then nodded. "It's no use
+LINE 154: speaking to it," she thought, "till its ears have come, or at least one
+LINE 155: of them." In another minute the whole head appeared, and then Alice put
+LINE 156: down her flamingo, and began an account of the game, feeling very glad
+LINE 157: she had someone to listen to her. The Cat seemed to think that there
+LINE 158: was enough of it now in sight, and no more of it appeared.
+LINE 159: "I don't think they play at all fairly," Alice began, in rather a
+LINE 160: complaining tone, "and they all quarrel so dreadfully one can't hear
+LINE 161: oneself speak—and they don't seem to have any rules in particular; at
+LINE 162: least, if there are, nobody attends to them—and you've no idea how
+LINE 163: confusing it is all the things being alive; for instance, there's the
+LINE 164: arch I've got to go through next walking about at the other end of the
+LINE 165: ground—and I should have croqueted the Queen's hedgehog just now, only
+LINE 166: it ran away when it saw mine coming!"
+LINE 167: "How do you like the Queen?" said the Cat in a low voice.
+LINE 168: "Not at all," said Alice: "she's so extremely—" Just then she noticed
+LINE 169: that the Queen was close behind her, listening: so she went on,
+LINE 170: "—likely to win, that it's hardly worth while finishing the game."
+LINE 171: The Queen smiled and passed on.
+LINE 172: "Who _are_ you talking to?" said the King, going up to Alice, and
+LINE 173: looking at the Cat's head with great curiosity.
+LINE 174: "It's a friend of mine—a Cheshire Cat," said Alice: "allow me to
+LINE 175: introduce it."
+LINE 176: "I don't like the look of it at all," said the King: "however, it may
+LINE 177: kiss my hand if it likes."
+LINE 178: "I'd rather not," the Cat remarked.
+LINE 179: "Don't be impertinent," said the King, "and don't look at me like
+LINE 180: that!" He got behind Alice as he spoke.
+LINE 181: "A cat may look at a king," said Alice. "I've read that in some book,
+LINE 182: but I don't remember where."
+LINE 183: "Well, it must be removed," said the King very decidedly, and he called
+LINE 184: the Queen, who was passing at the moment, "My dear! I wish you would
+LINE 185: have this cat removed!"
+LINE 186: The Queen had only one way of settling all difficulties, great or
+LINE 187: small. "Off with his head!" she said, without even looking round.
+LINE 188: "I'll fetch the executioner myself," said the King eagerly, and he
+LINE 189: hurried off.
+LINE 190: Alice thought she might as well go back, and see how the game was going
+LINE 191: on, as she heard the Queen's voice in the distance, screaming with
+LINE 192: passion. She had already heard her sentence three of the players to be
+LINE 193: executed for having missed their turns, and she did not like the look
+LINE 194: of things at all, as the game was in such confusion that she never knew
+LINE 195: whether it was her turn or not. So she went in search of her hedgehog.
+LINE 196: The hedgehog was engaged in a fight with another hedgehog, which seemed
+LINE 197: to Alice an excellent opportunity for croqueting one of them with the
+LINE 198: other: the only difficulty was, that her flamingo was gone across to
+LINE 199: the other side of the garden, where Alice could see it trying in a
+LINE 200: helpless sort of way to fly up into a tree.
+LINE 201: By the time she had caught the flamingo and brought it back, the fight
+LINE 202: was over, and both the hedgehogs were out of sight: "but it doesn't
+LINE 203: matter much," thought Alice, "as all the arches are gone from this side
+LINE 204: of the ground." So she tucked it away under her arm, that it might not
+LINE 205: escape again, and went back for a little more conversation with her
+LINE 206: friend.
+LINE 207: When she got back to the Cheshire Cat, she was surprised to find quite
+LINE 208: a large crowd collected round it: there was a dispute going on between
+LINE 209: the executioner, the King, and the Queen, who were all talking at once,
+LINE 210: while all the rest were quite silent, and looked very uncomfortable.
+LINE 211: The moment Alice appeared, she was appealed to by all three to settle
+LINE 212: the question, and they repeated their arguments to her, though, as they
+LINE 213: all spoke at once, she found it very hard indeed to make out exactly
+LINE 214: what they said.
+LINE 215: The executioner's argument was, that you couldn't cut off a head unless
+LINE 216: there was a body to cut it off from: that he had never had to do such a
+LINE 217: thing before, and he wasn't going to begin at _his_ time of life.
+LINE 218: The King's argument was, that anything that had a head could be
+LINE 219: beheaded, and that you weren't to talk nonsense.
+LINE 220: The Queen's argument was, that if something wasn't done about it in
+LINE 221: less than no time she'd have everybody executed, all round. (It was
+LINE 222: this last remark that had made the whole party look so grave and
+LINE 223: anxious.)
+LINE 224: Alice could think of nothing else to say but "It belongs to the
+LINE 225: Duchess: you'd better ask _her_ about it."
+LINE 226: "She's in prison," the Queen said to the executioner: "fetch her here."
+LINE 227: And the executioner went off like an arrow.
+LINE 228: The Cat's head began fading away the moment he was gone, and, by the
+LINE 229: time he had come back with the Duchess, it had entirely disappeared; so
+LINE 230: the King and the executioner ran wildly up and down looking for it,
+LINE 231: while the rest of the party went back to the game.

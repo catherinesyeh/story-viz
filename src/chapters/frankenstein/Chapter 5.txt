@@ -1,0 +1,202 @@
+LINE 1: It was on a dreary night of November that I beheld the accomplishment
+LINE 2: of my toils. With an anxiety that almost amounted to agony, I
+LINE 3: collected the instruments of life around me, that I might infuse a
+LINE 4: spark of being into the lifeless thing that lay at my feet. It was
+LINE 5: already one in the morning; the rain pattered dismally against the
+LINE 6: panes, and my candle was nearly burnt out, when, by the glimmer of the
+LINE 7: half-extinguished light, I saw the dull yellow eye of the creature
+LINE 8: open; it breathed hard, and a convulsive motion agitated its limbs.
+LINE 9: How can I describe my emotions at this catastrophe, or how delineate
+LINE 10: the wretch whom with such infinite pains and care I had endeavoured to
+LINE 11: form? His limbs were in proportion, and I had selected his features as
+LINE 12: beautiful. Beautiful! Great God! His yellow skin scarcely covered
+LINE 13: the work of muscles and arteries beneath; his hair was of a lustrous
+LINE 14: black, and flowing; his teeth of a pearly whiteness; but these
+LINE 15: luxuriances only formed a more horrid contrast with his watery eyes,
+LINE 16: that seemed almost of the same colour as the dun-white sockets in which
+LINE 17: they were set, his shrivelled complexion and straight black lips.
+LINE 18: The different accidents of life are not so changeable as the feelings
+LINE 19: of human nature. I had worked hard for nearly two years, for the sole
+LINE 20: purpose of infusing life into an inanimate body. For this I had
+LINE 21: deprived myself of rest and health. I had desired it with an ardour
+LINE 22: that far exceeded moderation; but now that I had finished, the beauty
+LINE 23: of the dream vanished, and breathless horror and disgust filled my
+LINE 24: heart. Unable to endure the aspect of the being I had created, I
+LINE 25: rushed out of the room and continued a long time traversing my
+LINE 26: bed-chamber, unable to compose my mind to sleep. At length lassitude
+LINE 27: succeeded to the tumult I had before endured, and I threw myself on the
+LINE 28: bed in my clothes, endeavouring to seek a few moments of forgetfulness.
+LINE 29: But it was in vain; I slept, indeed, but I was disturbed by the wildest
+LINE 30: dreams. I thought I saw Elizabeth, in the bloom of health, walking in
+LINE 31: the streets of Ingolstadt. Delighted and surprised, I embraced her,
+LINE 32: but as I imprinted the first kiss on her lips, they became livid with
+LINE 33: the hue of death; her features appeared to change, and I thought that I
+LINE 34: held the corpse of my dead mother in my arms; a shroud enveloped her
+LINE 35: form, and I saw the grave-worms crawling in the folds of the flannel.
+LINE 36: I started from my sleep with horror; a cold dew covered my forehead, my
+LINE 37: teeth chattered, and every limb became convulsed; when, by the dim and
+LINE 38: yellow light of the moon, as it forced its way through the window
+LINE 39: shutters, I beheld the wretch—the miserable monster whom I had
+LINE 40: created. He held up the curtain of the bed; and his eyes, if eyes they
+LINE 41: may be called, were fixed on me. His jaws opened, and he muttered some
+LINE 42: inarticulate sounds, while a grin wrinkled his cheeks. He might have
+LINE 43: spoken, but I did not hear; one hand was stretched out, seemingly to
+LINE 44: detain me, but I escaped and rushed downstairs. I took refuge in the
+LINE 45: courtyard belonging to the house which I inhabited, where I remained
+LINE 46: during the rest of the night, walking up and down in the greatest
+LINE 47: agitation, listening attentively, catching and fearing each sound as if
+LINE 48: it were to announce the approach of the demoniacal corpse to which I
+LINE 49: had so miserably given life.
+LINE 50: Oh! No mortal could support the horror of that countenance. A mummy
+LINE 51: again endued with animation could not be so hideous as that wretch. I
+LINE 52: had gazed on him while unfinished; he was ugly then, but when those
+LINE 53: muscles and joints were rendered capable of motion, it became a thing
+LINE 54: such as even Dante could not have conceived.
+LINE 55: I passed the night wretchedly. Sometimes my pulse beat so quickly and
+LINE 56: hardly that I felt the palpitation of every artery; at others, I nearly
+LINE 57: sank to the ground through languor and extreme weakness. Mingled with
+LINE 58: this horror, I felt the bitterness of disappointment; dreams that had
+LINE 59: been my food and pleasant rest for so long a space were now become a
+LINE 60: hell to me; and the change was so rapid, the overthrow so complete!
+LINE 61: Morning, dismal and wet, at length dawned and discovered to my
+LINE 62: sleepless and aching eyes the church of Ingolstadt, its white steeple
+LINE 63: and clock, which indicated the sixth hour. The porter opened the gates
+LINE 64: of the court, which had that night been my asylum, and I issued into
+LINE 65: the streets, pacing them with quick steps, as if I sought to avoid the
+LINE 66: wretch whom I feared every turning of the street would present to my
+LINE 67: view. I did not dare return to the apartment which I inhabited, but
+LINE 68: felt impelled to hurry on, although drenched by the rain which poured
+LINE 69: from a black and comfortless sky.
+LINE 70: I continued walking in this manner for some time, endeavouring by
+LINE 71: bodily exercise to ease the load that weighed upon my mind. I
+LINE 72: traversed the streets without any clear conception of where I was or
+LINE 73: what I was doing. My heart palpitated in the sickness of fear, and I
+LINE 74: hurried on with irregular steps, not daring to look about me:
+LINE 75: Like one who, on a lonely road,
+LINE 76: Doth walk in fear and dread,
+LINE 77: And, having once turned round, walks on,
+LINE 78: And turns no more his head;
+LINE 79: Because he knows a frightful fiend
+LINE 80: Doth close behind him tread.
+LINE 81: [Coleridge's "Ancient Mariner."]
+LINE 82: Continuing thus, I came at length opposite to the inn at which the various
+LINE 83: diligences and carriages usually stopped. Here I paused, I knew not why;
+LINE 84: but I remained some minutes with my eyes fixed on a coach that was coming
+LINE 85: towards me from the other end of the street. As it drew nearer I observed
+LINE 86: that it was the Swiss diligence; it stopped just where I was standing, and
+LINE 87: on the door being opened, I perceived Henry Clerval, who, on seeing me,
+LINE 88: instantly sprung out. "My dear Frankenstein," exclaimed he,
+LINE 89: "how glad I am to see you! How fortunate that you should be here at
+LINE 90: the very moment of my alighting!"
+LINE 91: Nothing could equal my delight on seeing Clerval; his presence brought back
+LINE 92: to my thoughts my father, Elizabeth, and all those scenes of home so dear
+LINE 93: to my recollection. I grasped his hand, and in a moment forgot my horror
+LINE 94: and misfortune; I felt suddenly, and for the first time during many months,
+LINE 95: calm and serene joy. I welcomed my friend, therefore, in the most cordial
+LINE 96: manner, and we walked towards my college. Clerval continued talking for
+LINE 97: some time about our mutual friends and his own good fortune in being
+LINE 98: permitted to come to Ingolstadt. "You may easily believe," said
+LINE 99: he, "how great was the difficulty to persuade my father that all
+LINE 100: necessary knowledge was not comprised in the noble art of book-keeping;
+LINE 101: and, indeed, I believe I left him incredulous to the last, for his constant
+LINE 102: answer to my unwearied entreaties was the same as that of the Dutch
+LINE 103: schoolmaster in The Vicar of Wakefield: 'I have ten thousand florins
+LINE 104: a year without Greek, I eat heartily without Greek.' But his
+LINE 105: affection for me at length overcame his dislike of learning, and he has
+LINE 106: permitted me to undertake a voyage of discovery to the land of
+LINE 107: knowledge."
+LINE 108: "It gives me the greatest delight to see you; but tell me how you left
+LINE 109: my father, brothers, and Elizabeth."
+LINE 110: "Very well, and very happy, only a little uneasy that they hear from
+LINE 111: you so seldom. By the by, I mean to lecture you a little upon their
+LINE 112: account myself. But, my dear Frankenstein," continued he, stopping
+LINE 113: short and gazing full in my face, "I did not before remark how very ill
+LINE 114: you appear; so thin and pale; you look as if you had been watching for
+LINE 115: several nights."
+LINE 116: "You have guessed right; I have lately been so deeply engaged in one
+LINE 117: occupation that I have not allowed myself sufficient rest, as you see;
+LINE 118: but I hope, I sincerely hope, that all these employments are now at an
+LINE 119: end and that I am at length free."
+LINE 120: I trembled excessively; I could not endure to think of, and far less to
+LINE 121: allude to, the occurrences of the preceding night. I walked with a
+LINE 122: quick pace, and we soon arrived at my college. I then reflected, and
+LINE 123: the thought made me shiver, that the creature whom I had left in my
+LINE 124: apartment might still be there, alive and walking about. I dreaded to
+LINE 125: behold this monster, but I feared still more that Henry should see him.
+LINE 126: Entreating him, therefore, to remain a few minutes at the bottom of the
+LINE 127: stairs, I darted up towards my own room. My hand was already on the
+LINE 128: lock of the door before I recollected myself. I then paused, and a
+LINE 129: cold shivering came over me. I threw the door forcibly open, as
+LINE 130: children are accustomed to do when they expect a spectre to stand in
+LINE 131: waiting for them on the other side; but nothing appeared. I stepped
+LINE 132: fearfully in: the apartment was empty, and my bedroom was also freed
+LINE 133: from its hideous guest. I could hardly believe that so great a good
+LINE 134: fortune could have befallen me, but when I became assured that my enemy
+LINE 135: had indeed fled, I clapped my hands for joy and ran down to Clerval.
+LINE 136: We ascended into my room, and the servant presently brought breakfast;
+LINE 137: but I was unable to contain myself. It was not joy only that possessed
+LINE 138: me; I felt my flesh tingle with excess of sensitiveness, and my pulse
+LINE 139: beat rapidly. I was unable to remain for a single instant in the same
+LINE 140: place; I jumped over the chairs, clapped my hands, and laughed aloud.
+LINE 141: Clerval at first attributed my unusual spirits to joy on his arrival,
+LINE 142: but when he observed me more attentively, he saw a wildness in my eyes
+LINE 143: for which he could not account, and my loud, unrestrained, heartless
+LINE 144: laughter frightened and astonished him.
+LINE 145: "My dear Victor," cried he, "what, for God's sake,
+LINE 146: is the matter? Do not laugh in that manner. How ill you are! What is the
+LINE 147: cause of all this?"
+LINE 148: "Do not ask me," cried I, putting my hands before my eyes, for I
+LINE 149: thought I saw the dreaded spectre glide into the room; "_he_ can
+LINE 150: tell. Oh, save me! Save me!" I imagined that the monster seized me;
+LINE 151: I struggled furiously and fell down in a fit.
+LINE 152: Poor Clerval! What must have been his feelings? A meeting, which he
+LINE 153: anticipated with such joy, so strangely turned to bitterness. But I
+LINE 154: was not the witness of his grief, for I was lifeless and did not
+LINE 155: recover my senses for a long, long time.
+LINE 156: This was the commencement of a nervous fever which confined me for
+LINE 157: several months. During all that time Henry was my only nurse. I
+LINE 158: afterwards learned that, knowing my father's advanced age and unfitness
+LINE 159: for so long a journey, and how wretched my sickness would make
+LINE 160: Elizabeth, he spared them this grief by concealing the extent of my
+LINE 161: disorder. He knew that I could not have a more kind and attentive
+LINE 162: nurse than himself; and, firm in the hope he felt of my recovery, he
+LINE 163: did not doubt that, instead of doing harm, he performed the kindest
+LINE 164: action that he could towards them.
+LINE 165: But I was in reality very ill, and surely nothing but the unbounded and
+LINE 166: unremitting attentions of my friend could have restored me to life.
+LINE 167: The form of the monster on whom I had bestowed existence was for ever
+LINE 168: before my eyes, and I raved incessantly concerning him. Doubtless my
+LINE 169: words surprised Henry; he at first believed them to be the wanderings
+LINE 170: of my disturbed imagination, but the pertinacity with which I
+LINE 171: continually recurred to the same subject persuaded him that my disorder
+LINE 172: indeed owed its origin to some uncommon and terrible event.
+LINE 173: By very slow degrees, and with frequent relapses that alarmed and
+LINE 174: grieved my friend, I recovered. I remember the first time I became
+LINE 175: capable of observing outward objects with any kind of pleasure, I
+LINE 176: perceived that the fallen leaves had disappeared and that the young
+LINE 177: buds were shooting forth from the trees that shaded my window. It was
+LINE 178: a divine spring, and the season contributed greatly to my
+LINE 179: convalescence. I felt also sentiments of joy and affection revive in
+LINE 180: my bosom; my gloom disappeared, and in a short time I became as
+LINE 181: cheerful as before I was attacked by the fatal passion.
+LINE 182: "Dearest Clerval," exclaimed I, "how kind, how very good
+LINE 183: you are to me. This whole winter, instead of being spent in study, as you
+LINE 184: promised yourself, has been consumed in my sick room. How shall I ever
+LINE 185: repay you? I feel the greatest remorse for the disappointment of which I
+LINE 186: have been the occasion, but you will forgive me."
+LINE 187: "You will repay me entirely if you do not discompose yourself, but get
+LINE 188: well as fast as you can; and since you appear in such good spirits, I
+LINE 189: may speak to you on one subject, may I not?"
+LINE 190: I trembled. One subject! What could it be? Could he allude to an object on
+LINE 191: whom I dared not even think?
+LINE 192: "Compose yourself," said Clerval, who observed my change of
+LINE 193: colour, "I will not mention it if it agitates you; but your father
+LINE 194: and cousin would be very happy if they received a letter from you in your
+LINE 195: own handwriting. They hardly know how ill you have been and are uneasy at
+LINE 196: your long silence."
+LINE 197: "Is that all, my dear Henry? How could you suppose that my first
+LINE 198: thought would not fly towards those dear, dear friends whom I love and
+LINE 199: who are so deserving of my love?"
+LINE 200: "If this is your present temper, my friend, you will perhaps be glad
+LINE 201: to see a letter that has been lying here some days for you; it is from
+LINE 202: your cousin, I believe."

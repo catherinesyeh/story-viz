@@ -1,0 +1,211 @@
+LINE 1: The very day of Mr. Elton's going to London produced a fresh occasion
+LINE 2: for Emma's services towards her friend. Harriet had been at Hartfield,
+LINE 3: as usual, soon after breakfast; and, after a time, had gone home to
+LINE 4: return again to dinner: she returned, and sooner than had been talked
+LINE 5: of, and with an agitated, hurried look, announcing something
+LINE 6: extraordinary to have happened which she was longing to tell. Half a
+LINE 7: minute brought it all out. She had heard, as soon as she got back to
+LINE 8: Mrs. Goddard's, that Mr. Martin had been there an hour before, and
+LINE 9: finding she was not at home, nor particularly expected, had left a
+LINE 10: little parcel for her from one of his sisters, and gone away; and on
+LINE 11: opening this parcel, she had actually found, besides the two songs
+LINE 12: which she had lent Elizabeth to copy, a letter to herself; and this
+LINE 13: letter was from him, from Mr. Martin, and contained a direct proposal
+LINE 14: of marriage. "Who could have thought it? She was so surprized she did
+LINE 15: not know what to do. Yes, quite a proposal of marriage; and a very good
+LINE 16: letter, at least she thought so. And he wrote as if he really loved her
+LINE 17: very much—but she did not know—and so, she was come as fast as she
+LINE 18: could to ask Miss Woodhouse what she should do.—" Emma was half-ashamed
+LINE 19: of her friend for seeming so pleased and so doubtful.
+LINE 20: "Upon my word," she cried, "the young man is determined not to lose any
+LINE 21: thing for want of asking. He will connect himself well if he can."
+LINE 22: "Will you read the letter?" cried Harriet. "Pray do. II'd rather you
+LINE 23: would."
+LINE 24: Emma was not sorry to be pressed. She read, and was surprized. The
+LINE 25: style of the letter was much above her expectation. There were not
+LINE 26: merely no grammatical errors, but as a composition it would not have
+LINE 27: disgraced a gentleman; the language, though plain, was strong and
+LINE 28: unaffected, and the sentiments it conveyed very much to the credit of
+LINE 29: the writer. It was short, but expressed good sense, warm attachment,
+LINE 30: liberality, propriety, even delicacy of feeling. She paused over it,
+LINE 31: while Harriet stood anxiously watching for her opinion, with a "Well,
+LINE 32: well," and was at last forced to add, "Is it a good letter? or is it
+LINE 33: too short?"
+LINE 34: "Yes, indeed, a very good letter," replied Emma rather slowly—"so good
+LINE 35: a letter, Harriet, that every thing considered, I think one of his
+LINE 36: sisters must have helped him. I can hardly imagine the young man whom I
+LINE 37: saw talking with you the other day could express himself so well, if
+LINE 38: left quite to his own powers, and yet it is not the style of a woman;
+LINE 39: no, certainly, it is too strong and concise; not diffuse enough for a
+LINE 40: woman. No doubt he is a sensible man, and I suppose may have a natural
+LINE 41: talent for—thinks strongly and clearly—and when he takes a pen in hand,
+LINE 42: his thoughts naturally find proper words. It is so with some men. Yes,
+LINE 43: I understand the sort of mind. Vigorous, decided, with sentiments to a
+LINE 44: certain point, not coarse. A better written letter, Harriet (returning
+LINE 45: it,) than I had expected."
+LINE 46: "Well," said the still waiting Harriet;—"well—and—and what shall I do?"
+LINE 47: "What shall you do! In what respect? Do you mean with regard to this
+LINE 48: letter?"
+LINE 49: "Yes."
+LINE 50: "But what are you in doubt of? You must answer it of course—and
+LINE 51: speedily."
+LINE 52: "Yes. But what shall I say? Dear Miss Woodhouse, do advise me."
+LINE 53: "Oh no, no! the letter had much better be all your own. You will
+LINE 54: express yourself very properly, I am sure. There is no danger of your
+LINE 55: not being intelligible, which is the first thing. Your meaning must be
+LINE 56: unequivocal; no doubts or demurs: and such expressions of gratitude and
+LINE 57: concern for the pain you are inflicting as propriety requires, will
+LINE 58: present themselves unbidden to _your_ mind, I am persuaded. You need
+LINE 59: not be prompted to write with the appearance of sorrow for his
+LINE 60: disappointment."
+LINE 61: "You think I ought to refuse him then," said Harriet, looking down.
+LINE 62: "Ought to refuse him! My dear Harriet, what do you mean? Are you in any
+LINE 63: doubt as to that? I thought—but I beg your pardon, perhaps I have been
+LINE 64: under a mistake. I certainly have been misunderstanding you, if you
+LINE 65: feel in doubt as to the _purport_ of your answer. I had imagined you
+LINE 66: were consulting me only as to the wording of it."
+LINE 67: Harriet was silent. With a little reserve of manner, Emma continued:
+LINE 68: "You mean to return a favourable answer, I collect."
+LINE 69: "No, I do not; that is, I do not mean—What shall I do? What would you
+LINE 70: advise me to do? Pray, dear Miss Woodhouse, tell me what I ought to
+LINE 71: do."
+LINE 72: "I shall not give you any advice, Harriet. I will have nothing to do
+LINE 73: with it. This is a point which you must settle with your feelings."
+LINE 74: "I had no notion that he liked me so very much," said Harriet,
+LINE 75: contemplating the letter. For a little while Emma persevered in her
+LINE 76: silence; but beginning to apprehend the bewitching flattery of that
+LINE 77: letter might be too powerful, she thought it best to say,
+LINE 78: "I lay it down as a general rule, Harriet, that if a woman _doubts_ as
+LINE 79: to whether she should accept a man or not, she certainly ought to
+LINE 80: refuse him. If she can hesitate as to 'Yes,' she ought to say 'No'
+LINE 81: directly. It is not a state to be safely entered into with doubtful
+LINE 82: feelings, with half a heart. I thought it my duty as a friend, and
+LINE 83: older than yourself, to say thus much to you. But do not imagine that I
+LINE 84: want to influence you."
+LINE 85: "Oh! no, I am sure you are a great deal too kind to—but if you would
+LINE 86: just advise me what I had best do—No, no, I do not mean that—As you
+LINE 87: say, one's mind ought to be quite made up—One should not be
+LINE 88: hesitating—It is a very serious thing.—It will be safer to say 'No,'
+LINE 89: perhaps.—Do you think I had better say 'No?'"
+LINE 90: "Not for the world," said Emma, smiling graciously, "would I advise you
+LINE 91: either way. You must be the best judge of your own happiness. If you
+LINE 92: prefer Mr. Martin to every other person; if you think him the most
+LINE 93: agreeable man you have ever been in company with, why should you
+LINE 94: hesitate? You blush, Harriet.—Does any body else occur to you at this
+LINE 95: moment under such a definition? Harriet, Harriet, do not deceive
+LINE 96: yourself; do not be run away with by gratitude and compassion. At this
+LINE 97: moment whom are you thinking of?"
+LINE 98: The symptoms were favourable.—Instead of answering, Harriet turned away
+LINE 99: confused, and stood thoughtfully by the fire; and though the letter was
+LINE 100: still in her hand, it was now mechanically twisted about without
+LINE 101: regard. Emma waited the result with impatience, but not without strong
+LINE 102: hopes. At last, with some hesitation, Harriet said—
+LINE 103: "Miss Woodhouse, as you will not give me your opinion, I must do as
+LINE 104: well as I can by myself; and I have now quite determined, and really
+LINE 105: almost made up my mind—to refuse Mr. Martin. Do you think I am right?"
+LINE 106: "Perfectly, perfectly right, my dearest Harriet; you are doing just
+LINE 107: what you ought. While you were at all in suspense I kept my feelings to
+LINE 108: myself, but now that you are so completely decided I have no hesitation
+LINE 109: in approving. Dear Harriet, I give myself joy of this. It would have
+LINE 110: grieved me to lose your acquaintance, which must have been the
+LINE 111: consequence of your marrying Mr. Martin. While you were in the smallest
+LINE 112: degree wavering, I said nothing about it, because I would not
+LINE 113: influence; but it would have been the loss of a friend to me. I could
+LINE 114: not have visited Mrs. Robert Martin, of Abbey-Mill Farm. Now I am
+LINE 115: secure of you for ever."
+LINE 116: Harriet had not surmised her own danger, but the idea of it struck her
+LINE 117: forcibly.
+LINE 118: "You could not have visited me!" she cried, looking aghast. "No, to be
+LINE 119: sure you could not; but I never thought of that before. That would have
+LINE 120: been too dreadful!—What an escape!—Dear Miss Woodhouse, I would not
+LINE 121: give up the pleasure and honour of being intimate with you for any
+LINE 122: thing in the world."
+LINE 123: "Indeed, Harriet, it would have been a severe pang to lose you; but it
+LINE 124: must have been. You would have thrown yourself out of all good society.
+LINE 125: I must have given you up."
+LINE 126: "Dear me!—How should I ever have borne it! It would have killed me
+LINE 127: never to come to Hartfield any more!"
+LINE 128: "Dear affectionate creature!—_You_ banished to Abbey-Mill Farm!—_You_
+LINE 129: confined to the society of the illiterate and vulgar all your life! I
+LINE 130: wonder how the young man could have the assurance to ask it. He must
+LINE 131: have a pretty good opinion of himself."
+LINE 132: "I do not think he is conceited either, in general," said Harriet, her
+LINE 133: conscience opposing such censure; "at least, he is very good natured,
+LINE 134: and I shall always feel much obliged to him, and have a great regard
+LINE 135: for—but that is quite a different thing from—and you know, though he
+LINE 136: may like me, it does not follow that I should—and certainly I must
+LINE 137: confess that since my visiting here I have seen people—and if one comes
+LINE 138: to compare them, person and manners, there is no comparison at all,
+LINE 139: _one_ is so very handsome and agreeable. However, I do really think Mr.
+LINE 140: Martin a very amiable young man, and have a great opinion of him; and
+LINE 141: his being so much attached to me—and his writing such a letter—but as
+LINE 142: to leaving you, it is what I would not do upon any consideration."
+LINE 143: "Thank you, thank you, my own sweet little friend. We will not be
+LINE 144: parted. A woman is not to marry a man merely because she is asked, or
+LINE 145: because he is attached to her, and can write a tolerable letter."
+LINE 146: "Oh no;—and it is but a short letter too."
+LINE 147: Emma felt the bad taste of her friend, but let it pass with a "very
+LINE 148: true; and it would be a small consolation to her, for the clownish
+LINE 149: manner which might be offending her every hour of the day, to know that
+LINE 150: her husband could write a good letter."
+LINE 151: "Oh! yes, very. Nobody cares for a letter; the thing is, to be always
+LINE 152: happy with pleasant companions. I am quite determined to refuse him.
+LINE 153: But how shall I do? What shall I say?"
+LINE 154: Emma assured her there would be no difficulty in the answer, and
+LINE 155: advised its being written directly, which was agreed to, in the hope of
+LINE 156: her assistance; and though Emma continued to protest against any
+LINE 157: assistance being wanted, it was in fact given in the formation of every
+LINE 158: sentence. The looking over his letter again, in replying to it, had
+LINE 159: such a softening tendency, that it was particularly necessary to brace
+LINE 160: her up with a few decisive expressions; and she was so very much
+LINE 161: concerned at the idea of making him unhappy, and thought so much of
+LINE 162: what his mother and sisters would think and say, and was so anxious
+LINE 163: that they should not fancy her ungrateful, that Emma believed if the
+LINE 164: young man had come in her way at that moment, he would have been
+LINE 165: accepted after all.
+LINE 166: This letter, however, was written, and sealed, and sent. The business
+LINE 167: was finished, and Harriet safe. She was rather low all the evening, but
+LINE 168: Emma could allow for her amiable regrets, and sometimes relieved them
+LINE 169: by speaking of her own affection, sometimes by bringing forward the
+LINE 170: idea of Mr. Elton.
+LINE 171: "I shall never be invited to Abbey-Mill again," was said in rather a
+LINE 172: sorrowful tone.
+LINE 173: "Nor, if you were, could I ever bear to part with you, my Harriet. You
+LINE 174: are a great deal too necessary at Hartfield to be spared to
+LINE 175: Abbey-Mill."
+LINE 176: "And I am sure I should never want to go there; for I am never happy
+LINE 177: but at Hartfield."
+LINE 178: Some time afterwards it was, "I think Mrs. Goddard would be very much
+LINE 179: surprized if she knew what had happened. I am sure Miss Nash would—for
+LINE 180: Miss Nash thinks her own sister very well married, and it is only a
+LINE 181: linen-draper."
+LINE 182: "One should be sorry to see greater pride or refinement in the teacher
+LINE 183: of a school, Harriet. I dare say Miss Nash would envy you such an
+LINE 184: opportunity as this of being married. Even this conquest would appear
+LINE 185: valuable in her eyes. As to any thing superior for you, I suppose she
+LINE 186: is quite in the dark. The attentions of a certain person can hardly be
+LINE 187: among the tittle-tattle of Highbury yet. Hitherto I fancy you and I are
+LINE 188: the only people to whom his looks and manners have explained
+LINE 189: themselves."
+LINE 190: Harriet blushed and smiled, and said something about wondering that
+LINE 191: people should like her so much. The idea of Mr. Elton was certainly
+LINE 192: cheering; but still, after a time, she was tender-hearted again towards
+LINE 193: the rejected Mr. Martin.
+LINE 194: "Now he has got my letter," said she softly. "I wonder what they are
+LINE 195: all doing—whether his sisters know—if he is unhappy, they will be
+LINE 196: unhappy too. I hope he will not mind it so very much."
+LINE 197: "Let us think of those among our absent friends who are more cheerfully
+LINE 198: employed," cried Emma. "At this moment, perhaps, Mr. Elton is shewing
+LINE 199: your picture to his mother and sisters, telling how much more beautiful
+LINE 200: is the original, and after being asked for it five or six times,
+LINE 201: allowing them to hear your name, your own dear name."
+LINE 202: "My picture!—But he has left my picture in Bond-street."
+LINE 203: "Has he so!—Then I know nothing of Mr. Elton. No, my dear little modest
+LINE 204: Harriet, depend upon it the picture will not be in Bond-street till
+LINE 205: just before he mounts his horse to-morrow. It is his companion all this
+LINE 206: evening, his solace, his delight. It opens his designs to his family,
+LINE 207: it introduces you among them, it diffuses through the party those
+LINE 208: pleasantest feelings of our nature, eager curiosity and warm
+LINE 209: prepossession. How cheerful, how animated, how suspicious, how busy
+LINE 210: their imaginations all are!"
+LINE 211: Harriet smiled again, and her smiles grew stronger.

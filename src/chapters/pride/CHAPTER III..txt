@@ -1,0 +1,145 @@
+LINE 1: Not all that Mrs. Bennet, however, with the assistance of her five
+LINE 2: daughters, could ask on the subject was sufficient to draw from her
+LINE 3: husband any satisfactory description of Mr. Bingley. They attacked him
+LINE 4: in various ways; with barefaced questions, ingenious suppositions, and
+LINE 5: distant surmises; but he eluded the skill of them all; and they were at
+LINE 6: last obliged to accept the second-hand intelligence of their neighbour
+LINE 7: Lady Lucas. Her report was highly favourable. Sir William had been
+LINE 8: delighted with him. He was quite young, wonderfully handsome, extremely
+LINE 9: agreeable, and to crown the whole, he meant to be at the next assembly
+LINE 10: with a large party. Nothing could be more delightful! To be fond of
+LINE 11: dancing was a certain step towards falling in love; and very lively
+LINE 12: hopes of Mr. Bingley's heart were entertained.
+LINE 13: "If I can but see one of my daughters happily settled at Netherfield,"
+LINE 14: said Mrs. Bennet to her husband, "and all the others equally well
+LINE 15: married, I shall have nothing to wish for."
+LINE 16: In a few days Mr. Bingley returned Mr. Bennet's visit, and sat about ten
+LINE 17: minutes with him in his library. He had entertained hopes of being
+LINE 18: admitted to a sight of the young ladies, of whose beauty he had heard
+LINE 19: much; but he saw only the father. The ladies were somewhat more
+LINE 20: fortunate, for they had the advantage of ascertaining from an upper
+LINE 21: window, that he wore a blue coat and rode a black horse.
+LINE 22: An invitation to dinner was soon afterwards dispatched; and already had
+LINE 23: Mrs. Bennet planned the courses that were to do credit to her
+LINE 24: housekeeping, when an answer arrived which deferred it all. Mr. Bingley
+LINE 25: was obliged to be in town the following day, and consequently unable to
+LINE 26: accept the honour of their invitation, &c. Mrs. Bennet was quite
+LINE 27: disconcerted. She could not imagine what business he could have in town
+LINE 28: so soon after his arrival in Hertfordshire; and she began to fear that
+LINE 29: he might be always flying about from one place to another, and never
+LINE 30: settled at Netherfield as he ought to be. Lady Lucas quieted her fears a
+LINE 31: little by starting the idea of his being gone to London only to get a
+LINE 32: large party for the ball; and a report soon followed that Mr. Bingley
+LINE 33: was to bring twelve ladies and seven gentlemen with him to the assembly.
+LINE 34: The girls grieved over such a number of ladies; but were comforted the
+LINE 35: day before the ball by hearing, that instead of twelve, he had brought
+LINE 36: only six with him from London, his five sisters and a cousin. And when
+LINE 37: the party entered the assembly room, it consisted of only five
+LINE 38: altogether; Mr. Bingley, his two sisters, the husband of the eldest, and
+LINE 39: another young man.
+LINE 40: Mr. Bingley was good looking and gentleman-like; he had a pleasant
+LINE 41: countenance, and easy, unaffected manners. His sisters were fine women,
+LINE 42: with an air of decided fashion. His brother-in-law, Mr. Hurst, merely
+LINE 43: looked the gentleman; but his friend Mr. Darcy soon drew the attention
+LINE 44: of the room by his fine, tall person, handsome features, noble mien; and
+LINE 45: the report which was in general circulation within five minutes after
+LINE 46: his entrance, of his having ten thousand a year. The gentlemen
+LINE 47: pronounced him to be a fine figure of a man, the ladies declared he was
+LINE 48: much handsomer than Mr. Bingley, and he was looked at with great
+LINE 49: admiration for about half the evening, till his manners gave a disgust
+LINE 50: which turned the tide of his popularity; for he was discovered to be
+LINE 51: proud, to be above his company, and above being pleased; and not all his
+LINE 52: large estate in Derbyshire could then save him from having a most
+LINE 53: forbidding, disagreeable countenance, and being unworthy to be compared
+LINE 54: with his friend.
+LINE 55: Mr. Bingley had soon made himself acquainted with all the principal
+LINE 56: people in the room; he was lively and unreserved, danced every dance,
+LINE 57: was angry that the ball closed so early, and talked of giving one
+LINE 58: himself at Netherfield. Such amiable qualities must speak for
+LINE 59: themselves. What a contrast between him and his friend! Mr. Darcy danced
+LINE 60: only once with Mrs. Hurst and once with Miss Bingley, declined being
+LINE 61: introduced to any other lady, and spent the rest of the evening in
+LINE 62: walking about the room, speaking occasionally to one of his own party.
+LINE 63: His character was decided. He was the proudest, most disagreeable man in
+LINE 64: the world, and every body hoped that he would never come there again.
+LINE 65: Amongst the most violent against him was Mrs. Bennet, whose dislike of
+LINE 66: his general behaviour, was sharpened into particular resentment, by his
+LINE 67: having slighted one of her daughters.
+LINE 68: Elizabeth Bennet had been obliged, by the scarcity of gentlemen, to sit
+LINE 69: down for two dances; and during part of that time, Mr. Darcy had been
+LINE 70: standing near enough for her to overhear a conversation between him and
+LINE 71: Mr. Bingley, who came from the dance for a few minutes, to press his
+LINE 72: friend to join it.
+LINE 73: "Come, Darcy," said he, "I must have you dance. I hate to see you
+LINE 74: standing about by yourself in this stupid manner. You had much better
+LINE 75: dance."
+LINE 76: "I certainly shall not. You know how I detest it, unless I am
+LINE 77: particularly acquainted with my partner. At such an assembly as this, it
+LINE 78: would be insupportable. Your sisters are engaged, and there is not
+LINE 79: another woman in the room, whom it would not be a punishment to me to
+LINE 80: stand up with."
+LINE 81: "I would not be so fastidious as you are," cried Bingley, "for a
+LINE 82: kingdom! Upon my honour, I never met with so many pleasant girls in my
+LINE 83: life, as I have this evening; and there are several of them you see
+LINE 84: uncommonly pretty."
+LINE 85: "_You_ are dancing with the only handsome girl in the room," said Mr.
+LINE 86: Darcy, looking at the eldest Miss Bennet.
+LINE 87: "Oh! she is the most beautiful creature I ever beheld! But there is one
+LINE 88: of her sisters sitting down just behind you, who is very pretty, and I
+LINE 89: dare say, very agreeable. Do let me ask my partner to introduce you."
+LINE 90: "Which do you mean?" and turning round, he looked for a moment at
+LINE 91: Elizabeth, till catching her eye, he withdrew his own and coldly said,
+LINE 92: "She is tolerable; but not handsome enough to tempt _me_; and I am in no
+LINE 93: humour at present to give consequence to young ladies who are slighted
+LINE 94: by other men. You had better return to your partner and enjoy her
+LINE 95: smiles, for you are wasting your time with me."
+LINE 96: Mr. Bingley followed his advice. Mr. Darcy walked off; and Elizabeth
+LINE 97: remained with no very cordial feelings towards him. She told the story
+LINE 98: however with great spirit among her friends; for she had a lively,
+LINE 99: playful disposition, which delighted in any thing ridiculous.
+LINE 100: The evening altogether passed off pleasantly to the whole family. Mrs.
+LINE 101: Bennet had seen her eldest daughter much admired by the Netherfield
+LINE 102: party. Mr. Bingley had danced with her twice, and she had been
+LINE 103: distinguished by his sisters. Jane was as much gratified by this, as her
+LINE 104: mother could be, though in a quieter way. Elizabeth felt Jane's
+LINE 105: pleasure. Mary had heard herself mentioned to Miss Bingley as the most
+LINE 106: accomplished girl in the neighbourhood; and Catherine and Lydia had been
+LINE 107: fortunate enough to be never without partners, which was all that they
+LINE 108: had yet learnt to care for at a ball. They returned therefore in good
+LINE 109: spirits to Longbourn, the village where they lived, and of which they
+LINE 110: were the principal inhabitants. They found Mr. Bennet still up. With a
+LINE 111: book he was regardless of time; and on the present occasion he had a
+LINE 112: good deal of curiosity as to the event of an evening which had raised
+LINE 113: such splendid expectations. He had rather hoped that all his wife's
+LINE 114: views on the stranger would be disappointed; but he soon found that he
+LINE 115: had a very different story to hear.
+LINE 116: "Oh! my dear Mr. Bennet," as she entered the room, "we have had a most
+LINE 117: delightful evening, a most excellent ball. I wish you had been there.
+LINE 118: Jane was so admired, nothing could be like it. Every body said how well
+LINE 119: she looked; and Mr. Bingley thought her quite beautiful, and danced with
+LINE 120: her twice. Only think of _that_ my dear; he actually danced with her
+LINE 121: twice; and she was the only creature in the room that he asked a second
+LINE 122: time. First of all, he asked Miss Lucas. I was so vexed to see him stand
+LINE 123: up with her; but, however, he did not admire her at all: indeed, nobody
+LINE 124: can, you know; and he seemed quite struck with Jane as she was going
+LINE 125: down the dance. So, he enquired who she was, and got introduced, and
+LINE 126: asked her for the two next. Then, the two third he danced with Miss
+LINE 127: King, and the two fourth with Maria Lucas, and the two fifth with Jane
+LINE 128: again, and the two sixth with Lizzy, and the Boulanger----"
+LINE 129: "If he had had any compassion for _me_," cried her husband impatiently,
+LINE 130: "he would not have danced half so much! For God's sake, say no more of
+LINE 131: his partners. Oh! that he had sprained his ancle in the first dance!"
+LINE 132: "Oh! my dear," continued Mrs. Bennet, "I am quite delighted with him. He
+LINE 133: is so excessively handsome! and his sisters are charming women. I never
+LINE 134: in my life saw any thing more elegant than their dresses. I dare say the
+LINE 135: lace upon Mrs. Hurst's gown----"
+LINE 136: Here she was interrupted again. Mr. Bennet protested against any
+LINE 137: description of finery. She was therefore obliged to seek another branch
+LINE 138: of the subject, and related, with much bitterness of spirit and some
+LINE 139: exaggeration, the shocking rudeness of Mr. Darcy.
+LINE 140: "But I can assure you," she added, "that Lizzy does not lose much by not
+LINE 141: suiting _his_ fancy; for he is a most disagreeable, horrid man, not at
+LINE 142: all worth pleasing. So high and so conceited that there was no enduring
+LINE 143: him! He walked here, and he walked there, fancying himself so very
+LINE 144: great! Not handsome enough to dance with! I wish you had been there, my
+LINE 145: dear, to have given him one of your set downs. I quite detest the man."

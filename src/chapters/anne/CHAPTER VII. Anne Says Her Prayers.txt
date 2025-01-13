@@ -1,0 +1,106 @@
+LINE 1: WHEN Marilla took Anne up to bed that night she said stiffly:
+LINE 2: "Now, Anne, I noticed last night that you threw your clothes all about
+LINE 3: the floor when you took them off. That is a very untidy habit, and I
+LINE 4: can't allow it at all. As soon as you take off any article of clothing
+LINE 5: fold it neatly and place it on the chair. I haven't any use at all for
+LINE 6: little girls who aren't neat."
+LINE 7: "I was so harrowed up in my mind last night that I didn't think about my
+LINE 8: clothes at all," said Anne. "I'll fold them nicely tonight. They always
+LINE 9: made us do that at the asylum. Half the time, though, I'd forget, I'd be
+LINE 10: in such a hurry to get into bed nice and quiet and imagine things."
+LINE 11: "You'll have to remember a little better if you stay here," admonished
+LINE 12: Marilla. "There, that looks something like. Say your prayers now and get
+LINE 13: into bed."
+LINE 14: "I never say any prayers," announced Anne.
+LINE 15: Marilla looked horrified astonishment.
+LINE 16: "Why, Anne, what do you mean? Were you never taught to say your prayers?
+LINE 17: God always wants little girls to say their prayers. Don't you know who
+LINE 18: God is, Anne?"
+LINE 19: "'God is a spirit, infinite, eternal and unchangeable, in His being,
+LINE 20: wisdom, power, holiness, justice, goodness, and truth,'" responded Anne
+LINE 21: promptly and glibly.
+LINE 22: Marilla looked rather relieved.
+LINE 23: "So you do know something then, thank goodness! You're not quite a
+LINE 24: heathen. Where did you learn that?"
+LINE 25: "Oh, at the asylum Sunday-school. They made us learn the whole
+LINE 26: catechism. I liked it pretty well. There's something splendid about some
+LINE 27: of the words. 'Infinite, eternal and unchangeable.' Isn't that grand? It
+LINE 28: has such a roll to it--just like a big organ playing. You couldn't quite
+LINE 29: call it poetry, I suppose, but it sounds a lot like it, doesn't it?"
+LINE 30: "We're not talking about poetry, Anne--we are talking about saying your
+LINE 31: prayers. Don't you know it's a terrible wicked thing not to say your
+LINE 32: prayers every night? I'm afraid you are a very bad little girl."
+LINE 33: "You'd find it easier to be bad than good if you had red hair," said
+LINE 34: Anne reproachfully. "People who haven't red hair don't know what trouble
+LINE 35: is. Mrs. Thomas told me that God made my hair red _on purpose_, and I've
+LINE 36: never cared about Him since. And anyhow I'd always be too tired at night
+LINE 37: to bother saying prayers. People who have to look after twins can't be
+LINE 38: expected to say their prayers. Now, do you honestly think they can?"
+LINE 39: Marilla decided that Anne's religious training must be begun at once.
+LINE 40: Plainly there was no time to be lost.
+LINE 41: "You must say your prayers while you are under my roof, Anne."
+LINE 42: "Why, of course, if you want me to," assented Anne cheerfully. "I'd do
+LINE 43: anything to oblige you. But you'll have to tell me what to say for this
+LINE 44: once. After I get into bed I'll imagine out a real nice prayer to say
+LINE 45: always. I believe that it will be quite interesting, now that I come to
+LINE 46: think of it."
+LINE 47: "You must kneel down," said Marilla in embarrassment.
+LINE 48: Anne knelt at Marilla's knee and looked up gravely.
+LINE 49: "Why must people kneel down to pray? If I really wanted to pray I'll
+LINE 50: tell you what I'd do. I'd go out into a great big field all alone
+LINE 51: or into the deep, deep, woods, and I'd look up into the
+LINE 52: sky--up--up--up--into that lovely blue sky that looks as if there was no
+LINE 53: end to its blueness. And then I'd just _feel_ a prayer. Well, I'm ready.
+LINE 54: What am I to say?"
+LINE 55: Marilla felt more embarrassed than ever. She had intended to teach Anne
+LINE 56: the childish classic, "Now I lay me down to sleep." But she had, as
+LINE 57: I have told you, the glimmerings of a sense of humor--which is simply
+LINE 58: another name for a sense of fitness of things; and it suddenly occurred
+LINE 59: to her that that simple little prayer, sacred to white-robed childhood
+LINE 60: lisping at motherly knees, was entirely unsuited to this freckled witch
+LINE 61: of a girl who knew and cared nothing about God's love, since she had
+LINE 62: never had it translated to her through the medium of human love.
+LINE 63: "You're old enough to pray for yourself, Anne," she said finally. "Just
+LINE 64: thank God for your blessings and ask Him humbly for the things you
+LINE 65: want."
+LINE 66: "Well, I'll do my best," promised Anne, burying her face in Marilla's
+LINE 67: lap. "Gracious heavenly Father--that's the way the ministers say it in
+LINE 68: church, so I suppose it's all right in private prayer, isn't it?" she
+LINE 69: interjected, lifting her head for a moment. "Gracious heavenly Father,
+LINE 70: I thank Thee for the White Way of Delight and the Lake of Shining
+LINE 71: Waters and Bonny and the Snow Queen. I'm really extremely grateful for
+LINE 72: them. And that's all the blessings I can think of just now to thank
+LINE 73: Thee for. As for the things I want, they're so numerous that it would
+LINE 74: take a great deal of time to name them all so I will only mention the
+LINE 75: two most important. Please let me stay at Green Gables; and please let
+LINE 76: me be good-looking when I grow up. I remain,
+LINE 77: "Yours respectfully,
+LINE 78: Anne Shirley.
+LINE 79: "There, did I do all right?" she asked eagerly, getting up. "I could
+LINE 80: have made it much more flowery if I'd had a little more time to think it
+LINE 81: over."
+LINE 82: Poor Marilla was only preserved from complete collapse by remembering
+LINE 83: that it was not irreverence, but simply spiritual ignorance on the part
+LINE 84: of Anne that was responsible for this extraordinary petition. She tucked
+LINE 85: the child up in bed, mentally vowing that she should be taught a prayer
+LINE 86: the very next day, and was leaving the room with the light when Anne
+LINE 87: called her back.
+LINE 88: "I've just thought of it now. I should have said, 'Amen' in place
+LINE 89: of 'yours respectfully,' shouldn't I?--the way the ministers do. I'd
+LINE 90: forgotten it, but I felt a prayer should be finished off in some way, so
+LINE 91: I put in the other. Do you suppose it will make any difference?"
+LINE 92: "I--I don't suppose it will," said Marilla. "Go to sleep now like a good
+LINE 93: child. Good night."
+LINE 94: "I can only say good night tonight with a clear conscience," said Anne,
+LINE 95: cuddling luxuriously down among her pillows.
+LINE 96: Marilla retreated to the kitchen, set the candle firmly on the table,
+LINE 97: and glared at Matthew.
+LINE 98: "Matthew Cuthbert, it's about time somebody adopted that child and
+LINE 99: taught her something. She's next door to a perfect heathen. Will you
+LINE 100: believe that she never said a prayer in her life till tonight? I'll send
+LINE 101: her to the manse tomorrow and borrow the Peep of the Day series, that's
+LINE 102: what I'll do. And she shall go to Sunday-school just as soon as I can
+LINE 103: get some suitable clothes made for her. I foresee that I shall have
+LINE 104: my hands full. Well, well, we can't get through this world without our
+LINE 105: share of trouble. I've had a pretty easy life of it so far, but my time
+LINE 106: has come at last and I suppose I'll just have to make the best of it."

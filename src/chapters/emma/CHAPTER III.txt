@@ -1,0 +1,161 @@
+LINE 1: Mr. Woodhouse was fond of society in his own way. He liked very much to
+LINE 2: have his friends come and see him; and from various united causes, from
+LINE 3: his long residence at Hartfield, and his good nature, from his fortune,
+LINE 4: his house, and his daughter, he could command the visits of his own
+LINE 5: little circle, in a great measure, as he liked. He had not much
+LINE 6: intercourse with any families beyond that circle; his horror of late
+LINE 7: hours, and large dinner-parties, made him unfit for any acquaintance
+LINE 8: but such as would visit him on his own terms. Fortunately for him,
+LINE 9: Highbury, including Randalls in the same parish, and Donwell Abbey in
+LINE 10: the parish adjoining, the seat of Mr. Knightley, comprehended many
+LINE 11: such. Not unfrequently, through Emma's persuasion, he had some of the
+LINE 12: chosen and the best to dine with him: but evening parties were what he
+LINE 13: preferred; and, unless he fancied himself at any time unequal to
+LINE 14: company, there was scarcely an evening in the week in which Emma could
+LINE 15: not make up a card-table for him.
+LINE 16: Real, long-standing regard brought the Westons and Mr. Knightley; and
+LINE 17: by Mr. Elton, a young man living alone without liking it, the privilege
+LINE 18: of exchanging any vacant evening of his own blank solitude for the
+LINE 19: elegancies and society of Mr. Woodhouse's drawing-room, and the smiles
+LINE 20: of his lovely daughter, was in no danger of being thrown away.
+LINE 21: After these came a second set; among the most come-at-able of whom were
+LINE 22: Mrs. and Miss Bates, and Mrs. Goddard, three ladies almost always at
+LINE 23: the service of an invitation from Hartfield, and who were fetched and
+LINE 24: carried home so often, that Mr. Woodhouse thought it no hardship for
+LINE 25: either James or the horses. Had it taken place only once a year, it
+LINE 26: would have been a grievance.
+LINE 27: Mrs. Bates, the widow of a former vicar of Highbury, was a very old
+LINE 28: lady, almost past every thing but tea and quadrille. She lived with her
+LINE 29: single daughter in a very small way, and was considered with all the
+LINE 30: regard and respect which a harmless old lady, under such untoward
+LINE 31: circumstances, can excite. Her daughter enjoyed a most uncommon degree
+LINE 32: of popularity for a woman neither young, handsome, rich, nor married.
+LINE 33: Miss Bates stood in the very worst predicament in the world for having
+LINE 34: much of the public favour; and she had no intellectual superiority to
+LINE 35: make atonement to herself, or frighten those who might hate her into
+LINE 36: outward respect. She had never boasted either beauty or cleverness. Her
+LINE 37: youth had passed without distinction, and her middle of life was
+LINE 38: devoted to the care of a failing mother, and the endeavour to make a
+LINE 39: small income go as far as possible. And yet she was a happy woman, and
+LINE 40: a woman whom no one named without good-will. It was her own universal
+LINE 41: good-will and contented temper which worked such wonders. She loved
+LINE 42: every body, was interested in every body's happiness, quicksighted to
+LINE 43: every body's merits; thought herself a most fortunate creature, and
+LINE 44: surrounded with blessings in such an excellent mother, and so many good
+LINE 45: neighbours and friends, and a home that wanted for nothing. The
+LINE 46: simplicity and cheerfulness of her nature, her contented and grateful
+LINE 47: spirit, were a recommendation to every body, and a mine of felicity to
+LINE 48: herself. She was a great talker upon little matters, which exactly
+LINE 49: suited Mr. Woodhouse, full of trivial communications and harmless
+LINE 50: gossip.
+LINE 51: Mrs. Goddard was the mistress of a School—not of a seminary, or an
+LINE 52: establishment, or any thing which professed, in long sentences of
+LINE 53: refined nonsense, to combine liberal acquirements with elegant
+LINE 54: morality, upon new principles and new systems—and where young ladies
+LINE 55: for enormous pay might be screwed out of health and into vanity—but a
+LINE 56: real, honest, old-fashioned Boarding-school, where a reasonable
+LINE 57: quantity of accomplishments were sold at a reasonable price, and where
+LINE 58: girls might be sent to be out of the way, and scramble themselves into
+LINE 59: a little education, without any danger of coming back prodigies. Mrs.
+LINE 60: Goddard's school was in high repute—and very deservedly; for Highbury
+LINE 61: was reckoned a particularly healthy spot: she had an ample house and
+LINE 62: garden, gave the children plenty of wholesome food, let them run about
+LINE 63: a great deal in the summer, and in winter dressed their chilblains with
+LINE 64: her own hands. It was no wonder that a train of twenty young couple now
+LINE 65: walked after her to church. She was a plain, motherly kind of woman,
+LINE 66: who had worked hard in her youth, and now thought herself entitled to
+LINE 67: the occasional holiday of a tea-visit; and having formerly owed much to
+LINE 68: Mr. Woodhouse's kindness, felt his particular claim on her to leave her
+LINE 69: neat parlour, hung round with fancy-work, whenever she could, and win
+LINE 70: or lose a few sixpences by his fireside.
+LINE 71: These were the ladies whom Emma found herself very frequently able to
+LINE 72: collect; and happy was she, for her father's sake, in the power;
+LINE 73: though, as far as she was herself concerned, it was no remedy for the
+LINE 74: absence of Mrs. Weston. She was delighted to see her father look
+LINE 75: comfortable, and very much pleased with herself for contriving things
+LINE 76: so well; but the quiet prosings of three such women made her feel that
+LINE 77: every evening so spent was indeed one of the long evenings she had
+LINE 78: fearfully anticipated.
+LINE 79: As she sat one morning, looking forward to exactly such a close of the
+LINE 80: present day, a note was brought from Mrs. Goddard, requesting, in most
+LINE 81: respectful terms, to be allowed to bring Miss Smith with her; a most
+LINE 82: welcome request: for Miss Smith was a girl of seventeen, whom Emma knew
+LINE 83: very well by sight, and had long felt an interest in, on account of her
+LINE 84: beauty. A very gracious invitation was returned, and the evening no
+LINE 85: longer dreaded by the fair mistress of the mansion.
+LINE 86: Harriet Smith was the natural daughter of somebody. Somebody had placed
+LINE 87: her, several years back, at Mrs. Goddard's school, and somebody had
+LINE 88: lately raised her from the condition of scholar to that of
+LINE 89: parlour-boarder. This was all that was generally known of her history.
+LINE 90: She had no visible friends but what had been acquired at Highbury, and
+LINE 91: was now just returned from a long visit in the country to some young
+LINE 92: ladies who had been at school there with her.
+LINE 93: She was a very pretty girl, and her beauty happened to be of a sort
+LINE 94: which Emma particularly admired. She was short, plump, and fair, with a
+LINE 95: fine bloom, blue eyes, light hair, regular features, and a look of
+LINE 96: great sweetness, and, before the end of the evening, Emma was as much
+LINE 97: pleased with her manners as her person, and quite determined to
+LINE 98: continue the acquaintance.
+LINE 99: She was not struck by any thing remarkably clever in Miss Smith's
+LINE 100: conversation, but she found her altogether very engaging—not
+LINE 101: inconveniently shy, not unwilling to talk—and yet so far from pushing,
+LINE 102: shewing so proper and becoming a deference, seeming so pleasantly
+LINE 103: grateful for being admitted to Hartfield, and so artlessly impressed by
+LINE 104: the appearance of every thing in so superior a style to what she had
+LINE 105: been used to, that she must have good sense, and deserve encouragement.
+LINE 106: Encouragement should be given. Those soft blue eyes, and all those
+LINE 107: natural graces, should not be wasted on the inferior society of
+LINE 108: Highbury and its connexions. The acquaintance she had already formed
+LINE 109: were unworthy of her. The friends from whom she had just parted, though
+LINE 110: very good sort of people, must be doing her harm. They were a family of
+LINE 111: the name of Martin, whom Emma well knew by character, as renting a
+LINE 112: large farm of Mr. Knightley, and residing in the parish of Donwell—very
+LINE 113: creditably, she believed—she knew Mr. Knightley thought highly of
+LINE 114: them—but they must be coarse and unpolished, and very unfit to be the
+LINE 115: intimates of a girl who wanted only a little more knowledge and
+LINE 116: elegance to be quite perfect. _She_ would notice her; she would improve
+LINE 117: her; she would detach her from her bad acquaintance, and introduce her
+LINE 118: into good society; she would form her opinions and her manners. It
+LINE 119: would be an interesting, and certainly a very kind undertaking; highly
+LINE 120: becoming her own situation in life, her leisure, and powers.
+LINE 121: She was so busy in admiring those soft blue eyes, in talking and
+LINE 122: listening, and forming all these schemes in the in-betweens, that the
+LINE 123: evening flew away at a very unusual rate; and the supper-table, which
+LINE 124: always closed such parties, and for which she had been used to sit and
+LINE 125: watch the due time, was all set out and ready, and moved forwards to
+LINE 126: the fire, before she was aware. With an alacrity beyond the common
+LINE 127: impulse of a spirit which yet was never indifferent to the credit of
+LINE 128: doing every thing well and attentively, with the real good-will of a
+LINE 129: mind delighted with its own ideas, did she then do all the honours of
+LINE 130: the meal, and help and recommend the minced chicken and scalloped
+LINE 131: oysters, with an urgency which she knew would be acceptable to the
+LINE 132: early hours and civil scruples of their guests.
+LINE 133: Upon such occasions poor Mr. Woodhouse's feelings were in sad warfare.
+LINE 134: He loved to have the cloth laid, because it had been the fashion of his
+LINE 135: youth, but his conviction of suppers being very unwholesome made him
+LINE 136: rather sorry to see any thing put on it; and while his hospitality
+LINE 137: would have welcomed his visitors to every thing, his care for their
+LINE 138: health made him grieve that they would eat.
+LINE 139: Such another small basin of thin gruel as his own was all that he
+LINE 140: could, with thorough self-approbation, recommend; though he might
+LINE 141: constrain himself, while the ladies were comfortably clearing the nicer
+LINE 142: things, to say:
+LINE 143: "Mrs. Bates, let me propose your venturing on one of these eggs. An egg
+LINE 144: boiled very soft is not unwholesome. Serle understands boiling an egg
+LINE 145: better than any body. I would not recommend an egg boiled by any body
+LINE 146: else; but you need not be afraid, they are very small, you see—one of
+LINE 147: our small eggs will not hurt you. Miss Bates, let Emma help you to a
+LINE 148: _little_ bit of tart—a _very_ little bit. Ours are all apple-tarts. You
+LINE 149: need not be afraid of unwholesome preserves here. I do not advise the
+LINE 150: custard. Mrs. Goddard, what say you to _half_ a glass of wine? A
+LINE 151: _small_ half-glass, put into a tumbler of water? I do not think it
+LINE 152: could disagree with you."
+LINE 153: Emma allowed her father to talk—but supplied her visitors in a much
+LINE 154: more satisfactory style, and on the present evening had particular
+LINE 155: pleasure in sending them away happy. The happiness of Miss Smith was
+LINE 156: quite equal to her intentions. Miss Woodhouse was so great a personage
+LINE 157: in Highbury, that the prospect of the introduction had given as much
+LINE 158: panic as pleasure; but the humble, grateful little girl went off with
+LINE 159: highly gratified feelings, delighted with the affability with which
+LINE 160: Miss Woodhouse had treated her all the evening, and actually shaken
+LINE 161: hands with her at last!

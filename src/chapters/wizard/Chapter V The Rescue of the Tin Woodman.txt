@@ -1,0 +1,169 @@
+LINE 1: When Dorothy awoke the sun was shining through the trees and Toto had
+LINE 2: long been out chasing birds around him and squirrels. She sat up and
+LINE 3: looked around her. There was the Scarecrow, still standing patiently in
+LINE 4: his corner, waiting for her.
+LINE 5: "We must go and search for water," she said to him.
+LINE 6: "Why do you want water?" he asked.
+LINE 7: "To wash my face clean after the dust of the road, and to drink, so the
+LINE 8: dry bread will not stick in my throat."
+LINE 9: "It must be inconvenient to be made of flesh," said the Scarecrow
+LINE 10: thoughtfully, "for you must sleep, and eat and drink. However, you have
+LINE 11: brains, and it is worth a lot of bother to be able to think properly."
+LINE 12: They left the cottage and walked through the trees until they found a
+LINE 13: little spring of clear water, where Dorothy drank and bathed and ate
+LINE 14: her breakfast. She saw there was not much bread left in the basket, and
+LINE 15: the girl was thankful the Scarecrow did not have to eat anything, for
+LINE 16: there was scarcely enough for herself and Toto for the day.
+LINE 17: When she had finished her meal, and was about to go back to the road of
+LINE 18: yellow brick, she was startled to hear a deep groan near by.
+LINE 19: "What was that?" she asked timidly.
+LINE 20: "I cannot imagine," replied the Scarecrow; "but we can go and see."
+LINE 21: Just then another groan reached their ears, and the sound seemed to
+LINE 22: come from behind them. They turned and walked through the forest a few
+LINE 23: steps, when Dorothy discovered something shining in a ray of sunshine
+LINE 24: that fell between the trees. She ran to the place and then stopped
+LINE 25: short, with a little cry of surprise.
+LINE 26: One of the big trees had been partly chopped through, and standing
+LINE 27: beside it, with an uplifted axe in his hands, was a man made entirely
+LINE 28: of tin. His head and arms and legs were jointed upon his body, but he
+LINE 29: stood perfectly motionless, as if he could not stir at all.
+LINE 30: Dorothy looked at him in amazement, and so did the Scarecrow, while
+LINE 31: Toto barked sharply and made a snap at the tin legs, which hurt his
+LINE 32: teeth.
+LINE 33: "Did you groan?" asked Dorothy.
+LINE 34: "Yes," answered the tin man, "I did. I've been groaning for more than a
+LINE 35: year, and no one has ever heard me before or come to help me."
+LINE 36: "What can I do for you?" she inquired softly, for she was moved by the
+LINE 37: sad voice in which the man spoke.
+LINE 38: "Get an oil-can and oil my joints," he answered. "They are rusted so
+LINE 39: badly that I cannot move them at all; if I am well oiled I shall soon
+LINE 40: be all right again. You will find an oil-can on a shelf in my cottage."
+LINE 41: Dorothy at once ran back to the cottage and found the oil-can, and then
+LINE 42: she returned and asked anxiously, "Where are your joints?"
+LINE 43: "Oil my neck, first," replied the Tin Woodman. So she oiled it, and as
+LINE 44: it was quite badly rusted the Scarecrow took hold of the tin head and
+LINE 45: moved it gently from side to side until it worked freely, and then the
+LINE 46: man could turn it himself.
+LINE 47: "Now oil the joints in my arms," he said. And Dorothy oiled them and
+LINE 48: the Scarecrow bent them carefully until they were quite free from rust
+LINE 49: and as good as new.
+LINE 50: The Tin Woodman gave a sigh of satisfaction and lowered his axe, which
+LINE 51: he leaned against the tree.
+LINE 52: "This is a great comfort," he said. "I have been holding that axe in
+LINE 53: the air ever since I rusted, and I'm glad to be able to put it down at
+LINE 54: last. Now, if you will oil the joints of my legs, I shall be all right
+LINE 55: once more."
+LINE 56: So they oiled his legs until he could move them freely; and he thanked
+LINE 57: them again and again for his release, for he seemed a very polite
+LINE 58: creature, and very grateful.
+LINE 59: "I might have stood there always if you had not come along," he said;
+LINE 60: "so you have certainly saved my life. How did you happen to be here?"
+LINE 61: "We are on our way to the Emerald City to see the Great Oz," she
+LINE 62: answered, "and we stopped at your cottage to pass the night."
+LINE 63: "Why do you wish to see Oz?" he asked.
+LINE 64: "I want him to send me back to Kansas, and the Scarecrow wants him to
+LINE 65: put a few brains into his head," she replied.
+LINE 66: The Tin Woodman appeared to think deeply for a moment. Then he said:
+LINE 67: "Do you suppose Oz could give me a heart?"
+LINE 68: "Why, I guess so," Dorothy answered. "It would be as easy as to give
+LINE 69: the Scarecrow brains."
+LINE 70: "True," the Tin Woodman returned. "So, if you will allow me to join
+LINE 71: your party, I will also go to the Emerald City and ask Oz to help me."
+LINE 72: "Come along," said the Scarecrow heartily, and Dorothy added that she
+LINE 73: would be pleased to have his company. So the Tin Woodman shouldered his
+LINE 74: axe and they all passed through the forest until they came to the road
+LINE 75: that was paved with yellow brick.
+LINE 76: The Tin Woodman had asked Dorothy to put the oil-can in her basket.
+LINE 77: "For," he said, "if I should get caught in the rain, and rust again, I
+LINE 78: would need the oil-can badly."
+LINE 79: It was a bit of good luck to have their new comrade join the party, for
+LINE 80: soon after they had begun their journey again they came to a place
+LINE 81: where the trees and branches grew so thick over the road that the
+LINE 82: travelers could not pass. But the Tin Woodman set to work with his axe
+LINE 83: and chopped so well that soon he cleared a passage for the entire
+LINE 84: party.
+LINE 85: Dorothy was thinking so earnestly as they walked along that she did not
+LINE 86: notice when the Scarecrow stumbled into a hole and rolled over to the
+LINE 87: side of the road. Indeed he was obliged to call to her to help him up
+LINE 88: again.
+LINE 89: "Why didn't you walk around the hole?" asked the Tin Woodman.
+LINE 90: "I don't know enough," replied the Scarecrow cheerfully. "My head is
+LINE 91: stuffed with straw, you know, and that is why I am going to Oz to ask
+LINE 92: him for some brains."
+LINE 93: "Oh, I see," said the Tin Woodman. "But, after all, brains are not the
+LINE 94: best things in the world."
+LINE 95: "Have you any?" inquired the Scarecrow.
+LINE 96: "No, my head is quite empty," answered the Woodman. "But once I had
+LINE 97: brains, and a heart also; so, having tried them both, I should much
+LINE 98: rather have a heart."
+LINE 99: "And why is that?" asked the Scarecrow.
+LINE 100: "I will tell you my story, and then you will know."
+LINE 101: So, while they were walking through the forest, the Tin Woodman told
+LINE 102: the following story:
+LINE 103: "I was born the son of a woodman who chopped down trees in the forest
+LINE 104: and sold the wood for a living. When I grew up, I too became a
+LINE 105: woodchopper, and after my father died I took care of my old mother as
+LINE 106: long as she lived. Then I made up my mind that instead of living alone
+LINE 107: I would marry, so that I might not become lonely.
+LINE 108: "There was one of the Munchkin girls who was so beautiful that I soon
+LINE 109: grew to love her with all my heart. She, on her part, promised to marry
+LINE 110: me as soon as I could earn enough money to build a better house for
+LINE 111: her; so I set to work harder than ever. But the girl lived with an old
+LINE 112: woman who did not want her to marry anyone, for she was so lazy she
+LINE 113: wished the girl to remain with her and do the cooking and the
+LINE 114: housework. So the old woman went to the Wicked Witch of the East, and
+LINE 115: promised her two sheep and a cow if she would prevent the marriage.
+LINE 116: Thereupon the Wicked Witch enchanted my axe, and when I was chopping
+LINE 117: away at my best one day, for I was anxious to get the new house and my
+LINE 118: wife as soon as possible, the axe slipped all at once and cut off my
+LINE 119: left leg.
+LINE 120: "This at first seemed a great misfortune, for I knew a one-legged man
+LINE 121: could not do very well as a wood-chopper. So I went to a tinsmith and
+LINE 122: had him make me a new leg out of tin. The leg worked very well, once I
+LINE 123: was used to it. But my action angered the Wicked Witch of the East, for
+LINE 124: she had promised the old woman I should not marry the pretty Munchkin
+LINE 125: girl. When I began chopping again, my axe slipped and cut off my right
+LINE 126: leg. Again I went to the tinsmith, and again he made me a leg out of
+LINE 127: tin. After this the enchanted axe cut off my arms, one after the other;
+LINE 128: but, nothing daunted, I had them replaced with tin ones. The Wicked
+LINE 129: Witch then made the axe slip and cut off my head, and at first I
+LINE 130: thought that was the end of me. But the tinsmith happened to come
+LINE 131: along, and he made me a new head out of tin.
+LINE 132: "I thought I had beaten the Wicked Witch then, and I worked harder than
+LINE 133: ever; but I little knew how cruel my enemy could be. She thought of a
+LINE 134: new way to kill my love for the beautiful Munchkin maiden, and made my
+LINE 135: axe slip again, so that it cut right through my body, splitting me into
+LINE 136: two halves. Once more the tinsmith came to my help and made me a body
+LINE 137: of tin, fastening my tin arms and legs and head to it, by means of
+LINE 138: joints, so that I could move around as well as ever. But, alas! I had
+LINE 139: now no heart, so that I lost all my love for the Munchkin girl, and did
+LINE 140: not care whether I married her or not. I suppose she is still living
+LINE 141: with the old woman, waiting for me to come after her.
+LINE 142: "My body shone so brightly in the sun that I felt very proud of it and
+LINE 143: it did not matter now if my axe slipped, for it could not cut me. There
+LINE 144: was only one danger—that my joints would rust; but I kept an oil-can in
+LINE 145: my cottage and took care to oil myself whenever I needed it. However,
+LINE 146: there came a day when I forgot to do this, and, being caught in a
+LINE 147: rainstorm, before I thought of the danger my joints had rusted, and I
+LINE 148: was left to stand in the woods until you came to help me. It was a
+LINE 149: terrible thing to undergo, but during the year I stood there I had time
+LINE 150: to think that the greatest loss I had known was the loss of my heart.
+LINE 151: While I was in love I was the happiest man on earth; but no one can
+LINE 152: love who has not a heart, and so I am resolved to ask Oz to give me
+LINE 153: one. If he does, I will go back to the Munchkin maiden and marry her."
+LINE 154: Both Dorothy and the Scarecrow had been greatly interested in the story
+LINE 155: of the Tin Woodman, and now they knew why he was so anxious to get a
+LINE 156: new heart.
+LINE 157: "All the same," said the Scarecrow, "I shall ask for brains instead of
+LINE 158: a heart; for a fool would not know what to do with a heart if he had
+LINE 159: one."
+LINE 160: "I shall take the heart," returned the Tin Woodman; "for brains do not
+LINE 161: make one happy, and happiness is the best thing in the world."
+LINE 162: Dorothy did not say anything, for she was puzzled to know which of her
+LINE 163: two friends was right, and she decided if she could only get back to
+LINE 164: Kansas and Aunt Em, it did not matter so much whether the Woodman had
+LINE 165: no brains and the Scarecrow no heart, or each got what he wanted.
+LINE 166: What worried her most was that the bread was nearly gone, and another
+LINE 167: meal for herself and Toto would empty the basket. To be sure, neither
+LINE 168: the Woodman nor the Scarecrow ever ate anything, but she was not made
+LINE 169: of tin nor straw, and could not live unless she was fed.

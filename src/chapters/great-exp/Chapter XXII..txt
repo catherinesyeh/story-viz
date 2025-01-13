@@ -1,0 +1,439 @@
+LINE 1: The pale young gentleman and I stood contemplating one another in
+LINE 2: Barnard's Inn, until we both burst out laughing. "The idea of its being
+LINE 3: you!" said he. "The idea of its being _you_!" said I. And then we
+LINE 4: contemplated one another afresh, and laughed again. "Well!" said the
+LINE 5: pale young gentleman, reaching out his hand good-humouredly, "it's all
+LINE 6: over now, I hope, and it will be magnanimous in you if you'll forgive
+LINE 7: me for having knocked you about so."
+LINE 8: I derived from this speech that Mr. Herbert Pocket (for Herbert was the
+LINE 9: pale young gentleman's name) still rather confounded his intention with
+LINE 10: his execution. But I made a modest reply, and we shook hands warmly.
+LINE 11: "You hadn't come into your good fortune at that time?" said Herbert
+LINE 12: Pocket.
+LINE 13: "No," said I.
+LINE 14: "No," he acquiesced: "I heard it had happened very lately. _I_ was
+LINE 15: rather on the lookout for good fortune then."
+LINE 16: "Indeed?"
+LINE 17: "Yes. Miss Havisham had sent for me, to see if she could take a fancy
+LINE 18: to me. But she couldn't,—at all events, she didn't."
+LINE 19: I thought it polite to remark that I was surprised to hear that.
+LINE 20: "Bad taste," said Herbert, laughing, "but a fact. Yes, she had sent for
+LINE 21: me on a trial visit, and if I had come out of it successfully, I
+LINE 22: suppose I should have been provided for; perhaps I should have been
+LINE 23: what-you-may-called it to Estella."
+LINE 24: "What's that?" I asked, with sudden gravity.
+LINE 25: He was arranging his fruit in plates while we talked, which divided his
+LINE 26: attention, and was the cause of his having made this lapse of a word.
+LINE 27: "Affianced," he explained, still busy with the fruit. "Betrothed.
+LINE 28: Engaged. What's-his-named. Any word of that sort."
+LINE 29: "How did you bear your disappointment?" I asked.
+LINE 30: "Pooh!" said he, "I didn't care much for it. _She's_ a Tartar."
+LINE 31: "Miss Havisham?"
+LINE 32: "I don't say no to that, but I meant Estella. That girl's hard and
+LINE 33: haughty and capricious to the last degree, and has been brought up by
+LINE 34: Miss Havisham to wreak revenge on all the male sex."
+LINE 35: "What relation is she to Miss Havisham?"
+LINE 36: "None," said he. "Only adopted."
+LINE 37: "Why should she wreak revenge on all the male sex? What revenge?"
+LINE 38: "Lord, Mr. Pip!" said he. "Don't you know?"
+LINE 39: "No," said I.
+LINE 40: "Dear me! It's quite a story, and shall be saved till dinner-time. And
+LINE 41: now let me take the liberty of asking you a question. How did you come
+LINE 42: there, that day?"
+LINE 43: I told him, and he was attentive until I had finished, and then burst
+LINE 44: out laughing again, and asked me if I was sore afterwards? I didn't ask
+LINE 45: him if _he_ was, for my conviction on that point was perfectly
+LINE 46: established.
+LINE 47: "Mr. Jaggers is your guardian, I understand?" he went on.
+LINE 48: "Yes."
+LINE 49: "You know he is Miss Havisham's man of business and solicitor, and has
+LINE 50: her confidence when nobody else has?"
+LINE 51: This was bringing me (I felt) towards dangerous ground. I answered with
+LINE 52: a constraint I made no attempt to disguise, that I had seen Mr. Jaggers
+LINE 53: in Miss Havisham's house on the very day of our combat, but never at
+LINE 54: any other time, and that I believed he had no recollection of having
+LINE 55: ever seen me there.
+LINE 56: "He was so obliging as to suggest my father for your tutor, and he
+LINE 57: called on my father to propose it. Of course he knew about my father
+LINE 58: from his connection with Miss Havisham. My father is Miss Havisham's
+LINE 59: cousin; not that that implies familiar intercourse between them, for he
+LINE 60: is a bad courtier and will not propitiate her."
+LINE 61: Herbert Pocket had a frank and easy way with him that was very taking.
+LINE 62: I had never seen any one then, and I have never seen any one since, who
+LINE 63: more strongly expressed to me, in every look and tone, a natural
+LINE 64: incapacity to do anything secret and mean. There was something
+LINE 65: wonderfully hopeful about his general air, and something that at the
+LINE 66: same time whispered to me he would never be very successful or rich. I
+LINE 67: don't know how this was. I became imbued with the notion on that first
+LINE 68: occasion before we sat down to dinner, but I cannot define by what
+LINE 69: means.
+LINE 70: He was still a pale young gentleman, and had a certain conquered
+LINE 71: languor about him in the midst of his spirits and briskness, that did
+LINE 72: not seem indicative of natural strength. He had not a handsome face,
+LINE 73: but it was better than handsome: being extremely amiable and cheerful.
+LINE 74: His figure was a little ungainly, as in the days when my knuckles had
+LINE 75: taken such liberties with it, but it looked as if it would always be
+LINE 76: light and young. Whether Mr. Trabb's local work would have sat more
+LINE 77: gracefully on him than on me, may be a question; but I am conscious
+LINE 78: that he carried off his rather old clothes much better than I carried
+LINE 79: off my new suit.
+LINE 80: As he was so communicative, I felt that reserve on my part would be a
+LINE 81: bad return unsuited to our years. I therefore told him my small story,
+LINE 82: and laid stress on my being forbidden to inquire who my benefactor was.
+LINE 83: I further mentioned that as I had been brought up a blacksmith in a
+LINE 84: country place, and knew very little of the ways of politeness, I would
+LINE 85: take it as a great kindness in him if he would give me a hint whenever
+LINE 86: he saw me at a loss or going wrong.
+LINE 87: "With pleasure," said he, "though I venture to prophesy that you'll
+LINE 88: want very few hints. I dare say we shall be often together, and I
+LINE 89: should like to banish any needless restraint between us. Will you do me
+LINE 90: the favour to begin at once to call me by my Christian name, Herbert?"
+LINE 91: I thanked him and said I would. I informed him in exchange that my
+LINE 92: Christian name was Philip.
+LINE 93: "I don't take to Philip," said he, smiling, "for it sounds like a moral
+LINE 94: boy out of the spelling-book, who was so lazy that he fell into a pond,
+LINE 95: or so fat that he couldn't see out of his eyes, or so avaricious that
+LINE 96: he locked up his cake till the mice ate it, or so determined to go a
+LINE 97: bird's-nesting that he got himself eaten by bears who lived handy in
+LINE 98: the neighbourhood. I tell you what I should like. We are so harmonious,
+LINE 99: and you have been a blacksmith,—would you mind it?"
+LINE 100: "I shouldn't mind anything that you propose," I answered, "but I don't
+LINE 101: understand you."
+LINE 102: "Would you mind Handel for a familiar name? There's a charming piece of
+LINE 103: music by Handel, called the Harmonious Blacksmith."
+LINE 104: "I should like it very much."
+LINE 105: "Then, my dear Handel," said he, turning round as the door opened,
+LINE 106: "here is the dinner, and I must beg of you to take the top of the
+LINE 107: table, because the dinner is of your providing."
+LINE 108: This I would not hear of, so he took the top, and I faced him. It was a
+LINE 109: nice little dinner,—seemed to me then a very Lord Mayor's Feast,—and it
+LINE 110: acquired additional relish from being eaten under those independent
+LINE 111: circumstances, with no old people by, and with London all around us.
+LINE 112: This again was heightened by a certain gypsy character that set the
+LINE 113: banquet off; for while the table was, as Mr. Pumblechook might have
+LINE 114: said, the lap of luxury,—being entirely furnished forth from the
+LINE 115: coffee-house,—the circumjacent region of sitting-room was of a
+LINE 116: comparatively pastureless and shifty character; imposing on the waiter
+LINE 117: the wandering habits of putting the covers on the floor (where he fell
+LINE 118: over them), the melted butter in the arm-chair, the bread on the
+LINE 119: bookshelves, the cheese in the coal-scuttle, and the boiled fowl into
+LINE 120: my bed in the next room,—where I found much of its parsley and butter
+LINE 121: in a state of congelation when I retired for the night. All this made
+LINE 122: the feast delightful, and when the waiter was not there to watch me, my
+LINE 123: pleasure was without alloy.
+LINE 124: We had made some progress in the dinner, when I reminded Herbert of his
+LINE 125: promise to tell me about Miss Havisham.
+LINE 126: "True," he replied. "I'll redeem it at once. Let me introduce the
+LINE 127: topic, Handel, by mentioning that in London it is not the custom to put
+LINE 128: the knife in the mouth,—for fear of accidents,—and that while the fork
+LINE 129: is reserved for that use, it is not put further in than necessary. It
+LINE 130: is scarcely worth mentioning, only it's as well to do as other people
+LINE 131: do. Also, the spoon is not generally used over-hand, but under. This
+LINE 132: has two advantages. You get at your mouth better (which after all is
+LINE 133: the object), and you save a good deal of the attitude of opening
+LINE 134: oysters, on the part of the right elbow."
+LINE 135: He offered these friendly suggestions in such a lively way, that we
+LINE 136: both laughed and I scarcely blushed.
+LINE 137: "Now," he pursued, "concerning Miss Havisham. Miss Havisham, you must
+LINE 138: know, was a spoilt child. Her mother died when she was a baby, and her
+LINE 139: father denied her nothing. Her father was a country gentleman down in
+LINE 140: your part of the world, and was a brewer. I don't know why it should be
+LINE 141: a crack thing to be a brewer; but it is indisputable that while you
+LINE 142: cannot possibly be genteel and bake, you may be as genteel as never was
+LINE 143: and brew. You see it every day."
+LINE 144: "Yet a gentleman may not keep a public-house; may he?" said I.
+LINE 145: "Not on any account," returned Herbert; "but a public-house may keep a
+LINE 146: gentleman. Well! Mr. Havisham was very rich and very proud. So was his
+LINE 147: daughter."
+LINE 148: "Miss Havisham was an only child?" I hazarded.
+LINE 149: "Stop a moment, I am coming to that. No, she was not an only child; she
+LINE 150: had a half-brother. Her father privately married again—his cook, I
+LINE 151: rather think."
+LINE 152: "I thought he was proud," said I.
+LINE 153: "My good Handel, so he was. He married his second wife privately,
+LINE 154: because he was proud, and in course of time _she_ died. When she was
+LINE 155: dead, I apprehend he first told his daughter what he had done, and then
+LINE 156: the son became a part of the family, residing in the house you are
+LINE 157: acquainted with. As the son grew a young man, he turned out riotous,
+LINE 158: extravagant, undutiful,—altogether bad. At last his father disinherited
+LINE 159: him; but he softened when he was dying, and left him well off, though
+LINE 160: not nearly so well off as Miss Havisham.—Take another glass of wine,
+LINE 161: and excuse my mentioning that society as a body does not expect one to
+LINE 162: be so strictly conscientious in emptying one's glass, as to turn it
+LINE 163: bottom upwards with the rim on one's nose."
+LINE 164: I had been doing this, in an excess of attention to his recital. I
+LINE 165: thanked him, and apologised. He said, "Not at all," and resumed.
+LINE 166: "Miss Havisham was now an heiress, and you may suppose was looked after
+LINE 167: as a great match. Her half-brother had now ample means again, but what
+LINE 168: with debts and what with new madness wasted them most fearfully again.
+LINE 169: There were stronger differences between him and her than there had been
+LINE 170: between him and his father, and it is suspected that he cherished a
+LINE 171: deep and mortal grudge against her as having influenced the father's
+LINE 172: anger. Now, I come to the cruel part of the story,—merely breaking off,
+LINE 173: my dear Handel, to remark that a dinner-napkin will not go into a
+LINE 174: tumbler."
+LINE 175: Why I was trying to pack mine into my tumbler, I am wholly unable to
+LINE 176: say. I only know that I found myself, with a perseverance worthy of a
+LINE 177: much better cause, making the most strenuous exertions to compress it
+LINE 178: within those limits. Again I thanked him and apologised, and again he
+LINE 179: said in the cheerfullest manner, "Not at all, I am sure!" and resumed.
+LINE 180: "There appeared upon the scene—say at the races, or the public balls,
+LINE 181: or anywhere else you like—a certain man, who made love to Miss
+LINE 182: Havisham. I never saw him (for this happened five-and-twenty years ago,
+LINE 183: before you and I were, Handel), but I have heard my father mention that
+LINE 184: he was a showy man, and the kind of man for the purpose. But that he
+LINE 185: was not to be, without ignorance or prejudice, mistaken for a
+LINE 186: gentleman, my father most strongly asseverates; because it is a
+LINE 187: principle of his that no man who was not a true gentleman at heart ever
+LINE 188: was, since the world began, a true gentleman in manner. He says, no
+LINE 189: varnish can hide the grain of the wood; and that the more varnish you
+LINE 190: put on, the more the grain will express itself. Well! This man pursued
+LINE 191: Miss Havisham closely, and professed to be devoted to her. I believe
+LINE 192: she had not shown much susceptibility up to that time; but all the
+LINE 193: susceptibility she possessed certainly came out then, and she
+LINE 194: passionately loved him. There is no doubt that she perfectly idolized
+LINE 195: him. He practised on her affection in that systematic way, that he got
+LINE 196: great sums of money from her, and he induced her to buy her brother out
+LINE 197: of a share in the brewery (which had been weakly left him by his
+LINE 198: father) at an immense price, on the plea that when he was her husband
+LINE 199: he must hold and manage it all. Your guardian was not at that time in
+LINE 200: Miss Havisham's counsels, and she was too haughty and too much in love
+LINE 201: to be advised by any one. Her relations were poor and scheming, with
+LINE 202: the exception of my father; he was poor enough, but not time-serving or
+LINE 203: jealous. The only independent one among them, he warned her that she
+LINE 204: was doing too much for this man, and was placing herself too
+LINE 205: unreservedly in his power. She took the first opportunity of angrily
+LINE 206: ordering my father out of the house, in his presence, and my father has
+LINE 207: never seen her since."
+LINE 208: I thought of her having said, "Matthew will come and see me at last
+LINE 209: when I am laid dead upon that table;" and I asked Herbert whether his
+LINE 210: father was so inveterate against her?
+LINE 211: "It's not that," said he, "but she charged him, in the presence of her
+LINE 212: intended husband, with being disappointed in the hope of fawning upon
+LINE 213: her for his own advancement, and, if he were to go to her now, it would
+LINE 214: look true—even to him—and even to her. To return to the man and make an
+LINE 215: end of him. The marriage day was fixed, the wedding dresses were
+LINE 216: bought, the wedding tour was planned out, the wedding guests were
+LINE 217: invited. The day came, but not the bridegroom. He wrote her a letter—"
+LINE 218: "Which she received," I struck in, "when she was dressing for her
+LINE 219: marriage? At twenty minutes to nine?"
+LINE 220: "At the hour and minute," said Herbert, nodding, "at which she
+LINE 221: afterwards stopped all the clocks. What was in it, further than that it
+LINE 222: most heartlessly broke the marriage off, I can't tell you, because I
+LINE 223: don't know. When she recovered from a bad illness that she had, she
+LINE 224: laid the whole place waste, as you have seen it, and she has never
+LINE 225: since looked upon the light of day."
+LINE 226: "Is that all the story?" I asked, after considering it.
+LINE 227: "All I know of it; and indeed I only know so much, through piecing it
+LINE 228: out for myself; for my father always avoids it, and, even when Miss
+LINE 229: Havisham invited me to go there, told me no more of it than it was
+LINE 230: absolutely requisite I should understand. But I have forgotten one
+LINE 231: thing. It has been supposed that the man to whom she gave her misplaced
+LINE 232: confidence acted throughout in concert with her half-brother; that it
+LINE 233: was a conspiracy between them; and that they shared the profits."
+LINE 234: "I wonder he didn't marry her and get all the property," said I.
+LINE 235: "He may have been married already, and her cruel mortification may have
+LINE 236: been a part of her half-brother's scheme," said Herbert. "Mind! I don't
+LINE 237: know that."
+LINE 238: "What became of the two men?" I asked, after again considering the
+LINE 239: subject.
+LINE 240: "They fell into deeper shame and degradation—if there can be deeper—and
+LINE 241: ruin."
+LINE 242: "Are they alive now?"
+LINE 243: "I don't know."
+LINE 244: "You said just now that Estella was not related to Miss Havisham, but
+LINE 245: adopted. When adopted?"
+LINE 246: Herbert shrugged his shoulders. "There has always been an Estella,
+LINE 247: since I have heard of a Miss Havisham. I know no more. And now,
+LINE 248: Handel," said he, finally throwing off the story as it were, "there is
+LINE 249: a perfectly open understanding between us. All that I know about Miss
+LINE 250: Havisham, you know."
+LINE 251: "And all that I know," I retorted, "you know."
+LINE 252: "I fully believe it. So there can be no competition or perplexity
+LINE 253: between you and me. And as to the condition on which you hold your
+LINE 254: advancement in life,—namely, that you are not to inquire or discuss to
+LINE 255: whom you owe it,—you may be very sure that it will never be encroached
+LINE 256: upon, or even approached, by me, or by any one belonging to me."
+LINE 257: In truth, he said this with so much delicacy, that I felt the subject
+LINE 258: done with, even though I should be under his father's roof for years
+LINE 259: and years to come. Yet he said it with so much meaning, too, that I
+LINE 260: felt he as perfectly understood Miss Havisham to be my benefactress, as
+LINE 261: I understood the fact myself.
+LINE 262: It had not occurred to me before, that he had led up to the theme for
+LINE 263: the purpose of clearing it out of our way; but we were so much the
+LINE 264: lighter and easier for having broached it, that I now perceived this to
+LINE 265: be the case. We were very gay and sociable, and I asked him, in the
+LINE 266: course of conversation, what he was? He replied, "A capitalist,—an
+LINE 267: Insurer of Ships." I suppose he saw me glancing about the room in
+LINE 268: search of some tokens of Shipping, or capital, for he added, "In the
+LINE 269: City."
+LINE 270: I had grand ideas of the wealth and importance of Insurers of Ships in
+LINE 271: the City, and I began to think with awe of having laid a young Insurer
+LINE 272: on his back, blackened his enterprising eye, and cut his responsible
+LINE 273: head open. But again there came upon me, for my relief, that odd
+LINE 274: impression that Herbert Pocket would never be very successful or rich.
+LINE 275: "I shall not rest satisfied with merely employing my capital in
+LINE 276: insuring ships. I shall buy up some good Life Assurance shares, and cut
+LINE 277: into the Direction. I shall also do a little in the mining way. None of
+LINE 278: these things will interfere with my chartering a few thousand tons on
+LINE 279: my own account. I think I shall trade," said he, leaning back in his
+LINE 280: chair, "to the East Indies, for silks, shawls, spices, dyes, drugs, and
+LINE 281: precious woods. It's an interesting trade."
+LINE 282: "And the profits are large?" said I.
+LINE 283: "Tremendous!" said he.
+LINE 284: I wavered again, and began to think here were greater expectations than
+LINE 285: my own.
+LINE 286: [Illustration]
+LINE 287: "I think I shall trade, also," said he, putting his thumbs in his
+LINE 288: waist-coat pockets, "to the West Indies, for sugar, tobacco, and rum.
+LINE 289: Also to Ceylon, especially for elephants' tusks."
+LINE 290: "You will want a good many ships," said I.
+LINE 291: "A perfect fleet," said he.
+LINE 292: Quite overpowered by the magnificence of these transactions, I asked
+LINE 293: him where the ships he insured mostly traded to at present?
+LINE 294: "I haven't begun insuring yet," he replied. "I am looking about me."
+LINE 295: Somehow, that pursuit seemed more in keeping with Barnard's Inn. I said
+LINE 296: (in a tone of conviction), "Ah-h!"
+LINE 297: "Yes. I am in a counting-house, and looking about me."
+LINE 298: "Is a counting-house profitable?" I asked.
+LINE 299: "To—do you mean to the young fellow who's in it?" he asked, in reply.
+LINE 300: "Yes; to you."
+LINE 301: "Why, n-no; not to me." He said this with the air of one carefully
+LINE 302: reckoning up and striking a balance. "Not directly profitable. That is,
+LINE 303: it doesn't pay me anything, and I have to—keep myself."
+LINE 304: This certainly had not a profitable appearance, and I shook my head as
+LINE 305: if I would imply that it would be difficult to lay by much accumulative
+LINE 306: capital from such a source of income.
+LINE 307: "But the thing is," said Herbert Pocket, "that you look about you.
+LINE 308: _That's_ the grand thing. You are in a counting-house, you know, and
+LINE 309: you look about you."
+LINE 310: It struck me as a singular implication that you couldn't be out of a
+LINE 311: counting-house, you know, and look about you; but I silently deferred
+LINE 312: to his experience.
+LINE 313: "Then the time comes," said Herbert, "when you see your opening. And
+LINE 314: you go in, and you swoop upon it and you make your capital, and then
+LINE 315: there you are! When you have once made your capital, you have nothing
+LINE 316: to do but employ it."
+LINE 317: This was very like his way of conducting that encounter in the garden;
+LINE 318: very like. His manner of bearing his poverty, too, exactly corresponded
+LINE 319: to his manner of bearing that defeat. It seemed to me that he took all
+LINE 320: blows and buffets now with just the same air as he had taken mine then.
+LINE 321: It was evident that he had nothing around him but the simplest
+LINE 322: necessaries, for everything that I remarked upon turned out to have
+LINE 323: been sent in on my account from the coffee-house or somewhere else.
+LINE 324: Yet, having already made his fortune in his own mind, he was so
+LINE 325: unassuming with it that I felt quite grateful to him for not being
+LINE 326: puffed up. It was a pleasant addition to his naturally pleasant ways,
+LINE 327: and we got on famously. In the evening we went out for a walk in the
+LINE 328: streets, and went half-price to the Theatre; and next day we went to
+LINE 329: church at Westminster Abbey, and in the afternoon we walked in the
+LINE 330: Parks; and I wondered who shod all the horses there, and wished Joe
+LINE 331: did.
+LINE 332: On a moderate computation, it was many months, that Sunday, since I had
+LINE 333: left Joe and Biddy. The space interposed between myself and them
+LINE 334: partook of that expansion, and our marshes were any distance off. That
+LINE 335: I could have been at our old church in my old church-going clothes, on
+LINE 336: the very last Sunday that ever was, seemed a combination of
+LINE 337: impossibilities, geographical and social, solar and lunar. Yet in the
+LINE 338: London streets so crowded with people and so brilliantly lighted in the
+LINE 339: dusk of evening, there were depressing hints of reproaches for that I
+LINE 340: had put the poor old kitchen at home so far away; and in the dead of
+LINE 341: night, the footsteps of some incapable impostor of a porter mooning
+LINE 342: about Barnard's Inn, under pretence of watching it, fell hollow on my
+LINE 343: heart.
+LINE 344: On the Monday morning at a quarter before nine, Herbert went to the
+LINE 345: counting-house to report himself,—to look about him, too, I
+LINE 346: suppose,—and I bore him company. He was to come away in an hour or two
+LINE 347: to attend me to Hammersmith, and I was to wait about for him. It
+LINE 348: appeared to me that the eggs from which young Insurers were hatched
+LINE 349: were incubated in dust and heat, like the eggs of ostriches, judging
+LINE 350: from the places to which those incipient giants repaired on a Monday
+LINE 351: morning. Nor did the counting-house where Herbert assisted, show in my
+LINE 352: eyes as at all a good Observatory; being a back second floor up a yard,
+LINE 353: of a grimy presence in all particulars, and with a look into another
+LINE 354: back second floor, rather than a look out.
+LINE 355: I waited about until it was noon, and I went upon 'Change, and I saw
+LINE 356: fluey men sitting there under the bills about shipping, whom I took to
+LINE 357: be great merchants, though I couldn't understand why they should all be
+LINE 358: out of spirits. When Herbert came, we went and had lunch at a
+LINE 359: celebrated house which I then quite venerated, but now believe to have
+LINE 360: been the most abject superstition in Europe, and where I could not help
+LINE 361: noticing, even then, that there was much more gravy on the tablecloths
+LINE 362: and knives and waiters' clothes, than in the steaks. This collation
+LINE 363: disposed of at a moderate price (considering the grease, which was not
+LINE 364: charged for), we went back to Barnard's Inn and got my little
+LINE 365: portmanteau, and then took coach for Hammersmith. We arrived there at
+LINE 366: two or three o'clock in the afternoon, and had very little way to walk
+LINE 367: to Mr. Pocket's house. Lifting the latch of a gate, we passed direct
+LINE 368: into a little garden overlooking the river, where Mr. Pocket's children
+LINE 369: were playing about. And unless I deceive myself on a point where my
+LINE 370: interests or prepossessions are certainly not concerned, I saw that Mr.
+LINE 371: and Mrs. Pocket's children were not growing up or being brought up, but
+LINE 372: were tumbling up.
+LINE 373: Mrs. Pocket was sitting on a garden chair under a tree, reading, with
+LINE 374: her legs upon another garden chair; and Mrs. Pocket's two nurse-maids
+LINE 375: were looking about them while the children played. "Mamma," said
+LINE 376: Herbert, "this is young Mr. Pip." Upon which Mrs. Pocket received me
+LINE 377: with an appearance of amiable dignity.
+LINE 378: "Master Alick and Miss Jane," cried one of the nurses to two of the
+LINE 379: children, "if you go a bouncing up against them bushes you'll fall over
+LINE 380: into the river and be drownded, and what'll your pa say then?"
+LINE 381: At the same time this nurse picked up Mrs. Pocket's handkerchief, and
+LINE 382: said, "If that don't make six times you've dropped it, Mum!" Upon which
+LINE 383: Mrs. Pocket laughed and said, "Thank you, Flopson," and settling
+LINE 384: herself in one chair only, resumed her book. Her countenance
+LINE 385: immediately assumed a knitted and intent expression as if she had been
+LINE 386: reading for a week, but before she could have read half a dozen lines,
+LINE 387: she fixed her eyes upon me, and said, "I hope your mamma is quite
+LINE 388: well?" This unexpected inquiry put me into such a difficulty that I
+LINE 389: began saying in the absurdest way that if there had been any such
+LINE 390: person I had no doubt she would have been quite well and would have
+LINE 391: been very much obliged and would have sent her compliments, when the
+LINE 392: nurse came to my rescue.
+LINE 393: "Well!" she cried, picking up the pocket-handkerchief, "if that don't
+LINE 394: make seven times! What ARE you a-doing of this afternoon, Mum!" Mrs.
+LINE 395: Pocket received her property, at first with a look of unutterable
+LINE 396: surprise as if she had never seen it before, and then with a laugh of
+LINE 397: recognition, and said, "Thank you, Flopson," and forgot me, and went on
+LINE 398: reading.
+LINE 399: I found, now I had leisure to count them, that there were no fewer than
+LINE 400: six little Pockets present, in various stages of tumbling up. I had
+LINE 401: scarcely arrived at the total when a seventh was heard, as in the
+LINE 402: region of air, wailing dolefully.
+LINE 403: "If there ain't Baby!" said Flopson, appearing to think it most
+LINE 404: surprising. "Make haste up, Millers."
+LINE 405: Millers, who was the other nurse, retired into the house, and by
+LINE 406: degrees the child's wailing was hushed and stopped, as if it were a
+LINE 407: young ventriloquist with something in its mouth. Mrs. Pocket read all
+LINE 408: the time, and I was curious to know what the book could be.
+LINE 409: We were waiting, I supposed, for Mr. Pocket to come out to us; at any
+LINE 410: rate we waited there, and so I had an opportunity of observing the
+LINE 411: remarkable family phenomenon that whenever any of the children strayed
+LINE 412: near Mrs. Pocket in their play, they always tripped themselves up and
+LINE 413: tumbled over her,—always very much to her momentary astonishment, and
+LINE 414: their own more enduring lamentation. I was at a loss to account for
+LINE 415: this surprising circumstance, and could not help giving my mind to
+LINE 416: speculations about it, until by and by Millers came down with the baby,
+LINE 417: which baby was handed to Flopson, which Flopson was handing it to Mrs.
+LINE 418: Pocket, when she too went fairly head foremost over Mrs. Pocket, baby
+LINE 419: and all, and was caught by Herbert and myself.
+LINE 420: "Gracious me, Flopson!" said Mrs. Pocket, looking off her book for a
+LINE 421: moment, "everybody's tumbling!"
+LINE 422: "Gracious you, indeed, Mum!" returned Flopson, very red in the face;
+LINE 423: "what have you got there?"
+LINE 424: "_I_ got here, Flopson?" asked Mrs. Pocket.
+LINE 425: "Why, if it ain't your footstool!" cried Flopson. "And if you keep it
+LINE 426: under your skirts like that, who's to help tumbling? Here! Take the
+LINE 427: baby, Mum, and give me your book."
+LINE 428: Mrs. Pocket acted on the advice, and inexpertly danced the infant a
+LINE 429: little in her lap, while the other children played about it. This had
+LINE 430: lasted but a very short time, when Mrs. Pocket issued summary orders
+LINE 431: that they were all to be taken into the house for a nap. Thus I made
+LINE 432: the second discovery on that first occasion, that the nurture of the
+LINE 433: little Pockets consisted of alternately tumbling up and lying down.
+LINE 434: Under these circumstances, when Flopson and Millers had got the
+LINE 435: children into the house, like a little flock of sheep, and Mr. Pocket
+LINE 436: came out of it to make my acquaintance, I was not much surprised to
+LINE 437: find that Mr. Pocket was a gentleman with a rather perplexed expression
+LINE 438: of face, and with his very grey hair disordered on his head, as if he
+LINE 439: didn't quite see his way to putting anything straight.

@@ -1,0 +1,238 @@
+LINE 1: Emma could not feel a doubt of having given Harriet's fancy a proper
+LINE 2: direction and raised the gratitude of her young vanity to a very good
+LINE 3: purpose, for she found her decidedly more sensible than before of Mr.
+LINE 4: Elton's being a remarkably handsome man, with most agreeable manners;
+LINE 5: and as she had no hesitation in following up the assurance of his
+LINE 6: admiration by agreeable hints, she was soon pretty confident of
+LINE 7: creating as much liking on Harriet's side, as there could be any
+LINE 8: occasion for. She was quite convinced of Mr. Elton's being in the
+LINE 9: fairest way of falling in love, if not in love already. She had no
+LINE 10: scruple with regard to him. He talked of Harriet, and praised her so
+LINE 11: warmly, that she could not suppose any thing wanting which a little
+LINE 12: time would not add. His perception of the striking improvement of
+LINE 13: Harriet's manner, since her introduction at Hartfield, was not one of
+LINE 14: the least agreeable proofs of his growing attachment.
+LINE 15: "You have given Miss Smith all that she required," said he; "you have
+LINE 16: made her graceful and easy. She was a beautiful creature when she came
+LINE 17: to you, but, in my opinion, the attractions you have added are
+LINE 18: infinitely superior to what she received from nature."
+LINE 19: "I am glad you think I have been useful to her; but Harriet only wanted
+LINE 20: drawing out, and receiving a few, very few hints. She had all the
+LINE 21: natural grace of sweetness of temper and artlessness in herself. I have
+LINE 22: done very little."
+LINE 23: "If it were admissible to contradict a lady," said the gallant Mr.
+LINE 24: Elton—
+LINE 25: "I have perhaps given her a little more decision of character, have
+LINE 26: taught her to think on points which had not fallen in her way before."
+LINE 27: "Exactly so; that is what principally strikes me. So much superadded
+LINE 28: decision of character! Skilful has been the hand!"
+LINE 29: "Great has been the pleasure, I am sure. I never met with a disposition
+LINE 30: more truly amiable."
+LINE 31: "I have no doubt of it." And it was spoken with a sort of sighing
+LINE 32: animation, which had a vast deal of the lover. She was not less pleased
+LINE 33: another day with the manner in which he seconded a sudden wish of hers,
+LINE 34: to have Harriet's picture.
+LINE 35: "Did you ever have your likeness taken, Harriet?" said she: "did you
+LINE 36: ever sit for your picture?"
+LINE 37: Harriet was on the point of leaving the room, and only stopt to say,
+LINE 38: with a very interesting naïveté,
+LINE 39: "Oh! dear, no, never."
+LINE 40: No sooner was she out of sight, than Emma exclaimed,
+LINE 41: "What an exquisite possession a good picture of her would be! I would
+LINE 42: give any money for it. I almost long to attempt her likeness myself.
+LINE 43: You do not know it I dare say, but two or three years ago I had a great
+LINE 44: passion for taking likenesses, and attempted several of my friends, and
+LINE 45: was thought to have a tolerable eye in general. But from one cause or
+LINE 46: another, I gave it up in disgust. But really, I could almost venture,
+LINE 47: if Harriet would sit to me. It would be such a delight to have her
+LINE 48: picture!"
+LINE 49: "Let me entreat you," cried Mr. Elton; "it would indeed be a delight!
+LINE 50: Let me entreat you, Miss Woodhouse, to exercise so charming a talent in
+LINE 51: favour of your friend. I know what your drawings are. How could you
+LINE 52: suppose me ignorant? Is not this room rich in specimens of your
+LINE 53: landscapes and flowers; and has not Mrs. Weston some inimitable
+LINE 54: figure-pieces in her drawing-room, at Randalls?"
+LINE 55: Yes, good man!—thought Emma—but what has all that to do with taking
+LINE 56: likenesses? You know nothing of drawing. Don't pretend to be in
+LINE 57: raptures about mine. Keep your raptures for Harriet's face. "Well, if
+LINE 58: you give me such kind encouragement, Mr. Elton, I believe I shall try
+LINE 59: what I can do. Harriet's features are very delicate, which makes a
+LINE 60: likeness difficult; and yet there is a peculiarity in the shape of the
+LINE 61: eye and the lines about the mouth which one ought to catch."
+LINE 62: "Exactly so—The shape of the eye and the lines about the mouth—I have
+LINE 63: not a doubt of your success. Pray, pray attempt it. As you will do it,
+LINE 64: it will indeed, to use your own words, be an exquisite possession."
+LINE 65: "But I am afraid, Mr. Elton, Harriet will not like to sit. She thinks
+LINE 66: so little of her own beauty. Did not you observe her manner of
+LINE 67: answering me? How completely it meant, 'why should my picture be
+LINE 68: drawn?'"
+LINE 69: "Oh! yes, I observed it, I assure you. It was not lost on me. But still
+LINE 70: I cannot imagine she would not be persuaded."
+LINE 71: Harriet was soon back again, and the proposal almost immediately made;
+LINE 72: and she had no scruples which could stand many minutes against the
+LINE 73: earnest pressing of both the others. Emma wished to go to work
+LINE 74: directly, and therefore produced the portfolio containing her various
+LINE 75: attempts at portraits, for not one of them had ever been finished, that
+LINE 76: they might decide together on the best size for Harriet. Her many
+LINE 77: beginnings were displayed. Miniatures, half-lengths, whole-lengths,
+LINE 78: pencil, crayon, and water-colours had been all tried in turn. She had
+LINE 79: always wanted to do every thing, and had made more progress both in
+LINE 80: drawing and music than many might have done with so little labour as
+LINE 81: she would ever submit to. She played and sang;—and drew in almost every
+LINE 82: style; but steadiness had always been wanting; and in nothing had she
+LINE 83: approached the degree of excellence which she would have been glad to
+LINE 84: command, and ought not to have failed of. She was not much deceived as
+LINE 85: to her own skill either as an artist or a musician, but she was not
+LINE 86: unwilling to have others deceived, or sorry to know her reputation for
+LINE 87: accomplishment often higher than it deserved.
+LINE 88: There was merit in every drawing—in the least finished, perhaps the
+LINE 89: most; her style was spirited; but had there been much less, or had
+LINE 90: there been ten times more, the delight and admiration of her two
+LINE 91: companions would have been the same. They were both in ecstasies. A
+LINE 92: likeness pleases every body; and Miss Woodhouse's performances must be
+LINE 93: capital.
+LINE 94: "No great variety of faces for you," said Emma. "I had only my own
+LINE 95: family to study from. There is my father—another of my father—but the
+LINE 96: idea of sitting for his picture made him so nervous, that I could only
+LINE 97: take him by stealth; neither of them very like therefore. Mrs. Weston
+LINE 98: again, and again, and again, you see. Dear Mrs. Weston! always my
+LINE 99: kindest friend on every occasion. She would sit whenever I asked her.
+LINE 100: There is my sister; and really quite her own little elegant figure!—and
+LINE 101: the face not unlike. I should have made a good likeness of her, if she
+LINE 102: would have sat longer, but she was in such a hurry to have me draw her
+LINE 103: four children that she would not be quiet. Then, here come all my
+LINE 104: attempts at three of those four children;—there they are, Henry and
+LINE 105: John and Bella, from one end of the sheet to the other, and any one of
+LINE 106: them might do for any one of the rest. She was so eager to have them
+LINE 107: drawn that I could not refuse; but there is no making children of three
+LINE 108: or four years old stand still you know; nor can it be very easy to take
+LINE 109: any likeness of them, beyond the air and complexion, unless they are
+LINE 110: coarser featured than any of mama's children ever were. Here is my
+LINE 111: sketch of the fourth, who was a baby. I took him as he was sleeping on
+LINE 112: the sofa, and it is as strong a likeness of his cockade as you would
+LINE 113: wish to see. He had nestled down his head most conveniently. That's
+LINE 114: very like. I am rather proud of little George. The corner of the sofa
+LINE 115: is very good. Then here is my last,"—unclosing a pretty sketch of a
+LINE 116: gentleman in small size, whole-length—"my last and my best—my brother,
+LINE 117: Mr. John Knightley.—This did not want much of being finished, when I
+LINE 118: put it away in a pet, and vowed I would never take another likeness. I
+LINE 119: could not help being provoked; for after all my pains, and when I had
+LINE 120: really made a very good likeness of it—(Mrs. Weston and I were quite
+LINE 121: agreed in thinking it _very_ like)—only too handsome—too flattering—but
+LINE 122: that was a fault on the right side"—after all this, came poor dear
+LINE 123: Isabella's cold approbation of—"Yes, it was a little like—but to be
+LINE 124: sure it did not do him justice. We had had a great deal of trouble in
+LINE 125: persuading him to sit at all. It was made a great favour of; and
+LINE 126: altogether it was more than I could bear; and so I never would finish
+LINE 127: it, to have it apologised over as an unfavourable likeness, to every
+LINE 128: morning visitor in Brunswick Square;—and, as I said, I did then
+LINE 129: forswear ever drawing any body again. But for Harriet's sake, or rather
+LINE 130: for my own, and as there are no husbands and wives in the case _at_
+LINE 131: _present_, I will break my resolution now."
+LINE 132: Mr. Elton seemed very properly struck and delighted by the idea, and
+LINE 133: was repeating, "No husbands and wives in the case at present indeed, as
+LINE 134: you observe. Exactly so. No husbands and wives," with so interesting a
+LINE 135: consciousness, that Emma began to consider whether she had not better
+LINE 136: leave them together at once. But as she wanted to be drawing, the
+LINE 137: declaration must wait a little longer.
+LINE 138: She had soon fixed on the size and sort of portrait. It was to be a
+LINE 139: whole-length in water-colours, like Mr. John Knightley's, and was
+LINE 140: destined, if she could please herself, to hold a very honourable
+LINE 141: station over the mantelpiece.
+LINE 142: The sitting began; and Harriet, smiling and blushing, and afraid of not
+LINE 143: keeping her attitude and countenance, presented a very sweet mixture of
+LINE 144: youthful expression to the steady eyes of the artist. But there was no
+LINE 145: doing any thing, with Mr. Elton fidgeting behind her and watching every
+LINE 146: touch. She gave him credit for stationing himself where he might gaze
+LINE 147: and gaze again without offence; but was really obliged to put an end to
+LINE 148: it, and request him to place himself elsewhere. It then occurred to her
+LINE 149: to employ him in reading.
+LINE 150: "If he would be so good as to read to them, it would be a kindness
+LINE 151: indeed! It would amuse away the difficulties of her part, and lessen
+LINE 152: the irksomeness of Miss Smith's."
+LINE 153: Mr. Elton was only too happy. Harriet listened, and Emma drew in peace.
+LINE 154: She must allow him to be still frequently coming to look; any thing
+LINE 155: less would certainly have been too little in a lover; and he was ready
+LINE 156: at the smallest intermission of the pencil, to jump up and see the
+LINE 157: progress, and be charmed.—There was no being displeased with such an
+LINE 158: encourager, for his admiration made him discern a likeness almost
+LINE 159: before it was possible. She could not respect his eye, but his love and
+LINE 160: his complaisance were unexceptionable.
+LINE 161: The sitting was altogether very satisfactory; she was quite enough
+LINE 162: pleased with the first day's sketch to wish to go on. There was no want
+LINE 163: of likeness, she had been fortunate in the attitude, and as she meant
+LINE 164: to throw in a little improvement to the figure, to give a little more
+LINE 165: height, and considerably more elegance, she had great confidence of its
+LINE 166: being in every way a pretty drawing at last, and of its filling its
+LINE 167: destined place with credit to them both—a standing memorial of the
+LINE 168: beauty of one, the skill of the other, and the friendship of both; with
+LINE 169: as many other agreeable associations as Mr. Elton's very promising
+LINE 170: attachment was likely to add.
+LINE 171: Harriet was to sit again the next day; and Mr. Elton, just as he ought,
+LINE 172: entreated for the permission of attending and reading to them again.
+LINE 173: "By all means. We shall be most happy to consider you as one of the
+LINE 174: party."
+LINE 175: The same civilities and courtesies, the same success and satisfaction,
+LINE 176: took place on the morrow, and accompanied the whole progress of the
+LINE 177: picture, which was rapid and happy. Every body who saw it was pleased,
+LINE 178: but Mr. Elton was in continual raptures, and defended it through every
+LINE 179: criticism.
+LINE 180: "Miss Woodhouse has given her friend the only beauty she
+LINE 181: wanted,"—observed Mrs. Weston to him—not in the least suspecting that
+LINE 182: she was addressing a lover.—"The expression of the eye is most correct,
+LINE 183: but Miss Smith has not those eyebrows and eyelashes. It is the fault of
+LINE 184: her face that she has them not."
+LINE 185: "Do you think so?" replied he. "I cannot agree with you. It appears to
+LINE 186: me a most perfect resemblance in every feature. I never saw such a
+LINE 187: likeness in my life. We must allow for the effect of shade, you know."
+LINE 188: "You have made her too tall, Emma," said Mr. Knightley.
+LINE 189: Emma knew that she had, but would not own it; and Mr. Elton warmly
+LINE 190: added,
+LINE 191: "Oh no! certainly not too tall; not in the least too tall. Consider,
+LINE 192: she is sitting down—which naturally presents a different—which in short
+LINE 193: gives exactly the idea—and the proportions must be preserved, you know.
+LINE 194: Proportions, fore-shortening.—Oh no! it gives one exactly the idea of
+LINE 195: such a height as Miss Smith's. Exactly so indeed!"
+LINE 196: "It is very pretty," said Mr. Woodhouse. "So prettily done! Just as
+LINE 197: your drawings always are, my dear. I do not know any body who draws so
+LINE 198: well as you do. The only thing I do not thoroughly like is, that she
+LINE 199: seems to be sitting out of doors, with only a little shawl over her
+LINE 200: shoulders—and it makes one think she must catch cold."
+LINE 201: "But, my dear papa, it is supposed to be summer; a warm day in summer.
+LINE 202: Look at the tree."
+LINE 203: "But it is never safe to sit out of doors, my dear."
+LINE 204: "You, sir, may say any thing," cried Mr. Elton, "but I must confess
+LINE 205: that I regard it as a most happy thought, the placing of Miss Smith out
+LINE 206: of doors; and the tree is touched with such inimitable spirit! Any
+LINE 207: other situation would have been much less in character. The naïveté of
+LINE 208: Miss Smith's manners—and altogether—Oh, it is most admirable! I cannot
+LINE 209: keep my eyes from it. I never saw such a likeness."
+LINE 210: The next thing wanted was to get the picture framed; and here were a
+LINE 211: few difficulties. It must be done directly; it must be done in London;
+LINE 212: the order must go through the hands of some intelligent person whose
+LINE 213: taste could be depended on; and Isabella, the usual doer of all
+LINE 214: commissions, must not be applied to, because it was December, and Mr.
+LINE 215: Woodhouse could not bear the idea of her stirring out of her house in
+LINE 216: the fogs of December. But no sooner was the distress known to Mr.
+LINE 217: Elton, than it was removed. His gallantry was always on the alert.
+LINE 218: "Might he be trusted with the commission, what infinite pleasure should
+LINE 219: he have in executing it! he could ride to London at any time. It was
+LINE 220: impossible to say how much he should be gratified by being employed on
+LINE 221: such an errand."
+LINE 222: "He was too good!—she could not endure the thought!—she would not give
+LINE 223: him such a troublesome office for the world,"—brought on the desired
+LINE 224: repetition of entreaties and assurances,—and a very few minutes settled
+LINE 225: the business.
+LINE 226: Mr. Elton was to take the drawing to London, chuse the frame, and give
+LINE 227: the directions; and Emma thought she could so pack it as to ensure its
+LINE 228: safety without much incommoding him, while he seemed mostly fearful of
+LINE 229: not being incommoded enough.
+LINE 230: "What a precious deposit!" said he with a tender sigh, as he received
+LINE 231: it.
+LINE 232: "This man is almost too gallant to be in love," thought Emma. "I should
+LINE 233: say so, but that I suppose there may be a hundred different ways of
+LINE 234: being in love. He is an excellent young man, and will suit Harriet
+LINE 235: exactly; it will be an 'Exactly so,' as he says himself; but he does
+LINE 236: sigh and languish, and study for compliments rather more than I could
+LINE 237: endure as a principal. I come in for a pretty good share as a second.
+LINE 238: But it is his gratitude on Harriet's account."

@@ -1,0 +1,354 @@
+LINE 1: The apparition of a file of soldiers ringing down the but-ends of their
+LINE 2: loaded muskets on our door-step, caused the dinner-party to rise from
+LINE 3: table in confusion, and caused Mrs. Joe re-entering the kitchen
+LINE 4: empty-handed, to stop short and stare, in her wondering lament of
+LINE 5: "Gracious goodness gracious me, what's gone—with the—pie!"
+LINE 6: The sergeant and I were in the kitchen when Mrs. Joe stood staring; at
+LINE 7: which crisis I partially recovered the use of my senses. It was the
+LINE 8: sergeant who had spoken to me, and he was now looking round at the
+LINE 9: company, with his handcuffs invitingly extended towards them in his
+LINE 10: right hand, and his left on my shoulder.
+LINE 11: "Excuse me, ladies and gentleman," said the sergeant, "but as I have
+LINE 12: mentioned at the door to this smart young shaver," (which he hadn't),
+LINE 13: "I am on a chase in the name of the king, and I want the blacksmith."
+LINE 14: "And pray what might you want with _him_?" retorted my sister, quick to
+LINE 15: resent his being wanted at all.
+LINE 16: "Missis," returned the gallant sergeant, "speaking for myself, I should
+LINE 17: reply, the honour and pleasure of his fine wife's acquaintance;
+LINE 18: speaking for the king, I answer, a little job done."
+LINE 19: This was received as rather neat in the sergeant; insomuch that Mr.
+LINE 20: Pumblechook cried audibly, "Good again!"
+LINE 21: "You see, blacksmith," said the sergeant, who had by this time picked
+LINE 22: out Joe with his eye, "we have had an accident with these, and I find
+LINE 23: the lock of one of 'em goes wrong, and the coupling don't act pretty.
+LINE 24: As they are wanted for immediate service, will you throw your eye over
+LINE 25: them?"
+LINE 26: Joe threw his eye over them, and pronounced that the job would
+LINE 27: necessitate the lighting of his forge fire, and would take nearer two
+LINE 28: hours than one. "Will it? Then will you set about it at once,
+LINE 29: blacksmith?" said the off-hand sergeant, "as it's on his Majesty's
+LINE 30: service. And if my men can bear a hand anywhere, they'll make
+LINE 31: themselves useful." With that, he called to his men, who came trooping
+LINE 32: into the kitchen one after another, and piled their arms in a corner.
+LINE 33: And then they stood about, as soldiers do; now, with their hands
+LINE 34: loosely clasped before them; now, resting a knee or a shoulder; now,
+LINE 35: easing a belt or a pouch; now, opening the door to spit stiffly over
+LINE 36: their high stocks, out into the yard.
+LINE 37: All these things I saw without then knowing that I saw them, for I was
+LINE 38: in an agony of apprehension. But beginning to perceive that the
+LINE 39: handcuffs were not for me, and that the military had so far got the
+LINE 40: better of the pie as to put it in the background, I collected a little
+LINE 41: more of my scattered wits.
+LINE 42: "Would you give me the time?" said the sergeant, addressing himself to
+LINE 43: Mr. Pumblechook, as to a man whose appreciative powers justified the
+LINE 44: inference that he was equal to the time.
+LINE 45: "It's just gone half past two."
+LINE 46: "That's not so bad," said the sergeant, reflecting; "even if I was
+LINE 47: forced to halt here nigh two hours, that'll do. How far might you call
+LINE 48: yourselves from the marshes, hereabouts? Not above a mile, I reckon?"
+LINE 49: "Just a mile," said Mrs. Joe.
+LINE 50: "That'll do. We begin to close in upon 'em about dusk. A little before
+LINE 51: dusk, my orders are. That'll do."
+LINE 52: "Convicts, sergeant?" asked Mr. Wopsle, in a matter-of-course way.
+LINE 53: "Ay!" returned the sergeant, "two. They're pretty well known to be out
+LINE 54: on the marshes still, and they won't try to get clear of 'em before
+LINE 55: dusk. Anybody here seen anything of any such game?"
+LINE 56: Everybody, myself excepted, said no, with confidence. Nobody thought of
+LINE 57: me.
+LINE 58: "Well!" said the sergeant, "they'll find themselves trapped in a
+LINE 59: circle, I expect, sooner than they count on. Now, blacksmith! If you're
+LINE 60: ready, his Majesty the King is."
+LINE 61: Joe had got his coat and waistcoat and cravat off, and his leather
+LINE 62: apron on, and passed into the forge. One of the soldiers opened its
+LINE 63: wooden windows, another lighted the fire, another turned to at the
+LINE 64: bellows, the rest stood round the blaze, which was soon roaring. Then
+LINE 65: Joe began to hammer and clink, hammer and clink, and we all looked on.
+LINE 66: The interest of the impending pursuit not only absorbed the general
+LINE 67: attention, but even made my sister liberal. She drew a pitcher of beer
+LINE 68: from the cask for the soldiers, and invited the sergeant to take a
+LINE 69: glass of brandy. But Mr. Pumblechook said, sharply, "Give him wine,
+LINE 70: Mum. I'll engage there's no tar in that:" so, the sergeant thanked him
+LINE 71: and said that as he preferred his drink without tar, he would take
+LINE 72: wine, if it was equally convenient. When it was given him, he drank his
+LINE 73: Majesty's health and compliments of the season, and took it all at a
+LINE 74: mouthful and smacked his lips.
+LINE 75: "Good stuff, eh, sergeant?" said Mr. Pumblechook.
+LINE 76: "I'll tell you something," returned the sergeant; "I suspect that
+LINE 77: stuff's of _your_ providing."
+LINE 78: Mr. Pumblechook, with a fat sort of laugh, said, "Ay, ay? Why?"
+LINE 79: "Because," returned the sergeant, clapping him on the shoulder, "you're
+LINE 80: a man that knows what's what."
+LINE 81: "D'ye think so?" said Mr. Pumblechook, with his former laugh. "Have
+LINE 82: another glass!"
+LINE 83: "With you. Hob and nob," returned the sergeant. "The top of mine to the
+LINE 84: foot of yours,—the foot of yours to the top of mine,—Ring once, ring
+LINE 85: twice,—the best tune on the Musical Glasses! Your health. May you live
+LINE 86: a thousand years, and never be a worse judge of the right sort than you
+LINE 87: are at the present moment of your life!"
+LINE 88: The sergeant tossed off his glass again and seemed quite ready for
+LINE 89: another glass. I noticed that Mr. Pumblechook in his hospitality
+LINE 90: appeared to forget that he had made a present of the wine, but took the
+LINE 91: bottle from Mrs. Joe and had all the credit of handing it about in a
+LINE 92: gush of joviality. Even I got some. And he was so very free of the wine
+LINE 93: that he even called for the other bottle, and handed that about with
+LINE 94: the same liberality, when the first was gone.
+LINE 95: As I watched them while they all stood clustering about the forge,
+LINE 96: enjoying themselves so much, I thought what terrible good sauce for a
+LINE 97: dinner my fugitive friend on the marshes was. They had not enjoyed
+LINE 98: themselves a quarter so much, before the entertainment was brightened
+LINE 99: with the excitement he furnished. And now, when they were all in lively
+LINE 100: anticipation of "the two villains" being taken, and when the bellows
+LINE 101: seemed to roar for the fugitives, the fire to flare for them, the smoke
+LINE 102: to hurry away in pursuit of them, Joe to hammer and clink for them, and
+LINE 103: all the murky shadows on the wall to shake at them in menace as the
+LINE 104: blaze rose and sank, and the red-hot sparks dropped and died, the pale
+LINE 105: afternoon outside almost seemed in my pitying young fancy to have
+LINE 106: turned pale on their account, poor wretches.
+LINE 107: At last, Joe's job was done, and the ringing and roaring stopped. As
+LINE 108: Joe got on his coat, he mustered courage to propose that some of us
+LINE 109: should go down with the soldiers and see what came of the hunt. Mr.
+LINE 110: Pumblechook and Mr. Hubble declined, on the plea of a pipe and ladies'
+LINE 111: society; but Mr. Wopsle said he would go, if Joe would. Joe said he was
+LINE 112: agreeable, and would take me, if Mrs. Joe approved. We never should
+LINE 113: have got leave to go, I am sure, but for Mrs. Joe's curiosity to know
+LINE 114: all about it and how it ended. As it was, she merely stipulated, "If
+LINE 115: you bring the boy back with his head blown to bits by a musket, don't
+LINE 116: look to me to put it together again."
+LINE 117: The sergeant took a polite leave of the ladies, and parted from Mr.
+LINE 118: Pumblechook as from a comrade; though I doubt if he were quite as fully
+LINE 119: sensible of that gentleman's merits under arid conditions, as when
+LINE 120: something moist was going. His men resumed their muskets and fell in.
+LINE 121: Mr. Wopsle, Joe, and I, received strict charge to keep in the rear, and
+LINE 122: to speak no word after we reached the marshes. When we were all out in
+LINE 123: the raw air and were steadily moving towards our business, I
+LINE 124: treasonably whispered to Joe, "I hope, Joe, we shan't find them." and
+LINE 125: Joe whispered to me, "I'd give a shilling if they had cut and run,
+LINE 126: Pip."
+LINE 127: We were joined by no stragglers from the village, for the weather was
+LINE 128: cold and threatening, the way dreary, the footing bad, darkness coming
+LINE 129: on, and the people had good fires in-doors and were keeping the day. A
+LINE 130: few faces hurried to glowing windows and looked after us, but none came
+LINE 131: out. We passed the finger-post, and held straight on to the churchyard.
+LINE 132: There we were stopped a few minutes by a signal from the sergeant's
+LINE 133: hand, while two or three of his men dispersed themselves among the
+LINE 134: graves, and also examined the porch. They came in again without finding
+LINE 135: anything, and then we struck out on the open marshes, through the gate
+LINE 136: at the side of the churchyard. A bitter sleet came rattling against us
+LINE 137: here on the east wind, and Joe took me on his back.
+LINE 138: Now that we were out upon the dismal wilderness where they little
+LINE 139: thought I had been within eight or nine hours and had seen both men
+LINE 140: hiding, I considered for the first time, with great dread, if we should
+LINE 141: come upon them, would my particular convict suppose that it was I who
+LINE 142: had brought the soldiers there? He had asked me if I was a deceiving
+LINE 143: imp, and he had said I should be a fierce young hound if I joined the
+LINE 144: hunt against him. Would he believe that I was both imp and hound in
+LINE 145: treacherous earnest, and had betrayed him?
+LINE 146: It was of no use asking myself this question now. There I was, on Joe's
+LINE 147: back, and there was Joe beneath me, charging at the ditches like a
+LINE 148: hunter, and stimulating Mr. Wopsle not to tumble on his Roman nose, and
+LINE 149: to keep up with us. The soldiers were in front of us, extending into a
+LINE 150: pretty wide line with an interval between man and man. We were taking
+LINE 151: the course I had begun with, and from which I had diverged in the mist.
+LINE 152: Either the mist was not out again yet, or the wind had dispelled it.
+LINE 153: Under the low red glare of sunset, the beacon, and the gibbet, and the
+LINE 154: mound of the Battery, and the opposite shore of the river, were plain,
+LINE 155: though all of a watery lead colour.
+LINE 156: With my heart thumping like a blacksmith at Joe's broad shoulder, I
+LINE 157: looked all about for any sign of the convicts. I could see none, I
+LINE 158: could hear none. Mr. Wopsle had greatly alarmed me more than once, by
+LINE 159: his blowing and hard breathing; but I knew the sounds by this time, and
+LINE 160: could dissociate them from the object of pursuit. I got a dreadful
+LINE 161: start, when I thought I heard the file still going; but it was only a
+LINE 162: sheep-bell. The sheep stopped in their eating and looked timidly at us;
+LINE 163: and the cattle, their heads turned from the wind and sleet, stared
+LINE 164: angrily as if they held us responsible for both annoyances; but, except
+LINE 165: these things, and the shudder of the dying day in every blade of grass,
+LINE 166: there was no break in the bleak stillness of the marshes.
+LINE 167: The soldiers were moving on in the direction of the old Battery, and we
+LINE 168: were moving on a little way behind them, when, all of a sudden, we all
+LINE 169: stopped. For there had reached us on the wings of the wind and rain, a
+LINE 170: long shout. It was repeated. It was at a distance towards the east, but
+LINE 171: it was long and loud. Nay, there seemed to be two or more shouts raised
+LINE 172: together,—if one might judge from a confusion in the sound.
+LINE 173: To this effect the sergeant and the nearest men were speaking under
+LINE 174: their breath, when Joe and I came up. After another moment's listening,
+LINE 175: Joe (who was a good judge) agreed, and Mr. Wopsle (who was a bad judge)
+LINE 176: agreed. The sergeant, a decisive man, ordered that the sound should not
+LINE 177: be answered, but that the course should be changed, and that his men
+LINE 178: should make towards it "at the double." So we slanted to the right
+LINE 179: (where the East was), and Joe pounded away so wonderfully, that I had
+LINE 180: to hold on tight to keep my seat.
+LINE 181: It was a run indeed now, and what Joe called, in the only two words he
+LINE 182: spoke all the time, "a Winder." Down banks and up banks, and over
+LINE 183: gates, and splashing into dikes, and breaking among coarse rushes: no
+LINE 184: man cared where he went. As we came nearer to the shouting, it became
+LINE 185: more and more apparent that it was made by more than one voice.
+LINE 186: Sometimes, it seemed to stop altogether, and then the soldiers stopped.
+LINE 187: When it broke out again, the soldiers made for it at a greater rate
+LINE 188: than ever, and we after them. After a while, we had so run it down,
+LINE 189: that we could hear one voice calling "Murder!" and another voice,
+LINE 190: "Convicts! Runaways! Guard! This way for the runaway convicts!" Then
+LINE 191: both voices would seem to be stifled in a struggle, and then would
+LINE 192: break out again. And when it had come to this, the soldiers ran like
+LINE 193: deer, and Joe too.
+LINE 194: The sergeant ran in first, when we had run the noise quite down, and
+LINE 195: two of his men ran in close upon him. Their pieces were cocked and
+LINE 196: levelled when we all ran in.
+LINE 197: "Here are both men!" panted the sergeant, struggling at the bottom of a
+LINE 198: ditch. "Surrender, you two! and confound you for two wild beasts! Come
+LINE 199: asunder!"
+LINE 200: Water was splashing, and mud was flying, and oaths were being sworn,
+LINE 201: and blows were being struck, when some more men went down into the
+LINE 202: ditch to help the sergeant, and dragged out, separately, my convict and
+LINE 203: the other one. Both were bleeding and panting and execrating and
+LINE 204: struggling; but of course I knew them both directly.
+LINE 205: "Mind!" said my convict, wiping blood from his face with his ragged
+LINE 206: sleeves, and shaking torn hair from his fingers: "_I_ took him! _I_
+LINE 207: give him up to you! Mind that!"
+LINE 208: "It's not much to be particular about," said the sergeant; "it'll do
+LINE 209: you small good, my man, being in the same plight yourself. Handcuffs
+LINE 210: there!"
+LINE 211: "I don't expect it to do me any good. I don't want it to do me more
+LINE 212: good than it does now," said my convict, with a greedy laugh. "I took
+LINE 213: him. He knows it. That's enough for me."
+LINE 214: The other convict was livid to look at, and, in addition to the old
+LINE 215: bruised left side of his face, seemed to be bruised and torn all over.
+LINE 216: He could not so much as get his breath to speak, until they were both
+LINE 217: separately handcuffed, but leaned upon a soldier to keep himself from
+LINE 218: falling.
+LINE 219: "Take notice, guard,—he tried to murder me," were his first words.
+LINE 220: "Tried to murder him?" said my convict, disdainfully. "Try, and not do
+LINE 221: it? I took him, and giv' him up; that's what I done. I not only
+LINE 222: prevented him getting off the marshes, but I dragged him here,—dragged
+LINE 223: him this far on his way back. He's a gentleman, if you please, this
+LINE 224: villain. Now, the Hulks has got its gentleman again, through me. Murder
+LINE 225: him? Worth my while, too, to murder him, when I could do worse and drag
+LINE 226: him back!"
+LINE 227: The other one still gasped, "He tried—he tried-to—murder me. Bear—bear
+LINE 228: witness."
+LINE 229: "Lookee here!" said my convict to the sergeant. "Single-handed I got
+LINE 230: clear of the prison-ship; I made a dash and I done it. I could ha' got
+LINE 231: clear of these death-cold flats likewise—look at my leg: you won't find
+LINE 232: much iron on it—if I hadn't made the discovery that _he_ was here. Let
+LINE 233: _him_ go free? Let _him_ profit by the means as I found out? Let _him_
+LINE 234: make a tool of me afresh and again? Once more? No, no, no. If I had
+LINE 235: died at the bottom there," and he made an emphatic swing at the ditch
+LINE 236: with his manacled hands, "I'd have held to him with that grip, that you
+LINE 237: should have been safe to find him in my hold."
+LINE 238: The other fugitive, who was evidently in extreme horror of his
+LINE 239: companion, repeated, "He tried to murder me. I should have been a dead
+LINE 240: man if you had not come up."
+LINE 241: "He lies!" said my convict, with fierce energy. "He's a liar born, and
+LINE 242: he'll die a liar. Look at his face; ain't it written there? Let him
+LINE 243: turn those eyes of his on me. I defy him to do it."
+LINE 244: The other, with an effort at a scornful smile, which could not,
+LINE 245: however, collect the nervous working of his mouth into any set
+LINE 246: expression, looked at the soldiers, and looked about at the marshes and
+LINE 247: at the sky, but certainly did not look at the speaker.
+LINE 248: "Do you see him?" pursued my convict. "Do you see what a villain he is?
+LINE 249: Do you see those grovelling and wandering eyes? That's how he looked
+LINE 250: when we were tried together. He never looked at me."
+LINE 251: The other, always working and working his dry lips and turning his eyes
+LINE 252: restlessly about him far and near, did at last turn them for a moment
+LINE 253: on the speaker, with the words, "You are not much to look at," and with
+LINE 254: a half-taunting glance at the bound hands. At that point, my convict
+LINE 255: became so frantically exasperated, that he would have rushed upon him
+LINE 256: but for the interposition of the soldiers. "Didn't I tell you," said
+LINE 257: the other convict then, "that he would murder me, if he could?" And any
+LINE 258: one could see that he shook with fear, and that there broke out upon
+LINE 259: his lips curious white flakes, like thin snow.
+LINE 260: "Enough of this parley," said the sergeant. "Light those torches."
+LINE 261: As one of the soldiers, who carried a basket in lieu of a gun, went
+LINE 262: down on his knee to open it, my convict looked round him for the first
+LINE 263: time, and saw me. I had alighted from Joe's back on the brink of the
+LINE 264: ditch when we came up, and had not moved since. I looked at him eagerly
+LINE 265: when he looked at me, and slightly moved my hands and shook my head. I
+LINE 266: had been waiting for him to see me that I might try to assure him of my
+LINE 267: innocence. It was not at all expressed to me that he even comprehended
+LINE 268: my intention, for he gave me a look that I did not understand, and it
+LINE 269: all passed in a moment. But if he had looked at me for an hour or for a
+LINE 270: day, I could not have remembered his face ever afterwards, as having
+LINE 271: been more attentive.
+LINE 272: The soldier with the basket soon got a light, and lighted three or four
+LINE 273: torches, and took one himself and distributed the others. It had been
+LINE 274: almost dark before, but now it seemed quite dark, and soon afterwards
+LINE 275: very dark. Before we departed from that spot, four soldiers standing in
+LINE 276: a ring, fired twice into the air. Presently we saw other torches
+LINE 277: kindled at some distance behind us, and others on the marshes on the
+LINE 278: opposite bank of the river. "All right," said the sergeant. "March."
+LINE 279: We had not gone far when three cannon were fired ahead of us with a
+LINE 280: sound that seemed to burst something inside my ear. "You are expected
+LINE 281: on board," said the sergeant to my convict; "they know you are coming.
+LINE 282: Don't straggle, my man. Close up here."
+LINE 283: The two were kept apart, and each walked surrounded by a separate
+LINE 284: guard. I had hold of Joe's hand now, and Joe carried one of the
+LINE 285: torches. Mr. Wopsle had been for going back, but Joe was resolved to
+LINE 286: see it out, so we went on with the party. There was a reasonably good
+LINE 287: path now, mostly on the edge of the river, with a divergence here and
+LINE 288: there where a dike came, with a miniature windmill on it and a muddy
+LINE 289: sluice-gate. When I looked round, I could see the other lights coming
+LINE 290: in after us. The torches we carried dropped great blotches of fire upon
+LINE 291: the track, and I could see those, too, lying smoking and flaring. I
+LINE 292: could see nothing else but black darkness. Our lights warmed the air
+LINE 293: about us with their pitchy blaze, and the two prisoners seemed rather
+LINE 294: to like that, as they limped along in the midst of the muskets. We
+LINE 295: could not go fast, because of their lameness; and they were so spent,
+LINE 296: that two or three times we had to halt while they rested.
+LINE 297: After an hour or so of this travelling, we came to a rough wooden hut
+LINE 298: and a landing-place. There was a guard in the hut, and they challenged,
+LINE 299: and the sergeant answered. Then, we went into the hut, where there was
+LINE 300: a smell of tobacco and whitewash, and a bright fire, and a lamp, and a
+LINE 301: stand of muskets, and a drum, and a low wooden bedstead, like an
+LINE 302: overgrown mangle without the machinery, capable of holding about a
+LINE 303: dozen soldiers all at once. Three or four soldiers who lay upon it in
+LINE 304: their great-coats were not much interested in us, but just lifted their
+LINE 305: heads and took a sleepy stare, and then lay down again. The sergeant
+LINE 306: made some kind of report, and some entry in a book, and then the
+LINE 307: convict whom I call the other convict was drafted off with his guard,
+LINE 308: to go on board first.
+LINE 309: My convict never looked at me, except that once. While we stood in the
+LINE 310: hut, he stood before the fire looking thoughtfully at it, or putting up
+LINE 311: his feet by turns upon the hob, and looking thoughtfully at them as if
+LINE 312: he pitied them for their recent adventures. Suddenly, he turned to the
+LINE 313: sergeant, and remarked,—
+LINE 314: "I wish to say something respecting this escape. It may prevent some
+LINE 315: persons laying under suspicion alonger me."
+LINE 316: "You can say what you like," returned the sergeant, standing coolly
+LINE 317: looking at him with his arms folded, "but you have no call to say it
+LINE 318: here. You'll have opportunity enough to say about it, and hear about
+LINE 319: it, before it's done with, you know."
+LINE 320: "I know, but this is another pint, a separate matter. A man can't
+LINE 321: starve; at least _I_ can't. I took some wittles, up at the willage over
+LINE 322: yonder,—where the church stands a'most out on the marshes."
+LINE 323: "You mean stole," said the sergeant.
+LINE 324: "And I'll tell you where from. From the blacksmith's."
+LINE 325: "Halloa!" said the sergeant, staring at Joe.
+LINE 326: "Halloa, Pip!" said Joe, staring at me.
+LINE 327: "It was some broken wittles—that's what it was—and a dram of liquor,
+LINE 328: and a pie."
+LINE 329: "Have you happened to miss such an article as a pie, blacksmith?" asked
+LINE 330: the sergeant, confidentially.
+LINE 331: "My wife did, at the very moment when you came in. Don't you know,
+LINE 332: Pip?"
+LINE 333: "So," said my convict, turning his eyes on Joe in a moody manner, and
+LINE 334: without the least glance at me,—"so you're the blacksmith, are you?
+LINE 335: Than I'm sorry to say, I've eat your pie."
+LINE 336: "God knows you're welcome to it,—so far as it was ever mine," returned
+LINE 337: Joe, with a saving remembrance of Mrs. Joe. "We don't know what you
+LINE 338: have done, but we wouldn't have you starved to death for it, poor
+LINE 339: miserable fellow-creatur.—Would us, Pip?"
+LINE 340: The something that I had noticed before, clicked in the man's throat
+LINE 341: again, and he turned his back. The boat had returned, and his guard
+LINE 342: were ready, so we followed him to the landing-place made of rough
+LINE 343: stakes and stones, and saw him put into the boat, which was rowed by a
+LINE 344: crew of convicts like himself. No one seemed surprised to see him, or
+LINE 345: interested in seeing him, or glad to see him, or sorry to see him, or
+LINE 346: spoke a word, except that somebody in the boat growled as if to dogs,
+LINE 347: "Give way, you!" which was the signal for the dip of the oars. By the
+LINE 348: light of the torches, we saw the black Hulk lying out a little way from
+LINE 349: the mud of the shore, like a wicked Noah's ark. Cribbed and barred and
+LINE 350: moored by massive rusty chains, the prison-ship seemed in my young eyes
+LINE 351: to be ironed like the prisoners. We saw the boat go alongside, and we
+LINE 352: saw him taken up the side and disappear. Then, the ends of the torches
+LINE 353: were flung hissing into the water, and went out, as if it were all over
+LINE 354: with him.

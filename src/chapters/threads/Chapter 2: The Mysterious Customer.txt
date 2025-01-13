@@ -1,0 +1,114 @@
+LINE 1: The tavern was buzzing with the usual evening crowd when the door swung open,
+LINE 2: letting in a gust of cold air. Heads turned, and conversations briefly stilled
+LINE 3: as a cloaked figure stepped inside, his face obscured by the hood that draped
+LINE 4: over his brow. Elara, sitting by the hearth with a cup of mulled wine in hand,
+LINE 5: glanced up from her drink. There was something unsettling about the figure—the
+LINE 6: way he moved with purpose, the silence that seemed to follow him.
+LINE 7: He strode to the bar, his boots thudding softly on the worn wooden floor. The
+LINE 8: tavern keeper, Edric, paused mid-conversation with a regular and gave the man a
+LINE 9: wary look. "What can I get you?" Edric asked, his jovial tone dampened by the
+LINE 10: stranger's presence.
+LINE 11: The man didn't respond right away, instead pulling back his hood slightly to
+LINE 12: reveal sharp, angular features and eyes that seemed to pierce through the dim
+LINE 13: light of the tavern. "Ale," he finally said, his voice low and smooth, but
+LINE 14: there was something else in it—something Elara couldn't quite place. Edric,
+LINE 15: seemingly unfazed by the oddity, nodded and poured the drink.
+LINE 16: Elara kept her gaze down, but she couldn't help the prickle of curiosity
+LINE 17: creeping up her spine. She wasn't the only one who noticed him. Conversations
+LINE 18: resumed, but she saw how the regulars stole glances at the stranger, their
+LINE 19: whispers hushed and cautious. It wasn't often that outsiders passed through
+LINE 20: their quiet village, especially ones with such an air of mystery.
+LINE 21: The stranger didn't linger at the bar. With his drink in hand, he scanned the
+LINE 22: room before settling in the darkest corner of the tavern, away from the fire
+LINE 23: and the warmth of the crowd. Elara tried to ignore him, focusing instead on the
+LINE 24: crackling fire before her, but her mind kept drifting back to him. Who was he?
+LINE 25: And why did he seem to bring a shadow into the room with him?
+LINE 26: After a while, she finished her drink and stood to leave, but as she passed the
+LINE 27: table where the stranger sat, she felt his gaze on her. Her steps faltered for
+LINE 28: a moment, and she hesitated, glancing over her shoulder. His eyes were on
+LINE 29: her—sharp, unblinking, and filled with an intensity that made her heart skip a
+LINE 30: beat. She quickly looked away, hurrying toward the door, but the weight of his
+LINE 31: gaze lingered even after she stepped into the cold night air.
+LINE 32: Outside, the village was quiet. The sky was clear, the stars bright above, but
+LINE 33: Elara couldn't shake the feeling that something had shifted. She wrapped her
+LINE 34: cloak tighter around herself and hurried down the cobbled path toward her
+LINE 35: cottage, her mind still lingering on the stranger in the tavern.
+LINE 36: The knock came just after dawn, startling Elara awake from a restless sleep.
+LINE 37: She stumbled out of bed, rubbing her eyes, and opened the door to find the very
+LINE 38: same cloaked figure from the tavern standing before her. His face was still
+LINE 39: partially obscured, but up close, she could see the sharpness of his features,
+LINE 40: the shadow of stubble along his jaw, and the cold, calculating look in his eyes.
+LINE 41: "Elara, the weaver," he said, his voice low but carrying a strange, undeniable
+LINE 42: authority.
+LINE 43: Elara's heart raced. "That's me," she said cautiously, gripping the doorframe
+LINE 44: to steady herself. "Who are you?"
+LINE 45: "That's not important," he replied, stepping past her into the cottage as
+LINE 46: though he owned the place. Elara's skin prickled at his intrusion, but before
+LINE 47: she could protest, he turned to face her, his eyes glinting in the morning
+LINE 48: light. "What's important is what I need you to do."
+LINE 49: She swallowed hard, glancing toward the loom in the corner of the room. "And
+LINE 50: what might that be?"
+LINE 51: "I need you to weave something for me," the man said, his voice as smooth as
+LINE 52: silk but laced with something darker. He reached into his cloak and pulled out
+LINE 53: a small pouch, tossing it onto her worktable. The sound of clinking coins
+LINE 54: echoed through the cottage, the weight of the gold unmistakable.
+LINE 55: "I don't just weave for anyone," Elara replied, crossing her arms over her
+LINE 56: chest, trying to maintain some semblance of control. "What are you asking me to
+LINE 57: make?"
+LINE 58: The man's gaze drifted toward the loom, then back to her. "I need you to weave
+LINE 59: the future."
+LINE 60: Elara blinked, sure she had misheard him. "The future?" she repeated,
+LINE 61: incredulous. "You can't be serious."
+LINE 62: "I am," he said, his tone never wavering. "I've heard of your... talents. I
+LINE 63: know you can see things in the threads—things no ordinary weaver can. I need
+LINE 64: you to weave a tapestry that shows what is to come."
+LINE 65: Elara's breath caught in her throat. How could he know about her visions? She
+LINE 66: had told no one, not even her grandmother, about the strange things she had
+LINE 67: woven recently. Her thoughts raced as she considered her options. Refusing him
+LINE 68: didn't seem wise, but agreeing to such a task felt dangerous, like meddling
+LINE 69: with forces she barely understood.
+LINE 70: "What exactly do you want to see?" she asked cautiously.
+LINE 71: "The fate of a village," he replied. "One not far from here. Glenth, I believe
+LINE 72: it's called."
+LINE 73: Elara's blood ran cold at the name. Glenth was a neighboring village, just over
+LINE 74: the hills, a place she had visited only once. "Why Glenth?"
+LINE 75: "That's none of your concern," the man said, his voice hardening. "Do we have a
+LINE 76: deal or not?"
+LINE 77: Elara hesitated, her eyes flicking between the man and the gold on her table.
+LINE 78: She knew this was a terrible idea—knew that whatever power had awakened in her
+LINE 79: was not meant to be used this way. But the lure of the unknown, the possibility
+LINE 80: of discovering more about her abilities, was too strong to resist.
+LINE 81: "We have a deal," she whispered.
+LINE 82: The fire was out of control before anyone in Glenth even realized what was
+LINE 83: happening. The sky was a thick, angry red, the air filled with the acrid stench
+LINE 84: of smoke. Elara stood at the edge of the village, her hands trembling as she
+LINE 85: watched the flames consume everything in their path. Her tapestry—the one she
+LINE 86: had woven at the mysterious man's request—had shown this, every detail, from
+LINE 87: the charred buildings to the terrified faces of the villagers as they fled.
+LINE 88: She had not believed it would come true. Not really.
+LINE 89: Now, standing here, watching the chaos unfold, she felt an overwhelming sense
+LINE 90: of dread. This wasn't just a vision, a glimpse of what might be. This was real.
+LINE 91: The future she had woven had come to pass, and she had no idea how to stop
+LINE 92: it—or if it could even be stopped.
+LINE 93: The villagers ran past her, shouting for help, carrying what little they could
+LINE 94: salvage from their homes. The heat of the flames licked at her skin, but she
+LINE 95: remained frozen, unable to tear her eyes away from the devastation. The
+LINE 96: man—Iskra, as he had finally introduced himself—was nowhere to be seen, but she
+LINE 97: knew he was watching from somewhere, hidden in the shadows as his plan unfolded.
+LINE 98: Her mind raced, trying to make sense of it all. Had this been his goal all
+LINE 99: along? To destroy Glenth? Why? And why had he chosen her to help him do it?
+LINE 100: "Elara!" A voice shouted her name, and she turned to see one of the villagers
+LINE 101: running toward her, panic in his eyes. "Please, you have to help us!"
+LINE 102: She shook her head, backing away. "I—I can't," she stammered, the words
+LINE 103: catching in her throat. "I didn't mean for this to happen."
+LINE 104: The man grabbed her arm, his grip tight, desperation in his voice. "You're a
+LINE 105: weaver, aren't you? Can't you do something?"
+LINE 106: "I... I don't know," she whispered, her heart pounding in her chest. The power
+LINE 107: that had seemed so wondrous, so full of possibility, now felt like a curse. She
+LINE 108: had woven this destruction, and now she was powerless to stop it.
+LINE 109: The flames roared louder, and the man released her, running back toward the
+LINE 110: village. Elara stood there, her chest heaving with guilt and fear. She had
+LINE 111: never felt so small, so insignificant. What had she done? And more importantly,
+LINE 112: what would she do next?
+LINE 113: As the village of Glenth burned, Elara turned and fled into the night, her mind
+LINE 114: a whirlwind of guilt and confusion.

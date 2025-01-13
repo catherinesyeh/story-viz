@@ -1,0 +1,257 @@
+LINE 1: Turning from the Temple gate as soon as I had read the warning, I made
+LINE 2: the best of my way to Fleet Street, and there got a late hackney
+LINE 3: chariot and drove to the Hummums in Covent Garden. In those times a bed
+LINE 4: was always to be got there at any hour of the night, and the
+LINE 5: chamberlain, letting me in at his ready wicket, lighted the candle next
+LINE 6: in order on his shelf, and showed me straight into the bedroom next in
+LINE 7: order on his list. It was a sort of vault on the ground floor at the
+LINE 8: back, with a despotic monster of a four-post bedstead in it, straddling
+LINE 9: over the whole place, putting one of his arbitrary legs into the
+LINE 10: fireplace and another into the doorway, and squeezing the wretched
+LINE 11: little washing-stand in quite a Divinely Righteous manner.
+LINE 12: As I had asked for a night-light, the chamberlain had brought me in,
+LINE 13: before he left me, the good old constitutional rushlight of those
+LINE 14: virtuous days—an object like the ghost of a walking-cane, which
+LINE 15: instantly broke its back if it were touched, which nothing could ever
+LINE 16: be lighted at, and which was placed in solitary confinement at the
+LINE 17: bottom of a high tin tower, perforated with round holes that made a
+LINE 18: staringly wide-awake pattern on the walls. When I had got into bed, and
+LINE 19: lay there footsore, weary, and wretched, I found that I could no more
+LINE 20: close my own eyes than I could close the eyes of this foolish Argus.
+LINE 21: And thus, in the gloom and death of the night, we stared at one
+LINE 22: another.
+LINE 23: What a doleful night! How anxious, how dismal, how long! There was an
+LINE 24: inhospitable smell in the room, of cold soot and hot dust; and, as I
+LINE 25: looked up into the corners of the tester over my head, I thought what a
+LINE 26: number of blue-bottle flies from the butchers', and earwigs from the
+LINE 27: market, and grubs from the country, must be holding on up there, lying
+LINE 28: by for next summer. This led me to speculate whether any of them ever
+LINE 29: tumbled down, and then I fancied that I felt light falls on my face,—a
+LINE 30: disagreeable turn of thought, suggesting other and more objectionable
+LINE 31: approaches up my back. When I had lain awake a little while, those
+LINE 32: extraordinary voices with which silence teems began to make themselves
+LINE 33: audible. The closet whispered, the fireplace sighed, the little
+LINE 34: washing-stand ticked, and one guitar-string played occasionally in the
+LINE 35: chest of drawers. At about the same time, the eyes on the wall acquired
+LINE 36: a new expression, and in every one of those staring rounds I saw
+LINE 37: written, DON'T GO HOME.
+LINE 38: Whatever night-fancies and night-noises crowded on me, they never
+LINE 39: warded off this DON'T GO HOME. It plaited itself into whatever I
+LINE 40: thought of, as a bodily pain would have done. Not long before, I had
+LINE 41: read in the newspapers, how a gentleman unknown had come to the Hummums
+LINE 42: in the night, and had gone to bed, and had destroyed himself, and had
+LINE 43: been found in the morning weltering in blood. It came into my head that
+LINE 44: he must have occupied this very vault of mine, and I got out of bed to
+LINE 45: assure myself that there were no red marks about; then opened the door
+LINE 46: to look out into the passages, and cheer myself with the companionship
+LINE 47: of a distant light, near which I knew the chamberlain to be dozing. But
+LINE 48: all this time, why I was not to go home, and what had happened at home,
+LINE 49: and when I should go home, and whether Provis was safe at home, were
+LINE 50: questions occupying my mind so busily, that one might have supposed
+LINE 51: there could be no more room in it for any other theme. Even when I
+LINE 52: thought of Estella, and how we had parted that day forever, and when I
+LINE 53: recalled all the circumstances of our parting, and all her looks and
+LINE 54: tones, and the action of her fingers while she knitted,—even then I was
+LINE 55: pursuing, here and there and everywhere, the caution, Don't go home.
+LINE 56: When at last I dozed, in sheer exhaustion of mind and body, it became a
+LINE 57: vast shadowy verb which I had to conjugate. Imperative mood, present
+LINE 58: tense: Do not thou go home, let him not go home, let us not go home, do
+LINE 59: not ye or you go home, let not them go home. Then potentially: I may
+LINE 60: not and I cannot go home; and I might not, could not, would not, and
+LINE 61: should not go home; until I felt that I was going distracted, and
+LINE 62: rolled over on the pillow, and looked at the staring rounds upon the
+LINE 63: wall again.
+LINE 64: I had left directions that I was to be called at seven; for it was
+LINE 65: plain that I must see Wemmick before seeing any one else, and equally
+LINE 66: plain that this was a case in which his Walworth sentiments only could
+LINE 67: be taken. It was a relief to get out of the room where the night had
+LINE 68: been so miserable, and I needed no second knocking at the door to
+LINE 69: startle me from my uneasy bed.
+LINE 70: The Castle battlements arose upon my view at eight o'clock. The little
+LINE 71: servant happening to be entering the fortress with two hot rolls, I
+LINE 72: passed through the postern and crossed the drawbridge in her company,
+LINE 73: and so came without announcement into the presence of Wemmick as he was
+LINE 74: making tea for himself and the Aged. An open door afforded a
+LINE 75: perspective view of the Aged in bed.
+LINE 76: "Halloa, Mr. Pip!" said Wemmick. "You did come home, then?"
+LINE 77: "Yes," I returned; "but I didn't go home."
+LINE 78: "That's all right," said he, rubbing his hands. "I left a note for you
+LINE 79: at each of the Temple gates, on the chance. Which gate did you come
+LINE 80: to?"
+LINE 81: I told him.
+LINE 82: "I'll go round to the others in the course of the day and destroy the
+LINE 83: notes," said Wemmick; "it's a good rule never to leave documentary
+LINE 84: evidence if you can help it, because you don't know when it may be put
+LINE 85: in. I'm going to take a liberty with you. _Would_ you mind toasting
+LINE 86: this sausage for the Aged P.?"
+LINE 87: I said I should be delighted to do it.
+LINE 88: "Then you can go about your work, Mary Anne," said Wemmick to the
+LINE 89: little servant; "which leaves us to ourselves, don't you see, Mr. Pip?"
+LINE 90: he added, winking, as she disappeared.
+LINE 91: I thanked him for his friendship and caution, and our discourse
+LINE 92: proceeded in a low tone, while I toasted the Aged's sausage and he
+LINE 93: buttered the crumb of the Aged's roll.
+LINE 94: "Now, Mr. Pip, you know," said Wemmick, "you and I understand one
+LINE 95: another. We are in our private and personal capacities, and we have
+LINE 96: been engaged in a confidential transaction before to-day. Official
+LINE 97: sentiments are one thing. We are extra official."
+LINE 98: I cordially assented. I was so very nervous, that I had already lighted
+LINE 99: the Aged's sausage like a torch, and been obliged to blow it out.
+LINE 100: "I accidentally heard, yesterday morning," said Wemmick, "being in a
+LINE 101: certain place where I once took you,—even between you and me, it's as
+LINE 102: well not to mention names when avoidable—"
+LINE 103: "Much better not," said I. "I understand you."
+LINE 104: "I heard there by chance, yesterday morning," said Wemmick, "that a
+LINE 105: certain person not altogether of uncolonial pursuits, and not
+LINE 106: unpossessed of portable property,—I don't know who it may really be,—we
+LINE 107: won't name this person—"
+LINE 108: "Not necessary," said I.
+LINE 109: "—Had made some little stir in a certain part of the world where a good
+LINE 110: many people go, not always in gratification of their own inclinations,
+LINE 111: and not quite irrespective of the government expense—"
+LINE 112: In watching his face, I made quite a firework of the Aged's sausage,
+LINE 113: and greatly discomposed both my own attention and Wemmick's; for which
+LINE 114: I apologised.
+LINE 115: "—By disappearing from such place, and being no more heard of
+LINE 116: thereabouts. From which," said Wemmick, "conjectures had been raised
+LINE 117: and theories formed. I also heard that you at your chambers in Garden
+LINE 118: Court, Temple, had been watched, and might be watched again."
+LINE 119: "By whom?" said I.
+LINE 120: "I wouldn't go into that," said Wemmick, evasively, "it might clash
+LINE 121: with official responsibilities. I heard it, as I have in my time heard
+LINE 122: other curious things in the same place. I don't tell it you on
+LINE 123: information received. I heard it."
+LINE 124: He took the toasting-fork and sausage from me as he spoke, and set
+LINE 125: forth the Aged's breakfast neatly on a little tray. Previous to placing
+LINE 126: it before him, he went into the Aged's room with a clean white cloth,
+LINE 127: and tied the same under the old gentleman's chin, and propped him up,
+LINE 128: and put his nightcap on one side, and gave him quite a rakish air. Then
+LINE 129: he placed his breakfast before him with great care, and said, "All
+LINE 130: right, ain't you, Aged P.?" To which the cheerful Aged replied, "All
+LINE 131: right, John, my boy, all right!" As there seemed to be a tacit
+LINE 132: understanding that the Aged was not in a presentable state, and was
+LINE 133: therefore to be considered invisible, I made a pretence of being in
+LINE 134: complete ignorance of these proceedings.
+LINE 135: "This watching of me at my chambers (which I have once had reason to
+LINE 136: suspect)," I said to Wemmick when he came back, "is inseparable from
+LINE 137: the person to whom you have adverted; is it?"
+LINE 138: Wemmick looked very serious. "I couldn't undertake to say that, of my
+LINE 139: own knowledge. I mean, I couldn't undertake to say it was at first. But
+LINE 140: it either is, or it will be, or it's in great danger of being."
+LINE 141: As I saw that he was restrained by fealty to Little Britain from saying
+LINE 142: as much as he could, and as I knew with thankfulness to him how far out
+LINE 143: of his way he went to say what he did, I could not press him. But I
+LINE 144: told him, after a little meditation over the fire, that I would like to
+LINE 145: ask him a question, subject to his answering or not answering, as he
+LINE 146: deemed right, and sure that his course would be right. He paused in his
+LINE 147: breakfast, and crossing his arms, and pinching his shirt-sleeves (his
+LINE 148: notion of in-door comfort was to sit without any coat), he nodded to me
+LINE 149: once, to put my question.
+LINE 150: "You have heard of a man of bad character, whose true name is
+LINE 151: Compeyson?"
+LINE 152: He answered with one other nod.
+LINE 153: "Is he living?"
+LINE 154: One other nod.
+LINE 155: "Is he in London?"
+LINE 156: He gave me one other nod, compressed the post-office exceedingly, gave
+LINE 157: me one last nod, and went on with his breakfast.
+LINE 158: "Now," said Wemmick, "questioning being over," which he emphasised and
+LINE 159: repeated for my guidance, "I come to what I did, after hearing what I
+LINE 160: heard. I went to Garden Court to find you; not finding you, I went to
+LINE 161: Clarriker's to find Mr. Herbert."
+LINE 162: "And him you found?" said I, with great anxiety.
+LINE 163: "And him I found. Without mentioning any names or going into any
+LINE 164: details, I gave him to understand that if he was aware of anybody—Tom,
+LINE 165: Jack, or Richard—being about the chambers, or about the immediate
+LINE 166: neighbourhood, he had better get Tom, Jack, or Richard out of the way
+LINE 167: while you were out of the way."
+LINE 168: "He would be greatly puzzled what to do?"
+LINE 169: "He _was_ puzzled what to do; not the less, because I gave him my
+LINE 170: opinion that it was not safe to try to get Tom, Jack, or Richard too
+LINE 171: far out of the way at present. Mr. Pip, I'll tell you something. Under
+LINE 172: existing circumstances, there is no place like a great city when you
+LINE 173: are once in it. Don't break cover too soon. Lie close. Wait till things
+LINE 174: slacken, before you try the open, even for foreign air."
+LINE 175: I thanked him for his valuable advice, and asked him what Herbert had
+LINE 176: done?
+LINE 177: "Mr. Herbert," said Wemmick, "after being all of a heap for half an
+LINE 178: hour, struck out a plan. He mentioned to me as a secret, that he is
+LINE 179: courting a young lady who has, as no doubt you are aware, a bedridden
+LINE 180: Pa. Which Pa, having been in the Purser line of life, lies a-bed in a
+LINE 181: bow-window where he can see the ships sail up and down the river. You
+LINE 182: are acquainted with the young lady, most probably?"
+LINE 183: "Not personally," said I.
+LINE 184: The truth was, that she had objected to me as an expensive companion
+LINE 185: who did Herbert no good, and that, when Herbert had first proposed to
+LINE 186: present me to her, she had received the proposal with such very
+LINE 187: moderate warmth, that Herbert had felt himself obliged to confide the
+LINE 188: state of the case to me, with a view to the lapse of a little time
+LINE 189: before I made her acquaintance. When I had begun to advance Herbert's
+LINE 190: prospects by stealth, I had been able to bear this with cheerful
+LINE 191: philosophy: he and his affianced, for their part, had naturally not
+LINE 192: been very anxious to introduce a third person into their interviews;
+LINE 193: and thus, although I was assured that I had risen in Clara's esteem,
+LINE 194: and although the young lady and I had long regularly interchanged
+LINE 195: messages and remembrances by Herbert, I had never seen her. However, I
+LINE 196: did not trouble Wemmick with these particulars.
+LINE 197: "The house with the bow-window," said Wemmick, "being by the
+LINE 198: river-side, down the Pool there between Limehouse and Greenwich, and
+LINE 199: being kept, it seems, by a very respectable widow who has a furnished
+LINE 200: upper floor to let, Mr. Herbert put it to me, what did I think of that
+LINE 201: as a temporary tenement for Tom, Jack, or Richard? Now, I thought very
+LINE 202: well of it, for three reasons I'll give you. That is to say: _Firstly_.
+LINE 203: It's altogether out of all your beats, and is well away from the usual
+LINE 204: heap of streets great and small. _Secondly_. Without going near it
+LINE 205: yourself, you could always hear of the safety of Tom, Jack, or Richard,
+LINE 206: through Mr. Herbert. _Thirdly_. After a while and when it might be
+LINE 207: prudent, if you should want to slip Tom, Jack, or Richard on board a
+LINE 208: foreign packet-boat, there he is—ready."
+LINE 209: Much comforted by these considerations, I thanked Wemmick again and
+LINE 210: again, and begged him to proceed.
+LINE 211: "Well, sir! Mr. Herbert threw himself into the business with a will,
+LINE 212: and by nine o'clock last night he housed Tom, Jack, or
+LINE 213: Richard,—whichever it may be,—you and I don't want to know,—quite
+LINE 214: successfully. At the old lodgings it was understood that he was
+LINE 215: summoned to Dover, and, in fact, he was taken down the Dover road and
+LINE 216: cornered out of it. Now, another great advantage of all this is, that
+LINE 217: it was done without you, and when, if any one was concerning himself
+LINE 218: about your movements, you must be known to be ever so many miles off
+LINE 219: and quite otherwise engaged. This diverts suspicion and confuses it;
+LINE 220: and for the same reason I recommended that, even if you came back last
+LINE 221: night, you should not go home. It brings in more confusion, and you
+LINE 222: want confusion."
+LINE 223: Wemmick, having finished his breakfast, here looked at his watch, and
+LINE 224: began to get his coat on.
+LINE 225: "And now, Mr. Pip," said he, with his hands still in the sleeves, "I
+LINE 226: have probably done the most I can do; but if I can ever do more,—from a
+LINE 227: Walworth point of view, and in a strictly private and personal
+LINE 228: capacity,—I shall be glad to do it. Here's the address. There can be no
+LINE 229: harm in your going here to-night, and seeing for yourself that all is
+LINE 230: well with Tom, Jack, or Richard, before you go home,—which is another
+LINE 231: reason for your not going home last night. But, after you have gone
+LINE 232: home, don't go back here. You are very welcome, I am sure, Mr. Pip";
+LINE 233: his hands were now out of his sleeves, and I was shaking them; "and let
+LINE 234: me finally impress one important point upon you." He laid his hands
+LINE 235: upon my shoulders, and added in a solemn whisper: "Avail yourself of
+LINE 236: this evening to lay hold of his portable property. You don't know what
+LINE 237: may happen to him. Don't let anything happen to the portable property."
+LINE 238: Quite despairing of making my mind clear to Wemmick on this point, I
+LINE 239: forbore to try.
+LINE 240: "Time's up," said Wemmick, "and I must be off. If you had nothing more
+LINE 241: pressing to do than to keep here till dark, that's what I should
+LINE 242: advise. You look very much worried, and it would do you good to have a
+LINE 243: perfectly quiet day with the Aged,—he'll be up presently,—and a little
+LINE 244: bit of—you remember the pig?"
+LINE 245: "Of course," said I.
+LINE 246: "Well; and a little bit of _him_. That sausage you toasted was his, and
+LINE 247: he was in all respects a first-rater. Do try him, if it is only for old
+LINE 248: acquaintance sake. Good-bye, Aged Parent!" in a cheery shout.
+LINE 249: "All right, John; all right, my boy!" piped the old man from within.
+LINE 250: I soon fell asleep before Wemmick's fire, and the Aged and I enjoyed
+LINE 251: one another's society by falling asleep before it more or less all day.
+LINE 252: We had loin of pork for dinner, and greens grown on the estate; and I
+LINE 253: nodded at the Aged with a good intention whenever I failed to do it
+LINE 254: drowsily. When it was quite dark, I left the Aged preparing the fire
+LINE 255: for toast; and I inferred from the number of teacups, as well as from
+LINE 256: his glances at the two little doors in the wall, that Miss Skiffins was
+LINE 257: expected.

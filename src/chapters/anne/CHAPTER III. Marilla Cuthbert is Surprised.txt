@@ -1,0 +1,199 @@
+LINE 1: MARILLA came briskly forward as Matthew opened the door. But when her
+LINE 2: eyes fell on the odd little figure in the stiff, ugly dress, with the
+LINE 3: long braids of red hair and the eager, luminous eyes, she stopped short
+LINE 4: in amazement.
+LINE 5: "Matthew Cuthbert, who's that?" she ejaculated. "Where is the boy?"
+LINE 6: "There wasn't any boy," said Matthew wretchedly. "There was only _her_."
+LINE 7: He nodded at the child, remembering that he had never even asked her
+LINE 8: name.
+LINE 9: "No boy! But there _must_ have been a boy," insisted Marilla. "We sent
+LINE 10: word to Mrs. Spencer to bring a boy."
+LINE 11: "Well, she didn't. She brought _her_. I asked the station-master. And I
+LINE 12: had to bring her home. She couldn't be left there, no matter where the
+LINE 13: mistake had come in."
+LINE 14: "Well, this is a pretty piece of business!" ejaculated Marilla.
+LINE 15: During this dialogue the child had remained silent, her eyes roving from
+LINE 16: one to the other, all the animation fading out of her face. Suddenly
+LINE 17: she seemed to grasp the full meaning of what had been said. Dropping her
+LINE 18: precious carpet-bag she sprang forward a step and clasped her hands.
+LINE 19: "You don't want me!" she cried. "You don't want me because I'm not a
+LINE 20: boy! I might have expected it. Nobody ever did want me. I might have
+LINE 21: known it was all too beautiful to last. I might have known nobody really
+LINE 22: did want me. Oh, what shall I do? I'm going to burst into tears!"
+LINE 23: Burst into tears she did. Sitting down on a chair by the table, flinging
+LINE 24: her arms out upon it, and burying her face in them, she proceeded to cry
+LINE 25: stormily. Marilla and Matthew looked at each other deprecatingly across
+LINE 26: the stove. Neither of them knew what to say or do. Finally Marilla
+LINE 27: stepped lamely into the breach.
+LINE 28: "Well, well, there's no need to cry so about it."
+LINE 29: "Yes, there _is_ need!" The child raised her head quickly, revealing a
+LINE 30: tear-stained face and trembling lips. "_You_ would cry, too, if you were
+LINE 31: an orphan and had come to a place you thought was going to be home and
+LINE 32: found that they didn't want you because you weren't a boy. Oh, this is
+LINE 33: the most _tragical_ thing that ever happened to me!"
+LINE 34: Something like a reluctant smile, rather rusty from long disuse,
+LINE 35: mellowed Marilla's grim expression.
+LINE 36: "Well, don't cry any more. We're not going to turn you out-of-doors
+LINE 37: to-night. You'll have to stay here until we investigate this affair.
+LINE 38: What's your name?"
+LINE 39: The child hesitated for a moment.
+LINE 40: "Will you please call me Cordelia?" she said eagerly.
+LINE 41: "_Call_ you Cordelia? Is that your name?"
+LINE 42: "No-o-o, it's not exactly my name, but I would love to be called
+LINE 43: Cordelia. It's such a perfectly elegant name."
+LINE 44: "I don't know what on earth you mean. If Cordelia isn't your name, what
+LINE 45: is?"
+LINE 46: "Anne Shirley," reluctantly faltered forth the owner of that name, "but,
+LINE 47: oh, please do call me Cordelia. It can't matter much to you what you
+LINE 48: call me if I'm only going to be here a little while, can it? And Anne is
+LINE 49: such an unromantic name."
+LINE 50: "Unromantic fiddlesticks!" said the unsympathetic Marilla. "Anne is a
+LINE 51: real good plain sensible name. You've no need to be ashamed of it."
+LINE 52: "Oh, I'm not ashamed of it," explained Anne, "only I like Cordelia
+LINE 53: better. I've always imagined that my name was Cordelia--at least, I
+LINE 54: always have of late years. When I was young I used to imagine it was
+LINE 55: Geraldine, but I like Cordelia better now. But if you call me Anne
+LINE 56: please call me Anne spelled with an E."
+LINE 57: "What difference does it make how it's spelled?" asked Marilla with
+LINE 58: another rusty smile as she picked up the teapot.
+LINE 59: "Oh, it makes _such_ a difference. It _looks_ so much nicer. When you hear
+LINE 60: a name pronounced can't you always see it in your mind, just as if it
+LINE 61: was printed out? I can; and A-n-n looks dreadful, but A-n-n-e looks so
+LINE 62: much more distinguished. If you'll only call me Anne spelled with an E I
+LINE 63: shall try to reconcile myself to not being called Cordelia."
+LINE 64: "Very well, then, Anne spelled with an E, can you tell us how this
+LINE 65: mistake came to be made? We sent word to Mrs. Spencer to bring us a boy.
+LINE 66: Were there no boys at the asylum?"
+LINE 67: "Oh, yes, there was an abundance of them. But Mrs. Spencer said
+LINE 68: _distinctly_ that you wanted a girl about eleven years old. And the
+LINE 69: matron said she thought I would do. You don't know how delighted I was.
+LINE 70: I couldn't sleep all last night for joy. Oh," she added reproachfully,
+LINE 71: turning to Matthew, "why didn't you tell me at the station that you
+LINE 72: didn't want me and leave me there? If I hadn't seen the White Way of
+LINE 73: Delight and the Lake of Shining Waters it wouldn't be so hard."
+LINE 74: "What on earth does she mean?" demanded Marilla, staring at Matthew.
+LINE 75: "She--she's just referring to some conversation we had on the road,"
+LINE 76: said Matthew hastily. "I'm going out to put the mare in, Marilla. Have
+LINE 77: tea ready when I come back."
+LINE 78: "Did Mrs. Spencer bring anybody over besides you?" continued Marilla
+LINE 79: when Matthew had gone out.
+LINE 80: "She brought Lily Jones for herself. Lily is only five years old and she
+LINE 81: is very beautiful and had nut-brown hair. If I was very beautiful and
+LINE 82: had nut-brown hair would you keep me?"
+LINE 83: "No. We want a boy to help Matthew on the farm. A girl would be of
+LINE 84: no use to us. Take off your hat. I'll lay it and your bag on the hall
+LINE 85: table."
+LINE 86: Anne took off her hat meekly. Matthew came back presently and they sat
+LINE 87: down to supper. But Anne could not eat. In vain she nibbled at the
+LINE 88: bread and butter and pecked at the crab-apple preserve out of the little
+LINE 89: scalloped glass dish by her plate. She did not really make any headway
+LINE 90: at all.
+LINE 91: "You're not eating anything," said Marilla sharply, eying her as if it
+LINE 92: were a serious shortcoming. Anne sighed.
+LINE 93: "I can't. I'm in the depths of despair. Can you eat when you are in the
+LINE 94: depths of despair?"
+LINE 95: "I've never been in the depths of despair, so I can't say," responded
+LINE 96: Marilla.
+LINE 97: "Weren't you? Well, did you ever try to _imagine_ you were in the depths
+LINE 98: of despair?"
+LINE 99: "No, I didn't."
+LINE 100: "Then I don't think you can understand what it's like. It's a very
+LINE 101: uncomfortable feeling indeed. When you try to eat a lump comes right
+LINE 102: up in your throat and you can't swallow anything, not even if it was a
+LINE 103: chocolate caramel. I had one chocolate caramel once two years ago and it
+LINE 104: was simply delicious. I've often dreamed since then that I had a lot
+LINE 105: of chocolate caramels, but I always wake up just when I'm going to eat
+LINE 106: them. I do hope you won't be offended because I can't eat. Everything is
+LINE 107: extremely nice, but still I cannot eat."
+LINE 108: "I guess she's tired," said Matthew, who hadn't spoken since his return
+LINE 109: from the barn. "Best put her to bed, Marilla."
+LINE 110: Marilla had been wondering where Anne should be put to bed. She had
+LINE 111: prepared a couch in the kitchen chamber for the desired and expected
+LINE 112: boy. But, although it was neat and clean, it did not seem quite the
+LINE 113: thing to put a girl there somehow. But the spare room was out of the
+LINE 114: question for such a stray waif, so there remained only the east gable
+LINE 115: room. Marilla lighted a candle and told Anne to follow her, which Anne
+LINE 116: spiritlessly did, taking her hat and carpet-bag from the hall table as
+LINE 117: she passed. The hall was fearsomely clean; the little gable chamber in
+LINE 118: which she presently found herself seemed still cleaner.
+LINE 119: Marilla set the candle on a three-legged, three-cornered table and
+LINE 120: turned down the bedclothes.
+LINE 121: "I suppose you have a nightgown?" she questioned.
+LINE 122: Anne nodded.
+LINE 123: "Yes, I have two. The matron of the asylum made them for me. They're
+LINE 124: fearfully skimpy. There is never enough to go around in an asylum, so
+LINE 125: things are always skimpy--at least in a poor asylum like ours. I hate
+LINE 126: skimpy night-dresses. But one can dream just as well in them as
+LINE 127: in lovely trailing ones, with frills around the neck, that's one
+LINE 128: consolation."
+LINE 129: "Well, undress as quick as you can and go to bed. I'll come back in a
+LINE 130: few minutes for the candle. I daren't trust you to put it out yourself.
+LINE 131: You'd likely set the place on fire."
+LINE 132: When Marilla had gone Anne looked around her wistfully. The whitewashed
+LINE 133: walls were so painfully bare and staring that she thought they must ache
+LINE 134: over their own bareness. The floor was bare, too, except for a round
+LINE 135: braided mat in the middle such as Anne had never seen before. In
+LINE 136: one corner was the bed, a high, old-fashioned one, with four dark,
+LINE 137: low-turned posts. In the other corner was the aforesaid three-corner
+LINE 138: table adorned with a fat, red velvet pin-cushion hard enough to turn the
+LINE 139: point of the most adventurous pin. Above it hung a little six-by-eight
+LINE 140: mirror. Midway between table and bed was the window, with an icy white
+LINE 141: muslin frill over it, and opposite it was the wash-stand. The whole
+LINE 142: apartment was of a rigidity not to be described in words, but which
+LINE 143: sent a shiver to the very marrow of Anne's bones. With a sob she hastily
+LINE 144: discarded her garments, put on the skimpy nightgown and sprang into bed
+LINE 145: where she burrowed face downward into the pillow and pulled the clothes
+LINE 146: over her head. When Marilla came up for the light various skimpy
+LINE 147: articles of raiment scattered most untidily over the floor and a certain
+LINE 148: tempestuous appearance of the bed were the only indications of any
+LINE 149: presence save her own.
+LINE 150: She deliberately picked up Anne's clothes, placed them neatly on a prim
+LINE 151: yellow chair, and then, taking up the candle, went over to the bed.
+LINE 152: "Good night," she said, a little awkwardly, but not unkindly.
+LINE 153: Anne's white face and big eyes appeared over the bedclothes with a
+LINE 154: startling suddenness.
+LINE 155: "How can you call it a _good_ night when you know it must be the very
+LINE 156: worst night I've ever had?" she said reproachfully.
+LINE 157: Then she dived down into invisibility again.
+LINE 158: Marilla went slowly down to the kitchen and proceeded to wash the supper
+LINE 159: dishes. Matthew was smoking--a sure sign of perturbation of mind. He
+LINE 160: seldom smoked, for Marilla set her face against it as a filthy habit;
+LINE 161: but at certain times and seasons he felt driven to it and them Marilla
+LINE 162: winked at the practice, realizing that a mere man must have some vent
+LINE 163: for his emotions.
+LINE 164: "Well, this is a pretty kettle of fish," she said wrathfully. "This is
+LINE 165: what comes of sending word instead of going ourselves. Richard Spencer's
+LINE 166: folks have twisted that message somehow. One of us will have to drive
+LINE 167: over and see Mrs. Spencer tomorrow, that's certain. This girl will have
+LINE 168: to be sent back to the asylum."
+LINE 169: "Yes, I suppose so," said Matthew reluctantly.
+LINE 170: "You _suppose_ so! Don't you know it?"
+LINE 171: "Well now, she's a real nice little thing, Marilla. It's kind of a pity
+LINE 172: to send her back when she's so set on staying here."
+LINE 173: "Matthew Cuthbert, you don't mean to say you think we ought to keep
+LINE 174: her!"
+LINE 175: Marilla's astonishment could not have been greater if Matthew had
+LINE 176: expressed a predilection for standing on his head.
+LINE 177: "Well, now, no, I suppose not--not exactly," stammered Matthew,
+LINE 178: uncomfortably driven into a corner for his precise meaning. "I
+LINE 179: suppose--we could hardly be expected to keep her."
+LINE 180: "I should say not. What good would she be to us?"
+LINE 181: "We might be some good to her," said Matthew suddenly and unexpectedly.
+LINE 182: "Matthew Cuthbert, I believe that child has bewitched you! I can see as
+LINE 183: plain as plain that you want to keep her."
+LINE 184: "Well now, she's a real interesting little thing," persisted Matthew.
+LINE 185: "You should have heard her talk coming from the station."
+LINE 186: "Oh, she can talk fast enough. I saw that at once. It's nothing in her
+LINE 187: favour, either. I don't like children who have so much to say. I don't
+LINE 188: want an orphan girl and if I did she isn't the style I'd pick out.
+LINE 189: There's something I don't understand about her. No, she's got to be
+LINE 190: despatched straight-way back to where she came from."
+LINE 191: "I could hire a French boy to help me," said Matthew, "and she'd be
+LINE 192: company for you."
+LINE 193: "I'm not suffering for company," said Marilla shortly. "And I'm not
+LINE 194: going to keep her."
+LINE 195: "Well now, it's just as you say, of course, Marilla," said Matthew
+LINE 196: rising and putting his pipe away. "I'm going to bed."
+LINE 197: To bed went Matthew. And to bed, when she had put her dishes away, went
+LINE 198: Marilla, frowning most resolutely. And up-stairs, in the east gable, a
+LINE 199: lonely, heart-hungry, friendless child cried herself to sleep.

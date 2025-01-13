@@ -1,0 +1,428 @@
+LINE 1: I couldn't sleep all night; a foghorn was groaning incessantly on the
+LINE 2: Sound, and I tossed half-sick between grotesque reality and savage,
+LINE 3: frightening dreams. Toward dawn I heard a taxi go up Gatsby's drive,
+LINE 4: and immediately I jumped out of bed and began to dress—I felt that I
+LINE 5: had something to tell him, something to warn him about, and morning
+LINE 6: would be too late.
+LINE 7: Crossing his lawn, I saw that his front door was still open and he was
+LINE 8: leaning against a table in the hall, heavy with dejection or sleep.
+LINE 9: "Nothing happened," he said wanly. "I waited, and about four o'clock
+LINE 10: she came to the window and stood there for a minute and then turned
+LINE 11: out the light."
+LINE 12: His house had never seemed so enormous to me as it did that night when
+LINE 13: we hunted through the great rooms for cigarettes. We pushed aside
+LINE 14: curtains that were like pavilions, and felt over innumerable feet of
+LINE 15: dark wall for electric light switches—once I tumbled with a sort of
+LINE 16: splash upon the keys of a ghostly piano. There was an inexplicable
+LINE 17: amount of dust everywhere, and the rooms were musty, as though they
+LINE 18: hadn't been aired for many days. I found the humidor on an unfamiliar
+LINE 19: table, with two stale, dry cigarettes inside. Throwing open the French
+LINE 20: windows of the drawing-room, we sat smoking out into the darkness.
+LINE 21: "You ought to go away," I said. "It's pretty certain they'll trace
+LINE 22: your car."
+LINE 23: "Go away now, old sport?"
+LINE 24: "Go to Atlantic City for a week, or up to Montreal."
+LINE 25: He wouldn't consider it. He couldn't possibly leave Daisy until he
+LINE 26: knew what she was going to do. He was clutching at some last hope and
+LINE 27: I couldn't bear to shake him free.
+LINE 28: It was this night that he told me the strange story of his youth with
+LINE 29: Dan Cody—told it to me because "Jay Gatsby" had broken up like glass
+LINE 30: against Tom's hard malice, and the long secret extravaganza was played
+LINE 31: out. I think that he would have acknowledged anything now, without
+LINE 32: reserve, but he wanted to talk about Daisy.
+LINE 33: She was the first "nice" girl he had ever known. In various unrevealed
+LINE 34: capacities he had come in contact with such people, but always with
+LINE 35: indiscernible barbed wire between. He found her excitingly
+LINE 36: desirable. He went to her house, at first with other officers from
+LINE 37: Camp Taylor, then alone. It amazed him—he had never been in such a
+LINE 38: beautiful house before. But what gave it an air of breathless
+LINE 39: intensity, was that Daisy lived there—it was as casual a thing to her
+LINE 40: as his tent out at camp was to him. There was a ripe mystery about it,
+LINE 41: a hint of bedrooms upstairs more beautiful and cool than other
+LINE 42: bedrooms, of gay and radiant activities taking place through its
+LINE 43: corridors, and of romances that were not musty and laid away already
+LINE 44: in lavender but fresh and breathing and redolent of this year's
+LINE 45: shining motorcars and of dances whose flowers were scarcely
+LINE 46: withered. It excited him, too, that many men had already loved
+LINE 47: Daisy—it increased her value in his eyes. He felt their presence all
+LINE 48: about the house, pervading the air with the shades and echoes of still
+LINE 49: vibrant emotions.
+LINE 50: But he knew that he was in Daisy's house by a colossal
+LINE 51: accident. However glorious might be his future as Jay Gatsby, he was
+LINE 52: at present a penniless young man without a past, and at any moment the
+LINE 53: invisible cloak of his uniform might slip from his shoulders. So he
+LINE 54: made the most of his time. He took what he could get, ravenously and
+LINE 55: unscrupulously—eventually he took Daisy one still October night, took
+LINE 56: her because he had no real right to touch her hand.
+LINE 57: He might have despised himself, for he had certainly taken her under
+LINE 58: false pretences. I don't mean that he had traded on his phantom
+LINE 59: millions, but he had deliberately given Daisy a sense of security; he
+LINE 60: let her believe that he was a person from much the same strata as
+LINE 61: herself—that he was fully able to take care of her. As a matter of
+LINE 62: fact, he had no such facilities—he had no comfortable family standing
+LINE 63: behind him, and he was liable at the whim of an impersonal government
+LINE 64: to be blown anywhere about the world.
+LINE 65: But he didn't despise himself and it didn't turn out as he had
+LINE 66: imagined. He had intended, probably, to take what he could and go—but
+LINE 67: now he found that he had committed himself to the following of a
+LINE 68: grail. He knew that Daisy was extraordinary, but he didn't realize
+LINE 69: just how extraordinary a "nice" girl could be. She vanished into her
+LINE 70: rich house, into her rich, full life, leaving Gatsby—nothing. He felt
+LINE 71: married to her, that was all.
+LINE 72: When they met again, two days later, it was Gatsby who was breathless,
+LINE 73: who was, somehow, betrayed. Her porch was bright with the bought
+LINE 74: luxury of star-shine; the wicker of the settee squeaked fashionably as
+LINE 75: she turned toward him and he kissed her curious and lovely mouth. She
+LINE 76: had caught a cold, and it made her voice huskier and more charming
+LINE 77: than ever, and Gatsby was overwhelmingly aware of the youth and
+LINE 78: mystery that wealth imprisons and preserves, of the freshness of many
+LINE 79: clothes, and of Daisy, gleaming like silver, safe and proud above the
+LINE 80: hot struggles of the poor.
+LINE 81: ------------------------------------------------------------------------
+LINE 82: "I can't describe to you how surprised I was to find out I loved her,
+LINE 83: old sport. I even hoped for a while that she'd throw me over, but she
+LINE 84: didn't, because she was in love with me too. She thought I knew a lot
+LINE 85: because I knew different things from her … Well, there I was, way off
+LINE 86: my ambitions, getting deeper in love every minute, and all of a sudden
+LINE 87: I didn't care. What was the use of doing great things if I could have
+LINE 88: a better time telling her what I was going to do?"
+LINE 89: On the last afternoon before he went abroad, he sat with Daisy in his
+LINE 90: arms for a long, silent time. It was a cold fall day, with fire in the
+LINE 91: room and her cheeks flushed. Now and then she moved and he changed his
+LINE 92: arm a little, and once he kissed her dark shining hair. The afternoon
+LINE 93: had made them tranquil for a while, as if to give them a deep memory
+LINE 94: for the long parting the next day promised. They had never been closer
+LINE 95: in their month of love, nor communicated more profoundly one with
+LINE 96: another, than when she brushed silent lips against his coat's shoulder
+LINE 97: or when he touched the end of her fingers, gently, as though she were
+LINE 98: asleep.
+LINE 99: ------------------------------------------------------------------------
+LINE 100: He did extraordinarily well in the war. He was a captain before he
+LINE 101: went to the front, and following the Argonne battles he got his
+LINE 102: majority and the command of the divisional machine-guns. After the
+LINE 103: armistice he tried frantically to get home, but some complication or
+LINE 104: misunderstanding sent him to Oxford instead. He was worried now—there
+LINE 105: was a quality of nervous despair in Daisy's letters. She didn't see
+LINE 106: why he couldn't come. She was feeling the pressure of the world
+LINE 107: outside, and she wanted to see him and feel his presence beside her
+LINE 108: and be reassured that she was doing the right thing after all.
+LINE 109: For Daisy was young and her artificial world was redolent of orchids
+LINE 110: and pleasant, cheerful snobbery and orchestras which set the rhythm of
+LINE 111: the year, summing up the sadness and suggestiveness of life in new
+LINE 112: tunes. All night the saxophones wailed the hopeless comment of the
+LINE 113: "Beale Street Blues" while a hundred pairs of golden and silver
+LINE 114: slippers shuffled the shining dust. At the grey tea hour there were
+LINE 115: always rooms that throbbed incessantly with this low, sweet fever,
+LINE 116: while fresh faces drifted here and there like rose petals blown by the
+LINE 117: sad horns around the floor.
+LINE 118: Through this twilight universe Daisy began to move again with the
+LINE 119: season; suddenly she was again keeping half a dozen dates a day with
+LINE 120: half a dozen men, and drowsing asleep at dawn with the beads and
+LINE 121: chiffon of an evening-dress tangled among dying orchids on the floor
+LINE 122: beside her bed. And all the time something within her was crying for a
+LINE 123: decision. She wanted her life shaped now, immediately—and the decision
+LINE 124: must be made by some force—of love, of money, of unquestionable
+LINE 125: practicality—that was close at hand.
+LINE 126: That force took shape in the middle of spring with the arrival of Tom
+LINE 127: Buchanan. There was a wholesome bulkiness about his person and his
+LINE 128: position, and Daisy was flattered. Doubtless there was a certain
+LINE 129: struggle and a certain relief. The letter reached Gatsby while he was
+LINE 130: still at Oxford.
+LINE 131: ------------------------------------------------------------------------
+LINE 132: It was dawn now on Long Island and we went about opening the rest of
+LINE 133: the windows downstairs, filling the house with grey-turning,
+LINE 134: gold-turning light. The shadow of a tree fell abruptly across the dew
+LINE 135: and ghostly birds began to sing among the blue leaves. There was a
+LINE 136: slow, pleasant movement in the air, scarcely a wind, promising a cool,
+LINE 137: lovely day.
+LINE 138: "I don't think she ever loved him." Gatsby turned around from a window
+LINE 139: and looked at me challengingly. "You must remember, old sport, she was
+LINE 140: very excited this afternoon. He told her those things in a way that
+LINE 141: frightened her—that made it look as if I was some kind of cheap
+LINE 142: sharper. And the result was she hardly knew what she was saying."
+LINE 143: He sat down gloomily.
+LINE 144: "Of course she might have loved him just for a minute, when they were
+LINE 145: first married—and loved me more even then, do you see?"
+LINE 146: Suddenly he came out with a curious remark.
+LINE 147: "In any case," he said, "it was just personal."
+LINE 148: What could you make of that, except to suspect some intensity in his
+LINE 149: conception of the affair that couldn't be measured?
+LINE 150: He came back from France when Tom and Daisy were still on their
+LINE 151: wedding trip, and made a miserable but irresistible journey to
+LINE 152: Louisville on the last of his army pay. He stayed there a week,
+LINE 153: walking the streets where their footsteps had clicked together through
+LINE 154: the November night and revisiting the out-of-the-way places to which
+LINE 155: they had driven in her white car. Just as Daisy's house had always
+LINE 156: seemed to him more mysterious and gay than other houses, so his idea
+LINE 157: of the city itself, even though she was gone from it, was pervaded
+LINE 158: with a melancholy beauty.
+LINE 159: He left feeling that if he had searched harder, he might have found
+LINE 160: her—that he was leaving her behind. The day-coach—he was penniless
+LINE 161: now—was hot. He went out to the open vestibule and sat down on a
+LINE 162: folding-chair, and the station slid away and the backs of unfamiliar
+LINE 163: buildings moved by. Then out into the spring fields, where a yellow
+LINE 164: trolley raced them for a minute with people in it who might once have
+LINE 165: seen the pale magic of her face along the casual street.
+LINE 166: The track curved and now it was going away from the sun, which, as it
+LINE 167: sank lower, seemed to spread itself in benediction over the vanishing
+LINE 168: city where she had drawn her breath. He stretched out his hand
+LINE 169: desperately as if to snatch only a wisp of air, to save a fragment of
+LINE 170: the spot that she had made lovely for him. But it was all going by too
+LINE 171: fast now for his blurred eyes and he knew that he had lost that part
+LINE 172: of it, the freshest and the best, forever.
+LINE 173: It was nine o'clock when we finished breakfast and went out on the
+LINE 174: porch. The night had made a sharp difference in the weather and there
+LINE 175: was an autumn flavour in the air. The gardener, the last one of
+LINE 176: Gatsby's former servants, came to the foot of the steps.
+LINE 177: "I'm going to drain the pool today, Mr. Gatsby. Leaves'll start
+LINE 178: falling pretty soon, and then there's always trouble with the pipes."
+LINE 179: "Don't do it today," Gatsby answered. He turned to me apologetically.
+LINE 180: "You know, old sport, I've never used that pool all summer?"
+LINE 181: I looked at my watch and stood up.
+LINE 182: "Twelve minutes to my train."
+LINE 183: I didn't want to go to the city. I wasn't worth a decent stroke of
+LINE 184: work, but it was more than that—I didn't want to leave Gatsby. I
+LINE 185: missed that train, and then another, before I could get myself away.
+LINE 186: "I'll call you up," I said finally.
+LINE 187: "Do, old sport."
+LINE 188: "I'll call you about noon."
+LINE 189: We walked slowly down the steps.
+LINE 190: "I suppose Daisy'll call too." He looked at me anxiously, as if he
+LINE 191: hoped I'd corroborate this.
+LINE 192: "I suppose so."
+LINE 193: "Well, goodbye."
+LINE 194: We shook hands and I started away. Just before I reached the hedge I
+LINE 195: remembered something and turned around.
+LINE 196: "They're a rotten crowd," I shouted across the lawn. "You're worth the
+LINE 197: whole damn bunch put together."
+LINE 198: I've always been glad I said that. It was the only compliment I ever
+LINE 199: gave him, because I disapproved of him from beginning to end. First he
+LINE 200: nodded politely, and then his face broke into that radiant and
+LINE 201: understanding smile, as if we'd been in ecstatic cahoots on that fact
+LINE 202: all the time. His gorgeous pink rag of a suit made a bright spot of
+LINE 203: colour against the white steps, and I thought of the night when I
+LINE 204: first came to his ancestral home, three months before. The lawn and
+LINE 205: drive had been crowded with the faces of those who guessed at his
+LINE 206: corruption—and he had stood on those steps, concealing his
+LINE 207: incorruptible dream, as he waved them goodbye.
+LINE 208: I thanked him for his hospitality. We were always thanking him for
+LINE 209: that—I and the others.
+LINE 210: "Goodbye," I called. "I enjoyed breakfast, Gatsby."
+LINE 211: ------------------------------------------------------------------------
+LINE 212: Up in the city, I tried for a while to list the quotations on an
+LINE 213: interminable amount of stock, then I fell asleep in my swivel-chair.
+LINE 214: Just before noon the phone woke me, and I started up with sweat
+LINE 215: breaking out on my forehead. It was Jordan Baker; she often called me
+LINE 216: up at this hour because the uncertainty of her own movements between
+LINE 217: hotels and clubs and private houses made her hard to find in any other
+LINE 218: way. Usually her voice came over the wire as something fresh and cool,
+LINE 219: as if a divot from a green golf-links had come sailing in at the
+LINE 220: office window, but this morning it seemed harsh and dry.
+LINE 221: "I've left Daisy's house," she said. "I'm at Hempstead, and I'm going
+LINE 222: down to Southampton this afternoon."
+LINE 223: Probably it had been tactful to leave Daisy's house, but the act
+LINE 224: annoyed me, and her next remark made me rigid.
+LINE 225: "You weren't so nice to me last night."
+LINE 226: "How could it have mattered then?"
+LINE 227: Silence for a moment. Then:
+LINE 228: "However—I want to see you."
+LINE 229: "I want to see you, too."
+LINE 230: "Suppose I don't go to Southampton, and come into town this
+LINE 231: afternoon?"
+LINE 232: "No—I don't think this afternoon."
+LINE 233: "Very well."
+LINE 234: "It's impossible this afternoon. Various—"
+LINE 235: We talked like that for a while, and then abruptly we weren't talking
+LINE 236: any longer. I don't know which of us hung up with a sharp click, but I
+LINE 237: know I didn't care. I couldn't have talked to her across a tea-table
+LINE 238: that day if I never talked to her again in this world.
+LINE 239: I called Gatsby's house a few minutes later, but the line was busy. I
+LINE 240: tried four times; finally an exasperated central told me the wire was
+LINE 241: being kept open for long distance from Detroit. Taking out my
+LINE 242: timetable, I drew a small circle around the three-fifty train. Then I
+LINE 243: leaned back in my chair and tried to think. It was just noon.
+LINE 244: ------------------------------------------------------------------------
+LINE 245: When I passed the ash-heaps on the train that morning I had crossed
+LINE 246: deliberately to the other side of the car. I supposed there'd be a
+LINE 247: curious crowd around there all day with little boys searching for dark
+LINE 248: spots in the dust, and some garrulous man telling over and over what
+LINE 249: had happened, until it became less and less real even to him and he
+LINE 250: could tell it no longer, and Myrtle Wilson's tragic achievement was
+LINE 251: forgotten. Now I want to go back a little and tell what happened at
+LINE 252: the garage after we left there the night before.
+LINE 253: They had difficulty in locating the sister, Catherine. She must have
+LINE 254: broken her rule against drinking that night, for when she arrived she
+LINE 255: was stupid with liquor and unable to understand that the ambulance had
+LINE 256: already gone to Flushing. When they convinced her of this, she
+LINE 257: immediately fainted, as if that was the intolerable part of the
+LINE 258: affair. Someone, kind or curious, took her in his car and drove her in
+LINE 259: the wake of her sister's body.
+LINE 260: Until long after midnight a changing crowd lapped up against the front
+LINE 261: of the garage, while George Wilson rocked himself back and forth on
+LINE 262: the couch inside. For a while the door of the office was open, and
+LINE 263: everyone who came into the garage glanced irresistibly through it.
+LINE 264: Finally someone said it was a shame, and closed the door. Michaelis
+LINE 265: and several other men were with him; first, four or five men, later
+LINE 266: two or three men. Still later Michaelis had to ask the last stranger
+LINE 267: to wait there fifteen minutes longer, while he went back to his own
+LINE 268: place and made a pot of coffee. After that, he stayed there alone with
+LINE 269: Wilson until dawn.
+LINE 270: About three o'clock the quality of Wilson's incoherent muttering
+LINE 271: changed—he grew quieter and began to talk about the yellow car. He
+LINE 272: announced that he had a way of finding out whom the yellow car
+LINE 273: belonged to, and then he blurted out that a couple of months ago his
+LINE 274: wife had come from the city with her face bruised and her nose
+LINE 275: swollen.
+LINE 276: But when he heard himself say this, he flinched and began to cry "Oh,
+LINE 277: my God!" again in his groaning voice. Michaelis made a clumsy attempt
+LINE 278: to distract him.
+LINE 279: "How long have you been married, George? Come on there, try and sit
+LINE 280: still a minute, and answer my question. How long have you been
+LINE 281: married?"
+LINE 282: "Twelve years."
+LINE 283: "Ever had any children? Come on, George, sit still—I asked you a
+LINE 284: question. Did you ever have any children?"
+LINE 285: The hard brown beetles kept thudding against the dull light, and
+LINE 286: whenever Michaelis heard a car go tearing along the road outside it
+LINE 287: sounded to him like the car that hadn't stopped a few hours before.
+LINE 288: He didn't like to go into the garage, because the work bench was
+LINE 289: stained where the body had been lying, so he moved uncomfortably
+LINE 290: around the office—he knew every object in it before morning—and from
+LINE 291: time to time sat down beside Wilson trying to keep him more quiet.
+LINE 292: "Have you got a church you go to sometimes, George? Maybe even if you
+LINE 293: haven't been there for a long time? Maybe I could call up the church
+LINE 294: and get a priest to come over and he could talk to you, see?"
+LINE 295: "Don't belong to any."
+LINE 296: "You ought to have a church, George, for times like this. You must
+LINE 297: have gone to church once. Didn't you get married in a church? Listen,
+LINE 298: George, listen to me. Didn't you get married in a church?"
+LINE 299: "That was a long time ago."
+LINE 300: The effort of answering broke the rhythm of his rocking—for a moment
+LINE 301: he was silent. Then the same half-knowing, half-bewildered look came
+LINE 302: back into his faded eyes.
+LINE 303: "Look in the drawer there," he said, pointing at the desk.
+LINE 304: "Which drawer?"
+LINE 305: "That drawer—that one."
+LINE 306: Michaelis opened the drawer nearest his hand. There was nothing in it
+LINE 307: but a small, expensive dog-leash, made of leather and braided
+LINE 308: silver. It was apparently new.
+LINE 309: "This?" he inquired, holding it up.
+LINE 310: Wilson stared and nodded.
+LINE 311: "I found it yesterday afternoon. She tried to tell me about it, but I
+LINE 312: knew it was something funny."
+LINE 313: "You mean your wife bought it?"
+LINE 314: "She had it wrapped in tissue paper on her bureau."
+LINE 315: Michaelis didn't see anything odd in that, and he gave Wilson a dozen
+LINE 316: reasons why his wife might have bought the dog-leash. But conceivably
+LINE 317: Wilson had heard some of these same explanations before, from Myrtle,
+LINE 318: because he began saying "Oh, my God!" again in a whisper—his comforter
+LINE 319: left several explanations in the air.
+LINE 320: "Then he killed her," said Wilson. His mouth dropped open suddenly.
+LINE 321: "Who did?"
+LINE 322: "I have a way of finding out."
+LINE 323: "You're morbid, George," said his friend. "This has been a strain to
+LINE 324: you and you don't know what you're saying. You'd better try and sit
+LINE 325: quiet till morning."
+LINE 326: "He murdered her."
+LINE 327: "It was an accident, George."
+LINE 328: Wilson shook his head. His eyes narrowed and his mouth widened
+LINE 329: slightly with the ghost of a superior "Hm!"
+LINE 330: "I know," he said definitely. "I'm one of these trusting fellas and I
+LINE 331: don't think any harm to nobody, but when I get to know a thing I know
+LINE 332: it. It was the man in that car. She ran out to speak to him and he
+LINE 333: wouldn't stop."
+LINE 334: Michaelis had seen this too, but it hadn't occurred to him that there
+LINE 335: was any special significance in it. He believed that Mrs. Wilson had
+LINE 336: been running away from her husband, rather than trying to stop any
+LINE 337: particular car.
+LINE 338: "How could she of been like that?"
+LINE 339: "She's a deep one," said Wilson, as if that answered the question.
+LINE 340: "Ah-h-h—"
+LINE 341: He began to rock again, and Michaelis stood twisting the leash in his
+LINE 342: hand.
+LINE 343: "Maybe you got some friend that I could telephone for, George?"
+LINE 344: This was a forlorn hope—he was almost sure that Wilson had no friend:
+LINE 345: there was not enough of him for his wife. He was glad a little later
+LINE 346: when he noticed a change in the room, a blue quickening by the window,
+LINE 347: and realized that dawn wasn't far off. About five o'clock it was blue
+LINE 348: enough outside to snap off the light.
+LINE 349: Wilson's glazed eyes turned out to the ash-heaps, where small grey
+LINE 350: clouds took on fantastic shapes and scurried here and there in the
+LINE 351: faint dawn wind.
+LINE 352: "I spoke to her," he muttered, after a long silence. "I told her she
+LINE 353: might fool me but she couldn't fool God. I took her to the
+LINE 354: window"—with an effort he got up and walked to the rear window and
+LINE 355: leaned with his face pressed against it—"and I said 'God knows what
+LINE 356: you've been doing, everything you've been doing. You may fool me, but
+LINE 357: you can't fool God!' "
+LINE 358: Standing behind him, Michaelis saw with a shock that he was looking at
+LINE 359: the eyes of Doctor T. J. Eckleburg, which had just emerged, pale and
+LINE 360: enormous, from the dissolving night.
+LINE 361: "God sees everything," repeated Wilson.
+LINE 362: "That's an advertisement," Michaelis assured him. Something made him
+LINE 363: turn away from the window and look back into the room. But Wilson
+LINE 364: stood there a long time, his face close to the window pane, nodding
+LINE 365: into the twilight.
+LINE 366: ------------------------------------------------------------------------
+LINE 367: By six o'clock Michaelis was worn out, and grateful for the sound of a
+LINE 368: car stopping outside. It was one of the watchers of the night before
+LINE 369: who had promised to come back, so he cooked breakfast for three, which
+LINE 370: he and the other man ate together. Wilson was quieter now, and
+LINE 371: Michaelis went home to sleep; when he awoke four hours later and
+LINE 372: hurried back to the garage, Wilson was gone.
+LINE 373: His movements—he was on foot all the time—were afterward traced to
+LINE 374: Port Roosevelt and then to Gad's Hill, where he bought a sandwich that
+LINE 375: he didn't eat, and a cup of coffee. He must have been tired and
+LINE 376: walking slowly, for he didn't reach Gad's Hill until noon. Thus far
+LINE 377: there was no difficulty in accounting for his time—there were boys who
+LINE 378: had seen a man "acting sort of crazy," and motorists at whom he stared
+LINE 379: oddly from the side of the road. Then for three hours he disappeared
+LINE 380: from view. The police, on the strength of what he said to Michaelis,
+LINE 381: that he "had a way of finding out," supposed that he spent that time
+LINE 382: going from garage to garage thereabout, inquiring for a yellow car. On
+LINE 383: the other hand, no garage man who had seen him ever came forward, and
+LINE 384: perhaps he had an easier, surer way of finding out what he wanted to
+LINE 385: know. By half-past two he was in West Egg, where he asked someone the
+LINE 386: way to Gatsby's house. So by that time he knew Gatsby's name.
+LINE 387: ------------------------------------------------------------------------
+LINE 388: At two o'clock Gatsby put on his bathing-suit and left word with the
+LINE 389: butler that if anyone phoned word was to be brought to him at the
+LINE 390: pool. He stopped at the garage for a pneumatic mattress that had
+LINE 391: amused his guests during the summer, and the chauffeur helped him to
+LINE 392: pump it up. Then he gave instructions that the open car wasn't to be
+LINE 393: taken out under any circumstances—and this was strange, because the
+LINE 394: front right fender needed repair.
+LINE 395: Gatsby shouldered the mattress and started for the pool. Once he
+LINE 396: stopped and shifted it a little, and the chauffeur asked him if he
+LINE 397: needed help, but he shook his head and in a moment disappeared among
+LINE 398: the yellowing trees.
+LINE 399: No telephone message arrived, but the butler went without his sleep
+LINE 400: and waited for it until four o'clock—until long after there was anyone
+LINE 401: to give it to if it came. I have an idea that Gatsby himself didn't
+LINE 402: believe it would come, and perhaps he no longer cared. If that was
+LINE 403: true he must have felt that he had lost the old warm world, paid a
+LINE 404: high price for living too long with a single dream. He must have
+LINE 405: looked up at an unfamiliar sky through frightening leaves and shivered
+LINE 406: as he found what a grotesque thing a rose is and how raw the sunlight
+LINE 407: was upon the scarcely created grass. A new world, material without
+LINE 408: being real, where poor ghosts, breathing dreams like air, drifted
+LINE 409: fortuitously about … like that ashen, fantastic figure gliding toward
+LINE 410: him through the amorphous trees.
+LINE 411: The chauffeur—he was one of Wolfshiem's protégés—heard the
+LINE 412: shots—afterwards he could only say that he hadn't thought anything
+LINE 413: much about them. I drove from the station directly to Gatsby's house
+LINE 414: and my rushing anxiously up the front steps was the first thing that
+LINE 415: alarmed anyone. But they knew then, I firmly believe. With scarcely a
+LINE 416: word said, four of us, the chauffeur, butler, gardener, and I hurried
+LINE 417: down to the pool.
+LINE 418: There was a faint, barely perceptible movement of the water as the
+LINE 419: fresh flow from one end urged its way toward the drain at the other.
+LINE 420: With little ripples that were hardly the shadows of waves, the laden
+LINE 421: mattress moved irregularly down the pool. A small gust of wind that
+LINE 422: scarcely corrugated the surface was enough to disturb its accidental
+LINE 423: course with its accidental burden. The touch of a cluster of leaves
+LINE 424: revolved it slowly, tracing, like the leg of transit, a thin red
+LINE 425: circle in the water.
+LINE 426: It was after we started with Gatsby toward the house that the gardener
+LINE 427: saw Wilson's body a little way off in the grass, and the holocaust was
+LINE 428: complete.

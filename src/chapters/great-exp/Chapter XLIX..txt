@@ -1,0 +1,310 @@
+LINE 1: Putting Miss Havisham's note in my pocket, that it might serve as my
+LINE 2: credentials for so soon reappearing at Satis House, in case her
+LINE 3: waywardness should lead her to express any surprise at seeing me, I
+LINE 4: went down again by the coach next day. But I alighted at the Halfway
+LINE 5: House, and breakfasted there, and walked the rest of the distance; for
+LINE 6: I sought to get into the town quietly by the unfrequented ways, and to
+LINE 7: leave it in the same manner.
+LINE 8: The best light of the day was gone when I passed along the quiet
+LINE 9: echoing courts behind the High Street. The nooks of ruin where the old
+LINE 10: monks had once had their refectories and gardens, and where the strong
+LINE 11: walls were now pressed into the service of humble sheds and stables,
+LINE 12: were almost as silent as the old monks in their graves. The cathedral
+LINE 13: chimes had at once a sadder and a more remote sound to me, as I hurried
+LINE 14: on avoiding observation, than they had ever had before; so, the swell
+LINE 15: of the old organ was borne to my ears like funeral music; and the
+LINE 16: rooks, as they hovered about the grey tower and swung in the bare high
+LINE 17: trees of the priory garden, seemed to call to me that the place was
+LINE 18: changed, and that Estella was gone out of it for ever.
+LINE 19: An elderly woman, whom I had seen before as one of the servants who
+LINE 20: lived in the supplementary house across the back courtyard, opened the
+LINE 21: gate. The lighted candle stood in the dark passage within, as of old,
+LINE 22: and I took it up and ascended the staircase alone. Miss Havisham was
+LINE 23: not in her own room, but was in the larger room across the landing.
+LINE 24: Looking in at the door, after knocking in vain, I saw her sitting on
+LINE 25: the hearth in a ragged chair, close before, and lost in the
+LINE 26: contemplation of, the ashy fire.
+LINE 27: Doing as I had often done, I went in, and stood touching the old
+LINE 28: chimney-piece, where she could see me when she raised her eyes. There
+LINE 29: was an air of utter loneliness upon her, that would have moved me to
+LINE 30: pity though she had wilfully done me a deeper injury than I could
+LINE 31: charge her with. As I stood compassionating her, and thinking how, in
+LINE 32: the progress of time, I too had come to be a part of the wrecked
+LINE 33: fortunes of that house, her eyes rested on me. She stared, and said in
+LINE 34: a low voice, "Is it real?"
+LINE 35: "It is I, Pip. Mr. Jaggers gave me your note yesterday, and I have lost
+LINE 36: no time."
+LINE 37: "Thank you. Thank you."
+LINE 38: As I brought another of the ragged chairs to the hearth and sat down, I
+LINE 39: remarked a new expression on her face, as if she were afraid of me.
+LINE 40: "I want," she said, "to pursue that subject you mentioned to me when
+LINE 41: you were last here, and to show you that I am not all stone. But
+LINE 42: perhaps you can never believe, now, that there is anything human in my
+LINE 43: heart?"
+LINE 44: When I said some reassuring words, she stretched out her tremulous
+LINE 45: right hand, as though she was going to touch me; but she recalled it
+LINE 46: again before I understood the action, or knew how to receive it.
+LINE 47: "You said, speaking for your friend, that you could tell me how to do
+LINE 48: something useful and good. Something that you would like done, is it
+LINE 49: not?"
+LINE 50: "Something that I would like done very much."
+LINE 51: "What is it?"
+LINE 52: I began explaining to her that secret history of the partnership. I had
+LINE 53: not got far into it, when I judged from her looks that she was thinking
+LINE 54: in a discursive way of me, rather than of what I said. It seemed to be
+LINE 55: so; for, when I stopped speaking, many moments passed before she showed
+LINE 56: that she was conscious of the fact.
+LINE 57: "Do you break off," she asked then, with her former air of being afraid
+LINE 58: of me, "because you hate me too much to bear to speak to me?"
+LINE 59: "No, no," I answered, "how can you think so, Miss Havisham! I stopped
+LINE 60: because I thought you were not following what I said."
+LINE 61: "Perhaps I was not," she answered, putting a hand to her head. "Begin
+LINE 62: again, and let me look at something else. Stay! Now tell me."
+LINE 63: She set her hand upon her stick in the resolute way that sometimes was
+LINE 64: habitual to her, and looked at the fire with a strong expression of
+LINE 65: forcing herself to attend. I went on with my explanation, and told her
+LINE 66: how I had hoped to complete the transaction out of my means, but how in
+LINE 67: this I was disappointed. That part of the subject (I reminded her)
+LINE 68: involved matters which could form no part of my explanation, for they
+LINE 69: were the weighty secrets of another.
+LINE 70: "So!" said she, assenting with her head, but not looking at me. "And
+LINE 71: how much money is wanting to complete the purchase?"
+LINE 72: I was rather afraid of stating it, for it sounded a large sum. "Nine
+LINE 73: hundred pounds."
+LINE 74: "If I give you the money for this purpose, will you keep my secret as
+LINE 75: you have kept your own?"
+LINE 76: "Quite as faithfully."
+LINE 77: "And your mind will be more at rest?"
+LINE 78: "Much more at rest."
+LINE 79: "Are you very unhappy now?"
+LINE 80: She asked this question, still without looking at me, but in an
+LINE 81: unwonted tone of sympathy. I could not reply at the moment, for my
+LINE 82: voice failed me. She put her left arm across the head of her stick, and
+LINE 83: softly laid her forehead on it.
+LINE 84: "I am far from happy, Miss Havisham; but I have other causes of
+LINE 85: disquiet than any you know of. They are the secrets I have mentioned."
+LINE 86: After a little while, she raised her head, and looked at the fire
+LINE 87: again.
+LINE 88: "It is noble in you to tell me that you have other causes of
+LINE 89: unhappiness. Is it true?"
+LINE 90: "Too true."
+LINE 91: "Can I only serve you, Pip, by serving your friend? Regarding that as
+LINE 92: done, is there nothing I can do for you yourself?"
+LINE 93: "Nothing. I thank you for the question. I thank you even more for the
+LINE 94: tone of the question. But there is nothing."
+LINE 95: She presently rose from her seat, and looked about the blighted room
+LINE 96: for the means of writing. There were none there, and she took from her
+LINE 97: pocket a yellow set of ivory tablets, mounted in tarnished gold, and
+LINE 98: wrote upon them with a pencil in a case of tarnished gold that hung
+LINE 99: from her neck.
+LINE 100: "You are still on friendly terms with Mr. Jaggers?"
+LINE 101: "Quite. I dined with him yesterday."
+LINE 102: "This is an authority to him to pay you that money, to lay out at your
+LINE 103: irresponsible discretion for your friend. I keep no money here; but if
+LINE 104: you would rather Mr. Jaggers knew nothing of the matter, I will send it
+LINE 105: to you."
+LINE 106: "Thank you, Miss Havisham; I have not the least objection to receiving
+LINE 107: it from him."
+LINE 108: She read me what she had written; and it was direct and clear, and
+LINE 109: evidently intended to absolve me from any suspicion of profiting by the
+LINE 110: receipt of the money. I took the tablets from her hand, and it trembled
+LINE 111: again, and it trembled more as she took off the chain to which the
+LINE 112: pencil was attached, and put it in mine. All this she did without
+LINE 113: looking at me.
+LINE 114: "My name is on the first leaf. If you can ever write under my name, "I
+LINE 115: forgive her," though ever so long after my broken heart is dust pray do
+LINE 116: it!"
+LINE 117: "O Miss Havisham," said I, "I can do it now. There have been sore
+LINE 118: mistakes; and my life has been a blind and thankless one; and I want
+LINE 119: forgiveness and direction far too much, to be bitter with you."
+LINE 120: She turned her face to me for the first time since she had averted it,
+LINE 121: and, to my amazement, I may even add to my terror, dropped on her knees
+LINE 122: at my feet; with her folded hands raised to me in the manner in which,
+LINE 123: when her poor heart was young and fresh and whole, they must often have
+LINE 124: been raised to heaven from her mother's side.
+LINE 125: To see her with her white hair and her worn face kneeling at my feet
+LINE 126: gave me a shock through all my frame. I entreated her to rise, and got
+LINE 127: my arms about her to help her up; but she only pressed that hand of
+LINE 128: mine which was nearest to her grasp, and hung her head over it and
+LINE 129: wept. I had never seen her shed a tear before, and, in the hope that
+LINE 130: the relief might do her good, I bent over her without speaking. She was
+LINE 131: not kneeling now, but was down upon the ground.
+LINE 132: "O!" she cried, despairingly. "What have I done! What have I done!"
+LINE 133: "If you mean, Miss Havisham, what have you done to injure me, let me
+LINE 134: answer. Very little. I should have loved her under any circumstances.
+LINE 135: Is she married?"
+LINE 136: "Yes."
+LINE 137: It was a needless question, for a new desolation in the desolate house
+LINE 138: had told me so.
+LINE 139: "What have I done! What have I done!" She wrung her hands, and crushed
+LINE 140: her white hair, and returned to this cry over and over again. "What
+LINE 141: have I done!"
+LINE 142: I knew not how to answer, or how to comfort her. That she had done a
+LINE 143: grievous thing in taking an impressionable child to mould into the form
+LINE 144: that her wild resentment, spurned affection, and wounded pride found
+LINE 145: vengeance in, I knew full well. But that, in shutting out the light of
+LINE 146: day, she had shut out infinitely more; that, in seclusion, she had
+LINE 147: secluded herself from a thousand natural and healing influences; that,
+LINE 148: her mind, brooding solitary, had grown diseased, as all minds do and
+LINE 149: must and will that reverse the appointed order of their Maker, I knew
+LINE 150: equally well. And could I look upon her without compassion, seeing her
+LINE 151: punishment in the ruin she was, in her profound unfitness for this
+LINE 152: earth on which she was placed, in the vanity of sorrow which had become
+LINE 153: a master mania, like the vanity of penitence, the vanity of remorse,
+LINE 154: the vanity of unworthiness, and other monstrous vanities that have been
+LINE 155: curses in this world?
+LINE 156: "Until you spoke to her the other day, and until I saw in you a
+LINE 157: looking-glass that showed me what I once felt myself, I did not know
+LINE 158: what I had done. What have I done! What have I done!" And so again,
+LINE 159: twenty, fifty times over, What had she done!
+LINE 160: "Miss Havisham," I said, when her cry had died away, "you may dismiss
+LINE 161: me from your mind and conscience. But Estella is a different case, and
+LINE 162: if you can ever undo any scrap of what you have done amiss in keeping a
+LINE 163: part of her right nature away from her, it will be better to do that
+LINE 164: than to bemoan the past through a hundred years."
+LINE 165: "Yes, yes, I know it. But, Pip—my dear!" There was an earnest womanly
+LINE 166: compassion for me in her new affection. "My dear! Believe this: when
+LINE 167: she first came to me, I meant to save her from misery like my own. At
+LINE 168: first, I meant no more."
+LINE 169: "Well, well!" said I. "I hope so."
+LINE 170: "But as she grew, and promised to be very beautiful, I gradually did
+LINE 171: worse, and with my praises, and with my jewels, and with my teachings,
+LINE 172: and with this figure of myself always before her, a warning to back and
+LINE 173: point my lessons, I stole her heart away, and put ice in its place."
+LINE 174: "Better," I could not help saying, "to have left her a natural heart,
+LINE 175: even to be bruised or broken."
+LINE 176: With that, Miss Havisham looked distractedly at me for a while, and
+LINE 177: then burst out again, What had she done!
+LINE 178: "If you knew all my story," she pleaded, "you would have some
+LINE 179: compassion for me and a better understanding of me."
+LINE 180: "Miss Havisham," I answered, as delicately as I could, "I believe I may
+LINE 181: say that I do know your story, and have known it ever since I first
+LINE 182: left this neighbourhood. It has inspired me with great commiseration,
+LINE 183: and I hope I understand it and its influences. Does what has passed
+LINE 184: between us give me any excuse for asking you a question relative to
+LINE 185: Estella? Not as she is, but as she was when she first came here?"
+LINE 186: She was seated on the ground, with her arms on the ragged chair, and
+LINE 187: her head leaning on them. She looked full at me when I said this, and
+LINE 188: replied, "Go on."
+LINE 189: "Whose child was Estella?"
+LINE 190: She shook her head.
+LINE 191: "You don't know?"
+LINE 192: She shook her head again.
+LINE 193: "But Mr. Jaggers brought her here, or sent her here?"
+LINE 194: "Brought her here."
+LINE 195: "Will you tell me how that came about?"
+LINE 196: She answered in a low whisper and with caution: "I had been shut up in
+LINE 197: these rooms a long time (I don't know how long; you know what time the
+LINE 198: clocks keep here), when I told him that I wanted a little girl to rear
+LINE 199: and love, and save from my fate. I had first seen him when I sent for
+LINE 200: him to lay this place waste for me; having read of him in the
+LINE 201: newspapers, before I and the world parted. He told me that he would
+LINE 202: look about him for such an orphan child. One night he brought her here
+LINE 203: asleep, and I called her Estella."
+LINE 204: "Might I ask her age then?"
+LINE 205: "Two or three. She herself knows nothing, but that she was left an
+LINE 206: orphan and I adopted her."
+LINE 207: So convinced I was of that woman's being her mother, that I wanted no
+LINE 208: evidence to establish the fact in my own mind. But, to any mind, I
+LINE 209: thought, the connection here was clear and straight.
+LINE 210: What more could I hope to do by prolonging the interview? I had
+LINE 211: succeeded on behalf of Herbert, Miss Havisham had told me all she knew
+LINE 212: of Estella, I had said and done what I could to ease her mind. No
+LINE 213: matter with what other words we parted; we parted.
+LINE 214: Twilight was closing in when I went downstairs into the natural air. I
+LINE 215: called to the woman who had opened the gate when I entered, that I
+LINE 216: would not trouble her just yet, but would walk round the place before
+LINE 217: leaving. For I had a presentiment that I should never be there again,
+LINE 218: and I felt that the dying light was suited to my last view of it.
+LINE 219: By the wilderness of casks that I had walked on long ago, and on which
+LINE 220: the rain of years had fallen since, rotting them in many places, and
+LINE 221: leaving miniature swamps and pools of water upon those that stood on
+LINE 222: end, I made my way to the ruined garden. I went all round it; round by
+LINE 223: the corner where Herbert and I had fought our battle; round by the
+LINE 224: paths where Estella and I had walked. So cold, so lonely, so dreary
+LINE 225: all!
+LINE 226: Taking the brewery on my way back, I raised the rusty latch of a little
+LINE 227: door at the garden end of it, and walked through. I was going out at
+LINE 228: the opposite door,—not easy to open now, for the damp wood had started
+LINE 229: and swelled, and the hinges were yielding, and the threshold was
+LINE 230: encumbered with a growth of fungus,—when I turned my head to look back.
+LINE 231: A childish association revived with wonderful force in the moment of
+LINE 232: the slight action, and I fancied that I saw Miss Havisham hanging to
+LINE 233: the beam. So strong was the impression, that I stood under the beam
+LINE 234: shuddering from head to foot before I knew it was a fancy,—though to be
+LINE 235: sure I was there in an instant.
+LINE 236: The mournfulness of the place and time, and the great terror of this
+LINE 237: illusion, though it was but momentary, caused me to feel an
+LINE 238: indescribable awe as I came out between the open wooden gates where I
+LINE 239: had once wrung my hair after Estella had wrung my heart. Passing on
+LINE 240: into the front courtyard, I hesitated whether to call the woman to let
+LINE 241: me out at the locked gate of which she had the key, or first to go
+LINE 242: upstairs and assure myself that Miss Havisham was as safe and well as I
+LINE 243: had left her. I took the latter course and went up.
+LINE 244: I looked into the room where I had left her, and I saw her seated in
+LINE 245: the ragged chair upon the hearth close to the fire, with her back
+LINE 246: towards me. In the moment when I was withdrawing my head to go quietly
+LINE 247: away, I saw a great flaming light spring up. In the same moment I saw
+LINE 248: her running at me, shrieking, with a whirl of fire blazing all about
+LINE 249: her, and soaring at least as many feet above her head as she was high.
+LINE 250: I had a double-caped great-coat on, and over my arm another thick coat.
+LINE 251: That I got them off, closed with her, threw her down, and got them over
+LINE 252: her; that I dragged the great cloth from the table for the same
+LINE 253: purpose, and with it dragged down the heap of rottenness in the midst,
+LINE 254: and all the ugly things that sheltered there; that we were on the
+LINE 255: ground struggling like desperate enemies, and that the closer I covered
+LINE 256: her, the more wildly she shrieked and tried to free herself,—that this
+LINE 257: occurred I knew through the result, but not through anything I felt, or
+LINE 258: thought, or knew I did. I knew nothing until I knew that we were on the
+LINE 259: floor by the great table, and that patches of tinder yet alight were
+LINE 260: floating in the smoky air, which, a moment ago, had been her faded
+LINE 261: bridal dress.
+LINE 262: Then, I looked round and saw the disturbed beetles and spiders running
+LINE 263: away over the floor, and the servants coming in with breathless cries
+LINE 264: at the door. I still held her forcibly down with all my strength, like
+LINE 265: a prisoner who might escape; and I doubt if I even knew who she was, or
+LINE 266: why we had struggled, or that she had been in flames, or that the
+LINE 267: flames were out, until I saw the patches of tinder that had been her
+LINE 268: garments no longer alight but falling in a black shower around us.
+LINE 269: She was insensible, and I was afraid to have her moved, or even
+LINE 270: touched. Assistance was sent for, and I held her until it came, as if I
+LINE 271: unreasonably fancied (I think I did) that, if I let her go, the fire
+LINE 272: would break out again and consume her. When I got up, on the surgeon's
+LINE 273: coming to her with other aid, I was astonished to see that both my
+LINE 274: hands were burnt; for, I had no knowledge of it through the sense of
+LINE 275: feeling.
+LINE 276: On examination it was pronounced that she had received serious hurts,
+LINE 277: but that they of themselves were far from hopeless; the danger lay
+LINE 278: mainly in the nervous shock. By the surgeon's directions, her bed was
+LINE 279: carried into that room and laid upon the great table, which happened to
+LINE 280: be well suited to the dressing of her injuries. When I saw her again,
+LINE 281: an hour afterwards, she lay, indeed, where I had seen her strike her
+LINE 282: stick, and had heard her say that she would lie one day.
+LINE 283: Though every vestige of her dress was burnt, as they told me, she still
+LINE 284: had something of her old ghastly bridal appearance; for, they had
+LINE 285: covered her to the throat with white cotton-wool, and as she lay with a
+LINE 286: white sheet loosely overlying that, the phantom air of something that
+LINE 287: had been and was changed was still upon her.
+LINE 288: I found, on questioning the servants, that Estella was in Paris, and I
+LINE 289: got a promise from the surgeon that he would write to her by the next
+LINE 290: post. Miss Havisham's family I took upon myself; intending to
+LINE 291: communicate with Mr. Matthew Pocket only, and leave him to do as he
+LINE 292: liked about informing the rest. This I did next day, through Herbert,
+LINE 293: as soon as I returned to town.
+LINE 294: There was a stage, that evening, when she spoke collectedly of what had
+LINE 295: happened, though with a certain terrible vivacity. Towards midnight she
+LINE 296: began to wander in her speech; and after that it gradually set in that
+LINE 297: she said innumerable times in a low solemn voice, "What have I done!"
+LINE 298: And then, "When she first came, I meant to save her from misery like
+LINE 299: mine." And then, "Take the pencil and write under my name, 'I forgive
+LINE 300: her!'" She never changed the order of these three sentences, but she
+LINE 301: sometimes left out a word in one or other of them; never putting in
+LINE 302: another word, but always leaving a blank and going on to the next word.
+LINE 303: As I could do no service there, and as I had, nearer home, that
+LINE 304: pressing reason for anxiety and fear which even her wanderings could
+LINE 305: not drive out of my mind, I decided, in the course of the night that I
+LINE 306: would return by the early morning coach, walking on a mile or so, and
+LINE 307: being taken up clear of the town. At about six o'clock of the morning,
+LINE 308: therefore, I leaned over her and touched her lips with mine, just as
+LINE 309: they said, not stopping for being touched, "Take the pencil and write
+LINE 310: under my name, 'I forgive her.'"

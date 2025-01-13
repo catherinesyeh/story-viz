@@ -1,0 +1,146 @@
+LINE 1: Mr. Collins was not a sensible man, and the deficiency of nature had
+LINE 2: been but little assisted by education or society; the greatest part of
+LINE 3: his life having been spent under the guidance of an illiterate and
+LINE 4: miserly father; and though he belonged to one of the universities, he
+LINE 5: had merely kept the necessary terms, without forming at it any useful
+LINE 6: acquaintance. The subjection in which his father had brought him up, had
+LINE 7: given him originally great humility of manner, but it was now a good
+LINE 8: deal counteracted by the self-conceit of a weak head, living in
+LINE 9: retirement, and the consequential feelings of early and unexpected
+LINE 10: prosperity. A fortunate chance had recommended him to Lady Catherine de
+LINE 11: Bourgh when the living of Hunsford was vacant; and the respect which he
+LINE 12: felt for her high rank, and his veneration for her as his patroness,
+LINE 13: mingling with a very good opinion of himself, of his authority as a
+LINE 14: clergyman, and his rights as a rector, made him altogether a mixture of
+LINE 15: pride and obsequiousness, self-importance and humility.
+LINE 16: Having now a good house and very sufficient income, he intended to
+LINE 17: marry; and in seeking a reconciliation with the Longbourn family he had
+LINE 18: a wife in view, as he meant to chuse one of the daughters, if he found
+LINE 19: them as handsome and amiable as they were represented by common report.
+LINE 20: This was his plan of amends--of atonement--for inheriting their father's
+LINE 21: estate; and he thought it an excellent one, full of eligibility and
+LINE 22: suitableness, and excessively generous and disinterested on his own
+LINE 23: part.
+LINE 24: His plan did not vary on seeing them.--Miss Bennet's lovely face
+LINE 25: confirmed his views, and established all his strictest notions of what
+LINE 26: was due to seniority; and for the first evening _she_ was his settled
+LINE 27: choice. The next morning, however, made an alteration; for in a quarter
+LINE 28: of an hour's tête-à-tête with Mrs. Bennet before breakfast, a
+LINE 29: conversation beginning with his parsonage-house, and leading naturally
+LINE 30: to the avowal of his hopes, that a mistress for it might be found at
+LINE 31: Longbourn, produced from her, amid very complaisant smiles and general
+LINE 32: encouragement, a caution against the very Jane he had fixed on.--"As to
+LINE 33: her _younger_ daughters she could not take upon her to say--she could
+LINE 34: not positively answer--but she did not _know_ of any prepossession;--her
+LINE 35: _eldest_ daughter, she must just mention--she felt it incumbent on her
+LINE 36: to hint, was likely to be very soon engaged."
+LINE 37: Mr. Collins had only to change from Jane to Elizabeth--and it was soon
+LINE 38: done--done while Mrs. Bennet was stirring the fire. Elizabeth, equally
+LINE 39: next to Jane in birth and beauty, succeeded her of course.
+LINE 40: Mrs. Bennet treasured up the hint, and trusted that she might soon have
+LINE 41: two daughters married; and the man whom she could not bear to speak of
+LINE 42: the day before, was now high in her good graces.
+LINE 43: Lydia's intention of walking to Meryton was not forgotten; every sister
+LINE 44: except Mary agreed to go with her; and Mr. Collins was to attend them,
+LINE 45: at the request of Mr. Bennet, who was most anxious to get rid of him,
+LINE 46: and have his library to himself; for thither Mr. Collins had followed
+LINE 47: him after breakfast, and there he would continue, nominally engaged with
+LINE 48: one of the largest folios in the collection, but really talking to Mr.
+LINE 49: Bennet, with little cessation, of his house and garden at Hunsford. Such
+LINE 50: doings discomposed Mr. Bennet exceedingly. In his library he had been
+LINE 51: always sure of leisure and tranquillity; and though prepared, as he told
+LINE 52: Elizabeth, to meet with folly and conceit in every other room in the
+LINE 53: house, he was used to be free from them there; his civility, therefore,
+LINE 54: was most prompt in inviting Mr. Collins to join his daughters in their
+LINE 55: walk; and Mr. Collins, being in fact much better fitted for a walker
+LINE 56: than a reader, was extremely well pleased to close his large book, and
+LINE 57: go.
+LINE 58: In pompous nothings on his side, and civil assents on that of his
+LINE 59: cousins, their time passed till they entered Meryton. The attention of
+LINE 60: the younger ones was then no longer to be gained by _him_. Their eyes
+LINE 61: were immediately wandering up in the street in quest of the officers,
+LINE 62: and nothing less than a very smart bonnet indeed, or a really new muslin
+LINE 63: in a shop window, could recal them.
+LINE 64: But the attention of every lady was soon caught by a young man, whom
+LINE 65: they had never seen before, of most gentleman-like appearance, walking
+LINE 66: with an officer on the other side of the way. The officer was the very
+LINE 67: Mr. Denny, concerning whose return from London Lydia came to inquire,
+LINE 68: and he bowed as they passed. All were struck with the stranger's air,
+LINE 69: all wondered who he could be, and Kitty and Lydia, determined if
+LINE 70: possible to find out, led the way across the street, under pretence of
+LINE 71: wanting something in an opposite shop, and fortunately had just gained
+LINE 72: the pavement when the two gentlemen turning back had reached the same
+LINE 73: spot. Mr. Denny addressed them directly, and entreated permission to
+LINE 74: introduce his friend, Mr. Wickham, who had returned with him the day
+LINE 75: before from town, and he was happy to say had accepted a commission in
+LINE 76: their corps. This was exactly as it should be; for the young man wanted
+LINE 77: only regimentals to make him completely charming. His appearance was
+LINE 78: greatly in his favour; he had all the best part of beauty, a fine
+LINE 79: countenance, a good figure, and very pleasing address. The introduction
+LINE 80: was followed up on his side by a happy readiness of conversation--a
+LINE 81: readiness at the same time perfectly correct and unassuming; and the
+LINE 82: whole party were still standing and talking together very agreeably,
+LINE 83: when the sound of horses drew their notice, and Darcy and Bingley were
+LINE 84: seen riding down the street. On distinguishing the ladies of the group,
+LINE 85: the two gentlemen came directly towards them, and began the usual
+LINE 86: civilities. Bingley was the principal spokesman, and Miss Bennet the
+LINE 87: principal object. He was then, he said, on his way to Longbourn on
+LINE 88: purpose to inquire after her. Mr. Darcy corroborated it with a bow, and
+LINE 89: was beginning to determine not to fix his eyes on Elizabeth, when they
+LINE 90: were suddenly arrested by the sight of the stranger, and Elizabeth
+LINE 91: happening to see the countenance of both as they looked at each other,
+LINE 92: was all astonishment at the effect of the meeting. Both changed colour,
+LINE 93: one looked white, the other red. Mr. Wickham, after a few moments,
+LINE 94: touched his hat--a salutation which Mr. Darcy just deigned to return.
+LINE 95: What could be the meaning of it?--It was impossible to imagine; it was
+LINE 96: impossible not to long to know.
+LINE 97: In another minute Mr. Bingley, but without seeming to have noticed what
+LINE 98: passed, took leave and rode on with his friend.
+LINE 99: Mr. Denny and Mr. Wickham walked with the young ladies to the door of
+LINE 100: Mr. Philips's house, and then made their bows, in spite of Miss Lydia's
+LINE 101: pressing entreaties that they would come in, and even in spite of Mrs.
+LINE 102: Philips' throwing up the parlour window, and loudly seconding the
+LINE 103: invitation.
+LINE 104: Mrs. Philips was always glad to see her nieces, and the two eldest, from
+LINE 105: their recent absence, were particularly welcome, and she was eagerly
+LINE 106: expressing her surprise at their sudden return home, which, as their own
+LINE 107: carriage had not fetched them, she should have known nothing about, if
+LINE 108: she had not happened to see Mr. Jones's shop boy in the street, who had
+LINE 109: told her that they were not to send any more draughts to Netherfield
+LINE 110: because the Miss Bennets were come away, when her civility was claimed
+LINE 111: towards Mr. Collins by Jane's introduction of him. She received him with
+LINE 112: her very best politeness, which he returned with as much more,
+LINE 113: apologising for his intrusion, without any previous acquaintance with
+LINE 114: her, which he could not help flattering himself however might be
+LINE 115: justified by his relationship to the young ladies who introduced him to
+LINE 116: her notice. Mrs. Philips was quite awed by such an excess of good
+LINE 117: breeding; but her contemplation of one stranger was soon put an end to
+LINE 118: by exclamations and inquiries about the other, of whom, however, she
+LINE 119: could only tell her nieces what they already knew, that Mr. Denny had
+LINE 120: brought him from London, and that he was to have a lieutenant's
+LINE 121: commission in the ----shire. She had been watching him the last hour,
+LINE 122: she said, as he walked up and down the street, and had Mr. Wickham
+LINE 123: appeared Kitty and Lydia would certainly have continued the occupation,
+LINE 124: but unluckily no one passed the windows now except a few of the
+LINE 125: officers, who in comparison with the stranger, were become "stupid,
+LINE 126: disagreeable fellows." Some of them were to dine with the Philipses the
+LINE 127: next day, and their aunt promised to make her husband call on Mr.
+LINE 128: Wickham, and give him an invitation also, if the family from Longbourn
+LINE 129: would come in the evening. This was agreed to, and Mrs. Philips
+LINE 130: protested that they would have a nice comfortable noisy game of lottery
+LINE 131: tickets, and a little bit of hot supper afterwards. The prospect of such
+LINE 132: delights was very cheering, and they parted in mutual good spirits. Mr.
+LINE 133: Collins repeated his apologies in quitting the room, and was assured
+LINE 134: with unwearying civility that they were perfectly needless.
+LINE 135: As they walked home, Elizabeth related to Jane what she had seen pass
+LINE 136: between the two gentlemen; but though Jane would have defended either or
+LINE 137: both, had they appeared to be wrong, she could no more explain such
+LINE 138: behaviour than her sister.
+LINE 139: Mr. Collins on his return highly gratified Mrs. Bennet by admiring Mrs.
+LINE 140: Philips's manners and politeness. He protested that except Lady
+LINE 141: Catherine and her daughter, he had never seen a more elegant woman; for
+LINE 142: she had not only received him with the utmost civility, but had even
+LINE 143: pointedly included him in her invitation for the next evening, although
+LINE 144: utterly unknown to her before. Something he supposed might be attributed
+LINE 145: to his connection with them, but yet he had never met with so much
+LINE 146: attention in the whole course of his life.

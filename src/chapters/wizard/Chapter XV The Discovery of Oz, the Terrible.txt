@@ -1,0 +1,241 @@
+LINE 1: The four travelers walked up to the great gate of Emerald City and rang
+LINE 2: the bell. After ringing several times, it was opened by the same
+LINE 3: Guardian of the Gates they had met before.
+LINE 4: "What! are you back again?" he asked, in surprise.
+LINE 5: "Do you not see us?" answered the Scarecrow.
+LINE 6: "But I thought you had gone to visit the Wicked Witch of the West."
+LINE 7: "We did visit her," said the Scarecrow.
+LINE 8: "And she let you go again?" asked the man, in wonder.
+LINE 9: "She could not help it, for she is melted," explained the Scarecrow.
+LINE 10: "Melted! Well, that is good news, indeed," said the man. "Who melted
+LINE 11: her?"
+LINE 12: "It was Dorothy," said the Lion gravely.
+LINE 13: "Good gracious!" exclaimed the man, and he bowed very low indeed before
+LINE 14: her.
+LINE 15: Then he led them into his little room and locked the spectacles from
+LINE 16: the great box on all their eyes, just as he had done before. Afterward
+LINE 17: they passed on through the gate into the Emerald City. When the people
+LINE 18: heard from the Guardian of the Gates that Dorothy had melted the Wicked
+LINE 19: Witch of the West, they all gathered around the travelers and followed
+LINE 20: them in a great crowd to the Palace of Oz.
+LINE 21: The soldier with the green whiskers was still on guard before the door,
+LINE 22: but he let them in at once, and they were again met by the beautiful
+LINE 23: green girl, who showed each of them to their old rooms at once, so they
+LINE 24: might rest until the Great Oz was ready to receive them.
+LINE 25: The soldier had the news carried straight to Oz that Dorothy and the
+LINE 26: other travelers had come back again, after destroying the Wicked Witch;
+LINE 27: but Oz made no reply. They thought the Great Wizard would send for them
+LINE 28: at once, but he did not. They had no word from him the next day, nor
+LINE 29: the next, nor the next. The waiting was tiresome and wearing, and at
+LINE 30: last they grew vexed that Oz should treat them in so poor a fashion,
+LINE 31: after sending them to undergo hardships and slavery. So the Scarecrow
+LINE 32: at last asked the green girl to take another message to Oz, saying if
+LINE 33: he did not let them in to see him at once they would call the Winged
+LINE 34: Monkeys to help them, and find out whether he kept his promises or not.
+LINE 35: When the Wizard was given this message he was so frightened that he
+LINE 36: sent word for them to come to the Throne Room at four minutes after
+LINE 37: nine o'clock the next morning. He had once met the Winged Monkeys in
+LINE 38: the Land of the West, and he did not wish to meet them again.
+LINE 39: The four travelers passed a sleepless night, each thinking of the gift
+LINE 40: Oz had promised to bestow on him. Dorothy fell asleep only once, and
+LINE 41: then she dreamed she was in Kansas, where Aunt Em was telling her how
+LINE 42: glad she was to have her little girl at home again.
+LINE 43: Promptly at nine o'clock the next morning the green-whiskered soldier
+LINE 44: came to them, and four minutes later they all went into the Throne Room
+LINE 45: of the Great Oz.
+LINE 46: Of course each one of them expected to see the Wizard in the shape he
+LINE 47: had taken before, and all were greatly surprised when they looked about
+LINE 48: and saw no one at all in the room. They kept close to the door and
+LINE 49: closer to one another, for the stillness of the empty room was more
+LINE 50: dreadful than any of the forms they had seen Oz take.
+LINE 51: Presently they heard a solemn Voice, that seemed to come from somewhere
+LINE 52: near the top of the great dome, and it said:
+LINE 53: "I am Oz, the Great and Terrible. Why do you seek me?"
+LINE 54: They looked again in every part of the room, and then, seeing no one,
+LINE 55: Dorothy asked, "Where are you?"
+LINE 56: "I am everywhere," answered the Voice, "but to the eyes of common
+LINE 57: mortals I am invisible. I will now seat myself upon my throne, that you
+LINE 58: may converse with me." Indeed, the Voice seemed just then to come
+LINE 59: straight from the throne itself; so they walked toward it and stood in
+LINE 60: a row while Dorothy said:
+LINE 61: "We have come to claim our promise, O Oz."
+LINE 62: "What promise?" asked Oz.
+LINE 63: "You promised to send me back to Kansas when the Wicked Witch was
+LINE 64: destroyed," said the girl.
+LINE 65: "And you promised to give me brains," said the Scarecrow.
+LINE 66: "And you promised to give me a heart," said the Tin Woodman.
+LINE 67: "And you promised to give me courage," said the Cowardly Lion.
+LINE 68: "Is the Wicked Witch really destroyed?" asked the Voice, and Dorothy
+LINE 69: thought it trembled a little.
+LINE 70: "Yes," she answered, "I melted her with a bucket of water."
+LINE 71: "Dear me," said the Voice, "how sudden! Well, come to me tomorrow, for
+LINE 72: I must have time to think it over."
+LINE 73: "You've had plenty of time already," said the Tin Woodman angrily.
+LINE 74: "We shan't wait a day longer," said the Scarecrow.
+LINE 75: "You must keep your promises to us!" exclaimed Dorothy.
+LINE 76: The Lion thought it might be as well to frighten the Wizard, so he gave
+LINE 77: a large, loud roar, which was so fierce and dreadful that Toto jumped
+LINE 78: away from him in alarm and tipped over the screen that stood in a
+LINE 79: corner. As it fell with a crash they looked that way, and the next
+LINE 80: moment all of them were filled with wonder. For they saw, standing in
+LINE 81: just the spot the screen had hidden, a little old man, with a bald head
+LINE 82: and a wrinkled face, who seemed to be as much surprised as they were.
+LINE 83: The Tin Woodman, raising his axe, rushed toward the little man and
+LINE 84: cried out, "Who are you?"
+LINE 85: "I am Oz, the Great and Terrible," said the little man, in a trembling
+LINE 86: voice. "But don't strike me—please don't—and I'll do anything you want
+LINE 87: me to."
+LINE 88: Our friends looked at him in surprise and dismay.
+LINE 89: "I thought Oz was a great Head," said Dorothy.
+LINE 90: "And I thought Oz was a lovely Lady," said the Scarecrow.
+LINE 91: "And I thought Oz was a terrible Beast," said the Tin Woodman.
+LINE 92: "And I thought Oz was a Ball of Fire," exclaimed the Lion.
+LINE 93: "No, you are all wrong," said the little man meekly. "I have been
+LINE 94: making believe."
+LINE 95: "Making believe!" cried Dorothy. "Are you not a Great Wizard?"
+LINE 96: "Hush, my dear," he said. "Don't speak so loud, or you will be
+LINE 97: overheard—and I should be ruined. I'm supposed to be a Great Wizard."
+LINE 98: "And aren't you?" she asked.
+LINE 99: "Not a bit of it, my dear; I'm just a common man."
+LINE 100: "You're more than that," said the Scarecrow, in a grieved tone; "you're
+LINE 101: a humbug."
+LINE 102: "Exactly so!" declared the little man, rubbing his hands together as if
+LINE 103: it pleased him. "I am a humbug."
+LINE 104: "But this is terrible," said the Tin Woodman. "How shall I ever get my
+LINE 105: heart?"
+LINE 106: "Or I my courage?" asked the Lion.
+LINE 107: "Or I my brains?" wailed the Scarecrow, wiping the tears from his eyes
+LINE 108: with his coat sleeve.
+LINE 109: "My dear friends," said Oz, "I pray you not to speak of these little
+LINE 110: things. Think of me, and the terrible trouble I'm in at being found
+LINE 111: out."
+LINE 112: "Doesn't anyone else know you're a humbug?" asked Dorothy.
+LINE 113: "No one knows it but you four—and myself," replied Oz. "I have fooled
+LINE 114: everyone so long that I thought I should never be found out. It was a
+LINE 115: great mistake my ever letting you into the Throne Room. Usually I will
+LINE 116: not see even my subjects, and so they believe I am something terrible."
+LINE 117: "But, I don't understand," said Dorothy, in bewilderment. "How was it
+LINE 118: that you appeared to me as a great Head?"
+LINE 119: "That was one of my tricks," answered Oz. "Step this way, please, and I
+LINE 120: will tell you all about it."
+LINE 121: He led the way to a small chamber in the rear of the Throne Room, and
+LINE 122: they all followed him. He pointed to one corner, in which lay the great
+LINE 123: Head, made out of many thicknesses of paper, and with a carefully
+LINE 124: painted face.
+LINE 125: "This I hung from the ceiling by a wire," said Oz. "I stood behind the
+LINE 126: screen and pulled a thread, to make the eyes move and the mouth open."
+LINE 127: "But how about the voice?" she inquired.
+LINE 128: "Oh, I am a ventriloquist," said the little man. "I can throw the sound
+LINE 129: of my voice wherever I wish, so that you thought it was coming out of
+LINE 130: the Head. Here are the other things I used to deceive you." He showed
+LINE 131: the Scarecrow the dress and the mask he had worn when he seemed to be
+LINE 132: the lovely Lady. And the Tin Woodman saw that his terrible Beast was
+LINE 133: nothing but a lot of skins, sewn together, with slats to keep their
+LINE 134: sides out. As for the Ball of Fire, the false Wizard had hung that also
+LINE 135: from the ceiling. It was really a ball of cotton, but when oil was
+LINE 136: poured upon it the ball burned fiercely.
+LINE 137: "Really," said the Scarecrow, "you ought to be ashamed of yourself for
+LINE 138: being such a humbug."
+LINE 139: "I am—I certainly am," answered the little man sorrowfully; "but it was
+LINE 140: the only thing I could do. Sit down, please, there are plenty of
+LINE 141: chairs; and I will tell you my story."
+LINE 142: So they sat down and listened while he told the following tale.
+LINE 143: "I was born in Omaha—"
+LINE 144: "Why, that isn't very far from Kansas!" cried Dorothy.
+LINE 145: "No, but it's farther from here," he said, shaking his head at her
+LINE 146: sadly. "When I grew up I became a ventriloquist, and at that I was very
+LINE 147: well trained by a great master. I can imitate any kind of a bird or
+LINE 148: beast." Here he mewed so like a kitten that Toto pricked up his ears
+LINE 149: and looked everywhere to see where she was. "After a time," continued
+LINE 150: Oz, "I tired of that, and became a balloonist."
+LINE 151: "What is that?" asked Dorothy.
+LINE 152: "A man who goes up in a balloon on circus day, so as to draw a crowd of
+LINE 153: people together and get them to pay to see the circus," he explained.
+LINE 154: "Oh," she said, "I know."
+LINE 155: "Well, one day I went up in a balloon and the ropes got twisted, so
+LINE 156: that I couldn't come down again. It went way up above the clouds, so
+LINE 157: far that a current of air struck it and carried it many, many miles
+LINE 158: away. For a day and a night I traveled through the air, and on the
+LINE 159: morning of the second day I awoke and found the balloon floating over a
+LINE 160: strange and beautiful country.
+LINE 161: "It came down gradually, and I was not hurt a bit. But I found myself
+LINE 162: in the midst of a strange people, who, seeing me come from the clouds,
+LINE 163: thought I was a great Wizard. Of course I let them think so, because
+LINE 164: they were afraid of me, and promised to do anything I wished them to.
+LINE 165: "Just to amuse myself, and keep the good people busy, I ordered them to
+LINE 166: build this City, and my Palace; and they did it all willingly and well.
+LINE 167: Then I thought, as the country was so green and beautiful, I would call
+LINE 168: it the Emerald City; and to make the name fit better I put green
+LINE 169: spectacles on all the people, so that everything they saw was green."
+LINE 170: "But isn't everything here green?" asked Dorothy.
+LINE 171: "No more than in any other city," replied Oz; "but when you wear green
+LINE 172: spectacles, why of course everything you see looks green to you. The
+LINE 173: Emerald City was built a great many years ago, for I was a young man
+LINE 174: when the balloon brought me here, and I am a very old man now. But my
+LINE 175: people have worn green glasses on their eyes so long that most of them
+LINE 176: think it really is an Emerald City, and it certainly is a beautiful
+LINE 177: place, abounding in jewels and precious metals, and every good thing
+LINE 178: that is needed to make one happy. I have been good to the people, and
+LINE 179: they like me; but ever since this Palace was built, I have shut myself
+LINE 180: up and would not see any of them.
+LINE 181: "One of my greatest fears was the Witches, for while I had no magical
+LINE 182: powers at all I soon found out that the Witches were really able to do
+LINE 183: wonderful things. There were four of them in this country, and they
+LINE 184: ruled the people who live in the North and South and East and West.
+LINE 185: Fortunately, the Witches of the North and South were good, and I knew
+LINE 186: they would do me no harm; but the Witches of the East and West were
+LINE 187: terribly wicked, and had they not thought I was more powerful than they
+LINE 188: themselves, they would surely have destroyed me. As it was, I lived in
+LINE 189: deadly fear of them for many years; so you can imagine how pleased I
+LINE 190: was when I heard your house had fallen on the Wicked Witch of the East.
+LINE 191: When you came to me, I was willing to promise anything if you would
+LINE 192: only do away with the other Witch; but, now that you have melted her, I
+LINE 193: am ashamed to say that I cannot keep my promises."
+LINE 194: "I think you are a very bad man," said Dorothy.
+LINE 195: "Oh, no, my dear; I'm really a very good man, but I'm a very bad
+LINE 196: Wizard, I must admit."
+LINE 197: "Can't you give me brains?" asked the Scarecrow.
+LINE 198: "You don't need them. You are learning something every day. A baby has
+LINE 199: brains, but it doesn't know much. Experience is the only thing that
+LINE 200: brings knowledge, and the longer you are on earth the more experience
+LINE 201: you are sure to get."
+LINE 202: "That may all be true," said the Scarecrow, "but I shall be very
+LINE 203: unhappy unless you give me brains."
+LINE 204: The false Wizard looked at him carefully.
+LINE 205: "Well," he said with a sigh, "I'm not much of a magician, as I said;
+LINE 206: but if you will come to me tomorrow morning, I will stuff your head
+LINE 207: with brains. I cannot tell you how to use them, however; you must find
+LINE 208: that out for yourself."
+LINE 209: "Oh, thank you—thank you!" cried the Scarecrow. "I'll find a way to use
+LINE 210: them, never fear!"
+LINE 211: "But how about my courage?" asked the Lion anxiously.
+LINE 212: "You have plenty of courage, I am sure," answered Oz. "All you need is
+LINE 213: confidence in yourself. There is no living thing that is not afraid
+LINE 214: when it faces danger. The True courage is in facing danger when you are
+LINE 215: afraid, and that kind of courage you have in plenty."
+LINE 216: "Perhaps I have, but I'm scared just the same," said the Lion. "I shall
+LINE 217: really be very unhappy unless you give me the sort of courage that
+LINE 218: makes one forget he is afraid."
+LINE 219: "Very well, I will give you that sort of courage tomorrow," replied Oz.
+LINE 220: "How about my heart?" asked the Tin Woodman.
+LINE 221: "Why, as for that," answered Oz, "I think you are wrong to want a
+LINE 222: heart. It makes most people unhappy. If you only knew it, you are in
+LINE 223: luck not to have a heart."
+LINE 224: "That must be a matter of opinion," said the Tin Woodman. "For my part,
+LINE 225: I will bear all the unhappiness without a murmur, if you will give me
+LINE 226: the heart."
+LINE 227: "Very well," answered Oz meekly. "Come to me tomorrow and you shall
+LINE 228: have a heart. I have played Wizard for so many years that I may as well
+LINE 229: continue the part a little longer."
+LINE 230: "And now," said Dorothy, "how am I to get back to Kansas?"
+LINE 231: "We shall have to think about that," replied the little man. "Give me
+LINE 232: two or three days to consider the matter and I'll try to find a way to
+LINE 233: carry you over the desert. In the meantime you shall all be treated as
+LINE 234: my guests, and while you live in the Palace my people will wait upon
+LINE 235: you and obey your slightest wish. There is only one thing I ask in
+LINE 236: return for my help—such as it is. You must keep my secret and tell no
+LINE 237: one I am a humbug."
+LINE 238: They agreed to say nothing of what they had learned, and went back to
+LINE 239: their rooms in high spirits. Even Dorothy had hope that "The Great and
+LINE 240: Terrible Humbug," as she called him, would find a way to send her back
+LINE 241: to Kansas, and if he did she was willing to forgive him everything.

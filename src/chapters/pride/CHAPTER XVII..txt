@@ -1,0 +1,113 @@
+LINE 1: Elizabeth related to Jane the next day, what had passed between Mr.
+LINE 2: Wickham and herself. Jane listened with astonishment and concern;--she
+LINE 3: knew not how to believe that Mr. Darcy could be so unworthy of Mr.
+LINE 4: Bingley's regard; and yet, it was not in her nature to question the
+LINE 5: veracity of a young man of such amiable appearance as Wickham.--The
+LINE 6: possibility of his having really endured such unkindness, was enough to
+LINE 7: interest all her tender feelings; and nothing therefore remained to be
+LINE 8: done, but to think well of them both, to defend the conduct of each, and
+LINE 9: throw into the account of accident or mistake, whatever could not be
+LINE 10: otherwise explained.
+LINE 11: "They have both," said she, "been deceived, I dare say, in some way or
+LINE 12: other, of which we can form no idea. Interested people have perhaps
+LINE 13: misrepresented each to the other. It is, in short, impossible for us to
+LINE 14: conjecture the causes or circumstances which may have alienated them,
+LINE 15: without actual blame on either side."
+LINE 16: "Very true, indeed;--and now, my dear Jane, what have you got to say in
+LINE 17: behalf of the interested people who have probably been concerned in the
+LINE 18: business?--Do clear _them_ too, or we shall be obliged to think ill of
+LINE 19: somebody."
+LINE 20: "Laugh as much as you chuse, but you will not laugh me out of my
+LINE 21: opinion. My dearest Lizzy, do but consider in what a disgraceful light
+LINE 22: it places Mr. Darcy, to be treating his father's favourite in such a
+LINE 23: manner,--one, whom his father had promised to provide for.--It is
+LINE 24: impossible. No man of common humanity, no man who had any value for his
+LINE 25: character, could be capable of it. Can his most intimate friends be so
+LINE 26: excessively deceived in him? oh! no."
+LINE 27: "I can much more easily believe Mr. Bingley's being imposed on, than
+LINE 28: that Mr. Wickham should invent such a history of himself as he gave me
+LINE 29: last night; names, facts, every thing mentioned without ceremony.--If it
+LINE 30: be not so, let Mr. Darcy contradict it. Besides, there was truth in his
+LINE 31: looks."
+LINE 32: "It is difficult indeed--it is distressing.--One does not know what to
+LINE 33: think."
+LINE 34: "I beg your pardon;--one knows exactly what to think."
+LINE 35: But Jane could think with certainty on only one point,--that Mr.
+LINE 36: Bingley, if he _had been_ imposed on, would have much to suffer when the
+LINE 37: affair became public.
+LINE 38: The two young ladies were summoned from the shrubbery where this
+LINE 39: conversation passed, by the arrival of some of the very persons of whom
+LINE 40: they had been speaking; Mr. Bingley and his sisters came to give their
+LINE 41: personal invitation for the long expected ball at Netherfield, which was
+LINE 42: fixed for the following Tuesday. The two ladies were delighted to see
+LINE 43: their dear friend again, called it an age since they had met, and
+LINE 44: repeatedly asked what she had been doing with herself since their
+LINE 45: separation. To the rest of the family they paid little attention;
+LINE 46: avoiding Mrs. Bennet as much as possible, saying not much to Elizabeth,
+LINE 47: and nothing at all to the others. They were soon gone again, rising from
+LINE 48: their seats with an activity which took their brother by surprise, and
+LINE 49: hurrying off as if eager to escape from Mrs. Bennet's civilities.
+LINE 50: The prospect of the Netherfield ball was extremely agreeable to every
+LINE 51: female of the family. Mrs. Bennet chose to consider it as given in
+LINE 52: compliment to her eldest daughter, and was particularly flattered by
+LINE 53: receiving the invitation from Mr. Bingley himself, instead of a
+LINE 54: ceremonious card. Jane pictured to herself a happy evening in the
+LINE 55: society of her two friends, and the attentions of their brother; and
+LINE 56: Elizabeth thought with pleasure of dancing a great deal with Mr.
+LINE 57: Wickham, and of seeing a confirmation of every thing in Mr. Darcy's
+LINE 58: looks and behaviour. The happiness anticipated by Catherine and Lydia,
+LINE 59: depended less on any single event, or any particular person, for though
+LINE 60: they each, like Elizabeth, meant to dance half the evening with Mr.
+LINE 61: Wickham, he was by no means the only partner who could satisfy them, and
+LINE 62: a ball was at any rate, a ball. And even Mary could assure her family
+LINE 63: that she had no disinclination for it.
+LINE 64: "While I can have my mornings to myself," said she, "it is enough.--I
+LINE 65: think it no sacrifice to join occasionally in evening engagements.
+LINE 66: Society has claims on us all; and I profess myself one of those who
+LINE 67: consider intervals of recreation and amusement as desirable for every
+LINE 68: body."
+LINE 69: Elizabeth's spirits were so high on the occasion, that though she did
+LINE 70: not often speak unnecessarily to Mr. Collins, she could not help asking
+LINE 71: him whether he intended to accept Mr. Bingley's invitation, and if he
+LINE 72: did, whether he would think it proper to join in the evening's
+LINE 73: amusement; and she was rather surprised to find that he entertained no
+LINE 74: scruple whatever on that head, and was very far from dreading a rebuke
+LINE 75: either from the Archbishop, or Lady Catherine de Bourgh, by venturing to
+LINE 76: dance.
+LINE 77: "I am by no means of opinion, I assure you," said he, "that a ball of
+LINE 78: this kind, given by a young man of character, to respectable people, can
+LINE 79: have any evil tendency; and I am so far from objecting to dancing myself
+LINE 80: that I shall hope to be honoured with the hands of all my fair cousins
+LINE 81: in the course of the evening, and I take this opportunity of soliciting
+LINE 82: yours, Miss Elizabeth, for the two first dances especially,--a
+LINE 83: preference which I trust my cousin Jane will attribute to the right
+LINE 84: cause, and not to any disrespect for her."
+LINE 85: Elizabeth felt herself completely taken in. She had fully proposed being
+LINE 86: engaged by Wickham for those very dances:--and to have Mr. Collins
+LINE 87: instead! her liveliness had been never worse timed. There was no help
+LINE 88: for it however. Mr. Wickham's happiness and her own was per force
+LINE 89: delayed a little longer, and Mr. Collins's proposal accepted with as
+LINE 90: good a grace as she could. She was not the better pleased with his
+LINE 91: gallantry, from the idea it suggested of something more.--It now first
+LINE 92: struck her, that _she_ was selected from among her sisters as worthy of
+LINE 93: being the mistress of Hunsford Parsonage, and of assisting to form a
+LINE 94: quadrille table at Rosings, in the absence of more eligible visitors.
+LINE 95: The idea soon reached to conviction, as she observed his increasing
+LINE 96: civilities toward herself, and heard his frequent attempt at a
+LINE 97: compliment on her wit and vivacity; and though more astonished than
+LINE 98: gratified herself, by this effect of her charms, it was not long before
+LINE 99: her mother gave her to understand that the probability of their marriage
+LINE 100: was exceedingly agreeable to _her_. Elizabeth however did not chuse to
+LINE 101: take the hint, being well aware that a serious dispute must be the
+LINE 102: consequence of any reply. Mr. Collins might never make the offer, and
+LINE 103: till he did, it was useless to quarrel about him.
+LINE 104: If there had not been a Netherfield ball to prepare for and talk of, the
+LINE 105: younger Miss Bennets would have been in a pitiable state at this time,
+LINE 106: for from the day of the invitation, to the day of the ball, there was
+LINE 107: such a succession of rain as prevented their walking to Meryton once. No
+LINE 108: aunt, no officers, no news could be sought after;--the very shoe-roses
+LINE 109: for Netherfield were got by proxy. Even Elizabeth might have found some
+LINE 110: trial of her patience in weather, which totally suspended the
+LINE 111: improvement of her acquaintance with Mr. Wickham; and nothing less than
+LINE 112: a dance on Tuesday, could have made such a Friday, Saturday, Sunday and
+LINE 113: Monday, endurable to Kitty and Lydia.

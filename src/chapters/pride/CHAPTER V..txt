@@ -1,0 +1,85 @@
+LINE 1: Within a short walk of Longbourn lived a family with whom the Bennets
+LINE 2: were particularly intimate. Sir William Lucas had been formerly in trade
+LINE 3: in Meryton, where he had made a tolerable fortune and risen to the
+LINE 4: honour of knighthood by an address to the King, during his mayoralty.
+LINE 5: The distinction had perhaps been felt too strongly. It had given him a
+LINE 6: disgust to his business and to his residence in a small market town; and
+LINE 7: quitting them both, he had removed with his family to a house about a
+LINE 8: mile from Meryton, denominated from that period Lucas Lodge, where he
+LINE 9: could think with pleasure of his own importance, and unshackled by
+LINE 10: business, occupy himself solely in being civil to all the world. For
+LINE 11: though elated by his rank, it did not render him supercilious; on the
+LINE 12: contrary, he was all attention to every body. By nature inoffensive,
+LINE 13: friendly and obliging, his presentation at St. James's had made him
+LINE 14: courteous.
+LINE 15: Lady Lucas was a very good kind of woman, not too clever to be a
+LINE 16: valuable neighbour to Mrs. Bennet.--They had several children. The
+LINE 17: eldest of them, a sensible, intelligent young woman, about twenty-seven,
+LINE 18: was Elizabeth's intimate friend.
+LINE 19: That the Miss Lucases and the Miss Bennets should meet to talk over a
+LINE 20: ball was absolutely necessary; and the morning after the assembly
+LINE 21: brought the former to Longbourn to hear and to communicate.
+LINE 22: "_You_ began the evening well, Charlotte," said Mrs. Bennet with civil
+LINE 23: self-command to Miss Lucas. "_You_ were Mr. Bingley's first choice."
+LINE 24: "Yes;--but he seemed to like his second better."
+LINE 25: "Oh!--you mean Jane, I suppose--because he danced with her twice. To be
+LINE 26: sure that _did_ seem as if he admired her--indeed I rather believe he
+LINE 27: _did_--I heard something about it--but I hardly know what--something
+LINE 28: about Mr. Robinson."
+LINE 29: "Perhaps you mean what I overheard between him and Mr. Robinson; did not
+LINE 30: I mention it to you? Mr. Robinson's asking him how he liked our Meryton
+LINE 31: assemblies, and whether he did not think there were a great many pretty
+LINE 32: women in the room, and _which_ he thought the prettiest? and his
+LINE 33: answering immediately to the last question--Oh! the eldest Miss Bennet
+LINE 34: beyond a doubt, there cannot be two opinions on that point."
+LINE 35: "Upon my word!--Well, that was very decided indeed--that does seem as
+LINE 36: if----but however, it may all come to nothing you know."
+LINE 37: "_My_ overhearings were more to the purpose than _yours_, Eliza," said
+LINE 38: Charlotte. "Mr. Darcy is not so well worth listening to as his friend,
+LINE 39: is he?--Poor Eliza!--to be only just _tolerable_."
+LINE 40: "I beg you would not put it into Lizzy's head to be vexed by his
+LINE 41: ill-treatment; for he is such a disagreeable man that it would be quite
+LINE 42: a misfortune to be liked by him. Mrs. Long told me last night that he
+LINE 43: sat close to her for half an hour without once opening his lips."
+LINE 44: "Are you quite sure, Ma'am?--is not there a little mistake?" said
+LINE 45: Jane.--"I certainly saw Mr. Darcy speaking to her."
+LINE 46: "Aye--because she asked him at last how he liked Netherfield, and he
+LINE 47: could not help answering her;--but she said he seemed very angry at
+LINE 48: being spoke to."
+LINE 49: "Miss Bingley told me," said Jane, "that he never speaks much unless
+LINE 50: among his intimate acquaintance. With _them_ he is remarkably
+LINE 51: agreeable."
+LINE 52: "I do not believe a word of it, my dear. If he had been so very
+LINE 53: agreeable he would have talked to Mrs. Long. But I can guess how it was;
+LINE 54: every body says that he is ate up with pride, and I dare say he had
+LINE 55: heard somehow that Mrs. Long does not keep a carriage, and had come to
+LINE 56: the ball in a hack chaise."
+LINE 57: "I do not mind his not talking to Mrs. Long," said Miss Lucas, "but I
+LINE 58: wish he had danced with Eliza."
+LINE 59: "Another time, Lizzy," said her mother, "I would not dance with _him_,
+LINE 60: if I were you."
+LINE 61: "I believe, Ma'am, I may safely promise you _never_ to dance with him."
+LINE 62: "His pride," said Miss Lucas, "does not offend _me_ so much as pride
+LINE 63: often does, because there is an excuse for it. One cannot wonder that so
+LINE 64: very fine a young man, with family, fortune, every thing in his favour,
+LINE 65: should think highly of himself. If I may so express it, he has a _right_
+LINE 66: to be proud."
+LINE 67: "That is very true," replied Elizabeth, "and I could easily forgive
+LINE 68: _his_ pride, if he had not mortified _mine_."
+LINE 69: "Pride," observed Mary, who piqued herself upon the solidity of her
+LINE 70: reflections, "is a very common failing I believe. By all that I have
+LINE 71: ever read, I am convinced that it is very common indeed, that human
+LINE 72: nature is particularly prone to it, and that there are very few of us
+LINE 73: who do not cherish a feeling of self-complacency on the score of some
+LINE 74: quality or other, real or imaginary. Vanity and pride are different
+LINE 75: things, though the words are often used synonimously. A person may be
+LINE 76: proud without being vain. Pride relates more to our opinion of
+LINE 77: ourselves, vanity to what we would have others think of us."
+LINE 78: "If I were as rich as Mr. Darcy," cried a young Lucas who came with his
+LINE 79: sisters, "I should not care how proud I was. I would keep a pack of
+LINE 80: foxhounds, and drink a bottle of wine every day."
+LINE 81: "Then you would drink a great deal more than you ought," said Mrs.
+LINE 82: Bennet; "and if I were to see you at it I should take away your bottle
+LINE 83: directly."
+LINE 84: The boy protested that she should not; she continued to declare that she
+LINE 85: would, and the argument ended only with the visit.

@@ -1,0 +1,158 @@
+LINE 1: "Some time elapsed before I learned the history of my friends. It was
+LINE 2: one which could not fail to impress itself deeply on my mind, unfolding
+LINE 3: as it did a number of circumstances, each interesting and wonderful to
+LINE 4: one so utterly inexperienced as I was.
+LINE 5: "The name of the old man was De Lacey. He was descended from a good
+LINE 6: family in France, where he had lived for many years in affluence,
+LINE 7: respected by his superiors and beloved by his equals. His son was bred
+LINE 8: in the service of his country, and Agatha had ranked with ladies of the
+LINE 9: highest distinction. A few months before my arrival they had lived in
+LINE 10: a large and luxurious city called Paris, surrounded by friends and
+LINE 11: possessed of every enjoyment which virtue, refinement of intellect, or
+LINE 12: taste, accompanied by a moderate fortune, could afford.
+LINE 13: "The father of Safie had been the cause of their ruin. He was a
+LINE 14: Turkish merchant and had inhabited Paris for many years, when, for some
+LINE 15: reason which I could not learn, he became obnoxious to the government.
+LINE 16: He was seized and cast into prison the very day that Safie arrived from
+LINE 17: Constantinople to join him. He was tried and condemned to death. The
+LINE 18: injustice of his sentence was very flagrant; all Paris was indignant;
+LINE 19: and it was judged that his religion and wealth rather than the crime
+LINE 20: alleged against him had been the cause of his condemnation.
+LINE 21: "Felix had accidentally been present at the trial; his horror and
+LINE 22: indignation were uncontrollable when he heard the decision of the
+LINE 23: court. He made, at that moment, a solemn vow to deliver him and then
+LINE 24: looked around for the means. After many fruitless attempts to gain
+LINE 25: admittance to the prison, he found a strongly grated window in an
+LINE 26: unguarded part of the building, which lighted the dungeon of the
+LINE 27: unfortunate Muhammadan, who, loaded with chains, waited in despair the
+LINE 28: execution of the barbarous sentence. Felix visited the grate at night
+LINE 29: and made known to the prisoner his intentions in his favour. The Turk,
+LINE 30: amazed and delighted, endeavoured to kindle the zeal of his deliverer
+LINE 31: by promises of reward and wealth. Felix rejected his offers with
+LINE 32: contempt, yet when he saw the lovely Safie, who was allowed to visit
+LINE 33: her father and who by her gestures expressed her lively gratitude, the
+LINE 34: youth could not help owning to his own mind that the captive possessed
+LINE 35: a treasure which would fully reward his toil and hazard.
+LINE 36: "The Turk quickly perceived the impression that his daughter had made
+LINE 37: on the heart of Felix and endeavoured to secure him more entirely in
+LINE 38: his interests by the promise of her hand in marriage so soon as he
+LINE 39: should be conveyed to a place of safety. Felix was too delicate to
+LINE 40: accept this offer, yet he looked forward to the probability of the
+LINE 41: event as to the consummation of his happiness.
+LINE 42: "During the ensuing days, while the preparations were going forward for
+LINE 43: the escape of the merchant, the zeal of Felix was warmed by several
+LINE 44: letters that he received from this lovely girl, who found means to
+LINE 45: express her thoughts in the language of her lover by the aid of an old
+LINE 46: man, a servant of her father who understood French. She thanked him in
+LINE 47: the most ardent terms for his intended services towards her parent, and
+LINE 48: at the same time she gently deplored her own fate.
+LINE 49: "I have copies of these letters, for I found means, during my residence
+LINE 50: in the hovel, to procure the implements of writing; and the letters
+LINE 51: were often in the hands of Felix or Agatha. Before I depart I will
+LINE 52: give them to you; they will prove the truth of my tale; but at present,
+LINE 53: as the sun is already far declined, I shall only have time to repeat
+LINE 54: the substance of them to you.
+LINE 55: "Safie related that her mother was a Christian Arab, seized and made a
+LINE 56: slave by the Turks; recommended by her beauty, she had won the heart of
+LINE 57: the father of Safie, who married her. The young girl spoke in high and
+LINE 58: enthusiastic terms of her mother, who, born in freedom, spurned the
+LINE 59: bondage to which she was now reduced. She instructed her daughter in
+LINE 60: the tenets of her religion and taught her to aspire to higher powers of
+LINE 61: intellect and an independence of spirit forbidden to the female
+LINE 62: followers of Muhammad. This lady died, but her lessons were indelibly
+LINE 63: impressed on the mind of Safie, who sickened at the prospect of again
+LINE 64: returning to Asia and being immured within the walls of a harem,
+LINE 65: allowed only to occupy herself with infantile amusements, ill-suited to
+LINE 66: the temper of her soul, now accustomed to grand ideas and a noble
+LINE 67: emulation for virtue. The prospect of marrying a Christian and
+LINE 68: remaining in a country where women were allowed to take a rank in
+LINE 69: society was enchanting to her.
+LINE 70: "The day for the execution of the Turk was fixed, but on the night
+LINE 71: previous to it he quitted his prison and before morning was distant
+LINE 72: many leagues from Paris. Felix had procured passports in the name of
+LINE 73: his father, sister, and himself. He had previously communicated his
+LINE 74: plan to the former, who aided the deceit by quitting his house, under
+LINE 75: the pretence of a journey and concealed himself, with his daughter, in
+LINE 76: an obscure part of Paris.
+LINE 77: "Felix conducted the fugitives through France to Lyons and across Mont
+LINE 78: Cenis to Leghorn, where the merchant had decided to wait a favourable
+LINE 79: opportunity of passing into some part of the Turkish dominions.
+LINE 80: "Safie resolved to remain with her father until the moment of his
+LINE 81: departure, before which time the Turk renewed his promise that she
+LINE 82: should be united to his deliverer; and Felix remained with them in
+LINE 83: expectation of that event; and in the meantime he enjoyed the society
+LINE 84: of the Arabian, who exhibited towards him the simplest and tenderest
+LINE 85: affection. They conversed with one another through the means of an
+LINE 86: interpreter, and sometimes with the interpretation of looks; and Safie
+LINE 87: sang to him the divine airs of her native country.
+LINE 88: "The Turk allowed this intimacy to take place and encouraged the hopes
+LINE 89: of the youthful lovers, while in his heart he had formed far other
+LINE 90: plans. He loathed the idea that his daughter should be united to a
+LINE 91: Christian, but he feared the resentment of Felix if he should appear
+LINE 92: lukewarm, for he knew that he was still in the power of his deliverer
+LINE 93: if he should choose to betray him to the Italian state which they
+LINE 94: inhabited. He revolved a thousand plans by which he should be enabled
+LINE 95: to prolong the deceit until it might be no longer necessary, and
+LINE 96: secretly to take his daughter with him when he departed. His plans
+LINE 97: were facilitated by the news which arrived from Paris.
+LINE 98: "The government of France were greatly enraged at the escape of their
+LINE 99: victim and spared no pains to detect and punish his deliverer. The
+LINE 100: plot of Felix was quickly discovered, and De Lacey and Agatha were
+LINE 101: thrown into prison. The news reached Felix and roused him from his
+LINE 102: dream of pleasure. His blind and aged father and his gentle sister lay
+LINE 103: in a noisome dungeon while he enjoyed the free air and the society of
+LINE 104: her whom he loved. This idea was torture to him. He quickly arranged
+LINE 105: with the Turk that if the latter should find a favourable opportunity
+LINE 106: for escape before Felix could return to Italy, Safie should remain as a
+LINE 107: boarder at a convent at Leghorn; and then, quitting the lovely Arabian,
+LINE 108: he hastened to Paris and delivered himself up to the vengeance of the
+LINE 109: law, hoping to free De Lacey and Agatha by this proceeding.
+LINE 110: "He did not succeed. They remained confined for five months before the
+LINE 111: trial took place, the result of which deprived them of their fortune
+LINE 112: and condemned them to a perpetual exile from their native country.
+LINE 113: "They found a miserable asylum in the cottage in Germany, where I
+LINE 114: discovered them. Felix soon learned that the treacherous Turk, for
+LINE 115: whom he and his family endured such unheard-of oppression, on
+LINE 116: discovering that his deliverer was thus reduced to poverty and ruin,
+LINE 117: became a traitor to good feeling and honour and had quitted Italy with
+LINE 118: his daughter, insultingly sending Felix a pittance of money to aid him,
+LINE 119: as he said, in some plan of future maintenance.
+LINE 120: "Such were the events that preyed on the heart of Felix and rendered
+LINE 121: him, when I first saw him, the most miserable of his family. He could
+LINE 122: have endured poverty, and while this distress had been the meed of his
+LINE 123: virtue, he gloried in it; but the ingratitude of the Turk and the loss
+LINE 124: of his beloved Safie were misfortunes more bitter and irreparable. The
+LINE 125: arrival of the Arabian now infused new life into his soul.
+LINE 126: "When the news reached Leghorn that Felix was deprived of his wealth
+LINE 127: and rank, the merchant commanded his daughter to think no more of her
+LINE 128: lover, but to prepare to return to her native country. The generous
+LINE 129: nature of Safie was outraged by this command; she attempted to
+LINE 130: expostulate with her father, but he left her angrily, reiterating his
+LINE 131: tyrannical mandate.
+LINE 132: "A few days after, the Turk entered his daughter's apartment and told
+LINE 133: her hastily that he had reason to believe that his residence at Leghorn
+LINE 134: had been divulged and that he should speedily be delivered up to the
+LINE 135: French government; he had consequently hired a vessel to convey him to
+LINE 136: Constantinople, for which city he should sail in a few hours. He
+LINE 137: intended to leave his daughter under the care of a confidential
+LINE 138: servant, to follow at her leisure with the greater part of his
+LINE 139: property, which had not yet arrived at Leghorn.
+LINE 140: "When alone, Safie resolved in her own mind the plan of conduct that it
+LINE 141: would become her to pursue in this emergency. A residence in Turkey
+LINE 142: was abhorrent to her; her religion and her feelings were alike averse
+LINE 143: to it. By some papers of her father which fell into her hands she
+LINE 144: heard of the exile of her lover and learnt the name of the spot where
+LINE 145: he then resided. She hesitated some time, but at length she formed her
+LINE 146: determination. Taking with her some jewels that belonged to her and a
+LINE 147: sum of money, she quitted Italy with an attendant, a native of Leghorn,
+LINE 148: but who understood the common language of Turkey, and departed for
+LINE 149: Germany.
+LINE 150: "She arrived in safety at a town about twenty leagues from the cottage
+LINE 151: of De Lacey, when her attendant fell dangerously ill. Safie nursed her
+LINE 152: with the most devoted affection, but the poor girl died, and the
+LINE 153: Arabian was left alone, unacquainted with the language of the country
+LINE 154: and utterly ignorant of the customs of the world. She fell, however,
+LINE 155: into good hands. The Italian had mentioned the name of the spot for
+LINE 156: which they were bound, and after her death the woman of the house in
+LINE 157: which they had lived took care that Safie should arrive in safety at
+LINE 158: the cottage of her lover."

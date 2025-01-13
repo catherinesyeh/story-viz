@@ -1,0 +1,72 @@
+LINE 1: The loom sat in the corner of Elara's cottage, a familiar presence that had
+LINE 2: always brought her comfort. Her hands moved instinctively, pulling and twisting
+LINE 3: the threads as the shuttle flew back and forth across the wooden frame. Today,
+LINE 4: however, something felt different. The threads seemed alive, writhing in her
+LINE 5: fingers as though guiding her. She paused, staring at the fabric taking shape
+LINE 6: before her, the colors blending in ways she had not intended. Her heart raced
+LINE 7: as her fingers followed the threads' pull, creating patterns that whispered of
+LINE 8: something more—something far beyond her understanding.
+LINE 9: Her curiosity grew as the hours slipped by unnoticed. The tapestry was larger
+LINE 10: than any she had woven before, intricate patterns intertwining, hinting at
+LINE 11: stories she could not fully grasp. She felt a pull deep in her chest, an
+LINE 12: instinct to keep weaving, to let the threads lead her where they wished. Yet a
+LINE 13: small part of her was frightened—she had never heard of such a thing happening
+LINE 14: to a weaver. Magic was a rarity, something spoken of only in the old tales.
+LINE 15: Could this be the first signs of it within her?
+LINE 16: By dusk, the tapestry was nearly complete. She stood back, her breath catching
+LINE 17: in her throat. There, in the threads, was a village. Not her own, but one
+LINE 18: eerily similar. The sky above it was dark, streaked with fiery reds and
+LINE 19: oranges, and in the distance, a shadow loomed, its shape unclear but menacing.
+LINE 20: Her hands shook as she touched the final threads, completing the vision.
+LINE 21: A knock at the door startled her, and she jumped, her hand brushing the
+LINE 22: tapestry and sending a jolt through her body. She yanked her hand back, eyes
+LINE 23: wide with confusion. Was it just her imagination?
+LINE 24: "Elara, you've been in here all day."
+LINE 25: The stern voice of Grandmother Nira broke through the quiet, and Elara turned,
+LINE 26: her heart still racing. The older woman stood in the doorway, arms crossed, her
+LINE 27: expression as stern as ever. Her hair, once dark, was now streaked with silver,
+LINE 28: and her eyes, sharp and knowing, missed nothing.
+LINE 29: "I… I was working on something," Elara stammered, stepping aside to let her
+LINE 30: grandmother enter. She had never been able to hide anything from her
+LINE 31: grandmother, but this—this was different. How could she explain what had just
+LINE 32: happened?
+LINE 33: Nira's gaze swept over the room, her eyes narrowing as they landed on the
+LINE 34: tapestry. She approached it slowly, her fingers tracing the edge of the fabric.
+LINE 35: Elara watched her grandmother's expression shift, a flicker of
+LINE 36: something—concern? Fear?—crossing her face.
+LINE 37: "You've woven something dangerous," Nira said softly, her voice carrying a
+LINE 38: weight that made Elara's stomach churn. "This is no ordinary tapestry. The
+LINE 39: threads speak of fate, girl. Our family has always been tied to the loom, but
+LINE 40: this—" She stopped, shaking her head. "This is not something you should meddle
+LINE 41: with."
+LINE 42: Elara's heart sank. She had always known her grandmother took their craft
+LINE 43: seriously, but she had never imagined that weaving could be dangerous. "What
+LINE 44: does it mean?" she asked, her voice small.
+LINE 45: Nira's eyes met hers, hard and unyielding. "It means you need to be careful.
+LINE 46: Fate is not something to play with. The threads—once they start weaving, they
+LINE 47: can't be undone."
+LINE 48: The village market was as lively as ever, the familiar chatter of vendors and
+LINE 49: villagers filling the air. Elara tried to focus on selling her tapestries, but
+LINE 50: her mind kept drifting back to the conversation with her grandmother. She had
+LINE 51: stayed up late, staring at the tapestry, wondering what it could mean. Was it a
+LINE 52: vision of the future? A warning? She wasn't sure.
+LINE 53: "Elara!" A voice cut through her thoughts, and she turned to see Tomis, her
+LINE 54: childhood friend, approaching with a wide grin. He was tall and
+LINE 55: broad-shouldered, his hands calloused from years of working the fields. "You
+LINE 56: look lost in thought. Something on your mind?"
+LINE 57: Elara forced a smile, shaking her head. "Just thinking about my work."
+LINE 58: Tomis chuckled. "You and your tapestries. I swear, one day you'll weave
+LINE 59: something so grand that even the king will want it."
+LINE 60: Elara's smile faltered. If only he knew. "Maybe," she replied, trying to sound
+LINE 61: lighthearted. "But for now, I'll settle for selling enough to keep me fed."
+LINE 62: Tomis eyed her for a moment, his smile fading. "You know, Elara, you've been
+LINE 63: different lately. Since your grandmother started teaching you those old
+LINE 64: techniques…" He trailed off, scratching the back of his neck. "I'm not saying I
+LINE 65: believe in all that magic nonsense, but people are starting to talk."
+LINE 66: "Talk?" Elara's stomach tightened. "What kind of talk?"
+LINE 67: "Just rumors. That maybe you're meddling with things you shouldn't." He looked
+LINE 68: around, lowering his voice. "I'm not saying I believe it, but… be careful,
+LINE 69: alright?"
+LINE 70: Elara nodded, her throat tight. She wanted to dismiss his words, to laugh it
+LINE 71: off like she always did. But after what had happened in her cottage, she wasn't
+LINE 72: so sure anymore.

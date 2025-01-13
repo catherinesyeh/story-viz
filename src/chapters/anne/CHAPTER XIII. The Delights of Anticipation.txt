@@ -1,0 +1,155 @@
+LINE 1: IT'S time Anne was in to do her sewing," said Marilla, glancing at the
+LINE 2: clock and then out into the yellow August afternoon where everything
+LINE 3: drowsed in the heat. "She stayed playing with Diana more than half an
+LINE 4: hour more 'n I gave her leave to; and now she's perched out there on
+LINE 5: the woodpile talking to Matthew, nineteen to the dozen, when she knows
+LINE 6: perfectly well she ought to be at her work. And of course he's listening
+LINE 7: to her like a perfect ninny. I never saw such an infatuated man.
+LINE 8: The more she talks and the odder the things she says, the more he's
+LINE 9: delighted evidently. Anne Shirley, you come right in here this minute,
+LINE 10: do you hear me!"
+LINE 11: A series of staccato taps on the west window brought Anne flying in from
+LINE 12: the yard, eyes shining, cheeks faintly flushed with pink, unbraided hair
+LINE 13: streaming behind her in a torrent of brightness.
+LINE 14: "Oh, Marilla," she exclaimed breathlessly, "there's going to be a
+LINE 15: Sunday-school picnic next week--in Mr. Harmon Andrews's field, right
+LINE 16: near the lake of Shining Waters. And Mrs. Superintendent Bell and Mrs.
+LINE 17: Rachel Lynde are going to make ice cream--think of it, Marilla--_ice
+LINE 18: cream!_ And, oh, Marilla, can I go to it?"
+LINE 19: "Just look at the clock, if you please, Anne. What time did I tell you
+LINE 20: to come in?"
+LINE 21: "Two o'clock--but isn't it splendid about the picnic, Marilla? Please
+LINE 22: can I go? Oh, I've never been to a picnic--I've dreamed of picnics, but
+LINE 23: I've never--"
+LINE 24: "Yes, I told you to come at two o'clock. And it's a quarter to three.
+LINE 25: I'd like to know why you didn't obey me, Anne."
+LINE 26: "Why, I meant to, Marilla, as much as could be. But you have no idea
+LINE 27: how fascinating Idlewild is. And then, of course, I had to tell Matthew
+LINE 28: about the picnic. Matthew is such a sympathetic listener. Please can I
+LINE 29: go?"
+LINE 30: "You'll have to learn to resist the fascination of
+LINE 31: Idle-whatever-you-call-it. When I tell you to come in at a certain time
+LINE 32: I mean that time and not half an hour later. And you needn't stop to
+LINE 33: discourse with sympathetic listeners on your way, either. As for the
+LINE 34: picnic, of course you can go. You're a Sunday-school scholar, and it's
+LINE 35: not likely I'd refuse to let you go when all the other little girls are
+LINE 36: going."
+LINE 37: "But--but," faltered Anne, "Diana says that everybody must take a basket
+LINE 38: of things to eat. I can't cook, as you know, Marilla, and--and--I don't
+LINE 39: mind going to a picnic without puffed sleeves so much, but I'd feel
+LINE 40: terribly humiliated if I had to go without a basket. It's been preying
+LINE 41: on my mind ever since Diana told me."
+LINE 42: "Well, it needn't prey any longer. I'll bake you a basket."
+LINE 43: "Oh, you dear good Marilla. Oh, you are so kind to me. Oh, I'm so much
+LINE 44: obliged to you."
+LINE 45: Getting through with her "ohs" Anne cast herself into Marilla's arms and
+LINE 46: rapturously kissed her sallow cheek. It was the first time in her whole
+LINE 47: life that childish lips had voluntarily touched Marilla's face. Again
+LINE 48: that sudden sensation of startling sweetness thrilled her. She was
+LINE 49: secretly vastly pleased at Anne's impulsive caress, which was probably
+LINE 50: the reason why she said brusquely:
+LINE 51: "There, there, never mind your kissing nonsense. I'd sooner see you
+LINE 52: doing strictly as you're told. As for cooking, I mean to begin giving
+LINE 53: you lessons in that some of these days. But you're so featherbrained,
+LINE 54: Anne, I've been waiting to see if you'd sober down a little and learn
+LINE 55: to be steady before I begin. You've got to keep your wits about you in
+LINE 56: cooking and not stop in the middle of things to let your thoughts rove
+LINE 57: all over creation. Now, get out your patchwork and have your square done
+LINE 58: before teatime."
+LINE 59: "I do _not_ like patchwork," said Anne dolefully, hunting out her
+LINE 60: workbasket and sitting down before a little heap of red and white
+LINE 61: diamonds with a sigh. "I think some kinds of sewing would be nice; but
+LINE 62: there's no scope for imagination in patchwork. It's just one little seam
+LINE 63: after another and you never seem to be getting anywhere. But of course
+LINE 64: I'd rather be Anne of Green Gables sewing patchwork than Anne of any
+LINE 65: other place with nothing to do but play. I wish time went as quick
+LINE 66: sewing patches as it does when I'm playing with Diana, though. Oh, we
+LINE 67: do have such elegant times, Marilla. I have to furnish most of the
+LINE 68: imagination, but I'm well able to do that. Diana is simply perfect in
+LINE 69: every other way. You know that little piece of land across the brook
+LINE 70: that runs up between our farm and Mr. Barry's. It belongs to Mr. William
+LINE 71: Bell, and right in the corner there is a little ring of white birch
+LINE 72: trees--the most romantic spot, Marilla. Diana and I have our playhouse
+LINE 73: there. We call it Idlewild. Isn't that a poetical name? I assure you it
+LINE 74: took me some time to think it out. I stayed awake nearly a whole night
+LINE 75: before I invented it. Then, just as I was dropping off to sleep, it came
+LINE 76: like an inspiration. Diana was _enraptured_ when she heard it. We have got
+LINE 77: our house fixed up elegantly. You must come and see it, Marilla--won't
+LINE 78: you? We have great big stones, all covered with moss, for seats, and
+LINE 79: boards from tree to tree for shelves. And we have all our dishes on
+LINE 80: them. Of course, they're all broken but it's the easiest thing in the
+LINE 81: world to imagine that they are whole. There's a piece of a plate with a
+LINE 82: spray of red and yellow ivy on it that is especially beautiful. We keep
+LINE 83: it in the parlor and we have the fairy glass there, too. The fairy glass
+LINE 84: is as lovely as a dream. Diana found it out in the woods behind their
+LINE 85: chicken house. It's all full of rainbows--just little young rainbows
+LINE 86: that haven't grown big yet--and Diana's mother told her it was broken
+LINE 87: off a hanging lamp they once had. But it's nice to imagine the fairies
+LINE 88: lost it one night when they had a ball, so we call it the fairy glass.
+LINE 89: Matthew is going to make us a table. Oh, we have named that little round
+LINE 90: pool over in Mr. Barry's field Willowmere. I got that name out of the
+LINE 91: book Diana lent me. That was a thrilling book, Marilla. The heroine
+LINE 92: had five lovers. I'd be satisfied with one, wouldn't you? She was very
+LINE 93: handsome and she went through great tribulations. She could faint as
+LINE 94: easy as anything. I'd love to be able to faint, wouldn't you, Marilla?
+LINE 95: It's so romantic. But I'm really very healthy for all I'm so thin. I
+LINE 96: believe I'm getting fatter, though. Don't you think I am? I look at my
+LINE 97: elbows every morning when I get up to see if any dimples are coming.
+LINE 98: Diana is having a new dress made with elbow sleeves. She is going to
+LINE 99: wear it to the picnic. Oh, I do hope it will be fine next Wednesday. I
+LINE 100: don't feel that I could endure the disappointment if anything happened
+LINE 101: to prevent me from getting to the picnic. I suppose I'd live through it,
+LINE 102: but I'm certain it would be a lifelong sorrow. It wouldn't matter if
+LINE 103: I got to a hundred picnics in after years; they wouldn't make up for
+LINE 104: missing this one. They're going to have boats on the Lake of Shining
+LINE 105: Waters--and ice cream, as I told you. I have never tasted ice cream.
+LINE 106: Diana tried to explain what it was like, but I guess ice cream is one of
+LINE 107: those things that are beyond imagination."
+LINE 108: "Anne, you have talked even on for ten minutes by the clock," said
+LINE 109: Marilla. "Now, just for curiosity's sake, see if you can hold your
+LINE 110: tongue for the same length of time."
+LINE 111: Anne held her tongue as desired. But for the rest of the week she talked
+LINE 112: picnic and thought picnic and dreamed picnic. On Saturday it rained and
+LINE 113: she worked herself up into such a frantic state lest it should keep
+LINE 114: on raining until and over Wednesday that Marilla made her sew an extra
+LINE 115: patchwork square by way of steadying her nerves.
+LINE 116: On Sunday Anne confided to Marilla on the way home from church that she
+LINE 117: grew actually cold all over with excitement when the minister announced
+LINE 118: the picnic from the pulpit.
+LINE 119: "Such a thrill as went up and down my back, Marilla! I don't think I'd
+LINE 120: ever really believed until then that there was honestly going to be
+LINE 121: a picnic. I couldn't help fearing I'd only imagined it. But when a
+LINE 122: minister says a thing in the pulpit you just have to believe it."
+LINE 123: "You set your heart too much on things, Anne," said Marilla, with a
+LINE 124: sigh. "I'm afraid there'll be a great many disappointments in store for
+LINE 125: you through life."
+LINE 126: "Oh, Marilla, looking forward to things is half the pleasure of them,"
+LINE 127: exclaimed Anne. "You mayn't get the things themselves; but nothing can
+LINE 128: prevent you from having the fun of looking forward to them. Mrs.
+LINE 129: Lynde says, 'Blessed are they who expect nothing for they shall not be
+LINE 130: disappointed.' But I think it would be worse to expect nothing than to
+LINE 131: be disappointed."
+LINE 132: Marilla wore her amethyst brooch to church that day as usual. Marilla
+LINE 133: always wore her amethyst brooch to church. She would have thought it
+LINE 134: rather sacrilegious to leave it off--as bad as forgetting her Bible or
+LINE 135: her collection dime. That amethyst brooch was Marilla's most treasured
+LINE 136: possession. A seafaring uncle had given it to her mother who in turn
+LINE 137: had bequeathed it to Marilla. It was an old-fashioned oval, containing
+LINE 138: a braid of her mother's hair, surrounded by a border of very fine
+LINE 139: amethysts. Marilla knew too little about precious stones to realize how
+LINE 140: fine the amethysts actually were; but she thought them very beautiful
+LINE 141: and was always pleasantly conscious of their violet shimmer at her
+LINE 142: throat, above her good brown satin dress, even although she could not
+LINE 143: see it.
+LINE 144: Anne had been smitten with delighted admiration when she first saw that
+LINE 145: brooch.
+LINE 146: "Oh, Marilla, it's a perfectly elegant brooch. I don't know how you
+LINE 147: can pay attention to the sermon or the prayers when you have it on. I
+LINE 148: couldn't, I know. I think amethysts are just sweet. They are what I used
+LINE 149: to think diamonds were like. Long ago, before I had ever seen a diamond,
+LINE 150: I read about them and I tried to imagine what they would be like. I
+LINE 151: thought they would be lovely glimmering purple stones. When I saw a
+LINE 152: real diamond in a lady's ring one day I was so disappointed I cried. Of
+LINE 153: course, it was very lovely but it wasn't my idea of a diamond. Will you
+LINE 154: let me hold the brooch for one minute, Marilla? Do you think amethysts
+LINE 155: can be the souls of good violets?"

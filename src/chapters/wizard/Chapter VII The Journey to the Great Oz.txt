@@ -1,0 +1,151 @@
+LINE 1: They were obliged to camp out that night under a large tree in the
+LINE 2: forest, for there were no houses near. The tree made a good, thick
+LINE 3: covering to protect them from the dew, and the Tin Woodman chopped a
+LINE 4: great pile of wood with his axe and Dorothy built a splendid fire that
+LINE 5: warmed her and made her feel less lonely. She and Toto ate the last of
+LINE 6: their bread, and now she did not know what they would do for breakfast.
+LINE 7: "If you wish," said the Lion, "I will go into the forest and kill a
+LINE 8: deer for you. You can roast it by the fire, since your tastes are so
+LINE 9: peculiar that you prefer cooked food, and then you will have a very
+LINE 10: good breakfast."
+LINE 11: "Don't! Please don't," begged the Tin Woodman. "I should certainly weep
+LINE 12: if you killed a poor deer, and then my jaws would rust again."
+LINE 13: But the Lion went away into the forest and found his own supper, and no
+LINE 14: one ever knew what it was, for he didn't mention it. And the Scarecrow
+LINE 15: found a tree full of nuts and filled Dorothy's basket with them, so
+LINE 16: that she would not be hungry for a long time. She thought this was very
+LINE 17: kind and thoughtful of the Scarecrow, but she laughed heartily at the
+LINE 18: awkward way in which the poor creature picked up the nuts. His padded
+LINE 19: hands were so clumsy and the nuts were so small that he dropped almost
+LINE 20: as many as he put in the basket. But the Scarecrow did not mind how
+LINE 21: long it took him to fill the basket, for it enabled him to keep away
+LINE 22: from the fire, as he feared a spark might get into his straw and burn
+LINE 23: him up. So he kept a good distance away from the flames, and only came
+LINE 24: near to cover Dorothy with dry leaves when she lay down to sleep. These
+LINE 25: kept her very snug and warm, and she slept soundly until morning.
+LINE 26: When it was daylight, the girl bathed her face in a little rippling
+LINE 27: brook, and soon after they all started toward the Emerald City.
+LINE 28: This was to be an eventful day for the travelers. They had hardly been
+LINE 29: walking an hour when they saw before them a great ditch that crossed
+LINE 30: the road and divided the forest as far as they could see on either
+LINE 31: side. It was a very wide ditch, and when they crept up to the edge and
+LINE 32: looked into it they could see it was also very deep, and there were
+LINE 33: many big, jagged rocks at the bottom. The sides were so steep that none
+LINE 34: of them could climb down, and for a moment it seemed that their journey
+LINE 35: must end.
+LINE 36: "What shall we do?" asked Dorothy despairingly.
+LINE 37: "I haven't the faintest idea," said the Tin Woodman, and the Lion shook
+LINE 38: his shaggy mane and looked thoughtful.
+LINE 39: But the Scarecrow said, "We cannot fly, that is certain. Neither can we
+LINE 40: climb down into this great ditch. Therefore, if we cannot jump over it,
+LINE 41: we must stop where we are."
+LINE 42: "I think I could jump over it," said the Cowardly Lion, after measuring
+LINE 43: the distance carefully in his mind.
+LINE 44: "Then we are all right," answered the Scarecrow, "for you can carry us
+LINE 45: all over on your back, one at a time."
+LINE 46: "Well, I'll try it," said the Lion. "Who will go first?"
+LINE 47: "I will," declared the Scarecrow, "for, if you found that you could not
+LINE 48: jump over the gulf, Dorothy would be killed, or the Tin Woodman badly
+LINE 49: dented on the rocks below. But if I am on your back it will not matter
+LINE 50: so much, for the fall would not hurt me at all."
+LINE 51: "I am terribly afraid of falling, myself," said the Cowardly Lion, "but
+LINE 52: I suppose there is nothing to do but try it. So get on my back and we
+LINE 53: will make the attempt."
+LINE 54: The Scarecrow sat upon the Lion's back, and the big beast walked to the
+LINE 55: edge of the gulf and crouched down.
+LINE 56: "Why don't you run and jump?" asked the Scarecrow.
+LINE 57: "Because that isn't the way we Lions do these things," he replied. Then
+LINE 58: giving a great spring, he shot through the air and landed safely on the
+LINE 59: other side. They were all greatly pleased to see how easily he did it,
+LINE 60: and after the Scarecrow had got down from his back the Lion sprang
+LINE 61: across the ditch again.
+LINE 62: Dorothy thought she would go next; so she took Toto in her arms and
+LINE 63: climbed on the Lion's back, holding tightly to his mane with one hand.
+LINE 64: The next moment it seemed as if she were flying through the air; and
+LINE 65: then, before she had time to think about it, she was safe on the other
+LINE 66: side. The Lion went back a third time and got the Tin Woodman, and then
+LINE 67: they all sat down for a few moments to give the beast a chance to rest,
+LINE 68: for his great leaps had made his breath short, and he panted like a big
+LINE 69: dog that has been running too long.
+LINE 70: They found the forest very thick on this side, and it looked dark and
+LINE 71: gloomy. After the Lion had rested they started along the road of yellow
+LINE 72: brick, silently wondering, each in his own mind, if ever they would
+LINE 73: come to the end of the woods and reach the bright sunshine again. To
+LINE 74: add to their discomfort, they soon heard strange noises in the depths
+LINE 75: of the forest, and the Lion whispered to them that it was in this part
+LINE 76: of the country that the Kalidahs lived.
+LINE 77: "What are the Kalidahs?" asked the girl.
+LINE 78: "They are monstrous beasts with bodies like bears and heads like
+LINE 79: tigers," replied the Lion, "and with claws so long and sharp that they
+LINE 80: could tear me in two as easily as I could kill Toto. I'm terribly
+LINE 81: afraid of the Kalidahs."
+LINE 82: "I'm not surprised that you are," returned Dorothy. "They must be
+LINE 83: dreadful beasts."
+LINE 84: The Lion was about to reply when suddenly they came to another gulf
+LINE 85: across the road. But this one was so broad and deep that the Lion knew
+LINE 86: at once he could not leap across it.
+LINE 87: So they sat down to consider what they should do, and after serious
+LINE 88: thought the Scarecrow said:
+LINE 89: "Here is a great tree, standing close to the ditch. If the Tin Woodman
+LINE 90: can chop it down, so that it will fall to the other side, we can walk
+LINE 91: across it easily."
+LINE 92: "That is a first-rate idea," said the Lion. "One would almost suspect
+LINE 93: you had brains in your head, instead of straw."
+LINE 94: The Woodman set to work at once, and so sharp was his axe that the tree
+LINE 95: was soon chopped nearly through. Then the Lion put his strong front
+LINE 96: legs against the tree and pushed with all his might, and slowly the big
+LINE 97: tree tipped and fell with a crash across the ditch, with its top
+LINE 98: branches on the other side.
+LINE 99: They had just started to cross this queer bridge when a sharp growl
+LINE 100: made them all look up, and to their horror they saw running toward them
+LINE 101: two great beasts with bodies like bears and heads like tigers.
+LINE 102: "They are the Kalidahs!" said the Cowardly Lion, beginning to tremble.
+LINE 103: "Quick!" cried the Scarecrow. "Let us cross over."
+LINE 104: So Dorothy went first, holding Toto in her arms, the Tin Woodman
+LINE 105: followed, and the Scarecrow came next. The Lion, although he was
+LINE 106: certainly afraid, turned to face the Kalidahs, and then he gave so loud
+LINE 107: and terrible a roar that Dorothy screamed and the Scarecrow fell over
+LINE 108: backward, while even the fierce beasts stopped short and looked at him
+LINE 109: in surprise.
+LINE 110: But, seeing they were bigger than the Lion, and remembering that there
+LINE 111: were two of them and only one of him, the Kalidahs again rushed
+LINE 112: forward, and the Lion crossed over the tree and turned to see what they
+LINE 113: would do next. Without stopping an instant the fierce beasts also began
+LINE 114: to cross the tree. And the Lion said to Dorothy:
+LINE 115: "We are lost, for they will surely tear us to pieces with their sharp
+LINE 116: claws. But stand close behind me, and I will fight them as long as I am
+LINE 117: alive."
+LINE 118: "Wait a minute!" called the Scarecrow. He had been thinking what was
+LINE 119: best to be done, and now he asked the Woodman to chop away the end of
+LINE 120: the tree that rested on their side of the ditch. The Tin Woodman began
+LINE 121: to use his axe at once, and, just as the two Kalidahs were nearly
+LINE 122: across, the tree fell with a crash into the gulf, carrying the ugly,
+LINE 123: snarling brutes with it, and both were dashed to pieces on the sharp
+LINE 124: rocks at the bottom.
+LINE 125: "Well," said the Cowardly Lion, drawing a long breath of relief, "I see
+LINE 126: we are going to live a little while longer, and I am glad of it, for it
+LINE 127: must be a very uncomfortable thing not to be alive. Those creatures
+LINE 128: frightened me so badly that my heart is beating yet."
+LINE 129: "Ah," said the Tin Woodman sadly, "I wish I had a heart to beat."
+LINE 130: This adventure made the travelers more anxious than ever to get out of
+LINE 131: the forest, and they walked so fast that Dorothy became tired, and had
+LINE 132: to ride on the Lion's back. To their great joy the trees became thinner
+LINE 133: the farther they advanced, and in the afternoon they suddenly came upon
+LINE 134: a broad river, flowing swiftly just before them. On the other side of
+LINE 135: the water they could see the road of yellow brick running through a
+LINE 136: beautiful country, with green meadows dotted with bright flowers and
+LINE 137: all the road bordered with trees hanging full of delicious fruits. They
+LINE 138: were greatly pleased to see this delightful country before them.
+LINE 139: "How shall we cross the river?" asked Dorothy.
+LINE 140: "That is easily done," replied the Scarecrow. "The Tin Woodman must
+LINE 141: build us a raft, so we can float to the other side."
+LINE 142: So the Woodman took his axe and began to chop down small trees to make
+LINE 143: a raft, and while he was busy at this the Scarecrow found on the
+LINE 144: riverbank a tree full of fine fruit. This pleased Dorothy, who had
+LINE 145: eaten nothing but nuts all day, and she made a hearty meal of the ripe
+LINE 146: fruit.
+LINE 147: But it takes time to make a raft, even when one is as industrious and
+LINE 148: untiring as the Tin Woodman, and when night came the work was not done.
+LINE 149: So they found a cozy place under the trees where they slept well until
+LINE 150: the morning; and Dorothy dreamed of the Emerald City, and of the good
+LINE 151: Wizard Oz, who would soon send her back to her own home again.

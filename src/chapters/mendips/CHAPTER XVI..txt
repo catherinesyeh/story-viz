@@ -1,0 +1,566 @@
+LINE 1: "FIRE SEVEN TIMES HEATED."
+LINE 2: Taking a circuitous route by Granby Hill, where two little urchins were
+LINE 3: waiting to scotch the wheels, the lumbering coach, of much larger
+LINE 4: proportions than the modern fly, reached the gate of the Infirmary
+LINE 5: before ten o'clock.
+LINE 6: The coachman was very much excited by the events of the previous day,
+LINE 7: and was rather glad to have the opportunity of taking back to Clifton
+LINE 8: reliable information as to the state of the city.
+LINE 9: He skirted the suburbs of Bedminster, and was somewhat proud of his
+LINE 10: achievement.
+LINE 11: Joyce left Piers in the coach, and, taking Susan's arm she went into the
+LINE 12: large, gloomy entrance of the building.
+LINE 13: Here people were standing in groups; some crying, some talking in angry
+LINE 14: tones, and the surgeons and attendants all passing to and fro, as news
+LINE 15: of those who had been wounded was hastily given to their friends.
+LINE 16: As Joyce stood waiting to see the surgeon of the ward where Bob Priday
+LINE 17: lay, a man came rushing in.
+LINE 18: "The mob are in the Mansion House," he said; "they are throwing out the
+LINE 19: furniture; it is worse than ever."
+LINE 20: "Where are the authorities?" asked one of the surgeons, who had a roll
+LINE 21: of bandages in his hand.
+LINE 22: "Rushing away, for their lives, like cats on the roofs of the houses.
+LINE 23: They are hunting for Colonel Brereton, and calling upon all the people
+LINE 24: in College Green to come to the aid of the magistrates in the King's
+LINE 25: name."
+LINE 26: "And the magistrates climbing over the roofs of the houses; dear, dear!"
+LINE 27: said the old surgeon. "Pray, madam," he said, turning to Joyce, "is
+LINE 28: there anything I can do for you?"
+LINE 29: "Yes," Joyce said; "this young woman's father is dying in one of the
+LINE 30: wards."
+LINE 31: "What ward? what ward? We are all so busy."
+LINE 32: "He was brought in yesterday by a gentleman whose head had been hurt;
+LINE 33: Mr. Arundel, one of the special constables."
+LINE 34: "All right--yes--this way, madam; but let me advise you to make short
+LINE 35: work of your visit, and get back to your own house! this way."
+LINE 36: "Is the man conscious?"
+LINE 37: "Yes, there is a flicker up before the end; but he is dying."
+LINE 38: Poor Susan pressed her hand upon her side, and clung to her mistress's
+LINE 39: arm.
+LINE 40: "Oh, dear lady, pray for me," she said. "I have come because I knew
+LINE 41: mother would have wished it."
+LINE 42: "Take courage, Susan, and God will help you."
+LINE 43: Many wistful eyes were turned upon the mistress and her maid, as they
+LINE 44: entered the ward. Some of the wounded people were groaning, others
+LINE 45: crying aloud for help; but Bob Priday, lying against pillows propped
+LINE 46: behind him, was still and silent.
+LINE 47: Joyce led Susan to the bed, and said:
+LINE 48: "I have brought your daughter, and I come to thank you for keeping your
+LINE 49: promise; for you saved my husband's life."
+LINE 50: A strange, half-conscious smile flitted over the man's face.
+LINE 51: "I'm sorry I've been such a bad husband to thee, Susan, for thou wert a
+LINE 52: tidy lass when I married thee. What are thee come to fetch me for?
+LINE 53: Susan, don't'ee cry."
+LINE 54: "Father, father! my dear mistress has brought me to say 'Good-bye.'"
+LINE 55: "Aye, I remember now; tell her 'twas the touch of her little, white
+LINE 56: hand that did it. Says I to myself, if she can touch the likes of me,
+LINE 57: perhaps God may forgive me, do you see, Sue? I thought 'twas your mother
+LINE 58: at first; I see now; 'tis little Sue--a woman grown. Tell your mistress
+LINE 59: 'twas her little, white hand that did it. Lor! she is like an angel."
+LINE 60: Then Joyce took the hand lying nearest once more in hers, and, kneeling
+LINE 61: down, raised her clear, sweet voice and repeated:
+LINE 62: "The Son of Man came to seek and to save that which was lost.
+LINE 63: "There is joy in the presence of the Angels of God over one sinner that
+LINE 64: repenteth."
+LINE 65: "I do repent," he said; and great tears--the first tears Bob Priday had
+LINE 66: shed for many a long year--ran down his cheeks. "It's all along of
+LINE 67: _you_," he said; "as _you_ forgive me, He may."
+LINE 68: Then Joyce asked for pardon of Him in whose steps she was following, for
+LINE 69: this poor, dying man, whose life had been so darkened by sin, and who
+LINE 70: had brought so much sorrow upon others.
+LINE 71: "O Lamb of God, that taketh away the sins of the world, have mercy upon
+LINE 72: us;" and the last conscious words which Bob Priday spoke were, "Amen,"
+LINE 73: and then, "Kiss me, little Sue."
+LINE 74: Joyce left Susan kneeling by the bed, while she turned to others in the
+LINE 75: ward, passing through the long line of beds like a messenger of peace.
+LINE 76: A word here and a word there; a gentle touch of the same white hand
+LINE 77: which had been stretched out to poor Bob Priday, and had brought home to
+LINE 78: his soul the power of God's love, and Joyce, in all the first flush of
+LINE 79: her young beauty, in all the bright gladness of the summer morning at
+LINE 80: Fair Acres, had never looked so lovely as when she drew Susan gently
+LINE 81: away, and, putting her arm in hers, left the ward, followed by the
+LINE 82: wondering and wistful glances of the patients and the nurses.
+LINE 83: There was no time to lose, for the sound of distant tumult grew louder.
+LINE 84: The old surgeon urged the coachman to take as wide a sweep as possible,
+LINE 85: to avoid the Bristol streets, and just as they were starting a man
+LINE 86: rushed in with more news.
+LINE 87: The mob were on their way to Bridewell to set the prisoners free who had
+LINE 88: been committed on Saturday, and Colonel Brereton had declared his
+LINE 89: intention of withdrawing the 14th Light Dragoons from the city.
+LINE 90: This last act in the drama of irresolution and incompetence was
+LINE 91: followed, before sun-down, with the flames of a burning city, and the
+LINE 92: ever increasing fury of a mob, whose blood was inflamed with the wine
+LINE 93: from the Mansion House cellars, which had been drunk with eager
+LINE 94: recklessness, and had excited the brains of the poor, ignorant people
+LINE 95: till they were literally madmen, ah! and mad women too, as well as
+LINE 96: rioters.
+LINE 97: When Joyce reached her own door, little Falcon met her.
+LINE 98: "Mother," he said, "when the church bells were ringing, the soldiers
+LINE 99: were coming down Park Street, and grandmother said we must not go to
+LINE 100: church."
+LINE 101: "It is better not to go, dear boy," his mother said.
+LINE 102: "It's not a bit like Sunday," Falcon exclaimed, "for the people are
+LINE 103: beginning to shout again, and roar louder than ever down below."
+LINE 104: Mrs. Arundel was sitting with Gilbert, who was drowsy and heavy, and
+LINE 105: asked but few questions as to where Joyce had been.
+LINE 106: "It was a great risk," Mrs. Arundel said; "and did it effect any good?"
+LINE 107: "I think so," said Joyce, simply. "I took hope to the death-bed of a
+LINE 108: poor man, the hope which was not denied to the thief on the cross; and I
+LINE 109: took a daughter to bear witness to her father that love could triumph
+LINE 110: even over the memory of wrong-doing like his."
+LINE 111: Mrs. Arundel shook her head. "We must leave the result with God," she
+LINE 112: said; "a God of love; but He will by no means spare the guilty. Where
+LINE 113: are Piers and Susan?"
+LINE 114: "They are gone back to Down Cottage. I got out of the coach at the turn
+LINE 115: to Brandon Hill. The children looked so well and happy, and my mother
+LINE 116: has made them so cosy and comfortable."
+LINE 117: Then Joyce took up her post by her husband's bed. The doctor, who came
+LINE 118: in later, said that he was to be kept very quiet and free from
+LINE 119: excitement; and, he added, "I wish, indeed, he were further from the
+LINE 120: town, for I greatly fear worse things are at hand."
+LINE 121: The story of that fearful Sunday is too well known to need any minute
+LINE 122: description here.
+LINE 123: Hour by hour the tumult increased; forked flames shot up into the gray,
+LINE 124: autumnal sky, as the governor's house at the gaol and the chapel were
+LINE 125: set on fire by the rioters; and, as the benches in the interior of the
+LINE 126: chapel had been rubbed with pitch, the whole was soon devoured. The
+LINE 127: county prison followed, and, at half-past eight on Sunday evening, the
+LINE 128: lurid glare in the heavens was awful to witness.
+LINE 129: Poor little Falcon, clasped in his mother's arms as she sat in the
+LINE 130: window-seat, hid his face in her breast and at last, worn out with
+LINE 131: terror and excitement, fell asleep. Then she carried him to a room at
+LINE 132: the back of the house, where Mrs. Arundel and the maids had taken
+LINE 133: refuge, and returned to watch by Gilbert's side. In her secret heart she
+LINE 134: was thankful that the "blow at a venture" had prevented her husband from
+LINE 135: being in the seething crowd below. How terrible would have been her
+LINE 136: watch had she known that he was there, in the very thick of the fray.
+LINE 137: Gilbert lay very still, and often slept, though, in spite of the thick
+LINE 138: curtains drawn round the large four-post bed, the red glare from without
+LINE 139: was distinctly visible.
+LINE 140: "Joyce," he said, when this glare had become fiercer and more fierce
+LINE 141: every moment; "Joyce, what are they burning?"
+LINE 142: "I cannot tell," she said. "I think it must be the Palace; but it looks
+LINE 143: like the whole city. It is very terrible."
+LINE 144: "Draw back the curtain for a moment, and let me look."
+LINE 145: She obeyed him, and lifted also the curtain which shaded the window
+LINE 146: nearest the bed.
+LINE 147: Gilbert raised himself for a moment, and then fell back.
+LINE 148: "I ought to be there," he said, "not here. Those poor people! those poor
+LINE 149: people! Is there none to help?"
+LINE 150: "It seems as if God had forgotten to be gracious," Joyce said, faintly.
+LINE 151: "We must not say that, darling, for we know that there is a cause. This
+LINE 152: may arouse many to think, who have never thought before, of the great
+LINE 153: needs of the ignorant and uncared-for masses in great cities like
+LINE 154: Bristol. They know not what they do. Close the curtains again, I cannot
+LINE 155: look any longer."
+LINE 156: He lay back on his pillow, and Joyce, drawing the curtain, resumed her
+LINE 157: post by the window.
+LINE 158: About ten o'clock, the gardener, who kept guard in the hall, came
+LINE 159: upstairs.
+LINE 160: "Mistress," he said, "Mr. Bengough is here, and would like to know how
+LINE 161: the master is."
+LINE 162: Joyce raised her hand to enjoin silence, hoping that Gilbert slept, and
+LINE 163: went down into the hall.
+LINE 164: Mr. Bengough's face was blackened, and his clothes smelt of smoke and
+LINE 165: fire.
+LINE 166: "It is an awful scene," he said, supporting himself against the wall,
+LINE 167: while Joyce went to fetch him a glass of wine; "the palace is burnt to
+LINE 168: the ground, and the lead on the cathedral is positively melting with the
+LINE 169: heat. The deanery escaped by the pluck of the old Dean. He came out and
+LINE 170: harangued the rioters, saying, 'Wait a bit, let's have three cheers
+LINE 171: first--one cheer for the king, one cheer for the people, and one for
+LINE 172: the old Dean!' The mob cheered lustily, and turned off to find other
+LINE 173: prey. They say Park Street is to follow, and those houses which are
+LINE 174: doomed are to have a white mark for a sign; but there is no order
+LINE 175: amongst them, and every one of the chief rioters is drunk with the
+LINE 176: Bishop's wine, taken from the cellars, which they have sold for a penny
+LINE 177: a bottle! Now they have set fire to Queen's Square, and the Mansion
+LINE 178: House is one blazing pile. The Mayor has come up to Berkley Square,
+LINE 179: where I must follow him. The special constables were separated from him
+LINE 180: in the crowd, and, can you believe it, Brereton's troops, after parading
+LINE 181: round Queen's Square, have retired to their quarters. Confusion
+LINE 182: everywhere, and no one knows what may come next. I must not stay; but,
+LINE 183: Mrs. Arundel, you may be thankful for the blow on your husband's head,
+LINE 184: yesterday, which has, perhaps, saved his life. Upon my honour, I don't
+LINE 185: believe any man outside his own doors to-night can depend upon living to
+LINE 186: see the morning break."
+LINE 187: When Mr. Bengough was gone, Joyce heard the frightened servants crying
+LINE 188: out, that the fire was bigger than ever, and that they were sure the
+LINE 189: house would catch fire, and they would all be burned alive.
+LINE 190: Mrs. Arundel could not calm their fears, and scarcely control her own,
+LINE 191: and Joyce alone preserved any self-possession.
+LINE 192: "The panes of glass are hot in the nursery!" they said; "come up there,
+LINE 193: ma'am, and see if it is not true."
+LINE 194: "Do not wake Master Falcon or disturb your master. Remember you are--we
+LINE 195: all are--in God's hands."
+LINE 196: But, as Joyce looked out from the vantage ground of the nursery windows,
+LINE 197: the terrified servants clinging to her, with cries and exclamations, the
+LINE 198: sight was one too awful for any words to paint. The panes of glass were
+LINE 199: actually heated, and the lurid, fierce glare seemed to be ever
+LINE 200: increasing.
+LINE 201: The scene upon which Joyce gazed, with that strange fascination, which,
+LINE 202: acting like a spell, seemed to compel her to look at what yet she shrank
+LINE 203: from as too awful, has been left on record by one who, then a boy at
+LINE 204: school, has described it in a vivid word picture, which was the outcome
+LINE 205: of the actual experience of an eye-witness. This boy, who was one day,
+LINE 206: to be foremost in the ranks of those who carried the standard of truth,
+LINE 207: and justice, and charity into the very thick of the conflict with the
+LINE 208: powers of darkness, thus spoke--long, long after most of those who had
+LINE 209: taken any part in those three awful days were dead--to an audience who
+LINE 210: were inhabitants of the city of Bristol, and to whom, therefore, the
+LINE 211: subject was of especial interest. He said:
+LINE 212: "I was a schoolboy in Clifton, up above Bristol. I had been hearing of
+LINE 213: political disturbances, even of riots, of which I understood nothing,
+LINE 214: and for which I cared nothing.
+LINE 215: "But on one memorable Sunday afternoon I saw an object which was
+LINE 216: distinctly not political. It was an afternoon of sullen, autumn rain.
+LINE 217: The fog hung thick over the docks and lowlands. Glaring through the fog
+LINE 218: I saw a bright mass of flame, almost like a half-risen sun. That, I was
+LINE 219: told, was the gate of the new gaol on fire; that the prisoners had been
+LINE 220: set free. The fog rolled slowly upwards. Dark figures, even at that
+LINE 221: great distance, were flitting to and fro across what seemed the mouth of
+LINE 222: the fire.
+LINE 223: "The flames increased, multiplied at one point after another, till by
+LINE 224: ten o'clock that night one seemed to be looking down upon Dante's
+LINE 225: Inferno, and to hear the multitudinous moan and wail of the lost
+LINE 226: spirits, surging to and fro amid the sea of fire.
+LINE 227: "Right behind Brandon Hill rose the central mass of fire, till the
+LINE 228: little mound seemed converted into a volcano, from the peak of which the
+LINE 229: flame streamed up, not red above, but delicately green and blue, pale
+LINE 230: rose, and pearly white, while crimson sparks leapt and fell again in the
+LINE 231: midst of that rainbow, not of hope, but of despair; and dull explosions
+LINE 232: down below mingled with the roar of the mob, and the infernal hiss and
+LINE 233: crackle of the flames.
+LINE 234: "Higher and higher the fog was scorched upward by the fierce heat below,
+LINE 235: glowing through and through with red, reflected glare, till it arched
+LINE 236: itself into one vast dome of red-hot iron, fit roof for all the madness
+LINE 237: below; and beneath it, miles away, I could see the lonely tower of
+LINE 238: Dundry Church shining red--the symbol of the old Faith--looking down in
+LINE 239: stately wonder and sorrow upon the fearful birth-throes of a new age."
+LINE 240: * * * * *
+LINE 241: When morning dawned on Monday, help really seemed at hand, and five
+LINE 242: thousand men obeyed the call for the _posse comitatûs_, and, furnished
+LINE 243: with a short staff and a strip of white linen round their arm as a
+LINE 244: badge, did good service for the restoration of order. Shops were all
+LINE 245: closed, business suspended, and the soldiers, and the naval and military
+LINE 246: pensioners, under Captain Cook, cleared the streets, and peace seemed in
+LINE 247: a fair way of being restored.
+LINE 248: Peace, and at what a price! Wreck and ruin everywhere; Queen's Square, a
+LINE 249: mass of burning rubbish, strewn, too, with the charred bodies of those
+LINE 250: who had fallen in the fray. At night, by order of the Mayor, the
+LINE 251: churches and houses were lighted up, and the soldiers guarded the
+LINE 252: streets.
+LINE 253: Transcriber's note: The footnote was placed, without an anchor,
+LINE 254: at this point in the original.
+LINE 255: [Footnote: _Vide_ "Charles Kingsley's Life," vol. i., p. 21.]
+LINE 256: But it was not till after the fifth of November, when an outburst of
+LINE 257: Protestant and Anti-Reform zeal was expected, that the law-abiding
+LINE 258: people of Bristol and its surrounding neighbourhood felt safe. During
+LINE 259: the whole of that week watch and ward was kept, and all demonstrations
+LINE 260: were repressed.
+LINE 261: The Bristol Riots were over, but the day of reckoning came; and for many
+LINE 262: weeks there was nothing thought of but the restoration of lost property,
+LINE 263: the finding of dead bodies hid in the ruins of Queen's Square, and the
+LINE 264: apprehension of the ringleaders in the rebellion.
+LINE 265: Colonel Brereton was charged by the Mayor with not acting up to his
+LINE 266: orders, and a military inquiry was appointed to try the truth of the
+LINE 267: Mayor's statement, and held at the Hall of the Merchant Venturers, and
+LINE 268: it ended in Colonel Brereton's being put under arrest, previous to his
+LINE 269: trial by court martial.
+LINE 270: It was some time before Gilbert was fit for any exertion, and the doctor
+LINE 271: insisted on quiet and complete rest. His whole system had received a
+LINE 272: shock, and the effects of the blow were seen by constant headache, and
+LINE 273: an irritability and depression very unlike himself.
+LINE 274: All Joyce's cheerfulness and patience were needed; and as Falcon's
+LINE 275: boyish mirth was more than his father could bear, Joyce determined to
+LINE 276: take him to Down Cottage, and bring back with her "Baby Joy," who was
+LINE 277: one of those loving doves of babies who seem born to be happy themselves
+LINE 278: and make other people happier! Joyce, therefore, packed up a few small
+LINE 279: garments in a bag for Falcon, and set off with him one bright November
+LINE 280: day to Down Cottage.
+LINE 281: Her appearance was always the signal for a great outburst of joy, and
+LINE 282: Lota and Lettice were delighted to find that Falcon was to stay with
+LINE 283: them.
+LINE 284: "You don't mind, mother, making the exchange," Joyce said; "I should
+LINE 285: feel so desolate with no child, and Gilbert cannot yet bear any noise. I
+LINE 286: suppose Charlotte Benson is gone home? The Wells coach is running
+LINE 287: again."
+LINE 288: In all the excitement of the past ten days, Joyce had really thought but
+LINE 289: little of Charlotte, and when her mother did not reply to the question
+LINE 290: at once, she said:
+LINE 291: "What day did Charlotte go home?"
+LINE 292: "She is not gone home at all; you had better ask Piers about her."
+LINE 293: "Is anything wrong?" Joyce asked.
+LINE 294: "Well," said Mrs. Falconer, in her old blunt fashion, "I believe
+LINE 295: Charlotte thinks everything is right, not wrong, but Piers is of a
+LINE 296: different opinion. As for myself, I am no judge of lords and grand
+LINE 297: folks, nor their ways neither. But Charlotte thinks she is going to be
+LINE 298: 'my lady,' and that's about the truth."
+LINE 299: "Mother!" Joyce exclaimed; "mother, it must be prevented; it is
+LINE 300: impossible. How wrong we have all been to be so engrossed with our own
+LINE 301: concerns and forget Charlotte's. I had really forgotten Lord Maythorne
+LINE 302: was here. What will Mrs. Arundel say? Where is Piers?"
+LINE 303: The tap of Piers' crutches was now heard on the flag-stones before Down
+LINE 304: Cottage, and he came in.
+LINE 305: "I am glad you are come Joyce; it is time some one interfered. I have
+LINE 306: just been acting the spy on the Observatory Hill, and there are
+LINE 307: Charlotte and her elderly beau disporting themselves."
+LINE 308: "Oh! Piers, it is really dreadful. I must tell Gilbert at once, and Mrs.
+LINE 309: Arundel. It will worry Gilbert dreadfully, and he is still so weak."
+LINE 310: "You need not look so doleful, Joyce; after all, if people will make
+LINE 311: their own bed of thorns, they must bear the prick when they lie down on
+LINE 312: it. It all comes of Aunt Letitia's silly bringing up. Charlotte has
+LINE 313: been made a foolish, sentimental woman, and this is the end of it."
+LINE 314: "It must not be the end; I must do all I can to prevent it. Call Susan
+LINE 315: to bring Joy, and we will go home at once. I must consult Mrs. Arundel,
+LINE 316: and ask her what it is best to do."
+LINE 317: "You won't have time, for here they come," Piers said.
+LINE 318: Yes; there was Charlotte, with her head on one side, and evidently
+LINE 319: simpering at some compliment, which her companion was administering.
+LINE 320: When they came into the sitting-room, and stood face to face with Joyce,
+LINE 321: one betrayed some annoyance, and the other some triumph.
+LINE 322: "I thought you would have gone home yesterday, Charlotte," Joyce said,
+LINE 323: after the first greeting. "Is not Aunt Letitia anxious to see you? This
+LINE 324: house is very full," she added, "and Gilbert is not well enough for me
+LINE 325: to ask you to return to Great George Street."
+LINE 326: "I am going to Wells to-morrow, dear," Charlotte said, "and--and--"
+LINE 327: "I am to have the honour of escorting Miss Benson to Wells," Lord
+LINE 328: Maythorne said, in his honeyed accents.
+LINE 329: "Indeed; I am sorry to hear it," Joyce said, sharply.
+LINE 330: "I want to see my very old friend, now he is turned into a Benedict, at
+LINE 331: Fair Acres, and who knows if I may not follow his example. I have known
+LINE 332: Gratian, I may almost say, from childhood; I cannot profess to have that
+LINE 333: honour with regard to you, fair niece."
+LINE 334: Joyce felt too angry to trust herself to reply, but she turned to
+LINE 335: Charlotte, and said:
+LINE 336: "I want to speak to you, Charlotte, in Piers' room."
+LINE 337: Joyce's tone was one of command rather than of entreaty, and Charlotte
+LINE 338: followed meekly.
+LINE 339: As soon as the door was shut, she said: "Surely Charlotte, you are not
+LINE 340: going to travel to Wells alone with Lord Maythorne?"
+LINE 341: Charlotte drew herself erect.
+LINE 342: "Yes, I am. Why not? I am engaged to be married to him."
+LINE 343: "Oh, Charlotte! it must not be thought of. Aunt Letitia will not allow
+LINE 344: it."
+LINE 345: "Auntie not only allows it, but is quite pleased," Charlotte said.
+LINE 346: "Some one must interfere. I cannot see you wilfully ruin the happiness
+LINE 347: of your whole life by such an act."
+LINE 348: "That's just what he said," Charlotte exclaimed. "He said he knew you
+LINE 349: would make objections, because Gilbert has often meddled in his
+LINE 350: concerns before; but that will not change me. If you--if
+LINE 351: you"--Charlotte broke down, and became tearful--"had been so hungry for
+LINE 352: somebody to care for you as I have been, and had known what it was to be
+LINE 353: slighted and looked down upon, you would not be so cruel. It is all very
+LINE 354: well for _you_. But you never did care what became of poor me, and I--I
+LINE 355: used to love you so much, Joyce."
+LINE 356: Charlotte began to sob piteously, and Joyce felt she must appear
+LINE 357: hard-hearted, and take the consequences.
+LINE 358: Just as she had dispelled the vision of the raindrop which was to revive
+LINE 359: the drooping rose many years ago, so now she must do her best to dispel
+LINE 360: a far more dangerous illusion.
+LINE 361: "Lord Maythorne is not a good man," she said; "he is continually in
+LINE 362: debt; he often plays high, and he has been living abroad all these years
+LINE 363: in what manner we hardly know. We believe that he came to Bristol now,
+LINE 364: simply to get some money out of his sister, my mother-in-law. Surely,
+LINE 365: Charlotte, you must see that if you marry him you will be miserable."
+LINE 366: "Gratian married Melville, and you prophesied the same then; and they
+LINE 367: are very happy."
+LINE 368: "That is a very different case. Gratian is older, wiser, and stronger
+LINE 369: than Melville, and keeps him right by the force of her own will.
+LINE 370: Besides, Melville was weak, and easily yielded to temptation; but he was
+LINE 371: not like Lord Maythorne, who did his best to ruin him in his Oxford
+LINE 372: days."
+LINE 373: "He says--he says that is all a lie of Gilbert's."
+LINE 374: "How dare you speak like that of my husband! A lie! As if he ever
+LINE 375: stooped to tell a lie." Joyce flushed angrily, and continued: "You are a
+LINE 376: poor, weak, sentimental girl, not a girl, for you are nearly thirty, and
+LINE 377: if you do not know what is good for you, you must be taken care of. If
+LINE 378: my little Lettice wished to eat anything that was poisonous I should
+LINE 379: take it from her, and by the same rule I shall treat you."
+LINE 380: "You have no right over me. Aunt Letitia knows, and _she_ approves, and
+LINE 381: expects us to-morrow."
+LINE 382: But Joyce did not give in one whit.
+LINE 383: "Aunt Letitia must be enlightened then," she said, "without loss of
+LINE 384: time, and I shall take care that she knows the true character of the man
+LINE 385: to whom she thinks of entrusting you."
+LINE 386: Charlotte tried to rally herself, and began to laugh hysterically.
+LINE 387: "You think so much of yourself, and that you are so wise, and that
+LINE 388: Gilbert has made you just like himself, you both think yourselves so
+LINE 389: good and perfect."
+LINE 390: Joyce told herself it was foolish as well as wrong to be angry with
+LINE 391: Charlotte, who was so unreasoning and feeble-minded.
+LINE 392: She left her abruptly, called Susan and the baby, had many rapturous
+LINE 393: hugs from her little girls and Falcon and then kissing her mother, she
+LINE 394: bowed to Lord Maythorne, and departed.
+LINE 395: Mrs. Arundel was greatly distressed when she heard Joyce's news, and
+LINE 396: they consulted together what it was best to do.
+LINE 397: "After all," Mrs. Arundel said, "neither you nor I have any right over
+LINE 398: Charlotte. If she is warned, that is all we can do. If Miss Falconer
+LINE 399: consents, she is her lawful guardian, and stands in the place of her
+LINE 400: mother."
+LINE 401: "Shall we tell Gilbert?"
+LINE 402: "I think not, he cannot take any active part in the matter; Dr. Smith
+LINE 403: has been here, and told me he did not think Gilbert would be able to
+LINE 404: return to the office for some time, that he had sustained a slight
+LINE 405: concussion of the brain, and that we were to be careful not to worry him
+LINE 406: with anything. He advises our making a move to Abbot's Leigh, to that
+LINE 407: house of Mr. Bayley's, as soon as we can arrange it, and Gilbert is able
+LINE 408: to bear the drive. He is very kind, and offered his carriage."
+LINE 409: "That will be delightful," Joyce said; "the trees are still beautiful in
+LINE 410: colour, and oh! to be in the real country again with the children. If
+LINE 411: only Charlotte were not so utterly foolish! I think I shall tell Gilbert
+LINE 412: quietly, when we are alone together; for he ought to know. Come, baby
+LINE 413: Joy, let us go and see dear father."
+LINE 414: Gilbert turned his head towards the door as Joyce came in.
+LINE 415: "Here is baby Joy come to kiss father," she said, dropping the baby down
+LINE 416: gently into her father's arms.
+LINE 417: "Little Joy; well, she looks as sweet as ever--like her mother,
+LINE 418: well-named. You have been away an age," he said; "it's always like the
+LINE 419: sun going behind a cloud when you are gone."
+LINE 420: "The sun is very grateful for the compliment," Joyce said, seating
+LINE 421: herself on a low stool by the sofa; "and so is the little sun, isn't
+LINE 422: she, baby?"
+LINE 423: The baby had possessed herself of her father's watch-chain, and was
+LINE 424: sucking it vigorously.
+LINE 425: "I took Falcon to Grannie, because he made your head ache, and I brought
+LINE 426: back Joy, because she never could make anyone's head ache."
+LINE 427: "Poor little Falcon! I am afraid I was very cantankerous this morning,
+LINE 428: but that dreadful trumpet was rather too much. It is excessively stupid
+LINE 429: of me to be so long getting well; but, do you know, I am haunted with
+LINE 430: those terrible scenes of last week, and, with the best intentions of
+LINE 431: amusing me, Bayley came here and described the condition of Queen's
+LINE 432: Square, and the charred bodies they found, one, the corpse of an old
+LINE 433: woman, with a bit of red petticoat clinging to it. Ah! it is awful to
+LINE 434: think of; and the cure for all this seems so far off."
+LINE 435: "It will come at last," Joyce said, with quiet decision.
+LINE 436: "Yes, when the whole nation wakes up to see the needs of the poor. We
+LINE 437: don't help them, nor try to raise them out of their ignorance of the
+LINE 438: commonest laws of humanity. We have been wholly neglectful of their
+LINE 439: souls and bodies, and then when they are heated by drink, and let loose
+LINE 440: their fury against some grievance, like the entrance of the Anti-Reform
+LINE 441: Recorder into Bristol, we hunt them down, trample them under foot, and
+LINE 442: never look below the surface to find out what is the bitter root, from
+LINE 443: which all this springs."
+LINE 444: "_You_ look below the surface, dearest; but don't go over it all now; I
+LINE 445: have a piece of news to tell you, which has made me very angry.
+LINE 446: Charlotte Benson says she is engaged to marry your uncle. Can anything
+LINE 447: be done?"
+LINE 448: "Write at once to aunt Letitia to stop it."
+LINE 449: "That is the most extraordinary part of the whole affair; she does not
+LINE 450: disapprove it."
+LINE 451: "She must be mad!" said Gilbert, shortly; "what does my mother say?"
+LINE 452: "She is afraid of exciting you about it; but she is very much
+LINE 453: disturbed."
+LINE 454: "She may well be. He must be looking after your aunt's money."
+LINE 455: "Shall I write to Aunt Letitia?"
+LINE 456: "Yes; I only wish I were well, and not laid on the shelf like this, and
+LINE 457: I would go to Wells to-morrow."
+LINE 458: "I thought of writing to Gratian and Ralph, and Harry is still at Fair
+LINE 459: Acres. Aunt Letitia thinks a great deal of what Gratian says."
+LINE 460: "Better write to Aunt Letitia, and I will tell you what to say. Get my
+LINE 461: mother to write also, and surely you have been honest with the girl?"
+LINE 462: "Very honest indeed," Joyce said, laughing; "a little too honest!"
+LINE 463: The letter was dictated and posted, with one from Mrs. Arundel. Postage
+LINE 464: was an object in those days, so that the two letters went under one
+LINE 465: cover, carefully sealed by Gilbert's hand.
+LINE 466: For some days there was silence, and no one knew what turn events had
+LINE 467: taken, and there was no answer to the letters.
+LINE 468: A week passed, and then came a letter from Charlotte herself.
+LINE 469: "MY DEAR JOYCE,--You will see by the date of this letter I am at
+LINE 470: Bath. I was married to dear Lord Maythorne yesterday. He wished for
+LINE 471: a very quiet wedding, and he had a special license, and the
+LINE 472: ceremony was performed at St. Cuthbert's. Dear auntie was present,
+LINE 473: and dear Gratian and Melville came in from Fair Acres. We went to
+LINE 474: the 'Swan,' and had an elegant breakfast, and then we posted here.
+LINE 475: It is very strange to me to feel I am Lady Maythorne; but with such
+LINE 476: a _dear_, _kind_, delightful husband, I ought to be happy. Pray
+LINE 477: accept kind love from us both.
+LINE 478: "Your truly affectionate cousin,
+LINE 479: "CHARLOTTE MAYTHORNE.
+LINE 480: "Pulteney Street, Bath,
+LINE 481: "_November 14th, 1831._"
+LINE 482: This, then, was the end of Miss Falconer's training, this the reward for
+LINE 483: all her care; and the strange part of it was that, though Lord
+LINE 484: Maythorne's own relations were distressed and sad, at the thought of
+LINE 485: Charlotte's folly in committing herself to the tender mercies of such a
+LINE 486: man, Miss Falconer was _not_ distressed.
+LINE 487: Gratian, who came in to spend a day or two in Clifton with her
+LINE 488: husband soon after, gave a graphic description of the whole affair.
+LINE 489: [Illustration: Wells Cathedral from Bishop's Fields]
+LINE 490: Miss Falconer, she declared, was tearful, but in her secret heart
+LINE 491: elated. Charlotte would grace any position, Lord Maythorne said. She was
+LINE 492: strikingly like in manner and voice and bearing to a reigning beauty at
+LINE 493: one of the German baths.
+LINE 494: "We are none of us likely to go there, you know," Gratian said, "so we
+LINE 495: can't vouch for the truth of this."
+LINE 496: Then he told Miss Falconer that Charlotte should be placed in the "book
+LINE 497: of Beauty" next season, and that a friend of his had promised to write a
+LINE 498: little sketch of her.
+LINE 499: Aunt Letitia said she was _glad_ to be able to assure Lord Maythorne
+LINE 500: that the Falconers were an ancient race, and had been landed gentry for
+LINE 501: generations.
+LINE 502: "Poor dear old lady," Gratian continued, "the only note of lament was,
+LINE 503: 'What will Mrs. Hannah More say?' She took such a deep interest in dear
+LINE 504: Charlotte and, perhaps, I may wish, as _she_ will, that Lord Maythorne
+LINE 505: was more strictly a religious man. But we cannot hope for everything,
+LINE 506: and dear Charlotte's training has been so careful, that I am not anxious
+LINE 507: on that score."
+LINE 508: "Poor dear old auntie!" Melville exclaimed, when, after listening to
+LINE 509: his wife's rapid chatter, he succeeded in getting in a word.
+LINE 510: "She'll soon find cause to be anxious when Maythorne comes to her for a
+LINE 511: bit of thin paper with a good round sum in the corner."
+LINE 512: Joyce could not speak so lightly of this as Gratian did. She almost
+LINE 513: reproached herself for not being more honest with Charlotte in days long
+LINE 514: past, rousing her from dreams of fancied bliss to the great "realities"
+LINE 515: of life.
+LINE 516: As she clasped her Baby Joy in her arms that night, she murmured over
+LINE 517: her tender words, and prayed that she might lead her three little
+LINE 518: daughters in the right way, and teach them that the woman who fears the
+LINE 519: Lord is to be praised, and that anchored to those words, they might
+LINE 520: escape the rocks and quicksands in which so many like poor Charlotte had
+LINE 521: foundered.
+LINE 522: For the present, indeed, Charlotte was satisfied. Lord Maythorne bought
+LINE 523: her, or rather procured for her, many of the fine things she had often
+LINE 524: longed for. He felt a certain pride in her graceful manners, and
+LINE 525: perhaps, a little grateful affection for her intense admiration of
+LINE 526: himself--that romantic admiration which had not yet had time to grow
+LINE 527: faint!
+LINE 528: He bought her the last complete edition of Lord Byron's poetry, and
+LINE 529: Charlotte bathed in that not very wholesome stream, and produced some
+LINE 530: imitative stanzas, which were printed in the _Bath Chronicle_, with a
+LINE 531: little paragraph by the editor, that they were from the pen of "a
+LINE 532: charming lady of title."
+LINE 533: A copy of the paper, delivered in the Close at Wells, went the round of
+LINE 534: the little community, and, fluttered with delight, Miss Falconer told
+LINE 535: admiring friends that dear Charlotte's husband was a man of cultivated
+LINE 536: taste and encouraged her muse.
+LINE 537: The days of dearth and barrenness will come, _must_ come, to those who
+LINE 538: sow their seed upon the stony ground. The bright sky must cloud over,
+LINE 539: the winds and waves roar and swell, and the house that is builded on the
+LINE 540: sand must fall, and great shall be the ruin of it. Secure in the present
+LINE 541: calm, poor little frail barks skim the surface and are content. Thus we
+LINE 542: leave Charlotte, and will not look at her again, lest we see that
+LINE 543: saddest of all sad sights, the falling of the prop on which she leaned
+LINE 544: in her blindness and foolishness, the breaking of the staff which shall
+LINE 545: surely pierce her hand with a wound which no earthly power can avail to
+LINE 546: heal.
+LINE 547: PART III.
+LINE 548: CONCLUSION.
+LINE 549: "As a fond mother, when the day is o'er,
+LINE 550: Leads, by the hand, her little child to bed,
+LINE 551: Half willing, half reluctant, to be led,
+LINE 552: And leave his broken playthings on the floor,
+LINE 553: Still gazing at them through the open door;
+LINE 554: Nor wholly reassured and comforted
+LINE 555: By promises of others in their stead,
+LINE 556: Which, though more splendid, may not please him more;
+LINE 557: So Nature deals with us, and takes away
+LINE 558: Our playthings one by one, and, by the hand,
+LINE 559: Leads us to rest so gently, that we go
+LINE 560: Scarce knowing if we wished to go or stay,
+LINE 561: Being too full of sleep to understand
+LINE 562: How far the _unknown transcends the 'what we know._'"
+LINE 563: "For now we see through a glass, darkly; but then face to face: now
+LINE 564: I know in part; but then shall I know even as also I am known."--1
+LINE 565: Cor. xiii. 12.
+LINE 566: [Illustration]

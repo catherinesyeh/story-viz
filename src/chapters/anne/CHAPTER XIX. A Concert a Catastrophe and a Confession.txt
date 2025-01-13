@@ -1,0 +1,350 @@
+LINE 1: MARILLA, can I go over to see Diana just for a minute?" asked Anne,
+LINE 2: running breathlessly down from the east gable one February evening.
+LINE 3: "I don't see what you want to be traipsing about after dark for," said
+LINE 4: Marilla shortly. "You and Diana walked home from school together and
+LINE 5: then stood down there in the snow for half an hour more, your tongues
+LINE 6: going the whole blessed time, clickety-clack. So I don't think you're
+LINE 7: very badly off to see her again."
+LINE 8: "But she wants to see me," pleaded Anne. "She has something very
+LINE 9: important to tell me."
+LINE 10: "How do you know she has?"
+LINE 11: "Because she just signaled to me from her window. We have arranged a
+LINE 12: way to signal with our candles and cardboard. We set the candle on the
+LINE 13: window sill and make flashes by passing the cardboard back and forth. So
+LINE 14: many flashes mean a certain thing. It was my idea, Marilla."
+LINE 15: "I'll warrant you it was," said Marilla emphatically. "And the next
+LINE 16: thing you'll be setting fire to the curtains with your signaling
+LINE 17: nonsense."
+LINE 18: "Oh, we're very careful, Marilla. And it's so interesting. Two flashes
+LINE 19: mean, 'Are you there?' Three mean 'yes' and four 'no.' Five mean, 'Come
+LINE 20: over as soon as possible, because I have something important to reveal.'
+LINE 21: Diana has just signaled five flashes, and I'm really suffering to know
+LINE 22: what it is."
+LINE 23: "Well, you needn't suffer any longer," said Marilla sarcastically. "You
+LINE 24: can go, but you're to be back here in just ten minutes, remember that."
+LINE 25: Anne did remember it and was back in the stipulated time, although
+LINE 26: probably no mortal will ever know just what it cost her to confine the
+LINE 27: discussion of Diana's important communication within the limits of ten
+LINE 28: minutes. But at least she had made good use of them.
+LINE 29: "Oh, Marilla, what do you think? You know tomorrow is Diana's birthday.
+LINE 30: Well, her mother told her she could ask me to go home with her from
+LINE 31: school and stay all night with her. And her cousins are coming over from
+LINE 32: Newbridge in a big pung sleigh to go to the Debating Club concert at
+LINE 33: the hall tomorrow night. And they are going to take Diana and me to the
+LINE 34: concert--if you'll let me go, that is. You will, won't you, Marilla? Oh,
+LINE 35: I feel so excited."
+LINE 36: "You can calm down then, because you're not going. You're better at home
+LINE 37: in your own bed, and as for that club concert, it's all nonsense, and
+LINE 38: little girls should not be allowed to go out to such places at all."
+LINE 39: "I'm sure the Debating Club is a most respectable affair," pleaded Anne.
+LINE 40: "I'm not saying it isn't. But you're not going to begin gadding about
+LINE 41: to concerts and staying out all hours of the night. Pretty doings for
+LINE 42: children. I'm surprised at Mrs. Barry's letting Diana go."
+LINE 43: "But it's such a very special occasion," mourned Anne, on the verge of
+LINE 44: tears. "Diana has only one birthday in a year. It isn't as if birthdays
+LINE 45: were common things, Marilla. Prissy Andrews is going to recite 'Curfew
+LINE 46: Must Not Ring Tonight.' That is such a good moral piece, Marilla, I'm
+LINE 47: sure it would do me lots of good to hear it. And the choir are going to
+LINE 48: sing four lovely pathetic songs that are pretty near as good as hymns.
+LINE 49: And oh, Marilla, the minister is going to take part; yes, indeed, he is;
+LINE 50: he's going to give an address. That will be just about the same thing as
+LINE 51: a sermon. Please, mayn't I go, Marilla?"
+LINE 52: "You heard what I said, Anne, didn't you? Take off your boots now and go
+LINE 53: to bed. It's past eight."
+LINE 54: "There's just one more thing, Marilla," said Anne, with the air of
+LINE 55: producing the last shot in her locker. "Mrs. Barry told Diana that we
+LINE 56: might sleep in the spare-room bed. Think of the honor of your little
+LINE 57: Anne being put in the spare-room bed."
+LINE 58: "It's an honor you'll have to get along without. Go to bed, Anne, and
+LINE 59: don't let me hear another word out of you."
+LINE 60: When Anne, with tears rolling over her cheeks, had gone sorrowfully
+LINE 61: upstairs, Matthew, who had been apparently sound asleep on the lounge
+LINE 62: during the whole dialogue, opened his eyes and said decidedly:
+LINE 63: "Well now, Marilla, I think you ought to let Anne go."
+LINE 64: "I don't then," retorted Marilla. "Who's bringing this child up,
+LINE 65: Matthew, you or me?"
+LINE 66: "Well now, you," admitted Matthew.
+LINE 67: "Don't interfere then."
+LINE 68: "Well now, I ain't interfering. It ain't interfering to have your own
+LINE 69: opinion. And my opinion is that you ought to let Anne go."
+LINE 70: "You'd think I ought to let Anne go to the moon if she took the notion,
+LINE 71: I've no doubt," was Marilla's amiable rejoinder. "I might have let her
+LINE 72: spend the night with Diana, if that was all. But I don't approve of this
+LINE 73: concert plan. She'd go there and catch cold like as not, and have her
+LINE 74: head filled up with nonsense and excitement. It would unsettle her for
+LINE 75: a week. I understand that child's disposition and what's good for it
+LINE 76: better than you, Matthew."
+LINE 77: "I think you ought to let Anne go," repeated Matthew firmly. Argument
+LINE 78: was not his strong point, but holding fast to his opinion certainly was.
+LINE 79: Marilla gave a gasp of helplessness and took refuge in silence. The
+LINE 80: next morning, when Anne was washing the breakfast dishes in the pantry,
+LINE 81: Matthew paused on his way out to the barn to say to Marilla again:
+LINE 82: "I think you ought to let Anne go, Marilla."
+LINE 83: For a moment Marilla looked things not lawful to be uttered. Then she
+LINE 84: yielded to the inevitable and said tartly:
+LINE 85: "Very well, she can go, since nothing else 'll please you."
+LINE 86: Anne flew out of the pantry, dripping dishcloth in hand.
+LINE 87: "Oh, Marilla, Marilla, say those blessed words again."
+LINE 88: "I guess once is enough to say them. This is Matthew's doings and I
+LINE 89: wash my hands of it. If you catch pneumonia sleeping in a strange bed or
+LINE 90: coming out of that hot hall in the middle of the night, don't blame me,
+LINE 91: blame Matthew. Anne Shirley, you're dripping greasy water all over the
+LINE 92: floor. I never saw such a careless child."
+LINE 93: "Oh, I know I'm a great trial to you, Marilla," said Anne repentantly.
+LINE 94: "I make so many mistakes. But then just think of all the mistakes I
+LINE 95: don't make, although I might. I'll get some sand and scrub up the spots
+LINE 96: before I go to school. Oh, Marilla, my heart was just set on going to
+LINE 97: that concert. I never was to a concert in my life, and when the other
+LINE 98: girls talk about them in school I feel so out of it. You didn't know
+LINE 99: just how I felt about it, but you see Matthew did. Matthew understands
+LINE 100: me, and it's so nice to be understood, Marilla."
+LINE 101: Anne was too excited to do herself justice as to lessons that morning in
+LINE 102: school. Gilbert Blythe spelled her down in class and left her clear out
+LINE 103: of sight in mental arithmetic. Anne's consequent humiliation was
+LINE 104: less than it might have been, however, in view of the concert and the
+LINE 105: spare-room bed. She and Diana talked so constantly about it all day that
+LINE 106: with a stricter teacher than Mr. Phillips dire disgrace must inevitably
+LINE 107: have been their portion.
+LINE 108: Anne felt that she could not have borne it if she had not been going
+LINE 109: to the concert, for nothing else was discussed that day in school. The
+LINE 110: Avonlea Debating Club, which met fortnightly all winter, had had several
+LINE 111: smaller free entertainments; but this was to be a big affair, admission
+LINE 112: ten cents, in aid of the library. The Avonlea young people had been
+LINE 113: practicing for weeks, and all the scholars were especially interested in
+LINE 114: it by reason of older brothers and sisters who were going to take part.
+LINE 115: Everybody in school over nine years of age expected to go, except Carrie
+LINE 116: Sloane, whose father shared Marilla's opinions about small girls going
+LINE 117: out to night concerts. Carrie Sloane cried into her grammar all the
+LINE 118: afternoon and felt that life was not worth living.
+LINE 119: For Anne the real excitement began with the dismissal of school and
+LINE 120: increased therefrom in crescendo until it reached to a crash of positive
+LINE 121: ecstasy in the concert itself. They had a "perfectly elegant tea;" and
+LINE 122: then came the delicious occupation of dressing in Diana's little room
+LINE 123: upstairs. Diana did Anne's front hair in the new pompadour style and
+LINE 124: Anne tied Diana's bows with the especial knack she possessed; and they
+LINE 125: experimented with at least half a dozen different ways of arranging
+LINE 126: their back hair. At last they were ready, cheeks scarlet and eyes
+LINE 127: glowing with excitement.
+LINE 128: True, Anne could not help a little pang when she contrasted her plain
+LINE 129: black tam and shapeless, tight-sleeved, homemade gray-cloth coat with
+LINE 130: Diana's jaunty fur cap and smart little jacket. But she remembered in
+LINE 131: time that she had an imagination and could use it.
+LINE 132: Then Diana's cousins, the Murrays from Newbridge, came; they all crowded
+LINE 133: into the big pung sleigh, among straw and furry robes. Anne reveled in
+LINE 134: the drive to the hall, slipping along over the satin-smooth roads with
+LINE 135: the snow crisping under the runners. There was a magnificent sunset, and
+LINE 136: the snowy hills and deep-blue water of the St. Lawrence Gulf seemed to
+LINE 137: rim in the splendor like a huge bowl of pearl and sapphire brimmed with
+LINE 138: wine and fire. Tinkles of sleigh bells and distant laughter, that seemed
+LINE 139: like the mirth of wood elves, came from every quarter.
+LINE 140: "Oh, Diana," breathed Anne, squeezing Diana's mittened hand under the
+LINE 141: fur robe, "isn't it all like a beautiful dream? Do I really look the
+LINE 142: same as usual? I feel so different that it seems to me it must show in
+LINE 143: my looks."
+LINE 144: "You look awfully nice," said Diana, who having just received a
+LINE 145: compliment from one of her cousins, felt that she ought to pass it on.
+LINE 146: "You've got the loveliest color."
+LINE 147: The program that night was a series of "thrills" for at least one
+LINE 148: listener in the audience, and, as Anne assured Diana, every succeeding
+LINE 149: thrill was thrillier than the last. When Prissy Andrews, attired in
+LINE 150: a new pink-silk waist with a string of pearls about her smooth white
+LINE 151: throat and real carnations in her hair--rumor whispered that the master
+LINE 152: had sent all the way to town for them for her--"climbed the slimy
+LINE 153: ladder, dark without one ray of light," Anne shivered in luxurious
+LINE 154: sympathy; when the choir sang "Far Above the Gentle Daisies" Anne gazed
+LINE 155: at the ceiling as if it were frescoed with angels; when Sam Sloane
+LINE 156: proceeded to explain and illustrate "How Sockery Set a Hen" Anne laughed
+LINE 157: until people sitting near her laughed too, more out of sympathy with her
+LINE 158: than with amusement at a selection that was rather threadbare even in
+LINE 159: Avonlea; and when Mr. Phillips gave Mark Antony's oration over the
+LINE 160: dead body of Cæsar in the most heart-stirring tones--looking at Prissy
+LINE 161: Andrews at the end of every sentence--Anne felt that she could rise and
+LINE 162: mutiny on the spot if but one Roman citizen led the way.
+LINE 163: Only one number on the program failed to interest her. When Gilbert
+LINE 164: Blythe recited "Bingen on the Rhine" Anne picked up Rhoda Murray's
+LINE 165: library book and read it until he had finished, when she sat rigidly
+LINE 166: stiff and motionless while Diana clapped her hands until they tingled.
+LINE 167: It was eleven when they got home, sated with dissipation, but with the
+LINE 168: exceeding sweet pleasure of talking it all over still to come. Everybody
+LINE 169: seemed asleep and the house was dark and silent. Anne and Diana tiptoed
+LINE 170: into the parlor, a long narrow room out of which the spare room opened.
+LINE 171: It was pleasantly warm and dimly lighted by the embers of a fire in the
+LINE 172: grate.
+LINE 173: "Let's undress here," said Diana. "It's so nice and warm."
+LINE 174: "Hasn't it been a delightful time?" sighed Anne rapturously. "It must
+LINE 175: be splendid to get up and recite there. Do you suppose we will ever be
+LINE 176: asked to do it, Diana?"
+LINE 177: "Yes, of course, someday. They're always wanting the big scholars to
+LINE 178: recite. Gilbert Blythe does often and he's only two years older than us.
+LINE 179: Oh, Anne, how could you pretend not to listen to him? When he came to
+LINE 180: the line,
+LINE 181: 'There's Another, _not_ a sister,'
+LINE 182: he looked right down at you."
+LINE 183: "Diana," said Anne with dignity, "you are my bosom friend, but I cannot
+LINE 184: allow even you to speak to me of that person. Are you ready for bed?
+LINE 185: Let's run a race and see who'll get to the bed first."
+LINE 186: The suggestion appealed to Diana. The two little white-clad figures flew
+LINE 187: down the long room, through the spare-room door, and bounded on the bed
+LINE 188: at the same moment. And then--something--moved beneath them, there was a
+LINE 189: gasp and a cry--and somebody said in muffled accents:
+LINE 190: "Merciful goodness!"
+LINE 191: Anne and Diana were never able to tell just how they got off that bed
+LINE 192: and out of the room. They only knew that after one frantic rush they
+LINE 193: found themselves tiptoeing shiveringly upstairs.
+LINE 194: "Oh, who was it--_what_ was it?" whispered Anne, her teeth chattering with
+LINE 195: cold and fright.
+LINE 196: "It was Aunt Josephine," said Diana, gasping with laughter. "Oh, Anne,
+LINE 197: it was Aunt Josephine, however she came to be there. Oh, and I know she
+LINE 198: will be furious. It's dreadful--it's really dreadful--but did you ever
+LINE 199: know anything so funny, Anne?"
+LINE 200: "Who is your Aunt Josephine?"
+LINE 201: "She's father's aunt and she lives in Charlottetown. She's awfully
+LINE 202: old--seventy anyhow--and I don't believe she was _ever_ a little girl. We
+LINE 203: were expecting her out for a visit, but not so soon. She's awfully prim
+LINE 204: and proper and she'll scold dreadfully about this, I know. Well, we'll
+LINE 205: have to sleep with Minnie May--and you can't think how she kicks."
+LINE 206: Miss Josephine Barry did not appear at the early breakfast the next
+LINE 207: morning. Mrs. Barry smiled kindly at the two little girls.
+LINE 208: "Did you have a good time last night? I tried to stay awake until you
+LINE 209: came home, for I wanted to tell you Aunt Josephine had come and that you
+LINE 210: would have to go upstairs after all, but I was so tired I fell asleep. I
+LINE 211: hope you didn't disturb your aunt, Diana."
+LINE 212: Diana preserved a discreet silence, but she and Anne exchanged furtive
+LINE 213: smiles of guilty amusement across the table. Anne hurried home after
+LINE 214: breakfast and so remained in blissful ignorance of the disturbance which
+LINE 215: presently resulted in the Barry household until the late afternoon, when
+LINE 216: she went down to Mrs. Lynde's on an errand for Marilla.
+LINE 217: "So you and Diana nearly frightened poor old Miss Barry to death last
+LINE 218: night?" said Mrs. Lynde severely, but with a twinkle in her eye. "Mrs.
+LINE 219: Barry was here a few minutes ago on her way to Carmody. She's feeling
+LINE 220: real worried over it. Old Miss Barry was in a terrible temper when she
+LINE 221: got up this morning--and Josephine Barry's temper is no joke, I can tell
+LINE 222: you that. She wouldn't speak to Diana at all."
+LINE 223: "It wasn't Diana's fault," said Anne contritely. "It was mine. I
+LINE 224: suggested racing to see who would get into bed first."
+LINE 225: "I knew it!" said Mrs. Lynde, with the exultation of a correct guesser.
+LINE 226: "I knew that idea came out of your head. Well, it's made a nice lot of
+LINE 227: trouble, that's what. Old Miss Barry came out to stay for a month, but
+LINE 228: she declares she won't stay another day and is going right back to town
+LINE 229: tomorrow, Sunday and all as it is. She'd have gone today if they could
+LINE 230: have taken her. She had promised to pay for a quarter's music lessons
+LINE 231: for Diana, but now she is determined to do nothing at all for such a
+LINE 232: tomboy. Oh, I guess they had a lively time of it there this morning. The
+LINE 233: Barrys must feel cut up. Old Miss Barry is rich and they'd like to keep
+LINE 234: on the good side of her. Of course, Mrs. Barry didn't say just that to
+LINE 235: me, but I'm a pretty good judge of human nature, that's what."
+LINE 236: "I'm such an unlucky girl," mourned Anne. "I'm always getting into
+LINE 237: scrapes myself and getting my best friends--people I'd shed my heart's
+LINE 238: blood for--into them too. Can you tell me why it is so, Mrs. Lynde?"
+LINE 239: "It's because you're too heedless and impulsive, child, that's what. You
+LINE 240: never stop to think--whatever comes into your head to say or do you say
+LINE 241: or do it without a moment's reflection."
+LINE 242: "Oh, but that's the best of it," protested Anne. "Something just flashes
+LINE 243: into your mind, so exciting, and you must out with it. If you stop to
+LINE 244: think it over you spoil it all. Haven't you never felt that yourself,
+LINE 245: Mrs. Lynde?"
+LINE 246: No, Mrs. Lynde had not. She shook her head sagely.
+LINE 247: "You must learn to think a little, Anne, that's what. The proverb you
+LINE 248: need to go by is 'Look before you leap'--especially into spare-room
+LINE 249: beds."
+LINE 250: Mrs. Lynde laughed comfortably over her mild joke, but Anne remained
+LINE 251: pensive. She saw nothing to laugh at in the situation, which to her
+LINE 252: eyes appeared very serious. When she left Mrs. Lynde's she took her way
+LINE 253: across the crusted fields to Orchard Slope. Diana met her at the kitchen
+LINE 254: door.
+LINE 255: "Your Aunt Josephine was very cross about it, wasn't she?" whispered
+LINE 256: Anne.
+LINE 257: "Yes," answered Diana, stifling a giggle with an apprehensive glance
+LINE 258: over her shoulder at the closed sitting-room door. "She was fairly
+LINE 259: dancing with rage, Anne. Oh, how she scolded. She said I was the
+LINE 260: worst-behaved girl she ever saw and that my parents ought to be ashamed
+LINE 261: of the way they had brought me up. She says she won't stay and I'm sure
+LINE 262: I don't care. But Father and Mother do."
+LINE 263: "Why didn't you tell them it was my fault?" demanded Anne.
+LINE 264: "It's likely I'd do such a thing, isn't it?" said Diana with just scorn.
+LINE 265: "I'm no telltale, Anne Shirley, and anyhow I was just as much to blame
+LINE 266: as you."
+LINE 267: "Well, I'm going in to tell her myself," said Anne resolutely.
+LINE 268: Diana stared.
+LINE 269: "Anne Shirley, you'd never! why--she'll eat you alive!"
+LINE 270: "Don't frighten me any more than I am frightened," implored Anne. "I'd
+LINE 271: rather walk up to a cannon's mouth. But I've got to do it, Diana. It
+LINE 272: was my fault and I've got to confess. I've had practice in confessing,
+LINE 273: fortunately."
+LINE 274: "Well, she's in the room," said Diana. "You can go in if you want to. I
+LINE 275: wouldn't dare. And I don't believe you'll do a bit of good."
+LINE 276: With this encouragement Anne bearded the lion in its den--that is to
+LINE 277: say, walked resolutely up to the sitting-room door and knocked faintly.
+LINE 278: A sharp "Come in" followed.
+LINE 279: Miss Josephine Barry, thin, prim, and rigid, was knitting fiercely by
+LINE 280: the fire, her wrath quite unappeased and her eyes snapping through her
+LINE 281: gold-rimmed glasses. She wheeled around in her chair, expecting to see
+LINE 282: Diana, and beheld a white-faced girl whose great eyes were brimmed up
+LINE 283: with a mixture of desperate courage and shrinking terror.
+LINE 284: "Who are you?" demanded Miss Josephine Barry, without ceremony.
+LINE 285: "I'm Anne of Green Gables," said the small visitor tremulously, clasping
+LINE 286: her hands with her characteristic gesture, "and I've come to confess, if
+LINE 287: you please."
+LINE 288: "Confess what?"
+LINE 289: "That it was all my fault about jumping into bed on you last night. I
+LINE 290: suggested it. Diana would never have thought of such a thing, I am sure.
+LINE 291: Diana is a very ladylike girl, Miss Barry. So you must see how unjust it
+LINE 292: is to blame her."
+LINE 293: "Oh, I must, hey? I rather think Diana did her share of the jumping at
+LINE 294: least. Such carryings on in a respectable house!"
+LINE 295: "But we were only in fun," persisted Anne. "I think you ought to forgive
+LINE 296: us, Miss Barry, now that we've apologized. And anyhow, please forgive
+LINE 297: Diana and let her have her music lessons. Diana's heart is set on her
+LINE 298: music lessons, Miss Barry, and I know too well what it is to set your
+LINE 299: heart on a thing and not get it. If you must be cross with anyone, be
+LINE 300: cross with me. I've been so used in my early days to having people cross
+LINE 301: at me that I can endure it much better than Diana can."
+LINE 302: Much of the snap had gone out of the old lady's eyes by this time
+LINE 303: and was replaced by a twinkle of amused interest. But she still said
+LINE 304: severely:
+LINE 305: "I don't think it is any excuse for you that you were only in fun.
+LINE 306: Little girls never indulged in that kind of fun when I was young. You
+LINE 307: don't know what it is to be awakened out of a sound sleep, after a long
+LINE 308: and arduous journey, by two great girls coming bounce down on you."
+LINE 309: "I don't _know_, but I can _imagine_," said Anne eagerly. "I'm sure it must
+LINE 310: have been very disturbing. But then, there is our side of it too. Have
+LINE 311: you any imagination, Miss Barry? If you have, just put yourself in
+LINE 312: our place. We didn't know there was anybody in that bed and you nearly
+LINE 313: scared us to death. It was simply awful the way we felt. And then we
+LINE 314: couldn't sleep in the spare room after being promised. I suppose you are
+LINE 315: used to sleeping in spare rooms. But just imagine what you would feel
+LINE 316: like if you were a little orphan girl who had never had such an honor."
+LINE 317: All the snap had gone by this time. Miss Barry actually laughed--a
+LINE 318: sound which caused Diana, waiting in speechless anxiety in the kitchen
+LINE 319: outside, to give a great gasp of relief.
+LINE 320: "I'm afraid my imagination is a little rusty--it's so long since I used
+LINE 321: it," she said. "I dare say your claim to sympathy is just as strong as
+LINE 322: mine. It all depends on the way we look at it. Sit down here and tell me
+LINE 323: about yourself."
+LINE 324: "I am very sorry I can't," said Anne firmly. "I would like to, because
+LINE 325: you seem like an interesting lady, and you might even be a kindred
+LINE 326: spirit although you don't look very much like it. But it is my duty to
+LINE 327: go home to Miss Marilla Cuthbert. Miss Marilla Cuthbert is a very kind
+LINE 328: lady who has taken me to bring up properly. She is doing her best, but
+LINE 329: it is very discouraging work. You must not blame her because I jumped on
+LINE 330: the bed. But before I go I do wish you would tell me if you will forgive
+LINE 331: Diana and stay just as long as you meant to in Avonlea."
+LINE 332: "I think perhaps I will if you will come over and talk to me
+LINE 333: occasionally," said Miss Barry.
+LINE 334: That evening Miss Barry gave Diana a silver bangle bracelet and told the
+LINE 335: senior members of the household that she had unpacked her valise.
+LINE 336: "I've made up my mind to stay simply for the sake of getting better
+LINE 337: acquainted with that Anne-girl," she said frankly. "She amuses me, and
+LINE 338: at my time of life an amusing person is a rarity."
+LINE 339: Marilla's only comment when she heard the story was, "I told you so."
+LINE 340: This was for Matthew's benefit.
+LINE 341: Miss Barry stayed her month out and over. She was a more agreeable guest
+LINE 342: than usual, for Anne kept her in good humor. They became firm friends.
+LINE 343: When Miss Barry went away she said:
+LINE 344: "Remember, you Anne-girl, when you come to town you're to visit me and
+LINE 345: I'll put you in my very sparest spare-room bed to sleep."
+LINE 346: "Miss Barry was a kindred spirit, after all," Anne confided to Marilla.
+LINE 347: "You wouldn't think so to look at her, but she is. You don't find it
+LINE 348: right out at first, as in Matthew's case, but after a while you come
+LINE 349: to see it. Kindred spirits are not so scarce as I used to think. It's
+LINE 350: splendid to find out there are so many of them in the world."

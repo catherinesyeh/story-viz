@@ -1,0 +1,410 @@
+LINE 1: MATTHEW Cuthbert and the sorrel mare jogged comfortably over the eight
+LINE 2: miles to Bright River. It was a pretty road, running along between
+LINE 3: snug farmsteads, with now and again a bit of balsamy fir wood to drive
+LINE 4: through or a hollow where wild plums hung out their filmy bloom. The air
+LINE 5: was sweet with the breath of many apple orchards and the meadows sloped
+LINE 6: away in the distance to horizon mists of pearl and purple; while
+LINE 7: "The little birds sang as if it were
+LINE 8: The one day of summer in all the year."
+LINE 9: Matthew enjoyed the drive after his own fashion, except during the
+LINE 10: moments when he met women and had to nod to them--for in Prince Edward
+LINE 11: island you are supposed to nod to all and sundry you meet on the road
+LINE 12: whether you know them or not.
+LINE 13: Matthew dreaded all women except Marilla and Mrs. Rachel; he had an
+LINE 14: uncomfortable feeling that the mysterious creatures were secretly
+LINE 15: laughing at him. He may have been quite right in thinking so, for he
+LINE 16: was an odd-looking personage, with an ungainly figure and long iron-gray
+LINE 17: hair that touched his stooping shoulders, and a full, soft brown beard
+LINE 18: which he had worn ever since he was twenty. In fact, he had looked
+LINE 19: at twenty very much as he looked at sixty, lacking a little of the
+LINE 20: grayness.
+LINE 21: When he reached Bright River there was no sign of any train; he thought
+LINE 22: he was too early, so he tied his horse in the yard of the small Bright
+LINE 23: River hotel and went over to the station house. The long platform was
+LINE 24: almost deserted; the only living creature in sight being a girl who was
+LINE 25: sitting on a pile of shingles at the extreme end. Matthew, barely noting
+LINE 26: that it _was_ a girl, sidled past her as quickly as possible without
+LINE 27: looking at her. Had he looked he could hardly have failed to notice the
+LINE 28: tense rigidity and expectation of her attitude and expression. She was
+LINE 29: sitting there waiting for something or somebody and, since sitting and
+LINE 30: waiting was the only thing to do just then, she sat and waited with all
+LINE 31: her might and main.
+LINE 32: Matthew encountered the stationmaster locking up the ticket office
+LINE 33: preparatory to going home for supper, and asked him if the five-thirty
+LINE 34: train would soon be along.
+LINE 35: "The five-thirty train has been in and gone half an hour ago," answered
+LINE 36: that brisk official. "But there was a passenger dropped off for you--a
+LINE 37: little girl. She's sitting out there on the shingles. I asked her to
+LINE 38: go into the ladies' waiting room, but she informed me gravely that she
+LINE 39: preferred to stay outside. 'There was more scope for imagination,' she
+LINE 40: said. She's a case, I should say."
+LINE 41: "I'm not expecting a girl," said Matthew blankly. "It's a boy I've come
+LINE 42: for. He should be here. Mrs. Alexander Spencer was to bring him over
+LINE 43: from Nova Scotia for me."
+LINE 44: The stationmaster whistled.
+LINE 45: "Guess there's some mistake," he said. "Mrs. Spencer came off the train
+LINE 46: with that girl and gave her into my charge. Said you and your sister
+LINE 47: were adopting her from an orphan asylum and that you would be along for
+LINE 48: her presently. That's all I know about it--and I haven't got any more
+LINE 49: orphans concealed hereabouts."
+LINE 50: "I don't understand," said Matthew helplessly, wishing that Marilla was
+LINE 51: at hand to cope with the situation.
+LINE 52: "Well, you'd better question the girl," said the station-master
+LINE 53: carelessly. "I dare say she'll be able to explain--she's got a tongue
+LINE 54: of her own, that's certain. Maybe they were out of boys of the brand you
+LINE 55: wanted."
+LINE 56: He walked jauntily away, being hungry, and the unfortunate Matthew was
+LINE 57: left to do that which was harder for him than bearding a lion in its
+LINE 58: den--walk up to a girl--a strange girl--an orphan girl--and demand of
+LINE 59: her why she wasn't a boy. Matthew groaned in spirit as he turned about
+LINE 60: and shuffled gently down the platform towards her.
+LINE 61: She had been watching him ever since he had passed her and she had her
+LINE 62: eyes on him now. Matthew was not looking at her and would not have seen
+LINE 63: what she was really like if he had been, but an ordinary observer would
+LINE 64: have seen this: A child of about eleven, garbed in a very short, very
+LINE 65: tight, very ugly dress of yellowish-gray wincey. She wore a faded brown
+LINE 66: sailor hat and beneath the hat, extending down her back, were two braids
+LINE 67: of very thick, decidedly red hair. Her face was small, white and thin,
+LINE 68: also much freckled; her mouth was large and so were her eyes, which
+LINE 69: looked green in some lights and moods and gray in others.
+LINE 70: So far, the ordinary observer; an extraordinary observer might have seen
+LINE 71: that the chin was very pointed and pronounced; that the big eyes
+LINE 72: were full of spirit and vivacity; that the mouth was sweet-lipped
+LINE 73: and expressive; that the forehead was broad and full; in short,
+LINE 74: our discerning extraordinary observer might have concluded that no
+LINE 75: commonplace soul inhabited the body of this stray woman-child of whom
+LINE 76: shy Matthew Cuthbert was so ludicrously afraid.
+LINE 77: Matthew, however, was spared the ordeal of speaking first, for as soon
+LINE 78: as she concluded that he was coming to her she stood up, grasping with
+LINE 79: one thin brown hand the handle of a shabby, old-fashioned carpet-bag;
+LINE 80: the other she held out to him.
+LINE 81: "I suppose you are Mr. Matthew Cuthbert of Green Gables?" she said in
+LINE 82: a peculiarly clear, sweet voice. "I'm very glad to see you. I was
+LINE 83: beginning to be afraid you weren't coming for me and I was imagining
+LINE 84: all the things that might have happened to prevent you. I had made up
+LINE 85: my mind that if you didn't come for me to-night I'd go down the track to
+LINE 86: that big wild cherry-tree at the bend, and climb up into it to stay all
+LINE 87: night. I wouldn't be a bit afraid, and it would be lovely to sleep in a
+LINE 88: wild cherry-tree all white with bloom in the moonshine, don't you think?
+LINE 89: You could imagine you were dwelling in marble halls, couldn't you? And
+LINE 90: I was quite sure you would come for me in the morning, if you didn't
+LINE 91: to-night."
+LINE 92: Matthew had taken the scrawny little hand awkwardly in his; then and
+LINE 93: there he decided what to do. He could not tell this child with the
+LINE 94: glowing eyes that there had been a mistake; he would take her home and
+LINE 95: let Marilla do that. She couldn't be left at Bright River anyhow, no
+LINE 96: matter what mistake had been made, so all questions and explanations
+LINE 97: might as well be deferred until he was safely back at Green Gables.
+LINE 98: "I'm sorry I was late," he said shyly. "Come along. The horse is over in
+LINE 99: the yard. Give me your bag."
+LINE 100: "Oh, I can carry it," the child responded cheerfully. "It isn't heavy.
+LINE 101: I've got all my worldly goods in it, but it isn't heavy. And if it isn't
+LINE 102: carried in just a certain way the handle pulls out--so I'd better
+LINE 103: keep it because I know the exact knack of it. It's an extremely old
+LINE 104: carpet-bag. Oh, I'm very glad you've come, even if it would have been
+LINE 105: nice to sleep in a wild cherry-tree. We've got to drive a long piece,
+LINE 106: haven't we? Mrs. Spencer said it was eight miles. I'm glad because I
+LINE 107: love driving. Oh, it seems so wonderful that I'm going to live with you
+LINE 108: and belong to you. I've never belonged to anybody--not really. But the
+LINE 109: asylum was the worst. I've only been in it four months, but that was
+LINE 110: enough. I don't suppose you ever were an orphan in an asylum, so you
+LINE 111: can't possibly understand what it is like. It's worse than anything you
+LINE 112: could imagine. Mrs. Spencer said it was wicked of me to talk like
+LINE 113: that, but I didn't mean to be wicked. It's so easy to be wicked without
+LINE 114: knowing it, isn't it? They were good, you know--the asylum people. But
+LINE 115: there is so little scope for the imagination in an asylum--only just
+LINE 116: in the other orphans. It was pretty interesting to imagine things about
+LINE 117: them--to imagine that perhaps the girl who sat next to you was really
+LINE 118: the daughter of a belted earl, who had been stolen away from her parents
+LINE 119: in her infancy by a cruel nurse who died before she could confess. I
+LINE 120: used to lie awake at nights and imagine things like that, because
+LINE 121: I didn't have time in the day. I guess that's why I'm so thin--I _am_
+LINE 122: dreadful thin, ain't I? There isn't a pick on my bones. I do love to
+LINE 123: imagine I'm nice and plump, with dimples in my elbows."
+LINE 124: With this Matthew's companion stopped talking, partly because she was
+LINE 125: out of breath and partly because they had reached the buggy. Not another
+LINE 126: word did she say until they had left the village and were driving down
+LINE 127: a steep little hill, the road part of which had been cut so deeply into
+LINE 128: the soft soil, that the banks, fringed with blooming wild cherry-trees
+LINE 129: and slim white birches, were several feet above their heads.
+LINE 130: The child put out her hand and broke off a branch of wild plum that
+LINE 131: brushed against the side of the buggy.
+LINE 132: "Isn't that beautiful? What did that tree, leaning out from the bank,
+LINE 133: all white and lacy, make you think of?" she asked.
+LINE 134: "Well now, I dunno," said Matthew.
+LINE 135: "Why, a bride, of course--a bride all in white with a lovely misty veil.
+LINE 136: I've never seen one, but I can imagine what she would look like. I don't
+LINE 137: ever expect to be a bride myself. I'm so homely nobody will ever want to
+LINE 138: marry me--unless it might be a foreign missionary. I suppose a foreign
+LINE 139: missionary mightn't be very particular. But I do hope that some day I
+LINE 140: shall have a white dress. That is my highest ideal of earthly bliss. I
+LINE 141: just love pretty clothes. And I've never had a pretty dress in my life
+LINE 142: that I can remember--but of course it's all the more to look forward
+LINE 143: to, isn't it? And then I can imagine that I'm dressed gorgeously. This
+LINE 144: morning when I left the asylum I felt so ashamed because I had to wear
+LINE 145: this horrid old wincey dress. All the orphans had to wear them, you
+LINE 146: know. A merchant in Hopeton last winter donated three hundred yards of
+LINE 147: wincey to the asylum. Some people said it was because he couldn't sell
+LINE 148: it, but I'd rather believe that it was out of the kindness of his heart,
+LINE 149: wouldn't you? When we got on the train I felt as if everybody must be
+LINE 150: looking at me and pitying me. But I just went to work and imagined that
+LINE 151: I had on the most beautiful pale blue silk dress--because when you _are_
+LINE 152: imagining you might as well imagine something worth while--and a big
+LINE 153: hat all flowers and nodding plumes, and a gold watch, and kid gloves and
+LINE 154: boots. I felt cheered up right away and I enjoyed my trip to the Island
+LINE 155: with all my might. I wasn't a bit sick coming over in the boat. Neither
+LINE 156: was Mrs. Spencer although she generally is. She said she hadn't time
+LINE 157: to get sick, watching to see that I didn't fall overboard. She said she
+LINE 158: never saw the beat of me for prowling about. But if it kept her from
+LINE 159: being seasick it's a mercy I did prowl, isn't it? And I wanted to see
+LINE 160: everything that was to be seen on that boat, because I didn't know
+LINE 161: whether I'd ever have another opportunity. Oh, there are a lot more
+LINE 162: cherry-trees all in bloom! This Island is the bloomiest place. I just
+LINE 163: love it already, and I'm so glad I'm going to live here. I've always
+LINE 164: heard that Prince Edward Island was the prettiest place in the world,
+LINE 165: and I used to imagine I was living here, but I never really expected I
+LINE 166: would. It's delightful when your imaginations come true, isn't it?
+LINE 167: But those red roads are so funny. When we got into the train at
+LINE 168: Charlottetown and the red roads began to flash past I asked Mrs. Spencer
+LINE 169: what made them red and she said she didn't know and for pity's sake not
+LINE 170: to ask her any more questions. She said I must have asked her a thousand
+LINE 171: already. I suppose I had, too, but how you going to find out about
+LINE 172: things if you don't ask questions? And what _does_ make the roads red?"
+LINE 173: "Well now, I dunno," said Matthew.
+LINE 174: "Well, that is one of the things to find out sometime. Isn't it splendid
+LINE 175: to think of all the things there are to find out about? It just makes
+LINE 176: me feel glad to be alive--it's such an interesting world. It wouldn't be
+LINE 177: half so interesting if we know all about everything, would it? There'd
+LINE 178: be no scope for imagination then, would there? But am I talking too
+LINE 179: much? People are always telling me I do. Would you rather I didn't
+LINE 180: talk? If you say so I'll stop. I can _stop_ when I make up my mind to it,
+LINE 181: although it's difficult."
+LINE 182: Matthew, much to his own surprise, was enjoying himself. Like most quiet
+LINE 183: folks he liked talkative people when they were willing to do the talking
+LINE 184: themselves and did not expect him to keep up his end of it. But he had
+LINE 185: never expected to enjoy the society of a little girl. Women were bad
+LINE 186: enough in all conscience, but little girls were worse. He detested the
+LINE 187: way they had of sidling past him timidly, with sidewise glances, as if
+LINE 188: they expected him to gobble them up at a mouthful if they ventured to
+LINE 189: say a word. That was the Avonlea type of well-bred little girl. But
+LINE 190: this freckled witch was very different, and although he found it rather
+LINE 191: difficult for his slower intelligence to keep up with her brisk mental
+LINE 192: processes he thought that he "kind of liked her chatter." So he said as
+LINE 193: shyly as usual:
+LINE 194: "Oh, you can talk as much as you like. I don't mind."
+LINE 195: "Oh, I'm so glad. I know you and I are going to get along together
+LINE 196: fine. It's such a relief to talk when one wants to and not be told
+LINE 197: that children should be seen and not heard. I've had that said to me a
+LINE 198: million times if I have once. And people laugh at me because I use big
+LINE 199: words. But if you have big ideas you have to use big words to express
+LINE 200: them, haven't you?"
+LINE 201: "Well now, that seems reasonable," said Matthew.
+LINE 202: "Mrs. Spencer said that my tongue must be hung in the middle. But it
+LINE 203: isn't--it's firmly fastened at one end. Mrs. Spencer said your place was
+LINE 204: named Green Gables. I asked her all about it. And she said there were
+LINE 205: trees all around it. I was gladder than ever. I just love trees. And
+LINE 206: there weren't any at all about the asylum, only a few poor weeny-teeny
+LINE 207: things out in front with little whitewashed cagey things about them.
+LINE 208: They just looked like orphans themselves, those trees did. It used to
+LINE 209: make me want to cry to look at them. I used to say to them, 'Oh, you
+LINE 210: _poor_ little things! If you were out in a great big woods with other
+LINE 211: trees all around you and little mosses and June bells growing over your
+LINE 212: roots and a brook not far away and birds singing in you branches, you
+LINE 213: could grow, couldn't you? But you can't where you are. I know just
+LINE 214: exactly how you feel, little trees.' I felt sorry to leave them behind
+LINE 215: this morning. You do get so attached to things like that, don't you? Is
+LINE 216: there a brook anywhere near Green Gables? I forgot to ask Mrs. Spencer
+LINE 217: that."
+LINE 218: "Well now, yes, there's one right below the house."
+LINE 219: "Fancy. It's always been one of my dreams to live near a brook. I
+LINE 220: never expected I would, though. Dreams don't often come true, do they?
+LINE 221: Wouldn't it be nice if they did? But just now I feel pretty nearly
+LINE 222: perfectly happy. I can't feel exactly perfectly happy because--well,
+LINE 223: what color would you call this?"
+LINE 224: She twitched one of her long glossy braids over her thin shoulder and
+LINE 225: held it up before Matthew's eyes. Matthew was not used to deciding on
+LINE 226: the tints of ladies' tresses, but in this case there couldn't be much
+LINE 227: doubt.
+LINE 228: "It's red, ain't it?" he said.
+LINE 229: The girl let the braid drop back with a sigh that seemed to come from
+LINE 230: her very toes and to exhale forth all the sorrows of the ages.
+LINE 231: "Yes, it's red," she said resignedly. "Now you see why I can't be
+LINE 232: perfectly happy. Nobody could who has red hair. I don't mind the other
+LINE 233: things so much--the freckles and the green eyes and my skinniness. I
+LINE 234: can imagine them away. I can imagine that I have a beautiful rose-leaf
+LINE 235: complexion and lovely starry violet eyes. But I _cannot_ imagine that
+LINE 236: red hair away. I do my best. I think to myself, 'Now my hair is a
+LINE 237: glorious black, black as the raven's wing.' But all the time I _know_ it
+LINE 238: is just plain red and it breaks my heart. It will be my lifelong sorrow.
+LINE 239: I read of a girl once in a novel who had a lifelong sorrow but it wasn't
+LINE 240: red hair. Her hair was pure gold rippling back from her alabaster brow.
+LINE 241: What is an alabaster brow? I never could find out. Can you tell me?"
+LINE 242: "Well now, I'm afraid I can't," said Matthew, who was getting a little
+LINE 243: dizzy. He felt as he had once felt in his rash youth when another boy
+LINE 244: had enticed him on the merry-go-round at a picnic.
+LINE 245: "Well, whatever it was it must have been something nice because she was
+LINE 246: divinely beautiful. Have you ever imagined what it must feel like to be
+LINE 247: divinely beautiful?"
+LINE 248: "Well now, no, I haven't," confessed Matthew ingenuously.
+LINE 249: "I have, often. Which would you rather be if you had the
+LINE 250: choice--divinely beautiful or dazzlingly clever or angelically good?"
+LINE 251: "Well now, I--I don't know exactly."
+LINE 252: "Neither do I. I can never decide. But it doesn't make much real
+LINE 253: difference for it isn't likely I'll ever be either. It's certain I'll
+LINE 254: never be angelically good. Mrs. Spencer says--oh, Mr. Cuthbert! Oh, Mr.
+LINE 255: Cuthbert!! Oh, Mr. Cuthbert!!!"
+LINE 256: That was not what Mrs. Spencer had said; neither had the child tumbled
+LINE 257: out of the buggy nor had Matthew done anything astonishing. They had
+LINE 258: simply rounded a curve in the road and found themselves in the "Avenue."
+LINE 259: The "Avenue," so called by the Newbridge people, was a stretch of road
+LINE 260: four or five hundred yards long, completely arched over with huge,
+LINE 261: wide-spreading apple-trees, planted years ago by an eccentric old
+LINE 262: farmer. Overhead was one long canopy of snowy fragrant bloom. Below the
+LINE 263: boughs the air was full of a purple twilight and far ahead a glimpse
+LINE 264: of painted sunset sky shone like a great rose window at the end of a
+LINE 265: cathedral aisle.
+LINE 266: Its beauty seemed to strike the child dumb. She leaned back in the
+LINE 267: buggy, her thin hands clasped before her, her face lifted rapturously to
+LINE 268: the white splendor above. Even when they had passed out and were driving
+LINE 269: down the long slope to Newbridge she never moved or spoke. Still with
+LINE 270: rapt face she gazed afar into the sunset west, with eyes that saw
+LINE 271: visions trooping splendidly across that glowing background. Through
+LINE 272: Newbridge, a bustling little village where dogs barked at them and small
+LINE 273: boys hooted and curious faces peered from the windows, they drove, still
+LINE 274: in silence. When three more miles had dropped away behind them the child
+LINE 275: had not spoken. She could keep silence, it was evident, as energetically
+LINE 276: as she could talk.
+LINE 277: "I guess you're feeling pretty tired and hungry," Matthew ventured to
+LINE 278: say at last, accounting for her long visitation of dumbness with the
+LINE 279: only reason he could think of. "But we haven't very far to go now--only
+LINE 280: another mile."
+LINE 281: She came out of her reverie with a deep sigh and looked at him with the
+LINE 282: dreamy gaze of a soul that had been wondering afar, star-led.
+LINE 283: "Oh, Mr. Cuthbert," she whispered, "that place we came through--that
+LINE 284: white place--what was it?"
+LINE 285: "Well now, you must mean the Avenue," said Matthew after a few moments'
+LINE 286: profound reflection. "It is a kind of pretty place."
+LINE 287: "Pretty? Oh, _pretty_ doesn't seem the right word to use. Nor beautiful,
+LINE 288: either. They don't go far enough. Oh, it was wonderful--wonderful.
+LINE 289: It's the first thing I ever saw that couldn't be improved upon by
+LINE 290: imagination. It just satisfies me here"--she put one hand on her
+LINE 291: breast--"it made a queer funny ache and yet it was a pleasant ache. Did
+LINE 292: you ever have an ache like that, Mr. Cuthbert?"
+LINE 293: "Well now, I just can't recollect that I ever had."
+LINE 294: "I have it lots of time--whenever I see anything royally beautiful. But
+LINE 295: they shouldn't call that lovely place the Avenue. There is no meaning
+LINE 296: in a name like that. They should call it--let me see--the White Way of
+LINE 297: Delight. Isn't that a nice imaginative name? When I don't like the name
+LINE 298: of a place or a person I always imagine a new one and always think of
+LINE 299: them so. There was a girl at the asylum whose name was Hepzibah Jenkins,
+LINE 300: but I always imagined her as Rosalia DeVere. Other people may call that
+LINE 301: place the Avenue, but I shall always call it the White Way of Delight.
+LINE 302: Have we really only another mile to go before we get home? I'm glad and
+LINE 303: I'm sorry. I'm sorry because this drive has been so pleasant and I'm
+LINE 304: always sorry when pleasant things end. Something still pleasanter may
+LINE 305: come after, but you can never be sure. And it's so often the case that
+LINE 306: it isn't pleasanter. That has been my experience anyhow. But I'm glad to
+LINE 307: think of getting home. You see, I've never had a real home since I can
+LINE 308: remember. It gives me that pleasant ache again just to think of coming
+LINE 309: to a really truly home. Oh, isn't that pretty!"
+LINE 310: They had driven over the crest of a hill. Below them was a pond, looking
+LINE 311: almost like a river so long and winding was it. A bridge spanned it
+LINE 312: midway and from there to its lower end, where an amber-hued belt of
+LINE 313: sand-hills shut it in from the dark blue gulf beyond, the water was a
+LINE 314: glory of many shifting hues--the most spiritual shadings of crocus and
+LINE 315: rose and ethereal green, with other elusive tintings for which no name
+LINE 316: has ever been found. Above the bridge the pond ran up into fringing
+LINE 317: groves of fir and maple and lay all darkly translucent in their wavering
+LINE 318: shadows. Here and there a wild plum leaned out from the bank like a
+LINE 319: white-clad girl tip-toeing to her own reflection. From the marsh at the
+LINE 320: head of the pond came the clear, mournfully-sweet chorus of the frogs.
+LINE 321: There was a little gray house peering around a white apple orchard on
+LINE 322: a slope beyond and, although it was not yet quite dark, a light was
+LINE 323: shining from one of its windows.
+LINE 324: "That's Barry's pond," said Matthew.
+LINE 325: "Oh, I don't like that name, either. I shall call it--let me see--the
+LINE 326: Lake of Shining Waters. Yes, that is the right name for it. I know
+LINE 327: because of the thrill. When I hit on a name that suits exactly it gives
+LINE 328: me a thrill. Do things ever give you a thrill?"
+LINE 329: Matthew ruminated.
+LINE 330: "Well now, yes. It always kind of gives me a thrill to see them ugly
+LINE 331: white grubs that spade up in the cucumber beds. I hate the look of
+LINE 332: them."
+LINE 333: "Oh, I don't think that can be exactly the same kind of a thrill. Do you
+LINE 334: think it can? There doesn't seem to be much connection between grubs
+LINE 335: and lakes of shining waters, does there? But why do other people call it
+LINE 336: Barry's pond?"
+LINE 337: "I reckon because Mr. Barry lives up there in that house. Orchard
+LINE 338: Slope's the name of his place. If it wasn't for that big bush behind it
+LINE 339: you could see Green Gables from here. But we have to go over the bridge
+LINE 340: and round by the road, so it's near half a mile further."
+LINE 341: "Has Mr. Barry any little girls? Well, not so very little either--about
+LINE 342: my size."
+LINE 343: "He's got one about eleven. Her name is Diana."
+LINE 344: "Oh!" with a long indrawing of breath. "What a perfectly lovely name!"
+LINE 345: "Well now, I dunno. There's something dreadful heathenish about it,
+LINE 346: seems to me. I'd ruther Jane or Mary or some sensible name like that.
+LINE 347: But when Diana was born there was a schoolmaster boarding there and they
+LINE 348: gave him the naming of her and he called her Diana."
+LINE 349: "I wish there had been a schoolmaster like that around when I was born,
+LINE 350: then. Oh, here we are at the bridge. I'm going to shut my eyes tight.
+LINE 351: I'm always afraid going over bridges. I can't help imagining that
+LINE 352: perhaps just as we get to the middle, they'll crumple up like a
+LINE 353: jack-knife and nip us. So I shut my eyes. But I always have to open them
+LINE 354: for all when I think we're getting near the middle. Because, you see, if
+LINE 355: the bridge _did_ crumple up I'd want to _see_ it crumple. What a jolly
+LINE 356: rumble it makes! I always like the rumble part of it. Isn't it splendid
+LINE 357: there are so many things to like in this world? There we're over. Now
+LINE 358: I'll look back. Good night, dear Lake of Shining Waters. I always say
+LINE 359: good night to the things I love, just as I would to people. I think they
+LINE 360: like it. That water looks as if it was smiling at me."
+LINE 361: When they had driven up the further hill and around a corner Matthew
+LINE 362: said:
+LINE 363: "We're pretty near home now. That's Green Gables over--"
+LINE 364: "Oh, don't tell me," she interrupted breathlessly, catching at his
+LINE 365: partially raised arm and shutting her eyes that she might not see his
+LINE 366: gesture. "Let me guess. I'm sure I'll guess right."
+LINE 367: She opened her eyes and looked about her. They were on the crest of a
+LINE 368: hill. The sun had set some time since, but the landscape was still
+LINE 369: clear in the mellow afterlight. To the west a dark church spire rose
+LINE 370: up against a marigold sky. Below was a little valley and beyond a long,
+LINE 371: gently-rising slope with snug farmsteads scattered along it. From one
+LINE 372: to another the child's eyes darted, eager and wistful. At last they
+LINE 373: lingered on one away to the left, far back from the road, dimly white
+LINE 374: with blossoming trees in the twilight of the surrounding woods. Over it,
+LINE 375: in the stainless southwest sky, a great crystal-white star was shining
+LINE 376: like a lamp of guidance and promise.
+LINE 377: "That's it, isn't it?" she said, pointing.
+LINE 378: Matthew slapped the reins on the sorrel's back delightedly.
+LINE 379: "Well now, you've guessed it! But I reckon Mrs. Spencer described it
+LINE 380: so's you could tell."
+LINE 381: "No, she didn't--really she didn't. All she said might just as well have
+LINE 382: been about most of those other places. I hadn't any real idea what it
+LINE 383: looked like. But just as soon as I saw it I felt it was home. Oh, it
+LINE 384: seems as if I must be in a dream. Do you know, my arm must be black and
+LINE 385: blue from the elbow up, for I've pinched myself so many times today.
+LINE 386: Every little while a horrible sickening feeling would come over me and
+LINE 387: I'd be so afraid it was all a dream. Then I'd pinch myself to see if it
+LINE 388: was real--until suddenly I remembered that even supposing it was only
+LINE 389: a dream I'd better go on dreaming as long as I could; so I stopped
+LINE 390: pinching. But it _is_ real and we're nearly home."
+LINE 391: With a sigh of rapture she relapsed into silence. Matthew stirred
+LINE 392: uneasily. He felt glad that it would be Marilla and not he who would
+LINE 393: have to tell this waif of the world that the home she longed for was
+LINE 394: not to be hers after all. They drove over Lynde's Hollow, where it was
+LINE 395: already quite dark, but not so dark that Mrs. Rachel could not see them
+LINE 396: from her window vantage, and up the hill and into the long lane of Green
+LINE 397: Gables. By the time they arrived at the house Matthew was shrinking from
+LINE 398: the approaching revelation with an energy he did not understand. It was
+LINE 399: not of Marilla or himself he was thinking or of the trouble this mistake
+LINE 400: was probably going to make for them, but of the child's disappointment.
+LINE 401: When he thought of that rapt light being quenched in her eyes he had
+LINE 402: an uncomfortable feeling that he was going to assist at murdering
+LINE 403: something--much the same feeling that came over him when he had to kill
+LINE 404: a lamb or calf or any other innocent little creature.
+LINE 405: The yard was quite dark as they turned into it and the poplar leaves
+LINE 406: were rustling silkily all round it.
+LINE 407: "Listen to the trees talking in their sleep," she whispered, as he
+LINE 408: lifted her to the ground. "What nice dreams they must have!"
+LINE 409: Then, holding tightly to the carpet-bag which contained "all her worldly
+LINE 410: goods," she followed him into the house.

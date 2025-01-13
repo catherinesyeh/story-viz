@@ -1,0 +1,164 @@
+LINE 1: The next day opened a new scene at Longbourn. Mr. Collins made his
+LINE 2: declaration in form. Having resolved to do it without loss of time, as
+LINE 3: his leave of absence extended only to the following Saturday, and having
+LINE 4: no feelings of diffidence to make it distressing to himself even at the
+LINE 5: moment, he set about it in a very orderly manner, with all the
+LINE 6: observances which he supposed a regular part of the business. On finding
+LINE 7: Mrs. Bennet, Elizabeth, and one of the younger girls together, soon
+LINE 8: after breakfast, he addressed the mother in these words,
+LINE 9: "May I hope, Madam, for your interest with your fair daughter Elizabeth,
+LINE 10: when I solicit for the honour of a private audience with her in the
+LINE 11: course of this morning?"
+LINE 12: Before Elizabeth had time for any thing but a blush of surprise, Mrs.
+LINE 13: Bennet instantly answered,
+LINE 14: "Oh dear!--Yes--certainly.--I am sure Lizzy will be very happy--I am
+LINE 15: sure she can have no objection.--Come, Kitty, I want you up stairs." And
+LINE 16: gathering her work together, she was hastening away, when Elizabeth
+LINE 17: called out,
+LINE 18: "Dear Ma'am, do not go.--I beg you will not go.--Mr. Collins must excuse
+LINE 19: me.--He can have nothing to say to me that any body need not hear. I am
+LINE 20: going away myself."
+LINE 21: "No, no, nonsense, Lizzy.--I desire you will stay where you are."--And
+LINE 22: upon Elizabeth's seeming really, with vexed and embarrassed looks, about
+LINE 23: to escape, she added, "Lizzy, I _insist_ upon your staying and hearing
+LINE 24: Mr. Collins."
+LINE 25: Elizabeth would not oppose such an injunction--and a moment's
+LINE 26: consideration making her also sensible that it would be wisest to get it
+LINE 27: over as soon and as quietly as possible, she sat down again, and tried
+LINE 28: to conceal by incessant employment the feelings which were divided
+LINE 29: between distress and diversion. Mrs. Bennet and Kitty walked off, and as
+LINE 30: soon as they were gone Mr. Collins began.
+LINE 31: "Believe me, my dear Miss Elizabeth, that your modesty, so far from
+LINE 32: doing you any disservice, rather adds to your other perfections. You
+LINE 33: would have been less amiable in my eyes had there _not_ been this little
+LINE 34: unwillingness; but allow me to assure you that I have your respected
+LINE 35: mother's permission for this address. You can hardly doubt the purport
+LINE 36: of my discourse, however your natural delicacy may lead you to
+LINE 37: dissemble; my attentions have been too marked to be mistaken. Almost as
+LINE 38: soon as I entered the house I singled you out as the companion of my
+LINE 39: future life. But before I am run away with by my feelings on this
+LINE 40: subject, perhaps it will be advisable for me to state my reasons for
+LINE 41: marrying--and moreover for coming into Hertfordshire with the design of
+LINE 42: selecting a wife, as I certainly did."
+LINE 43: The idea of Mr. Collins, with all his solemn composure, being run away
+LINE 44: with by his feelings, made Elizabeth so near laughing that she could not
+LINE 45: use the short pause he allowed in any attempt to stop him farther, and
+LINE 46: he continued:
+LINE 47: "My reasons for marrying are, first, that I think it a right thing for
+LINE 48: every clergyman in easy circumstances (like myself) to set the example
+LINE 49: of matrimony in his parish. Secondly, that I am convinced it will add
+LINE 50: very greatly to my happiness; and thirdly--which perhaps I ought to have
+LINE 51: mentioned earlier, that it is the particular advice and recommendation
+LINE 52: of the very noble lady whom I have the honour of calling patroness.
+LINE 53: Twice has she condescended to give me her opinion (unasked too!) on this
+LINE 54: subject; and it was but the very Saturday night before I left
+LINE 55: Hunsford--between our pools at quadrille, while Mrs. Jenkinson was
+LINE 56: arranging Miss de Bourgh's foot-stool, that she said, 'Mr. Collins, you
+LINE 57: must marry. A clergyman like you must marry.--Chuse properly, chuse a
+LINE 58: gentlewoman for _my_ sake; and for your _own_, let her be an active,
+LINE 59: useful sort of person, not brought up high, but able to make a small
+LINE 60: income go a good way. This is my advice. Find such a woman as soon as
+LINE 61: you can, bring her to Hunsford, and I will visit her.' Allow me, by the
+LINE 62: way, to observe, my fair cousin, that I do not reckon the notice and
+LINE 63: kindness of Lady Catherine de Bourgh as among the least of the
+LINE 64: advantages in my power to offer. You will find her manners beyond any
+LINE 65: thing I can describe; and your wit and vivacity I think must be
+LINE 66: acceptable to her, especially when tempered with the silence and respect
+LINE 67: which her rank will inevitably excite. Thus much for my general
+LINE 68: intention in favour of matrimony; it remains to be told why my views
+LINE 69: were directed to Longbourn instead of my own neighbourhood, where I
+LINE 70: assure you there are many amiable young women. But the fact is, that
+LINE 71: being, as I am, to inherit this estate after the death of your honoured
+LINE 72: father, (who, however, may live many years longer,) I could not satisfy
+LINE 73: myself without resolving to chuse a wife from among his daughters, that
+LINE 74: the loss to them might be as little as possible, when the melancholy
+LINE 75: event takes place--which, however, as I have already said, may not be
+LINE 76: for several years. This has been my motive, my fair cousin, and I
+LINE 77: flatter myself it will not sink me in your esteem. And now nothing
+LINE 78: remains for me but to assure you in the most animated language of the
+LINE 79: violence of my affection. To fortune I am perfectly indifferent, and
+LINE 80: shall make no demand of that nature on your father, since I am well
+LINE 81: aware that it could not be complied with; and that one thousand pounds
+LINE 82: in the 4 per cents. which will not be yours till after your mother's
+LINE 83: decease, is all that you may ever be entitled to. On that head,
+LINE 84: therefore, I shall be uniformly silent; and you may assure yourself that
+LINE 85: no ungenerous reproach shall ever pass my lips when we are married."
+LINE 86: It was absolutely necessary to interrupt him now.
+LINE 87: "You are too hasty, Sir," she cried. "You forget that I have made no
+LINE 88: answer. Let me do it without farther loss of time. Accept my thanks for
+LINE 89: the compliment you are paying me. I am very sensible of the honour of
+LINE 90: your proposals, but it is impossible for me to do otherwise than decline
+LINE 91: them."
+LINE 92: "I am not now to learn," replied Mr. Collins, with a formal wave of the
+LINE 93: hand, "that it is usual with young ladies to reject the addresses of the
+LINE 94: man whom they secretly mean to accept, when he first applies for their
+LINE 95: favour; and that sometimes the refusal is repeated a second or even a
+LINE 96: third time. I am therefore by no means discouraged by what you have just
+LINE 97: said, and shall hope to lead you to the altar ere long."
+LINE 98: "Upon my word, Sir," cried Elizabeth, "your hope is rather an
+LINE 99: extraordinary one after my declaration. I do assure you that I am not
+LINE 100: one of those young ladies (if such young ladies there are) who are so
+LINE 101: daring as to risk their happiness on the chance of being asked a second
+LINE 102: time. I am perfectly serious in my refusal.--You could not make _me_
+LINE 103: happy, and I am convinced that I am the last woman in the world who
+LINE 104: would make _you_ so.--Nay, were your friend Lady Catherine to know me, I
+LINE 105: am persuaded she would find me in every respect ill qualified for the
+LINE 106: situation."
+LINE 107: "Were it certain that Lady Catherine would think so," said Mr. Collins
+LINE 108: very gravely--"but I cannot imagine that her ladyship would at all
+LINE 109: disapprove of you. And you may be certain that when I have the honour of
+LINE 110: seeing her again I shall speak in the highest terms of your modesty,
+LINE 111: economy, and other amiable qualifications."
+LINE 112: "Indeed, Mr. Collins, all praise of me will be unnecessary. You must
+LINE 113: give me leave to judge for myself, and pay me the compliment of
+LINE 114: believing what I say. I wish you very happy and very rich, and by
+LINE 115: refusing your hand, do all in my power to prevent your being otherwise.
+LINE 116: In making me the offer, you must have satisfied the delicacy of your
+LINE 117: feelings with regard to my family, and may take possession of Longbourn
+LINE 118: estate whenever it falls, without any self-reproach. This matter may be
+LINE 119: considered, therefore, as finally settled." And rising as she thus
+LINE 120: spoke, she would have quitted the room, had not Mr. Collins thus
+LINE 121: addressed her,
+LINE 122: "When I do myself the honour of speaking to you next on this subject I
+LINE 123: shall hope to receive a more favourable answer than you have now given
+LINE 124: me; though I am far from accusing you of cruelty at present, because I
+LINE 125: know it to be the established custom of your sex to reject a man on the
+LINE 126: first application, and perhaps you have even now said as much to
+LINE 127: encourage my suit as would be consistent with the true delicacy of the
+LINE 128: female character."
+LINE 129: "Really, Mr. Collins," cried Elizabeth with some warmth, "you puzzle me
+LINE 130: exceedingly. If what I have hitherto said can appear to you in the form
+LINE 131: of encouragement, I know not how to express my refusal in such a way as
+LINE 132: may convince you of its being one."
+LINE 133: "You must give me leave to flatter myself, my dear cousin, that your
+LINE 134: refusal of my addresses is merely words of course. My reasons for
+LINE 135: believing it are briefly these:--It does not appear to me that my hand
+LINE 136: is unworthy your acceptance, or that the establishment I can offer would
+LINE 137: be any other than highly desirable. My situation in life, my connections
+LINE 138: with the family of De Bourgh, and my relationship to your own, are
+LINE 139: circumstances highly in my favour; and you should take it into farther
+LINE 140: consideration that in spite of your manifold attractions, it is by no
+LINE 141: means certain that another offer of marriage may ever be made you. Your
+LINE 142: portion is unhappily so small that it will in all likelihood undo the
+LINE 143: effects of your loveliness and amiable qualifications. As I must
+LINE 144: therefore conclude that you are not serious in your rejection of me, I
+LINE 145: shall chuse to attribute it to your wish of increasing my love by
+LINE 146: suspense, according to the usual practice of elegant females."
+LINE 147: "I do assure you, Sir, that I have no pretension whatever to that kind
+LINE 148: of elegance which consists in tormenting a respectable man. I would
+LINE 149: rather be paid the compliment of being believed sincere. I thank you
+LINE 150: again and again for the honour you have done me in your proposals, but
+LINE 151: to accept them is absolutely impossible. My feelings in every respect
+LINE 152: forbid it. Can I speak plainer? Do not consider me now as an elegant
+LINE 153: female intending to plague you, but as a rational creature speaking the
+LINE 154: truth from her heart."
+LINE 155: "You are uniformly charming!" cried he, with an air of awkward
+LINE 156: gallantry; "and I am persuaded that when sanctioned by the express
+LINE 157: authority of both your excellent parents, my proposals will not fail of
+LINE 158: being acceptable."
+LINE 159: To such perseverance in wilful self-deception Elizabeth would make no
+LINE 160: reply, and immediately and in silence withdrew; determined, if he
+LINE 161: persisted in considering her repeated refusals as flattering
+LINE 162: encouragement, to apply to her father, whose negative might be uttered
+LINE 163: in such a manner as must be decisive, and whose behaviour at least could
+LINE 164: not be mistaken for the affectation and coquetry of an elegant female.

@@ -1,0 +1,398 @@
+LINE 1: About this time an ambitious young reporter from New York arrived one
+LINE 2: morning at Gatsby's door and asked him if he had anything to say.
+LINE 3: "Anything to say about what?" inquired Gatsby politely.
+LINE 4: "Why—any statement to give out."
+LINE 5: It transpired after a confused five minutes that the man had heard
+LINE 6: Gatsby's name around his office in a connection which he either
+LINE 7: wouldn't reveal or didn't fully understand. This was his day off and
+LINE 8: with laudable initiative he had hurried out "to see."
+LINE 9: It was a random shot, and yet the reporter's instinct was right.
+LINE 10: Gatsby's notoriety, spread about by the hundreds who had accepted his
+LINE 11: hospitality and so become authorities upon his past, had increased all
+LINE 12: summer until he fell just short of being news. Contemporary legends
+LINE 13: such as the "underground pipeline to Canada" attached themselves to
+LINE 14: him, and there was one persistent story that he didn't live in a house
+LINE 15: at all, but in a boat that looked like a house and was moved secretly
+LINE 16: up and down the Long Island shore. Just why these inventions were a
+LINE 17: source of satisfaction to James Gatz of North Dakota, isn't easy to
+LINE 18: say.
+LINE 19: James Gatz—that was really, or at least legally, his name. He had
+LINE 20: changed it at the age of seventeen and at the specific moment that
+LINE 21: witnessed the beginning of his career—when he saw Dan Cody's yacht
+LINE 22: drop anchor over the most insidious flat on Lake Superior. It was
+LINE 23: James Gatz who had been loafing along the beach that afternoon in a
+LINE 24: torn green jersey and a pair of canvas pants, but it was already Jay
+LINE 25: Gatsby who borrowed a rowboat, pulled out to the Tuolomee, and
+LINE 26: informed Cody that a wind might catch him and break him up in half an
+LINE 27: hour.
+LINE 28: I suppose he'd had the name ready for a long time, even then. His
+LINE 29: parents were shiftless and unsuccessful farm people—his imagination
+LINE 30: had never really accepted them as his parents at all. The truth was
+LINE 31: that Jay Gatsby of West Egg, Long Island, sprang from his Platonic
+LINE 32: conception of himself. He was a son of God—a phrase which, if it means
+LINE 33: anything, means just that—and he must be about His Father's business,
+LINE 34: the service of a vast, vulgar, and meretricious beauty. So he invented
+LINE 35: just the sort of Jay Gatsby that a seventeen-year-old boy would be
+LINE 36: likely to invent, and to this conception he was faithful to the end.
+LINE 37: For over a year he had been beating his way along the south shore of
+LINE 38: Lake Superior as a clam-digger and a salmon-fisher or in any other
+LINE 39: capacity that brought him food and bed. His brown, hardening body
+LINE 40: lived naturally through the half-fierce, half-lazy work of the bracing
+LINE 41: days. He knew women early, and since they spoiled him he became
+LINE 42: contemptuous of them, of young virgins because they were ignorant, of
+LINE 43: the others because they were hysterical about things which in his
+LINE 44: overwhelming self-absorption he took for granted.
+LINE 45: But his heart was in a constant, turbulent riot. The most grotesque
+LINE 46: and fantastic conceits haunted him in his bed at night. A universe of
+LINE 47: ineffable gaudiness spun itself out in his brain while the clock
+LINE 48: ticked on the washstand and the moon soaked with wet light his tangled
+LINE 49: clothes upon the floor. Each night he added to the pattern of his
+LINE 50: fancies until drowsiness closed down upon some vivid scene with an
+LINE 51: oblivious embrace. For a while these reveries provided an outlet for
+LINE 52: his imagination; they were a satisfactory hint of the unreality of
+LINE 53: reality, a promise that the rock of the world was founded securely on
+LINE 54: a fairy's wing.
+LINE 55: An instinct toward his future glory had led him, some months before,
+LINE 56: to the small Lutheran College of St. Olaf's in southern Minnesota. He
+LINE 57: stayed there two weeks, dismayed at its ferocious indifference to the
+LINE 58: drums of his destiny, to destiny itself, and despising the janitor's
+LINE 59: work with which he was to pay his way through. Then he drifted back to
+LINE 60: Lake Superior, and he was still searching for something to do on the
+LINE 61: day that Dan Cody's yacht dropped anchor in the shallows alongshore.
+LINE 62: Cody was fifty years old then, a product of the Nevada silver fields,
+LINE 63: of the Yukon, of every rush for metal since seventy-five. The
+LINE 64: transactions in Montana copper that made him many times a millionaire
+LINE 65: found him physically robust but on the verge of soft-mindedness, and,
+LINE 66: suspecting this, an infinite number of women tried to separate him
+LINE 67: from his money. The none too savoury ramifications by which Ella Kaye,
+LINE 68: the newspaper woman, played Madame de Maintenon to his weakness and
+LINE 69: sent him to sea in a yacht, were common property of the turgid
+LINE 70: journalism in 1902. He had been coasting along all too hospitable
+LINE 71: shores for five years when he turned up as James Gatz's destiny in
+LINE 72: Little Girl Bay.
+LINE 73: To young Gatz, resting on his oars and looking up at the railed deck,
+LINE 74: that yacht represented all the beauty and glamour in the world. I
+LINE 75: suppose he smiled at Cody—he had probably discovered that people liked
+LINE 76: him when he smiled. At any rate Cody asked him a few questions (one of
+LINE 77: them elicited the brand new name) and found that he was quick and
+LINE 78: extravagantly ambitious. A few days later he took him to Duluth and
+LINE 79: bought him a blue coat, six pairs of white duck trousers, and a
+LINE 80: yachting cap. And when the Tuolomee left for the West Indies and the
+LINE 81: Barbary Coast, Gatsby left too.
+LINE 82: He was employed in a vague personal capacity—while he remained with
+LINE 83: Cody he was in turn steward, mate, skipper, secretary, and even
+LINE 84: jailor, for Dan Cody sober knew what lavish doings Dan Cody drunk
+LINE 85: might soon be about, and he provided for such contingencies by
+LINE 86: reposing more and more trust in Gatsby. The arrangement lasted five
+LINE 87: years, during which the boat went three times around the Continent.
+LINE 88: It might have lasted indefinitely except for the fact that Ella Kaye
+LINE 89: came on board one night in Boston and a week later Dan Cody
+LINE 90: inhospitably died.
+LINE 91: I remember the portrait of him up in Gatsby's bedroom, a grey, florid
+LINE 92: man with a hard, empty face—the pioneer debauchee, who during one
+LINE 93: phase of American life brought back to the Eastern seaboard the savage
+LINE 94: violence of the frontier brothel and saloon. It was indirectly due to
+LINE 95: Cody that Gatsby drank so little. Sometimes in the course of gay
+LINE 96: parties women used to rub champagne into his hair; for himself he
+LINE 97: formed the habit of letting liquor alone.
+LINE 98: And it was from Cody that he inherited money—a legacy of twenty-five
+LINE 99: thousand dollars. He didn't get it. He never understood the legal
+LINE 100: device that was used against him, but what remained of the millions
+LINE 101: went intact to Ella Kaye. He was left with his singularly appropriate
+LINE 102: education; the vague contour of Jay Gatsby had filled out to the
+LINE 103: substantiality of a man.
+LINE 104: ------------------------------------------------------------------------
+LINE 105: He told me all this very much later, but I've put it down here with
+LINE 106: the idea of exploding those first wild rumours about his antecedents,
+LINE 107: which weren't even faintly true. Moreover he told it to me at a time
+LINE 108: of confusion, when I had reached the point of believing everything and
+LINE 109: nothing about him. So I take advantage of this short halt, while
+LINE 110: Gatsby, so to speak, caught his breath, to clear this set of
+LINE 111: misconceptions away.
+LINE 112: It was a halt, too, in my association with his affairs. For several
+LINE 113: weeks I didn't see him or hear his voice on the phone—mostly I was in
+LINE 114: New York, trotting around with Jordan and trying to ingratiate myself
+LINE 115: with her senile aunt—but finally I went over to his house one Sunday
+LINE 116: afternoon. I hadn't been there two minutes when somebody brought Tom
+LINE 117: Buchanan in for a drink. I was startled, naturally, but the really
+LINE 118: surprising thing was that it hadn't happened before.
+LINE 119: They were a party of three on horseback—Tom and a man named Sloane and
+LINE 120: a pretty woman in a brown riding-habit, who had been there previously.
+LINE 121: "I'm delighted to see you," said Gatsby, standing on his porch. "I'm
+LINE 122: delighted that you dropped in."
+LINE 123: As though they cared!
+LINE 124: "Sit right down. Have a cigarette or a cigar." He walked around the
+LINE 125: room quickly, ringing bells. "I'll have something to drink for you in
+LINE 126: just a minute."
+LINE 127: He was profoundly affected by the fact that Tom was there. But he
+LINE 128: would be uneasy anyhow until he had given them something, realizing in
+LINE 129: a vague way that that was all they came for. Mr. Sloane wanted
+LINE 130: nothing. A lemonade? No, thanks. A little champagne? Nothing at all,
+LINE 131: thanks … I'm sorry—
+LINE 132: "Did you have a nice ride?"
+LINE 133: "Very good roads around here."
+LINE 134: "I suppose the automobiles—"
+LINE 135: "Yeah."
+LINE 136: Moved by an irresistible impulse, Gatsby turned to Tom, who had
+LINE 137: accepted the introduction as a stranger.
+LINE 138: "I believe we've met somewhere before, Mr. Buchanan."
+LINE 139: "Oh, yes," said Tom, gruffly polite, but obviously not remembering.
+LINE 140: "So we did. I remember very well."
+LINE 141: "About two weeks ago."
+LINE 142: "That's right. You were with Nick here."
+LINE 143: "I know your wife," continued Gatsby, almost aggressively.
+LINE 144: "That so?"
+LINE 145: Tom turned to me.
+LINE 146: "You live near here, Nick?"
+LINE 147: "Next door."
+LINE 148: "That so?"
+LINE 149: Mr. Sloane didn't enter into the conversation, but lounged back
+LINE 150: haughtily in his chair; the woman said nothing either—until
+LINE 151: unexpectedly, after two highballs, she became cordial.
+LINE 152: "We'll all come over to your next party, Mr. Gatsby," she suggested.
+LINE 153: "What do you say?"
+LINE 154: "Certainly; I'd be delighted to have you."
+LINE 155: "Be ver' nice," said Mr. Sloane, without gratitude. "Well—think ought
+LINE 156: to be starting home."
+LINE 157: "Please don't hurry," Gatsby urged them. He had control of himself
+LINE 158: now, and he wanted to see more of Tom. "Why don't you—why don't you
+LINE 159: stay for supper? I wouldn't be surprised if some other people dropped
+LINE 160: in from New York."
+LINE 161: "You come to supper with me," said the lady enthusiastically. "Both of
+LINE 162: you."
+LINE 163: This included me. Mr. Sloane got to his feet.
+LINE 164: "Come along," he said—but to her only.
+LINE 165: "I mean it," she insisted. "I'd love to have you. Lots of room."
+LINE 166: Gatsby looked at me questioningly. He wanted to go and he didn't see
+LINE 167: that Mr. Sloane had determined he shouldn't.
+LINE 168: "I'm afraid I won't be able to," I said.
+LINE 169: "Well, you come," she urged, concentrating on Gatsby.
+LINE 170: Mr. Sloane murmured something close to her ear.
+LINE 171: "We won't be late if we start now," she insisted aloud.
+LINE 172: "I haven't got a horse," said Gatsby. "I used to ride in the army, but
+LINE 173: I've never bought a horse. I'll have to follow you in my car. Excuse
+LINE 174: me for just a minute."
+LINE 175: The rest of us walked out on the porch, where Sloane and the lady
+LINE 176: began an impassioned conversation aside.
+LINE 177: "My God, I believe the man's coming," said Tom. "Doesn't he know she
+LINE 178: doesn't want him?"
+LINE 179: "She says she does want him."
+LINE 180: "She has a big dinner party and he won't know a soul there." He
+LINE 181: frowned. "I wonder where in the devil he met Daisy. By God, I may be
+LINE 182: old-fashioned in my ideas, but women run around too much these days to
+LINE 183: suit me. They meet all kinds of crazy fish."
+LINE 184: Suddenly Mr. Sloane and the lady walked down the steps and mounted
+LINE 185: their horses.
+LINE 186: "Come on," said Mr. Sloane to Tom, "we're late. We've got to go." And
+LINE 187: then to me: "Tell him we couldn't wait, will you?"
+LINE 188: Tom and I shook hands, the rest of us exchanged a cool nod, and they
+LINE 189: trotted quickly down the drive, disappearing under the August foliage
+LINE 190: just as Gatsby, with hat and light overcoat in hand, came out the
+LINE 191: front door.
+LINE 192: Tom was evidently perturbed at Daisy's running around alone, for on
+LINE 193: the following Saturday night he came with her to Gatsby's
+LINE 194: party. Perhaps his presence gave the evening its peculiar quality of
+LINE 195: oppressiveness—it stands out in my memory from Gatsby's other parties
+LINE 196: that summer. There were the same people, or at least the same sort of
+LINE 197: people, the same profusion of champagne, the same many-coloured,
+LINE 198: many-keyed commotion, but I felt an unpleasantness in the air, a
+LINE 199: pervading harshness that hadn't been there before. Or perhaps I had
+LINE 200: merely grown used to it, grown to accept West Egg as a world complete
+LINE 201: in itself, with its own standards and its own great figures, second to
+LINE 202: nothing because it had no consciousness of being so, and now I was
+LINE 203: looking at it again, through Daisy's eyes. It is invariably saddening
+LINE 204: to look through new eyes at things upon which you have expended your
+LINE 205: own powers of adjustment.
+LINE 206: They arrived at twilight, and, as we strolled out among the sparkling
+LINE 207: hundreds, Daisy's voice was playing murmurous tricks in her throat.
+LINE 208: "These things excite me so," she whispered. "If you want to kiss me
+LINE 209: any time during the evening, Nick, just let me know and I'll be glad
+LINE 210: to arrange it for you. Just mention my name. Or present a green card.
+LINE 211: I'm giving out green—"
+LINE 212: "Look around," suggested Gatsby.
+LINE 213: "I'm looking around. I'm having a marvellous—"
+LINE 214: "You must see the faces of many people you've heard about."
+LINE 215: Tom's arrogant eyes roamed the crowd.
+LINE 216: "We don't go around very much," he said; "in fact, I was just thinking
+LINE 217: I don't know a soul here."
+LINE 218: "Perhaps you know that lady." Gatsby indicated a gorgeous, scarcely
+LINE 219: human orchid of a woman who sat in state under a white-plum tree. Tom
+LINE 220: and Daisy stared, with that peculiarly unreal feeling that accompanies
+LINE 221: the recognition of a hitherto ghostly celebrity of the movies.
+LINE 222: "She's lovely," said Daisy.
+LINE 223: "The man bending over her is her director."
+LINE 224: He took them ceremoniously from group to group:
+LINE 225: "Mrs. Buchanan … and Mr. Buchanan—" After an instant's hesitation he
+LINE 226: added: "the polo player."
+LINE 227: "Oh no," objected Tom quickly, "not me."
+LINE 228: But evidently the sound of it pleased Gatsby for Tom remained "the
+LINE 229: polo player" for the rest of the evening.
+LINE 230: "I've never met so many celebrities," Daisy exclaimed. "I liked that
+LINE 231: man—what was his name?—with the sort of blue nose."
+LINE 232: Gatsby identified him, adding that he was a small producer.
+LINE 233: "Well, I liked him anyhow."
+LINE 234: "I'd a little rather not be the polo player," said Tom pleasantly,
+LINE 235: "I'd rather look at all these famous people in—in oblivion."
+LINE 236: Daisy and Gatsby danced. I remember being surprised by his graceful,
+LINE 237: conservative foxtrot—I had never seen him dance before. Then they
+LINE 238: sauntered over to my house and sat on the steps for half an hour,
+LINE 239: while at her request I remained watchfully in the garden. "In case
+LINE 240: there's a fire or a flood," she explained, "or any act of God."
+LINE 241: Tom appeared from his oblivion as we were sitting down to supper
+LINE 242: together. "Do you mind if I eat with some people over here?" he
+LINE 243: said. "A fellow's getting off some funny stuff."
+LINE 244: "Go ahead," answered Daisy genially, "and if you want to take down any
+LINE 245: addresses here's my little gold pencil." … She looked around after a
+LINE 246: moment and told me the girl was "common but pretty," and I knew that
+LINE 247: except for the half-hour she'd been alone with Gatsby she wasn't
+LINE 248: having a good time.
+LINE 249: We were at a particularly tipsy table. That was my fault—Gatsby had
+LINE 250: been called to the phone, and I'd enjoyed these same people only two
+LINE 251: weeks before. But what had amused me then turned septic on the air
+LINE 252: now.
+LINE 253: "How do you feel, Miss Baedeker?"
+LINE 254: The girl addressed was trying, unsuccessfully, to slump against my
+LINE 255: shoulder. At this inquiry she sat up and opened her eyes.
+LINE 256: "Wha'?"
+LINE 257: A massive and lethargic woman, who had been urging Daisy to play golf
+LINE 258: with her at the local club tomorrow, spoke in Miss Baedeker's defence:
+LINE 259: "Oh, she's all right now. When she's had five or six cocktails she
+LINE 260: always starts screaming like that. I tell her she ought to leave it
+LINE 261: alone."
+LINE 262: "I do leave it alone," affirmed the accused hollowly.
+LINE 263: "We heard you yelling, so I said to Doc Civet here: 'There's somebody
+LINE 264: that needs your help, Doc.' "
+LINE 265: "She's much obliged, I'm sure," said another friend, without
+LINE 266: gratitude, "but you got her dress all wet when you stuck her head in
+LINE 267: the pool."
+LINE 268: "Anything I hate is to get my head stuck in a pool," mumbled Miss
+LINE 269: Baedeker. "They almost drowned me once over in New Jersey."
+LINE 270: "Then you ought to leave it alone," countered Doctor Civet.
+LINE 271: "Speak for yourself!" cried Miss Baedeker violently. "Your hand
+LINE 272: shakes. I wouldn't let you operate on me!"
+LINE 273: It was like that. Almost the last thing I remember was standing with
+LINE 274: Daisy and watching the moving-picture director and his Star. They were
+LINE 275: still under the white-plum tree and their faces were touching except
+LINE 276: for a pale, thin ray of moonlight between. It occurred to me that he
+LINE 277: had been very slowly bending toward her all evening to attain this
+LINE 278: proximity, and even while I watched I saw him stoop one ultimate
+LINE 279: degree and kiss at her cheek.
+LINE 280: "I like her," said Daisy, "I think she's lovely."
+LINE 281: But the rest offended her—and inarguably because it wasn't a gesture
+LINE 282: but an emotion. She was appalled by West Egg, this unprecedented
+LINE 283: "place" that Broadway had begotten upon a Long Island fishing
+LINE 284: village—appalled by its raw vigour that chafed under the old
+LINE 285: euphemisms and by the too obtrusive fate that herded its inhabitants
+LINE 286: along a shortcut from nothing to nothing. She saw something awful in
+LINE 287: the very simplicity she failed to understand.
+LINE 288: I sat on the front steps with them while they waited for their car.
+LINE 289: It was dark here in front; only the bright door sent ten square feet
+LINE 290: of light volleying out into the soft black morning. Sometimes a shadow
+LINE 291: moved against a dressing-room blind above, gave way to another shadow,
+LINE 292: an indefinite procession of shadows, who rouged and powdered in an
+LINE 293: invisible glass.
+LINE 294: "Who is this Gatsby anyhow?" demanded Tom suddenly. "Some big
+LINE 295: bootlegger?"
+LINE 296: "Where'd you hear that?" I inquired.
+LINE 297: "I didn't hear it. I imagined it. A lot of these newly rich people are
+LINE 298: just big bootleggers, you know."
+LINE 299: "Not Gatsby," I said shortly.
+LINE 300: He was silent for a moment. The pebbles of the drive crunched under
+LINE 301: his feet.
+LINE 302: "Well, he certainly must have strained himself to get this menagerie
+LINE 303: together."
+LINE 304: A breeze stirred the grey haze of Daisy's fur collar.
+LINE 305: "At least they are more interesting than the people we know," she said
+LINE 306: with an effort.
+LINE 307: "You didn't look so interested."
+LINE 308: "Well, I was."
+LINE 309: Tom laughed and turned to me.
+LINE 310: "Did you notice Daisy's face when that girl asked her to put her under
+LINE 311: a cold shower?"
+LINE 312: Daisy began to sing with the music in a husky, rhythmic whisper,
+LINE 313: bringing out a meaning in each word that it had never had before and
+LINE 314: would never have again. When the melody rose her voice broke up
+LINE 315: sweetly, following it, in a way contralto voices have, and each change
+LINE 316: tipped out a little of her warm human magic upon the air.
+LINE 317: "Lots of people come who haven't been invited," she said
+LINE 318: suddenly. "That girl hadn't been invited. They simply force their way
+LINE 319: in and he's too polite to object."
+LINE 320: "I'd like to know who he is and what he does," insisted Tom. "And I
+LINE 321: think I'll make a point of finding out."
+LINE 322: "I can tell you right now," she answered. "He owned some drugstores, a
+LINE 323: lot of drugstores. He built them up himself."
+LINE 324: The dilatory limousine came rolling up the drive.
+LINE 325: "Good night, Nick," said Daisy.
+LINE 326: Her glance left me and sought the lighted top of the steps, where
+LINE 327: "Three O'Clock in the Morning," a neat, sad little waltz of that year,
+LINE 328: was drifting out the open door. After all, in the very casualness of
+LINE 329: Gatsby's party there were romantic possibilities totally absent from
+LINE 330: her world. What was it up there in the song that seemed to be calling
+LINE 331: her back inside? What would happen now in the dim, incalculable hours?
+LINE 332: Perhaps some unbelievable guest would arrive, a person infinitely rare
+LINE 333: and to be marvelled at, some authentically radiant young girl who with
+LINE 334: one fresh glance at Gatsby, one moment of magical encounter, would
+LINE 335: blot out those five years of unwavering devotion.
+LINE 336: I stayed late that night. Gatsby asked me to wait until he was free,
+LINE 337: and I lingered in the garden until the inevitable swimming party had
+LINE 338: run up, chilled and exalted, from the black beach, until the lights
+LINE 339: were extinguished in the guestrooms overhead. When he came down the
+LINE 340: steps at last the tanned skin was drawn unusually tight on his face,
+LINE 341: and his eyes were bright and tired.
+LINE 342: "She didn't like it," he said immediately.
+LINE 343: "Of course she did."
+LINE 344: "She didn't like it," he insisted. "She didn't have a good time."
+LINE 345: He was silent, and I guessed at his unutterable depression.
+LINE 346: "I feel far away from her," he said. "It's hard to make her
+LINE 347: understand."
+LINE 348: "You mean about the dance?"
+LINE 349: "The dance?" He dismissed all the dances he had given with a snap of
+LINE 350: his fingers. "Old sport, the dance is unimportant."
+LINE 351: He wanted nothing less of Daisy than that she should go to Tom and
+LINE 352: say: "I never loved you." After she had obliterated four years with
+LINE 353: that sentence they could decide upon the more practical measures to be
+LINE 354: taken. One of them was that, after she was free, they were to go back
+LINE 355: to Louisville and be married from her house—just as if it were five
+LINE 356: years ago.
+LINE 357: "And she doesn't understand," he said. "She used to be able to
+LINE 358: understand. We'd sit for hours—"
+LINE 359: He broke off and began to walk up and down a desolate path of fruit
+LINE 360: rinds and discarded favours and crushed flowers.
+LINE 361: "I wouldn't ask too much of her," I ventured. "You can't repeat the
+LINE 362: past."
+LINE 363: "Can't repeat the past?" he cried incredulously. "Why of course you
+LINE 364: can!"
+LINE 365: He looked around him wildly, as if the past were lurking here in the
+LINE 366: shadow of his house, just out of reach of his hand.
+LINE 367: "I'm going to fix everything just the way it was before," he said,
+LINE 368: nodding determinedly. "She'll see."
+LINE 369: He talked a lot about the past, and I gathered that he wanted to
+LINE 370: recover something, some idea of himself perhaps, that had gone into
+LINE 371: loving Daisy. His life had been confused and disordered since then,
+LINE 372: but if he could once return to a certain starting place and go over it
+LINE 373: all slowly, he could find out what that thing was …
+LINE 374: … One autumn night, five years before, they had been walking down the
+LINE 375: street when the leaves were falling, and they came to a place where
+LINE 376: there were no trees and the sidewalk was white with moonlight. They
+LINE 377: stopped here and turned toward each other. Now it was a cool night
+LINE 378: with that mysterious excitement in it which comes at the two changes
+LINE 379: of the year. The quiet lights in the houses were humming out into the
+LINE 380: darkness and there was a stir and bustle among the stars. Out of the
+LINE 381: corner of his eye Gatsby saw that the blocks of the sidewalks really
+LINE 382: formed a ladder and mounted to a secret place above the trees—he could
+LINE 383: climb to it, if he climbed alone, and once there he could suck on the
+LINE 384: pap of life, gulp down the incomparable milk of wonder.
+LINE 385: His heart beat faster as Daisy's white face came up to his own. He
+LINE 386: knew that when he kissed this girl, and forever wed his unutterable
+LINE 387: visions to her perishable breath, his mind would never romp again like
+LINE 388: the mind of God. So he waited, listening for a moment longer to the
+LINE 389: tuning-fork that had been struck upon a star. Then he kissed her. At
+LINE 390: his lips' touch she blossomed for him like a flower and the
+LINE 391: incarnation was complete.
+LINE 392: Through all he said, even through his appalling sentimentality, I was
+LINE 393: reminded of something—an elusive rhythm, a fragment of lost words,
+LINE 394: that I had heard somewhere a long time ago. For a moment a phrase
+LINE 395: tried to take shape in my mouth and my lips parted like a dumb man's,
+LINE 396: as though there was more struggling upon them than a wisp of startled
+LINE 397: air. But they made no sound, and what I had almost remembered was
+LINE 398: uncommunicable forever.

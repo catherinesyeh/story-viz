@@ -1,0 +1,192 @@
+LINE 1: In vain should I attempt to describe the astonishment and disquiet of
+LINE 2: Herbert, when he and I and Provis sat down before the fire, and I
+LINE 3: recounted the whole of the secret. Enough, that I saw my own feelings
+LINE 4: reflected in Herbert's face, and not least among them, my repugnance
+LINE 5: towards the man who had done so much for me.
+LINE 6: What would alone have set a division between that man and us, if there
+LINE 7: had been no other dividing circumstance, was his triumph in my story.
+LINE 8: Saving his troublesome sense of having been "low" on one occasion since
+LINE 9: his return,—on which point he began to hold forth to Herbert, the
+LINE 10: moment my revelation was finished,—he had no perception of the
+LINE 11: possibility of my finding any fault with my good fortune. His boast
+LINE 12: that he had made me a gentleman, and that he had come to see me support
+LINE 13: the character on his ample resources, was made for me quite as much as
+LINE 14: for himself. And that it was a highly agreeable boast to both of us,
+LINE 15: and that we must both be very proud of it, was a conclusion quite
+LINE 16: established in his own mind.
+LINE 17: "Though, look'ee here, Pip's comrade," he said to Herbert, after having
+LINE 18: discoursed for some time, "I know very well that once since I come
+LINE 19: back—for half a minute—I've been low. I said to Pip, I knowed as I had
+LINE 20: been low. But don't you fret yourself on that score. I ain't made Pip a
+LINE 21: gentleman, and Pip ain't a-going to make you a gentleman, not fur me
+LINE 22: not to know what's due to ye both. Dear boy, and Pip's comrade, you two
+LINE 23: may count upon me always having a genteel muzzle on. Muzzled I have
+LINE 24: been since that half a minute when I was betrayed into lowness, muzzled
+LINE 25: I am at the present time, muzzled I ever will be."
+LINE 26: Herbert said, "Certainly," but looked as if there were no specific
+LINE 27: consolation in this, and remained perplexed and dismayed. We were
+LINE 28: anxious for the time when he would go to his lodging and leave us
+LINE 29: together, but he was evidently jealous of leaving us together, and sat
+LINE 30: late. It was midnight before I took him round to Essex Street, and saw
+LINE 31: him safely in at his own dark door. When it closed upon him, I
+LINE 32: experienced the first moment of relief I had known since the night of
+LINE 33: his arrival.
+LINE 34: Never quite free from an uneasy remembrance of the man on the stairs, I
+LINE 35: had always looked about me in taking my guest out after dark, and in
+LINE 36: bringing him back; and I looked about me now. Difficult as it is in a
+LINE 37: large city to avoid the suspicion of being watched, when the mind is
+LINE 38: conscious of danger in that regard, I could not persuade myself that
+LINE 39: any of the people within sight cared about my movements. The few who
+LINE 40: were passing passed on their several ways, and the street was empty
+LINE 41: when I turned back into the Temple. Nobody had come out at the gate
+LINE 42: with us, nobody went in at the gate with me. As I crossed by the
+LINE 43: fountain, I saw his lighted back windows looking bright and quiet, and,
+LINE 44: when I stood for a few moments in the doorway of the building where I
+LINE 45: lived, before going up the stairs, Garden Court was as still and
+LINE 46: lifeless as the staircase was when I ascended it.
+LINE 47: Herbert received me with open arms, and I had never felt before so
+LINE 48: blessedly what it is to have a friend. When he had spoken some sound
+LINE 49: words of sympathy and encouragement, we sat down to consider the
+LINE 50: question, What was to be done?
+LINE 51: The chair that Provis had occupied still remaining where it had
+LINE 52: stood,—for he had a barrack way with him of hanging about one spot, in
+LINE 53: one unsettled manner, and going through one round of observances with
+LINE 54: his pipe and his negro-head and his jackknife and his pack of cards,
+LINE 55: and what not, as if it were all put down for him on a slate,—I say his
+LINE 56: chair remaining where it had stood, Herbert unconsciously took it, but
+LINE 57: next moment started out of it, pushed it away, and took another. He had
+LINE 58: no occasion to say after that that he had conceived an aversion for my
+LINE 59: patron, neither had I occasion to confess my own. We interchanged that
+LINE 60: confidence without shaping a syllable.
+LINE 61: "What," said I to Herbert, when he was safe in another chair,—"what is
+LINE 62: to be done?"
+LINE 63: "My poor dear Handel," he replied, holding his head, "I am too stunned
+LINE 64: to think."
+LINE 65: "So was I, Herbert, when the blow first fell. Still, something must be
+LINE 66: done. He is intent upon various new expenses,—horses, and carriages,
+LINE 67: and lavish appearances of all kinds. He must be stopped somehow."
+LINE 68: "You mean that you can't accept—"
+LINE 69: "How can I?" I interposed, as Herbert paused. "Think of him! Look at
+LINE 70: him!"
+LINE 71: An involuntary shudder passed over both of us.
+LINE 72: "Yet I am afraid the dreadful truth is, Herbert, that he is attached to
+LINE 73: me, strongly attached to me. Was there ever such a fate!"
+LINE 74: "My poor dear Handel," Herbert repeated.
+LINE 75: "Then," said I, "after all, stopping short here, never taking another
+LINE 76: penny from him, think what I owe him already! Then again: I am heavily
+LINE 77: in debt,—very heavily for me, who have now no expectations,—and I have
+LINE 78: been bred to no calling, and I am fit for nothing."
+LINE 79: "Well, well, well!" Herbert remonstrated. "Don't say fit for nothing."
+LINE 80: "What am I fit for? I know only one thing that I am fit for, and that
+LINE 81: is, to go for a soldier. And I might have gone, my dear Herbert, but
+LINE 82: for the prospect of taking counsel with your friendship and affection."
+LINE 83: Of course I broke down there: and of course Herbert, beyond seizing a
+LINE 84: warm grip of my hand, pretended not to know it.
+LINE 85: "Anyhow, my dear Handel," said he presently, "soldiering won't do. If
+LINE 86: you were to renounce this patronage and these favours, I suppose you
+LINE 87: would do so with some faint hope of one day repaying what you have
+LINE 88: already had. Not very strong, that hope, if you went soldiering!
+LINE 89: Besides, it's absurd. You would be infinitely better in Clarriker's
+LINE 90: house, small as it is. I am working up towards a partnership, you
+LINE 91: know."
+LINE 92: Poor fellow! He little suspected with whose money.
+LINE 93: "But there is another question," said Herbert. "This is an ignorant,
+LINE 94: determined man, who has long had one fixed idea. More than that, he
+LINE 95: seems to me (I may misjudge him) to be a man of a desperate and fierce
+LINE 96: character."
+LINE 97: "I know he is," I returned. "Let me tell you what evidence I have seen
+LINE 98: of it." And I told him what I had not mentioned in my narrative, of
+LINE 99: that encounter with the other convict.
+LINE 100: "See, then," said Herbert; "think of this! He comes here at the peril
+LINE 101: of his life, for the realisation of his fixed idea. In the moment of
+LINE 102: realisation, after all his toil and waiting, you cut the ground from
+LINE 103: under his feet, destroy his idea, and make his gains worthless to him.
+LINE 104: Do you see nothing that he might do, under the disappointment?"
+LINE 105: "I have seen it, Herbert, and dreamed of it, ever since the fatal night
+LINE 106: of his arrival. Nothing has been in my thoughts so distinctly as his
+LINE 107: putting himself in the way of being taken."
+LINE 108: "Then you may rely upon it," said Herbert, "that there would be great
+LINE 109: danger of his doing it. That is his power over you as long as he
+LINE 110: remains in England, and that would be his reckless course if you
+LINE 111: forsook him."
+LINE 112: I was so struck by the horror of this idea, which had weighed upon me
+LINE 113: from the first, and the working out of which would make me regard
+LINE 114: myself, in some sort, as his murderer, that I could not rest in my
+LINE 115: chair, but began pacing to and fro. I said to Herbert, meanwhile, that
+LINE 116: even if Provis were recognised and taken, in spite of himself, I should
+LINE 117: be wretched as the cause, however innocently. Yes; even though I was so
+LINE 118: wretched in having him at large and near me, and even though I would
+LINE 119: far rather have worked at the forge all the days of my life than I
+LINE 120: would ever have come to this!
+LINE 121: But there was no staving off the question, What was to be done?
+LINE 122: "The first and the main thing to be done," said Herbert, "is to get him
+LINE 123: out of England. You will have to go with him, and then he may be
+LINE 124: induced to go."
+LINE 125: "But get him where I will, could I prevent his coming back?"
+LINE 126: "My good Handel, is it not obvious that with Newgate in the next
+LINE 127: street, there must be far greater hazard in your breaking your mind to
+LINE 128: him and making him reckless, here, than elsewhere? If a pretext to get
+LINE 129: him away could be made out of that other convict, or out of anything
+LINE 130: else in his life, now."
+LINE 131: "There, again!" said I, stopping before Herbert, with my open hands
+LINE 132: held out, as if they contained the desperation of the case. "I know
+LINE 133: nothing of his life. It has almost made me mad to sit here of a night
+LINE 134: and see him before me, so bound up with my fortunes and misfortunes,
+LINE 135: and yet so unknown to me, except as the miserable wretch who terrified
+LINE 136: me two days in my childhood!"
+LINE 137: Herbert got up, and linked his arm in mine, and we slowly walked to and
+LINE 138: fro together, studying the carpet.
+LINE 139: "Handel," said Herbert, stopping, "you feel convinced that you can take
+LINE 140: no further benefits from him; do you?"
+LINE 141: "Fully. Surely you would, too, if you were in my place?"
+LINE 142: "And you feel convinced that you must break with him?"
+LINE 143: "Herbert, can you ask me?"
+LINE 144: "And you have, and are bound to have, that tenderness for the life he
+LINE 145: has risked on your account, that you must save him, if possible, from
+LINE 146: throwing it away. Then you must get him out of England before you stir
+LINE 147: a finger to extricate yourself. That done, extricate yourself, in
+LINE 148: Heaven's name, and we'll see it out together, dear old boy."
+LINE 149: It was a comfort to shake hands upon it, and walk up and down again,
+LINE 150: with only that done.
+LINE 151: "Now, Herbert," said I, "with reference to gaining some knowledge of
+LINE 152: his history. There is but one way that I know of. I must ask him point
+LINE 153: blank."
+LINE 154: "Yes. Ask him," said Herbert, "when we sit at breakfast in the
+LINE 155: morning." For he had said, on taking leave of Herbert, that he would
+LINE 156: come to breakfast with us.
+LINE 157: With this project formed, we went to bed. I had the wildest dreams
+LINE 158: concerning him, and woke unrefreshed; I woke, too, to recover the fear
+LINE 159: which I had lost in the night, of his being found out as a returned
+LINE 160: transport. Waking, I never lost that fear.
+LINE 161: He came round at the appointed time, took out his jackknife, and sat
+LINE 162: down to his meal. He was full of plans "for his gentleman's coming out
+LINE 163: strong, and like a gentleman," and urged me to begin speedily upon the
+LINE 164: pocket-book which he had left in my possession. He considered the
+LINE 165: chambers and his own lodging as temporary residences, and advised me to
+LINE 166: look out at once for a "fashionable crib" near Hyde Park, in which he
+LINE 167: could have "a shake-down." When he had made an end of his breakfast,
+LINE 168: and was wiping his knife on his leg, I said to him, without a word of
+LINE 169: preface,—
+LINE 170: "After you were gone last night, I told my friend of the struggle that
+LINE 171: the soldiers found you engaged in on the marshes, when we came up. You
+LINE 172: remember?"
+LINE 173: "Remember!" said he. "I think so!"
+LINE 174: "We want to know something about that man—and about you. It is strange
+LINE 175: to know no more about either, and particularly you, than I was able to
+LINE 176: tell last night. Is not this as good a time as another for our knowing
+LINE 177: more?"
+LINE 178: "Well!" he said, after consideration. "You're on your oath, you know,
+LINE 179: Pip's comrade?"
+LINE 180: "Assuredly," replied Herbert.
+LINE 181: "As to anything I say, you know," he insisted. "The oath applies to
+LINE 182: all."
+LINE 183: "I understand it to do so."
+LINE 184: "And look'ee here! Wotever I done is worked out and paid for," he
+LINE 185: insisted again.
+LINE 186: "So be it."
+LINE 187: He took out his black pipe and was going to fill it with negro-head,
+LINE 188: when, looking at the tangle of tobacco in his hand, he seemed to think
+LINE 189: it might perplex the thread of his narrative. He put it back again,
+LINE 190: stuck his pipe in a button-hole of his coat, spread a hand on each
+LINE 191: knee, and after turning an angry eye on the fire for a few silent
+LINE 192: moments, looked round at us and said what follows.

@@ -1,0 +1,92 @@
+LINE 1: When Jane and Elizabeth were alone, the former, who had been cautious in
+LINE 2: her praise of Mr. Bingley before, expressed to her sister how very much
+LINE 3: she admired him.
+LINE 4: "He is just what a young man ought to be," said she, "sensible, good
+LINE 5: humoured, lively; and I never saw such happy manners!--so much ease,
+LINE 6: with such perfect good breeding!"
+LINE 7: "He is also handsome," replied Elizabeth, "which a young man ought
+LINE 8: likewise to be, if he possibly can. His character is thereby complete."
+LINE 9: "I was very much flattered by his asking me to dance a second time. I
+LINE 10: did not expect such a compliment."
+LINE 11: "Did not you? _I_ did for you. But that is one great difference between
+LINE 12: us. Compliments always take _you_ by surprise, and _me_ never. What
+LINE 13: could be more natural than his asking you again? He could not help
+LINE 14: seeing that you were about five times as pretty as every other woman in
+LINE 15: the room. No thanks to his gallantry for that. Well, he certainly is
+LINE 16: very agreeable, and I give you leave to like him. You have liked many a
+LINE 17: stupider person."
+LINE 18: "Dear Lizzy!"
+LINE 19: "Oh! you are a great deal too apt you know, to like people in general.
+LINE 20: You never see a fault in any body. All the world are good and agreeable
+LINE 21: in your eyes. I never heard you speak ill of a human being in my life."
+LINE 22: "I would wish not to be hasty in censuring any one; but I always speak
+LINE 23: what I think."
+LINE 24: "I know you do; and it is _that_ which makes the wonder. With _your_
+LINE 25: good sense, to be so honestly blind to the follies and nonsense of
+LINE 26: others! Affectation of candour is common enough;--one meets it every
+LINE 27: where. But to be candid without ostentation or design--to take the good
+LINE 28: of every body's character and make it still better, and say nothing of
+LINE 29: the bad--belongs to you alone. And so, you like this man's sisters too,
+LINE 30: do you? Their manners are not equal to his."
+LINE 31: "Certainly not; at first. But they are very pleasing women when you
+LINE 32: converse with them. Miss Bingley is to live with her brother and keep
+LINE 33: his house; and I am much mistaken if we shall not find a very charming
+LINE 34: neighbour in her."
+LINE 35: Elizabeth listened in silence, but was not convinced; their behaviour at
+LINE 36: the assembly had not been calculated to please in general; and with more
+LINE 37: quickness of observation and less pliancy of temper than her sister, and
+LINE 38: with a judgment too unassailed by any attention to herself, she was very
+LINE 39: little disposed to approve them. They were in fact very fine ladies; not
+LINE 40: deficient in good humour when they were pleased, nor in the power of
+LINE 41: being agreeable where they chose it; but proud and conceited. They were
+LINE 42: rather handsome, had been educated in one of the first private
+LINE 43: seminaries in town, had a fortune of twenty thousand pounds, were in the
+LINE 44: habit of spending more than they ought, and of associating with people
+LINE 45: of rank; and were therefore in every respect entitled to think well of
+LINE 46: themselves, and meanly of others. They were of a respectable family in
+LINE 47: the north of England; a circumstance more deeply impressed on their
+LINE 48: memories than that their brother's fortune and their own had been
+LINE 49: acquired by trade.
+LINE 50: Mr. Bingley inherited property to the amount of nearly an hundred
+LINE 51: thousand pounds from his father, who had intended to purchase an estate,
+LINE 52: but did not live to do it.--Mr. Bingley intended it likewise, and
+LINE 53: sometimes made choice of his county; but as he was now provided with a
+LINE 54: good house and the liberty of a manor, it was doubtful to many of those
+LINE 55: who best knew the easiness of his temper, whether he might not spend the
+LINE 56: remainder of his days at Netherfield, and leave the next generation to
+LINE 57: purchase.
+LINE 58: His sisters were very anxious for his having an estate of his own; but
+LINE 59: though he was now established only as a tenant, Miss Bingley was by no
+LINE 60: means unwilling to preside at his table, nor was Mrs. Hurst, who had
+LINE 61: married a man of more fashion than fortune, less disposed to consider
+LINE 62: his house as her home when it suited her. Mr. Bingley had not been of
+LINE 63: age two years, when he was tempted by an accidental recommendation to
+LINE 64: look at Netherfield House. He did look at it and into it for half an
+LINE 65: hour, was pleased with the situation and the principal rooms, satisfied
+LINE 66: with what the owner said in its praise, and took it immediately.
+LINE 67: Between him and Darcy there was a very steady friendship, in spite of a
+LINE 68: great opposition of character.--Bingley was endeared to Darcy by the
+LINE 69: easiness, openness, ductility of his temper, though no disposition could
+LINE 70: offer a greater contrast to his own, and though with his own he never
+LINE 71: appeared dissatisfied. On the strength of Darcy's regard Bingley had the
+LINE 72: firmest reliance, and of his judgment the highest opinion. In
+LINE 73: understanding Darcy was the superior. Bingley was by no means deficient,
+LINE 74: but Darcy was clever. He was at the same time haughty, reserved, and
+LINE 75: fastidious, and his manners, though well bred, were not inviting. In
+LINE 76: that respect his friend had greatly the advantage. Bingley was sure of
+LINE 77: being liked wherever he appeared, Darcy was continually giving offence.
+LINE 78: The manner in which they spoke of the Meryton assembly was sufficiently
+LINE 79: characteristic. Bingley had never met with pleasanter people or prettier
+LINE 80: girls in his life; every body had been most kind and attentive to him,
+LINE 81: there had been no formality, no stiffness, he had soon felt acquainted
+LINE 82: with all the room; and as to Miss Bennet, he could not conceive an angel
+LINE 83: more beautiful. Darcy, on the contrary, had seen a collection of people
+LINE 84: in whom there was little beauty and no fashion, for none of whom he had
+LINE 85: felt the smallest interest, and from none received either attention or
+LINE 86: pleasure. Miss Bennet he acknowledged to be pretty, but she smiled too
+LINE 87: much.
+LINE 88: Mrs. Hurst and her sister allowed it to be so--but still they admired
+LINE 89: her and liked her, and pronounced her to be a sweet girl, and one whom
+LINE 90: they should not object to know more of. Miss Bennet was therefore
+LINE 91: established as a sweet girl, and their brother felt authorised by such
+LINE 92: commendation to think of her as he chose.

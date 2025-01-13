@@ -1,0 +1,375 @@
+LINE 1: As I was getting too big for Mr. Wopsle's great-aunt's room, my
+LINE 2: education under that preposterous female terminated. Not, however,
+LINE 3: until Biddy had imparted to me everything she knew, from the little
+LINE 4: catalogue of prices, to a comic song she had once bought for a
+LINE 5: half-penny. Although the only coherent part of the latter piece of
+LINE 6: literature were the opening lines,
+LINE 7: When I went to Lunnon town sirs,
+LINE 8: Too rul loo rul
+LINE 9: Too rul loo rul
+LINE 10: Wasn't I done very brown sirs?
+LINE 11: Too rul loo rul
+LINE 12: Too rul loo rul
+LINE 13: —still, in my desire to be wiser, I got this composition by heart with
+LINE 14: the utmost gravity; nor do I recollect that I questioned its merit,
+LINE 15: except that I thought (as I still do) the amount of Too rul somewhat in
+LINE 16: excess of the poetry. In my hunger for information, I made proposals to
+LINE 17: Mr. Wopsle to bestow some intellectual crumbs upon me, with which he
+LINE 18: kindly complied. As it turned out, however, that he only wanted me for
+LINE 19: a dramatic lay-figure, to be contradicted and embraced and wept over
+LINE 20: and bullied and clutched and stabbed and knocked about in a variety of
+LINE 21: ways, I soon declined that course of instruction; though not until Mr.
+LINE 22: Wopsle in his poetic fury had severely mauled me.
+LINE 23: Whatever I acquired, I tried to impart to Joe. This statement sounds so
+LINE 24: well, that I cannot in my conscience let it pass unexplained. I wanted
+LINE 25: to make Joe less ignorant and common, that he might be worthier of my
+LINE 26: society and less open to Estella's reproach.
+LINE 27: The old Battery out on the marshes was our place of study, and a broken
+LINE 28: slate and a short piece of slate-pencil were our educational
+LINE 29: implements: to which Joe always added a pipe of tobacco. I never knew
+LINE 30: Joe to remember anything from one Sunday to another, or to acquire,
+LINE 31: under my tuition, any piece of information whatever. Yet he would smoke
+LINE 32: his pipe at the Battery with a far more sagacious air than anywhere
+LINE 33: else,—even with a learned air,—as if he considered himself to be
+LINE 34: advancing immensely. Dear fellow, I hope he did.
+LINE 35: It was pleasant and quiet, out there with the sails on the river
+LINE 36: passing beyond the earthwork, and sometimes, when the tide was low,
+LINE 37: looking as if they belonged to sunken ships that were still sailing on
+LINE 38: at the bottom of the water. Whenever I watched the vessels standing out
+LINE 39: to sea with their white sails spread, I somehow thought of Miss
+LINE 40: Havisham and Estella; and whenever the light struck aslant, afar off,
+LINE 41: upon a cloud or sail or green hillside or water-line, it was just the
+LINE 42: same.—Miss Havisham and Estella and the strange house and the strange
+LINE 43: life appeared to have something to do with everything that was
+LINE 44: picturesque.
+LINE 45: One Sunday when Joe, greatly enjoying his pipe, had so plumed himself
+LINE 46: on being "most awful dull," that I had given him up for the day, I lay
+LINE 47: on the earthwork for some time with my chin on my hand, descrying
+LINE 48: traces of Miss Havisham and Estella all over the prospect, in the sky
+LINE 49: and in the water, until at last I resolved to mention a thought
+LINE 50: concerning them that had been much in my head.
+LINE 51: "Joe," said I; "don't you think I ought to make Miss Havisham a visit?"
+LINE 52: "Well, Pip," returned Joe, slowly considering. "What for?"
+LINE 53: "What for, Joe? What is any visit made for?"
+LINE 54: "There is some wisits p'r'aps," said Joe, "as for ever remains open to
+LINE 55: the question, Pip. But in regard to wisiting Miss Havisham. She might
+LINE 56: think you wanted something,—expected something of her."
+LINE 57: "Don't you think I might say that I did not, Joe?"
+LINE 58: "You might, old chap," said Joe. "And she might credit it. Similarly
+LINE 59: she mightn't."
+LINE 60: Joe felt, as I did, that he had made a point there, and he pulled hard
+LINE 61: at his pipe to keep himself from weakening it by repetition.
+LINE 62: "You see, Pip," Joe pursued, as soon as he was past that danger, "Miss
+LINE 63: Havisham done the handsome thing by you. When Miss Havisham done the
+LINE 64: handsome thing by you, she called me back to say to me as that were
+LINE 65: all."
+LINE 66: "Yes, Joe. I heard her."
+LINE 67: "ALL," Joe repeated, very emphatically.
+LINE 68: "Yes, Joe. I tell you, I heard her."
+LINE 69: "Which I meantersay, Pip, it might be that her meaning were,—Make a end
+LINE 70: on it!—As you was!—Me to the North, and you to the South!—Keep in
+LINE 71: sunders!"
+LINE 72: I had thought of that too, and it was very far from comforting to me to
+LINE 73: find that he had thought of it; for it seemed to render it more
+LINE 74: probable.
+LINE 75: "But, Joe."
+LINE 76: "Yes, old chap."
+LINE 77: "Here am I, getting on in the first year of my time, and, since the day
+LINE 78: of my being bound, I have never thanked Miss Havisham, or asked after
+LINE 79: her, or shown that I remember her."
+LINE 80: "That's true, Pip; and unless you was to turn her out a set of shoes
+LINE 81: all four round,—and which I meantersay as even a set of shoes all four
+LINE 82: round might not be acceptable as a present, in a total wacancy of
+LINE 83: hoofs—"
+LINE 84: "I don't mean that sort of remembrance, Joe; I don't mean a present."
+LINE 85: But Joe had got the idea of a present in his head and must harp upon
+LINE 86: it. "Or even," said he, "if you was helped to knocking her up a new
+LINE 87: chain for the front door,—or say a gross or two of shark-headed screws
+LINE 88: for general use,—or some light fancy article, such as a toasting-fork
+LINE 89: when she took her muffins,—or a gridiron when she took a sprat or such
+LINE 90: like—"
+LINE 91: "I don't mean any present at all, Joe," I interposed.
+LINE 92: "Well," said Joe, still harping on it as though I had particularly
+LINE 93: pressed it, "if I was yourself, Pip, I wouldn't. No, I would _not_. For
+LINE 94: what's a door-chain when she's got one always up? And shark-headers is
+LINE 95: open to misrepresentations. And if it was a toasting-fork, you'd go
+LINE 96: into brass and do yourself no credit. And the oncommonest workman can't
+LINE 97: show himself oncommon in a gridiron,—for a gridiron IS a gridiron,"
+LINE 98: said Joe, steadfastly impressing it upon me, as if he were endeavouring
+LINE 99: to rouse me from a fixed delusion, "and you may haim at what you like,
+LINE 100: but a gridiron it will come out, either by your leave or again your
+LINE 101: leave, and you can't help yourself—"
+LINE 102: "My dear Joe," I cried, in desperation, taking hold of his coat, "don't
+LINE 103: go on in that way. I never thought of making Miss Havisham any
+LINE 104: present."
+LINE 105: "No, Pip," Joe assented, as if he had been contending for that, all
+LINE 106: along; "and what I say to you is, you are right, Pip."
+LINE 107: "Yes, Joe; but what I wanted to say, was, that as we are rather slack
+LINE 108: just now, if you would give me a half-holiday to-morrow, I think I
+LINE 109: would go uptown and make a call on Miss Est—Havisham."
+LINE 110: "Which her name," said Joe, gravely, "ain't Estavisham, Pip, unless she
+LINE 111: have been rechris'ened."
+LINE 112: "I know, Joe, I know. It was a slip of mine. What do you think of it,
+LINE 113: Joe?"
+LINE 114: In brief, Joe thought that if I thought well of it, he thought well of
+LINE 115: it. But, he was particular in stipulating that if I were not received
+LINE 116: with cordiality, or if I were not encouraged to repeat my visit as a
+LINE 117: visit which had no ulterior object but was simply one of gratitude for
+LINE 118: a favour received, then this experimental trip should have no
+LINE 119: successor. By these conditions I promised to abide.
+LINE 120: Now, Joe kept a journeyman at weekly wages whose name was Orlick. He
+LINE 121: pretended that his Christian name was Dolge,—a clear Impossibility,—but
+LINE 122: he was a fellow of that obstinate disposition that I believe him to
+LINE 123: have been the prey of no delusion in this particular, but wilfully to
+LINE 124: have imposed that name upon the village as an affront to its
+LINE 125: understanding. He was a broadshouldered loose-limbed swarthy fellow of
+LINE 126: great strength, never in a hurry, and always slouching. He never even
+LINE 127: seemed to come to his work on purpose, but would slouch in as if by
+LINE 128: mere accident; and when he went to the Jolly Bargemen to eat his
+LINE 129: dinner, or went away at night, he would slouch out, like Cain or the
+LINE 130: Wandering Jew, as if he had no idea where he was going and no intention
+LINE 131: of ever coming back. He lodged at a sluice-keeper's out on the marshes,
+LINE 132: and on working-days would come slouching from his hermitage, with his
+LINE 133: hands in his pockets and his dinner loosely tied in a bundle round his
+LINE 134: neck and dangling on his back. On Sundays he mostly lay all day on the
+LINE 135: sluice-gates, or stood against ricks and barns. He always slouched,
+LINE 136: locomotively, with his eyes on the ground; and, when accosted or
+LINE 137: otherwise required to raise them, he looked up in a half-resentful,
+LINE 138: half-puzzled way, as though the only thought he ever had was, that it
+LINE 139: was rather an odd and injurious fact that he should never be thinking.
+LINE 140: This morose journeyman had no liking for me. When I was very small and
+LINE 141: timid, he gave me to understand that the Devil lived in a black corner
+LINE 142: of the forge, and that he knew the fiend very well: also that it was
+LINE 143: necessary to make up the fire, once in seven years, with a live boy,
+LINE 144: and that I might consider myself fuel. When I became Joe's 'prentice,
+LINE 145: Orlick was perhaps confirmed in some suspicion that I should displace
+LINE 146: him; howbeit, he liked me still less. Not that he ever said anything,
+LINE 147: or did anything, openly importing hostility; I only noticed that he
+LINE 148: always beat his sparks in my direction, and that whenever I sang Old
+LINE 149: Clem, he came in out of time.
+LINE 150: Dolge Orlick was at work and present, next day, when I reminded Joe of
+LINE 151: my half-holiday. He said nothing at the moment, for he and Joe had just
+LINE 152: got a piece of hot iron between them, and I was at the bellows; but by
+LINE 153: and by he said, leaning on his hammer,—
+LINE 154: "Now, master! Sure you're not a-going to favour only one of us. If
+LINE 155: Young Pip has a half-holiday, do as much for Old Orlick." I suppose he
+LINE 156: was about five-and-twenty, but he usually spoke of himself as an
+LINE 157: ancient person.
+LINE 158: "Why, what'll you do with a half-holiday, if you get it?" said Joe.
+LINE 159: "What'll _I_ do with it! What'll _he_ do with it? I'll do as much with
+LINE 160: it as _him_," said Orlick.
+LINE 161: "As to Pip, he's going up town," said Joe.
+LINE 162: "Well then, as to Old Orlick, _he_'s a-going up town," retorted that
+LINE 163: worthy. "Two can go up town. Tain't only one wot can go up town.
+LINE 164: "Don't lose your temper," said Joe.
+LINE 165: "Shall if I like," growled Orlick. "Some and their uptowning! Now,
+LINE 166: master! Come. No favouring in this shop. Be a man!"
+LINE 167: The master refusing to entertain the subject until the journeyman was
+LINE 168: in a better temper, Orlick plunged at the furnace, drew out a red-hot
+LINE 169: bar, made at me with it as if he were going to run it through my body,
+LINE 170: whisked it round my head, laid it on the anvil, hammered it out,—as if
+LINE 171: it were I, I thought, and the sparks were my spirting blood,—and
+LINE 172: finally said, when he had hammered himself hot and the iron cold, and
+LINE 173: he again leaned on his hammer,—
+LINE 174: "Now, master!"
+LINE 175: "Are you all right now?" demanded Joe.
+LINE 176: "Ah! I am all right," said gruff Old Orlick.
+LINE 177: "Then, as in general you stick to your work as well as most men," said
+LINE 178: Joe, "let it be a half-holiday for all."
+LINE 179: My sister had been standing silent in the yard, within hearing,—she was
+LINE 180: a most unscrupulous spy and listener,—and she instantly looked in at
+LINE 181: one of the windows.
+LINE 182: "Like you, you fool!" said she to Joe, "giving holidays to great idle
+LINE 183: hulkers like that. You are a rich man, upon my life, to waste wages in
+LINE 184: that way. I wish _I_ was his master!"
+LINE 185: "You'd be everybody's master, if you durst," retorted Orlick, with an
+LINE 186: ill-favoured grin.
+LINE 187: ("Let her alone," said Joe.)
+LINE 188: "I'd be a match for all noodles and all rogues," returned my sister,
+LINE 189: beginning to work herself into a mighty rage. "And I couldn't be a
+LINE 190: match for the noodles, without being a match for your master, who's the
+LINE 191: dunder-headed king of the noodles. And I couldn't be a match for the
+LINE 192: rogues, without being a match for you, who are the blackest-looking and
+LINE 193: the worst rogue between this and France. Now!"
+LINE 194: "You're a foul shrew, Mother Gargery," growled the journeyman. "If that
+LINE 195: makes a judge of rogues, you ought to be a good'un."
+LINE 196: ("Let her alone, will you?" said Joe.)
+LINE 197: "What did you say?" cried my sister, beginning to scream. "What did you
+LINE 198: say? What did that fellow Orlick say to me, Pip? What did he call me,
+LINE 199: with my husband standing by? Oh! oh! oh!" Each of these exclamations
+LINE 200: was a shriek; and I must remark of my sister, what is equally true of
+LINE 201: all the violent women I have ever seen, that passion was no excuse for
+LINE 202: her, because it is undeniable that instead of lapsing into passion, she
+LINE 203: consciously and deliberately took extraordinary pains to force herself
+LINE 204: into it, and became blindly furious by regular stages; "what was the
+LINE 205: name he gave me before the base man who swore to defend me? Oh! Hold
+LINE 206: me! Oh!"
+LINE 207: "Ah-h-h!" growled the journeyman, between his teeth, "I'd hold you, if
+LINE 208: you was my wife. I'd hold you under the pump, and choke it out of you."
+LINE 209: ("I tell you, let her alone," said Joe.)
+LINE 210: "Oh! To hear him!" cried my sister, with a clap of her hands and a
+LINE 211: scream together,—which was her next stage. "To hear the names he's
+LINE 212: giving me! That Orlick! In my own house! Me, a married woman! With my
+LINE 213: husband standing by! Oh! Oh!" Here my sister, after a fit of clappings
+LINE 214: and screamings, beat her hands upon her bosom and upon her knees, and
+LINE 215: threw her cap off, and pulled her hair down,—which were the last stages
+LINE 216: on her road to frenzy. Being by this time a perfect Fury and a complete
+LINE 217: success, she made a dash at the door which I had fortunately locked.
+LINE 218: What could the wretched Joe do now, after his disregarded parenthetical
+LINE 219: interruptions, but stand up to his journeyman, and ask him what he
+LINE 220: meant by interfering betwixt himself and Mrs. Joe; and further whether
+LINE 221: he was man enough to come on? Old Orlick felt that the situation
+LINE 222: admitted of nothing less than coming on, and was on his defence
+LINE 223: straightway; so, without so much as pulling off their singed and burnt
+LINE 224: aprons, they went at one another, like two giants. But, if any man in
+LINE 225: that neighbourhood could stand uplong against Joe, I never saw the man.
+LINE 226: Orlick, as if he had been of no more account than the pale young
+LINE 227: gentleman, was very soon among the coal-dust, and in no hurry to come
+LINE 228: out of it. Then Joe unlocked the door and picked up my sister, who had
+LINE 229: dropped insensible at the window (but who had seen the fight first, I
+LINE 230: think), and who was carried into the house and laid down, and who was
+LINE 231: recommended to revive, and would do nothing but struggle and clench her
+LINE 232: hands in Joe's hair. Then came that singular calm and silence which
+LINE 233: succeed all uproars; and then, with the vague sensation which I have
+LINE 234: always connected with such a lull,—namely, that it was Sunday, and
+LINE 235: somebody was dead,—I went upstairs to dress myself.
+LINE 236: [Illustration]
+LINE 237: When I came down again, I found Joe and Orlick sweeping up, without any
+LINE 238: other traces of discomposure than a slit in one of Orlick's nostrils,
+LINE 239: which was neither expressive nor ornamental. A pot of beer had appeared
+LINE 240: from the Jolly Bargemen, and they were sharing it by turns in a
+LINE 241: peaceable manner. The lull had a sedative and philosophical influence
+LINE 242: on Joe, who followed me out into the road to say, as a parting
+LINE 243: observation that might do me good, "On the Rampage, Pip, and off the
+LINE 244: Rampage, Pip:—such is Life!"
+LINE 245: With what absurd emotions (for we think the feelings that are very
+LINE 246: serious in a man quite comical in a boy) I found myself again going to
+LINE 247: Miss Havisham's, matters little here. Nor, how I passed and repassed
+LINE 248: the gate many times before I could make up my mind to ring. Nor, how I
+LINE 249: debated whether I should go away without ringing; nor, how I should
+LINE 250: undoubtedly have gone, if my time had been my own, to come back.
+LINE 251: Miss Sarah Pocket came to the gate. No Estella.
+LINE 252: "How, then? You here again?" said Miss Pocket. "What do you want?"
+LINE 253: When I said that I only came to see how Miss Havisham was, Sarah
+LINE 254: evidently deliberated whether or no she should send me about my
+LINE 255: business. But unwilling to hazard the responsibility, she let me in,
+LINE 256: and presently brought the sharp message that I was to "come up."
+LINE 257: Everything was unchanged, and Miss Havisham was alone.
+LINE 258: "Well?" said she, fixing her eyes upon me. "I hope you want nothing?
+LINE 259: You'll get nothing."
+LINE 260: "No indeed, Miss Havisham. I only wanted you to know that I am doing
+LINE 261: very well in my apprenticeship, and am always much obliged to you."
+LINE 262: "There, there!" with the old restless fingers. "Come now and then; come
+LINE 263: on your birthday.—Ay!" she cried suddenly, turning herself and her
+LINE 264: chair towards me, "You are looking round for Estella? Hey?"
+LINE 265: I had been looking round,—in fact, for Estella,—and I stammered that I
+LINE 266: hoped she was well.
+LINE 267: "Abroad," said Miss Havisham; "educating for a lady; far out of reach;
+LINE 268: prettier than ever; admired by all who see her. Do you feel that you
+LINE 269: have lost her?"
+LINE 270: There was such a malignant enjoyment in her utterance of the last
+LINE 271: words, and she broke into such a disagreeable laugh, that I was at a
+LINE 272: loss what to say. She spared me the trouble of considering, by
+LINE 273: dismissing me. When the gate was closed upon me by Sarah of the
+LINE 274: walnut-shell countenance, I felt more than ever dissatisfied with my
+LINE 275: home and with my trade and with everything; and that was all I took by
+LINE 276: _that_ motion.
+LINE 277: As I was loitering along the High Street, looking in disconsolately at
+LINE 278: the shop windows, and thinking what I would buy if I were a gentleman,
+LINE 279: who should come out of the bookshop but Mr. Wopsle. Mr. Wopsle had in
+LINE 280: his hand the affecting tragedy of George Barnwell, in which he had that
+LINE 281: moment invested sixpence, with the view of heaping every word of it on
+LINE 282: the head of Pumblechook, with whom he was going to drink tea. No sooner
+LINE 283: did he see me, than he appeared to consider that a special Providence
+LINE 284: had put a 'prentice in his way to be read at; and he laid hold of me,
+LINE 285: and insisted on my accompanying him to the Pumblechookian parlour. As I
+LINE 286: knew it would be miserable at home, and as the nights were dark and the
+LINE 287: way was dreary, and almost any companionship on the road was better
+LINE 288: than none, I made no great resistance; consequently, we turned into
+LINE 289: Pumblechook's just as the street and the shops were lighting up.
+LINE 290: As I never assisted at any other representation of George Barnwell, I
+LINE 291: don't know how long it may usually take; but I know very well that it
+LINE 292: took until half-past nine o' clock that night, and that when Mr. Wopsle
+LINE 293: got into Newgate, I thought he never would go to the scaffold, he
+LINE 294: became so much slower than at any former period of his disgraceful
+LINE 295: career. I thought it a little too much that he should complain of being
+LINE 296: cut short in his flower after all, as if he had not been running to
+LINE 297: seed, leaf after leaf, ever since his course began. This, however, was
+LINE 298: a mere question of length and wearisomeness. What stung me, was the
+LINE 299: identification of the whole affair with my unoffending self. When
+LINE 300: Barnwell began to go wrong, I declare that I felt positively
+LINE 301: apologetic, Pumblechook's indignant stare so taxed me with it. Wopsle,
+LINE 302: too, took pains to present me in the worst light. At once ferocious and
+LINE 303: maudlin, I was made to murder my uncle with no extenuating
+LINE 304: circumstances whatever; Millwood put me down in argument, on every
+LINE 305: occasion; it became sheer monomania in my master's daughter to care a
+LINE 306: button for me; and all I can say for my gasping and procrastinating
+LINE 307: conduct on the fatal morning, is, that it was worthy of the general
+LINE 308: feebleness of my character. Even after I was happily hanged and Wopsle
+LINE 309: had closed the book, Pumblechook sat staring at me, and shaking his
+LINE 310: head, and saying, "Take warning, boy, take warning!" as if it were a
+LINE 311: well-known fact that I contemplated murdering a near relation, provided
+LINE 312: I could only induce one to have the weakness to become my benefactor.
+LINE 313: It was a very dark night when it was all over, and when I set out with
+LINE 314: Mr. Wopsle on the walk home. Beyond town, we found a heavy mist out,
+LINE 315: and it fell wet and thick. The turnpike lamp was a blur, quite out of
+LINE 316: the lamp's usual place apparently, and its rays looked solid substance
+LINE 317: on the fog. We were noticing this, and saying how that the mist rose
+LINE 318: with a change of wind from a certain quarter of our marshes, when we
+LINE 319: came upon a man, slouching under the lee of the turnpike house.
+LINE 320: "Halloa!" we said, stopping. "Orlick there?"
+LINE 321: "Ah!" he answered, slouching out. "I was standing by a minute, on the
+LINE 322: chance of company."
+LINE 323: "You are late," I remarked.
+LINE 324: Orlick not unnaturally answered, "Well? And _you_'re late."
+LINE 325: "We have been," said Mr. Wopsle, exalted with his late performance,—"we
+LINE 326: have been indulging, Mr. Orlick, in an intellectual evening."
+LINE 327: Old Orlick growled, as if he had nothing to say about that, and we all
+LINE 328: went on together. I asked him presently whether he had been spending
+LINE 329: his half-holiday up and down town?
+LINE 330: "Yes," said he, "all of it. I come in behind yourself. I didn't see
+LINE 331: you, but I must have been pretty close behind you. By the by, the guns
+LINE 332: is going again."
+LINE 333: "At the Hulks?" said I.
+LINE 334: "Ay! There's some of the birds flown from the cages. The guns have been
+LINE 335: going since dark, about. You'll hear one presently."
+LINE 336: In effect, we had not walked many yards further, when the
+LINE 337: well-remembered boom came towards us, deadened by the mist, and heavily
+LINE 338: rolled away along the low grounds by the river, as if it were pursuing
+LINE 339: and threatening the fugitives.
+LINE 340: "A good night for cutting off in," said Orlick. "We'd be puzzled how to
+LINE 341: bring down a jail-bird on the wing, to-night."
+LINE 342: The subject was a suggestive one to me, and I thought about it in
+LINE 343: silence. Mr. Wopsle, as the ill-requited uncle of the evening's
+LINE 344: tragedy, fell to meditating aloud in his garden at Camberwell. Orlick,
+LINE 345: with his hands in his pockets, slouched heavily at my side. It was very
+LINE 346: dark, very wet, very muddy, and so we splashed along. Now and then, the
+LINE 347: sound of the signal cannon broke upon us again, and again rolled
+LINE 348: sulkily along the course of the river. I kept myself to myself and my
+LINE 349: thoughts. Mr. Wopsle died amiably at Camberwell, and exceedingly game
+LINE 350: on Bosworth Field, and in the greatest agonies at Glastonbury. Orlick
+LINE 351: sometimes growled, "Beat it out, beat it out,—Old Clem! With a clink
+LINE 352: for the stout,—Old Clem!" I thought he had been drinking, but he was
+LINE 353: not drunk.
+LINE 354: Thus, we came to the village. The way by which we approached it took us
+LINE 355: past the Three Jolly Bargemen, which we were surprised to find—it being
+LINE 356: eleven o'clock—in a state of commotion, with the door wide open, and
+LINE 357: unwonted lights that had been hastily caught up and put down scattered
+LINE 358: about. Mr. Wopsle dropped in to ask what was the matter (surmising that
+LINE 359: a convict had been taken), but came running out in a great hurry.
+LINE 360: "There's something wrong," said he, without stopping, "up at your
+LINE 361: place, Pip. Run all!"
+LINE 362: "What is it?" I asked, keeping up with him. So did Orlick, at my side.
+LINE 363: "I can't quite understand. The house seems to have been violently
+LINE 364: entered when Joe Gargery was out. Supposed by convicts. Somebody has
+LINE 365: been attacked and hurt."
+LINE 366: We were running too fast to admit of more being said, and we made no
+LINE 367: stop until we got into our kitchen. It was full of people; the whole
+LINE 368: village was there, or in the yard; and there was a surgeon, and there
+LINE 369: was Joe, and there were a group of women, all on the floor in the midst
+LINE 370: of the kitchen. The unemployed bystanders drew back when they saw me,
+LINE 371: and so I became aware of my sister,—lying without sense or movement on
+LINE 372: the bare boards where she had been knocked down by a tremendous blow on
+LINE 373: the back of the head, dealt by some unknown hand when her face was
+LINE 374: turned towards the fire,—destined never to be on the Rampage again,
+LINE 375: while she was the wife of Joe.

@@ -1,0 +1,301 @@
+LINE 1: MATTHEW was having a bad ten minutes of it. He had come into the
+LINE 2: kitchen, in the twilight of a cold, gray December evening, and had sat
+LINE 3: down in the woodbox corner to take off his heavy boots, unconscious of
+LINE 4: the fact that Anne and a bevy of her schoolmates were having a practice
+LINE 5: of "The Fairy Queen" in the sitting room. Presently they came trooping
+LINE 6: through the hall and out into the kitchen, laughing and chattering
+LINE 7: gaily. They did not see Matthew, who shrank bashfully back into the
+LINE 8: shadows beyond the woodbox with a boot in one hand and a bootjack in the
+LINE 9: other, and he watched them shyly for the aforesaid ten minutes as they
+LINE 10: put on caps and jackets and talked about the dialogue and the concert.
+LINE 11: Anne stood among them, bright eyed and animated as they; but Matthew
+LINE 12: suddenly became conscious that there was something about her different
+LINE 13: from her mates. And what worried Matthew was that the difference
+LINE 14: impressed him as being something that should not exist. Anne had a
+LINE 15: brighter face, and bigger, starrier eyes, and more delicate features
+LINE 16: than the other; even shy, unobservant Matthew had learned to take note
+LINE 17: of these things; but the difference that disturbed him did not consist
+LINE 18: in any of these respects. Then in what did it consist?
+LINE 19: Matthew was haunted by this question long after the girls had gone, arm
+LINE 20: in arm, down the long, hard-frozen lane and Anne had betaken herself
+LINE 21: to her books. He could not refer it to Marilla, who, he felt, would be
+LINE 22: quite sure to sniff scornfully and remark that the only difference she
+LINE 23: saw between Anne and the other girls was that they sometimes kept their
+LINE 24: tongues quiet while Anne never did. This, Matthew felt, would be no
+LINE 25: great help.
+LINE 26: He had recourse to his pipe that evening to help him study it out, much
+LINE 27: to Marilla's disgust. After two hours of smoking and hard reflection
+LINE 28: Matthew arrived at a solution of his problem. Anne was not dressed like
+LINE 29: the other girls!
+LINE 30: The more Matthew thought about the matter the more he was convinced that
+LINE 31: Anne never had been dressed like the other girls--never since she had
+LINE 32: come to Green Gables. Marilla kept her clothed in plain, dark dresses,
+LINE 33: all made after the same unvarying pattern. If Matthew knew there was
+LINE 34: such a thing as fashion in dress it was as much as he did; but he was
+LINE 35: quite sure that Anne's sleeves did not look at all like the sleeves the
+LINE 36: other girls wore. He recalled the cluster of little girls he had seen
+LINE 37: around her that evening--all gay in waists of red and blue and pink
+LINE 38: and white--and he wondered why Marilla always kept her so plainly and
+LINE 39: soberly gowned.
+LINE 40: Of course, it must be all right. Marilla knew best and Marilla was
+LINE 41: bringing her up. Probably some wise, inscrutable motive was to be served
+LINE 42: thereby. But surely it would do no harm to let the child have one pretty
+LINE 43: dress--something like Diana Barry always wore. Matthew decided that
+LINE 44: he would give her one; that surely could not be objected to as an
+LINE 45: unwarranted putting in of his oar. Christmas was only a fortnight off.
+LINE 46: A nice new dress would be the very thing for a present. Matthew, with a
+LINE 47: sigh of satisfaction, put away his pipe and went to bed, while Marilla
+LINE 48: opened all the doors and aired the house.
+LINE 49: The very next evening Matthew betook himself to Carmody to buy the
+LINE 50: dress, determined to get the worst over and have done with it. It would
+LINE 51: be, he felt assured, no trifling ordeal. There were some things Matthew
+LINE 52: could buy and prove himself no mean bargainer; but he knew he would be
+LINE 53: at the mercy of shopkeepers when it came to buying a girl's dress.
+LINE 54: After much cogitation Matthew resolved to go to Samuel Lawson's store
+LINE 55: instead of William Blair's. To be sure, the Cuthberts always had gone to
+LINE 56: William Blair's; it was almost as much a matter of conscience with them
+LINE 57: as to attend the Presbyterian church and vote Conservative. But William
+LINE 58: Blair's two daughters frequently waited on customers there and Matthew
+LINE 59: held them in absolute dread. He could contrive to deal with them when he
+LINE 60: knew exactly what he wanted and could point it out; but in such a matter
+LINE 61: as this, requiring explanation and consultation, Matthew felt that he
+LINE 62: must be sure of a man behind the counter. So he would go to Lawson's,
+LINE 63: where Samuel or his son would wait on him.
+LINE 64: Alas! Matthew did not know that Samuel, in the recent expansion of his
+LINE 65: business, had set up a lady clerk also; she was a niece of his wife's
+LINE 66: and a very dashing young person indeed, with a huge, drooping pompadour,
+LINE 67: big, rolling brown eyes, and a most extensive and bewildering smile. She
+LINE 68: was dressed with exceeding smartness and wore several bangle bracelets
+LINE 69: that glittered and rattled and tinkled with every movement of her hands.
+LINE 70: Matthew was covered with confusion at finding her there at all; and
+LINE 71: those bangles completely wrecked his wits at one fell swoop.
+LINE 72: "What can I do for you this evening, Mr. Cuthbert?" Miss Lucilla Harris
+LINE 73: inquired, briskly and ingratiatingly, tapping the counter with both
+LINE 74: hands.
+LINE 75: "Have you any--any--any--well now, say any garden rakes?" stammered
+LINE 76: Matthew.
+LINE 77: Miss Harris looked somewhat surprised, as well she might, to hear a man
+LINE 78: inquiring for garden rakes in the middle of December.
+LINE 79: "I believe we have one or two left over," she said, "but they're
+LINE 80: upstairs in the lumber room. I'll go and see." During her absence
+LINE 81: Matthew collected his scattered senses for another effort.
+LINE 82: When Miss Harris returned with the rake and cheerfully inquired:
+LINE 83: "Anything else tonight, Mr. Cuthbert?" Matthew took his courage in
+LINE 84: both hands and replied: "Well now, since you suggest it, I might as
+LINE 85: well--take--that is--look at--buy some--some hayseed."
+LINE 86: Miss Harris had heard Matthew Cuthbert called odd. She now concluded
+LINE 87: that he was entirely crazy.
+LINE 88: "We only keep hayseed in the spring," she explained loftily. "We've none
+LINE 89: on hand just now."
+LINE 90: "Oh, certainly--certainly--just as you say," stammered unhappy
+LINE 91: Matthew, seizing the rake and making for the door. At the threshold he
+LINE 92: recollected that he had not paid for it and he turned miserably back.
+LINE 93: While Miss Harris was counting out his change he rallied his powers for
+LINE 94: a final desperate attempt.
+LINE 95: "Well now--if it isn't too much trouble--I might as well--that is--I'd
+LINE 96: like to look at--at--some sugar."
+LINE 97: "White or brown?" queried Miss Harris patiently.
+LINE 98: "Oh--well now--brown," said Matthew feebly.
+LINE 99: "There's a barrel of it over there," said Miss Harris, shaking her
+LINE 100: bangles at it. "It's the only kind we have."
+LINE 101: "I'll--I'll take twenty pounds of it," said Matthew, with beads of
+LINE 102: perspiration standing on his forehead.
+LINE 103: Matthew had driven halfway home before he was his own man again. It had
+LINE 104: been a gruesome experience, but it served him right, he thought, for
+LINE 105: committing the heresy of going to a strange store. When he reached
+LINE 106: home he hid the rake in the tool house, but the sugar he carried in to
+LINE 107: Marilla.
+LINE 108: "Brown sugar!" exclaimed Marilla. "Whatever possessed you to get so
+LINE 109: much? You know I never use it except for the hired man's porridge or
+LINE 110: black fruit cake. Jerry's gone and I've made my cake long ago. It's not
+LINE 111: good sugar, either--it's coarse and dark--William Blair doesn't usually
+LINE 112: keep sugar like that."
+LINE 113: "I--I thought it might come in handy sometime," said Matthew, making
+LINE 114: good his escape.
+LINE 115: When Matthew came to think the matter over he decided that a woman was
+LINE 116: required to cope with the situation. Marilla was out of the question.
+LINE 117: Matthew felt sure she would throw cold water on his project at once.
+LINE 118: Remained only Mrs. Lynde; for of no other woman in Avonlea would Matthew
+LINE 119: have dared to ask advice. To Mrs. Lynde he went accordingly, and that
+LINE 120: good lady promptly took the matter out of the harassed man's hands.
+LINE 121: "Pick out a dress for you to give Anne? To be sure I will. I'm going to
+LINE 122: Carmody tomorrow and I'll attend to it. Have you something particular in
+LINE 123: mind? No? Well, I'll just go by my own judgment then. I believe a nice
+LINE 124: rich brown would just suit Anne, and William Blair has some new gloria
+LINE 125: in that's real pretty. Perhaps you'd like me to make it up for her, too,
+LINE 126: seeing that if Marilla was to make it Anne would probably get wind of it
+LINE 127: before the time and spoil the surprise? Well, I'll do it. No, it isn't
+LINE 128: a mite of trouble. I like sewing. I'll make it to fit my niece, Jenny
+LINE 129: Gillis, for she and Anne are as like as two peas as far as figure goes."
+LINE 130: "Well now, I'm much obliged," said Matthew, "and--and--I dunno--but I'd
+LINE 131: like--I think they make the sleeves different nowadays to what they used
+LINE 132: to be. If it wouldn't be asking too much I--I'd like them made in the
+LINE 133: new way."
+LINE 134: "Puffs? Of course. You needn't worry a speck more about it, Matthew.
+LINE 135: I'll make it up in the very latest fashion," said Mrs. Lynde. To herself
+LINE 136: she added when Matthew had gone:
+LINE 137: "It'll be a real satisfaction to see that poor child wearing something
+LINE 138: decent for once. The way Marilla dresses her is positively ridiculous,
+LINE 139: that's what, and I've ached to tell her so plainly a dozen times. I've
+LINE 140: held my tongue though, for I can see Marilla doesn't want advice and she
+LINE 141: thinks she knows more about bringing children up than I do for all
+LINE 142: she's an old maid. But that's always the way. Folks that has brought up
+LINE 143: children know that there's no hard and fast method in the world that'll
+LINE 144: suit every child. But them as never have think it's all as plain and
+LINE 145: easy as Rule of Three--just set your three terms down so fashion, and
+LINE 146: the sum 'll work out correct. But flesh and blood don't come under the
+LINE 147: head of arithmetic and that's where Marilla Cuthbert makes her mistake.
+LINE 148: I suppose she's trying to cultivate a spirit of humility in Anne by
+LINE 149: dressing her as she does; but it's more likely to cultivate envy and
+LINE 150: discontent. I'm sure the child must feel the difference between her
+LINE 151: clothes and the other girls'. But to think of Matthew taking notice of
+LINE 152: it! That man is waking up after being asleep for over sixty years."
+LINE 153: Marilla knew all the following fortnight that Matthew had something on
+LINE 154: his mind, but what it was she could not guess, until Christmas Eve, when
+LINE 155: Mrs. Lynde brought up the new dress. Marilla behaved pretty well on the
+LINE 156: whole, although it is very likely she distrusted Mrs. Lynde's diplomatic
+LINE 157: explanation that she had made the dress because Matthew was afraid Anne
+LINE 158: would find out about it too soon if Marilla made it.
+LINE 159: "So this is what Matthew has been looking so mysterious over and
+LINE 160: grinning about to himself for two weeks, is it?" she said a little
+LINE 161: stiffly but tolerantly. "I knew he was up to some foolishness. Well, I
+LINE 162: must say I don't think Anne needed any more dresses. I made her three
+LINE 163: good, warm, serviceable ones this fall, and anything more is sheer
+LINE 164: extravagance. There's enough material in those sleeves alone to make a
+LINE 165: waist, I declare there is. You'll just pamper Anne's vanity, Matthew,
+LINE 166: and she's as vain as a peacock now. Well, I hope she'll be satisfied
+LINE 167: at last, for I know she's been hankering after those silly sleeves ever
+LINE 168: since they came in, although she never said a word after the first. The
+LINE 169: puffs have been getting bigger and more ridiculous right along; they're
+LINE 170: as big as balloons now. Next year anybody who wears them will have to go
+LINE 171: through a door sideways."
+LINE 172: Christmas morning broke on a beautiful white world. It had been a very
+LINE 173: mild December and people had looked forward to a green Christmas; but
+LINE 174: just enough snow fell softly in the night to transfigure Avonlea. Anne
+LINE 175: peeped out from her frosted gable window with delighted eyes. The firs
+LINE 176: in the Haunted Wood were all feathery and wonderful; the birches
+LINE 177: and wild cherry trees were outlined in pearl; the plowed fields were
+LINE 178: stretches of snowy dimples; and there was a crisp tang in the air that
+LINE 179: was glorious. Anne ran downstairs singing until her voice reechoed
+LINE 180: through Green Gables.
+LINE 181: "Merry Christmas, Marilla! Merry Christmas, Matthew! Isn't it a lovely
+LINE 182: Christmas? I'm so glad it's white. Any other kind of Christmas doesn't
+LINE 183: seem real, does it? I don't like green Christmases. They're not
+LINE 184: green--they're just nasty faded browns and grays. What makes people call
+LINE 185: them green? Why--why--Matthew, is that for me? Oh, Matthew!"
+LINE 186: Matthew had sheepishly unfolded the dress from its paper swathings and
+LINE 187: held it out with a deprecatory glance at Marilla, who feigned to be
+LINE 188: contemptuously filling the teapot, but nevertheless watched the scene
+LINE 189: out of the corner of her eye with a rather interested air.
+LINE 190: Anne took the dress and looked at it in reverent silence. Oh, how pretty
+LINE 191: it was--a lovely soft brown gloria with all the gloss of silk; a skirt
+LINE 192: with dainty frills and shirrings; a waist elaborately pintucked in the
+LINE 193: most fashionable way, with a little ruffle of filmy lace at the neck.
+LINE 194: But the sleeves--they were the crowning glory! Long elbow cuffs, and
+LINE 195: above them two beautiful puffs divided by rows of shirring and bows of
+LINE 196: brown-silk ribbon.
+LINE 197: "That's a Christmas present for you, Anne," said Matthew shyly.
+LINE 198: "Why--why--Anne, don't you like it? Well now--well now."
+LINE 199: For Anne's eyes had suddenly filled with tears.
+LINE 200: "Like it! Oh, Matthew!" Anne laid the dress over a chair and clasped
+LINE 201: her hands. "Matthew, it's perfectly exquisite. Oh, I can never thank you
+LINE 202: enough. Look at those sleeves! Oh, it seems to me this must be a happy
+LINE 203: dream."
+LINE 204: "Well, well, let us have breakfast," interrupted Marilla. "I must say,
+LINE 205: Anne, I don't think you needed the dress; but since Matthew has got it
+LINE 206: for you, see that you take good care of it. There's a hair ribbon Mrs.
+LINE 207: Lynde left for you. It's brown, to match the dress. Come now, sit in."
+LINE 208: "I don't see how I'm going to eat breakfast," said Anne rapturously.
+LINE 209: "Breakfast seems so commonplace at such an exciting moment. I'd rather
+LINE 210: feast my eyes on that dress. I'm so glad that puffed sleeves are still
+LINE 211: fashionable. It did seem to me that I'd never get over it if they went
+LINE 212: out before I had a dress with them. I'd never have felt quite satisfied,
+LINE 213: you see. It was lovely of Mrs. Lynde to give me the ribbon too. I feel
+LINE 214: that I ought to be a very good girl indeed. It's at times like this I'm
+LINE 215: sorry I'm not a model little girl; and I always resolve that I will
+LINE 216: be in future. But somehow it's hard to carry out your resolutions when
+LINE 217: irresistible temptations come. Still, I really will make an extra effort
+LINE 218: after this."
+LINE 219: When the commonplace breakfast was over Diana appeared, crossing the
+LINE 220: white log bridge in the hollow, a gay little figure in her crimson
+LINE 221: ulster. Anne flew down the slope to meet her.
+LINE 222: "Merry Christmas, Diana! And oh, it's a wonderful Christmas. I've
+LINE 223: something splendid to show you. Matthew has given me the loveliest
+LINE 224: dress, with _such_ sleeves. I couldn't even imagine any nicer."
+LINE 225: "I've got something more for you," said Diana breathlessly. "Here--this
+LINE 226: box. Aunt Josephine sent us out a big box with ever so many things in
+LINE 227: it--and this is for you. I'd have brought it over last night, but it
+LINE 228: didn't come until after dark, and I never feel very comfortable coming
+LINE 229: through the Haunted Wood in the dark now."
+LINE 230: Anne opened the box and peeped in. First a card with "For the Anne-girl
+LINE 231: and Merry Christmas," written on it; and then, a pair of the daintiest
+LINE 232: little kid slippers, with beaded toes and satin bows and glistening
+LINE 233: buckles.
+LINE 234: "Oh," said Anne, "Diana, this is too much. I must be dreaming."
+LINE 235: "I call it providential," said Diana. "You won't have to borrow Ruby's
+LINE 236: slippers now, and that's a blessing, for they're two sizes too big for
+LINE 237: you, and it would be awful to hear a fairy shuffling. Josie Pye would
+LINE 238: be delighted. Mind you, Rob Wright went home with Gertie Pye from the
+LINE 239: practice night before last. Did you ever hear anything equal to that?"
+LINE 240: All the Avonlea scholars were in a fever of excitement that day, for the
+LINE 241: hall had to be decorated and a last grand rehearsal held.
+LINE 242: The concert came off in the evening and was a pronounced success. The
+LINE 243: little hall was crowded; all the performers did excellently well, but
+LINE 244: Anne was the bright particular star of the occasion, as even envy, in
+LINE 245: the shape of Josie Pye, dared not deny.
+LINE 246: "Oh, hasn't it been a brilliant evening?" sighed Anne, when it was all
+LINE 247: over and she and Diana were walking home together under a dark, starry
+LINE 248: sky.
+LINE 249: "Everything went off very well," said Diana practically. "I guess we
+LINE 250: must have made as much as ten dollars. Mind you, Mr. Allan is going to
+LINE 251: send an account of it to the Charlottetown papers."
+LINE 252: "Oh, Diana, will we really see our names in print? It makes me thrill to
+LINE 253: think of it. Your solo was perfectly elegant, Diana. I felt prouder than
+LINE 254: you did when it was encored. I just said to myself, 'It is my dear bosom
+LINE 255: friend who is so honored.'"
+LINE 256: "Well, your recitations just brought down the house, Anne. That sad one
+LINE 257: was simply splendid."
+LINE 258: "Oh, I was so nervous, Diana. When Mr. Allan called out my name I really
+LINE 259: cannot tell how I ever got up on that platform. I felt as if a million
+LINE 260: eyes were looking at me and through me, and for one dreadful moment I
+LINE 261: was sure I couldn't begin at all. Then I thought of my lovely puffed
+LINE 262: sleeves and took courage. I knew that I must live up to those sleeves,
+LINE 263: Diana. So I started in, and my voice seemed to be coming from ever so
+LINE 264: far away. I just felt like a parrot. It's providential that I practiced
+LINE 265: those recitations so often up in the garret, or I'd never have been able
+LINE 266: to get through. Did I groan all right?"
+LINE 267: "Yes, indeed, you groaned lovely," assured Diana.
+LINE 268: "I saw old Mrs. Sloane wiping away tears when I sat down. It was
+LINE 269: splendid to think I had touched somebody's heart. It's so romantic
+LINE 270: to take part in a concert, isn't it? Oh, it's been a very memorable
+LINE 271: occasion indeed."
+LINE 272: "Wasn't the boys' dialogue fine?" said Diana. "Gilbert Blythe was just
+LINE 273: splendid. Anne, I do think it's awful mean the way you treat Gil. Wait
+LINE 274: till I tell you. When you ran off the platform after the fairy dialogue
+LINE 275: one of your roses fell out of your hair. I saw Gil pick it up and put
+LINE 276: it in his breast pocket. There now. You're so romantic that I'm sure you
+LINE 277: ought to be pleased at that."
+LINE 278: "It's nothing to me what that person does," said Anne loftily. "I simply
+LINE 279: never waste a thought on him, Diana."
+LINE 280: That night Marilla and Matthew, who had been out to a concert for the
+LINE 281: first time in twenty years, sat for a while by the kitchen fire after
+LINE 282: Anne had gone to bed.
+LINE 283: "Well now, I guess our Anne did as well as any of them," said Matthew
+LINE 284: proudly.
+LINE 285: "Yes, she did," admitted Marilla. "She's a bright child, Matthew. And
+LINE 286: she looked real nice too. I've been kind of opposed to this concert
+LINE 287: scheme, but I suppose there's no real harm in it after all. Anyhow, I
+LINE 288: was proud of Anne tonight, although I'm not going to tell her so."
+LINE 289: "Well now, I was proud of her and I did tell her so 'fore she went
+LINE 290: upstairs," said Matthew. "We must see what we can do for her some of
+LINE 291: these days, Marilla. I guess she'll need something more than Avonlea
+LINE 292: school by and by."
+LINE 293: "There's time enough to think of that," said Marilla. "She's only
+LINE 294: thirteen in March. Though tonight it struck me she was growing quite a
+LINE 295: big girl. Mrs. Lynde made that dress a mite too long, and it makes Anne
+LINE 296: look so tall. She's quick to learn and I guess the best thing we can do
+LINE 297: for her will be to send her to Queen's after a spell. But nothing need
+LINE 298: be said about that for a year or two yet."
+LINE 299: "Well now, it'll do no harm to be thinking it over off and on," said
+LINE 300: Matthew. "Things like that are all the better for lots of thinking
+LINE 301: over."

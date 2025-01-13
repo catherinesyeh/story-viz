@@ -1,0 +1,256 @@
+LINE 1: It was a trial to my feelings, on the next day but one, to see Joe
+LINE 2: arraying himself in his Sunday clothes to accompany me to Miss
+LINE 3: Havisham's. However, as he thought his court-suit necessary to the
+LINE 4: occasion, it was not for me to tell him that he looked far better in
+LINE 5: his working-dress; the rather, because I knew he made himself so
+LINE 6: dreadfully uncomfortable, entirely on my account, and that it was for
+LINE 7: me he pulled up his shirt-collar so very high behind, that it made the
+LINE 8: hair on the crown of his head stand up like a tuft of feathers.
+LINE 9: At breakfast-time my sister declared her intention of going to town
+LINE 10: with us, and being left at Uncle Pumblechook's and called for "when we
+LINE 11: had done with our fine ladies"—a way of putting the case, from which
+LINE 12: Joe appeared inclined to augur the worst. The forge was shut up for the
+LINE 13: day, and Joe inscribed in chalk upon the door (as it was his custom to
+LINE 14: do on the very rare occasions when he was not at work) the monosyllable
+LINE 15: HOUT, accompanied by a sketch of an arrow supposed to be flying in the
+LINE 16: direction he had taken.
+LINE 17: We walked to town, my sister leading the way in a very large beaver
+LINE 18: bonnet, and carrying a basket like the Great Seal of England in plaited
+LINE 19: Straw, a pair of pattens, a spare shawl, and an umbrella, though it was
+LINE 20: a fine bright day. I am not quite clear whether these articles were
+LINE 21: carried penitentially or ostentatiously; but I rather think they were
+LINE 22: displayed as articles of property,—much as Cleopatra or any other
+LINE 23: sovereign lady on the Rampage might exhibit her wealth in a pageant or
+LINE 24: procession.
+LINE 25: When we came to Pumblechook's, my sister bounced in and left us. As it
+LINE 26: was almost noon, Joe and I held straight on to Miss Havisham's house.
+LINE 27: Estella opened the gate as usual, and, the moment she appeared, Joe
+LINE 28: took his hat off and stood weighing it by the brim in both his hands;
+LINE 29: as if he had some urgent reason in his mind for being particular to
+LINE 30: half a quarter of an ounce.
+LINE 31: Estella took no notice of either of us, but led us the way that I knew
+LINE 32: so well. I followed next to her, and Joe came last. When I looked back
+LINE 33: at Joe in the long passage, he was still weighing his hat with the
+LINE 34: greatest care, and was coming after us in long strides on the tips of
+LINE 35: his toes.
+LINE 36: Estella told me we were both to go in, so I took Joe by the coat-cuff
+LINE 37: and conducted him into Miss Havisham's presence. She was seated at her
+LINE 38: dressing-table, and looked round at us immediately.
+LINE 39: "Oh!" said she to Joe. "You are the husband of the sister of this boy?"
+LINE 40: I could hardly have imagined dear old Joe looking so unlike himself or
+LINE 41: so like some extraordinary bird; standing as he did speechless, with
+LINE 42: his tuft of feathers ruffled, and his mouth open as if he wanted a
+LINE 43: worm.
+LINE 44: "You are the husband," repeated Miss Havisham, "of the sister of this
+LINE 45: boy?"
+LINE 46: It was very aggravating; but, throughout the interview, Joe persisted
+LINE 47: in addressing Me instead of Miss Havisham.
+LINE 48: "Which I meantersay, Pip," Joe now observed in a manner that was at
+LINE 49: once expressive of forcible argumentation, strict confidence, and great
+LINE 50: politeness, "as I hup and married your sister, and I were at the time
+LINE 51: what you might call (if you was anyways inclined) a single man."
+LINE 52: "Well!" said Miss Havisham. "And you have reared the boy, with the
+LINE 53: intention of taking him for your apprentice; is that so, Mr. Gargery?"
+LINE 54: "You know, Pip," replied Joe, "as you and me were ever friends, and it
+LINE 55: were looked for'ard to betwixt us, as being calc'lated to lead to
+LINE 56: larks. Not but what, Pip, if you had ever made objections to the
+LINE 57: business,—such as its being open to black and sut, or such-like,—not
+LINE 58: but what they would have been attended to, don't you see?"
+LINE 59: "Has the boy," said Miss Havisham, "ever made any objection? Does he
+LINE 60: like the trade?"
+LINE 61: "Which it is well beknown to yourself, Pip," returned Joe,
+LINE 62: strengthening his former mixture of argumentation, confidence, and
+LINE 63: politeness, "that it were the wish of your own hart." (I saw the idea
+LINE 64: suddenly break upon him that he would adapt his epitaph to the
+LINE 65: occasion, before he went on to say) "And there weren't no objection on
+LINE 66: your part, and Pip it were the great wish of your hart!"
+LINE 67: It was quite in vain for me to endeavour to make him sensible that he
+LINE 68: ought to speak to Miss Havisham. The more I made faces and gestures to
+LINE 69: him to do it, the more confidential, argumentative, and polite, he
+LINE 70: persisted in being to Me.
+LINE 71: "Have you brought his indentures with you?" asked Miss Havisham.
+LINE 72: "Well, Pip, you know," replied Joe, as if that were a little
+LINE 73: unreasonable, "you yourself see me put 'em in my 'at, and therefore you
+LINE 74: know as they are here." With which he took them out, and gave them, not
+LINE 75: to Miss Havisham, but to me. I am afraid I was ashamed of the dear good
+LINE 76: fellow,—I _know_ I was ashamed of him,—when I saw that Estella stood at
+LINE 77: the back of Miss Havisham's chair, and that her eyes laughed
+LINE 78: mischievously. I took the indentures out of his hand and gave them to
+LINE 79: Miss Havisham.
+LINE 80: "You expected," said Miss Havisham, as she looked them over, "no
+LINE 81: premium with the boy?"
+LINE 82: "Joe!" I remonstrated, for he made no reply at all. "Why don't you
+LINE 83: answer—"
+LINE 84: "Pip," returned Joe, cutting me short as if he were hurt, "which I
+LINE 85: meantersay that were not a question requiring a answer betwixt yourself
+LINE 86: and me, and which you know the answer to be full well No. You know it
+LINE 87: to be No, Pip, and wherefore should I say it?"
+LINE 88: Miss Havisham glanced at him as if she understood what he really was
+LINE 89: better than I had thought possible, seeing what he was there; and took
+LINE 90: up a little bag from the table beside her.
+LINE 91: "Pip has earned a premium here," she said, "and here it is. There are
+LINE 92: five-and-twenty guineas in this bag. Give it to your master, Pip."
+LINE 93: As if he were absolutely out of his mind with the wonder awakened in
+LINE 94: him by her strange figure and the strange room, Joe, even at this pass,
+LINE 95: persisted in addressing me.
+LINE 96: "This is wery liberal on your part, Pip," said Joe, "and it is as such
+LINE 97: received and grateful welcome, though never looked for, far nor near,
+LINE 98: nor nowheres. And now, old chap," said Joe, conveying to me a
+LINE 99: sensation, first of burning and then of freezing, for I felt as if that
+LINE 100: familiar expression were applied to Miss Havisham,—"and now, old chap,
+LINE 101: may we do our duty! May you and me do our duty, both on us, by one and
+LINE 102: another, and by them which your liberal present—have-conweyed—to be—for
+LINE 103: the satisfaction of mind-of—them as never—" here Joe showed that he
+LINE 104: felt he had fallen into frightful difficulties, until he triumphantly
+LINE 105: rescued himself with the words, "and from myself far be it!" These
+LINE 106: words had such a round and convincing sound for him that he said them
+LINE 107: twice.
+LINE 108: "Good-bye, Pip!" said Miss Havisham. "Let them out, Estella."
+LINE 109: "Am I to come again, Miss Havisham?" I asked.
+LINE 110: "No. Gargery is your master now. Gargery! One word!"
+LINE 111: Thus calling him back as I went out of the door, I heard her say to Joe
+LINE 112: in a distinct emphatic voice, "The boy has been a good boy here, and
+LINE 113: that is his reward. Of course, as an honest man, you will expect no
+LINE 114: other and no more."
+LINE 115: How Joe got out of the room, I have never been able to determine; but I
+LINE 116: know that when he did get out he was steadily proceeding upstairs
+LINE 117: instead of coming down, and was deaf to all remonstrances until I went
+LINE 118: after him and laid hold of him. In another minute we were outside the
+LINE 119: gate, and it was locked, and Estella was gone. When we stood in the
+LINE 120: daylight alone again, Joe backed up against a wall, and said to me,
+LINE 121: "Astonishing!" And there he remained so long saying, "Astonishing" at
+LINE 122: intervals, so often, that I began to think his senses were never coming
+LINE 123: back. At length he prolonged his remark into "Pip, I do assure _you_
+LINE 124: this is as-TON-ishing!" and so, by degrees, became conversational and
+LINE 125: able to walk away.
+LINE 126: I have reason to think that Joe's intellects were brightened by the
+LINE 127: encounter they had passed through, and that on our way to Pumblechook's
+LINE 128: he invented a subtle and deep design. My reason is to be found in what
+LINE 129: took place in Mr. Pumblechook's parlour: where, on our presenting
+LINE 130: ourselves, my sister sat in conference with that detested seedsman.
+LINE 131: "Well?" cried my sister, addressing us both at once. "And what's
+LINE 132: happened to _you_? I wonder you condescend to come back to such poor
+LINE 133: society as this, I am sure I do!"
+LINE 134: "Miss Havisham," said Joe, with a fixed look at me, like an effort of
+LINE 135: remembrance, "made it wery partick'ler that we should give her—were it
+LINE 136: compliments or respects, Pip?"
+LINE 137: "Compliments," I said.
+LINE 138: "Which that were my own belief," answered Joe; "her compliments to Mrs.
+LINE 139: J. Gargery—"
+LINE 140: "Much good they'll do me!" observed my sister; but rather gratified
+LINE 141: too.
+LINE 142: "And wishing," pursued Joe, with another fixed look at me, like another
+LINE 143: effort of remembrance, "that the state of Miss Havisham's elth were
+LINE 144: sitch as would have—allowed, were it, Pip?"
+LINE 145: "Of her having the pleasure," I added.
+LINE 146: "Of ladies' company," said Joe. And drew a long breath.
+LINE 147: "Well!" cried my sister, with a mollified glance at Mr. Pumblechook.
+LINE 148: "She might have had the politeness to send that message at first, but
+LINE 149: it's better late than never. And what did she give young Rantipole
+LINE 150: here?"
+LINE 151: "She giv' him," said Joe, "nothing."
+LINE 152: Mrs. Joe was going to break out, but Joe went on.
+LINE 153: "What she giv'," said Joe, "she giv' to his friends. 'And by his
+LINE 154: friends,' were her explanation, 'I mean into the hands of his sister
+LINE 155: Mrs. J. Gargery.' Them were her words; 'Mrs. J. Gargery.' She mayn't
+LINE 156: have know'd," added Joe, with an appearance of reflection, "whether it
+LINE 157: were Joe, or Jorge."
+LINE 158: My sister looked at Pumblechook: who smoothed the elbows of his wooden
+LINE 159: arm-chair, and nodded at her and at the fire, as if he had known all
+LINE 160: about it beforehand.
+LINE 161: "And how much have you got?" asked my sister, laughing. Positively
+LINE 162: laughing!
+LINE 163: "What would present company say to ten pound?" demanded Joe.
+LINE 164: "They'd say," returned my sister, curtly, "pretty well. Not too much,
+LINE 165: but pretty well."
+LINE 166: "It's more than that, then," said Joe.
+LINE 167: That fearful Impostor, Pumblechook, immediately nodded, and said, as he
+LINE 168: rubbed the arms of his chair, "It's more than that, Mum."
+LINE 169: "Why, you don't mean to say—" began my sister.
+LINE 170: "Yes I do, Mum," said Pumblechook; "but wait a bit. Go on, Joseph. Good
+LINE 171: in you! Go on!"
+LINE 172: "What would present company say," proceeded Joe, "to twenty pound?"
+LINE 173: "Handsome would be the word," returned my sister.
+LINE 174: "Well, then," said Joe, "It's more than twenty pound."
+LINE 175: That abject hypocrite, Pumblechook, nodded again, and said, with a
+LINE 176: patronizing laugh, "It's more than that, Mum. Good again! Follow her
+LINE 177: up, Joseph!"
+LINE 178: "Then to make an end of it," said Joe, delightedly handing the bag to
+LINE 179: my sister; "it's five-and-twenty pound."
+LINE 180: "It's five-and-twenty pound, Mum," echoed that basest of swindlers,
+LINE 181: Pumblechook, rising to shake hands with her; "and it's no more than
+LINE 182: your merits (as I said when my opinion was asked), and I wish you joy
+LINE 183: of the money!"
+LINE 184: If the villain had stopped here, his case would have been sufficiently
+LINE 185: awful, but he blackened his guilt by proceeding to take me into
+LINE 186: custody, with a right of patronage that left all his former criminality
+LINE 187: far behind.
+LINE 188: "Now you see, Joseph and wife," said Pumblechook, as he took me by the
+LINE 189: arm above the elbow, "I am one of them that always go right through
+LINE 190: with what they've begun. This boy must be bound, out of hand. That's
+LINE 191: _my_ way. Bound out of hand."
+LINE 192: "Goodness knows, Uncle Pumblechook," said my sister (grasping the
+LINE 193: money), "we're deeply beholden to you."
+LINE 194: "Never mind me, Mum," returned that diabolical cornchandler. "A
+LINE 195: pleasure's a pleasure all the world over. But this boy, you know; we
+LINE 196: must have him bound. I said I'd see to it—to tell you the truth."
+LINE 197: The Justices were sitting in the Town Hall near at hand, and we at once
+LINE 198: went over to have me bound apprentice to Joe in the Magisterial
+LINE 199: presence. I say we went over, but I was pushed over by Pumblechook,
+LINE 200: exactly as if I had that moment picked a pocket or fired a rick;
+LINE 201: indeed, it was the general impression in Court that I had been taken
+LINE 202: red-handed; for, as Pumblechook shoved me before him through the crowd,
+LINE 203: I heard some people say, "What's he done?" and others, "He's a young
+LINE 204: 'un, too, but looks bad, don't he?" One person of mild and benevolent
+LINE 205: aspect even gave me a tract ornamented with a woodcut of a malevolent
+LINE 206: young man fitted up with a perfect sausage-shop of fetters, and
+LINE 207: entitled TO BE READ IN MY CELL.
+LINE 208: The Hall was a queer place, I thought, with higher pews in it than a
+LINE 209: church,—and with people hanging over the pews looking on,—and with
+LINE 210: mighty Justices (one with a powdered head) leaning back in chairs, with
+LINE 211: folded arms, or taking snuff, or going to sleep, or writing, or reading
+LINE 212: the newspapers,—and with some shining black portraits on the walls,
+LINE 213: which my unartistic eye regarded as a composition of hardbake and
+LINE 214: sticking-plaster. Here, in a corner my indentures were duly signed and
+LINE 215: attested, and I was "bound"; Mr. Pumblechook holding me all the while
+LINE 216: as if we had looked in on our way to the scaffold, to have those little
+LINE 217: preliminaries disposed of.
+LINE 218: When we had come out again, and had got rid of the boys who had been
+LINE 219: put into great spirits by the expectation of seeing me publicly
+LINE 220: tortured, and who were much disappointed to find that my friends were
+LINE 221: merely rallying round me, we went back to Pumblechook's. And there my
+LINE 222: sister became so excited by the twenty-five guineas, that nothing would
+LINE 223: serve her but we must have a dinner out of that windfall at the Blue
+LINE 224: Boar, and that Pumblechook must go over in his chaise-cart, and bring
+LINE 225: the Hubbles and Mr. Wopsle.
+LINE 226: It was agreed to be done; and a most melancholy day I passed. For, it
+LINE 227: inscrutably appeared to stand to reason, in the minds of the whole
+LINE 228: company, that I was an excrescence on the entertainment. And to make it
+LINE 229: worse, they all asked me from time to time,—in short, whenever they had
+LINE 230: nothing else to do,—why I didn't enjoy myself? And what could I
+LINE 231: possibly do then, but say I _was_ enjoying myself,—when I wasn't!
+LINE 232: However, they were grown up and had their own way, and they made the
+LINE 233: most of it. That swindling Pumblechook, exalted into the beneficent
+LINE 234: contriver of the whole occasion, actually took the top of the table;
+LINE 235: and, when he addressed them on the subject of my being bound, and had
+LINE 236: fiendishly congratulated them on my being liable to imprisonment if I
+LINE 237: played at cards, drank strong liquors, kept late hours or bad company,
+LINE 238: or indulged in other vagaries which the form of my indentures appeared
+LINE 239: to contemplate as next to inevitable, he placed me standing on a chair
+LINE 240: beside him to illustrate his remarks.
+LINE 241: My only other remembrances of the great festival are, That they
+LINE 242: wouldn't let me go to sleep, but whenever they saw me dropping off,
+LINE 243: woke me up and told me to enjoy myself. That, rather late in the
+LINE 244: evening Mr. Wopsle gave us Collins's ode, and threw his bloodstained
+LINE 245: sword in thunder down, with such effect, that a waiter came in and
+LINE 246: said, "The Commercials underneath sent up their compliments, and it
+LINE 247: wasn't the Tumblers' Arms." That, they were all in excellent spirits on
+LINE 248: the road home, and sang, O Lady Fair! Mr. Wopsle taking the bass, and
+LINE 249: asserting with a tremendously strong voice (in reply to the inquisitive
+LINE 250: bore who leads that piece of music in a most impertinent manner, by
+LINE 251: wanting to know all about everybody's private affairs) that _he_ was
+LINE 252: the man with his white locks flowing, and that he was upon the whole
+LINE 253: the weakest pilgrim going.
+LINE 254: Finally, I remember that when I got into my little bedroom, I was truly
+LINE 255: wretched, and had a strong conviction on me that I should never like
+LINE 256: Joe's trade. I had liked it once, but once was not now.

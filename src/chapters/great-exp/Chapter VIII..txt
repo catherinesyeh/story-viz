@@ -1,0 +1,413 @@
+LINE 1: Mr. Pumblechook's premises in the High Street of the market town, were
+LINE 2: of a peppercorny and farinaceous character, as the premises of a
+LINE 3: cornchandler and seedsman should be. It appeared to me that he must be
+LINE 4: a very happy man indeed, to have so many little drawers in his shop;
+LINE 5: and I wondered when I peeped into one or two on the lower tiers, and
+LINE 6: saw the tied-up brown paper packets inside, whether the flower-seeds
+LINE 7: and bulbs ever wanted of a fine day to break out of those jails, and
+LINE 8: bloom.
+LINE 9: It was in the early morning after my arrival that I entertained this
+LINE 10: speculation. On the previous night, I had been sent straight to bed in
+LINE 11: an attic with a sloping roof, which was so low in the corner where the
+LINE 12: bedstead was, that I calculated the tiles as being within a foot of my
+LINE 13: eyebrows. In the same early morning, I discovered a singular affinity
+LINE 14: between seeds and corduroys. Mr. Pumblechook wore corduroys, and so did
+LINE 15: his shopman; and somehow, there was a general air and flavour about the
+LINE 16: corduroys, so much in the nature of seeds, and a general air and
+LINE 17: flavour about the seeds, so much in the nature of corduroys, that I
+LINE 18: hardly knew which was which. The same opportunity served me for
+LINE 19: noticing that Mr. Pumblechook appeared to conduct his business by
+LINE 20: looking across the street at the saddler, who appeared to transact
+LINE 21: _his_ business by keeping his eye on the coachmaker, who appeared to
+LINE 22: get on in life by putting his hands in his pockets and contemplating
+LINE 23: the baker, who in his turn folded his arms and stared at the grocer,
+LINE 24: who stood at his door and yawned at the chemist. The watchmaker, always
+LINE 25: poring over a little desk with a magnifying-glass at his eye, and
+LINE 26: always inspected by a group of smock-frocks poring over him through the
+LINE 27: glass of his shop-window, seemed to be about the only person in the
+LINE 28: High Street whose trade engaged his attention.
+LINE 29: Mr. Pumblechook and I breakfasted at eight o'clock in the parlour
+LINE 30: behind the shop, while the shopman took his mug of tea and hunch of
+LINE 31: bread and butter on a sack of peas in the front premises. I considered
+LINE 32: Mr. Pumblechook wretched company. Besides being possessed by my
+LINE 33: sister's idea that a mortifying and penitential character ought to be
+LINE 34: imparted to my diet,—besides giving me as much crumb as possible in
+LINE 35: combination with as little butter, and putting such a quantity of warm
+LINE 36: water into my milk that it would have been more candid to have left the
+LINE 37: milk out altogether,—his conversation consisted of nothing but
+LINE 38: arithmetic. On my politely bidding him Good-morning, he said,
+LINE 39: pompously, "Seven times nine, boy?" And how should _I_ be able to
+LINE 40: answer, dodged in that way, in a strange place, on an empty stomach! I
+LINE 41: was hungry, but before I had swallowed a morsel, he began a running sum
+LINE 42: that lasted all through the breakfast. "Seven?" "And four?" "And
+LINE 43: eight?" "And six?" "And two?" "And ten?" And so on. And after each
+LINE 44: figure was disposed of, it was as much as I could do to get a bite or a
+LINE 45: sup, before the next came; while he sat at his ease guessing nothing,
+LINE 46: and eating bacon and hot roll, in (if I may be allowed the expression)
+LINE 47: a gorging and gormandizing manner.
+LINE 48: For such reasons, I was very glad when ten o'clock came and we started
+LINE 49: for Miss Havisham's; though I was not at all at my ease regarding the
+LINE 50: manner in which I should acquit myself under that lady's roof. Within a
+LINE 51: quarter of an hour we came to Miss Havisham's house, which was of old
+LINE 52: brick, and dismal, and had a great many iron bars to it. Some of the
+LINE 53: windows had been walled up; of those that remained, all the lower were
+LINE 54: rustily barred. There was a courtyard in front, and that was barred; so
+LINE 55: we had to wait, after ringing the bell, until some one should come to
+LINE 56: open it. While we waited at the gate, I peeped in (even then Mr.
+LINE 57: Pumblechook said, "And fourteen?" but I pretended not to hear him), and
+LINE 58: saw that at the side of the house there was a large brewery. No brewing
+LINE 59: was going on in it, and none seemed to have gone on for a long long
+LINE 60: time.
+LINE 61: A window was raised, and a clear voice demanded "What name?" To which
+LINE 62: my conductor replied, "Pumblechook." The voice returned, "Quite right,"
+LINE 63: and the window was shut again, and a young lady came across the
+LINE 64: court-yard, with keys in her hand.
+LINE 65: "This," said Mr. Pumblechook, "is Pip."
+LINE 66: "This is Pip, is it?" returned the young lady, who was very pretty and
+LINE 67: seemed very proud; "come in, Pip."
+LINE 68: Mr. Pumblechook was coming in also, when she stopped him with the gate.
+LINE 69: "Oh!" she said. "Did you wish to see Miss Havisham?"
+LINE 70: "If Miss Havisham wished to see me," returned Mr. Pumblechook,
+LINE 71: discomfited.
+LINE 72: "Ah!" said the girl; "but you see she don't."
+LINE 73: She said it so finally, and in such an undiscussible way, that Mr.
+LINE 74: Pumblechook, though in a condition of ruffled dignity, could not
+LINE 75: protest. But he eyed me severely,—as if _I_ had done anything to
+LINE 76: him!—and departed with the words reproachfully delivered: "Boy! Let
+LINE 77: your behaviour here be a credit unto them which brought you up by
+LINE 78: hand!" I was not free from apprehension that he would come back to
+LINE 79: propound through the gate, "And sixteen?" But he didn't.
+LINE 80: My young conductress locked the gate, and we went across the courtyard.
+LINE 81: It was paved and clean, but grass was growing in every crevice. The
+LINE 82: brewery buildings had a little lane of communication with it, and the
+LINE 83: wooden gates of that lane stood open, and all the brewery beyond stood
+LINE 84: open, away to the high enclosing wall; and all was empty and disused.
+LINE 85: The cold wind seemed to blow colder there than outside the gate; and it
+LINE 86: made a shrill noise in howling in and out at the open sides of the
+LINE 87: brewery, like the noise of wind in the rigging of a ship at sea.
+LINE 88: She saw me looking at it, and she said, "You could drink without hurt
+LINE 89: all the strong beer that's brewed there now, boy."
+LINE 90: "I should think I could, miss," said I, in a shy way.
+LINE 91: "Better not try to brew beer there now, or it would turn out sour, boy;
+LINE 92: don't you think so?"
+LINE 93: "It looks like it, miss."
+LINE 94: "Not that anybody means to try," she added, "for that's all done with,
+LINE 95: and the place will stand as idle as it is till it falls. As to strong
+LINE 96: beer, there's enough of it in the cellars already, to drown the Manor
+LINE 97: House."
+LINE 98: [Illustration]
+LINE 99: "Is that the name of this house, miss?"
+LINE 100: "One of its names, boy."
+LINE 101: "It has more than one, then, miss?"
+LINE 102: "One more. Its other name was Satis; which is Greek, or Latin, or
+LINE 103: Hebrew, or all three—or all one to me—for enough."
+LINE 104: "Enough House," said I; "that's a curious name, miss."
+LINE 105: "Yes," she replied; "but it meant more than it said. It meant, when it
+LINE 106: was given, that whoever had this house could want nothing else. They
+LINE 107: must have been easily satisfied in those days, I should think. But
+LINE 108: don't loiter, boy."
+LINE 109: Though she called me "boy" so often, and with a carelessness that was
+LINE 110: far from complimentary, she was of about my own age. She seemed much
+LINE 111: older than I, of course, being a girl, and beautiful and
+LINE 112: self-possessed; and she was as scornful of me as if she had been
+LINE 113: one-and-twenty, and a queen.
+LINE 114: We went into the house by a side door, the great front entrance had two
+LINE 115: chains across it outside,—and the first thing I noticed was, that the
+LINE 116: passages were all dark, and that she had left a candle burning there.
+LINE 117: She took it up, and we went through more passages and up a staircase,
+LINE 118: and still it was all dark, and only the candle lighted us.
+LINE 119: At last we came to the door of a room, and she said, "Go in."
+LINE 120: I answered, more in shyness than politeness, "After you, miss."
+LINE 121: To this she returned: "Don't be ridiculous, boy; I am not going in."
+LINE 122: And scornfully walked away, and—what was worse—took the candle with
+LINE 123: her.
+LINE 124: This was very uncomfortable, and I was half afraid. However, the only
+LINE 125: thing to be done being to knock at the door, I knocked, and was told
+LINE 126: from within to enter. I entered, therefore, and found myself in a
+LINE 127: pretty large room, well lighted with wax candles. No glimpse of
+LINE 128: daylight was to be seen in it. It was a dressing-room, as I supposed
+LINE 129: from the furniture, though much of it was of forms and uses then quite
+LINE 130: unknown to me. But prominent in it was a draped table with a gilded
+LINE 131: looking-glass, and that I made out at first sight to be a fine lady's
+LINE 132: dressing-table.
+LINE 133: Whether I should have made out this object so soon if there had been no
+LINE 134: fine lady sitting at it, I cannot say. In an arm-chair, with an elbow
+LINE 135: resting on the table and her head leaning on that hand, sat the
+LINE 136: strangest lady I have ever seen, or shall ever see.
+LINE 137: She was dressed in rich materials,—satins, and lace, and silks,—all of
+LINE 138: white. Her shoes were white. And she had a long white veil dependent
+LINE 139: from her hair, and she had bridal flowers in her hair, but her hair was
+LINE 140: white. Some bright jewels sparkled on her neck and on her hands, and
+LINE 141: some other jewels lay sparkling on the table. Dresses, less splendid
+LINE 142: than the dress she wore, and half-packed trunks, were scattered about.
+LINE 143: She had not quite finished dressing, for she had but one shoe on,—the
+LINE 144: other was on the table near her hand,—her veil was but half arranged,
+LINE 145: her watch and chain were not put on, and some lace for her bosom lay
+LINE 146: with those trinkets, and with her handkerchief, and gloves, and some
+LINE 147: flowers, and a Prayer-Book all confusedly heaped about the
+LINE 148: looking-glass.
+LINE 149: It was not in the first few moments that I saw all these things, though
+LINE 150: I saw more of them in the first moments than might be supposed. But I
+LINE 151: saw that everything within my view which ought to be white, had been
+LINE 152: white long ago, and had lost its lustre and was faded and yellow. I saw
+LINE 153: that the bride within the bridal dress had withered like the dress, and
+LINE 154: like the flowers, and had no brightness left but the brightness of her
+LINE 155: sunken eyes. I saw that the dress had been put upon the rounded figure
+LINE 156: of a young woman, and that the figure upon which it now hung loose had
+LINE 157: shrunk to skin and bone. Once, I had been taken to see some ghastly
+LINE 158: waxwork at the Fair, representing I know not what impossible personage
+LINE 159: lying in state. Once, I had been taken to one of our old marsh churches
+LINE 160: to see a skeleton in the ashes of a rich dress that had been dug out of
+LINE 161: a vault under the church pavement. Now, waxwork and skeleton seemed to
+LINE 162: have dark eyes that moved and looked at me. I should have cried out, if
+LINE 163: I could.
+LINE 164: "Who is it?" said the lady at the table.
+LINE 165: "Pip, ma'am."
+LINE 166: "Pip?"
+LINE 167: "Mr. Pumblechook's boy, ma'am. Come—to play."
+LINE 168: "Come nearer; let me look at you. Come close."
+LINE 169: It was when I stood before her, avoiding her eyes, that I took note of
+LINE 170: the surrounding objects in detail, and saw that her watch had stopped
+LINE 171: at twenty minutes to nine, and that a clock in the room had stopped at
+LINE 172: twenty minutes to nine.
+LINE 173: "Look at me," said Miss Havisham. "You are not afraid of a woman who
+LINE 174: has never seen the sun since you were born?"
+LINE 175: I regret to state that I was not afraid of telling the enormous lie
+LINE 176: comprehended in the answer "No."
+LINE 177: "Do you know what I touch here?" she said, laying her hands, one upon
+LINE 178: the other, on her left side.
+LINE 179: "Yes, ma'am." (It made me think of the young man.)
+LINE 180: "What do I touch?"
+LINE 181: "Your heart."
+LINE 182: "Broken!"
+LINE 183: She uttered the word with an eager look, and with strong emphasis, and
+LINE 184: with a weird smile that had a kind of boast in it. Afterwards she kept
+LINE 185: her hands there for a little while, and slowly took them away as if
+LINE 186: they were heavy.
+LINE 187: "I am tired," said Miss Havisham. "I want diversion, and I have done
+LINE 188: with men and women. Play."
+LINE 189: I think it will be conceded by my most disputatious reader, that she
+LINE 190: could hardly have directed an unfortunate boy to do anything in the
+LINE 191: wide world more difficult to be done under the circumstances.
+LINE 192: "I sometimes have sick fancies," she went on, "and I have a sick fancy
+LINE 193: that I want to see some play. There, there!" with an impatient movement
+LINE 194: of the fingers of her right hand; "play, play, play!"
+LINE 195: For a moment, with the fear of my sister's working me before my eyes, I
+LINE 196: had a desperate idea of starting round the room in the assumed
+LINE 197: character of Mr. Pumblechook's chaise-cart. But I felt myself so
+LINE 198: unequal to the performance that I gave it up, and stood looking at Miss
+LINE 199: Havisham in what I suppose she took for a dogged manner, inasmuch as
+LINE 200: she said, when we had taken a good look at each other,—
+LINE 201: "Are you sullen and obstinate?"
+LINE 202: "No, ma'am, I am very sorry for you, and very sorry I can't play just
+LINE 203: now. If you complain of me I shall get into trouble with my sister, so
+LINE 204: I would do it if I could; but it's so new here, and so strange, and so
+LINE 205: fine,—and melancholy—." I stopped, fearing I might say too much, or had
+LINE 206: already said it, and we took another look at each other.
+LINE 207: Before she spoke again, she turned her eyes from me, and looked at the
+LINE 208: dress she wore, and at the dressing-table, and finally at herself in
+LINE 209: the looking-glass.
+LINE 210: "So new to him," she muttered, "so old to me; so strange to him, so
+LINE 211: familiar to me; so melancholy to both of us! Call Estella."
+LINE 212: As she was still looking at the reflection of herself, I thought she
+LINE 213: was still talking to herself, and kept quiet.
+LINE 214: "Call Estella," she repeated, flashing a look at me. "You can do that.
+LINE 215: Call Estella. At the door."
+LINE 216: To stand in the dark in a mysterious passage of an unknown house,
+LINE 217: bawling Estella to a scornful young lady neither visible nor
+LINE 218: responsive, and feeling it a dreadful liberty so to roar out her name,
+LINE 219: was almost as bad as playing to order. But she answered at last, and
+LINE 220: her light came along the dark passage like a star.
+LINE 221: Miss Havisham beckoned her to come close, and took up a jewel from the
+LINE 222: table, and tried its effect upon her fair young bosom and against her
+LINE 223: pretty brown hair. "Your own, one day, my dear, and you will use it
+LINE 224: well. Let me see you play cards with this boy."
+LINE 225: "With this boy? Why, he is a common labouring-boy!"
+LINE 226: I thought I overheard Miss Havisham answer,—only it seemed so
+LINE 227: unlikely,—"Well? You can break his heart."
+LINE 228: "What do you play, boy?" asked Estella of myself, with the greatest
+LINE 229: disdain.
+LINE 230: "Nothing but beggar my neighbour, miss."
+LINE 231: "Beggar him," said Miss Havisham to Estella. So we sat down to cards.
+LINE 232: It was then I began to understand that everything in the room had
+LINE 233: stopped, like the watch and the clock, a long time ago. I noticed that
+LINE 234: Miss Havisham put down the jewel exactly on the spot from which she had
+LINE 235: taken it up. As Estella dealt the cards, I glanced at the
+LINE 236: dressing-table again, and saw that the shoe upon it, once white, now
+LINE 237: yellow, had never been worn. I glanced down at the foot from which the
+LINE 238: shoe was absent, and saw that the silk stocking on it, once white, now
+LINE 239: yellow, had been trodden ragged. Without this arrest of everything,
+LINE 240: this standing still of all the pale decayed objects, not even the
+LINE 241: withered bridal dress on the collapsed form could have looked so like
+LINE 242: grave-clothes, or the long veil so like a shroud.
+LINE 243: So she sat, corpse-like, as we played at cards; the frillings and
+LINE 244: trimmings on her bridal dress, looking like earthy paper. I knew
+LINE 245: nothing then of the discoveries that are occasionally made of bodies
+LINE 246: buried in ancient times, which fall to powder in the moment of being
+LINE 247: distinctly seen; but, I have often thought since, that she must have
+LINE 248: looked as if the admission of the natural light of day would have
+LINE 249: struck her to dust.
+LINE 250: "He calls the knaves Jacks, this boy!" said Estella with disdain,
+LINE 251: before our first game was out. "And what coarse hands he has! And what
+LINE 252: thick boots!"
+LINE 253: I had never thought of being ashamed of my hands before; but I began to
+LINE 254: consider them a very indifferent pair. Her contempt for me was so
+LINE 255: strong, that it became infectious, and I caught it.
+LINE 256: She won the game, and I dealt. I misdealt, as was only natural, when I
+LINE 257: knew she was lying in wait for me to do wrong; and she denounced me for
+LINE 258: a stupid, clumsy labouring-boy.
+LINE 259: "You say nothing of her," remarked Miss Havisham to me, as she looked
+LINE 260: on. "She says many hard things of you, but you say nothing of her. What
+LINE 261: do you think of her?"
+LINE 262: "I don't like to say," I stammered.
+LINE 263: "Tell me in my ear," said Miss Havisham, bending down.
+LINE 264: "I think she is very proud," I replied, in a whisper.
+LINE 265: "Anything else?"
+LINE 266: "I think she is very pretty."
+LINE 267: "Anything else?"
+LINE 268: "I think she is very insulting." (She was looking at me then with a
+LINE 269: look of supreme aversion.)
+LINE 270: "Anything else?"
+LINE 271: "I think I should like to go home."
+LINE 272: "And never see her again, though she is so pretty?"
+LINE 273: "I am not sure that I shouldn't like to see her again, but I should
+LINE 274: like to go home now."
+LINE 275: "You shall go soon," said Miss Havisham, aloud. "Play the game out."
+LINE 276: Saving for the one weird smile at first, I should have felt almost sure
+LINE 277: that Miss Havisham's face could not smile. It had dropped into a
+LINE 278: watchful and brooding expression,—most likely when all the things about
+LINE 279: her had become transfixed,—and it looked as if nothing could ever lift
+LINE 280: it up again. Her chest had dropped, so that she stooped; and her voice
+LINE 281: had dropped, so that she spoke low, and with a dead lull upon her;
+LINE 282: altogether, she had the appearance of having dropped body and soul,
+LINE 283: within and without, under the weight of a crushing blow.
+LINE 284: I played the game to an end with Estella, and she beggared me. She
+LINE 285: threw the cards down on the table when she had won them all, as if she
+LINE 286: despised them for having been won of me.
+LINE 287: "When shall I have you here again?" said Miss Havisham. "Let me think."
+LINE 288: I was beginning to remind her that to-day was Wednesday, when she
+LINE 289: checked me with her former impatient movement of the fingers of her
+LINE 290: right hand.
+LINE 291: "There, there! I know nothing of days of the week; I know nothing of
+LINE 292: weeks of the year. Come again after six days. You hear?"
+LINE 293: "Yes, ma'am."
+LINE 294: "Estella, take him down. Let him have something to eat, and let him
+LINE 295: roam and look about him while he eats. Go, Pip."
+LINE 296: I followed the candle down, as I had followed the candle up, and she
+LINE 297: stood it in the place where we had found it. Until she opened the side
+LINE 298: entrance, I had fancied, without thinking about it, that it must
+LINE 299: necessarily be night-time. The rush of the daylight quite confounded
+LINE 300: me, and made me feel as if I had been in the candlelight of the strange
+LINE 301: room many hours.
+LINE 302: "You are to wait here, you boy," said Estella; and disappeared and
+LINE 303: closed the door.
+LINE 304: I took the opportunity of being alone in the courtyard to look at my
+LINE 305: coarse hands and my common boots. My opinion of those accessories was
+LINE 306: not favourable. They had never troubled me before, but they troubled me
+LINE 307: now, as vulgar appendages. I determined to ask Joe why he had ever
+LINE 308: taught me to call those picture-cards Jacks, which ought to be called
+LINE 309: knaves. I wished Joe had been rather more genteelly brought up, and
+LINE 310: then I should have been so too.
+LINE 311: She came back, with some bread and meat and a little mug of beer. She
+LINE 312: put the mug down on the stones of the yard, and gave me the bread and
+LINE 313: meat without looking at me, as insolently as if I were a dog in
+LINE 314: disgrace. I was so humiliated, hurt, spurned, offended, angry, sorry,—I
+LINE 315: cannot hit upon the right name for the smart—God knows what its name
+LINE 316: was,—that tears started to my eyes. The moment they sprang there, the
+LINE 317: girl looked at me with a quick delight in having been the cause of
+LINE 318: them. This gave me power to keep them back and to look at her: so, she
+LINE 319: gave a contemptuous toss—but with a sense, I thought, of having made
+LINE 320: too sure that I was so wounded—and left me.
+LINE 321: But when she was gone, I looked about me for a place to hide my face
+LINE 322: in, and got behind one of the gates in the brewery-lane, and leaned my
+LINE 323: sleeve against the wall there, and leaned my forehead on it and cried.
+LINE 324: As I cried, I kicked the wall, and took a hard twist at my hair; so
+LINE 325: bitter were my feelings, and so sharp was the smart without a name,
+LINE 326: that needed counteraction.
+LINE 327: My sister's bringing up had made me sensitive. In the little world in
+LINE 328: which children have their existence whosoever brings them up, there is
+LINE 329: nothing so finely perceived and so finely felt as injustice. It may be
+LINE 330: only small injustice that the child can be exposed to; but the child is
+LINE 331: small, and its world is small, and its rocking-horse stands as many
+LINE 332: hands high, according to scale, as a big-boned Irish hunter. Within
+LINE 333: myself, I had sustained, from my babyhood, a perpetual conflict with
+LINE 334: injustice. I had known, from the time when I could speak, that my
+LINE 335: sister, in her capricious and violent coercion, was unjust to me. I had
+LINE 336: cherished a profound conviction that her bringing me up by hand gave
+LINE 337: her no right to bring me up by jerks. Through all my punishments,
+LINE 338: disgraces, fasts, and vigils, and other penitential performances, I had
+LINE 339: nursed this assurance; and to my communing so much with it, in a
+LINE 340: solitary and unprotected way, I in great part refer the fact that I was
+LINE 341: morally timid and very sensitive.
+LINE 342: I got rid of my injured feelings for the time by kicking them into the
+LINE 343: brewery wall, and twisting them out of my hair, and then I smoothed my
+LINE 344: face with my sleeve, and came from behind the gate. The bread and meat
+LINE 345: were acceptable, and the beer was warming and tingling, and I was soon
+LINE 346: in spirits to look about me.
+LINE 347: To be sure, it was a deserted place, down to the pigeon-house in the
+LINE 348: brewery-yard, which had been blown crooked on its pole by some high
+LINE 349: wind, and would have made the pigeons think themselves at sea, if there
+LINE 350: had been any pigeons there to be rocked by it. But there were no
+LINE 351: pigeons in the dove-cot, no horses in the stable, no pigs in the sty,
+LINE 352: no malt in the storehouse, no smells of grains and beer in the copper
+LINE 353: or the vat. All the uses and scents of the brewery might have
+LINE 354: evaporated with its last reek of smoke. In a by-yard, there was a
+LINE 355: wilderness of empty casks, which had a certain sour remembrance of
+LINE 356: better days lingering about them; but it was too sour to be accepted as
+LINE 357: a sample of the beer that was gone,—and in this respect I remember
+LINE 358: those recluses as being like most others.
+LINE 359: Behind the furthest end of the brewery, was a rank garden with an old
+LINE 360: wall; not so high but that I could struggle up and hold on long enough
+LINE 361: to look over it, and see that the rank garden was the garden of the
+LINE 362: house, and that it was overgrown with tangled weeds, but that there was
+LINE 363: a track upon the green and yellow paths, as if some one sometimes
+LINE 364: walked there, and that Estella was walking away from me even then. But
+LINE 365: she seemed to be everywhere. For when I yielded to the temptation
+LINE 366: presented by the casks, and began to walk on them, I saw _her_ walking
+LINE 367: on them at the end of the yard of casks. She had her back towards me,
+LINE 368: and held her pretty brown hair spread out in her two hands, and never
+LINE 369: looked round, and passed out of my view directly. So, in the brewery
+LINE 370: itself,—by which I mean the large paved lofty place in which they used
+LINE 371: to make the beer, and where the brewing utensils still were. When I
+LINE 372: first went into it, and, rather oppressed by its gloom, stood near the
+LINE 373: door looking about me, I saw her pass among the extinguished fires, and
+LINE 374: ascend some light iron stairs, and go out by a gallery high overhead,
+LINE 375: as if she were going out into the sky.
+LINE 376: It was in this place, and at this moment, that a strange thing happened
+LINE 377: to my fancy. I thought it a strange thing then, and I thought it a
+LINE 378: stranger thing long afterwards. I turned my eyes—a little dimmed by
+LINE 379: looking up at the frosty light—towards a great wooden beam in a low
+LINE 380: nook of the building near me on my right hand, and I saw a figure
+LINE 381: hanging there by the neck. A figure all in yellow white, with but one
+LINE 382: shoe to the feet; and it hung so, that I could see that the faded
+LINE 383: trimmings of the dress were like earthy paper, and that the face was
+LINE 384: Miss Havisham's, with a movement going over the whole countenance as if
+LINE 385: she were trying to call to me. In the terror of seeing the figure, and
+LINE 386: in the terror of being certain that it had not been there a moment
+LINE 387: before, I at first ran from it, and then ran towards it. And my terror
+LINE 388: was greatest of all when I found no figure there.
+LINE 389: Nothing less than the frosty light of the cheerful sky, the sight of
+LINE 390: people passing beyond the bars of the court-yard gate, and the reviving
+LINE 391: influence of the rest of the bread and meat and beer, would have
+LINE 392: brought me round. Even with those aids, I might not have come to myself
+LINE 393: as soon as I did, but that I saw Estella approaching with the keys, to
+LINE 394: let me out. She would have some fair reason for looking down upon me, I
+LINE 395: thought, if she saw me frightened; and she would have no fair reason.
+LINE 396: She gave me a triumphant glance in passing me, as if she rejoiced that
+LINE 397: my hands were so coarse and my boots were so thick, and she opened the
+LINE 398: gate, and stood holding it. I was passing out without looking at her,
+LINE 399: when she touched me with a taunting hand.
+LINE 400: "Why don't you cry?"
+LINE 401: "Because I don't want to."
+LINE 402: "You do," said she. "You have been crying till you are half blind, and
+LINE 403: you are near crying again now."
+LINE 404: She laughed contemptuously, pushed me out, and locked the gate upon me.
+LINE 405: I went straight to Mr. Pumblechook's, and was immensely relieved to
+LINE 406: find him not at home. So, leaving word with the shopman on what day I
+LINE 407: was wanted at Miss Havisham's again, I set off on the four-mile walk to
+LINE 408: our forge; pondering, as I went along, on all I had seen, and deeply
+LINE 409: revolving that I was a common labouring-boy; that my hands were coarse;
+LINE 410: that my boots were thick; that I had fallen into a despicable habit of
+LINE 411: calling knaves Jacks; that I was much more ignorant than I had
+LINE 412: considered myself last night, and generally that I was in a low-lived
+LINE 413: bad way.

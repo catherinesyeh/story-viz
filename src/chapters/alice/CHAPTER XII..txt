@@ -1,0 +1,212 @@
+LINE 1: Alice's Evidence
+LINE 2: "Here!" cried Alice, quite forgetting in the flurry of the moment how
+LINE 3: large she had grown in the last few minutes, and she jumped up in such
+LINE 4: a hurry that she tipped over the jury-box with the edge of her skirt,
+LINE 5: upsetting all the jurymen on to the heads of the crowd below, and there
+LINE 6: they lay sprawling about, reminding her very much of a globe of
+LINE 7: goldfish she had accidentally upset the week before.
+LINE 8: "Oh, I _beg_ your pardon!" she exclaimed in a tone of great dismay, and
+LINE 9: began picking them up again as quickly as she could, for the accident
+LINE 10: of the goldfish kept running in her head, and she had a vague sort of
+LINE 11: idea that they must be collected at once and put back into the
+LINE 12: jury-box, or they would die.
+LINE 13: "The trial cannot proceed," said the King in a very grave voice, "until
+LINE 14: all the jurymen are back in their proper places—_all_," he repeated
+LINE 15: with great emphasis, looking hard at Alice as he said so.
+LINE 16: Alice looked at the jury-box, and saw that, in her haste, she had put
+LINE 17: the Lizard in head downwards, and the poor little thing was waving its
+LINE 18: tail about in a melancholy way, being quite unable to move. She soon
+LINE 19: got it out again, and put it right; "not that it signifies much," she
+LINE 20: said to herself; "I should think it would be _quite_ as much use in the
+LINE 21: trial one way up as the other."
+LINE 22: As soon as the jury had a little recovered from the shock of being
+LINE 23: upset, and their slates and pencils had been found and handed back to
+LINE 24: them, they set to work very diligently to write out a history of the
+LINE 25: accident, all except the Lizard, who seemed too much overcome to do
+LINE 26: anything but sit with its mouth open, gazing up into the roof of the
+LINE 27: court.
+LINE 28: "What do you know about this business?" the King said to Alice.
+LINE 29: "Nothing," said Alice.
+LINE 30: "Nothing _whatever?_" persisted the King.
+LINE 31: "Nothing whatever," said Alice.
+LINE 32: "That's very important," the King said, turning to the jury. They were
+LINE 33: just beginning to write this down on their slates, when the White
+LINE 34: Rabbit interrupted: "_Un_important, your Majesty means, of course," he
+LINE 35: said in a very respectful tone, but frowning and making faces at him as
+LINE 36: he spoke.
+LINE 37: "_Un_important, of course, I meant," the King hastily said, and went on
+LINE 38: to himself in an undertone,
+LINE 39: "important—unimportant—unimportant—important—" as if he were trying
+LINE 40: which word sounded best.
+LINE 41: Some of the jury wrote it down "important," and some "unimportant."
+LINE 42: Alice could see this, as she was near enough to look over their slates;
+LINE 43: "but it doesn't matter a bit," she thought to herself.
+LINE 44: At this moment the King, who had been for some time busily writing in
+LINE 45: his note-book, cackled out "Silence!" and read out from his book, "Rule
+LINE 46: Forty-two. _All persons more than a mile high to leave the court_."
+LINE 47: Everybody looked at Alice.
+LINE 48: "_I'm_ not a mile high," said Alice.
+LINE 49: "You are," said the King.
+LINE 50: "Nearly two miles high," added the Queen.
+LINE 51: "Well, I shan't go, at any rate," said Alice: "besides, that's not a
+LINE 52: regular rule: you invented it just now."
+LINE 53: "It's the oldest rule in the book," said the King.
+LINE 54: "Then it ought to be Number One," said Alice.
+LINE 55: The King turned pale, and shut his note-book hastily. "Consider your
+LINE 56: verdict," he said to the jury, in a low, trembling voice.
+LINE 57: "There's more evidence to come yet, please your Majesty," said the
+LINE 58: White Rabbit, jumping up in a great hurry; "this paper has just been
+LINE 59: picked up."
+LINE 60: "What's in it?" said the Queen.
+LINE 61: "I haven't opened it yet," said the White Rabbit, "but it seems to be a
+LINE 62: letter, written by the prisoner to—to somebody."
+LINE 63: "It must have been that," said the King, "unless it was written to
+LINE 64: nobody, which isn't usual, you know."
+LINE 65: "Who is it directed to?" said one of the jurymen.
+LINE 66: "It isn't directed at all," said the White Rabbit; "in fact, there's
+LINE 67: nothing written on the _outside_." He unfolded the paper as he spoke,
+LINE 68: and added "It isn't a letter, after all: it's a set of verses."
+LINE 69: "Are they in the prisoner's handwriting?" asked another of the jurymen.
+LINE 70: "No, they're not," said the White Rabbit, "and that's the queerest
+LINE 71: thing about it." (The jury all looked puzzled.)
+LINE 72: "He must have imitated somebody else's hand," said the King. (The jury
+LINE 73: all brightened up again.)
+LINE 74: "Please your Majesty," said the Knave, "I didn't write it, and they
+LINE 75: can't prove I did: there's no name signed at the end."
+LINE 76: "If you didn't sign it," said the King, "that only makes the matter
+LINE 77: worse. You _must_ have meant some mischief, or else you'd have signed
+LINE 78: your name like an honest man."
+LINE 79: There was a general clapping of hands at this: it was the first really
+LINE 80: clever thing the King had said that day.
+LINE 81: "That _proves_ his guilt," said the Queen.
+LINE 82: "It proves nothing of the sort!" said Alice. "Why, you don't even know
+LINE 83: what they're about!"
+LINE 84: "Read them," said the King.
+LINE 85: The White Rabbit put on his spectacles. "Where shall I begin, please
+LINE 86: your Majesty?" he asked.
+LINE 87: "Begin at the beginning," the King said gravely, "and go on till you
+LINE 88: come to the end: then stop."
+LINE 89: These were the verses the White Rabbit read:—
+LINE 90: "They told me you had been to her,
+LINE 91: And mentioned me to him:
+LINE 92: She gave me a good character,
+LINE 93: But said I could not swim.
+LINE 94: He sent them word I had not gone
+LINE 95: (We know it to be true):
+LINE 96: If she should push the matter on,
+LINE 97: What would become of you?
+LINE 98: I gave her one, they gave him two,
+LINE 99: You gave us three or more;
+LINE 100: They all returned from him to you,
+LINE 101: Though they were mine before.
+LINE 102: If I or she should chance to be
+LINE 103: Involved in this affair,
+LINE 104: He trusts to you to set them free,
+LINE 105: Exactly as we were.
+LINE 106: My notion was that you had been
+LINE 107: (Before she had this fit)
+LINE 108: An obstacle that came between
+LINE 109: Him, and ourselves, and it.
+LINE 110: Don't let him know she liked them best,
+LINE 111: For this must ever be
+LINE 112: A secret, kept from all the rest,
+LINE 113: Between yourself and me."
+LINE 114: "That's the most important piece of evidence we've heard yet," said the
+LINE 115: King, rubbing his hands; "so now let the jury—"
+LINE 116: "If any one of them can explain it," said Alice, (she had grown so
+LINE 117: large in the last few minutes that she wasn't a bit afraid of
+LINE 118: interrupting him,) "I'll give him sixpence. _I_ don't believe there's
+LINE 119: an atom of meaning in it."
+LINE 120: The jury all wrote down on their slates, "_She_ doesn't believe there's
+LINE 121: an atom of meaning in it," but none of them attempted to explain the
+LINE 122: paper.
+LINE 123: "If there's no meaning in it," said the King, "that saves a world of
+LINE 124: trouble, you know, as we needn't try to find any. And yet I don't
+LINE 125: know," he went on, spreading out the verses on his knee, and looking at
+LINE 126: them with one eye; "I seem to see some meaning in them, after all.
+LINE 127: "—_said I could not swim_—" you can't swim, can you?" he added, turning
+LINE 128: to the Knave.
+LINE 129: The Knave shook his head sadly. "Do I look like it?" he said. (Which he
+LINE 130: certainly did _not_, being made entirely of cardboard.)
+LINE 131: "All right, so far," said the King, and he went on muttering over the
+LINE 132: verses to himself: "'_We know it to be true_—' that's the jury, of
+LINE 133: course—'_I gave her one, they gave him two_—' why, that must be what he
+LINE 134: did with the tarts, you know—"
+LINE 135: "But, it goes on '_they all returned from him to you_,'" said Alice.
+LINE 136: "Why, there they are!" said the King triumphantly, pointing to the
+LINE 137: tarts on the table. "Nothing can be clearer than _that_. Then
+LINE 138: again—'_before she had this fit_—' you never had fits, my dear, I
+LINE 139: think?" he said to the Queen.
+LINE 140: "Never!" said the Queen furiously, throwing an inkstand at the Lizard
+LINE 141: as she spoke. (The unfortunate little Bill had left off writing on his
+LINE 142: slate with one finger, as he found it made no mark; but he now hastily
+LINE 143: began again, using the ink, that was trickling down his face, as long
+LINE 144: as it lasted.)
+LINE 145: "Then the words don't _fit_ you," said the King, looking round the
+LINE 146: court with a smile. There was a dead silence.
+LINE 147: "It's a pun!" the King added in an offended tone, and everybody
+LINE 148: laughed, "Let the jury consider their verdict," the King said, for
+LINE 149: about the twentieth time that day.
+LINE 150: "No, no!" said the Queen. "Sentence first—verdict afterwards."
+LINE 151: "Stuff and nonsense!" said Alice loudly. "The idea of having the
+LINE 152: sentence first!"
+LINE 153: "Hold your tongue!" said the Queen, turning purple.
+LINE 154: "I won't!" said Alice.
+LINE 155: "Off with her head!" the Queen shouted at the top of her voice. Nobody
+LINE 156: moved.
+LINE 157: "Who cares for you?" said Alice, (she had grown to her full size by
+LINE 158: this time.) "You're nothing but a pack of cards!"
+LINE 159: At this the whole pack rose up into the air, and came flying down upon
+LINE 160: her: she gave a little scream, half of fright and half of anger, and
+LINE 161: tried to beat them off, and found herself lying on the bank, with her
+LINE 162: head in the lap of her sister, who was gently brushing away some dead
+LINE 163: leaves that had fluttered down from the trees upon her face.
+LINE 164: "Wake up, Alice dear!" said her sister; "Why, what a long sleep you've
+LINE 165: had!"
+LINE 166: "Oh, I've had such a curious dream!" said Alice, and she told her
+LINE 167: sister, as well as she could remember them, all these strange
+LINE 168: Adventures of hers that you have just been reading about; and when she
+LINE 169: had finished, her sister kissed her, and said, "It _was_ a curious
+LINE 170: dream, dear, certainly: but now run in to your tea; it's getting late."
+LINE 171: So Alice got up and ran off, thinking while she ran, as well she might,
+LINE 172: what a wonderful dream it had been.
+LINE 173: But her sister sat still just as she left her, leaning her head on her
+LINE 174: hand, watching the setting sun, and thinking of little Alice and all
+LINE 175: her wonderful Adventures, till she too began dreaming after a fashion,
+LINE 176: and this was her dream:—
+LINE 177: First, she dreamed of little Alice herself, and once again the tiny
+LINE 178: hands were clasped upon her knee, and the bright eager eyes were
+LINE 179: looking up into hers—she could hear the very tones of her voice, and
+LINE 180: see that queer little toss of her head to keep back the wandering hair
+LINE 181: that _would_ always get into her eyes—and still as she listened, or
+LINE 182: seemed to listen, the whole place around her became alive with the
+LINE 183: strange creatures of her little sister's dream.
+LINE 184: The long grass rustled at her feet as the White Rabbit hurried by—the
+LINE 185: frightened Mouse splashed his way through the neighbouring pool—she
+LINE 186: could hear the rattle of the teacups as the March Hare and his friends
+LINE 187: shared their never-ending meal, and the shrill voice of the Queen
+LINE 188: ordering off her unfortunate guests to execution—once more the pig-baby
+LINE 189: was sneezing on the Duchess's knee, while plates and dishes crashed
+LINE 190: around it—once more the shriek of the Gryphon, the squeaking of the
+LINE 191: Lizard's slate-pencil, and the choking of the suppressed guinea-pigs,
+LINE 192: filled the air, mixed up with the distant sobs of the miserable Mock
+LINE 193: Turtle.
+LINE 194: So she sat on, with closed eyes, and half believed herself in
+LINE 195: Wonderland, though she knew she had but to open them again, and all
+LINE 196: would change to dull reality—the grass would be only rustling in the
+LINE 197: wind, and the pool rippling to the waving of the reeds—the rattling
+LINE 198: teacups would change to tinkling sheep-bells, and the Queen's shrill
+LINE 199: cries to the voice of the shepherd boy—and the sneeze of the baby, the
+LINE 200: shriek of the Gryphon, and all the other queer noises, would change
+LINE 201: (she knew) to the confused clamour of the busy farm-yard—while the
+LINE 202: lowing of the cattle in the distance would take the place of the Mock
+LINE 203: Turtle's heavy sobs.
+LINE 204: Lastly, she pictured to herself how this same little sister of hers
+LINE 205: would, in the after-time, be herself a grown woman; and how she would
+LINE 206: keep, through all her riper years, the simple and loving heart of her
+LINE 207: childhood: and how she would gather about her other little children,
+LINE 208: and make _their_ eyes bright and eager with many a strange tale,
+LINE 209: perhaps even with the dream of Wonderland of long ago: and how she
+LINE 210: would feel with all their simple sorrows, and find a pleasure in all
+LINE 211: their simple joys, remembering her own child-life, and the happy summer
+LINE 212: days.

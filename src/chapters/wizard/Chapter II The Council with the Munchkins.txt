@@ -1,0 +1,173 @@
+LINE 1: She was awakened by a shock, so sudden and severe that if Dorothy had
+LINE 2: not been lying on the soft bed she might have been hurt. As it was, the
+LINE 3: jar made her catch her breath and wonder what had happened; and Toto
+LINE 4: put his cold little nose into her face and whined dismally. Dorothy sat
+LINE 5: up and noticed that the house was not moving; nor was it dark, for the
+LINE 6: bright sunshine came in at the window, flooding the little room. She
+LINE 7: sprang from her bed and with Toto at her heels ran and opened the door.
+LINE 8: The little girl gave a cry of amazement and looked about her, her eyes
+LINE 9: growing bigger and bigger at the wonderful sights she saw.
+LINE 10: The cyclone had set the house down very gently—for a cyclone—in the
+LINE 11: midst of a country of marvelous beauty. There were lovely patches of
+LINE 12: greensward all about, with stately trees bearing rich and luscious
+LINE 13: fruits. Banks of gorgeous flowers were on every hand, and birds with
+LINE 14: rare and brilliant plumage sang and fluttered in the trees and bushes.
+LINE 15: A little way off was a small brook, rushing and sparkling along between
+LINE 16: green banks, and murmuring in a voice very grateful to a little girl
+LINE 17: who had lived so long on the dry, gray prairies.
+LINE 18: While she stood looking eagerly at the strange and beautiful sights,
+LINE 19: she noticed coming toward her a group of the queerest people she had
+LINE 20: ever seen. They were not as big as the grown folk she had always been
+LINE 21: used to; but neither were they very small. In fact, they seemed about
+LINE 22: as tall as Dorothy, who was a well-grown child for her age, although
+LINE 23: they were, so far as looks go, many years older.
+LINE 24: Three were men and one a woman, and all were oddly dressed. They wore
+LINE 25: round hats that rose to a small point a foot above their heads, with
+LINE 26: little bells around the brims that tinkled sweetly as they moved. The
+LINE 27: hats of the men were blue; the little woman's hat was white, and she
+LINE 28: wore a white gown that hung in pleats from her shoulders. Over it were
+LINE 29: sprinkled little stars that glistened in the sun like diamonds. The men
+LINE 30: were dressed in blue, of the same shade as their hats, and wore
+LINE 31: well-polished boots with a deep roll of blue at the tops. The men,
+LINE 32: Dorothy thought, were about as old as Uncle Henry, for two of them had
+LINE 33: beards. But the little woman was doubtless much older. Her face was
+LINE 34: covered with wrinkles, her hair was nearly white, and she walked rather
+LINE 35: stiffly.
+LINE 36: When these people drew near the house where Dorothy was standing in the
+LINE 37: doorway, they paused and whispered among themselves, as if afraid to
+LINE 38: come farther. But the little old woman walked up to Dorothy, made a low
+LINE 39: bow and said, in a sweet voice:
+LINE 40: "You are welcome, most noble Sorceress, to the land of the Munchkins.
+LINE 41: We are so grateful to you for having killed the Wicked Witch of the
+LINE 42: East, and for setting our people free from bondage."
+LINE 43: Dorothy listened to this speech with wonder. What could the little
+LINE 44: woman possibly mean by calling her a sorceress, and saying she had
+LINE 45: killed the Wicked Witch of the East? Dorothy was an innocent, harmless
+LINE 46: little girl, who had been carried by a cyclone many miles from home;
+LINE 47: and she had never killed anything in all her life.
+LINE 48: But the little woman evidently expected her to answer; so Dorothy said,
+LINE 49: with hesitation, "You are very kind, but there must be some mistake. I
+LINE 50: have not killed anything."
+LINE 51: "Your house did, anyway," replied the little old woman, with a laugh,
+LINE 52: "and that is the same thing. See!" she continued, pointing to the
+LINE 53: corner of the house. "There are her two feet, still sticking out from
+LINE 54: under a block of wood."
+LINE 55: Dorothy looked, and gave a little cry of fright. There, indeed, just
+LINE 56: under the corner of the great beam the house rested on, two feet were
+LINE 57: sticking out, shod in silver shoes with pointed toes.
+LINE 58: "Oh, dear! Oh, dear!" cried Dorothy, clasping her hands together in
+LINE 59: dismay. "The house must have fallen on her. Whatever shall we do?"
+LINE 60: "There is nothing to be done," said the little woman calmly.
+LINE 61: "But who was she?" asked Dorothy.
+LINE 62: "She was the Wicked Witch of the East, as I said," answered the little
+LINE 63: woman. "She has held all the Munchkins in bondage for many years,
+LINE 64: making them slave for her night and day. Now they are all set free, and
+LINE 65: are grateful to you for the favor."
+LINE 66: "Who are the Munchkins?" inquired Dorothy.
+LINE 67: "They are the people who live in this land of the East where the Wicked
+LINE 68: Witch ruled."
+LINE 69: "Are you a Munchkin?" asked Dorothy.
+LINE 70: "No, but I am their friend, although I live in the land of the North.
+LINE 71: When they saw the Witch of the East was dead the Munchkins sent a swift
+LINE 72: messenger to me, and I came at once. I am the Witch of the North."
+LINE 73: "Oh, gracious!" cried Dorothy. "Are you a real witch?"
+LINE 74: "Yes, indeed," answered the little woman. "But I am a good witch, and
+LINE 75: the people love me. I am not as powerful as the Wicked Witch was who
+LINE 76: ruled here, or I should have set the people free myself."
+LINE 77: "But I thought all witches were wicked," said the girl, who was half
+LINE 78: frightened at facing a real witch. "Oh, no, that is a great mistake.
+LINE 79: There were only four witches in all the Land of Oz, and two of them,
+LINE 80: those who live in the North and the South, are good witches. I know
+LINE 81: this is true, for I am one of them myself, and cannot be mistaken.
+LINE 82: Those who dwelt in the East and the West were, indeed, wicked witches;
+LINE 83: but now that you have killed one of them, there is but one Wicked Witch
+LINE 84: in all the Land of Oz—the one who lives in the West."
+LINE 85: "But," said Dorothy, after a moment's thought, "Aunt Em has told me
+LINE 86: that the witches were all dead—years and years ago."
+LINE 87: "Who is Aunt Em?" inquired the little old woman.
+LINE 88: "She is my aunt who lives in Kansas, where I came from."
+LINE 89: The Witch of the North seemed to think for a time, with her head bowed
+LINE 90: and her eyes upon the ground. Then she looked up and said, "I do not
+LINE 91: know where Kansas is, for I have never heard that country mentioned
+LINE 92: before. But tell me, is it a civilized country?"
+LINE 93: "Oh, yes," replied Dorothy.
+LINE 94: "Then that accounts for it. In the civilized countries I believe there
+LINE 95: are no witches left, nor wizards, nor sorceresses, nor magicians. But,
+LINE 96: you see, the Land of Oz has never been civilized, for we are cut off
+LINE 97: from all the rest of the world. Therefore we still have witches and
+LINE 98: wizards amongst us."
+LINE 99: "Who are the wizards?" asked Dorothy.
+LINE 100: "Oz himself is the Great Wizard," answered the Witch, sinking her voice
+LINE 101: to a whisper. "He is more powerful than all the rest of us together. He
+LINE 102: lives in the City of Emeralds."
+LINE 103: Dorothy was going to ask another question, but just then the Munchkins,
+LINE 104: who had been standing silently by, gave a loud shout and pointed to the
+LINE 105: corner of the house where the Wicked Witch had been lying.
+LINE 106: "What is it?" asked the little old woman, and looked, and began to
+LINE 107: laugh. The feet of the dead Witch had disappeared entirely, and nothing
+LINE 108: was left but the silver shoes.
+LINE 109: "She was so old," explained the Witch of the North, "that she dried up
+LINE 110: quickly in the sun. That is the end of her. But the silver shoes are
+LINE 111: yours, and you shall have them to wear." She reached down and picked up
+LINE 112: the shoes, and after shaking the dust out of them handed them to
+LINE 113: Dorothy.
+LINE 114: "The Witch of the East was proud of those silver shoes," said one of
+LINE 115: the Munchkins, "and there is some charm connected with them; but what
+LINE 116: it is we never knew."
+LINE 117: Dorothy carried the shoes into the house and placed them on the table.
+LINE 118: Then she came out again to the Munchkins and said:
+LINE 119: "I am anxious to get back to my aunt and uncle, for I am sure they will
+LINE 120: worry about me. Can you help me find my way?"
+LINE 121: The Munchkins and the Witch first looked at one another, and then at
+LINE 122: Dorothy, and then shook their heads.
+LINE 123: "At the East, not far from here," said one, "there is a great desert,
+LINE 124: and none could live to cross it."
+LINE 125: "It is the same at the South," said another, "for I have been there and
+LINE 126: seen it. The South is the country of the Quadlings."
+LINE 127: "I am told," said the third man, "that it is the same at the West. And
+LINE 128: that country, where the Winkies live, is ruled by the Wicked Witch of
+LINE 129: the West, who would make you her slave if you passed her way."
+LINE 130: "The North is my home," said the old lady, "and at its edge is the same
+LINE 131: great desert that surrounds this Land of Oz. I'm afraid, my dear, you
+LINE 132: will have to live with us."
+LINE 133: Dorothy began to sob at this, for she felt lonely among all these
+LINE 134: strange people. Her tears seemed to grieve the kind-hearted Munchkins,
+LINE 135: for they immediately took out their handkerchiefs and began to weep
+LINE 136: also. As for the little old woman, she took off her cap and balanced
+LINE 137: the point on the end of her nose, while she counted "One, two, three"
+LINE 138: in a solemn voice. At once the cap changed to a slate, on which was
+LINE 139: written in big, white chalk marks:
+LINE 140: "LET DOROTHY GO TO THE CITY OF EMERALDS"
+LINE 141: The little old woman took the slate from her nose, and having read the
+LINE 142: words on it, asked, "Is your name Dorothy, my dear?"
+LINE 143: "Yes," answered the child, looking up and drying her tears.
+LINE 144: "Then you must go to the City of Emeralds. Perhaps Oz will help you."
+LINE 145: "Where is this city?" asked Dorothy.
+LINE 146: "It is exactly in the center of the country, and is ruled by Oz, the
+LINE 147: Great Wizard I told you of."
+LINE 148: "Is he a good man?" inquired the girl anxiously.
+LINE 149: "He is a good Wizard. Whether he is a man or not I cannot tell, for I
+LINE 150: have never seen him."
+LINE 151: "How can I get there?" asked Dorothy.
+LINE 152: "You must walk. It is a long journey, through a country that is
+LINE 153: sometimes pleasant and sometimes dark and terrible. However, I will use
+LINE 154: all the magic arts I know of to keep you from harm."
+LINE 155: "Won't you go with me?" pleaded the girl, who had begun to look upon
+LINE 156: the little old woman as her only friend.
+LINE 157: "No, I cannot do that," she replied, "but I will give you my kiss, and
+LINE 158: no one will dare injure a person who has been kissed by the Witch of
+LINE 159: the North."
+LINE 160: She came close to Dorothy and kissed her gently on the forehead. Where
+LINE 161: her lips touched the girl they left a round, shining mark, as Dorothy
+LINE 162: found out soon after.
+LINE 163: "The road to the City of Emeralds is paved with yellow brick," said the
+LINE 164: Witch, "so you cannot miss it. When you get to Oz do not be afraid of
+LINE 165: him, but tell your story and ask him to help you. Good-bye, my dear."
+LINE 166: The three Munchkins bowed low to her and wished her a pleasant journey,
+LINE 167: after which they walked away through the trees. The Witch gave Dorothy
+LINE 168: a friendly little nod, whirled around on her left heel three times, and
+LINE 169: straightway disappeared, much to the surprise of little Toto, who
+LINE 170: barked after her loudly enough when she had gone, because he had been
+LINE 171: afraid even to growl while she stood by.
+LINE 172: But Dorothy, knowing her to be a witch, had expected her to disappear
+LINE 173: in just that way, and was not surprised in the least.

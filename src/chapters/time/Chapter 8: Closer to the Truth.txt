@@ -1,0 +1,138 @@
+LINE 1: The precinct buzzed with an energy that Alex hadn't felt in a long time. It was
+LINE 2: as though the pieces of the puzzle were finally falling into place, yet the
+LINE 3: weight of the loop still hung over them like a dark cloud. Sam stood by the
+LINE 4: evidence board, going over the recent leads they had uncovered. The Ghost was
+LINE 5: no longer a phantom lurking in the shadows—he was a real threat, someone who
+LINE 6: had made mistakes, and now they were closing in.
+LINE 7: Alex paced the room, eyes flicking over the photos and notes pinned to the
+LINE 8: board. "We know he's been operating under different identities for years.
+LINE 9: Lisa's right—he's getting sloppy. That's how we'll catch him."
+LINE 10: Sam nodded, flipping through his notebook. "But we still don't have a solid
+LINE 11: lead on where he's hiding. He's a ghost for a reason. We've got bits and
+LINE 12: pieces, but nothing concrete."
+LINE 13: Alex rubbed their temples, frustration gnawing at them. "There's something
+LINE 14: we're missing. We have the cold cases, the financial connections, the witness
+LINE 15: statements, but it's not enough."
+LINE 16: Sam leaned against the wall, his brow furrowed in thought. "What about Laura
+LINE 17: Patel? She was scared of him, but she was also involved. She's hiding more than
+LINE 18: she's letting on."
+LINE 19: Alex froze, the realization dawning. "Laura's not just a witness—she's part of
+LINE 20: this. She's been feeding him information. She's the link."
+LINE 21: Sam's eyes widened. "You think she's working for him?"
+LINE 22: Alex nodded, the pieces coming together in their mind. "It makes sense. She was
+LINE 23: always nervous, always hiding something. She didn't just witness the victim's
+LINE 24: involvement with The Ghost—she was part of it."
+LINE 25: Sam crossed his arms, his expression darkening. "Then we need to confront her.
+LINE 26: Now."
+LINE 27: Alex grabbed their coat, determination flaring in their chest. "We'll corner
+LINE 28: her. If she's working with him, she's not getting away with it."
+LINE 29: Laura Patel sat at her desk, her hands trembling slightly as Alex and Sam
+LINE 30: entered her office. She looked up, her eyes wide with fear, as if she knew
+LINE 31: exactly why they were there. Alex didn't waste any time, their voice sharp and
+LINE 32: commanding.
+LINE 33: "Laura, we need to talk. Now."
+LINE 34: Laura swallowed hard, glancing nervously at Sam before looking back at Alex.
+LINE 35: "I've already told you everything I know. I don't understand why—"
+LINE 36: Alex cut her off, stepping closer to her desk. "Don't play games with us,
+LINE 37: Laura. We know you've been working with him. We know you've been feeding him
+LINE 38: information."
+LINE 39: Laura's face went pale, her hands clutching the edge of the desk as though it
+LINE 40: were the only thing keeping her grounded. "I-I don't know what you're talking
+LINE 41: about," she stammered, her voice shaking.
+LINE 42: Alex leaned in, their gaze cold and unyielding. "You've been hiding something
+LINE 43: from the beginning. You knew who The Ghost was, and you've been helping him.
+LINE 44: Don't bother denying it."
+LINE 45: Laura's lips trembled, and for a moment, Alex thought she would continue to
+LINE 46: lie. But then her shoulders slumped, defeat washing over her. "I didn't have a
+LINE 47: choice," she whispered, her eyes filling with tears. "He...he threatened me. If
+LINE 48: I didn't do what he asked, he was going to kill me."
+LINE 49: Sam stepped forward, his voice hard. "And what exactly did he ask you to do,
+LINE 50: Laura? What were you supposed to hide from us?"
+LINE 51: Laura's hands shook as she wiped at her eyes. "He made me cover up his tracks.
+LINE 52: I was supposed to make sure you never found the connection between him and the
+LINE 53: victim. She...she tried to get away from him, but he wouldn't let her. When she
+LINE 54: came to me for help, I didn't know what to do. I panicked."
+LINE 55: Alex's heart raced, anger surging through them. "So you covered for him, even
+LINE 56: though you knew it would get her killed."
+LINE 57: Laura sobbed, her face buried in her hands. "I didn't want to, but I was
+LINE 58: scared. He's...he's not someone you can just walk away from."
+LINE 59: Alex's jaw clenched, their hands curling into fists. "Where is he now, Laura?
+LINE 60: Where is The Ghost?"
+LINE 61: Laura shook her head, her voice barely audible. "I don't know. He doesn't tell
+LINE 62: me where he goes."
+LINE 63: Alex's patience was wearing thin. They needed answers, and they needed them
+LINE 64: now. But Laura was clearly too terrified to give them what they wanted. It was
+LINE 65: time to try a different approach.
+LINE 66: The victim's workplace was eerily quiet as Alex approached Victor Chen, the
+LINE 67: colleague who had been so tight-lipped during their previous interviews. He
+LINE 68: stood by the window, gazing out at the city below, his expression unreadable.
+LINE 69: Alex knew Victor held more information than he'd let on, and today, they
+LINE 70: weren't going to let him leave without revealing it.
+LINE 71: "Victor," Alex said, their voice firm as they stepped into the room. "We need
+LINE 72: to talk."
+LINE 73: Victor turned slowly, his face a mask of calm, though Alex could see the
+LINE 74: tension in his posture. "I've already told you everything I know, Detective."
+LINE 75: "No, you haven't," Alex replied, taking a step closer. "You've been hiding
+LINE 76: something. Something big. You were close to the victim, and you knew about her
+LINE 77: connection to The Ghost."
+LINE 78: Victor's eyes flickered with something—fear, maybe guilt—but his voice remained
+LINE 79: steady. "I had nothing to do with what happened to her."
+LINE 80: Alex narrowed their eyes, their patience wearing thin. "Then tell me what you
+LINE 81: know. Don't make me drag it out of you."
+LINE 82: Victor hesitated, his gaze shifting to the floor. "She...she was in trouble. I
+LINE 83: knew she was involved with someone dangerous, but I didn't know who. When I
+LINE 84: found out about The Ghost, I tried to warn her, but it was too late. She was
+LINE 85: already in too deep."
+LINE 86: Alex's heart pounded. "Why didn't you come forward with this sooner?"
+LINE 87: Victor looked away, his voice filled with regret. "I was scared. The Ghost has
+LINE 88: a lot of power, Detective. If he knew I'd talked to you, I'd be next."
+LINE 89: Alex crossed their arms, frustration gnawing at them. "Do you know where he is
+LINE 90: now?"
+LINE 91: Victor shook his head, his face pale. "No. He's...he's impossible to track. He
+LINE 92: moves like a ghost."
+LINE 93: The same dead-end. Alex felt the weight of the loop pressing down on them, the
+LINE 94: same frustrating cycle repeating itself. But this time, they were closer than
+LINE 95: ever to unraveling the truth. They just needed one more piece.
+LINE 96: The crime scene was just as haunting as it had been the first time Alex had
+LINE 97: stepped inside the luxury apartment. The same eerie silence, the same
+LINE 98: bloodstain on the floor, the same shattered remains of a life cut short. But
+LINE 99: today, Alex wasn't here just to retrace their steps—they were here to confront
+LINE 100: the danger head-on.
+LINE 101: As they moved through the apartment, their eyes scanning the room for anything
+LINE 102: they might have missed, a noise behind them made them freeze. It was faint,
+LINE 103: barely noticeable, but enough to set their heart racing. Slowly, Alex turned,
+LINE 104: their hand instinctively reaching for their weapon.
+LINE 105: Standing in the doorway was a figure—a shadowed silhouette, barely illuminated
+LINE 106: by the faint light streaming in from the street. The figure stepped forward,
+LINE 107: and Alex's pulse quickened as recognition hit them.
+LINE 108: It was The Ghost.
+LINE 109: For a moment, time seemed to slow. The Ghost's eyes were cold, calculating, his
+LINE 110: face hidden behind a mask of indifference. He didn't speak, didn't move, but
+LINE 111: the danger emanating from him was palpable.
+LINE 112: "You've been chasing me for a while, Detective," The Ghost finally said, his
+LINE 113: voice low and smooth. "But you should have stopped. You can't catch a ghost."
+LINE 114: Alex's hand tightened on their gun, their heart pounding in their chest. "It's
+LINE 115: over. We know everything. Laura confessed, Victor's cracked, and the whole
+LINE 116: operation is falling apart."
+LINE 117: The Ghost smiled, but it didn't reach his eyes. "You think this is over? You
+LINE 118: haven't even scratched the surface."
+LINE 119: Before Alex could react, The Ghost moved—swift, lethal, and in the blink of an
+LINE 120: eye, he was gone. Disappeared, like a wisp of smoke, leaving Alex standing
+LINE 121: alone in the empty apartment, their breath coming in ragged gasps.
+LINE 122: They had been so close.
+LINE 123: Back at the precinct, Alex sat in the dimly lit office, the weight of the day
+LINE 124: pressing down on them. The Ghost had slipped through their fingers again, but
+LINE 125: this time, Alex knew they were closing in. They had uncovered his network,
+LINE 126: exposed his connections, and shattered his carefully constructed web of lies.
+LINE 127: Sam sat across from them, his expression grim. "We'll get him, Alex. We just
+LINE 128: need more time."
+LINE 129: Alex shook their head, their voice hollow. "Time's the one thing we don't have.
+LINE 130: Every day, the loop resets. Every day, I get closer, but it's never enough.
+LINE 131: He's always one step ahead."
+LINE 132: Sam leaned forward, his gaze intense. "But this time was different. This time,
+LINE 133: you saw him. You faced him. That means we're on the right track. We just have
+LINE 134: to keep pushing."
+LINE 135: Alex nodded slowly, though the exhaustion was evident in their eyes. They had
+LINE 136: come so far, uncovered so much, but the loop remained unbroken. And as long as
+LINE 137: it persisted, The Ghost would always slip away.
+LINE 138: But Alex wasn't ready to give up. Not yet.

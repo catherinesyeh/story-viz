@@ -1,0 +1,335 @@
+LINE 1: OCTOBER was a beautiful month at Green Gables, when the birches in the
+LINE 2: hollow turned as golden as sunshine and the maples behind the orchard
+LINE 3: were royal crimson and the wild cherry trees along the lane put on the
+LINE 4: loveliest shades of dark red and bronzy green, while the fields sunned
+LINE 5: themselves in aftermaths.
+LINE 6: Anne reveled in the world of color about her.
+LINE 7: "Oh, Marilla," she exclaimed one Saturday morning, coming dancing in
+LINE 8: with her arms full of gorgeous boughs, "I'm so glad I live in a world
+LINE 9: where there are Octobers. It would be terrible if we just skipped from
+LINE 10: September to November, wouldn't it? Look at these maple branches. Don't
+LINE 11: they give you a thrill--several thrills? I'm going to decorate my room
+LINE 12: with them."
+LINE 13: "Messy things," said Marilla, whose aesthetic sense was not noticeably
+LINE 14: developed. "You clutter up your room entirely too much with out-of-doors
+LINE 15: stuff, Anne. Bedrooms were made to sleep in."
+LINE 16: "Oh, and dream in too, Marilla. And you know one can dream so much
+LINE 17: better in a room where there are pretty things. I'm going to put these
+LINE 18: boughs in the old blue jug and set them on my table."
+LINE 19: "Mind you don't drop leaves all over the stairs then. I'm going on a
+LINE 20: meeting of the Aid Society at Carmody this afternoon, Anne, and I won't
+LINE 21: likely be home before dark. You'll have to get Matthew and Jerry their
+LINE 22: supper, so mind you don't forget to put the tea to draw until you sit
+LINE 23: down at the table as you did last time."
+LINE 24: "It was dreadful of me to forget," said Anne apologetically, "but that
+LINE 25: was the afternoon I was trying to think of a name for Violet Vale and it
+LINE 26: crowded other things out. Matthew was so good. He never scolded a bit.
+LINE 27: He put the tea down himself and said we could wait awhile as well as
+LINE 28: not. And I told him a lovely fairy story while we were waiting, so
+LINE 29: he didn't find the time long at all. It was a beautiful fairy story,
+LINE 30: Marilla. I forgot the end of it, so I made up an end for it myself and
+LINE 31: Matthew said he couldn't tell where the join came in."
+LINE 32: "Matthew would think it all right, Anne, if you took a notion to get up
+LINE 33: and have dinner in the middle of the night. But you keep your wits about
+LINE 34: you this time. And--I don't really know if I'm doing right--it may make
+LINE 35: you more addlepated than ever--but you can ask Diana to come over and
+LINE 36: spend the afternoon with you and have tea here."
+LINE 37: "Oh, Marilla!" Anne clasped her hands. "How perfectly lovely! You _are_
+LINE 38: able to imagine things after all or else you'd never have understood how
+LINE 39: I've longed for that very thing. It will seem so nice and grown-uppish.
+LINE 40: No fear of my forgetting to put the tea to draw when I have company. Oh,
+LINE 41: Marilla, can I use the rosebud spray tea set?"
+LINE 42: "No, indeed! The rosebud tea set! Well, what next? You know I never use
+LINE 43: that except for the minister or the Aids. You'll put down the old brown
+LINE 44: tea set. But you can open the little yellow crock of cherry preserves.
+LINE 45: It's time it was being used anyhow--I believe it's beginning to work.
+LINE 46: And you can cut some fruit cake and have some of the cookies and snaps."
+LINE 47: "I can just imagine myself sitting down at the head of the table and
+LINE 48: pouring out the tea," said Anne, shutting her eyes ecstatically. "And
+LINE 49: asking Diana if she takes sugar! I know she doesn't but of course I'll
+LINE 50: ask her just as if I didn't know. And then pressing her to take another
+LINE 51: piece of fruit cake and another helping of preserves. Oh, Marilla, it's
+LINE 52: a wonderful sensation just to think of it. Can I take her into the spare
+LINE 53: room to lay off her hat when she comes? And then into the parlor to
+LINE 54: sit?"
+LINE 55: "No. The sitting room will do for you and your company. But there's a
+LINE 56: bottle half full of raspberry cordial that was left over from the church
+LINE 57: social the other night. It's on the second shelf of the sitting-room
+LINE 58: closet and you and Diana can have it if you like, and a cooky to eat
+LINE 59: with it along in the afternoon, for I daresay Matthew 'll be late coming
+LINE 60: in to tea since he's hauling potatoes to the vessel."
+LINE 61: Anne flew down to the hollow, past the Dryad's Bubble and up the spruce
+LINE 62: path to Orchard Slope, to ask Diana to tea. As a result just after
+LINE 63: Marilla had driven off to Carmody, Diana came over, dressed in _her_
+LINE 64: second-best dress and looking exactly as it is proper to look when asked
+LINE 65: out to tea. At other times she was wont to run into the kitchen without
+LINE 66: knocking; but now she knocked primly at the front door. And when Anne,
+LINE 67: dressed in her second best, as primly opened it, both little girls
+LINE 68: shook hands as gravely as if they had never met before. This unnatural
+LINE 69: solemnity lasted until after Diana had been taken to the east gable to
+LINE 70: lay off her hat and then had sat for ten minutes in the sitting room,
+LINE 71: toes in position.
+LINE 72: "How is your mother?" inquired Anne politely, just as if she had not
+LINE 73: seen Mrs. Barry picking apples that morning in excellent health and
+LINE 74: spirits.
+LINE 75: "She is very well, thank you. I suppose Mr. Cuthbert is hauling potatoes
+LINE 76: to the _lily sands_ this afternoon, is he?" said Diana, who had ridden
+LINE 77: down to Mr. Harmon Andrews's that morning in Matthew's cart.
+LINE 78: "Yes. Our potato crop is very good this year. I hope your father's crop
+LINE 79: is good too."
+LINE 80: "It is fairly good, thank you. Have you picked many of your apples yet?"
+LINE 81: "Oh, ever so many," said Anne forgetting to be dignified and jumping up
+LINE 82: quickly. "Let's go out to the orchard and get some of the Red Sweetings,
+LINE 83: Diana. Marilla says we can have all that are left on the tree. Marilla
+LINE 84: is a very generous woman. She said we could have fruit cake and cherry
+LINE 85: preserves for tea. But it isn't good manners to tell your company what
+LINE 86: you are going to give them to eat, so I won't tell you what she said we
+LINE 87: could have to drink. Only it begins with an R and a C and it's bright
+LINE 88: red color. I love bright red drinks, don't you? They taste twice as good
+LINE 89: as any other color."
+LINE 90: The orchard, with its great sweeping boughs that bent to the ground
+LINE 91: with fruit, proved so delightful that the little girls spent most of the
+LINE 92: afternoon in it, sitting in a grassy corner where the frost had spared
+LINE 93: the green and the mellow autumn sunshine lingered warmly, eating apples
+LINE 94: and talking as hard as they could. Diana had much to tell Anne of what
+LINE 95: went on in school. She had to sit with Gertie Pye and she hated
+LINE 96: it; Gertie squeaked her pencil all the time and it just made
+LINE 97: her--Diana's--blood run cold; Ruby Gillis had charmed all her warts
+LINE 98: away, true's you live, with a magic pebble that old Mary Joe from the
+LINE 99: Creek gave her. You had to rub the warts with the pebble and then throw
+LINE 100: it away over your left shoulder at the time of the new moon and the
+LINE 101: warts would all go. Charlie Sloane's name was written up with Em White's
+LINE 102: on the porch wall and Em White was _awful mad_ about it; Sam Boulter had
+LINE 103: "sassed" Mr. Phillips in class and Mr. Phillips whipped him and Sam's
+LINE 104: father came down to the school and dared Mr. Phillips to lay a hand on
+LINE 105: one of his children again; and Mattie Andrews had a new red hood and a
+LINE 106: blue crossover with tassels on it and the airs she put on about it were
+LINE 107: perfectly sickening; and Lizzie Wright didn't speak to Mamie Wilson
+LINE 108: because Mamie Wilson's grown-up sister had cut out Lizzie Wright's
+LINE 109: grown-up sister with her beau; and everybody missed Anne so and wished
+LINE 110: she's come to school again; and Gilbert Blythe--
+LINE 111: But Anne didn't want to hear about Gilbert Blythe. She jumped up
+LINE 112: hurriedly and said suppose they go in and have some raspberry cordial.
+LINE 113: Anne looked on the second shelf of the room pantry but there was no
+LINE 114: bottle of raspberry cordial there. Search revealed it away back on the
+LINE 115: top shelf. Anne put it on a tray and set it on the table with a tumbler.
+LINE 116: "Now, please help yourself, Diana," she said politely. "I don't believe
+LINE 117: I'll have any just now. I don't feel as if I wanted any after all those
+LINE 118: apples."
+LINE 119: Diana poured herself out a tumblerful, looked at its bright-red hue
+LINE 120: admiringly, and then sipped it daintily.
+LINE 121: "That's awfully nice raspberry cordial, Anne," she said. "I didn't know
+LINE 122: raspberry cordial was so nice."
+LINE 123: "I'm real glad you like it. Take as much as you want. I'm going to
+LINE 124: run out and stir the fire up. There are so many responsibilities on a
+LINE 125: person's mind when they're keeping house, isn't there?"
+LINE 126: When Anne came back from the kitchen Diana was drinking her second
+LINE 127: glassful of cordial; and, being entreated thereto by Anne, she offered
+LINE 128: no particular objection to the drinking of a third. The tumblerfuls were
+LINE 129: generous ones and the raspberry cordial was certainly very nice.
+LINE 130: "The nicest I ever drank," said Diana. "It's ever so much nicer than
+LINE 131: Mrs. Lynde's, although she brags of hers so much. It doesn't taste a bit
+LINE 132: like hers."
+LINE 133: "I should think Marilla's raspberry cordial would prob'ly be much nicer
+LINE 134: than Mrs. Lynde's," said Anne loyally. "Marilla is a famous cook. She is
+LINE 135: trying to teach me to cook but I assure you, Diana, it is uphill work.
+LINE 136: There's so little scope for imagination in cookery. You just have to go
+LINE 137: by rules. The last time I made a cake I forgot to put the flour in. I
+LINE 138: was thinking the loveliest story about you and me, Diana. I thought you
+LINE 139: were desperately ill with smallpox and everybody deserted you, but I
+LINE 140: went boldly to your bedside and nursed you back to life; and then I took
+LINE 141: the smallpox and died and I was buried under those poplar trees in the
+LINE 142: graveyard and you planted a rosebush by my grave and watered it with
+LINE 143: your tears; and you never, never forgot the friend of your youth who
+LINE 144: sacrificed her life for you. Oh, it was such a pathetic tale, Diana.
+LINE 145: The tears just rained down over my cheeks while I mixed the cake. But
+LINE 146: I forgot the flour and the cake was a dismal failure. Flour is so
+LINE 147: essential to cakes, you know. Marilla was very cross and I don't wonder.
+LINE 148: I'm a great trial to her. She was terribly mortified about the pudding
+LINE 149: sauce last week. We had a plum pudding for dinner on Tuesday and there
+LINE 150: was half the pudding and a pitcherful of sauce left over. Marilla said
+LINE 151: there was enough for another dinner and told me to set it on the pantry
+LINE 152: shelf and cover it. I meant to cover it just as much as could be, Diana,
+LINE 153: but when I carried it in I was imagining I was a nun--of course I'm a
+LINE 154: Protestant but I imagined I was a Catholic--taking the veil to bury a
+LINE 155: broken heart in cloistered seclusion; and I forgot all about covering
+LINE 156: the pudding sauce. I thought of it next morning and ran to the pantry.
+LINE 157: Diana, fancy if you can my extreme horror at finding a mouse drowned in
+LINE 158: that pudding sauce! I lifted the mouse out with a spoon and threw it out
+LINE 159: in the yard and then I washed the spoon in three waters. Marilla was out
+LINE 160: milking and I fully intended to ask her when she came in if I'd give the
+LINE 161: sauce to the pigs; but when she did come in I was imagining that I was
+LINE 162: a frost fairy going through the woods turning the trees red and yellow,
+LINE 163: whichever they wanted to be, so I never thought about the pudding sauce
+LINE 164: again and Marilla sent me out to pick apples. Well, Mr. and Mrs. Chester
+LINE 165: Ross from Spencervale came here that morning. You know they are very
+LINE 166: stylish people, especially Mrs. Chester Ross. When Marilla called me in
+LINE 167: dinner was all ready and everybody was at the table. I tried to be as
+LINE 168: polite and dignified as I could be, for I wanted Mrs. Chester Ross to
+LINE 169: think I was a ladylike little girl even if I wasn't pretty. Everything
+LINE 170: went right until I saw Marilla coming with the plum pudding in one hand
+LINE 171: and the pitcher of pudding sauce _warmed up_, in the other. Diana, that
+LINE 172: was a terrible moment. I remembered everything and I just stood up in
+LINE 173: my place and shrieked out 'Marilla, you mustn't use that pudding sauce.
+LINE 174: There was a mouse drowned in it. I forgot to tell you before.' Oh,
+LINE 175: Diana, I shall never forget that awful moment if I live to be a hundred.
+LINE 176: Mrs. Chester Ross just _looked_ at me and I thought I would sink through
+LINE 177: the floor with mortification. She is such a perfect housekeeper and
+LINE 178: fancy what she must have thought of us. Marilla turned red as fire but
+LINE 179: she never said a word--then. She just carried that sauce and pudding out
+LINE 180: and brought in some strawberry preserves. She even offered me some, but
+LINE 181: I couldn't swallow a mouthful. It was like heaping coals of fire on
+LINE 182: my head. After Mrs. Chester Ross went away, Marilla gave me a dreadful
+LINE 183: scolding. Why, Diana, what is the matter?"
+LINE 184: Diana had stood up very unsteadily; then she sat down again, putting her
+LINE 185: hands to her head.
+LINE 186: "I'm--I'm awful sick," she said, a little thickly. "I--I--must go right
+LINE 187: home."
+LINE 188: "Oh, you mustn't dream of going home without your tea," cried Anne in
+LINE 189: distress. "I'll get it right off--I'll go and put the tea down this very
+LINE 190: minute."
+LINE 191: "I must go home," repeated Diana, stupidly but determinedly.
+LINE 192: "Let me get you a lunch anyhow," implored Anne. "Let me give you a bit
+LINE 193: of fruit cake and some of the cherry preserves. Lie down on the sofa for
+LINE 194: a little while and you'll be better. Where do you feel bad?"
+LINE 195: "I must go home," said Diana, and that was all she would say. In vain
+LINE 196: Anne pleaded.
+LINE 197: "I never heard of company going home without tea," she mourned. "Oh,
+LINE 198: Diana, do you suppose that it's possible you're really taking the
+LINE 199: smallpox? If you are I'll go and nurse you, you can depend on that. I'll
+LINE 200: never forsake you. But I do wish you'd stay till after tea. Where do you
+LINE 201: feel bad?"
+LINE 202: "I'm awful dizzy," said Diana.
+LINE 203: And indeed, she walked very dizzily. Anne, with tears of disappointment
+LINE 204: in her eyes, got Diana's hat and went with her as far as the Barry
+LINE 205: yard fence. Then she wept all the way back to Green Gables, where she
+LINE 206: sorrowfully put the remainder of the raspberry cordial back into the
+LINE 207: pantry and got tea ready for Matthew and Jerry, with all the zest gone
+LINE 208: out of the performance.
+LINE 209: The next day was Sunday and as the rain poured down in torrents from
+LINE 210: dawn till dusk Anne did not stir abroad from Green Gables. Monday
+LINE 211: afternoon Marilla sent her down to Mrs. Lynde's on an errand. In a very
+LINE 212: short space of time Anne came flying back up the lane with tears rolling
+LINE 213: down her cheeks. Into the kitchen she dashed and flung herself face
+LINE 214: downward on the sofa in an agony.
+LINE 215: "Whatever has gone wrong now, Anne?" queried Marilla in doubt and
+LINE 216: dismay. "I do hope you haven't gone and been saucy to Mrs. Lynde again."
+LINE 217: No answer from Anne save more tears and stormier sobs!
+LINE 218: "Anne Shirley, when I ask you a question I want to be answered. Sit
+LINE 219: right up this very minute and tell me what you are crying about."
+LINE 220: Anne sat up, tragedy personified.
+LINE 221: "Mrs. Lynde was up to see Mrs. Barry today and Mrs. Barry was in an
+LINE 222: awful state," she wailed. "She says that I set Diana _drunk_ Saturday
+LINE 223: and sent her home in a disgraceful condition. And she says I must be a
+LINE 224: thoroughly bad, wicked little girl and she's never, never going to let
+LINE 225: Diana play with me again. Oh, Marilla, I'm just overcome with woe."
+LINE 226: Marilla stared in blank amazement.
+LINE 227: "Set Diana drunk!" she said when she found her voice. "Anne are you or
+LINE 228: Mrs. Barry crazy? What on earth did you give her?"
+LINE 229: "Not a thing but raspberry cordial," sobbed Anne. "I never thought
+LINE 230: raspberry cordial would set people drunk, Marilla--not even if they
+LINE 231: drank three big tumblerfuls as Diana did. Oh, it sounds so--so--like
+LINE 232: Mrs. Thomas's husband! But I didn't mean to set her drunk."
+LINE 233: "Drunk fiddlesticks!" said Marilla, marching to the sitting room pantry.
+LINE 234: There on the shelf was a bottle which she at once recognized as one
+LINE 235: containing some of her three-year-old homemade currant wine for which
+LINE 236: she was celebrated in Avonlea, although certain of the stricter sort,
+LINE 237: Mrs. Barry among them, disapproved strongly of it. And at the same time
+LINE 238: Marilla recollected that she had put the bottle of raspberry cordial
+LINE 239: down in the cellar instead of in the pantry as she had told Anne.
+LINE 240: She went back to the kitchen with the wine bottle in her hand. Her face
+LINE 241: was twitching in spite of herself.
+LINE 242: "Anne, you certainly have a genius for getting into trouble. You went
+LINE 243: and gave Diana currant wine instead of raspberry cordial. Didn't you
+LINE 244: know the difference yourself?"
+LINE 245: "I never tasted it," said Anne. "I thought it was the cordial. I meant
+LINE 246: to be so--so--hospitable. Diana got awfully sick and had to go home.
+LINE 247: Mrs. Barry told Mrs. Lynde she was simply dead drunk. She just laughed
+LINE 248: silly-like when her mother asked her what was the matter and went to
+LINE 249: sleep and slept for hours. Her mother smelled her breath and knew she
+LINE 250: was drunk. She had a fearful headache all day yesterday. Mrs. Barry is
+LINE 251: so indignant. She will never believe but what I did it on purpose."
+LINE 252: "I should think she would better punish Diana for being so greedy as to
+LINE 253: drink three glassfuls of anything," said Marilla shortly. "Why, three
+LINE 254: of those big glasses would have made her sick even if it had only been
+LINE 255: cordial. Well, this story will be a nice handle for those folks who are
+LINE 256: so down on me for making currant wine, although I haven't made any for
+LINE 257: three years ever since I found out that the minister didn't approve. I
+LINE 258: just kept that bottle for sickness. There, there, child, don't cry. I
+LINE 259: can't see as you were to blame although I'm sorry it happened so."
+LINE 260: "I must cry," said Anne. "My heart is broken. The stars in their courses
+LINE 261: fight against me, Marilla. Diana and I are parted forever. Oh, Marilla,
+LINE 262: I little dreamed of this when first we swore our vows of friendship."
+LINE 263: "Don't be foolish, Anne. Mrs. Barry will think better of it when she
+LINE 264: finds you're not to blame. I suppose she thinks you've done it for a
+LINE 265: silly joke or something of that sort. You'd best go up this evening and
+LINE 266: tell her how it was."
+LINE 267: "My courage fails me at the thought of facing Diana's injured mother,"
+LINE 268: sighed Anne. "I wish you'd go, Marilla. You're so much more dignified
+LINE 269: than I am. Likely she'd listen to you quicker than to me."
+LINE 270: "Well, I will," said Marilla, reflecting that it would probably be the
+LINE 271: wiser course. "Don't cry any more, Anne. It will be all right."
+LINE 272: Marilla had changed her mind about it being all right by the time she
+LINE 273: got back from Orchard Slope. Anne was watching for her coming and flew
+LINE 274: to the porch door to meet her.
+LINE 275: "Oh, Marilla, I know by your face that it's been no use," she said
+LINE 276: sorrowfully. "Mrs. Barry won't forgive me?"
+LINE 277: "Mrs. Barry indeed!" snapped Marilla. "Of all the unreasonable women
+LINE 278: I ever saw she's the worst. I told her it was all a mistake and you
+LINE 279: weren't to blame, but she just simply didn't believe me. And she rubbed
+LINE 280: it well in about my currant wine and how I'd always said it couldn't
+LINE 281: have the least effect on anybody. I just told her plainly that currant
+LINE 282: wine wasn't meant to be drunk three tumblerfuls at a time and that if a
+LINE 283: child I had to do with was so greedy I'd sober her up with a right good
+LINE 284: spanking."
+LINE 285: Marilla whisked into the kitchen, grievously disturbed, leaving a very
+LINE 286: much distracted little soul in the porch behind her. Presently Anne
+LINE 287: stepped out bareheaded into the chill autumn dusk; very determinedly and
+LINE 288: steadily she took her way down through the sere clover field over the
+LINE 289: log bridge and up through the spruce grove, lighted by a pale little
+LINE 290: moon hanging low over the western woods. Mrs. Barry, coming to the door
+LINE 291: in answer to a timid knock, found a white-lipped eager-eyed suppliant on
+LINE 292: the doorstep.
+LINE 293: Her face hardened. Mrs. Barry was a woman of strong prejudices and
+LINE 294: dislikes, and her anger was of the cold, sullen sort which is always
+LINE 295: hardest to overcome. To do her justice, she really believed Anne had
+LINE 296: made Diana drunk out of sheer malice prepense, and she was honestly
+LINE 297: anxious to preserve her little daughter from the contamination of
+LINE 298: further intimacy with such a child.
+LINE 299: "What do you want?" she said stiffly.
+LINE 300: Anne clasped her hands.
+LINE 301: "Oh, Mrs. Barry, please forgive me. I did not mean to--to--intoxicate
+LINE 302: Diana. How could I? Just imagine if you were a poor little orphan girl
+LINE 303: that kind people had adopted and you had just one bosom friend in all
+LINE 304: the world. Do you think you would intoxicate her on purpose? I thought
+LINE 305: it was only raspberry cordial. I was firmly convinced it was raspberry
+LINE 306: cordial. Oh, please don't say that you won't let Diana play with me any
+LINE 307: more. If you do you will cover my life with a dark cloud of woe."
+LINE 308: This speech which would have softened good Mrs. Lynde's heart in a
+LINE 309: twinkling, had no effect on Mrs. Barry except to irritate her still
+LINE 310: more. She was suspicious of Anne's big words and dramatic gestures and
+LINE 311: imagined that the child was making fun of her. So she said, coldly and
+LINE 312: cruelly:
+LINE 313: "I don't think you are a fit little girl for Diana to associate with.
+LINE 314: You'd better go home and behave yourself."
+LINE 315: Anne's lips quivered.
+LINE 316: "Won't you let me see Diana just once to say farewell?" she implored.
+LINE 317: "Diana has gone over to Carmody with her father," said Mrs. Barry, going
+LINE 318: in and shutting the door.
+LINE 319: Anne went back to Green Gables calm with despair.
+LINE 320: "My last hope is gone," she told Marilla. "I went up and saw Mrs. Barry
+LINE 321: myself and she treated me very insultingly. Marilla, I do _not_ think she
+LINE 322: is a well-bred woman. There is nothing more to do except to pray and I
+LINE 323: haven't much hope that that'll do much good because, Marilla, I do not
+LINE 324: believe that God Himself can do very much with such an obstinate person
+LINE 325: as Mrs. Barry."
+LINE 326: "Anne, you shouldn't say such things" rebuked Marilla, striving to
+LINE 327: overcome that unholy tendency to laughter which she was dismayed to find
+LINE 328: growing upon her. And indeed, when she told the whole story to Matthew
+LINE 329: that night, she did laugh heartily over Anne's tribulations.
+LINE 330: But when she slipped into the east gable before going to bed and found
+LINE 331: that Anne had cried herself to sleep an unaccustomed softness crept into
+LINE 332: her face.
+LINE 333: "Poor little soul," she murmured, lifting a loose curl of hair from the
+LINE 334: child's tear-stained face. Then she bent down and kissed the flushed
+LINE 335: cheek on the pillow.

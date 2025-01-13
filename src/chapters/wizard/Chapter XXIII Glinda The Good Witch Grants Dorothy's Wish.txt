@@ -1,0 +1,114 @@
+LINE 1: Before they went to see Glinda, however, they were taken to a room of
+LINE 2: the Castle, where Dorothy washed her face and combed her hair, and the
+LINE 3: Lion shook the dust out of his mane, and the Scarecrow patted himself
+LINE 4: into his best shape, and the Woodman polished his tin and oiled his
+LINE 5: joints.
+LINE 6: When they were all quite presentable they followed the soldier girl
+LINE 7: into a big room where the Witch Glinda sat upon a throne of rubies.
+LINE 8: She was both beautiful and young to their eyes. Her hair was a rich red
+LINE 9: in color and fell in flowing ringlets over her shoulders. Her dress was
+LINE 10: pure white but her eyes were blue, and they looked kindly upon the
+LINE 11: little girl.
+LINE 12: "What can I do for you, my child?" she asked.
+LINE 13: Dorothy told the Witch all her story: how the cyclone had brought her
+LINE 14: to the Land of Oz, how she had found her companions, and of the
+LINE 15: wonderful adventures they had met with.
+LINE 16: "My greatest wish now," she added, "is to get back to Kansas, for Aunt
+LINE 17: Em will surely think something dreadful has happened to me, and that
+LINE 18: will make her put on mourning; and unless the crops are better this
+LINE 19: year than they were last, I am sure Uncle Henry cannot afford it."
+LINE 20: Glinda leaned forward and kissed the sweet, upturned face of the loving
+LINE 21: little girl.
+LINE 22: "Bless your dear heart," she said, "I am sure I can tell you of a way
+LINE 23: to get back to Kansas." Then she added, "But, if I do, you must give me
+LINE 24: the Golden Cap."
+LINE 25: "Willingly!" exclaimed Dorothy; "indeed, it is of no use to me now, and
+LINE 26: when you have it you can command the Winged Monkeys three times."
+LINE 27: "And I think I shall need their service just those three times,"
+LINE 28: answered Glinda, smiling.
+LINE 29: Dorothy then gave her the Golden Cap, and the Witch said to the
+LINE 30: Scarecrow, "What will you do when Dorothy has left us?"
+LINE 31: "I will return to the Emerald City," he replied, "for Oz has made me
+LINE 32: its ruler and the people like me. The only thing that worries me is how
+LINE 33: to cross the hill of the Hammer-Heads."
+LINE 34: "By means of the Golden Cap I shall command the Winged Monkeys to carry
+LINE 35: you to the gates of the Emerald City," said Glinda, "for it would be a
+LINE 36: shame to deprive the people of so wonderful a ruler."
+LINE 37: "Am I really wonderful?" asked the Scarecrow.
+LINE 38: "You are unusual," replied Glinda.
+LINE 39: Turning to the Tin Woodman, she asked, "What will become of you when
+LINE 40: Dorothy leaves this country?"
+LINE 41: He leaned on his axe and thought a moment. Then he said, "The Winkies
+LINE 42: were very kind to me, and wanted me to rule over them after the Wicked
+LINE 43: Witch died. I am fond of the Winkies, and if I could get back again to
+LINE 44: the Country of the West, I should like nothing better than to rule over
+LINE 45: them forever."
+LINE 46: "My second command to the Winged Monkeys," said Glinda "will be that
+LINE 47: they carry you safely to the land of the Winkies. Your brain may not be
+LINE 48: so large to look at as those of the Scarecrow, but you are really
+LINE 49: brighter than he is—when you are well polished—and I am sure you will
+LINE 50: rule the Winkies wisely and well."
+LINE 51: Then the Witch looked at the big, shaggy Lion and asked, "When Dorothy
+LINE 52: has returned to her own home, what will become of you?"
+LINE 53: "Over the hill of the Hammer-Heads," he answered, "lies a grand old
+LINE 54: forest, and all the beasts that live there have made me their King. If
+LINE 55: I could only get back to this forest, I would pass my life very happily
+LINE 56: there."
+LINE 57: "My third command to the Winged Monkeys," said Glinda, "shall be to
+LINE 58: carry you to your forest. Then, having used up the powers of the Golden
+LINE 59: Cap, I shall give it to the King of the Monkeys, that he and his band
+LINE 60: may thereafter be free for evermore."
+LINE 61: The Scarecrow and the Tin Woodman and the Lion now thanked the Good
+LINE 62: Witch earnestly for her kindness; and Dorothy exclaimed:
+LINE 63: "You are certainly as good as you are beautiful! But you have not yet
+LINE 64: told me how to get back to Kansas."
+LINE 65: "Your Silver Shoes will carry you over the desert," replied Glinda. "If
+LINE 66: you had known their power you could have gone back to your Aunt Em the
+LINE 67: very first day you came to this country."
+LINE 68: "But then I should not have had my wonderful brains!" cried the
+LINE 69: Scarecrow. "I might have passed my whole life in the farmer's
+LINE 70: cornfield."
+LINE 71: "And I should not have had my lovely heart," said the Tin Woodman. "I
+LINE 72: might have stood and rusted in the forest till the end of the world."
+LINE 73: "And I should have lived a coward forever," declared the Lion, "and no
+LINE 74: beast in all the forest would have had a good word to say to me."
+LINE 75: "This is all true," said Dorothy, "and I am glad I was of use to these
+LINE 76: good friends. But now that each of them has had what he most desired,
+LINE 77: and each is happy in having a kingdom to rule besides, I think I should
+LINE 78: like to go back to Kansas."
+LINE 79: "The Silver Shoes," said the Good Witch, "have wonderful powers. And
+LINE 80: one of the most curious things about them is that they can carry you to
+LINE 81: any place in the world in three steps, and each step will be made in
+LINE 82: the wink of an eye. All you have to do is to knock the heels together
+LINE 83: three times and command the shoes to carry you wherever you wish to
+LINE 84: go."
+LINE 85: "If that is so," said the child joyfully, "I will ask them to carry me
+LINE 86: back to Kansas at once."
+LINE 87: She threw her arms around the Lion's neck and kissed him, patting his
+LINE 88: big head tenderly. Then she kissed the Tin Woodman, who was weeping in
+LINE 89: a way most dangerous to his joints. But she hugged the soft, stuffed
+LINE 90: body of the Scarecrow in her arms instead of kissing his painted face,
+LINE 91: and found she was crying herself at this sorrowful parting from her
+LINE 92: loving comrades.
+LINE 93: Glinda the Good stepped down from her ruby throne to give the little
+LINE 94: girl a good-bye kiss, and Dorothy thanked her for all the kindness she
+LINE 95: had shown to her friends and herself.
+LINE 96: Dorothy now took Toto up solemnly in her arms, and having said one last
+LINE 97: good-bye she clapped the heels of her shoes together three times,
+LINE 98: saying:
+LINE 99: "Take me home to Aunt Em!"
+LINE 100: Instantly she was whirling through the air, so swiftly that all she
+LINE 101: could see or feel was the wind whistling past her ears.
+LINE 102: The Silver Shoes took but three steps, and then she stopped so suddenly
+LINE 103: that she rolled over upon the grass several times before she knew where
+LINE 104: she was.
+LINE 105: At length, however, she sat up and looked about her.
+LINE 106: "Good gracious!" she cried.
+LINE 107: For she was sitting on the broad Kansas prairie, and just before her
+LINE 108: was the new farmhouse Uncle Henry built after the cyclone had carried
+LINE 109: away the old one. Uncle Henry was milking the cows in the barnyard, and
+LINE 110: Toto had jumped out of her arms and was running toward the barn,
+LINE 111: barking furiously.
+LINE 112: Dorothy stood up and found she was in her stocking-feet. For the Silver
+LINE 113: Shoes had fallen off in her flight through the air, and were lost
+LINE 114: forever in the desert.

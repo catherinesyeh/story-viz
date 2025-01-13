@@ -1,0 +1,135 @@
+LINE 1: My hands had been dressed twice or thrice in the night, and again in
+LINE 2: the morning. My left arm was a good deal burned to the elbow, and, less
+LINE 3: severely, as high as the shoulder; it was very painful, but the flames
+LINE 4: had set in that direction, and I felt thankful it was no worse. My
+LINE 5: right hand was not so badly burnt but that I could move the fingers. It
+LINE 6: was bandaged, of course, but much less inconveniently than my left hand
+LINE 7: and arm; those I carried in a sling; and I could only wear my coat like
+LINE 8: a cloak, loose over my shoulders and fastened at the neck. My hair had
+LINE 9: been caught by the fire, but not my head or face.
+LINE 10: When Herbert had been down to Hammersmith and seen his father, he came
+LINE 11: back to me at our chambers, and devoted the day to attending on me. He
+LINE 12: was the kindest of nurses, and at stated times took off the bandages,
+LINE 13: and steeped them in the cooling liquid that was kept ready, and put
+LINE 14: them on again, with a patient tenderness that I was deeply grateful
+LINE 15: for.
+LINE 16: At first, as I lay quiet on the sofa, I found it painfully difficult, I
+LINE 17: might say impossible, to get rid of the impression of the glare of the
+LINE 18: flames, their hurry and noise, and the fierce burning smell. If I dozed
+LINE 19: for a minute, I was awakened by Miss Havisham's cries, and by her
+LINE 20: running at me with all that height of fire above her head. This pain of
+LINE 21: the mind was much harder to strive against than any bodily pain I
+LINE 22: suffered; and Herbert, seeing that, did his utmost to hold my attention
+LINE 23: engaged.
+LINE 24: Neither of us spoke of the boat, but we both thought of it. That was
+LINE 25: made apparent by our avoidance of the subject, and by our
+LINE 26: agreeing—without agreement—to make my recovery of the use of my hands a
+LINE 27: question of so many hours, not of so many weeks.
+LINE 28: My first question when I saw Herbert had been of course, whether all
+LINE 29: was well down the river? As he replied in the affirmative, with perfect
+LINE 30: confidence and cheerfulness, we did not resume the subject until the
+LINE 31: day was wearing away. But then, as Herbert changed the bandages, more
+LINE 32: by the light of the fire than by the outer light, he went back to it
+LINE 33: spontaneously.
+LINE 34: "I sat with Provis last night, Handel, two good hours."
+LINE 35: "Where was Clara?"
+LINE 36: "Dear little thing!" said Herbert. "She was up and down with
+LINE 37: Gruffandgrim all the evening. He was perpetually pegging at the floor
+LINE 38: the moment she left his sight. I doubt if he can hold out long, though.
+LINE 39: What with rum and pepper,—and pepper and rum,—I should think his
+LINE 40: pegging must be nearly over."
+LINE 41: "And then you will be married, Herbert?"
+LINE 42: "How can I take care of the dear child otherwise?—Lay your arm out upon
+LINE 43: the back of the sofa, my dear boy, and I'll sit down here, and get the
+LINE 44: bandage off so gradually that you shall not know when it comes. I was
+LINE 45: speaking of Provis. Do you know, Handel, he improves?"
+LINE 46: "I said to you I thought he was softened when I last saw him."
+LINE 47: "So you did. And so he is. He was very communicative last night, and
+LINE 48: told me more of his life. You remember his breaking off here about some
+LINE 49: woman that he had had great trouble with.—Did I hurt you?"
+LINE 50: I had started, but not under his touch. His words had given me a start.
+LINE 51: "I had forgotten that, Herbert, but I remember it now you speak of it."
+LINE 52: "Well! He went into that part of his life, and a dark wild part it is.
+LINE 53: Shall I tell you? Or would it worry you just now?"
+LINE 54: "Tell me by all means. Every word."
+LINE 55: Herbert bent forward to look at me more nearly, as if my reply had been
+LINE 56: rather more hurried or more eager than he could quite account for.
+LINE 57: "Your head is cool?" he said, touching it.
+LINE 58: "Quite," said I. "Tell me what Provis said, my dear Herbert."
+LINE 59: "It seems," said Herbert, "—there's a bandage off most charmingly, and
+LINE 60: now comes the cool one,—makes you shrink at first, my poor dear fellow,
+LINE 61: don't it? but it will be comfortable presently,—it seems that the woman
+LINE 62: was a young woman, and a jealous woman, and a revengeful woman;
+LINE 63: revengeful, Handel, to the last degree."
+LINE 64: "To what last degree?"
+LINE 65: "Murder.—Does it strike too cold on that sensitive place?"
+LINE 66: "I don't feel it. How did she murder? Whom did she murder?"
+LINE 67: "Why, the deed may not have merited quite so terrible a name," said
+LINE 68: Herbert, "but, she was tried for it, and Mr. Jaggers defended her, and
+LINE 69: the reputation of that defence first made his name known to Provis. It
+LINE 70: was another and a stronger woman who was the victim, and there had been
+LINE 71: a struggle—in a barn. Who began it, or how fair it was, or how unfair,
+LINE 72: may be doubtful; but how it ended is certainly not doubtful, for the
+LINE 73: victim was found throttled."
+LINE 74: "Was the woman brought in guilty?"
+LINE 75: "No; she was acquitted.—My poor Handel, I hurt you!"
+LINE 76: "It is impossible to be gentler, Herbert. Yes? What else?"
+LINE 77: "This acquitted young woman and Provis had a little child; a little
+LINE 78: child of whom Provis was exceedingly fond. On the evening of the very
+LINE 79: night when the object of her jealousy was strangled as I tell you, the
+LINE 80: young woman presented herself before Provis for one moment, and swore
+LINE 81: that she would destroy the child (which was in her possession), and he
+LINE 82: should never see it again; then she vanished.—There's the worst arm
+LINE 83: comfortably in the sling once more, and now there remains but the right
+LINE 84: hand, which is a far easier job. I can do it better by this light than
+LINE 85: by a stronger, for my hand is steadiest when I don't see the poor
+LINE 86: blistered patches too distinctly.—You don't think your breathing is
+LINE 87: affected, my dear boy? You seem to breathe quickly."
+LINE 88: "Perhaps I do, Herbert. Did the woman keep her oath?"
+LINE 89: "There comes the darkest part of Provis's life. She did."
+LINE 90: "That is, he says she did."
+LINE 91: "Why, of course, my dear boy," returned Herbert, in a tone of surprise,
+LINE 92: and again bending forward to get a nearer look at me. "He says it all.
+LINE 93: I have no other information."
+LINE 94: "No, to be sure."
+LINE 95: "Now, whether," pursued Herbert, "he had used the child's mother ill,
+LINE 96: or whether he had used the child's mother well, Provis doesn't say; but
+LINE 97: she had shared some four or five years of the wretched life he
+LINE 98: described to us at this fireside, and he seems to have felt pity for
+LINE 99: her, and forbearance towards her. Therefore, fearing he should be
+LINE 100: called upon to depose about this destroyed child, and so be the cause
+LINE 101: of her death, he hid himself (much as he grieved for the child), kept
+LINE 102: himself dark, as he says, out of the way and out of the trial, and was
+LINE 103: only vaguely talked of as a certain man called Abel, out of whom the
+LINE 104: jealousy arose. After the acquittal she disappeared, and thus he lost
+LINE 105: the child and the child's mother."
+LINE 106: "I want to ask—"
+LINE 107: "A moment, my dear boy, and I have done. That evil genius, Compeyson,
+LINE 108: the worst of scoundrels among many scoundrels, knowing of his keeping
+LINE 109: out of the way at that time and of his reasons for doing so, of course
+LINE 110: afterwards held the knowledge over his head as a means of keeping him
+LINE 111: poorer and working him harder. It was clear last night that this barbed
+LINE 112: the point of Provis's animosity."
+LINE 113: "I want to know," said I, "and particularly, Herbert, whether he told
+LINE 114: you when this happened?"
+LINE 115: "Particularly? Let me remember, then, what he said as to that. His
+LINE 116: expression was, 'a round score o' year ago, and a'most directly after I
+LINE 117: took up wi' Compeyson.' How old were you when you came upon him in the
+LINE 118: little churchyard?"
+LINE 119: "I think in my seventh year."
+LINE 120: "Ay. It had happened some three or four years then, he said, and you
+LINE 121: brought into his mind the little girl so tragically lost, who would
+LINE 122: have been about your age."
+LINE 123: "Herbert," said I, after a short silence, in a hurried way, "can you
+LINE 124: see me best by the light of the window, or the light of the fire?"
+LINE 125: "By the firelight," answered Herbert, coming close again.
+LINE 126: "Look at me."
+LINE 127: "I do look at you, my dear boy."
+LINE 128: "Touch me."
+LINE 129: "I do touch you, my dear boy."
+LINE 130: "You are not afraid that I am in any fever, or that my head is much
+LINE 131: disordered by the accident of last night?"
+LINE 132: "N-no, my dear boy," said Herbert, after taking time to examine me.
+LINE 133: "You are rather excited, but you are quite yourself."
+LINE 134: "I know I am quite myself. And the man we have in hiding down the
+LINE 135: river, is Estella's Father."

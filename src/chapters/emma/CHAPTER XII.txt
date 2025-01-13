@@ -1,0 +1,282 @@
+LINE 1: Mr. Knightley was to dine with them—rather against the inclination of
+LINE 2: Mr. Woodhouse, who did not like that any one should share with him in
+LINE 3: Isabella's first day. Emma's sense of right however had decided it; and
+LINE 4: besides the consideration of what was due to each brother, she had
+LINE 5: particular pleasure, from the circumstance of the late disagreement
+LINE 6: between Mr. Knightley and herself, in procuring him the proper
+LINE 7: invitation.
+LINE 8: She hoped they might now become friends again. She thought it was time
+LINE 9: to make up. Making-up indeed would not do. _She_ certainly had not been
+LINE 10: in the wrong, and _he_ would never own that he had. Concession must be
+LINE 11: out of the question; but it was time to appear to forget that they had
+LINE 12: ever quarrelled; and she hoped it might rather assist the restoration
+LINE 13: of friendship, that when he came into the room she had one of the
+LINE 14: children with her—the youngest, a nice little girl about eight months
+LINE 15: old, who was now making her first visit to Hartfield, and very happy to
+LINE 16: be danced about in her aunt's arms. It did assist; for though he began
+LINE 17: with grave looks and short questions, he was soon led on to talk of
+LINE 18: them all in the usual way, and to take the child out of her arms with
+LINE 19: all the unceremoniousness of perfect amity. Emma felt they were friends
+LINE 20: again; and the conviction giving her at first great satisfaction, and
+LINE 21: then a little sauciness, she could not help saying, as he was admiring
+LINE 22: the baby,
+LINE 23: "What a comfort it is, that we think alike about our nephews and
+LINE 24: nieces. As to men and women, our opinions are sometimes very different;
+LINE 25: but with regard to these children, I observe we never disagree."
+LINE 26: "If you were as much guided by nature in your estimate of men and
+LINE 27: women, and as little under the power of fancy and whim in your dealings
+LINE 28: with them, as you are where these children are concerned, we might
+LINE 29: always think alike."
+LINE 30: "To be sure—our discordancies must always arise from my being in the
+LINE 31: wrong."
+LINE 32: "Yes," said he, smiling—"and reason good. I was sixteen years old when
+LINE 33: you were born."
+LINE 34: "A material difference then," she replied—"and no doubt you were much
+LINE 35: my superior in judgment at that period of our lives; but does not the
+LINE 36: lapse of one-and-twenty years bring our understandings a good deal
+LINE 37: nearer?"
+LINE 38: "Yes—a good deal _nearer_."
+LINE 39: "But still, not near enough to give me a chance of being right, if we
+LINE 40: think differently."
+LINE 41: "I have still the advantage of you by sixteen years' experience, and by
+LINE 42: not being a pretty young woman and a spoiled child. Come, my dear Emma,
+LINE 43: let us be friends, and say no more about it. Tell your aunt, little
+LINE 44: Emma, that she ought to set you a better example than to be renewing
+LINE 45: old grievances, and that if she were not wrong before, she is now."
+LINE 46: "That's true," she cried—"very true. Little Emma, grow up a better
+LINE 47: woman than your aunt. Be infinitely cleverer and not half so conceited.
+LINE 48: Now, Mr. Knightley, a word or two more, and I have done. As far as good
+LINE 49: intentions went, we were _both_ right, and I must say that no effects
+LINE 50: on my side of the argument have yet proved wrong. I only want to know
+LINE 51: that Mr. Martin is not very, very bitterly disappointed."
+LINE 52: "A man cannot be more so," was his short, full answer.
+LINE 53: "Ah!—Indeed I am very sorry.—Come, shake hands with me."
+LINE 54: This had just taken place and with great cordiality, when John
+LINE 55: Knightley made his appearance, and "How d'ye do, George?" and "John,
+LINE 56: how are you?" succeeded in the true English style, burying under a
+LINE 57: calmness that seemed all but indifference, the real attachment which
+LINE 58: would have led either of them, if requisite, to do every thing for the
+LINE 59: good of the other.
+LINE 60: The evening was quiet and conversable, as Mr. Woodhouse declined cards
+LINE 61: entirely for the sake of comfortable talk with his dear Isabella, and
+LINE 62: the little party made two natural divisions; on one side he and his
+LINE 63: daughter; on the other the two Mr. Knightleys; their subjects totally
+LINE 64: distinct, or very rarely mixing—and Emma only occasionally joining in
+LINE 65: one or the other.
+LINE 66: The brothers talked of their own concerns and pursuits, but principally
+LINE 67: of those of the elder, whose temper was by much the most communicative,
+LINE 68: and who was always the greater talker. As a magistrate, he had
+LINE 69: generally some point of law to consult John about, or, at least, some
+LINE 70: curious anecdote to give; and as a farmer, as keeping in hand the
+LINE 71: home-farm at Donwell, he had to tell what every field was to bear next
+LINE 72: year, and to give all such local information as could not fail of being
+LINE 73: interesting to a brother whose home it had equally been the longest
+LINE 74: part of his life, and whose attachments were strong. The plan of a
+LINE 75: drain, the change of a fence, the felling of a tree, and the
+LINE 76: destination of every acre for wheat, turnips, or spring corn, was
+LINE 77: entered into with as much equality of interest by John, as his cooler
+LINE 78: manners rendered possible; and if his willing brother ever left him any
+LINE 79: thing to inquire about, his inquiries even approached a tone of
+LINE 80: eagerness.
+LINE 81: While they were thus comfortably occupied, Mr. Woodhouse was enjoying a
+LINE 82: full flow of happy regrets and fearful affection with his daughter.
+LINE 83: "My poor dear Isabella," said he, fondly taking her hand, and
+LINE 84: interrupting, for a few moments, her busy labours for some one of her
+LINE 85: five children—"How long it is, how terribly long since you were here!
+LINE 86: And how tired you must be after your journey! You must go to bed early,
+LINE 87: my dear—and I recommend a little gruel to you before you go.—You and I
+LINE 88: will have a nice basin of gruel together. My dear Emma, suppose we all
+LINE 89: have a little gruel."
+LINE 90: Emma could not suppose any such thing, knowing as she did, that both
+LINE 91: the Mr. Knightleys were as unpersuadable on that article as
+LINE 92: herself;—and two basins only were ordered. After a little more
+LINE 93: discourse in praise of gruel, with some wondering at its not being
+LINE 94: taken every evening by every body, he proceeded to say, with an air of
+LINE 95: grave reflection,
+LINE 96: "It was an awkward business, my dear, your spending the autumn at South
+LINE 97: End instead of coming here. I never had much opinion of the sea air."
+LINE 98: "Mr. Wingfield most strenuously recommended it, sir—or we should not
+LINE 99: have gone. He recommended it for all the children, but particularly for
+LINE 100: the weakness in little Bella's throat,—both sea air and bathing."
+LINE 101: "Ah! my dear, but Perry had many doubts about the sea doing her any
+LINE 102: good; and as to myself, I have been long perfectly convinced, though
+LINE 103: perhaps I never told you so before, that the sea is very rarely of use
+LINE 104: to any body. I am sure it almost killed me once."
+LINE 105: "Come, come," cried Emma, feeling this to be an unsafe subject, "I must
+LINE 106: beg you not to talk of the sea. It makes me envious and miserable;—I
+LINE 107: who have never seen it! South End is prohibited, if you please. My dear
+LINE 108: Isabella, I have not heard you make one inquiry about Mr. Perry yet;
+LINE 109: and he never forgets you."
+LINE 110: "Oh! good Mr. Perry—how is he, sir?"
+LINE 111: "Why, pretty well; but not quite well. Poor Perry is bilious, and he
+LINE 112: has not time to take care of himself—he tells me he has not time to
+LINE 113: take care of himself—which is very sad—but he is always wanted all
+LINE 114: round the country. I suppose there is not a man in such practice
+LINE 115: anywhere. But then there is not so clever a man any where."
+LINE 116: "And Mrs. Perry and the children, how are they? do the children grow? I
+LINE 117: have a great regard for Mr. Perry. I hope he will be calling soon. He
+LINE 118: will be so pleased to see my little ones."
+LINE 119: "I hope he will be here to-morrow, for I have a question or two to ask
+LINE 120: him about myself of some consequence. And, my dear, whenever he comes,
+LINE 121: you had better let him look at little Bella's throat."
+LINE 122: "Oh! my dear sir, her throat is so much better that I have hardly any
+LINE 123: uneasiness about it. Either bathing has been of the greatest service to
+LINE 124: her, or else it is to be attributed to an excellent embrocation of Mr.
+LINE 125: Wingfield's, which we have been applying at times ever since August."
+LINE 126: "It is not very likely, my dear, that bathing should have been of use
+LINE 127: to her—and if I had known you were wanting an embrocation, I would have
+LINE 128: spoken to—
+LINE 129: "You seem to me to have forgotten Mrs. and Miss Bates," said Emma, "I
+LINE 130: have not heard one inquiry after them."
+LINE 131: "Oh! the good Bateses—I am quite ashamed of myself—but you mention them
+LINE 132: in most of your letters. I hope they are quite well. Good old Mrs.
+LINE 133: Bates—I will call upon her to-morrow, and take my children.—They are
+LINE 134: always so pleased to see my children.—And that excellent Miss
+LINE 135: Bates!—such thorough worthy people!—How are they, sir?"
+LINE 136: "Why, pretty well, my dear, upon the whole. But poor Mrs. Bates had a
+LINE 137: bad cold about a month ago."
+LINE 138: "How sorry I am! But colds were never so prevalent as they have been
+LINE 139: this autumn. Mr. Wingfield told me that he has never known them more
+LINE 140: general or heavy—except when it has been quite an influenza."
+LINE 141: "That has been a good deal the case, my dear; but not to the degree you
+LINE 142: mention. Perry says that colds have been very general, but not so heavy
+LINE 143: as he has very often known them in November. Perry does not call it
+LINE 144: altogether a sickly season."
+LINE 145: "No, I do not know that Mr. Wingfield considers it _very_ sickly
+LINE 146: except—
+LINE 147: "Ah! my poor dear child, the truth is, that in London it is always a
+LINE 148: sickly season. Nobody is healthy in London, nobody can be. It is a
+LINE 149: dreadful thing to have you forced to live there! so far off!—and the
+LINE 150: air so bad!"
+LINE 151: "No, indeed—_we_ are not at all in a bad air. Our part of London is
+LINE 152: very superior to most others!—You must not confound us with London in
+LINE 153: general, my dear sir. The neighbourhood of Brunswick Square is very
+LINE 154: different from almost all the rest. We are so very airy! I should be
+LINE 155: unwilling, I own, to live in any other part of the town;—there is
+LINE 156: hardly any other that I could be satisfied to have my children in: but
+LINE 157: _we_ are so remarkably airy!—Mr. Wingfield thinks the vicinity of
+LINE 158: Brunswick Square decidedly the most favourable as to air."
+LINE 159: "Ah! my dear, it is not like Hartfield. You make the best of it—but
+LINE 160: after you have been a week at Hartfield, you are all of you different
+LINE 161: creatures; you do not look like the same. Now I cannot say, that I
+LINE 162: think you are any of you looking well at present."
+LINE 163: "I am sorry to hear you say so, sir; but I assure you, excepting those
+LINE 164: little nervous head-aches and palpitations which I am never entirely
+LINE 165: free from anywhere, I am quite well myself; and if the children were
+LINE 166: rather pale before they went to bed, it was only because they were a
+LINE 167: little more tired than usual, from their journey and the happiness of
+LINE 168: coming. I hope you will think better of their looks to-morrow; for I
+LINE 169: assure you Mr. Wingfield told me, that he did not believe he had ever
+LINE 170: sent us off altogether, in such good case. I trust, at least, that you
+LINE 171: do not think Mr. Knightley looking ill," turning her eyes with
+LINE 172: affectionate anxiety towards her husband.
+LINE 173: "Middling, my dear; I cannot compliment you. I think Mr. John Knightley
+LINE 174: very far from looking well."
+LINE 175: "What is the matter, sir?—Did you speak to me?" cried Mr. John
+LINE 176: Knightley, hearing his own name.
+LINE 177: "I am sorry to find, my love, that my father does not think you looking
+LINE 178: well—but I hope it is only from being a little fatigued. I could have
+LINE 179: wished, however, as you know, that you had seen Mr. Wingfield before
+LINE 180: you left home."
+LINE 181: "My dear Isabella,"—exclaimed he hastily—"pray do not concern yourself
+LINE 182: about my looks. Be satisfied with doctoring and coddling yourself and
+LINE 183: the children, and let me look as I chuse."
+LINE 184: "I did not thoroughly understand what you were telling your brother,"
+LINE 185: cried Emma, "about your friend Mr. Graham's intending to have a bailiff
+LINE 186: from Scotland, to look after his new estate. What will it answer? Will
+LINE 187: not the old prejudice be too strong?"
+LINE 188: And she talked in this way so long and successfully that, when forced
+LINE 189: to give her attention again to her father and sister, she had nothing
+LINE 190: worse to hear than Isabella's kind inquiry after Jane Fairfax; and Jane
+LINE 191: Fairfax, though no great favourite with her in general, she was at that
+LINE 192: moment very happy to assist in praising.
+LINE 193: "That sweet, amiable Jane Fairfax!" said Mrs. John Knightley.—"It is so
+LINE 194: long since I have seen her, except now and then for a moment
+LINE 195: accidentally in town! What happiness it must be to her good old
+LINE 196: grandmother and excellent aunt, when she comes to visit them! I always
+LINE 197: regret excessively on dear Emma's account that she cannot be more at
+LINE 198: Highbury; but now their daughter is married, I suppose Colonel and Mrs.
+LINE 199: Campbell will not be able to part with her at all. She would be such a
+LINE 200: delightful companion for Emma."
+LINE 201: Mr. Woodhouse agreed to it all, but added,
+LINE 202: "Our little friend Harriet Smith, however, is just such another pretty
+LINE 203: kind of young person. You will like Harriet. Emma could not have a
+LINE 204: better companion than Harriet."
+LINE 205: "I am most happy to hear it—but only Jane Fairfax one knows to be so
+LINE 206: very accomplished and superior!—and exactly Emma's age."
+LINE 207: This topic was discussed very happily, and others succeeded of similar
+LINE 208: moment, and passed away with similar harmony; but the evening did not
+LINE 209: close without a little return of agitation. The gruel came and supplied
+LINE 210: a great deal to be said—much praise and many comments—undoubting
+LINE 211: decision of its wholesomeness for every constitution, and pretty severe
+LINE 212: Philippics upon the many houses where it was never met with
+LINE 213: tolerably;—but, unfortunately, among the failures which the daughter
+LINE 214: had to instance, the most recent, and therefore most prominent, was in
+LINE 215: her own cook at South End, a young woman hired for the time, who never
+LINE 216: had been able to understand what she meant by a basin of nice smooth
+LINE 217: gruel, thin, but not too thin. Often as she had wished for and ordered
+LINE 218: it, she had never been able to get any thing tolerable. Here was a
+LINE 219: dangerous opening.
+LINE 220: "Ah!" said Mr. Woodhouse, shaking his head and fixing his eyes on her
+LINE 221: with tender concern.—The ejaculation in Emma's ear expressed, "Ah!
+LINE 222: there is no end of the sad consequences of your going to South End. It
+LINE 223: does not bear talking of." And for a little while she hoped he would
+LINE 224: not talk of it, and that a silent rumination might suffice to restore
+LINE 225: him to the relish of his own smooth gruel. After an interval of some
+LINE 226: minutes, however, he began with,
+LINE 227: "I shall always be very sorry that you went to the sea this autumn,
+LINE 228: instead of coming here."
+LINE 229: "But why should you be sorry, sir?—I assure you, it did the children a
+LINE 230: great deal of good."
+LINE 231: "And, moreover, if you must go to the sea, it had better not have been
+LINE 232: to South End. South End is an unhealthy place. Perry was surprized to
+LINE 233: hear you had fixed upon South End."
+LINE 234: "I know there is such an idea with many people, but indeed it is quite
+LINE 235: a mistake, sir.—We all had our health perfectly well there, never found
+LINE 236: the least inconvenience from the mud; and Mr. Wingfield says it is
+LINE 237: entirely a mistake to suppose the place unhealthy; and I am sure he may
+LINE 238: be depended on, for he thoroughly understands the nature of the air,
+LINE 239: and his own brother and family have been there repeatedly."
+LINE 240: "You should have gone to Cromer, my dear, if you went anywhere.—Perry
+LINE 241: was a week at Cromer once, and he holds it to be the best of all the
+LINE 242: sea-bathing places. A fine open sea, he says, and very pure air. And,
+LINE 243: by what I understand, you might have had lodgings there quite away from
+LINE 244: the sea—a quarter of a mile off—very comfortable. You should have
+LINE 245: consulted Perry."
+LINE 246: "But, my dear sir, the difference of the journey;—only consider how
+LINE 247: great it would have been.—An hundred miles, perhaps, instead of forty."
+LINE 248: "Ah! my dear, as Perry says, where health is at stake, nothing else
+LINE 249: should be considered; and if one is to travel, there is not much to
+LINE 250: chuse between forty miles and an hundred.—Better not move at all,
+LINE 251: better stay in London altogether than travel forty miles to get into a
+LINE 252: worse air. This is just what Perry said. It seemed to him a very
+LINE 253: ill-judged measure."
+LINE 254: Emma's attempts to stop her father had been vain; and when he had
+LINE 255: reached such a point as this, she could not wonder at her
+LINE 256: brother-in-law's breaking out.
+LINE 257: "Mr. Perry," said he, in a voice of very strong displeasure, "would do
+LINE 258: as well to keep his opinion till it is asked for. Why does he make it
+LINE 259: any business of his, to wonder at what I do?—at my taking my family to
+LINE 260: one part of the coast or another?—I may be allowed, I hope, the use of
+LINE 261: my judgment as well as Mr. Perry.—I want his directions no more than
+LINE 262: his drugs." He paused—and growing cooler in a moment, added, with only
+LINE 263: sarcastic dryness, "If Mr. Perry can tell me how to convey a wife and
+LINE 264: five children a distance of an hundred and thirty miles with no greater
+LINE 265: expense or inconvenience than a distance of forty, I should be as
+LINE 266: willing to prefer Cromer to South End as he could himself."
+LINE 267: "True, true," cried Mr. Knightley, with most ready interposition—"very
+LINE 268: true. That's a consideration indeed.—But John, as to what I was telling
+LINE 269: you of my idea of moving the path to Langham, of turning it more to the
+LINE 270: right that it may not cut through the home meadows, I cannot conceive
+LINE 271: any difficulty. I should not attempt it, if it were to be the means of
+LINE 272: inconvenience to the Highbury people, but if you call to mind exactly
+LINE 273: the present line of the path.... The only way of proving it, however,
+LINE 274: will be to turn to our maps. I shall see you at the Abbey to-morrow
+LINE 275: morning I hope, and then we will look them over, and you shall give me
+LINE 276: your opinion."
+LINE 277: Mr. Woodhouse was rather agitated by such harsh reflections on his
+LINE 278: friend Perry, to whom he had, in fact, though unconsciously, been
+LINE 279: attributing many of his own feelings and expressions;—but the soothing
+LINE 280: attentions of his daughters gradually removed the present evil, and the
+LINE 281: immediate alertness of one brother, and better recollections of the
+LINE 282: other, prevented any renewal of it.

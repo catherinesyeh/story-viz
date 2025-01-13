@@ -1,0 +1,644 @@
+LINE 1: THE FIFTH OF NOVEMBER.
+LINE 2: There are exceptions to every rule, and this applies to cities as well
+LINE 3: as to individuals. The meek man may be excited to fierce anger, the
+LINE 4: quietest and most undemonstrative, may suddenly be moved to enthusiasm.
+LINE 5: So with Wells, that little city of peace, under the Mendips; had anyone
+LINE 6: visited it for the first time on the fifth of November, in the year of
+LINE 7: grace eighteen hundred and twenty-four, they must have been struck by
+LINE 8: the uproar and confusion which reigned in the usually quiet streets.
+LINE 9: Although Mrs. Arundel had been warned by her courteous host, the Bishop,
+LINE 10: not to be alarmed if the sound of a tumultuous crowd should even reach
+LINE 11: the seclusion of the palace itself, neither he nor she were at all
+LINE 12: prepared for the hubbub and uproar, which, beginning before the sun was
+LINE 13: well above the horizon, lasted till midnight, and, indeed, into the
+LINE 14: early hours of the next day.
+LINE 15: It was the Bishop's first year at Wells, and therefore his first
+LINE 16: experience of the great demonstration of the fifth of November in his
+LINE 17: cathedral town; and neither he nor his son had been at all aware that
+LINE 18: the only place of safety for the whole day, would be within the
+LINE 19: battlemented walls of the palace, outside of which the tumult and
+LINE 20: shouting gathered force hour by hour, till the supreme moment of the
+LINE 21: bull-baiting in the market-place arrived.
+LINE 22: The bull-baiting was stopped in 1839, but the fifth of November was for
+LINE 23: many years later marked in Wells, by the most extravagant expressions of
+LINE 24: Protestant zeal. Enough gunpowder was let off in the market-place to
+LINE 25: blow up Bishop, Deans, and Canons! A huge bonfire was piled up in the
+LINE 26: market-square, saturated with tar, of which large barrels were rolled to
+LINE 27: the scene of the conflagration from time to time during the day, kindled
+LINE 28: at last as the final outburst of enthusiastic hatred, which the people
+LINE 29: of Wells thus showed of that ill-contrived plot, which was to have made
+LINE 30: an end with one fell swoop of the sagacious King James, and his
+LINE 31: parliament.
+LINE 32: It always seemed a strange form for such zeal to take; for the
+LINE 33: law-abiding folk in the little city suffered greatly during the
+LINE 34: demonstration. The windows overlooking the market-place were boarded up
+LINE 35: at dusk, and all business suspended in the latter part of the day. The
+LINE 36: whole population seemed to be gathered in the market-square. Effigies of
+LINE 37: Guy Fawkes were paraded about the streets, accompanied by those of any
+LINE 38: persons, who had unhappily incurred public displeasure during the year;
+LINE 39: to be consigned to the flames with shouts and execrations as soon as the
+LINE 40: big bonfire was lighted.
+LINE 41: A company of guests met at the Bishop's hospitable breakfast table on
+LINE 42: this particular fifth of November, amongst whom were Mrs. Arundel, on
+LINE 43: the Bishop's right hand, and Gratian Anson, who was levelling her shafts
+LINE 44: at the chaplain, and declaring her delight at having been so fortunate
+LINE 45: as to be in Wells at the time of the bull-baiting.
+LINE 46: "You were so kind to invite us to see it, my lord," she said; "for, of
+LINE 47: course, I mean to see it."
+LINE 48: "My dear young lady, I am sure you must not venture forth to-day. We
+LINE 49: must make the time pass as pleasantly as we can, within the precincts of
+LINE 50: the palace, unless you like to step over to the cloister-door and attend
+LINE 51: the cathedral service."
+LINE 52: "And do you mean to say, my lord, _you_ are not going to see the
+LINE 53: bull-baiting? Why, Mr. Dacres tells me that the last Dean used to
+LINE 54: assemble a large party on purpose to see the spectacle; I _must_ see
+LINE 55: it!"
+LINE 56: The gentle bishop seemed a little taken aback by Gratian's determination
+LINE 57: to have her own way.
+LINE 58: "Well," he said, "I leave you in the hands of your guardian, Mrs.
+LINE 59: Arundel, and you could not be in better keeping."
+LINE 60: "Mr. Dacres, Mr. Law, you will take me. I should so love to see the fun,
+LINE 61: and I can't go alone."
+LINE 62: "Gratian," Mrs. Arundel said, "it is not safe to think of it. There will
+LINE 63: be such a crowd, you must not attempt it."
+LINE 64: Gratian smiled, and, turning to Mr. Dacres, said:
+LINE 65: "I mean to go; it will be like a scene in Spain."
+LINE 66: How the discussion would have ended, and whether Gratian would have
+LINE 67: carried her point or not, I do not know, had not the bishop's servant
+LINE 68: approached him with a card, which was followed almost immediately by
+LINE 69: Lord Maythorne.
+LINE 70: "Pray pardon an early visit, my lord, but I am come to see my sister,
+LINE 71: and conduct her to the bull-baiting, for which, I hear, your city is
+LINE 72: celebrated."
+LINE 73: Mrs. Arundel coloured with vexation as the bishop rose from his chair at
+LINE 74: the head of the table, and said, reading the name on the card:
+LINE 75: "Pardon me, my lord, I have not the honour of your acquaintance."
+LINE 76: "My step-brother, my lord." Mrs. Arundel hastened to say. "I do not
+LINE 77: know whether you ever heard of my father's second marriage."
+LINE 78: "My sister will give you my imprimatur, you see, my lord, if _not_ a
+LINE 79: welcome."
+LINE 80: This was said with the insolent assurance which the courtly bishop at
+LINE 81: once discerned.
+LINE 82: "My lord," he said, "any relation of my dear friend, Mrs. Arundel, is
+LINE 83: welcome to the palace. Now, ladies, will you adjourn to the gallery; for
+LINE 84: I have some pressing matters of business to-day after cathedral service,
+LINE 85: for which a special form is provided; but if you desire to brave the
+LINE 86: tumults without, horses and carriages are at your disposal."
+LINE 87: Gratian meantime had gone up to Lord Maythorne, saying:
+LINE 88: "The very thing I wanted. I will go and prepare for the bull-baiting
+LINE 89: now. Come, Miss Dacres, come, Mrs. Pearsall," turning to two quietly
+LINE 90: dressed ladies, "won't you come with us?"
+LINE 91: "Well, we must be quick if we want to secure our places. The windows are
+LINE 92: commanding a good price, I assure you," said Lord Maythorne.
+LINE 93: "I wish you had not come here, Maythorne;" Mrs. Arundel said, "you gave
+LINE 94: me no warning of your intention."
+LINE 95: "My dear Bella, I never give any warning about anything. I thought you
+LINE 96: knew that. I suppose I have as much right to look at a bull-baiting as
+LINE 97: his lordship. Evidently he is not going to offer me hospitality. What a
+LINE 98: party of old fogies he has assembled; no one worth looking at!
+LINE 99: By-the-bye, does not Gilbert's innamorata live near Wells?"
+LINE 100: Mrs. Arundel evaded a reply by turning to Gratian, who had speedily got
+LINE 101: ready for the expedition.
+LINE 102: "I fear it is very imprudent, Gratian, to go out in the crowd. Mr.
+LINE 103: Dacres thinks so."
+LINE 104: "Well, if under good care, I do not know that there is much fear," said
+LINE 105: Mr. Dacres, "in fact; I will accompany Miss Anson, if she will allow me,
+LINE 106: and just point out the best place to see the bull pass down under the
+LINE 107: Chain Gate from East Wells."
+LINE 108: "Ah! I _thought_ you would not be able to resist it, Mr. Dacres,"
+LINE 109: Gratian said. "I _knew_ you wanted to see the fun, though you were
+LINE 110: afraid to say so."
+LINE 111: "Really," began poor Mr. Dacres; "really, I--I am only desirous of being
+LINE 112: of service."
+LINE 113: "Of course, I know that," Gratian said, laughing. "Good-bye, Aunt
+LINE 114: Bella;" and away she tripped, Lord Maythorne following, and Mr. Dacres
+LINE 115: leading the way under Penniless Porch to the Cathedral-green, where all
+LINE 116: kinds of people were congregated by the wall, separating the green from
+LINE 117: the road along which the bull was to pass. The rabble were at this time
+LINE 118: collected in East Wells, and the more respectable part of the spectators
+LINE 119: were admitted here. The bell was chiming for service, and as Mr. Dacres
+LINE 120: ambled across the grass, the Dean, preceded by his verger, was coming
+LINE 121: out of his gate to the cathedral. Unlike his predecessor, Dean Lukin,
+LINE 122: who is reported to have made the bull-baiting a festal occasion at the
+LINE 123: Deanery, even inviting guests to be present at it, the Dean demurred a
+LINE 124: little at the bull passing under the Chain Gate at all, thus entering
+LINE 125: the precincts of the cathedral.
+LINE 126: [Illustration: The Deanery Wells.]
+LINE 127: "How do, Dacres, how do?" the Dean said; "the crowd is very orderly at
+LINE 128: present."
+LINE 129: "Yes, Mr. Dean, so far; the great proportion of people are in East
+LINE 130: Wells. This young lady is a guest at the palace, and would like to see
+LINE 131: the bull pass. Might I escort her and Lord--Lord Hawthorne to the
+LINE 132: terrace?"
+LINE 133: The Dean bowed rather stiffly. He would have thought better both of the
+LINE 134: young lady and her companion, if they had come to the service and joined
+LINE 135: in the thanksgiving for the happy deliverance of King James I. and the
+LINE 136: three estates of England from the most traitorous and bloody-intended
+LINE 137: massacre by gunpowder; and--looking on some years--as the inscription at
+LINE 138: the head of the Form of Prayer also went on to say--
+LINE 139: "For the happy arrival of His Majesty King William on this day, for the
+LINE 140: deliverance of our church and nation."
+LINE 141: "By all means, Mr. Dacres. I think in future I shall prohibit the
+LINE 142: procession passing this way. It is scarcely seemly while service is
+LINE 143: going on within the cathedral walls."
+LINE 144: With this the Dean passed on, and Gratian, laughing, said:
+LINE 145: "The Dean is hardly as gracious as the Bishop. Let us stand here,
+LINE 146: because we shall get away sooner to the market-place after the bull has
+LINE 147: passed."
+LINE 148: Mr. Dacres was rather glad to retrieve his character with the Dean, by
+LINE 149: hastening to the cathedral, after having placed Lord Maythorne and
+LINE 150: Gratian, in a good place by the wall; and then, after some trial of
+LINE 151: patience, the sound of shouts and a brass band heralded the approach of
+LINE 152: the bull.
+LINE 153: Decked with ribbons, and with his head well set forward, led by his
+LINE 154: keepers by a ring passed through the nose, the bull stepped proudly on,
+LINE 155: followed by the dogs, all in charge of their respective owners.
+LINE 156: There was always something pathetic in the sight of a huge animal
+LINE 157: brought out, not to fight in a fair field, but to be worried almost to
+LINE 158: death by the onslaught of persistent dogs, all goaded on to make their
+LINE 159: attack, all backed by betting men, who had an interest in their success
+LINE 160: or failure.
+LINE 161: In Pepys' celebrated 'Diary' there is a description of a bull-baiting to
+LINE 162: which he seems to have gone to divert his mind from the furious letter
+LINE 163: which a friend told him was on his way to him from Lord Peterborough,
+LINE 164: which letter seems to have preyed upon him more than the news recorded
+LINE 165: on a previous page of three people in one house "dead of the plague."
+LINE 166: The bull-baiting, however, was pronounced, even by the sight-loving
+LINE 167: Samuel Pepys, as a "very rude and very nasty pleasure."
+LINE 168: Yet, more than a century and a half later, we find the usually quiet and
+LINE 169: peaceful city of Wells all agog to witness the bull-baiting in the
+LINE 170: market square.
+LINE 171: It was as Lord Maythorne said; every window was engaged, and the
+LINE 172: tradespeople commanded high prices for the day.
+LINE 173: Ladies in smart dresses, with gentlemen in attendance, were to be seen
+LINE 174: sitting at the old lattice bay windows, all along the line of houses in
+LINE 175: the square.
+LINE 176: Lord Maythorne had engaged places over the principal draper's shop,
+LINE 177: where Joyce and Charlotte had made their purchases, on the day of
+LINE 178: Gilbert Arundel's arrival at Fair Acres.
+LINE 179: It was with some difficulty that Lord Maythorne and Gratian made their
+LINE 180: way through the turnstile by Penniless Porch, and gained the door of the
+LINE 181: shop to the left, which was kept guarded by a stalwart son of the owner.
+LINE 182: It was a good position, and if a bull-baiting were worth seeing, perhaps
+LINE 183: on the principle of comparative value, the place was worth the five
+LINE 184: guineas which Lord Maythorne had paid for it.
+LINE 185: His style and title being known, great respect was shown him and
+LINE 186: Gratian, and the circular bay window was appropriated to them, while
+LINE 187: less distinguished people thought themselves honoured to take their
+LINE 188: position behind them, further back in the room.
+LINE 189: The space where the bull was baited was railed off, and the kennels for
+LINE 190: the dogs prepared behind it.
+LINE 191: It was some time before the bull could be got into position, and he
+LINE 192: showed at first no signs of fight.
+LINE 193: Presently Gratian exclaimed:
+LINE 194: "There is little Mr. Dacres elbowing through the crowd; I knew he was
+LINE 195: dying to come. Now he has said his prayers, I suppose he thinks he is
+LINE 196: free to do so. And do look at that little woman in the yellow hood,
+LINE 197: pushing and fighting to get a place on the window-sill of the house by
+LINE 198: Penniless Porch. What a crowd! Who could have believed so many people
+LINE 199: lived in Wells? There is seldom a creature to be seen. When we drove
+LINE 200: through the market-place the other day there was only an old woman by
+LINE 201: the 'Cross,' selling potatoes."
+LINE 202: "Ah! madam," exclaimed an old gentleman, who was standing behind
+LINE 203: Gratian's chair, and heard her remark, "the best days of the spectacle
+LINE 204: are over--quite over. Now, in Dean Lukin's time, I have known lords and
+LINE 205: ladies and their suite present, and a really genteel crowd assembled,
+LINE 206: instead of the riff-raff of to-day." The old man sighed, and taking a
+LINE 207: pinch of snuff from his tortoiseshell snuff-box, handed it to Lord
+LINE 208: Maythorne. "The bull-baiting at Wells, sir, was sought after by the
+LINE 209: _élite_ of the county and neighbourhood. Why, sir, I have seen coaches
+LINE 210: with four horses come in from Bath full of lords and ladies and great
+LINE 211: folks. But the times are changing--the times are changing! And, sir,
+LINE 212: when a Bishop and a Dean are 'loo warm' about a great spectacle, we
+LINE 213: can't expect others to be hot!--eh?"
+LINE 214: Lord Maythorne laughed cynically; and the old man, a veteran of Wells,
+LINE 215: whose memory went back to at least sixty fifths of Novembers, felt his
+LINE 216: sleeve sharply pulled by the master of the shop.
+LINE 217: "Have a care--have a care what you say, Mr. Harte. Don't be so free; you
+LINE 218: are talking to a real lord, who is visiting at the palace."
+LINE 219: The poor old man was fairly silenced by the news; he retired to a remote
+LINE 220: corner, trembling and abashed, and the glory of the bull-baiting was
+LINE 221: over for him.
+LINE 222: "A real lord!" he murmured, "and I've been talking to him as if he were
+LINE 223: just nobody. Dear, _dear_--_dear me_!"
+LINE 224: The sport began in good earnest about one o'clock. The backers pricked
+LINE 225: up the dogs to the onslaught, and cries and shouts resounded.
+LINE 226: The bull, at first strangely stoical and unmoved, with its large brown
+LINE 227: eyes staring calmly at the yelping, bounding dogs, was at length lashed
+LINE 228: to fury. With a loud and angry bellow he tossed his assailants hither
+LINE 229: and thither, and again and again the mangled bodies of the dogs were
+LINE 230: hurled by the horns of the bull outside the barriers amongst the
+LINE 231: shrieking crowd.
+LINE 232: At last, after a pause, while the bull stood, covered with blood and
+LINE 233: foam, watching for the attack of the next adversary, a brindled terrier,
+LINE 234: after receiving some cruel thrusts from the tortured animal, sprang with
+LINE 235: unerring aim at its throat, and clung there with such a desperate grip,
+LINE 236: that its giant strength, exhausted by the long conflict, gave way. The
+LINE 237: bull rolled over on his side with a roar of agony, and the victorious
+LINE 238: dog, with his eyes starting out of his head, and his tongue lolling out
+LINE 239: of his mouth, was borne off by his backer, amidst the cheers and
+LINE 240: acclamations of the excited crowd.
+LINE 241: "Ah!" Lord Maythorne said, "I had a heavy bet on that dog, so I am in
+LINE 242: luck's way for once. Now, Gratian, as the play is played out, for the
+LINE 243: bull will show no more fight to-day, if ever again, shall we make our
+LINE 244: way back to the palace?"
+LINE 245: Even Gratian felt a little sickened and disgusted. She clung to Lord
+LINE 246: Maythorne's arm, and was thankful when she found herself once more
+LINE 247: within the palace grounds.
+LINE 248: The noise and uproar in the market-place after the bull-baiting had
+LINE 249: scarcely ceased when the space was cleared for the bonfire, and
+LINE 250: preparations began for the great _finale_ of the day.
+LINE 251: As soon as it was dark, squibs and crackers were flying in every
+LINE 252: direction, while those who ventured forth were in some danger of having
+LINE 253: their clothes set on fire by the scattered sparks. A party from the
+LINE 254: palace went forth about eight o'clock to see the illumination of the
+LINE 255: bonfire, gaining easy access to the offices of the Bishop's secretary,
+LINE 256: which were situated between the two gateways, one called Penniless
+LINE 257: Porch, the other the Palace Eye, both at the top of the market square.
+LINE 258: Those who had turned away with disgust from the bull-fight, yet felt it
+LINE 259: almost their duty to be present at the great Protestant demonstration of
+LINE 260: fire and burning. So that the windows of the office were filled by the
+LINE 261: palace party, amongst whom were members of the Bishop's family.
+LINE 262: [Illustration: Penniless Porch, Wells.]
+LINE 263: It was indeed a sight never to be forgotten when the huge bonfire was
+LINE 264: lighted, and the flames leaped up to the sky. The quaint old houses in
+LINE 265: the market square were illuminated with a ruddy glow, and the cathedral
+LINE 266: towers caught the fitful radiance, and stood up against the murky
+LINE 267: November sky with a flush of crimson on their hoary heads. The shouting
+LINE 268: and the tumult reached its height when Guy Fawkes' great effigy fell
+LINE 269: into the burning mass, and cries of "No Popery!" "Down with the
+LINE 270: Catholics!" were taken up, by every little screaming urchin, who, with
+LINE 271: burned fingers and scorched cheeks, thought he was doing good service to
+LINE 272: some cause, though, if he and half that seething crowd had been
+LINE 273: questioned as to why they came together, the "more part," as in times of
+LINE 274: old, could not have given an answer.
+LINE 275: A great wrong once done, which fastens on the mind of a nation, and is
+LINE 276: handed down as a subject of everlasting indignation from generation to
+LINE 277: generation, must be expected to demand outward demonstration. Thus the
+LINE 278: fires of Smithfield, and the secret plot of the conspirators beneath the
+LINE 279: hall at Westminster, have never been forgotten.
+LINE 280: The people still hunger for some expression of their wrath, and do not
+LINE 281: wait to ask if that expression takes a wholesome form.
+LINE 282: Although like demonstrations have been very much moderated of late
+LINE 283: years, and nearly stopped altogether by the authorities in Wells, still
+LINE 284: there is yet a city of the West whose motto is "Ever faithful," where
+LINE 285: the same scene is acted even on a larger scale; and woe to the unhappy
+LINE 286: man who may have incurred the displeasure of the good people of Exeter
+LINE 287: during the current year. His effigy is still paraded through the
+LINE 288: streets, followed by mummers in gay attire, and, amidst general
+LINE 289: execrations, his image tumbles down into the fiery furnace, as a meet
+LINE 290: companion for that, of the never-to-be-forgotten Guy Fawkes.
+LINE 291: Two days later, and Wells had resumed its wonted aspect. The November
+LINE 292: day was one of exceptional beauty. The sky was blue, the air soft and
+LINE 293: balmy, and the sunshine lay upon the peaceful city, once more the City
+LINE 294: of Rest, which the good Bishop had called it when he first viewed the
+LINE 295: scene of his future labours as chief pastor of the diocese of Bath and
+LINE 296: Wells.
+LINE 297: The noise and tumult of the fifth of November seemed now like a troubled
+LINE 298: dream. Once more the only sounds which broke the silence were the chime
+LINE 299: of bells for service, the trickling of streams of water, the cawing of
+LINE 300: rooks in the elm trees by the moat, the chatter of the Jackdaws as they
+LINE 301: swung in and out of their nests on the cathedral towers. All within and
+LINE 302: around the Palace was calm and quiet.
+LINE 303: And in the market square every sign of the late uproar was removed, the
+LINE 304: _débris_ cleared away; the cry of a child, the foot-fall of a
+LINE 305: pedestrian, or the low rumble of a distant cart, was heard with that
+LINE 306: wonderful distinctness which is born of surrounding stillness. Here and
+LINE 307: there a word was exchanged with a customer by the master of a shop, who,
+LINE 308: standing at the door, looked out upon the world with that quiet patient
+LINE 309: expectation of custom, unknown in busy, populous towns.
+LINE 310: As the Bishop's carriage drove through the market-place, several
+LINE 311: figures appeared at the doors of the shops. The carriage was watched
+LINE 312: out of sight, the heads of the watchers were turned right and left, and
+LINE 313: then the figures disappeared again, like those weather-wise men and
+LINE 314: women in the old-fashioned barometers now, like many other quaint
+LINE 315: devices almost unknown.
+LINE 316: If the day were fair and beautiful in Wells, it was doubly beautiful in
+LINE 317: the country. Joyce felt its influence, and, for the first time since her
+LINE 318: father's death, she sang gently to herself as she went about her
+LINE 319: household duties.
+LINE 320: Since she had received Gilbert Arundel's letter, a ray of brightness had
+LINE 321: pierced the cloud. She had not answered it, for he had asked for no
+LINE 322: answer. And Joyce, in the sweet simplicity of her faith in him told
+LINE 323: herself, that she had given her promise not to forget him, and that in
+LINE 324: that promise he was resting till the time came for him to ask her that
+LINE 325: question, which he said he must ask, and to present the petition which
+LINE 326: he hoped she would grant.
+LINE 327: Of course she was ready to give him what he asked for, but there was to
+LINE 328: her nature, always trusting and transparent, no hardship in waiting.
+LINE 329: "If I doubted him I could not wait so patiently," she thought, "but I
+LINE 330: _trust_ him."
+LINE 331: As these thoughts were passing through her mind, she was tying up some
+LINE 332: branches of a pink China rose which grew against the porch.
+LINE 333: "Give me another bit of cloth and a nail, Piers," she called to her
+LINE 334: brother.
+LINE 335: The tap of Piers' crutches was heard in the hall as he went to do her
+LINE 336: bidding.
+LINE 337: As she stood in the sunshine, with her arm raised to secure the truant
+LINE 338: branch of the trailing rose, waiting for her brother to bring the nail,
+LINE 339: a figure cast a shadow against the porch, and, turning her head, she saw
+LINE 340: a gentleman standing near her. Instantly she dropped the branch, and,
+LINE 341: with a bright colour in her cheek, waited till the stranger spoke.
+LINE 342: "Miss Falconer, I think?" he said, his eyes fastening upon her fair
+LINE 343: young face.
+LINE 344: "Yes," she said, simply. "Do you want to see my mother?"
+LINE 345: "Nay," he said, "I came to see _you_. I have heard much of you; I am
+LINE 346: your brother's friend."
+LINE 347: Joyce looked inquiringly at her visitor, and said, with a little quiver
+LINE 348: in her voice:
+LINE 349: "I hope, sir, you have brought no ill news. We have had so much sorrow
+LINE 350: of late."
+LINE 351: "I know it, indeed," the gentleman said. "I bring no bad news of your
+LINE 352: brother's health; he is abroad, I think."
+LINE 353: "Yes, at Genoa; he was at Genoa when we heard last; we have not heard
+LINE 354: from him since our father's death."
+LINE 355: "Ah! that was a sad loss for him and for you all. What a lovely place
+LINE 356: you have here, but very far removed from 'the world'--the world where
+LINE 357: you would shine as a bright star of beauty."
+LINE 358: This broad flattery was received very differently from what the speaker
+LINE 359: expected. Joyce's face underwent an instant change, as she said:
+LINE 360: "I think, sir, if you please, I must ask you to excuse me, for I have
+LINE 361: some things which are needing my attention this morning; perhaps,"
+LINE 362: fearing she might seem deficient in courtesy, "you would like to rest a
+LINE 363: little while."
+LINE 364: "You are very kind, fair lady; I will accept your offer, I shall be glad
+LINE 365: to rest. What a noble hall!" he exclaimed, as he stepped across the
+LINE 366: threshold, where Piers was leaning against the old oak table, his
+LINE 367: crutches under his arm.
+LINE 368: "Piers," Joyce said, "this gentleman wishes to rest; will you ask Sarah
+LINE 369: to fetch him some refreshment?" She was thus dismissing the guest to the
+LINE 370: care of her brother, glad to escape from his prolonged and embarrassing
+LINE 371: scrutiny of her face, when Lord Maythorne said:
+LINE 372: "Pardon me, I want to speak to you on a serious matter. I ought to have
+LINE 373: introduced myself earlier. I am Lord Maythorne; you will have heard of
+LINE 374: me?"
+LINE 375: "Yes," Joyce said, calmly; "yes, I have heard of you."
+LINE 376: "No good report, I will venture to affirm, guessing, as I do with some
+LINE 377: certainty, from whom the report came. If you tell that little boy--lame,
+LINE 378: I see, poor fellow!--to leave us, I will briefly relate the
+LINE 379: circumstances of my friendship with your brother. Come, Miss Falconer,
+LINE 380: do not be unjust to me, but hear what I have to say. I prefer that our
+LINE 381: conversation should be private; it is of great importance that you
+LINE 382: should hear what I have to say, _alone_."
+LINE 383: Joyce hesitated; that instinctive dread of men who are neither
+LINE 384: honourable nor good, which all pure-minded maidens feel, made Joyce
+LINE 385: shrink back from the very touch of Lord Maythorne's hand, as he tried to
+LINE 386: take hers, with a gesture of profound reverence and raise it to his
+LINE 387: lips.
+LINE 388: "I little thought," he murmured, "that I should find in Melville's
+LINE 389: sister any one so charming, and I confess that I am _bouleversé_ at
+LINE 390: once. Nay, do not look so sternly at me."
+LINE 391: "I do not know what right you have, my lord, to come here to alarm and
+LINE 392: annoy me. If the matter you have to tell me is important about
+LINE 393: Melville, I would refer you to my brother Ralph, and Mr. Paget, who is
+LINE 394: my dear father's executor."
+LINE 395: Piers, who had been watching the whole scene, now came hastily forward.
+LINE 396: "Ralph has gone into the Wells market, and Joyce has no one at home but
+LINE 397: me to take care of her. She does not wish you to stay, and you ought to
+LINE 398: see that, and go away."
+LINE 399: "You had better try the effect of one of your crutches on me, my boy! I
+LINE 400: am not going away, at present."
+LINE 401: Piers reddened, and was beginning an angry rejoinder, when Joyce said,
+LINE 402: in a low tone:
+LINE 403: "Go and stand at the further end of the hall, Piers, and I will go into
+LINE 404: the porch. If I want you I will call, but do not let mother know anyone
+LINE 405: is here. Now," she said, turning to Lord Maythorne, "we will go into the
+LINE 406: porch, if you please, and you can tell me about Melville."
+LINE 407: "Well," Lord Maythorne said. "I had an interest in your brother, and I
+LINE 408: should have pulled him through his troubles, if it had not been for the
+LINE 409: meddling interference of a kinsman of mine, a young fellow--great in his
+LINE 410: own eyes--who cants like any old woman, and can turn up the whites of
+LINE 411: his eyes with any Methodist in the land. He made a nice mess of it for
+LINE 412: your brother owes me the money, and if he had left us alone we should
+LINE 413: have arranged matters. As it was the whole story came out, your brother
+LINE 414: was 'sent down' and those sharks the tradespeople, poured bills upon
+LINE 415: your father's head."
+LINE 416: "Yes," Joyce said, "which my father, my dear father, paid. What does
+LINE 417: Melville owe you?"
+LINE 418: "A pretty round sum, but I would let it rest at five hundred pounds."
+LINE 419: "Five hundred! Oh! it is impossible we could pay that. I will ask Mr.
+LINE 420: Watson and Mr. Paget----"
+LINE 421: "Pray do nothing of the sort," said Lord Maythorne, with lofty
+LINE 422: superiority; "it is a mere trifle, but just now it happens to be a
+LINE 423: little inconvenient. The debts are such, as no _honourable_ man would
+LINE 424: leave unpaid. I promised Melville to keep them secret, and I have no
+LINE 425: wish to let the town crier go about with the news, but I naturally
+LINE 426: judged that on the death of his father, your brother would come into his
+LINE 427: fortune, and repay me."
+LINE 428: "I do not think it is possible," Joyce said. "My dear father had so many
+LINE 429: sons, and it was hard to provide for them. Please let me think about it,
+LINE 430: and give you an answer. I must consult Ralph, who is in charge here now,
+LINE 431: till Melville comes home."
+LINE 432: "Nay, I would ask as a great favour that you consult no one. If, when
+LINE 433: your brother returns, you can come to any arrangement, let me know. I
+LINE 434: would not wish to _press_ my claim unduly. I think you have seen my
+LINE 435: young nephew, Gilbert Arundel; he got a pitiable hold over your brother.
+LINE 436: It is not the best taste to abuse one's own relations, so I will forbear
+LINE 437: giving you Arundel's character _in extenso_; suffice it to say, he is a
+LINE 438: hypocrite. He has been playing fast and loose ever since he was a boy,
+LINE 439: with a fair lady much older than himself; he fancies himself in love
+LINE 440: with her, and she is so foolish as to believe it. The ten years which
+LINE 441: separate them in age is a trifle in his eyes. She is handsome enough,
+LINE 442: and fascinating; knows the world and its ways, and, resents my good
+LINE 443: sister's pious exhortations, rather laughs at them, in fact. Am I
+LINE 444: speaking in riddles? Arundel's mother is my step-sister; my father
+LINE 445: taking it into his head to marry for the second time, when no one
+LINE 446: expected him to do so. But it was a lucky thing for the world at large
+LINE 447: that he did marry, for I am the result!" The low satirical laugh had a
+LINE 448: ring of bitterness in it, and the face that was really handsome, was
+LINE 449: clouded by a most disagreeable expression.
+LINE 450: It was a hard ordeal for Joyce to be thus, as it were, in the hands of
+LINE 451: a keen-witted man of the world, who, when he had finished his own story,
+LINE 452: began to pour out the most fulsome flattery, and to appear to take it
+LINE 453: for granted that Joyce would be won by it. He little knew the strength
+LINE 454: and courage which the "rustic beauty," as he inwardly called her, could
+LINE 455: show.
+LINE 456: As soon as she could get a word in, she rallied herself, and said, in a
+LINE 457: low, determined voice:
+LINE 458: "I do not wish to hear any more, my lord. I do not think you have any
+LINE 459: right to come here and offend me by saying what you cannot mean. I will
+LINE 460: take advice about my brother's debts to you, and, if you please, I will
+LINE 461: let you know the result."
+LINE 462: "What a charming woman of business!" exclaimed Lord Maythorne. "A
+LINE 463: veritable Portia. A little indignant protest is so becoming. Well, well,
+LINE 464: we will leave the matter for the present."
+LINE 465: And now a figure, clothed in deepest mourning, appeared from the hall
+LINE 466: behind, and Mrs. Falconer with a curtsey which was profoundly
+LINE 467: respectful, said:
+LINE 468: "May I ask, sir, what brings you to the house of a poor widow? My
+LINE 469: daughter is very young and very inexperienced; I cannot allow you to
+LINE 470: remain to annoy her."
+LINE 471: "My good lady, I am your daughter's slave. I am ready to lie at her
+LINE 472: feet. Annoy her, forsooth!"
+LINE 473: Joyce, who had endured bravely up to this moment, sprang towards her
+LINE 474: mother as if instinctively for protection, and Mrs. Falconer took her
+LINE 475: hand in hers.
+LINE 476: "What is it, my dear, what is it? Piers came to call me; I thought you
+LINE 477: were distressed."
+LINE 478: This was really the first time since her sorrow that Mrs. Falconer had
+LINE 479: roused herself to take an interest in anything; but Piers' summons, with
+LINE 480: the announcement that there was a man in the porch talking to Joyce, and
+LINE 481: that he knew by the sound of her voice she was frightened, had not been
+LINE 482: in vain. The maternal love, deep in Mrs. Falconer's heart, asserted
+LINE 483: itself, and put to flight for the time the selfish brooding over her
+LINE 484: sorrow, in which for so many weeks she had indulged.
+LINE 485: "Joyce is very young," she said, tenderly, "and she has been left to
+LINE 486: bear a burden too heavy for her years. I beg you, sir, to say no more to
+LINE 487: hurt her and annoy her, but to leave the premises."
+LINE 488: "My dear madam," Lord Maythorne said, "I came in a friendly spirit to
+LINE 489: discuss a little business about your elder and very hopeful son. He owes
+LINE 490: me some eight hundred pounds--a debt of honour, but at the same time a
+LINE 491: debt;" and, setting his teeth, "_One I mean to have paid!_ It may seem a
+LINE 492: trifle to the owner of these broad acres, and to the inhabitants of this
+LINE 493: grand ancestral home, but to me it happens to be no trifle. Good
+LINE 494: morning."
+LINE 495: Lord Maythorne turned away, raising his hat to Joyce, and saying:
+LINE 496: "_Adieu, mia bella! adieu!_ but _au revoir! au revoir!_"
+LINE 497: Mrs. Falconer pressed Joyce, trembling and frightened to her side,
+LINE 498: saying, in a low voice:
+LINE 499: "What does he mean? Who is he?"
+LINE 500: "He means that Melville has lost money to him by gambling; I think he is
+LINE 501: Lord Maythorne."
+LINE 502: "What is to be done? What is to be done, Joyce?" Mrs. Falconer said.
+LINE 503: "We must consult Mr. Paget, dear mother. Oh! how glad I was when you
+LINE 504: came; he is such a bold, bad man."
+LINE 505: "Poor child! Poor Sunshine!" Mrs. Falconer said; "I have been very much
+LINE 506: to blame to leave you all the burden; I will _try_ to do differently
+LINE 507: now. Kiss me, Joyce."
+LINE 508: "And here is a carriage coming up the road," was Piers' next
+LINE 509: exclamation; "a carriage full of people."
+LINE 510: "Oh! there is an old gentleman in a wig and shovel hat, and--"
+LINE 511: "It must be the Bishop," exclaimed Mrs. Falconer; "what shall we do?"
+LINE 512: It was too late for Mrs. Falconer to retreat, for the carriage had
+LINE 513: driven up before the door, and the footman had the handle of the bell in
+LINE 514: his hand.
+LINE 515: "The Lord Bishop," he said, addressing Piers, "Mrs. Arundel, and Miss
+LINE 516: Anson. Is Mrs. Falconer at home?"
+LINE 517: And now Joyce advanced out of the shadow, and stood under the roses by
+LINE 518: the porch.
+LINE 519: The late encounter with Lord Maythorne had heightened her colour, and
+LINE 520: tears were still upon her long lashes--the tears of vexation she had
+LINE 521: tried so hard to keep back.
+LINE 522: One glance, and Mrs. Arundel felt sure she saw before her her son's
+LINE 523: "Joyce, Sunshine, Birdie! for they call her all those names," he had
+LINE 524: said.
+LINE 525: She looked just now, with her head drooping, and the traces of tears on
+LINE 526: her cheeks, very like one of the China roses above her, hanging its head
+LINE 527: after a shower.
+LINE 528: Gratian also examined her critically.
+LINE 529: She is _beautiful_, she thought, but she has no style; while the Bishop
+LINE 530: leaned forward, and asked:
+LINE 531: "May we alight?"
+LINE 532: "Yes, my lord," Joyce said, in a low, gentle voice. "My mother has seen
+LINE 533: no visitors for a long time; but she will be pleased to see you, and--"
+LINE 534: "Mrs. Arundel, I hope, also, and Miss Gratian Anson," the Bishop said,
+LINE 535: by way of introduction, "Madam," he continued, as he went into the hall,
+LINE 536: "Madam, I have heard of your good husband; I had once the pleasure--I
+LINE 537: may say the honour--of seeing him at the palace, and I desire to express
+LINE 538: to you my condolences. My son," he added, addressing a young gentleman
+LINE 539: in clerical dress, who was as much like his father as youth can resemble
+LINE 540: age, "my son is also anxious to pay his respects. My wife, Mrs. Law, is
+LINE 541: yet absent on account of her health, but returns to the palace next
+LINE 542: week."
+LINE 543: Both the Bishop and his son were courtly gentlemen of what we call now
+LINE 544: "the old school," and they had peculiarly clear and sonorous voices; the
+LINE 545: old man's set in rather a lower key than his son's.
+LINE 546: "Pray, my lord," Mrs. Falconer said, "walk in, and I beg you to excuse a
+LINE 547: desolate sitting room," opening a door to the right of the hall; "I have
+LINE 548: never had courage to sit here since--since our trouble. Joyce draw up
+LINE 549: the blinds and set the chairs." Mrs. Falconer said this, with something
+LINE 550: of her old quickness.
+LINE 551: "Our little parlour would be warmer, mother; this room feels cold,"
+LINE 552: Joyce said, in a low tone, as she obeyed her mother, and noticed the
+LINE 553: cold, damp, unused atmosphere, which always clings to a room that has
+LINE 554: been closed for some time.
+LINE 555: That room, with its three windows set in thick frames, with deep
+LINE 556: window-seats beneath, had been Mrs. Falconer's pride. As she looked
+LINE 557: round now, the furniture seemed dull, and the whole aspect of things
+LINE 558: changed.
+LINE 559: "Yes," she said, sadly, "yes, you are right, Joyce; this room is not fit
+LINE 560: to sit down in; we will go to our own sitting room, if his lordship will
+LINE 561: follow me."
+LINE 562: The whole party adjourned there, and Piers, with unusual forethought,
+LINE 563: had already ordered a tray to be brought in; for it was always _en
+LINE 564: règle_ in country houses in those days to offer refreshment of wine and
+LINE 565: cake, as calls were paid early, just as afternoon tea is brought in now
+LINE 566: for visitors later in the day.
+LINE 567: Mrs. Arundel left the Bishop to talk to Mrs. Falconer, and Gratian won
+LINE 568: Piers' heart by professing the deepest interest in his drawer full of
+LINE 569: birds' eggs, which happened to be opened. That was one of Gratian's
+LINE 570: strongest weapons; she took, or appeared to take, an interest in
+LINE 571: everybody's particular hobby, and yet she was listening with one ear to
+LINE 572: every word that passed between Mrs. Arundel and Joyce. Poor Piers was
+LINE 573: quite unconscious that he had not her whole attention. When Mr. Law
+LINE 574: joined the discussion she withdrew and said to Joyce, "I should like to
+LINE 575: see the grounds, would you show me round." Piers wondered at her abrupt
+LINE 576: departure from the contemplation of the wren's eggs, and his animated
+LINE 577: story of the way the little wrens huddle together in a nest in the
+LINE 578: winter, under ground, in a hedge facing south, and come out to try the
+LINE 579: air in the first warm days in February, retiring again if it is too cold
+LINE 580: for them.
+LINE 581: Joyce led the way, thankful to see how much more her mother looked like
+LINE 582: herself, as she told to the sympathetic ear of the Bishop the story of
+LINE 583: her grief.
+LINE 584: Gratian took pains to suit herself to her company; she always did. She
+LINE 585: linked her arm through Joyce's, and talked in a low voice, instead of
+LINE 586: her wonted high pitched rattle. She told her how grieved she felt for
+LINE 587: her; she could easily imagine what such a sorrow must be; for she, a
+LINE 588: "poor orphan" herself, could indeed sympathise with her.
+LINE 589: So she talked, as they paced the gravel walk under the sunny south wall
+LINE 590: of the old-fashioned garden, where the arms of a huge pear-tree were
+LINE 591: still heavily laden with brown fruit, and where bushes of pale lilac,
+LINE 592: Michaelmas daisies, and lavender, still attracted a number of late bees
+LINE 593: and errant wasps, who, like all the rest of the world, found it hard to
+LINE 594: believe that this was the November sunshine of a short winter's day, and
+LINE 595: not the long drawn out heat of July.
+LINE 596: "I should like to know more of you; to see more," Gratian was saying.
+LINE 597: "Of course, I expected you were charming from what Gilbert told me.
+LINE 598: Gilbert and I are _great_ friends; he tells me everything."
+LINE 599: A scarcely perceptible recoil, in the little figure by her side, was not
+LINE 600: lost on Gratian.
+LINE 601: "Yes," she said, "he is a dear boy--a little spoiled by the notions he
+LINE 602: has taken up lately; but they are spreading everywhere. The Cambridge
+LINE 603: men are even worse than the Oxford men. However, I won't quarrel with
+LINE 604: Gilbert about that, and I can take a little preachment from him. Aunt
+LINE 605: Bella is pleased with anything Gilbert says or does; and as to
+LINE 606: Maythorne----"
+LINE 607: Joyce started, very visibly this time, at that name, and said,
+LINE 608: withdrawing her hand from her companion's arm, and stooping to gather
+LINE 609: some sprigs of lavender:
+LINE 610: "I suppose Lord Maythorne is a relation of yours?"
+LINE 611: "Distant; very distant," was the reply. "A connection is nearer the
+LINE 612: truth."
+LINE 613: "Because," Joyce said, "I think he is a very bad and wicked man, and I
+LINE 614: wish you could tell him never to come here again."
+LINE 615: "Come here! Has he been here," Gratian exclaimed. "What on earth did he
+LINE 616: come here for?"
+LINE 617: "He had not been gone half-an-hour before the Bishop's carriage drove
+LINE 618: up. He has, as you know, done my eldest brother a great deal of
+LINE 619: mischief; and, though my dear father thought he had cleared all his
+LINE 620: debts, this Lord Maythorne says that he still owes him a great deal, and
+LINE 621: we cannot pay it."
+LINE 622: "And is that what he came to say; very kind and pleasant of him, I must
+LINE 623: confess. I expect he said a great deal more."
+LINE 624: Joyce blushed scarlet.
+LINE 625: "He was very impertinent," she said, "and talked in a very free way to
+LINE 626: me, but it is over now, and I wish to forget it. Only, if you can, will
+LINE 627: you prevent him from coming again; or as he is Mrs. Arundel's brother,
+LINE 628: could you ask _her_ to prevent him. When I have consulted Mr. Paget,
+LINE 629: dear father's executor and our trustee, I will try if any of the money
+LINE 630: can be paid."
+LINE 631: "Don't think of paying a farthing," Gratian said, "pray; I will see what
+LINE 632: I can do in the matter. I will talk to Gilbert. Gilbert is certain to do
+LINE 633: what I ask him, and I know how much he cared about your brother. Yes,
+LINE 634: you may depend upon my doing my best, you darling!" Gratian said,
+LINE 635: stooping down and kissing Joyce's rounded cheek.
+LINE 636: Joyce made no response, as Gratian expected, and then they walked
+LINE 637: silently to the house.
+LINE 638: As they drove towards Wells, Gratian, after a pause suddenly said:
+LINE 639: "Aunt Bella, Maythorne is still in this neighbourhood. He has been at
+LINE 640: Fair Acres to-day."
+LINE 641: "Maythorne!" Mrs. Arundel exclaimed. Then to herself, but not aloud, she
+LINE 642: said:
+LINE 643: "I must let Gilbert know at once."
+LINE 644: [Illustration]

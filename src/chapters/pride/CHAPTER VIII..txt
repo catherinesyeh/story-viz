@@ -1,0 +1,185 @@
+LINE 1: At five o'clock the two ladies retired to dress, and at half past six
+LINE 2: Elizabeth was summoned to dinner. To the civil enquiries which then
+LINE 3: poured in, and amongst which she had the pleasure of distinguishing the
+LINE 4: much superior solicitude of Mr. Bingley's, she could not make a very
+LINE 5: favourable answer. Jane was by no means better. The sisters, on hearing
+LINE 6: this, repeated three or four times how much they were grieved, how
+LINE 7: shocking it was to have a bad cold, and how excessively they disliked
+LINE 8: being ill themselves; and then thought no more of the matter: and their
+LINE 9: indifference towards Jane when not immediately before them, restored
+LINE 10: Elizabeth to the enjoyment of all her original dislike.
+LINE 11: Their brother, indeed, was the only one of the party whom she could
+LINE 12: regard with any complacency. His anxiety for Jane was evident, and his
+LINE 13: attentions to herself most pleasing, and they prevented her feeling
+LINE 14: herself so much an intruder as she believed she was considered by the
+LINE 15: others. She had very little notice from any but him. Miss Bingley was
+LINE 16: engrossed by Mr. Darcy, her sister scarcely less so; and as for Mr.
+LINE 17: Hurst, by whom Elizabeth sat, he was an indolent man, who lived only to
+LINE 18: eat, drink, and play at cards, who when he found her prefer a plain dish
+LINE 19: to a ragout, had nothing to say to her.
+LINE 20: When dinner was over, she returned directly to Jane, and Miss Bingley
+LINE 21: began abusing her as soon as she was out of the room. Her manners were
+LINE 22: pronounced to be very bad indeed, a mixture of pride and impertinence;
+LINE 23: she had no conversation, no style, no taste, no beauty. Mrs. Hurst
+LINE 24: thought the same, and added,
+LINE 25: "She has nothing, in short, to recommend her, but being an excellent
+LINE 26: walker. I shall never forget her appearance this morning. She really
+LINE 27: looked almost wild."
+LINE 28: "She did indeed, Louisa. I could hardly keep my countenance. Very
+LINE 29: nonsensical to come at all! Why must _she_ be scampering about the
+LINE 30: country, because her sister had a cold? Her hair so untidy, so blowsy!"
+LINE 31: "Yes, and her petticoat; I hope you saw her petticoat, six inches deep
+LINE 32: in mud, I am absolutely certain; and the gown which had been let down to
+LINE 33: hide it, not doing its office."
+LINE 34: "Your picture may be very exact, Louisa," said Bingley; "but this was
+LINE 35: all lost upon me. I thought Miss Elizabeth Bennet looked remarkably
+LINE 36: well, when she came into the room this morning. Her dirty petticoat
+LINE 37: quite escaped my notice."
+LINE 38: "_You_ observed it, Mr. Darcy, I am sure," said Miss Bingley; "and I am
+LINE 39: inclined to think that you would not wish to see _your sister_ make such
+LINE 40: an exhibition."
+LINE 41: "Certainly not."
+LINE 42: "To walk three miles, or four miles, or five miles, or whatever it is,
+LINE 43: above her ancles in dirt, and alone, quite alone! what could she mean by
+LINE 44: it? It seems to me to shew an abominable sort of conceited independence,
+LINE 45: a most country town indifference to decorum."
+LINE 46: "It shews an affection for her sister that is very pleasing," said
+LINE 47: Bingley.
+LINE 48: "I am afraid, Mr. Darcy," observed Miss Bingley, in a half whisper,
+LINE 49: "that this adventure has rather affected your admiration of her fine
+LINE 50: eyes."
+LINE 51: "Not at all," he replied; "they were brightened by the exercise."--A
+LINE 52: short pause followed this speech, and Mrs. Hurst began again.
+LINE 53: "I have an excessive regard for Jane Bennet, she is really a very sweet
+LINE 54: girl, and I wish with all my heart she were well settled. But with such
+LINE 55: a father and mother, and such low connections, I am afraid there is no
+LINE 56: chance of it."
+LINE 57: "I think I have heard you say, that their uncle is an attorney in
+LINE 58: Meryton."
+LINE 59: "Yes; and they have another, who lives somewhere near Cheapside."
+LINE 60: "That is capital," added her sister, and they both laughed heartily.
+LINE 61: "If they had uncles enough to fill _all_ Cheapside," cried Bingley, "it
+LINE 62: would not make them one jot less agreeable."
+LINE 63: "But it must very materially lessen their chance of marrying men of any
+LINE 64: consideration in the world," replied Darcy.
+LINE 65: To this speech Bingley made no answer; but his sisters gave it their
+LINE 66: hearty assent, and indulged their mirth for some time at the expense of
+LINE 67: their dear friend's vulgar relations.
+LINE 68: With a renewal of tenderness, however, they repaired to her room on
+LINE 69: leaving the dining-parlour, and sat with her till summoned to coffee.
+LINE 70: She was still very poorly, and Elizabeth would not quit her at all, till
+LINE 71: late in the evening, when she had the comfort of seeing her asleep, and
+LINE 72: when it appeared to her rather right than pleasant that she should go
+LINE 73: down stairs herself. On entering the drawing-room she found the whole
+LINE 74: party at loo, and was immediately invited to join them; but suspecting
+LINE 75: them to be playing high she declined it, and making her sister the
+LINE 76: excuse, said she would amuse herself for the short time she could stay
+LINE 77: below with a book. Mr. Hurst looked at her with astonishment.
+LINE 78: "Do you prefer reading to cards?" said he; "that is rather singular."
+LINE 79: "Miss Eliza Bennet," said Miss Bingley, "despises cards. She is a great
+LINE 80: reader and has no pleasure in anything else."
+LINE 81: "I deserve neither such praise nor such censure," cried Elizabeth; "I am
+LINE 82: _not_ a great reader, and I have pleasure in many things."
+LINE 83: "In nursing your sister I am sure you have pleasure," said Bingley; "and
+LINE 84: I hope it will soon be increased by seeing her quite well."
+LINE 85: Elizabeth thanked him from her heart, and then walked towards a table
+LINE 86: where a few books were lying. He immediately offered to fetch her
+LINE 87: others; all that his library afforded.
+LINE 88: "And I wish my collection were larger for your benefit and my own
+LINE 89: credit; but I am an idle fellow, and though I have not many, I have more
+LINE 90: than I ever look into."
+LINE 91: Elizabeth assured him that she could suit herself perfectly with those
+LINE 92: in the room.
+LINE 93: "I am astonished," said Miss Bingley, "that my father should have left
+LINE 94: so small a collection of books.--What a delightful library you have at
+LINE 95: Pemberley, Mr. Darcy!"
+LINE 96: "It ought to be good," he replied, "it has been the work of many
+LINE 97: generations."
+LINE 98: "And then you have added so much to it yourself, you are always buying
+LINE 99: books."
+LINE 100: "I cannot comprehend the neglect of a family library in such days as
+LINE 101: these."
+LINE 102: "Neglect! I am sure you neglect nothing that can add to the beauties of
+LINE 103: that noble place. Charles, when you build _your_ house, I wish it may be
+LINE 104: half as delightful as Pemberley."
+LINE 105: "I wish it may."
+LINE 106: "But I would really advise you to make your purchase in that
+LINE 107: neighbourhood, and take Pemberley for a kind of model. There is not a
+LINE 108: finer county in England than Derbyshire."
+LINE 109: "With all my heart; I will buy Pemberley itself if Darcy will sell it."
+LINE 110: "I am talking of possibilities, Charles."
+LINE 111: "Upon my word, Caroline, I should think it more possible to get
+LINE 112: Pemberley by purchase than by imitation."
+LINE 113: Elizabeth was so much caught by what passed, as to leave her very little
+LINE 114: attention for her book; and soon laying it wholly aside, she drew near
+LINE 115: the card-table, and stationed herself between Mr. Bingley and his eldest
+LINE 116: sister, to observe the game.
+LINE 117: "Is Miss Darcy much grown since the spring?" said Miss Bingley; "will
+LINE 118: she be as tall as I am?"
+LINE 119: "I think she will. She is now about Miss Elizabeth Bennet's height, or
+LINE 120: rather taller."
+LINE 121: "How I long to see her again! I never met with anybody who delighted me
+LINE 122: so much. Such a countenance, such manners! and so extremely
+LINE 123: accomplished for her age! Her performance on the piano-forte is
+LINE 124: exquisite."
+LINE 125: "It is amazing to me," said Bingley, "how young ladies can have patience
+LINE 126: to be so very accomplished, as they all are."
+LINE 127: "All young ladies accomplished! My dear Charles, what do you mean?"
+LINE 128: "Yes, all of them, I think. They all paint tables, cover skreens and net
+LINE 129: purses. I scarcely know any one who cannot do all this, and I am sure I
+LINE 130: never heard a young lady spoken of for the first time, without being
+LINE 131: informed that she was very accomplished."
+LINE 132: "Your list of the common extent of accomplishments," said Darcy, "has
+LINE 133: too much truth. The word is applied to many a woman who deserves it no
+LINE 134: otherwise than by netting a purse, or covering a skreen. But I am very
+LINE 135: far from agreeing with you in your estimation of ladies in general. I
+LINE 136: cannot boast of knowing more than half a dozen, in the whole range of my
+LINE 137: acquaintance, that are really accomplished."
+LINE 138: "Nor I, I am sure," said Miss Bingley.
+LINE 139: "Then," observed Elizabeth, "you must comprehend a great deal in your
+LINE 140: idea of an accomplished woman."
+LINE 141: "Yes; I do comprehend a great deal in it."
+LINE 142: "Oh! certainly," cried his faithful assistant, "no one can be really
+LINE 143: esteemed accomplished, who does not greatly surpass what is usually met
+LINE 144: with. A woman must have a thorough knowledge of music, singing, drawing,
+LINE 145: dancing, and the modern languages, to deserve the word; and besides all
+LINE 146: this, she must possess a certain something in her air and manner of
+LINE 147: walking, the tone of her voice, her address and expressions, or the word
+LINE 148: will be but half deserved."
+LINE 149: "All this she must possess," added Darcy, "and to all this she must yet
+LINE 150: add something more substantial, in the improvement of her mind by
+LINE 151: extensive reading."
+LINE 152: "I am no longer surprised at your knowing _only_ six accomplished women.
+LINE 153: I rather wonder now at your knowing _any_."
+LINE 154: "Are you so severe upon your own sex, as to doubt the possibility of all
+LINE 155: this?"
+LINE 156: "_I_ never saw such a woman. _I_ never saw such capacity, and taste, and
+LINE 157: application, and elegance, as you describe, united."
+LINE 158: Mrs. Hurst and Miss Bingley both cried out against the injustice of her
+LINE 159: implied doubt, and were both protesting that they knew many women who
+LINE 160: answered this description, when Mr. Hurst called them to order, with
+LINE 161: bitter complaints of their inattention to what was going forward. As all
+LINE 162: conversation was thereby at an end, Elizabeth soon afterwards left the
+LINE 163: room.
+LINE 164: "Eliza Bennet," said Miss Bingley, when the door was closed on her, "is
+LINE 165: one of those young ladies who seek to recommend themselves to the other
+LINE 166: sex, by undervaluing their own; and with many men, I dare say, it
+LINE 167: succeeds. But, in my opinion, it is a paltry device, a very mean art."
+LINE 168: "Undoubtedly," replied Darcy, to whom this remark was chiefly addressed,
+LINE 169: "there is meanness in _all_ the arts which ladies sometimes condescend
+LINE 170: to employ for captivation. Whatever bears affinity to cunning is
+LINE 171: despicable."
+LINE 172: Miss Bingley was not so entirely satisfied with this reply as to
+LINE 173: continue the subject.
+LINE 174: Elizabeth joined them again only to say that her sister was worse, and
+LINE 175: that she could not leave her. Bingley urged Mr. Jones's being sent for
+LINE 176: immediately; while his sisters, convinced that no country advice could
+LINE 177: be of any service, recommended an express to town for one of the most
+LINE 178: eminent physicians. This, she would not hear of; but she was not so
+LINE 179: unwilling to comply with their brother's proposal; and it was settled
+LINE 180: that Mr. Jones should be sent for early in the morning, if Miss Bennet
+LINE 181: were not decidedly better. Bingley was quite uncomfortable; his sisters
+LINE 182: declared that they were miserable. They solaced their wretchedness,
+LINE 183: however, by duets after supper, while he could find no better relief to
+LINE 184: his feelings than by giving his housekeeper directions that every
+LINE 185: possible attention might be paid to the sick lady and her sister.

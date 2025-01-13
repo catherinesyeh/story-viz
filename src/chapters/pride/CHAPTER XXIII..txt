@@ -1,0 +1,144 @@
+LINE 1: Elizabeth was sitting with her mother and sisters, reflecting on what
+LINE 2: she had heard, and doubting whether she were authorised to mention it,
+LINE 3: when Sir William Lucas himself appeared, sent by his daughter to
+LINE 4: announce her engagement to the family. With many compliments to them,
+LINE 5: and much self-gratulation on the prospect of a connection between the
+LINE 6: houses, he unfolded the matter,--to an audience not merely wondering,
+LINE 7: but incredulous; for Mrs. Bennet, with more perseverance than
+LINE 8: politeness, protested he must be entirely mistaken, and Lydia, always
+LINE 9: unguarded and often uncivil, boisterously exclaimed,
+LINE 10: "Good Lord! Sir William, how can you tell such a story?--Do not you know
+LINE 11: that Mr. Collins wants to marry Lizzy?"
+LINE 12: Nothing less than the complaisance of a courtier could have borne
+LINE 13: without anger such treatment; but Sir William's good breeding carried
+LINE 14: him through it all; and though he begged leave to be positive as to the
+LINE 15: truth of his information, he listened to all their impertinence with the
+LINE 16: most forbearing courtesy.
+LINE 17: Elizabeth, feeling it incumbent on her to relieve him from so unpleasant
+LINE 18: a situation, now put herself forward to confirm his account, by
+LINE 19: mentioning her prior knowledge of it from Charlotte herself; and
+LINE 20: endeavoured to put a stop to the exclamations of her mother and sisters,
+LINE 21: by the earnestness of her congratulations to Sir William, in which she
+LINE 22: was readily joined by Jane, and by making a variety of remarks on the
+LINE 23: happiness that might be expected from the match, the excellent character
+LINE 24: of Mr. Collins, and the convenient distance of Hunsford from London.
+LINE 25: Mrs. Bennet was in fact too much overpowered to say a great deal while
+LINE 26: Sir William remained; but no sooner had he left them than her feelings
+LINE 27: found a rapid vent. In the first place, she persisted in disbelieving
+LINE 28: the whole of the matter; secondly, she was very sure that Mr. Collins
+LINE 29: had been taken in; thirdly, she trusted that they would never be happy
+LINE 30: together; and fourthly, that the match might be broken off. Two
+LINE 31: inferences, however, were plainly deduced from the whole; one, that
+LINE 32: Elizabeth was the real cause of all the mischief; and the other, that
+LINE 33: she herself had been barbarously used by them all; and on these two
+LINE 34: points she principally dwelt during the rest of the day. Nothing could
+LINE 35: console and nothing appease her.--Nor did that day wear out her
+LINE 36: resentment. A week elapsed before she could see Elizabeth without
+LINE 37: scolding her, a month passed away before she could speak to Sir William
+LINE 38: or Lady Lucas without being rude, and many months were gone before she
+LINE 39: could at all forgive their daughter.
+LINE 40: Mr. Bennet's emotions were much more tranquil on the occasion, and such
+LINE 41: as he did experience he pronounced to be of a most agreeable sort; for
+LINE 42: it gratified him, he said, to discover that Charlotte Lucas, whom he had
+LINE 43: been used to think tolerably sensible, was as foolish as his wife, and
+LINE 44: more foolish than his daughter!
+LINE 45: Jane confessed herself a little surprised at the match; but she said
+LINE 46: less of her astonishment than of her earnest desire for their happiness;
+LINE 47: nor could Elizabeth persuade her to consider it as improbable. Kitty and
+LINE 48: Lydia were far from envying Miss Lucas, for Mr. Collins was only a
+LINE 49: clergyman; and it affected them in no other way than as a piece of news
+LINE 50: to spread at Meryton.
+LINE 51: Lady Lucas could not be insensible of triumph on being able to retort on
+LINE 52: Mrs. Bennet the comfort of having a daughter well married; and she
+LINE 53: called at Longbourn rather oftener than usual to say how happy she was,
+LINE 54: though Mrs. Bennet's sour looks and ill-natured remarks might have been
+LINE 55: enough to drive happiness away.
+LINE 56: Between Elizabeth and Charlotte there was a restraint which kept them
+LINE 57: mutually silent on the subject; and Elizabeth felt persuaded that no
+LINE 58: real confidence could ever subsist between them again. Her
+LINE 59: disappointment in Charlotte made her turn with fonder regard to her
+LINE 60: sister, of whose rectitude and delicacy she was sure her opinion could
+LINE 61: never be shaken, and for whose happiness she grew daily more anxious, as
+LINE 62: Bingley had now been gone a week, and nothing was heard of his return.
+LINE 63: Jane had sent Caroline an early answer to her letter, and was counting
+LINE 64: the days till she might reasonably hope to hear again. The promised
+LINE 65: letter of thanks from Mr. Collins arrived on Tuesday, addressed to their
+LINE 66: father, and written with all the solemnity of gratitude which a
+LINE 67: twelvemonth's abode in the family might have prompted. After discharging
+LINE 68: his conscience on that head, he proceeded to inform them, with many
+LINE 69: rapturous expressions, of his happiness in having obtained the affection
+LINE 70: of their amiable neighbour, Miss Lucas, and then explained that it was
+LINE 71: merely with the view of enjoying her society that he had been so ready
+LINE 72: to close with their kind wish of seeing him again at Longbourn, whither
+LINE 73: he hoped to be able to return on Monday fortnight; for Lady Catherine,
+LINE 74: he added, so heartily approved his marriage, that she wished it to take
+LINE 75: place as soon as possible, which he trusted would be an unanswerable
+LINE 76: argument with his amiable Charlotte to name an early day for making him
+LINE 77: the happiest of men.
+LINE 78: Mr. Collins's return into Hertfordshire was no longer a matter of
+LINE 79: pleasure to Mrs. Bennet. On the contrary she was as much disposed to
+LINE 80: complain of it as her husband.--It was very strange that he should come
+LINE 81: to Longbourn instead of to Lucas Lodge; it was also very inconvenient
+LINE 82: and exceedingly troublesome.--She hated having visitors in the house
+LINE 83: while her health was so indifferent, and lovers were of all people the
+LINE 84: most disagreeable. Such were the gentle murmurs of Mrs. Bennet, and they
+LINE 85: gave way only to the greater distress of Mr. Bingley's continued
+LINE 86: absence.
+LINE 87: Neither Jane nor Elizabeth were comfortable on this subject. Day after
+LINE 88: day passed away without bringing any other tidings of him than the
+LINE 89: report which shortly prevailed in Meryton of his coming no more to
+LINE 90: Netherfield the whole winter; a report which highly incensed Mrs.
+LINE 91: Bennet, and which she never failed to contradict as a most scandalous
+LINE 92: falsehood.
+LINE 93: Even Elizabeth began to fear--not that Bingley was indifferent--but that
+LINE 94: his sisters would be successful in keeping him away. Unwilling as she
+LINE 95: was to admit an idea so destructive of Jane's happiness, and so
+LINE 96: dishonourable to the stability of her lover, she could not prevent its
+LINE 97: frequently recurring. The united efforts of his two unfeeling sisters
+LINE 98: and of his overpowering friend, assisted by the attractions of Miss
+LINE 99: Darcy and the amusements of London, might be too much, she feared, for
+LINE 100: the strength of his attachment.
+LINE 101: As for Jane, _her_ anxiety under this suspence was, of course, more
+LINE 102: painful than Elizabeth's; but whatever she felt she was desirous of
+LINE 103: concealing, and between herself and Elizabeth, therefore, the subject
+LINE 104: was never alluded to. But as no such delicacy restrained her mother, an
+LINE 105: hour seldom passed in which she did not talk of Bingley, express her
+LINE 106: impatience for his arrival, or even require Jane to confess that if he
+LINE 107: did not come back, she should think herself very ill used. It needed all
+LINE 108: Jane's steady mildness to bear these attacks with tolerable
+LINE 109: tranquillity.
+LINE 110: Mr. Collins returned most punctually on the Monday fortnight, but his
+LINE 111: reception at Longbourn was not quite so gracious as it had been on his
+LINE 112: first introduction. He was too happy, however, to need much attention;
+LINE 113: and luckily for the others, the business of love-making relieved them
+LINE 114: from a great deal of his company. The chief of every day was spent by
+LINE 115: him at Lucas Lodge, and he sometimes returned to Longbourn only in time
+LINE 116: to make an apology for his absence before the family went to bed.
+LINE 117: Mrs. Bennet was really in a most pitiable state. The very mention of any
+LINE 118: thing concerning the match threw her into an agony of ill humour, and
+LINE 119: wherever she went she was sure of hearing it talked of. The sight of
+LINE 120: Miss Lucas was odious to her. As her successor in that house, she
+LINE 121: regarded her with jealous abhorrence. Whenever Charlotte came to see
+LINE 122: them she concluded her to be anticipating the hour of possession; and
+LINE 123: whenever she spoke in a low voice to Mr. Collins, was convinced that
+LINE 124: they were talking of the Longbourn estate, and resolving to turn herself
+LINE 125: and her daughters out of the house, as soon as Mr. Bennet were dead. She
+LINE 126: complained bitterly of all this to her husband.
+LINE 127: "Indeed, Mr. Bennet," said she, "it is very hard to think that Charlotte
+LINE 128: Lucas should ever be mistress of this house, that I should be forced to
+LINE 129: make way for _her_, and live to see her take my place in it!"
+LINE 130: "My dear, do not give way to such gloomy thoughts. Let us hope for
+LINE 131: better things. Let us flatter ourselves that _I_ may be the survivor."
+LINE 132: This was not very consoling to Mrs. Bennet, and, therefore, instead of
+LINE 133: making any answer, she went on as before,
+LINE 134: "I cannot bear to think that they should have all this estate. If it was
+LINE 135: not for the entail I should not mind it."
+LINE 136: "What should not you mind?"
+LINE 137: "I should not mind any thing at all."
+LINE 138: "Let us be thankful that you are preserved from a state of such
+LINE 139: insensibility."
+LINE 140: "I never can be thankful, Mr. Bennet, for any thing about the entail.
+LINE 141: How any one could have the conscience to entail away an estate from
+LINE 142: one's own daughters I cannot understand; and all for the sake of Mr.
+LINE 143: Collins too!--Why should _he_ have it more than anybody else?"
+LINE 144: "I leave it to yourself to determine," said Mr. Bennet.

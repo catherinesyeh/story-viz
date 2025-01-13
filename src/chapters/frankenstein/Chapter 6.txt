@@ -1,0 +1,234 @@
+LINE 1: Clerval then put the following letter into my hands. It was from my
+LINE 2: own Elizabeth:
+LINE 3: "My dearest Cousin,
+LINE 4: "You have been ill, very ill, and even the constant letters of dear
+LINE 5: kind Henry are not sufficient to reassure me on your account. You are
+LINE 6: forbidden to write—to hold a pen; yet one word from you, dear Victor,
+LINE 7: is necessary to calm our apprehensions. For a long time I have thought
+LINE 8: that each post would bring this line, and my persuasions have
+LINE 9: restrained my uncle from undertaking a journey to Ingolstadt. I have
+LINE 10: prevented his encountering the inconveniences and perhaps dangers of so
+LINE 11: long a journey, yet how often have I regretted not being able to
+LINE 12: perform it myself! I figure to myself that the task of attending on
+LINE 13: your sickbed has devolved on some mercenary old nurse, who could never
+LINE 14: guess your wishes nor minister to them with the care and affection of
+LINE 15: your poor cousin. Yet that is over now: Clerval writes that indeed
+LINE 16: you are getting better. I eagerly hope that you will confirm this
+LINE 17: intelligence soon in your own handwriting.
+LINE 18: "Get well—and return to us. You will find a happy, cheerful home and
+LINE 19: friends who love you dearly. Your father's health is vigorous, and he
+LINE 20: asks but to see you, but to be assured that you are well; and not a
+LINE 21: care will ever cloud his benevolent countenance. How pleased you would
+LINE 22: be to remark the improvement of our Ernest! He is now sixteen and full
+LINE 23: of activity and spirit. He is desirous to be a true Swiss and to enter
+LINE 24: into foreign service, but we cannot part with him, at least until his
+LINE 25: elder brother returns to us. My uncle is not pleased with the idea of
+LINE 26: a military career in a distant country, but Ernest never had your
+LINE 27: powers of application. He looks upon study as an odious fetter; his
+LINE 28: time is spent in the open air, climbing the hills or rowing on the
+LINE 29: lake. I fear that he will become an idler unless we yield the point
+LINE 30: and permit him to enter on the profession which he has selected.
+LINE 31: "Little alteration, except the growth of our dear children, has taken
+LINE 32: place since you left us. The blue lake and snow-clad mountains—they
+LINE 33: never change; and I think our placid home and our contented hearts are
+LINE 34: regulated by the same immutable laws. My trifling occupations take up
+LINE 35: my time and amuse me, and I am rewarded for any exertions by seeing
+LINE 36: none but happy, kind faces around me. Since you left us, but one
+LINE 37: change has taken place in our little household. Do you remember on
+LINE 38: what occasion Justine Moritz entered our family? Probably you do not;
+LINE 39: I will relate her history, therefore in a few words. Madame Moritz,
+LINE 40: her mother, was a widow with four children, of whom Justine was the
+LINE 41: third. This girl had always been the favourite of her father, but
+LINE 42: through a strange perversity, her mother could not endure her, and
+LINE 43: after the death of M. Moritz, treated her very ill. My aunt observed
+LINE 44: this, and when Justine was twelve years of age, prevailed on her mother
+LINE 45: to allow her to live at our house. The republican institutions of our
+LINE 46: country have produced simpler and happier manners than those which
+LINE 47: prevail in the great monarchies that surround it. Hence there is less
+LINE 48: distinction between the several classes of its inhabitants; and the
+LINE 49: lower orders, being neither so poor nor so despised, their manners are
+LINE 50: more refined and moral. A servant in Geneva does not mean the same
+LINE 51: thing as a servant in France and England. Justine, thus received in
+LINE 52: our family, learned the duties of a servant, a condition which, in our
+LINE 53: fortunate country, does not include the idea of ignorance and a
+LINE 54: sacrifice of the dignity of a human being.
+LINE 55: "Justine, you may remember, was a great favourite of yours; and I
+LINE 56: recollect you once remarked that if you were in an ill humour, one
+LINE 57: glance from Justine could dissipate it, for the same reason that
+LINE 58: Ariosto gives concerning the beauty of Angelica—she looked so
+LINE 59: frank-hearted and happy. My aunt conceived a great attachment for her,
+LINE 60: by which she was induced to give her an education superior to that
+LINE 61: which she had at first intended. This benefit was fully repaid;
+LINE 62: Justine was the most grateful little creature in the world: I do not
+LINE 63: mean that she made any professions I never heard one pass her lips, but
+LINE 64: you could see by her eyes that she almost adored her protectress.
+LINE 65: Although her disposition was gay and in many respects inconsiderate,
+LINE 66: yet she paid the greatest attention to every gesture of my aunt. She
+LINE 67: thought her the model of all excellence and endeavoured to imitate her
+LINE 68: phraseology and manners, so that even now she often reminds me of her.
+LINE 69: "When my dearest aunt died every one was too much occupied in their own
+LINE 70: grief to notice poor Justine, who had attended her during her illness
+LINE 71: with the most anxious affection. Poor Justine was very ill; but other
+LINE 72: trials were reserved for her.
+LINE 73: "One by one, her brothers and sister died; and her mother, with the
+LINE 74: exception of her neglected daughter, was left childless. The
+LINE 75: conscience of the woman was troubled; she began to think that the
+LINE 76: deaths of her favourites was a judgement from heaven to chastise her
+LINE 77: partiality. She was a Roman Catholic; and I believe her confessor
+LINE 78: confirmed the idea which she had conceived. Accordingly, a few months
+LINE 79: after your departure for Ingolstadt, Justine was called home by her
+LINE 80: repentant mother. Poor girl! She wept when she quitted our house; she
+LINE 81: was much altered since the death of my aunt; grief had given softness
+LINE 82: and a winning mildness to her manners, which had before been remarkable
+LINE 83: for vivacity. Nor was her residence at her mother's house of a nature
+LINE 84: to restore her gaiety. The poor woman was very vacillating in her
+LINE 85: repentance. She sometimes begged Justine to forgive her unkindness,
+LINE 86: but much oftener accused her of having caused the deaths of her
+LINE 87: brothers and sister. Perpetual fretting at length threw Madame Moritz
+LINE 88: into a decline, which at first increased her irritability, but she is
+LINE 89: now at peace for ever. She died on the first approach of cold weather,
+LINE 90: at the beginning of this last winter. Justine has just returned to us;
+LINE 91: and I assure you I love her tenderly. She is very clever and gentle,
+LINE 92: and extremely pretty; as I mentioned before, her mien and her
+LINE 93: expression continually remind me of my dear aunt.
+LINE 94: "I must say also a few words to you, my dear cousin, of little darling
+LINE 95: William. I wish you could see him; he is very tall of his age, with
+LINE 96: sweet laughing blue eyes, dark eyelashes, and curling hair. When he
+LINE 97: smiles, two little dimples appear on each cheek, which are rosy with
+LINE 98: health. He has already had one or two little _wives,_ but Louisa Biron
+LINE 99: is his favourite, a pretty little girl of five years of age.
+LINE 100: "Now, dear Victor, I dare say you wish to be indulged in a little
+LINE 101: gossip concerning the good people of Geneva. The pretty Miss Mansfield
+LINE 102: has already received the congratulatory visits on her approaching
+LINE 103: marriage with a young Englishman, John Melbourne, Esq. Her ugly
+LINE 104: sister, Manon, married M. Duvillard, the rich banker, last autumn. Your
+LINE 105: favourite schoolfellow, Louis Manoir, has suffered several misfortunes
+LINE 106: since the departure of Clerval from Geneva. But he has already
+LINE 107: recovered his spirits, and is reported to be on the point of marrying a
+LINE 108: lively pretty Frenchwoman, Madame Tavernier. She is a widow, and much
+LINE 109: older than Manoir; but she is very much admired, and a favourite with
+LINE 110: everybody.
+LINE 111: "I have written myself into better spirits, dear cousin; but my anxiety
+LINE 112: returns upon me as I conclude. Write, dearest Victor,—one line—one
+LINE 113: word will be a blessing to us. Ten thousand thanks to Henry for his
+LINE 114: kindness, his affection, and his many letters; we are sincerely
+LINE 115: grateful. Adieu! my cousin; take care of yourself; and, I entreat
+LINE 116: you, write!
+LINE 117: "Elizabeth Lavenza.
+LINE 118: "Geneva, March 18th, 17—."
+LINE 119: "Dear, dear Elizabeth!" I exclaimed, when I had read her
+LINE 120: letter: "I will write instantly and relieve them from the anxiety
+LINE 121: they must feel." I wrote, and this exertion greatly fatigued me; but
+LINE 122: my convalescence had commenced, and proceeded regularly. In another
+LINE 123: fortnight I was able to leave my chamber.
+LINE 124: One of my first duties on my recovery was to introduce Clerval to the
+LINE 125: several professors of the university. In doing this, I underwent a
+LINE 126: kind of rough usage, ill befitting the wounds that my mind had
+LINE 127: sustained. Ever since the fatal night, the end of my labours, and the
+LINE 128: beginning of my misfortunes, I had conceived a violent antipathy even
+LINE 129: to the name of natural philosophy. When I was otherwise quite restored
+LINE 130: to health, the sight of a chemical instrument would renew all the agony
+LINE 131: of my nervous symptoms. Henry saw this, and had removed all my
+LINE 132: apparatus from my view. He had also changed my apartment; for he
+LINE 133: perceived that I had acquired a dislike for the room which had
+LINE 134: previously been my laboratory. But these cares of Clerval were made of
+LINE 135: no avail when I visited the professors. M. Waldman inflicted torture
+LINE 136: when he praised, with kindness and warmth, the astonishing progress I
+LINE 137: had made in the sciences. He soon perceived that I disliked the
+LINE 138: subject; but not guessing the real cause, he attributed my feelings to
+LINE 139: modesty, and changed the subject from my improvement, to the science
+LINE 140: itself, with a desire, as I evidently saw, of drawing me out. What
+LINE 141: could I do? He meant to please, and he tormented me. I felt as if he
+LINE 142: had placed carefully, one by one, in my view those instruments which
+LINE 143: were to be afterwards used in putting me to a slow and cruel death. I
+LINE 144: writhed under his words, yet dared not exhibit the pain I felt.
+LINE 145: Clerval, whose eyes and feelings were always quick in discerning the
+LINE 146: sensations of others, declined the subject, alleging, in excuse, his
+LINE 147: total ignorance; and the conversation took a more general turn. I
+LINE 148: thanked my friend from my heart, but I did not speak. I saw plainly
+LINE 149: that he was surprised, but he never attempted to draw my secret from
+LINE 150: me; and although I loved him with a mixture of affection and reverence
+LINE 151: that knew no bounds, yet I could never persuade myself to confide in
+LINE 152: him that event which was so often present to my recollection, but which
+LINE 153: I feared the detail to another would only impress more deeply.
+LINE 154: M. Krempe was not equally docile; and in my condition at that time, of
+LINE 155: almost insupportable sensitiveness, his harsh blunt encomiums gave me even
+LINE 156: more pain than the benevolent approbation of M. Waldman. "D—n
+LINE 157: the fellow!" cried he; "why, M. Clerval, I assure you he has
+LINE 158: outstript us all. Ay, stare if you please; but it is nevertheless true. A
+LINE 159: youngster who, but a few years ago, believed in Cornelius Agrippa as firmly
+LINE 160: as in the gospel, has now set himself at the head of the university; and if
+LINE 161: he is not soon pulled down, we shall all be out of countenance.—Ay,
+LINE 162: ay," continued he, observing my face expressive of suffering,
+LINE 163: "M. Frankenstein is modest; an excellent quality in a young man.
+LINE 164: Young men should be diffident of themselves, you know, M. Clerval: I was
+LINE 165: myself when young; but that wears out in a very short time."
+LINE 166: M. Krempe had now commenced an eulogy on himself, which happily turned
+LINE 167: the conversation from a subject that was so annoying to me.
+LINE 168: Clerval had never sympathised in my tastes for natural science; and his
+LINE 169: literary pursuits differed wholly from those which had occupied me. He
+LINE 170: came to the university with the design of making himself complete
+LINE 171: master of the oriental languages, and thus he should open a field for
+LINE 172: the plan of life he had marked out for himself. Resolved to pursue no
+LINE 173: inglorious career, he turned his eyes toward the East, as affording
+LINE 174: scope for his spirit of enterprise. The Persian, Arabic, and Sanskrit
+LINE 175: languages engaged his attention, and I was easily induced to enter on
+LINE 176: the same studies. Idleness had ever been irksome to me, and now that I
+LINE 177: wished to fly from reflection, and hated my former studies, I felt
+LINE 178: great relief in being the fellow-pupil with my friend, and found not
+LINE 179: only instruction but consolation in the works of the orientalists. I
+LINE 180: did not, like him, attempt a critical knowledge of their dialects, for
+LINE 181: I did not contemplate making any other use of them than temporary
+LINE 182: amusement. I read merely to understand their meaning, and they well
+LINE 183: repaid my labours. Their melancholy is soothing, and their joy
+LINE 184: elevating, to a degree I never experienced in studying the authors of
+LINE 185: any other country. When you read their writings, life appears to
+LINE 186: consist in a warm sun and a garden of roses,—in the smiles and frowns
+LINE 187: of a fair enemy, and the fire that consumes your own heart. How
+LINE 188: different from the manly and heroical poetry of Greece and Rome!
+LINE 189: Summer passed away in these occupations, and my return to Geneva was
+LINE 190: fixed for the latter end of autumn; but being delayed by several
+LINE 191: accidents, winter and snow arrived, the roads were deemed impassable,
+LINE 192: and my journey was retarded until the ensuing spring. I felt this
+LINE 193: delay very bitterly; for I longed to see my native town and my beloved
+LINE 194: friends. My return had only been delayed so long, from an
+LINE 195: unwillingness to leave Clerval in a strange place, before he had become
+LINE 196: acquainted with any of its inhabitants. The winter, however, was spent
+LINE 197: cheerfully; and although the spring was uncommonly late, when it came
+LINE 198: its beauty compensated for its dilatoriness.
+LINE 199: The month of May had already commenced, and I expected the letter daily
+LINE 200: which was to fix the date of my departure, when Henry proposed a
+LINE 201: pedestrian tour in the environs of Ingolstadt, that I might bid a
+LINE 202: personal farewell to the country I had so long inhabited. I acceded
+LINE 203: with pleasure to this proposition: I was fond of exercise, and Clerval
+LINE 204: had always been my favourite companion in the ramble of this nature
+LINE 205: that I had taken among the scenes of my native country.
+LINE 206: We passed a fortnight in these perambulations: my health and spirits
+LINE 207: had long been restored, and they gained additional strength from the
+LINE 208: salubrious air I breathed, the natural incidents of our progress, and
+LINE 209: the conversation of my friend. Study had before secluded me from the
+LINE 210: intercourse of my fellow-creatures, and rendered me unsocial; but
+LINE 211: Clerval called forth the better feelings of my heart; he again taught
+LINE 212: me to love the aspect of nature, and the cheerful faces of children.
+LINE 213: Excellent friend! how sincerely you did love me, and endeavour to
+LINE 214: elevate my mind until it was on a level with your own. A selfish
+LINE 215: pursuit had cramped and narrowed me, until your gentleness and
+LINE 216: affection warmed and opened my senses; I became the same happy creature
+LINE 217: who, a few years ago, loved and beloved by all, had no sorrow or care.
+LINE 218: When happy, inanimate nature had the power of bestowing on me the most
+LINE 219: delightful sensations. A serene sky and verdant fields filled me with
+LINE 220: ecstasy. The present season was indeed divine; the flowers of spring
+LINE 221: bloomed in the hedges, while those of summer were already in bud. I
+LINE 222: was undisturbed by thoughts which during the preceding year had pressed
+LINE 223: upon me, notwithstanding my endeavours to throw them off, with an
+LINE 224: invincible burden.
+LINE 225: Henry rejoiced in my gaiety, and sincerely sympathised in my feelings: he
+LINE 226: exerted himself to amuse me, while he expressed the sensations that filled
+LINE 227: his soul. The resources of his mind on this occasion were truly
+LINE 228: astonishing: his conversation was full of imagination; and very often, in
+LINE 229: imitation of the Persian and Arabic writers, he invented tales of wonderful
+LINE 230: fancy and passion. At other times he repeated my favourite poems, or drew
+LINE 231: me out into arguments, which he supported with great ingenuity.
+LINE 232: We returned to our college on a Sunday afternoon: the peasants were
+LINE 233: dancing, and every one we met appeared gay and happy. My own spirits were
+LINE 234: high, and I bounded along with feelings of unbridled joy and hilarity.

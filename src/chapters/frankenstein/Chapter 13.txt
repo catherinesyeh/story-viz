@@ -1,0 +1,176 @@
+LINE 1: "I now hasten to the more moving part of my story. I shall relate
+LINE 2: events that impressed me with feelings which, from what I had been,
+LINE 3: have made me what I am.
+LINE 4: "Spring advanced rapidly; the weather became fine and the skies
+LINE 5: cloudless. It surprised me that what before was desert and gloomy
+LINE 6: should now bloom with the most beautiful flowers and verdure. My
+LINE 7: senses were gratified and refreshed by a thousand scents of delight and
+LINE 8: a thousand sights of beauty.
+LINE 9: "It was on one of these days, when my cottagers periodically rested
+LINE 10: from labour—the old man played on his guitar, and the children
+LINE 11: listened to him—that I observed the countenance of Felix was
+LINE 12: melancholy beyond expression; he sighed frequently, and once his father
+LINE 13: paused in his music, and I conjectured by his manner that he inquired
+LINE 14: the cause of his son's sorrow. Felix replied in a cheerful accent, and
+LINE 15: the old man was recommencing his music when someone tapped at the door.
+LINE 16: "It was a lady on horseback, accompanied by a country-man as a guide.
+LINE 17: The lady was dressed in a dark suit and covered with a thick black
+LINE 18: veil. Agatha asked a question, to which the stranger only replied by
+LINE 19: pronouncing, in a sweet accent, the name of Felix. Her voice was
+LINE 20: musical but unlike that of either of my friends. On hearing this word,
+LINE 21: Felix came up hastily to the lady, who, when she saw him, threw up her
+LINE 22: veil, and I beheld a countenance of angelic beauty and expression. Her
+LINE 23: hair of a shining raven black, and curiously braided; her eyes were
+LINE 24: dark, but gentle, although animated; her features of a regular
+LINE 25: proportion, and her complexion wondrously fair, each cheek tinged with
+LINE 26: a lovely pink.
+LINE 27: "Felix seemed ravished with delight when he saw her, every trait of
+LINE 28: sorrow vanished from his face, and it instantly expressed a degree of
+LINE 29: ecstatic joy, of which I could hardly have believed it capable; his
+LINE 30: eyes sparkled, as his cheek flushed with pleasure; and at that moment I
+LINE 31: thought him as beautiful as the stranger. She appeared affected by
+LINE 32: different feelings; wiping a few tears from her lovely eyes, she held
+LINE 33: out her hand to Felix, who kissed it rapturously and called her, as
+LINE 34: well as I could distinguish, his sweet Arabian. She did not appear to
+LINE 35: understand him, but smiled. He assisted her to dismount, and
+LINE 36: dismissing her guide, conducted her into the cottage. Some
+LINE 37: conversation took place between him and his father, and the young
+LINE 38: stranger knelt at the old man's feet and would have kissed his hand,
+LINE 39: but he raised her and embraced her affectionately.
+LINE 40: "I soon perceived that although the stranger uttered articulate sounds
+LINE 41: and appeared to have a language of her own, she was neither understood
+LINE 42: by nor herself understood the cottagers. They made many signs which I
+LINE 43: did not comprehend, but I saw that her presence diffused gladness
+LINE 44: through the cottage, dispelling their sorrow as the sun dissipates the
+LINE 45: morning mists. Felix seemed peculiarly happy and with smiles of
+LINE 46: delight welcomed his Arabian. Agatha, the ever-gentle Agatha, kissed
+LINE 47: the hands of the lovely stranger, and pointing to her brother, made
+LINE 48: signs which appeared to me to mean that he had been sorrowful until she
+LINE 49: came. Some hours passed thus, while they, by their countenances,
+LINE 50: expressed joy, the cause of which I did not comprehend. Presently I
+LINE 51: found, by the frequent recurrence of some sound which the stranger
+LINE 52: repeated after them, that she was endeavouring to learn their language;
+LINE 53: and the idea instantly occurred to me that I should make use of the
+LINE 54: same instructions to the same end. The stranger learned about twenty
+LINE 55: words at the first lesson; most of them, indeed, were those which I had
+LINE 56: before understood, but I profited by the others.
+LINE 57: "As night came on, Agatha and the Arabian retired early. When they
+LINE 58: separated Felix kissed the hand of the stranger and said, 'Good night
+LINE 59: sweet Safie.' He sat up much longer, conversing with his father, and
+LINE 60: by the frequent repetition of her name I conjectured that their lovely
+LINE 61: guest was the subject of their conversation. I ardently desired to
+LINE 62: understand them, and bent every faculty towards that purpose, but found
+LINE 63: it utterly impossible.
+LINE 64: "The next morning Felix went out to his work, and after the usual
+LINE 65: occupations of Agatha were finished, the Arabian sat at the feet of the
+LINE 66: old man, and taking his guitar, played some airs so entrancingly
+LINE 67: beautiful that they at once drew tears of sorrow and delight from my
+LINE 68: eyes. She sang, and her voice flowed in a rich cadence, swelling or
+LINE 69: dying away like a nightingale of the woods.
+LINE 70: "When she had finished, she gave the guitar to Agatha, who at first
+LINE 71: declined it. She played a simple air, and her voice accompanied it in
+LINE 72: sweet accents, but unlike the wondrous strain of the stranger. The old
+LINE 73: man appeared enraptured and said some words which Agatha endeavoured to
+LINE 74: explain to Safie, and by which he appeared to wish to express that she
+LINE 75: bestowed on him the greatest delight by her music.
+LINE 76: "The days now passed as peaceably as before, with the sole alteration
+LINE 77: that joy had taken place of sadness in the countenances of my friends.
+LINE 78: Safie was always gay and happy; she and I improved rapidly in the
+LINE 79: knowledge of language, so that in two months I began to comprehend most
+LINE 80: of the words uttered by my protectors.
+LINE 81: "In the meanwhile also the black ground was covered with herbage, and
+LINE 82: the green banks interspersed with innumerable flowers, sweet to the
+LINE 83: scent and the eyes, stars of pale radiance among the moonlight woods;
+LINE 84: the sun became warmer, the nights clear and balmy; and my nocturnal
+LINE 85: rambles were an extreme pleasure to me, although they were considerably
+LINE 86: shortened by the late setting and early rising of the sun, for I never
+LINE 87: ventured abroad during daylight, fearful of meeting with the same
+LINE 88: treatment I had formerly endured in the first village which I entered.
+LINE 89: "My days were spent in close attention, that I might more speedily
+LINE 90: master the language; and I may boast that I improved more rapidly than
+LINE 91: the Arabian, who understood very little and conversed in broken
+LINE 92: accents, whilst I comprehended and could imitate almost every word that
+LINE 93: was spoken.
+LINE 94: "While I improved in speech, I also learned the science of letters as
+LINE 95: it was taught to the stranger, and this opened before me a wide field
+LINE 96: for wonder and delight.
+LINE 97: "The book from which Felix instructed Safie was Volney's _Ruins
+LINE 98: of Empires_. I should not have understood the purport of this book had not
+LINE 99: Felix, in reading it, given very minute explanations. He had chosen this
+LINE 100: work, he said, because the declamatory style was framed in imitation of the
+LINE 101: Eastern authors. Through this work I obtained a cursory knowledge of history
+LINE 102: and a view of the several empires at present existing in the world; it gave
+LINE 103: me an insight into the manners, governments, and religions of the different
+LINE 104: nations of the earth. I heard of the slothful Asiatics, of the stupendous
+LINE 105: genius and mental activity of the Grecians, of the wars and wonderful virtue
+LINE 106: of the early Romans—of their subsequent degenerating—of the
+LINE 107: decline of that mighty empire, of chivalry, Christianity, and kings. I heard
+LINE 108: of the discovery of the American hemisphere and wept with Safie over the
+LINE 109: hapless fate of its original inhabitants.
+LINE 110: "These wonderful narrations inspired me with strange feelings. Was
+LINE 111: man, indeed, at once so powerful, so virtuous and magnificent, yet so
+LINE 112: vicious and base? He appeared at one time a mere scion of the evil
+LINE 113: principle and at another as all that can be conceived of noble and
+LINE 114: godlike. To be a great and virtuous man appeared the highest honour
+LINE 115: that can befall a sensitive being; to be base and vicious, as many on
+LINE 116: record have been, appeared the lowest degradation, a condition more
+LINE 117: abject than that of the blind mole or harmless worm. For a long time I
+LINE 118: could not conceive how one man could go forth to murder his fellow, or
+LINE 119: even why there were laws and governments; but when I heard details of
+LINE 120: vice and bloodshed, my wonder ceased and I turned away with disgust and
+LINE 121: loathing.
+LINE 122: "Every conversation of the cottagers now opened new wonders to me.
+LINE 123: While I listened to the instructions which Felix bestowed upon the
+LINE 124: Arabian, the strange system of human society was explained to me. I
+LINE 125: heard of the division of property, of immense wealth and squalid
+LINE 126: poverty, of rank, descent, and noble blood.
+LINE 127: "The words induced me to turn towards myself. I learned that the
+LINE 128: possessions most esteemed by your fellow creatures were high and
+LINE 129: unsullied descent united with riches. A man might be respected with
+LINE 130: only one of these advantages, but without either he was considered,
+LINE 131: except in very rare instances, as a vagabond and a slave, doomed to
+LINE 132: waste his powers for the profits of the chosen few! And what was I? Of
+LINE 133: my creation and creator I was absolutely ignorant, but I knew that I
+LINE 134: possessed no money, no friends, no kind of property. I was, besides,
+LINE 135: endued with a figure hideously deformed and loathsome; I was not even
+LINE 136: of the same nature as man. I was more agile than they and could
+LINE 137: subsist upon coarser diet; I bore the extremes of heat and cold with
+LINE 138: less injury to my frame; my stature far exceeded theirs. When I looked
+LINE 139: around I saw and heard of none like me. Was I, then, a monster, a blot
+LINE 140: upon the earth, from which all men fled and whom all men disowned?
+LINE 141: "I cannot describe to you the agony that these reflections inflicted
+LINE 142: upon me; I tried to dispel them, but sorrow only increased with
+LINE 143: knowledge. Oh, that I had for ever remained in my native wood, nor
+LINE 144: known nor felt beyond the sensations of hunger, thirst, and heat!
+LINE 145: "Of what a strange nature is knowledge! It clings to the mind when it
+LINE 146: has once seized on it like a lichen on the rock. I wished sometimes to
+LINE 147: shake off all thought and feeling, but I learned that there was but one
+LINE 148: means to overcome the sensation of pain, and that was death—a state
+LINE 149: which I feared yet did not understand. I admired virtue and good
+LINE 150: feelings and loved the gentle manners and amiable qualities of my
+LINE 151: cottagers, but I was shut out from intercourse with them, except
+LINE 152: through means which I obtained by stealth, when I was unseen and
+LINE 153: unknown, and which rather increased than satisfied the desire I had of
+LINE 154: becoming one among my fellows. The gentle words of Agatha and the
+LINE 155: animated smiles of the charming Arabian were not for me. The mild
+LINE 156: exhortations of the old man and the lively conversation of the loved
+LINE 157: Felix were not for me. Miserable, unhappy wretch!
+LINE 158: "Other lessons were impressed upon me even more deeply. I heard of the
+LINE 159: difference of sexes, and the birth and growth of children, how the
+LINE 160: father doted on the smiles of the infant, and the lively sallies of the
+LINE 161: older child, how all the life and cares of the mother were wrapped up
+LINE 162: in the precious charge, how the mind of youth expanded and gained
+LINE 163: knowledge, of brother, sister, and all the various relationships which
+LINE 164: bind one human being to another in mutual bonds.
+LINE 165: "But where were my friends and relations? No father had watched my
+LINE 166: infant days, no mother had blessed me with smiles and caresses; or if
+LINE 167: they had, all my past life was now a blot, a blind vacancy in which I
+LINE 168: distinguished nothing. From my earliest remembrance I had been as I
+LINE 169: then was in height and proportion. I had never yet seen a being
+LINE 170: resembling me or who claimed any intercourse with me. What was I? The
+LINE 171: question again recurred, to be answered only with groans.
+LINE 172: "I will soon explain to what these feelings tended, but allow me now to
+LINE 173: return to the cottagers, whose story excited in me such various
+LINE 174: feelings of indignation, delight, and wonder, but which all terminated
+LINE 175: in additional love and reverence for my protectors (for so I loved, in
+LINE 176: an innocent, half-painful self-deceit, to call them)."

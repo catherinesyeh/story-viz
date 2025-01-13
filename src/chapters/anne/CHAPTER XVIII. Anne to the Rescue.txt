@@ -1,0 +1,286 @@
+LINE 1: ALL things great are wound up with all things little. At first glance
+LINE 2: it might not seem that the decision of a certain Canadian Premier to
+LINE 3: include Prince Edward Island in a political tour could have much or
+LINE 4: anything to do with the fortunes of little Anne Shirley at Green Gables.
+LINE 5: But it had.
+LINE 6: It was a January the Premier came, to address his loyal supporters and
+LINE 7: such of his nonsupporters as chose to be present at the monster mass
+LINE 8: meeting held in Charlottetown. Most of the Avonlea people were on
+LINE 9: Premier's side of politics; hence on the night of the meeting nearly
+LINE 10: all the men and a goodly proportion of the women had gone to town thirty
+LINE 11: miles away. Mrs. Rachel Lynde had gone too. Mrs. Rachel Lynde was a
+LINE 12: red-hot politician and couldn't have believed that the political rally
+LINE 13: could be carried through without her, although she was on the opposite
+LINE 14: side of politics. So she went to town and took her husband--Thomas would
+LINE 15: be useful in looking after the horse--and Marilla Cuthbert with her.
+LINE 16: Marilla had a sneaking interest in politics herself, and as she thought
+LINE 17: it might be her only chance to see a real live Premier, she promptly
+LINE 18: took it, leaving Anne and Matthew to keep house until her return the
+LINE 19: following day.
+LINE 20: Hence, while Marilla and Mrs. Rachel were enjoying themselves hugely
+LINE 21: at the mass meeting, Anne and Matthew had the cheerful kitchen at Green
+LINE 22: Gables all to themselves. A bright fire was glowing in the old-fashioned
+LINE 23: Waterloo stove and blue-white frost crystals were shining on the
+LINE 24: windowpanes. Matthew nodded over a _Farmers' Advocate_ on the sofa and
+LINE 25: Anne at the table studied her lessons with grim determination, despite
+LINE 26: sundry wistful glances at the clock shelf, where lay a new book that
+LINE 27: Jane Andrews had lent her that day. Jane had assured her that it was
+LINE 28: warranted to produce any number of thrills, or words to that effect, and
+LINE 29: Anne's fingers tingled to reach out for it. But that would mean Gilbert
+LINE 30: Blythe's triumph on the morrow. Anne turned her back on the clock shelf
+LINE 31: and tried to imagine it wasn't there.
+LINE 32: "Matthew, did you ever study geometry when you went to school?"
+LINE 33: "Well now, no, I didn't," said Matthew, coming out of his doze with a
+LINE 34: start.
+LINE 35: "I wish you had," sighed Anne, "because then you'd be able to sympathize
+LINE 36: with me. You can't sympathize properly if you've never studied it. It is
+LINE 37: casting a cloud over my whole life. I'm such a dunce at it, Matthew."
+LINE 38: "Well now, I dunno," said Matthew soothingly. "I guess you're all right
+LINE 39: at anything. Mr. Phillips told me last week in Blair's store at Carmody
+LINE 40: that you was the smartest scholar in school and was making rapid
+LINE 41: progress. 'Rapid progress' was his very words. There's them as runs down
+LINE 42: Teddy Phillips and says he ain't much of a teacher, but I guess he's all
+LINE 43: right."
+LINE 44: Matthew would have thought anyone who praised Anne was "all right."
+LINE 45: "I'm sure I'd get on better with geometry if only he wouldn't change
+LINE 46: the letters," complained Anne. "I learn the proposition off by heart and
+LINE 47: then he draws it on the blackboard and puts different letters from what
+LINE 48: are in the book and I get all mixed up. I don't think a teacher should
+LINE 49: take such a mean advantage, do you? We're studying agriculture now and
+LINE 50: I've found out at last what makes the roads red. It's a great comfort.
+LINE 51: I wonder how Marilla and Mrs. Lynde are enjoying themselves. Mrs. Lynde
+LINE 52: says Canada is going to the dogs the way things are being run at Ottawa
+LINE 53: and that it's an awful warning to the electors. She says if women were
+LINE 54: allowed to vote we would soon see a blessed change. What way do you
+LINE 55: vote, Matthew?"
+LINE 56: "Conservative," said Matthew promptly. To vote Conservative was part of
+LINE 57: Matthew's religion.
+LINE 58: "Then I'm Conservative too," said Anne decidedly. "I'm glad because
+LINE 59: Gil--because some of the boys in school are Grits. I guess Mr. Phillips
+LINE 60: is a Grit too because Prissy Andrews's father is one, and Ruby Gillis
+LINE 61: says that when a man is courting he always has to agree with the girl's
+LINE 62: mother in religion and her father in politics. Is that true, Matthew?"
+LINE 63: "Well now, I dunno," said Matthew.
+LINE 64: "Did you ever go courting, Matthew?"
+LINE 65: "Well now, no, I dunno's I ever did," said Matthew, who had certainly
+LINE 66: never thought of such a thing in his whole existence.
+LINE 67: Anne reflected with her chin in her hands.
+LINE 68: "It must be rather interesting, don't you think, Matthew? Ruby Gillis
+LINE 69: says when she grows up she's going to have ever so many beaus on the
+LINE 70: string and have them all crazy about her; but I think that would be too
+LINE 71: exciting. I'd rather have just one in his right mind. But Ruby Gillis
+LINE 72: knows a great deal about such matters because she has so many big
+LINE 73: sisters, and Mrs. Lynde says the Gillis girls have gone off like hot
+LINE 74: cakes. Mr. Phillips goes up to see Prissy Andrews nearly every evening.
+LINE 75: He says it is to help her with her lessons but Miranda Sloane is
+LINE 76: studying for Queen's too, and I should think she needed help a lot more
+LINE 77: than Prissy because she's ever so much stupider, but he never goes to
+LINE 78: help her in the evenings at all. There are a great many things in this
+LINE 79: world that I can't understand very well, Matthew."
+LINE 80: "Well now, I dunno as I comprehend them all myself," acknowledged
+LINE 81: Matthew.
+LINE 82: "Well, I suppose I must finish up my lessons. I won't allow myself to
+LINE 83: open that new book Jane lent me until I'm through. But it's a terrible
+LINE 84: temptation, Matthew. Even when I turn my back on it I can see it there
+LINE 85: just as plain. Jane said she cried herself sick over it. I love a book
+LINE 86: that makes me cry. But I think I'll carry that book into the sitting
+LINE 87: room and lock it in the jam closet and give you the key. And you must
+LINE 88: _not_ give it to me, Matthew, until my lessons are done, not even if
+LINE 89: I implore you on my bended knees. It's all very well to say resist
+LINE 90: temptation, but it's ever so much easier to resist it if you can't get
+LINE 91: the key. And then shall I run down the cellar and get some russets,
+LINE 92: Matthew? Wouldn't you like some russets?"
+LINE 93: "Well now, I dunno but what I would," said Matthew, who never ate
+LINE 94: russets but knew Anne's weakness for them.
+LINE 95: Just as Anne emerged triumphantly from the cellar with her plateful of
+LINE 96: russets came the sound of flying footsteps on the icy board walk outside
+LINE 97: and the next moment the kitchen door was flung open and in rushed Diana
+LINE 98: Barry, white faced and breathless, with a shawl wrapped hastily around
+LINE 99: her head. Anne promptly let go of her candle and plate in her surprise,
+LINE 100: and plate, candle, and apples crashed together down the cellar ladder
+LINE 101: and were found at the bottom embedded in melted grease, the next day,
+LINE 102: by Marilla, who gathered them up and thanked mercy the house hadn't been
+LINE 103: set on fire.
+LINE 104: "Whatever is the matter, Diana?" cried Anne. "Has your mother relented
+LINE 105: at last?"
+LINE 106: "Oh, Anne, do come quick," implored Diana nervously. "Minnie May is
+LINE 107: awful sick--she's got croup. Young Mary Joe says--and Father and Mother
+LINE 108: are away to town and there's nobody to go for the doctor. Minnie May is
+LINE 109: awful bad and Young Mary Joe doesn't know what to do--and oh, Anne, I'm
+LINE 110: so scared!"
+LINE 111: Matthew, without a word, reached out for cap and coat, slipped past
+LINE 112: Diana and away into the darkness of the yard.
+LINE 113: "He's gone to harness the sorrel mare to go to Carmody for the doctor,"
+LINE 114: said Anne, who was hurrying on hood and jacket. "I know it as well as
+LINE 115: if he'd said so. Matthew and I are such kindred spirits I can read his
+LINE 116: thoughts without words at all."
+LINE 117: "I don't believe he'll find the doctor at Carmody," sobbed Diana. "I
+LINE 118: know that Dr. Blair went to town and I guess Dr. Spencer would go too.
+LINE 119: Young Mary Joe never saw anybody with croup and Mrs. Lynde is away. Oh,
+LINE 120: Anne!"
+LINE 121: "Don't cry, Di," said Anne cheerily. "I know exactly what to do for
+LINE 122: croup. You forget that Mrs. Hammond had twins three times. When you look
+LINE 123: after three pairs of twins you naturally get a lot of experience. They
+LINE 124: all had croup regularly. Just wait till I get the ipecac bottle--you
+LINE 125: mayn't have any at your house. Come on now."
+LINE 126: The two little girls hastened out hand in hand and hurried through
+LINE 127: Lover's Lane and across the crusted field beyond, for the snow was too
+LINE 128: deep to go by the shorter wood way. Anne, although sincerely sorry
+LINE 129: for Minnie May, was far from being insensible to the romance of the
+LINE 130: situation and to the sweetness of once more sharing that romance with a
+LINE 131: kindred spirit.
+LINE 132: The night was clear and frosty, all ebony of shadow and silver of snowy
+LINE 133: slope; big stars were shining over the silent fields; here and there the
+LINE 134: dark pointed firs stood up with snow powdering their branches and the
+LINE 135: wind whistling through them. Anne thought it was truly delightful to go
+LINE 136: skimming through all this mystery and loveliness with your bosom friend
+LINE 137: who had been so long estranged.
+LINE 138: Minnie May, aged three, was really very sick. She lay on the kitchen
+LINE 139: sofa feverish and restless, while her hoarse breathing could be heard
+LINE 140: all over the house. Young Mary Joe, a buxom, broad-faced French girl
+LINE 141: from the creek, whom Mrs. Barry had engaged to stay with the children
+LINE 142: during her absence, was helpless and bewildered, quite incapable of
+LINE 143: thinking what to do, or doing it if she thought of it.
+LINE 144: Anne went to work with skill and promptness.
+LINE 145: "Minnie May has croup all right; she's pretty bad, but I've seen them
+LINE 146: worse. First we must have lots of hot water. I declare, Diana, there
+LINE 147: isn't more than a cupful in the kettle! There, I've filled it up, and,
+LINE 148: Mary Joe, you may put some wood in the stove. I don't want to hurt your
+LINE 149: feelings but it seems to me you might have thought of this before if
+LINE 150: you'd any imagination. Now, I'll undress Minnie May and put her to bed
+LINE 151: and you try to find some soft flannel cloths, Diana. I'm going to give
+LINE 152: her a dose of ipecac first of all."
+LINE 153: Minnie May did not take kindly to the ipecac but Anne had not brought up
+LINE 154: three pairs of twins for nothing. Down that ipecac went, not only once,
+LINE 155: but many times during the long, anxious night when the two little girls
+LINE 156: worked patiently over the suffering Minnie May, and Young Mary Joe,
+LINE 157: honestly anxious to do all she could, kept up a roaring fire and heated
+LINE 158: more water than would have been needed for a hospital of croupy babies.
+LINE 159: It was three o'clock when Matthew came with a doctor, for he had been
+LINE 160: obliged to go all the way to Spencervale for one. But the pressing need
+LINE 161: for assistance was past. Minnie May was much better and was sleeping
+LINE 162: soundly.
+LINE 163: "I was awfully near giving up in despair," explained Anne. "She got
+LINE 164: worse and worse until she was sicker than ever the Hammond twins were,
+LINE 165: even the last pair. I actually thought she was going to choke to death.
+LINE 166: I gave her every drop of ipecac in that bottle and when the last dose
+LINE 167: went down I said to myself--not to Diana or Young Mary Joe, because I
+LINE 168: didn't want to worry them any more than they were worried, but I had
+LINE 169: to say it to myself just to relieve my feelings--'This is the last
+LINE 170: lingering hope and I fear, tis a vain one.' But in about three minutes
+LINE 171: she coughed up the phlegm and began to get better right away. You must
+LINE 172: just imagine my relief, doctor, because I can't express it in words. You
+LINE 173: know there are some things that cannot be expressed in words."
+LINE 174: "Yes, I know," nodded the doctor. He looked at Anne as if he were
+LINE 175: thinking some things about her that couldn't be expressed in words.
+LINE 176: Later on, however, he expressed them to Mr. and Mrs. Barry.
+LINE 177: "That little redheaded girl they have over at Cuthbert's is as smart as
+LINE 178: they make 'em. I tell you she saved that baby's life, for it would have
+LINE 179: been too late by the time I got there. She seems to have a skill and
+LINE 180: presence of mind perfectly wonderful in a child of her age. I never saw
+LINE 181: anything like the eyes of her when she was explaining the case to me."
+LINE 182: Anne had gone home in the wonderful, white-frosted winter morning, heavy
+LINE 183: eyed from loss of sleep, but still talking unweariedly to Matthew as
+LINE 184: they crossed the long white field and walked under the glittering fairy
+LINE 185: arch of the Lover's Lane maples.
+LINE 186: "Oh, Matthew, isn't it a wonderful morning? The world looks like
+LINE 187: something God had just imagined for His own pleasure, doesn't it? Those
+LINE 188: trees look as if I could blow them away with a breath--pouf! I'm so glad
+LINE 189: I live in a world where there are white frosts, aren't you? And I'm so
+LINE 190: glad Mrs. Hammond had three pairs of twins after all. If she hadn't I
+LINE 191: mightn't have known what to do for Minnie May. I'm real sorry I was
+LINE 192: ever cross with Mrs. Hammond for having twins. But, oh, Matthew, I'm so
+LINE 193: sleepy. I can't go to school. I just know I couldn't keep my eyes open
+LINE 194: and I'd be so stupid. But I hate to stay home, for Gil--some of
+LINE 195: the others will get head of the class, and it's so hard to get up
+LINE 196: again--although of course the harder it is the more satisfaction you
+LINE 197: have when you do get up, haven't you?"
+LINE 198: "Well now, I guess you'll manage all right," said Matthew, looking at
+LINE 199: Anne's white little face and the dark shadows under her eyes. "You just
+LINE 200: go right to bed and have a good sleep. I'll do all the chores."
+LINE 201: Anne accordingly went to bed and slept so long and soundly that it
+LINE 202: was well on in the white and rosy winter afternoon when she awoke and
+LINE 203: descended to the kitchen where Marilla, who had arrived home in the
+LINE 204: meantime, was sitting knitting.
+LINE 205: "Oh, did you see the Premier?" exclaimed Anne at once. "What did he look
+LINE 206: like Marilla?"
+LINE 207: "Well, he never got to be Premier on account of his looks," said
+LINE 208: Marilla. "Such a nose as that man had! But he can speak. I was proud of
+LINE 209: being a Conservative. Rachel Lynde, of course, being a Liberal, had no
+LINE 210: use for him. Your dinner is in the oven, Anne, and you can get yourself
+LINE 211: some blue plum preserve out of the pantry. I guess you're hungry.
+LINE 212: Matthew has been telling me about last night. I must say it was
+LINE 213: fortunate you knew what to do. I wouldn't have had any idea myself, for
+LINE 214: I never saw a case of croup. There now, never mind talking till you've
+LINE 215: had your dinner. I can tell by the look of you that you're just full up
+LINE 216: with speeches, but they'll keep."
+LINE 217: Marilla had something to tell Anne, but she did not tell it just then
+LINE 218: for she knew if she did Anne's consequent excitement would lift her
+LINE 219: clear out of the region of such material matters as appetite or dinner.
+LINE 220: Not until Anne had finished her saucer of blue plums did Marilla say:
+LINE 221: "Mrs. Barry was here this afternoon, Anne. She wanted to see you, but I
+LINE 222: wouldn't wake you up. She says you saved Minnie May's life, and she is
+LINE 223: very sorry she acted as she did in that affair of the currant wine. She
+LINE 224: says she knows now you didn't mean to set Diana drunk, and she hopes
+LINE 225: you'll forgive her and be good friends with Diana again. You're to go
+LINE 226: over this evening if you like for Diana can't stir outside the door
+LINE 227: on account of a bad cold she caught last night. Now, Anne Shirley, for
+LINE 228: pity's sake don't fly up into the air."
+LINE 229: The warning seemed not unnecessary, so uplifted and aerial was Anne's
+LINE 230: expression and attitude as she sprang to her feet, her face irradiated
+LINE 231: with the flame of her spirit.
+LINE 232: "Oh, Marilla, can I go right now--without washing my dishes? I'll wash
+LINE 233: them when I come back, but I cannot tie myself down to anything so
+LINE 234: unromantic as dishwashing at this thrilling moment."
+LINE 235: "Yes, yes, run along," said Marilla indulgently. "Anne Shirley--are you
+LINE 236: crazy? Come back this instant and put something on you. I might as well
+LINE 237: call to the wind. She's gone without a cap or wrap. Look at her tearing
+LINE 238: through the orchard with her hair streaming. It'll be a mercy if she
+LINE 239: doesn't catch her death of cold."
+LINE 240: Anne came dancing home in the purple winter twilight across the snowy
+LINE 241: places. Afar in the southwest was the great shimmering, pearl-like
+LINE 242: sparkle of an evening star in a sky that was pale golden and ethereal
+LINE 243: rose over gleaming white spaces and dark glens of spruce. The tinkles
+LINE 244: of sleigh bells among the snowy hills came like elfin chimes through
+LINE 245: the frosty air, but their music was not sweeter than the song in Anne's
+LINE 246: heart and on her lips.
+LINE 247: "You see before you a perfectly happy person, Marilla," she announced.
+LINE 248: "I'm perfectly happy--yes, in spite of my red hair. Just at present I
+LINE 249: have a soul above red hair. Mrs. Barry kissed me and cried and said she
+LINE 250: was so sorry and she could never repay me. I felt fearfully embarrassed,
+LINE 251: Marilla, but I just said as politely as I could, 'I have no hard
+LINE 252: feelings for you, Mrs. Barry. I assure you once for all that I did not
+LINE 253: mean to intoxicate Diana and henceforth I shall cover the past with the
+LINE 254: mantle of oblivion.' That was a pretty dignified way of speaking wasn't
+LINE 255: it, Marilla?"
+LINE 256: "I felt that I was heaping coals of fire on Mrs. Barry's head. And Diana
+LINE 257: and I had a lovely afternoon. Diana showed me a new fancy crochet stitch
+LINE 258: her aunt over at Carmody taught her. Not a soul in Avonlea knows it but
+LINE 259: us, and we pledged a solemn vow never to reveal it to anyone else. Diana
+LINE 260: gave me a beautiful card with a wreath of roses on it and a verse of
+LINE 261: poetry:"
+LINE 262: "If you love me as I love you
+LINE 263: Nothing but death can part us two."
+LINE 264: "And that is true, Marilla. We're going to ask Mr. Phillips to let us
+LINE 265: sit together in school again, and Gertie Pye can go with Minnie Andrews.
+LINE 266: We had an elegant tea. Mrs. Barry had the very best china set out,
+LINE 267: Marilla, just as if I was real company. I can't tell you what a thrill
+LINE 268: it gave me. Nobody ever used their very best china on my account before.
+LINE 269: And we had fruit cake and pound cake and doughnuts and two kinds of
+LINE 270: preserves, Marilla. And Mrs. Barry asked me if I took tea and said 'Pa,
+LINE 271: why don't you pass the biscuits to Anne?' It must be lovely to be grown
+LINE 272: up, Marilla, when just being treated as if you were is so nice."
+LINE 273: "I don't know about that," said Marilla, with a brief sigh.
+LINE 274: "Well, anyway, when I am grown up," said Anne decidedly, "I'm always
+LINE 275: going to talk to little girls as if they were too, and I'll never laugh
+LINE 276: when they use big words. I know from sorrowful experience how that hurts
+LINE 277: one's feelings. After tea Diana and I made taffy. The taffy wasn't very
+LINE 278: good, I suppose because neither Diana nor I had ever made any before.
+LINE 279: Diana left me to stir it while she buttered the plates and I forgot and
+LINE 280: let it burn; and then when we set it out on the platform to cool the cat
+LINE 281: walked over one plate and that had to be thrown away. But the making of
+LINE 282: it was splendid fun. Then when I came home Mrs. Barry asked me to come
+LINE 283: over as often as I could and Diana stood at the window and threw kisses
+LINE 284: to me all the way down to Lover's Lane. I assure you, Marilla, that I
+LINE 285: feel like praying tonight and I'm going to think out a special brand-new
+LINE 286: prayer in honor of the occasion."

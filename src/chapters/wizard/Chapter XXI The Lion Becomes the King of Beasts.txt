@@ -1,0 +1,78 @@
+LINE 1: After climbing down from the china wall the travelers found themselves
+LINE 2: in a disagreeable country, full of bogs and marshes and covered with
+LINE 3: tall, rank grass. It was difficult to walk without falling into muddy
+LINE 4: holes, for the grass was so thick that it hid them from sight. However,
+LINE 5: by carefully picking their way, they got safely along until they
+LINE 6: reached solid ground. But here the country seemed wilder than ever, and
+LINE 7: after a long and tiresome walk through the underbrush they entered
+LINE 8: another forest, where the trees were bigger and older than any they had
+LINE 9: ever seen.
+LINE 10: "This forest is perfectly delightful," declared the Lion, looking
+LINE 11: around him with joy. "Never have I seen a more beautiful place."
+LINE 12: "It seems gloomy," said the Scarecrow.
+LINE 13: "Not a bit of it," answered the Lion. "I should like to live here all
+LINE 14: my life. See how soft the dried leaves are under your feet and how rich
+LINE 15: and green the moss is that clings to these old trees. Surely no wild
+LINE 16: beast could wish a pleasanter home."
+LINE 17: "Perhaps there are wild beasts in the forest now," said Dorothy.
+LINE 18: "I suppose there are," returned the Lion, "but I do not see any of them
+LINE 19: about."
+LINE 20: They walked through the forest until it became too dark to go any
+LINE 21: farther. Dorothy and Toto and the Lion lay down to sleep, while the
+LINE 22: Woodman and the Scarecrow kept watch over them as usual.
+LINE 23: When morning came, they started again. Before they had gone far they
+LINE 24: heard a low rumble, as of the growling of many wild animals. Toto
+LINE 25: whimpered a little, but none of the others was frightened, and they
+LINE 26: kept along the well-trodden path until they came to an opening in the
+LINE 27: wood, in which were gathered hundreds of beasts of every variety. There
+LINE 28: were tigers and elephants and bears and wolves and foxes and all the
+LINE 29: others in the natural history, and for a moment Dorothy was afraid. But
+LINE 30: the Lion explained that the animals were holding a meeting, and he
+LINE 31: judged by their snarling and growling that they were in great trouble.
+LINE 32: As he spoke several of the beasts caught sight of him, and at once the
+LINE 33: great assemblage hushed as if by magic. The biggest of the tigers came
+LINE 34: up to the Lion and bowed, saying:
+LINE 35: "Welcome, O King of Beasts! You have come in good time to fight our
+LINE 36: enemy and bring peace to all the animals of the forest once more."
+LINE 37: "What is your trouble?" asked the Lion quietly.
+LINE 38: "We are all threatened," answered the tiger, "by a fierce enemy which
+LINE 39: has lately come into this forest. It is a most tremendous monster, like
+LINE 40: a great spider, with a body as big as an elephant and legs as long as a
+LINE 41: tree trunk. It has eight of these long legs, and as the monster crawls
+LINE 42: through the forest he seizes an animal with a leg and drags it to his
+LINE 43: mouth, where he eats it as a spider does a fly. Not one of us is safe
+LINE 44: while this fierce creature is alive, and we had called a meeting to
+LINE 45: decide how to take care of ourselves when you came among us."
+LINE 46: The Lion thought for a moment.
+LINE 47: "Are there any other lions in this forest?" he asked.
+LINE 48: "No; there were some, but the monster has eaten them all. And, besides,
+LINE 49: they were none of them nearly so large and brave as you."
+LINE 50: "If I put an end to your enemy, will you bow down to me and obey me as
+LINE 51: King of the Forest?" inquired the Lion.
+LINE 52: "We will do that gladly," returned the tiger; and all the other beasts
+LINE 53: roared with a mighty roar: "We will!"
+LINE 54: "Where is this great spider of yours now?" asked the Lion.
+LINE 55: "Yonder, among the oak trees," said the tiger, pointing with his
+LINE 56: forefoot.
+LINE 57: "Take good care of these friends of mine," said the Lion, "and I will
+LINE 58: go at once to fight the monster."
+LINE 59: He bade his comrades good-bye and marched proudly away to do battle
+LINE 60: with the enemy.
+LINE 61: The great spider was lying asleep when the Lion found him, and it
+LINE 62: looked so ugly that its foe turned up his nose in disgust. Its legs
+LINE 63: were quite as long as the tiger had said, and its body covered with
+LINE 64: coarse black hair. It had a great mouth, with a row of sharp teeth a
+LINE 65: foot long; but its head was joined to the pudgy body by a neck as
+LINE 66: slender as a wasp's waist. This gave the Lion a hint of the best way to
+LINE 67: attack the creature, and as he knew it was easier to fight it asleep
+LINE 68: than awake, he gave a great spring and landed directly upon the
+LINE 69: monster's back. Then, with one blow of his heavy paw, all armed with
+LINE 70: sharp claws, he knocked the spider's head from its body. Jumping down,
+LINE 71: he watched it until the long legs stopped wiggling, when he knew it was
+LINE 72: quite dead.
+LINE 73: The Lion went back to the opening where the beasts of the forest were
+LINE 74: waiting for him and said proudly:
+LINE 75: "You need fear your enemy no longer."
+LINE 76: Then the beasts bowed down to the Lion as their King, and he promised
+LINE 77: to come back and rule over them as soon as Dorothy was safely on her
+LINE 78: way to Kansas.

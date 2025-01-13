@@ -1,0 +1,472 @@
+LINE 1: THE LADY OF BARLEY WOOD.
+LINE 2: There was a mixture of dignity and simplicity in the reception which
+LINE 3: Mrs. Falconer gave her son's friend which did not fail to strike him.
+LINE 4: "We sup at nine o'clock, sir," she said, "we dine at one, and take tea
+LINE 5: at five. Thus it is to the first of these meals that I would bid you
+LINE 6: welcome, as it is close upon eight o'clock now. Will you follow me to
+LINE 7: your room?--which I hope you will find comfortable."
+LINE 8: "I am sure I shall," said Mr. Arundel, warmly. "It is very good of you,
+LINE 9: madam, to invite me to Fair Acres."
+LINE 10: These few words had passed in the hall; and the tap of Piers' crutches
+LINE 11: was heard approaching, while Nip and Pip came bustling about the
+LINE 12: new-comers, their short tails vibrating as if they were screwed on with
+LINE 13: a wire!
+LINE 14: "This is our youngest child, sir--Piers," Mrs. Falconer said.
+LINE 15: "Where is Joyce, mother?" Piers asked.
+LINE 16: "Your sister is behind; our chaise passed her close to the gate."
+LINE 17: "Why did not you come with her?" Piers asked, bluntly.
+LINE 18: "Because I was not allowed to do so," Mr. Arundel said, good-temperedly.
+LINE 19: "I can tell you what you will be glad to hear, that your sister did not
+LINE 20: forget your sparrow-hawk."
+LINE 21: Melville, who had after all been wrangling with the postboy about his
+LINE 22: gratuity in a somewhat undignified manner, now came into the hall as his
+LINE 23: father and Joyce appeared from a door under the wide staircase.
+LINE 24: "Well," said the squire, "you seem holding a counsel here; I hope it is
+LINE 25: peace, not war. Come, Melville, show your friend to his room."
+LINE 26: Considering how greatly the squire had been annoyed by his son's driving
+LINE 27: out in the post-chaise, he spoke kindly and pleasantly; but Melville was
+LINE 28: already assuming his grand airs.
+LINE 29: "Here, Arundel," he said, "I will take you to your room: first door on
+LINE 30: the left, I suppose?"
+LINE 31: "You will allow me to do as I have done all my life, Melville," said his
+LINE 32: mother. "I always go with my guests to their chambers, to see they are
+LINE 33: comfortable. Now, Mr. A_run_del."
+LINE 34: To Melville's horror, his mother put the accent on the second syllable.
+LINE 35: And as she tripped away--for her figure was still light and supple--he
+LINE 36: whispered: "He won't know who she means. Tell her, pray, not to say
+LINE 37: A_run_del."
+LINE 38: Joyce was indignant about the proceedings of the whole day, and she
+LINE 39: said:
+LINE 40: "If you think it becoming to correct your mother, do it yourself." Then,
+LINE 41: going up to her father, she put her hand through his arm. "Come and see
+LINE 42: the last brood of chickens with me and Piers. They are lovely, dear
+LINE 43: dad."
+LINE 44: Melville turned away with a satirical smile on his lips, thinking it was
+LINE 45: impossible to do anything with Joyce: she was content to let things
+LINE 46: remain as they were.
+LINE 47: Meantime his friend was conducted to the "best room" Mrs. Falconer had
+LINE 48: to offer--a spacious square room, with a large four-post bed, hung with
+LINE 49: white dimity, and so high that a pair of steps by which to climb into it
+LINE 50: did not seem out of place.
+LINE 51: The window was rather small for the size of the room, and the frames
+LINE 52: thick, but roses and honeysuckle hung their wreaths round it and
+LINE 53: perfumed the air.
+LINE 54: Mrs. Falconer showed Mr. Arundel the high chest of drawers, and pointed
+LINE 55: to a hanging-closet, one of the top panels of which was glass, so that
+LINE 56: it might have a dim light from the room.
+LINE 57: "I hope you will be comfortable," she said; "the sheets are well aired,
+LINE 58: and so were the mattresses and beds, by the fire. I never trust to
+LINE 59: servants, but see to those things myself. We sup at nine o'clock; and if
+LINE 60: you want anything please pull the bell."
+LINE 61: "You are very kind," Mr. Arundel said. "I hope my visit is not
+LINE 62: inconvenient."
+LINE 63: "Oh, no; the boys are coming home from school to-morrow. Three boys make
+LINE 64: some difference in a house; but I dare say you will be out a great deal
+LINE 65: with my son Melville." A scarcely perceptible sigh accompanied the
+LINE 66: words, and then Mrs. Falconer vanished; on the stairs she met Melville.
+LINE 67: "I say, mother, what have you got for supper? I hope there will be
+LINE 68: something that Arundel can eat. And, by the bye, mother, his name is
+LINE 69: _Ar_undel, not Ar_un_del."
+LINE 70: "Oh, is it, indeed! I don't know that it matters what a man is called.
+LINE 71: As to the supper, there's a round of beef, and a pie, and a baked
+LINE 72: custard, and plenty of bread and cheese."
+LINE 73: "I wish you could have some made dish to-morrow. Big joints are all very
+LINE 74: well for a pack of hungry schoolboys."
+LINE 75: Mrs. Falconer did not reply sharply, as she did sometimes. She turned
+LINE 76: and preceded Melville to his room, which was at the other end of the
+LINE 77: long passage or corridor, which ran across the house, dividing it into
+LINE 78: two parts, front and back. Melville followed her, and assumed a careless
+LINE 79: and indifferent air, throwing himself on the deep window-seat and giving
+LINE 80: a prolonged yawn.
+LINE 81: A pack of cards lay on the drawers, with a dicebox.
+LINE 82: "We had high words last night, Melville," his mother began; "and I was
+LINE 83: sorry----"
+LINE 84: "Don't scold or preach any more; I am sick of it. If you'll get my
+LINE 85: father to let me travel, I'll come back in two years and settle into
+LINE 86: quite the country-gentleman; but you can't expect a fellow to bury
+LINE 87: himself here at my age with a set of rustics."
+LINE 88: "I have heard all this before," his mother said, in a sad voice, very
+LINE 89: unlike her usual sharp tones. "What I want to ask is this: you have
+LINE 90: brought your friend here without so much as consulting your father or
+LINE 91: me. I ask a plain question, is he a well-behaved man and fit to be the
+LINE 92: associate of your sister and young brothers?"
+LINE 93: "Fit to associate with them! His mother is an Honourable, his
+LINE 94: grandfather was a peer. Fit to associate with us, indeed, who are
+LINE 95: nothing but a pack of farmers!"
+LINE 96: "So you said last evening. I don't care a fig for lords and ladies; nor
+LINE 97: princes either, for that matter: but this I say--if your friend teaches
+LINE 98: my boys to gamble and drink, and is not to be trusted with your sister,
+LINE 99: but may talk all kinds of rubbish to her, and you know it, you'll repent
+LINE 100: bringing him here to your latest day. I must just trust you, Melville,
+LINE 101: and if you say he is a well-behaved young man, well, I will believe you,
+LINE 102: and he is welcome to stay here."
+LINE 103: "My good mother, you have got hold of the wrong end of the stick. The
+LINE 104: fact is Gilbert Arundel is a trifle _too_ good. He has a sort of mission
+LINE 105: to reform _me_. He has helped me out of scrapes and--well, I owe him
+LINE 106: something; and so, as he is of high family, I asked him to come here, as
+LINE 107: we don't catch such folks often at Fair Acres. He said he would like a
+LINE 108: week in the country, and he is looking after some place in Bristol,
+LINE 109: which is handy; so I asked him to come on here. Now are you satisfied?"
+LINE 110: "I know looks don't go for much," Mrs. Falconer said, "but I do like
+LINE 111: his looks very much; and his manners, too."
+LINE 112: Mrs. Falconer hesitated, and seemed uncertain what she should say next.
+LINE 113: She was not given to much demonstration of affection at any time, but
+LINE 114: her mother's heart yearned over this shallow-pated, self-indulgent son
+LINE 115: of hers. It seemed but yesterday that he was seated on her knee and
+LINE 116: throwing his arms round her neck in his innocent childhood. But
+LINE 117: yesterday! and yet what a gulf lay between that time and this!
+LINE 118: She could not have told why, or what innermost chord was touched, but
+LINE 119: certain it is that she drew nearer Melville, and putting her hand on his
+LINE 120: forehead, and brushing back the stiff curls, which were persuaded by
+LINE 121: pomade to lie in regular order on his head, she kissed him fondly.
+LINE 122: "Oh! Melville," she said, "my son, my son, you know how dearly I love
+LINE 123: you. Do give up all your extravagant ways and high notions, and be a
+LINE 124: comfort to your father and me, and set your young brothers a good
+LINE 125: example."
+LINE 126: Even Melville was a little touched.
+LINE 127: "Yes," he said, kissing his mother in return, "yes, if you will let me
+LINE 128: off for a year, I will settle down and walk behind the plough, if you
+LINE 129: wish it then. Will that satisfy you?"
+LINE 130: She kissed him again, and saying, "I will see what I can do with father
+LINE 131: about your travelling," she resumed her accustomed brisk manner and left
+LINE 132: him.
+LINE 133: In spite of the large joint, and the big pie, the supper passed off
+LINE 134: pleasantly, for Gilbert Arundel listened to all the squire had to say,
+LINE 135: and showed an interest in agriculture and farming, and won golden
+LINE 136: opinions in consequence.
+LINE 137: Before the meal was over Mr. and Mrs. Falconer were both wondering how
+LINE 138: it was that their son and their guest could be friends; except by the
+LINE 139: law of contrast, a friendship between them seemed so impossible.
+LINE 140: The school boys arrived the next day; the first acre of grass was cut,
+LINE 141: and the weather remained perfect. On the third day there was tea in the
+LINE 142: hay-field, and every one, from the squire downwards, was in high
+LINE 143: spirits. No one could resist Gilbert Arundel. His were the free,
+LINE 144: unrestrained good manners of the true gentleman, who can accommodate
+LINE 145: himself to every circumstance, and is neither too fine nor too
+LINE 146: fastidious for anything, which comes in his way.
+LINE 147: Ralph, who was the grave-eyed student of the brothers, could not resist
+LINE 148: Gilbert's genial interest in his history of his success at the school at
+LINE 149: Exeter, where he was pursuing his education at one of the academies for
+LINE 150: young gentlemen, which are now a thing of the past.
+LINE 151: Bunny and Harry buried him in the hay and nearly smothered him, and
+LINE 152: Piers found abundant cause for liking him in the attention he gave to
+LINE 153: the peculiarities of an insect which he had found under one of the
+LINE 154: haycocks. Melville was lazily indifferent to what was passing, but he
+LINE 155: liked to lie full length under a spreading oak by the hedge, and have
+LINE 156: his tea brought to him in a large mug with a coppery coloured, brilliant
+LINE 157: surface which blazed in the light and concentrated the rays in a mimic
+LINE 158: sun on its outer side.
+LINE 159: What Mrs. Falconer called 'harvest-cakes' were freely dispersed with
+LINE 160: cider and mead, and the fields of Fair Acres had never seen a happier
+LINE 161: party collected at hay-making time than met there on this June day.
+LINE 162: Pip and Nip, exhausted with romping and hunting for field-mice, lay
+LINE 163: close to Melville; and Duke, with his wise head erect, despising rest
+LINE 164: while his master was astir, surveyed the whole scene with lofty
+LINE 165: indifference, which rivalled Melville's.
+LINE 166: It was about five o'clock when the unusual sound of wheels was heard in
+LINE 167: the road leading up to the house, and the squire, who was in the further
+LINE 168: part of the field, said:
+LINE 169: "There's a carriage driving up! I think it is Mrs. More's."
+LINE 170: "Mrs. More!" exclaimed Mrs. Falconer, sharply. "I hoped I had heard the
+LINE 171: last of the dairy-maid."
+LINE 172: Joyce, who was at that moment seated on a haycock, with her rake thrown
+LINE 173: carelessly at her side, sprang up. "Did you say Mrs. More's carriage,
+LINE 174: father? Oh, I am afraid--" She stopped.
+LINE 175: "Afraid of what?" Gilbert Arundel asked.
+LINE 176: "Oh, nothing; only Aunt Letitia said Mrs. More wanted to see me, or,
+LINE 177: rather, know me. Mother does not like Mrs. More, and Mrs. More thinks
+LINE 178: her very careless about the maids' education, just as Aunt Letitia
+LINE 179: thinks she is careless about mine; here comes Sarah."
+LINE 180: "If you please, ma'am, I was to say Mrs. More wished you to come and
+LINE 181: speak to her. She won't get out of the carriage, because her legs are
+LINE 182: too stiff."
+LINE 183: "Come, my dear," the squire said, "make haste, and go round to the front
+LINE 184: door."
+LINE 185: "Not I. I shall not make haste; indeed, I'll send Joyce instead. Go,
+LINE 186: Joyce, at once. Say we are having a hay-making party, and end with a
+LINE 187: supper when the last wain is carried; which, I'll be bound, she will
+LINE 188: call sinful."
+LINE 189: Joyce had to free herself from the wisps of hay which clung to her, and
+LINE 190: to smooth her tangled curls. They were confined by combs and pins, but
+LINE 191: all had fallen out in the scrimmage in the hay, and they now fell on
+LINE 192: either side of her flushed face. Perhaps she had never looked more
+LINE 193: lovely than at that moment when, turning to her father, she said:
+LINE 194: "Do you really wish me to go like this, dear dad?"
+LINE 195: "My dear, some one must go; and at once. Mrs. More is not a person to
+LINE 196: keep waiting."
+LINE 197: Joyce did not delay a moment, but went with her quick, light step across
+LINE 198: the field, and then through a little gate which opened into a belt of
+LINE 199: low-growing shrubs, beyond which was the carriage-road from the village.
+LINE 200: An old-fashioned _barouche_--old-fashioned even in those days--stood
+LINE 201: before the door, and sitting in it were two ladies; the elder one
+LINE 202: upright and alert, the younger leaning back as if to resign herself to
+LINE 203: the long waiting time, before any of the family appeared.
+LINE 204: Although comparatively near neighbours in the county, Joyce never
+LINE 205: remembered to have seen Mrs. More before. Her name was familiar enough,
+LINE 206: and her schools, established on all sides, were known by every one,
+LINE 207: though it cannot be said they were approved by every one.
+LINE 208: Mrs. More and her sister had in times past made some overtures towards
+LINE 209: Mrs. Falconer, but they were coldly repulsed, and a parcel of tracts had
+LINE 210: even been returned. Later there had been the disagreement about the
+LINE 211: dairy-maid, and the time for Mrs. Hannah More to carry the crusade into
+LINE 212: the enemy's camp was over. She had, in the year 1824, nearly numbered
+LINE 213: her four-score years; and the loss of her sisters, and repeated attacks
+LINE 214: of illness, made her more willing to rest from her labours, only taking
+LINE 215: care that the good seed sown in the days of health and vigour, should be
+LINE 216: watered and cared for, that it might yield a good harvest.
+LINE 217: It had happened that several times during the lovely spring of this year
+LINE 218: she had met Joyce Falconer driving in the high gig with her father, or
+LINE 219: trotting by his side on the rough pony, the use of which she shared with
+LINE 220: all her young brothers. The sweet, frank face had attracted her, and she
+LINE 221: had inquired about Joyce when on a visit of ceremony at the Palace at
+LINE 222: Wells a few weeks before.
+LINE 223: The result was, as we know, that Miss Falconer gave a melancholy account
+LINE 224: of her niece's ignorance, which she believed was entirely due to her
+LINE 225: mother's prejudices as to boarding-schools and her father's
+LINE 226: over-indulgence and excessive affection for his only daughter.
+LINE 227: With her accustomed sympathy with all the young who were just setting
+LINE 228: forth on life's journey, Mrs. More determined to see something of Mr.
+LINE 229: Falconer's little daughter, and her aunt's letter had decided her to
+LINE 230: lose no time in paying a visit to Fair Acres.
+LINE 231: As Joyce came up to the steps of the carriage Mrs. More held out her
+LINE 232: hand--a white, delicately-formed hand, half covered by a lace mitten.
+LINE 233: Joyce had heard Mrs. More spoken of as an old lady of near eighty, and
+LINE 234: her surprise was written on her lovely face, as she said, simply:
+LINE 235: "Are you Mrs. More?"
+LINE 236: For the beautiful dark eyes were still lustrous, and the lips, parted
+LINE 237: with a smile, displayed a row of even teeth which many a young woman in
+LINE 238: these days might envy. A quantity of white hair was turned back from a
+LINE 239: round, full forehead, which was shadowed by a drawn-silk riding-hood,
+LINE 240: with a deep curtain and a wide bow under the chin. Intellect and
+LINE 241: benevolence shone on the face, which was marked by few lines, and the
+LINE 242: still young spirit lighted up the whole countenance as Mrs. More said:
+LINE 243: "Yes, I am Mrs. More; and I have come to pay my respects to your good
+LINE 244: father and mother, and to make your acquaintance."
+LINE 245: "A great hay-making party is in the home meadow," Joyce said. "My mother
+LINE 246: bids me present her apology; but my father will be here, I think,
+LINE 247: shortly. Will you not alight from the carriage?"
+LINE 248: "No, thank you kindly, my dear;" and turning to Miss Frowde: "my friend
+LINE 249: thinks me over-bold to drive so great a distance as this; but a desire
+LINE 250: to convey to you an invitation in person has brought me hither, in the
+LINE 251: delightful cool of the summer afternoon."
+LINE 252: "We must be getting home before the dew falls," Miss Frowde said,
+LINE 253: addressing Joyce for the first time; "I have to take great care of
+LINE 254: precious Mrs. More."
+LINE 255: "Miss Frowde is kindly solicitous," the old lady said; "I should be
+LINE 256: ungrateful to disobey her orders so if I may ask for a drink of water
+LINE 257: for the horses, and a cup of cider for the post-boy, we will not delay
+LINE 258: our departure beyond a few minutes."
+LINE 259: "I am so sorry," Joyce began, "that all the people are in the hay-field;
+LINE 260: but I will send a message for a man who will attend to the horses, if
+LINE 261: you will excuse me for a moment." She tripped away into the house, and
+LINE 262: very soon the maid, who had been left in charge, was despatched to the
+LINE 263: hay-field, while Joyce returned to the carriage with a jug of milk and
+LINE 264: two glasses on a tray, with some sweet cakes of her own making, and
+LINE 265: said:
+LINE 266: "May I ask you, madam, to take a glass of milk, as a little
+LINE 267: refreshment?"
+LINE 268: Hannah More beamed down upon the sweet young face with her brightest
+LINE 269: smile. She sipped the milk and told her companion to taste the lightest
+LINE 270: little cakes she ever ate; then she said:
+LINE 271: "After all, I have not come to the real object of my call. I want your
+LINE 272: parents to spare you to me for a visit; and that you may not lack
+LINE 273: company, Miss Frowde will invite your cousin from the Close at Wells to
+LINE 274: meet you."
+LINE 275: "Thank you, madam," Joyce said; "but I fear I cannot be spared during my
+LINE 276: little brothers' holidays. But here comes father."
+LINE 277: The squire made the ladies in the carriage a low bow, and said the water
+LINE 278: was ordered for the horses, and he much wished Mrs. More would alight
+LINE 279: from the carriage, and take some refreshment.
+LINE 280: "The refreshment has been brought to me by the hands of your young
+LINE 281: Hebe," Mrs. More said, smiling. "As to alighting, my limbs are stiff
+LINE 282: with age, and when once ensconced in my easy old chariot I am unwilling
+LINE 283: to leave it. But, Mr. Falconer, I came with a petition, for what is, I
+LINE 284: am sure, a precious possession: let me have your daughter at Barley Wood
+LINE 285: for a month. I hope, God willing, to return your treasure, with interest
+LINE 286: on the loan. Do not refuse me."
+LINE 287: "Thank you kindly, madam," said the squire; "but her mother must be
+LINE 288: consulted. Her little brothers demand much of her attention in the
+LINE 289: holidays, and Joyce has to share her mother's labours in many ways. I
+LINE 290: fear she cannot be spared. What say you, my Sunshine?"
+LINE 291: "I could not be spared yet, father; but later--" adding, with glistening
+LINE 292: eyes--"I should like to go to Barley Wood."
+LINE 293: The squire put his arm round his daughter, and said:
+LINE 294: "And I should like you to have the pleasure; but your mother----"
+LINE 295: "Well, well," Mrs. More said, "then we will leave it, subject to certain
+LINE 296: conditions. The Bible meeting at Wrington comes on early in July. I
+LINE 297: shall have many excellent friends as my guests then, and the little
+LINE 298: Sunshine--I like that name vastly--might dispense a little brightness
+LINE 299: amongst us, and receive some solid good from intercourse with my friend.
+LINE 300: May I hope to see you early in July?"
+LINE 301: "We will see about it, madam," the squire said; "and both Sunshine and I
+LINE 302: feel gratified by your kind proposal."
+LINE 303: "Well, then, we leave it so, and I trust to you to drop me a line, my
+LINE 304: child, when your visit can be made. We shall find a corner for you and
+LINE 305: your cousin--if only a pigeonhole. You will not grumble, I dare say, but
+LINE 306: nestle in comfortably."
+LINE 307: "The sun is getting low, dearest Mrs. More," Miss Frowde said; "we
+LINE 308: should be starting homewards."
+LINE 309: "Yes, you are right." Then drawing from a large basket some books, Mrs.
+LINE 310: More singled out one, and, bending down towards Joyce, said:
+LINE 311: "This is the best of books; in it is to be found treasures of riches and
+LINE 312: knowledge. Accept the Bible from me, as a token of desire that now, in
+LINE 313: the days of your youth, you may find the Pearl of great price. No one
+LINE 314: can object to _this gift_, though objection to other books may be
+LINE 315: urged."
+LINE 316: Joyce took the Bible with a low-spoken "Thank you!" and her father
+LINE 317: glancing at it, said:
+LINE 318: "You are very good to my little daughter, and I, at least, am grateful."
+LINE 319: The squire had been secretly hoping that his wife would change her mind
+LINE 320: and appear, but his hopes were not realised. The carriage rolled off at
+LINE 321: a leisurely even pace; the good-byes were said, but Mrs. Falconer did
+LINE 322: not appear.
+LINE 323: "It is a pity mother did not come," Joyce said. "What a lovely old lady
+LINE 324: Mrs. More is."
+LINE 325: "Yes," and the squire sighed. "You have got a Bible, Joyce."
+LINE 326: "An old one, not like this," Joyce said, "with gilt edges and such a
+LINE 327: nice purple binding; and I like to have it from Mrs. More. See, father,
+LINE 328: there are pencil marks in it."
+LINE 329: The squire looked over Joyce's shoulder at the page on which she had
+LINE 330: opened. It was the last chapter of Proverbs, and the words were
+LINE 331: underlined: "Her price is above rubies."
+LINE 332: "Carry the book upstairs, Joyce; you had better not display it at
+LINE 333: present. Then come back to the hay-field as fast as you can. Mother will
+LINE 334: be expecting you."
+LINE 335: Joyce did as she was told, and hastened away with her precious book. As
+LINE 336: she turned over the pages she saw the pencil marks were frequent. It was
+LINE 337: evidently Mrs. More's way of silent instruction; and for the first time
+LINE 338: in her young life, Joyce seemed to find in the Bible, words which
+LINE 339: applied to herself.
+LINE 340: "Be not overcome of evil," was underlined; "but overcome evil with
+LINE 341: good."
+LINE 342: "That means I am not to let Melville's ways get the better of me, and
+LINE 343: make me cross to him and contemptuous. I must try and overcome by being
+LINE 344: kind; and then----"
+LINE 345: She was startled by her mother's voice:
+LINE 346: "Joyce, what are you about? come down at once. The men want some more
+LINE 347: cakes, and you may as well trudge down to the field, as I----"
+LINE 348: Joyce ran down immediately, first hiding her Bible in the small drawer
+LINE 349: of the high chest in her room.
+LINE 350: "I wish you had come sooner, mother, and seen Mrs. More."
+LINE 351: "Do you? I waited till I heard the wheels in the road before I came; but
+LINE 352: now I am here, I mean to stay. I want to make some custards for supper,
+LINE 353: and whip the cream for a syllabub. Mr. Arundel shan't grumble at his
+LINE 354: fare."
+LINE 355: "Mrs. More is a beautiful old lady," Joyce said.
+LINE 356: "She did not give you any tracts, I hope," Mrs. Falconer said. "I won't
+LINE 357: have any cant, and rank Methodism here. You know my mind, Joyce."
+LINE 358: "Yes, mother," Joyce said, gently. "But I should like to pay a visit to
+LINE 359: Barley Wood. Do you think, when the boys return to school, I _may_ go."
+LINE 360: "Well, we will see about it. If you want to gad about you must go, I
+LINE 361: suppose. You all seem alike now; no rest and no peace unless you are
+LINE 362: scouring the country like so many wild things. It was very different in
+LINE 363: my young days. I don't know that I ever slept a night from under my
+LINE 364: father's roof till I married. I don't mind your going to Barley Wood at
+LINE 365: the proper time, but I'll have no tracts and no nonsense here, or
+LINE 366: setting up servant-girls to be wiser than their betters; for all this
+LINE 367: talk, and preaching, and reading, and writing, the Mendip folk are as
+LINE 368: bad, as bad can be. Mrs. More has not done much there, anyhow. That was
+LINE 369: plain enough the other day, when the man was brought before the
+LINE 370: justices, and they were a pack of chicken-hearts, and dare not commit
+LINE 371: him for fear of getting their heads broken as they rode home; your
+LINE 372: father was the only brave man amongst them, and held out that the rascal
+LINE 373: should be committed for trial."
+LINE 374: All this was said in Mrs. Falconer's voluble fashion, while she was
+LINE 375: engaged in piling up a basket full of harvest cakes, which Joyce soon
+LINE 376: bore off to the field, where her brothers, and Nip and Pip were still
+LINE 377: tossing about the sweet hay, and burying themselves and everyone else
+LINE 378: under it. Piers threw a wisp with the end of his crutch at Joyce as she
+LINE 379: came, and Bunny rushed to possess himself of the basket and scatter the
+LINE 380: cakes about, which the younger part of the haymakers scrambled for,
+LINE 381: head foremost, burrowing in the tussocks of hay, like so many young
+LINE 382: ferrets, while Nip and Pip barked and danced about in the extremity of
+LINE 383: their excitement.
+LINE 384: The fair weather lasted all through the week, and Sunday dawned in
+LINE 385: cloudless beauty. Fair Acres did not have the services of one clergyman,
+LINE 386: but shared the ministrations of the vicar, with another small parish.
+LINE 387: The cracked bell began to ring in a querulous, uncertain fashion on
+LINE 388: Sunday morning, and punctually at half-past ten Mrs. Falconer marshalled
+LINE 389: her flock down the road to the church.
+LINE 390: The church, though small, was architecturally a fine specimen of Early
+LINE 391: English, and raised a noble tower to the sky; but the interior was
+LINE 392: dilapidated, and the pillars were covered with many coats of yellow
+LINE 393: wash, and the pews were hung with moth-eaten cloth. The squire's pew was
+LINE 394: like a square room, with a fire-place and cushioned seats, and a high
+LINE 395: desk for the books ran round it.
+LINE 396: Mrs. Falconer and her husband sat facing each other on either side of
+LINE 397: the door of the pew, and the boys were ranged round, while at the
+LINE 398: further end Joyce sat with Mr. Arundel, a place being left for Melville.
+LINE 399: Just as the clergyman had hurried on his very crumpled surplice, and the
+LINE 400: band in the gallery struck up the familiar air to which the morning hymn
+LINE 401: was sung, Melville, dressed in his best, came up the uneven pavement of
+LINE 402: the aisle with the proud consciousness of superiority to the rest of the
+LINE 403: world. His father threw back the door, and he passed up to the further
+LINE 404: end of the seat, nodding carelessly to Mr. Arundel, who made no sign in
+LINE 405: return. Chatting and making engagements for the week was at this time
+LINE 406: very common in church. There was scant reverence shown for the house of
+LINE 407: God. He was a God afar off, and the formal recognition of some sort of
+LINE 408: allegiance to Him being respectable and necessary for the maintenance of
+LINE 409: social position, brought people like Mrs. Falconer to church Sunday
+LINE 410: after Sunday.
+LINE 411: Mrs. Falconer and the squire, with their family, were never absent from
+LINE 412: their places, and Mr. Watson, the squire's agent, acting as sidesman,
+LINE 413: was also regular in his attendance.
+LINE 414: But it was a lifeless mechanical service on the part of both minister
+LINE 415: and people; and the loud Amens of the old clerk were the only responses
+LINE 416: to be heard. The Psalms at the end of the book of Common Prayer were
+LINE 417: used, accompanied by a strangely-assorted band in the worm-eaten
+LINE 418: gallery, and two or three men and boys supplemented the scraping of the
+LINE 419: fiddle and bassoon with singing, which might well be called bawling.
+LINE 420: Nor was Fair Acres an isolated instance of country parish churches; and
+LINE 421: city churches, too, at this date. The great tide of the evangelical
+LINE 422: movement had, it is true, set steadily in, and was soon to cover the
+LINE 423: kingdom with its healing and reviving waters; but its streams did not
+LINE 424: penetrate into the heart of the hills, and small outlying villages went
+LINE 425: on, with no schools and no resident clergymen, and were contented
+LINE 426: because they were asleep.
+LINE 427: Of course the sound of "the waters of Siloah" were heard in
+LINE 428: Somersetshire as, one by one, Hannah More's schools grew and flourished,
+LINE 429: and, one by one, her enemies became her friends. But the apathy at Fair
+LINE 430: Acres on the part of the clergyman, and the determination of Mrs.
+LINE 431: Falconer to set her face like a flint against all innovations, was
+LINE 432: thought to be praiseworthy, and to show a laudable desire to resist
+LINE 433: methodism in whatever form it took.
+LINE 434: Gilbert Arundel's home-training had been very different from that of his
+LINE 435: friend. His mother had early in life been brought in contact with
+LINE 436: several of the fathers of the evangelical school, and the spirit had
+LINE 437: quickened her faith into living heart service.
+LINE 438: "How my mother would admire her!" Gilbert thought, as he carried away
+LINE 439: with him from the church the picture, in his mind, of the squire's young
+LINE 440: daughter, as she followed the Psalms in the big prayer-book on the desk,
+LINE 441: and with her arm round Piers to steady him, pointed with her finger to
+LINE 442: the words, reading the alternate verse with old Simkins, the clerk, in a
+LINE 443: voice which Gilbert could barely catch, though he strained his ears to
+LINE 444: do so.
+LINE 445: There was an entire absence of self-consciousness in Joyce; and if the
+LINE 446: undulations of the small mirror over her high chest of drawers,
+LINE 447: permitted her to discern anything like the real reflection of her lovely
+LINE 448: face, she did not give it much thought.
+LINE 449: Brothers are not wont to admire their sisters or to tell them they are
+LINE 450: fair to look upon, and Joyce would have been very much surprised if she
+LINE 451: had heard that her brother Melville said, she only wanted the
+LINE 452: accessories of fashionable dress to be accounted a belle at Bath or
+LINE 453: Clifton, nay, even likely to make a sensation in the great world of
+LINE 454: London life.
+LINE 455: She was a hopeless rustic now, but he saw in her capabilities which few
+LINE 456: girls possessed.
+LINE 457: He had said nothing about Joyce's beauty to Mr. Arundel, because he was,
+LINE 458: in his folly, ashamed to confess how devoid Joyce was of the ornaments
+LINE 459: which went so far to form his own estimate of a woman, and Mr. Arundel's
+LINE 460: silence about Joyce, since that first day at the cathedral, seemed to
+LINE 461: him to show that he only praised her at first, because she was his
+LINE 462: sister out of courtesy, and that he was, as every man of taste must be,
+LINE 463: disappointed with her on nearer acquaintance. Superficial and foolish
+LINE 464: himself, he was almost unable to appreciate the earnest sincerity of his
+LINE 465: friend, and on this particular Sunday his temper had been tried by the
+LINE 466: arrival of a letter from the Palace at Wells, brought over on the
+LINE 467: previous evening by a special messenger, in which the Lord Bishop of
+LINE 468: Bath and Wells requested the pleasure of Mr. Arundel's company at dinner
+LINE 469: on the following Monday, but made no mention of him. He inwardly voted
+LINE 470: the bishop "a stupid old bat," as every one _must_ be who was blind to
+LINE 471: his perfections!
+LINE 472: [Illustration]

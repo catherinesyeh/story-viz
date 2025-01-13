@@ -1,0 +1,147 @@
+LINE 1: Elara sat in her cottage, the loom in front of her untouched. The room felt too
+LINE 2: small, too close, like the walls were pressing in. She had woven nothing since
+LINE 3: Maelis's last visit, and now the silence of the loom echoed through her mind.
+LINE 4: The threads sat in a tangled mess, mirroring the chaos of her thoughts. She had
+LINE 5: tried so hard to control her gift, to keep it from causing harm, but now
+LINE 6: everything was slipping out of her hands.
+LINE 7: The air outside was thick with the tension that had been building for days, and
+LINE 8: Elara could feel it even through the closed windows. The village was on edge,
+LINE 9: the strange events that had plagued them growing worse with each passing day.
+LINE 10: She had seen it in the eyes of the villagers, the way they looked at her—some
+LINE 11: with fear, others with anger. She was the weaver of fate, and they blamed her
+LINE 12: for the unraveling of their world.
+LINE 13: A sudden noise from outside broke her thoughts, and Elara rose to her feet, her
+LINE 14: heart pounding. She moved to the door and pulled it open, the cool air hitting
+LINE 15: her face. At the far end of the street, she saw a group of villagers gathered,
+LINE 16: their voices raised in argument. Her stomach twisted. This was happening more
+LINE 17: and more often—disputes breaking out, tensions flaring. The village was
+LINE 18: fracturing, and she knew, deep down, that it was because of her.
+LINE 19: "Elara!" a voice called, and she turned to see Daria running toward her, her
+LINE 20: face pale with worry. "It's happening again."
+LINE 21: Elara's blood ran cold. "What do you mean?"
+LINE 22: Daria stopped in front of her, breathless. "The wheat fields. The crops are
+LINE 23: failing again, worse than before. And now the animals are getting sick. People
+LINE 24: are saying... they're saying it's your doing."
+LINE 25: Elara's heart sank. She had feared this, had tried to prevent it, but it was
+LINE 26: too late. The villagers were already convinced that she was to blame. "I
+LINE 27: didn't—" she began, but her voice faltered. How could she explain what even she
+LINE 28: didn't fully understand?
+LINE 29: Daria's eyes softened with sympathy. "I know you didn't mean for any of this to
+LINE 30: happen," she said quietly. "But people are scared, Elara. They're looking for
+LINE 31: someone to blame."
+LINE 32: Elara swallowed hard, her hands trembling. "What do they want?"
+LINE 33: "They want answers," Daria said softly. "And I think... I think they want
+LINE 34: someone to stop it."
+LINE 35: The village square was a cacophony of voices as Elara made her way toward the
+LINE 36: center, her heart racing. The crowd had gathered quickly, their faces filled
+LINE 37: with anger and fear. She could hear them shouting, could feel their rage
+LINE 38: building, and she knew that this time, they would not be easily calmed.
+LINE 39: At the center of it all stood Rurik, his broad frame towering over the others
+LINE 40: as he addressed the crowd, his voice booming with fury. "This has gone on long
+LINE 41: enough!" he shouted, his eyes blazing with anger. "Our crops are failing, our
+LINE 42: animals are dying, and still, she does nothing! Elara's magic is poisoning this
+LINE 43: village, and we cannot allow it to continue!"
+LINE 44: The crowd murmured in agreement, their voices rising in a wave of anger that
+LINE 45: sent a chill down Elara's spine. She hesitated at the edge of the square, her
+LINE 46: heart pounding in her chest. She had known this moment was coming, had known
+LINE 47: that the village would eventually turn against her. But now that it was here,
+LINE 48: she didn't know what to do.
+LINE 49: "Rurik," she called, her voice barely audible above the din. She stepped
+LINE 50: forward, her hands trembling at her sides. "Please, listen to me. I never meant
+LINE 51: for any of this to happen."
+LINE 52: Rurik's gaze snapped to her, his eyes narrowing with contempt. "And yet, it has
+LINE 53: happened," he spat, stepping closer. "Your weaving has brought nothing but
+LINE 54: destruction to this village. Glenth burned because of you, and now our own
+LINE 55: village is dying."
+LINE 56: Elara shook her head, her voice trembling. "I was trying to help. I thought—"
+LINE 57: "You thought you could play with fate," Rurik interrupted, his voice filled
+LINE 58: with venom. "But fate isn't something to be toyed with. You've brought this
+LINE 59: upon us, and now we're all paying the price."
+LINE 60: The crowd surged forward, their voices rising in anger. Elara took a step back,
+LINE 61: fear gripping her chest. She had never seen the villagers like this, had never
+LINE 62: felt their hostility so acutely. They weren't just afraid—they were furious,
+LINE 63: and they wanted someone to blame.
+LINE 64: "Please," she said, her voice breaking. "I don't know how to fix this, but I'll
+LINE 65: try. Just give me time."
+LINE 66: Rurik sneered. "Time? We've given you time, Elara. And look where it's gotten
+LINE 67: us."
+LINE 68: The crowd pressed closer, their faces filled with anger and suspicion. Elara
+LINE 69: felt a wave of panic rise inside her. She didn't know how to stop this—didn't
+LINE 70: know how to fix what she had broken. And now, it seemed, the village had
+LINE 71: already decided her fate.
+LINE 72: Elara fled from the square, her heart racing as she ran through the winding
+LINE 73: streets of the village. She didn't know where she was going—she just needed to
+LINE 74: get away, to think. Her thoughts were a whirlwind of fear and guilt, the weight
+LINE 75: of the villagers' accusations pressing down on her like a heavy stone. She had
+LINE 76: tried to help, had tried to use her gift for good, but now everything was
+LINE 77: falling apart.
+LINE 78: She stumbled to a stop at the edge of the wheat fields, her breath coming in
+LINE 79: ragged gasps. The crops were worse than she had imagined—entire sections of the
+LINE 80: field were withered and dead, the once-golden stalks now brittle and gray. It
+LINE 81: was as if the life had been drained from the land itself, and Elara couldn't
+LINE 82: shake the feeling that it was her fault.
+LINE 83: A voice broke the silence behind her, low and filled with quiet menace. "You've
+LINE 84: made quite a mess, haven't you?"
+LINE 85: Elara spun around to see Maelis standing a few paces away, his arms crossed
+LINE 86: over his chest. His expression was calm, but there was a coldness in his eyes
+LINE 87: that made her blood run cold.
+LINE 88: "I... I didn't mean for this to happen," she stammered, her voice trembling. "I
+LINE 89: was just trying to help."
+LINE 90: Maelis's smile was thin and humorless. "Help?" he repeated, his tone mocking.
+LINE 91: "You've done nothing but make things worse. You're unraveling the very fabric
+LINE 92: of this village with your meddling."
+LINE 93: Elara's heart pounded in her chest. "I didn't ask for this gift," she
+LINE 94: whispered, her voice thick with emotion. "I don't know how to control it."
+LINE 95: Maelis's gaze softened slightly, though his expression remained stern. "That's
+LINE 96: because you're trying to fight fate, Elara. You think you can control it, but
+LINE 97: fate is a force beyond your understanding. The more you resist it, the more
+LINE 98: chaos you create."
+LINE 99: Elara swallowed hard, her hands trembling at her sides. "What am I supposed to
+LINE 100: do?"
+LINE 101: Maelis stepped closer, his voice lowering to a near-whisper. "You need to stop
+LINE 102: fighting it. You need to accept that fate is inevitable—that it cannot be
+LINE 103: controlled or changed. Only then will you find peace."
+LINE 104: Elara shook her head, her mind racing. She didn't want to accept that—didn't
+LINE 105: want to believe that her gift was something she couldn't control. But deep
+LINE 106: down, she knew Maelis was right. The more she tried to change things, the worse
+LINE 107: they became.
+LINE 108: "I can help you," Maelis continued, his voice smooth and persuasive. "The guild
+LINE 109: can teach you how to use your gift, how to guide fate instead of resisting it."
+LINE 110: Elara hesitated, her heart torn between fear and temptation. The guild's power
+LINE 111: was vast, and she knew they could help her gain control over her gift. But at
+LINE 112: what cost?
+LINE 113: "I... I don't know," she whispered, her voice trembling.
+LINE 114: Maelis's eyes narrowed. "You don't have a choice, Elara. If you continue down
+LINE 115: this path, you will destroy everything."
+LINE 116: The confrontation in the wheat fields had been terrifying, but it was nothing
+LINE 117: compared to the fear Elara felt now as she made her way back to the village
+LINE 118: square. The villagers had gathered once again, their voices rising in anger as
+LINE 119: they argued over what should be done. And at the center of it all was Rurik,
+LINE 120: his fury stoked by the worsening situation.
+LINE 121: "She's cursed us all!" Rurik shouted, his voice booming across the square. "Our
+LINE 122: crops are dead, our animals are dying, and still, she does nothing!"
+LINE 123: The crowd murmured in agreement, their faces filled with fear and suspicion.
+LINE 124: Elara stood at the edge of the square, her heart pounding in her chest. She had
+LINE 125: to do something—had to find a way to stop this before it was too late.
+LINE 126: "Please," she called, her voice shaking as she stepped forward. "I'm trying to
+LINE 127: fix it. But I need time."
+LINE 128: Rurik sneered, his eyes blazing with contempt. "Time? We've given you time, and
+LINE 129: look where it's gotten us. You've brought nothing but ruin to this village."
+LINE 130: The crowd surged forward, their voices rising in a wave of anger that sent a
+LINE 131: chill down Elara's spine. She could see it in their eyes—their fear, their
+LINE 132: desperation. They wanted someone to blame, and she was the easiest target.
+LINE 133: "Elara!" a voice shouted from the back of the crowd, and she turned to see
+LINE 134: Mayor Felin pushing his way through the villagers, his face pale with worry.
+LINE 135: "You need to stop this. The village can't take much more."
+LINE 136: Elara's heart sank. She knew he was right. The village was falling apart, and
+LINE 137: she was at the center of it. But she didn't know how to fix it—didn't know how
+LINE 138: to stop the unraveling.
+LINE 139: Before she could respond, Rurik stepped forward, his eyes blazing with fury.
+LINE 140: "She's had her chance," he growled. "It's time we take matters into our own
+LINE 141: hands."
+LINE 142: The crowd murmured in agreement, their voices filled with anger and fear.
+LINE 143: Elara's chest tightened with panic as she realized what was about to happen.
+LINE 144: The village had turned against her, and now there was no turning back.
+LINE 145: As the villagers closed in around her, Elara felt a wave of helplessness wash
+LINE 146: over her. She had tried to weave a better future, but now, all she had done was
+LINE 147: weave her own downfall.

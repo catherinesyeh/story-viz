@@ -1,0 +1,253 @@
+LINE 1: FOR reasons best known to herself, Marilla did not tell Anne that
+LINE 2: she was to stay at Green Gables until the next afternoon. During the
+LINE 3: forenoon she kept the child busy with various tasks and watched over her
+LINE 4: with a keen eye while she did them. By noon she had concluded that Anne
+LINE 5: was smart and obedient, willing to work and quick to learn; her most
+LINE 6: serious shortcoming seemed to be a tendency to fall into daydreams in
+LINE 7: the middle of a task and forget all about it until such time as she was
+LINE 8: sharply recalled to earth by a reprimand or a catastrophe.
+LINE 9: When Anne had finished washing the dinner dishes she suddenly confronted
+LINE 10: Marilla with the air and expression of one desperately determined to
+LINE 11: learn the worst. Her thin little body trembled from head to foot; her
+LINE 12: face flushed and her eyes dilated until they were almost black; she
+LINE 13: clasped her hands tightly and said in an imploring voice:
+LINE 14: "Oh, please, Miss Cuthbert, won't you tell me if you are going to send
+LINE 15: me away or not? I've tried to be patient all the morning, but I really
+LINE 16: feel that I cannot bear not knowing any longer. It's a dreadful feeling.
+LINE 17: Please tell me."
+LINE 18: "You haven't scalded the dishcloth in clean hot water as I told you to
+LINE 19: do," said Marilla immovably. "Just go and do it before you ask any more
+LINE 20: questions, Anne."
+LINE 21: Anne went and attended to the dishcloth. Then she returned to Marilla
+LINE 22: and fastened imploring eyes of the latter's face. "Well," said Marilla,
+LINE 23: unable to find any excuse for deferring her explanation longer, "I
+LINE 24: suppose I might as well tell you. Matthew and I have decided to keep
+LINE 25: you--that is, if you will try to be a good little girl and show yourself
+LINE 26: grateful. Why, child, whatever is the matter?"
+LINE 27: "I'm crying," said Anne in a tone of bewilderment. "I can't think why.
+LINE 28: I'm glad as glad can be. Oh, _glad_ doesn't seem the right word at all. I
+LINE 29: was glad about the White Way and the cherry blossoms--but this! Oh, it's
+LINE 30: something more than glad. I'm so happy. I'll try to be so good. It
+LINE 31: will be uphill work, I expect, for Mrs. Thomas often told me I was
+LINE 32: desperately wicked. However, I'll do my very best. But can you tell me
+LINE 33: why I'm crying?"
+LINE 34: "I suppose it's because you're all excited and worked up," said Marilla
+LINE 35: disapprovingly. "Sit down on that chair and try to calm yourself. I'm
+LINE 36: afraid you both cry and laugh far too easily. Yes, you can stay here and
+LINE 37: we will try to do right by you. You must go to school; but it's only a
+LINE 38: fortnight till vacation so it isn't worth while for you to start before
+LINE 39: it opens again in September."
+LINE 40: "What am I to call you?" asked Anne. "Shall I always say Miss Cuthbert?
+LINE 41: Can I call you Aunt Marilla?"
+LINE 42: "No; you'll call me just plain Marilla. I'm not used to being called
+LINE 43: Miss Cuthbert and it would make me nervous."
+LINE 44: "It sounds awfully disrespectful to just say Marilla," protested Anne.
+LINE 45: "I guess there'll be nothing disrespectful in it if you're careful
+LINE 46: to speak respectfully. Everybody, young and old, in Avonlea calls me
+LINE 47: Marilla except the minister. He says Miss Cuthbert--when he thinks of
+LINE 48: it."
+LINE 49: "I'd love to call you Aunt Marilla," said Anne wistfully. "I've never
+LINE 50: had an aunt or any relation at all--not even a grandmother. It would
+LINE 51: make me feel as if I really belonged to you. Can't I call you Aunt
+LINE 52: Marilla?"
+LINE 53: "No. I'm not your aunt and I don't believe in calling people names that
+LINE 54: don't belong to them."
+LINE 55: "But we could imagine you were my aunt."
+LINE 56: "I couldn't," said Marilla grimly.
+LINE 57: "Do you never imagine things different from what they really are?" asked
+LINE 58: Anne wide-eyed.
+LINE 59: "No."
+LINE 60: "Oh!" Anne drew a long breath. "Oh, Miss--Marilla, how much you miss!"
+LINE 61: "I don't believe in imagining things different from what they really
+LINE 62: are," retorted Marilla. "When the Lord puts us in certain circumstances
+LINE 63: He doesn't mean for us to imagine them away. And that reminds me. Go
+LINE 64: into the sitting room, Anne--be sure your feet are clean and don't
+LINE 65: let any flies in--and bring me out the illustrated card that's on the
+LINE 66: mantelpiece. The Lord's Prayer is on it and you'll devote your spare
+LINE 67: time this afternoon to learning it off by heart. There's to be no more
+LINE 68: of such praying as I heard last night."
+LINE 69: "I suppose I was very awkward," said Anne apologetically, "but then, you
+LINE 70: see, I'd never had any practice. You couldn't really expect a person
+LINE 71: to pray very well the first time she tried, could you? I thought out a
+LINE 72: splendid prayer after I went to bed, just as I promised you I would.
+LINE 73: It was nearly as long as a minister's and so poetical. But would you
+LINE 74: believe it? I couldn't remember one word when I woke up this morning.
+LINE 75: And I'm afraid I'll never be able to think out another one as good.
+LINE 76: Somehow, things never are so good when they're thought out a second
+LINE 77: time. Have you ever noticed that?"
+LINE 78: "Here is something for you to notice, Anne. When I tell you to do
+LINE 79: a thing I want you to obey me at once and not stand stock-still and
+LINE 80: discourse about it. Just you go and do as I bid you."
+LINE 81: Anne promptly departed for the sitting-room across the hall; she failed
+LINE 82: to return; after waiting ten minutes Marilla laid down her knitting
+LINE 83: and marched after her with a grim expression. She found Anne standing
+LINE 84: motionless before a picture hanging on the wall between the two windows,
+LINE 85: with her eyes a-star with dreams. The white and green light strained
+LINE 86: through apple trees and clustering vines outside fell over the rapt
+LINE 87: little figure with a half-unearthly radiance.
+LINE 88: "Anne, whatever are you thinking of?" demanded Marilla sharply.
+LINE 89: Anne came back to earth with a start.
+LINE 90: "That," she said, pointing to the picture--a rather vivid chromo
+LINE 91: entitled, "Christ Blessing Little Children"--"and I was just imagining I
+LINE 92: was one of them--that I was the little girl in the blue dress, standing
+LINE 93: off by herself in the corner as if she didn't belong to anybody, like
+LINE 94: me. She looks lonely and sad, don't you think? I guess she hadn't any
+LINE 95: father or mother of her own. But she wanted to be blessed, too, so she
+LINE 96: just crept shyly up on the outside of the crowd, hoping nobody would
+LINE 97: notice her--except Him. I'm sure I know just how she felt. Her heart
+LINE 98: must have beat and her hands must have got cold, like mine did when I
+LINE 99: asked you if I could stay. She was afraid He mightn't notice her. But
+LINE 100: it's likely He did, don't you think? I've been trying to imagine it all
+LINE 101: out--her edging a little nearer all the time until she was quite close
+LINE 102: to Him; and then He would look at her and put His hand on her hair and
+LINE 103: oh, such a thrill of joy as would run over her! But I wish the artist
+LINE 104: hadn't painted Him so sorrowful looking. All His pictures are like that,
+LINE 105: if you've noticed. But I don't believe He could really have looked so
+LINE 106: sad or the children would have been afraid of Him."
+LINE 107: "Anne," said Marilla, wondering why she had not broken into this speech
+LINE 108: long before, "you shouldn't talk that way. It's irreverent--positively
+LINE 109: irreverent."
+LINE 110: Anne's eyes marveled.
+LINE 111: "Why, I felt just as reverent as could be. I'm sure I didn't mean to be
+LINE 112: irreverent."
+LINE 113: "Well I don't suppose you did--but it doesn't sound right to talk so
+LINE 114: familiarly about such things. And another thing, Anne, when I send you
+LINE 115: after something you're to bring it at once and not fall into mooning and
+LINE 116: imagining before pictures. Remember that. Take that card and come right
+LINE 117: to the kitchen. Now, sit down in the corner and learn that prayer off by
+LINE 118: heart."
+LINE 119: Anne set the card up against the jugful of apple blossoms she had
+LINE 120: brought in to decorate the dinner-table--Marilla had eyed that
+LINE 121: decoration askance, but had said nothing--propped her chin on her hands,
+LINE 122: and fell to studying it intently for several silent minutes.
+LINE 123: "I like this," she announced at length. "It's beautiful. I've heard it
+LINE 124: before--I heard the superintendent of the asylum Sunday school say it
+LINE 125: over once. But I didn't like it then. He had such a cracked voice and
+LINE 126: he prayed it so mournfully. I really felt sure he thought praying was a
+LINE 127: disagreeable duty. This isn't poetry, but it makes me feel just the same
+LINE 128: way poetry does. 'Our Father who art in heaven hallowed be Thy name.'
+LINE 129: That is just like a line of music. Oh, I'm so glad you thought of making
+LINE 130: me learn this, Miss--Marilla."
+LINE 131: "Well, learn it and hold your tongue," said Marilla shortly.
+LINE 132: Anne tipped the vase of apple blossoms near enough to bestow a soft
+LINE 133: kiss on a pink-cupped bud, and then studied diligently for some moments
+LINE 134: longer.
+LINE 135: "Marilla," she demanded presently, "do you think that I shall ever have
+LINE 136: a bosom friend in Avonlea?"
+LINE 137: "A--a what kind of friend?"
+LINE 138: "A bosom friend--an intimate friend, you know--a really kindred spirit
+LINE 139: to whom I can confide my inmost soul. I've dreamed of meeting her all
+LINE 140: my life. I never really supposed I would, but so many of my loveliest
+LINE 141: dreams have come true all at once that perhaps this one will, too. Do
+LINE 142: you think it's possible?"
+LINE 143: "Diana Barry lives over at Orchard Slope and she's about your age. She's
+LINE 144: a very nice little girl, and perhaps she will be a playmate for you when
+LINE 145: she comes home. She's visiting her aunt over at Carmody just now. You'll
+LINE 146: have to be careful how you behave yourself, though. Mrs. Barry is a
+LINE 147: very particular woman. She won't let Diana play with any little girl who
+LINE 148: isn't nice and good."
+LINE 149: Anne looked at Marilla through the apple blossoms, her eyes aglow with
+LINE 150: interest.
+LINE 151: "What is Diana like? Her hair isn't red, is it? Oh, I hope not. It's bad
+LINE 152: enough to have red hair myself, but I positively couldn't endure it in a
+LINE 153: bosom friend."
+LINE 154: "Diana is a very pretty little girl. She has black eyes and hair and
+LINE 155: rosy cheeks. And she is good and smart, which is better than being
+LINE 156: pretty."
+LINE 157: Marilla was as fond of morals as the Duchess in Wonderland, and was
+LINE 158: firmly convinced that one should be tacked on to every remark made to a
+LINE 159: child who was being brought up.
+LINE 160: But Anne waved the moral inconsequently aside and seized only on the
+LINE 161: delightful possibilities before it.
+LINE 162: "Oh, I'm so glad she's pretty. Next to being beautiful oneself--and
+LINE 163: that's impossible in my case--it would be best to have a beautiful bosom
+LINE 164: friend. When I lived with Mrs. Thomas she had a bookcase in her sitting
+LINE 165: room with glass doors. There weren't any books in it; Mrs. Thomas kept
+LINE 166: her best china and her preserves there--when she had any preserves to
+LINE 167: keep. One of the doors was broken. Mr. Thomas smashed it one night
+LINE 168: when he was slightly intoxicated. But the other was whole and I used to
+LINE 169: pretend that my reflection in it was another little girl who lived in
+LINE 170: it. I called her Katie Maurice, and we were very intimate. I used to
+LINE 171: talk to her by the hour, especially on Sunday, and tell her everything.
+LINE 172: Katie was the comfort and consolation of my life. We used to pretend
+LINE 173: that the bookcase was enchanted and that if I only knew the spell I
+LINE 174: could open the door and step right into the room where Katie Maurice
+LINE 175: lived, instead of into Mrs. Thomas' shelves of preserves and china. And
+LINE 176: then Katie Maurice would have taken me by the hand and led me out into a
+LINE 177: wonderful place, all flowers and sunshine and fairies, and we would have
+LINE 178: lived there happy for ever after. When I went to live with Mrs. Hammond
+LINE 179: it just broke my heart to leave Katie Maurice. She felt it dreadfully,
+LINE 180: too, I know she did, for she was crying when she kissed me good-bye
+LINE 181: through the bookcase door. There was no bookcase at Mrs. Hammond's. But
+LINE 182: just up the river a little way from the house there was a long green
+LINE 183: little valley, and the loveliest echo lived there. It echoed back every
+LINE 184: word you said, even if you didn't talk a bit loud. So I imagined that it
+LINE 185: was a little girl called Violetta and we were great friends and I loved
+LINE 186: her almost as well as I loved Katie Maurice--not quite, but almost, you
+LINE 187: know. The night before I went to the asylum I said good-bye to Violetta,
+LINE 188: and oh, her good-bye came back to me in such sad, sad tones. I had
+LINE 189: become so attached to her that I hadn't the heart to imagine a bosom
+LINE 190: friend at the asylum, even if there had been any scope for imagination
+LINE 191: there."
+LINE 192: "I think it's just as well there wasn't," said Marilla drily. "I
+LINE 193: don't approve of such goings-on. You seem to half believe your own
+LINE 194: imaginations. It will be well for you to have a real live friend to
+LINE 195: put such nonsense out of your head. But don't let Mrs. Barry hear you
+LINE 196: talking about your Katie Maurices and your Violettas or she'll think you
+LINE 197: tell stories."
+LINE 198: "Oh, I won't. I couldn't talk of them to everybody--their memories are
+LINE 199: too sacred for that. But I thought I'd like to have you know about them.
+LINE 200: Oh, look, here's a big bee just tumbled out of an apple blossom. Just
+LINE 201: think what a lovely place to live--in an apple blossom! Fancy going to
+LINE 202: sleep in it when the wind was rocking it. If I wasn't a human girl I
+LINE 203: think I'd like to be a bee and live among the flowers."
+LINE 204: "Yesterday you wanted to be a sea gull," sniffed Marilla. "I think you
+LINE 205: are very fickle minded. I told you to learn that prayer and not talk.
+LINE 206: But it seems impossible for you to stop talking if you've got anybody
+LINE 207: that will listen to you. So go up to your room and learn it."
+LINE 208: "Oh, I know it pretty nearly all now--all but just the last line."
+LINE 209: "Well, never mind, do as I tell you. Go to your room and finish learning
+LINE 210: it well, and stay there until I call you down to help me get tea."
+LINE 211: "Can I take the apple blossoms with me for company?" pleaded Anne.
+LINE 212: "No; you don't want your room cluttered up with flowers. You should have
+LINE 213: left them on the tree in the first place."
+LINE 214: "I did feel a little that way, too," said Anne. "I kind of felt I
+LINE 215: shouldn't shorten their lovely lives by picking them--I wouldn't want
+LINE 216: to be picked if I were an apple blossom. But the temptation was
+LINE 217: _irresistible_. What do you do when you meet with an irresistible
+LINE 218: temptation?"
+LINE 219: "Anne, did you hear me tell you to go to your room?"
+LINE 220: Anne sighed, retreated to the east gable, and sat down in a chair by the
+LINE 221: window.
+LINE 222: "There--I know this prayer. I learned that last sentence coming
+LINE 223: upstairs. Now I'm going to imagine things into this room so that they'll
+LINE 224: always stay imagined. The floor is covered with a white velvet carpet
+LINE 225: with pink roses all over it and there are pink silk curtains at the
+LINE 226: windows. The walls are hung with gold and silver brocade tapestry. The
+LINE 227: furniture is mahogany. I never saw any mahogany, but it does sound _so_
+LINE 228: luxurious. This is a couch all heaped with gorgeous silken cushions,
+LINE 229: pink and blue and crimson and gold, and I am reclining gracefully on it.
+LINE 230: I can see my reflection in that splendid big mirror hanging on the wall.
+LINE 231: I am tall and regal, clad in a gown of trailing white lace, with a
+LINE 232: pearl cross on my breast and pearls in my hair. My hair is of midnight
+LINE 233: darkness and my skin is a clear ivory pallor. My name is the Lady
+LINE 234: Cordelia Fitzgerald. No, it isn't--I can't make _that_ seem real."
+LINE 235: She danced up to the little looking-glass and peered into it. Her
+LINE 236: pointed freckled face and solemn gray eyes peered back at her.
+LINE 237: "You're only Anne of Green Gables," she said earnestly, "and I see you,
+LINE 238: just as you are looking now, whenever I try to imagine I'm the Lady
+LINE 239: Cordelia. But it's a million times nicer to be Anne of Green Gables than
+LINE 240: Anne of nowhere in particular, isn't it?"
+LINE 241: She bent forward, kissed her reflection affectionately, and betook
+LINE 242: herself to the open window.
+LINE 243: "Dear Snow Queen, good afternoon. And good afternoon dear birches down
+LINE 244: in the hollow. And good afternoon, dear gray house up on the hill. I
+LINE 245: wonder if Diana is to be my bosom friend. I hope she will, and I shall
+LINE 246: love her very much. But I must never quite forget Katie Maurice
+LINE 247: and Violetta. They would feel so hurt if I did and I'd hate to hurt
+LINE 248: anybody's feelings, even a little bookcase girl's or a little echo
+LINE 249: girl's. I must be careful to remember them and send them a kiss every
+LINE 250: day."
+LINE 251: Anne blew a couple of airy kisses from her fingertips past the cherry
+LINE 252: blossoms and then, with her chin in her hands, drifted luxuriously out
+LINE 253: on a sea of daydreams.

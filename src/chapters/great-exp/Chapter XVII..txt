@@ -1,0 +1,286 @@
+LINE 1: I now fell into a regular routine of apprenticeship life, which was
+LINE 2: varied beyond the limits of the village and the marshes, by no more
+LINE 3: remarkable circumstance than the arrival of my birthday and my paying
+LINE 4: another visit to Miss Havisham. I found Miss Sarah Pocket still on duty
+LINE 5: at the gate; I found Miss Havisham just as I had left her, and she
+LINE 6: spoke of Estella in the very same way, if not in the very same words.
+LINE 7: The interview lasted but a few minutes, and she gave me a guinea when I
+LINE 8: was going, and told me to come again on my next birthday. I may mention
+LINE 9: at once that this became an annual custom. I tried to decline taking
+LINE 10: the guinea on the first occasion, but with no better effect than
+LINE 11: causing her to ask me very angrily, if I expected more? Then, and after
+LINE 12: that, I took it.
+LINE 13: So unchanging was the dull old house, the yellow light in the darkened
+LINE 14: room, the faded spectre in the chair by the dressing-table glass, that
+LINE 15: I felt as if the stopping of the clocks had stopped Time in that
+LINE 16: mysterious place, and, while I and everything else outside it grew
+LINE 17: older, it stood still. Daylight never entered the house as to my
+LINE 18: thoughts and remembrances of it, any more than as to the actual fact.
+LINE 19: It bewildered me, and under its influence I continued at heart to hate
+LINE 20: my trade and to be ashamed of home.
+LINE 21: Imperceptibly I became conscious of a change in Biddy, however. Her
+LINE 22: shoes came up at the heel, her hair grew bright and neat, her hands
+LINE 23: were always clean. She was not beautiful,—she was common, and could not
+LINE 24: be like Estella,—but she was pleasant and wholesome and sweet-tempered.
+LINE 25: She had not been with us more than a year (I remember her being newly
+LINE 26: out of mourning at the time it struck me), when I observed to myself
+LINE 27: one evening that she had curiously thoughtful and attentive eyes; eyes
+LINE 28: that were very pretty and very good.
+LINE 29: It came of my lifting up my own eyes from a task I was poring
+LINE 30: at—writing some passages from a book, to improve myself in two ways at
+LINE 31: once by a sort of stratagem—and seeing Biddy observant of what I was
+LINE 32: about. I laid down my pen, and Biddy stopped in her needlework without
+LINE 33: laying it down.
+LINE 34: "Biddy," said I, "how do you manage it? Either I am very stupid, or you
+LINE 35: are very clever."
+LINE 36: "What is it that I manage? I don't know," returned Biddy, smiling.
+LINE 37: She managed our whole domestic life, and wonderfully too; but I did not
+LINE 38: mean that, though that made what I did mean more surprising.
+LINE 39: "How do you manage, Biddy," said I, "to learn everything that I learn,
+LINE 40: and always to keep up with me?" I was beginning to be rather vain of my
+LINE 41: knowledge, for I spent my birthday guineas on it, and set aside the
+LINE 42: greater part of my pocket-money for similar investment; though I have
+LINE 43: no doubt, now, that the little I knew was extremely dear at the price.
+LINE 44: "I might as well ask you," said Biddy, "how _you_ manage?"
+LINE 45: "No; because when I come in from the forge of a night, any one can see
+LINE 46: me turning to at it. But you never turn to at it, Biddy."
+LINE 47: "I suppose I must catch it like a cough," said Biddy, quietly; and went
+LINE 48: on with her sewing.
+LINE 49: Pursuing my idea as I leaned back in my wooden chair, and looked at
+LINE 50: Biddy sewing away with her head on one side, I began to think her
+LINE 51: rather an extraordinary girl. For I called to mind now, that she was
+LINE 52: equally accomplished in the terms of our trade, and the names of our
+LINE 53: different sorts of work, and our various tools. In short, whatever I
+LINE 54: knew, Biddy knew. Theoretically, she was already as good a blacksmith
+LINE 55: as I, or better.
+LINE 56: "You are one of those, Biddy," said I, "who make the most of every
+LINE 57: chance. You never had a chance before you came here, and see how
+LINE 58: improved you are!"
+LINE 59: Biddy looked at me for an instant, and went on with her sewing. "I was
+LINE 60: your first teacher though; wasn't I?" said she, as she sewed.
+LINE 61: "Biddy!" I exclaimed, in amazement. "Why, you are crying!"
+LINE 62: "No I am not," said Biddy, looking up and laughing. "What put that in
+LINE 63: your head?"
+LINE 64: What could have put it in my head but the glistening of a tear as it
+LINE 65: dropped on her work? I sat silent, recalling what a drudge she had been
+LINE 66: until Mr. Wopsle's great-aunt successfully overcame that bad habit of
+LINE 67: living, so highly desirable to be got rid of by some people. I recalled
+LINE 68: the hopeless circumstances by which she had been surrounded in the
+LINE 69: miserable little shop and the miserable little noisy evening school,
+LINE 70: with that miserable old bundle of incompetence always to be dragged and
+LINE 71: shouldered. I reflected that even in those untoward times there must
+LINE 72: have been latent in Biddy what was now developing, for, in my first
+LINE 73: uneasiness and discontent I had turned to her for help, as a matter of
+LINE 74: course. Biddy sat quietly sewing, shedding no more tears, and while I
+LINE 75: looked at her and thought about it all, it occurred to me that perhaps
+LINE 76: I had not been sufficiently grateful to Biddy. I might have been too
+LINE 77: reserved, and should have patronised her more (though I did not use
+LINE 78: that precise word in my meditations) with my confidence.
+LINE 79: "Yes, Biddy," I observed, when I had done turning it over, "you were my
+LINE 80: first teacher, and that at a time when we little thought of ever being
+LINE 81: together like this, in this kitchen."
+LINE 82: "Ah, poor thing!" replied Biddy. It was like her self-forgetfulness to
+LINE 83: transfer the remark to my sister, and to get up and be busy about her,
+LINE 84: making her more comfortable; "that's sadly true!"
+LINE 85: "Well!" said I, "we must talk together a little more, as we used to do.
+LINE 86: And I must consult you a little more, as I used to do. Let us have a
+LINE 87: quiet walk on the marshes next Sunday, Biddy, and a long chat."
+LINE 88: My sister was never left alone now; but Joe more than readily undertook
+LINE 89: the care of her on that Sunday afternoon, and Biddy and I went out
+LINE 90: together. It was summer-time, and lovely weather. When we had passed
+LINE 91: the village and the church and the churchyard, and were out on the
+LINE 92: marshes and began to see the sails of the ships as they sailed on, I
+LINE 93: began to combine Miss Havisham and Estella with the prospect, in my
+LINE 94: usual way. When we came to the river-side and sat down on the bank,
+LINE 95: with the water rippling at our feet, making it all more quiet than it
+LINE 96: would have been without that sound, I resolved that it was a good time
+LINE 97: and place for the admission of Biddy into my inner confidence.
+LINE 98: "Biddy," said I, after binding her to secrecy, "I want to be a
+LINE 99: gentleman."
+LINE 100: "O, I wouldn't, if I was you!" she returned. "I don't think it would
+LINE 101: answer."
+LINE 102: "Biddy," said I, with some severity, "I have particular reasons for
+LINE 103: wanting to be a gentleman."
+LINE 104: "You know best, Pip; but don't you think you are happier as you are?"
+LINE 105: "Biddy," I exclaimed, impatiently, "I am not at all happy as I am. I am
+LINE 106: disgusted with my calling and with my life. I have never taken to
+LINE 107: either, since I was bound. Don't be absurd."
+LINE 108: "Was I absurd?" said Biddy, quietly raising her eyebrows; "I am sorry
+LINE 109: for that; I didn't mean to be. I only want you to do well, and to be
+LINE 110: comfortable."
+LINE 111: "Well, then, understand once for all that I never shall or can be
+LINE 112: comfortable—or anything but miserable—there, Biddy!—unless I can lead a
+LINE 113: very different sort of life from the life I lead now."
+LINE 114: "That's a pity!" said Biddy, shaking her head with a sorrowful air.
+LINE 115: Now, I too had so often thought it a pity, that, in the singular kind
+LINE 116: of quarrel with myself which I was always carrying on, I was half
+LINE 117: inclined to shed tears of vexation and distress when Biddy gave
+LINE 118: utterance to her sentiment and my own. I told her she was right, and I
+LINE 119: knew it was much to be regretted, but still it was not to be helped.
+LINE 120: "If I could have settled down," I said to Biddy, plucking up the short
+LINE 121: grass within reach, much as I had once upon a time pulled my feelings
+LINE 122: out of my hair and kicked them into the brewery wall,—"if I could have
+LINE 123: settled down and been but half as fond of the forge as I was when I was
+LINE 124: little, I know it would have been much better for me. You and I and Joe
+LINE 125: would have wanted nothing then, and Joe and I would perhaps have gone
+LINE 126: partners when I was out of my time, and I might even have grown up to
+LINE 127: keep company with you, and we might have sat on this very bank on a
+LINE 128: fine Sunday, quite different people. I should have been good enough for
+LINE 129: _you_; shouldn't I, Biddy?"
+LINE 130: Biddy sighed as she looked at the ships sailing on, and returned for
+LINE 131: answer, "Yes; I am not over-particular." It scarcely sounded
+LINE 132: flattering, but I knew she meant well.
+LINE 133: "Instead of that," said I, plucking up more grass and chewing a blade
+LINE 134: or two, "see how I am going on. Dissatisfied, and uncomfortable,
+LINE 135: and—what would it signify to me, being coarse and common, if nobody had
+LINE 136: told me so!"
+LINE 137: Biddy turned her face suddenly towards mine, and looked far more
+LINE 138: attentively at me than she had looked at the sailing ships.
+LINE 139: "It was neither a very true nor a very polite thing to say," she
+LINE 140: remarked, directing her eyes to the ships again. "Who said it?"
+LINE 141: I was disconcerted, for I had broken away without quite seeing where I
+LINE 142: was going to. It was not to be shuffled off now, however, and I
+LINE 143: answered, "The beautiful young lady at Miss Havisham's, and she's more
+LINE 144: beautiful than anybody ever was, and I admire her dreadfully, and I
+LINE 145: want to be a gentleman on her account." Having made this lunatic
+LINE 146: confession, I began to throw my torn-up grass into the river, as if I
+LINE 147: had some thoughts of following it.
+LINE 148: "Do you want to be a gentleman, to spite her or to gain her over?"
+LINE 149: Biddy quietly asked me, after a pause.
+LINE 150: "I don't know," I moodily answered.
+LINE 151: "Because, if it is to spite her," Biddy pursued, "I should think—but
+LINE 152: you know best—that might be better and more independently done by
+LINE 153: caring nothing for her words. And if it is to gain her over, I should
+LINE 154: think—but you know best—she was not worth gaining over."
+LINE 155: Exactly what I myself had thought, many times. Exactly what was
+LINE 156: perfectly manifest to me at the moment. But how could I, a poor dazed
+LINE 157: village lad, avoid that wonderful inconsistency into which the best and
+LINE 158: wisest of men fall every day?
+LINE 159: "It may be all quite true," said I to Biddy, "but I admire her
+LINE 160: dreadfully."
+LINE 161: In short, I turned over on my face when I came to that, and got a good
+LINE 162: grasp on the hair on each side of my head, and wrenched it well. All
+LINE 163: the while knowing the madness of my heart to be so very mad and
+LINE 164: misplaced, that I was quite conscious it would have served my face
+LINE 165: right, if I had lifted it up by my hair, and knocked it against the
+LINE 166: pebbles as a punishment for belonging to such an idiot.
+LINE 167: Biddy was the wisest of girls, and she tried to reason no more with me.
+LINE 168: She put her hand, which was a comfortable hand though roughened by
+LINE 169: work, upon my hands, one after another, and gently took them out of my
+LINE 170: hair. Then she softly patted my shoulder in a soothing way, while with
+LINE 171: my face upon my sleeve I cried a little,—exactly as I had done in the
+LINE 172: brewery yard,—and felt vaguely convinced that I was very much ill-used
+LINE 173: by somebody, or by everybody; I can't say which.
+LINE 174: "I am glad of one thing," said Biddy, "and that is, that you have felt
+LINE 175: you could give me your confidence, Pip. And I am glad of another thing,
+LINE 176: and that is, that of course you know you may depend upon my keeping it
+LINE 177: and always so far deserving it. If your first teacher (dear! such a
+LINE 178: poor one, and so much in need of being taught herself!) had been your
+LINE 179: teacher at the present time, she thinks she knows what lesson she would
+LINE 180: set. But it would be a hard one to learn, and you have got beyond her,
+LINE 181: and it's of no use now." So, with a quiet sigh for me, Biddy rose from
+LINE 182: the bank, and said, with a fresh and pleasant change of voice, "Shall
+LINE 183: we walk a little farther, or go home?"
+LINE 184: "Biddy," I cried, getting up, putting my arm round her neck, and giving
+LINE 185: her a kiss, "I shall always tell you everything."
+LINE 186: "Till you're a gentleman," said Biddy.
+LINE 187: "You know I never shall be, so that's always. Not that I have any
+LINE 188: occasion to tell you anything, for you know everything I know,—as I
+LINE 189: told you at home the other night."
+LINE 190: "Ah!" said Biddy, quite in a whisper, as she looked away at the ships.
+LINE 191: And then repeated, with her former pleasant change, "shall we walk a
+LINE 192: little farther, or go home?"
+LINE 193: I said to Biddy we would walk a little farther, and we did so, and the
+LINE 194: summer afternoon toned down into the summer evening, and it was very
+LINE 195: beautiful. I began to consider whether I was not more naturally and
+LINE 196: wholesomely situated, after all, in these circumstances, than playing
+LINE 197: beggar my neighbour by candle-light in the room with the stopped
+LINE 198: clocks, and being despised by Estella. I thought it would be very good
+LINE 199: for me if I could get her out of my head, with all the rest of those
+LINE 200: remembrances and fancies, and could go to work determined to relish
+LINE 201: what I had to do, and stick to it, and make the best of it. I asked
+LINE 202: myself the question whether I did not surely know that if Estella were
+LINE 203: beside me at that moment instead of Biddy, she would make me miserable?
+LINE 204: I was obliged to admit that I did know it for a certainty, and I said
+LINE 205: to myself, "Pip, what a fool you are!"
+LINE 206: We talked a good deal as we walked, and all that Biddy said seemed
+LINE 207: right. Biddy was never insulting, or capricious, or Biddy to-day and
+LINE 208: somebody else to-morrow; she would have derived only pain, and no
+LINE 209: pleasure, from giving me pain; she would far rather have wounded her
+LINE 210: own breast than mine. How could it be, then, that I did not like her
+LINE 211: much the better of the two?
+LINE 212: "Biddy," said I, when we were walking homeward, "I wish you could put
+LINE 213: me right."
+LINE 214: "I wish I could!" said Biddy.
+LINE 215: "If I could only get myself to fall in love with you,—you don't mind my
+LINE 216: speaking so openly to such an old acquaintance?"
+LINE 217: "Oh dear, not at all!" said Biddy. "Don't mind me."
+LINE 218: "If I could only get myself to do it, _that_ would be the thing for
+LINE 219: me."
+LINE 220: "But you never will, you see," said Biddy.
+LINE 221: It did not appear quite so unlikely to me that evening, as it would
+LINE 222: have done if we had discussed it a few hours before. I therefore
+LINE 223: observed I was not quite sure of that. But Biddy said she _was_, and
+LINE 224: she said it decisively. In my heart I believed her to be right; and yet
+LINE 225: I took it rather ill, too, that she should be so positive on the point.
+LINE 226: When we came near the churchyard, we had to cross an embankment, and
+LINE 227: get over a stile near a sluice-gate. There started up, from the gate,
+LINE 228: or from the rushes, or from the ooze (which was quite in his stagnant
+LINE 229: way), Old Orlick.
+LINE 230: "Halloa!" he growled, "where are you two going?"
+LINE 231: "Where should we be going, but home?"
+LINE 232: "Well, then," said he, "I'm jiggered if I don't see you home!"
+LINE 233: This penalty of being jiggered was a favourite supposititious case of
+LINE 234: his. He attached no definite meaning to the word that I am aware of,
+LINE 235: but used it, like his own pretended Christian name, to affront mankind,
+LINE 236: and convey an idea of something savagely damaging. When I was younger,
+LINE 237: I had had a general belief that if he had jiggered me personally, he
+LINE 238: would have done it with a sharp and twisted hook.
+LINE 239: Biddy was much against his going with us, and said to me in a whisper,
+LINE 240: "Don't let him come; I don't like him." As I did not like him either, I
+LINE 241: took the liberty of saying that we thanked him, but we didn't want
+LINE 242: seeing home. He received that piece of information with a yell of
+LINE 243: laughter, and dropped back, but came slouching after us at a little
+LINE 244: distance.
+LINE 245: Curious to know whether Biddy suspected him of having had a hand in
+LINE 246: that murderous attack of which my sister had never been able to give
+LINE 247: any account, I asked her why she did not like him.
+LINE 248: "Oh!" she replied, glancing over her shoulder as he slouched after us,
+LINE 249: "because I—I am afraid he likes me."
+LINE 250: "Did he ever tell you he liked you?" I asked indignantly.
+LINE 251: "No," said Biddy, glancing over her shoulder again, "he never told me
+LINE 252: so; but he dances at me, whenever he can catch my eye."
+LINE 253: However novel and peculiar this testimony of attachment, I did not
+LINE 254: doubt the accuracy of the interpretation. I was very hot indeed upon
+LINE 255: Old Orlick's daring to admire her; as hot as if it were an outrage on
+LINE 256: myself.
+LINE 257: "But it makes no difference to you, you know," said Biddy, calmly.
+LINE 258: "No, Biddy, it makes no difference to me; only I don't like it; I don't
+LINE 259: approve of it."
+LINE 260: "Nor I neither," said Biddy. "Though _that_ makes no difference to
+LINE 261: you."
+LINE 262: "Exactly," said I; "but I must tell you I should have no opinion of
+LINE 263: you, Biddy, if he danced at you with your own consent."
+LINE 264: I kept an eye on Orlick after that night, and, whenever circumstances
+LINE 265: were favourable to his dancing at Biddy, got before him to obscure that
+LINE 266: demonstration. He had struck root in Joe's establishment, by reason of
+LINE 267: my sister's sudden fancy for him, or I should have tried to get him
+LINE 268: dismissed. He quite understood and reciprocated my good intentions, as
+LINE 269: I had reason to know thereafter.
+LINE 270: And now, because my mind was not confused enough before, I complicated
+LINE 271: its confusion fifty thousand-fold, by having states and seasons when I
+LINE 272: was clear that Biddy was immeasurably better than Estella, and that the
+LINE 273: plain honest working life to which I was born had nothing in it to be
+LINE 274: ashamed of, but offered me sufficient means of self-respect and
+LINE 275: happiness. At those times, I would decide conclusively that my
+LINE 276: disaffection to dear old Joe and the forge was gone, and that I was
+LINE 277: growing up in a fair way to be partners with Joe and to keep company
+LINE 278: with Biddy,—when all in a moment some confounding remembrance of the
+LINE 279: Havisham days would fall upon me like a destructive missile, and
+LINE 280: scatter my wits again. Scattered wits take a long time picking up; and
+LINE 281: often before I had got them well together, they would be dispersed in
+LINE 282: all directions by one stray thought, that perhaps after all Miss
+LINE 283: Havisham was going to make my fortune when my time was out.
+LINE 284: If my time had run out, it would have left me still at the height of my
+LINE 285: perplexities, I dare say. It never did run out, however, but was
+LINE 286: brought to a premature end, as I proceed to relate.

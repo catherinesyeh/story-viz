@@ -1,0 +1,184 @@
+LINE 1: Mr. Bennet's property consisted almost entirely in an estate of two
+LINE 2: thousand a year, which, unfortunately for his daughters, was entailed in
+LINE 3: default of heirs male, on a distant relation; and their mother's
+LINE 4: fortune, though ample for her situation in life, could but ill supply
+LINE 5: the deficiency of his. Her father had been an attorney in Meryton, and
+LINE 6: had left her four thousand pounds.
+LINE 7: She had a sister married to a Mr. Philips, who had been a clerk to their
+LINE 8: father, and succeeded him in the business, and a brother settled in
+LINE 9: London in a respectable line of trade.
+LINE 10: The village of Longbourn was only one mile from Meryton; a most
+LINE 11: convenient distance for the young ladies, who were usually tempted
+LINE 12: thither three or four times a week, to pay their duty to their aunt and
+LINE 13: to a milliner's shop just over the way. The two youngest of the family,
+LINE 14: Catherine and Lydia, were particularly frequent in these attentions;
+LINE 15: their minds were more vacant than their sisters', and when nothing
+LINE 16: better offered, a walk to Meryton was necessary to amuse their morning
+LINE 17: hours and furnish conversation for the evening; and however bare of news
+LINE 18: the country in general might be, they always contrived to learn some
+LINE 19: from their aunt. At present, indeed, they were well supplied both with
+LINE 20: news and happiness by the recent arrival of a militia regiment in the
+LINE 21: neighbourhood; it was to remain the whole winter, and Meryton was the
+LINE 22: head quarters.
+LINE 23: Their visits to Mrs. Philips were now productive of the most interesting
+LINE 24: intelligence. Every day added something to their knowledge of the
+LINE 25: officers' names and connections. Their lodgings were not long a secret,
+LINE 26: and at length they began to know the officers themselves. Mr. Philips
+LINE 27: visited them all, and this opened to his nieces a source of felicity
+LINE 28: unknown before. They could talk of nothing but officers; and Mr.
+LINE 29: Bingley's large fortune, the mention of which gave animation to their
+LINE 30: mother, was worthless in their eyes when opposed to the regimentals of
+LINE 31: an ensign.
+LINE 32: After listening one morning to their effusions on this subject, Mr.
+LINE 33: Bennet coolly observed,
+LINE 34: "From all that I can collect by your manner of talking, you must be two
+LINE 35: of the silliest girls in the country. I have suspected it some time, but
+LINE 36: I am now convinced."
+LINE 37: Catherine was disconcerted, and made no answer; but Lydia, with perfect
+LINE 38: indifference, continued to express her admiration of Captain Carter, and
+LINE 39: her hope of seeing him in the course of the day, as he was going the
+LINE 40: next morning to London.
+LINE 41: "I am astonished, my dear," said Mrs. Bennet, "that you should be so
+LINE 42: ready to think your own children silly. If I wished to think slightingly
+LINE 43: of any body's children, it should not be of my own however."
+LINE 44: "If my children are silly I must hope to be always sensible of it."
+LINE 45: "Yes--but as it happens, they are all of them very clever."
+LINE 46: "This is the only point, I flatter myself, on which we do not agree. I
+LINE 47: had hoped that our sentiments coincided in every particular, but I must
+LINE 48: so far differ from you as to think our two youngest daughters uncommonly
+LINE 49: foolish."
+LINE 50: "My dear Mr. Bennet, you must not expect such girls to have the sense of
+LINE 51: their father and mother.--When they get to our age I dare say they will
+LINE 52: not think about officers any more than we do. I remember the time when I
+LINE 53: liked a red coat myself very well--and indeed so I do still at my heart;
+LINE 54: and if a smart young colonel, with five or six thousand a year, should
+LINE 55: want one of my girls, I shall not say nay to him; and I thought Colonel
+LINE 56: Forster looked very becoming the other night at Sir William's in his
+LINE 57: regimentals."
+LINE 58: "Mama," cried Lydia, "my aunt says that Colonel Forster and Captain
+LINE 59: Carter do not go so often to Miss Watson's as they did when they first
+LINE 60: came; she sees them now very often standing in Clarke's library."
+LINE 61: Mrs. Bennet was prevented replying by the entrance of the footman with a
+LINE 62: note for Miss Bennet; it came from Netherfield, and the servant waited
+LINE 63: for an answer. Mrs. Bennet's eyes sparkled with pleasure, and she was
+LINE 64: eagerly calling out, while her daughter read,
+LINE 65: "Well, Jane, who is it from? what is it about? what does he say? Well,
+LINE 66: Jane, make haste and tell us; make haste, my love."
+LINE 67: "It is from Miss Bingley," said Jane, and then read it aloud.
+LINE 68: "My dear Friend,
+LINE 69: "If you are not so compassionate as to dine to-day with Louisa and
+LINE 70: me, we shall be in danger of hating each other for the rest of our
+LINE 71: lives, for a whole day's tête-à-tête between two women can never
+LINE 72: end without a quarrel. Come as soon as you can on the receipt of
+LINE 73: this. My brother and the gentlemen are to dine with the officers.
+LINE 74: Yours ever,
+LINE 75: "CAROLINE BINGLEY."
+LINE 76: "With the officers!" cried Lydia. "I wonder my aunt did not tell us of
+LINE 77: _that_."
+LINE 78: "Dining out," said Mrs. Bennet, "that is very unlucky."
+LINE 79: "Can I have the carriage?" said Jane.
+LINE 80: "No, my dear, you had better go on horseback, because it seems likely to
+LINE 81: rain; and then you must stay all night."
+LINE 82: "That would be a good scheme," said Elizabeth, "if you were sure that
+LINE 83: they would not offer to send her home."
+LINE 84: "Oh! but the gentlemen will have Mr. Bingley's chaise to go to Meryton;
+LINE 85: and the Hursts have no horses to theirs."
+LINE 86: "I had much rather go in the coach."
+LINE 87: "But, my dear, your father cannot spare the horses, I am sure. They are
+LINE 88: wanted in the farm, Mr. Bennet, are not they?"
+LINE 89: "They are wanted in the farm much oftener than I can get them."
+LINE 90: "But if you have got them to-day," said Elizabeth, "my mother's purpose
+LINE 91: will be answered."
+LINE 92: She did at last extort from her father an acknowledgment that the horses
+LINE 93: were engaged. Jane was therefore obliged to go on horseback, and her
+LINE 94: mother attended her to the door with many cheerful prognostics of a bad
+LINE 95: day. Her hopes were answered; Jane had not been gone long before it
+LINE 96: rained hard. Her sisters were uneasy for her, but her mother was
+LINE 97: delighted. The rain continued the whole evening without intermission;
+LINE 98: Jane certainly could not come back.
+LINE 99: "This was a lucky idea of mine, indeed!" said Mrs. Bennet, more than
+LINE 100: once, as if the credit of making it rain were all her own. Till the next
+LINE 101: morning, however, she was not aware of all the felicity of her
+LINE 102: contrivance. Breakfast was scarcely over when a servant from Netherfield
+LINE 103: brought the following note for Elizabeth:
+LINE 104: "My dearest Lizzy,
+LINE 105: "I FIND myself very unwell this morning, which, I suppose, is to be
+LINE 106: imputed to my getting wet through yesterday. My kind friends will
+LINE 107: not hear of my returning home till I am better. They insist also on
+LINE 108: my seeing Mr. Jones--therefore do not be alarmed if you should hear
+LINE 109: of his having been to me--and excepting a sore-throat and head-ache
+LINE 110: there is not much the matter with me.
+LINE 111: "Yours, &c."
+LINE 112: "Well, my dear," said Mr. Bennet, when Elizabeth had read the note
+LINE 113: aloud, "if your daughter should have a dangerous fit of illness, if she
+LINE 114: should die, it would be a comfort to know that it was all in pursuit of
+LINE 115: Mr. Bingley, and under your orders."
+LINE 116: "Oh! I am not at all afraid of her dying. People do not die of little
+LINE 117: trifling colds. She will be taken good care of. As long as she stays
+LINE 118: there, it is all very well. I would go and see her, if I could have the
+LINE 119: carriage."
+LINE 120: Elizabeth, feeling really anxious, was determined to go to her, though
+LINE 121: the carriage was not to be had; and as she was no horse-woman, walking
+LINE 122: was her only alternative. She declared her resolution.
+LINE 123: "How can you be so silly," cried her mother, "as to think of such a
+LINE 124: thing, in all this dirt! You will not be fit to be seen when you get
+LINE 125: there."
+LINE 126: "I shall be very fit to see Jane--which is all I want."
+LINE 127: "Is this a hint to me, Lizzy," said her father, "to send for the
+LINE 128: horses?"
+LINE 129: "No, indeed. I do not wish to avoid the walk. The distance is nothing,
+LINE 130: when one has a motive; only three miles. I shall be back by dinner."
+LINE 131: "I admire the activity of your benevolence," observed Mary, "but every
+LINE 132: impulse of feeling should be guided by reason; and, in my opinion,
+LINE 133: exertion should always be in proportion to what is required."
+LINE 134: "We will go as far as Meryton with you," said Catherine and
+LINE 135: Lydia.--Elizabeth accepted their company, and the three young ladies set
+LINE 136: off together.
+LINE 137: "If we make haste," said Lydia, as they walked along, "perhaps we may
+LINE 138: see something of Captain Carter before he goes."
+LINE 139: In Meryton they parted; the two youngest repaired to the lodgings of one
+LINE 140: of the officers' wives, and Elizabeth continued her walk alone, crossing
+LINE 141: field after field at a quick pace, jumping over stiles and springing
+LINE 142: over puddles with impatient activity, and finding herself at last within
+LINE 143: view of the house, with weary ancles, dirty stockings, and a face
+LINE 144: glowing with the warmth of exercise.
+LINE 145: She was shewn into the breakfast-parlour, where all but Jane were
+LINE 146: assembled, and where her appearance created a great deal of
+LINE 147: surprise.--That she should have walked three miles so early in the day,
+LINE 148: in such dirty weather, and by herself, was almost incredible to Mrs.
+LINE 149: Hurst and Miss Bingley; and Elizabeth was convinced that they held her
+LINE 150: in contempt for it. She was received, however, very politely by them;
+LINE 151: and in their brother's manners there was something better than
+LINE 152: politeness; there was good humour and kindness.--Mr. Darcy said very
+LINE 153: little, and Mr. Hurst nothing at all. The former was divided between
+LINE 154: admiration of the brilliancy which exercise had given to her complexion,
+LINE 155: and doubt as to the occasion's justifying her coming so far alone. The
+LINE 156: latter was thinking only of his breakfast.
+LINE 157: Her enquiries after her sister were not very favourably answered. Miss
+LINE 158: Bennet had slept ill, and though up, was very feverish and not well
+LINE 159: enough to leave her room. Elizabeth was glad to be taken to her
+LINE 160: immediately; and Jane, who had only been withheld by the fear of giving
+LINE 161: alarm or inconvenience, from expressing in her note how much she longed
+LINE 162: for such a visit, was delighted at her entrance. She was not equal,
+LINE 163: however, to much conversation, and when Miss Bingley left them together,
+LINE 164: could attempt little beside expressions of gratitude for the
+LINE 165: extraordinary kindness she was treated with. Elizabeth silently attended
+LINE 166: her.
+LINE 167: When breakfast was over, they were joined by the sisters; and Elizabeth
+LINE 168: began to like them herself, when she saw how much affection and
+LINE 169: solicitude they shewed for Jane. The apothecary came, and having
+LINE 170: examined his patient, said, as might be supposed, that she had caught a
+LINE 171: violent cold, and that they must endeavour to get the better of it;
+LINE 172: advised her to return to bed, and promised her some draughts. The advice
+LINE 173: was followed readily, for the feverish symptoms increased, and her head
+LINE 174: ached acutely. Elizabeth did not quit her room for a moment, nor were
+LINE 175: the other ladies often absent; the gentlemen being out, they had in fact
+LINE 176: nothing to do elsewhere.
+LINE 177: When the clock struck three, Elizabeth felt that she must go; and very
+LINE 178: unwillingly said so. Miss Bingley offered her the carriage, and she only
+LINE 179: wanted a little pressing to accept it, when Jane testified such concern
+LINE 180: in parting with her, that Miss Bingley was obliged to convert the offer
+LINE 181: of the chaise into an invitation to remain at Netherfield for the
+LINE 182: present. Elizabeth most thankfully consented, and a servant was
+LINE 183: dispatched to Longbourn to acquaint the family with her stay, and bring
+LINE 184: back a supply of clothes.
