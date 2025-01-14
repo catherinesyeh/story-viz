@@ -162,6 +162,18 @@ function PlotOptions() {
           setThemeView(false);
         }
 
+        if (
+          chapterHover !== "" &&
+          (!new_data.default["chapters"] ||
+            (new_data.default["chapters"] &&
+              !new_data.default["chapters"].some(
+                (c: any) => c.chapter === chapterHover
+              )))
+        ) {
+          // reset chapter hover if it doesn't exist in new story
+          setChapterHover("");
+        }
+
         let chapter = "";
         if (chapterHover !== "" && !chapterView && detailView) {
           chapter = chapterHover;

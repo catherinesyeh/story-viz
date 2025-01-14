@@ -783,6 +783,124 @@ h1 {
       margin-top: 0.05rem;
     }
   }
+
+  .text-header {
+    margin: 0 0.75rem;
+    display: flex;
+    justify-content: space-between;
+
+    .scene-toggle-buttons {
+      button {
+        height: 1.5rem;
+
+        &:not(.active) {
+          background: #eee !important;
+          color: rgb(0, 0, 0, 0.25);
+        }
+
+        &.active {
+          pointer-events: none;
+        }
+      }
+
+      span {
+        font-size: 10px !important;
+      }
+    }
+
+    .scene-select {
+      display: flex;
+      gap: 0.5rem;
+      align-items: center;
+
+      &.hidden {
+        visibility: hidden;
+        pointer-events: none;
+        opacity: 0;
+      }
+
+      b {
+        font-weight: 500;
+      }
+
+      .mantine-Select-wrapper,
+      input {
+        height: 1.5rem;
+        min-height: 1.5rem;
+        font-size: 10px !important;
+      }
+    }
+  }
+
+  #chapter-text {
+    transition: 0.3s;
+    width: max-content;
+    max-height: calc(317.05px + 0.25rem);
+    overflow-y: auto;
+    scrollbar-width: none;
+    position: relative;
+
+    .scene-text-group {
+      position: relative;
+      display: grid;
+      grid-template-columns: auto 200px;
+      gap: 0.5rem;
+
+      &:not(:last-child) {
+        margin-bottom: 0.25rem;
+      }
+
+      .scene-text {
+        transition: 0.3s;
+        border-right: 5px solid transparent; /* Make the border color transparent */
+        border-image: linear-gradient(
+          to bottom,
+          #eee 75%,
+          white
+        ); /* Add the gradient as a border image */
+        border-image-slice: 1; /* Ensure the entire gradient is used */
+        padding-right: 0.5rem;
+
+        &.filler {
+          border-image: none;
+        }
+      }
+
+      b {
+        transition: 0.3s;
+
+        &.filler {
+          opacity: 0;
+        }
+      }
+    }
+
+    p {
+      margin-top: 0;
+
+      &.text {
+        display: grid;
+        grid-template-columns: 1rem 1fr;
+        align-items: center;
+        gap: 0.75rem;
+      }
+
+      &:not(:last-child) {
+        margin-bottom: 0.25rem;
+      }
+
+      &:last-child {
+        margin-bottom: 0;
+      }
+
+      .line-num {
+        font-size: 6px;
+        opacity: 0.5;
+        font-weight: 500;
+        text-align: right;
+      }
+    }
+  }
 }
 
 #story-contain {

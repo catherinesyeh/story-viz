@@ -11,6 +11,8 @@ import {
 import { chapterFormatted, normalize } from "../../utils/helpers";
 import CharacterNetwork from "../Vis/CharacterNetwork";
 import LocationChart from "../Vis/LocationChart";
+import { Button, Select } from "@mantine/core";
+import ChapterText from "./ChapterText";
 
 function SceneDivInner(props: any) {
   const {
@@ -30,6 +32,11 @@ function SceneDivInner(props: any) {
     characterColor,
     detailView,
     chapterHover,
+    showChapterText,
+    setShowChapterText,
+    curScrollScene,
+    setCurScrollScene,
+    setScrollSource,
   } = storyStore();
 
   let scene;
@@ -69,6 +76,10 @@ function SceneDivInner(props: any) {
 
   const sortedGroups = sortedCharacters.map((char) => char.group);
   const uniqueGroups = [...new Set(sortedGroups)];
+
+  const sceneList = scene_data
+    .filter((scene) => scene.chapter === chapterHover)
+    .map((scene) => scene.name);
 
   return (
     <>
@@ -227,30 +238,72 @@ function SceneDivInner(props: any) {
         </div>
       )}
 
+      {detailView && inSidebar && scene && (
+        <div className="text-header">
+          <Button.Group className="scene-toggle-buttons">
+            <Button
+              variant="default"
+              size="xs"
+              className={!showChapterText ? "active" : ""}
+              onClick={() => setShowChapterText(false)}
+            >
+              {themeView ? "Themes" : "Characters"} / Location Info
+            </Button>
+            <Button
+              variant="default"
+              size="xs"
+              className={showChapterText ? "active" : ""}
+              onClick={() => setShowChapterText(true)}
+            >
+              Chapter Text
+            </Button>
+          </Button.Group>
+          <div className={"scene-select " + (!showChapterText ? "hidden" : "")}>
+            <b>Scroll to</b>
+            <Select
+              size="xs"
+              data={sceneList}
+              value={curScrollScene}
+              onChange={(value) => {
+                if (value) {
+                  setScrollSource(true); // Mark scroll as programmatic
+                  setCurScrollScene(value);
+                }
+              }}
+            />
+          </div>
+        </div>
+      )}
+
       {(chapterHover !== "" || sceneHover !== "") && (
         <div id="scene-characters">
           <div
             id="scene-header"
-            className={chapterView || inSidebar ? "split" : ""}
+            className={
+              !showChapterText && (chapterView || inSidebar) ? "split" : ""
+            }
           >
-            <div className="character-header">
-              <b>
-                {themeView ? "Themes" : "Characters"}:{" "}
-                {scene && scene.characters && scene.characters.length}
-                {scene &&
-                  scene.characters &&
-                  scene.characters.length > maxCharsToShow &&
-                  !chapterView && (
-                    <span>{" (top " + maxCharsToShow + " shown)"}</span>
-                  )}
-              </b>
-              {(chapterView || inSidebar) && (
-                <span className="key-text">
-                  circle size = importance, line thickness = # of mutual scenes
-                </span>
-              )}
-            </div>
-            {(chapterView || inSidebar) && (
+            {!showChapterText && (
+              <div className="character-header">
+                <b>
+                  {themeView ? "Themes" : "Characters"}:{" "}
+                  {scene && scene.characters && scene.characters.length}
+                  {scene &&
+                    scene.characters &&
+                    scene.characters.length > maxCharsToShow &&
+                    !chapterView && (
+                      <span>{" (top " + maxCharsToShow + " shown)"}</span>
+                    )}
+                </b>
+                {(chapterView || inSidebar) && (
+                  <span className="key-text">
+                    circle size = importance, line thickness = # of mutual
+                    scenes
+                  </span>
+                )}
+              </div>
+            )}
+            {(chapterView || inSidebar) && !showChapterText && (
               <b>
                 Locations:{" "}
                 {scene &&
@@ -369,6 +422,8 @@ function SceneDivInner(props: any) {
                   </div>
                 );
               })
+            ) : showChapterText ? (
+              <ChapterText />
             ) : (
               <>
                 <div>

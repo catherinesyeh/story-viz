@@ -61,6 +61,8 @@ export interface Scene {
   location: string;
   characters: Character[];
   summary: string;
+  firstLine: number;
+  lastLine: number;
   numLines: number;
   chapter: string;
   text: string;
@@ -185,6 +187,16 @@ const scene_data = (all_data: any, chapter_data: Chapter[]): Scene[] => {
     scene.name = scene.name ? scene.name : scene.title;
     scene.number = i + 1;
     scene.numLines = scene.num_lines ? scene.num_lines : scene.numLines;
+    scene.firstLine = scene.firstLine
+      ? scene.firstLine
+      : scene.first_line
+      ? scene.first_line
+      : 1;
+    scene.lastLine = scene.lastLine
+      ? scene.lastLine
+      : scene.last_line
+      ? scene.last_line
+      : scene.numLines;
     scene.text = scene.text ? scene.text : "";
     scene.ratings = scene.ratings ? scene.ratings : {};
     scene.ratings.conflict = scene.ratings.conflict
@@ -279,6 +291,8 @@ const chapter_scene_data = (
     new_scene.chapter = chapter.chapter;
     new_scene.summary = chapter.summary;
     new_scene.numLines = chapter.numLines;
+    new_scene.firstLine = 1;
+    new_scene.lastLine = chapter.numLines;
     new_scene.numScenes = chapter.numScenes;
 
     const chap_locations = chapter.locations;
@@ -383,7 +397,6 @@ const chapter_scene_data = (
     new_scene.links = chap_links;
     chapter_scenes.push(new_scene);
   });
-
   return chapter_scenes;
 };
 

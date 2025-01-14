@@ -61,6 +61,13 @@ interface IStore {
   detailView: boolean;
   setDetailView: (val: boolean) => void;
 
+  showChapterText: boolean;
+  setShowChapterText: (val: boolean) => void;
+  curScrollScene: string;
+  setCurScrollScene: (val: string) => void;
+  scrollSource: boolean;
+  setScrollSource: (val: boolean) => void;
+
   resetAll: () => void;
 }
 
@@ -97,6 +104,9 @@ export const storyStore = create<IStore>()((set) => ({
   storyMarginTop: 0,
   sidebarOpen: false,
   detailView: false,
+  showChapterText: false,
+  curScrollScene: "",
+  scrollSource: false,
   ...initialState,
 
   setStory: (val: string) => set({ story: val }),
@@ -129,5 +139,10 @@ export const storyStore = create<IStore>()((set) => ({
   setMinimized: (val: string[]) => set({ minimized: val }),
   setSidebarOpen: (val: boolean) => set({ sidebarOpen: val }),
   setDetailView: (val: boolean) => set({ detailView: val }),
+
+  setShowChapterText: (val: boolean) => set({ showChapterText: val }),
+  setCurScrollScene: (val: string) => set({ curScrollScene: val }),
+  setScrollSource: (val: boolean) => set({ scrollSource: val }),
+
   resetAll: () => set({ ...initialState }),
 }));
