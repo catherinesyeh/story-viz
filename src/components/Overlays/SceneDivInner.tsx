@@ -11,7 +11,7 @@ import {
 import { chapterFormatted, normalize } from "../../utils/helpers";
 import CharacterNetwork from "../Vis/CharacterNetwork";
 import LocationChart from "../Vis/LocationChart";
-import { Button, Select } from "@mantine/core";
+import { Button, Select, Switch } from "@mantine/core";
 import ChapterText from "./ChapterText";
 
 function SceneDivInner(props: any) {
@@ -37,6 +37,8 @@ function SceneDivInner(props: any) {
     curScrollScene,
     setCurScrollScene,
     setScrollSource,
+    cumulativeMode,
+    setCumulativeMode,
   } = storyStore();
 
   let scene;
@@ -258,6 +260,16 @@ function SceneDivInner(props: any) {
               Chapter Text
             </Button>
           </Button.Group>
+          <div className={"scene-select " + (showChapterText ? "hidden" : "")}>
+            <b>Cumulative mode</b>
+            <Switch
+              size="xs"
+              checked={cumulativeMode}
+              onChange={(event) =>
+                setCumulativeMode(event.currentTarget.checked)
+              }
+            />
+          </div>
           <div className={"scene-select " + (!showChapterText ? "hidden" : "")}>
             <b>Scroll to</b>
             <Select
@@ -303,21 +315,26 @@ function SceneDivInner(props: any) {
                 )}
               </div>
             )}
-            {(chapterView || inSidebar) && (!showChapterText || !inSidebar) && (
-              <b>
-                Locations:{" "}
-                {scene &&
-                  scene.allLocations &&
-                  Object.keys(scene.allLocations).length}
-              </b>
-            )}
+            {!cumulativeMode &&
+              (chapterView || inSidebar) &&
+              (!showChapterText || !inSidebar) && (
+                <b>
+                  Locations:{" "}
+                  {scene &&
+                    scene.allLocations &&
+                    Object.keys(scene.allLocations).length}
+                </b>
+              )}
           </div>
           <div
             id="scene-char-inner"
             className={
-              chapterView || inSidebar
+              !cumulativeMode && (chapterView || inSidebar)
                 ? "split"
-                : scene && scene.characters && scene.characters.length > 8
+                : !cumulativeMode &&
+                  scene &&
+                  scene.characters &&
+                  scene.characters.length > 8
                 ? "two-col"
                 : ""
             }
@@ -429,7 +446,7 @@ function SceneDivInner(props: any) {
                 <div>
                   <CharacterNetwork inSidebar={inSidebar} />
                 </div>
-                <LocationChart inSidebar={inSidebar} />
+                {!cumulativeMode && <LocationChart inSidebar={inSidebar} />}
               </>
             )}
           </div>

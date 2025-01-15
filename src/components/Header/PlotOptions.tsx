@@ -256,7 +256,7 @@ function PlotOptions() {
             }
             onChange={(event) => setFullHeight(event.currentTarget.checked)}
           />
-          <Switch
+          {/* <Switch
             size="xs"
             label={"Detail view"}
             labelPosition="left"
@@ -265,7 +265,7 @@ function PlotOptions() {
               !story.includes("-new") || (!chapterView && chapterHover === "")
             }
             onChange={(event) => setDetailView(event.currentTarget.checked)}
-          />
+          /> */}
           <Switch
             size="xs"
             label={(chapterView ? "Chapter" : "Scene") + " view"}

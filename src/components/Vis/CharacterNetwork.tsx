@@ -11,7 +11,7 @@ import {
   importanceColor,
 } from "../../utils/colors";
 import chroma from "chroma-js";
-import { Scene } from "../../utils/data";
+import { CharacterLink, Scene } from "../../utils/data";
 
 type Node = {
   id: string;
@@ -30,6 +30,7 @@ function CharacterNetwork(props: any) {
     detailView,
     chapterView,
     setCharacterHover,
+    cumulativeMode,
   } = storyStore();
   const { scene_data, character_data, sortedCharacters, chapter_data } =
     dataStore();
@@ -40,6 +41,7 @@ function CharacterNetwork(props: any) {
   const inSidebar = props.inSidebar || false;
 
   let cur_scene: Scene | undefined;
+  let prevScenes: Scene[] = [];
   if (
     inSidebar &&
     detailView &&
@@ -47,17 +49,78 @@ function CharacterNetwork(props: any) {
     chapterHover !== ""
   ) {
     cur_scene = chapter_data.find((d) => d.name === chapterHover);
+    if (cur_scene) {
+      prevScenes = chapter_data.slice(0, chapter_data.indexOf(cur_scene));
+    }
   } else {
     cur_scene = scene_data.find((d) => d.name === sceneHover);
+    if (cur_scene) {
+      prevScenes = scene_data.slice(0, scene_data.indexOf(cur_scene));
+    }
   }
 
   const sortedGroups = sortedCharacters.map((char) => char.group);
   const uniqueGroups = [...new Set(sortedGroups)];
 
   useEffect(() => {
-    const og_links = cur_scene?.links || [];
+    if (!cur_scene) return;
 
-    const scene_characters = cur_scene?.characters || [];
+    let scene_characters = [...(cur_scene?.characters || [])];
+
+    let og_links = [...(cur_scene?.links || [])];
+
+    if (inSidebar && cumulativeMode) {
+      // get all characters in the story up to this point
+      // const prevScenes = chapter_data.slice(0, chapter_data.indexOf(cur_scene));
+
+      let prevChars = [
+        ...prevScenes.flatMap((s) => s.characters.map((c) => ({ ...c }))),
+      ];
+
+      // only keep one instance of each character in prevChars
+      const seen = new Set();
+      const curCharNames = scene_characters.map((s) => s.name);
+      let newChars = prevChars.filter((c) => {
+        if (seen.has(c.name)) {
+          return false;
+        }
+        seen.add(c.name);
+        return !curCharNames.includes(c.name);
+      });
+      newChars = newChars.map((c) => ({
+        ...c,
+        // set importance to 0 for characters that are not in the current scene
+        importance: 0,
+      }));
+
+      scene_characters = [...scene_characters, ...newChars];
+
+      // get all links in the story up to this point
+      const prevLinks = prevScenes.flatMap((s) =>
+        (s.links as CharacterLink[]).map((l) => ({ ...l }))
+      );
+
+      if (prevLinks && prevLinks.length > 0) {
+        // add in links, combining links that have the same source and target (or target and source)
+        prevLinks.forEach((l) => {
+          const source = l.source;
+          const target = l.target;
+          const value = l.value;
+
+          const existingLink = og_links.find(
+            (link) =>
+              (link.source === source && link.target === target) ||
+              (link.source === target && link.target === source)
+          );
+
+          if (existingLink) {
+            existingLink.value += value;
+          } else {
+            og_links = [...og_links, l];
+          }
+        });
+      }
+    }
 
     const nodes = scene_characters.map((d) => {
       const c_name = d.name;
@@ -93,11 +156,31 @@ function CharacterNetwork(props: any) {
       };
     }) as Node[];
 
-    const links = og_links.map((d) => ({
-      source: nodes.find((n) => n.id === d.source),
-      target: nodes.find((n) => n.id === d.target),
-      value: d.value,
-    }));
+    const links = og_links
+      .filter(
+        (l) =>
+          scene_characters.some((c) => c.name === l.source) &&
+          scene_characters.some((c) => c.name === l.target)
+      )
+      .map((d) => {
+        if (
+          !nodes.find((n) => n.id === d.source) ||
+          !nodes.find((n) => n.id === d.target)
+        ) {
+          console.error("Link references a non-existent node", d);
+        }
+        return {
+          source: nodes.find((n) => n.id === d.source),
+          target: nodes.find((n) => n.id === d.target),
+          lighter:
+            nodes.find((n) => n.id === d.source)?.importance === 0 ||
+            nodes.find((n) => n.id === d.target)?.importance === 0,
+          value: d.value,
+        };
+      });
+
+    if (nodes.length === 0) return;
+    if (links.length === 0) return;
 
     const min_val = d3.min(links, (d) => d.value) || 0;
     const max_val = d3.max(links, (d) => d.value) || 1;
@@ -206,7 +289,8 @@ function CharacterNetwork(props: any) {
       .join("line")
       .attr("stroke", "#ddd")
       .attr("stroke-width", (d) => normalize(d.value, min_val, max_val, 1, 8))
-      .attr("stroke-opacity", 0.75);
+      .attr("stroke-opacity", (d) => (d.lighter ? 0.2 : 0.75));
+
     const node = svg
       .append("g")
       .selectAll("circle")
@@ -214,6 +298,7 @@ function CharacterNetwork(props: any) {
       .join("circle")
       .attr("r", (d) => normalize(d.importance, min_importance, 1, 2, 8))
       .attr("fill", (d) => d.color)
+      .attr("fill-opacity", (d) => (d.importance === 0 ? 0.25 : 1))
       .call(
         d3
           .drag<any, any>()
@@ -244,6 +329,7 @@ function CharacterNetwork(props: any) {
       )
       .attr("dx", (d) => normalize(d.importance, min_importance, 1, 6, 10))
       .attr("dy", ".35em")
+      .attr("fill-opacity", (d) => (d.importance === 0 ? 0.25 : 1))
       // Add hover behavior
       .on("mouseover", (_, d) => {
         setCharacterHover(d.id); // Update characterHover with the character's name
@@ -272,9 +358,9 @@ function CharacterNetwork(props: any) {
       // window.removeEventListener("resize", updateDimensions);
       simulation.stop(); // Clean up the simulation on unmount
     };
-  }, [cur_scene]);
+  }, [cur_scene, cumulativeMode]);
 
-  return <svg ref={svgRef} />;
+  return <svg ref={svgRef} style={{ maxWidth: "100%" }} />;
 }
 
 export default CharacterNetwork;

@@ -812,11 +812,13 @@ h1 {
       display: flex;
       gap: 0.5rem;
       align-items: center;
+      transition: 0.3s;
 
       &.hidden {
         visibility: hidden;
         pointer-events: none;
         opacity: 0;
+        display: none;
       }
 
       b {

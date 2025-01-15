@@ -67,6 +67,8 @@ interface IStore {
   setCurScrollScene: (val: string) => void;
   scrollSource: boolean;
   setScrollSource: (val: boolean) => void;
+  cumulativeMode: boolean;
+  setCumulativeMode: (val: boolean) => void;
 
   resetAll: () => void;
 }
@@ -92,6 +94,7 @@ const initialState = {
   hidden: [],
   minimized: [],
   showLegend: true,
+  cumulativeMode: false,
 };
 
 export const storyStore = create<IStore>()((set) => ({
@@ -143,6 +146,7 @@ export const storyStore = create<IStore>()((set) => ({
   setShowChapterText: (val: boolean) => set({ showChapterText: val }),
   setCurScrollScene: (val: string) => set({ curScrollScene: val }),
   setScrollSource: (val: boolean) => set({ scrollSource: val }),
+  setCumulativeMode: (val: boolean) => set({ cumulativeMode: val }),
 
   resetAll: () => set({ ...initialState }),
 }));
