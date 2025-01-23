@@ -223,11 +223,15 @@ function PlotOptions() {
 
     // reset characterColor if it's not a valid option
     const stored_colors = localStorage.getItem(`colorDict-${story}`);
-    if (
-      !stored_colors ||
-      (!defaultCharacterColors.includes(characterColor) &&
-        !Object.keys(JSON.parse(stored_colors)).includes(characterColor))
-    ) {
+    let all_colors = [...defaultCharacterColors];
+    if (stored_colors) {
+      const new_colors = Object.keys(JSON.parse(stored_colors)).filter(
+        (c) => !all_colors.includes(c)
+      );
+      all_colors = [...all_colors, ...new_colors];
+    }
+
+    if (!all_colors.includes(characterColor)) {
       setCharacterColor("llm");
     }
 
