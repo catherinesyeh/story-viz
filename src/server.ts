@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const dataServerUrl = "http://127.0.0.1:5000";
+export const dataServerUrl = "http://127.0.0.1:5000";
 
 function get(field: string): Promise<any> {
   return new Promise((resolve, reject) => {
@@ -46,4 +46,8 @@ export async function getNewColors(
   });
 
   return get(`new_colors?${queryParams}`);
+}
+
+export async function checkBackendStatus() {
+  return get("status");
 }

@@ -44,14 +44,14 @@ function PlotOptions() {
     "gatsby",
     // "gatsby2",
     "gatsby-new",
-    "gatsby2-new",
+    // "gatsby2-new",
     "gatsby-new-themes",
     // "gatsby-mov",
 
     "alice",
     // "alice2",
     "alice-new",
-    "alice2-new",
+    // "alice2-new",
     "alice-new-themes",
     // "alice-mov",
 

@@ -29,6 +29,10 @@ def add_new_colors():
     print("*" * 50)
     return jsonify({"char_attrs": char_attrs, "color_assignments": color_assignments})
 
+@app.route("/status", methods=['GET'])
+def status():
+    return jsonify({"status": "ok"})
+
 @app.route("/")
 def base():
     return "backend"

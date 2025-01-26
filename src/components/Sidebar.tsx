@@ -6,6 +6,7 @@ import LegendDiv from "./Vis/LegendDiv";
 import { IoMdOpen } from "react-icons/io";
 import { dataStore } from "../stores/dataStore";
 import { useEffect } from "react";
+import { checkBackendStatus } from "../server";
 
 function Sidebar() {
   const {
@@ -28,6 +29,8 @@ function Sidebar() {
     chapterView,
     setModalOpened,
     setModalType,
+    isBackendActive,
+    setIsBackendActive,
   } = storyStore();
 
   const {
@@ -64,6 +67,26 @@ function Sidebar() {
     setModalType(mod_type);
     setModalOpened(true);
   };
+
+  const fetchBackendStatus = async () => {
+    try {
+      const res = await checkBackendStatus();
+      if (res.status === "ok") {
+        setIsBackendActive(true);
+        console.log("Backend is active");
+      } else {
+        setIsBackendActive(false);
+        console.log("Backend is not active");
+      }
+    } catch (error) {
+      setIsBackendActive(false);
+      console.log("Backend is not active");
+    }
+  };
+
+  useEffect(() => {
+    fetchBackendStatus();
+  }, []);
 
   return (
     <div id="sidebar">
@@ -137,6 +160,12 @@ function Sidebar() {
                       <Button
                         size="xs"
                         variant="light"
+                        title={
+                          isBackendActive
+                            ? "Add custom color scheme"
+                            : "Backend is not connected"
+                        }
+                        disabled={!isBackendActive}
                         fullWidth
                         onClick={() => openModal()}
                       >
