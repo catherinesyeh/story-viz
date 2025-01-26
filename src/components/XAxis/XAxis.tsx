@@ -12,6 +12,7 @@ import {
   emotionColor,
   importanceColor,
   lengthColor,
+  numCharsColor,
   textColor,
 } from "../../utils/colors";
 import {
@@ -98,6 +99,13 @@ function XAxis() {
         numScenesInLastActiveChapter
   );
   const maxChars = 24;
+
+  const maxCharsInScene = Math.max(
+    ...sceneCharacters.map((scene) => scene.characters.length)
+  );
+  const minCharsInScene = Math.min(
+    ...sceneCharacters.map((scene) => scene.characters.length)
+  );
 
   const updateChapterHover = (sceneName: string) => {
     if (chapterView) {
@@ -252,6 +260,13 @@ function XAxis() {
                 0,
                 1
               );
+              const sceneChars = normalize(
+                activeSceneData[i].characters.length,
+                minCharsInScene,
+                maxCharsInScene,
+                0,
+                1
+              );
               const textOffset =
                 sizeBy === "default"
                   ? 1.5
@@ -259,6 +274,8 @@ function XAxis() {
                   ? normalizeTextOffset(ratings.conflict)
                   : sizeBy === "importance"
                   ? normalizeTextOffset(ratings.importance)
+                  : sizeBy === "numChars"
+                  ? normalizeTextOffset(sceneChars)
                   : normalizeTextOffset(numLines);
 
               let fontSize =
@@ -269,6 +286,9 @@ function XAxis() {
                     (ratings.conflict >= 0.66 ? 0.2 : 0)
                   : sizeBy === "importance"
                   ? normalizeFontSize(ratings.importance) +
+                    (ratings.conflict >= 0.66 ? 0.2 : 0)
+                  : sizeBy === "numChars"
+                  ? normalizeFontSize(sceneChars) +
                     (ratings.conflict >= 0.66 ? 0.2 : 0)
                   : normalizeFontSize(numLines) +
                     (ratings.conflict >= 0.66 ? 0.2 : 0);
@@ -286,6 +306,8 @@ function XAxis() {
                   ? chroma(conflictColor(ratings.conflict)).css()
                   : colorBy === "importance"
                   ? chroma(importanceColor(ratings.importance)).css()
+                  : colorBy === "numChars"
+                  ? chroma(numCharsColor(sceneChars)).css()
                   : chroma(lengthColor(numLines)).css();
 
               // make color transparent if showChapters is true
@@ -300,6 +322,8 @@ function XAxis() {
                   ? getFontWeight(ratings.conflict)
                   : weightBy === "length"
                   ? getFontWeight(numLines)
+                  : weightBy === "numChars"
+                  ? getFontWeight(sceneChars)
                   : 500;
 
               // const letterSpacing =
@@ -386,6 +410,17 @@ function XAxis() {
               ? textColor(scene_data[0].ratings.sentiment, true)
               : colorBy === "importance"
               ? textColor(scene_data[0].ratings.importance, false)
+              : colorBy === "# characters"
+              ? textColor(
+                  normalize(
+                    scene_data[0].characters.length,
+                    minCharsInScene,
+                    maxCharsInScene,
+                    0,
+                    1
+                  ),
+                  false
+                )
               : textColor(
                   normalize(scene_data[0].numLines, minLines, maxLines, 0, 1),
                   false

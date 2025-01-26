@@ -219,20 +219,20 @@ const characterPos = (
   });
 
   // if more than 8 yLines, adjust y position
-  if (yLines.length > 10) {
-    const scalar_new = get_scalar(yLines.length);
-    charStackPos.forEach((char, i) => {
-      // find yLine for this character
-      const line_ind = yLines.findIndex((line: any) =>
-        line.characters.includes(characterScenes[i])
-      );
-      char.forEach((pos) => {
-        pos.y =
-          line_ind * (scalar_new * character_offset + character_height) +
-          0.5 * character_offset;
-      });
+  // if (yLines.length > 10) {
+  const scalar_new = get_scalar(yLines.length);
+  charStackPos.forEach((char, i) => {
+    // find yLine for this character
+    const line_ind = yLines.findIndex((line: any) =>
+      line.characters.includes(characterScenes[i])
+    );
+    char.forEach((pos) => {
+      pos.y =
+        line_ind * (scalar_new * character_offset + character_height) +
+        0.5 * character_offset;
     });
-  }
+  });
+  // }
 
   const charListPos = characterScenes.map((character) => {
     const i = sortedCharacters.findIndex(
@@ -249,6 +249,36 @@ const characterPos = (
   // max characters in a scene
   const max_characters_per_scene =
     Math.max(...sceneCharacters.map((scene) => scene.characters.length)) - 1;
+  const min_characters_per_scene =
+    Math.min(...sceneCharacters.map((scene) => scene.characters.length)) - 1;
+
+  const char_range = max_characters_per_scene - min_characters_per_scene;
+  const char_scalar = get_scalar(char_range);
+  const char_max_y =
+    char_range * (char_scalar * character_offset + character_height);
+  const num_char_inc = char_max_y / char_range;
+
+  const numCharPos = characterScenes.map((character) => {
+    return character.scenes.map((scene) => {
+      const charsInScene = sceneCharacters[scene].characters;
+      const numSceneChars = charsInScene.length;
+      // sort character based on sortedCharacters
+      const sortedChars = charsInScene.sort(
+        (a, b) =>
+          sortedCharacters.findIndex((char) => char.character === a) -
+          sortedCharacters.findIndex((char) => char.character === b)
+      );
+      const charIndex = sortedChars.indexOf(character.character);
+      return {
+        x: initialScenePos[scene].x - 0.5 * character_height,
+        y:
+          0.5 * character_offset +
+          num_char_inc * (numSceneChars - min_characters_per_scene - 1) +
+          character_offset * charIndex,
+      };
+    });
+  });
+
   const prom_scalar = get_scalar(max_characters_per_scene);
   const new_max_y =
     max_characters_per_scene *
@@ -278,6 +308,7 @@ const characterPos = (
       };
     });
   });
+
   const emotionPos = characterScenes.map((character) => {
     return character.scenes.map((scene) => {
       const cur_scene = scene_data[scene];
@@ -309,6 +340,7 @@ const characterPos = (
     emotionPos: emotionPos,
     charListPos: charListPos,
     charStackPos: charStackPos,
+    numCharPos: numCharPos,
     charInc: char_inc,
   };
 };
@@ -843,6 +875,8 @@ export const getAllPositions = (
       ? characterInfo.emotionPos
       : yAxis === "character"
       ? characterInfo.charListPos
+      : yAxis === "# characters"
+      ? characterInfo.numCharPos
       : characterInfo.charStackPos;
 
   const charInc = characterInfo.charInc;
@@ -924,6 +958,18 @@ export const getAllPositions = (
     activeSceneRange
   );
 
+  const initNumCharsPoints = overlay_points(
+    ratingDict.numChars,
+    min_conflict_y,
+    initScenePos
+  );
+
+  const initNumCharsPath = overlayPath(
+    initNumCharsPoints,
+    min_conflict_y,
+    activeSceneRange
+  );
+
   return {
     sceneWidth: sceneWidth,
     plotWidth: plotWidth,
@@ -937,6 +983,7 @@ export const getAllPositions = (
     conflictPath: initConflictPath,
     importancePath: initImportancePath,
     lengthPath: initLengthPath,
+    numCharsPath: initNumCharsPath,
     minConflictY: min_conflict_y,
     charInc: charInc,
     firstPoints: initFirstPoints,

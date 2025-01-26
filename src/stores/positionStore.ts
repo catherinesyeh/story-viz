@@ -39,6 +39,7 @@ interface IStore {
   conflictPath: string;
   importancePath: string;
   lengthPath: string;
+  numCharsPath: string;
   minConflictY: number;
   charInc: number;
   firstPoints: Position[];
@@ -84,6 +85,7 @@ const initialState = {
   conflictPath: init_pos_values.conflictPath,
   importancePath: init_pos_values.importancePath,
   lengthPath: init_pos_values.lengthPath,
+  numCharsPath: init_pos_values.numCharsPath,
   minConflictY: init_pos_values.minConflictY,
   charInc: init_pos_values.charInc,
   firstPoints: init_pos_values.firstPoints,
@@ -136,6 +138,7 @@ export const positionStore = create<IStore>((set, get) => ({
       conflictPath: newPositions.conflictPath,
       importancePath: newPositions.importancePath,
       lengthPath: newPositions.lengthPath,
+      numCharsPath: newPositions.numCharsPath,
       minConflictY: newPositions.minConflictY,
       charInc: newPositions.charInc,
       firstPoints: newPositions.firstPoints,
@@ -172,6 +175,7 @@ export const positionStore = create<IStore>((set, get) => ({
       importancePath: newPositions.importancePath,
       lengthPath: newPositions.lengthPath,
       conflictPath: newPositions.conflictPath,
+      numCharsPath: newPositions.numCharsPath,
     });
   },
 }));

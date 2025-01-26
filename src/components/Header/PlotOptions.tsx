@@ -131,6 +131,10 @@ function PlotOptions() {
       label: themeView ? "themes (stacked)" : "character (stacked)",
       value: "character (stacked)",
     },
+    {
+      label: themeView ? "# themes" : "# characters",
+      value: "# characters",
+    },
     { label: "importance", value: "importance" },
     { label: "sentiment", value: "sentiment" },
   ];

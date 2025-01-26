@@ -98,8 +98,6 @@ function PromptModal() {
 
       // set CharacterColor to new color description
       setCharacterColor(color_lower);
-
-      // console.log("Response from getNewColors:", res);
     } catch (e) {
       console.error("Error fetching new colors:", e);
       setColorDesc("Error");

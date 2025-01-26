@@ -55,6 +55,8 @@ export const importanceColor = chroma.scale("Purples").padding([0.25, 0]);
 export const lengthColor = chroma.scale("Oranges").padding([0.25, 0]);
 // console.log(lengthColor.colors(5));
 
+export const numCharsColor = chroma.scale("Blues").padding([0.25, 0]);
+
 export default [
   d3.scaleSequential(d3.interpolateOrRd),
   d3.scaleSequential(d3.interpolatePuRd),
@@ -88,6 +90,7 @@ const emotion_increments = color_increments(emotionColor);
 const conflict_increments = color_increments(conflictColor);
 const importance_increments = color_increments(importanceColor);
 const length_increments = color_increments(lengthColor);
+const numChars_increments = color_increments(numCharsColor);
 
 // add all to dict
 export const color_dict = {
@@ -95,6 +98,7 @@ export const color_dict = {
   importance: importance_increments,
   conflict: conflict_increments,
   sentiment: emotion_increments,
+  numChars: numChars_increments,
 } as { [key: string]: number[] };
 
 // get color for character

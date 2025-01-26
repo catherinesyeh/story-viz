@@ -139,6 +139,7 @@ export interface RatingDict {
   conflict: number[];
   sentiment: number[];
   length: number[];
+  numChars: number[];
 }
 
 export interface ChapterDivision {
@@ -703,7 +704,7 @@ const getMinMaxLines = (data: Scene[]) => {
 };
 
 // create dictionary with importance, conflict, and sentiment ratings, each containing a list of ratings by scene
-const ratings = ["importance", "conflict", "sentiment", "length"];
+const ratings = ["importance", "conflict", "sentiment", "length", "numChars"];
 const createRatingDict = (data: Scene[]): any => {
   const ratingDict: RatingDict = {} as any;
 
@@ -711,11 +712,22 @@ const createRatingDict = (data: Scene[]): any => {
   const minLines = minMax[0];
   const maxLines = minMax[1];
 
+  const minCharacters = Math.min(
+    ...data.map((scene) => scene.characters.length)
+  );
+  const maxCharacters = Math.max(
+    ...data.map((scene) => scene.characters.length)
+  );
+
   for (let rating of ratings) {
     const key = rating as keyof RatingDict;
     if (key === "length") {
       ratingDict[key] = data.map((scene) =>
         normalize(scene.numLines, minLines, maxLines, 0, 1)
+      );
+    } else if (key === "numChars") {
+      ratingDict[key] = data.map((scene) =>
+        normalize(scene.characters.length, minCharacters, maxCharacters, 0, 1)
       );
     } else {
       ratingDict[key] = data.map((scene) => scene.ratings[key]);

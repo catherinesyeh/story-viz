@@ -217,36 +217,38 @@ function MainPlot() {
               }
             >
               {/* dashed line to connect gaps in character y axis view */}
-              {yAxis.includes("character") && characterPaths.length > 1 && (
-                <line
-                  x1={charFirstPoint && charFirstPoint.x}
-                  x2={charLastPoint && charLastPoint.x}
-                  y1={charFirstPoint && charFirstPoint.y}
-                  y2={charLastPoint && charLastPoint.y}
-                  strokeOpacity={0.1}
-                  stroke={dashColor}
-                  strokeWidth="4"
-                  strokeDasharray={"12"}
-                  className={
-                    "dashed-lines " +
-                    (hidden.includes(character.character) ? "hidden " : "") +
-                    (locationHover !== "" ||
-                    sceneHover !== "" ||
-                    (characterHover !== "" &&
-                      characterHover !== character.character) ||
-                    (groupHover !== "" && groupHover !== group) ||
-                    (customHover !== "" &&
-                      !charHasAttr(
-                        character_data,
-                        character.character,
-                        characterColorBy,
-                        customHover
-                      ))
-                      ? "faded"
-                      : "")
-                  }
-                />
-              )}
+              {yAxis.includes("character") &&
+                !yAxis.includes("#") &&
+                characterPaths.length > 1 && (
+                  <line
+                    x1={charFirstPoint && charFirstPoint.x}
+                    x2={charLastPoint && charLastPoint.x}
+                    y1={charFirstPoint && charFirstPoint.y}
+                    y2={charLastPoint && charLastPoint.y}
+                    strokeOpacity={0.1}
+                    stroke={dashColor}
+                    strokeWidth="4"
+                    strokeDasharray={"12"}
+                    className={
+                      "dashed-lines " +
+                      (hidden.includes(character.character) ? "hidden " : "") +
+                      (locationHover !== "" ||
+                      sceneHover !== "" ||
+                      (characterHover !== "" &&
+                        characterHover !== character.character) ||
+                      (groupHover !== "" && groupHover !== group) ||
+                      (customHover !== "" &&
+                        !charHasAttr(
+                          character_data,
+                          character.character,
+                          characterColorBy,
+                          customHover
+                        ))
+                        ? "faded"
+                        : "")
+                    }
+                  />
+                )}
               {/* add paths between scenes */}
               <g
                 fillOpacity={0.7}

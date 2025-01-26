@@ -12,9 +12,11 @@ import { positionStore } from "../../stores/positionStore";
 function OverlayCurve() {
   const { showOverlay, sceneHover, locationHover, characterHover, colorBy } =
     storyStore();
-  const { conflictPath, importancePath, lengthPath, scenePos } =
+  const { conflictPath, importancePath, lengthPath, numCharsPath, scenePos } =
     positionStore();
   const { scenes } = dataStore();
+
+  console.log(numCharsPath);
   return (
     <g
       id="conflict-container"
@@ -30,6 +32,8 @@ function OverlayCurve() {
             ? importancePath
             : colorBy === "conflict"
             ? conflictPath
+            : colorBy === "numChars"
+            ? numCharsPath
             : lengthPath
         }
         fillOpacity={0}
@@ -125,7 +129,10 @@ function OverlayCurve() {
             ")"
           }
         >
-          {colorBy.charAt(0).toUpperCase() + colorBy.slice(1)} (max: 1)
+          {colorBy === "numChars"
+            ? "# Chars"
+            : colorBy.charAt(0).toUpperCase() + colorBy.slice(1)}{" "}
+          (max: 1)
         </text>
       </g>
     </g>

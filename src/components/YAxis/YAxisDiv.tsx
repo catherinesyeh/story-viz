@@ -90,6 +90,7 @@ function YAxisDiv() {
         {yAxis === "location" && <LocationAxis />}
         {(yAxis === "importance" ||
           yAxis === "sentiment" ||
+          yAxis.includes("#") ||
           yAxis.includes("stacked")) && <ColorAxis />}
         {yAxis === "character" && <CharacterAxis />}
       </div>

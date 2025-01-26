@@ -9,6 +9,7 @@ import {
   lengthColor,
   getGroupColor,
   getCustomColor,
+  numCharsColor,
 } from "../../utils/colors";
 import { dataStore } from "../../stores/dataStore";
 import { RatingDict } from "../../utils/data";
@@ -311,6 +312,8 @@ function Defs() {
               ? conflictColor
               : scale === "importance"
               ? importanceColor
+              : scale === "numChars"
+              ? numCharsColor
               : lengthColor;
           const min_val = color_incs[0];
           const max_val = color_incs[color_incs.length - 1];
@@ -405,6 +408,8 @@ function Defs() {
                         ? chroma(conflictColor(rating)).css()
                         : rating_type === "importance"
                         ? chroma(importanceColor(rating)).css()
+                        : rating_type === "numChars"
+                        ? chroma(numCharsColor(rating)).css()
                         : chroma(lengthColor(rating)).css()
                     }
                     key={"rating stop" + rating_type + j}

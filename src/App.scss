@@ -635,6 +635,17 @@ h1 {
             rgb(103, 0, 13)
           );
         }
+
+        &.numChars {
+          background: linear-gradient(
+            to right,
+            rgb(198, 219, 239),
+            rgb(132.5, 188, 219.5),
+            rgb(66, 146, 198),
+            rgb(20.5, 97, 168.5),
+            rgb(8, 48, 107)
+          );
+        }
       }
     }
 
@@ -1071,6 +1082,17 @@ h1 {
             rgb(221, 221, 221),
             rgb(249, 113, 84),
             rgb(103, 0, 13)
+          );
+        }
+
+        &.numChars {
+          background: linear-gradient(
+            to bottom,
+            rgb(198, 219, 239),
+            rgb(132.5, 188, 219.5),
+            rgb(66, 146, 198),
+            rgb(20.5, 97, 168.5),
+            rgb(8, 48, 107)
           );
         }
 
@@ -1701,6 +1723,17 @@ h1 {
             rgb(221, 221, 221),
             rgb(249, 113, 84),
             rgb(103, 0, 13)
+          );
+        }
+
+        &.numChars {
+          background: linear-gradient(
+            to right,
+            rgb(198, 219, 239),
+            rgb(132.5, 188, 219.5),
+            rgb(66, 146, 198),
+            rgb(20.5, 97, 168.5),
+            rgb(8, 48, 107)
           );
         }
       }

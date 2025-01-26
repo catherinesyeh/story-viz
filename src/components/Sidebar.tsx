@@ -48,13 +48,20 @@ function Sidebar() {
     setSidebarOpen(false);
   };
 
-  const sizeByOptions = ["conflict", "importance", "length", "default"];
+  const sizeByOptions = [
+    { value: "conflict", label: "conflict" },
+    { value: "importance", label: "importance" },
+    { value: "length", label: "length" },
+    { value: "numChars", label: "# characters" },
+    { value: "default", label: "default" },
+  ];
   const colorByOptions = [
-    "conflict",
-    "sentiment",
-    "importance",
-    "length",
-    "default",
+    { value: "conflict", label: "conflict" },
+    { value: "sentiment", label: "sentiment" },
+    { value: "importance", label: "importance" },
+    { value: "length", label: "length" },
+    { value: "numChars", label: "# characters" },
+    { value: "default", label: "default" },
   ];
 
   useEffect(() => {

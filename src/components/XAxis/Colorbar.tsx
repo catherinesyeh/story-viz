@@ -1,7 +1,14 @@
 import { dataStore } from "../../stores/dataStore";
 
 function Colorbar(props: any) {
-  const { minLines, maxLines } = dataStore();
+  const { minLines, maxLines, sceneCharacters } = dataStore();
+
+  const maxCharsInScene = Math.max(
+    ...sceneCharacters.map((scene) => scene.characters.length)
+  );
+  const minCharsInScene = Math.min(
+    ...sceneCharacters.map((scene) => scene.characters.length)
+  );
 
   const barType = props.barType;
   const fullWidth = props.fullWidth || false;
@@ -14,12 +21,16 @@ function Colorbar(props: any) {
               ? "negative"
               : barType === "length"
               ? "short"
+              : barType === "numChars"
+              ? "few"
               : "low"}
             <span>
               {barType === "sentiment"
                 ? -1
                 : barType === "length"
                 ? minLines
+                : barType === "numChars"
+                ? minCharsInScene
                 : 0}
             </span>
           </p>
@@ -29,16 +40,26 @@ function Colorbar(props: any) {
               ? "long"
               : barType === "sentiment"
               ? "positive"
+              : barType === "numChars"
+              ? "many"
               : "high"}
 
             <span className="number-label">
-              {barType === "length" ? maxLines : 1}
+              {barType === "length"
+                ? maxLines
+                : barType === "numChars"
+                ? maxCharsInScene
+                : 1}
             </span>
           </p>
         </div>
 
         <span className="main-label">
-          {barType === "length" ? "length (# lines)" : `${barType}`}
+          {barType === "length"
+            ? "length (# lines)"
+            : barType === "numChars"
+            ? "# characters"
+            : `${barType}`}
         </span>
       </div>
     </div>
