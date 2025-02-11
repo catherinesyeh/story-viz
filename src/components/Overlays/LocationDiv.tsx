@@ -42,7 +42,7 @@ function LocationDiv() {
   return (
     <div
       id="location-overlay"
-      className={locationHover !== "" ? "" : "hidden"}
+      className={yAxis == "location" && locationHover !== "" ? "" : "hidden"}
       style={{
         left:
           story.includes("-new") &&
