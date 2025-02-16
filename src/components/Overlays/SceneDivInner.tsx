@@ -294,12 +294,7 @@ function SceneDivInner(props: any) {
 
       {(chapterHover !== "" || sceneHover !== "") && (
         <div id="scene-characters">
-          <div
-            id="scene-header"
-            className={
-              !showChapterText && (chapterView || inSidebar) ? "split" : ""
-            }
-          >
+          <div id="scene-header" className={"split"}>
             {(!showChapterText || !inSidebar) && (
               <div className="character-header">
                 <b>
@@ -312,13 +307,17 @@ function SceneDivInner(props: any) {
                       <span>{" (top " + maxCharsToShow + " shown)"}</span>
                     )}
                 </b>
-                {(chapterView || inSidebar) && (
-                  <span className="key-text">
-                    circle size = importance, line thickness = # of mutual
-                    scenes
-                  </span>
-                )}
+                {chapterView ||
+                  (inSidebar && (
+                    <span className="key-text">
+                      circle size = importance, line thickness = # of mutual
+                      scenes
+                    </span>
+                  ))}
               </div>
+            )}
+            {!chapterView && !inSidebar && (
+              <span className="quote-key">💭 = LLM-generated quote</span>
             )}
             {!cumulativeMode &&
               (chapterView || inSidebar) &&
@@ -448,8 +447,14 @@ function SceneDivInner(props: any) {
                         </div>
                       </div>
                     </div>
-                    <div className="char-quote">
-                      "{character.quote}"
+                    <div
+                      className={
+                        "char-quote " + (character.fake_quote ? "fake" : "")
+                      }
+                    >
+                      {character.fake_quote
+                        ? '💭 "' + character.fake_quote + '"'
+                        : '"' + character.quote + '"'}
                       {/* {chapterView && top_scene && " (Scene " + top_scene + ")"} */}
                     </div>
                   </div>

@@ -693,9 +693,14 @@ h1 {
       column-gap: 2rem;
     }
 
-    .key-text {
+    .key-text,
+    .quote-key {
       font-size: smaller;
       opacity: 0.7;
+    }
+
+    .quote-key {
+      text-align: end;
     }
 
     .character-header {
@@ -793,6 +798,11 @@ h1 {
       font-size: 9.5px;
       margin-left: 0.75rem;
       margin-top: 0.05rem;
+
+      &.fake {
+        font-style: italic;
+        opacity: 0.7;
+      }
     }
   }
 

@@ -44,6 +44,7 @@ export interface Character {
   importance_rank: number;
   emotion: string;
   quote: string;
+  fake_quote?: string;
   rating: number;
   role: string;
   numScenes?: number;
@@ -376,6 +377,7 @@ const chapter_scene_data = (
       return {
         emotion: c ? c.emotion : "",
         quote: c ? c.quote : "",
+        fake_quote: c && c.fake_quote ? c.fake_quote : "",
         rating: c ? c.rating : 0,
         top_scene: top_index ? top_index + 1 : 1,
       };
@@ -390,6 +392,7 @@ const chapter_scene_data = (
         importance_rank: i + 1,
         emotion: char_scenes[i].emotion,
         quote: char_scenes[i].quote,
+        fake_quote: char_scenes[i].fake_quote,
         rating: char_scenes[i].rating,
         role: "",
         top_scene: char_scenes[i].top_scene,
@@ -663,7 +666,15 @@ const sceneSummaries = (data: Scene[]): SceneSummary[] =>
     const characters = scene.characters;
     const chunkedEmotions = characters.map((character) => {
       const chunked = chunkQuote('"' + character.quote + '"', chunk_size);
-      return { character: character.name, emotion_quote: chunked };
+      const fakeChunked = chunkQuote(
+        '"' + character.fake_quote + '"',
+        chunk_size
+      );
+      return {
+        character: character.name,
+        emotion_quote: chunked,
+        fake_quote: fakeChunked,
+      };
     });
 
     // sort chunked emotions by the order in characterScenes

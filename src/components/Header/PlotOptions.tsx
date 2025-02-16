@@ -231,6 +231,7 @@ function PlotOptions() {
         setThemeView(false);
       }
 
+      let chapter = "";
       if (
         chapterHover !== "" &&
         (!data["chapters"] ||
@@ -238,10 +239,7 @@ function PlotOptions() {
             !data["chapters"].some((c: any) => c.chapter === chapterHover)))
       ) {
         setChapterHover("");
-      }
-
-      let chapter = "";
-      if (chapterHover !== "" && !chapterView && detailView) {
+      } else if (chapterHover !== "" && !chapterView && detailView) {
         chapter = chapterHover;
       }
 
