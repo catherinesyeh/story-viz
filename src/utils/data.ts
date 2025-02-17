@@ -268,15 +268,21 @@ const scene_data = (all_data: any, chapter_data: Chapter[]): Scene[] => {
         : 0;
       all_sentiments.push(character.rating);
       character.role = character.role ? character.role : "";
-      character.quote = starts_or_ends_with_quote(character.quote)
-        ? character.quote
-        : '"' + character.quote + '"';
-      character.fake_quote = character.fake_quote
-        ? starts_or_ends_with_quote(character.fake_quote)
-          ? character.fake_quote
-          : '"' + character.fake_quote + '"'
-        : "";
+      const og_quote = character.quote;
+      character.quote = starts_or_ends_with_quote(og_quote)
+        ? og_quote
+        : '"' + og_quote + '"';
+      const og_fake_quote = character.fake_quote;
+      character.fake_quote =
+        og_fake_quote && !og_fake_quote.includes("No quote available")
+          ? starts_or_ends_with_quote(og_fake_quote)
+            ? og_fake_quote
+            : '"' + og_fake_quote + '"'
+          : og_fake_quote && !character.quote.includes("No quote available")
+          ? character.quote
+          : "";
 
+      console.log("quote", character.quote, "fake", character.fake_quote);
       // remove extra fields
       delete character.sentiment;
     });
