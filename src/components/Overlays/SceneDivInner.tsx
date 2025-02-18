@@ -32,6 +32,7 @@ function SceneDivInner(props: any) {
   const {
     sceneHover,
     chapterView,
+    setChapterView,
     themeView,
     characterColor,
     detailView,
@@ -266,7 +267,13 @@ function SceneDivInner(props: any) {
             </Button>
           </Button.Group>
           <div className={"scene-select " + (showChapterText ? "hidden" : "")}>
-            <b>Cumulative mode</b>
+            <b>{chapterView ? "Chapter" : "Scene"} view</b>
+            <Switch
+              size="xs"
+              checked={chapterView}
+              onChange={(event) => setChapterView(event.currentTarget.checked)}
+            />
+            <b style={{ marginLeft: "0.5rem" }}>Cumulative mode</b>
             <Switch
               size="xs"
               checked={cumulativeMode}
