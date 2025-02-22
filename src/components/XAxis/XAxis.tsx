@@ -3,7 +3,6 @@ import { dataStore } from "../../stores/dataStore";
 import {
   character_height,
   character_offset,
-  location_buffer,
   location_offset,
   med_conflict_font,
 } from "../../utils/consts";
@@ -127,14 +126,7 @@ function XAxis() {
   };
 
   return (
-    <g
-      id="x-axis"
-      transform={
-        "translate(0 " +
-        (showOverlay ? location_buffer - 1.75 * character_offset : 0) +
-        ")"
-      }
-    >
+    <g id="x-axis" transform={"translate(0 " + 0.25 * character_offset + ")"}>
       {/* add scene names to x axis */}
       <g id="scenes">
         {/* add vertical line to separate chapters rotated by 45 deg */}
@@ -398,8 +390,8 @@ function XAxis() {
         />
         {/* add label to arrow */}
         <text
-          x={scenePos[0] && scenePos[0].x - 0.5 * character_offset}
-          y={location_offset * 2 - 1.25 * location_offset}
+          x={scenePos[0] && scenePos[0].x - 0.75 * character_offset}
+          y={location_offset}
           textAnchor="start"
           fill={
             !showOverlay || colorBy === "default"
@@ -426,7 +418,7 @@ function XAxis() {
                   false
                 )
           }
-          className="time-label"
+          className={"time-label "}
         >
           Time
         </text>

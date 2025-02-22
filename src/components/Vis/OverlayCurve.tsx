@@ -1,138 +1,128 @@
 import { storyStore } from "../../stores/storyStore";
-import {
-  location_offset,
-  character_offset,
-  character_height,
-  location_height,
-  location_buffer,
-} from "../../utils/consts";
+import { character_height, character_offset } from "../../utils/consts";
 import { dataStore } from "../../stores/dataStore";
 import { positionStore } from "../../stores/positionStore";
+import {
+  conflictColor,
+  emotionColor,
+  importanceColor,
+  lengthColor,
+  numCharsColor,
+} from "../../utils/colors";
+import chroma from "chroma-js";
+import { activeAttrInScene, normalize } from "../../utils/helpers";
+import { useEffect } from "react";
 
 function OverlayCurve() {
-  const { showOverlay, sceneHover, locationHover, characterHover, colorBy } =
-    storyStore();
-  const { conflictPath, importancePath, lengthPath, numCharsPath, scenePos } =
-    positionStore();
-  const { scenes } = dataStore();
+  const {
+    showOverlay,
+    sceneHover,
+    locationHover,
+    characterHover,
+    colorBy,
+    groupHover,
+    customHover,
+    characterColor,
+    setSceneHover,
+  } = storyStore();
+  const { scenePos } = positionStore();
+  const { scene_data, minLines, maxLines, sceneCharacters, character_data } =
+    dataStore();
+
+  const maxCharsInScene = Math.max(
+    ...sceneCharacters.map((scene) => scene.characters.length)
+  );
+  const minCharsInScene = Math.min(
+    ...sceneCharacters.map((scene) => scene.characters.length)
+  );
+
+  useEffect(() => {
+    console.log("locationHover", locationHover);
+  }, [locationHover]);
 
   return (
-    <g
-      id="conflict-container"
-      transform={
-        "translate(0 " + (showOverlay ? -0.5 * character_height : 0) + ")"
-      }
-    >
-      {/* add conflict curve */}
-      <path
-        id="conflict-curve"
-        d={
-          colorBy === "importance"
-            ? importancePath
-            : colorBy === "conflict"
-            ? conflictPath
-            : colorBy === "numChars"
-            ? numCharsPath
-            : lengthPath
-        }
-        fillOpacity={0}
-        fill={colorBy === "default" ? "#ddd" : "url(#rating" + colorBy + ")"}
-        strokeWidth={2}
-        className={
-          (showOverlay ? "highlight" : "") +
-          (showOverlay && (locationHover !== "" || characterHover !== "")
-            ? " faded"
-            : "")
-        }
-      />
-      <g
-        id="overlays"
-        fillOpacity={!showOverlay || sceneHover === "" ? 0 : 0.7}
-      >
-        <rect
-          id="left-overlay"
-          className="white-overlay"
-          fill="url(#white-gradient)"
-          x={scenePos[0] && scenePos[0].x - 1.25 * character_offset}
-          y={location_buffer - location_height + 0.5 * character_height}
-          width={
-            !showOverlay ||
-            sceneHover === "" ||
-            (sceneHover !== "" && !scenePos[scenes.indexOf(sceneHover)])
-              ? 0
-              : scenePos[scenes.indexOf(sceneHover)] &&
-                scenePos[0] &&
-                scenePos[scenes.indexOf(sceneHover)].x -
-                  scenePos[0].x +
-                  1.25 * character_offset
-          }
-          height={location_height + 0.5 * character_height}
-        />
-        <rect
-          id="right-overlay"
-          className="white-overlay"
-          fill="url(#white-gradient-right)"
-          x={
-            !showOverlay ||
-            sceneHover === "" ||
-            (sceneHover !== "" && !scenePos[scenes.indexOf(sceneHover)])
-              ? scenePos[scenePos.length - 1] &&
-                scenePos[scenePos.length - 1].x + 1.25 * character_offset
-              : scenePos[scenes.indexOf(sceneHover)] &&
-                scenePos[scenes.indexOf(sceneHover)].x + 0.5 * character_offset
-          }
-          y={location_buffer - location_height + 0.5 * character_height}
-          width={
-            !showOverlay ||
-            sceneHover === "" ||
-            (sceneHover !== "" && !scenePos[scenes.indexOf(sceneHover)])
-              ? 0
-              : scenePos[scenePos.length - 1] &&
-                scenePos[scenes.indexOf(sceneHover)] &&
-                scenePos[scenePos.length - 1].x -
-                  scenePos[scenes.indexOf(sceneHover)].x +
-                  1.25 * character_offset
-          }
-          height={location_height + 0.5 * character_height}
-        />
-      </g>
-      {/* add vertical arrow as y axis */}
-      <g
-        id="y-arrow"
-        fillOpacity={0}
-        strokeOpacity={0}
-        className={showOverlay ? "highlight" : ""}
-      >
-        <path
-          id="arrow-line-y"
-          markerEnd={!showOverlay ? "" : "url(#head)"}
-          strokeWidth="2"
-          stroke="black"
-          d={`M${
-            scenePos[0] && scenePos[0].x - 1.25 * character_offset
-          },${location_buffer} , ${
-            scenePos[0] && scenePos[0].x - 1.25 * character_offset
-          },${location_buffer - location_height + 0.5 * character_height}`}
-        />
-        {/* add label to arrow */}
-        <text
-          x={scenePos[0] && scenePos[0].x - 1.5 * location_offset}
-          y={location_buffer || 0}
-          textAnchor="start"
-          className="conflict-label"
-          transform={
-            "rotate(-90," +
-            (scenePos[0] && scenePos[0].x - 1.5 * location_offset) +
-            ", " +
-            location_buffer +
-            ")"
-          }
-        >
-          {colorBy === "numChars"
-            ? "# Chars"
-            : colorBy.charAt(0).toUpperCase() + colorBy.slice(1)}{" "}
-          (max: 1)
-        </text>
+    <g id="conflict-container">
+      {/* add conflict squares */}
+      <g id="conflict-curve" className={showOverlay ? "highlight" : ""}>
+        {scene_data.map((scene, i) => {
+          const ratings = scene.ratings;
+          const numLines = normalize(scene.numLines, minLines, maxLines, 0, 1);
+          const sceneChars = normalize(
+            scene.characters.length,
+            minCharsInScene,
+            maxCharsInScene,
+            0,
+            1
+          );
+
+          const color =
+            colorBy === "default"
+              ? "black"
+              : colorBy === "sentiment"
+              ? chroma(emotionColor(ratings?.sentiment)).css()
+              : colorBy === "conflict"
+              ? chroma(conflictColor(ratings?.conflict)).css()
+              : colorBy === "importance"
+              ? chroma(importanceColor(ratings?.importance)).css()
+              : colorBy === "numChars"
+              ? chroma(numCharsColor(sceneChars)).css()
+              : chroma(lengthColor(numLines)).css();
+
+          let startX = scenePos[i] && scenePos[i].x;
+          startX -=
+            i == 0
+              ? 1.25 * character_offset
+              : 0.5 *
+                (scenePos[i] &&
+                  scenePos[i - 1] &&
+                  scenePos[i].x - scenePos[i - 1].x);
+
+          let endX = scenePos[i] && scenePos[i].x;
+          endX +=
+            i == scenePos.length - 1
+              ? 1.25 * character_offset
+              : 0.5 *
+                (scenePos[i + 1] &&
+                  scenePos[i] &&
+                  scenePos[i + 1].x - scenePos[i].x);
+          return (
+            <rect
+              className={
+                "conflict-rect " +
+                (showOverlay ? "" : "hide ") +
+                ((locationHover === "" &&
+                  sceneHover === "" &&
+                  characterHover === "" &&
+                  groupHover === "" &&
+                  customHover === "") ||
+                locationHover === scene.location ||
+                sceneHover === scene.name ||
+                sceneCharacters[i].characters.includes(characterHover) ||
+                sceneCharacters[i].groups.includes(groupHover) ||
+                activeAttrInScene(
+                  sceneCharacters[i].characters,
+                  character_data,
+                  characterColor,
+                  customHover
+                )
+                  ? ""
+                  : "faded")
+              }
+              key={i}
+              x={startX}
+              y={character_offset - 0.5 * character_height}
+              width={endX - startX}
+              height={character_offset}
+              fill={colorBy === "default" ? "#ddd" : color}
+              onMouseEnter={() => {
+                setSceneHover(scene.name);
+              }}
+              onMouseLeave={() => {
+                setSceneHover("");
+              }}
+            />
+          );
+        })}
       </g>
     </g>
   );

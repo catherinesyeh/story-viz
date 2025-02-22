@@ -4,11 +4,7 @@ import { storyStore } from "../../stores/storyStore";
 import LocationAxis from "./LocationAxis";
 import ColorAxis from "./ColorAxis";
 import CharacterAxis from "./CharacterAxis";
-import {
-  character_offset,
-  location_buffer,
-  location_height,
-} from "../../utils/consts";
+import { location_height } from "../../utils/consts";
 import { dataStore } from "../../stores/dataStore";
 
 function YAxisDiv() {
@@ -21,7 +17,6 @@ function YAxisDiv() {
     setStoryScroll,
     fullHeight,
     story,
-    showOverlay,
     yAxis,
     chapterView,
   } = storyStore();
@@ -67,9 +62,7 @@ function YAxisDiv() {
       <div
         id="y-axis-inner"
         style={{
-          height:
-            plotHeight * ratio +
-            (showOverlay ? (location_buffer - character_offset) * ratio : 0),
+          height: plotHeight * ratio,
           marginBottom:
             fullHeight ||
             (window &&

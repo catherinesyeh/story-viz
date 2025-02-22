@@ -29,7 +29,6 @@ function App() {
     yAxis,
     setStoryScrollX,
     storyScrollX,
-    showOverlay,
     showLegend,
     chapterView,
     detailView,
@@ -111,7 +110,6 @@ function App() {
                     (story.includes("-new") && !chapterView ? 150 : 250))
                 ? `${
                     location_height * 2.5 * ratio +
-                    (showOverlay ? 80 : 0) +
                     40 +
                     (story.includes("-new") && !chapterView ? 40 : 0)
                   }px`

@@ -564,7 +564,7 @@
       "chapter": "CHAPTER XX.",
       "scenes": 32,
       "length": 236796,
-      "num_lines": 3248,
+      "num_lines": 143,
       "summary": "The chapter follows the Bennet family's interactions with Mr. Bingley and Mr. Collins, highlighting Elizabeth's firm rejection of Collins' persistent proposals amidst the excitement of the Netherfield ball.",
       "importance": 0.81,
       "conflict": 0.56,
@@ -11507,14 +11507,14 @@
       "name": "Mr. Gardiner",
       "quote": "Nothing had ever suggested it before...",
       "group": "Supporting Characters",
-      "color": "rgb(0, 100, 0)",
+      "color": "rgb(0, 40, 0)",
       "explanation": "A darker green reflects Mr. Gardiner's practicality and calm demeanor, providing stability to the family."
     },
     {
       "name": "Mrs. Gardiner",
       "quote": "This could change everything for Elizabeth.",
       "group": "Supporting Characters",
-      "color": "rgb(0, 128, 0)",
+      "color": "rgb(0, 158, 0)",
       "explanation": "A rich green symbolizes Mrs. Gardiner's nurturing and wise character, as well as her supportive role in the family."
     },
     {

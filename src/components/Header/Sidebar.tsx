@@ -253,9 +253,9 @@ function Sidebar() {
                         size="xs"
                         label={
                           <span>
-                            Show overlay curve
+                            Show color bands
                             <InfoTooltip
-                              label={`show ${colorBy} overlay at the bottom of plot`}
+                              label={`show ${colorBy} bands at the bottom of plot`}
                             />
                           </span>
                         }

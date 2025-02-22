@@ -4,7 +4,6 @@ import { storyStore } from "../../stores/storyStore";
 import {
   character_height,
   character_offset,
-  location_buffer,
   location_height,
   location_offset,
   scene_overlay_width,
@@ -15,7 +14,6 @@ import XAxis from "./XAxis";
 function XAxisSVG() {
   const { plotWidth, plotHeight } = positionStore();
   const {
-    showOverlay,
     story,
     yAxis,
     fullHeight,
@@ -103,11 +101,7 @@ function XAxisSVG() {
             : plotWidth * ratio
         }
         viewBox={`0 0 ${plotWidth} ${
-          location_height * 2.5 -
-          character_height +
-          (showOverlay
-            ? location_buffer - character_offset
-            : 0.75 * character_offset)
+          location_height * 2.5 - character_height + character_offset
         }`} // Maintain your calculated dimensions here for correct scaling
         preserveAspectRatio="xMidYMid meet" // This helps in maintaining the aspect ratio>
       >

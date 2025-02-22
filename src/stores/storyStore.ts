@@ -96,7 +96,7 @@ const initialState = {
   characterColor: "llm",
   showChapters: false,
   scaleByLength: false,
-  showOverlay: false,
+  showOverlay: true,
 
   storyScroll: 0,
   storyScrollX: 0,

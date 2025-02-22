@@ -1330,6 +1330,13 @@ h1 {
       font-size: calc(0.7rem + 0.05vw);
     }
 
+    .time-label {
+      transition: 0.3s;
+      &.hide {
+        fill-opacity: 0;
+      }
+    }
+
     .bold {
       font-weight: 600;
     }
@@ -1457,12 +1464,22 @@ h1 {
     #conflict-curve {
       transition: 0.3s;
 
-      &.highlight {
-        fill-opacity: 0.8;
+      .conflict-rect {
+        transition: 0.3s;
       }
 
-      &.faded {
+      &.highlight,
+      .highlight {
+        fill-opacity: 1;
+      }
+
+      &.faded,
+      .faded {
         fill-opacity: 0.15;
+      }
+
+      .hide {
+        fill-opacity: 0;
       }
     }
 
