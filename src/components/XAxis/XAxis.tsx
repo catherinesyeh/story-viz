@@ -394,7 +394,7 @@ function XAxis() {
           y={location_offset}
           textAnchor="start"
           fill={
-            !showOverlay || colorBy === "default"
+            !showOverlay || colorBy === "default" || activeChapters[0] > 1
               ? "black"
               : colorBy === "conflict"
               ? textColor(scene_data[0].ratings?.conflict, false)

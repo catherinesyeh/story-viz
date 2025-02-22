@@ -960,52 +960,52 @@ export const getAllPositions = (
   const plotHeight = max_y + location_offset;
 
   const min_conflict_y = location_buffer;
-  const initConflictPoints = overlay_points(
-    ratingDict.conflict,
-    min_conflict_y,
-    initScenePos
-  );
+  // const initConflictPoints = overlay_points(
+  //   ratingDict.conflict,
+  //   min_conflict_y,
+  //   initScenePos
+  // );
 
-  const initConflictPath = overlayPath(
-    initConflictPoints,
-    min_conflict_y,
-    activeSceneRange
-  );
+  // const initConflictPath = overlayPath(
+  //   initConflictPoints,
+  //   min_conflict_y,
+  //   activeSceneRange
+  // );
 
-  const initImportancePoints = overlay_points(
-    ratingDict.importance,
-    min_conflict_y,
-    initScenePos
-  );
-  const initImportancePath = overlayPath(
-    initImportancePoints,
-    min_conflict_y,
-    activeSceneRange
-  );
+  // const initImportancePoints = overlay_points(
+  //   ratingDict.importance,
+  //   min_conflict_y,
+  //   initScenePos
+  // );
+  // const initImportancePath = overlayPath(
+  //   initImportancePoints,
+  //   min_conflict_y,
+  //   activeSceneRange
+  // );
 
-  const initLengthPoints = overlay_points(
-    ratingDict.length,
-    min_conflict_y,
-    initScenePos
-  );
+  // const initLengthPoints = overlay_points(
+  //   ratingDict.length,
+  //   min_conflict_y,
+  //   initScenePos
+  // );
 
-  const initLengthPath = overlayPath(
-    initLengthPoints,
-    min_conflict_y,
-    activeSceneRange
-  );
+  // const initLengthPath = overlayPath(
+  //   initLengthPoints,
+  //   min_conflict_y,
+  //   activeSceneRange
+  // );
 
-  const initNumCharsPoints = overlay_points(
-    ratingDict.numChars,
-    min_conflict_y,
-    initScenePos
-  );
+  // const initNumCharsPoints = overlay_points(
+  //   ratingDict.numChars,
+  //   min_conflict_y,
+  //   initScenePos
+  // );
 
-  const initNumCharsPath = overlayPath(
-    initNumCharsPoints,
-    min_conflict_y,
-    activeSceneRange
-  );
+  // const initNumCharsPath = overlayPath(
+  //   initNumCharsPoints,
+  //   min_conflict_y,
+  //   activeSceneRange
+  // );
 
   return {
     sceneWidth: sceneWidth,
@@ -1017,10 +1017,10 @@ export const getAllPositions = (
     characterSquares: initCharacterSquares,
     characterPaths: initCharacterPaths,
     sceneBoxes: initSceneBoxes,
-    conflictPath: initConflictPath,
-    importancePath: initImportancePath,
-    lengthPath: initLengthPath,
-    numCharsPath: initNumCharsPath,
+    // conflictPath: initConflictPath,
+    // importancePath: initImportancePath,
+    // lengthPath: initLengthPath,
+    // numCharsPath: initNumCharsPath,
     minConflictY: min_conflict_y,
     charInc: charInc,
     firstPoints: initFirstPoints,

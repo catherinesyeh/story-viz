@@ -36,15 +36,10 @@ interface IStore {
   characterSquares: Box[][];
   characterPaths: string[][];
   sceneBoxes: Box[];
-  conflictPath: string;
-  importancePath: string;
-  lengthPath: string;
-  numCharsPath: string;
   minConflictY: number;
   charInc: number;
   firstPoints: Position[];
   lastPoints: Position[];
-  customPaths: { [key: string]: string };
 
   setPositions: (
     scene_data: Scene[],
@@ -59,20 +54,6 @@ interface IStore {
     yAxis: string,
     customYAxisOptions: string[]
   ) => void;
-  setPaths: (
-    scene_data: Scene[],
-    scenes: string[],
-    locations: string[],
-    characterScenes: CharacterScene[],
-    sceneLocations: string[],
-    sceneCharacters: SceneCharacter[],
-    sortedCharacters: CharacterData[],
-    evenSpacing: boolean,
-    ratingDict: RatingDict,
-    yAxis: string,
-    customYAxisOptions: string[],
-    activeScenes: [number, number]
-  ) => void;
 }
 
 const initialState = {
@@ -85,15 +66,10 @@ const initialState = {
   characterSquares: init_pos_values.characterSquares,
   characterPaths: init_pos_values.characterPaths,
   sceneBoxes: init_pos_values.sceneBoxes,
-  conflictPath: init_pos_values.conflictPath,
-  importancePath: init_pos_values.importancePath,
-  lengthPath: init_pos_values.lengthPath,
-  numCharsPath: init_pos_values.numCharsPath,
   minConflictY: init_pos_values.minConflictY,
   charInc: init_pos_values.charInc,
   firstPoints: init_pos_values.firstPoints,
   lastPoints: init_pos_values.lastPoints,
-  customPaths: {},
 };
 
 export const positionStore = create<IStore>((set, get) => ({
@@ -141,51 +117,10 @@ export const positionStore = create<IStore>((set, get) => ({
       characterSquares: newPositions.characterSquares,
       characterPaths: newPositions.characterPaths,
       sceneBoxes: newPositions.sceneBoxes,
-      conflictPath: newPositions.conflictPath,
-      importancePath: newPositions.importancePath,
-      lengthPath: newPositions.lengthPath,
-      numCharsPath: newPositions.numCharsPath,
       minConflictY: newPositions.minConflictY,
       charInc: newPositions.charInc,
       firstPoints: newPositions.firstPoints,
       lastPoints: newPositions.lastPoints,
-      customPaths: newPositions.customPaths,
-    });
-  },
-  setPaths: (
-    scene_data: Scene[],
-    scenes: string[],
-    locations: string[],
-    characterScenes: CharacterScene[],
-    sceneLocations: string[],
-    sceneCharacters: SceneCharacter[],
-    sortedCharacters: CharacterData[],
-    evenSpacing: boolean,
-    ratingDict: RatingDict,
-    yAxis: string = "location",
-    customYAxisOptions: string[] = [],
-    activeScenes: [number, number]
-  ) => {
-    const newPositions = getAllPositions(
-      scene_data,
-      scenes,
-      locations,
-      characterScenes,
-      sceneLocations,
-      sceneCharacters,
-      sortedCharacters,
-      evenSpacing,
-      ratingDict,
-      yAxis,
-      customYAxisOptions,
-      activeScenes
-    );
-    set({
-      importancePath: newPositions.importancePath,
-      lengthPath: newPositions.lengthPath,
-      conflictPath: newPositions.conflictPath,
-      numCharsPath: newPositions.numCharsPath,
-      customPaths: newPositions.customPaths,
     });
   },
 }));

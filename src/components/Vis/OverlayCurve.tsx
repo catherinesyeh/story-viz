@@ -11,7 +11,6 @@ import {
 } from "../../utils/colors";
 import chroma from "chroma-js";
 import { activeAttrInScene, normalize } from "../../utils/helpers";
-import { useEffect } from "react";
 
 function OverlayCurve() {
   const {
@@ -26,8 +25,15 @@ function OverlayCurve() {
     setSceneHover,
   } = storyStore();
   const { scenePos } = positionStore();
-  const { scene_data, minLines, maxLines, sceneCharacters, character_data } =
-    dataStore();
+  const {
+    scene_data,
+    minLines,
+    maxLines,
+    sceneCharacters,
+    character_data,
+    activeChapters,
+    chapterDivisions,
+  } = dataStore();
 
   const maxCharsInScene = Math.max(
     ...sceneCharacters.map((scene) => scene.characters.length)
@@ -36,15 +42,29 @@ function OverlayCurve() {
     ...sceneCharacters.map((scene) => scene.characters.length)
   );
 
-  useEffect(() => {
-    console.log("locationHover", locationHover);
-  }, [locationHover]);
+  const activeChapterDivisions =
+    chapterDivisions &&
+    chapterDivisions.filter((_, i) => {
+      return i >= activeChapters[0] - 1 && i < activeChapters[1];
+    });
+  const lastActiveChapter =
+    activeChapterDivisions[activeChapterDivisions.length - 1];
+  const numScenesInLastActiveChapter =
+    lastActiveChapter &&
+    lastActiveChapter.scenes &&
+    lastActiveChapter.scenes.length;
+  const activeSceneData = scene_data.slice(
+    activeChapterDivisions[0] && activeChapterDivisions[0].index,
+    activeChapterDivisions[activeChapterDivisions.length - 1] &&
+      activeChapterDivisions[activeChapterDivisions.length - 1].index +
+        numScenesInLastActiveChapter
+  );
 
   return (
     <g id="conflict-container">
       {/* add conflict squares */}
       <g id="conflict-curve" className={showOverlay ? "highlight" : ""}>
-        {scene_data.map((scene, i) => {
+        {activeSceneData.map((scene, i) => {
           const ratings = scene.ratings;
           const numLines = normalize(scene.numLines, minLines, maxLines, 0, 1);
           const sceneChars = normalize(
@@ -54,6 +74,8 @@ function OverlayCurve() {
             0,
             1
           );
+
+          const scene_index = scene_data.indexOf(scene);
 
           const color =
             colorBy === "default"
@@ -68,23 +90,23 @@ function OverlayCurve() {
               ? chroma(numCharsColor(sceneChars)).css()
               : chroma(lengthColor(numLines)).css();
 
-          let startX = scenePos[i] && scenePos[i].x;
+          let startX = scenePos[scene_index] && scenePos[scene_index].x;
           startX -=
-            i == 0
+            scene_index == 0
               ? 1.25 * character_offset
               : 0.5 *
-                (scenePos[i] &&
-                  scenePos[i - 1] &&
-                  scenePos[i].x - scenePos[i - 1].x);
+                (scenePos[scene_index] &&
+                  scenePos[scene_index - 1] &&
+                  scenePos[scene_index].x - scenePos[scene_index - 1].x);
 
-          let endX = scenePos[i] && scenePos[i].x;
+          let endX = scenePos[scene_index] && scenePos[scene_index].x;
           endX +=
-            i == scenePos.length - 1
+            scene_index == scenePos.length - 1
               ? 1.25 * character_offset
               : 0.5 *
-                (scenePos[i + 1] &&
-                  scenePos[i] &&
-                  scenePos[i + 1].x - scenePos[i].x);
+                (scenePos[scene_index + 1] &&
+                  scenePos[scene_index] &&
+                  scenePos[scene_index + 1].x - scenePos[scene_index].x);
           return (
             <rect
               className={

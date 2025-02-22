@@ -12,18 +12,14 @@ import {
   numCharsColor,
 } from "../../utils/colors";
 import { dataStore } from "../../stores/dataStore";
-import { RatingDict } from "../../utils/data";
 import { positionStore } from "../../stores/positionStore";
-import { character_offset } from "../../utils/consts";
 import chroma from "chroma-js";
 
 function Defs() {
-  const { sceneHover, characterColor } = storyStore();
+  const { characterColor } = storyStore();
   const { scenePos, sceneWidth } = positionStore();
   const {
     characterScenes,
-    ratingDict,
-    scenes,
     sortedCharacters,
     scene_data,
     chapterDivisions,
@@ -45,18 +41,6 @@ function Defs() {
   const lastActiveScene =
     lastActiveChapter &&
     lastActiveChapter.index + lastActiveChapter.scenes.length;
-  const numScenesInLastActiveChapter =
-    lastActiveChapter &&
-    lastActiveChapter.scenes &&
-    lastActiveChapter.scenes.length;
-  const activeScenePos =
-    scenePos &&
-    scenePos.slice(
-      activeChapterDivisions[0] && activeChapterDivisions[0].index,
-      activeChapterDivisions[activeChapterDivisions.length - 1] &&
-        activeChapterDivisions[activeChapterDivisions.length - 1].index +
-          numScenesInLastActiveChapter
-    );
 
   const sortedGroups = sortedCharacters.map((char) => char.group);
   const uniqueGroups = [...new Set(sortedGroups)];
@@ -363,98 +347,6 @@ function Defs() {
             ? [vertical_scale, horizontal_scale]
             : [horizontal_scale];
         })}
-        {/* create gradient for each set of ratings */}
-        {Object.keys(ratingDict).map((rating_type) => {
-          const curDict = ratingDict[rating_type as keyof RatingDict];
-          const activeRatings = curDict.slice(
-            activeChapterDivisions[0] && activeChapterDivisions[0].index,
-            activeChapterDivisions[activeChapterDivisions.length - 1] &&
-              activeChapterDivisions[activeChapterDivisions.length - 1].index +
-                numScenesInLastActiveChapter
-          );
-          return (
-            <linearGradient
-              id={"rating" + rating_type}
-              x1="0%"
-              y1="0%"
-              x2="100%"
-              y2="0%"
-              key={"rating gradient" + rating_type}
-            >
-              {activeRatings.map((rating, j) => {
-                const firstScenePos = scenePos[firstActiveScene];
-                const denom =
-                  activeScenePos[activeScenePos.length - 1] && firstScenePos
-                    ? activeScenePos[activeScenePos.length - 1].x -
-                      firstScenePos.x +
-                      2.5 * character_offset
-                    : 1;
-                let percent =
-                  activeScenePos[j] && firstScenePos
-                    ? ((activeScenePos[j].x -
-                        firstScenePos.x +
-                        1.25 * character_offset) /
-                        denom) *
-                      100
-                    : 0;
-
-                return (
-                  <stop
-                    offset={`${percent}%`}
-                    stopColor={
-                      rating_type === "sentiment"
-                        ? chroma(emotionColor(rating)).css()
-                        : rating_type === "conflict"
-                        ? chroma(conflictColor(rating)).css()
-                        : rating_type === "importance"
-                        ? chroma(importanceColor(rating)).css()
-                        : rating_type === "numChars"
-                        ? chroma(numCharsColor(rating)).css()
-                        : chroma(lengthColor(rating)).css()
-                    }
-                    key={"rating stop" + rating_type + j}
-                  />
-                );
-              })}
-            </linearGradient>
-          );
-        })}
-        {/* white gradient for overlay */}
-        <linearGradient id="white-gradient" x1="0" y1="0%" x2="100%" y2="0%">
-          <stop
-            offset={
-              sceneHover === "" || !scenePos[scenes.indexOf(sceneHover)]
-                ? "90%"
-                : 100 -
-                  (sceneWidth / scenePos[scenes.indexOf(sceneHover)].x) * 100 +
-                  "%"
-            }
-            stopColor="white"
-          />
-          <stop offset="100%" stopColor="rgb(255,255,255,0)" />
-        </linearGradient>
-        <linearGradient
-          id="white-gradient-right"
-          x1="100%"
-          y1="0%"
-          x2="0%"
-          y2="0%"
-        >
-          <stop
-            offset={
-              sceneHover === ""
-                ? "90%"
-                : 100 -
-                  (sceneWidth /
-                    ((scenes.length - scenes.indexOf(sceneHover) - 1) *
-                      sceneWidth)) *
-                    100 +
-                  "%"
-            }
-            stopColor="white"
-          />
-          <stop offset="100%" stopColor="rgb(255,255,255,0)" />
-        </linearGradient>
       </g>
 
       {/* adapted from: https://jsfiddle.net/jxtfeqag/ */}
