@@ -17,6 +17,7 @@ function SceneOptions() {
     chapterView,
     scaleByLength,
     isUpdatingData,
+    modalLoading,
   } = storyStore();
 
   const {
@@ -61,7 +62,7 @@ function SceneOptions() {
   };
 
   useEffect(() => {
-    if (isUpdatingData) return;
+    if (isUpdatingData || modalLoading) return;
     set_pos();
     if (
       (scenes.length < 24 && plotHeight < 800) ||
@@ -71,7 +72,14 @@ function SceneOptions() {
     ) {
       setFullHeight(false);
     }
-  }, [scene_data, plotHeight, scaleByLength, yAxis, isUpdatingData]);
+  }, [
+    scene_data,
+    plotHeight,
+    scaleByLength,
+    yAxis,
+    isUpdatingData,
+    modalLoading,
+  ]);
 
   return (
     <div

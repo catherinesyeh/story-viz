@@ -21,7 +21,6 @@ function PromptModal() {
     yAxisOptions,
     setCustomYAxisOptions,
     setYAxisOptions,
-    scene_data,
     setSceneData,
     chapter_data,
     setChapterData,
@@ -170,15 +169,6 @@ function PromptModal() {
       const sceneStorageKey = `sceneData-${story}`;
       let sceneData;
 
-      // if (chapterView) {
-      //   // Use og_scene_data for chapter data
-      //   sceneData = JSON.stringify(og_scene_data);
-      //   console.log(
-      //     "ChapterView: Using og_scene_data for chapter data",
-      //     og_scene_data
-      //   );
-      // } else {
-      // Retrieve scene data from local storage
       try {
         sceneData = await localforage.getItem(sceneStorageKey);
         if (sceneData) {
@@ -230,11 +220,13 @@ function PromptModal() {
         });
       });
 
+      console.log("New chapter data:", new_chapter_data);
+
       // Set chapter_data to the updated data
       setChapterData(new_chapter_data);
 
       if (chapterView) {
-        // Set new_data as scene_data
+        // Set new_chapter_data as scene_data
         setSceneData(new_chapter_data, story, themeView);
       } else {
         // Set new_data as scene_data
@@ -275,7 +267,7 @@ function PromptModal() {
     setYAxisOptions(newYAxis);
 
     // remove color from character_data and sortedCharacters
-    const new_scene_data = [...scene_data];
+    const new_scene_data = [...og_scene_data];
     new_scene_data.forEach((scene) => {
       const chars = scene.characters;
       chars.forEach((char) => {
@@ -295,7 +287,7 @@ function PromptModal() {
     setChapterData(new_chapter_data);
 
     if (chapterView) {
-      // Set new_data as scene_data
+      // Set new_chapter_data as scene_data
       setSceneData(new_chapter_data, story, themeView);
     } else {
       // Set new_data as scene_data

@@ -1,74 +1,104 @@
 from pydantic import BaseModel, Field
 import json
+import asyncio
 
 # Pydantic
 # COLORS
+
+
 class CharacterAttribute(BaseModel):
     """Assigns an attribute value to a character"""
     character: str = Field(description="The character to assign a color to")
-    attrVal: str = Field(description="The value of the attribute to assign to the character")
-    explanation: str = Field(description="Explanation of why the character was assigned this attribute value")
+    attrVal: str = Field(
+        description="The value of the attribute to assign to the character")
+    explanation: str = Field(
+        description="Explanation of why the character was assigned this attribute value")
+
 
 class CharacterAttributes(BaseModel):
     """List of attributes for all characters"""
-    characters: list[CharacterAttribute] = Field(description="List of characters and their attributes")
+    characters: list[CharacterAttribute] = Field(
+        description="List of characters and their attributes")
+
 
 class ThemeAttribute(BaseModel):
     """Assigns an attribute value to a theme"""
     character: str = Field(description="The theme to assign a color to")
-    attrVal: str = Field(description="The value of the attribute to assign to the theme")
-    explanation: str = Field(description="Explanation of why the theme was assigned this attribute value")
+    attrVal: str = Field(
+        description="The value of the attribute to assign to the theme")
+    explanation: str = Field(
+        description="Explanation of why the theme was assigned this attribute value")
+
 
 class ThemeAttributes(BaseModel):
     """List of attributes for all themes"""
-    characters: list[CharacterAttribute] = Field(description="List of themes and their attributes")
+    characters: list[CharacterAttribute] = Field(
+        description="List of themes and their attributes")
+
 
 class ColorAssignment(BaseModel):
     """Assigns a color for each unique attribute value"""
-    attrVal: str = Field(description="The value of the attribute to assign a color to")
+    attrVal: str = Field(
+        description="The value of the attribute to assign a color to")
     color: str = Field(description="Unique RGB color string that represents this attribute value (e.g., rgb(118, 185, 71)). Every attribute value should have a different color. Don't use white and make sure the color is visible against a white background.")
+
 
 class ColorAssignments(BaseModel):
     """List of colors for each attribute value"""
-    colors: list[ColorAssignment] = Field(description="List of colors for each attribute value. Make sure there is exactly one entry per attribute value in the provided list and no additional attribute values are added. Choose a different color for each attribute value.")
+    colors: list[ColorAssignment] = Field(
+        description="List of colors for each attribute value. Make sure there is exactly one entry per attribute value in the provided list and no additional attribute values are added. Choose a different color for each attribute value.")
 
-MAX_CHARS_PER_ROUND = 30
+
+MAX_CHARS_PER_ROUND = 20
 
 # Y-AXIS
+
+
 class SceneCharacter(BaseModel):
     """Assigns rating to a character in a scene"""
     character: str = Field(description="The character to assign a rating to")
-    rating: float = Field(description="The rating (between 0 to 1) to assign to this character")
+    rating: float = Field(
+        description="The rating (between 0 to 1) to assign to this character")
+
 
 class SceneCharacters(BaseModel):
     """List of ratings for all characters in a scene"""
-    characters: list[SceneCharacter] = Field(description="List of characters and their ratings in this scene")
+    characters: list[SceneCharacter] = Field(
+        description="List of characters and their ratings in this scene")
+
 
 class SceneTheme(BaseModel):
     """Assigns rating to a theme in a scene"""
     character: str = Field(description="The theme to assign a rating to")
-    rating: float = Field(description="The rating (between 0 to 1) to assign to this theme")
+    rating: float = Field(
+        description="The rating (between 0 to 1) to assign to this theme")
+
 
 class SceneThemes(BaseModel):
     """List of ratings for all themes in a scene"""
-    characters: list[SceneTheme] = Field(description="List of themes and their ratings in this scene")
+    characters: list[SceneTheme] = Field(
+        description="List of themes and their ratings in this scene")
 
 # Assign values to characters for the given attribute
-def assign_character_attributes(llm, charData, attr, story_type):
-    char_llm = llm.with_structured_output(CharacterAttributes if story_type == "character" else ThemeAttributes)
+
+
+async def assign_character_attributes_async(llm, charData, attr, story_type):
+    char_llm = llm.with_structured_output(
+        CharacterAttributes if story_type == "character" else ThemeAttributes)
 
     # convert charData to JSON if string
     if isinstance(charData, str):
         print("Converting charData to JSON...")
         charData = json.loads(charData)
 
-    char_attrs = []
-    unique_attrs = []
-    
     # split the characters into groups of MAX_CHARS_PER_ROUND
-    split_charData = [charData[i:i + MAX_CHARS_PER_ROUND] for i in range(0, len(charData), MAX_CHARS_PER_ROUND)]
-    for i, charData in enumerate(split_charData):
-        print(f"Round {i + 1} of {len(split_charData)}")
+    split_charData = [charData[i:i + MAX_CHARS_PER_ROUND]
+                      for i in range(0, len(charData), MAX_CHARS_PER_ROUND)]
+
+    print(f"Split into {len(split_charData)} rounds")
+
+    async def process_batch(batch):
+        """Asynchronously process a batch of characters"""
         prompt = f"""
                 Assign each {story_type} in this list a value for the attribute: "{attr}".
                 If the attribute is categorical, assign a single value to each {story_type}.
@@ -82,18 +112,26 @@ def assign_character_attributes(llm, charData, attr, story_type):
                 (e.g., "low", "medium", "high" or "0-10", "11-20", "21-30", "31-40", etc.).
 
                 {story_type}s:
-                {charData}
+                {batch}
                 """
-        results = char_llm.invoke(prompt)
-        results_list = results.characters
+        print("Running batch...")
+        return await char_llm.ainvoke(prompt)
 
-        # format as JSON and add to char_attrs
-        for char in results_list:
+    # Run LLM calls concurrently
+    tasks = [process_batch(batch) for batch in split_charData]
+    results_list = await asyncio.gather(*tasks)
+
+    char_attrs = []
+    unique_attrs = []
+    # format as JSON and add to char_attrs
+    for res in results_list:
+        for char in res.characters:
             attr_val = char.attrVal
             if attr_val not in unique_attrs:
                 unique_attrs.append(attr_val)
-            char_attrs.append({"character": char.character, "val": attr_val, "exp": char.explanation})
-        # print(char_attrs)
+            char_attrs.append({"character": char.character,
+                              "val": attr_val, "exp": char.explanation})
+    # print(char_attrs)
 
     # generate colors for each unique attribute value
     color_llm = llm.with_structured_output(ColorAssignments)
@@ -103,7 +141,7 @@ def assign_character_attributes(llm, charData, attr, story_type):
             Unique attribute values:
             {unique_attrs}
             """
-    colors = color_llm.invoke(color_prompt)
+    colors = await color_llm.ainvoke(color_prompt)
 
     # format as JSON
     color_assignments = []
@@ -113,52 +151,60 @@ def assign_character_attributes(llm, charData, attr, story_type):
 
     return char_attrs, color_assignments
 
-def add_yaxis_data(llm, sceneData, y_axis, story_type):
-    scene_llm = llm.with_structured_output(SceneCharacters if story_type == "character" else SceneThemes)
+# Wrapper function for async character attribute function
+
+
+def assign_character_attributes(llm, charData, attr, story_type):
+    return asyncio.run(assign_character_attributes_async(llm, charData, attr, story_type))
+
+
+async def add_yaxis_data_async(llm, sceneData, y_axis, story_type):
+    scene_llm = llm.with_structured_output(
+        SceneCharacters if story_type == "character" else SceneThemes)
 
     # convert sceneData to JSON if string
     if isinstance(sceneData, str):
         print("Converting sceneData to JSON...")
         sceneData = json.loads(sceneData)
 
+    print(f"Adding y-axis data for {len(sceneData)} scenes")
+
+    async def process_scene(scene):
+        """Asynchronously process a scene"""
+        prompt = f"""
+        Assign each {story_type} a rating between 0: least {y_axis} to 1: most {y_axis} for this scene,
+        based on the provided information.
+        Make sure to assign a rating to every {story_type}, and don't add any new {story_type}s.
+
+        Scene:
+        {scene}
+        """
+        print(f"Running scene...")
+        return await scene_llm.ainvoke(prompt)
+
+    # Run LLM calls concurrently
+    tasks = [process_scene(sd) for sd in sceneData]
+    results_list = await asyncio.gather(*tasks)
+
     # copy sceneData
     new_data = sceneData.copy()
 
-    # split the scenes into groups of MAX_SCENES_PER_ROUND
-    # split_sceneData = [sceneData[i:i + MAX_SCENES_PER_ROUND] for i in range(0, len(sceneData), MAX_SCENES_PER_ROUND)]
-    for i, sd in enumerate(sceneData):
-        print(f"Round {i + 1} of {len(sceneData)}")
-        prompt = f"""
-                Assign each {story_type} a rating between 0: least {y_axis} to 1: most {y_axis} for this scene,
-                based on the provided information.
-                Make sure to assign a rating to every {story_type}, and don't add any new {story_type}s.
-
-                Scene:
-                {sd}
-                """
-        r = scene_llm.invoke(prompt)
-        # results_list = results.scenes
-        # print(results)
-        # for r in results:
-        print(r)
-        # add character ratings 
-        chars = r.characters
-
-        # find scene in SceneData with title == scene
-        # if "title" in new_data[0]:
-        #     this_scene_data = [s for s in new_data if s["title"] == scene and s["chapter"] == chap][0]
-        # else:
-        #     this_scene_data = [s for s in new_data if s["name"] == scene and s["chapter"] == chap][0]
-
+    # add character ratings
+    for scene, result in zip(new_data, results_list):
         # update sd with character ratings
-        for c in chars:
-            char = c.character
+        for c in result.characters:
+            char_name = c.character
             rating = c.rating
             # find character in this_scene_data
-            this_character = [ch for ch in sd["characters"] if ch["name"] == char]
-            if len(this_character) == 0:
-                continue
-            this_character = this_character[0]
-            this_character[y_axis] = rating
+            scene_character = next(
+                (ch for ch in scene["characters"] if ch["name"] == char_name), None)
+            if scene_character:
+                scene_character[y_axis] = rating
 
     return new_data
+
+# Wrapper function for async y-axis function
+
+
+def add_yaxis_data(llm, sceneData, y_axis, story_type):
+    return asyncio.run(add_yaxis_data_async(llm, sceneData, y_axis, story_type))

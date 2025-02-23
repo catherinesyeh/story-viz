@@ -2,6 +2,7 @@ from flask import Flask, jsonify, request
 from flask_cors import CORS
 from prompts import add_yaxis_data, assign_character_attributes
 from helpers import load_model
+import time
 
 
 # load the model
@@ -22,12 +23,16 @@ def add_new_colors():
     print("Color description:", color_desc)
     story_type = request.args.get('story_type')
     print("Story type:", story_type)
-    char_attrs, color_assignments = assign_character_attributes(llm, data, color_desc, story_type)
+    start_time = time.time()
+    char_attrs, color_assignments = assign_character_attributes(
+        llm, data, color_desc, story_type)
     # print("Character attributes:", char_attrs)
     # print("Color assignments:", color_assignments)
-    print("Colors added.")
+    end_time = time.time()
+    print(f"Colors added in {end_time - start_time} seconds.")
     print("*" * 50)
     return jsonify({"char_attrs": char_attrs, "color_assignments": color_assignments})
+
 
 @app.route("/new_yaxis", methods=['POST'])
 def add_new_yaxis():
@@ -39,18 +44,23 @@ def add_new_yaxis():
     print("Y-axis:", yaxis_desc)
     story_type = payload.get('story_type')
     print("Story type:", story_type)
+    start_time = time.time()
     new_data = add_yaxis_data(llm, data, yaxis_desc, story_type)
-    print("Y-axis added.")
+    end_time = time.time()
+    print(f"Y-axis added in {end_time - start_time} seconds.")
     print("*" * 50)
     return jsonify({"new_data": new_data})
+
 
 @app.route("/status", methods=['GET'])
 def status():
     return jsonify({"status": "ok"})
 
+
 @app.route("/")
 def base():
     return "backend"
+
 
 if __name__ == "__main__":
     print("Starting Flask server...")
