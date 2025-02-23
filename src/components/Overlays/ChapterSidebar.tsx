@@ -4,6 +4,7 @@ import SceneDivInner from "./SceneDivInner";
 import { FaArrowLeftLong, FaArrowRightLong } from "react-icons/fa6";
 import { dataStore } from "../../stores/dataStore";
 import { useEffect } from "react";
+import InfoTooltip from "../Misc/InfoTooltip";
 
 function ChapterSidebar() {
   const { chapter_data } = dataStore();
@@ -87,14 +88,19 @@ function ChapterSidebar() {
       className={detailView ? "" : "hidden"}
       style={{ top: `calc(${storyMarginTop}px +  1rem)` }}
     >
-      <Button
-        size="xs compact"
-        className="close"
-        variant="transparent"
-        onClick={closeDetailView}
-      >
-        [x] close detail view
-      </Button>
+      <div className="close">
+        <Button
+          size="xs compact"
+          variant="transparent"
+          onClick={closeDetailView}
+          style={{ fontWeight: "400", fontFamily: "Shantell Sans" }}
+        >
+          [x] close detail view{" "}
+          <InfoTooltip
+            label={`keyboard controls: esc = exit, left/right arrow = prev/next chapter`}
+          />
+        </Button>
+      </div>
       <div className="buttons">
         <Button
           size="xs"

@@ -1593,9 +1593,12 @@ h1 {
   .close {
     position: absolute;
     font-weight: 400;
-    font-family: "Shantell Sans";
     top: -1.25rem;
     height: 1rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    width: 100%;
 
     span {
       font-size: x-small !important;
