@@ -4,10 +4,12 @@ Visualizing storylines with LLM assistance
 
 ## setup
 
-### secrets file
+### env/secrets file
 
-- duplicate `.env_example` file and rename to `.env`
-- fill in env variables
+- duplicate `.env_example` and rename to `.env`
+  - fill in env variables
+- duplicate `secrets_example.json` and rename to `secrets.json`
+  - fill in api keys
 
 ### install requirements
 
