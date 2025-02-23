@@ -6,6 +6,12 @@ import asyncio
 # COLORS
 
 
+class CategoryList(BaseModel):
+    """List of categories for an attribute"""
+    categories: list[str] = Field(
+        description="List of categories for the attribute")
+
+
 class CharacterAttribute(BaseModel):
     """Assigns an attribute value to a character"""
     character: str = Field(description="The character to assign a color to")
@@ -40,7 +46,7 @@ class ColorAssignment(BaseModel):
     """Assigns a color for each unique attribute value"""
     attrVal: str = Field(
         description="The value of the attribute to assign a color to")
-    color: str = Field(description="Unique RGB color string that represents this attribute value (e.g., rgb(118, 185, 71)). Every attribute value should have a different color. Don't use white and make sure the color is visible against a white background.")
+    color: str = Field(description="Unique RGB color string that represents this attribute value (e.g., rgb(118, 185, 71)). Every attribute value should have a different color. Don't use white and make sure the color is visible against a white background (e.g., not too light or bright).")
 
 
 class ColorAssignments(BaseModel):
@@ -49,7 +55,7 @@ class ColorAssignments(BaseModel):
         description="List of colors for each attribute value. Make sure there is exactly one entry per attribute value in the provided list and no additional attribute values are added. Choose a different color for each attribute value.")
 
 
-MAX_CHARS_PER_ROUND = 20
+MAX_CHARS_PER_ROUND = 10
 
 # Y-AXIS
 
@@ -91,6 +97,26 @@ async def assign_character_attributes_async(llm, charData, attr, story_type):
         print("Converting charData to JSON...")
         charData = json.loads(charData)
 
+    # generate categories
+    category_prompt = f"""
+        Your job is to come up with a list of possible values for the attribute: "{attr}".
+
+        If the attribute is categorical, list categories that multiple {story_type}s could fall into.
+        (e.g., "male", "female", "n/a" or "happy", "sad", "angry", "tired", etc.).
+
+        If the attribute is continuous, list ranges that multiple {story_type}s could fall into.
+        Make sure the ranges don't overlap.
+        (e.g., "low", "medium", "high" or "0-10", "11-20", "21-30", "31-40", etc.).
+
+        In either case, limit the total number of unique values as much as possible.
+    """
+
+    category_llm = llm.with_structured_output(CategoryList)
+    category_results = await category_llm.ainvoke(category_prompt)
+    categories = category_results.categories
+
+    print(f"Categories: {categories}")
+
     # split the characters into groups of MAX_CHARS_PER_ROUND
     split_charData = [charData[i:i + MAX_CHARS_PER_ROUND]
                       for i in range(0, len(charData), MAX_CHARS_PER_ROUND)]
@@ -100,16 +126,9 @@ async def assign_character_attributes_async(llm, charData, attr, story_type):
     async def process_batch(batch):
         """Asynchronously process a batch of characters"""
         prompt = f"""
-                Assign each {story_type} in this list a value for the attribute: "{attr}".
-                If the attribute is categorical, assign a single value to each {story_type}.
-                But limit the total number of unique values; pick categories that multiple {story_type}s could fall into.
-                (e.g., "male", "female", "n/a" or "happy", "sad", "angry", "tired", etc.).
-
-                If the attribute is continuous, assign a range of values that multiple {story_type}s
-                could fall into instead of a single value. 
-                But limit the total number of unique ranges and make sure the ranges don't overlap.
-                Pick ranges that multiple {story_type}s could fall into.
-                (e.g., "low", "medium", "high" or "0-10", "11-20", "21-30", "31-40", etc.).
+                Assign each {story_type} in this list a value for the attribute: "{attr}",
+                only picking from this set of possible values: {categories}.
+                If the {story_type} doesn't fit any of the categories, label it as "n/a" or "other".
 
                 {story_type}s:
                 {batch}
@@ -148,6 +167,15 @@ async def assign_character_attributes_async(llm, charData, attr, story_type):
     for color in colors.colors:
         color_assignments.append({"val": color.attrVal, "color": color.color})
     # print(color_assignments)
+
+    # sort color_assignments based on categories if the val is in categories, otherwise put it at the end
+    color_assignments.sort(key=lambda x: categories.index(
+        x["val"]) if x["val"] in categories else len(categories
+                                                     ))
+
+    sorted_keys = [x["val"] for x in color_assignments]
+    print("Sorted unique vals:", sorted_keys
+          )
 
     return char_attrs, color_assignments
 

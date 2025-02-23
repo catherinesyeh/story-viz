@@ -100,42 +100,20 @@ function Colorgrid(props: any) {
   });
 
   if (Object.keys(customColorDict).includes(gridType)) {
-    const getFirstNumber = (str: string) => {
-      const match = str.match(/\d+/); // Match the first number in the string
-      return match ? parseInt(match[0], 10) : null;
-    };
+    // sort based on order in customColorDict
     characterGroups.sort((a, b) => {
       // sort groups by group name
       const aValue = a[0][gridType]?.val;
       const bValue = b[0][gridType]?.val;
 
-      const aNumber = getFirstNumber(aValue);
-      const bNumber = getFirstNumber(bValue);
+      const aIndex = customColorDict[gridType].findIndex(
+        (item) => item.val === aValue
+      );
+      const bIndex = customColorDict[gridType].findIndex(
+        (item) => item.val === bValue
+      );
 
-      if (aNumber !== null && bNumber !== null) {
-        // If both strings contain numbers, sort by the numbers
-        return aNumber - bNumber;
-      }
-
-      if (aNumber !== null) {
-        // If only `a` contains a number, it comes first
-        return -1;
-      }
-
-      if (bNumber !== null) {
-        // If only `b` contains a number, it comes first
-        return 1;
-      }
-
-      // Otherwise, compare the whole strings
-      if (aValue < bValue) {
-        return -1;
-      }
-      if (aValue > bValue) {
-        return 1;
-      }
-
-      return 0;
+      return aIndex - bIndex;
     });
   }
 
