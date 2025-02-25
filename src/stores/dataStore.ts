@@ -4,9 +4,7 @@ import {
   CharacterData,
   getAllData,
   LocationData,
-  LocationQuote,
   CharacterScene,
-  CharacterQuote,
   SceneCharacter,
   SceneSummary,
   RatingDict,
@@ -32,12 +30,9 @@ interface IStore {
   character_data: CharacterData[];
 
   locations: string[];
-  location_quotes: LocationQuote[];
-  location_chunks: string[][];
 
   characters: string[];
   characterScenes: CharacterScene[];
-  character_quotes: CharacterQuote[];
   sortedCharacters: CharacterData[];
 
   scenes: string[];
@@ -93,12 +88,9 @@ const initialState = {
   character_data: init_data_values.character_data,
 
   locations: init_data_values.locations,
-  location_quotes: init_data_values.location_quotes,
-  location_chunks: init_data_values.location_chunks,
 
   characters: init_data_values.characters,
   characterScenes: init_data_values.characterScenes,
-  character_quotes: init_data_values.character_quotes,
   sortedCharacters: init_data_values.sortedCharacters,
 
   scenes: init_data_values.scenes,
@@ -235,11 +227,8 @@ export const dataStore = create<IStore>((set) => ({
           location_data: newData.location_data,
           character_data: newData.character_data,
           locations: newData.locations,
-          location_quotes: newData.location_quotes,
-          location_chunks: newData.location_chunks,
           characters: newData.characters,
           characterScenes: newData.characterScenes,
-          character_quotes: newData.character_quotes,
           sortedCharacters: newData.sortedCharacters,
           scenes: newData.scenes,
           sceneLocations: newData.sceneLocations,

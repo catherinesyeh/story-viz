@@ -160,7 +160,7 @@ function CharacterDiv() {
               : characterGroup || "Group"}
             )
           </b>
-          <p>{'"' + characterQuote + '"' || "Quote"}</p>
+          <p>{characterQuote || "Quote"}</p>
         </div>
       </div>
       <div

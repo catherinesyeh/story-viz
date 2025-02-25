@@ -110,28 +110,10 @@ export interface CharacterData {
   explanation: string[] | string;
   [key: string]: any; // additional fields that could be added by user
 }
-
-export interface ColorQuote {
-  character: string;
-  quote: string[];
-}
-
-export interface LocationQuote {
-  location: string;
-  quote: string[];
-  emoji?: string;
-}
-
 export interface CharacterScene {
   character: string;
   scenes: number[];
   locations: string[];
-}
-
-export interface CharacterQuote {
-  character: string;
-  group: string;
-  quote: string[];
 }
 
 export interface SceneCharacter {
@@ -436,7 +418,34 @@ const chapter_scene_data = (
   return chapter_scenes;
 };
 
-const location_data = (all_data: any): LocationData[] => all_data["locations"];
+/* LOCATION DATA */
+// get all locations by finding unique location values
+const locations = (data: Scene[]): string[] =>
+  Array.from(new Set(data.map((scene) => scene.location)));
+
+const location_data = (all_data: any): LocationData[] => {
+  const locations = all_data["locations"];
+
+  locations.forEach((location: any) => {
+    location.quote = starts_or_ends_with_quote(location.quote)
+      ? location.quote
+      : '"' + location.quote + '"';
+  });
+
+  return locations;
+};
+
+/* CHARACTER DATA */
+// get all characters by finding unique 'name' values in characters object
+const characters = (data: Scene[]): string[] =>
+  Array.from(
+    new Set(
+      data.flatMap((scene) =>
+        scene.characters.map((character) => character.name)
+      )
+    )
+  );
+
 const character_data = (all_data: any): CharacterData[] => {
   const characters = all_data["characters"];
 
@@ -453,63 +462,16 @@ const character_data = (all_data: any): CharacterData[] => {
       character.explanation = chunkQuote(character.explanation as string, 92);
     }
 
+    character.quote = starts_or_ends_with_quote(character.quote) // check if quote starts or ends with a quote
+      ? character.quote
+      : '"' + character.quote + '"';
+
     // remove extra fields
     delete character.name;
   });
 
   return characters;
 };
-
-/* LOCATION DATA */
-// get all locations by finding unique location values
-const locations = (data: Scene[]): string[] =>
-  Array.from(new Set(data.map((scene) => scene.location)));
-
-// for each quote in location_data, split quote into chunk_size character chunks, making sure to keep full words
-const location_quotes = (
-  locations: string[],
-  location_data: LocationData[]
-): LocationQuote[] =>
-  location_data
-    .map((location) => {
-      const chunked = chunkQuote('"' + location.quote + '"', 80);
-      return {
-        location: location.name,
-        quote: chunked,
-        emoji: location.emoji ? location.emoji : "",
-      };
-    })
-    // now sort by the order of 'locations'
-    .sort((a, b) => {
-      const aIndex = locations.findIndex((loc) => loc === a.location);
-      const bIndex = locations.findIndex((loc) => loc === b.location);
-      return aIndex - bIndex;
-    });
-// also chunk the location names
-const location_chunks = (
-  locations: string[],
-  location_data: LocationData[]
-): string[][] =>
-  location_data
-    .sort((a, b) => {
-      // sort by the order of 'locations'
-      const aIndex = locations.findIndex((loc) => loc === a.name);
-      const bIndex = locations.findIndex((loc) => loc === b.name);
-      return aIndex - bIndex;
-    })
-    .map((location) => {
-      return chunkQuote(location.name, 22);
-    });
-/* CHARACTER DATA */
-// get all characters by finding unique 'name' values in characters object
-const characters = (data: Scene[]): string[] =>
-  Array.from(
-    new Set(
-      data.flatMap((scene) =>
-        scene.characters.map((character) => character.name)
-      )
-    )
-  );
 
 const sortCharactersByGroup = (
   data: CharacterData[],
@@ -597,36 +559,6 @@ const characterScenes = (
         return diff;
       }
       return a.character.localeCompare(b.character);
-    });
-
-// for each quote in character-data, split quote into chunk_size character chunks, making sure to keep full words
-const character_quotes = (
-  character_data: CharacterData[],
-  characterScenes: CharacterScene[]
-): CharacterQuote[] =>
-  character_data
-    .map((character) => {
-      const mod_quote = starts_or_ends_with_quote(character.quote)
-        ? character.quote
-        : '"' + character.quote + '"';
-      const chunked = chunkQuote(mod_quote, 80);
-      return {
-        character: character.character,
-        group: character.group,
-        quote: chunked,
-      };
-    })
-    .sort((a, b) => {
-      // sort by the order in characterScenes
-      const aIndex = characterScenes.findIndex(
-        (charScene) =>
-          charScene.character.toLowerCase() === a.character.toLowerCase()
-      );
-      const bIndex = characterScenes.findIndex(
-        (charScene) =>
-          charScene.character.toLowerCase() === b.character.toLowerCase()
-      );
-      return aIndex - bIndex;
     });
 
 /* SCENE DATA */
@@ -922,23 +854,10 @@ export const getAllData = (
   const init_character_data = character_data(init_data);
 
   const init_locations = locations(init_scene_data);
-  const init_location_quotes = location_quotes(
-    init_locations,
-    init_location_data
-  );
-  const init_location_chunks = location_chunks(
-    init_locations,
-    init_location_data
-  );
-
   const init_characters = characters(init_scene_data);
   const init_characterScenes = characterScenes(
     init_characters,
     init_scene_data
-  );
-  const init_character_quotes = character_quotes(
-    init_character_data,
-    init_characterScenes
   );
   const init_sorted_characters = sortCharactersByGroup(
     init_character_data,
@@ -974,11 +893,8 @@ export const getAllData = (
     location_data: init_location_data,
     character_data: init_character_data,
     locations: init_locations,
-    location_quotes: init_location_quotes,
-    location_chunks: init_location_chunks,
     characters: init_characters,
     characterScenes: init_characterScenes,
-    character_quotes: init_character_quotes,
     sortedCharacters: init_sorted_characters,
     scenes: init_scenes,
     sceneLocations: init_sceneLocations,

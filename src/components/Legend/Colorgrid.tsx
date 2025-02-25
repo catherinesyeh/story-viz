@@ -166,7 +166,10 @@ function Colorgrid(props: any) {
                   .includes(char.character)
                   ? ""
                   : "faded no-click") +
-                (hidden.includes(char.character) ? "faded" : "")
+                (hidden.includes(char.character) ||
+                (characterHover !== "" && characterHover !== char.character)
+                  ? "faded"
+                  : "")
               }
               style={{ backgroundColor: color }}
               onClick={() => updateHidden(char.character)}

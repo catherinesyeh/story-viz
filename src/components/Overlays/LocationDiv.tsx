@@ -14,7 +14,7 @@ function LocationDiv() {
     chapterView,
     storyMarginTop,
   } = storyStore();
-  const { location_quotes } = dataStore();
+  const { location_data } = dataStore();
   const { plotHeight } = positionStore();
   const [locationName, setLocationName] = useState("");
   const [locationQuote, setLocationQuote] = useState("");
@@ -24,13 +24,10 @@ function LocationDiv() {
 
   useEffect(() => {
     if (locationHover !== "") {
-      const loc = location_quotes.find((l) => l.location === locationHover);
+      const loc = location_data.find((l) => l.name === locationHover);
       if (loc) {
-        setLocationName(loc.location);
-        const quote = Array.isArray(loc.quote)
-          ? loc.quote.join(" ").trim()
-          : loc.quote;
-        setLocationQuote(quote);
+        setLocationName(loc.name);
+        setLocationQuote(loc.quote);
         if (loc.emoji) {
           setLocationEmoji(loc.emoji);
         } else {
