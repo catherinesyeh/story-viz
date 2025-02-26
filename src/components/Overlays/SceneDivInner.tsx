@@ -321,13 +321,12 @@ function SceneDivInner(props: any) {
                       <span>{" (top " + maxCharsToShow + " shown)"}</span>
                     )}
                 </b>
-                {chapterView ||
-                  (inSidebar && (
-                    <span className="key-text">
-                      circle size = importance, line thickness = # of mutual
-                      scenes
-                    </span>
-                  ))}
+                {(chapterView || inSidebar) && (
+                  <span className="key-text">
+                    circle size = importance, line thickness = # of mutual
+                    scenes
+                  </span>
+                )}
               </div>
             )}
             {!chapterView && !inSidebar && (

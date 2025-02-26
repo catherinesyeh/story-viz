@@ -19,6 +19,7 @@ import AboutModal from "./components/Modals/AboutModal";
 import CharacterDiv from "./components/Overlays/CharacterDiv";
 import LocationDiv from "./components/Overlays/LocationDiv";
 import LegendHoverMsg from "./components/Legend/LegendHoverMsg";
+import NetworkHoverMsg from "./components/Vis/NetworkHoverMsg";
 
 function App() {
   const { scene_data } = dataStore();
@@ -133,6 +134,7 @@ function App() {
         <CharacterDiv />
         <LocationDiv />
         <ClickMsg />
+        <NetworkHoverMsg />
         <LegendHoverMsg />
       </div>
 

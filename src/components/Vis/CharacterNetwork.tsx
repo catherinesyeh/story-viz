@@ -19,6 +19,7 @@ type Node = {
   group: string;
   emotion: number;
   importance: number;
+  numScenes: number;
   x?: number;
   y?: number;
 };
@@ -42,6 +43,7 @@ function CharacterNetwork(props: any) {
     cumulativeMode,
     linkHover,
     characterHover,
+    setNetworkHover,
   } = storyStore();
   const {
     scene_data,
@@ -180,12 +182,14 @@ function CharacterNetwork(props: any) {
       const s_data = d;
       const emotion_val = s_data?.rating || 0;
       const importance_val = s_data?.importance || 0;
+      const numScenes = s_data?.numScenes || 0;
 
       return {
         id: d.name,
         group: d.group,
         emotion: emotion_val,
         importance: importance_val,
+        numScenes: numScenes,
       };
     }) as Node[];
 
@@ -333,9 +337,15 @@ function CharacterNetwork(props: any) {
         )
           return;
         setLinkHover([d.source.id, d.target.id]); // Update linkHover with the link's source and target
+        setNetworkHover(
+          `<b>${d.source.id}</b> and <b>${d.target.id}</b> appear <b>${
+            d.value
+          }</b> time${d.value === 1 ? "" : "s"} together in this chapter`
+        );
       })
       .on("mouseout", () => {
         setLinkHover([]); // Clear linkHover when not hovering
+        setNetworkHover("");
       });
     const node = svg
       .append("g")
@@ -348,9 +358,15 @@ function CharacterNetwork(props: any) {
       .on("mouseover", (_, d) => {
         if (d.importance === 0) return;
         setCharacterHover(d.id); // Update characterHover with the character's name
+        setNetworkHover(
+          `<b>${d.id}</b> appears <b>${d.numScenes}</b> time${
+            d.numScenes === 1 ? "" : "s"
+          } in this chapter`
+        );
       })
       .on("mouseout", () => {
         setCharacterHover(""); // Clear characterHover when not hovering
+        setNetworkHover("");
       })
       .call(
         d3
@@ -387,9 +403,15 @@ function CharacterNetwork(props: any) {
       .on("mouseover", (_, d) => {
         if (d.importance === 0) return;
         setCharacterHover(d.id); // Update characterHover with the character's name
+        setNetworkHover(
+          `<b>${d.id}</b> appears <b>${d.numScenes}</b> time${
+            d.numScenes === 1 ? "" : "s"
+          } in this chapter`
+        );
       })
       .on("mouseout", () => {
         setCharacterHover(""); // Clear characterHover when not hovering
+        setNetworkHover("");
       });
 
     return () => {
@@ -405,6 +427,9 @@ function CharacterNetwork(props: any) {
     if (characterHover !== "") {
       const links = svg.selectAll("line").data();
       links.forEach((link: any) => {
+        if (link.lighter) {
+          return;
+        }
         if (link.source.id === characterHover) {
           connectedNodes.add(link.target.id);
         } else if (link.target.id === characterHover) {
@@ -445,6 +470,10 @@ function CharacterNetwork(props: any) {
           : connectedNodes.has(d.id)
           ? 0.75
           : 0.25
+      )
+      // adjust font weight
+      .attr("font-weight", (d: any) =>
+        characterHover === d.id || linkHover.includes(d.id) ? "600" : "normal"
       );
 
     // adjust links
@@ -455,15 +484,17 @@ function CharacterNetwork(props: any) {
       .attr("stroke", (d: any) =>
         linkHover.includes(d.source.id) && linkHover.includes(d.target.id)
           ? "#222" // Highlight color for hovered links
-          : characterHover === d.source.id || characterHover === d.target.id
+          : (characterHover === d.source.id ||
+              characterHover === d.target.id) &&
+            !d.lighter
           ? "#777"
           : "#ddd"
       )
       .attr("stroke-opacity", (d: any) =>
         (linkHover.length == 0 && characterHover === "" && !d.lighter) ||
         (linkHover.includes(d.source.id) && linkHover.includes(d.target.id)) ||
-        characterHover === d.source.id ||
-        characterHover === d.target.id
+        ((characterHover === d.source.id || characterHover === d.target.id) &&
+          !d.lighter)
           ? 0.75 // Fully visible when hovered
           : 0.2
       );

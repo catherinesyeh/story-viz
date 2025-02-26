@@ -1633,7 +1633,8 @@ h1 {
 }
 
 #click-msg,
-#legend-hover-msg {
+#legend-hover-msg,
+#network-hover-msg {
   position: fixed;
   font-size: x-small;
   z-index: 800;
@@ -1647,12 +1648,19 @@ h1 {
   }
 }
 
-#legend-hover-msg {
+#legend-hover-msg,
+#network-hover-msg {
   background: rgb(255, 255, 255, 0.95);
   border-radius: 0.1rem;
   box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
   padding: 0.25rem 0.6rem;
   z-index: 1000 !important;
+}
+
+#network-hover-msg {
+  b {
+    font-weight: 600;
+  }
 }
 
 // CHAPTER SLIDER
