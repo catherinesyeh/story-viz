@@ -13,6 +13,7 @@ import {
 } from "../../utils/colors";
 import chroma from "chroma-js";
 import { CharacterLink, Scene } from "../../utils/data";
+import { Button } from "@mantine/core";
 
 type Node = {
   id: string;
@@ -53,6 +54,7 @@ function CharacterNetwork(props: any) {
     customColorDict,
   } = dataStore();
   const svgRef = useRef<SVGSVGElement | null>(null);
+  const zoomRef = useRef<d3.ZoomBehavior<SVGSVGElement, unknown> | null>(null); // Store zoom behavior
 
   const def_margin = 10;
   const char_width = 6;
@@ -242,7 +244,7 @@ function CharacterNetwork(props: any) {
     svg.selectAll("*").remove();
 
     // Add a group element to handle zooming and panning
-    const zoomLayer = svg.append("g");
+    const zoomLayer = svg.append("g").attr("class", "zoom-layer");
 
     const simulation = d3
       .forceSimulation(nodes as Node[])
@@ -399,20 +401,30 @@ function CharacterNetwork(props: any) {
       });
 
     // Apply zoom behavior to the SVG
-    const zoom = d3
-      .zoom<SVGSVGElement, unknown>() // Explicitly define zoom behavior for an SVG element
-      .scaleExtent([0.5, 5]) // Limit zoom scale between 0.5x and 5x
+    zoomRef.current = d3
+      .zoom<SVGSVGElement, unknown>()
+      .scaleExtent([0.5, 5]) // Zoom limits
       .on("zoom", (event) => {
         zoomLayer.attr("transform", event.transform);
       });
 
-    svg.call(zoom as any); // Cast zoom to `any` to bypass TypeScript inference issues
+    svg.call(zoomRef.current as any);
 
     return () => {
       simulation.stop(); // Clean up the simulation on unmount
       svg.on(".zoom", null); // Remove zoom behavior on unmount
     };
   }, [cur_scene, cumulativeMode]);
+
+  // Reset Zoom function
+  const resetZoom = () => {
+    if (svgRef.current && zoomRef.current) {
+      d3.select(svgRef.current)
+        .transition()
+        .duration(500)
+        .call(zoomRef.current.transform, d3.zoomIdentity);
+    }
+  };
 
   useEffect(() => {
     const svg = d3.select(svgRef.current);
@@ -509,7 +521,19 @@ function CharacterNetwork(props: any) {
       });
   }, [characterColor]); // Only run when `characterColor` changes
 
-  return <svg ref={svgRef} style={{ maxWidth: "100%" }} />;
+  return (
+    <div style={{ position: "relative" }}>
+      <svg ref={svgRef} style={{ maxWidth: "100%" }} />
+      <Button
+        className="reset"
+        onClick={resetZoom}
+        size="xs"
+        // style={{ position: "absolute", bottom: 0, left: 0 }}
+      >
+        Reset Network
+      </Button>
+    </div>
+  );
 }
 
 export default CharacterNetwork;

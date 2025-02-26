@@ -42,6 +42,8 @@ function PlotOptions() {
     isUpdatingData,
     setIsUpdatingData,
     setAboutModalOpened,
+    setLinkHover,
+    setNetworkHover,
   } = storyStore();
 
   const {
@@ -270,6 +272,8 @@ function PlotOptions() {
       setSceneHover("");
       setGroupHover("");
       setCustomHover("");
+      setLinkHover([]);
+      setNetworkHover("");
 
       // Reset characterColor if it's not a valid option
       const localStorageKey = `colorDict-${story}`;
