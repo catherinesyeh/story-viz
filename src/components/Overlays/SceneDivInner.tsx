@@ -323,9 +323,9 @@ function SceneDivInner(props: any) {
                     )}
                   {(chapterView || inSidebar) && (
                     <InfoTooltip
-                      label={`use the controls / your mouse to zoom, pan, and explore the ${
+                      label={`zoom / pan to explore the ${
                         themeView ? "theme" : "character"
-                      } network for this chapter`}
+                      } network for this chapter; hover on a node / edge for more info`}
                     />
                   )}
                 </b>
