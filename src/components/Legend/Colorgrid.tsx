@@ -23,6 +23,7 @@ function Colorgrid(props: any) {
     customHover,
     setCustomHover,
     setLegendHover,
+    linkHover,
   } = storyStore();
   const gridType = props.gridType;
 
@@ -167,7 +168,9 @@ function Colorgrid(props: any) {
                   ? ""
                   : "faded no-click") +
                 (hidden.includes(char.character) ||
-                (characterHover !== "" && characterHover !== char.character)
+                (characterHover !== "" && characterHover !== char.character) ||
+                (linkHover.length > 0 && !linkHover.includes(char.character)) ||
+                (groupHover !== "" && groupHover !== char.group)
                   ? "faded"
                   : "")
               }
@@ -199,6 +202,7 @@ function Colorgrid(props: any) {
                   gridType
                 );
           const charNames = group.map((char) => char.character);
+          const charGroups = group.map((char) => char.group);
           return (
             <div
               key={groupName}
@@ -206,7 +210,9 @@ function Colorgrid(props: any) {
                 "colorgrid-square " +
                 ((characterHover !== "" &&
                   !charNames.includes(characterHover)) ||
-                (groupHover !== "" && groupHover !== groupName) ||
+                (linkHover.length > 0 &&
+                  !charNames.some((name) => linkHover.includes(name))) ||
+                (groupHover !== "" && !charGroups.includes(groupHover)) ||
                 (customHover !== "" &&
                   !activeAttrInScene(
                     charNames,

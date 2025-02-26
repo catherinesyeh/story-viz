@@ -37,6 +37,7 @@ function MainPlot() {
     chapterHover,
     setChapterHover,
     setDetailView,
+    linkHover,
   } = storyStore();
   const {
     sceneBoxes,
@@ -204,6 +205,8 @@ function MainPlot() {
                 " " +
                 ((characterHover !== "" &&
                   characterHover !== character.character) ||
+                (linkHover.length > 0 &&
+                  !linkHover.includes(character.character)) ||
                 (groupHover !== "" && groupHover !== group) ||
                 (customHover !== "" &&
                   !charHasAttr(
@@ -236,6 +239,8 @@ function MainPlot() {
                       sceneHover !== "" ||
                       (characterHover !== "" &&
                         characterHover !== character.character) ||
+                      (linkHover.length > 0 &&
+                        !linkHover.includes(character.character)) ||
                       (groupHover !== "" && groupHover !== group) ||
                       (customHover !== "" &&
                         !charHasAttr(
@@ -259,6 +264,8 @@ function MainPlot() {
                   sceneHover !== "" ||
                   (characterHover !== "" &&
                     characterHover !== character.character) ||
+                  (linkHover.length > 0 &&
+                    !linkHover.includes(character.character)) ||
                   (groupHover !== "" && groupHover !== group) ||
                   (customHover !== "" &&
                     !charHasAttr(
@@ -484,11 +491,13 @@ function MainPlot() {
                   ((locationHover === "" &&
                     sceneHover === "" &&
                     characterHover === "" &&
+                    linkHover.length === 0 &&
                     groupHover === "" &&
                     customHover === "") ||
                   chapter.locations.includes(locationHover) ||
                   chapter.scenes.includes(sceneHover) ||
                   chapter.characters.includes(characterHover) ||
+                  chapter.characters.some((c) => linkHover.includes(c)) ||
                   chapter.groups.includes(groupHover) ||
                   (customHover !== "" &&
                     activeAttrInScene(

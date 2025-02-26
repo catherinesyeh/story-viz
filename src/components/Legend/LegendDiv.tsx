@@ -34,6 +34,7 @@ function LegendDiv(props: any) {
     customHover,
     minimized,
     setMinimized,
+    linkHover,
   } = storyStore();
 
   const inSidebar = props.inSidebar || false;
@@ -184,6 +185,8 @@ function LegendDiv(props: any) {
                 "group-container " +
                 ((characterHover !== "" &&
                   !charNames.includes(characterHover)) ||
+                (linkHover.length > 0 &&
+                  !linkHover.some((char) => charNames.includes(char))) ||
                 (groupHover !== "" && groupHover !== group) ||
                 (customHover !== "" &&
                   !activeAttrInScene(

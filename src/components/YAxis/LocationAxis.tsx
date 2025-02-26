@@ -16,6 +16,7 @@ function LocationAxis() {
     fullHeight,
     chapterView,
     story,
+    linkHover,
   } = storyStore();
   const ratio = plotHeight < location_height ? 1 : yAxisHeight / plotHeight;
   const locHeight = location_height * ratio;
@@ -36,14 +37,16 @@ function LocationAxis() {
               "location-box " +
               ((locationHover === "" &&
                 sceneHover === "" &&
-                characterHover === "") ||
+                characterHover === "" &&
+                linkHover.length === 0) ||
               locationHover === location ||
               sceneLocations[scenes.indexOf(sceneHover)] === location ||
               // check if character is in location
               characterScenes.find(
                 (char) =>
                   char.locations.includes(location) &&
-                  char.character === characterHover
+                  (char.character === characterHover ||
+                    linkHover.includes(char.character))
               )
                 ? ""
                 : "faded")

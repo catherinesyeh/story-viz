@@ -18,6 +18,7 @@ function CharacterAxis() {
     customHover,
     chapterView,
     characterColor,
+    linkHover,
   } = storyStore();
   const { sortedCharacters, character_data } = dataStore();
   const { plotHeight, charInc } = positionStore();
@@ -44,6 +45,7 @@ function CharacterAxis() {
               (hidden.includes(char.character) ||
               (groupHover !== "" && groupHover !== char.group) ||
               (characterHover !== "" && characterHover !== char.character) ||
+              (linkHover.length > 0 && !linkHover.includes(char.character)) ||
               (customHover !== "" &&
                 !charHasAttr(
                   character_data,

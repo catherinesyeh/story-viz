@@ -57,6 +57,7 @@ function XAxis() {
     detailView,
     setDetailView,
     characterColor,
+    linkHover,
   } = storyStore();
 
   const { scenePos } = positionStore();
@@ -162,11 +163,15 @@ function XAxis() {
                     ((locationHover === "" &&
                       sceneHover === "" &&
                       characterHover === "" &&
+                      linkHover.length === 0 &&
                       groupHover === "" &&
                       customHover === "") ||
                     chapter.locations.includes(locationHover) ||
                     chapter.scenes.includes(sceneHover) ||
                     chapter.characters.includes(characterHover) ||
+                    chapter.characters.filter((char) =>
+                      linkHover.includes(char)
+                    ).length > 0 ||
                     chapter.groups.includes(groupHover) ||
                     (customHover !== "" &&
                       activeAttrInScene(
@@ -226,11 +231,15 @@ function XAxis() {
               ((locationHover === "" &&
                 sceneHover === "" &&
                 characterHover === "" &&
+                linkHover.length === 0 &&
                 groupHover === "" &&
                 customHover === "") ||
               locationHover === sceneLocations[i] ||
               sceneHover === scene ||
               sceneCharacters[i].characters.includes(characterHover) ||
+              sceneCharacters[i].characters.filter((char) =>
+                linkHover.includes(char)
+              ).length > 0 ||
               sceneCharacters[i].groups.includes(groupHover) ||
               (customHover !== "" &&
                 activeAttrInScene(

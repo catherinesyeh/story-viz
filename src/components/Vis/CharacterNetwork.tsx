@@ -17,10 +17,17 @@ import { CharacterLink, Scene } from "../../utils/data";
 type Node = {
   id: string;
   group: string;
+  emotion: number;
   importance: number;
-  color: string;
   x?: number;
   y?: number;
+};
+
+type Link = {
+  source: Node;
+  target: Node;
+  lighter: boolean;
+  value: number;
 };
 
 function CharacterNetwork(props: any) {
@@ -31,7 +38,10 @@ function CharacterNetwork(props: any) {
     detailView,
     chapterView,
     setCharacterHover,
+    setLinkHover,
     cumulativeMode,
+    linkHover,
+    characterHover,
   } = storyStore();
   const {
     scene_data,
@@ -67,6 +77,42 @@ function CharacterNetwork(props: any) {
 
   const sortedGroups = sortedCharacters.map((char) => char.group);
   const uniqueGroups = [...new Set(sortedGroups)];
+
+  const getNodeColor = (
+    c_name: string,
+    emotion_val: number,
+    importance_val: number
+  ) => {
+    const c_data = character_data.find((c) => c.character === c_name);
+    const group = c_data?.group;
+
+    const charColor = getColor(c_name, sortedCharacters);
+    const llmColor = getLLMColor(c_name, sortedCharacters) || charColor;
+    const groupColor = group ? getGroupColor(group, uniqueGroups) : charColor;
+    const emotion_color = chroma(emotionColor(emotion_val as number)).css();
+    const importance_color = chroma(
+      importanceColor(importance_val as number)
+    ).css();
+
+    const color =
+      characterColor === "llm"
+        ? llmColor
+        : characterColor === "group"
+        ? groupColor
+        : characterColor === "sentiment"
+        ? emotion_color
+        : characterColor === "importance"
+        ? importance_color
+        : Object.keys(customColorDict).includes(characterColor)
+        ? getCustomColor(
+            customColorDict[characterColor],
+            character_data,
+            c_name,
+            characterColor
+          )
+        : charColor;
+    return color;
+  };
 
   useEffect(() => {
     if (!cur_scene) return;
@@ -131,43 +177,15 @@ function CharacterNetwork(props: any) {
     }
 
     const nodes = scene_characters.map((d) => {
-      const c_name = d.name;
-      const c_data = character_data.find((c) => c.character === c_name);
-      const group = c_data?.group;
-
       const s_data = d;
       const emotion_val = s_data?.rating || 0;
       const importance_val = s_data?.importance || 0;
 
-      const charColor = getColor(c_name, sortedCharacters);
-      const llmColor = getLLMColor(c_name, sortedCharacters) || charColor;
-      const groupColor = group ? getGroupColor(group, uniqueGroups) : charColor;
-      const emotion_color = chroma(emotionColor(emotion_val as number)).css();
-      const importance_color = chroma(
-        importanceColor(importance_val as number)
-      ).css();
-
       return {
-        id: c_name,
-        group: group || "",
+        id: d.name,
+        group: d.group,
+        emotion: emotion_val,
         importance: importance_val,
-        color:
-          characterColor === "llm"
-            ? llmColor
-            : characterColor === "group"
-            ? groupColor
-            : characterColor === "sentiment"
-            ? emotion_color
-            : characterColor === "importance"
-            ? importance_color
-            : Object.keys(customColorDict).includes(characterColor)
-            ? getCustomColor(
-                customColorDict[characterColor],
-                character_data,
-                c_name,
-                characterColor
-              )
-            : charColor,
       };
     }) as Node[];
 
@@ -192,7 +210,7 @@ function CharacterNetwork(props: any) {
             nodes.find((n) => n.id === d.target)?.importance === 0,
           value: d.value,
         };
-      });
+      }) as Link[];
 
     if (nodes.length === 0) return;
     if (links.length === 0) return;
@@ -304,16 +322,36 @@ function CharacterNetwork(props: any) {
       .join("line")
       .attr("stroke", "#ddd")
       .attr("stroke-width", (d) => normalize(d.value, min_val, max_val, 1, 8))
-      .attr("stroke-opacity", (d) => (d.lighter ? 0.2 : 0.75));
-
+      .attr("stroke-opacity", (d) => (d.lighter ? 0.2 : 0.75))
+      // add hover behavior
+      .on("mouseover", (_, d) => {
+        if (
+          !d.source ||
+          !d.target ||
+          d.source.importance === 0 ||
+          d.target.importance === 0
+        )
+          return;
+        setLinkHover([d.source.id, d.target.id]); // Update linkHover with the link's source and target
+      })
+      .on("mouseout", () => {
+        setLinkHover([]); // Clear linkHover when not hovering
+      });
     const node = svg
       .append("g")
       .selectAll("circle")
       .data(nodes)
       .join("circle")
       .attr("r", (d) => normalize(d.importance, min_importance, 1, 2, 8))
-      .attr("fill", (d) => d.color)
+      .attr("fill", (d) => getNodeColor(d.id, d.emotion, d.importance))
       .attr("fill-opacity", (d) => (d.importance === 0 ? 0.25 : 1))
+      .on("mouseover", (_, d) => {
+        if (d.importance === 0) return;
+        setCharacterHover(d.id); // Update characterHover with the character's name
+      })
+      .on("mouseout", () => {
+        setCharacterHover(""); // Clear characterHover when not hovering
+      })
       .call(
         d3
           .drag<any, any>()
@@ -347,33 +385,103 @@ function CharacterNetwork(props: any) {
       .attr("fill-opacity", (d) => (d.importance === 0 ? 0.25 : 1))
       // Add hover behavior
       .on("mouseover", (_, d) => {
+        if (d.importance === 0) return;
         setCharacterHover(d.id); // Update characterHover with the character's name
       })
       .on("mouseout", () => {
         setCharacterHover(""); // Clear characterHover when not hovering
       });
 
-    // Handle resizing
-    // const updateDimensions = () => {
-    // const newWidth = parentElement.offsetWidth;
-    // const newHeight = parentElement.offsetHeight;
-
-    //   svg.attr("width", newWidth).attr("height", newHeight);
-
-    //   // Update simulation center
-    //   simulation
-    //     .force("center", d3.forceCenter(newWidth / 2, newHeight / 2))
-    //     .alpha(1)
-    //     .restart();
-    // };
-
-    // window.addEventListener("resize", updateDimensions);
-
     return () => {
-      // window.removeEventListener("resize", updateDimensions);
       simulation.stop(); // Clean up the simulation on unmount
     };
-  }, [cur_scene, cumulativeMode, characterColor]);
+  }, [cur_scene, cumulativeMode]);
+
+  useEffect(() => {
+    const svg = d3.select(svgRef.current);
+
+    // find all nodes connected to the hovered character
+    let connectedNodes = new Set();
+    if (characterHover !== "") {
+      const links = svg.selectAll("line").data();
+      links.forEach((link: any) => {
+        if (link.source.id === characterHover) {
+          connectedNodes.add(link.target.id);
+        } else if (link.target.id === characterHover) {
+          connectedNodes.add(link.source.id);
+        }
+      });
+    }
+
+    // adjust nodes
+    svg
+      .selectAll("circle")
+      .transition()
+      .duration(200) // Smooth transition effect
+      .attr("fill-opacity", (d: any) =>
+        (linkHover.length == 0 &&
+          characterHover === "" &&
+          d.importance !== 0) ||
+        linkHover.includes(d.id) ||
+        characterHover === d.id
+          ? 1
+          : connectedNodes.has(d.id)
+          ? 0.75
+          : 0.25
+      );
+
+    // adjust labels
+    svg
+      .selectAll("text")
+      .transition()
+      .duration(200) // Smooth transition effect
+      .attr("fill-opacity", (d: any) =>
+        (linkHover.length == 0 &&
+          characterHover === "" &&
+          d.importance !== 0) ||
+        linkHover.includes(d.id) ||
+        characterHover === d.id
+          ? 1
+          : connectedNodes.has(d.id)
+          ? 0.75
+          : 0.25
+      );
+
+    // adjust links
+    svg
+      .selectAll("line")
+      .transition()
+      .duration(200) // Smooth transition effect
+      .attr("stroke", (d: any) =>
+        linkHover.includes(d.source.id) && linkHover.includes(d.target.id)
+          ? "#222" // Highlight color for hovered links
+          : characterHover === d.source.id || characterHover === d.target.id
+          ? "#777"
+          : "#ddd"
+      )
+      .attr("stroke-opacity", (d: any) =>
+        (linkHover.length == 0 && characterHover === "" && !d.lighter) ||
+        (linkHover.includes(d.source.id) && linkHover.includes(d.target.id)) ||
+        characterHover === d.source.id ||
+        characterHover === d.target.id
+          ? 0.75 // Fully visible when hovered
+          : 0.2
+      );
+  }, [linkHover, characterHover]); // Only runs when linkHover or characterHover changes
+
+  useEffect(() => {
+    d3.select(svgRef.current)
+      .selectAll("circle")
+      .transition()
+      .duration(200) // Smooth transition effect
+      .attr("fill", (d: any) => {
+        // Apply the correct color based on characterColor
+        const c_name = d.id;
+        const emotion_val = d.emotion;
+        const importance_val = d.importance;
+        return getNodeColor(c_name, emotion_val, importance_val);
+      });
+  }, [characterColor]); // Only run when `characterColor` changes
 
   return <svg ref={svgRef} style={{ maxWidth: "100%" }} />;
 }

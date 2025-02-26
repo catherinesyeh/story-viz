@@ -23,6 +23,7 @@ function OverlayCurve() {
     customHover,
     characterColor,
     setSceneHover,
+    linkHover,
   } = storyStore();
   const { scenePos } = positionStore();
   const {
@@ -115,11 +116,15 @@ function OverlayCurve() {
                 ((locationHover === "" &&
                   sceneHover === "" &&
                   characterHover === "" &&
+                  linkHover.length === 0 &&
                   groupHover === "" &&
                   customHover === "") ||
                 locationHover === scene.location ||
                 sceneHover === scene.name ||
                 sceneCharacters[i].characters.includes(characterHover) ||
+                sceneCharacters[i].characters.filter((char) =>
+                  linkHover.includes(char)
+                ).length > 0 ||
                 sceneCharacters[i].groups.includes(groupHover) ||
                 activeAttrInScene(
                   sceneCharacters[i].characters,

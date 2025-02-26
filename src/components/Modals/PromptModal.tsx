@@ -227,10 +227,10 @@ function PromptModal() {
 
       if (chapterView) {
         // Set new_chapter_data as scene_data
-        setSceneData(new_chapter_data, story, themeView);
+        setSceneData(new_chapter_data);
       } else {
         // Set new_data as scene_data
-        setSceneData(new_data, story, themeView);
+        setSceneData(new_data);
       }
 
       setOgSceneData(new_data, story);
@@ -288,10 +288,10 @@ function PromptModal() {
 
     if (chapterView) {
       // Set new_chapter_data as scene_data
-      setSceneData(new_chapter_data, story, themeView);
+      setSceneData(new_chapter_data);
     } else {
       // Set new_data as scene_data
-      setSceneData(new_scene_data, story, themeView);
+      setSceneData(new_scene_data);
     }
 
     setOgSceneData(new_scene_data, story);

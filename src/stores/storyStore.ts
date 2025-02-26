@@ -47,6 +47,8 @@ interface IStore {
   setGroupHover: (val: string) => void;
   customHover: string;
   setCustomHover: (val: string) => void;
+  linkHover: string[];
+  setLinkHover: (val: string[]) => void;
   sceneHover: string;
   setSceneHover: (val: string) => void;
   chapterHover: string;
@@ -107,6 +109,7 @@ const initialState = {
   characterHover: "",
   groupHover: "",
   customHover: "",
+  linkHover: [],
   sceneHover: "",
   chapterHover: "",
   legendHover: "",
@@ -161,6 +164,7 @@ export const storyStore = create<IStore>()((set) => ({
   setCharacterHover: (val: string) => set({ characterHover: val }),
   setGroupHover: (val: string) => set({ groupHover: val }),
   setCustomHover: (val: string) => set({ customHover: val }),
+  setLinkHover: (val: string[]) => set({ linkHover: val }),
   setSceneHover: (val: string) => set({ sceneHover: val }),
   setChapterHover: (val: string) => set({ chapterHover: val }),
   setHidden: (val: string[]) => set({ hidden: val }),

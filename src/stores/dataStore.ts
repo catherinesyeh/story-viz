@@ -62,7 +62,7 @@ interface IStore {
   setCustomColorDict: (val: CustomColorDict, val2: string) => void;
   setYAxisOptions: (val: string[]) => void;
   setCustomYAxisOptions: (val: string[], val2: string) => void;
-  setSceneData: (val: Scene[], val2: string, val3: boolean) => void;
+  setSceneData: (val: Scene[]) => void;
   setChapterData: (val: Scene[]) => void;
   setOgSceneData: (val: Scene[], val2: string) => void;
   setCharacterData: (val: CharacterData[], val2: string) => void;
@@ -133,7 +133,6 @@ export const dataStore = create<IStore>((set) => ({
   setCustomYAxisOptions: (val: string[], story: string) => {
     // update local storage
     const localStorageKey = `yAxis-${story}`;
-    // localforage.setItem(localStorageKey, JSON.stringify(val));
     localforage.setItem(localStorageKey, val);
     set({ customYAxisOptions: val });
     console.log("Updated custom y-axis options");
@@ -141,19 +140,11 @@ export const dataStore = create<IStore>((set) => ({
   setSortedCharacters: (val: CharacterData[]) => {
     set({ sortedCharacters: val });
   },
-  setSceneData: (val: Scene[], story: string, themeView: boolean) => {
-    // update local storage
-    // if (!themeView) {
-    // localforage.setItem(localStorageKey, JSON.stringify(val));
-    // }
+  setSceneData: (val: Scene[]) => {
     set({ scene_data: val });
   },
   setChapterData: (val: Scene[]) => {
-    // update local storage
-    // const localStorageKey = `chapterData-${story}`;
-    // localforage.setItem(localStorageKey, JSON.stringify(val));
     set({ chapter_data: val });
-    // console.log("Updated chapter data");
   },
   setOgSceneData: (val: Scene[], story: string) => {
     const localStorageKey = `sceneData-${story}`;
@@ -164,7 +155,6 @@ export const dataStore = create<IStore>((set) => ({
   setCharacterData: (val: CharacterData[], story: string) => {
     // update local storage
     const localStorageKey = `characterData-${story}`;
-    // localforage.setItem(localStorageKey, JSON.stringify(val));
     localforage.setItem(localStorageKey, val);
     set({ character_data: val });
     console.log("Updated character data");
