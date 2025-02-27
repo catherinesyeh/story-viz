@@ -229,6 +229,18 @@ async def add_yaxis_data_async(llm, sceneData, y_axis, story_type):
             if scene_character:
                 scene_character[y_axis] = rating
 
+        # rank characters based on rating
+        character_ratings = []
+        for k, character in enumerate(scene["characters"]):
+            character_ratings.append(
+                (k, character[y_axis] if y_axis in character else 0))
+        # sort character ratings
+        sorted_character_ratings = sorted(
+            character_ratings, key=lambda x: x[1], reverse=True)
+        # replace rating with rank
+        for k, (l, _) in enumerate(sorted_character_ratings):
+            scene["characters"][l][y_axis] = k + 1
+
     return new_data
 
 # Wrapper function for async y-axis function

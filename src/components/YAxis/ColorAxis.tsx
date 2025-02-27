@@ -68,11 +68,7 @@ function ColorAxis() {
             marginBottom: "-1rem",
           }}
         >
-          {yAxis === "sentiment"
-            ? -1
-            : customYAxisOptions.includes(yAxis)
-            ? 0
-            : max_characters_per_scene}
+          {yAxis === "sentiment" ? -1 : max_characters_per_scene}
         </span>
       </div>
     </div>

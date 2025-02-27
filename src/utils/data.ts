@@ -831,6 +831,22 @@ export const getAllData = (
           char[axis] = char_val;
         });
       });
+
+      // for each custom axis option, sort characters by that option
+      const sortedDict = {} as { [key: string]: any[] };
+      customAxisOptions.forEach((axis) => {
+        sortedDict[axis] = chapter_chars
+          .map((char) => ({ name: char.name, rating: char[axis] }))
+          .sort((a, b) => a.rating - b.rating);
+      });
+
+      // now assign new vals to each character based on their rank in the sorted list
+      customAxisOptions.forEach((axis) => {
+        chapter_chars.forEach((char) => {
+          const rank = sortedDict[axis].findIndex((c) => c.name === char.name);
+          char[axis] = rank + 1;
+        });
+      });
     });
   }
 

@@ -218,6 +218,16 @@ function PromptModal() {
             char_vals.length;
           char[color_lower] = char_val;
         });
+
+        // Rank characters in chapter by new y axis
+        const sorted_chars = chapter_chars
+          .map((char) => ({ name: char.name, rating: char[color_lower] }))
+          .sort((a, b) => a.rating - b.rating);
+
+        chapter_chars.forEach((char) => {
+          const rank = sorted_chars.findIndex((c) => c.name === char.name);
+          char[color_lower] = rank + 1;
+        });
       });
 
       // Set chapter_data to the updated data
@@ -396,7 +406,7 @@ function PromptModal() {
         <>
           <Textarea
             size="xs"
-            label={`I would like to arrange the ${
+            label={`I would like to rank the ${
               themeView ? "themes" : "characters"
             } in each scene by...`}
             rows={2}

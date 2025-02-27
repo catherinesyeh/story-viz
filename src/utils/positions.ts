@@ -340,9 +340,9 @@ const characterPos = (
           (c) => c.name === character.character
         )?.[axis] as number;
         // if char_rating is NaN, set to 0
-        if (isNaN(char_rating)) {
-          char_rating = 0;
-        }
+        // if (isNaN(char_rating)) {
+        //   char_rating = 0;
+        // }
         // see if there are any other characters with the same emotion
         const other_chars = cur_scene.characters.filter(
           (c) => c[axis] === char_rating
@@ -354,9 +354,8 @@ const characterPos = (
         return {
           x: initialScenePos[scene].x - 0.5 * character_height,
           y:
-            new_max_y +
-            location_offset * 0.5 -
-            new_max_y * char_rating +
+            0.5 * character_offset +
+            prom_inc * (char_rating - 1) +
             character_offset * char_index,
         };
       });
