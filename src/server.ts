@@ -39,13 +39,13 @@ export async function getNewColors(
   color_desc: string,
   type: string
 ) {
-  const queryParams = new URLSearchParams({
+  const payload = {
     data: data,
     color_desc: color_desc,
     story_type: type,
-  });
+  };
 
-  return get(`new_colors?${queryParams}`);
+  return post(`new_colors`, payload);
 }
 
 export async function getNewYAxis(data: any, yaxis_desc: string, type: string) {

@@ -14,14 +14,15 @@ CORS(app)
 print("Server started.")
 
 
-@app.route("/new_colors", methods=['GET'])
+@app.route("/new_colors", methods=['POST'])
 def add_new_colors():
     print("Adding new colors...")
-    data = request.args.get('data')
+    payload = request.json
+    data = payload.get('data')
     # print("Data:", data)
-    color_desc = request.args.get('color_desc')
+    color_desc = payload.get('color_desc')
     print("Color description:", color_desc)
-    story_type = request.args.get('story_type')
+    story_type = payload.get('story_type')
     print("Story type:", story_type)
     start_time = time.time()
     char_attrs, color_assignments = assign_character_attributes(
