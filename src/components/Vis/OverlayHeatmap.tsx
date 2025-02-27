@@ -24,6 +24,11 @@ function OverlayHeatmap() {
     characterColor,
     setSceneHover,
     linkHover,
+    chapterHover,
+    setChapterHover,
+    detailView,
+    chapterView,
+    setDetailView,
   } = storyStore();
   const { scenePos } = positionStore();
   const {
@@ -60,6 +65,25 @@ function OverlayHeatmap() {
       activeChapterDivisions[activeChapterDivisions.length - 1].index +
         numScenesInLastActiveChapter
   );
+
+  const updateChapterHover = (sceneName: string) => {
+    if (chapterView) {
+      const scene = scene_data.find((s) => s.name === sceneName);
+      if (scene) {
+        if (chapterHover === "" && !detailView) {
+          setDetailView(true);
+        }
+        if (scene.name !== chapterHover) {
+          setChapterHover(scene.name);
+        } else {
+          setChapterHover("");
+          if (detailView) {
+            setDetailView(false);
+          }
+        }
+      }
+    }
+  };
 
   return (
     <g id="conflict-container">
@@ -146,6 +170,9 @@ function OverlayHeatmap() {
               }}
               onMouseLeave={() => {
                 setSceneHover("");
+              }}
+              onClick={() => {
+                updateChapterHover(scene.name);
               }}
             />
           );
