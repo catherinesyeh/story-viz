@@ -381,6 +381,12 @@ h1 {
       pointer-events: none;
     }
 
+    &.hidden {
+      visibility: hidden;
+      pointer-events: none;
+      opacity: 0;
+    }
+
     span {
       font-size: xx-small !important;
     }

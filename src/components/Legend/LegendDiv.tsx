@@ -10,6 +10,7 @@ import {
 // import CharacterDiv from "./Overlays/CharacterDiv";
 import { FaChevronUp, FaRedo, FaPlus, FaMinus } from "react-icons/fa";
 import { activeAttrInScene } from "../../utils/helpers";
+import InfoTooltip from "../Misc/InfoTooltip";
 
 function LegendDiv(props: any) {
   const {
@@ -35,9 +36,20 @@ function LegendDiv(props: any) {
     minimized,
     setMinimized,
     linkHover,
+    themeView,
   } = storyStore();
 
   const inSidebar = props.inSidebar || false;
+
+  const topChars = sortedCharacters
+    .filter((c) => {
+      const flatExp = Array.isArray(c.explanation)
+        ? c.explanation.join(" ").trim()
+        : c.explanation;
+
+      return flatExp !== "";
+    })
+    .map((c) => c.character);
 
   // Update array with list of hidden characters
   const updateHidden = (name: string) => {
@@ -66,6 +78,25 @@ function LegendDiv(props: any) {
       (name: string) => !groupNames.includes(name)
     );
     setHidden(newHidden);
+  };
+
+  const showTopChars = () => {
+    const newHidden = sortedCharacters
+      .filter((char) => !topChars.includes(char.character))
+      .map((char) => char.character);
+    setHidden(newHidden);
+  };
+
+  const showingTopChars = () => {
+    // check if hidden contains all characters except top 20
+    const notTopChars = sortedCharacters
+      .filter((char) => !topChars.includes(char.character))
+      .map((char) => char.character);
+    // check if current hidden is exactly the same as notTop20
+    return (
+      hidden.length === notTopChars.length &&
+      hidden.every((val, index) => val === notTopChars[index])
+    );
   };
 
   const noCharsInHidden = (groupChars: any) => {
@@ -150,16 +181,40 @@ function LegendDiv(props: any) {
         >
           {showLegend ? "Hide legend" : "Show legend"}
         </Button>
-        <Button
-          size="xs"
-          variant="transparent"
-          leftSection={<FaRedo />}
-          className="reset-button"
-          disabled={hidden.length === 0}
-          onClick={() => setHidden([])}
+        <div
+          style={{
+            display: "flex",
+            position: "absolute",
+            right: "0.5rem",
+            columnGap: "1rem",
+            alignItems: "center",
+          }}
         >
-          Reset
-        </Button>
+          <Button
+            size="xs"
+            variant="transparent"
+            className={
+              "reset-button " + (sortedCharacters.length <= 20 ? "hidden" : "")
+            }
+            disabled={showingTopChars() || topChars.length === 0}
+            onClick={() => showTopChars()}
+          >
+            View top {topChars.length} {themeView ? "themes" : "characters"}
+            <InfoTooltip
+              label={`Only show top ${topChars.length} character or theme ribbons`}
+            />
+          </Button>
+          <Button
+            size="xs"
+            variant="transparent"
+            leftSection={<FaRedo />}
+            className="reset-button"
+            disabled={hidden.length === 0}
+            onClick={() => setHidden([])}
+          >
+            Reset
+          </Button>
+        </div>
       </div>
       <div id="character-legend" className={!showLegend ? "hidden" : ""}>
         {characterGroups.map((groupChars, index) => {
