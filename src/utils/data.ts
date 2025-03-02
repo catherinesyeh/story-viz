@@ -497,6 +497,15 @@ const sortCharactersByGroup = (
         (charScene) =>
           charScene.character.toLowerCase() === b.character.toLowerCase()
       );
+
+      // but if index is -1, should be last
+      if (aIndex === -1 && bIndex !== -1) {
+        return 1;
+      }
+      if (bIndex === -1 && aIndex !== -1) {
+        return -1;
+      }
+
       return aIndex - bIndex;
     });
   });

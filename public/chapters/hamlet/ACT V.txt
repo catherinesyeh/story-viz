@@ -1,0 +1,978 @@
+LINE 1: SCENE I. A churchyard.
+LINE 2: Enter two Clowns with spades, &c.
+LINE 3: FIRST CLOWN.
+LINE 4: Is she to be buried in Christian burial, when she wilfully seeks her
+LINE 5: own salvation?
+LINE 6: SECOND CLOWN.
+LINE 7: I tell thee she is, and therefore make her grave straight. The crowner
+LINE 8: hath sat on her, and finds it Christian burial.
+LINE 9: FIRST CLOWN.
+LINE 10: How can that be, unless she drowned herself in her own defence?
+LINE 11: SECOND CLOWN.
+LINE 12: Why, 'tis found so.
+LINE 13: FIRST CLOWN.
+LINE 14: It must be _se offendendo_, it cannot be else. For here lies the point:
+LINE 15: if I drown myself wittingly, it argues an act: and an act hath three
+LINE 16: branches. It is to act, to do, and to perform: argal, she drowned
+LINE 17: herself wittingly.
+LINE 18: SECOND CLOWN.
+LINE 19: Nay, but hear you, goodman delver,—
+LINE 20: FIRST CLOWN.
+LINE 21: Give me leave. Here lies the water; good. Here stands the man; good. If
+LINE 22: the man go to this water and drown himself, it is, will he nill he, he
+LINE 23: goes,—mark you that. But if the water come to him and drown him, he
+LINE 24: drowns not himself. Argal, he that is not guilty of his own death
+LINE 25: shortens not his own life.
+LINE 26: SECOND CLOWN.
+LINE 27: But is this law?
+LINE 28: FIRST CLOWN.
+LINE 29: Ay, marry, is't, crowner's quest law.
+LINE 30: SECOND CLOWN.
+LINE 31: Will you ha' the truth on't? If this had not been a gentlewoman, she
+LINE 32: should have been buried out o' Christian burial.
+LINE 33: FIRST CLOWN.
+LINE 34: Why, there thou say'st. And the more pity that great folk should have
+LINE 35: countenance in this world to drown or hang themselves more than their
+LINE 36: even Christian. Come, my spade. There is no ancient gentlemen but
+LINE 37: gardeners, ditchers, and grave-makers: they hold up Adam's profession.
+LINE 38: SECOND CLOWN.
+LINE 39: Was he a gentleman?
+LINE 40: FIRST CLOWN.
+LINE 41: He was the first that ever bore arms.
+LINE 42: SECOND CLOWN.
+LINE 43: Why, he had none.
+LINE 44: FIRST CLOWN.
+LINE 45: What, art a heathen? How dost thou understand the Scripture? The
+LINE 46: Scripture says Adam digg'd. Could he dig without arms? I'll put another
+LINE 47: question to thee. If thou answerest me not to the purpose, confess
+LINE 48: thyself—
+LINE 49: SECOND CLOWN.
+LINE 50: Go to.
+LINE 51: FIRST CLOWN.
+LINE 52: What is he that builds stronger than either the mason, the shipwright,
+LINE 53: or the carpenter?
+LINE 54: SECOND CLOWN.
+LINE 55: The gallows-maker; for that frame outlives a thousand tenants.
+LINE 56: FIRST CLOWN.
+LINE 57: I like thy wit well in good faith, the gallows does well. But how does
+LINE 58: it well? It does well to those that do ill. Now, thou dost ill to say
+LINE 59: the gallows is built stronger than the church; argal, the gallows may
+LINE 60: do well to thee. To't again, come.
+LINE 61: SECOND CLOWN.
+LINE 62: Who builds stronger than a mason, a shipwright, or a carpenter?
+LINE 63: FIRST CLOWN.
+LINE 64: Ay, tell me that, and unyoke.
+LINE 65: SECOND CLOWN.
+LINE 66: Marry, now I can tell.
+LINE 67: FIRST CLOWN.
+LINE 68: To't.
+LINE 69: SECOND CLOWN.
+LINE 70: Mass, I cannot tell.
+LINE 71: Enter Hamlet and Horatio, at a distance.
+LINE 72: FIRST CLOWN.
+LINE 73: Cudgel thy brains no more about it, for your dull ass will not mend his
+LINE 74: pace with beating; and when you are asked this question next, say 'a
+LINE 75: grave-maker'. The houses he makes last till doomsday. Go, get thee to
+LINE 76: Yaughan; fetch me a stoup of liquor.
+LINE 77: [_Exit Second Clown._]
+LINE 78: [_Digs and sings._]
+LINE 79: In youth when I did love, did love,
+LINE 80: Methought it was very sweet;
+LINE 81: To contract, O, the time for, a, my behove,
+LINE 82: O methought there was nothing meet.
+LINE 83: HAMLET.
+LINE 84: Has this fellow no feeling of his business, that he sings at
+LINE 85: grave-making?
+LINE 86: HORATIO.
+LINE 87: Custom hath made it in him a property of easiness.
+LINE 88: HAMLET.
+LINE 89: 'Tis e'en so; the hand of little employment hath the daintier sense.
+LINE 90: FIRST CLOWN.
+LINE 91: [_Sings._]
+LINE 92: But age with his stealing steps
+LINE 93: Hath claw'd me in his clutch,
+LINE 94: And hath shipp'd me into the land,
+LINE 95: As if I had never been such.
+LINE 96: [_Throws up a skull._]
+LINE 97: HAMLET.
+LINE 98: That skull had a tongue in it, and could sing once. How the knave jowls
+LINE 99: it to th' ground, as if 'twere Cain's jawbone, that did the first
+LINE 100: murder! This might be the pate of a politician which this ass now
+LINE 101: o'er-offices, one that would circumvent God, might it not?
+LINE 102: HORATIO.
+LINE 103: It might, my lord.
+LINE 104: HAMLET.
+LINE 105: Or of a courtier, which could say 'Good morrow, sweet lord! How dost
+LINE 106: thou, good lord?' This might be my lord such-a-one, that praised my
+LINE 107: lord such-a-one's horse when he meant to beg it, might it not?
+LINE 108: HORATIO.
+LINE 109: Ay, my lord.
+LINE 110: HAMLET.
+LINE 111: Why, e'en so: and now my Lady Worm's; chapless, and knocked about the
+LINE 112: mazard with a sexton's spade. Here's fine revolution, an we had the
+LINE 113: trick to see't. Did these bones cost no more the breeding but to play
+LINE 114: at loggets with 'em? Mine ache to think on't.
+LINE 115: FIRST CLOWN.
+LINE 116: [_Sings._]
+LINE 117: A pickaxe and a spade, a spade,
+LINE 118: For and a shrouding-sheet;
+LINE 119: O, a pit of clay for to be made
+LINE 120: For such a guest is meet.
+LINE 121: [_Throws up another skull._]
+LINE 122: HAMLET.
+LINE 123: There's another. Why may not that be the skull of a lawyer? Where be
+LINE 124: his quiddits now, his quillets, his cases, his tenures, and his tricks?
+LINE 125: Why does he suffer this rude knave now to knock him about the sconce
+LINE 126: with a dirty shovel, and will not tell him of his action of battery?
+LINE 127: Hum. This fellow might be in's time a great buyer of land, with his
+LINE 128: statutes, his recognizances, his fines, his double vouchers, his
+LINE 129: recoveries. Is this the fine of his fines, and the recovery of his
+LINE 130: recoveries, to have his fine pate full of fine dirt? Will his vouchers
+LINE 131: vouch him no more of his purchases, and double ones too, than the
+LINE 132: length and breadth of a pair of indentures? The very conveyances of his
+LINE 133: lands will scarcely lie in this box; and must the inheritor himself
+LINE 134: have no more, ha?
+LINE 135: HORATIO.
+LINE 136: Not a jot more, my lord.
+LINE 137: HAMLET.
+LINE 138: Is not parchment made of sheep-skins?
+LINE 139: HORATIO.
+LINE 140: Ay, my lord, and of calf-skins too.
+LINE 141: HAMLET.
+LINE 142: They are sheep and calves which seek out assurance in that. I will
+LINE 143: speak to this fellow.—Whose grave's this, sir?
+LINE 144: FIRST CLOWN.
+LINE 145: Mine, sir.
+LINE 146: [_Sings._]
+LINE 147: O, a pit of clay for to be made
+LINE 148: For such a guest is meet.
+LINE 149: HAMLET.
+LINE 150: I think it be thine indeed, for thou liest in't.
+LINE 151: FIRST CLOWN.
+LINE 152: You lie out on't, sir, and therefore 'tis not yours.
+LINE 153: For my part, I do not lie in't, yet it is mine.
+LINE 154: HAMLET.
+LINE 155: Thou dost lie in't, to be in't and say it is thine. 'Tis for the dead,
+LINE 156: not for the quick; therefore thou liest.
+LINE 157: FIRST CLOWN.
+LINE 158: 'Tis a quick lie, sir; 't will away again from me to you.
+LINE 159: HAMLET.
+LINE 160: What man dost thou dig it for?
+LINE 161: FIRST CLOWN.
+LINE 162: For no man, sir.
+LINE 163: HAMLET.
+LINE 164: What woman then?
+LINE 165: FIRST CLOWN.
+LINE 166: For none neither.
+LINE 167: HAMLET.
+LINE 168: Who is to be buried in't?
+LINE 169: FIRST CLOWN.
+LINE 170: One that was a woman, sir; but, rest her soul, she's dead.
+LINE 171: HAMLET.
+LINE 172: How absolute the knave is! We must speak by the card, or equivocation
+LINE 173: will undo us. By the Lord, Horatio, these three years I have taken note
+LINE 174: of it, the age is grown so picked that the toe of the peasant comes so
+LINE 175: near the heel of the courtier he galls his kibe.—How long hast thou
+LINE 176: been a grave-maker?
+LINE 177: FIRST CLOWN.
+LINE 178: Of all the days i' th' year, I came to't that day that our last King
+LINE 179: Hamlet o'ercame Fortinbras.
+LINE 180: HAMLET.
+LINE 181: How long is that since?
+LINE 182: FIRST CLOWN.
+LINE 183: Cannot you tell that? Every fool can tell that. It was the very day
+LINE 184: that young Hamlet was born,—he that is mad, and sent into England.
+LINE 185: HAMLET.
+LINE 186: Ay, marry, why was he sent into England?
+LINE 187: FIRST CLOWN.
+LINE 188: Why, because he was mad; he shall recover his wits there; or if he do
+LINE 189: not, it's no great matter there.
+LINE 190: HAMLET.
+LINE 191: Why?
+LINE 192: FIRST CLOWN.
+LINE 193: 'Twill not be seen in him there; there the men are as mad as he.
+LINE 194: HAMLET.
+LINE 195: How came he mad?
+LINE 196: FIRST CLOWN.
+LINE 197: Very strangely, they say.
+LINE 198: HAMLET.
+LINE 199: How strangely?
+LINE 200: FIRST CLOWN.
+LINE 201: Faith, e'en with losing his wits.
+LINE 202: HAMLET.
+LINE 203: Upon what ground?
+LINE 204: FIRST CLOWN.
+LINE 205: Why, here in Denmark. I have been sexton here, man and boy, thirty
+LINE 206: years.
+LINE 207: HAMLET.
+LINE 208: How long will a man lie i' th'earth ere he rot?
+LINE 209: FIRST CLOWN.
+LINE 210: Faith, if he be not rotten before he die,—as we have many pocky corses
+LINE 211: nowadays that will scarce hold the laying in,—he will last you some
+LINE 212: eight year or nine year. A tanner will last you nine year.
+LINE 213: HAMLET.
+LINE 214: Why he more than another?
+LINE 215: FIRST CLOWN.
+LINE 216: Why, sir, his hide is so tann'd with his trade that he will keep out
+LINE 217: water a great while. And your water is a sore decayer of your whoreson
+LINE 218: dead body. Here's a skull now; this skull hath lain in the earth
+LINE 219: three-and-twenty years.
+LINE 220: HAMLET.
+LINE 221: Whose was it?
+LINE 222: FIRST CLOWN.
+LINE 223: A whoreson, mad fellow's it was. Whose do you think it was?
+LINE 224: HAMLET.
+LINE 225: Nay, I know not.
+LINE 226: FIRST CLOWN.
+LINE 227: A pestilence on him for a mad rogue! A pour'd a flagon of Rhenish on my
+LINE 228: head once. This same skull, sir, was Yorick's skull, the King's jester.
+LINE 229: HAMLET.
+LINE 230: This?
+LINE 231: FIRST CLOWN.
+LINE 232: E'en that.
+LINE 233: HAMLET.
+LINE 234: Let me see. [_Takes the skull._] Alas, poor Yorick. I knew him,
+LINE 235: Horatio, a fellow of infinite jest, of most excellent fancy. He hath
+LINE 236: borne me on his back a thousand times; and now, how abhorred in my
+LINE 237: imagination it is! My gorge rises at it. Here hung those lips that I
+LINE 238: have kiss'd I know not how oft. Where be your gibes now? your gambols?
+LINE 239: your songs? your flashes of merriment, that were wont to set the table
+LINE 240: on a roar? Not one now, to mock your own grinning? Quite chop-fallen?
+LINE 241: Now get you to my lady's chamber, and tell her, let her paint an inch
+LINE 242: thick, to this favour she must come. Make her laugh at that.—Prithee,
+LINE 243: Horatio, tell me one thing.
+LINE 244: HORATIO.
+LINE 245: What's that, my lord?
+LINE 246: HAMLET.
+LINE 247: Dost thou think Alexander looked o' this fashion i' th'earth?
+LINE 248: HORATIO.
+LINE 249: E'en so.
+LINE 250: HAMLET.
+LINE 251: And smelt so? Pah!
+LINE 252: [_Throws down the skull._]
+LINE 253: HORATIO.
+LINE 254: E'en so, my lord.
+LINE 255: HAMLET.
+LINE 256: To what base uses we may return, Horatio! Why may not imagination trace
+LINE 257: the noble dust of Alexander till he find it stopping a bung-hole?
+LINE 258: HORATIO.
+LINE 259: 'Twere to consider too curiously to consider so.
+LINE 260: HAMLET.
+LINE 261: No, faith, not a jot. But to follow him thither with modesty enough,
+LINE 262: and likelihood to lead it; as thus. Alexander died, Alexander was
+LINE 263: buried, Alexander returneth into dust; the dust is earth; of earth we
+LINE 264: make loam; and why of that loam whereto he was converted might they not
+LINE 265: stop a beer-barrel?
+LINE 266: Imperious Caesar, dead and turn'd to clay,
+LINE 267: Might stop a hole to keep the wind away.
+LINE 268: O, that that earth which kept the world in awe
+LINE 269: Should patch a wall t'expel the winter's flaw.
+LINE 270: But soft! but soft! aside! Here comes the King.
+LINE 271: Enter priests, &c, in procession; the corpse of Ophelia, Laertes and
+LINE 272: Mourners following; King, Queen, their Trains, &c.
+LINE 273: The Queen, the courtiers. Who is that they follow?
+LINE 274: And with such maimed rites? This doth betoken
+LINE 275: The corse they follow did with desperate hand
+LINE 276: Fordo it own life. 'Twas of some estate.
+LINE 277: Couch we awhile and mark.
+LINE 278: [_Retiring with Horatio._]
+LINE 279: LAERTES.
+LINE 280: What ceremony else?
+LINE 281: HAMLET.
+LINE 282: That is Laertes, a very noble youth. Mark.
+LINE 283: LAERTES.
+LINE 284: What ceremony else?
+LINE 285: PRIEST.
+LINE 286: Her obsequies have been as far enlarg'd
+LINE 287: As we have warranties. Her death was doubtful;
+LINE 288: And but that great command o'ersways the order,
+LINE 289: She should in ground unsanctified have lodg'd
+LINE 290: Till the last trumpet. For charitable prayers,
+LINE 291: Shards, flints, and pebbles should be thrown on her.
+LINE 292: Yet here she is allowed her virgin rites,
+LINE 293: Her maiden strewments, and the bringing home
+LINE 294: Of bell and burial.
+LINE 295: LAERTES.
+LINE 296: Must there no more be done?
+LINE 297: PRIEST.
+LINE 298: No more be done.
+LINE 299: We should profane the service of the dead
+LINE 300: To sing sage requiem and such rest to her
+LINE 301: As to peace-parted souls.
+LINE 302: LAERTES.
+LINE 303: Lay her i' th'earth,
+LINE 304: And from her fair and unpolluted flesh
+LINE 305: May violets spring. I tell thee, churlish priest,
+LINE 306: A minist'ring angel shall my sister be
+LINE 307: When thou liest howling.
+LINE 308: HAMLET.
+LINE 309: What, the fair Ophelia?
+LINE 310: QUEEN.
+LINE 311: [_Scattering flowers._] Sweets to the sweet. Farewell.
+LINE 312: I hop'd thou shouldst have been my Hamlet's wife;
+LINE 313: I thought thy bride-bed to have deck'd, sweet maid,
+LINE 314: And not have strew'd thy grave.
+LINE 315: LAERTES.
+LINE 316: O, treble woe
+LINE 317: Fall ten times treble on that cursed head
+LINE 318: Whose wicked deed thy most ingenious sense
+LINE 319: Depriv'd thee of. Hold off the earth a while,
+LINE 320: Till I have caught her once more in mine arms.
+LINE 321: [_Leaps into the grave._]
+LINE 322: Now pile your dust upon the quick and dead,
+LINE 323: Till of this flat a mountain you have made,
+LINE 324: To o'ertop old Pelion or the skyish head
+LINE 325: Of blue Olympus.
+LINE 326: HAMLET.
+LINE 327: [_Advancing._]
+LINE 328: What is he whose grief
+LINE 329: Bears such an emphasis? whose phrase of sorrow
+LINE 330: Conjures the wand'ring stars, and makes them stand
+LINE 331: Like wonder-wounded hearers? This is I,
+LINE 332: Hamlet the Dane.
+LINE 333: [_Leaps into the grave._]
+LINE 334: LAERTES.
+LINE 335: [_Grappling with him._] The devil take thy soul!
+LINE 336: HAMLET.
+LINE 337: Thou pray'st not well.
+LINE 338: I prithee take thy fingers from my throat;
+LINE 339: For though I am not splenative and rash,
+LINE 340: Yet have I in me something dangerous,
+LINE 341: Which let thy wiseness fear. Away thy hand!
+LINE 342: KING.
+LINE 343: Pluck them asunder.
+LINE 344: QUEEN.
+LINE 345: Hamlet! Hamlet!
+LINE 346: All.
+LINE 347: Gentlemen!
+LINE 348: HORATIO.
+LINE 349: Good my lord, be quiet.
+LINE 350: [_The Attendants part them, and they come out of the grave._]
+LINE 351: HAMLET.
+LINE 352: Why, I will fight with him upon this theme
+LINE 353: Until my eyelids will no longer wag.
+LINE 354: QUEEN.
+LINE 355: O my son, what theme?
+LINE 356: HAMLET.
+LINE 357: I lov'd Ophelia; forty thousand brothers
+LINE 358: Could not, with all their quantity of love,
+LINE 359: Make up my sum. What wilt thou do for her?
+LINE 360: KING.
+LINE 361: O, he is mad, Laertes.
+LINE 362: QUEEN.
+LINE 363: For love of God forbear him!
+LINE 364: HAMLET.
+LINE 365: 'Swounds, show me what thou'lt do:
+LINE 366: Woul't weep? woul't fight? woul't fast? woul't tear thyself?
+LINE 367: Woul't drink up eisel? eat a crocodile?
+LINE 368: I'll do't. Dost thou come here to whine?
+LINE 369: To outface me with leaping in her grave?
+LINE 370: Be buried quick with her, and so will I.
+LINE 371: And if thou prate of mountains, let them throw
+LINE 372: Millions of acres on us, till our ground,
+LINE 373: Singeing his pate against the burning zone,
+LINE 374: Make Ossa like a wart. Nay, an thou'lt mouth,
+LINE 375: I'll rant as well as thou.
+LINE 376: QUEEN.
+LINE 377: This is mere madness:
+LINE 378: And thus awhile the fit will work on him;
+LINE 379: Anon, as patient as the female dove,
+LINE 380: When that her golden couplets are disclos'd,
+LINE 381: His silence will sit drooping.
+LINE 382: HAMLET.
+LINE 383: Hear you, sir;
+LINE 384: What is the reason that you use me thus?
+LINE 385: I lov'd you ever. But it is no matter.
+LINE 386: Let Hercules himself do what he may,
+LINE 387: The cat will mew, and dog will have his day.
+LINE 388: [_Exit._]
+LINE 389: KING.
+LINE 390: I pray thee, good Horatio, wait upon him.
+LINE 391: [_Exit Horatio._]
+LINE 392: [_To Laertes_]
+LINE 393: Strengthen your patience in our last night's speech;
+LINE 394: We'll put the matter to the present push.—
+LINE 395: Good Gertrude, set some watch over your son.
+LINE 396: This grave shall have a living monument.
+LINE 397: An hour of quiet shortly shall we see;
+LINE 398: Till then in patience our proceeding be.
+LINE 399: [_Exeunt._]
+LINE 400: SCENE II. A hall in the Castle.
+LINE 401: Enter Hamlet and Horatio.
+LINE 402: HAMLET.
+LINE 403: So much for this, sir. Now let me see the other;
+LINE 404: You do remember all the circumstance?
+LINE 405: HORATIO.
+LINE 406: Remember it, my lord!
+LINE 407: HAMLET.
+LINE 408: Sir, in my heart there was a kind of fighting
+LINE 409: That would not let me sleep. Methought I lay
+LINE 410: Worse than the mutinies in the bilboes. Rashly,
+LINE 411: And prais'd be rashness for it,—let us know,
+LINE 412: Our indiscretion sometime serves us well,
+LINE 413: When our deep plots do pall; and that should teach us
+LINE 414: There's a divinity that shapes our ends,
+LINE 415: Rough-hew them how we will.
+LINE 416: HORATIO.
+LINE 417: That is most certain.
+LINE 418: HAMLET.
+LINE 419: Up from my cabin,
+LINE 420: My sea-gown scarf'd about me, in the dark
+LINE 421: Grop'd I to find out them; had my desire,
+LINE 422: Finger'd their packet, and in fine, withdrew
+LINE 423: To mine own room again, making so bold,
+LINE 424: My fears forgetting manners, to unseal
+LINE 425: Their grand commission; where I found, Horatio,
+LINE 426: Oh royal knavery! an exact command,
+LINE 427: Larded with many several sorts of reasons,
+LINE 428: Importing Denmark's health, and England's too,
+LINE 429: With ho! such bugs and goblins in my life,
+LINE 430: That on the supervise, no leisure bated,
+LINE 431: No, not to stay the grinding of the axe,
+LINE 432: My head should be struck off.
+LINE 433: HORATIO.
+LINE 434: Is't possible?
+LINE 435: HAMLET.
+LINE 436: Here's the commission, read it at more leisure.
+LINE 437: But wilt thou hear me how I did proceed?
+LINE 438: HORATIO.
+LINE 439: I beseech you.
+LINE 440: HAMLET.
+LINE 441: Being thus benetted round with villanies,—
+LINE 442: Or I could make a prologue to my brains,
+LINE 443: They had begun the play,—I sat me down,
+LINE 444: Devis'd a new commission, wrote it fair:
+LINE 445: I once did hold it, as our statists do,
+LINE 446: A baseness to write fair, and labour'd much
+LINE 447: How to forget that learning; but, sir, now
+LINE 448: It did me yeoman's service. Wilt thou know
+LINE 449: The effect of what I wrote?
+LINE 450: HORATIO.
+LINE 451: Ay, good my lord.
+LINE 452: HAMLET.
+LINE 453: An earnest conjuration from the King,
+LINE 454: As England was his faithful tributary,
+LINE 455: As love between them like the palm might flourish,
+LINE 456: As peace should still her wheaten garland wear
+LINE 457: And stand a comma 'tween their amities,
+LINE 458: And many such-like 'as'es of great charge,
+LINE 459: That on the view and know of these contents,
+LINE 460: Without debatement further, more or less,
+LINE 461: He should the bearers put to sudden death,
+LINE 462: Not shriving-time allow'd.
+LINE 463: HORATIO.
+LINE 464: How was this seal'd?
+LINE 465: HAMLET.
+LINE 466: Why, even in that was heaven ordinant.
+LINE 467: I had my father's signet in my purse,
+LINE 468: Which was the model of that Danish seal:
+LINE 469: Folded the writ up in the form of the other,
+LINE 470: Subscrib'd it: gave't th'impression; plac'd it safely,
+LINE 471: The changeling never known. Now, the next day
+LINE 472: Was our sea-fight, and what to this was sequent
+LINE 473: Thou know'st already.
+LINE 474: HORATIO.
+LINE 475: So Guildenstern and Rosencrantz go to't.
+LINE 476: HAMLET.
+LINE 477: Why, man, they did make love to this employment.
+LINE 478: They are not near my conscience; their defeat
+LINE 479: Does by their own insinuation grow.
+LINE 480: 'Tis dangerous when the baser nature comes
+LINE 481: Between the pass and fell incensed points
+LINE 482: Of mighty opposites.
+LINE 483: HORATIO.
+LINE 484: Why, what a king is this!
+LINE 485: HAMLET.
+LINE 486: Does it not, thinks't thee, stand me now upon,—
+LINE 487: He that hath kill'd my king, and whor'd my mother,
+LINE 488: Popp'd in between th'election and my hopes,
+LINE 489: Thrown out his angle for my proper life,
+LINE 490: And with such cozenage—is't not perfect conscience
+LINE 491: To quit him with this arm? And is't not to be damn'd
+LINE 492: To let this canker of our nature come
+LINE 493: In further evil?
+LINE 494: HORATIO.
+LINE 495: It must be shortly known to him from England
+LINE 496: What is the issue of the business there.
+LINE 497: HAMLET.
+LINE 498: It will be short. The interim is mine;
+LINE 499: And a man's life's no more than to say 'One'.
+LINE 500: But I am very sorry, good Horatio,
+LINE 501: That to Laertes I forgot myself;
+LINE 502: For by the image of my cause I see
+LINE 503: The portraiture of his. I'll court his favours.
+LINE 504: But sure the bravery of his grief did put me
+LINE 505: Into a tow'ring passion.
+LINE 506: HORATIO.
+LINE 507: Peace, who comes here?
+LINE 508: Enter Osric.
+LINE 509: OSRIC.
+LINE 510: Your lordship is right welcome back to Denmark.
+LINE 511: HAMLET.
+LINE 512: I humbly thank you, sir. Dost know this waterfly?
+LINE 513: HORATIO.
+LINE 514: No, my good lord.
+LINE 515: HAMLET.
+LINE 516: Thy state is the more gracious; for 'tis a vice to know him. He hath
+LINE 517: much land, and fertile; let a beast be lord of beasts, and his crib
+LINE 518: shall stand at the king's mess; 'tis a chough; but, as I say, spacious
+LINE 519: in the possession of dirt.
+LINE 520: OSRIC.
+LINE 521: Sweet lord, if your lordship were at leisure, I should impart a thing
+LINE 522: to you from his Majesty.
+LINE 523: HAMLET.
+LINE 524: I will receive it with all diligence of spirit. Put your bonnet to his
+LINE 525: right use; 'tis for the head.
+LINE 526: OSRIC.
+LINE 527: I thank your lordship, 'tis very hot.
+LINE 528: HAMLET.
+LINE 529: No, believe me, 'tis very cold, the wind is northerly.
+LINE 530: OSRIC.
+LINE 531: It is indifferent cold, my lord, indeed.
+LINE 532: HAMLET.
+LINE 533: Methinks it is very sultry and hot for my complexion.
+LINE 534: OSRIC.
+LINE 535: Exceedingly, my lord; it is very sultry,—as 'twere—I cannot tell how.
+LINE 536: But, my lord, his Majesty bade me signify to you that he has laid a
+LINE 537: great wager on your head. Sir, this is the matter,—
+LINE 538: HAMLET.
+LINE 539: I beseech you, remember,—
+LINE 540: [_Hamlet moves him to put on his hat._]
+LINE 541: OSRIC.
+LINE 542: Nay, in good faith; for mine ease, in good faith. Sir, here is newly
+LINE 543: come to court Laertes; believe me, an absolute gentleman, full of most
+LINE 544: excellent differences, of very soft society and great showing. Indeed,
+LINE 545: to speak feelingly of him, he is the card or calendar of gentry; for
+LINE 546: you shall find in him the continent of what part a gentleman would see.
+LINE 547: HAMLET.
+LINE 548: Sir, his definement suffers no perdition in you, though I know, to
+LINE 549: divide him inventorially would dizzy th'arithmetic of memory, and yet
+LINE 550: but yaw neither, in respect of his quick sail. But, in the verity of
+LINE 551: extolment, I take him to be a soul of great article and his infusion of
+LINE 552: such dearth and rareness as, to make true diction of him, his semblable
+LINE 553: is his mirror and who else would trace him his umbrage, nothing more.
+LINE 554: OSRIC.
+LINE 555: Your lordship speaks most infallibly of him.
+LINE 556: HAMLET.
+LINE 557: The concernancy, sir? Why do we wrap the gentleman in our more rawer
+LINE 558: breath?
+LINE 559: OSRIC.
+LINE 560: Sir?
+LINE 561: HORATIO.
+LINE 562: Is't not possible to understand in another tongue? You will do't, sir,
+LINE 563: really.
+LINE 564: HAMLET.
+LINE 565: What imports the nomination of this gentleman?
+LINE 566: OSRIC.
+LINE 567: Of Laertes?
+LINE 568: HORATIO.
+LINE 569: His purse is empty already, all's golden words are spent.
+LINE 570: HAMLET.
+LINE 571: Of him, sir.
+LINE 572: OSRIC.
+LINE 573: I know you are not ignorant,—
+LINE 574: HAMLET.
+LINE 575: I would you did, sir; yet in faith if you did, it would not much
+LINE 576: approve me. Well, sir?
+LINE 577: OSRIC.
+LINE 578: You are not ignorant of what excellence Laertes is,—
+LINE 579: HAMLET.
+LINE 580: I dare not confess that, lest I should compare with him in excellence;
+LINE 581: but to know a man well were to know himself.
+LINE 582: OSRIC.
+LINE 583: I mean, sir, for his weapon; but in the imputation laid on him, by them
+LINE 584: in his meed he's unfellowed.
+LINE 585: HAMLET.
+LINE 586: What's his weapon?
+LINE 587: OSRIC.
+LINE 588: Rapier and dagger.
+LINE 589: HAMLET.
+LINE 590: That's two of his weapons. But well.
+LINE 591: OSRIC.
+LINE 592: The King, sir, hath wager'd with him six Barbary horses, against the
+LINE 593: which he has imponed, as I take it, six French rapiers and poniards,
+LINE 594: with their assigns, as girdle, hangers, and so. Three of the carriages,
+LINE 595: in faith, are very dear to fancy, very responsive to the hilts, most
+LINE 596: delicate carriages, and of very liberal conceit.
+LINE 597: HAMLET.
+LINE 598: What call you the carriages?
+LINE 599: HORATIO.
+LINE 600: I knew you must be edified by the margin ere you had done.
+LINE 601: OSRIC.
+LINE 602: The carriages, sir, are the hangers.
+LINE 603: HAMLET.
+LINE 604: The phrase would be more german to the matter if we could carry cannon
+LINE 605: by our sides. I would it might be hangers till then. But on. Six
+LINE 606: Barbary horses against six French swords, their assigns, and three
+LINE 607: liberal conceited carriages: that's the French bet against the Danish.
+LINE 608: Why is this all imponed, as you call it?
+LINE 609: OSRIC.
+LINE 610: The King, sir, hath laid that in a dozen passes between you and him, he
+LINE 611: shall not exceed you three hits. He hath laid on twelve for nine. And
+LINE 612: it would come to immediate trial if your lordship would vouchsafe the
+LINE 613: answer.
+LINE 614: HAMLET.
+LINE 615: How if I answer no?
+LINE 616: OSRIC.
+LINE 617: I mean, my lord, the opposition of your person in trial.
+LINE 618: HAMLET.
+LINE 619: Sir, I will walk here in the hall. If it please his Majesty, it is the
+LINE 620: breathing time of day with me. Let the foils be brought, the gentleman
+LINE 621: willing, and the King hold his purpose, I will win for him if I can; if
+LINE 622: not, I will gain nothing but my shame and the odd hits.
+LINE 623: OSRIC.
+LINE 624: Shall I re-deliver you e'en so?
+LINE 625: HAMLET.
+LINE 626: To this effect, sir; after what flourish your nature will.
+LINE 627: OSRIC.
+LINE 628: I commend my duty to your lordship.
+LINE 629: HAMLET.
+LINE 630: Yours, yours.
+LINE 631: [_Exit Osric._]
+LINE 632: He does well to commend it himself, there are no tongues else for's
+LINE 633: turn.
+LINE 634: HORATIO.
+LINE 635: This lapwing runs away with the shell on his head.
+LINE 636: HAMLET.
+LINE 637: He did comply with his dug before he suck'd it. Thus has he,—and many
+LINE 638: more of the same bevy that I know the drossy age dotes on,— only got
+LINE 639: the tune of the time and outward habit of encounter; a kind of yeasty
+LINE 640: collection, which carries them through and through the most fanned and
+LINE 641: winnowed opinions; and do but blow them to their trial, the bubbles are
+LINE 642: out.
+LINE 643: Enter a Lord.
+LINE 644: LORD.
+LINE 645: My lord, his Majesty commended him to you by young Osric, who brings
+LINE 646: back to him that you attend him in the hall. He sends to know if your
+LINE 647: pleasure hold to play with Laertes or that you will take longer time.
+LINE 648: HAMLET.
+LINE 649: I am constant to my purposes, they follow the King's pleasure. If his
+LINE 650: fitness speaks, mine is ready. Now or whensoever, provided I be so able
+LINE 651: as now.
+LINE 652: LORD.
+LINE 653: The King and Queen and all are coming down.
+LINE 654: HAMLET.
+LINE 655: In happy time.
+LINE 656: LORD.
+LINE 657: The Queen desires you to use some gentle entertainment to Laertes
+LINE 658: before you fall to play.
+LINE 659: HAMLET.
+LINE 660: She well instructs me.
+LINE 661: [_Exit Lord._]
+LINE 662: HORATIO.
+LINE 663: You will lose this wager, my lord.
+LINE 664: HAMLET.
+LINE 665: I do not think so. Since he went into France, I have been in continual
+LINE 666: practice. I shall win at the odds. But thou wouldst not think how ill
+LINE 667: all's here about my heart: but it is no matter.
+LINE 668: HORATIO.
+LINE 669: Nay, good my lord.
+LINE 670: HAMLET.
+LINE 671: It is but foolery; but it is such a kind of gain-giving as would
+LINE 672: perhaps trouble a woman.
+LINE 673: HORATIO.
+LINE 674: If your mind dislike anything, obey it. I will forestall their repair
+LINE 675: hither, and say you are not fit.
+LINE 676: HAMLET.
+LINE 677: Not a whit, we defy augury. There's a special providence in the fall of
+LINE 678: a sparrow. If it be now, 'tis not to come; if it be not to come, it
+LINE 679: will be now; if it be not now, yet it will come. The readiness is all.
+LINE 680: Since no man has aught of what he leaves, what is't to leave betimes?
+LINE 681: Enter King, Queen, Laertes, Lords, Osric and Attendants with foils &c.
+LINE 682: KING.
+LINE 683: Come, Hamlet, come, and take this hand from me.
+LINE 684: [_The King puts Laertes's hand into Hamlet's._]
+LINE 685: HAMLET.
+LINE 686: Give me your pardon, sir. I have done you wrong;
+LINE 687: But pardon't as you are a gentleman.
+LINE 688: This presence knows, and you must needs have heard,
+LINE 689: How I am punish'd with sore distraction.
+LINE 690: What I have done
+LINE 691: That might your nature, honour, and exception
+LINE 692: Roughly awake, I here proclaim was madness.
+LINE 693: Was't Hamlet wrong'd Laertes? Never Hamlet.
+LINE 694: If Hamlet from himself be ta'en away,
+LINE 695: And when he's not himself does wrong Laertes,
+LINE 696: Then Hamlet does it not, Hamlet denies it.
+LINE 697: Who does it, then? His madness. If't be so,
+LINE 698: Hamlet is of the faction that is wrong'd;
+LINE 699: His madness is poor Hamlet's enemy.
+LINE 700: Sir, in this audience,
+LINE 701: Let my disclaiming from a purpos'd evil
+LINE 702: Free me so far in your most generous thoughts
+LINE 703: That I have shot my arrow o'er the house
+LINE 704: And hurt my brother.
+LINE 705: LAERTES.
+LINE 706: I am satisfied in nature,
+LINE 707: Whose motive in this case should stir me most
+LINE 708: To my revenge. But in my terms of honour
+LINE 709: I stand aloof, and will no reconcilement
+LINE 710: Till by some elder masters of known honour
+LINE 711: I have a voice and precedent of peace
+LINE 712: To keep my name ungor'd. But till that time
+LINE 713: I do receive your offer'd love like love,
+LINE 714: And will not wrong it.
+LINE 715: HAMLET.
+LINE 716: I embrace it freely,
+LINE 717: And will this brother's wager frankly play.—
+LINE 718: Give us the foils; come on.
+LINE 719: LAERTES.
+LINE 720: Come, one for me.
+LINE 721: HAMLET.
+LINE 722: I'll be your foil, Laertes; in mine ignorance
+LINE 723: Your skill shall like a star i' th' darkest night,
+LINE 724: Stick fiery off indeed.
+LINE 725: LAERTES.
+LINE 726: You mock me, sir.
+LINE 727: HAMLET.
+LINE 728: No, by this hand.
+LINE 729: KING.
+LINE 730: Give them the foils, young Osric. Cousin Hamlet,
+LINE 731: You know the wager?
+LINE 732: HAMLET.
+LINE 733: Very well, my lord.
+LINE 734: Your Grace has laid the odds o' the weaker side.
+LINE 735: KING.
+LINE 736: I do not fear it. I have seen you both;
+LINE 737: But since he is better'd, we have therefore odds.
+LINE 738: LAERTES.
+LINE 739: This is too heavy. Let me see another.
+LINE 740: HAMLET.
+LINE 741: This likes me well. These foils have all a length?
+LINE 742: [_They prepare to play._]
+LINE 743: OSRIC.
+LINE 744: Ay, my good lord.
+LINE 745: KING.
+LINE 746: Set me the stoups of wine upon that table.
+LINE 747: If Hamlet give the first or second hit,
+LINE 748: Or quit in answer of the third exchange,
+LINE 749: Let all the battlements their ordnance fire;
+LINE 750: The King shall drink to Hamlet's better breath,
+LINE 751: And in the cup an union shall he throw
+LINE 752: Richer than that which four successive kings
+LINE 753: In Denmark's crown have worn. Give me the cups;
+LINE 754: And let the kettle to the trumpet speak,
+LINE 755: The trumpet to the cannoneer without,
+LINE 756: The cannons to the heavens, the heavens to earth,
+LINE 757: 'Now the King drinks to Hamlet.' Come, begin.
+LINE 758: And you, the judges, bear a wary eye.
+LINE 759: HAMLET.
+LINE 760: Come on, sir.
+LINE 761: LAERTES.
+LINE 762: Come, my lord.
+LINE 763: [_They play._]
+LINE 764: HAMLET.
+LINE 765: One.
+LINE 766: LAERTES.
+LINE 767: No.
+LINE 768: HAMLET.
+LINE 769: Judgement.
+LINE 770: OSRIC.
+LINE 771: A hit, a very palpable hit.
+LINE 772: LAERTES.
+LINE 773: Well; again.
+LINE 774: KING.
+LINE 775: Stay, give me drink. Hamlet, this pearl is thine;
+LINE 776: Here's to thy health.
+LINE 777: [_Trumpets sound, and cannon shot off within._]
+LINE 778: Give him the cup.
+LINE 779: HAMLET.
+LINE 780: I'll play this bout first; set it by awhile.
+LINE 781: [_They play._]
+LINE 782: Come. Another hit; what say you?
+LINE 783: LAERTES.
+LINE 784: A touch, a touch, I do confess.
+LINE 785: KING.
+LINE 786: Our son shall win.
+LINE 787: QUEEN.
+LINE 788: He's fat, and scant of breath.
+LINE 789: Here, Hamlet, take my napkin, rub thy brows.
+LINE 790: The Queen carouses to thy fortune, Hamlet.
+LINE 791: HAMLET.
+LINE 792: Good madam.
+LINE 793: KING.
+LINE 794: Gertrude, do not drink.
+LINE 795: QUEEN.
+LINE 796: I will, my lord; I pray you pardon me.
+LINE 797: KING.
+LINE 798: [_Aside._] It is the poison'd cup; it is too late.
+LINE 799: HAMLET.
+LINE 800: I dare not drink yet, madam. By and by.
+LINE 801: QUEEN.
+LINE 802: Come, let me wipe thy face.
+LINE 803: LAERTES.
+LINE 804: My lord, I'll hit him now.
+LINE 805: KING.
+LINE 806: I do not think't.
+LINE 807: LAERTES.
+LINE 808: [_Aside._] And yet 'tis almost 'gainst my conscience.
+LINE 809: HAMLET.
+LINE 810: Come for the third, Laertes. You do but dally.
+LINE 811: I pray you pass with your best violence.
+LINE 812: I am afeard you make a wanton of me.
+LINE 813: LAERTES.
+LINE 814: Say you so? Come on.
+LINE 815: [_They play._]
+LINE 816: OSRIC.
+LINE 817: Nothing neither way.
+LINE 818: LAERTES.
+LINE 819: Have at you now.
+LINE 820: [_Laertes wounds Hamlet; then, in scuffling, they change rapiers, and
+LINE 821: Hamlet wounds Laertes._]
+LINE 822: KING.
+LINE 823: Part them; they are incens'd.
+LINE 824: HAMLET.
+LINE 825: Nay, come again!
+LINE 826: [_The Queen falls._]
+LINE 827: OSRIC.
+LINE 828: Look to the Queen there, ho!
+LINE 829: HORATIO.
+LINE 830: They bleed on both sides. How is it, my lord?
+LINE 831: OSRIC.
+LINE 832: How is't, Laertes?
+LINE 833: LAERTES.
+LINE 834: Why, as a woodcock to my own springe, Osric.
+LINE 835: I am justly kill'd with mine own treachery.
+LINE 836: HAMLET.
+LINE 837: How does the Queen?
+LINE 838: KING.
+LINE 839: She swoons to see them bleed.
+LINE 840: QUEEN.
+LINE 841: No, no, the drink, the drink! O my dear Hamlet!
+LINE 842: The drink, the drink! I am poison'd.
+LINE 843: [_Dies._]
+LINE 844: HAMLET.
+LINE 845: O villany! Ho! Let the door be lock'd:
+LINE 846: Treachery! Seek it out.
+LINE 847: [_Laertes falls._]
+LINE 848: LAERTES.
+LINE 849: It is here, Hamlet. Hamlet, thou art slain.
+LINE 850: No medicine in the world can do thee good.
+LINE 851: In thee there is not half an hour of life;
+LINE 852: The treacherous instrument is in thy hand,
+LINE 853: Unbated and envenom'd. The foul practice
+LINE 854: Hath turn'd itself on me. Lo, here I lie,
+LINE 855: Never to rise again. Thy mother's poison'd.
+LINE 856: I can no more. The King, the King's to blame.
+LINE 857: HAMLET.
+LINE 858: The point envenom'd too!
+LINE 859: Then, venom, to thy work.
+LINE 860: [_Stabs the King._]
+LINE 861: OSRIC and LORDS.
+LINE 862: Treason! treason!
+LINE 863: KING.
+LINE 864: O yet defend me, friends. I am but hurt.
+LINE 865: HAMLET.
+LINE 866: Here, thou incestuous, murderous, damned Dane,
+LINE 867: Drink off this potion. Is thy union here?
+LINE 868: Follow my mother.
+LINE 869: [_King dies._]
+LINE 870: LAERTES.
+LINE 871: He is justly serv'd.
+LINE 872: It is a poison temper'd by himself.
+LINE 873: Exchange forgiveness with me, noble Hamlet.
+LINE 874: Mine and my father's death come not upon thee,
+LINE 875: Nor thine on me.
+LINE 876: [_Dies._]
+LINE 877: HAMLET.
+LINE 878: Heaven make thee free of it! I follow thee.
+LINE 879: I am dead, Horatio. Wretched Queen, adieu.
+LINE 880: You that look pale and tremble at this chance,
+LINE 881: That are but mutes or audience to this act,
+LINE 882: Had I but time,—as this fell sergeant, death,
+LINE 883: Is strict in his arrest,—O, I could tell you,—
+LINE 884: But let it be. Horatio, I am dead,
+LINE 885: Thou liv'st; report me and my cause aright
+LINE 886: To the unsatisfied.
+LINE 887: HORATIO.
+LINE 888: Never believe it.
+LINE 889: I am more an antique Roman than a Dane.
+LINE 890: Here's yet some liquor left.
+LINE 891: HAMLET.
+LINE 892: As th'art a man,
+LINE 893: Give me the cup. Let go; by Heaven, I'll have't.
+LINE 894: O good Horatio, what a wounded name,
+LINE 895: Things standing thus unknown, shall live behind me.
+LINE 896: If thou didst ever hold me in thy heart,
+LINE 897: Absent thee from felicity awhile,
+LINE 898: And in this harsh world draw thy breath in pain,
+LINE 899: To tell my story.
+LINE 900: [_March afar off, and shot within._]
+LINE 901: What warlike noise is this?
+LINE 902: OSRIC.
+LINE 903: Young Fortinbras, with conquest come from Poland,
+LINE 904: To the ambassadors of England gives
+LINE 905: This warlike volley.
+LINE 906: HAMLET.
+LINE 907: O, I die, Horatio.
+LINE 908: The potent poison quite o'er-crows my spirit:
+LINE 909: I cannot live to hear the news from England,
+LINE 910: But I do prophesy th'election lights
+LINE 911: On Fortinbras. He has my dying voice.
+LINE 912: So tell him, with the occurrents more and less,
+LINE 913: Which have solicited. The rest is silence.
+LINE 914: [_Dies._]
+LINE 915: HORATIO.
+LINE 916: Now cracks a noble heart. Good night, sweet prince,
+LINE 917: And flights of angels sing thee to thy rest.
+LINE 918: Why does the drum come hither?
+LINE 919: [_March within._]
+LINE 920: Enter Fortinbras, the English Ambassadors and others.
+LINE 921: FORTINBRAS.
+LINE 922: Where is this sight?
+LINE 923: HORATIO.
+LINE 924: What is it you would see?
+LINE 925: If aught of woe or wonder, cease your search.
+LINE 926: FORTINBRAS.
+LINE 927: This quarry cries on havoc. O proud death,
+LINE 928: What feast is toward in thine eternal cell,
+LINE 929: That thou so many princes at a shot
+LINE 930: So bloodily hast struck?
+LINE 931: FIRST AMBASSADOR.
+LINE 932: The sight is dismal;
+LINE 933: And our affairs from England come too late.
+LINE 934: The ears are senseless that should give us hearing,
+LINE 935: To tell him his commandment is fulfill'd,
+LINE 936: That Rosencrantz and Guildenstern are dead.
+LINE 937: Where should we have our thanks?
+LINE 938: HORATIO.
+LINE 939: Not from his mouth,
+LINE 940: Had it th'ability of life to thank you.
+LINE 941: He never gave commandment for their death.
+LINE 942: But since, so jump upon this bloody question,
+LINE 943: You from the Polack wars, and you from England
+LINE 944: Are here arriv'd, give order that these bodies
+LINE 945: High on a stage be placed to the view,
+LINE 946: And let me speak to th' yet unknowing world
+LINE 947: How these things came about. So shall you hear
+LINE 948: Of carnal, bloody and unnatural acts,
+LINE 949: Of accidental judgements, casual slaughters,
+LINE 950: Of deaths put on by cunning and forc'd cause,
+LINE 951: And, in this upshot, purposes mistook
+LINE 952: Fall'n on the inventors' heads. All this can I
+LINE 953: Truly deliver.
+LINE 954: FORTINBRAS.
+LINE 955: Let us haste to hear it,
+LINE 956: And call the noblest to the audience.
+LINE 957: For me, with sorrow I embrace my fortune.
+LINE 958: I have some rights of memory in this kingdom,
+LINE 959: Which now to claim my vantage doth invite me.
+LINE 960: HORATIO.
+LINE 961: Of that I shall have also cause to speak,
+LINE 962: And from his mouth whose voice will draw on more.
+LINE 963: But let this same be presently perform'd,
+LINE 964: Even while men's minds are wild, lest more mischance
+LINE 965: On plots and errors happen.
+LINE 966: FORTINBRAS.
+LINE 967: Let four captains
+LINE 968: Bear Hamlet like a soldier to the stage,
+LINE 969: For he was likely, had he been put on,
+LINE 970: To have prov'd most royally; and for his passage,
+LINE 971: The soldiers' music and the rites of war
+LINE 972: Speak loudly for him.
+LINE 973: Take up the bodies. Such a sight as this
+LINE 974: Becomes the field, but here shows much amiss.
+LINE 975: Go, bid the soldiers shoot.
+LINE 976: [_A dead march._]
+LINE 977: [_Exeunt, bearing off the bodies, after which a peal of ordnance is
+LINE 978: shot off._]

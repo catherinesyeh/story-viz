@@ -58,23 +58,16 @@ function PlotOptions() {
   const { plotHeight } = positionStore();
   const storyOptions = [
     "gatsby",
-    // "gatsby2",
     "gatsby-new",
-    // "gatsby2-new",
     "gatsby-new-themes",
-    // "gatsby-mov",
 
     "alice",
-    // "alice2",
     "alice-new",
-    // "alice2-new",
     "alice-new-themes",
-    // "alice-mov",
 
     "wizard",
     "wizard-new",
     "wizard-new-themes",
-    // "wizard-mov",
 
     "aladdin",
 
