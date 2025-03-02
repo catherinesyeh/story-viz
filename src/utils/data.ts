@@ -37,6 +37,12 @@ const starts_or_ends_with_quote = (quote: string) => {
 };
 
 /* INTERFACES */
+export interface CharacterLink {
+  source: string;
+  target: string;
+  value: number;
+  interaction?: string;
+}
 export interface Chapter {
   chapter: string;
   numScenes: number;
@@ -50,6 +56,7 @@ export interface Chapter {
   characters: {
     [key: string]: number;
   };
+  links?: CharacterLink[];
 }
 export interface Character {
   name: string;
@@ -63,11 +70,6 @@ export interface Character {
   numScenes?: number;
   top_scene?: number;
   [key: string]: any; // additional fields that could be added by user
-}
-export interface CharacterLink {
-  source: string;
-  target: string;
-  value: number;
 }
 
 export interface Scene {
@@ -322,28 +324,33 @@ const chapter_scene_data = (
     );
 
     let chap_links = [] as CharacterLink[];
-    chap_scenes.forEach((scene) => {
-      // Iterate over each character pair only once
-      scene.characters.forEach((scene_char, i) => {
-        for (let j = i + 1; j < scene.characters.length; j++) {
-          const scene_char2 = scene.characters[j];
-          const link = chap_links.find(
-            (l) =>
-              (l.source === scene_char.name && l.target === scene_char2.name) ||
-              (l.source === scene_char2.name && l.target === scene_char.name)
-          );
-          if (link) {
-            link.value += 1;
-          } else {
-            chap_links.push({
-              source: scene_char.name,
-              target: scene_char2.name,
-              value: 1,
-            });
+    if (chapter.links) {
+      chap_links = chapter.links;
+    } else {
+      chap_scenes.forEach((scene) => {
+        // Iterate over each character pair only once
+        scene.characters.forEach((scene_char, i) => {
+          for (let j = i + 1; j < scene.characters.length; j++) {
+            const scene_char2 = scene.characters[j];
+            const link = chap_links.find(
+              (l) =>
+                (l.source === scene_char.name &&
+                  l.target === scene_char2.name) ||
+                (l.source === scene_char2.name && l.target === scene_char.name)
+            );
+            if (link) {
+              link.value += 1;
+            } else {
+              chap_links.push({
+                source: scene_char.name,
+                target: scene_char2.name,
+                value: 1,
+              });
+            }
           }
-        }
+        });
       });
-    });
+    }
 
     const sentiment =
       chap_scenes.reduce((a, b) => a + b.ratings.sentiment, 0) /

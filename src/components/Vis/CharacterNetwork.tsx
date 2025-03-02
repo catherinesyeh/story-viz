@@ -28,6 +28,7 @@ type Node = {
 type Link = {
   source: Node;
   target: Node;
+  interaction: string;
   lighter: boolean;
   value: number;
 };
@@ -211,6 +212,7 @@ function CharacterNetwork(props: any) {
         return {
           source: nodes.find((n) => n.id === d.source),
           target: nodes.find((n) => n.id === d.target),
+          interaction: d.interaction,
           lighter:
             nodes.find((n) => n.id === d.source)?.importance === 0 ||
             nodes.find((n) => n.id === d.target)?.importance === 0,
@@ -342,9 +344,11 @@ function CharacterNetwork(props: any) {
           return;
         setLinkHover([d.source.id, d.target.id]); // Update linkHover with the link's source and target
         setNetworkHover(
-          `<b>${d.source.id}</b> and <b>${d.target.id}</b> appear <b>${
+          `<p><b>${d.source.id}</b> and <b>${d.target.id}</b> appear <b>${
             d.value
-          }</b> time${d.value === 1 ? "" : "s"} together in this chapter`
+          }</b> time${d.value === 1 ? "" : "s"} together in this chapter</p>${
+            d.interaction ? `<p class='desc'>➡️ ${d.interaction}</p>` : ""
+          }`
         );
       })
       .on("mouseout", () => {
