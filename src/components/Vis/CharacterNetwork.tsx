@@ -221,7 +221,6 @@ function CharacterNetwork(props: any) {
       }) as Link[];
 
     if (nodes.length === 0) return;
-    if (links.length === 0) return;
 
     const min_val = d3.min(links, (d) => d.value) || 0;
     const max_val = d3.max(links, (d) => d.value) || 1;
