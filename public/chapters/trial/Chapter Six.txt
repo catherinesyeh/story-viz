@@ -1,0 +1,629 @@
+LINE 1: K.'s uncle--Leni
+LINE 2: One afternoon--K. was very busy at the time, getting the post
+LINE 3: ready--K.'s Uncle Karl, a small country land owner, came into the room,
+LINE 4: pushing his way between two of the staff who were bringing in some
+LINE 5: papers. K. had long expected his uncle to appear, but the sight of him
+LINE 6: now shocked K. far less than the prospect of it had done a long time
+LINE 7: before. His uncle was bound to come, K. had been sure of that for about
+LINE 8: a month. He already thought at the time he could see how his uncle
+LINE 9: would arrive, slightly bowed, his battered panama hat in his left hand,
+LINE 10: his right hand already stretched out over the desk long before he was
+LINE 11: close enough as he rushed carelessly towards K. knocking over everything
+LINE 12: that was in his way. K.'s uncle was always in a hurry, as he suffered
+LINE 13: from the unfortunate belief that he had a number of things to do while
+LINE 14: he was in the big city and had to settle all of them in one day--his
+LINE 15: visits were only ever for one day--and at the same time thought he could
+LINE 16: not forgo any conversation or piece of business or pleasure that might
+LINE 17: arise by chance. Uncle Karl was K.'s former guardian, and so K. was
+LINE 18: duty-bound to help him in all of this as well as to offer him a bed for
+LINE 19: the night. "I'm haunted by a ghost from the country," he would say.
+LINE 20: As soon as they had greeted each other--K. had invited him to sit in
+LINE 21: the armchair but Uncle Karl had no time for that--he said he wanted to
+LINE 22: speak briefly with K. in private. "It is necessary," he said with a
+LINE 23: tired gulp, "it is necessary for my peace of mind." K. immediately sent
+LINE 24: the junior staff from the room and told them to let no-one in. "What's
+LINE 25: this that I've been hearing, Josef?" cried K.'s uncle when they were
+LINE 26: alone, as he sat on the table shoving various papers under himself
+LINE 27: without looking at them to make himself more comfortable. K. said
+LINE 28: nothing, he knew what was coming, but, suddenly relieved from the
+LINE 29: effort of the work he had been doing, he gave way to a pleasant
+LINE 30: lassitude and looked out the window at the other side of the street.
+LINE 31: From where he sat, he could see just a small, triangular section of it,
+LINE 32: part of the empty walls of houses between two shop windows. "You're
+LINE 33: staring out the window!" called out his uncle, raising his arms, "For
+LINE 34: God's sake, Josef, give me an answer! Is it true, can it really be
+LINE 35: true?" "Uncle Karl," said K., wrenching himself back from his
+LINE 36: daydreaming, "I really don't know what it is you want of me." "Josef,"
+LINE 37: said his uncle in a warning tone, "as far as I know, you've always told
+LINE 38: the truth. Am I to take what you've just said as a bad sign?" "I think I
+LINE 39: know what it is you want," said K. obediently, "I expect you've heard
+LINE 40: about my trial." "That's right," answered his uncle with a slow nod,
+LINE 41: "I've heard about your trial." "Who did you hear it from, then?" asked
+LINE 42: K. "Erna wrote to me," said his uncle, "she doesn't have much contact
+LINE 43: with you, it's true, you don't pay very much attention to her, I'm
+LINE 44: afraid to say, but she learned about it nonetheless. I got her letter
+LINE 45: today and, of course, I came straight here. And for no other reason, but
+LINE 46: it seems to me that this is reason enough. I can read you out the part
+LINE 47: of the letter that concerns you." He drew the letter out from his
+LINE 48: wallet. "Here it is. She writes; 'I have not seen Josef for a long time,
+LINE 49: I was in the bank last week but Josef was so busy that they would not
+LINE 50: let me through; I waited there for nearly an hour but then I had to go
+LINE 51: home as I had my piano lesson. I would have liked to have spoken to him,
+LINE 52: maybe there will be a chance another time. He sent me a big box of
+LINE 53: chocolates for my name-day, that was very nice and attentive of him. I
+LINE 54: forgot to tell you about it when I wrote, and I only remember now that
+LINE 55: you ask me about it. Chocolate, as I am sure you are aware, disappears
+LINE 56: straight away in this lodging house, almost as soon as you know somebody
+LINE 57: has given you chocolate it is gone. But there is something else I wanted
+LINE 58: to tell you about Josef. Like I said, they would not let me through to
+LINE 59: see him at the bank because he was negotiating with some gentleman just
+LINE 60: then. After I had been waiting quietly for quite a long time I asked one
+LINE 61: of the staff whether his meeting would last much longer. He said it
+LINE 62: might well do, as it was probably about the legal proceedings, he said,
+LINE 63: that were being conducted against him. I asked what sort of legal
+LINE 64: proceedings it was that were being conducted against the chief clerk,
+LINE 65: and whether he was not making some mistake, but he said he was not
+LINE 66: making any mistake, there were legal proceedings underway and even that
+LINE 67: they were about something quite serious, but he did not know any more
+LINE 68: about it. He would have liked to have been of some help to the chief
+LINE 69: clerk himself, as the chief clerk was a gentleman, good and honest, but
+LINE 70: he did not know what it was he could do and merely hoped there would be
+LINE 71: some influential gentlemen who would take his side. I'm sure that is
+LINE 72: what will happen and that everything will turn out for the best in the
+LINE 73: end, but in the mean time things do not look at all good, and you can
+LINE 74: see that from the mood of the chief clerk himself. Of course, I did not
+LINE 75: place too much importance on this conversation, and even did my best to
+LINE 76: put the bank clerk's mind at rest, he was quite a simple man. I told him
+LINE 77: he was not to speak to anyone else about this, and I think it is all
+LINE 78: just a rumour, but I still think it might be good if you, Dear Father,
+LINE 79: if you looked into the matter the next time you visit. It will be easy
+LINE 80: for you to find out more detail and, if it is really necessary, to do
+LINE 81: something about it through the great and influential people you know.
+LINE 82: But if it is not necessary, and that is what seems most likely, then at
+LINE 83: least your daughter will soon have the chance to embrace you and I look
+LINE 84: forward to it.'--She's a good child," said K.'s uncle when he had
+LINE 85: finished reading, and wiped a few tears from his eyes. K. nodded. With
+LINE 86: all the different disruptions he had had recently he had completely
+LINE 87: forgotten about Erna, even her birthday, and the story of the chocolates
+LINE 88: had clearly just been invented so that he wouldn't get in trouble with
+LINE 89: his aunt and uncle. It was very touching, and even the theatre tickets,
+LINE 90: which he would regularly send her from then on, would not be enough to
+LINE 91: repay her, but he really did not feel, now, that it was right for him to
+LINE 92: visit her in her lodgings and hold conversations with a little, eighteen
+LINE 93: year old schoolgirl. "And what do you have to say about that?" asked his
+LINE 94: uncle, who had forgotten all his rush and excitement as he read the
+LINE 95: letter, and seemed to be about to read it again. "Yes, Uncle," said K.,
+LINE 96: "it is true." "True!" called out his uncle. "What is true? How can this
+LINE 97: be true? What sort of trial is it? Not a criminal trial, I hope?" "It's
+LINE 98: a criminal trial," answered K. "And you sit quietly here while you've
+LINE 99: got a criminal trial round your neck?" shouted his uncle, getting ever
+LINE 100: louder. "The more calm I am, the better it will be for the outcome,"
+LINE 101: said K. in a tired voice, "don't worry." "How can I help worrying?!"
+LINE 102: shouted his uncle, "Josef, my dear Josef, think about yourself, about
+LINE 103: your family, think about our good name! Up till now, you've always been
+LINE 104: our pride, don't now become our disgrace. I don't like the way you're
+LINE 105: behaving," he said, looking at K. with his head at an angle, "that's not
+LINE 106: how an innocent man behaves when he's accused of something, not if he's
+LINE 107: still got any strength in him. Just tell me what it's all about so that
+LINE 108: I can help you. It's something to do with the bank, I take it?" "No,"
+LINE 109: said K. as he stood up, "and you're speaking too loud, Uncle, I expect
+LINE 110: one of the staff is listening at the door and I find that rather
+LINE 111: unpleasant. It's best if we go somewhere else, then I can answer all
+LINE 112: your questions, as far as I can. And I know very well that I have to
+LINE 113: account to the family for what I do." "You certainly do!" his uncle
+LINE 114: shouted, "Quite right, you do. Now just get a move on, Josef, hurry up
+LINE 115: now!" "I still have a few documents I need to prepare," said K., and,
+LINE 116: using the intercom, he summoned his deputy who entered a few moments
+LINE 117: later. K.'s uncle, still angry and excited, gestured with his hand to
+LINE 118: show that K. had summoned him, even though there was no need whatever to
+LINE 119: do so. K. stood in front of the desk and explained to the young man, who
+LINE 120: listened calm and attentive, what would need to be done that day in his
+LINE 121: absence, speaking in a calm voice and making use of various documents.
+LINE 122: The presence of K.'s uncle while this was going on was quite disturbing;
+LINE 123: he did not listen to what was being said, but at first he stood there
+LINE 124: with eyes wide open and nervously biting his lips. Then he began to walk
+LINE 125: up and down the room, stopped now and then at the window, or stood in
+LINE 126: front of a picture always making various exclamations such as, "That is
+LINE 127: totally incomprehensible to me!" or "Now just tell me, what are you
+LINE 128: supposed to make of that?" The young man pretended to notice nothing of
+LINE 129: this and listened to K.'s instructions through to the end, he made a few
+LINE 130: notes, bowed to both K. and his uncle and then left the room. K.'s uncle
+LINE 131: had turned his back to him and was looking out the window, bunching up
+LINE 132: the curtains with his outstretched hands. The door had hardly closed
+LINE 133: when he called out, "At last! Now that he's stopped jumping about we can
+LINE 134: go too!" Once they were in the front hall of the bank, where several
+LINE 135: members of staff were standing about and where, just then, the deputy
+LINE 136: director was walking across, there was unfortunately no way of stopping
+LINE 137: K.'s uncle from continually asking questions about the trial. "Now
+LINE 138: then, Josef," he began, lightly acknowledging the bows from those around
+LINE 139: them as they passed, "tell me everything about this trial; what sort of
+LINE 140: trial is it?" K. made a few comments which conveyed little information,
+LINE 141: even laughed a little, and it was only when they reached the front steps
+LINE 142: that he explained to his uncle that he had not wanted to talk openly in
+LINE 143: front of those people. "Quite right," said his uncle, "but now start
+LINE 144: talking." With his head to one side, and smoking his cigar in short,
+LINE 145: impatient draughts, he listened. "First of all, Uncle," said K., "it's
+LINE 146: not a trial like you'd have in a normal courtroom." "So much the worse,"
+LINE 147: said his uncle. "How's that?" asked K., looking at him. "What I mean is,
+LINE 148: that's for the worse," he repeated. They were standing on the front
+LINE 149: steps of the bank; as the doorkeeper seemed to be listening to what they
+LINE 150: were saying K. drew his uncle down further, where they were absorbed
+LINE 151: into the bustle of the street. His uncle took K.'s arm and stopped
+LINE 152: asking questions with such urgency about the trial, they walked on for a
+LINE 153: while in silence. "But how did all this come about?" he eventually
+LINE 154: asked, stopping abruptly enough to startle the people walking behind,
+LINE 155: who had to avoid walking into him. "Things like this don't come all of a
+LINE 156: sudden, they start developing a long time beforehand, there must have
+LINE 157: been warning signs of it, why didn't you write to me? You know I'd do
+LINE 158: anything for you, to some extent I am still your guardian, and until
+LINE 159: today that's something I was proud of. I'll still help you, of course I
+LINE 160: will, only now, now that the trial is already underway, it makes it
+LINE 161: very difficult. But whatever; the best thing now is for you to take a
+LINE 162: short holiday staying with us in the country. You've lost weight, I can
+LINE 163: see that now. The country life will give you strength, that will be
+LINE 164: good, there's bound to be a lot of hard work ahead of you. But besides
+LINE 165: that it'll be a way of getting you away from the court, to some extent.
+LINE 166: Here they've got every means of showing the powers at their disposal
+LINE 167: and they're automatically bound to use them against you; in the country
+LINE 168: they'll either have to delegate authority to different bodies or just
+LINE 169: have to try and bother you by letter, telegram or telephone. And that's
+LINE 170: bound to weaken the effect, it won't release you from them but it'll
+LINE 171: give you room to breathe." "You could forbid me to leave," said K., who
+LINE 172: had been drawn slightly into his uncle's way of thinking by what he had
+LINE 173: been saying. "I didn't think you would do it," said his uncle
+LINE 174: thoughtfully, "you won't suffer too much loss of power by moving away."
+LINE 175: K. grasped his uncle under the arm to prevent him stopping still and
+LINE 176: said, "I thought you'd think all this is less important than I do, and
+LINE 177: now you're taking it so hard." "Josef," called his uncle trying to
+LINE 178: disentangle himself from him so that he could stop walking, but K. did
+LINE 179: not let go, "you've completely changed, you used to be so astute, are
+LINE 180: you losing it now? Do you want to lose the trial? Do you realise what
+LINE 181: that would mean? That would mean you would be simply destroyed. And
+LINE 182: that everyone you know would be pulled down with you or at the very
+LINE 183: least humiliated, disgraced right down to the ground. Josef, pull
+LINE 184: yourself together. The way you're so indifferent about it, it's driving
+LINE 185: me mad. Looking at you I can almost believe that old saying: 'Having a
+LINE 186: trial like that means losing a trial like that'." "My dear Uncle," said
+LINE 187: K., "it won't do any good to get excited, it's no good for you to do it
+LINE 188: and it'd be no good for me to do it. The case won't be won by getting
+LINE 189: excited, and please admit that my practical experience counts for
+LINE 190: something, just as I have always and still do respect your experience,
+LINE 191: even when it surprises me. You say that the family will also be
+LINE 192: affected by this trial; I really can't see how, but that's beside the
+LINE 193: point and I'm quite willing to follow your instructions in all of this.
+LINE 194: Only, I don't see any advantage in staying in the country, not even for
+LINE 195: you, as that would indicate flight and a sense of guilt. And besides,
+LINE 196: although I am more subject to persecution if I stay in the city I can
+LINE 197: also press the matter forward better here." "You're right," said his
+LINE 198: uncle in a tone that seemed to indicate they were finally coming closer
+LINE 199: to each other, "I just made the suggestion because, as I saw it, if you
+LINE 200: stay in the city the case will be put in danger by your indifference to
+LINE 201: it, and I thought it was better if I did the work for you. But will you
+LINE 202: push things forward yourself with all your strength, if so, that will
+LINE 203: naturally be far better." "We're agreed then," said K. "And do you have
+LINE 204: any suggestions for what I should do next?" "Well, naturally I'll have
+LINE 205: to think about it," said his uncle, "you must bear in mind that I've
+LINE 206: been living in the country for twenty years now, almost without a
+LINE 207: break, you lose your ability to deal with matters like this. But I do
+LINE 208: have some important connections with several people who, I expect, know
+LINE 209: their way around these things better than I do, and to contact them is a
+LINE 210: matter of course. Out there in the country I've been getting out of
+LINE 211: condition, I'm sure you're already aware of that. It's only at times
+LINE 212: like this that you notice it yourself. And this affair of yours came
+LINE 213: largely unexpected, although, oddly enough, I had expected something of
+LINE 214: the sort after I'd read Erna's letter, and today when I saw your face I
+LINE 215: knew it with almost total certainty. But all that is by the by, the
+LINE 216: important thing now is, we have no time to lose." Even while he was
+LINE 217: still speaking, K.'s uncle had stood on tiptoe to summon a taxi and now
+LINE 218: he pulled K. into the car behind himself as he called out an address to
+LINE 219: the driver. "We're going now to see Dr. Huld, the lawyer," he said, "we
+LINE 220: were at school together. I'm sure you know the name, don't you? No? Well
+LINE 221: that is odd. He's got a very good reputation as a defence barrister and
+LINE 222: for working with the poor. But I esteem him especially as someone you
+LINE 223: can trust." "It's alright with me, whatever you do," said K., although
+LINE 224: he was made uneasy by the rushed and urgent way his uncle was dealing
+LINE 225: with the matter. It was not very encouraging, as the accused, to be
+LINE 226: taken to a lawyer for poor people. "I didn't know," he said, "that you
+LINE 227: could take on a lawyer in matters like this." "Well of course you can,"
+LINE 228: said his uncle, "that goes without saying. Why wouldn't you take on a
+LINE 229: lawyer? And now, so that I'm properly instructed in this matter, tell me
+LINE 230: what's been happening so far." K. instantly began telling his uncle
+LINE 231: about what had been happening, holding nothing back--being completely
+LINE 232: open with him was the only way that K. could protest at his uncle's
+LINE 233: belief that the trial was a great disgrace. He mentioned Miss Bürstner's
+LINE 234: name just once and in passing, but that did nothing to diminish his
+LINE 235: openness about the trial as Miss Bürstner had no connection with it. As
+LINE 236: he spoke, he looked out the window and saw how, just then, they were
+LINE 237: getting closer to the suburb where the court offices were. He drew this
+LINE 238: to his uncle's attention, but he did not find the coincidence especially
+LINE 239: remarkable. The taxi stopped in front of a dark building. K.'s uncle
+LINE 240: knocked at the very first door at ground level; while they waited he
+LINE 241: smiled, showing his big teeth, and whispered, "Eight o'clock; not the
+LINE 242: usual sort of time to be visiting a lawyer, but Huld won't mind it from
+LINE 243: me." Two large, black eyes appeared in the spy-hatch in the door, they
+LINE 244: stared at the two visitors for a while and then disappeared; the door,
+LINE 245: however, did not open. K. and his uncle confirmed to each other the fact
+LINE 246: that they had seen the two eyes. "A new maid, afraid of strangers," said
+LINE 247: K.'s uncle, and knocked again. The eyes appeared once more. This time
+LINE 248: they seemed almost sad, but the open gas flame that burned with a hiss
+LINE 249: close above their heads gave off little light and that may have merely
+LINE 250: created an illusion. "Open the door," called K.'s uncle, raising his
+LINE 251: fist against it, "we are friends of Dr. Huld, the lawyer!" "Dr. Huld is
+LINE 252: ill," whispered someone behind them. In a doorway at the far end of a
+LINE 253: narrow passage stood a man in his dressing gown, giving them this
+LINE 254: information in an extremely quiet voice. K.'s uncle, who had already
+LINE 255: been made very angry by the long wait, turned abruptly round and
+LINE 256: retorted, "Ill. You say he's ill?" and strode towards the gentleman in a
+LINE 257: way that seemed almost threatening, as if he were the illness himself.
+LINE 258: "They've opened the door for you, now," said the gentleman, pointing at
+LINE 259: the door of the lawyer. He pulled his dressing gown together and
+LINE 260: disappeared. The door had indeed been opened, a young girl--K.
+LINE 261: recognised the dark, slightly bulging eyes--stood in the hallway in a
+LINE 262: long white apron, holding a candle in her hand. "Next time, open up
+LINE 263: sooner!" said K.'s uncle instead of a greeting, while the girl made a
+LINE 264: slight curtsey. "Come along, Josef," he then said to K. who was slowly
+LINE 265: moving over towards the girl. "Dr. Huld is unwell," said the girl as
+LINE 266: K.'s uncle, without stopping, rushed towards one of the doors. K.
+LINE 267: continued to look at the girl in amazement as she turned round to block
+LINE 268: the way into the living room, she had a round face like a puppy's, not
+LINE 269: only the pale cheeks and the chin were round but the temples and the
+LINE 270: hairline were too. "Josef!" called his uncle once more, and he asked the
+LINE 271: girl, "It's trouble with his heart, is it?" "I think it is, sir," said
+LINE 272: the girl, who by now had found time to go ahead with the candle and open
+LINE 273: the door into the room. In one corner of the room, where the light of
+LINE 274: the candle did not reach, a face with a long beard looked up from the
+LINE 275: bed. "Leni, who's this coming in?" asked the lawyer, unable to recognise
+LINE 276: his guests because he was dazzled by the candle. "It's your old friend,
+LINE 277: Albert," said K.'s uncle. "Oh, Albert," said the lawyer, falling back
+LINE 278: onto his pillow as if this visit meant he would not need to keep up
+LINE 279: appearances. "Is it really as bad as that?" asked K.'s uncle, sitting on
+LINE 280: the edge of the bed. "I don't believe it is. It's a recurrence of your
+LINE 281: heart trouble and it'll pass over like the other times." "Maybe," said
+LINE 282: the lawyer quietly, "but it's just as much trouble as it's ever been. I
+LINE 283: can hardly breathe, I can't sleep at all and I'm getting weaker by the
+LINE 284: day." "I see," said K.'s uncle, pressing his panama hat firmly against
+LINE 285: his knee with his big hand. "That is bad news. But are you getting the
+LINE 286: right sort of care? And it's so depressing in here, it's so dark. It's a
+LINE 287: long time since I was last here, but it seemed to me friendlier then.
+LINE 288: Even your young lady here doesn't seem to have much life in her, unless
+LINE 289: she's just pretending." The maid was still standing by the door with the
+LINE 290: candle; as far as could be made out, she was watching K. more than she
+LINE 291: was watching his uncle even while the latter was still speaking about
+LINE 292: her. K. leant against a chair that he had pushed near to the girl. "When
+LINE 293: you're as ill as I am," said the lawyer, "you need to have peace. I
+LINE 294: don't find it depressing." After a short pause he added, "and Leni looks
+LINE 295: after me well, she's a good girl." But that was not enough to persuade
+LINE 296: K.'s uncle, he had visibly taken against his friend's carer and, even
+LINE 297: though he did not contradict the invalid, he persecuted her with his
+LINE 298: scowl as she went over to the bed, put the candle on the bedside table
+LINE 299: and, leaning over the bed, made a fuss of him by tidying the pillows.
+LINE 300: K.'s uncle nearly forgot the need to show any consideration for the man
+LINE 301: who lay ill in bed, he stood up, walked up and down behind the carer,
+LINE 302: and K. would not have been surprised if he had grabbed hold of her
+LINE 303: skirts behind her and dragged her away from the bed. K. himself looked
+LINE 304: on calmly, he was not even disappointed at finding the lawyer unwell,
+LINE 305: he had been able to do nothing to oppose the enthusiasm his uncle had
+LINE 306: developed for the matter, he was glad that this enthusiasm had now been
+LINE 307: distracted without his having to do anything about it. His uncle,
+LINE 308: probably simply wishing to be offensive to the lawyer's attendant, then
+LINE 309: said, "Young lady, now please leave us alone for a while, I have some
+LINE 310: personal matters to discuss with my friend." Dr. Huld's carer was still
+LINE 311: leant far over the invalid's bed and smoothing out the cloth covering
+LINE 312: the wall next to it, she merely turned her head and then, in striking
+LINE 313: contrast with the anger that first stopped K.'s uncle from speaking and
+LINE 314: then let the words out in a gush, she said very quietly, "You can see
+LINE 315: that Dr. Huld is so ill that he can't discuss any matters at all." It
+LINE 316: was probably just for the sake of convenience that she had repeated the
+LINE 317: words spoken by K.'s uncle, but an onlooker might even have perceived
+LINE 318: it as mocking him and he, of course, jumped up as if he had just been
+LINE 319: stabbed. "You damned ...," in the first gurglings of his excitement his
+LINE 320: words could hardly be understood, K. was startled even though he had
+LINE 321: been expecting something of the sort and ran to his uncle with the
+LINE 322: intention, no doubt, of closing his mouth with both his hands.
+LINE 323: Fortunately, though, behind the girl, the invalid raised himself up,
+LINE 324: K.'s uncle made an ugly face as if swallowing something disgusting and
+LINE 325: then, somewhat calmer, said, "We have naturally not lost our senses,
+LINE 326: not yet; if what I am asking for were not possible I would not be asking
+LINE 327: for it. Now please, go!" The carer stood up straight by the bed
+LINE 328: directly facing K.'s uncle, K. thought he noticed that with one hand she
+LINE 329: was stroking the lawyer's hand. "You can say anything in front of
+LINE 330: Leni," said the invalid, in a tone that was unmistakably imploring.
+LINE 331: "It's not my business," said K.'s uncle, "and it's not my secrets." And
+LINE 332: he twisted himself round as if wanting to go into no more negotiations
+LINE 333: but giving himself a little more time to think. "Whose business is it
+LINE 334: then?" asked the lawyer in an exhausted voice as he leant back again.
+LINE 335: "My nephew's," said K.'s uncle, "and I've brought him along with me."
+LINE 336: And he introduced him, "Chief Clerk Josef K." "Oh!" said the invalid,
+LINE 337: now with much more life in him, and reached out his hand towards K. "Do
+LINE 338: forgive me, I didn't notice you there at all." Then he then said to his
+LINE 339: carer, "Leni, go," stretching his hand out to her as if this were a
+LINE 340: farewell that would have to last for a long time. This time the girl
+LINE 341: offered no resistance. "So you," he finally said to K.'s uncle, who had
+LINE 342: also calmed down and stepped closer, "you haven't come to visit me
+LINE 343: because I'm ill but you've come on business." The lawyer now looked so
+LINE 344: much stronger that it seemed the idea of being visited because he was
+LINE 345: ill had somehow made him weak, he remained supporting himself on one
+LINE 346: elbow, which must have been rather tiring, and continually pulled at a
+LINE 347: lock of hair in the middle of his beard. "You already look much better,"
+LINE 348: said K.'s uncle, "now that that witch has gone outside." He interrupted
+LINE 349: himself, whispered, "I bet you she's listening!" and sprang over to the
+LINE 350: door. But behind the door there was no-one, K.'s uncle came back not
+LINE 351: disappointed, as her not listening seemed to him worse than if she had
+LINE 352: been, but probably somewhat embittered. "You're mistaken about her,"
+LINE 353: said the lawyer, but did nothing more to defend her; perhaps that was
+LINE 354: his way of indicating that she did not need defending. But in a tone
+LINE 355: that was much more committed he went on, "As far as your nephew's
+LINE 356: affairs are concerned, this will be an extremely difficult undertaking
+LINE 357: and I'd count myself lucky if my strength lasted out long enough for it;
+LINE 358: I'm greatly afraid it won't do, but anyway I don't want to leave
+LINE 359: anything untried; if I don't last out you can always get somebody else.
+LINE 360: To be honest, this matter interests me too much, and I can't bring
+LINE 361: myself to give up the chance of taking some part in it. If my heart does
+LINE 362: totally give out then at least it will have found a worthy affair to
+LINE 363: fail in." K. believed he understood not a word of this entire speech, he
+LINE 364: looked at his uncle for an explanation but his uncle sat on the bedside
+LINE 365: table with the candle in his hand, a medicine bottle had rolled off the
+LINE 366: table onto the floor, he nodded to everything the lawyer said, agreed to
+LINE 367: everything, and now and then looked at K. urging him to show the same
+LINE 368: compliance. Maybe K.'s uncle had already told the lawyer about the
+LINE 369: trial. But that was impossible, everything that had happened so far
+LINE 370: spoke against it. So he said, "I don't understand...." "Well, maybe I've
+LINE 371: misunderstood what you've been saying," said the lawyer, just as
+LINE 372: astonished and embarrassed as K. "Perhaps I've been going too fast. What
+LINE 373: was it you wanted to speak to me about? I thought it was to do with your
+LINE 374: trial." "Of course it is," said K.'s uncle, who then asked K., "So what
+LINE 375: is it you want?" "Yes, but how is it that you know anything about me and
+LINE 376: my case?" asked K. "Oh, I see," said the lawyer with a smile. "I am a
+LINE 377: lawyer, I move in court circles, people talk about various different
+LINE 378: cases and the more interesting ones stay in your mind, especially when
+LINE 379: they concern the nephew of a friend. There's nothing very remarkable
+LINE 380: about that." "What is it you want, then?" asked K.'s uncle once more,
+LINE 381: "You seem so uneasy about it." "You move in this court's circles?" asked
+LINE 382: K. "Yes," said the lawyer. "You're asking questions like a child," said
+LINE 383: K.'s uncle. "What circles should I move in, then, if not with members of
+LINE 384: my own discipline?" the lawyer added. It sounded so indisputable that K.
+LINE 385: gave no answer at all. "But you work in the High Court, not that court
+LINE 386: in the attic," he had wanted to say but could not bring himself to
+LINE 387: actually utter it. "You have to realise," the lawyer continued, in a
+LINE 388: tone as if he were explaining something obvious, unnecessary and
+LINE 389: incidental, "you have to realise that I also derive great advantage for
+LINE 390: my clients from mixing with those people, and do so in many different
+LINE 391: ways, it's not something you can keep talking about all the time. I'm at
+LINE 392: a bit of a disadvantage now, of course, because of my illness, but I
+LINE 393: still get visits from some good friends of mine at the court and I learn
+LINE 394: one or two things. It might even be that I learn more than many of those
+LINE 395: who are in the best of health and spend all day in court. And I'm
+LINE 396: receiving a very welcome visit right now, for instance." And he pointed
+LINE 397: into a dark corner of the room. "Where?" asked K., almost uncouth in
+LINE 398: his surprise. He looked round uneasily; the little candle gave off far
+LINE 399: too little light to reach as far as the wall opposite. And then,
+LINE 400: something did indeed begin to move there in the corner. In the light of
+LINE 401: the candle held up by K.'s uncle an elderly gentleman could be seen
+LINE 402: sitting beside a small table. He had been sitting there for so long
+LINE 403: without being noticed that he could hardly have been breathing. Now he
+LINE 404: stood up with a great deal of fuss, clearly unhappy that attention had
+LINE 405: been drawn to him. It was as if, by flapping his hands about like short
+LINE 406: wings, he hoped to deflect any introductions and greetings, as if he
+LINE 407: wanted on no account to disturb the others by his presence and seemed to
+LINE 408: be exhorting them to leave him back in the dark and forget about his
+LINE 409: being there. That, however, was something that could no longer be
+LINE 410: granted him. "You took us by surprise, you see," said the lawyer in
+LINE 411: explanation, cheerfully indicating to the gentleman that he should come
+LINE 412: closer, which, slowly, hesitatingly, looking all around him, but with a
+LINE 413: certain dignity, he did. "The office director--oh, yes, forgive me, I
+LINE 414: haven't introduced you--this is my friend Albert K., this is his nephew,
+LINE 415: the chief clerk Josef K., and this is the office director--so, the
+LINE 416: office director was kind enough to pay me a visit. It's only possible
+LINE 417: to appreciate just how valuable a visit like this is if you've been let
+LINE 418: into the secret of what a pile of work the office director has heaped
+LINE 419: over him. Well, he came anyway, we were having a peaceful chat, as far
+LINE 420: as I was able when I'm so weak, and although we hadn't told Leni she
+LINE 421: mustn't let anyone in as we weren't expecting anyone, we still would
+LINE 422: rather have remained alone, but then along came you, Albert, thumping
+LINE 423: your fists on the door, the office director moved over into the corner
+LINE 424: pulling his table and chair with him, but now it turns out we might
+LINE 425: have, that is, if that's what you wish, we might have something to
+LINE 426: discuss with each other and it would be good if we can all come back
+LINE 427: together again.--Office director ...," he said with his head on one
+LINE 428: side, pointing with a humble smile to an armchair near the bed. "I'm
+LINE 429: afraid I'll only be able to stay a few minutes more," smiled the office
+LINE 430: director as he spread himself out in the armchair and looked at the
+LINE 431: clock. "Business calls. But I wouldn't want to miss the chance of
+LINE 432: meeting a friend of my friend." He inclined his head slightly toward
+LINE 433: K.'s uncle, who seemed very happy with his new acquaintance, but he was
+LINE 434: not the sort of person to express his feelings of deference and
+LINE 435: responded to the office director's words with embarrassed, but loud,
+LINE 436: laughter. A horrible sight! K. was able to quietly watch everything as
+LINE 437: nobody paid any attention to him, the office director took over as
+LINE 438: leader of the conversation as seemed to be his habit once he had been
+LINE 439: called forward, the lawyer listened attentively with his hand to his
+LINE 440: ear, his initial weakness having perhaps only had the function of
+LINE 441: driving away his new visitors. K.'s uncle served as
+LINE 442: candle-bearer--balancing the candle on his thigh while the office
+LINE 443: director frequently glanced nervously at it--and was soon free of his
+LINE 444: embarrassment and was quickly enchanted not only by the office
+LINE 445: director's speaking manner but also by the gentle, waving
+LINE 446: hand-movements with which he accompanied it. K., leaning against the
+LINE 447: bedpost, was totally ignored by the office director, perhaps
+LINE 448: deliberately, and served the old man only as audience. And besides, he
+LINE 449: had hardly any idea what the conversation was about and his thoughts
+LINE 450: soon turned to the care assistant and the ill treatment she had suffered
+LINE 451: from his uncle. Soon after, he began to wonder whether he had not seen
+LINE 452: the office director somewhere before, perhaps among the people who were
+LINE 453: at his first hearing. He may have been mistaken, but thought the office
+LINE 454: director might well have been among the old gentlemen with the thin
+LINE 455: beards in the first row.
+LINE 456: There was then a noise that everyone heard from the hallway as if
+LINE 457: something of porcelain were being broken. "I'll go and see what's
+LINE 458: happened," said K., who slowly left the room as if giving the others
+LINE 459: the chance to stop him. He had hardly stepped into the hallway, finding
+LINE 460: his bearings in the darkness with his hand still firmly holding the
+LINE 461: door, when another small hand, much smaller than K.'s own, placed itself
+LINE 462: on his and gently shut the door. It was the carer who had been waiting
+LINE 463: there. "Nothing has happened," she whispered to him, "I just threw a
+LINE 464: plate against the wall to get you out of there." "I was thinking about
+LINE 465: you, as well," replied K. uneasily. "So much the better," said the
+LINE 466: carer. "Come with me." A few steps along, they came to a frosted glass
+LINE 467: door which the carer opened for him. "Come in here," she said. It was
+LINE 468: clearly the lawyer's office, fitted out with old, heavy furniture, as
+LINE 469: far as could be seen in the moonlight which now illuminated just a
+LINE 470: small, rectangular section of the floor by each of the three big
+LINE 471: windows. "This way," said the carer, pointing to a dark trunk with a
+LINE 472: carved, wooden backrest. When he had sat down, K. continued to look
+LINE 473: round the room, it was a large room with a high ceiling, the clients of
+LINE 474: this lawyer for the poor must have felt quite lost in it. K. thought he
+LINE 475: could see the little steps with which visitors would approach the
+LINE 476: massive desk. But then he forgot about all of this and had eyes only
+LINE 477: for the carer who sat very close beside him, almost pressing him against
+LINE 478: the armrest. "I did think," she said, "you would come out here to me by
+LINE 479: yourself without me having to call you first. It was odd. First you
+LINE 480: stare at me as soon as you come in, and then you keep me waiting. And
+LINE 481: you ought to call me Leni, too," she added quickly and suddenly, as if
+LINE 482: no moment of this conversation should be lost. "Gladly," said K. "But
+LINE 483: as for its being odd, Leni, that's easy to explain. Firstly, I had to
+LINE 484: listen to what the old men were saying and couldn't leave without a
+LINE 485: good reason, but secondly I'm not a bold person, if anything I'm quite
+LINE 486: shy, and you, Leni, you didn't really look like you could be won over in
+LINE 487: one stroke, either." "That's not it," said Leni, laying one arm on the
+LINE 488: armrest and looking at K., "you didn't like me, and I don't suppose you
+LINE 489: like me now, either." "Liking wouldn't be very much," said K.,
+LINE 490: evasively. "Oh!" she exclaimed with a smile, thus making use of K.'s
+LINE 491: comment to gain an advantage over him. So K. remained silent for a
+LINE 492: while. By now, he had become used to the darkness in the room and was
+LINE 493: able to make out various fixtures and fittings. He was especially
+LINE 494: impressed by a large picture hanging to the right of the door, he leant
+LINE 495: forward in order to see it better. It depicted a man wearing a judge's
+LINE 496: robes; he was sitting on a lofty throne gilded in a way that shone
+LINE 497: forth from the picture. The odd thing about the picture was that this
+LINE 498: judge was not sitting there in dignified calm but had his left arm
+LINE 499: pressed against the back and armrest, his right arm, however, was
+LINE 500: completely free and only grasped the armrest with his hand, as if about
+LINE 501: to jump up any moment in vigorous outrage and make some decisive comment
+LINE 502: or even to pass sentence. The accused was probably meant to be imagined
+LINE 503: at the foot of the steps, the top one of which could be seen in the
+LINE 504: picture, covered with a yellow carpet. "That might be my judge," said
+LINE 505: K., pointing to the picture with one finger. "I know him," said Leni
+LINE 506: looking up at the picture, "he comes here quite often. That picture is
+LINE 507: from when he was young, but he can never have looked anything like it,
+LINE 508: as he's tiny, minute almost. But despite that, he had himself made to
+LINE 509: look bigger in the picture as he's madly vain, just like everyone round
+LINE 510: here. But even I'm vain and that makes me very unhappy that you don't
+LINE 511: like me." K. replied to that last comment merely by embracing Leni and
+LINE 512: drawing her towards him, she lay her head quietly on his shoulder. To
+LINE 513: the rest of it, though, he said, "What rank is he?" "He's an examining
+LINE 514: judge," she said, taking hold of the hand with which K. held her and
+LINE 515: playing with his fingers. "Just an examining judge once again," said K.
+LINE 516: in disappointment, "the senior officials keep themselves hidden. But
+LINE 517: here he is sitting on a throne." "That's all just made up," said Leni
+LINE 518: with her face bent over K.'s hand, "really he's sitting on a kitchen
+LINE 519: chair with an old horse blanket folded over it. But do you have to be
+LINE 520: always thinking about your trial?" she added slowly. "No, not at all,"
+LINE 521: said K., "I probably even think too little about it." "That's not the
+LINE 522: mistake you're making," said Leni, "you're too unyielding, that's what
+LINE 523: I've heard." "Who said that?" asked K., he felt her body against his
+LINE 524: chest and looked down on her rich, dark, tightly-bound hair. "I'd be
+LINE 525: saying too much if I told you that," answered Leni. "Please don't ask
+LINE 526: for names, but do stop making these mistakes of yours, stop being so
+LINE 527: unyielding, there's nothing you can do to defend yourself from this
+LINE 528: court, you have to confess. So confess to them as soon as you get the
+LINE 529: chance. It's only then that they give you the chance to get away, not
+LINE 530: till then. Only, without help from outside even that's impossible, but
+LINE 531: you needn't worry about getting this help as I want to help you
+LINE 532: myself." "You understand a lot about this court and what sort of tricks
+LINE 533: are needed," said K. as he lifted her, since she was pressing in much
+LINE 534: too close to him, onto his lap. "That's alright, then," she said, and
+LINE 535: made herself comfortable on his lap by smoothing out her skirt and
+LINE 536: adjusting her blouse. Then she hung both her arms around his neck, leant
+LINE 537: back and took a long look at him. "And what if I don't confess, could
+LINE 538: you not help me then?" asked K. to test her out. I'm accumulating women
+LINE 539: to help me, he thought to himself almost in amazement, first Miss
+LINE 540: Bürstner, then the court usher's wife, and now this little care
+LINE 541: assistant who seems to have some incomprehensible need for me. The way
+LINE 542: she sits on my lap as if it were her proper place! "No," answered Leni,
+LINE 543: slowly shaking her head, "I couldn't help you then. But you don't want
+LINE 544: my help anyway, it means nothing to you, you're too stubborn and won't
+LINE 545: be persuaded." Then, after a while she asked, "Do you have a lover?"
+LINE 546: "No," said K. "Oh, you must have," she said. "Well, I have really," said
+LINE 547: K. "Just think, I've even betrayed her while I'm carrying her photograph
+LINE 548: with me." Leni insisted he show her a photograph of Elsa, and then,
+LINE 549: hunched on his lap, studied the picture closely. The photograph was not
+LINE 550: one that had been taken while Elsa was posing for it, it showed her just
+LINE 551: after she had been in a wild dance such as she liked to do in wine bars,
+LINE 552: her skirt was still flung out as she span round, she had placed her
+LINE 553: hands on her firm hips and, with her neck held taut, looked to one side
+LINE 554: with a laugh; you could not see from the picture whom her laugh was
+LINE 555: intended for. "She's very tightly laced," said Leni, pointing to the
+LINE 556: place where she thought this could be seen. "I don't like her, she's
+LINE 557: clumsy and crude. But maybe she's gentle and friendly towards you,
+LINE 558: that's the impression you get from the picture. Big, strong girls like
+LINE 559: that often don't know how to be anything but gentle and friendly. Would
+LINE 560: she be capable of sacrificing herself for you, though?" "No," said K.,
+LINE 561: "she isn't gentle or friendly, and nor would she be capable of
+LINE 562: sacrificing herself for me. But I've never yet asked any of those things
+LINE 563: of her. I've never looked at this picture as closely as you." "You can't
+LINE 564: think much of her, then," said Leni. "She can't be your lover after
+LINE 565: all." "Yes she is," said K., "I'm not going to take my word back on
+LINE 566: that." "Well she might be your lover now, then," said Leni, "but you
+LINE 567: wouldn't miss her much if you lost her or if you exchanged her for
+LINE 568: somebody else, me for instance." "That is certainly conceivable," said
+LINE 569: K. with a smile, "but she does have one major advantage over you, she
+LINE 570: knows nothing about my trial, and even if she did she wouldn't think
+LINE 571: about it. She wouldn't try to persuade me to be less unyielding." "Well
+LINE 572: that's no advantage," said Leni. "If she's got no advantage other than
+LINE 573: that, I can keep on hoping. Has she got any bodily defects?" "'Bodily
+LINE 574: defects'?" asked K. "Yeah," said Leni, "as I do have a bodily defect,
+LINE 575: just a little one. Look." She spread the middle and ring fingers of her
+LINE 576: right hand apart from each other. Between those fingers the flap of skin
+LINE 577: connecting them reached up almost as far as the top joint of the little
+LINE 578: finger. In the darkness, K. did not see at first what it was she wanted
+LINE 579: to show him, so she led his hand to it so that he could feel. "What a
+LINE 580: freak of nature," said K., and when he had taken a look at the whole
+LINE 581: hand he added, "What a pretty claw!" Leni looked on with a kind of pride
+LINE 582: as K. repeatedly opened and closed her two fingers in amazement, until,
+LINE 583: finally, he briefly kissed them and let go. "Oh!" she immediately
+LINE 584: exclaimed, "you kissed me!" Hurriedly, and with her mouth open, she
+LINE 585: clambered up K.'s lap with her knees. He was almost aghast as he looked
+LINE 586: up at her, now that she was so close to him there was a bitter,
+LINE 587: irritating smell from her, like pepper, she grasped his head, leant out
+LINE 588: over him, and bit and kissed his neck, even biting into his hair. "I've
+LINE 589: taken her place!" she exclaimed from time to time. "Just look, now
+LINE 590: you've taken me instead of her!" Just then, her knee slipped out and,
+LINE 591: with a little cry, she nearly fell down onto the carpet, K. tried to
+LINE 592: hold her by putting his arms around her and was pulled down with her.
+LINE 593: "Now you're mine," she said. Her last words to him as he left were,
+LINE 594: "Here's the key to the door, come whenever you want," and she planted an
+LINE 595: undirected kiss on his back. When he stepped out the front door there
+LINE 596: was a light rain falling, he was about to go to the middle of the street
+LINE 597: to see if he could still glimpse Leni at the window when K.'s uncle
+LINE 598: leapt out of a car that K., thinking of other things, had not seen
+LINE 599: waiting outside the building. He took hold of K. by both arms and shoved
+LINE 600: him against the door as if he wanted to nail him to it. "Young man," he
+LINE 601: shouted, "how could you do a thing like that?! Things were going well
+LINE 602: with this business of yours, now you've caused it terrible damage. You
+LINE 603: slip off with some dirty, little thing who, moreover, is obviously the
+LINE 604: lawyer's beloved, and stay away for hours. You don't even try to find an
+LINE 605: excuse, don't try to hide anything, no, you're quite open about it, you
+LINE 606: run off with her and stay there. And meanwhile we're sitting there, your
+LINE 607: uncle who's going to such effort for you, the lawyer who needs to be won
+LINE 608: over to your side, and above all the office director, a very important
+LINE 609: gentleman who is in direct command of your affair in its present stage.
+LINE 610: We wanted to discuss how best to help you, I had to handle the lawyer
+LINE 611: very carefully, he had to handle the office director carefully, and you
+LINE 612: had most reason of all to at least give me some support. Instead of
+LINE 613: which you stay away. Eventually we couldn't keep up the pretence any
+LINE 614: longer, but these are polite and highly capable men, they didn't say
+LINE 615: anything about it so as to spare my feelings but in the end not even
+LINE 616: they could continue to force themselves and, as they couldn't speak
+LINE 617: about the matter in hand, they became silent. We sat there for several
+LINE 618: minutes, listening to see whether you wouldn't finally come back. All in
+LINE 619: vain. In the end the office director stood up, as he had stayed far
+LINE 620: longer than he had originally intended, made his farewell, looked at me
+LINE 621: in sympathy without being able to help, he waited at the door for a long
+LINE 622: time although it's more than I can understand why he was being so good,
+LINE 623: and then he went. I, of course, was glad he'd gone, I'd been holding my
+LINE 624: breath all this time. All this had even more effect on the lawyer lying
+LINE 625: there ill, when I took my leave of him, the good man, he was quite
+LINE 626: unable to speak. You have probably contributed to his total collapse
+LINE 627: and so brought the very man who you are dependent on closer to his
+LINE 628: death. And me, your own uncle, you leave me here in the rain--just feel
+LINE 629: this, I'm wet right through--waiting here for hours, sick with worry."

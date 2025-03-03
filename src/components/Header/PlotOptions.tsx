@@ -139,6 +139,12 @@ function PlotOptions() {
 
     "war-new",
     "war-new-themes",
+
+    "ulysses-new",
+    "ulysses-new-themes",
+
+    "trial-new",
+    "trial-new-themes",
   ].sort();
 
   const storyOptionsDisplay = storyOptions.filter(

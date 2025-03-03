@@ -1,0 +1,750 @@
+LINE 1: Stately, plump Buck Mulligan came from the stairhead, bearing a bowl of
+LINE 2: lather on which a mirror and a razor lay crossed. A yellow
+LINE 3: dressinggown, ungirdled, was sustained gently behind him on the mild
+LINE 4: morning air. He held the bowl aloft and intoned:
+LINE 5: —_Introibo ad altare Dei_.
+LINE 6: Halted, he peered down the dark winding stairs and called out coarsely:
+LINE 7: —Come up, Kinch! Come up, you fearful jesuit!
+LINE 8: Solemnly he came forward and mounted the round gunrest. He faced about
+LINE 9: and blessed gravely thrice the tower, the surrounding land and the
+LINE 10: awaking mountains. Then, catching sight of Stephen Dedalus, he bent
+LINE 11: towards him and made rapid crosses in the air, gurgling in his throat
+LINE 12: and shaking his head. Stephen Dedalus, displeased and sleepy, leaned
+LINE 13: his arms on the top of the staircase and looked coldly at the shaking
+LINE 14: gurgling face that blessed him, equine in its length, and at the light
+LINE 15: untonsured hair, grained and hued like pale oak.
+LINE 16: Buck Mulligan peeped an instant under the mirror and then covered the
+LINE 17: bowl smartly.
+LINE 18: —Back to barracks! he said sternly.
+LINE 19: He added in a preacher's tone:
+LINE 20: —For this, O dearly beloved, is the genuine Christine: body and soul
+LINE 21: and blood and ouns. Slow music, please. Shut your eyes, gents. One
+LINE 22: moment. A little trouble about those white corpuscles. Silence, all.
+LINE 23: He peered sideways up and gave a long slow whistle of call, then paused
+LINE 24: awhile in rapt attention, his even white teeth glistening here and
+LINE 25: there with gold points. Chrysostomos. Two strong shrill whistles
+LINE 26: answered through the calm.
+LINE 27: —Thanks, old chap, he cried briskly. That will do nicely. Switch off
+LINE 28: the current, will you?
+LINE 29: He skipped off the gunrest and looked gravely at his watcher, gathering
+LINE 30: about his legs the loose folds of his gown. The plump shadowed face and
+LINE 31: sullen oval jowl recalled a prelate, patron of arts in the middle ages.
+LINE 32: A pleasant smile broke quietly over his lips.
+LINE 33: —The mockery of it! he said gaily. Your absurd name, an ancient Greek!
+LINE 34: He pointed his finger in friendly jest and went over to the parapet,
+LINE 35: laughing to himself. Stephen Dedalus stepped up, followed him wearily
+LINE 36: halfway and sat down on the edge of the gunrest, watching him still as
+LINE 37: he propped his mirror on the parapet, dipped the brush in the bowl and
+LINE 38: lathered cheeks and neck.
+LINE 39: Buck Mulligan's gay voice went on.
+LINE 40: —My name is absurd too: Malachi Mulligan, two dactyls. But it has a
+LINE 41: Hellenic ring, hasn't it? Tripping and sunny like the buck himself. We
+LINE 42: must go to Athens. Will you come if I can get the aunt to fork out
+LINE 43: twenty quid?
+LINE 44: He laid the brush aside and, laughing with delight, cried:
+LINE 45: —Will he come? The jejune jesuit!
+LINE 46: Ceasing, he began to shave with care.
+LINE 47: —Tell me, Mulligan, Stephen said quietly.
+LINE 48: —Yes, my love?
+LINE 49: —How long is Haines going to stay in this tower?
+LINE 50: Buck Mulligan showed a shaven cheek over his right shoulder.
+LINE 51: —God, isn't he dreadful? he said frankly. A ponderous Saxon. He thinks
+LINE 52: you're not a gentleman. God, these bloody English! Bursting with money
+LINE 53: and indigestion. Because he comes from Oxford. You know, Dedalus, you
+LINE 54: have the real Oxford manner. He can't make you out. O, my name for you
+LINE 55: is the best: Kinch, the knife-blade.
+LINE 56: He shaved warily over his chin.
+LINE 57: —He was raving all night about a black panther, Stephen said. Where is
+LINE 58: his guncase?
+LINE 59: —A woful lunatic! Mulligan said. Were you in a funk?
+LINE 60: —I was, Stephen said with energy and growing fear. Out here in the dark
+LINE 61: with a man I don't know raving and moaning to himself about shooting a
+LINE 62: black panther. You saved men from drowning. I'm not a hero, however. If
+LINE 63: he stays on here I am off.
+LINE 64: Buck Mulligan frowned at the lather on his razorblade. He hopped down
+LINE 65: from his perch and began to search his trouser pockets hastily.
+LINE 66: —Scutter! he cried thickly.
+LINE 67: He came over to the gunrest and, thrusting a hand into Stephen's upper
+LINE 68: pocket, said:
+LINE 69: —Lend us a loan of your noserag to wipe my razor.
+LINE 70: Stephen suffered him to pull out and hold up on show by its corner a
+LINE 71: dirty crumpled handkerchief. Buck Mulligan wiped the razorblade neatly.
+LINE 72: Then, gazing over the handkerchief, he said:
+LINE 73: —The bard's noserag! A new art colour for our Irish poets: snotgreen.
+LINE 74: You can almost taste it, can't you?
+LINE 75: He mounted to the parapet again and gazed out over Dublin bay, his fair
+LINE 76: oakpale hair stirring slightly.
+LINE 77: —God! he said quietly. Isn't the sea what Algy calls it: a great sweet
+LINE 78: mother? The snotgreen sea. The scrotumtightening sea. _Epi oinopa
+LINE 79: ponton_. Ah, Dedalus, the Greeks! I must teach you. You must read them
+LINE 80: in the original. _Thalatta! Thalatta!_ She is our great sweet mother.
+LINE 81: Come and look.
+LINE 82: Stephen stood up and went over to the parapet. Leaning on it he looked
+LINE 83: down on the water and on the mailboat clearing the harbourmouth of
+LINE 84: Kingstown.
+LINE 85: —Our mighty mother! Buck Mulligan said.
+LINE 86: He turned abruptly his grey searching eyes from the sea to Stephen's
+LINE 87: face.
+LINE 88: —The aunt thinks you killed your mother, he said. That's why she won't
+LINE 89: let me have anything to do with you.
+LINE 90: —Someone killed her, Stephen said gloomily.
+LINE 91: —You could have knelt down, damn it, Kinch, when your dying mother
+LINE 92: asked you, Buck Mulligan said. I'm hyperborean as much as you. But to
+LINE 93: think of your mother begging you with her last breath to kneel down and
+LINE 94: pray for her. And you refused. There is something sinister in you....
+LINE 95: He broke off and lathered again lightly his farther cheek. A tolerant
+LINE 96: smile curled his lips.
+LINE 97: —But a lovely mummer! he murmured to himself. Kinch, the loveliest
+LINE 98: mummer of them all!
+LINE 99: He shaved evenly and with care, in silence, seriously.
+LINE 100: Stephen, an elbow rested on the jagged granite, leaned his palm against
+LINE 101: his brow and gazed at the fraying edge of his shiny black coat-sleeve.
+LINE 102: Pain, that was not yet the pain of love, fretted his heart. Silently,
+LINE 103: in a dream she had come to him after her death, her wasted body within
+LINE 104: its loose brown graveclothes giving off an odour of wax and rosewood,
+LINE 105: her breath, that had bent upon him, mute, reproachful, a faint odour of
+LINE 106: wetted ashes. Across the threadbare cuffedge he saw the sea hailed as a
+LINE 107: great sweet mother by the wellfed voice beside him. The ring of bay and
+LINE 108: skyline held a dull green mass of liquid. A bowl of white china had
+LINE 109: stood beside her deathbed holding the green sluggish bile which she had
+LINE 110: torn up from her rotting liver by fits of loud groaning vomiting.
+LINE 111: Buck Mulligan wiped again his razorblade.
+LINE 112: —Ah, poor dogsbody! he said in a kind voice. I must give you a shirt
+LINE 113: and a few noserags. How are the secondhand breeks?
+LINE 114: —They fit well enough, Stephen answered.
+LINE 115: Buck Mulligan attacked the hollow beneath his underlip.
+LINE 116: —The mockery of it, he said contentedly. Secondleg they should be. God
+LINE 117: knows what poxy bowsy left them off. I have a lovely pair with a hair
+LINE 118: stripe, grey. You'll look spiffing in them. I'm not joking, Kinch. You
+LINE 119: look damn well when you're dressed.
+LINE 120: —Thanks, Stephen said. I can't wear them if they are grey.
+LINE 121: —He can't wear them, Buck Mulligan told his face in the mirror.
+LINE 122: Etiquette is etiquette. He kills his mother but he can't wear grey
+LINE 123: trousers.
+LINE 124: He folded his razor neatly and with stroking palps of fingers felt the
+LINE 125: smooth skin.
+LINE 126: Stephen turned his gaze from the sea and to the plump face with its
+LINE 127: smokeblue mobile eyes.
+LINE 128: —That fellow I was with in the Ship last night, said Buck Mulligan,
+LINE 129: says you have g. p. i. He's up in Dottyville with Connolly Norman.
+LINE 130: General paralysis of the insane!
+LINE 131: He swept the mirror a half circle in the air to flash the tidings
+LINE 132: abroad in sunlight now radiant on the sea. His curling shaven lips
+LINE 133: laughed and the edges of his white glittering teeth. Laughter seized
+LINE 134: all his strong wellknit trunk.
+LINE 135: —Look at yourself, he said, you dreadful bard!
+LINE 136: Stephen bent forward and peered at the mirror held out to him, cleft by
+LINE 137: a crooked crack. Hair on end. As he and others see me. Who chose this
+LINE 138: face for me? This dogsbody to rid of vermin. It asks me too.
+LINE 139: —I pinched it out of the skivvy's room, Buck Mulligan said. It does her
+LINE 140: all right. The aunt always keeps plainlooking servants for Malachi.
+LINE 141: Lead him not into temptation. And her name is Ursula.
+LINE 142: Laughing again, he brought the mirror away from Stephen's peering eyes.
+LINE 143: —The rage of Caliban at not seeing his face in a mirror, he said. If
+LINE 144: Wilde were only alive to see you!
+LINE 145: Drawing back and pointing, Stephen said with bitterness:
+LINE 146: —It is a symbol of Irish art. The cracked lookingglass of a servant.
+LINE 147: Buck Mulligan suddenly linked his arm in Stephen's and walked with him
+LINE 148: round the tower, his razor and mirror clacking in the pocket where he
+LINE 149: had thrust them.
+LINE 150: —It's not fair to tease you like that, Kinch, is it? he said kindly.
+LINE 151: God knows you have more spirit than any of them.
+LINE 152: Parried again. He fears the lancet of my art as I fear that of his. The
+LINE 153: cold steel pen.
+LINE 154: —Cracked lookingglass of a servant! Tell that to the oxy chap
+LINE 155: downstairs and touch him for a guinea. He's stinking with money and
+LINE 156: thinks you're not a gentleman. His old fellow made his tin by selling
+LINE 157: jalap to Zulus or some bloody swindle or other. God, Kinch, if you and
+LINE 158: I could only work together we might do something for the island.
+LINE 159: Hellenise it.
+LINE 160: Cranly's arm. His arm.
+LINE 161: —And to think of your having to beg from these swine. I'm the only one
+LINE 162: that knows what you are. Why don't you trust me more? What have you up
+LINE 163: your nose against me? Is it Haines? If he makes any noise here I'll
+LINE 164: bring down Seymour and we'll give him a ragging worse than they gave
+LINE 165: Clive Kempthorpe.
+LINE 166: Young shouts of moneyed voices in Clive Kempthorpe's rooms. Palefaces:
+LINE 167: they hold their ribs with laughter, one clasping another. O, I shall
+LINE 168: expire! Break the news to her gently, Aubrey! I shall die! With slit
+LINE 169: ribbons of his shirt whipping the air he hops and hobbles round the
+LINE 170: table, with trousers down at heels, chased by Ades of Magdalen with the
+LINE 171: tailor's shears. A scared calf's face gilded with marmalade. I don't
+LINE 172: want to be debagged! Don't you play the giddy ox with me!
+LINE 173: Shouts from the open window startling evening in the quadrangle. A deaf
+LINE 174: gardener, aproned, masked with Matthew Arnold's face, pushes his mower
+LINE 175: on the sombre lawn watching narrowly the dancing motes of grasshalms.
+LINE 176: To ourselves... new paganism... omphalos.
+LINE 177: —Let him stay, Stephen said. There's nothing wrong with him except at
+LINE 178: night.
+LINE 179: —Then what is it? Buck Mulligan asked impatiently. Cough it up. I'm
+LINE 180: quite frank with you. What have you against me now?
+LINE 181: They halted, looking towards the blunt cape of Bray Head that lay on
+LINE 182: the water like the snout of a sleeping whale. Stephen freed his arm
+LINE 183: quietly.
+LINE 184: —Do you wish me to tell you? he asked.
+LINE 185: —Yes, what is it? Buck Mulligan answered. I don't remember anything.
+LINE 186: He looked in Stephen's face as he spoke. A light wind passed his brow,
+LINE 187: fanning softly his fair uncombed hair and stirring silver points of
+LINE 188: anxiety in his eyes.
+LINE 189: Stephen, depressed by his own voice, said:
+LINE 190: —Do you remember the first day I went to your house after my mother's
+LINE 191: death?
+LINE 192: Buck Mulligan frowned quickly and said:
+LINE 193: —What? Where? I can't remember anything. I remember only ideas and
+LINE 194: sensations. Why? What happened in the name of God?
+LINE 195: —You were making tea, Stephen said, and went across the landing to get
+LINE 196: more hot water. Your mother and some visitor came out of the
+LINE 197: drawingroom. She asked you who was in your room.
+LINE 198: —Yes? Buck Mulligan said. What did I say? I forget.
+LINE 199: —You said, Stephen answered, _O, it's only Dedalus whose mother is
+LINE 200: beastly dead._
+LINE 201: A flush which made him seem younger and more engaging rose to Buck
+LINE 202: Mulligan's cheek.
+LINE 203: —Did I say that? he asked. Well? What harm is that?
+LINE 204: He shook his constraint from him nervously.
+LINE 205: —And what is death, he asked, your mother's or yours or my own? You saw
+LINE 206: only your mother die. I see them pop off every day in the Mater and
+LINE 207: Richmond and cut up into tripes in the dissectingroom. It's a beastly
+LINE 208: thing and nothing else. It simply doesn't matter. You wouldn't kneel
+LINE 209: down to pray for your mother on her deathbed when she asked you. Why?
+LINE 210: Because you have the cursed jesuit strain in you, only it's injected
+LINE 211: the wrong way. To me it's all a mockery and beastly. Her cerebral lobes
+LINE 212: are not functioning. She calls the doctor sir Peter Teazle and picks
+LINE 213: buttercups off the quilt. Humour her till it's over. You crossed her
+LINE 214: last wish in death and yet you sulk with me because I don't whinge like
+LINE 215: some hired mute from Lalouette's. Absurd! I suppose I did say it. I
+LINE 216: didn't mean to offend the memory of your mother.
+LINE 217: He had spoken himself into boldness. Stephen, shielding the gaping
+LINE 218: wounds which the words had left in his heart, said very coldly:
+LINE 219: —I am not thinking of the offence to my mother.
+LINE 220: —Of what then? Buck Mulligan asked.
+LINE 221: —Of the offence to me, Stephen answered.
+LINE 222: Buck Mulligan swung round on his heel.
+LINE 223: —O, an impossible person! he exclaimed.
+LINE 224: He walked off quickly round the parapet. Stephen stood at his post,
+LINE 225: gazing over the calm sea towards the headland. Sea and headland now
+LINE 226: grew dim. Pulses were beating in his eyes, veiling their sight, and he
+LINE 227: felt the fever of his cheeks.
+LINE 228: A voice within the tower called loudly:
+LINE 229: —Are you up there, Mulligan?
+LINE 230: —I'm coming, Buck Mulligan answered.
+LINE 231: He turned towards Stephen and said:
+LINE 232: —Look at the sea. What does it care about offences? Chuck Loyola,
+LINE 233: Kinch, and come on down. The Sassenach wants his morning rashers.
+LINE 234: His head halted again for a moment at the top of the staircase, level
+LINE 235: with the roof:
+LINE 236: —Don't mope over it all day, he said. I'm inconsequent. Give up the
+LINE 237: moody brooding.
+LINE 238: His head vanished but the drone of his descending voice boomed out of
+LINE 239: the stairhead:
+LINE 240: And no more turn aside and brood
+LINE 241: Upon love's bitter mystery
+LINE 242: For Fergus rules the brazen cars.
+LINE 243: Woodshadows floated silently by through the morning peace from the
+LINE 244: stairhead seaward where he gazed. Inshore and farther out the mirror of
+LINE 245: water whitened, spurned by lightshod hurrying feet. White breast of the
+LINE 246: dim sea. The twining stresses, two by two. A hand plucking the
+LINE 247: harpstrings, merging their twining chords. Wavewhite wedded words
+LINE 248: shimmering on the dim tide.
+LINE 249: A cloud began to cover the sun slowly, wholly, shadowing the bay in
+LINE 250: deeper green. It lay beneath him, a bowl of bitter waters. Fergus'
+LINE 251: song: I sang it alone in the house, holding down the long dark chords.
+LINE 252: Her door was open: she wanted to hear my music. Silent with awe and
+LINE 253: pity I went to her bedside. She was crying in her wretched bed. For
+LINE 254: those words, Stephen: love's bitter mystery.
+LINE 255: Where now?
+LINE 256: Her secrets: old featherfans, tasselled dancecards, powdered with musk,
+LINE 257: a gaud of amber beads in her locked drawer. A birdcage hung in the
+LINE 258: sunny window of her house when she was a girl. She heard old Royce sing
+LINE 259: in the pantomime of Turko the Terrible and laughed with others when he
+LINE 260: sang:
+LINE 261: I am the boy
+LINE 262: That can enjoy
+LINE 263: Invisibility.
+LINE 264: Phantasmal mirth, folded away: muskperfumed.
+LINE 265: And no more turn aside and brood.
+LINE 266: Folded away in the memory of nature with her toys. Memories beset his
+LINE 267: brooding brain. Her glass of water from the kitchen tap when she had
+LINE 268: approached the sacrament. A cored apple, filled with brown sugar,
+LINE 269: roasting for her at the hob on a dark autumn evening. Her shapely
+LINE 270: fingernails reddened by the blood of squashed lice from the children's
+LINE 271: shirts.
+LINE 272: In a dream, silently, she had come to him, her wasted body within its
+LINE 273: loose graveclothes giving off an odour of wax and rosewood, her breath,
+LINE 274: bent over him with mute secret words, a faint odour of wetted ashes.
+LINE 275: Her glazing eyes, staring out of death, to shake and bend my soul. On
+LINE 276: me alone. The ghostcandle to light her agony. Ghostly light on the
+LINE 277: tortured face. Her hoarse loud breath rattling in horror, while all
+LINE 278: prayed on their knees. Her eyes on me to strike me down. _Liliata
+LINE 279: rutilantium te confessorum turma circumdet: iubilantium te virginum
+LINE 280: chorus excipiat._
+LINE 281: Ghoul! Chewer of corpses!
+LINE 282: No, mother! Let me be and let me live.
+LINE 283: —Kinch ahoy!
+LINE 284: Buck Mulligan's voice sang from within the tower. It came nearer up the
+LINE 285: staircase, calling again. Stephen, still trembling at his soul's cry,
+LINE 286: heard warm running sunlight and in the air behind him friendly words.
+LINE 287: —Dedalus, come down, like a good mosey. Breakfast is ready. Haines is
+LINE 288: apologising for waking us last night. It's all right.
+LINE 289: —I'm coming, Stephen said, turning.
+LINE 290: —Do, for Jesus' sake, Buck Mulligan said. For my sake and for all our
+LINE 291: sakes.
+LINE 292: His head disappeared and reappeared.
+LINE 293: —I told him your symbol of Irish art. He says it's very clever. Touch
+LINE 294: him for a quid, will you? A guinea, I mean.
+LINE 295: —I get paid this morning, Stephen said.
+LINE 296: —The school kip? Buck Mulligan said. How much? Four quid? Lend us one.
+LINE 297: —If you want it, Stephen said.
+LINE 298: —Four shining sovereigns, Buck Mulligan cried with delight. We'll have
+LINE 299: a glorious drunk to astonish the druidy druids. Four omnipotent
+LINE 300: sovereigns.
+LINE 301: He flung up his hands and tramped down the stone stairs, singing out of
+LINE 302: tune with a Cockney accent:
+LINE 303: O, won't we have a merry time,
+LINE 304: Drinking whisky, beer and wine!
+LINE 305: On coronation,
+LINE 306: Coronation day!
+LINE 307: O, won't we have a merry time
+LINE 308: On coronation day!
+LINE 309: Warm sunshine merrying over the sea. The nickel shavingbowl shone,
+LINE 310: forgotten, on the parapet. Why should I bring it down? Or leave it
+LINE 311: there all day, forgotten friendship?
+LINE 312: He went over to it, held it in his hands awhile, feeling its coolness,
+LINE 313: smelling the clammy slaver of the lather in which the brush was stuck.
+LINE 314: So I carried the boat of incense then at Clongowes. I am another now
+LINE 315: and yet the same. A servant too. A server of a servant.
+LINE 316: In the gloomy domed livingroom of the tower Buck Mulligan's gowned form
+LINE 317: moved briskly to and fro about the hearth, hiding and revealing its
+LINE 318: yellow glow. Two shafts of soft daylight fell across the flagged floor
+LINE 319: from the high barbacans: and at the meeting of their rays a cloud of
+LINE 320: coalsmoke and fumes of fried grease floated, turning.
+LINE 321: —We'll be choked, Buck Mulligan said. Haines, open that door, will you?
+LINE 322: Stephen laid the shavingbowl on the locker. A tall figure rose from the
+LINE 323: hammock where it had been sitting, went to the doorway and pulled open
+LINE 324: the inner doors.
+LINE 325: —Have you the key? a voice asked.
+LINE 326: —Dedalus has it, Buck Mulligan said. Janey Mack, I'm choked!
+LINE 327: He howled, without looking up from the fire:
+LINE 328: —Kinch!
+LINE 329: —It's in the lock, Stephen said, coming forward.
+LINE 330: The key scraped round harshly twice and, when the heavy door had been
+LINE 331: set ajar, welcome light and bright air entered. Haines stood at the
+LINE 332: doorway, looking out. Stephen haled his upended valise to the table and
+LINE 333: sat down to wait. Buck Mulligan tossed the fry on to the dish beside
+LINE 334: him. Then he carried the dish and a large teapot over to the table, set
+LINE 335: them down heavily and sighed with relief.
+LINE 336: —I'm melting, he said, as the candle remarked when... But, hush! Not a
+LINE 337: word more on that subject! Kinch, wake up! Bread, butter, honey.
+LINE 338: Haines, come in. The grub is ready. Bless us, O Lord, and these thy
+LINE 339: gifts. Where's the sugar? O, jay, there's no milk.
+LINE 340: Stephen fetched the loaf and the pot of honey and the buttercooler from
+LINE 341: the locker. Buck Mulligan sat down in a sudden pet.
+LINE 342: —What sort of a kip is this? he said. I told her to come after eight.
+LINE 343: —We can drink it black, Stephen said thirstily. There's a lemon in the
+LINE 344: locker.
+LINE 345: —O, damn you and your Paris fads! Buck Mulligan said. I want Sandycove
+LINE 346: milk.
+LINE 347: Haines came in from the doorway and said quietly:
+LINE 348: —That woman is coming up with the milk.
+LINE 349: —The blessings of God on you! Buck Mulligan cried, jumping up from his
+LINE 350: chair. Sit down. Pour out the tea there. The sugar is in the bag. Here,
+LINE 351: I can't go fumbling at the damned eggs.
+LINE 352: He hacked through the fry on the dish and slapped it out on three
+LINE 353: plates, saying:
+LINE 354: —_In nomine Patris et Filii et Spiritus Sancti._
+LINE 355: Haines sat down to pour out the tea.
+LINE 356: —I'm giving you two lumps each, he said. But, I say, Mulligan, you do
+LINE 357: make strong tea, don't you?
+LINE 358: Buck Mulligan, hewing thick slices from the loaf, said in an old
+LINE 359: woman's wheedling voice:
+LINE 360: —When I makes tea I makes tea, as old mother Grogan said. And when I
+LINE 361: makes water I makes water.
+LINE 362: —By Jove, it is tea, Haines said.
+LINE 363: Buck Mulligan went on hewing and wheedling:
+LINE 364: —_So I do, Mrs Cahill,_ says she. _Begob, ma'am,_ says Mrs Cahill, _God
+LINE 365: send you don't make them in the one pot._
+LINE 366: He lunged towards his messmates in turn a thick slice of bread, impaled
+LINE 367: on his knife.
+LINE 368: —That's folk, he said very earnestly, for your book, Haines. Five lines
+LINE 369: of text and ten pages of notes about the folk and the fishgods of
+LINE 370: Dundrum. Printed by the weird sisters in the year of the big wind.
+LINE 371: He turned to Stephen and asked in a fine puzzled voice, lifting his
+LINE 372: brows:
+LINE 373: —Can you recall, brother, is mother Grogan's tea and water pot spoken
+LINE 374: of in the Mabinogion or is it in the Upanishads?
+LINE 375: —I doubt it, said Stephen gravely.
+LINE 376: —Do you now? Buck Mulligan said in the same tone. Your reasons, pray?
+LINE 377: —I fancy, Stephen said as he ate, it did not exist in or out of the
+LINE 378: Mabinogion. Mother Grogan was, one imagines, a kinswoman of Mary Ann.
+LINE 379: Buck Mulligan's face smiled with delight.
+LINE 380: —Charming! he said in a finical sweet voice, showing his white teeth
+LINE 381: and blinking his eyes pleasantly. Do you think she was? Quite charming!
+LINE 382: Then, suddenly overclouding all his features, he growled in a hoarsened
+LINE 383: rasping voice as he hewed again vigorously at the loaf:
+LINE 384: _—For old Mary Ann
+LINE 385: She doesn't care a damn.
+LINE 386: But, hising up her petticoats..._
+LINE 387: He crammed his mouth with fry and munched and droned.
+LINE 388: The doorway was darkened by an entering form.
+LINE 389: —The milk, sir!
+LINE 390: —Come in, ma'am, Mulligan said. Kinch, get the jug.
+LINE 391: An old woman came forward and stood by Stephen's elbow.
+LINE 392: —That's a lovely morning, sir, she said. Glory be to God.
+LINE 393: —To whom? Mulligan said, glancing at her. Ah, to be sure!
+LINE 394: Stephen reached back and took the milkjug from the locker.
+LINE 395: —The islanders, Mulligan said to Haines casually, speak frequently of
+LINE 396: the collector of prepuces.
+LINE 397: —How much, sir? asked the old woman.
+LINE 398: —A quart, Stephen said.
+LINE 399: He watched her pour into the measure and thence into the jug rich white
+LINE 400: milk, not hers. Old shrunken paps. She poured again a measureful and a
+LINE 401: tilly. Old and secret she had entered from a morning world, maybe a
+LINE 402: messenger. She praised the goodness of the milk, pouring it out.
+LINE 403: Crouching by a patient cow at daybreak in the lush field, a witch on
+LINE 404: her toadstool, her wrinkled fingers quick at the squirting dugs. They
+LINE 405: lowed about her whom they knew, dewsilky cattle. Silk of the kine and
+LINE 406: poor old woman, names given her in old times. A wandering crone, lowly
+LINE 407: form of an immortal serving her conqueror and her gay betrayer, their
+LINE 408: common cuckquean, a messenger from the secret morning. To serve or to
+LINE 409: upbraid, whether he could not tell: but scorned to beg her favour.
+LINE 410: —It is indeed, ma'am, Buck Mulligan said, pouring milk into their cups.
+LINE 411: —Taste it, sir, she said.
+LINE 412: He drank at her bidding.
+LINE 413: —If we could live on good food like that, he said to her somewhat
+LINE 414: loudly, we wouldn't have the country full of rotten teeth and rotten
+LINE 415: guts. Living in a bogswamp, eating cheap food and the streets paved
+LINE 416: with dust, horsedung and consumptives' spits.
+LINE 417: —Are you a medical student, sir? the old woman asked.
+LINE 418: —I am, ma'am, Buck Mulligan answered.
+LINE 419: —Look at that now, she said.
+LINE 420: Stephen listened in scornful silence. She bows her old head to a voice
+LINE 421: that speaks to her loudly, her bonesetter, her medicineman: me she
+LINE 422: slights. To the voice that will shrive and oil for the grave all there
+LINE 423: is of her but her woman's unclean loins, of man's flesh made not in
+LINE 424: God's likeness, the serpent's prey. And to the loud voice that now bids
+LINE 425: her be silent with wondering unsteady eyes.
+LINE 426: —Do you understand what he says? Stephen asked her.
+LINE 427: —Is it French you are talking, sir? the old woman said to Haines.
+LINE 428: Haines spoke to her again a longer speech, confidently.
+LINE 429: —Irish, Buck Mulligan said. Is there Gaelic on you?
+LINE 430: —I thought it was Irish, she said, by the sound of it. Are you from the
+LINE 431: west, sir?
+LINE 432: —I am an Englishman, Haines answered.
+LINE 433: —He's English, Buck Mulligan said, and he thinks we ought to speak
+LINE 434: Irish in Ireland.
+LINE 435: —Sure we ought to, the old woman said, and I'm ashamed I don't speak
+LINE 436: the language myself. I'm told it's a grand language by them that knows.
+LINE 437: —Grand is no name for it, said Buck Mulligan. Wonderful entirely. Fill
+LINE 438: us out some more tea, Kinch. Would you like a cup, ma'am?
+LINE 439: —No, thank you, sir, the old woman said, slipping the ring of the
+LINE 440: milkcan on her forearm and about to go.
+LINE 441: Haines said to her:
+LINE 442: —Have you your bill? We had better pay her, Mulligan, hadn't we?
+LINE 443: Stephen filled again the three cups.
+LINE 444: —Bill, sir? she said, halting. Well, it's seven mornings a pint at
+LINE 445: twopence is seven twos is a shilling and twopence over and these three
+LINE 446: mornings a quart at fourpence is three quarts is a shilling. That's a
+LINE 447: shilling and one and two is two and two, sir.
+LINE 448: Buck Mulligan sighed and, having filled his mouth with a crust thickly
+LINE 449: buttered on both sides, stretched forth his legs and began to search
+LINE 450: his trouser pockets.
+LINE 451: —Pay up and look pleasant, Haines said to him, smiling.
+LINE 452: Stephen filled a third cup, a spoonful of tea colouring faintly the
+LINE 453: thick rich milk. Buck Mulligan brought up a florin, twisted it round in
+LINE 454: his fingers and cried:
+LINE 455: —A miracle!
+LINE 456: He passed it along the table towards the old woman, saying:
+LINE 457: —Ask nothing more of me, sweet. All I can give you I give.
+LINE 458: Stephen laid the coin in her uneager hand.
+LINE 459: —We'll owe twopence, he said.
+LINE 460: —Time enough, sir, she said, taking the coin. Time enough. Good
+LINE 461: morning, sir.
+LINE 462: She curtseyed and went out, followed by Buck Mulligan's tender chant:
+LINE 463: _—Heart of my heart, were it more,
+LINE 464: More would be laid at your feet._
+LINE 465: He turned to Stephen and said:
+LINE 466: —Seriously, Dedalus. I'm stony. Hurry out to your school kip and bring
+LINE 467: us back some money. Today the bards must drink and junket. Ireland
+LINE 468: expects that every man this day will do his duty.
+LINE 469: —That reminds me, Haines said, rising, that I have to visit your
+LINE 470: national library today.
+LINE 471: —Our swim first, Buck Mulligan said.
+LINE 472: He turned to Stephen and asked blandly:
+LINE 473: —Is this the day for your monthly wash, Kinch?
+LINE 474: Then he said to Haines:
+LINE 475: —The unclean bard makes a point of washing once a month.
+LINE 476: —All Ireland is washed by the gulfstream, Stephen said as he let honey
+LINE 477: trickle over a slice of the loaf.
+LINE 478: Haines from the corner where he was knotting easily a scarf about the
+LINE 479: loose collar of his tennis shirt spoke:
+LINE 480: —I intend to make a collection of your sayings if you will let me.
+LINE 481: Speaking to me. They wash and tub and scrub. Agenbite of inwit.
+LINE 482: Conscience. Yet here's a spot.
+LINE 483: —That one about the cracked lookingglass of a servant being the symbol
+LINE 484: of Irish art is deuced good.
+LINE 485: Buck Mulligan kicked Stephen's foot under the table and said with
+LINE 486: warmth of tone:
+LINE 487: —Wait till you hear him on Hamlet, Haines.
+LINE 488: —Well, I mean it, Haines said, still speaking to Stephen. I was just
+LINE 489: thinking of it when that poor old creature came in.
+LINE 490: —Would I make any money by it? Stephen asked.
+LINE 491: Haines laughed and, as he took his soft grey hat from the holdfast of
+LINE 492: the hammock, said:
+LINE 493: —I don't know, I'm sure.
+LINE 494: He strolled out to the doorway. Buck Mulligan bent across to Stephen
+LINE 495: and said with coarse vigour:
+LINE 496: —You put your hoof in it now. What did you say that for?
+LINE 497: —Well? Stephen said. The problem is to get money. From whom? From the
+LINE 498: milkwoman or from him. It's a toss up, I think.
+LINE 499: —I blow him out about you, Buck Mulligan said, and then you come along
+LINE 500: with your lousy leer and your gloomy jesuit jibes.
+LINE 501: —I see little hope, Stephen said, from her or from him.
+LINE 502: Buck Mulligan sighed tragically and laid his hand on Stephen's arm.
+LINE 503: —From me, Kinch, he said.
+LINE 504: In a suddenly changed tone he added:
+LINE 505: —To tell you the God's truth I think you're right. Damn all else they
+LINE 506: are good for. Why don't you play them as I do? To hell with them all.
+LINE 507: Let us get out of the kip.
+LINE 508: He stood up, gravely ungirdled and disrobed himself of his gown, saying
+LINE 509: resignedly:
+LINE 510: —Mulligan is stripped of his garments.
+LINE 511: He emptied his pockets on to the table.
+LINE 512: —There's your snotrag, he said.
+LINE 513: And putting on his stiff collar and rebellious tie he spoke to them,
+LINE 514: chiding them, and to his dangling watchchain. His hands plunged and
+LINE 515: rummaged in his trunk while he called for a clean handkerchief. God,
+LINE 516: we'll simply have to dress the character. I want puce gloves and green
+LINE 517: boots. Contradiction. Do I contradict myself? Very well then, I
+LINE 518: contradict myself. Mercurial Malachi. A limp black missile flew out of
+LINE 519: his talking hands.
+LINE 520: —And there's your Latin quarter hat, he said.
+LINE 521: Stephen picked it up and put it on. Haines called to them from the
+LINE 522: doorway:
+LINE 523: —Are you coming, you fellows?
+LINE 524: —I'm ready, Buck Mulligan answered, going towards the door. Come out,
+LINE 525: Kinch. You have eaten all we left, I suppose. Resigned he passed out
+LINE 526: with grave words and gait, saying, wellnigh with sorrow:
+LINE 527: —And going forth he met Butterly.
+LINE 528: Stephen, taking his ashplant from its leaningplace, followed them out
+LINE 529: and, as they went down the ladder, pulled to the slow iron door and
+LINE 530: locked it. He put the huge key in his inner pocket.
+LINE 531: At the foot of the ladder Buck Mulligan asked:
+LINE 532: —Did you bring the key?
+LINE 533: —I have it, Stephen said, preceding them.
+LINE 534: He walked on. Behind him he heard Buck Mulligan club with his heavy
+LINE 535: bathtowel the leader shoots of ferns or grasses.
+LINE 536: —Down, sir! How dare you, sir!
+LINE 537: Haines asked:
+LINE 538: —Do you pay rent for this tower?
+LINE 539: —Twelve quid, Buck Mulligan said.
+LINE 540: —To the secretary of state for war, Stephen added over his shoulder.
+LINE 541: They halted while Haines surveyed the tower and said at last:
+LINE 542: —Rather bleak in wintertime, I should say. Martello you call it?
+LINE 543: —Billy Pitt had them built, Buck Mulligan said, when the French were on
+LINE 544: the sea. But ours is the _omphalos_.
+LINE 545: —What is your idea of Hamlet? Haines asked Stephen.
+LINE 546: —No, no, Buck Mulligan shouted in pain. I'm not equal to Thomas Aquinas
+LINE 547: and the fiftyfive reasons he has made out to prop it up. Wait till I
+LINE 548: have a few pints in me first.
+LINE 549: He turned to Stephen, saying, as he pulled down neatly the peaks of his
+LINE 550: primrose waistcoat:
+LINE 551: —You couldn't manage it under three pints, Kinch, could you?
+LINE 552: —It has waited so long, Stephen said listlessly, it can wait longer.
+LINE 553: —You pique my curiosity, Haines said amiably. Is it some paradox?
+LINE 554: —Pooh! Buck Mulligan said. We have grown out of Wilde and paradoxes.
+LINE 555: It's quite simple. He proves by algebra that Hamlet's grandson is
+LINE 556: Shakespeare's grandfather and that he himself is the ghost of his own
+LINE 557: father.
+LINE 558: —What? Haines said, beginning to point at Stephen. He himself?
+LINE 559: Buck Mulligan slung his towel stolewise round his neck and, bending in
+LINE 560: loose laughter, said to Stephen's ear:
+LINE 561: —O, shade of Kinch the elder! Japhet in search of a father!
+LINE 562: —We're always tired in the morning, Stephen said to Haines. And it is
+LINE 563: rather long to tell.
+LINE 564: Buck Mulligan, walking forward again, raised his hands.
+LINE 565: —The sacred pint alone can unbind the tongue of Dedalus, he said.
+LINE 566: —I mean to say, Haines explained to Stephen as they followed, this
+LINE 567: tower and these cliffs here remind me somehow of Elsinore. _That
+LINE 568: beetles o'er his base into the sea,_ isn't it?
+LINE 569: Buck Mulligan turned suddenly for an instant towards Stephen but did
+LINE 570: not speak. In the bright silent instant Stephen saw his own image in
+LINE 571: cheap dusty mourning between their gay attires.
+LINE 572: —It's a wonderful tale, Haines said, bringing them to halt again.
+LINE 573: Eyes, pale as the sea the wind had freshened, paler, firm and prudent.
+LINE 574: The seas' ruler, he gazed southward over the bay, empty save for the
+LINE 575: smokeplume of the mailboat vague on the bright skyline and a sail
+LINE 576: tacking by the Muglins.
+LINE 577: —I read a theological interpretation of it somewhere, he said bemused.
+LINE 578: The Father and the Son idea. The Son striving to be atoned with the
+LINE 579: Father.
+LINE 580: Buck Mulligan at once put on a blithe broadly smiling face. He looked
+LINE 581: at them, his wellshaped mouth open happily, his eyes, from which he had
+LINE 582: suddenly withdrawn all shrewd sense, blinking with mad gaiety. He moved
+LINE 583: a doll's head to and fro, the brims of his Panama hat quivering, and
+LINE 584: began to chant in a quiet happy foolish voice:
+LINE 585: _—I'm the queerest young fellow that ever you heard.
+LINE 586: My mother's a jew, my father's a bird.
+LINE 587: With Joseph the joiner I cannot agree.
+LINE 588: So here's to disciples and Calvary._
+LINE 589: He held up a forefinger of warning.
+LINE 590: _—If anyone thinks that I amn't divine
+LINE 591: He'll get no free drinks when I'm making the wine
+LINE 592: But have to drink water and wish it were plain
+LINE 593: That I make when the wine becomes water again._
+LINE 594: He tugged swiftly at Stephen's ashplant in farewell and, running
+LINE 595: forward to a brow of the cliff, fluttered his hands at his sides like
+LINE 596: fins or wings of one about to rise in the air, and chanted:
+LINE 597: _—Goodbye, now, goodbye! Write down all I said
+LINE 598: And tell Tom, Dick and Harry I rose from the dead.
+LINE 599: What's bred in the bone cannot fail me to fly
+LINE 600: And Olivet's breezy... Goodbye, now, goodbye!_
+LINE 601: He capered before them down towards the fortyfoot hole, fluttering his
+LINE 602: winglike hands, leaping nimbly, Mercury's hat quivering in the fresh
+LINE 603: wind that bore back to them his brief birdsweet cries.
+LINE 604: Haines, who had been laughing guardedly, walked on beside Stephen and
+LINE 605: said:
+LINE 606: —We oughtn't to laugh, I suppose. He's rather blasphemous. I'm not a
+LINE 607: believer myself, that is to say. Still his gaiety takes the harm out of
+LINE 608: it somehow, doesn't it? What did he call it? Joseph the Joiner?
+LINE 609: —The ballad of joking Jesus, Stephen answered.
+LINE 610: —O, Haines said, you have heard it before?
+LINE 611: —Three times a day, after meals, Stephen said drily.
+LINE 612: —You're not a believer, are you? Haines asked. I mean, a believer in
+LINE 613: the narrow sense of the word. Creation from nothing and miracles and a
+LINE 614: personal God.
+LINE 615: —There's only one sense of the word, it seems to me, Stephen said.
+LINE 616: Haines stopped to take out a smooth silver case in which twinkled a
+LINE 617: green stone. He sprang it open with his thumb and offered it.
+LINE 618: —Thank you, Stephen said, taking a cigarette.
+LINE 619: Haines helped himself and snapped the case to. He put it back in his
+LINE 620: sidepocket and took from his waistcoatpocket a nickel tinderbox, sprang
+LINE 621: it open too, and, having lit his cigarette, held the flaming spunk
+LINE 622: towards Stephen in the shell of his hands.
+LINE 623: —Yes, of course, he said, as they went on again. Either you believe or
+LINE 624: you don't, isn't it? Personally I couldn't stomach that idea of a
+LINE 625: personal God. You don't stand for that, I suppose?
+LINE 626: —You behold in me, Stephen said with grim displeasure, a horrible
+LINE 627: example of free thought.
+LINE 628: He walked on, waiting to be spoken to, trailing his ashplant by his
+LINE 629: side. Its ferrule followed lightly on the path, squealing at his heels.
+LINE 630: My familiar, after me, calling, Steeeeeeeeeeeephen! A wavering line
+LINE 631: along the path. They will walk on it tonight, coming here in the dark.
+LINE 632: He wants that key. It is mine. I paid the rent. Now I eat his salt
+LINE 633: bread. Give him the key too. All. He will ask for it. That was in his
+LINE 634: eyes.
+LINE 635: —After all, Haines began...
+LINE 636: Stephen turned and saw that the cold gaze which had measured him was
+LINE 637: not all unkind.
+LINE 638: —After all, I should think you are able to free yourself. You are your
+LINE 639: own master, it seems to me.
+LINE 640: —I am a servant of two masters, Stephen said, an English and an
+LINE 641: Italian.
+LINE 642: —Italian? Haines said.
+LINE 643: A crazy queen, old and jealous. Kneel down before me.
+LINE 644: —And a third, Stephen said, there is who wants me for odd jobs.
+LINE 645: —Italian? Haines said again. What do you mean?
+LINE 646: —The imperial British state, Stephen answered, his colour rising, and
+LINE 647: the holy Roman catholic and apostolic church.
+LINE 648: Haines detached from his underlip some fibres of tobacco before he
+LINE 649: spoke.
+LINE 650: —I can quite understand that, he said calmly. An Irishman must think
+LINE 651: like that, I daresay. We feel in England that we have treated you
+LINE 652: rather unfairly. It seems history is to blame.
+LINE 653: The proud potent titles clanged over Stephen's memory the triumph of
+LINE 654: their brazen bells: _et unam sanctam catholicam et apostolicam
+LINE 655: ecclesiam:_ the slow growth and change of rite and dogma like his own
+LINE 656: rare thoughts, a chemistry of stars. Symbol of the apostles in the mass
+LINE 657: for pope Marcellus, the voices blended, singing alone loud in
+LINE 658: affirmation: and behind their chant the vigilant angel of the church
+LINE 659: militant disarmed and menaced her heresiarchs. A horde of heresies
+LINE 660: fleeing with mitres awry: Photius and the brood of mockers of whom
+LINE 661: Mulligan was one, and Arius, warring his life long upon the
+LINE 662: consubstantiality of the Son with the Father, and Valentine, spurning
+LINE 663: Christ's terrene body, and the subtle African heresiarch Sabellius who
+LINE 664: held that the Father was Himself His own Son. Words Mulligan had spoken
+LINE 665: a moment since in mockery to the stranger. Idle mockery. The void
+LINE 666: awaits surely all them that weave the wind: a menace, a disarming and a
+LINE 667: worsting from those embattled angels of the church, Michael's host, who
+LINE 668: defend her ever in the hour of conflict with their lances and their
+LINE 669: shields.
+LINE 670: Hear, hear! Prolonged applause. _Zut! Nom de Dieu!_
+LINE 671: —Of course I'm a Britisher, Haines's voice said, and I feel as one. I
+LINE 672: don't want to see my country fall into the hands of German jews either.
+LINE 673: That's our national problem, I'm afraid, just now.
+LINE 674: Two men stood at the verge of the cliff, watching: businessman,
+LINE 675: boatman.
+LINE 676: —She's making for Bullock harbour.
+LINE 677: The boatman nodded towards the north of the bay with some disdain.
+LINE 678: —There's five fathoms out there, he said. It'll be swept up that way
+LINE 679: when the tide comes in about one. It's nine days today.
+LINE 680: The man that was drowned. A sail veering about the blank bay waiting
+LINE 681: for a swollen bundle to bob up, roll over to the sun a puffy face,
+LINE 682: saltwhite. Here I am.
+LINE 683: They followed the winding path down to the creek. Buck Mulligan stood
+LINE 684: on a stone, in shirtsleeves, his unclipped tie rippling over his
+LINE 685: shoulder. A young man clinging to a spur of rock near him, moved slowly
+LINE 686: frogwise his green legs in the deep jelly of the water.
+LINE 687: —Is the brother with you, Malachi?
+LINE 688: —Down in Westmeath. With the Bannons.
+LINE 689: —Still there? I got a card from Bannon. Says he found a sweet young
+LINE 690: thing down there. Photo girl he calls her.
+LINE 691: —Snapshot, eh? Brief exposure.
+LINE 692: Buck Mulligan sat down to unlace his boots. An elderly man shot up near
+LINE 693: the spur of rock a blowing red face. He scrambled up by the stones,
+LINE 694: water glistening on his pate and on its garland of grey hair, water
+LINE 695: rilling over his chest and paunch and spilling jets out of his black
+LINE 696: sagging loincloth.
+LINE 697: Buck Mulligan made way for him to scramble past and, glancing at Haines
+LINE 698: and Stephen, crossed himself piously with his thumbnail at brow and
+LINE 699: lips and breastbone.
+LINE 700: —Seymour's back in town, the young man said, grasping again his spur of
+LINE 701: rock. Chucked medicine and going in for the army.
+LINE 702: —Ah, go to God! Buck Mulligan said.
+LINE 703: —Going over next week to stew. You know that red Carlisle girl, Lily?
+LINE 704: —Yes.
+LINE 705: —Spooning with him last night on the pier. The father is rotto with
+LINE 706: money.
+LINE 707: —Is she up the pole?
+LINE 708: —Better ask Seymour that.
+LINE 709: —Seymour a bleeding officer! Buck Mulligan said.
+LINE 710: He nodded to himself as he drew off his trousers and stood up, saying
+LINE 711: tritely:
+LINE 712: —Redheaded women buck like goats.
+LINE 713: He broke off in alarm, feeling his side under his flapping shirt.
+LINE 714: —My twelfth rib is gone, he cried. I'm the _Übermensch._ Toothless
+LINE 715: Kinch and I, the supermen.
+LINE 716: He struggled out of his shirt and flung it behind him to where his
+LINE 717: clothes lay.
+LINE 718: —Are you going in here, Malachi?
+LINE 719: —Yes. Make room in the bed.
+LINE 720: The young man shoved himself backward through the water and reached the
+LINE 721: middle of the creek in two long clean strokes. Haines sat down on a
+LINE 722: stone, smoking.
+LINE 723: —Are you not coming in? Buck Mulligan asked.
+LINE 724: —Later on, Haines said. Not on my breakfast.
+LINE 725: Stephen turned away.
+LINE 726: —I'm going, Mulligan, he said.
+LINE 727: —Give us that key, Kinch, Buck Mulligan said, to keep my chemise flat.
+LINE 728: Stephen handed him the key. Buck Mulligan laid it across his heaped
+LINE 729: clothes.
+LINE 730: —And twopence, he said, for a pint. Throw it there.
+LINE 731: Stephen threw two pennies on the soft heap. Dressing, undressing. Buck
+LINE 732: Mulligan erect, with joined hands before him, said solemnly:
+LINE 733: —He who stealeth from the poor lendeth to the Lord. Thus spake
+LINE 734: Zarathustra.
+LINE 735: His plump body plunged.
+LINE 736: —We'll see you again, Haines said, turning as Stephen walked up the
+LINE 737: path and smiling at wild Irish.
+LINE 738: Horn of a bull, hoof of a horse, smile of a Saxon.
+LINE 739: —The Ship, Buck Mulligan cried. Half twelve.
+LINE 740: —Good, Stephen said.
+LINE 741: He walked along the upwardcurving path.
+LINE 742: Liliata rutilantium.
+LINE 743: Turma circumdet.
+LINE 744: Iubilantium te virginum.
+LINE 745: The priest's grey nimbus in a niche where he dressed discreetly. I will
+LINE 746: not sleep here tonight. Home also I cannot go.
+LINE 747: A voice, sweettoned and sustained, called to him from the sea. Turning
+LINE 748: the curve he waved his hand. It called again. A sleek brown head, a
+LINE 749: seal's, far out on the water, round.
+LINE 750: Usurper.

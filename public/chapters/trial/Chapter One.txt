@@ -1,0 +1,857 @@
+LINE 1: Someone must have been telling lies about Josef K., he knew he had done
+LINE 2: nothing wrong but, one morning, he was arrested. Every day at eight in
+LINE 3: the morning he was brought his breakfast by Mrs. Grubach's cook--Mrs.
+LINE 4: Grubach was his landlady--but today she didn't come. That had never
+LINE 5: happened before. K. waited a little while, looked from his pillow at the
+LINE 6: old woman who lived opposite and who was watching him with an
+LINE 7: inquisitiveness quite unusual for her, and finally, both hungry and
+LINE 8: disconcerted, rang the bell. There was immediately a knock at the door
+LINE 9: and a man entered. He had never seen the man in this house before. He
+LINE 10: was slim but firmly built, his clothes were black and close-fitting,
+LINE 11: with many folds and pockets, buckles and buttons and a belt, all of
+LINE 12: which gave the impression of being very practical but without making it
+LINE 13: very clear what they were actually for. "Who are you?" asked K., sitting
+LINE 14: half upright in his bed. The man, however, ignored the question as if
+LINE 15: his arrival simply had to be accepted, and merely replied, "You rang?"
+LINE 16: "Anna should have brought me my breakfast," said K. He tried to work
+LINE 17: out who the man actually was, first in silence, just through
+LINE 18: observation and by thinking about it, but the man didn't stay still to
+LINE 19: be looked at for very long. Instead he went over to the door, opened it
+LINE 20: slightly, and said to someone who was clearly standing immediately
+LINE 21: behind it, "He
+LINE 22: wants Anna to bring him his breakfast." There was a little laughter in
+LINE 23: the neighbouring room, it was not clear from the sound of it whether
+LINE 24: there were several people laughing. The strange man could not have
+LINE 25: learned anything from it that he hadn't known already, but now he said
+LINE 26: to K., as if making his report "It is not possible." "It would be the
+LINE 27: first time that's happened," said K., as he jumped out of bed and
+LINE 28: quickly pulled on his trousers. "I want to see who that is in the next
+LINE 29: room, and why it is that Mrs. Grubach has let me be disturbed in this
+LINE 30: way." It immediately occurred to him that he needn't have said this out
+LINE 31: loud, and that he must to some extent have acknowledged their authority
+LINE 32: by doing so, but that didn't seem important to him at the time. That, at
+LINE 33: least, is how the stranger took it, as he said, "Don't you think you'd
+LINE 34: better stay where you are?" "I want neither to stay here nor to be
+LINE 35: spoken to by you until you've introduced yourself." "I meant it for your
+LINE 36: own good," said the stranger and opened the door, this time without
+LINE 37: being asked. The next room, which K. entered more slowly than he had
+LINE 38: intended, looked at first glance exactly the same as it had the previous
+LINE 39: evening. It was Mrs. Grubach's living room, over-filled with furniture,
+LINE 40: tablecloths, porcelain and photographs. Perhaps there was a little more
+LINE 41: space in there than usual today, but if so it was not immediately
+LINE 42: obvious, especially as the main difference was the presence of a man
+LINE 43: sitting by the open window with a book from which he now looked up.
+LINE 44: "You should have stayed in your room! Didn't Franz tell you?" "And what
+LINE 45: is it you want, then?" said K., looking back and forth between this new
+LINE 46: acquaintance and the one named Franz, who had remained in the doorway.
+LINE 47: Through the open window he noticed the old woman again, who had come
+LINE 48: close to the window opposite so that she could continue to see
+LINE 49: everything. She was showing an inquisitiveness that really made it seem
+LINE 50: like she was going senile. "I want to see Mrs. Grubach ...," said K.,
+LINE 51: making a movement as if tearing himself away from the two men--even
+LINE 52: though they were standing well away from him--and wanted to go. "No,"
+LINE 53: said the man at the window, who threw his book down on a coffee table
+LINE 54: and stood up. "You can't go away when you're under arrest." "That's how
+LINE 55: it seems," said K. "And why am I under arrest?" he then asked. "That's
+LINE 56: something we're not allowed to tell you. Go into your room and wait
+LINE 57: there. Proceedings are underway and you'll learn about everything all in
+LINE 58: good time. It's not really part of my job to be friendly towards you
+LINE 59: like this, but I hope no-one, apart from Franz, will hear about it, and
+LINE 60: he's been more friendly towards you than he should have been, under the
+LINE 61: rules, himself. If you carry on having as much good luck as you have
+LINE 62: been with your arresting officers then you can reckon on things going
+LINE 63: well with you." K. wanted to sit down, but then he saw that, apart from
+LINE 64: the chair by the window, there was nowhere anywhere in the room where he
+LINE 65: could sit. "You'll get the chance to see for yourself how true all this
+LINE 66: is," said Franz and both men then walked up to K. They were
+LINE 67: significantly bigger than him, especially the second man, who frequently
+LINE 68: slapped him on the shoulder. The two of them felt K.'s nightshirt, and
+LINE 69: said he would now have to wear one that was of much lower quality, but
+LINE 70: that they would keep the nightshirt along with his other underclothes
+LINE 71: and return them to him if his case turned out well. "It's better for you
+LINE 72: if you give us the things than if you leave them in the storeroom," they
+LINE 73: said. "Things have a tendency to go missing in the storeroom, and after
+LINE 74: a certain amount of time they sell things off, whether the case involved
+LINE 75: has come to an end or not. And cases like this can last a long time,
+LINE 76: especially the ones that have been coming up lately. They'd give you the
+LINE 77: money they got for them, but it wouldn't be very much as it's not what
+LINE 78: they're offered for them when they sell them that counts, it's how much
+LINE 79: they get slipped on the side, and things like that lose their value
+LINE 80: anyway when they get passed on from hand to hand, year after year." K.
+LINE 81: paid hardly any attention to what they were saying, he did not place
+LINE 82: much value on what he may have still possessed or on who decided what
+LINE 83: happened to them. It was much more important to him to get a clear
+LINE 84: understanding of his position, but he could not think clearly while
+LINE 85: these people were here, the second policeman's belly--and they could
+LINE 86: only be policemen--looked friendly enough, sticking out towards him, but
+LINE 87: when K. looked up and saw his dry, bony face it did not seem to fit
+LINE 88: with the body. His strong nose twisted to one side as if ignoring K. and
+LINE 89: sharing an understanding with the other policeman. What sort of people
+LINE 90: were these? What were they talking about? What office did they belong
+LINE 91: to? K. was living in a free country, after all, everywhere was at peace,
+LINE 92: all laws were decent and were upheld, who was it who dared accost him in
+LINE 93: his own home. He was always inclined to take life as lightly as he
+LINE 94: could, to cross bridges when he came to them, pay no heed for the
+LINE 95: future, even when everything seemed under threat. But here that did not
+LINE 96: seem the right thing to do. He could have taken it all as a joke, a big
+LINE 97: joke set up by his colleagues at the bank for some unknown reason, or
+LINE 98: also perhaps because today was his thirtieth birthday, it was all
+LINE 99: possible of course, maybe all he had to do was laugh in the policemen's
+LINE 100: face in some way and they would laugh with him, maybe they were
+LINE 101: tradesmen from the corner of the street, they looked like they might
+LINE 102: be--but he was nonetheless determined, ever since he first caught sight
+LINE 103: of the one called Franz, not to lose any slight advantage he might have
+LINE 104: had over these people. There was a very slight risk that people would
+LINE 105: later say he couldn't understand a joke, but--although he wasn't
+LINE 106: normally in the habit of learning from experience--he might also have
+LINE 107: had a few unimportant occasions in mind when, unlike his more cautious
+LINE 108: friends, he had acted with no thought at all for what might follow and
+LINE 109: had been made to suffer for it. He didn't want that to happen again, not
+LINE 110: this time at least; if they were play-acting he would act along with
+LINE 111: them.
+LINE 112: He still had time. "Allow me," he said, and hurried between the two
+LINE 113: policemen through into his room. "He seems sensible enough," he heard
+LINE 114: them say behind him. Once in his room, he quickly pulled open the drawer
+LINE 115: of his writing desk, everything in it was very tidy but in his
+LINE 116: agitation he was unable to find the identification documents he was
+LINE 117: looking for straight away. He finally found his bicycle permit and was
+LINE 118: about to go back to the policemen with it when it seemed to him too
+LINE 119: petty, so he carried on searching until he found his birth certificate.
+LINE 120: Just as he got back in the adjoining room the door on the other side
+LINE 121: opened and Mrs. Grubach was about to enter. He only saw her for an
+LINE 122: instant, for as soon as she recognised K. she was clearly embarrassed,
+LINE 123: asked for forgiveness and disappeared, closing the door behind her very
+LINE 124: carefully. "Do come in," K. could have said just then. But now he stood
+LINE 125: in the middle of the room with his papers in his hand and still looking
+LINE 126: at the door which did not open again. He stayed like that until he was
+LINE 127: startled out of it by the shout of the policeman who sat at the little
+LINE 128: table at the open window and, as K. now saw, was eating his breakfast.
+LINE 129: "Why didn't she come in?" he asked. "She's not allowed to," said the
+LINE 130: big policeman. "You're under arrest, aren't you?" "But how can I be
+LINE 131: under arrest? And how come it's like this?" "Now you're starting again,"
+LINE 132: said the policeman, dipping a piece of buttered bread in the honeypot.
+LINE 133: "We don't answer questions like that." "You will have to answer them,"
+LINE 134: said K. "Here are my identification papers, now show me yours and I
+LINE 135: certainly want to see the arrest warrant." "Oh, my God!" said the
+LINE 136: policeman. "In a position like yours, and you think you can start giving
+LINE 137: orders, do you. It won't do you any good to get us on the wrong side,
+LINE 138: even if you think it will--we're probably more on your side that anyone
+LINE 139: else you know!" "That's true, you know, you'd better believe it," said
+LINE 140: Franz, holding a cup of coffee in his hand which he did not lift to his
+LINE 141: mouth but looked at K. in a way that was probably meant to be full of
+LINE 142: meaning but could not actually be understood. K. found himself, without
+LINE 143: intending it, in a mute dialogue with Franz, but then slapped his hand
+LINE 144: down on his papers and said, "Here are my identity documents." "And what
+LINE 145: do you want us to do about it?" replied the big policeman, loudly. "The
+LINE 146: way you're carrying on, it's worse than a child. What is it you want? Do
+LINE 147: you want to get this great, bloody trial of yours over with quickly by
+LINE 148: talking about ID and arrest warrants with us? We're just coppers, that's
+LINE 149: all we are. Junior officers like us hardly know one end of an ID card
+LINE 150: from another, all we've got to do with you is keep an eye on you for
+LINE 151: ten hours a day and get paid for it. That's all we are. Mind you, what
+LINE 152: we can do is make sure that the high officials we work for find out
+LINE 153: just what sort of person it is they're going to arrest, and why he
+LINE 154: should be arrested, before they issue the warrant. There's no mistake
+LINE 155: there. Our authorities as far as I know, and I only know the lowest
+LINE 156: grades, don't go out looking for guilt among the public; it's the guilt
+LINE 157: that draws them out, like it says in the law, and they have to send us
+LINE 158: police officers out. That's the law. Where d'you think there'd be any
+LINE 159: mistake there?" "I don't know this law," said K. "So much the worse for
+LINE 160: you, then," said the policeman. "It's probably exists only in your
+LINE 161: heads," said K., he wanted, in some way, to insinuate his way into the
+LINE 162: thoughts of the policemen, to re-shape those thoughts to his benefit or
+LINE 163: to make himself at home there. But the policeman just said dismissively,
+LINE 164: "You'll find out when it affects you." Franz joined in, and said, "Look
+LINE 165: at this, Willem, he admits he doesn't know the law and at the same time
+LINE 166: insists he's innocent." "You're quite right, but we can't get him to
+LINE 167: understand a thing," said the other. K. stopped talking with them; do I,
+LINE 168: he thought to himself, do I really have to carry on getting tangled up
+LINE 169: with the chattering of base functionaries like this?--and they admit
+LINE 170: themselves that they are of the lowest position. They're talking about
+LINE 171: things of which they don't have the slightest understanding, anyway.
+LINE 172: It's only because of their stupidity that they're able to be so sure of
+LINE 173: themselves. I just need few words with someone of the same social
+LINE 174: standing as myself and everything will be incomparably clearer, much
+LINE 175: clearer than a long conversation with these two can make it. He walked
+LINE 176: up and down the free space in the room a couple of times, across the
+LINE 177: street he could see the old woman who, now, had pulled an old man, much
+LINE 178: older than herself, up to the window and had her arms around him. K. had
+LINE 179: to put an end to this display, "Take me to your superior," he said. "As
+LINE 180: soon as he wants to see you. Not before," said the policeman, the one
+LINE 181: called Willem. "And now my advice to you," he added, "is to go into your
+LINE 182: room, stay calm, and wait and see what's to be done with you. If you
+LINE 183: take our advice, you won't tire yourself out thinking about things to no
+LINE 184: purpose, you need to pull yourself together as there's a lot that's
+LINE 185: going to required of you. You've not behaved towards us the way we
+LINE 186: deserve after being so good to you, you forget that we, whatever we are,
+LINE 187: we're still free men and you're not, and that's quite an advantage. But
+LINE 188: in spite of all that we're still willing, if you've got the money, to go
+LINE 189: and get you some breakfast from the café over the road."
+LINE 190: Without giving any answer to this offer, K. stood still for some time.
+LINE 191: Perhaps, if he opened the door of the next room or even the front door,
+LINE 192: the two of them would not dare to stand in his way, perhaps that would
+LINE 193: be the simplest way to settle the whole thing, by bringing it to a head.
+LINE 194: But maybe they would grab him, and if he were thrown down on the ground
+LINE 195: he would lose all the advantage he, in a certain respect, had over them.
+LINE 196: So he decided on the more certain solution, the way things would go in
+LINE 197: the natural course of events, and went back in his room without another
+LINE 198: word either from him or from the policemen.
+LINE 199: He threw himself down on his bed, and from the dressing table he took
+LINE 200: the nice apple that he had put there the previous evening for his
+LINE 201: breakfast. Now it was all the breakfast he had and anyway, as he
+LINE 202: confirmed as soon as he took his first, big bite of it, it was far
+LINE 203: better than a breakfast he could have had through the good will of the
+LINE 204: policemen from the dirty café. He felt well and confident, he had failed
+LINE 205: to go into work at the bank this morning but that could easily be
+LINE 206: excused because of the relatively high position he held there. Should he
+LINE 207: really send in his explanation? He wondered about it. If nobody believed
+LINE 208: him, and in this case that would be understandable, he could bring Mrs.
+LINE 209: Grubach in as a witness, or even the old pair from across the street,
+LINE 210: who probably even now were on their way over to the window opposite. It
+LINE 211: puzzled K., at least it puzzled him looking at it from the policemen's
+LINE 212: point of view, that they had made him go into the room and left him
+LINE 213: alone there, where he had ten different ways of killing himself. At the
+LINE 214: same time, though, he asked himself, this time looking at it from his
+LINE 215: own point of view, what reason he could have to do so. Because those two
+LINE 216: were sitting there in the next room and had taken his breakfast,
+LINE 217: perhaps. It would have been so pointless to kill himself that, even if
+LINE 218: he had wanted to, the pointlessness would have made him unable. Maybe,
+LINE 219: if the policemen had not been so obviously limited in their mental
+LINE 220: abilities, it could have been supposed that they had come to the same
+LINE 221: conclusion and saw no danger in leaving him alone because of it. They
+LINE 222: could watch now, if they wanted, and see how he went over to the
+LINE 223: cupboard in the wall where he kept a bottle of good schnapps, how he
+LINE 224: first emptied a glass of it in place of his breakfast and how he then
+LINE 225: took a second glassful in order to give himself courage, the last one
+LINE 226: just as a precaution for the unlikely chance it would be needed.
+LINE 227: Then he was so startled by a shout to him from the other room that he
+LINE 228: struck his teeth against the glass. "The supervisor wants to see you!" a
+LINE 229: voice said. It was only the shout that startled him, this curt, abrupt,
+LINE 230: military shout, that he would not have expected from the policeman
+LINE 231: called Franz. In itself, he found the order very welcome. "At last!" he
+LINE 232: called back, locked the cupboard and, without delay, hurried into the
+LINE 233: next room. The two policemen were standing there and chased him back
+LINE 234: into his bedroom as if that were a matter of course. "What d'you think
+LINE 235: you're doing?" they cried. "Think you're going to see the supervisor
+LINE 236: dressed in just your shirt, do you? He'd see to it you got a right
+LINE 237: thumping, and us and all!" "Let go of me for God's sake!" called K., who
+LINE 238: had already been pushed back as far as his wardrobe, "if you accost me
+LINE 239: when I'm still in bed you can't expect to find me in my evening dress."
+LINE 240: "That won't help you," said the policemen, who always became very quiet,
+LINE 241: almost sad, when K. began to shout, and in that way confused him or, to
+LINE 242: some extent, brought him to his senses. "Ridiculous formalities!" he
+LINE 243: grumbled, as he lifted his coat from the chair and kept it in both his
+LINE 244: hands for a little while, as if holding it out for the policemen's
+LINE 245: inspection. They shook their heads. "It's got to be a black coat,"
+LINE 246: they said. At that, K. threw the coat to the floor and said--without
+LINE 247: knowing even himself what he meant by it--"Well it's not going to be the
+LINE 248: main trial, after all." The policemen laughed, but continued to insist,
+LINE 249: "It's got to be a black coat." "Well that's alright by me if it makes
+LINE 250: things go any faster," said K. He opened the wardrobe himself, spent a
+LINE 251: long time searching through all the clothes, and chose his best black
+LINE 252: suit which had a short jacket that had greatly surprised those who knew
+LINE 253: him, then he also pulled out a fresh shirt and began, carefully, to get
+LINE 254: dressed. He secretly told himself that he had succeeded in speeding
+LINE 255: things up by letting the policemen forget to make him have a bath. He
+LINE 256: watched them to see if they might remember after all, but of course it
+LINE 257: never occurred to them, although Willem did not forget to send Franz up
+LINE 258: to the supervisor with the message saying that K. was getting dressed.
+LINE 259: Once he was properly dressed, K. had to pass by Willem as he went
+LINE 260: through the next room into the one beyond, the door of which was already
+LINE 261: wide open. K. knew very well that this room had recently been let to a
+LINE 262: typist called 'Miss Bürstner'. She was in the habit of going out to work
+LINE 263: very early and coming back home very late, and K. had never exchanged
+LINE 264: more than a few words of greeting with her. Now, her bedside table had
+LINE 265: been pulled into the middle of the room to be used as a desk for these
+LINE 266: proceedings, and the supervisor sat behind it. He had his legs crossed,
+LINE 267: and had thrown one arm over the backrest of the chair.
+LINE 268: In one corner of the room there were three young people looking at the
+LINE 269: photographs belonging to Miss Bürstner that had been put into a piece of
+LINE 270: fabric on the wall. Hung up on the handle of the open window was a white
+LINE 271: blouse. At the window across the street, there was the old pair again,
+LINE 272: although now their number had increased, as behind them, and far taller
+LINE 273: than they were, stood a man with an open shirt that showed his chest and
+LINE 274: a reddish goatee beard which he squeezed and twisted with his fingers.
+LINE 275: "Josef K.?" asked the supervisor, perhaps merely to attract K.'s
+LINE 276: attention as he looked round the room. K. nodded. "I daresay you were
+LINE 277: quite surprised by all that's been taking place this morning," said the
+LINE 278: supervisor as, with both hands, he pushed away the few items on the
+LINE 279: bedside table--the candle and box of matches, a book and a pin cushion
+LINE 280: which lay there as if they were things he would need for his own
+LINE 281: business. "Certainly," said K., and he began to feel relaxed now that,
+LINE 282: at last, he stood in front of someone with some sense, someone with whom
+LINE 283: he would be able to talk about his situation. "Certainly I'm surprised,
+LINE 284: but I'm not in any way very surprised." "You're not very surprised?"
+LINE 285: asked the supervisor, as he positioned the candle in the middle of the
+LINE 286: table and the other things in a group around it. "Perhaps you don't
+LINE 287: quite understand me," K. hurriedly pointed out. "What I mean is ..."
+LINE 288: here K. broke off what he was saying and looked round for somewhere to
+LINE 289: sit. "I may sit down, mayn't I?" he asked. "That's not usual," the
+LINE 290: supervisor answered. "What I mean is ...," said K. without delaying a
+LINE 291: second time, "that, yes, I am very surprised but when you've been in the
+LINE 292: world for thirty years already and had to make your own way through
+LINE 293: everything yourself, which has been my lot, then you become hardened to
+LINE 294: surprises and don't take them too hard. Especially not what's happened
+LINE 295: today." "Why especially not what's happened today?" "I wouldn't want to
+LINE 296: say that I see all of this as a joke, you seem to have gone to too much
+LINE 297: trouble making all these arrangements for that. Everyone in the house
+LINE 298: must be taking part in it as well as all of you, that would be going
+LINE 299: beyond what could be a joke. So I don't want to say that this is a
+LINE 300: joke." "Quite right," said the supervisor, looking to see how many
+LINE 301: matches were left in the box. "But on the other hand," K. went on,
+LINE 302: looking round at everyone there and even wishing he could get the
+LINE 303: attention of the three who were looking at the photographs, "on the
+LINE 304: other hand this really can't be all that important. That follows from
+LINE 305: the fact that I've been indicted, but can't think of the slightest
+LINE 306: offence for which I could be indicted. But even that is all beside the
+LINE 307: point, the main question is: Who is issuing the indictment? What office
+LINE 308: is conducting this affair? Are you officials? None of you is wearing a
+LINE 309: uniform, unless what you are wearing"--here he turned towards Franz--"is
+LINE 310: meant to be a uniform, it's actually more of a travelling suit. I
+LINE 311: require a clear answer to all these questions, and I'm quite sure that
+LINE 312: once things have been made clear we can take our leave of each other on
+LINE 313: the best of terms." The supervisor slammed the box of matches down on
+LINE 314: the table. "You're making a big mistake," he said. "These gentlemen and
+LINE 315: I have got nothing to do with your business, in fact we know almost
+LINE 316: nothing about you. We could be wearing uniforms as proper and exact as
+LINE 317: you like and your situation wouldn't be any the worse for it. As to
+LINE 318: whether you're on a charge, I can't give you any sort of clear answer to
+LINE 319: that, I don't even know whether you are or not. You're under arrest,
+LINE 320: you're quite right about that, but I don't know any more than that.
+LINE 321: Maybe these officers have been chit-chatting with you, well if they have
+LINE 322: that's all it is, chit-chat. I can't give you an answer to your
+LINE 323: questions, but I can give you a bit of advice: You'd better think less
+LINE 324: about us and what's going to happen to you, and think a bit more about
+LINE 325: yourself. And stop making all this fuss about your sense of innocence;
+LINE 326: you don't make such a bad impression, but with all this fuss you're
+LINE 327: damaging it. And you ought to do a bit less talking, too. Almost
+LINE 328: everything you've said so far has been things we could have taken from
+LINE 329: your behaviour, even if you'd said no more than a few words. And what
+LINE 330: you have said has not exactly been in your favour."
+LINE 331: K. stared at the supervisor. Was this man, probably younger than he was,
+LINE 332: lecturing him like a schoolmaster. Was he being punished for his honesty
+LINE 333: with a telling off. And was he to learn nothing about the reasons for
+LINE 334: his arrest or those who were arresting him. He became somewhat cross and
+LINE 335: began to walk up and down. No-one stopped him doing this and he pushed
+LINE 336: his sleeves back, felt his chest, straightened his hair, went over to
+LINE 337: the three men, said, "It makes no sense," at which these three turned
+LINE 338: round to face him and came towards him with serious expressions. He
+LINE 339: finally came again to a halt in front of the supervisor's desk. "State
+LINE 340: Attorney Hasterer is a good friend of mine," he said, "can I telephone
+LINE 341: him?" "Certainly," said the supervisor, "but I don't know what the point
+LINE 342: of that will be, I suppose you must have some private matter you want to
+LINE 343: discuss with him." "What the point is?" shouted K., more disconcerted
+LINE 344: that cross. "Who do you think you are? You want to see some point in it
+LINE 345: while you're carrying out something as pointless as it could be. It's
+LINE 346: enough to make you cry! These gentlemen first accost me, and now they
+LINE 347: sit or stand about in here and let me be hauled up in front of you.
+LINE 348: What point there would be, in telephoning a state attorney when I'm
+LINE 349: ostensibly under arrest? Very well, I won't make the telephone call."
+LINE 350: "You can call him if you want to," said the supervisor, stretching his
+LINE 351: hand out towards the outer room where the telephone was, "please, go on,
+LINE 352: do make your phone call." "No, I don't want to any more," said K., and
+LINE 353: went over to the window. Across the street, the people were still there
+LINE 354: at the window, and it was only now that K. had gone up to his window
+LINE 355: that they seemed to become uneasy about quietly watching what was going
+LINE 356: on. The old couple wanted to get up but the man behind them calmed them
+LINE 357: down. "We've got some kind of audience over there," called K. to the
+LINE 358: supervisor, quite loudly, as he pointed out with his forefinger. "Go
+LINE 359: away," he then called across to them. And the three of them did
+LINE 360: immediately retreat a few steps, the old pair even found themselves
+LINE 361: behind the man who then concealed them with the breadth of his body and
+LINE 362: seemed, going by the movements of his mouth, to be saying something
+LINE 363: incomprehensible into the distance. They did not disappear entirely,
+LINE 364: though, but seemed to be waiting for the moment when they could come
+LINE 365: back to the window without being noticed. "Intrusive, thoughtless
+LINE 366: people!" said K. as he turned back into the room. The supervisor may
+LINE 367: have agreed with him, at least K. thought that was what he saw from the
+LINE 368: corner of his eye. But it was just as possible that he had not even been
+LINE 369: listening as he had his hand pressed firmly down on the table and seemed
+LINE 370: to be comparing the length of his fingers. The two policemen were
+LINE 371: sitting on a chest covered with a coloured blanket, rubbing their knees.
+LINE 372: The three young people had put their hands on their hips and were
+LINE 373: looking round aimlessly. Everything was still, like in some office that
+LINE 374: has been forgotten about. "Now, gentlemen," called out K., and for a
+LINE 375: moment it seemed as if he was carrying all of them on his shoulders, "it
+LINE 376: looks like your business with me is over with. In my opinion, it's best
+LINE 377: now to stop wondering about whether you're proceeding correctly or
+LINE 378: incorrectly, and to bring the matter to a peaceful close with a mutual
+LINE 379: handshake. If you are of the same opinion, then please...." and he
+LINE 380: walked up to the supervisor's desk and held out his hand to him. The
+LINE 381: supervisor raised his eyes, bit his lip and looked at K.'s outstretched
+LINE 382: hand; K. still believed the supervisor would do as he suggested. But
+LINE 383: instead, he stood up, picked up a hard round hat that was laying on
+LINE 384: Miss Bürstner's bed and put it carefully onto his head, using both hands
+LINE 385: as if trying on a new hat. "Everything seems so simple to you, doesn't
+LINE 386: it," he said to K. as he did so, "so you think we should bring the
+LINE 387: matter to a peaceful close, do you? No, no, that won't do. Mind you, on
+LINE 388: the other hand I certainly wouldn't want you to think there's no hope
+LINE 389: for you. No, why should you think that? You're simply under arrest,
+LINE 390: nothing more than that. That's what I had to tell you, that's what I've
+LINE 391: done and now I've seen how you've taken it. That's enough for one day
+LINE 392: and we can take our leave of each other, for the time being at least. I
+LINE 393: expect you'll want to go in to the bank now, won't you?" "In to the
+LINE 394: bank?" asked K., "I thought I was under arrest." K. said this with a
+LINE 395: certain amount of defiance as, although his handshake had not been
+LINE 396: accepted, he was feeling more independent of all these people,
+LINE 397: especially since the supervisor had stood up. He was playing with them.
+LINE 398: If they left, he had decided he would run after them and offer to let
+LINE 399: them arrest him. That's why he even repeated, "How can I go in to the
+LINE 400: bank when I'm under arrest?" "I see you've misunderstood me," said the
+LINE 401: supervisor who was already at the door. "It's true that you're under
+LINE 402: arrest, but that shouldn't stop you from carrying out your job. And
+LINE 403: there shouldn't be anything to stop you carrying on with your usual
+LINE 404: life." "In that case it's not too bad, being under arrest," said K., and
+LINE 405: went up close to the supervisor. "I never meant it should be anything
+LINE 406: else," he replied. "It hardly seems to have been necessary to notify me
+LINE 407: of the arrest in that case," said K., and went even closer. The others
+LINE 408: had also come closer. All of them had gathered together into a narrow
+LINE 409: space by the door. "That was my duty," said the supervisor. "A silly
+LINE 410: duty," said K., unyielding. "Maybe so," replied the supervisor, "only
+LINE 411: don't let's waste our time talking on like this. I had assumed you'd be
+LINE 412: wanting to go to the bank. As you're paying close attention to every
+LINE 413: word I'll add this: I'm not forcing you to go to the bank, I'd just
+LINE 414: assumed you wanted to. And to make things easier for you, and to let you
+LINE 415: get to the bank with as little fuss as possible I've put these three
+LINE 416: gentlemen, colleagues of yours, at your disposal." "What's that?"
+LINE 417: exclaimed K., and looked at the three in astonishment. He could only
+LINE 418: remember seeing them in their group by the photographs, but these
+LINE 419: characterless, anaemic young people were indeed officials from his bank,
+LINE 420: not colleagues of his, that was putting it too high and it showed a gap
+LINE 421: in the omniscience of the supervisor, but they were nonetheless junior
+LINE 422: members of staff at the bank. How could K. have failed to see that? How
+LINE 423: occupied he must have been with the supervisor and the policemen not to
+LINE 424: have recognised these three! Rabensteiner, with his stiff demeanour and
+LINE 425: swinging hands, Kullich, with his blonde hair and deep-set eyes, and
+LINE 426: Kaminer, with his involuntary grin caused by chronic muscle spasms.
+LINE 427: "Good morning," said K. after a while, extending his hand to the
+LINE 428: gentlemen as they bowed correctly to him. "I didn't recognise you at
+LINE 429: all. So, we'll go into work now, shall we?" The gentlemen laughed and
+LINE 430: nodded enthusiastically, as if that was what they had been waiting for
+LINE 431: all the time, except that K. had left his hat in his room so they all
+LINE 432: dashed, one after another, into the room to fetch it, which caused a
+LINE 433: certain amount of embarrassment. K. stood where he was and watched them
+LINE 434: through the open double doorway, the last to go, of course, was the
+LINE 435: apathetic Rabensteiner who had broken into no more than an elegant trot.
+LINE 436: Kaminer got to the hat and K., as he often had to do at the bank,
+LINE 437: forcibly reminded himself that the grin was not deliberate, that he in
+LINE 438: fact wasn't able to grin deliberately. At that moment Mrs. Grubach
+LINE 439: opened the door from the hallway into the living room where all the
+LINE 440: people were. She did not seem to feel guilty about anything at all, and
+LINE 441: K., as often before, looked down at the belt of her apron which, for no
+LINE 442: reason, cut so deeply into her hefty body. Once downstairs, K., with his
+LINE 443: watch in his hand, decided to take a taxi--he had already been delayed
+LINE 444: by half an hour and there was no need to make the delay any longer.
+LINE 445: Kaminer ran to the corner to summon it, and the two others were making
+LINE 446: obvious efforts to keep K. diverted when Kullich pointed to the doorway
+LINE 447: of the house on the other side of the street where the large man with
+LINE 448: the blonde goatee beard appeared and, a little embarrassed at first at
+LINE 449: letting himself be seen in his full height, stepped back to the wall and
+LINE 450: leant against it. The old couple were probably still on the stairs. K.
+LINE 451: was cross with Kullich for pointing out this man whom he had already
+LINE 452: seen himself, in fact whom he had been expecting. "Don't look at him!"
+LINE 453: he snapped, without noticing how odd it was to speak to free men in this
+LINE 454: way. But there was no explanation needed anyway as just then the taxi
+LINE 455: arrived, they sat inside and set off. Inside the taxi, K. remembered
+LINE 456: that he had not noticed the supervisor and the policemen leaving--the
+LINE 457: supervisor had stopped him noticing the three bank staff and now the
+LINE 458: three bank staff had stopped him noticing the supervisor. This showed
+LINE 459: that K. was not very attentive, and he resolved to watch himself more
+LINE 460: carefully in this respect. Nonetheless, he gave it no thought as he
+LINE 461: twisted himself round and leant over onto the rear shelf of the car to
+LINE 462: catch sight of the supervisor and the policemen if he could. But he
+LINE 463: turned back round straight away and leant comfortably into the corner of
+LINE 464: the taxi without even having made the effort to see anyone. Although it
+LINE 465: did not seem like it, now was just the time when he needed some
+LINE 466: encouragement, but the gentlemen seemed tired just then, Rabensteiner
+LINE 467: looked out of the car to the right, Kullich to the left and only Kaminer
+LINE 468: was there with his grin at K.'s service. It would have been inhumane to
+LINE 469: make fun of that.
+LINE 470: That spring, whenever possible, K. usually spent his evenings after
+LINE 471: work--he usually stayed in the office until nine o'clock--with a short
+LINE 472: walk, either by himself or in the company of some of the bank officials,
+LINE 473: and then he would go into a pub where he would sit at the regulars'
+LINE 474: table with mostly older men until eleven. There were, however, also
+LINE 475: exceptions to this habit, times, for instance, when K. was invited by
+LINE 476: the bank's manager (whom he greatly respected for his industry and
+LINE 477: trustworthiness) to go with him for a ride in his car or to eat dinner
+LINE 478: with him at his large house. K. would also go, once a week, to see a
+LINE 479: girl called Elsa who worked as a waitress in a wine bar through the
+LINE 480: night until late in the morning. During the daytime she only received
+LINE 481: visitors while still in bed.
+LINE 482: That evening, though,--the day had passed quickly with a lot of hard
+LINE 483: work and many respectful and friendly birthday greetings--K. wanted to
+LINE 484: go straight home. Each time he had any small break from the day's work
+LINE 485: he considered, without knowing exactly what he had in mind, that Mrs.
+LINE 486: Grubach's flat seemed to have been put into great disarray by the events
+LINE 487: of that morning, and that it was up to him to put it back into order.
+LINE 488: Once order had been restored, every trace of those events would have
+LINE 489: been erased and everything would take its previous course once more. In
+LINE 490: particular, there was nothing to fear from the three bank officials,
+LINE 491: they had immersed themselves back into their paperwork and there was no
+LINE 492: alteration to be seen in them. K. had called each of them, separately or
+LINE 493: all together, into his office that day for no other reason than to
+LINE 494: observe them; he was always satisfied and had always been able to let
+LINE 495: them go again.
+LINE 496: At half past nine that evening, when he arrived back in front of the
+LINE 497: building where he lived, he met a young lad in the doorway who was
+LINE 498: standing there, his legs apart and smoking a pipe. "Who are you?"
+LINE 499: immediately asked K., bringing his face close to the lad's, as it was
+LINE 500: hard to see in the half light of the landing. "I'm the landlord's son,
+LINE 501: sir," answered the lad, taking the pipe from his mouth and stepping to
+LINE 502: one side. "The landlord's son?" asked K., and impatiently knocked on the
+LINE 503: ground with his stick. "Did you want anything, sir? Would you like me
+LINE 504: to fetch my father?" "No, no," said K., there was something forgiving
+LINE 505: in his voice, as if the boy had harmed him in some way and he was
+LINE 506: excusing him. "It's alright," he said then, and went on, but before
+LINE 507: going up the stairs he turned round once more.
+LINE 508: He could have gone directly to his room, but as he wanted to speak with
+LINE 509: Mrs. Grubach he went straight to her door and knocked. She was sat at
+LINE 510: the table with a knitted stocking and a pile of old stockings in front
+LINE 511: of her. K. apologised, a little embarrassed at coming so late, but Mrs.
+LINE 512: Grubach was very friendly and did not want to hear any apology, she was
+LINE 513: always ready to speak to him, he knew very well that he was her best and
+LINE 514: her favourite tenant. K. looked round the room, it looked exactly as it
+LINE 515: usually did, the breakfast dishes, which had been on the table by the
+LINE 516: window that morning, had already been cleared away. "A woman's hands
+LINE 517: will do many things when no-one's looking," he thought, he might himself
+LINE 518: have smashed all the dishes on the spot but certainly would not have
+LINE 519: been able to carry it all out. He looked at Mrs. Grubach with some
+LINE 520: gratitude. "Why are you working so late?" he asked. They were now both
+LINE 521: sitting at the table, and K. now and then sank his hands into the pile
+LINE 522: of stockings. "There's a lot of work to do," she said, "during the day I
+LINE 523: belong to the tenants; if I'm to sort out my own things there are only
+LINE 524: the evenings left to me." "I fear I may have caused you some exceptional
+LINE 525: work today." "How do you mean, Mr. K.?" she asked, becoming more
+LINE 526: interested and leaving her work in her lap. "I mean the men who were
+LINE 527: here this morning." "Oh, I see," she said, and went peacefully back to
+LINE 528: what she was doing, "that was no trouble, not especially." K. looked on
+LINE 529: in silence as she took up the knitted stocking once more. She seems
+LINE 530: surprised at my mentioning it, he thought, she seems to think it's
+LINE 531: improper for me to mention it. All the more important for me to do so.
+LINE 532: An old woman is the only person I can speak about it with. "But it must
+LINE 533: have caused some work for you," he said then, "but it won't happen
+LINE 534: again." "No, it can't happen again," she agreed, and smiled at K. in a
+LINE 535: way that was almost pained. "Do you mean that seriously?" asked K.
+LINE 536: "Yes," she said, more gently, "but the important thing is you mustn't
+LINE 537: take it too hard. There are so many awful things happening in the world!
+LINE 538: As you're being so honest with me, Mr. K., I can admit to you that I
+LINE 539: listened to a little of what was going on from behind the door, and that
+LINE 540: those two policemen told me one or two things as well. It's all to do
+LINE 541: with your happiness, and that's something that's quite close to my
+LINE 542: heart, perhaps more than it should be as I am, after all, only your
+LINE 543: landlady. Anyway, so I heard one or two things but I can't really say
+LINE 544: that it's about anything very serious. No. You have been arrested, but
+LINE 545: it's not in the same way as when they arrest a thief. If you're arrested
+LINE 546: in the same way as a thief, then it's bad, but an arrest like this....
+LINE 547: It seems to me that it's something very complicated--forgive me if I'm
+LINE 548: saying something stupid--something very complicated that I don't
+LINE 549: understand, but something that you don't really need to understand
+LINE 550: anyway."
+LINE 551: "There's nothing stupid about what you've said, Mrs. Grubach, or at
+LINE 552: least I partly agree with you, only, the way I judge the whole thing is
+LINE 553: harsher than yours, and think it's not only not something complicated
+LINE 554: but simply a fuss about nothing. I was just caught unawares, that's what
+LINE 555: happened. If I had got up as soon as I was awake without letting myself
+LINE 556: get confused because Anna wasn't there, if I'd got up and paid no regard
+LINE 557: to anyone who might have been in my way and come straight to you, if I'd
+LINE 558: done something like having my breakfast in the kitchen as an exception,
+LINE 559: asked you to bring my clothes from my room, in short, if I had behaved
+LINE 560: sensibly then nothing more would have happened, everything that was
+LINE 561: waiting to happen would have been stifled. People are so often
+LINE 562: unprepared. In the bank, for example, I am well prepared, nothing of
+LINE 563: this sort could possibly happen to me there, I have my own assistant
+LINE 564: there, there are telephones for internal and external calls in front of
+LINE 565: me on the desk, I continually receive visits from people,
+LINE 566: representatives, officials, but besides that, and most importantly, I'm
+LINE 567: always occupied with my work, that's to say I'm always alert, it would
+LINE 568: even be a pleasure for me to find myself faced with something of that
+LINE 569: sort. But now it's over with, and I didn't really even want to talk
+LINE 570: about it any more, only I wanted to hear what you, as a sensible woman,
+LINE 571: thought about it all, and I'm very glad to hear that we're in agreement.
+LINE 572: But now you must give me your hand, an agreement of this sort needs to
+LINE 573: be confirmed with a handshake."
+LINE 574: Will she shake hands with me? The supervisor didn't shake hands, he
+LINE 575: thought, and looked at the woman differently from before, examining her.
+LINE 576: She stood up, as he had also stood up, and was a little self-conscious,
+LINE 577: she hadn't been able to understand everything that K. said. As a result
+LINE 578: of this self-consciousness she said something that she certainly did
+LINE 579: not intend and certainly was not appropriate. "Don't take it so hard,
+LINE 580: Mr. K.," she said, with tears in her voice and also, of course,
+LINE 581: forgetting the handshake. "I didn't know I was taking it hard," said K.,
+LINE 582: feeling suddenly tired and seeing that if this woman did agree with him
+LINE 583: it was of very little value.
+LINE 584: Before going out the door he asked, "Is Miss Bürstner home?" "No," said
+LINE 585: Mrs. Grubach, smiling as she gave this simple piece of information,
+LINE 586: saying something sensible at last. "She's at the theatre. Did you want
+LINE 587: to see her? Should I give her a message?" "I, er, I just wanted to have
+LINE 588: a few words with her." "I'm afraid I don't know when she's coming in;
+LINE 589: she usually gets back late when she's been to the theatre." "It really
+LINE 590: doesn't matter," said K. his head hanging as he turned to the door to
+LINE 591: leave, "I just wanted to give her my apology for taking over her room
+LINE 592: today." "There's no need for that, Mr. K., you're too conscientious, the
+LINE 593: young lady doesn't know anything about it, she hasn't been home since
+LINE 594: early this morning and everything's been tidied up again, you can see
+LINE 595: for yourself." And she opened the door to Miss Bürstner's room. "Thank
+LINE 596: you, I'll take your word for it," said K., but went nonetheless over to
+LINE 597: the open door. The moon shone quietly into the unlit room. As far as
+LINE 598: could be seen, everything was indeed in its place, not even the blouse
+LINE 599: was hanging on the window handle. The pillows on the bed looked
+LINE 600: remarkably plump as they lay half in the moonlight. "Miss Bürstner often
+LINE 601: comes home late," said K., looking at Mrs. Grubach as if that were her
+LINE 602: responsibility. "That's how young people are!" said Mrs. Grubach to
+LINE 603: excuse herself. "Of course, of course," said K., "but it can be taken
+LINE 604: too far." "Yes, it can be," said Mrs. Grubach, "you're so right, Mr. K.
+LINE 605: Perhaps it is in this case. I certainly wouldn't want to say anything
+LINE 606: nasty about Miss Bürstner, she is a good, sweet girl, friendly, tidy,
+LINE 607: punctual, works hard, I appreciate all that very much, but one thing is
+LINE 608: true, she ought to have more pride, be a bit less forthcoming. Twice
+LINE 609: this month already, in the street over the way, I've seen her with a
+LINE 610: different gentleman. I really don't like saying this, you're the only
+LINE 611: one I've said this to, Mr. K., I swear to God, but I'm going to have no
+LINE 612: choice but to have a few words with Miss Bürstner about it myself. And
+LINE 613: it's not the only thing about her that I'm worried about." "Mrs.
+LINE 614: Grubach, you are on quite the wrong track," said K., so angry that he
+LINE 615: was hardly able to hide it, "and you have moreover misunderstood what I
+LINE 616: was saying about Miss Bürstner, that is not what I meant. In fact I warn
+LINE 617: you quite directly not to say anything to her, you are quite mistaken, I
+LINE 618: know Miss Bürstner very well and there is no truth at all in what you
+LINE 619: say. And what's more, perhaps I'm going to far, I don't want to get in
+LINE 620: your way, say to her whatever you see fit. Good night." "Mr. K.," said
+LINE 621: Mrs. Grubach as if asking him for something and hurrying to his door
+LINE 622: which he had already opened, "I don't want to speak to Miss Bürstner at
+LINE 623: all, not yet, of course I'll continue to keep an eye on her but you're
+LINE 624: the only one I've told what I know. And it is, after all something that
+LINE 625: everyone who lets rooms has to do if she's to keep the house decent,
+LINE 626: that's all I'm trying to do." "Decent!" called out K. through the crack
+LINE 627: in the door, "if you want to keep the house decent you'll first have to
+LINE 628: give me notice." Then he slammed the door shut, there was a gentle
+LINE 629: knocking to which he paid no more attention.
+LINE 630: He did not feel at all like going to bed, so he decided to stay up, and
+LINE 631: this would also give him the chance to find out when Miss Bürstner would
+LINE 632: arrive home. Perhaps it would also still be possible, even if a little
+LINE 633: inappropriate, to have a few words with her. As he lay there by the
+LINE 634: window, pressing his hands to his tired eyes, he even thought for a
+LINE 635: moment that he might punish Mrs. Grubach by persuading Miss Bürstner to
+LINE 636: give in her notice at the same time as he would. But he immediately
+LINE 637: realised that that would be shockingly excessive, and there would even
+LINE 638: be the suspicion that he was moving house because of the incidents of
+LINE 639: that morning. Nothing would have been more nonsensical and, above all,
+LINE 640: more pointless and contemptible.
+LINE 641: When he had become tired of looking out onto the empty street he
+LINE 642: slightly opened the door to the living room so that he could see anyone
+LINE 643: who entered the flat from where he was and lay down on the couch. He lay
+LINE 644: there, quietly smoking a cigar, until about eleven o'clock. He wasn't
+LINE 645: able to hold out longer than that, and went a little way into the
+LINE 646: hallway as if in that way he could make Miss Bürstner arrive sooner. He
+LINE 647: had no particular desire for her, he could not even remember what she
+LINE 648: looked like, but now he wanted to speak to her and it irritated him that
+LINE 649: her late arrival home meant this day would be full of unease and
+LINE 650: disorder right to its very end. It was also her fault that he had not
+LINE 651: had any dinner that evening and that he had been unable to visit Elsa
+LINE 652: as he had intended. He could still make up for both of those things,
+LINE 653: though, if he went to the wine bar where Elsa worked. He wanted to do so
+LINE 654: even later, after the discussion with Miss Bürstner.
+LINE 655: It was already gone half past eleven when someone could be heard in the
+LINE 656: stairway. K., who had been lost in his thoughts in the hallway, walking
+LINE 657: up and down loudly as if it were his own room, fled behind his door.
+LINE 658: Miss Bürstner had arrived. Shivering, she pulled a silk shawl over her
+LINE 659: slender shoulders as she locked the door. The next moment she would
+LINE 660: certainly go into her room, where K. ought not to intrude in the middle
+LINE 661: of the night; that meant he would have to speak to her now, but,
+LINE 662: unfortunately, he had not put the electric light on in his room so that
+LINE 663: when he stepped out of the dark it would give the impression of being an
+LINE 664: attack and would certainly, at the very least, have been quite alarming.
+LINE 665: There was no time to lose, and in his helplessness he whispered through
+LINE 666: the crack of the door, "Miss Bürstner." It sounded like he was pleading
+LINE 667: with her, not calling to her. "Is there someone there?" asked Miss
+LINE 668: Bürstner, looking round with her eyes wide open. "It's me," said K. and
+LINE 669: came out. "Oh, Mr. K.!" said Miss Bürstner with a smile. "Good Evening,"
+LINE 670: and offered him her hand. "I wanted to have a word with you, if you
+LINE 671: would allow me?" "Now?" asked Miss Bürstner, "does it have to be now? It
+LINE 672: is a little odd, isn't it?" "I've been waiting for you since nine
+LINE 673: o'clock." "Well, I was at the theatre, I didn't know anything about you
+LINE 674: waiting for me." "The reason I need to speak to you only came up
+LINE 675: today." "I see, well I don't see why not, I suppose, apart from being
+LINE 676: so tired I could drop. Come into my room for a few minutes then. We
+LINE 677: certainly can't talk out here, we'd wake everyone up and I think that
+LINE 678: would be more unpleasant for us than for them. Wait here till I've put
+LINE 679: the light on in my room, and then turn the light down out here." K. did
+LINE 680: as he was told, and then even waited until Miss Bürstner came out of her
+LINE 681: room and quietly invited him, once more, to come in. "Sit down," she
+LINE 682: said, indicating the ottoman, while she herself remained standing by
+LINE 683: the bedpost despite the tiredness she had spoken of; she did not even
+LINE 684: take off her hat, which was small but decorated with an abundance of
+LINE 685: flowers. "What is it you wanted, then? I'm really quite curious." She
+LINE 686: gently crossed her legs. "I expect you'll say," K. began, "that the
+LINE 687: matter really isn't all that urgent and we don't need to talk about it
+LINE 688: right now, but...." "I never listen to introductions," said Miss
+LINE 689: Bürstner. "That makes my job so much easier," said K. "This morning, to
+LINE 690: some extent through my fault, your room was made a little untidy, this
+LINE 691: happened because of people I did not know and against my will but, as I
+LINE 692: said, because of my fault; I wanted to apologise for it." "My room?"
+LINE 693: asked Miss Bürstner, and instead of looking round the room scrutinised
+LINE 694: K. "It is true," said K., and now, for the first time, they looked each
+LINE 695: other in the eyes, "there's no point in saying exactly how this came
+LINE 696: about." "But that's the interesting thing about it," said Miss Bürstner.
+LINE 697: "No," said K. "Well then," said Miss Bürstner, "I don't want to force my
+LINE 698: way into any secrets, if you insist that it's of no interest I won't
+LINE 699: insist. I'm quite happy to forgive you for it, as you ask, especially as
+LINE 700: I can't see anything at all that's been left untidy." With her hand laid
+LINE 701: flat on her lower hip, she made a tour around the room. At the mat where
+LINE 702: the photographs were she stopped. "Look at this!" she cried. "My
+LINE 703: photographs really have been put in the wrong places. Oh, that's
+LINE 704: horrible. Someone really has been in my room without permission." K.
+LINE 705: nodded, and quietly cursed Kaminer who worked at his bank and who was
+LINE 706: always active doing things that had neither use nor purpose. "It is
+LINE 707: odd," said Miss Bürstner, "that I'm forced to forbid you to do something
+LINE 708: that you ought to have forbidden yourself to do, namely to come into my
+LINE 709: room when I'm not here." "But I did explain to you," said K., and went
+LINE 710: over to join her by the photographs, "that it wasn't me who interfered
+LINE 711: with your photographs; but as you don't believe me I'll have to admit
+LINE 712: that the investigating committee brought along three bank employees with
+LINE 713: them, one of them must have touched your photographs and as soon as I
+LINE 714: get the chance I'll ask to have him dismissed from the bank. Yes, there
+LINE 715: was an investigating committee here," added K., as the young lady was
+LINE 716: looking at him enquiringly. "Because of you?" she asked. "Yes," answered
+LINE 717: K. "No!" the lady cried with a laugh. "Yes, they were," said K., "you
+LINE 718: believe that I'm innocent then, do you?" "Well now, innocent ..." said
+LINE 719: the lady, "I don't want to start making any pronouncements that might
+LINE 720: have serious consequences, I don't really know you after all, it means
+LINE 721: they're dealing with a serious criminal if they send an investigating
+LINE 722: committee straight out to get him. But you're not in custody now--at
+LINE 723: least I take it you've not escaped from prison considering that you seem
+LINE 724: quite calm--so you can't have committed any crime of that sort." "Yes,"
+LINE 725: said K., "but it might be that the investigating committee could see
+LINE 726: that I'm innocent, or not so guilty as had been supposed." "Yes, that's
+LINE 727: certainly a possibility," said Miss Bürstner, who seemed very
+LINE 728: interested. "Listen," said K., "you don't have much experience in legal
+LINE 729: matters." "No, that's true, I don't," said Miss Bürstner, "and I've
+LINE 730: often regretted it, as I'd like to know everything and I'm very
+LINE 731: interested in legal matters. There's something peculiarly attractive
+LINE 732: about the law, isn't there. But I'll certainly be perfecting my
+LINE 733: knowledge in this area, as next month I start work in a legal office."
+LINE 734: "That's very good," said K., "that means you'll be able to give me some
+LINE 735: help with my trial." "That could well be," said Miss Bürstner, "why not?
+LINE 736: I like to make use of what I know." "I mean it quite seriously," said
+LINE 737: K., "or at least, half seriously, as you do. This affair is too petty to
+LINE 738: call in a lawyer, but I could make good use of someone who could give me
+LINE 739: advice." "Yes, but if I'm to give you advice I'll have to know what it's
+LINE 740: all about," said Miss Bürstner. "That's exactly the problem," said K.,
+LINE 741: "I don't know that myself." "So you have been making fun of me, then,"
+LINE 742: said Miss Bürstner exceedingly disappointed, "you really ought not to
+LINE 743: try something like that on at this time of night." And she stepped away
+LINE 744: from the photographs where they had stood so long together. "Miss
+LINE 745: Bürstner, no," said K., "I'm not making fun of you. Please believe me!
+LINE 746: I've already told you everything I know. More than I know, in fact, as
+LINE 747: it actually wasn't even an investigating committee, that's just what I
+LINE 748: called them because I don't know what else to call them. There was no
+LINE 749: cross questioning at all, I was merely arrested, but by a committee."
+LINE 750: Miss Bürstner sat on the ottoman and laughed again. "What was it like
+LINE 751: then?" she asked. "It was terrible," said K., although his mind was no
+LINE 752: longer on the subject, he had become totally absorbed by Miss Bürstner's
+LINE 753: gaze who was supporting her chin on one hand--the elbow rested on the
+LINE 754: cushion of the ottoman--and slowly stroking her hip with the other.
+LINE 755: "That's too vague," said Miss Bürstner. "What's too vague?" asked K.
+LINE 756: Then he remembered himself and asked, "Would you like me to show you
+LINE 757: what it was like?" He wanted to move in some way but did not want to
+LINE 758: leave. "I'm already tired," said Miss Bürstner. "You arrived back so
+LINE 759: late," said K. "Now you've started telling me off. Well I suppose I
+LINE 760: deserve it as I shouldn't have let you in here in the first place, and
+LINE 761: it turns out there wasn't even any point." "Oh, there was a point,
+LINE 762: you'll see now how important a point it was," said K. "May I move this
+LINE 763: table away from your bedside and put it here?" "What do you think you're
+LINE 764: doing?" said Miss Bürstner. "Of course you can't!" "In that case I
+LINE 765: can't show you," said K., quite upset, as if Miss Bürstner had committed
+LINE 766: some incomprehensible offence against him. "Alright then, if you need it
+LINE 767: to show what you mean, just take the bedside table then," said Miss
+LINE 768: Bürstner, and after a short pause added in a weak voice, "I'm so tired
+LINE 769: I'm allowing more than I ought to." K. put the little table in the
+LINE 770: middle of the room and sat down behind it. "You have to get a proper
+LINE 771: idea of where the people were situated, it is very interesting. I'm the
+LINE 772: supervisor, sitting over there on the chest are two policemen, standing
+LINE 773: next to the photographs there are three young people. Hanging on the
+LINE 774: handle of the window is a white blouse--I just mention that by the way.
+LINE 775: And now it begins. Ah yes, I'm forgetting myself, the most important
+LINE 776: person of all, so I'm standing here in front of the table. The
+LINE 777: supervisor is sitting extremely comfortably with his legs crossed and
+LINE 778: his arm hanging over the backrest here like some layabout. And now it
+LINE 779: really does begin. The supervisor calls out as if he had to wake me up,
+LINE 780: in fact he shouts at me, I'm afraid, if I'm to make it clear to you,
+LINE 781: I'll have to shout as well, and it's nothing more than my name that he
+LINE 782: shouts out." Miss Bürstner, laughing as she listened to him, laid her
+LINE 783: forefinger on her mouth so that K. would not shout, but it was too late.
+LINE 784: K. was too engrossed in his role and slowly called out, "Josef K.!" It
+LINE 785: was not as loud as he had threatened, but nonetheless, once he had
+LINE 786: suddenly called it out, the cry seemed gradually to spread itself all
+LINE 787: round the room.
+LINE 788: There was a series of loud, curt and regular knocks at the door of the
+LINE 789: adjoining room. Miss Bürstner went pale and laid her hand on her heart.
+LINE 790: K. was especially startled, as for a moment he had been quite unable to
+LINE 791: think of anything other than the events of that morning and the girl for
+LINE 792: whom he was performing them. He had hardly pulled himself together when
+LINE 793: he jumped over to Miss Bürstner and took her hand. "Don't be afraid," he
+LINE 794: whispered, "I'll put everything right. But who can it be? It's only the
+LINE 795: living room next door, nobody sleeps in there." "Yes they do," whispered
+LINE 796: Miss Bürstner into K.'s ear, "a nephew of Mrs. Grubach's, a captain in
+LINE 797: the army, has been sleeping there since yesterday. There's no other room
+LINE 798: free. I'd forgotten about it too. Why did you have to shout like that?
+LINE 799: You've made me quite upset." "There is no reason for it," said K., and,
+LINE 800: now as she sank back onto the cushion, kissed her forehead. "Go away, go
+LINE 801: away," she said, hurriedly sitting back up, "get out of here, go, what
+LINE 802: is it you want, he's listening at the door, he can hear everything.
+LINE 803: You're causing me so much trouble!" "I won't go," said K., "until you've
+LINE 804: calmed down a bit. Come over into the other corner of the room, he
+LINE 805: won't be able to hear us there." She let him lead her there. "Don't
+LINE 806: forget," he said, "although this might be unpleasant for you you're not
+LINE 807: in any real danger. You know how much esteem Mrs. Grubach has for me,
+LINE 808: she's the one who will make all the decisions in this, especially as the
+LINE 809: captain is her nephew, but she believes everything I say without
+LINE 810: question. What's more, she has borrowed a large sum of money from me and
+LINE 811: that makes her dependent on me. I will confirm whatever you say to
+LINE 812: explain our being here together, however inappropriate it might be, and
+LINE 813: I guarantee to make sure that Mrs. Grubach will not only say she
+LINE 814: believes the explanation in public but will believe it truly and
+LINE 815: sincerely. You will have no need to consider me in any way. If you wish
+LINE 816: to let it be known that I have attacked you then Mrs. Grubach will be
+LINE 817: informed of such and she will believe it without even losing her trust
+LINE 818: in me, that's how much respect she has for me." Miss Bürstner looked at
+LINE 819: the floor in front of her, quiet and a little sunk in on herself. "Why
+LINE 820: would Mrs. Grubach not believe that I've attacked you?" added K. He
+LINE 821: looked at her hair in front of him, parted, bunched down, reddish and
+LINE 822: firmly held in place. He thought she would look up at him, but without
+LINE 823: changing her manner she said, "Forgive me, but it was the suddenness of
+LINE 824: the knocking that startled me so much, not so much what the consequences
+LINE 825: of the captain being here might be. It was all so quiet after you'd
+LINE 826: shouted, and then there was the knocking, that's what made me so
+LINE 827: shocked, and I was sitting right by the door, the knocking was right
+LINE 828: next to me. Thank you for your suggestions, but I won't accept them. I
+LINE 829: can bear the responsibility for anything that happens in my room myself,
+LINE 830: and I can do so with anyone. I'm surprised you don't realise just how
+LINE 831: insulting your suggestions are and what they imply about me, although I
+LINE 832: certainly acknowledge your good intentions. But now, please go, leave me
+LINE 833: alone, I need you to go now even more than I did earlier. The couple of
+LINE 834: minutes you asked for have grown into half an hour, more than half an
+LINE 835: hour now." K. took hold of her hand, and then of her wrist, "You're not
+LINE 836: cross with me, though?" he said. She pulled her hand away and answered,
+LINE 837: "No, no, I'm never cross with anyone." He grasped her wrist once more,
+LINE 838: she tolerated it now and, in that way, led him to the door. He had
+LINE 839: fully intended to leave. But when he reached the door he came to a halt
+LINE 840: as if he hadn't expected to find a door there, Miss Bürstner made use of
+LINE 841: that moment to get herself free, open the door, slip out into the
+LINE 842: hallway and gently say to K. from there, "Now, come along, please.
+LINE 843: Look," she pointed to the captain's door, from under which there was a
+LINE 844: light shining, "he's put a light on and he's laughing at us." "Alright,
+LINE 845: I'm coming," said K., moved forward, took hold of her, kissed her on
+LINE 846: the mouth and then over her whole face like a thirsty animal lapping
+LINE 847: with its tongue when it eventually finds water. He finally kissed her on
+LINE 848: her neck and her throat and left his lips pressed there for a long time.
+LINE 849: He did not look up until there was a noise from the captain's room.
+LINE 850: "I'll go now," he said, he wanted to address Miss Bürstner by her
+LINE 851: Christian name, but did not know it. She gave him a tired nod, offered
+LINE 852: him her hand to kiss as she turned away as if she did not know what she
+LINE 853: was doing, and went back into her room with her head bowed. A short
+LINE 854: while later, K. was lying in his bed. He very soon went to sleep, but
+LINE 855: before he did he thought a little while about his behaviour, he was
+LINE 856: satisfied with it but felt some surprise that he was not more satisfied;
+LINE 857: he was seriously worried about Miss Bürstner because of the captain.

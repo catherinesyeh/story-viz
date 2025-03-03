@@ -1,0 +1,1375 @@
+LINE 1: The summer evening had begun to fold the world in its mysterious
+LINE 2: embrace. Far away in the west the sun was setting and the last glow of
+LINE 3: all too fleeting day lingered lovingly on sea and strand, on the proud
+LINE 4: promontory of dear old Howth guarding as ever the waters of the bay, on
+LINE 5: the weedgrown rocks along Sandymount shore and, last but not least, on
+LINE 6: the quiet church whence there streamed forth at times upon the
+LINE 7: stillness the voice of prayer to her who is in her pure radiance a
+LINE 8: beacon ever to the stormtossed heart of man, Mary, star of the sea.
+LINE 9: The three girl friends were seated on the rocks, enjoying the evening
+LINE 10: scene and the air which was fresh but not too chilly. Many a time and
+LINE 11: oft were they wont to come there to that favourite nook to have a cosy
+LINE 12: chat beside the sparkling waves and discuss matters feminine, Cissy
+LINE 13: Caffrey and Edy Boardman with the baby in the pushcar and Tommy and
+LINE 14: Jacky Caffrey, two little curlyheaded boys, dressed in sailor suits
+LINE 15: with caps to match and the name _H. M. S. Belleisle_ printed on both.
+LINE 16: For Tommy and Jacky Caffrey were twins, scarce four years old and very
+LINE 17: noisy and spoiled twins sometimes but for all that darling little
+LINE 18: fellows with bright merry faces and endearing ways about them. They
+LINE 19: were dabbling in the sand with their spades and buckets, building
+LINE 20: castles as children do, or playing with their big coloured ball, happy
+LINE 21: as the day was long. And Edy Boardman was rocking the chubby baby to
+LINE 22: and fro in the pushcar while that young gentleman fairly chuckled with
+LINE 23: delight. He was but eleven months and nine days old and, though still a
+LINE 24: tiny toddler, was just beginning to lisp his first babyish words. Cissy
+LINE 25: Caffrey bent over to him to tease his fat little plucks and the dainty
+LINE 26: dimple in his chin.
+LINE 27: —Now, baby, Cissy Caffrey said. Say out big, big. I want a drink of
+LINE 28: water.
+LINE 29: And baby prattled after her:
+LINE 30: —A jink a jink a jawbo.
+LINE 31: Cissy Caffrey cuddled the wee chap for she was awfully fond of
+LINE 32: children, so patient with little sufferers and Tommy Caffrey could
+LINE 33: never be got to take his castor oil unless it was Cissy Caffrey that
+LINE 34: held his nose and promised him the scatty heel of the loaf or brown
+LINE 35: bread with golden syrup on. What a persuasive power that girl had! But
+LINE 36: to be sure baby Boardman was as good as gold, a perfect little dote in
+LINE 37: his new fancy bib. None of your spoilt beauties, Flora MacFlimsy sort,
+LINE 38: was Cissy Caffrey. A truerhearted lass never drew the breath of life,
+LINE 39: always with a laugh in her gipsylike eyes and a frolicsome word on her
+LINE 40: cherryripe red lips, a girl lovable in the extreme. And Edy Boardman
+LINE 41: laughed too at the quaint language of little brother.
+LINE 42: But just then there was a slight altercation between Master Tommy and
+LINE 43: Master Jacky. Boys will be boys and our two twins were no exception to
+LINE 44: this golden rule. The apple of discord was a certain castle of sand
+LINE 45: which Master Jacky had built and Master Tommy would have it right go
+LINE 46: wrong that it was to be architecturally improved by a frontdoor like
+LINE 47: the Martello tower had. But if Master Tommy was headstrong Master Jacky
+LINE 48: was selfwilled too and, true to the maxim that every little Irishman's
+LINE 49: house is his castle, he fell upon his hated rival and to such purpose
+LINE 50: that the wouldbe assailant came to grief and (alas to relate!) the
+LINE 51: coveted castle too. Needless to say the cries of discomfited Master
+LINE 52: Tommy drew the attention of the girl friends.
+LINE 53: —Come here, Tommy, his sister called imperatively. At once! And you,
+LINE 54: Jacky, for shame to throw poor Tommy in the dirty sand. Wait till I
+LINE 55: catch you for that.
+LINE 56: His eyes misty with unshed tears Master Tommy came at her call for
+LINE 57: their big sister's word was law with the twins. And in a sad plight he
+LINE 58: was too after his misadventure. His little man-o'-war top and
+LINE 59: unmentionables were full of sand but Cissy was a past mistress in the
+LINE 60: art of smoothing over life's tiny troubles and very quickly not one
+LINE 61: speck of sand was to be seen on his smart little suit. Still the blue
+LINE 62: eyes were glistening with hot tears that would well up so she kissed
+LINE 63: away the hurtness and shook her hand at Master Jacky the culprit and
+LINE 64: said if she was near him she wouldn't be far from him, her eyes dancing
+LINE 65: in admonition.
+LINE 66: —Nasty bold Jacky! she cried.
+LINE 67: She put an arm round the little mariner and coaxed winningly:
+LINE 68: —What's your name? Butter and cream?
+LINE 69: —Tell us who is your sweetheart, spoke Edy Boardman. Is Cissy your
+LINE 70: sweetheart?
+LINE 71: —Nao, tearful Tommy said.
+LINE 72: —Is Edy Boardman your sweetheart? Cissy queried.
+LINE 73: —Nao, Tommy said.
+LINE 74: —I know, Edy Boardman said none too amiably with an arch glance from
+LINE 75: her shortsighted eyes. I know who is Tommy's sweetheart. Gerty is
+LINE 76: Tommy's sweetheart.
+LINE 77: —Nao, Tommy said on the verge of tears.
+LINE 78: Cissy's quick motherwit guessed what was amiss and she whispered to Edy
+LINE 79: Boardman to take him there behind the pushcar where the gentleman
+LINE 80: couldn't see and to mind he didn't wet his new tan shoes.
+LINE 81: But who was Gerty?
+LINE 82: Gerty MacDowell who was seated near her companions, lost in thought,
+LINE 83: gazing far away into the distance was, in very truth, as fair a
+LINE 84: specimen of winsome Irish girlhood as one could wish to see. She was
+LINE 85: pronounced beautiful by all who knew her though, as folks often said,
+LINE 86: she was more a Giltrap than a MacDowell. Her figure was slight and
+LINE 87: graceful, inclining even to fragility but those iron jelloids she had
+LINE 88: been taking of late had done her a world of good much better than the
+LINE 89: Widow Welch's female pills and she was much better of those discharges
+LINE 90: she used to get and that tired feeling. The waxen pallor of her face
+LINE 91: was almost spiritual in its ivorylike purity though her rosebud mouth
+LINE 92: was a genuine Cupid's bow, Greekly perfect. Her hands were of finely
+LINE 93: veined alabaster with tapering fingers and as white as lemonjuice and
+LINE 94: queen of ointments could make them though it was not true that she used
+LINE 95: to wear kid gloves in bed or take a milk footbath either. Bertha Supple
+LINE 96: told that once to Edy Boardman, a deliberate lie, when she was black
+LINE 97: out at daggers drawn with Gerty (the girl chums had of course their
+LINE 98: little tiffs from time to time like the rest of mortals) and she told
+LINE 99: her not to let on whatever she did that it was her that told her or
+LINE 100: she'd never speak to her again. No. Honour where honour is due. There
+LINE 101: was an innate refinement, a languid queenly _hauteur_ about Gerty which
+LINE 102: was unmistakably evidenced in her delicate hands and higharched instep.
+LINE 103: Had kind fate but willed her to be born a gentlewoman of high degree in
+LINE 104: her own right and had she only received the benefit of a good education
+LINE 105: Gerty MacDowell might easily have held her own beside any lady in the
+LINE 106: land and have seen herself exquisitely gowned with jewels on her brow
+LINE 107: and patrician suitors at her feet vying with one another to pay their
+LINE 108: devoirs to her. Mayhap it was this, the love that might have been, that
+LINE 109: lent to her softlyfeatured face at whiles a look, tense with suppressed
+LINE 110: meaning, that imparted a strange yearning tendency to the beautiful
+LINE 111: eyes, a charm few could resist. Why have women such eyes of witchery?
+LINE 112: Gerty's were of the bluest Irish blue, set off by lustrous lashes and
+LINE 113: dark expressive brows. Time was when those brows were not so silkily
+LINE 114: seductive. It was Madame Vera Verity, directress of the Woman Beautiful
+LINE 115: page of the Princess Novelette, who had first advised her to try
+LINE 116: eyebrowleine which gave that haunting expression to the eyes, so
+LINE 117: becoming in leaders of fashion, and she had never regretted it. Then
+LINE 118: there was blushing scientifically cured and how to be tall increase
+LINE 119: your height and you have a beautiful face but your nose? That would
+LINE 120: suit Mrs Dignam because she had a button one. But Gerty's crowning
+LINE 121: glory was her wealth of wonderful hair. It was dark brown with a
+LINE 122: natural wave in it. She had cut it that very morning on account of the
+LINE 123: new moon and it nestled about her pretty head in a profusion of
+LINE 124: luxuriant clusters and pared her nails too, Thursday for wealth. And
+LINE 125: just now at Edy's words as a telltale flush, delicate as the faintest
+LINE 126: rosebloom, crept into her cheeks she looked so lovely in her sweet
+LINE 127: girlish shyness that of a surety God's fair land of Ireland did not
+LINE 128: hold her equal.
+LINE 129: For an instant she was silent with rather sad downcast eyes. She was
+LINE 130: about to retort but something checked the words on her tongue.
+LINE 131: Inclination prompted her to speak out: dignity told her to be silent.
+LINE 132: The pretty lips pouted awhile but then she glanced up and broke out
+LINE 133: into a joyous little laugh which had in it all the freshness of a young
+LINE 134: May morning. She knew right well, no-one better, what made squinty Edy
+LINE 135: say that because of him cooling in his attentions when it was simply a
+LINE 136: lovers' quarrel. As per usual somebody's nose was out of joint about
+LINE 137: the boy that had the bicycle off the London bridge road always riding
+LINE 138: up and down in front of her window. Only now his father kept him in in
+LINE 139: the evenings studying hard to get an exhibition in the intermediate
+LINE 140: that was on and he was going to go to Trinity college to study for a
+LINE 141: doctor when he left the high school like his brother W. E. Wylie who
+LINE 142: was racing in the bicycle races in Trinity college university. Little
+LINE 143: recked he perhaps for what she felt, that dull aching void in her heart
+LINE 144: sometimes, piercing to the core. Yet he was young and perchance he
+LINE 145: might learn to love her in time. They were protestants in his family
+LINE 146: and of course Gerty knew Who came first and after Him the Blessed
+LINE 147: Virgin and then Saint Joseph. But he was undeniably handsome with an
+LINE 148: exquisite nose and he was what he looked, every inch a gentleman, the
+LINE 149: shape of his head too at the back without his cap on that she would
+LINE 150: know anywhere something off the common and the way he turned the
+LINE 151: bicycle at the lamp with his hands off the bars and also the nice
+LINE 152: perfume of those good cigarettes and besides they were both of a size
+LINE 153: too he and she and that was why Edy Boardman thought she was so
+LINE 154: frightfully clever because he didn't go and ride up and down in front
+LINE 155: of her bit of a garden.
+LINE 156: Gerty was dressed simply but with the instinctive taste of a votary of
+LINE 157: Dame Fashion for she felt that there was just a might that he might be
+LINE 158: out. A neat blouse of electric blue selftinted by dolly dyes (because
+LINE 159: it was expected in the _Lady's Pictorial_ that electric blue would be
+LINE 160: worn) with a smart vee opening down to the division and kerchief pocket
+LINE 161: (in which she always kept a piece of cottonwool scented with her
+LINE 162: favourite perfume because the handkerchief spoiled the sit) and a navy
+LINE 163: threequarter skirt cut to the stride showed off her slim graceful
+LINE 164: figure to perfection. She wore a coquettish little love of a hat of
+LINE 165: wideleaved nigger straw contrast trimmed with an underbrim of eggblue
+LINE 166: chenille and at the side a butterfly bow of silk to tone. All Tuesday
+LINE 167: week afternoon she was hunting to match that chenille but at last she
+LINE 168: found what she wanted at Clery's summer sales, the very it, slightly
+LINE 169: shopsoiled but you would never notice, seven fingers two and a penny.
+LINE 170: She did it up all by herself and what joy was hers when she tried it on
+LINE 171: then, smiling at the lovely reflection which the mirror gave back to
+LINE 172: her! And when she put it on the waterjug to keep the shape she knew
+LINE 173: that that would take the shine out of some people she knew. Her shoes
+LINE 174: were the newest thing in footwear (Edy Boardman prided herself that she
+LINE 175: was very _petite_ but she never had a foot like Gerty MacDowell, a
+LINE 176: five, and never would ash, oak or elm) with patent toecaps and just one
+LINE 177: smart buckle over her higharched instep. Her wellturned ankle displayed
+LINE 178: its perfect proportions beneath her skirt and just the proper amount
+LINE 179: and no more of her shapely limbs encased in finespun hose with
+LINE 180: highspliced heels and wide garter tops. As for undies they were Gerty's
+LINE 181: chief care and who that knows the fluttering hopes and fears of sweet
+LINE 182: seventeen (though Gerty would never see seventeen again) can find it in
+LINE 183: his heart to blame her? She had four dinky sets with awfully pretty
+LINE 184: stitchery, three garments and nighties extra, and each set slotted with
+LINE 185: different coloured ribbons, rosepink, pale blue, mauve and peagreen,
+LINE 186: and she aired them herself and blued them when they came home from the
+LINE 187: wash and ironed them and she had a brickbat to keep the iron on because
+LINE 188: she wouldn't trust those washerwomen as far as she'd see them scorching
+LINE 189: the things. She was wearing the blue for luck, hoping against hope, her
+LINE 190: own colour and lucky too for a bride to have a bit of blue somewhere on
+LINE 191: her because the green she wore that day week brought grief because his
+LINE 192: father brought him in to study for the intermediate exhibition and
+LINE 193: because she thought perhaps he might be out because when she was
+LINE 194: dressing that morning she nearly slipped up the old pair on her inside
+LINE 195: out and that was for luck and lovers' meeting if you put those things
+LINE 196: on inside out or if they got untied that he was thinking about you so
+LINE 197: long as it wasn't of a Friday.
+LINE 198: And yet and yet! That strained look on her face! A gnawing sorrow is
+LINE 199: there all the time. Her very soul is in her eyes and she would give
+LINE 200: worlds to be in the privacy of her own familiar chamber where, giving
+LINE 201: way to tears, she could have a good cry and relieve her pentup feelings
+LINE 202: though not too much because she knew how to cry nicely before the
+LINE 203: mirror. You are lovely, Gerty, it said. The paly light of evening falls
+LINE 204: upon a face infinitely sad and wistful. Gerty MacDowell yearns in vain.
+LINE 205: Yes, she had known from the very first that her daydream of a marriage
+LINE 206: has been arranged and the weddingbells ringing for Mrs Reggy Wylie T.
+LINE 207: C. D. (because the one who married the elder brother would be Mrs
+LINE 208: Wylie) and in the fashionable intelligence Mrs Gertrude Wylie was
+LINE 209: wearing a sumptuous confection of grey trimmed with expensive blue fox
+LINE 210: was not to be. He was too young to understand. He would not believe in
+LINE 211: love, a woman's birthright. The night of the party long ago in Stoer's
+LINE 212: (he was still in short trousers) when they were alone and he stole an
+LINE 213: arm round her waist she went white to the very lips. He called her
+LINE 214: little one in a strangely husky voice and snatched a half kiss (the
+LINE 215: first!) but it was only the end of her nose and then he hastened from
+LINE 216: the room with a remark about refreshments. Impetuous fellow! Strength
+LINE 217: of character had never been Reggy Wylie's strong point and he who would
+LINE 218: woo and win Gerty MacDowell must be a man among men. But waiting,
+LINE 219: always waiting to be asked and it was leap year too and would soon be
+LINE 220: over. No prince charming is her beau ideal to lay a rare and wondrous
+LINE 221: love at her feet but rather a manly man with a strong quiet face who
+LINE 222: had not found his ideal, perhaps his hair slightly flecked with grey,
+LINE 223: and who would understand, take her in his sheltering arms, strain her
+LINE 224: to him in all the strength of his deep passionate nature and comfort
+LINE 225: her with a long long kiss. It would be like heaven. For such a one she
+LINE 226: yearns this balmy summer eve. With all the heart of her she longs to be
+LINE 227: his only, his affianced bride for riches for poor, in sickness in
+LINE 228: health, till death us two part, from this to this day forward.
+LINE 229: And while Edy Boardman was with little Tommy behind the pushcar she was
+LINE 230: just thinking would the day ever come when she could call herself his
+LINE 231: little wife to be. Then they could talk about her till they went blue
+LINE 232: in the face, Bertha Supple too, and Edy, little spitfire, because she
+LINE 233: would be twentytwo in November. She would care for him with creature
+LINE 234: comforts too for Gerty was womanly wise and knew that a mere man liked
+LINE 235: that feeling of hominess. Her griddlecakes done to a goldenbrown hue
+LINE 236: and queen Ann's pudding of delightful creaminess had won golden
+LINE 237: opinions from all because she had a lucky hand also for lighting a
+LINE 238: fire, dredge in the fine selfraising flour and always stir in the same
+LINE 239: direction, then cream the milk and sugar and whisk well the white of
+LINE 240: eggs though she didn't like the eating part when there were any people
+LINE 241: that made her shy and often she wondered why you couldn't eat something
+LINE 242: poetical like violets or roses and they would have a beautifully
+LINE 243: appointed drawingroom with pictures and engravings and the photograph
+LINE 244: of grandpapa Giltrap's lovely dog Garryowen that almost talked it was
+LINE 245: so human and chintz covers for the chairs and that silver toastrack in
+LINE 246: Clery's summer jumble sales like they have in rich houses. He would be
+LINE 247: tall with broad shoulders (she had always admired tall men for a
+LINE 248: husband) with glistening white teeth under his carefully trimmed
+LINE 249: sweeping moustache and they would go on the continent for their
+LINE 250: honeymoon (three wonderful weeks!) and then, when they settled down in
+LINE 251: a nice snug and cosy little homely house, every morning they would both
+LINE 252: have brekky, simple but perfectly served, for their own two selves and
+LINE 253: before he went out to business he would give his dear little wifey a
+LINE 254: good hearty hug and gaze for a moment deep down into her eyes.
+LINE 255: Edy Boardman asked Tommy Caffrey was he done and he said yes so then
+LINE 256: she buttoned up his little knickerbockers for him and told him to run
+LINE 257: off and play with Jacky and to be good now and not to fight. But Tommy
+LINE 258: said he wanted the ball and Edy told him no that baby was playing with
+LINE 259: the ball and if he took it there'd be wigs on the green but Tommy said
+LINE 260: it was his ball and he wanted his ball and he pranced on the ground, if
+LINE 261: you please. The temper of him! O, he was a man already was little Tommy
+LINE 262: Caffrey since he was out of pinnies. Edy told him no, no and to be off
+LINE 263: now with him and she told Cissy Caffrey not to give in to him.
+LINE 264: —You're not my sister, naughty Tommy said. It's my ball.
+LINE 265: But Cissy Caffrey told baby Boardman to look up, look up high at her
+LINE 266: finger and she snatched the ball quickly and threw it along the sand
+LINE 267: and Tommy after it in full career, having won the day.
+LINE 268: —Anything for a quiet life, laughed Ciss.
+LINE 269: And she tickled tiny tot's two cheeks to make him forget and played
+LINE 270: here's the lord mayor, here's his two horses, here's his gingerbread
+LINE 271: carriage and here he walks in, chinchopper, chinchopper, chinchopper
+LINE 272: chin. But Edy got as cross as two sticks about him getting his own way
+LINE 273: like that from everyone always petting him.
+LINE 274: —I'd like to give him something, she said, so I would, where I won't
+LINE 275: say.
+LINE 276: —On the beeoteetom, laughed Cissy merrily.
+LINE 277: Gerty MacDowell bent down her head and crimsoned at the idea of Cissy
+LINE 278: saying an unladylike thing like that out loud she'd be ashamed of her
+LINE 279: life to say, flushing a deep rosy red, and Edy Boardman said she was
+LINE 280: sure the gentleman opposite heard what she said. But not a pin cared
+LINE 281: Ciss.
+LINE 282: —Let him! she said with a pert toss of her head and a piquant tilt of
+LINE 283: her nose. Give it to him too on the same place as quick as I'd look at
+LINE 284: him.
+LINE 285: Madcap Ciss with her golliwog curls. You had to laugh at her sometimes.
+LINE 286: For instance when she asked you would you have some more Chinese tea
+LINE 287: and jaspberry ram and when she drew the jugs too and the men's faces on
+LINE 288: her nails with red ink make you split your sides or when she wanted to
+LINE 289: go where you know she said she wanted to run and pay a visit to the
+LINE 290: Miss White. That was just like Cissycums. O, and will you ever forget
+LINE 291: her the evening she dressed up in her father's suit and hat and the
+LINE 292: burned cork moustache and walked down Tritonville road, smoking a
+LINE 293: cigarette. There was none to come up to her for fun. But she was
+LINE 294: sincerity itself, one of the bravest and truest hearts heaven ever
+LINE 295: made, not one of your twofaced things, too sweet to be wholesome.
+LINE 296: And then there came out upon the air the sound of voices and the
+LINE 297: pealing anthem of the organ. It was the men's temperance retreat
+LINE 298: conducted by the missioner, the reverend John Hughes S. J., rosary,
+LINE 299: sermon and benediction of the Most Blessed Sacrament. They were there
+LINE 300: gathered together without distinction of social class (and a most
+LINE 301: edifying spectacle it was to see) in that simple fane beside the waves,
+LINE 302: after the storms of this weary world, kneeling before the feet of the
+LINE 303: immaculate, reciting the litany of Our Lady of Loreto, beseeching her
+LINE 304: to intercede for them, the old familiar words, holy Mary, holy virgin
+LINE 305: of virgins. How sad to poor Gerty's ears! Had her father only avoided
+LINE 306: the clutches of the demon drink, by taking the pledge or those powders
+LINE 307: the drink habit cured in Pearson's Weekly, she might now be rolling in
+LINE 308: her carriage, second to none. Over and over had she told herself that
+LINE 309: as she mused by the dying embers in a brown study without the lamp
+LINE 310: because she hated two lights or oftentimes gazing out of the window
+LINE 311: dreamily by the hour at the rain falling on the rusty bucket, thinking.
+LINE 312: But that vile decoction which has ruined so many hearths and homes had
+LINE 313: cast its shadow over her childhood days. Nay, she had even witnessed in
+LINE 314: the home circle deeds of violence caused by intemperance and had seen
+LINE 315: her own father, a prey to the fumes of intoxication, forget himself
+LINE 316: completely for if there was one thing of all things that Gerty knew it
+LINE 317: was that the man who lifts his hand to a woman save in the way of
+LINE 318: kindness, deserves to be branded as the lowest of the low.
+LINE 319: And still the voices sang in supplication to the Virgin most powerful,
+LINE 320: Virgin most merciful. And Gerty, rapt in thought, scarce saw or heard
+LINE 321: her companions or the twins at their boyish gambols or the gentleman
+LINE 322: off Sandymount green that Cissy Caffrey called the man that was so like
+LINE 323: himself passing along the strand taking a short walk. You never saw him
+LINE 324: any way screwed but still and for all that she would not like him for a
+LINE 325: father because he was too old or something or on account of his face
+LINE 326: (it was a palpable case of Doctor Fell) or his carbuncly nose with the
+LINE 327: pimples on it and his sandy moustache a bit white under his nose. Poor
+LINE 328: father! With all his faults she loved him still when he sang _Tell me,
+LINE 329: Mary, how to woo thee_ or _My love and cottage near Rochelle_ and they
+LINE 330: had stewed cockles and lettuce with Lazenby's salad dressing for supper
+LINE 331: and when he sang _The moon hath raised_ with Mr Dignam that died
+LINE 332: suddenly and was buried, God have mercy on him, from a stroke. Her
+LINE 333: mother's birthday that was and Charley was home on his holidays and Tom
+LINE 334: and Mr Dignam and Mrs and Patsy and Freddy Dignam and they were to have
+LINE 335: had a group taken. No-one would have thought the end was so near. Now
+LINE 336: he was laid to rest. And her mother said to him to let that be a
+LINE 337: warning to him for the rest of his days and he couldn't even go to the
+LINE 338: funeral on account of the gout and she had to go into town to bring him
+LINE 339: the letters and samples from his office about Catesby's cork lino,
+LINE 340: artistic, standard designs, fit for a palace, gives tiptop wear and
+LINE 341: always bright and cheery in the home.
+LINE 342: A sterling good daughter was Gerty just like a second mother in the
+LINE 343: house, a ministering angel too with a little heart worth its weight in
+LINE 344: gold. And when her mother had those raging splitting headaches who was
+LINE 345: it rubbed the menthol cone on her forehead but Gerty though she didn't
+LINE 346: like her mother's taking pinches of snuff and that was the only single
+LINE 347: thing they ever had words about, taking snuff. Everyone thought the
+LINE 348: world of her for her gentle ways. It was Gerty who turned off the gas
+LINE 349: at the main every night and it was Gerty who tacked up on the wall of
+LINE 350: that place where she never forgot every fortnight the chlorate of lime
+LINE 351: Mr Tunney the grocer's christmas almanac, the picture of halcyon days
+LINE 352: where a young gentleman in the costume they used to wear then with a
+LINE 353: threecornered hat was offering a bunch of flowers to his ladylove with
+LINE 354: oldtime chivalry through her lattice window. You could see there was a
+LINE 355: story behind it. The colours were done something lovely. She was in a
+LINE 356: soft clinging white in a studied attitude and the gentleman was in
+LINE 357: chocolate and he looked a thorough aristocrat. She often looked at them
+LINE 358: dreamily when she went there for a certain purpose and felt her own
+LINE 359: arms that were white and soft just like hers with the sleeves back and
+LINE 360: thought about those times because she had found out in Walker's
+LINE 361: pronouncing dictionary that belonged to grandpapa Giltrap about the
+LINE 362: halcyon days what they meant.
+LINE 363: The twins were now playing in the most approved brotherly fashion till
+LINE 364: at last Master Jacky who was really as bold as brass there was no
+LINE 365: getting behind that deliberately kicked the ball as hard as ever he
+LINE 366: could down towards the seaweedy rocks. Needless to say poor Tommy was
+LINE 367: not slow to voice his dismay but luckily the gentleman in black who was
+LINE 368: sitting there by himself came gallantly to the rescue and intercepted
+LINE 369: the ball. Our two champions claimed their plaything with lusty cries
+LINE 370: and to avoid trouble Cissy Caffrey called to the gentleman to throw it
+LINE 371: to her please. The gentleman aimed the ball once or twice and then
+LINE 372: threw it up the strand towards Cissy Caffrey but it rolled down the
+LINE 373: slope and stopped right under Gerty's skirt near the little pool by the
+LINE 374: rock. The twins clamoured again for it and Cissy told her to kick it
+LINE 375: away and let them fight for it so Gerty drew back her foot but she
+LINE 376: wished their stupid ball hadn't come rolling down to her and she gave a
+LINE 377: kick but she missed and Edy and Cissy laughed.
+LINE 378: —If you fail try again, Edy Boardman said.
+LINE 379: Gerty smiled assent and bit her lip. A delicate pink crept into her
+LINE 380: pretty cheek but she was determined to let them see so she just lifted
+LINE 381: her skirt a little but just enough and took good aim and gave the ball
+LINE 382: a jolly good kick and it went ever so far and the two twins after it
+LINE 383: down towards the shingle. Pure jealousy of course it was nothing else
+LINE 384: to draw attention on account of the gentleman opposite looking. She
+LINE 385: felt the warm flush, a danger signal always with Gerty MacDowell,
+LINE 386: surging and flaming into her cheeks. Till then they had only exchanged
+LINE 387: glances of the most casual but now under the brim of her new hat she
+LINE 388: ventured a look at him and the face that met her gaze there in the
+LINE 389: twilight, wan and strangely drawn, seemed to her the saddest she had
+LINE 390: ever seen.
+LINE 391: Through the open window of the church the fragrant incense was wafted
+LINE 392: and with it the fragrant names of her who was conceived without stain
+LINE 393: of original sin, spiritual vessel, pray for us, honourable vessel, pray
+LINE 394: for us, vessel of singular devotion, pray for us, mystical rose. And
+LINE 395: careworn hearts were there and toilers for their daily bread and many
+LINE 396: who had erred and wandered, their eyes wet with contrition but for all
+LINE 397: that bright with hope for the reverend father Father Hughes had told
+LINE 398: them what the great saint Bernard said in his famous prayer of Mary,
+LINE 399: the most pious Virgin's intercessory power that it was not recorded in
+LINE 400: any age that those who implored her powerful protection were ever
+LINE 401: abandoned by her.
+LINE 402: The twins were now playing again right merrily for the troubles of
+LINE 403: childhood are but as fleeting summer showers. Cissy Caffrey played with
+LINE 404: baby Boardman till he crowed with glee, clapping baby hands in air.
+LINE 405: Peep she cried behind the hood of the pushcar and Edy asked where was
+LINE 406: Cissy gone and then Cissy popped up her head and cried ah! and, my
+LINE 407: word, didn't the little chap enjoy that! And then she told him to say
+LINE 408: papa.
+LINE 409: —Say papa, baby. Say pa pa pa pa pa pa pa.
+LINE 410: And baby did his level best to say it for he was very intelligent for
+LINE 411: eleven months everyone said and big for his age and the picture of
+LINE 412: health, a perfect little bunch of love, and he would certainly turn out
+LINE 413: to be something great, they said.
+LINE 414: —Haja ja ja haja.
+LINE 415: Cissy wiped his little mouth with the dribbling bib and wanted him to
+LINE 416: sit up properly and say pa pa pa but when she undid the strap she cried
+LINE 417: out, holy saint Denis, that he was possing wet and to double the half
+LINE 418: blanket the other way under him. Of course his infant majesty was most
+LINE 419: obstreperous at such toilet formalities and he let everyone know it:
+LINE 420: —Habaa baaaahabaaa baaaa.
+LINE 421: And two great big lovely big tears coursing down his cheeks. It was all
+LINE 422: no use soothering him with no, nono, baby, no and telling him about the
+LINE 423: geegee and where was the puffpuff but Ciss, always readywitted, gave
+LINE 424: him in his mouth the teat of the suckingbottle and the young heathen
+LINE 425: was quickly appeased.
+LINE 426: Gerty wished to goodness they would take their squalling baby home out
+LINE 427: of that and not get on her nerves, no hour to be out, and the little
+LINE 428: brats of twins. She gazed out towards the distant sea. It was like the
+LINE 429: paintings that man used to do on the pavement with all the coloured
+LINE 430: chalks and such a pity too leaving them there to be all blotted out,
+LINE 431: the evening and the clouds coming out and the Bailey light on Howth and
+LINE 432: to hear the music like that and the perfume of those incense they
+LINE 433: burned in the church like a kind of waft. And while she gazed her heart
+LINE 434: went pitapat. Yes, it was her he was looking at, and there was meaning
+LINE 435: in his look. His eyes burned into her as though they would search her
+LINE 436: through and through, read her very soul. Wonderful eyes they were,
+LINE 437: superbly expressive, but could you trust them? People were so queer.
+LINE 438: She could see at once by his dark eyes and his pale intellectual face
+LINE 439: that he was a foreigner, the image of the photo she had of Martin
+LINE 440: Harvey, the matinee idol, only for the moustache which she preferred
+LINE 441: because she wasn't stagestruck like Winny Rippingham that wanted they
+LINE 442: two to always dress the same on account of a play but she could not see
+LINE 443: whether he had an aquiline nose or a slightly _retroussé_ from where he
+LINE 444: was sitting. He was in deep mourning, she could see that, and the story
+LINE 445: of a haunting sorrow was written on his face. She would have given
+LINE 446: worlds to know what it was. He was looking up so intently, so still,
+LINE 447: and he saw her kick the ball and perhaps he could see the bright steel
+LINE 448: buckles of her shoes if she swung them like that thoughtfully with the
+LINE 449: toes down. She was glad that something told her to put on the
+LINE 450: transparent stockings thinking Reggy Wylie might be out but that was
+LINE 451: far away. Here was that of which she had so often dreamed. It was he
+LINE 452: who mattered and there was joy on her face because she wanted him
+LINE 453: because she felt instinctively that he was like no-one else. The very
+LINE 454: heart of the girlwoman went out to him, her dreamhusband, because she
+LINE 455: knew on the instant it was him. If he had suffered, more sinned against
+LINE 456: than sinning, or even, even, if he had been himself a sinner, a wicked
+LINE 457: man, she cared not. Even if he was a protestant or methodist she could
+LINE 458: convert him easily if he truly loved her. There were wounds that wanted
+LINE 459: healing with heartbalm. She was a womanly woman not like other flighty
+LINE 460: girls unfeminine he had known, those cyclists showing off what they
+LINE 461: hadn't got and she just yearned to know all, to forgive all if she
+LINE 462: could make him fall in love with her, make him forget the memory of the
+LINE 463: past. Then mayhap he would embrace her gently, like a real man,
+LINE 464: crushing her soft body to him, and love her, his ownest girlie, for
+LINE 465: herself alone.
+LINE 466: Refuge of sinners. Comfortress of the afflicted. _Ora pro nobis_. Well
+LINE 467: has it been said that whosoever prays to her with faith and constancy
+LINE 468: can never be lost or cast away: and fitly is she too a haven of refuge
+LINE 469: for the afflicted because of the seven dolours which transpierced her
+LINE 470: own heart. Gerty could picture the whole scene in the church, the
+LINE 471: stained glass windows lighted up, the candles, the flowers and the blue
+LINE 472: banners of the blessed Virgin's sodality and Father Conroy was helping
+LINE 473: Canon O'Hanlon at the altar, carrying things in and out with his eyes
+LINE 474: cast down. He looked almost a saint and his confessionbox was so quiet
+LINE 475: and clean and dark and his hands were just like white wax and if ever
+LINE 476: she became a Dominican nun in their white habit perhaps he might come
+LINE 477: to the convent for the novena of Saint Dominic. He told her that time
+LINE 478: when she told him about that in confession, crimsoning up to the roots
+LINE 479: of her hair for fear he could see, not to be troubled because that was
+LINE 480: only the voice of nature and we were all subject to nature's laws, he
+LINE 481: said, in this life and that that was no sin because that came from the
+LINE 482: nature of woman instituted by God, he said, and that Our Blessed Lady
+LINE 483: herself said to the archangel Gabriel be it done unto me according to
+LINE 484: Thy Word. He was so kind and holy and often and often she thought and
+LINE 485: thought could she work a ruched teacosy with embroidered floral design
+LINE 486: for him as a present or a clock but they had a clock she noticed on the
+LINE 487: mantelpiece white and gold with a canarybird that came out of a little
+LINE 488: house to tell the time the day she went there about the flowers for the
+LINE 489: forty hours' adoration because it was hard to know what sort of a
+LINE 490: present to give or perhaps an album of illuminated views of Dublin or
+LINE 491: some place.
+LINE 492: The exasperating little brats of twins began to quarrel again and Jacky
+LINE 493: threw the ball out towards the sea and they both ran after it. Little
+LINE 494: monkeys common as ditchwater. Someone ought to take them and give them
+LINE 495: a good hiding for themselves to keep them in their places, the both of
+LINE 496: them. And Cissy and Edy shouted after them to come back because they
+LINE 497: were afraid the tide might come in on them and be drowned.
+LINE 498: —Jacky! Tommy!
+LINE 499: Not they! What a great notion they had! So Cissy said it was the very
+LINE 500: last time she'd ever bring them out. She jumped up and called them and
+LINE 501: she ran down the slope past him, tossing her hair behind her which had
+LINE 502: a good enough colour if there had been more of it but with all the
+LINE 503: thingamerry she was always rubbing into it she couldn't get it to grow
+LINE 504: long because it wasn't natural so she could just go and throw her hat
+LINE 505: at it. She ran with long gandery strides it was a wonder she didn't rip
+LINE 506: up her skirt at the side that was too tight on her because there was a
+LINE 507: lot of the tomboy about Cissy Caffrey and she was a forward piece
+LINE 508: whenever she thought she had a good opportunity to show off and just
+LINE 509: because she was a good runner she ran like that so that he could see
+LINE 510: all the end of her petticoat running and her skinny shanks up as far as
+LINE 511: possible. It would have served her just right if she had tripped up
+LINE 512: over something accidentally on purpose with her high crooked French
+LINE 513: heels on her to make her look tall and got a fine tumble. _Tableau!_
+LINE 514: That would have been a very charming exposé for a gentleman like that
+LINE 515: to witness.
+LINE 516: Queen of angels, queen of patriarchs, queen of prophets, of all saints,
+LINE 517: they prayed, queen of the most holy rosary and then Father Conroy
+LINE 518: handed the thurible to Canon O'Hanlon and he put in the incense and
+LINE 519: censed the Blessed Sacrament and Cissy Caffrey caught the two twins and
+LINE 520: she was itching to give them a ringing good clip on the ear but she
+LINE 521: didn't because she thought he might be watching but she never made a
+LINE 522: bigger mistake in all her life because Gerty could see without looking
+LINE 523: that he never took his eyes off of her and then Canon O'Hanlon handed
+LINE 524: the thurible back to Father Conroy and knelt down looking up at the
+LINE 525: Blessed Sacrament and the choir began to sing the _Tantum ergo_ and she
+LINE 526: just swung her foot in and out in time as the music rose and fell to
+LINE 527: the _Tantumer gosa cramen tum_. Three and eleven she paid for those
+LINE 528: stockings in Sparrow's of George's street on the Tuesday, no the Monday
+LINE 529: before Easter and there wasn't a brack on them and that was what he was
+LINE 530: looking at, transparent, and not at her insignificant ones that had
+LINE 531: neither shape nor form (the cheek of her!) because he had eyes in his
+LINE 532: head to see the difference for himself.
+LINE 533: Cissy came up along the strand with the two twins and their ball with
+LINE 534: her hat anyhow on her to one side after her run and she did look a
+LINE 535: streel tugging the two kids along with the flimsy blouse she bought
+LINE 536: only a fortnight before like a rag on her back and a bit of her
+LINE 537: petticoat hanging like a caricature. Gerty just took off her hat for a
+LINE 538: moment to settle her hair and a prettier, a daintier head of nutbrown
+LINE 539: tresses was never seen on a girl's shoulders—a radiant little vision,
+LINE 540: in sooth, almost maddening in its sweetness. You would have to travel
+LINE 541: many a long mile before you found a head of hair the like of that. She
+LINE 542: could almost see the swift answering flash of admiration in his eyes
+LINE 543: that set her tingling in every nerve. She put on her hat so that she
+LINE 544: could see from underneath the brim and swung her buckled shoe faster
+LINE 545: for her breath caught as she caught the expression in his eyes. He was
+LINE 546: eying her as a snake eyes its prey. Her woman's instinct told her that
+LINE 547: she had raised the devil in him and at the thought a burning scarlet
+LINE 548: swept from throat to brow till the lovely colour of her face became a
+LINE 549: glorious rose.
+LINE 550: Edy Boardman was noticing it too because she was squinting at Gerty,
+LINE 551: half smiling, with her specs like an old maid, pretending to nurse the
+LINE 552: baby. Irritable little gnat she was and always would be and that was
+LINE 553: why no-one could get on with her poking her nose into what was no
+LINE 554: concern of hers. And she said to Gerty:
+LINE 555: —A penny for your thoughts.
+LINE 556: —What? replied Gerty with a smile reinforced by the whitest of teeth. I
+LINE 557: was only wondering was it late.
+LINE 558: Because she wished to goodness they'd take the snottynosed twins and
+LINE 559: their babby home to the mischief out of that so that was why she just
+LINE 560: gave a gentle hint about its being late. And when Cissy came up Edy
+LINE 561: asked her the time and Miss Cissy, as glib as you like, said it was
+LINE 562: half past kissing time, time to kiss again. But Edy wanted to know
+LINE 563: because they were told to be in early.
+LINE 564: —Wait, said Cissy, I'll run ask my uncle Peter over there what's the
+LINE 565: time by his conundrum.
+LINE 566: So over she went and when he saw her coming she could see him take his
+LINE 567: hand out of his pocket, getting nervous, and beginning to play with his
+LINE 568: watchchain, looking up at the church. Passionate nature though he was
+LINE 569: Gerty could see that he had enormous control over himself. One moment
+LINE 570: he had been there, fascinated by a loveliness that made him gaze, and
+LINE 571: the next moment it was the quiet gravefaced gentleman, selfcontrol
+LINE 572: expressed in every line of his distinguishedlooking figure.
+LINE 573: Cissy said to excuse her would he mind please telling her what was the
+LINE 574: right time and Gerty could see him taking out his watch, listening to
+LINE 575: it and looking up and clearing his throat and he said he was very sorry
+LINE 576: his watch was stopped but he thought it must be after eight because the
+LINE 577: sun was set. His voice had a cultured ring in it and though he spoke in
+LINE 578: measured accents there was a suspicion of a quiver in the mellow tones.
+LINE 579: Cissy said thanks and came back with her tongue out and said uncle said
+LINE 580: his waterworks were out of order.
+LINE 581: Then they sang the second verse of the _Tantum ergo_ and Canon O'Hanlon
+LINE 582: got up again and censed the Blessed Sacrament and knelt down and he
+LINE 583: told Father Conroy that one of the candles was just going to set fire
+LINE 584: to the flowers and Father Conroy got up and settled it all right and
+LINE 585: she could see the gentleman winding his watch and listening to the
+LINE 586: works and she swung her leg more in and out in time. It was getting
+LINE 587: darker but he could see and he was looking all the time that he was
+LINE 588: winding the watch or whatever he was doing to it and then he put it
+LINE 589: back and put his hands back into his pockets. She felt a kind of a
+LINE 590: sensation rushing all over her and she knew by the feel of her scalp
+LINE 591: and that irritation against her stays that that thing must be coming on
+LINE 592: because the last time too was when she clipped her hair on account of
+LINE 593: the moon. His dark eyes fixed themselves on her again drinking in her
+LINE 594: every contour, literally worshipping at her shrine. If ever there was
+LINE 595: undisguised admiration in a man's passionate gaze it was there plain to
+LINE 596: be seen on that man's face. It is for you, Gertrude MacDowell, and you
+LINE 597: know it.
+LINE 598: Edy began to get ready to go and it was high time for her and Gerty
+LINE 599: noticed that that little hint she gave had had the desired effect
+LINE 600: because it was a long way along the strand to where there was the place
+LINE 601: to push up the pushcar and Cissy took off the twins' caps and tidied
+LINE 602: their hair to make herself attractive of course and Canon O'Hanlon
+LINE 603: stood up with his cope poking up at his neck and Father Conroy handed
+LINE 604: him the card to read off and he read out _Panem de coelo praestitisti
+LINE 605: eis_ and Edy and Cissy were talking about the time all the time and
+LINE 606: asking her but Gerty could pay them back in their own coin and she just
+LINE 607: answered with scathing politeness when Edy asked her was she
+LINE 608: heartbroken about her best boy throwing her over. Gerty winced sharply.
+LINE 609: A brief cold blaze shone from her eyes that spoke volumes of scorn
+LINE 610: immeasurable. It hurt—O yes, it cut deep because Edy had her own quiet
+LINE 611: way of saying things like that she knew would wound like the confounded
+LINE 612: little cat she was. Gerty's lips parted swiftly to frame the word but
+LINE 613: she fought back the sob that rose to her throat, so slim, so flawless,
+LINE 614: so beautifully moulded it seemed one an artist might have dreamed of.
+LINE 615: She had loved him better than he knew. Lighthearted deceiver and fickle
+LINE 616: like all his sex he would never understand what he had meant to her and
+LINE 617: for an instant there was in the blue eyes a quick stinging of tears.
+LINE 618: Their eyes were probing her mercilessly but with a brave effort she
+LINE 619: sparkled back in sympathy as she glanced at her new conquest for them
+LINE 620: to see.
+LINE 621: —O, responded Gerty, quick as lightning, laughing, and the proud head
+LINE 622: flashed up. I can throw my cap at who I like because it's leap year.
+LINE 623: Her words rang out crystalclear, more musical than the cooing of the
+LINE 624: ringdove, but they cut the silence icily. There was that in her young
+LINE 625: voice that told that she was not a one to be lightly trifled with. As
+LINE 626: for Mr Reggy with his swank and his bit of money she could just chuck
+LINE 627: him aside as if he was so much filth and never again would she cast as
+LINE 628: much as a second thought on him and tear his silly postcard into a
+LINE 629: dozen pieces. And if ever after he dared to presume she could give him
+LINE 630: one look of measured scorn that would make him shrivel up on the spot.
+LINE 631: Miss puny little Edy's countenance fell to no slight extent and Gerty
+LINE 632: could see by her looking as black as thunder that she was simply in a
+LINE 633: towering rage though she hid it, the little kinnatt, because that shaft
+LINE 634: had struck home for her petty jealousy and they both knew that she was
+LINE 635: something aloof, apart, in another sphere, that she was not of them and
+LINE 636: never would be and there was somebody else too that knew it and saw it
+LINE 637: so they could put that in their pipe and smoke it.
+LINE 638: Edy straightened up baby Boardman to get ready to go and Cissy tucked
+LINE 639: in the ball and the spades and buckets and it was high time too because
+LINE 640: the sandman was on his way for Master Boardman junior. And Cissy told
+LINE 641: him too that billy winks was coming and that baby was to go deedaw and
+LINE 642: baby looked just too ducky, laughing up out of his gleeful eyes, and
+LINE 643: Cissy poked him like that out of fun in his wee fat tummy and baby,
+LINE 644: without as much as by your leave, sent up his compliments to all and
+LINE 645: sundry on to his brandnew dribbling bib.
+LINE 646: —O my! Puddeny pie! protested Ciss. He has his bib destroyed.
+LINE 647: The slight _contretemps_ claimed her attention but in two twos she set
+LINE 648: that little matter to rights.
+LINE 649: Gerty stifled a smothered exclamation and gave a nervous cough and Edy
+LINE 650: asked what and she was just going to tell her to catch it while it was
+LINE 651: flying but she was ever ladylike in her deportment so she simply passed
+LINE 652: it off with consummate tact by saying that that was the benediction
+LINE 653: because just then the bell rang out from the steeple over the quiet
+LINE 654: seashore because Canon O'Hanlon was up on the altar with the veil that
+LINE 655: Father Conroy put round his shoulders giving the benediction with the
+LINE 656: Blessed Sacrament in his hands.
+LINE 657: How moving the scene there in the gathering twilight, the last glimpse
+LINE 658: of Erin, the touching chime of those evening bells and at the same time
+LINE 659: a bat flew forth from the ivied belfry through the dusk, hither,
+LINE 660: thither, with a tiny lost cry. And she could see far away the lights of
+LINE 661: the lighthouses so picturesque she would have loved to do with a box of
+LINE 662: paints because it was easier than to make a man and soon the
+LINE 663: lamplighter would be going his rounds past the presbyterian church
+LINE 664: grounds and along by shady Tritonville avenue where the couples walked
+LINE 665: and lighting the lamp near her window where Reggy Wylie used to turn
+LINE 666: his freewheel like she read in that book _The Lamplighter_ by Miss
+LINE 667: Cummins, author of _Mabel Vaughan_ and other tales. For Gerty had her
+LINE 668: dreams that no-one knew of. She loved to read poetry and when she got a
+LINE 669: keepsake from Bertha Supple of that lovely confession album with the
+LINE 670: coralpink cover to write her thoughts in she laid it in the drawer of
+LINE 671: her toilettable which, though it did not err on the side of luxury, was
+LINE 672: scrupulously neat and clean. It was there she kept her girlish treasure
+LINE 673: trove, the tortoiseshell combs, her child of Mary badge, the whiterose
+LINE 674: scent, the eyebrowleine, her alabaster pouncetbox and the ribbons to
+LINE 675: change when her things came home from the wash and there were some
+LINE 676: beautiful thoughts written in it in violet ink that she bought in
+LINE 677: Hely's of Dame Street for she felt that she too could write poetry if
+LINE 678: she could only express herself like that poem that appealed to her so
+LINE 679: deeply that she had copied out of the newspaper she found one evening
+LINE 680: round the potherbs. _Art thou real, my ideal?_ it was called by Louis J
+LINE 681: Walsh, Magherafelt, and after there was something about _twilight, wilt
+LINE 682: thou ever?_ and ofttimes the beauty of poetry, so sad in its transient
+LINE 683: loveliness, had misted her eyes with silent tears for she felt that the
+LINE 684: years were slipping by for her, one by one, and but for that one
+LINE 685: shortcoming she knew she need fear no competition and that was an
+LINE 686: accident coming down Dalkey hill and she always tried to conceal it.
+LINE 687: But it must end, she felt. If she saw that magic lure in his eyes there
+LINE 688: would be no holding back for her. Love laughs at locksmiths. She would
+LINE 689: make the great sacrifice. Her every effort would be to share his
+LINE 690: thoughts. Dearer than the whole world would she be to him and gild his
+LINE 691: days with happiness. There was the allimportant question and she was
+LINE 692: dying to know was he a married man or a widower who had lost his wife
+LINE 693: or some tragedy like the nobleman with the foreign name from the land
+LINE 694: of song had to have her put into a madhouse, cruel only to be kind. But
+LINE 695: even if—what then? Would it make a very great difference? From
+LINE 696: everything in the least indelicate her finebred nature instinctively
+LINE 697: recoiled. She loathed that sort of person, the fallen women off the
+LINE 698: accommodation walk beside the Dodder that went with the soldiers and
+LINE 699: coarse men with no respect for a girl's honour, degrading the sex and
+LINE 700: being taken up to the police station. No, no: not that. They would be
+LINE 701: just good friends like a big brother and sister without all that other
+LINE 702: in spite of the conventions of Society with a big ess. Perhaps it was
+LINE 703: an old flame he was in mourning for from the days beyond recall. She
+LINE 704: thought she understood. She would try to understand him because men
+LINE 705: were so different. The old love was waiting, waiting with little white
+LINE 706: hands stretched out, with blue appealing eyes. Heart of mine! She would
+LINE 707: follow, her dream of love, the dictates of her heart that told her he
+LINE 708: was her all in all, the only man in all the world for her for love was
+LINE 709: the master guide. Nothing else mattered. Come what might she would be
+LINE 710: wild, untrammelled, free.
+LINE 711: Canon O'Hanlon put the Blessed Sacrament back into the tabernacle and
+LINE 712: genuflected and the choir sang _Laudate Dominum omnes gentes_ and then
+LINE 713: he locked the tabernacle door because the benediction was over and
+LINE 714: Father Conroy handed him his hat to put on and crosscat Edy asked
+LINE 715: wasn't she coming but Jacky Caffrey called out:
+LINE 716: —O, look, Cissy!
+LINE 717: And they all looked was it sheet lightning but Tommy saw it too over
+LINE 718: the trees beside the church, blue and then green and purple.
+LINE 719: —It's fireworks, Cissy Caffrey said.
+LINE 720: And they all ran down the strand to see over the houses and the church,
+LINE 721: helterskelter, Edy with the pushcar with baby Boardman in it and Cissy
+LINE 722: holding Tommy and Jacky by the hand so they wouldn't fall running.
+LINE 723: —Come on, Gerty, Cissy called. It's the bazaar fireworks.
+LINE 724: But Gerty was adamant. She had no intention of being at their beck and
+LINE 725: call. If they could run like rossies she could sit so she said she
+LINE 726: could see from where she was. The eyes that were fastened upon her set
+LINE 727: her pulses tingling. She looked at him a moment, meeting his glance,
+LINE 728: and a light broke in upon her. Whitehot passion was in that face,
+LINE 729: passion silent as the grave, and it had made her his. At last they were
+LINE 730: left alone without the others to pry and pass remarks and she knew he
+LINE 731: could be trusted to the death, steadfast, a sterling man, a man of
+LINE 732: inflexible honour to his fingertips. His hands and face were working
+LINE 733: and a tremour went over her. She leaned back far to look up where the
+LINE 734: fireworks were and she caught her knee in her hands so as not to fall
+LINE 735: back looking up and there was no-one to see only him and her when she
+LINE 736: revealed all her graceful beautifully shaped legs like that, supply
+LINE 737: soft and delicately rounded, and she seemed to hear the panting of his
+LINE 738: heart, his hoarse breathing, because she knew too about the passion of
+LINE 739: men like that, hotblooded, because Bertha Supple told her once in dead
+LINE 740: secret and made her swear she'd never about the gentleman lodger that
+LINE 741: was staying with them out of the Congested Districts Board that had
+LINE 742: pictures cut out of papers of those skirtdancers and highkickers and
+LINE 743: she said he used to do something not very nice that you could imagine
+LINE 744: sometimes in the bed. But this was altogether different from a thing
+LINE 745: like that because there was all the difference because she could almost
+LINE 746: feel him draw her face to his and the first quick hot touch of his
+LINE 747: handsome lips. Besides there was absolution so long as you didn't do
+LINE 748: the other thing before being married and there ought to be women
+LINE 749: priests that would understand without your telling out and Cissy
+LINE 750: Caffrey too sometimes had that dreamy kind of dreamy look in her eyes
+LINE 751: so that she too, my dear, and Winny Rippingham so mad about actors'
+LINE 752: photographs and besides it was on account of that other thing coming on
+LINE 753: the way it did.
+LINE 754: And Jacky Caffrey shouted to look, there was another and she leaned
+LINE 755: back and the garters were blue to match on account of the transparent
+LINE 756: and they all saw it and they all shouted to look, look, there it was
+LINE 757: and she leaned back ever so far to see the fireworks and something
+LINE 758: queer was flying through the air, a soft thing, to and fro, dark. And
+LINE 759: she saw a long Roman candle going up over the trees, up, up, and, in
+LINE 760: the tense hush, they were all breathless with excitement as it went
+LINE 761: higher and higher and she had to lean back more and more to look up
+LINE 762: after it, high, high, almost out of sight, and her face was suffused
+LINE 763: with a divine, an entrancing blush from straining back and he could see
+LINE 764: her other things too, nainsook knickers, the fabric that caresses the
+LINE 765: skin, better than those other pettiwidth, the green, four and eleven,
+LINE 766: on account of being white and she let him and she saw that he saw and
+LINE 767: then it went so high it went out of sight a moment and she was
+LINE 768: trembling in every limb from being bent so far back that he had a full
+LINE 769: view high up above her knee where no-one ever not even on the swing or
+LINE 770: wading and she wasn't ashamed and he wasn't either to look in that
+LINE 771: immodest way like that because he couldn't resist the sight of the
+LINE 772: wondrous revealment half offered like those skirtdancers behaving so
+LINE 773: immodest before gentlemen looking and he kept on looking, looking. She
+LINE 774: would fain have cried to him chokingly, held out her snowy slender arms
+LINE 775: to him to come, to feel his lips laid on her white brow, the cry of a
+LINE 776: young girl's love, a little strangled cry, wrung from her, that cry
+LINE 777: that has rung through the ages. And then a rocket sprang and bang shot
+LINE 778: blind blank and O! then the Roman candle burst and it was like a sigh
+LINE 779: of O! and everyone cried O! O! in raptures and it gushed out of it a
+LINE 780: stream of rain gold hair threads and they shed and ah! they were all
+LINE 781: greeny dewy stars falling with golden, O so lovely, O, soft, sweet,
+LINE 782: soft!
+LINE 783: Then all melted away dewily in the grey air: all was silent. Ah! She
+LINE 784: glanced at him as she bent forward quickly, a pathetic little glance of
+LINE 785: piteous protest, of shy reproach under which he coloured like a girl.
+LINE 786: He was leaning back against the rock behind. Leopold Bloom (for it is
+LINE 787: he) stands silent, with bowed head before those young guileless eyes.
+LINE 788: What a brute he had been! At it again? A fair unsullied soul had called
+LINE 789: to him and, wretch that he was, how had he answered? An utter cad he
+LINE 790: had been! He of all men! But there was an infinite store of mercy in
+LINE 791: those eyes, for him too a word of pardon even though he had erred and
+LINE 792: sinned and wandered. Should a girl tell? No, a thousand times no. That
+LINE 793: was their secret, only theirs, alone in the hiding twilight and there
+LINE 794: was none to know or tell save the little bat that flew so softly
+LINE 795: through the evening to and fro and little bats don't tell.
+LINE 796: Cissy Caffrey whistled, imitating the boys in the football field to
+LINE 797: show what a great person she was: and then she cried:
+LINE 798: —Gerty! Gerty! We're going. Come on. We can see from farther up.
+LINE 799: Gerty had an idea, one of love's little ruses. She slipped a hand into
+LINE 800: her kerchief pocket and took out the wadding and waved in reply of
+LINE 801: course without letting him and then slipped it back. Wonder if he's too
+LINE 802: far to. She rose. Was it goodbye? No. She had to go but they would meet
+LINE 803: again, there, and she would dream of that till then, tomorrow, of her
+LINE 804: dream of yester eve. She drew herself up to her full height. Their
+LINE 805: souls met in a last lingering glance and the eyes that reached her
+LINE 806: heart, full of a strange shining, hung enraptured on her sweet
+LINE 807: flowerlike face. She half smiled at him wanly, a sweet forgiving smile,
+LINE 808: a smile that verged on tears, and then they parted.
+LINE 809: Slowly, without looking back she went down the uneven strand to Cissy,
+LINE 810: to Edy to Jacky and Tommy Caffrey, to little baby Boardman. It was
+LINE 811: darker now and there were stones and bits of wood on the strand and
+LINE 812: slippy seaweed. She walked with a certain quiet dignity characteristic
+LINE 813: of her but with care and very slowly because—because Gerty MacDowell
+LINE 814: was...
+LINE 815: Tight boots? No. She's lame! O!
+LINE 816: Mr Bloom watched her as she limped away. Poor girl! That's why she's
+LINE 817: left on the shelf and the others did a sprint. Thought something was
+LINE 818: wrong by the cut of her jib. Jilted beauty. A defect is ten times worse
+LINE 819: in a woman. But makes them polite. Glad I didn't know it when she was
+LINE 820: on show. Hot little devil all the same. I wouldn't mind. Curiosity like
+LINE 821: a nun or a negress or a girl with glasses. That squinty one is
+LINE 822: delicate. Near her monthlies, I expect, makes them feel ticklish. I
+LINE 823: have such a bad headache today. Where did I put the letter? Yes, all
+LINE 824: right. All kinds of crazy longings. Licking pennies. Girl in Tranquilla
+LINE 825: convent that nun told me liked to smell rock oil. Virgins go mad in the
+LINE 826: end I suppose. Sister? How many women in Dublin have it today? Martha,
+LINE 827: she. Something in the air. That's the moon. But then why don't all
+LINE 828: women menstruate at the same time with the same moon, I mean? Depends
+LINE 829: on the time they were born I suppose. Or all start scratch then get out
+LINE 830: of step. Sometimes Molly and Milly together. Anyhow I got the best of
+LINE 831: that. Damned glad I didn't do it in the bath this morning over her
+LINE 832: silly I will punish you letter. Made up for that tramdriver this
+LINE 833: morning. That gouger M'Coy stopping me to say nothing. And his wife
+LINE 834: engagement in the country valise, voice like a pickaxe. Thankful for
+LINE 835: small mercies. Cheap too. Yours for the asking. Because they want it
+LINE 836: themselves. Their natural craving. Shoals of them every evening poured
+LINE 837: out of offices. Reserve better. Don't want it they throw it at you.
+LINE 838: Catch em alive, O. Pity they can't see themselves. A dream of
+LINE 839: wellfilled hose. Where was that? Ah, yes. Mutoscope pictures in Capel
+LINE 840: street: for men only. Peeping Tom. Willy's hat and what the girls did
+LINE 841: with it. Do they snapshot those girls or is it all a fake? _Lingerie_
+LINE 842: does it. Felt for the curves inside her _déshabillé._ Excites them also
+LINE 843: when they're. I'm all clean come and dirty me. And they like dressing
+LINE 844: one another for the sacrifice. Milly delighted with Molly's new blouse.
+LINE 845: At first. Put them all on to take them all off. Molly. Why I bought her
+LINE 846: the violet garters. Us too: the tie he wore, his lovely socks and
+LINE 847: turnedup trousers. He wore a pair of gaiters the night that first we
+LINE 848: met. His lovely shirt was shining beneath his what? of jet. Say a woman
+LINE 849: loses a charm with every pin she takes out. Pinned together. O, Mairy
+LINE 850: lost the pin of her. Dressed up to the nines for somebody. Fashion part
+LINE 851: of their charm. Just changes when you're on the track of the secret.
+LINE 852: Except the east: Mary, Martha: now as then. No reasonable offer
+LINE 853: refused. She wasn't in a hurry either. Always off to a fellow when they
+LINE 854: are. They never forget an appointment. Out on spec probably. They
+LINE 855: believe in chance because like themselves. And the others inclined to
+LINE 856: give her an odd dig. Girl friends at school, arms round each other's
+LINE 857: necks or with ten fingers locked, kissing and whispering secrets about
+LINE 858: nothing in the convent garden. Nuns with whitewashed faces, cool coifs
+LINE 859: and their rosaries going up and down, vindictive too for what they
+LINE 860: can't get. Barbed wire. Be sure now and write to me. And I'll write to
+LINE 861: you. Now won't you? Molly and Josie Powell. Till Mr Right comes along,
+LINE 862: then meet once in a blue moon. _Tableau!_ O, look who it is for the
+LINE 863: love of God! How are you at all? What have you been doing with
+LINE 864: yourself? Kiss and delighted to, kiss, to see you. Picking holes in
+LINE 865: each other's appearance. You're looking splendid. Sister souls. Showing
+LINE 866: their teeth at one another. How many have you left? Wouldn't lend each
+LINE 867: other a pinch of salt.
+LINE 868: Ah!
+LINE 869: Devils they are when that's coming on them. Dark devilish appearance.
+LINE 870: Molly often told me feel things a ton weight. Scratch the sole of my
+LINE 871: foot. O that way! O, that's exquisite! Feel it myself too. Good to rest
+LINE 872: once in a way. Wonder if it's bad to go with them then. Safe in one
+LINE 873: way. Turns milk, makes fiddlestrings snap. Something about withering
+LINE 874: plants I read in a garden. Besides they say if the flower withers she
+LINE 875: wears she's a flirt. All are. Daresay she felt I. When you feel like
+LINE 876: that you often meet what you feel. Liked me or what? Dress they look
+LINE 877: at. Always know a fellow courting: collars and cuffs. Well cocks and
+LINE 878: lions do the same and stags. Same time might prefer a tie undone or
+LINE 879: something. Trousers? Suppose I when I was? No. Gently does it. Dislike
+LINE 880: rough and tumble. Kiss in the dark and never tell. Saw something in me.
+LINE 881: Wonder what. Sooner have me as I am than some poet chap with
+LINE 882: bearsgrease plastery hair, lovelock over his dexter optic. To aid
+LINE 883: gentleman in literary. Ought to attend to my appearance my age. Didn't
+LINE 884: let her see me in profile. Still, you never know. Pretty girls and ugly
+LINE 885: men marrying. Beauty and the beast. Besides I can't be so if Molly.
+LINE 886: Took off her hat to show her hair. Wide brim. Bought to hide her face,
+LINE 887: meeting someone might know her, bend down or carry a bunch of flowers
+LINE 888: to smell. Hair strong in rut. Ten bob I got for Molly's combings when
+LINE 889: we were on the rocks in Holles street. Why not? Suppose he gave her
+LINE 890: money. Why not? All a prejudice. She's worth ten, fifteen, more, a
+LINE 891: pound. What? I think so. All that for nothing. Bold hand: Mrs Marion.
+LINE 892: Did I forget to write address on that letter like the postcard I sent
+LINE 893: to Flynn? And the day I went to Drimmie's without a necktie. Wrangle
+LINE 894: with Molly it was put me off. No, I remember. Richie Goulding: he's
+LINE 895: another. Weighs on his mind. Funny my watch stopped at half past four.
+LINE 896: Dust. Shark liver oil they use to clean. Could do it myself. Save. Was
+LINE 897: that just when he, she?
+LINE 898: O, he did. Into her. She did. Done.
+LINE 899: Ah!
+LINE 900: Mr Bloom with careful hand recomposed his wet shirt. O Lord, that
+LINE 901: little limping devil. Begins to feel cold and clammy. Aftereffect not
+LINE 902: pleasant. Still you have to get rid of it someway. They don't care.
+LINE 903: Complimented perhaps. Go home to nicey bread and milky and say night
+LINE 904: prayers with the kiddies. Well, aren't they? See her as she is spoil
+LINE 905: all. Must have the stage setting, the rouge, costume, position, music.
+LINE 906: The name too. _Amours_ of actresses. Nell Gwynn, Mrs Bracegirdle, Maud
+LINE 907: Branscombe. Curtain up. Moonlight silver effulgence. Maiden discovered
+LINE 908: with pensive bosom. Little sweetheart come and kiss me. Still, I feel.
+LINE 909: The strength it gives a man. That's the secret of it. Good job I let
+LINE 910: off there behind the wall coming out of Dignam's. Cider that was.
+LINE 911: Otherwise I couldn't have. Makes you want to sing after. _Lacaus esant
+LINE 912: taratara_. Suppose I spoke to her. What about? Bad plan however if you
+LINE 913: don't know how to end the conversation. Ask them a question they ask
+LINE 914: you another. Good idea if you're stuck. Gain time. But then you're in a
+LINE 915: cart. Wonderful of course if you say: good evening, and you see she's
+LINE 916: on for it: good evening. O but the dark evening in the Appian way I
+LINE 917: nearly spoke to Mrs Clinch O thinking she was. Whew! Girl in Meath
+LINE 918: street that night. All the dirty things I made her say. All wrong of
+LINE 919: course. My arks she called it. It's so hard to find one who. Aho! If
+LINE 920: you don't answer when they solicit must be horrible for them till they
+LINE 921: harden. And kissed my hand when I gave her the extra two shillings.
+LINE 922: Parrots. Press the button and the bird will squeak. Wish she hadn't
+LINE 923: called me sir. O, her mouth in the dark! And you a married man with a
+LINE 924: single girl! That's what they enjoy. Taking a man from another woman.
+LINE 925: Or even hear of it. Different with me. Glad to get away from other
+LINE 926: chap's wife. Eating off his cold plate. Chap in the Burton today
+LINE 927: spitting back gumchewed gristle. French letter still in my pocketbook.
+LINE 928: Cause of half the trouble. But might happen sometime, I don't think.
+LINE 929: Come in, all is prepared. I dreamt. What? Worst is beginning. How they
+LINE 930: change the venue when it's not what they like. Ask you do you like
+LINE 931: mushrooms because she once knew a gentleman who. Or ask you what
+LINE 932: someone was going to say when he changed his mind and stopped. Yet if I
+LINE 933: went the whole hog, say: I want to, something like that. Because I did.
+LINE 934: She too. Offend her. Then make it up. Pretend to want something
+LINE 935: awfully, then cry off for her sake. Flatters them. She must have been
+LINE 936: thinking of someone else all the time. What harm? Must since she came
+LINE 937: to the use of reason, he, he and he. First kiss does the trick. The
+LINE 938: propitious moment. Something inside them goes pop. Mushy like, tell by
+LINE 939: their eye, on the sly. First thoughts are best. Remember that till
+LINE 940: their dying day. Molly, lieutenant Mulvey that kissed her under the
+LINE 941: Moorish wall beside the gardens. Fifteen she told me. But her breasts
+LINE 942: were developed. Fell asleep then. After Glencree dinner that was when
+LINE 943: we drove home. Featherbed mountain. Gnashing her teeth in sleep. Lord
+LINE 944: mayor had his eye on her too. Val Dillon. Apoplectic.
+LINE 945: There she is with them down there for the fireworks. My fireworks. Up
+LINE 946: like a rocket, down like a stick. And the children, twins they must be,
+LINE 947: waiting for something to happen. Want to be grownups. Dressing in
+LINE 948: mother's clothes. Time enough, understand all the ways of the world.
+LINE 949: And the dark one with the mop head and the nigger mouth. I knew she
+LINE 950: could whistle. Mouth made for that. Like Molly. Why that highclass
+LINE 951: whore in Jammet's wore her veil only to her nose. Would you mind,
+LINE 952: please, telling me the right time? I'll tell you the right time up a
+LINE 953: dark lane. Say prunes and prisms forty times every morning, cure for
+LINE 954: fat lips. Caressing the little boy too. Onlookers see most of the game.
+LINE 955: Of course they understand birds, animals, babies. In their line.
+LINE 956: Didn't look back when she was going down the strand. Wouldn't give that
+LINE 957: satisfaction. Those girls, those girls, those lovely seaside girls.
+LINE 958: Fine eyes she had, clear. It's the white of the eye brings that out not
+LINE 959: so much the pupil. Did she know what I? Course. Like a cat sitting
+LINE 960: beyond a dog's jump. Women never meet one like that Wilkins in the high
+LINE 961: school drawing a picture of Venus with all his belongings on show. Call
+LINE 962: that innocence? Poor idiot! His wife has her work cut out for her.
+LINE 963: Never see them sit on a bench marked _Wet Paint_. Eyes all over them.
+LINE 964: Look under the bed for what's not there. Longing to get the fright of
+LINE 965: their lives. Sharp as needles they are. When I said to Molly the man at
+LINE 966: the corner of Cuffe street was goodlooking, thought she might like,
+LINE 967: twigged at once he had a false arm. Had, too. Where do they get that?
+LINE 968: Typist going up Roger Greene's stairs two at a time to show her
+LINE 969: understandings. Handed down from father to, mother to daughter, I mean.
+LINE 970: Bred in the bone. Milly for example drying her handkerchief on the
+LINE 971: mirror to save the ironing. Best place for an ad to catch a woman's eye
+LINE 972: on a mirror. And when I sent her for Molly's Paisley shawl to
+LINE 973: Prescott's by the way that ad I must, carrying home the change in her
+LINE 974: stocking! Clever little minx. I never told her. Neat way she carries
+LINE 975: parcels too. Attract men, small thing like that. Holding up her hand,
+LINE 976: shaking it, to let the blood flow back when it was red. Who did you
+LINE 977: learn that from? Nobody. Something the nurse taught me. O, don't they
+LINE 978: know! Three years old she was in front of Molly's dressingtable, just
+LINE 979: before we left Lombard street west. Me have a nice pace. Mullingar. Who
+LINE 980: knows? Ways of the world. Young student. Straight on her pins anyway
+LINE 981: not like the other. Still she was game. Lord, I am wet. Devil you are.
+LINE 982: Swell of her calf. Transparent stockings, stretched to breaking point.
+LINE 983: Not like that frump today. A. E. Rumpled stockings. Or the one in
+LINE 984: Grafton street. White. Wow! Beef to the heel.
+LINE 985: A monkey puzzle rocket burst, spluttering in darting crackles. Zrads
+LINE 986: and zrads, zrads, zrads. And Cissy and Tommy and Jacky ran out to see
+LINE 987: and Edy after with the pushcar and then Gerty beyond the curve of the
+LINE 988: rocks. Will she? Watch! Watch! See! Looked round. She smelt an onion.
+LINE 989: Darling, I saw, your. I saw all.
+LINE 990: Lord!
+LINE 991: Did me good all the same. Off colour after Kiernan's, Dignam's. For
+LINE 992: this relief much thanks. In _Hamlet,_ that is. Lord! It was all things
+LINE 993: combined. Excitement. When she leaned back, felt an ache at the butt of
+LINE 994: my tongue. Your head it simply swirls. He's right. Might have made a
+LINE 995: worse fool of myself however. Instead of talking about nothing. Then I
+LINE 996: will tell you all. Still it was a kind of language between us. It
+LINE 997: couldn't be? No, Gerty they called her. Might be false name however
+LINE 998: like my name and the address Dolphin's barn a blind.
+LINE 999: Her maiden name was Jemina Brown
+LINE 1000: And she lived with her mother in Irishtown.
+LINE 1001: Place made me think of that I suppose. All tarred with the same brush.
+LINE 1002: Wiping pens in their stockings. But the ball rolled down to her as if
+LINE 1003: it understood. Every bullet has its billet. Course I never could throw
+LINE 1004: anything straight at school. Crooked as a ram's horn. Sad however
+LINE 1005: because it lasts only a few years till they settle down to potwalloping
+LINE 1006: and papa's pants will soon fit Willy and fuller's earth for the baby
+LINE 1007: when they hold him out to do ah ah. No soft job. Saves them. Keeps them
+LINE 1008: out of harm's way. Nature. Washing child, washing corpse. Dignam.
+LINE 1009: Children's hands always round them. Cocoanut skulls, monkeys, not even
+LINE 1010: closed at first, sour milk in their swaddles and tainted curds.
+LINE 1011: Oughtn't to have given that child an empty teat to suck. Fill it up
+LINE 1012: with wind. Mrs Beaufoy, Purefoy. Must call to the hospital. Wonder is
+LINE 1013: nurse Callan there still. She used to look over some nights when Molly
+LINE 1014: was in the Coffee Palace. That young doctor O'Hare I noticed her
+LINE 1015: brushing his coat. And Mrs Breen and Mrs Dignam once like that too,
+LINE 1016: marriageable. Worst of all at night Mrs Duggan told me in the City
+LINE 1017: Arms. Husband rolling in drunk, stink of pub off him like a polecat.
+LINE 1018: Have that in your nose in the dark, whiff of stale boose. Then ask in
+LINE 1019: the morning: was I drunk last night? Bad policy however to fault the
+LINE 1020: husband. Chickens come home to roost. They stick by one another like
+LINE 1021: glue. Maybe the women's fault also. That's where Molly can knock spots
+LINE 1022: off them. It's the blood of the south. Moorish. Also the form, the
+LINE 1023: figure. Hands felt for the opulent. Just compare for instance those
+LINE 1024: others. Wife locked up at home, skeleton in the cupboard. Allow me to
+LINE 1025: introduce my. Then they trot you out some kind of a nondescript,
+LINE 1026: wouldn't know what to call her. Always see a fellow's weak point in his
+LINE 1027: wife. Still there's destiny in it, falling in love. Have their own
+LINE 1028: secrets between them. Chaps that would go to the dogs if some woman
+LINE 1029: didn't take them in hand. Then little chits of girls, height of a
+LINE 1030: shilling in coppers, with little hubbies. As God made them he matched
+LINE 1031: them. Sometimes children turn out well enough. Twice nought makes one.
+LINE 1032: Or old rich chap of seventy and blushing bride. Marry in May and repent
+LINE 1033: in December. This wet is very unpleasant. Stuck. Well the foreskin is
+LINE 1034: not back. Better detach.
+LINE 1035: Ow!
+LINE 1036: Other hand a sixfooter with a wifey up to his watchpocket. Long and the
+LINE 1037: short of it. Big he and little she. Very strange about my watch.
+LINE 1038: Wristwatches are always going wrong. Wonder is there any magnetic
+LINE 1039: influence between the person because that was about the time he. Yes, I
+LINE 1040: suppose, at once. Cat's away, the mice will play. I remember looking in
+LINE 1041: Pill lane. Also that now is magnetism. Back of everything magnetism.
+LINE 1042: Earth for instance pulling this and being pulled. That causes movement.
+LINE 1043: And time, well that's the time the movement takes. Then if one thing
+LINE 1044: stopped the whole ghesabo would stop bit by bit. Because it's all
+LINE 1045: arranged. Magnetic needle tells you what's going on in the sun, the
+LINE 1046: stars. Little piece of steel iron. When you hold out the fork. Come.
+LINE 1047: Come. Tip. Woman and man that is. Fork and steel. Molly, he. Dress up
+LINE 1048: and look and suggest and let you see and see more and defy you if
+LINE 1049: you're a man to see that and, like a sneeze coming, legs, look, look
+LINE 1050: and if you have any guts in you. Tip. Have to let fly.
+LINE 1051: Wonder how is she feeling in that region. Shame all put on before third
+LINE 1052: person. More put out about a hole in her stocking. Molly, her underjaw
+LINE 1053: stuck out, head back, about the farmer in the ridingboots and spurs at
+LINE 1054: the horse show. And when the painters were in Lombard street west. Fine
+LINE 1055: voice that fellow had. How Giuglini began. Smell that I did. Like
+LINE 1056: flowers. It was too. Violets. Came from the turpentine probably in the
+LINE 1057: paint. Make their own use of everything. Same time doing it scraped her
+LINE 1058: slipper on the floor so they wouldn't hear. But lots of them can't kick
+LINE 1059: the beam, I think. Keep that thing up for hours. Kind of a general all
+LINE 1060: round over me and half down my back.
+LINE 1061: Wait. Hm. Hm. Yes. That's her perfume. Why she waved her hand. I leave
+LINE 1062: you this to think of me when I'm far away on the pillow. What is it?
+LINE 1063: Heliotrope? No. Hyacinth? Hm. Roses, I think. She'd like scent of that
+LINE 1064: kind. Sweet and cheap: soon sour. Why Molly likes opoponax. Suits her,
+LINE 1065: with a little jessamine mixed. Her high notes and her low notes. At the
+LINE 1066: dance night she met him, dance of the hours. Heat brought it out. She
+LINE 1067: was wearing her black and it had the perfume of the time before. Good
+LINE 1068: conductor, is it? Or bad? Light too. Suppose there's some connection.
+LINE 1069: For instance if you go into a cellar where it's dark. Mysterious thing
+LINE 1070: too. Why did I smell it only now? Took its time in coming like herself,
+LINE 1071: slow but sure. Suppose it's ever so many millions of tiny grains blown
+LINE 1072: across. Yes, it is. Because those spice islands, Cinghalese this
+LINE 1073: morning, smell them leagues off. Tell you what it is. It's like a fine
+LINE 1074: fine veil or web they have all over the skin, fine like what do you
+LINE 1075: call it gossamer, and they're always spinning it out of them, fine as
+LINE 1076: anything, like rainbow colours without knowing it. Clings to everything
+LINE 1077: she takes off. Vamp of her stockings. Warm shoe. Stays. Drawers: little
+LINE 1078: kick, taking them off. Byby till next time. Also the cat likes to sniff
+LINE 1079: in her shift on the bed. Know her smell in a thousand. Bathwater too.
+LINE 1080: Reminds me of strawberries and cream. Wonder where it is really. There
+LINE 1081: or the armpits or under the neck. Because you get it out of all holes
+LINE 1082: and corners. Hyacinth perfume made of oil of ether or something.
+LINE 1083: Muskrat. Bag under their tails. One grain pour off odour for years.
+LINE 1084: Dogs at each other behind. Good evening. Evening. How do you sniff? Hm.
+LINE 1085: Hm. Very well, thank you. Animals go by that. Yes now, look at it that
+LINE 1086: way. We're the same. Some women, instance, warn you off when they have
+LINE 1087: their period. Come near. Then get a hogo you could hang your hat on.
+LINE 1088: Like what? Potted herrings gone stale or. Boof! Please keep off the
+LINE 1089: grass.
+LINE 1090: Perhaps they get a man smell off us. What though? Cigary gloves long
+LINE 1091: John had on his desk the other day. Breath? What you eat and drink
+LINE 1092: gives that. No. Mansmell, I mean. Must be connected with that because
+LINE 1093: priests that are supposed to be are different. Women buzz round it like
+LINE 1094: flies round treacle. Railed off the altar get on to it at any cost. The
+LINE 1095: tree of forbidden priest. O, father, will you? Let me be the first to.
+LINE 1096: That diffuses itself all through the body, permeates. Source of life.
+LINE 1097: And it's extremely curious the smell. Celery sauce. Let me.
+LINE 1098: Mr Bloom inserted his nose. Hm. Into the. Hm. Opening of his waistcoat.
+LINE 1099: Almonds or. No. Lemons it is. Ah no, that's the soap.
+LINE 1100: O by the by that lotion. I knew there was something on my mind. Never
+LINE 1101: went back and the soap not paid. Dislike carrying bottles like that hag
+LINE 1102: this morning. Hynes might have paid me that three shillings. I could
+LINE 1103: mention Meagher's just to remind him. Still if he works that paragraph.
+LINE 1104: Two and nine. Bad opinion of me he'll have. Call tomorrow. How much do
+LINE 1105: I owe you? Three and nine? Two and nine, sir. Ah. Might stop him giving
+LINE 1106: credit another time. Lose your customers that way. Pubs do. Fellows run
+LINE 1107: up a bill on the slate and then slinking around the back streets into
+LINE 1108: somewhere else.
+LINE 1109: Here's this nobleman passed before. Blown in from the bay. Just went as
+LINE 1110: far as turn back. Always at home at dinnertime. Looks mangled out: had
+LINE 1111: a good tuck in. Enjoying nature now. Grace after meals. After supper
+LINE 1112: walk a mile. Sure he has a small bank balance somewhere, government
+LINE 1113: sit. Walk after him now make him awkward like those newsboys me today.
+LINE 1114: Still you learn something. See ourselves as others see us. So long as
+LINE 1115: women don't mock what matter? That's the way to find out. Ask yourself
+LINE 1116: who is he now. _The Mystery Man on the Beach_, prize titbit story by Mr
+LINE 1117: Leopold Bloom. Payment at the rate of one guinea per column. And that
+LINE 1118: fellow today at the graveside in the brown macintosh. Corns on his
+LINE 1119: kismet however. Healthy perhaps absorb all the. Whistle brings rain
+LINE 1120: they say. Must be some somewhere. Salt in the Ormond damp. The body
+LINE 1121: feels the atmosphere. Old Betty's joints are on the rack. Mother
+LINE 1122: Shipton's prophecy that is about ships around they fly in the
+LINE 1123: twinkling. No. Signs of rain it is. The royal reader. And distant hills
+LINE 1124: seem coming nigh.
+LINE 1125: Howth. Bailey light. Two, four, six, eight, nine. See. Has to change or
+LINE 1126: they might think it a house. Wreckers. Grace Darling. People afraid of
+LINE 1127: the dark. Also glowworms, cyclists: lightingup time. Jewels diamonds
+LINE 1128: flash better. Women. Light is a kind of reassuring. Not going to hurt
+LINE 1129: you. Better now of course than long ago. Country roads. Run you through
+LINE 1130: the small guts for nothing. Still two types there are you bob against.
+LINE 1131: Scowl or smile. Pardon! Not at all. Best time to spray plants too in
+LINE 1132: the shade after the sun. Some light still. Red rays are longest.
+LINE 1133: Roygbiv Vance taught us: red, orange, yellow, green, blue, indigo,
+LINE 1134: violet. A star I see. Venus? Can't tell yet. Two. When three it's
+LINE 1135: night. Were those nightclouds there all the time? Looks like a phantom
+LINE 1136: ship. No. Wait. Trees are they? An optical illusion. Mirage. Land of
+LINE 1137: the setting sun this. Homerule sun setting in the southeast. My native
+LINE 1138: land, goodnight.
+LINE 1139: Dew falling. Bad for you, dear, to sit on that stone. Brings on white
+LINE 1140: fluxions. Never have little baby then less he was big strong fight his
+LINE 1141: way up through. Might get piles myself. Sticks too like a summer cold,
+LINE 1142: sore on the mouth. Cut with grass or paper worst. Friction of the
+LINE 1143: position. Like to be that rock she sat on. O sweet little, you don't
+LINE 1144: know how nice you looked. I begin to like them at that age. Green
+LINE 1145: apples. Grab at all that offer. Suppose it's the only time we cross
+LINE 1146: legs, seated. Also the library today: those girl graduates. Happy
+LINE 1147: chairs under them. But it's the evening influence. They feel all that.
+LINE 1148: Open like flowers, know their hours, sunflowers, Jerusalem artichokes,
+LINE 1149: in ballrooms, chandeliers, avenues under the lamps. Nightstock in Mat
+LINE 1150: Dillon's garden where I kissed her shoulder. Wish I had a full length
+LINE 1151: oilpainting of her then. June that was too I wooed. The year returns.
+LINE 1152: History repeats itself. Ye crags and peaks I'm with you once again.
+LINE 1153: Life, love, voyage round your own little world. And now? Sad about her
+LINE 1154: lame of course but must be on your guard not to feel too much pity.
+LINE 1155: They take advantage.
+LINE 1156: All quiet on Howth now. The distant hills seem. Where we. The
+LINE 1157: rhododendrons. I am a fool perhaps. He gets the plums, and I the
+LINE 1158: plumstones. Where I come in. All that old hill has seen. Names change:
+LINE 1159: that's all. Lovers: yum yum.
+LINE 1160: Tired I feel now. Will I get up? O wait. Drained all the manhood out of
+LINE 1161: me, little wretch. She kissed me. Never again. My youth. Only once it
+LINE 1162: comes. Or hers. Take the train there tomorrow. No. Returning not the
+LINE 1163: same. Like kids your second visit to a house. The new I want. Nothing
+LINE 1164: new under the sun. Care of P. O. Dolphin's Barn. Are you not happy in
+LINE 1165: your? Naughty darling. At Dolphin's barn charades in Luke Doyle's
+LINE 1166: house. Mat Dillon and his bevy of daughters: Tiny, Atty, Floey, Maimy,
+LINE 1167: Louy, Hetty. Molly too. Eightyseven that was. Year before we. And the
+LINE 1168: old major, partial to his drop of spirits. Curious she an only child, I
+LINE 1169: an only child. So it returns. Think you're escaping and run into
+LINE 1170: yourself. Longest way round is the shortest way home. And just when he
+LINE 1171: and she. Circus horse walking in a ring. Rip van Winkle we played. Rip:
+LINE 1172: tear in Henny Doyle's overcoat. Van: breadvan delivering. Winkle:
+LINE 1173: cockles and periwinkles. Then I did Rip van Winkle coming back. She
+LINE 1174: leaned on the sideboard watching. Moorish eyes. Twenty years asleep in
+LINE 1175: Sleepy Hollow. All changed. Forgotten. The young are old. His gun rusty
+LINE 1176: from the dew.
+LINE 1177: Ba. What is that flying about? Swallow? Bat probably. Thinks I'm a
+LINE 1178: tree, so blind. Have birds no smell? Metempsychosis. They believed you
+LINE 1179: could be changed into a tree from grief. Weeping willow. Ba. There he
+LINE 1180: goes. Funny little beggar. Wonder where he lives. Belfry up there. Very
+LINE 1181: likely. Hanging by his heels in the odour of sanctity. Bell scared him
+LINE 1182: out, I suppose. Mass seems to be over. Could hear them all at it. Pray
+LINE 1183: for us. And pray for us. And pray for us. Good idea the repetition.
+LINE 1184: Same thing with ads. Buy from us. And buy from us. Yes, there's the
+LINE 1185: light in the priest's house. Their frugal meal. Remember about the
+LINE 1186: mistake in the valuation when I was in Thom's. Twentyeight it is. Two
+LINE 1187: houses they have. Gabriel Conroy's brother is curate. Ba. Again. Wonder
+LINE 1188: why they come out at night like mice. They're a mixed breed. Birds are
+LINE 1189: like hopping mice. What frightens them, light or noise? Better sit
+LINE 1190: still. All instinct like the bird in drouth got water out of the end of
+LINE 1191: a jar by throwing in pebbles. Like a little man in a cloak he is with
+LINE 1192: tiny hands. Weeny bones. Almost see them shimmering, kind of a bluey
+LINE 1193: white. Colours depend on the light you see. Stare the sun for example
+LINE 1194: like the eagle then look at a shoe see a blotch blob yellowish. Wants
+LINE 1195: to stamp his trademark on everything. Instance, that cat this morning
+LINE 1196: on the staircase. Colour of brown turf. Say you never see them with
+LINE 1197: three colours. Not true. That half tabbywhite tortoiseshell in the
+LINE 1198: _City Arms_ with the letter em on her forehead. Body fifty different
+LINE 1199: colours. Howth a while ago amethyst. Glass flashing. That's how that
+LINE 1200: wise man what's his name with the burning glass. Then the heather goes
+LINE 1201: on fire. It can't be tourists' matches. What? Perhaps the sticks dry
+LINE 1202: rub together in the wind and light. Or broken bottles in the furze act
+LINE 1203: as a burning glass in the sun. Archimedes. I have it! My memory's not
+LINE 1204: so bad.
+LINE 1205: Ba. Who knows what they're always flying for. Insects? That bee last
+LINE 1206: week got into the room playing with his shadow on the ceiling. Might be
+LINE 1207: the one bit me, come back to see. Birds too. Never find out. Or what
+LINE 1208: they say. Like our small talk. And says she and says he. Nerve they
+LINE 1209: have to fly over the ocean and back. Lots must be killed in storms,
+LINE 1210: telegraph wires. Dreadful life sailors have too. Big brutes of
+LINE 1211: oceangoing steamers floundering along in the dark, lowing out like
+LINE 1212: seacows. _Faugh a ballagh!_ Out of that, bloody curse to you! Others in
+LINE 1213: vessels, bit of a handkerchief sail, pitched about like snuff at a wake
+LINE 1214: when the stormy winds do blow. Married too. Sometimes away for years at
+LINE 1215: the ends of the earth somewhere. No ends really because it's round.
+LINE 1216: Wife in every port they say. She has a good job if she minds it till
+LINE 1217: Johnny comes marching home again. If ever he does. Smelling the tail
+LINE 1218: end of ports. How can they like the sea? Yet they do. The anchor's
+LINE 1219: weighed. Off he sails with a scapular or a medal on him for luck. Well.
+LINE 1220: And the tephilim no what's this they call it poor papa's father had on
+LINE 1221: his door to touch. That brought us out of the land of Egypt and into
+LINE 1222: the house of bondage. Something in all those superstitions because when
+LINE 1223: you go out never know what dangers. Hanging on to a plank or astride of
+LINE 1224: a beam for grim life, lifebelt round him, gulping salt water, and
+LINE 1225: that's the last of his nibs till the sharks catch hold of him. Do fish
+LINE 1226: ever get seasick?
+LINE 1227: Then you have a beautiful calm without a cloud, smooth sea, placid,
+LINE 1228: crew and cargo in smithereens, Davy Jones' locker, moon looking down so
+LINE 1229: peaceful. Not my fault, old cockalorum.
+LINE 1230: A last lonely candle wandered up the sky from Mirus bazaar in search of
+LINE 1231: funds for Mercer's hospital and broke, drooping, and shed a cluster of
+LINE 1232: violet but one white stars. They floated, fell: they faded. The
+LINE 1233: shepherd's hour: the hour of folding: hour of tryst. From house to
+LINE 1234: house, giving his everwelcome double knock, went the nine o'clock
+LINE 1235: postman, the glowworm's lamp at his belt gleaming here and there
+LINE 1236: through the laurel hedges. And among the five young trees a hoisted
+LINE 1237: lintstock lit the lamp at Leahy's terrace. By screens of lighted
+LINE 1238: windows, by equal gardens a shrill voice went crying, wailing: _Evening
+LINE 1239: Telegraph, stop press edition! Result of the Gold Cup races!_ and from
+LINE 1240: the door of Dignam's house a boy ran out and called. Twittering the bat
+LINE 1241: flew here, flew there. Far out over the sands the coming surf crept,
+LINE 1242: grey. Howth settled for slumber, tired of long days, of yumyum
+LINE 1243: rhododendrons (he was old) and felt gladly the night breeze lift,
+LINE 1244: ruffle his fell of ferns. He lay but opened a red eye unsleeping, deep
+LINE 1245: and slowly breathing, slumberous but awake. And far on Kish bank the
+LINE 1246: anchored lightship twinkled, winked at Mr Bloom.
+LINE 1247: Life those chaps out there must have, stuck in the same spot. Irish
+LINE 1248: Lights board. Penance for their sins. Coastguards too. Rocket and
+LINE 1249: breeches buoy and lifeboat. Day we went out for the pleasure cruise in
+LINE 1250: the Erin's King, throwing them the sack of old papers. Bears in the
+LINE 1251: zoo. Filthy trip. Drunkards out to shake up their livers. Puking
+LINE 1252: overboard to feed the herrings. Nausea. And the women, fear of God in
+LINE 1253: their faces. Milly, no sign of funk. Her blue scarf loose, laughing.
+LINE 1254: Don't know what death is at that age. And then their stomachs clean.
+LINE 1255: But being lost they fear. When we hid behind the tree at Crumlin. I
+LINE 1256: didn't want to. Mamma! Mamma! Babes in the wood. Frightening them with
+LINE 1257: masks too. Throwing them up in the air to catch them. I'll murder you.
+LINE 1258: Is it only half fun? Or children playing battle. Whole earnest. How can
+LINE 1259: people aim guns at each other. Sometimes they go off. Poor kids! Only
+LINE 1260: troubles wildfire and nettlerash. Calomel purge I got her for that.
+LINE 1261: After getting better asleep with Molly. Very same teeth she has. What
+LINE 1262: do they love? Another themselves? But the morning she chased her with
+LINE 1263: the umbrella. Perhaps so as not to hurt. I felt her pulse. Ticking.
+LINE 1264: Little hand it was: now big. Dearest Papli. All that the hand says when
+LINE 1265: you touch. Loved to count my waistcoat buttons. Her first stays I
+LINE 1266: remember. Made me laugh to see. Little paps to begin with. Left one is
+LINE 1267: more sensitive, I think. Mine too. Nearer the heart? Padding themselves
+LINE 1268: out if fat is in fashion. Her growing pains at night, calling, wakening
+LINE 1269: me. Frightened she was when her nature came on her first. Poor child!
+LINE 1270: Strange moment for the mother too. Brings back her girlhood. Gibraltar.
+LINE 1271: Looking from Buena Vista. O'Hara's tower. The seabirds screaming. Old
+LINE 1272: Barbary ape that gobbled all his family. Sundown, gunfire for the men
+LINE 1273: to cross the lines. Looking out over the sea she told me. Evening like
+LINE 1274: this, but clear, no clouds. I always thought I'd marry a lord or a rich
+LINE 1275: gentleman coming with a private yacht. _Buenas noches, señorita. El
+LINE 1276: hombre ama la muchacha hermosa_. Why me? Because you were so foreign
+LINE 1277: from the others.
+LINE 1278: Better not stick here all night like a limpet. This weather makes you
+LINE 1279: dull. Must be getting on for nine by the light. Go home. Too late for
+LINE 1280: _Leah, Lily of Killarney._ No. Might be still up. Call to the hospital
+LINE 1281: to see. Hope she's over. Long day I've had. Martha, the bath, funeral,
+LINE 1282: house of Keyes, museum with those goddesses, Dedalus' song. Then that
+LINE 1283: bawler in Barney Kiernan's. Got my own back there. Drunken ranters what
+LINE 1284: I said about his God made him wince. Mistake to hit back. Or? No. Ought
+LINE 1285: to go home and laugh at themselves. Always want to be swilling in
+LINE 1286: company. Afraid to be alone like a child of two. Suppose he hit me.
+LINE 1287: Look at it other way round. Not so bad then. Perhaps not to hurt he
+LINE 1288: meant. Three cheers for Israel. Three cheers for the sister-in-law he
+LINE 1289: hawked about, three fangs in her mouth. Same style of beauty.
+LINE 1290: Particularly nice old party for a cup of tea. The sister of the wife of
+LINE 1291: the wild man of Borneo has just come to town. Imagine that in the early
+LINE 1292: morning at close range. Everyone to his taste as Morris said when he
+LINE 1293: kissed the cow. But Dignam's put the boots on it. Houses of mourning so
+LINE 1294: depressing because you never know. Anyhow she wants the money. Must
+LINE 1295: call to those Scottish Widows as I promised. Strange name. Takes it for
+LINE 1296: granted we're going to pop off first. That widow on Monday was it
+LINE 1297: outside Cramer's that looked at me. Buried the poor husband but
+LINE 1298: progressing favourably on the premium. Her widow's mite. Well? What do
+LINE 1299: you expect her to do? Must wheedle her way along. Widower I hate to
+LINE 1300: see. Looks so forlorn. Poor man O'Connor wife and five children
+LINE 1301: poisoned by mussels here. The sewage. Hopeless. Some good matronly
+LINE 1302: woman in a porkpie hat to mother him. Take him in tow, platter face and
+LINE 1303: a large apron. Ladies' grey flannelette bloomers, three shillings a
+LINE 1304: pair, astonishing bargain. Plain and loved, loved for ever, they say.
+LINE 1305: Ugly: no woman thinks she is. Love, lie and be handsome for tomorrow we
+LINE 1306: die. See him sometimes walking about trying to find out who played the
+LINE 1307: trick. U. p: up. Fate that is. He, not me. Also a shop often noticed.
+LINE 1308: Curse seems to dog it. Dreamt last night? Wait. Something confused. She
+LINE 1309: had red slippers on. Turkish. Wore the breeches. Suppose she does?
+LINE 1310: Would I like her in pyjamas? Damned hard to answer. Nannetti's gone.
+LINE 1311: Mailboat. Near Holyhead by now. Must nail that ad of Keyes's. Work
+LINE 1312: Hynes and Crawford. Petticoats for Molly. She has something to put in
+LINE 1313: them. What's that? Might be money.
+LINE 1314: Mr Bloom stooped and turned over a piece of paper on the strand. He
+LINE 1315: brought it near his eyes and peered. Letter? No. Can't read. Better go.
+LINE 1316: Better. I'm tired to move. Page of an old copybook. All those holes and
+LINE 1317: pebbles. Who could count them? Never know what you find. Bottle with
+LINE 1318: story of a treasure in it, thrown from a wreck. Parcels post. Children
+LINE 1319: always want to throw things in the sea. Trust? Bread cast on the
+LINE 1320: waters. What's this? Bit of stick.
+LINE 1321: O! Exhausted that female has me. Not so young now. Will she come here
+LINE 1322: tomorrow? Wait for her somewhere for ever. Must come back. Murderers
+LINE 1323: do. Will I?
+LINE 1324: Mr Bloom with his stick gently vexed the thick sand at his foot. Write
+LINE 1325: a message for her. Might remain. What?
+LINE 1326: I.
+LINE 1327: Some flatfoot tramp on it in the morning. Useless. Washed away. Tide
+LINE 1328: comes here. Saw a pool near her foot. Bend, see my face there, dark
+LINE 1329: mirror, breathe on it, stirs. All these rocks with lines and scars and
+LINE 1330: letters. O, those transparent! Besides they don't know. What is the
+LINE 1331: meaning of that other world. I called you naughty boy because I do not
+LINE 1332: like.
+LINE 1333: AM. A.
+LINE 1334: No room. Let it go.
+LINE 1335: Mr Bloom effaced the letters with his slow boot. Hopeless thing sand.
+LINE 1336: Nothing grows in it. All fades. No fear of big vessels coming up here.
+LINE 1337: Except Guinness's barges. Round the Kish in eighty days. Done half by
+LINE 1338: design.
+LINE 1339: He flung his wooden pen away. The stick fell in silted sand, stuck. Now
+LINE 1340: if you were trying to do that for a week on end you couldn't. Chance.
+LINE 1341: We'll never meet again. But it was lovely. Goodbye, dear. Thanks. Made
+LINE 1342: me feel so young.
+LINE 1343: Short snooze now if I had. Must be near nine. Liverpool boat long gone.
+LINE 1344: Not even the smoke. And she can do the other. Did too. And Belfast. I
+LINE 1345: won't go. Race there, race back to Ennis. Let him. Just close my eyes a
+LINE 1346: moment. Won't sleep, though. Half dream. It never comes the same. Bat
+LINE 1347: again. No harm in him. Just a few.
+LINE 1348: O sweety all your little girlwhite up I saw dirty bracegirdle made me
+LINE 1349: do love sticky we two naughty Grace darling she him half past the bed
+LINE 1350: met him pike hoses frillies for Raoul de perfume your wife black hair
+LINE 1351: heave under embon _señorita_ young eyes Mulvey plump bubs me breadvan
+LINE 1352: Winkle red slippers she rusty sleep wander years of dreams return tail
+LINE 1353: end Agendath swoony lovey showed me her next year in drawers return
+LINE 1354: next in her next her next.
+LINE 1355: A bat flew. Here. There. Here. Far in the grey a bell chimed. Mr Bloom
+LINE 1356: with open mouth, his left boot sanded sideways, leaned, breathed. Just
+LINE 1357: for a few
+LINE 1358: Cuckoo
+LINE 1359: Cuckoo
+LINE 1360: Cuckoo.
+LINE 1361: The clock on the mantelpiece in the priest's house cooed where Canon
+LINE 1362: O'Hanlon and Father Conroy and the reverend John Hughes S. J. were
+LINE 1363: taking tea and sodabread and butter and fried mutton chops with catsup
+LINE 1364: and talking about
+LINE 1365: Cuckoo
+LINE 1366: Cuckoo
+LINE 1367: Cuckoo.
+LINE 1368: Because it was a little canarybird that came out of its little house to
+LINE 1369: tell the time that Gerty MacDowell noticed the time she was there
+LINE 1370: because she was as quick as anything about a thing like that, was Gerty
+LINE 1371: MacDowell, and she noticed at once that that foreign gentleman that was
+LINE 1372: sitting on the rocks looking was
+LINE 1373: Cuckoo
+LINE 1374: Cuckoo
+LINE 1375: Cuckoo.
