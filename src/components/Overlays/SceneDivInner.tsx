@@ -351,7 +351,7 @@ function SceneDivInner(props: any) {
                 <b className="grad">LLM-generated</b>
                 <span className="lighter">
                   {" "}
-                  explanation if no direct quote found
+                  explanation if no verified direct quote found
                 </span>
               </span>
             )}
