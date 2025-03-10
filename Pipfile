@@ -15,6 +15,7 @@ sentence-transformers = "*"
 statsmodels = "*"
 flask = "*"
 aiofiles = "*"
+flask-cors = "*"
 
 [dev-packages]
 ipykernel = "*"

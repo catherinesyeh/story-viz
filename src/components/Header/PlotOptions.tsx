@@ -163,6 +163,8 @@ function PlotOptions() {
 
     "marrow-new",
     "marrow-new-themes",
+
+    "牡丹亭-new",
   ].sort();
 
   const storyOptionsDisplay = storyOptions.filter(
