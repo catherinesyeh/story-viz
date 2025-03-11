@@ -1905,6 +1905,7 @@ h1 {
 }
 
 #slider-outer {
+  position: relative;
   transition: 0.3s;
 
   &.hidden {
@@ -1913,6 +1914,13 @@ h1 {
     visibility: hidden;
     height: 0;
     width: 0;
+  }
+
+  .find-chapter {
+    position: absolute;
+    transform: translateX(-50%);
+    left: 50%;
+    bottom: 100%;
   }
 }
 
@@ -2209,8 +2217,30 @@ div.info-tooltip {
     }
   }
 
+  .find-chapter-textarea {
+    textarea {
+      font-size: 11px;
+    }
+  }
+
   button {
     margin-top: 0.25rem;
+
+    &.find-chapter-button {
+      transition: 0.3s;
+      span {
+        font-size: 10px !important;
+      }
+
+      &.hidden {
+        visibility: hidden;
+        pointer-events: none;
+        opacity: 0;
+        padding: 0 !important;
+        height: 0;
+        margin: 0 !important;
+      }
+    }
 
     span {
       transition: 0.3s;
@@ -2222,7 +2252,8 @@ div.info-tooltip {
     }
   }
 
-  .ask-llm-answer {
+  .ask-llm-answer,
+  .find-chapter-answer {
     transition: 0.3s;
 
     &.hidden {

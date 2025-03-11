@@ -6,7 +6,7 @@ import { askLLMQuestion } from "../../server";
 import { onlyLetters } from "../../utils/helpers";
 import { dataStore } from "../../stores/dataStore";
 
-function AskLLM(props: any) {
+function AskLLMPopover(props: any) {
   const { chapterView, modalLoading, setModalLoading, story, isBackendActive } =
     storyStore();
   const { scene_data } = dataStore();
@@ -148,4 +148,4 @@ function AskLLM(props: any) {
   );
 }
 
-export default AskLLM;
+export default AskLLMPopover;

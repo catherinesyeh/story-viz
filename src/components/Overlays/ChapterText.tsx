@@ -13,7 +13,7 @@ import {
 } from "../../utils/colors";
 import chroma from "chroma-js";
 import InfoTooltip from "../Misc/InfoTooltip";
-import AskLLM from "../Modals/AskLLM";
+import AskLLMPopover from "../Modals/AskLLMPopover";
 
 function ChapterText() {
   const [chapterText, setChapterText] = useState([] as string[]);
@@ -412,7 +412,7 @@ function ChapterText() {
                   );
                 })}
 
-              <AskLLM key={scene.name} sceneName={scene.name} />
+              <AskLLMPopover key={scene.name} sceneName={scene.name} />
             </div>
           </div>
         );

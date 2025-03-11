@@ -67,6 +67,15 @@ export async function askLLMQuestion(question: string, info: string) {
   return post(`ask_llm`, payload);
 }
 
+export async function findChapterWithLLM(question: string, info: string) {
+  const payload = {
+    question: question,
+    data: info,
+  };
+
+  return post(`find_chapter_with_llm`, payload);
+}
+
 export async function checkBackendStatus() {
   return get("status");
 }

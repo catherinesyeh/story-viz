@@ -1,5 +1,5 @@
 from helpers import load_model
-from prompts import add_yaxis_data, ask_question, assign_character_attributes
+from prompts import add_yaxis_data, ask_question, assign_character_attributes, find_chapter
 import json
 
 # start main method
@@ -19,6 +19,9 @@ def main():
 
     # get character data
     charData = data["characters"]
+
+    # get chapter data
+    chapterData = data["chapters"]
 
     # get scene data
     sceneData = data["scenes"]
@@ -53,11 +56,18 @@ def main():
     # print("New data:")
     # print(new_data)
 
-    # TEST THREE: test asking question
-    question = "Why is Nick the most important character in this scene?"
-    answer = ask_question(llm, firstScene, question)
+    # # TEST THREE: test asking question
+    # question = "Why is Nick the most important character in this scene?"
+    # answer = ask_question(llm, firstScene, question)
+    # print(f"Question: {question}")
+    # print(f"Answer: {answer}")
+
+    # TEST FOUR: test finding chapter to answer question
+    question = "When does Nick fist meet Jordan?"
+    chapter, explanation = find_chapter(llm, chapterData, question)
     print(f"Question: {question}")
-    print(f"Answer: {answer}")
+    print(f"Chapter: {chapter}")
+    print(f"Explanation: {explanation}")
 
 
 if __name__ == "__main__":

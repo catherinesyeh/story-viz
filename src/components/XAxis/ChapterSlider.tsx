@@ -2,6 +2,7 @@ import { Button, RangeSlider } from "@mantine/core";
 import { dataStore } from "../../stores/dataStore";
 import { extractChapterName } from "../../utils/helpers";
 import InfoTooltip from "../Misc/InfoTooltip";
+import FindChapterPopover from "../Modals/FindChapterPopover";
 
 function ChapterSlider() {
   const {
@@ -11,6 +12,7 @@ function ChapterSlider() {
     resetActiveChapters,
     chapterDivisions,
   } = dataStore();
+
   let first_chapter =
     chapterDivisions && chapterDivisions[0] ? chapterDivisions[0].chapter : "";
   first_chapter = extractChapterName(first_chapter);
@@ -38,6 +40,7 @@ function ChapterSlider() {
       id="slider-outer"
       className={first_chapter && last_chapter ? "" : "hidden"}
     >
+      <FindChapterPopover />
       <div
         id="chapter-slider"
         className={first_chapter && last_chapter ? "" : "hidden"}
