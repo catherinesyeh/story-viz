@@ -1,0 +1,341 @@
+LINE 1: You must go back with me to the autumn of 1827.
+LINE 2: My father, as you know, was a sort of gentleman farmer in ——shire; and
+LINE 3: I, by his express desire, succeeded him in the same quiet occupation,
+LINE 4: not very willingly, for ambition urged me to higher aims, and
+LINE 5: self-conceit assured me that, in disregarding its voice, I was burying
+LINE 6: my talent in the earth, and hiding my light under a bushel. My mother
+LINE 7: had done her utmost to persuade me that I was capable of great
+LINE 8: achievements; but my father, who thought ambition was the surest road
+LINE 9: to ruin, and change but another word for destruction, would listen to
+LINE 10: no scheme for bettering either my own condition, or that of my fellow
+LINE 11: mortals. He assured me it was all rubbish, and exhorted me, with his
+LINE 12: dying breath, to continue in the good old way, to follow his steps, and
+LINE 13: those of his father before him, and let my highest ambition be to walk
+LINE 14: honestly through the world, looking neither to the right hand nor to
+LINE 15: the left, and to transmit the paternal acres to my children in, at
+LINE 16: least, as flourishing a condition as he left them to me.
+LINE 17: "Well!—an honest and industrious farmer is one of the most useful
+LINE 18: members of society; and if I devote my talents to the cultivation of my
+LINE 19: farm, and the improvement of agriculture in general, I shall thereby
+LINE 20: benefit, not only my own immediate connections and dependants, but, in
+LINE 21: some degree, mankind at large:—hence I shall not have lived in vain."
+LINE 22: With such reflections as these I was endeavouring to console myself, as
+LINE 23: I plodded home from the fields, one cold, damp, cloudy evening towards
+LINE 24: the close of October. But the gleam of a bright red fire through the
+LINE 25: parlour window had more effect in cheering my spirits, and rebuking my
+LINE 26: thankless repinings, than all the sage reflections and good resolutions
+LINE 27: I had forced my mind to frame;—for I was young then, remember—only
+LINE 28: four-and-twenty—and had not acquired half the rule over my own spirit
+LINE 29: that I now possess—trifling as that may be.
+LINE 30: However, that haven of bliss must not be entered till I had exchanged
+LINE 31: my miry boots for a clean pair of shoes, and my rough surtout for a
+LINE 32: respectable coat, and made myself generally presentable before decent
+LINE 33: society; for my mother, with all her kindness, was vastly particular on
+LINE 34: certain points.
+LINE 35: In ascending to my room I was met upon the stairs by a smart, pretty
+LINE 36: girl of nineteen, with a tidy, dumpy figure, a round face, bright,
+LINE 37: blooming cheeks, glossy, clustering curls, and little merry brown eyes.
+LINE 38: I need not tell you this was my sister Rose. She is, I know, a comely
+LINE 39: matron still, and, doubtless, no less lovely—in _your_ eyes—than on the
+LINE 40: happy day you first beheld her. Nothing told me then that she, a few
+LINE 41: years hence, would be the wife of one entirely unknown to me as yet,
+LINE 42: but destined hereafter to become a closer friend than even herself,
+LINE 43: more intimate than that unmannerly lad of seventeen, by whom I was
+LINE 44: collared in the passage, on coming down, and well-nigh jerked off my
+LINE 45: equilibrium, and who, in correction for his impudence, received a
+LINE 46: resounding whack over the sconce, which, however, sustained no serious
+LINE 47: injury from the infliction; as, besides being more than commonly thick,
+LINE 48: it was protected by a redundant shock of short, reddish curls, that my
+LINE 49: mother called auburn.
+LINE 50: On entering the parlour we found that honoured lady seated in her
+LINE 51: arm-chair at the fireside, working away at her knitting, according to
+LINE 52: her usual custom, when she had nothing else to do. She had swept the
+LINE 53: hearth, and made a bright blazing fire for our reception; the servant
+LINE 54: had just brought in the tea-tray; and Rose was producing the
+LINE 55: sugar-basin and tea-caddy from the cupboard in the black oak
+LINE 56: side-board, that shone like polished ebony, in the cheerful parlour
+LINE 57: twilight.
+LINE 58: "Well! here they both are," cried my mother, looking round upon us
+LINE 59: without retarding the motion of her nimble fingers and glittering
+LINE 60: needles. "Now shut the door, and come to the fire, while Rose gets the
+LINE 61: tea ready; I'm sure you must be starved;—and tell me what you've been
+LINE 62: about all day;—I like to know what my children have been about."
+LINE 63: "I've been breaking in the grey colt—no easy business that—directing
+LINE 64: the ploughing of the last wheat stubble—for the ploughboy has not the
+LINE 65: sense to direct himself—and carrying out a plan for the extensive and
+LINE 66: efficient draining of the low meadowlands."
+LINE 67: "That's my brave boy!—and Fergus, what have you been doing?"
+LINE 68: "Badger-baiting."
+LINE 69: And here he proceeded to give a particular account of his sport, and
+LINE 70: the respective traits of prowess evinced by the badger and the dogs; my
+LINE 71: mother pretending to listen with deep attention, and watching his
+LINE 72: animated countenance with a degree of maternal admiration I thought
+LINE 73: highly disproportioned to its object.
+LINE 74: "It's time you should be doing something else, Fergus," said I, as soon
+LINE 75: as a momentary pause in his narration allowed me to get in a word.
+LINE 76: "What _can_ I do?" replied he; "my mother won't let me go to sea or
+LINE 77: enter the army; and I'm determined to do nothing else—except make
+LINE 78: myself such a nuisance to you all, that you will be thankful to get rid
+LINE 79: of me on any terms."
+LINE 80: Our parent soothingly stroked his stiff, short curls. He growled, and
+LINE 81: tried to look sulky, and then we all took our seats at the table, in
+LINE 82: obedience to the thrice-repeated summons of Rose.
+LINE 83: "Now take your tea," said she; "and I'll tell you what _I've_ been
+LINE 84: doing. I've been to call on the Wilsons; and it's a _thousand_ pities
+LINE 85: you didn't go with me, Gilbert, for Eliza Millward was there!"
+LINE 86: "Well! what of her?"
+LINE 87: "Oh, nothing!—I'm not going to tell you about her;—only that she's a
+LINE 88: nice, amusing little thing, when she is in a merry humour, and I
+LINE 89: shouldn't mind calling her—"
+LINE 90: "Hush, hush, my dear! your brother has no such idea!" whispered my
+LINE 91: mother earnestly, holding up her finger.
+LINE 92: "Well," resumed Rose; "I was going to tell you an important piece of
+LINE 93: news I heard there—I have been bursting with it ever since. You know it
+LINE 94: was reported a month ago, that somebody was going to take Wildfell
+LINE 95: Hall—and—what do you think? It has actually been inhabited above a
+LINE 96: week!—and we never knew!"
+LINE 97: "Impossible!" cried my mother.
+LINE 98: "Preposterous!!!" shrieked Fergus.
+LINE 99: "It has indeed!—and by a single lady!"
+LINE 100: "Good gracious, my dear! The place is in ruins!"
+LINE 101: "She has had two or three rooms made habitable; and there she lives,
+LINE 102: all alone—except an old woman for a servant!"
+LINE 103: "Oh, dear! that spoils it—I'd hoped she was a witch," observed Fergus,
+LINE 104: while carving his inch-thick slice of bread and butter. "Nonsense,
+LINE 105: Fergus! But isn't it strange, mamma?"
+LINE 106: "Strange! I can hardly believe it."
+LINE 107: "But you may believe it; for Jane Wilson has seen her. She went with
+LINE 108: her mother, who, of course, when she heard of a stranger being in the
+LINE 109: neighbourhood, would be on pins and needles till she had seen her and
+LINE 110: got all she could out of her. She is called Mrs. Graham, and she is in
+LINE 111: mourning—not widow's weeds, but slightish mourning—and she is quite
+LINE 112: young, they say,—not above five or six and twenty,—but _so_ reserved!
+LINE 113: They tried all they could to find out who she was and where she came
+LINE 114: from, and, all about her, but neither Mrs. Wilson, with her
+LINE 115: pertinacious and impertinent home-thrusts, nor Miss Wilson, with her
+LINE 116: skilful manœuvring, could manage to elicit a single satisfactory
+LINE 117: answer, or even a casual remark, or chance expression calculated to
+LINE 118: allay their curiosity, or throw the faintest ray of light upon her
+LINE 119: history, circumstances, or connections. Moreover, she was barely civil
+LINE 120: to them, and evidently better pleased to say "good-by," than "how do
+LINE 121: you do." But Eliza Millward says her father intends to call upon her
+LINE 122: soon, to offer some pastoral advice, which he fears she needs, as,
+LINE 123: though she is known to have entered the neighbourhood early last week,
+LINE 124: she did not make her appearance at church on Sunday; and she—Eliza,
+LINE 125: that is—will beg to accompany him, and is sure _she_ can succeed in
+LINE 126: wheedling something out of her—you know, Gilbert, _she_ can do
+LINE 127: anything. And _we_ should call some time, mamma; it's only proper, you
+LINE 128: know."
+LINE 129: "Of course, my dear. Poor thing! How lonely she must feel!"
+LINE 130: "And pray, be quick about it; and mind you bring me word how much sugar
+LINE 131: she puts in her tea, and what sort of caps and aprons she wears, and
+LINE 132: all about it; for I don't know how I can live till I know," said
+LINE 133: Fergus, very gravely.
+LINE 134: But if he intended the speech to be hailed as a master-stroke of wit,
+LINE 135: he signally failed, for nobody laughed. However, he was not much
+LINE 136: disconcerted at that; for when he had taken a mouthful of bread and
+LINE 137: butter and was about to swallow a gulp of tea, the humour of the thing
+LINE 138: burst upon him with such irresistible force, that he was obliged to
+LINE 139: jump up from the table, and rush snorting and choking from the room;
+LINE 140: and a minute after, was heard screaming in fearful agony in the garden.
+LINE 141: As for me, I was hungry, and contented myself with silently demolishing
+LINE 142: the tea, ham, and toast, while my mother and sister went on talking,
+LINE 143: and continued to discuss the apparent or non-apparent circumstances,
+LINE 144: and probable or improbable history of the mysterious lady; but I must
+LINE 145: confess that, after my brother's misadventure, I once or twice raised
+LINE 146: the cup to my lips, and put it down again without daring to taste the
+LINE 147: contents, lest I should injure my dignity by a similar explosion.
+LINE 148: The next day my mother and Rose hastened to pay their compliments to
+LINE 149: the fair recluse; and came back but little wiser than they went; though
+LINE 150: my mother declared she did not regret the journey, for if she had not
+LINE 151: gained much good, she flattered herself she had imparted some, and that
+LINE 152: was better: she had given some useful advice, which, she hoped, would
+LINE 153: not be thrown away; for Mrs. Graham, though she said little to any
+LINE 154: purpose, and appeared somewhat self-opinionated, seemed not incapable
+LINE 155: of reflection,—though she did not know where she had been all her life,
+LINE 156: poor thing, for she betrayed a lamentable ignorance on certain points,
+LINE 157: and had not even the sense to be ashamed of it.
+LINE 158: "On what points, mother?" asked I.
+LINE 159: "On household matters, and all the little niceties of cookery, and such
+LINE 160: things, that every lady ought to be familiar with, whether she be
+LINE 161: required to make a practical use of her knowledge or not. I gave her
+LINE 162: some useful pieces of information, however, and several excellent
+LINE 163: receipts, the value of which she evidently could not appreciate, for
+LINE 164: she begged I would not trouble myself, as she lived in such a plain,
+LINE 165: quiet way, that she was sure she should never make use of them. 'No
+LINE 166: matter, my dear,' said I; 'it is what every respectable female ought to
+LINE 167: know;—and besides, though you are alone now, you will not be always so;
+LINE 168: you _have_ been married, and probably—I might say almost certainly—will
+LINE 169: be again.' 'You are mistaken there, ma'am,' said she, almost haughtily;
+LINE 170: 'I am certain I never shall.'—But I told her _I_ knew better."
+LINE 171: "Some romantic young widow, I suppose," said I, "come there to end her
+LINE 172: days in solitude, and mourn in secret for the dear departed—but it
+LINE 173: won't last long."
+LINE 174: "No, I think not," observed Rose; "for she didn't seem _very_
+LINE 175: disconsolate after all; and she's excessively pretty—handsome
+LINE 176: rather—you must see her, Gilbert; you will call her a perfect beauty,
+LINE 177: though you could hardly pretend to discover a resemblance between her
+LINE 178: and Eliza Millward."
+LINE 179: "Well, I can imagine many faces more beautiful than Eliza's, though not
+LINE 180: more charming. I allow she has small claims to perfection; but then, I
+LINE 181: maintain that, if she were more perfect, she would be less
+LINE 182: interesting."
+LINE 183: "And so you prefer her faults to other people's perfections?"
+LINE 184: "Just so—saving my mother's presence."
+LINE 185: "Oh, my dear Gilbert, what nonsense you talk!—I know you don't mean it;
+LINE 186: it's quite out of the question," said my mother, getting up, and
+LINE 187: bustling out of the room, under pretence of household business, in
+LINE 188: order to escape the contradiction that was trembling on my tongue.
+LINE 189: After that Rose favoured me with further particulars respecting Mrs.
+LINE 190: Graham. Her appearance, manners, and dress, and the very furniture of
+LINE 191: the room she inhabited, were all set before me, with rather more
+LINE 192: clearness and precision than I cared to see them; but, as I was not a
+LINE 193: very attentive listener, I could not repeat the description if I would.
+LINE 194: The next day was Saturday; and, on Sunday, everybody wondered whether
+LINE 195: or not the fair unknown would profit by the vicar's remonstrance, and
+LINE 196: come to church. I confess I looked with some interest myself towards
+LINE 197: the old family pew, appertaining to Wildfell Hall, where the faded
+LINE 198: crimson cushions and lining had been unpressed and unrenewed so many
+LINE 199: years, and the grim escutcheons, with their lugubrious borders of rusty
+LINE 200: black cloth, frowned so sternly from the wall above.
+LINE 201: And there I beheld a tall, lady-like figure, clad in black. Her face
+LINE 202: was towards me, and there was something in it which, once seen, invited
+LINE 203: me to look again. Her hair was raven black, and disposed in long glossy
+LINE 204: ringlets, a style of coiffure rather unusual in those days, but always
+LINE 205: graceful and becoming; her complexion was clear and pale; her eyes I
+LINE 206: could not see, for, being bent upon her prayer-book, they were
+LINE 207: concealed by their drooping lids and long black lashes, but the brows
+LINE 208: above were expressive and well defined; the forehead was lofty and
+LINE 209: intellectual, the nose, a perfect aquiline and the features, in
+LINE 210: general, unexceptionable—only there was a slight hollowness about the
+LINE 211: cheeks and eyes, and the lips, though finely formed, were a little too
+LINE 212: thin, a little too firmly compressed, and had something about them that
+LINE 213: betokened, I thought, no very soft or amiable temper; and I said in my
+LINE 214: heart—"I would rather admire you from this distance, fair lady, than be
+LINE 215: the partner of your home."
+LINE 216: Just then she happened to raise her eyes, and they met mine; I did not
+LINE 217: choose to withdraw my gaze, and she turned again to her book, but with
+LINE 218: a momentary, indefinable expression of quiet scorn, that was
+LINE 219: inexpressibly provoking to me.
+LINE 220: "She thinks me an impudent puppy," thought I. "Humph!—she shall change
+LINE 221: her mind before long, if I think it worth while."
+LINE 222: But then it flashed upon me that these were very improper thoughts for
+LINE 223: a place of worship, and that my behaviour, on the present occasion, was
+LINE 224: anything but what it ought to be. Previous, however, to directing my
+LINE 225: mind to the service, I glanced round the church to see if any one had
+LINE 226: been observing me;—but no,—all, who were not attending to their
+LINE 227: prayer-books, were attending to the strange lady,—my good mother and
+LINE 228: sister among the rest, and Mrs. Wilson and her daughter; and even Eliza
+LINE 229: Millward was slily glancing from the corners of her eyes towards the
+LINE 230: object of general attraction. Then she glanced at me, simpered a
+LINE 231: little, and blushed, modestly looked at her prayer-book, and
+LINE 232: endeavoured to compose her features.
+LINE 233: Here I was transgressing again; and this time I was made sensible of it
+LINE 234: by a sudden dig in the ribs, from the elbow of my pert brother. For the
+LINE 235: present, I could only resent the insult by pressing my foot upon his
+LINE 236: toes, deferring further vengeance till we got out of church.
+LINE 237: Now, Halford, before I close this letter, I'll tell you who Eliza
+LINE 238: Millward was: she was the vicar's younger daughter, and a very engaging
+LINE 239: little creature, for whom I felt no small degree of partiality;—and she
+LINE 240: knew it, though I had never come to any direct explanation, and had no
+LINE 241: definite intention of so doing, for my mother, who maintained there was
+LINE 242: no one good enough for me within twenty miles round, could not bear the
+LINE 243: thoughts of my marrying that insignificant little thing, who, in
+LINE 244: addition to her numerous other disqualifications, had not twenty pounds
+LINE 245: to call her own. Eliza's figure was at once slight and plump, her face
+LINE 246: small, and nearly as round as my sister's,—complexion, something
+LINE 247: similar to hers, but more delicate and less decidedly blooming,—nose,
+LINE 248: _retroussé_,—features, generally irregular; and, altogether, she was
+LINE 249: rather charming than pretty. But her eyes—I must not forget those
+LINE 250: remarkable features, for therein her chief attraction lay—in outward
+LINE 251: aspect at least;—they were long and narrow in shape, the irids black,
+LINE 252: or very dark brown, the expression various, and ever changing, but
+LINE 253: always either preternaturally—I had almost said _diabolically_—wicked,
+LINE 254: or irresistibly bewitching—often both. Her voice was gentle and
+LINE 255: childish, her tread light and soft as that of a cat:—but her manners
+LINE 256: more frequently resembled those of a pretty playful kitten, that is now
+LINE 257: pert and roguish, now timid and demure, according to its own sweet
+LINE 258: will.
+LINE 259: Her sister, Mary, was several years older, several inches taller, and
+LINE 260: of a larger, coarser build—a plain, quiet, sensible girl, who had
+LINE 261: patiently nursed their mother, through her last long, tedious illness,
+LINE 262: and been the housekeeper, and family drudge, from thence to the present
+LINE 263: time. She was trusted and valued by her father, loved and courted by
+LINE 264: all dogs, cats, children, and poor people, and slighted and neglected
+LINE 265: by everybody else.
+LINE 266: The Reverend Michael Millward himself was a tall, ponderous elderly
+LINE 267: gentleman, who placed a shovel hat above his large, square,
+LINE 268: massive-featured face, carried a stout walking-stick in his hand, and
+LINE 269: incased his still powerful limbs in knee-breeches and gaiters,—or black
+LINE 270: silk stockings on state occasions. He was a man of fixed principles,
+LINE 271: strong prejudices, and regular habits, intolerant of dissent in any
+LINE 272: shape, acting under a firm conviction that _his_ opinions were always
+LINE 273: right, and whoever differed from them must be either most deplorably
+LINE 274: ignorant, or wilfully blind.
+LINE 275: In childhood, I had always been accustomed to regard him with a feeling
+LINE 276: of reverential awe—but lately, even now, surmounted, for, though he had
+LINE 277: a fatherly kindness for the well-behaved, he was a strict
+LINE 278: disciplinarian, and had often sternly reproved our juvenile failings
+LINE 279: and peccadilloes; and moreover, in those days, whenever he called upon
+LINE 280: our parents, we had to stand up before him, and say our catechism, or
+LINE 281: repeat, "How doth the little busy bee," or some other hymn, or—worse
+LINE 282: than all—be questioned about his last text, and the heads of the
+LINE 283: discourse, which we never could remember. Sometimes, the worthy
+LINE 284: gentleman would reprove my mother for being over-indulgent to her sons,
+LINE 285: with a reference to old Eli, or David and Absalom, which was
+LINE 286: particularly galling to her feelings; and, very highly as she respected
+LINE 287: him, and all his sayings, I once heard her exclaim, "I wish to goodness
+LINE 288: he had a son himself! He wouldn't be so ready with his advice to other
+LINE 289: people then;—he'd see what it is to have a couple of boys to keep in
+LINE 290: order."
+LINE 291: He had a laudable care for his own bodily health—kept very early hours,
+LINE 292: regularly took a walk before breakfast, was vastly particular about
+LINE 293: warm and dry clothing, had never been known to preach a sermon without
+LINE 294: previously swallowing a raw egg—albeit he was gifted with good lungs
+LINE 295: and a powerful voice,—and was, generally, extremely particular about
+LINE 296: what he ate and drank, though by no means abstemious, and having a mode
+LINE 297: of dietary peculiar to himself,—being a great despiser of tea and such
+LINE 298: slops, and a patron of malt liquors, bacon and eggs, ham, hung beef,
+LINE 299: and other strong meats, which agreed well enough with his digestive
+LINE 300: organs, and therefore were maintained by him to be good and wholesome
+LINE 301: for everybody, and confidently recommended to the most delicate
+LINE 302: convalescents or dyspeptics, who, if they failed to derive the promised
+LINE 303: benefit from his prescriptions, were told it was because they had not
+LINE 304: persevered, and if they complained of inconvenient results therefrom,
+LINE 305: were assured it was all fancy.
+LINE 306: I will just touch upon two other persons whom I have mentioned, and
+LINE 307: then bring this long letter to a close. These are Mrs. Wilson and her
+LINE 308: daughter. The former was the widow of a substantial farmer, a
+LINE 309: narrow-minded, tattling old gossip, whose character is not worth
+LINE 310: describing. She had two sons, Robert, a rough countrified farmer, and
+LINE 311: Richard, a retiring, studious young man, who was studying the classics
+LINE 312: with the vicar's assistance, preparing for college, with a view to
+LINE 313: enter the church.
+LINE 314: Their sister Jane was a young lady of some talents, and more ambition.
+LINE 315: She had, at her own desire, received a regular boarding-school
+LINE 316: education, superior to what any member of the family had obtained
+LINE 317: before. She had taken the polish well, acquired considerable elegance
+LINE 318: of manners, quite lost her provincial accent, and could boast of more
+LINE 319: accomplishments than the vicar's daughters. She was considered a beauty
+LINE 320: besides; but never for a moment could she number me amongst her
+LINE 321: admirers. She was about six and twenty, rather tall and very slender,
+LINE 322: her hair was neither chestnut nor auburn, but a most decided bright,
+LINE 323: light red; her complexion was remarkably fair and brilliant, her head
+LINE 324: small, neck long, chin well turned, but very short, lips thin and red,
+LINE 325: eyes clear hazel, quick, and penetrating, but entirely destitute of
+LINE 326: poetry or feeling. She had, or might have had, many suitors in her own
+LINE 327: rank of life, but scornfully repulsed or rejected them all; for none
+LINE 328: but a gentleman could please her refined taste, and none but a rich one
+LINE 329: could satisfy her soaring ambition. One gentleman there was, from whom
+LINE 330: she had lately received some rather pointed attentions, and upon whose
+LINE 331: heart, name, and fortune, it was whispered, she had serious designs.
+LINE 332: This was Mr. Lawrence, the young squire, whose family had formerly
+LINE 333: occupied Wildfell Hall, but had deserted it, some fifteen years ago,
+LINE 334: for a more modern and commodious mansion in the neighbouring parish.
+LINE 335: Now, Halford, I bid you adieu for the present. This is the first
+LINE 336: instalment of my debt. If the coin suits you, tell me so, and I'll send
+LINE 337: you the rest at my leisure: if you would rather remain my creditor than
+LINE 338: stuff your purse with such ungainly, heavy pieces,—tell me still, and
+LINE 339: I'll pardon your bad taste, and willingly keep the treasure to myself.
+LINE 340: Yours immutably,
+LINE 341: GILBERT MARKHAM.

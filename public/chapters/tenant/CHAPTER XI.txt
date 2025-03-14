@@ -1,0 +1,165 @@
+LINE 1: You must suppose about three weeks passed over. Mrs. Graham and I were
+LINE 2: now established friends—or brother and sister, as we rather chose to
+LINE 3: consider ourselves. She called me Gilbert, by my express desire, and I
+LINE 4: called her Helen, for I had seen that name written in her books. I
+LINE 5: seldom attempted to see her above twice a week; and still I made our
+LINE 6: meetings appear the result of accident as often as I could—for I found
+LINE 7: it necessary to be extremely careful—and, altogether, I behaved with
+LINE 8: such exceeding propriety that she never had occasion to reprove me
+LINE 9: once. Yet I could not but perceive that she was at times unhappy and
+LINE 10: dissatisfied with herself or her position, and truly I myself was not
+LINE 11: quite contented with the latter: this assumption of brotherly
+LINE 12: nonchalance was very hard to sustain, and I often felt myself a most
+LINE 13: confounded hypocrite with it all; I saw too, or rather I felt, that, in
+LINE 14: spite of herself, "I was not indifferent to her," as the novel heroes
+LINE 15: modestly express it, and while I thankfully enjoyed my present good
+LINE 16: fortune, I could not fail to wish and hope for something better in
+LINE 17: future; but, of course, I kept such dreams entirely to myself.
+LINE 18: "Where are you going, Gilbert?" said Rose, one evening, shortly after
+LINE 19: tea, when I had been busy with the farm all day.
+LINE 20: "To take a walk," was the reply.
+LINE 21: "Do you always brush your hat so carefully, and do your hair so nicely,
+LINE 22: and put on such smart new gloves when you take a walk?"
+LINE 23: "Not always."
+LINE 24: "You're going to Wildfell Hall, aren't you?"
+LINE 25: "What makes you think so?"
+LINE 26: "Because you look as if you were—but I wish you wouldn't go so often."
+LINE 27: "Nonsense, child! I don't go once in six weeks—what do you mean?"
+LINE 28: "Well, but if I were you, I wouldn't have so much to do with Mrs.
+LINE 29: Graham."
+LINE 30: "Why, Rose, are you, too, giving in to the prevailing opinion?"
+LINE 31: "No," returned she, hesitatingly—"but I've heard so much about her
+LINE 32: lately, both at the Wilsons' and the vicarage;—and besides, mamma says,
+LINE 33: if she were a proper person she would not be living there by
+LINE 34: herself—and don't you remember last winter, Gilbert, all that about the
+LINE 35: false name to the picture; and how she explained it—saying she had
+LINE 36: friends or acquaintances from whom she wished her present residence to
+LINE 37: be concealed, and that she was afraid of their tracing her out;—and
+LINE 38: then, how suddenly she started up and left the room when that person
+LINE 39: came—whom she took good care not to let us catch a glimpse of, and who
+LINE 40: Arthur, with such an air of mystery, told us was his mamma's friend?"
+LINE 41: "Yes, Rose, I remember it all; and I can forgive your uncharitable
+LINE 42: conclusions; for, perhaps, if I did not know her myself, I should put
+LINE 43: all these things together, and believe the same as you do; but thank
+LINE 44: God, I do know her; and I should be unworthy the name of a man, if I
+LINE 45: could believe anything that was said against her, unless I heard it
+LINE 46: from her own lips.—I should as soon believe such things of you, Rose."
+LINE 47: "Oh, Gilbert!"
+LINE 48: "Well, do you think I _could_ believe anything of the kind,—whatever
+LINE 49: the Wilsons and Millwards dared to whisper?"
+LINE 50: "I should hope _not_ indeed!"
+LINE 51: "And why not?—Because I know you—Well, and I know her just as well."
+LINE 52: "Oh, no! you know nothing of her former life; and last year, at this
+LINE 53: time, you did not know that such a person existed."
+LINE 54: "No matter. There is such a thing as looking through a person's eyes
+LINE 55: into the heart, and learning more of the height, and breadth, and depth
+LINE 56: of another's soul in one hour than it might take you a lifetime to
+LINE 57: discover, if he or she were not disposed to reveal it, or if you had
+LINE 58: not the sense to understand it."
+LINE 59: "Then you _are_ going to see her this evening?"
+LINE 60: "To be sure I am!"
+LINE 61: "But what would mamma say, Gilbert!"
+LINE 62: "Mamma needn't know."
+LINE 63: "But she must know some time, if you go on."
+LINE 64: "Go on!—there's no going on in the matter. Mrs. Graham and I are two
+LINE 65: friends—and will be; and no man breathing shall hinder it,—or has a
+LINE 66: right to interfere between us."
+LINE 67: "But if you knew how they talk you would be more careful, for her sake
+LINE 68: as well as for your own. Jane Wilson thinks your visits to the old hall
+LINE 69: but another proof of her depravity—"
+LINE 70: "Confound Jane Wilson!"
+LINE 71: "And Eliza Millward is quite grieved about you."
+LINE 72: "I hope she is."
+LINE 73: "But I wouldn't, if I were you."
+LINE 74: "Wouldn't what?—How do they know that I go there?"
+LINE 75: "There's nothing hid from them: they spy out everything."
+LINE 76: "Oh, I never thought of this!—And so they dare to turn my friendship
+LINE 77: into food for further scandal against her!—That proves the falsehood of
+LINE 78: their other lies, at all events, if any proof were wanting.—Mind you
+LINE 79: contradict them, Rose, whenever you can."
+LINE 80: "But they don't speak openly to me about such things: it is only by
+LINE 81: hints and innuendoes, and by what I hear others say, that I knew what
+LINE 82: they think."
+LINE 83: "Well, then, I won't go to-day, as it's getting latish. But oh, deuce
+LINE 84: take their cursed, envenomed tongues!" I muttered, in the bitterness of
+LINE 85: my soul.
+LINE 86: And just at that moment the vicar entered the room: we had been too
+LINE 87: much absorbed in our conversation to observe his knock. After his
+LINE 88: customary cheerful and fatherly greeting of Rose, who was rather a
+LINE 89: favourite with the old gentleman, he turned somewhat sternly to me:—
+LINE 90: "Well, sir!" said he, "you're quite a stranger. It is—let—me—see," he
+LINE 91: continued, slowly, as he deposited his ponderous bulk in the arm-chair
+LINE 92: that Rose officiously brought towards him; "it is just—six-weeks—by my
+LINE 93: reckoning, since you darkened—my—door!" He spoke it with emphasis, and
+LINE 94: struck his stick on the floor.
+LINE 95: "Is it, sir?" said I.
+LINE 96: "Ay! It is so!" He added an affirmatory nod, and continued to gaze upon
+LINE 97: me with a kind of irate solemnity, holding his substantial stick
+LINE 98: between his knees, with his hands clasped upon its head.
+LINE 99: "I have been busy," I said, for an apology was evidently demanded.
+LINE 100: "Busy!" repeated he, derisively.
+LINE 101: "Yes, you know I've been getting in my hay; and now the harvest is
+LINE 102: beginning."
+LINE 103: "Humph!"
+LINE 104: Just then my mother came in, and created a diversion in my favour by
+LINE 105: her loquacious and animated welcome of the reverend guest. She
+LINE 106: regretted deeply that he had not come a little earlier, in time for
+LINE 107: tea, but offered to have some immediately prepared, if he would do her
+LINE 108: the favour to partake of it.
+LINE 109: "Not any for me, I thank you," replied he; "I shall be at home in a few
+LINE 110: minutes."
+LINE 111: "Oh, but do stay and take a little! it will be ready in five minutes."
+LINE 112: But he rejected the offer with a majestic wave of the hand.
+LINE 113: "I'll tell you what I'll take, Mrs. Markham," said he: "I'll take a
+LINE 114: glass of your excellent ale."
+LINE 115: "With pleasure!" cried my mother, proceeding with alacrity to pull the
+LINE 116: bell and order the favoured beverage.
+LINE 117: "I thought," continued he, "I'd just look in upon you as I passed, and
+LINE 118: taste your home-brewed ale. I've been to call on Mrs. Graham."
+LINE 119: "Have you, indeed?"
+LINE 120: He nodded gravely, and added with awful emphasis—"I thought it
+LINE 121: incumbent upon me to do so."
+LINE 122: "Really!" ejaculated my mother.
+LINE 123: "Why so, Mr. Millward?" asked I.
+LINE 124: He looked at me with some severity, and turning again to my mother,
+LINE 125: repeated,—"I thought it incumbent upon me!" and struck his stick on the
+LINE 126: floor again. My mother sat opposite, an awe-struck but admiring
+LINE 127: auditor.
+LINE 128: "'Mrs. Graham,' said I," he continued, shaking his head as he spoke,
+LINE 129: "'these are terrible reports!' 'What, sir?' says she, affecting to be
+LINE 130: ignorant of my meaning. 'It is my—duty—as—your pastor,' said I, 'to
+LINE 131: tell you both everything that I myself see reprehensible in your
+LINE 132: conduct, and all I have reason to suspect, and what others tell me
+LINE 133: concerning you.'—So I told her!"
+LINE 134: "You did, sir?" cried I, starting from my seat and striking my fist on
+LINE 135: the table. He merely glanced towards me, and continued—addressing his
+LINE 136: hostess:—
+LINE 137: "It was a painful duty, Mrs. Markham—but I told her!"
+LINE 138: "And how did she take it?" asked my mother.
+LINE 139: "Hardened, I fear—hardened!" he replied, with a despondent shake of the
+LINE 140: head; "and, at the same time, there was a strong display of
+LINE 141: unchastened, misdirected passions. She turned white in the face, and
+LINE 142: drew her breath through her teeth in a savage sort of way;—but she
+LINE 143: offered no extenuation or defence; and with a kind of shameless
+LINE 144: calmness—shocking indeed to witness in one so young—as good as told me
+LINE 145: that my remonstrance was unavailing, and my pastoral advice quite
+LINE 146: thrown away upon her—nay, that my very _presence was_ displeasing while
+LINE 147: I spoke such things. And I withdrew at length, too plainly seeing that
+LINE 148: nothing could be done—and sadly grieved to find her case so hopeless.
+LINE 149: But I am fully determined, Mrs. Markham, that _my_
+LINE 150: daughters—shall—not—consort with her. Do you adopt the same resolution
+LINE 151: with regard to yours!—As for your sons—as for _you_, young man," he
+LINE 152: continued, sternly turning to me—
+LINE 153: "As for ME, sir," I began, but checked by some impediment in my
+LINE 154: utterance, and finding that my whole frame trembled with fury, I said
+LINE 155: no more, but took the wiser part of snatching up my hat and bolting
+LINE 156: from the room, slamming the door behind me, with a bang that shook the
+LINE 157: house to its foundations, and made my mother scream, and gave a
+LINE 158: momentary relief to my excited feelings.
+LINE 159: The next minute saw me hurrying with rapid strides in the direction of
+LINE 160: Wildfell Hall—to what intent or purpose I could scarcely tell, but I
+LINE 161: must be moving somewhere, and no other goal would do—I must see her
+LINE 162: too, and speak to her—that was certain; but what to say, or how to act,
+LINE 163: I had no definite idea. Such stormy thoughts—so many different
+LINE 164: resolutions crowded in upon me, that my mind was little better than a
+LINE 165: chaos of conflicting passions.

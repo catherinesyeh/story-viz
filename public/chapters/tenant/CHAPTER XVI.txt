@@ -1,0 +1,407 @@
+LINE 1: June 1st, 1821.—We have just returned to Staningley—that is, we
+LINE 2: returned some days ago, and I am not yet settled, and feel as if I
+LINE 3: never should be. We left town sooner than was intended, in consequence
+LINE 4: of my uncle's indisposition;—I wonder what would have been the result
+LINE 5: if we had stayed the full time. I am quite ashamed of my new-sprung
+LINE 6: distaste for country life. All my former occupations seem so tedious
+LINE 7: and dull, my former amusements so insipid and unprofitable. I cannot
+LINE 8: enjoy my music, because there is no one to hear it. I cannot enjoy my
+LINE 9: walks, because there is no one to meet. I cannot enjoy my books,
+LINE 10: because they have not power to arrest my attention: my head is so
+LINE 11: haunted with the recollections of the last few weeks, that I cannot
+LINE 12: attend to them. My drawing suits me best, for I can draw and think at
+LINE 13: the same time; and if my productions cannot now be seen by any one but
+LINE 14: myself, and those who do not care about them, they, possibly, may be,
+LINE 15: hereafter. But, then, there is one face I am always trying to paint or
+LINE 16: to sketch, and always without success; and that vexes me. As for the
+LINE 17: owner of that face, I cannot get him out of my mind—and, indeed, I
+LINE 18: never try. I wonder whether he ever thinks of me; and I wonder whether
+LINE 19: I shall ever see him again. And then might follow a train of other
+LINE 20: wonderments—questions for time and fate to answer—concluding
+LINE 21: with—Supposing all the rest be answered in the affirmative, I wonder
+LINE 22: whether I shall ever repent it? as my aunt would tell me I should, if
+LINE 23: she knew what I was thinking about.
+LINE 24: How distinctly I remember our conversation that evening before our
+LINE 25: departure for town, when we were sitting together over the fire, my
+LINE 26: uncle having gone to bed with a slight attack of the gout.
+LINE 27: "Helen," said she, after a thoughtful silence, "do you ever think about
+LINE 28: marriage?"
+LINE 29: "Yes, aunt, often."
+LINE 30: "And do you ever contemplate the possibility of being married yourself,
+LINE 31: or engaged, before the season is over?"
+LINE 32: "Sometimes; but I don't think it at all likely that I _ever_ shall."
+LINE 33: "Why so?"
+LINE 34: "Because, I imagine, there must be only a very, very few men in the
+LINE 35: world that I should like to marry; and of those few, it is ten to one I
+LINE 36: may never be acquainted with one; or if I should, it is twenty to one
+LINE 37: he may not happen to be single, or to take a fancy to me."
+LINE 38: "That is no argument at all. It may be very true—and I hope is true,
+LINE 39: that there are very few men whom you would choose to marry, of
+LINE 40: yourself. It is not, indeed, to be supposed that you would _wish_ to
+LINE 41: marry _any_ one till you were asked: a girl's affections should never
+LINE 42: be won unsought. But when they _are_ sought—when the citadel of the
+LINE 43: heart is fairly besieged—it is apt to surrender sooner than the owner
+LINE 44: is aware of, and often against her better judgment, and in opposition
+LINE 45: to all her preconceived ideas of what she could have loved, unless she
+LINE 46: be extremely careful and discreet. Now, I want to warn you, Helen, of
+LINE 47: these things, and to exhort you to be watchful and circumspect from the
+LINE 48: very commencement of your career, and not to suffer your heart to be
+LINE 49: stolen from you by the first foolish or unprincipled person that covets
+LINE 50: the possession of it.—You know, my dear, you are only just eighteen;
+LINE 51: there is plenty of time before you, and neither your uncle nor I are in
+LINE 52: any hurry to get you off our hands, and I may venture to say, there
+LINE 53: will be no lack of suitors; for you can boast a good family, a pretty
+LINE 54: considerable fortune and expectations, and, I may as well tell you
+LINE 55: likewise—for, if I don't, others will—that you have a fair share of
+LINE 56: beauty besides—and I hope you may never have cause to regret it!"
+LINE 57: "I hope not, aunt; but why should you fear it?"
+LINE 58: "Because, my dear, beauty is that quality which, next to money, is
+LINE 59: generally the most attractive to the worst kinds of men; and,
+LINE 60: therefore, it is likely to entail a great deal of trouble on the
+LINE 61: possessor."
+LINE 62: "Have _you_ been troubled in that way, aunt?"
+LINE 63: "No, Helen," said she, with reproachful gravity, "but I know many that
+LINE 64: have; and some, through carelessness, have been the wretched victims of
+LINE 65: deceit; and some, through weakness, have fallen into snares and
+LINE 66: temptations terrible to relate."
+LINE 67: "Well, I shall be neither careless nor weak."
+LINE 68: "Remember Peter, Helen! Don't boast, but _watch_. Keep a guard over
+LINE 69: your eyes and ears as the inlets of your heart, and over your lips as
+LINE 70: the outlet, lest they betray you in a moment of unwariness. Receive,
+LINE 71: coldly and dispassionately, every attention, till you have ascertained
+LINE 72: and duly considered the worth of the aspirant; and let your affections
+LINE 73: be consequent upon approbation alone. First study; then approve; then
+LINE 74: love. Let your eyes be blind to all external attractions, your ears
+LINE 75: deaf to all the fascinations of flattery and light discourse.—These are
+LINE 76: nothing—and worse than nothing—snares and wiles of the tempter, to lure
+LINE 77: the thoughtless to their own destruction. Principle is the first thing,
+LINE 78: after all; and next to that, good sense, respectability, and moderate
+LINE 79: wealth. If you should marry the handsomest, and most accomplished and
+LINE 80: superficially agreeable man in the world, you little know the misery
+LINE 81: that would overwhelm you if, after all, you should find him to be a
+LINE 82: worthless reprobate, or even an impracticable fool."
+LINE 83: "But what are all the poor fools and reprobates to do, aunt? If
+LINE 84: everybody followed your advice, the world would soon come to an end."
+LINE 85: "Never fear, my dear! the male fools and reprobates will never want for
+LINE 86: partners, while there are so many of the other sex to match them; but
+LINE 87: do _you_ follow my advice. And this is no subject for jesting, Helen—I
+LINE 88: am sorry to see you treat the matter in that light way. Believe me,
+LINE 89: _matrimony is a serious thing_." And she spoke it _so_ seriously, that
+LINE 90: one might have fancied she had known it to her cost; but I asked no
+LINE 91: more impertinent questions, and merely answered,—
+LINE 92: "I know it is; and I know there is truth and sense in what you say; but
+LINE 93: you need not fear me, for I not only should think it _wrong_ to marry a
+LINE 94: man that was deficient in sense or in principle, but I should never be
+LINE 95: _tempted_ to do it; for I could not like him, if he were ever so
+LINE 96: handsome, and ever so charming, in other respects; I should hate
+LINE 97: him—despise him—pity him—anything but love him. My affections not only
+LINE 98: _ought_ to be founded on approbation, but they will and must be so:
+LINE 99: for, without approving, I cannot love. It is needless to say, I ought
+LINE 100: to be able to respect and honour the man I marry, as _well_ as love
+LINE 101: him, for I cannot love him without. So set your mind at rest."
+LINE 102: "I hope it may be so," answered she.
+LINE 103: "I _know_ it _is_ so," persisted I.
+LINE 104: "You have not been tried yet, Helen—we can but hope," said she in her
+LINE 105: cold, cautious way.
+LINE 106: "I was vexed at her incredulity; but I am not sure her doubts were
+LINE 107: entirely without sagacity; I fear I have found it much easier to
+LINE 108: remember her advice than to profit by it;—indeed, I have sometimes been
+LINE 109: led to question the soundness of her doctrines on those subjects. Her
+LINE 110: counsels may be good, as far as they go—in the main points at
+LINE 111: least;—but there are some things she has overlooked in her
+LINE 112: calculations. I wonder if _she_ was ever in love.
+LINE 113: I commenced my career—or my first campaign, as my uncle calls
+LINE 114: it—kindling with bright hopes and fancies—chiefly raised by this
+LINE 115: conversation—and full of confidence in my own discretion. At first, I
+LINE 116: was delighted with the novelty and excitement of our London life; but
+LINE 117: soon I began to weary of its mingled turbulence and constraint, and
+LINE 118: sigh for the freshness and freedom of home. My new acquaintances, both
+LINE 119: male and female, disappointed my expectations, and vexed and depressed
+LINE 120: me by turns; for I soon grew tired of studying their peculiarities, and
+LINE 121: laughing at their foibles—particularly as I was obliged to keep my
+LINE 122: criticisms to myself, for my aunt would not hear them—and they—the
+LINE 123: ladies especially—appeared so provokingly mindless, and heartless, and
+LINE 124: artificial. The gentlemen seemed better, but, perhaps, it was because I
+LINE 125: knew them less—perhaps, because they flattered me; but I did not fall
+LINE 126: in love with any of them; and, if their attentions pleased me one
+LINE 127: moment, they provoked me the next, because they put me out of humour
+LINE 128: with myself, by revealing my vanity and making me fear I was becoming
+LINE 129: like some of the ladies I so heartily despised.
+LINE 130: There was one elderly gentleman that annoyed me very much; a rich old
+LINE 131: friend of my uncle's, who, I believe, thought I could not do better
+LINE 132: than marry him; but, besides being old, he was ugly and
+LINE 133: disagreeable,—and wicked, I am sure, though my aunt scolded me for
+LINE 134: saying so; but she allowed he was no saint. And there was another, less
+LINE 135: hateful, but still _more_ tiresome, because she favoured him, and was
+LINE 136: always thrusting him upon me, and sounding his praises in my ears—Mr.
+LINE 137: Boarham by name, Bore'em, as I prefer spelling it, for a terrible bore
+LINE 138: he was: I shudder still at the remembrance of his voice—drone, drone,
+LINE 139: drone, in my ear—while he sat beside me, prosing away by the half-hour
+LINE 140: together, and beguiling himself with the notion that he was improving
+LINE 141: my mind by useful information, or impressing his dogmas upon me and
+LINE 142: reforming my errors of judgment, or perhaps that he was talking down to
+LINE 143: my level, and amusing me with entertaining discourse. Yet he was a
+LINE 144: decent man enough in the main, I daresay; and if he had kept his
+LINE 145: distance, I never would have hated him. As it was, it was almost
+LINE 146: impossible to help it, for he not only bothered me with the infliction
+LINE 147: of his own presence, but he kept me from the enjoyment of more
+LINE 148: agreeable society.
+LINE 149: One night, however, at a ball, he had been more than usually
+LINE 150: tormenting, and my patience was quite exhausted. It appeared as if the
+LINE 151: whole evening was fated to be insupportable: I had just had one dance
+LINE 152: with an empty-headed coxcomb, and then Mr. Boarham had come upon me and
+LINE 153: seemed determined to cling to me for the rest of the night. He never
+LINE 154: danced himself, and there he sat, poking his head in my face, and
+LINE 155: impressing all beholders with the idea that he was a confirmed,
+LINE 156: acknowledged lover; my aunt looking complacently on all the time, and
+LINE 157: wishing him God-speed. In vain I attempted to drive him away by giving
+LINE 158: a loose to my exasperated feelings, even to positive rudeness: nothing
+LINE 159: could convince him that his presence was disagreeable. Sullen silence
+LINE 160: was taken for rapt attention, and gave him greater room to talk; sharp
+LINE 161: answers were received as smart sallies of girlish vivacity, that only
+LINE 162: required an indulgent rebuke; and flat contradictions were but as oil
+LINE 163: to the flames, calling forth new strains of argument to support his
+LINE 164: dogmas, and bringing down upon me endless floods of reasoning to
+LINE 165: overwhelm me with conviction.
+LINE 166: But there was one present who seemed to have a better appreciation of
+LINE 167: my frame of mind. A gentleman stood by, who had been watching our
+LINE 168: conference for some time, evidently much amused at my companion's
+LINE 169: remorseless pertinacity and my manifest annoyance, and laughing to
+LINE 170: himself at the asperity and uncompromising spirit of my replies. At
+LINE 171: length, however, he withdrew, and went to the lady of the house,
+LINE 172: apparently for the purpose of asking an introduction to me, for,
+LINE 173: shortly after, they both came up, and she introduced him as Mr.
+LINE 174: Huntingdon, the son of a late friend of my uncle's. He asked me to
+LINE 175: dance. I gladly consented, of course; and he was my companion during
+LINE 176: the remainder of my stay, which was not long, for my aunt, as usual,
+LINE 177: insisted upon an early departure.
+LINE 178: I was sorry to go, for I had found my new acquaintance a very lively
+LINE 179: and entertaining companion. There was a certain graceful ease and
+LINE 180: freedom about all he said and did, that gave a sense of repose and
+LINE 181: expansion to the mind, after so much constraint and formality as I had
+LINE 182: been doomed to suffer. There might be, it is true, a little too much
+LINE 183: careless boldness in his manner and address, but I was in so good a
+LINE 184: humour, and so grateful for my late deliverance from Mr. Boarham, that
+LINE 185: it did not anger me.
+LINE 186: "Well, Helen, how do you like Mr. Boarham now?" said my aunt, as we
+LINE 187: took our seats in the carriage and drove away.
+LINE 188: "Worse than ever," I replied.
+LINE 189: She looked displeased, but said no more on that subject.
+LINE 190: "Who was the gentleman you danced with last," resumed she, after a
+LINE 191: pause—"that was so officious in helping you on with your shawl?"
+LINE 192: "He was not officious at all, aunt: he never _attempted_ to help me,
+LINE 193: till he saw Mr. Boarham coming to do so; and then he stepped laughingly
+LINE 194: forward and said, 'Come, I'll preserve you from that infliction.'"
+LINE 195: "Who was it, I ask?" said she, with frigid gravity.
+LINE 196: "It was Mr. Huntingdon, the son of uncle's old friend."
+LINE 197: "I have heard your uncle speak of young Mr. Huntingdon. I've heard him
+LINE 198: say, 'He's a fine lad, that young Huntingdon, but a bit wildish, I
+LINE 199: fancy.' So I'd have you beware."
+LINE 200: "What does 'a bit wildish' mean?" I inquired.
+LINE 201: "It means destitute of principle, and prone to every vice that is
+LINE 202: common to youth."
+LINE 203: "But I've heard uncle say he was a sad wild fellow himself, when he was
+LINE 204: young."
+LINE 205: She sternly shook her head.
+LINE 206: "He was jesting then, I suppose," said I, "and here he was speaking at
+LINE 207: random—at least, I cannot believe there is any harm in those laughing
+LINE 208: blue eyes."
+LINE 209: "False reasoning, Helen!" said she, with a sigh.
+LINE 210: "Well, we ought to be charitable, you know, aunt—besides, I don't think
+LINE 211: it _is_ false: I am an excellent physiognomist, and I always judge of
+LINE 212: people's characters by their looks—not by whether they are handsome or
+LINE 213: ugly, but by the general cast of the countenance. For instance, I
+LINE 214: should know by your countenance that you were not of a cheerful,
+LINE 215: sanguine disposition; and I should know by Mr. Wilmot's, that he was a
+LINE 216: worthless old reprobate; and by Mr. Boarham's, that he was not an
+LINE 217: agreeable companion; and by Mr. Huntingdon's, that he was neither a
+LINE 218: fool nor a knave, though, possibly, neither a sage nor a saint—but that
+LINE 219: is no matter to me, as I am not likely to meet him again—unless as an
+LINE 220: occasional partner in the ball-room."
+LINE 221: It was not so, however, for I met him again next morning. He came to
+LINE 222: call upon my uncle, apologising for not having done so before, by
+LINE 223: saying he was only lately returned from the Continent, and had not
+LINE 224: heard, till the previous night, of my uncle's arrival in town; and
+LINE 225: after that I often met him; sometimes in public, sometimes at home; for
+LINE 226: he was very assiduous in paying his respects to his old friend, who did
+LINE 227: not, however, consider himself greatly obliged by the attention.
+LINE 228: "I wonder what the deuce the lad means by coming so often," he would
+LINE 229: say,—"can _you_ tell, Helen?—Hey? He wants none o' my company, nor I
+LINE 230: his—that's certain."
+LINE 231: "I wish you'd tell him so, then," said my aunt.
+LINE 232: "Why, what for? If I don't want him, somebody does, mayhap" (winking at
+LINE 233: me). "Besides, he's a pretty tidy fortune, Peggy, you know—not such a
+LINE 234: catch as Wilmot; but then Helen won't hear of that match: for, somehow,
+LINE 235: these old chaps don't go down with the girls—with _all_ their money,
+LINE 236: and their experience to boot. I'll bet anything she'd rather have this
+LINE 237: young fellow without a penny, than Wilmot with his house full of gold.
+LINE 238: Wouldn't you, Nell?"
+LINE 239: "Yes, uncle; but that's not saying much for Mr. Huntingdon; for I'd
+LINE 240: rather be an old maid and a pauper than Mrs. Wilmot."
+LINE 241: "And Mrs. Huntingdon? What would you rather be than Mrs.
+LINE 242: Huntingdon—eh?"
+LINE 243: "I'll tell you when I've considered the matter."
+LINE 244: "Ah! it needs consideration, then? But come, now—would you rather be an
+LINE 245: old maid—let alone the pauper?"
+LINE 246: "I can't tell till I'm asked."
+LINE 247: And I left the room immediately, to escape further examination. But
+LINE 248: five minutes after, in looking from my window, I beheld Mr. Boarham
+LINE 249: coming up to the door. I waited nearly half-an-hour in uncomfortable
+LINE 250: suspense, expecting every minute to be called, and vainly longing to
+LINE 251: hear him go. Then footsteps were heard on the stairs, and my aunt
+LINE 252: entered the room with a solemn countenance, and closed the door behind
+LINE 253: her.
+LINE 254: "Here is Mr. Boarham, Helen," said she. "He wishes to see you."
+LINE 255: "Oh, aunt!—Can't you tell him I'm indisposed?—I'm sure I am—to see
+LINE 256: _him_."
+LINE 257: "Nonsense, my dear! this is no trifling matter. He is come on a very
+LINE 258: important errand—to ask your hand in marriage of your uncle and me."
+LINE 259: "I hope my uncle and you told him it was not in your power to give it.
+LINE 260: What right had he to ask _any_ one before me?"
+LINE 261: "Helen!"
+LINE 262: "What did my uncle say?"
+LINE 263: "He said he would not interfere in the matter; if you liked to accept
+LINE 264: Mr. Boarham's obliging offer, you—"
+LINE 265: "Did he say obliging offer?"
+LINE 266: "No; he said if you liked to take him you might; and if not, you might
+LINE 267: please yourself."
+LINE 268: "He said right; and what did you say?"
+LINE 269: "It is no matter what I said. What will _you_ say?—that is the
+LINE 270: question. He is now waiting to ask you himself; but consider well
+LINE 271: before you go; and if you intend to refuse him, give me your reasons."
+LINE 272: "I _shall_ refuse him, of course; but you must tell me how, for I want
+LINE 273: to be civil and yet decided—and when I've got rid of him, I'll give you
+LINE 274: my reasons afterwards."
+LINE 275: "But stay, Helen; sit down a little and compose yourself. Mr. Boarham
+LINE 276: is in no particular hurry, for he has little doubt of your acceptance;
+LINE 277: and I want to speak with you. Tell me, my dear, what are your
+LINE 278: objections to him? Do you deny that he is an upright, honourable man?"
+LINE 279: "No."
+LINE 280: "Do you deny that he is sensible, sober, respectable?"
+LINE 281: "No; he may be all this, but—"
+LINE 282: "_But_ Helen! How many such men do you expect to meet with in the
+LINE 283: world? Upright, honourable, sensible, sober, respectable! Is _this_
+LINE 284: such an every-day character that you should reject the possessor of
+LINE 285: such noble qualities without a moment's hesitation? Yes, _noble_ I may
+LINE 286: call them; for think of the full meaning of each, and how many
+LINE 287: inestimable virtues they include (and I might add many more to the
+LINE 288: list), and consider that all this is laid at your feet. It is in your
+LINE 289: power to secure this inestimable blessing for life—a worthy and
+LINE 290: excellent husband, who loves you tenderly, but not too fondly so as to
+LINE 291: blind him to your faults, and will be your guide throughout life's
+LINE 292: pilgrimage, and your partner in eternal bliss. Think how—"
+LINE 293: "But I hate him, aunt," said I, interrupting this unusual flow of
+LINE 294: eloquence.
+LINE 295: "Hate him, Helen! Is this a Christian spirit?—_you hate him?_ and he so
+LINE 296: good a man!"
+LINE 297: "I don't hate him as a man, but as a husband. As a man, I love him so
+LINE 298: much that I wish him a better wife than I—one as good as himself, or
+LINE 299: better—if you think that possible—provided she could like him; but I
+LINE 300: never could, and therefore—"
+LINE 301: "But why not? What objection do you find?"
+LINE 302: "Firstly, he is at least forty years old—considerably more, I should
+LINE 303: think—and I am but eighteen; secondly, he is narrow-minded and bigoted
+LINE 304: in the extreme; thirdly, his tastes and feelings are wholly dissimilar
+LINE 305: to mine; fourthly, his looks, voice, and manner are particularly
+LINE 306: displeasing to me; and, finally, I have an aversion to his whole person
+LINE 307: that I never can surmount."
+LINE 308: "Then you ought to surmount it. And please to compare him for a moment
+LINE 309: with Mr. Huntingdon, and, good looks apart (which contribute nothing to
+LINE 310: the merit of the man, or to the happiness of married life, and which
+LINE 311: you have so often professed to hold in light esteem), tell me which is
+LINE 312: the better man."
+LINE 313: "I have no doubt Mr. Huntingdon is a much better man than you think
+LINE 314: him; but we are not talking about him now, but about Mr. Boarham; and
+LINE 315: as I would rather grow, live, and die in single blessedness—than be his
+LINE 316: wife, it is but right that I should tell him so at once, and put him
+LINE 317: out of suspense—so let me go."
+LINE 318: "But don't give him a flat denial; he has no idea of such a thing, and
+LINE 319: it would offend him greatly: say you have no thoughts of matrimony at
+LINE 320: present—"
+LINE 321: "But I _have_ thoughts of it."
+LINE 322: "Or that you desire a further acquaintance."
+LINE 323: "But I don't desire a further acquaintance—quite the contrary."
+LINE 324: And without waiting for further admonitions I left the room and went to
+LINE 325: seek Mr. Boarham. He was walking up and down the drawing-room, humming
+LINE 326: snatches of tunes and nibbling the end of his cane.
+LINE 327: "My dear young lady," said he, bowing and smirking with great
+LINE 328: complacency, "I have your kind guardian's permission—"
+LINE 329: "I know, sir," said I, wishing to shorten the scene as much as
+LINE 330: possible, "and I am greatly obliged for your preference, but must beg
+LINE 331: to decline the honour you wish to confer, for I think we were not made
+LINE 332: for each other, as you yourself would shortly discover if the
+LINE 333: experiment were tried."
+LINE 334: My aunt was right. It was quite evident he had had little doubt of my
+LINE 335: acceptance, and no idea of a positive denial. He was amazed, astounded
+LINE 336: at such an answer, but too incredulous to be much offended; and after a
+LINE 337: little humming and hawing, he returned to the attack.
+LINE 338: "I know, my dear, that there exists a considerable disparity between us
+LINE 339: in years, in temperament, and perhaps some other things; but let me
+LINE 340: assure you, I shall not be severe to mark the faults and foibles of a
+LINE 341: young and ardent nature such as yours, and while I acknowledge them to
+LINE 342: myself, and even rebuke them with all a father's care, believe me, no
+LINE 343: youthful lover could be more tenderly indulgent towards the object of
+LINE 344: his affections than I to you; and, on the other hand, let me hope that
+LINE 345: my more experienced years and graver habits of reflection will be no
+LINE 346: disparagement in your eyes, as I shall endeavour to make them all
+LINE 347: conducive to your happiness. Come, now! What do you say? Let us have no
+LINE 348: young lady's affectations and caprices, but speak out at once."
+LINE 349: "I will, but only to repeat what I said before, that I am certain we
+LINE 350: were not made for each other."
+LINE 351: "You really think so?"
+LINE 352: "I do."
+LINE 353: "But you don't know me—you wish for a further acquaintance—a longer
+LINE 354: time to—"
+LINE 355: "No, I don't. I know you as well as I ever shall, and better than you
+LINE 356: know me, or you would never dream of uniting yourself to one so
+LINE 357: incongruous—so utterly unsuitable to you in every way."
+LINE 358: "But, my dear young lady, I don't look for perfection; I can excuse—"
+LINE 359: "Thank you, Mr. Boarham, but I won't trespass upon your goodness. You
+LINE 360: may save your indulgence and consideration for some more worthy object,
+LINE 361: that won't tax them so heavily."
+LINE 362: "But let me beg you to consult your aunt; that excellent lady, I am
+LINE 363: sure, will—"
+LINE 364: "I have consulted her; and I know her wishes coincide with yours; but
+LINE 365: in such important matters, I take the liberty of judging for myself;
+LINE 366: and no persuasion can alter my inclinations, or induce me to believe
+LINE 367: that such a step would be conducive to my happiness or yours—and I
+LINE 368: wonder that a man of your experience and discretion should think of
+LINE 369: choosing such a wife."
+LINE 370: "Ah, well!" said he, "I have sometimes wondered at that myself. I have
+LINE 371: sometimes said to myself, 'Now Boarham, what is this you're after? Take
+LINE 372: care, man—look before you leap! This is a sweet, bewitching creature,
+LINE 373: but remember, the brightest attractions to the lover too often prove
+LINE 374: the husband's greatest torments!' I assure you my choice has not been
+LINE 375: made without much reasoning and reflection. The seeming imprudence of
+LINE 376: the match has cost me many an anxious thought by day, and many a
+LINE 377: sleepless hour by night; but at length I satisfied myself that it was
+LINE 378: not, in very deed, imprudent. I saw my sweet girl was not without her
+LINE 379: faults, but of these her youth, I trusted, was not one, but rather an
+LINE 380: earnest of virtues yet unblown—a strong ground of presumption that her
+LINE 381: little defects of temper and errors of judgment, opinion, or manner
+LINE 382: were not irremediable, but might easily be removed or mitigated by the
+LINE 383: patient efforts of a watchful and judicious adviser, and where I failed
+LINE 384: to enlighten and control, I thought I might safely undertake to pardon,
+LINE 385: for the sake of her many excellences. Therefore, my dearest girl, since
+LINE 386: _I_ am satisfied, why should _you_ object—on my account, at least?"
+LINE 387: "But to tell you the truth, Mr. Boarham, it is on my own account I
+LINE 388: principally object; so let us—drop the subject," I would have said,
+LINE 389: "for it is worse than useless to pursue it any further," but he
+LINE 390: pertinaciously interrupted me with,—"But why so? I would love you,
+LINE 391: cherish you, protect you," &c., &c.
+LINE 392: I shall not trouble myself to put down all that passed between us.
+LINE 393: Suffice it to say, that I found him very troublesome, and very hard to
+LINE 394: convince that I really meant what I said, and really _was_ so obstinate
+LINE 395: and blind to my own interests, that there was no shadow of a chance
+LINE 396: that either he or my aunt would ever be able to overcome my objections.
+LINE 397: Indeed, I am not sure that I succeeded after all; though wearied with
+LINE 398: his so pertinaciously returning to the same point and repeating the
+LINE 399: same arguments over and over again, forcing me to reiterate the same
+LINE 400: replies, I at length turned short and sharp upon him, and my last words
+LINE 401: were,—"I tell you plainly, that it cannot be. No consideration can
+LINE 402: induce me to marry against my inclinations. I respect you—at least, I
+LINE 403: would respect you, if you would behave like a sensible man—but I cannot
+LINE 404: love you, and never could—and the more you talk the further you repel
+LINE 405: me; so pray don't say any more about it."
+LINE 406: Whereupon he wished me a good-morning, and withdrew, disconcerted and
+LINE 407: offended, no doubt; but surely it was not my fault.

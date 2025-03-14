@@ -1,0 +1,375 @@
+LINE 1: On the following morning I received a few lines from him myself,
+LINE 2: confirming Hargrave's intimations respecting his approaching return.
+LINE 3: And he did come next week, but in a condition of body and mind even
+LINE 4: worse than before. I did not, however, intend to pass over his
+LINE 5: derelictions this time without a remark; I found it would not do. But
+LINE 6: the first day he was weary with his journey, and I was glad to get him
+LINE 7: back: I would not upbraid him then; I would wait till to-morrow. Next
+LINE 8: morning he was weary still: I would wait a little longer. But at
+LINE 9: dinner, when, after breakfasting at twelve o'clock on a bottle of
+LINE 10: soda-water and a cup of strong coffee, and lunching at two on another
+LINE 11: bottle of soda-water mingled with brandy, he was finding fault with
+LINE 12: everything on the table, and declaring we must change our cook, I
+LINE 13: thought the time was come.
+LINE 14: "It is the same cook as we had before you went, Arthur," said I. "You
+LINE 15: were generally pretty well satisfied with her then."
+LINE 16: "You must have been letting her get into slovenly habits, then, while I
+LINE 17: was away. It is enough to poison one, eating such a disgusting mess!"
+LINE 18: And he pettishly pushed away his plate, and leant back despairingly in
+LINE 19: his chair.
+LINE 20: "I think it is you that are changed, not she," said I, but with the
+LINE 21: utmost gentleness, for I did not wish to irritate him.
+LINE 22: "It may be so," he replied carelessly, as he seized a tumbler of wine
+LINE 23: and water, adding, when he had tossed it off, "for I have an infernal
+LINE 24: fire in my veins, that all the waters of the ocean cannot quench!"
+LINE 25: "What kindled it?" I was about to ask, but at that moment the butler
+LINE 26: entered and began to take away the things.
+LINE 27: "Be quick, Benson; do have done with that infernal clatter!" cried his
+LINE 28: master. "And _don't_ bring the cheese, unless you want to make me sick
+LINE 29: outright!"
+LINE 30: Benson, in some surprise, removed the cheese, and did his best to
+LINE 31: effect a quiet and speedy clearance of the rest; but, unfortunately,
+LINE 32: there was a rumple in the carpet, caused by the hasty pushing back of
+LINE 33: his master's chair, at which he tripped and stumbled, causing a rather
+LINE 34: alarming concussion with the trayful of crockery in his hands, but no
+LINE 35: positive damage, save the fall and breaking of a sauce tureen; but, to
+LINE 36: my unspeakable shame and dismay, Arthur turned furiously around upon
+LINE 37: him, and swore at him with savage coarseness. The poor man turned pale,
+LINE 38: and visibly trembled as he stooped to pick up the fragments.
+LINE 39: "He couldn't help it, Arthur," said I; "the carpet caught his foot, and
+LINE 40: there's no great harm done. Never mind the pieces now, Benson; you can
+LINE 41: clear them away afterwards."
+LINE 42: Glad to be released, Benson expeditiously set out the dessert and
+LINE 43: withdrew.
+LINE 44: "What _could_ you mean, Helen, by taking the servant's part against
+LINE 45: me," said Arthur, as soon as the door was closed, "when you knew I was
+LINE 46: distracted?"
+LINE 47: "I did not know you were distracted, Arthur: and the poor man was quite
+LINE 48: frightened and hurt at your sudden explosion."
+LINE 49: "Poor man, indeed! and do you think I could stop to consider the
+LINE 50: feelings of an insensate brute like that, when my own nerves were
+LINE 51: racked and torn to pieces by his confounded blunders?"
+LINE 52: "I never heard you complain of your nerves before."
+LINE 53: "And why shouldn't I have nerves as well as you?"
+LINE 54: "Oh, I don't dispute your claim to their possession, but _I_ never
+LINE 55: complain of mine."
+LINE 56: "No, how should you, when you never do anything to try them?"
+LINE 57: "Then why do you try yours, Arthur?"
+LINE 58: "Do you think I have nothing to do but to stay at home and take care of
+LINE 59: myself like a woman?"
+LINE 60: "Is it impossible, then, to take care of yourself like a man when you
+LINE 61: go abroad? You told me that you could, and would too; and you
+LINE 62: promised—"
+LINE 63: "Come, come, Helen, don't begin with that nonsense now; I can't bear
+LINE 64: it."
+LINE 65: "Can't bear what?—to be reminded of the promises you have broken?"
+LINE 66: "Helen, you are cruel. If you knew how my heart throbbed, and how every
+LINE 67: nerve thrilled through me while you spoke, you would spare me. You can
+LINE 68: pity a dolt of a servant for breaking a dish; but you have no
+LINE 69: compassion for _me_ when my head is split in two and all on fire with
+LINE 70: this consuming fever."
+LINE 71: He leant his head on his hand, and sighed. I went to him and put my
+LINE 72: hand on his forehead. It was burning indeed.
+LINE 73: "Then come with me into the drawing-room, Arthur; and don't take any
+LINE 74: more wine: you have taken several glasses since dinner, and eaten next
+LINE 75: to nothing all the day. How can _that_ make you better?"
+LINE 76: With some coaxing and persuasion, I got him to leave the table. When
+LINE 77: the baby was brought I tried to amuse him with that; but poor little
+LINE 78: Arthur was cutting his teeth, and his father could not bear his
+LINE 79: complaints: sentence of immediate banishment was passed upon him on the
+LINE 80: first indication of fretfulness; and because, in the course of the
+LINE 81: evening, I went to share his exile for a little while, I was
+LINE 82: reproached, on my return, for preferring my child to my husband. I
+LINE 83: found the latter reclining on the sofa just as I had left him.
+LINE 84: "Well!" exclaimed the injured man, in a tone of pseudo-resignation. "I
+LINE 85: thought I wouldn't send for you; I thought I'd just see how long it
+LINE 86: would please you to leave me alone."
+LINE 87: "I have not been very long, have I, Arthur? I have not been an hour,
+LINE 88: I'm sure."
+LINE 89: "Oh, of course, an hour is nothing to you, so pleasantly employed; but
+LINE 90: to _me_—"
+LINE 91: "It has not been pleasantly employed," interrupted I. "I have been
+LINE 92: nursing our poor little baby, who is very far from well, and I could
+LINE 93: not leave him till I got him to sleep."
+LINE 94: "Oh, to be sure, you're overflowing with kindness and pity for
+LINE 95: everything but me."
+LINE 96: "And why should I pity _you?_ What is the matter with you?"
+LINE 97: "Well! that passes everything! After all the wear and tear that I've
+LINE 98: had, when I come home sick and weary, longing for comfort, and
+LINE 99: expecting to find attention and kindness, at least from my wife, she
+LINE 100: calmly asks what is the matter with me!"
+LINE 101: "There is _nothing_ the matter with you," returned I, "except what you
+LINE 102: have wilfully brought upon yourself, against my earnest exhortation and
+LINE 103: entreaty."
+LINE 104: "Now, Helen," said he emphatically, half rising from his recumbent
+LINE 105: posture, "if you bother me with another word, I'll ring the bell and
+LINE 106: order six bottles of wine, and, by heaven, I'll drink them dry before I
+LINE 107: stir from this place!"
+LINE 108: I said no more, but sat down before the table and drew a book towards
+LINE 109: me.
+LINE 110: "Do let me have quietness at least!" continued he, "if you deny me
+LINE 111: every other comfort;" and sinking back into his former position, with
+LINE 112: an impatient expiration between a sigh and a groan, he languidly closed
+LINE 113: his eyes, as if to sleep.
+LINE 114: What the book was that lay open on the table before me, I cannot tell,
+LINE 115: for I never looked at it. With an elbow on each side of it, and my
+LINE 116: hands clasped before my eyes, I delivered myself up to silent weeping.
+LINE 117: But Arthur was not asleep: at the first slight sob, he raised his head
+LINE 118: and looked round, impatiently exclaiming, "What are you crying for,
+LINE 119: Helen? What the deuce is the matter _now?_"
+LINE 120: "I'm crying for you, Arthur," I replied, speedily drying my tears; and
+LINE 121: starting up, I threw myself on my knees before him, and clasping his
+LINE 122: nerveless hand between my own, continued: "Don't you know that you are
+LINE 123: a part of myself? And do you think you can injure and degrade yourself,
+LINE 124: and I not feel it?"
+LINE 125: "_Degrade_ myself, Helen?"
+LINE 126: "Yes, degrade! What have you been doing all this time?"
+LINE 127: "You'd better not ask," said he, with a faint smile.
+LINE 128: "And you had better not tell; but you cannot deny that you _have_
+LINE 129: degraded yourself miserably. You have shamefully wronged yourself, body
+LINE 130: and soul, and me too; and I can't endure it quietly, and I won't!"
+LINE 131: "Well, don't squeeze my hand so frantically, and don't agitate me so,
+LINE 132: for heaven's sake! Oh, Hattersley! you were right: this woman will be
+LINE 133: the death of me, with her keen feelings and her interesting force of
+LINE 134: character. There, there, do spare me a little."
+LINE 135: "Arthur, you _must_ repent!" cried I, in a frenzy of desperation,
+LINE 136: throwing my arms around him and burying my face in his bosom. "You
+LINE 137: _shall_ say you are sorry for what you have done!"
+LINE 138: "Well, well, I am."
+LINE 139: "You are not! you'll do it again."
+LINE 140: "I shall never live to do it again if you treat me so savagely,"
+LINE 141: replied he, pushing me from him. "You've nearly squeezed the breath out
+LINE 142: of my body." He pressed his hand to his heart, and looked really
+LINE 143: agitated and ill.
+LINE 144: "Now get me a glass of wine," said he, "to remedy what you've done, you
+LINE 145: she tiger! I'm almost ready to faint."
+LINE 146: I flew to get the required remedy. It seemed to revive him
+LINE 147: considerably.
+LINE 148: "What a shame it is," said I, as I took the empty glass from his hand,
+LINE 149: "for a strong young man like you to reduce yourself to such a state!"
+LINE 150: "If you knew all, my girl, you'd say rather, 'What a wonder it is you
+LINE 151: can bear it so well as you do!' I've lived more in these four months,
+LINE 152: Helen, than you have in the whole course of your existence, or will to
+LINE 153: the end of your days, if they numbered a hundred years; so I must
+LINE 154: expect to pay for it in some shape."
+LINE 155: "You will have to pay a higher price than you anticipate, if you don't
+LINE 156: take care: there will be the total loss of your own health, and of my
+LINE 157: affection too, if _that_ is of any value to you."
+LINE 158: "What! you're at that game of threatening me with the loss of your
+LINE 159: affection again, are you? I think it couldn't have been very genuine
+LINE 160: stuff to begin with, if it's so easily demolished. If you don't mind,
+LINE 161: my pretty tyrant, you'll make me regret my choice in good earnest, and
+LINE 162: envy my friend Hattersley his meek little wife: she's quite a pattern
+LINE 163: to her sex, Helen. He had her with him in London all the season, and
+LINE 164: she was no trouble at all. He might amuse himself just as he pleased,
+LINE 165: in regular bachelor style, and she never complained of neglect; he
+LINE 166: might come home at any hour of the night or morning, or not come home
+LINE 167: at all; be sullen, sober, or glorious drunk; and play the fool or the
+LINE 168: madman to his own heart's desire, without any fear or botheration. She
+LINE 169: never gives him a word of reproach or complaint, do what he will. He
+LINE 170: says there's not such a jewel in all England, and swears he wouldn't
+LINE 171: take a kingdom for her."
+LINE 172: "But he makes her life a curse to her."
+LINE 173: "Not he! She has no will but his, and is always contented and happy as
+LINE 174: long as he is enjoying himself."
+LINE 175: "In that case she is as great a fool as he is; but it is not so. I have
+LINE 176: several letters from her, expressing the greatest anxiety about his
+LINE 177: proceedings, and complaining that you incite him to commit those
+LINE 178: extravagances—one especially, in which she implores me to use my
+LINE 179: influence with you to get you away from London, and affirms that her
+LINE 180: husband never did such things before you came, and would certainly
+LINE 181: discontinue them as soon as you departed and left him to the guidance
+LINE 182: of his own good sense."
+LINE 183: "The detestable little traitor! Give me the letter, and he shall see it
+LINE 184: as sure as I'm a living man."
+LINE 185: "No, he shall not see it without her consent; but if he did, there is
+LINE 186: nothing there to anger him, nor in any of the others. She never speaks
+LINE 187: a word against him: it is only anxiety _for_ him that she expresses.
+LINE 188: She only alludes to his conduct in the most delicate terms, and makes
+LINE 189: every excuse for him that she can possibly think of; and as for her own
+LINE 190: misery, I rather _feel_ it than _see_ it expressed in her letters."
+LINE 191: "But she abuses _me;_ and no doubt you helped her."
+LINE 192: "No; I told her she over-rated my influence with you, that I would
+LINE 193: gladly draw you away from the temptations of the town if I could, but
+LINE 194: had little hope of success, and that I thought she was wrong in
+LINE 195: supposing that you enticed Mr. Hattersley or any one else into error. I
+LINE 196: had myself held the _contrary_ opinion at one time, but I now believed
+LINE 197: that you mutually corrupted each other; and, perhaps, if she used a
+LINE 198: little gentle but serious remonstrance with her husband, it might be of
+LINE 199: some service; as, though he was more rough-hewn than mine, I believed
+LINE 200: he was of a less impenetrable material."
+LINE 201: "And so _that_ is the way you go on—heartening each other up to mutiny,
+LINE 202: and abusing each other's partners, and throwing out implications
+LINE 203: against your own, to the mutual gratification of both!"
+LINE 204: "According to your own account," said I, "my evil counsel has had but
+LINE 205: little effect upon _her_. And as to abuse and aspersions, we are both
+LINE 206: of us far too deeply ashamed of the errors and vices of our other
+LINE 207: halves, to make them the common subject of our correspondence. Friends
+LINE 208: as we are, we would willingly keep your failings to ourselves—even
+LINE 209: _from_ ourselves if we could, unless by knowing them we could deliver
+LINE 210: you from them."
+LINE 211: "Well, well! don't worry me about them: you'll never effect any good by
+LINE 212: that. Have patience with me, and bear with my languor and crossness a
+LINE 213: little while, till I get this cursed low fever out of my veins, and
+LINE 214: then you'll find me cheerful and kind as ever. Why can't you be gentle
+LINE 215: and good, as you were last time?—I'm sure I was very grateful for it."
+LINE 216: "And what good did your gratitude do? I deluded myself with the idea
+LINE 217: that you were ashamed of your transgressions, and hoped you would never
+LINE 218: repeat them again; but now you have left me nothing to hope!"
+LINE 219: "My case is quite desperate, is it? A very blessed consideration, if it
+LINE 220: will only secure me from the pain and worry of my dear anxious wife's
+LINE 221: efforts to convert me, and her from the toil and trouble of such
+LINE 222: exertions, and her sweet face and silver accents from the ruinous
+LINE 223: effects of the same. A burst of passion is a fine rousing thing upon
+LINE 224: occasion, Helen, and a flood of tears is marvellously affecting, but,
+LINE 225: when indulged too often, they are both deuced plaguy things for
+LINE 226: spoiling one's beauty and tiring out one's friends."
+LINE 227: Thenceforth I restrained my tears and passions as much as I could. I
+LINE 228: spared him my exhortations and fruitless efforts at conversion too, for
+LINE 229: I saw it was all in vain: God might awaken that heart, supine and
+LINE 230: stupefied with self-indulgence, and remove the film of sensual darkness
+LINE 231: from his eyes, but I could not. His injustice and ill-humour towards
+LINE 232: his inferiors, who could not defend themselves, I still resented and
+LINE 233: withstood; but when I alone was their object, as was frequently the
+LINE 234: case, I endured it with calm forbearance, except at times, when my
+LINE 235: temper, worn out by repeated annoyances, or stung to distraction by
+LINE 236: some new instance of irrationality, gave way in spite of myself, and
+LINE 237: exposed me to the imputations of fierceness, cruelty, and impatience. I
+LINE 238: attended carefully to his wants and amusements, but not, I own, with
+LINE 239: the same devoted fondness as before, because I could not feel it;
+LINE 240: besides, I had now another claimant on my time and care—my ailing
+LINE 241: infant, for whose sake I frequently braved and suffered the reproaches
+LINE 242: and complaints of his unreasonably exacting father.
+LINE 243: But Arthur is not naturally a peevish or irritable man; so far from it,
+LINE 244: that there was something almost ludicrous in the incongruity of this
+LINE 245: adventitious fretfulness and nervous irritability, rather calculated to
+LINE 246: excite laughter than anger, if it were not for the intensely painful
+LINE 247: considerations attendant upon those symptoms of a disordered frame, and
+LINE 248: his temper gradually improved as his bodily health was restored, which
+LINE 249: was much sooner than would have been the case but for my strenuous
+LINE 250: exertions; for there was still one thing about him that I did not give
+LINE 251: up in despair, and one effort for his preservation that I would not
+LINE 252: remit. His appetite for the stimulus of wine had increased upon him, as
+LINE 253: I had too well foreseen. It was now something more to him than an
+LINE 254: accessory to social enjoyment: it was an important source of enjoyment
+LINE 255: in itself. In this time of weakness and depression he would have made
+LINE 256: it his medicine and support, his comforter, his recreation, and his
+LINE 257: friend, and thereby sunk deeper and deeper, and bound himself down for
+LINE 258: ever in the bathos whereinto he had fallen. But I determined this
+LINE 259: should never be, as long as I had any influence left; and though I
+LINE 260: could not prevent him from taking more than was good for him, still, by
+LINE 261: incessant perseverance, by kindness, and firmness, and vigilance, by
+LINE 262: coaxing, and daring, and determination, I succeeded in preserving him
+LINE 263: from absolute bondage to that detestable propensity, so insidious in
+LINE 264: its advances, so inexorable in its tyranny, so disastrous in its
+LINE 265: effects.
+LINE 266: And here I must not forget that I am not a little indebted to his
+LINE 267: friend Mr. Hargrave. About that time he frequently called at Grassdale,
+LINE 268: and often dined with us, on which occasions I fear Arthur would
+LINE 269: willingly have cast prudence and decorum to the winds, and made "a
+LINE 270: night of it," as often as his friend would have consented to join him
+LINE 271: in that exalted pastime; and if the latter had chosen to comply, he
+LINE 272: might, in a night or two, have ruined the labour of weeks, and
+LINE 273: overthrown with a touch the frail bulwark it had cost me such trouble
+LINE 274: and toil to construct. I was so fearful of this at first, that I
+LINE 275: humbled myself to intimate to him, in private, my apprehensions of
+LINE 276: Arthur's proneness to these excesses, and to express a hope that he
+LINE 277: would not encourage it. He was pleased with this mark of confidence,
+LINE 278: and certainly did not betray it. On that and every subsequent occasion
+LINE 279: his presence served rather as a check upon his host, than an incitement
+LINE 280: to further acts of intemperance; and he always succeeded in bringing
+LINE 281: him from the dining-room in good time, and in tolerably good condition;
+LINE 282: for if Arthur disregarded such intimations as "Well, I must not detain
+LINE 283: you from your lady," or "We must not forget that Mrs. Huntingdon is
+LINE 284: alone," he would insist upon leaving the table himself, to join me, and
+LINE 285: his host, however unwillingly, was obliged to follow.
+LINE 286: Hence I learned to welcome Mr. Hargrave as a real friend to the family,
+LINE 287: a harmless companion for Arthur, to cheer his spirits and preserve him
+LINE 288: from the tedium of absolute idleness and a total isolation from all
+LINE 289: society but mine, and a useful ally to me. I could not but feel
+LINE 290: grateful to him under such circumstances; and I did not scruple to
+LINE 291: acknowledge my obligation on the first convenient opportunity; yet, as
+LINE 292: I did so, my heart whispered all was not right, and brought a glow to
+LINE 293: my face, which he heightened by his steady, serious gaze, while, by his
+LINE 294: manner of receiving those acknowledgments, he more than doubled my
+LINE 295: misgivings. His high delight at being able to serve me was chastened by
+LINE 296: sympathy for me and commiseration for himself—about, I know not what,
+LINE 297: for I would not stay to inquire, or suffer him to unburden his sorrows
+LINE 298: to me. His sighs and intimations of suppressed affliction seemed to
+LINE 299: come from a full heart; but either he must contrive to retain them
+LINE 300: within it, or breathe them forth in other ears than mine: there was
+LINE 301: enough of confidence between us already. It seemed wrong that there
+LINE 302: should exist a secret understanding between my husband's friend and me,
+LINE 303: unknown to him, of which he was the object. But my after-thought was,
+LINE 304: "If it is wrong, surely Arthur's is the fault, not mine."
+LINE 305: And indeed I know not whether, at the time, it was not for _him_ rather
+LINE 306: than myself that I blushed; for, since he and I are one, I so identify
+LINE 307: myself with him, that I feel his degradation, his failings, and
+LINE 308: transgressions as my own: I blush for him, I fear for him; I repent for
+LINE 309: him, weep, pray, and feel for him as for myself; but I cannot act for
+LINE 310: him; and hence I must be, and I am, debased, contaminated by the union,
+LINE 311: both in my own eyes and in the actual truth. I am so determined to love
+LINE 312: him, so intensely anxious to excuse his errors, that I am continually
+LINE 313: dwelling upon them, and labouring to extenuate the loosest of his
+LINE 314: principles and the worst of his practices, till I am familiarised with
+LINE 315: vice, and almost a partaker in his sins. Things that formerly shocked
+LINE 316: and disgusted me, now seem only natural. I know them to be wrong,
+LINE 317: because reason and God's word declare them to be so; but I am gradually
+LINE 318: losing that instinctive horror and repulsion which were given me by
+LINE 319: nature, or instilled into me by the precepts and example of my aunt.
+LINE 320: Perhaps then I was too severe in my judgments, for I abhorred the
+LINE 321: sinner as well as the sin; now I flatter myself I am more charitable
+LINE 322: and considerate; but am I not becoming more indifferent and insensate
+LINE 323: too? Fool that I was, to dream that I had strength and purity enough to
+LINE 324: save myself and him! Such vain presumption would be rightly served, if
+LINE 325: I should perish with him in the gulf from which I sought to save him!
+LINE 326: Yet, God preserve me from it, and him too! Yes, poor Arthur, I will
+LINE 327: still hope and pray for you; and though I write as if you were some
+LINE 328: abandoned wretch, past hope and past reprieve, it is only my anxious
+LINE 329: fears, my strong desires that make me do so; one who loved you less
+LINE 330: would be less bitter, less dissatisfied.
+LINE 331: His conduct has, of late, been what the world calls irreproachable; but
+LINE 332: then I know his heart is still unchanged; and I know that spring is
+LINE 333: approaching, and deeply dread the consequences.
+LINE 334: As he began to recover the tone and vigour of his exhausted frame, and
+LINE 335: with it something of his former impatience of retirement and repose, I
+LINE 336: suggested a short residence by the sea-side, for his recreation and
+LINE 337: further restoration, and for the benefit of our little one as well. But
+LINE 338: no: watering-places were so intolerably dull; besides, he had been
+LINE 339: invited by one of his friends to spend a month or two in Scotland for
+LINE 340: the better recreation of grouse-shooting and deer-stalking, and had
+LINE 341: promised to go.
+LINE 342: "Then you will leave me again, Arthur?" said I.
+LINE 343: "Yes, dearest, but only to love you the better when I come back, and
+LINE 344: make up for all past offences and short-comings; and you needn't fear
+LINE 345: me this time: there are no temptations on the mountains. And during my
+LINE 346: absence you may pay a visit to Staningley, if you like: your uncle and
+LINE 347: aunt have long been wanting us to go there, you know; but somehow
+LINE 348: there's such a repulsion between the good lady and me, that I never
+LINE 349: could bring myself up to the scratch."
+LINE 350: About the third week in August, Arthur set out for Scotland, and Mr.
+LINE 351: Hargrave accompanied him thither, to my private satisfaction. Shortly
+LINE 352: after, I, with little Arthur and Rachel, went to Staningley, my dear
+LINE 353: old home, which, as well as my dear old friends its inhabitants, I saw
+LINE 354: again with mingled feelings of pleasure and pain so intimately blended
+LINE 355: that I could scarcely distinguish the one from the other, or tell to
+LINE 356: which to attribute the various tears, and smiles, and sighs awakened by
+LINE 357: those old familiar scenes, and tones, and faces.
+LINE 358: Arthur did not come home till several weeks after my return to
+LINE 359: Grassdale; but I did not feel so anxious about him now; to think of him
+LINE 360: engaged in active sports among the wild hills of Scotland, was very
+LINE 361: different from knowing him to be immersed amid the corruptions and
+LINE 362: temptations of London. His letters now; though neither long nor
+LINE 363: loverlike, were more regular than ever they had been before; and when
+LINE 364: he did return, to my great joy, instead of being worse than when he
+LINE 365: went, he was more cheerful and vigorous, and better in every respect.
+LINE 366: Since that time I have had little cause to complain. He still has an
+LINE 367: unfortunate predilection for the pleasures of the table, against which
+LINE 368: I have to struggle and watch; but he has begun to notice his boy, and
+LINE 369: that is an increasing source of amusement to him within-doors, while
+LINE 370: his fox-hunting and coursing are a sufficient occupation for him
+LINE 371: without, when the ground is not hardened by frost; so that he is not
+LINE 372: wholly dependent on me for entertainment. But it is now January; spring
+LINE 373: is approaching; and, I repeat, I dread the consequences of its arrival.
+LINE 374: That sweet season, I once so joyously welcomed as the time of hope and
+LINE 375: gladness, awakens now far other anticipations by its return.

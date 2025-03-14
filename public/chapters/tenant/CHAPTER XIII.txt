@@ -1,0 +1,142 @@
+LINE 1: "My dear Gilbert, I wish you _would_ try to be a little more amiable,"
+LINE 2: said my mother one morning after some display of unjustifiable
+LINE 3: ill-humour on my part. "You say there is nothing the matter with you,
+LINE 4: and nothing has happened to grieve you, and yet I never _saw_ anyone so
+LINE 5: altered as you within these last few days. You haven't a good word for
+LINE 6: anybody—friends and strangers, equals and inferiors—it's all the same.
+LINE 7: I do wish you'd try to check it."
+LINE 8: "Check what?"
+LINE 9: "Why, your strange temper. You don't know _how_ it spoils you. I'm sure
+LINE 10: a finer disposition than yours by nature could not be, if you'd let it
+LINE 11: have fair play: so you've no excuse _that_ way."
+LINE 12: While she thus remonstrated, I took up a book, and laying it open on
+LINE 13: the table before me, pretended to be deeply absorbed in its perusal,
+LINE 14: for I was equally unable to justify myself and unwilling to acknowledge
+LINE 15: my errors; and I wished to have nothing to say on the matter. But my
+LINE 16: excellent parent went on lecturing, and then came to coaxing, and began
+LINE 17: to stroke my hair; and I was getting to feel quite a good boy, but my
+LINE 18: mischievous brother, who was idling about the room, revived my
+LINE 19: corruption by suddenly calling out,—
+LINE 20: "Don't touch him, mother! he'll bite! He's a very tiger in human form.
+LINE 21: _I've_ given him up for my part—fairly disowned him—cast him off, root
+LINE 22: and branch. It's as much as my life is worth to come within six yards
+LINE 23: of him. The other day he nearly fractured my skull for singing a
+LINE 24: pretty, inoffensive love-song, on purpose to amuse him."
+LINE 25: "Oh, Gilbert! how could you?" exclaimed my mother.
+LINE 26: "I told you to hold your noise first, you know, Fergus," said I.
+LINE 27: "Yes, but when I assured you it was no trouble and went on with the
+LINE 28: next verse, thinking you might like it better, you clutched me by the
+LINE 29: shoulder and dashed me away, right against the wall there, with such
+LINE 30: force that I thought I had bitten my tongue in two, and expected to see
+LINE 31: the place plastered with my brains; and when I put my hand to my head,
+LINE 32: and found my skull not broken, I thought it was a miracle, and no
+LINE 33: mistake. But, poor fellow!" added he, with a sentimental sigh—"his
+LINE 34: heart's broken—that's the truth of it—and his head's—"
+LINE 35: "Will you be silent NOW?" cried I, starting up, and eyeing the fellow
+LINE 36: so fiercely that my mother, thinking I meant to inflict some grievous
+LINE 37: bodily injury, laid her hand on my arm, and besought me to let him
+LINE 38: alone, and he walked leisurely out, with his hands in his pockets,
+LINE 39: singing provokingly—"Shall I, because a woman's fair," &c.
+LINE 40: "I'm not going to defile my fingers with him," said I, in answer to the
+LINE 41: maternal intercession. "I wouldn't touch him with the tongs."
+LINE 42: I now recollected that I had business with Robert Wilson, concerning
+LINE 43: the purchase of a certain field adjoining my farm—a business I had been
+LINE 44: putting off from day to day; for I had no interest in anything now; and
+LINE 45: besides, I was misanthropically inclined, and, moreover, had a
+LINE 46: particular objection to meeting Jane Wilson or her mother; for though I
+LINE 47: had too good reason, now, to credit their reports concerning Mrs.
+LINE 48: Graham, I did not _like_ them a bit the better for it—or Eliza Millward
+LINE 49: either—and the thought of meeting them was the more repugnant to me
+LINE 50: that I could not, now, defy their seeming calumnies and triumph in my
+LINE 51: own convictions as before. But to-day I determined to make an effort to
+LINE 52: return to my duty. Though I found no pleasure in it, it would be less
+LINE 53: irksome than idleness—at all events it would be more profitable. If
+LINE 54: life promised no enjoyment within my vocation, at least it offered no
+LINE 55: allurements out of it; and henceforth I would put my shoulder to the
+LINE 56: wheel and toil away, like any poor drudge of a cart-horse that was
+LINE 57: fairly broken in to its labour, and plod through life, not wholly
+LINE 58: useless if not agreeable, and uncomplaining if not contented with my
+LINE 59: lot.
+LINE 60: Thus resolving, with a kind of sullen resignation, if such a term may
+LINE 61: be allowed, I wended my way to Ryecote Farm, scarcely expecting to find
+LINE 62: its owner within at this time of day, but hoping to learn in what part
+LINE 63: of the premises he was most likely to be found.
+LINE 64: Absent he was, but expected home in a few minutes; and I was desired to
+LINE 65: step into the parlour and wait. Mrs. Wilson was busy in the kitchen,
+LINE 66: but the room was not empty; and I scarcely checked an involuntary
+LINE 67: recoil as I entered it; for there sat Miss Wilson chattering with Eliza
+LINE 68: Millward. However, I determined to be cool and civil. Eliza seemed to
+LINE 69: have made the same resolution on her part. We had not met since the
+LINE 70: evening of the tea-party; but there was no visible emotion either of
+LINE 71: pleasure or pain, no attempt at pathos, no display of injured pride:
+LINE 72: she was cool in temper, civil in demeanour. There was even an ease and
+LINE 73: cheerfulness about her air and manner that I made no pretension to; but
+LINE 74: there was a depth of malice in her too expressive eye that plainly told
+LINE 75: me I was not forgiven; for, though she no longer hoped to win me to
+LINE 76: herself, she still hated her rival, and evidently delighted to wreak
+LINE 77: her spite on me. On the other hand, Miss Wilson was as affable and
+LINE 78: courteous as heart could wish, and though I was in no very conversable
+LINE 79: humour myself, the two ladies between them managed to keep up a pretty
+LINE 80: continuous fire of small talk. But Eliza took advantage of the first
+LINE 81: convenient pause to ask if I had lately seen Mrs. Graham, in a tone of
+LINE 82: merely casual inquiry, but with a sidelong glance—intended to be
+LINE 83: playfully mischievous—really, brimful and running over with malice.
+LINE 84: "Not lately," I replied, in a careless tone, but sternly repelling her
+LINE 85: odious glances with my eyes; for I was vexed to feel the colour
+LINE 86: mounting to my forehead, despite my strenuous efforts to appear
+LINE 87: unmoved.
+LINE 88: "What! are you beginning to tire already? I thought so noble a creature
+LINE 89: would have power to attach you for a year at least!"
+LINE 90: "I would rather not speak of her now."
+LINE 91: "Ah! then you are convinced, at last, of your mistake—you have at
+LINE 92: length discovered that your divinity is not quite the immaculate—"
+LINE 93: "I desired you not to speak of her, Miss Eliza."
+LINE 94: "Oh, I beg your pardon! I perceive Cupid's arrows have been too sharp
+LINE 95: for you: the wounds, being more than skin-deep, are not yet healed, and
+LINE 96: bleed afresh at every mention of the loved one's name."
+LINE 97: "Say, rather," interposed Miss Wilson, "that Mr. Markham feels that
+LINE 98: name is unworthy to be mentioned in the presence of right-minded
+LINE 99: females. I wonder, Eliza, you should think of referring to that
+LINE 100: unfortunate person—you might know the mention of her would be anything
+LINE 101: but agreeable to any one here present."
+LINE 102: How could this be borne? I rose and was about to clap my hat upon my
+LINE 103: head and burst away, in wrathful indignation from the house; but
+LINE 104: recollecting—just in time to save my dignity—the folly of such a
+LINE 105: proceeding, and how it would only give my fair tormentors a merry laugh
+LINE 106: at my expense, for the sake of one I acknowledged in my own heart to be
+LINE 107: unworthy of the slightest sacrifice—though the ghost of my former
+LINE 108: reverence and love so hung about me still, that I could not bear to
+LINE 109: hear her name aspersed by others—I merely walked to the window, and
+LINE 110: having spent a few seconds in vengibly biting my lips and sternly
+LINE 111: repressing the passionate heavings of my chest, I observed to Miss
+LINE 112: Wilson, that I could see nothing of her brother, and added that, as my
+LINE 113: time was precious, it would perhaps be better to call again to-morrow,
+LINE 114: at some time when I should be sure to find him at home.
+LINE 115: "Oh, no!" said she; "if you wait a minute, he will be sure to come; for
+LINE 116: he has business at L——" (that was our market-town), "and will require a
+LINE 117: little refreshment before he goes."
+LINE 118: I submitted accordingly, with the best grace I could; and, happily, I
+LINE 119: had not long to wait. Mr. Wilson soon arrived, and, indisposed for
+LINE 120: business as I was at that moment, and little as I cared for the field
+LINE 121: or its owner, I forced my attention to the matter in hand, with very
+LINE 122: creditable determination, and quickly concluded the bargain—perhaps
+LINE 123: more to the thrifty farmer's satisfaction than he cared to acknowledge.
+LINE 124: Then, leaving him to the discussion of his substantial "refreshment," I
+LINE 125: gladly quitted the house, and went to look after my reapers.
+LINE 126: Leaving them busy at work on the side of the valley, I ascended the
+LINE 127: hill, intending to visit a corn-field in the more elevated regions, and
+LINE 128: see when it would be ripe for the sickle. But I did _not_ visit it that
+LINE 129: day; for, as I approached, I beheld, at no great distance, Mrs. Graham
+LINE 130: and her son coming down in the opposite direction. They saw me; and
+LINE 131: Arthur already was running to meet me; but I immediately turned back
+LINE 132: and walked steadily homeward; for I had fully determined never to
+LINE 133: encounter his mother again; and regardless of the shrill voice in my
+LINE 134: ear, calling upon me to "wait a moment," I pursued the even tenor of my
+LINE 135: way; and he soon relinquished the pursuit as hopeless, or was called
+LINE 136: away by his mother. At all events, when I looked back, five minutes
+LINE 137: after, not a trace of either was to be seen.
+LINE 138: This incident agitated and disturbed me most unaccountably—unless you
+LINE 139: would account for it by saying that Cupid's arrows not only had been
+LINE 140: too sharp for me, but they were barbed and deeply rooted, and I had not
+LINE 141: yet been able to wrench them from my heart. However that be, I was
+LINE 142: rendered doubly miserable for the remainder of the day.

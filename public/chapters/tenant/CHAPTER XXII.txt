@@ -1,0 +1,514 @@
+LINE 1: October 5th.—My cup of sweets is not unmingled: it is dashed with a
+LINE 2: bitterness that I cannot hide from myself, disguise it as I will. I may
+LINE 3: try to persuade myself that the sweetness overpowers it; I may call it
+LINE 4: a pleasant aromatic flavour; but say what I will, it is still there,
+LINE 5: and I cannot but taste it. I cannot shut my eyes to Arthur's faults;
+LINE 6: and the more I love him the more they trouble me. His very heart, that
+LINE 7: I trusted so, is, I fear, less warm and generous than I thought it. At
+LINE 8: least, he gave me a specimen of his character to-day that seemed to
+LINE 9: merit a harder name than thoughtlessness. He and Lord Lowborough were
+LINE 10: accompanying Annabella and me in a long, delightful ride; he was riding
+LINE 11: by my side, as usual, and Annabella and Lord Lowborough were a little
+LINE 12: before us, the latter bending towards his companion as if in tender and
+LINE 13: confidential discourse.
+LINE 14: "Those two will get the start of us, Helen, if we don't look sharp,"
+LINE 15: observed Huntingdon. "They'll make a match of it, as sure as can be.
+LINE 16: That Lowborough's fairly besotted. But he'll find himself in a fix when
+LINE 17: he's got her, I doubt."
+LINE 18: "And she'll find _her_self in a fix when she's got _him_," said I, "if
+LINE 19: what I've heard of him is true."
+LINE 20: "Not a bit of it. She knows what she's about; but he, poor fool,
+LINE 21: deludes himself with the notion that she'll make him a good wife, and
+LINE 22: because she has amused him with some rodomontade about despising rank
+LINE 23: and wealth in matters of love and marriage, he flatters himself that
+LINE 24: she's devotedly attached to him; that she will not refuse him for his
+LINE 25: poverty, and does not court him for his rank, but loves him for himself
+LINE 26: alone."
+LINE 27: "But is not _he_ courting _her_ for her fortune?"
+LINE 28: "No, not he. That was the first attraction, certainly; but now he has
+LINE 29: quite lost sight of it: it never enters his calculations, except merely
+LINE 30: as an essential without which, for the lady's own sake, he could not
+LINE 31: think of marrying her. No; he's fairly in love. He thought he never
+LINE 32: could be again, but he's in for it once more. He was to have been
+LINE 33: married before, some two or three years ago; but he lost his bride by
+LINE 34: losing his fortune. He got into a bad way among us in London: he had an
+LINE 35: unfortunate taste for gambling; and surely the fellow was born under an
+LINE 36: unlucky star, for he always lost thrice where he gained once. That's a
+LINE 37: mode of self-torment I never was much addicted to. When I spend my
+LINE 38: money I like to enjoy the full value of it: I see no fun in wasting it
+LINE 39: on thieves and blacklegs; and as for _gaining_ money, hitherto I have
+LINE 40: always had sufficient; it's time enough to be clutching for more, I
+LINE 41: think, when you begin to see the end of what you have. But I have
+LINE 42: sometimes frequented the gaming-houses just to watch the on-goings of
+LINE 43: those mad votaries of chance—a very interesting study, I assure you,
+LINE 44: Helen, and sometimes very diverting: I've had many a laugh at the
+LINE 45: boobies and bedlamites. Lowborough was quite infatuated—not willingly,
+LINE 46: but of necessity,—he was always resolving to give it up, and always
+LINE 47: breaking his resolutions. Every venture was the "just once more:" if he
+LINE 48: gained a little, he hoped to gain a little more next time, and if he
+LINE 49: lost, it would not do to leave off at that juncture; he must go on till
+LINE 50: he had retrieved that last misfortune, at least: bad luck could not
+LINE 51: last for ever; and every lucky hit was looked upon as the dawn of
+LINE 52: better times, till experience proved the contrary. At length he grew
+LINE 53: desperate, and we were daily on the look-out for a case of
+LINE 54: _felo-de-se_—no great matter, some of us whispered, as his existence
+LINE 55: had ceased to be an acquisition to our club. At last, however, he came
+LINE 56: to a check. He made a large stake, which he determined should be the
+LINE 57: last, whether he lost or won. He had often so determined before, to be
+LINE 58: sure, and as often broken his determination; and so it was this time.
+LINE 59: He lost; and while his antagonist smilingly swept away the stakes, he
+LINE 60: turned chalky white, drew back in silence, and wiped his forehead. I
+LINE 61: was present at the time; and while he stood with folded arms and eyes
+LINE 62: fixed on the ground, I knew well enough what was passing in his mind.
+LINE 63: "'Is it to be the last, Lowborough?' said I, stepping up to him.
+LINE 64: "'The last but ONE,' he answered, with a grim smile; and then, rushing
+LINE 65: back to the table, he struck his hand upon it, and, raising his voice
+LINE 66: high above all the confusion of jingling coins and muttered oaths and
+LINE 67: curses in the room, he swore a deep and solemn oath that, come what
+LINE 68: would, THIS trial _should_ be the last, and imprecated unspeakable
+LINE 69: curses on his head if ever he should shuffle a card or rattle a
+LINE 70: dice-box again. He then doubled his former stake, and challenged any
+LINE 71: one present to play against him. Grimsby instantly presented himself.
+LINE 72: Lowborough glared fiercely at him, for Grimsby was almost as celebrated
+LINE 73: for his luck as _he_ was for his ill-fortune. However, they fell to
+LINE 74: work. But Grimsby had much skill and little scruple, and whether he
+LINE 75: took advantage of the other's trembling, blinded eagerness to deal
+LINE 76: unfairly by him, I cannot undertake to say; but Lowborough lost again,
+LINE 77: and fell dead sick.
+LINE 78: "'You'd better try once more,' said Grimsby, leaning across the table.
+LINE 79: And then he winked at me.
+LINE 80: "'I've nothing to try with,' said the poor devil, with a ghastly smile.
+LINE 81: "'Oh, Huntingdon will lend you what you want,' said the other.
+LINE 82: "'No; you heard my oath,' answered Lowborough, turning away in quiet
+LINE 83: despair. And I took him by the arm and led him out.
+LINE 84: "'Is it to be the last, Lowborough?' I asked, when I got him into the
+LINE 85: street.
+LINE 86: "'The last,' he answered, somewhat against my expectation. And I took
+LINE 87: him home—that is, to our club—for he was as submissive as a child—and
+LINE 88: plied him with brandy-and-water till he began to look rather
+LINE 89: brighter—rather more alive, at least.
+LINE 90: "'Huntingdon, I'm ruined!' said he, taking the third glass from my
+LINE 91: hand—he had drunk the others in dead silence.
+LINE 92: "'Not you,' said I. 'You'll find a man can live without his money as
+LINE 93: merrily as a tortoise without its head, or a wasp without its body.'
+LINE 94: "'But I'm in debt,' said he—'deep in debt. And I can never, _never_ get
+LINE 95: out of it.'
+LINE 96: "'Well, what of that? Many a better man than you has lived and died in
+LINE 97: debt; and they can't put you in prison, you know, because you're a
+LINE 98: peer.' And I handed him his fourth tumbler.
+LINE 99: "'But I hate to be in debt!' he shouted. 'I wasn't born for it, and I
+LINE 100: cannot _bear_ it.'
+LINE 101: "'What can't be cured must be endured,' said I, beginning to mix the
+LINE 102: fifth.
+LINE 103: "'And then, I've lost my Caroline.' And he began to snivel then, for
+LINE 104: the brandy had softened his heart.
+LINE 105: "'No matter,' I answered, 'there are more Carolines in the world than
+LINE 106: one.'
+LINE 107: "'There's only one for me,' he replied, with a dolorous sigh. 'And if
+LINE 108: there were fifty more, who's to get them, I wonder, without money?'
+LINE 109: "'Oh, somebody will take you for your title; and then you've your
+LINE 110: family estate yet; that's entailed, you know.'
+LINE 111: "'I wish to God I could sell it to pay my debts,' he muttered.
+LINE 112: "'And then,' said Grimsby, who had just come in, 'you can _try again_,
+LINE 113: you know. I _would_ have more than one chance, if I were you. I'd never
+LINE 114: stop here.'
+LINE 115: "'I _won't_, I tell you!' shouted he. And he started up, and left the
+LINE 116: room—walking rather unsteadily, for the liquor had got into his head.
+LINE 117: He was not so much used to it then, but after that he took to it kindly
+LINE 118: to solace his cares.
+LINE 119: "He kept his oath about gambling (not a little to the surprise of us
+LINE 120: all), though Grimsby did his utmost to tempt him to break it, but now
+LINE 121: he had got hold of another habit that bothered him nearly as much, for
+LINE 122: he soon discovered that the demon of drink was as black as the demon of
+LINE 123: play, and nearly as hard to get rid of—especially as his kind friends
+LINE 124: did all they could to second the promptings of his own insatiable
+LINE 125: cravings."
+LINE 126: "Then, they were demons themselves," cried I, unable to contain my
+LINE 127: indignation. "And you, Mr. Huntingdon, it seems, were the first to
+LINE 128: tempt him."
+LINE 129: "Well, what could we do?" replied he, deprecatingly.—"We meant it in
+LINE 130: kindness—we couldn't bear to see the poor fellow so miserable:—and
+LINE 131: besides, he was such a damper upon us, sitting there silent and glum,
+LINE 132: when he was under the threefold influence—of the loss of his
+LINE 133: sweetheart, the loss of his fortune, and the reaction of the lost
+LINE 134: night's debauch; whereas, when he had something in him, if he was not
+LINE 135: merry himself, he was an unfailing source of merriment to us. Even
+LINE 136: Grimsby could chuckle over his odd sayings: they delighted him far more
+LINE 137: than my merry jests, or Hattersley's riotous mirth. But one evening,
+LINE 138: when we were sitting over our wine, after one of our club dinners, and
+LINE 139: all had been hearty together,—Lowborough giving us mad toasts, and
+LINE 140: hearing our wild songs, and bearing a hand in the applause, if he did
+LINE 141: not help us to sing them himself,—he suddenly relapsed into silence,
+LINE 142: sinking his head on his hand, and never lifting his glass to his
+LINE 143: lips;—but this was nothing new; so we let him alone, and went on with
+LINE 144: our jollification, till, suddenly raising his head, he interrupted us
+LINE 145: in the middle of a roar of laughter by exclaiming,—
+LINE 146: "Gentlemen, where is all this to end?—Will you just tell me _that_
+LINE 147: now?—Where is it all to end?" He rose.
+LINE 148: "'A speech, a speech!' shouted we. 'Hear, hear! Lowborough's going to
+LINE 149: give us a speech!'
+LINE 150: "He waited calmly till the thunders of applause and jingling of glasses
+LINE 151: had ceased, and then proceeded,—'It's only this, gentlemen,—that I
+LINE 152: think we'd better go no further. We'd better stop while we can.'
+LINE 153: "'Just so!' cried Hattersley—
+LINE 154: 'Stop poor sinner, stop and think
+LINE 155: Before you farther go,
+LINE 156: No longer sport upon the brink
+LINE 157: Of everlasting woe.'
+LINE 158: "'Exactly!' replied his lordship, with the utmost gravity. 'And if
+LINE 159: _you_ choose to visit the bottomless pit, I won't go with you—we must
+LINE 160: part company, for I swear I'll not move another step towards it!—What's
+LINE 161: this?' he said, taking up his glass of wine.
+LINE 162: "'Taste it,' suggested I.
+LINE 163: "'This is hell broth!' he exclaimed. 'I renounce it for ever!' And he
+LINE 164: threw it out into the middle of the table.
+LINE 165: "'Fill again!' said I, handing him the bottle—'and let us drink to your
+LINE 166: renunciation.'
+LINE 167: "'It's rank poison,' said he, grasping the bottle by the neck, 'and I
+LINE 168: forswear it! I've given up gambling, and I'll give up this too.' He was
+LINE 169: on the point of deliberately pouring the whole contents of the bottle
+LINE 170: on to the table, but Hargrave wrested it from him. 'On you be the
+LINE 171: curse, then!' said he. And, backing from the room, he shouted,
+LINE 172: 'Farewell, ye tempters!' and vanished amid shouts of laughter and
+LINE 173: applause.
+LINE 174: "We expected him back among us the next day; but, to our surprise, the
+LINE 175: place remained vacant: we saw nothing of him for a whole week; and we
+LINE 176: really began to think he was going to keep his word. At last, one
+LINE 177: evening, when we were most of us assembled together again, he entered,
+LINE 178: silent and grim as a ghost, and would have quietly slipped into his
+LINE 179: usual seat at my elbow, but we all rose to welcome him, and several
+LINE 180: voices were raised to ask what he would have, and several hands were
+LINE 181: busy with bottle and glass to serve him; but I knew a smoking tumbler
+LINE 182: of brandy-and-water would comfort him best, and had nearly prepared it,
+LINE 183: when he peevishly pushed it away, saying,—
+LINE 184: "'Do let me alone, Huntingdon! Do be quiet, all of you! I'm not come to
+LINE 185: join you: I'm only come to be with you awhile, because I can't bear my
+LINE 186: own thoughts.' And he folded his arms, and leant back in his chair; so
+LINE 187: we let him be. But I left the glass by him; and, after awhile, Grimsby
+LINE 188: directed my attention towards it, by a significant wink; and, on
+LINE 189: turning my head, I saw it was drained to the bottom. He made me a sign
+LINE 190: to replenish, and quietly pushed up the bottle. I willingly complied;
+LINE 191: but Lowborough detected the pantomime, and, nettled at the intelligent
+LINE 192: grins that were passing between us, snatched the glass from my hand,
+LINE 193: dashed the contents of it in Grimsby's face, threw the empty tumbler at
+LINE 194: me, and then bolted from the room."
+LINE 195: "I hope he broke your head," said I.
+LINE 196: "No, love," replied he, laughing immoderately at the recollection of
+LINE 197: the whole affair; "he would have done so,—and perhaps, spoilt my face,
+LINE 198: too, but, providentially, this forest of curls" (taking off his hat,
+LINE 199: and showing his luxuriant chestnut locks) "saved my skull, and
+LINE 200: prevented the glass from breaking, till it reached the table."
+LINE 201: "After that," he continued, "Lowborough kept aloof from us a week or
+LINE 202: two longer. I used to meet him occasionally in the town; and then, as I
+LINE 203: was too good-natured to resent his unmannerly conduct, and he bore no
+LINE 204: malice against me,—he was never unwilling to talk to me; on the
+LINE 205: contrary, he would cling to me, and follow me anywhere but to the club,
+LINE 206: and the gaming-houses, and such-like dangerous places of resort—he was
+LINE 207: so weary of his own moping, melancholy mind. At last, I got him to come
+LINE 208: in with me to the club, on condition that I would not tempt him to
+LINE 209: drink; and, for some time, he continued to look in upon us pretty
+LINE 210: regularly of an evening,—still abstaining, with wonderful perseverance,
+LINE 211: from the 'rank poison' he had so bravely forsworn. But some of our
+LINE 212: members protested against this conduct. They did not like to have him
+LINE 213: sitting there like a skeleton at a feast, instead of contributing his
+LINE 214: quota to the general amusement, casting a cloud over all, and watching,
+LINE 215: with greedy eyes, every drop they carried to their lips—they vowed it
+LINE 216: was not fair; and some of them maintained that he should either be
+LINE 217: compelled to do as others did, or expelled from the society; and swore
+LINE 218: that, next time he showed himself, they would tell him as much, and, if
+LINE 219: he did not take the warning, proceed to active measures. However, I
+LINE 220: befriended him on this occasion, and recommended them to let him be for
+LINE 221: a while, intimating that, with a little patience on our parts, he would
+LINE 222: soon come round again. But, to be sure, it _was_ rather provoking; for,
+LINE 223: though he refused to drink like an honest Christian, it was well known
+LINE 224: to me that he kept a private bottle of laudanum about him, which he was
+LINE 225: continually soaking at—or rather, holding off and on with, abstaining
+LINE 226: one day and exceeding the next—just like the spirits.
+LINE 227: "One night, however, during one of our orgies—one of our high
+LINE 228: festivals, I mean—he glided in, like the ghost in 'Macbeth,' and seated
+LINE 229: himself, as usual, a little back from the table, in the chair we always
+LINE 230: placed for 'the spectre,' whether it chose to fill it or not. I saw by
+LINE 231: his face that he was suffering from the effects of an overdose of his
+LINE 232: insidious comforter; but nobody spoke to him, and he spoke to nobody. A
+LINE 233: few sidelong glances, and a whispered observation, that 'the ghost was
+LINE 234: come,' was all the notice he drew by his appearance, and we went on
+LINE 235: with our merry carousals as before, till he startled us all by suddenly
+LINE 236: drawing in his chair, and leaning forward with his elbows on the table,
+LINE 237: and exclaiming with portentous solemnity,—
+LINE 238: 'Well! it puzzles me what you can find to be so merry about. What _you_
+LINE 239: see in life I don't know—_I_ see only the blackness of darkness, and a
+LINE 240: fearful looking for of judgment and fiery indignation!'
+LINE 241: "All the company simultaneously pushed up their glasses to him, and I
+LINE 242: set them before him in a semicircle, and, tenderly patting him on the
+LINE 243: back, bid him drink, and he would soon see as bright a prospect as any
+LINE 244: of us; but he pushed them back, muttering,—
+LINE 245: "'Take them away! I won't taste it, I tell you. I won't—I won't!' So I
+LINE 246: handed them down again to the owners; but I saw that he followed them
+LINE 247: with a glare of hungry regret as they departed. Then he clasped his
+LINE 248: hands before his eyes to shut out the sight, and two minutes after
+LINE 249: lifted his head again, and said, in a hoarse but vehement whisper,—
+LINE 250: "'And yet I must! Huntingdon, get me a glass!'
+LINE 251: "'Take the bottle, man!' said I, thrusting the brandy-bottle into his
+LINE 252: hand—but stop, I'm telling too much," muttered the narrator, startled
+LINE 253: at the look I turned upon him. "But no matter," he recklessly added,
+LINE 254: and thus continued his relation: "In his desperate eagerness, he seized
+LINE 255: the bottle and sucked away, till he suddenly dropped from his chair,
+LINE 256: disappearing under the table amid a tempest of applause. The
+LINE 257: consequence of this imprudence was something like an apoplectic fit,
+LINE 258: followed by a rather severe brain fever—"
+LINE 259: "And what did you think of _yourself_, sir?" said I, quickly.
+LINE 260: "Of course, I was very penitent," he replied. "I went to see him once
+LINE 261: or twice—nay, twice or thrice—or by'r lady, some four times—and when he
+LINE 262: got better, I tenderly brought him back to the fold."
+LINE 263: "What do you mean?"
+LINE 264: "I mean, I restored him to the bosom of the club, and compassionating
+LINE 265: the feebleness of his health and extreme lowness of his spirits, I
+LINE 266: recommended him to 'take a little wine for his stomach's sake,' and,
+LINE 267: when he was sufficiently re-established, to embrace the media-via,
+LINE 268: ni-jamais-ni-toujours plan—not to kill himself like a fool, and not to
+LINE 269: abstain like a ninny—in a word, to enjoy himself like a rational
+LINE 270: creature, and do as I did; for, don't think, Helen, that I'm a tippler;
+LINE 271: I'm nothing at all of the kind, and never was, and never shall be. I
+LINE 272: value my comfort far too much. I see that a man cannot give himself up
+LINE 273: to drinking without being miserable one-half his days and mad the
+LINE 274: other; besides, I like to enjoy my life at all sides and ends, which
+LINE 275: cannot be done by one that suffers himself to be the slave of a single
+LINE 276: propensity—and, moreover, drinking spoils one's good looks," he
+LINE 277: concluded, with a most conceited smile that ought to have provoked me
+LINE 278: more than it did.
+LINE 279: "And did Lord Lowborough profit by your advice?" I asked.
+LINE 280: "Why, yes, in a manner. For a while he managed very well; indeed, he
+LINE 281: was a model of moderation and prudence—something too much so for the
+LINE 282: tastes of our wild community; but, somehow, Lowborough had not the gift
+LINE 283: of moderation: if he stumbled a little to one side, he must go down
+LINE 284: before he could right himself: if he overshot the mark one night, the
+LINE 285: effects of it rendered him so miserable the next day that he must
+LINE 286: repeat the offence to mend it; and so on from day to day, till his
+LINE 287: clamorous conscience brought him to a stand. And then, in his sober
+LINE 288: moments, he so bothered his friends with his remorse, and his terrors
+LINE 289: and woes, that they were obliged, in self-defence, to get him to drown
+LINE 290: his sorrows in wine, or any more potent beverage that came to hand; and
+LINE 291: when his first scruples of conscience were overcome, he would need no
+LINE 292: more persuading, he would often grow desperate, and be as great a
+LINE 293: blackguard as any of them could desire—but only to lament his own
+LINE 294: unutterable wickedness and degradation the more when the fit was over.
+LINE 295: "At last, one day when he and I were alone together, after pondering
+LINE 296: awhile in one of his gloomy, abstracted moods, with his arms folded and
+LINE 297: his head sunk on his breast, he suddenly woke up, and vehemently
+LINE 298: grasping my arm, said,—
+LINE 299: "'Huntingdon, this won't do! I'm resolved to have done with it.'
+LINE 300: "'What, are you going to shoot yourself?' said I.
+LINE 301: "'No; I'm going to reform.'
+LINE 302: "'Oh, _that's_ nothing new! You've been going to reform these twelve
+LINE 303: months and more.'
+LINE 304: "'Yes, but you wouldn't let me; and I was such a fool I couldn't live
+LINE 305: without you. But now I see what it is that keeps me back, and what's
+LINE 306: wanted to save me; and I'd compass sea and land to get it—only I'm
+LINE 307: afraid there's no chance.' And he sighed as if his heart would break.
+LINE 308: "'What is it, Lowborough?' said I, thinking he was fairly cracked at
+LINE 309: last.
+LINE 310: "'A wife,' he answered; 'for I can't live alone, because my own mind
+LINE 311: distracts me, and I can't live with you, because you take the devil's
+LINE 312: part against me.'
+LINE 313: "'Who—I?'
+LINE 314: "'Yes—all of you do—and you more than any of them, you know. But if I
+LINE 315: could get a wife, with fortune enough to pay off my debts and set me
+LINE 316: straight in the world—'
+LINE 317: "'To be sure,' said I.
+LINE 318: "'And sweetness and goodness enough,' he continued, 'to make home
+LINE 319: tolerable, and to reconcile me to myself, I think I should do yet. I
+LINE 320: shall never be in love again, that's certain; but perhaps that would be
+LINE 321: no great matter, it would enable me to choose with my eyes open—and I
+LINE 322: should make a good husband in spite of it; but could any one be in love
+LINE 323: with _me?_—that's the question. With _your_ good looks and powers of
+LINE 324: fascination' (he was pleased to say), 'I might hope; but as it is,
+LINE 325: Huntingdon, do you think _any_body would take me—ruined and wretched as
+LINE 326: I am?'
+LINE 327: "'Yes, certainly.'
+LINE 328: "'Who?'
+LINE 329: "'Why, any neglected old maid, fast sinking in despair, would be
+LINE 330: delighted to—'
+LINE 331: "'No, no,' said he—'it must be somebody that I can love.'
+LINE 332: "'Why, you just said you never could be in love again!'
+LINE 333: "'Well, love is not the word—but somebody that I can like. I'll search
+LINE 334: all England through, at all events!' he cried, with a sudden burst of
+LINE 335: hope, or desperation. 'Succeed or fail, it will be better than rushing
+LINE 336: headlong to destruction at that d—d club: so farewell to it and you.
+LINE 337: Whenever I meet you on honest ground or under a Christian roof, I shall
+LINE 338: be glad to see you; but never more shall you entice me to that _devil's
+LINE 339: den!_'
+LINE 340: "This was shameful language, but I shook hands with him, and we parted.
+LINE 341: He kept his word; and from that time forward he has been a pattern of
+LINE 342: propriety, as far as I can tell; but till lately I have not had very
+LINE 343: much to do with him. He occasionally sought my company, but as
+LINE 344: frequently shrunk from it, fearing lest I should wile him back to
+LINE 345: destruction, and I found his not very entertaining, especially as he
+LINE 346: sometimes attempted to awaken my conscience and draw me from the
+LINE 347: perdition he considered himself to have escaped; but when I did happen
+LINE 348: to meet him, I seldom failed to ask after the progress of his
+LINE 349: matrimonial efforts and researches, and, in general, he could give me
+LINE 350: but a poor account. The mothers were repelled by his empty coffers and
+LINE 351: his reputation for gambling, and the daughters by his cloudy brow and
+LINE 352: melancholy temper—besides, he didn't understand them; he wanted the
+LINE 353: spirit and assurance to carry his point.
+LINE 354: "I left him at it when I went to the continent; and on my return, at
+LINE 355: the year's end, I found him still a disconsolate bachelor—though,
+LINE 356: certainly, looking somewhat less like an unblest exile from the tomb
+LINE 357: than before. The young ladies had ceased to be afraid of him, and were
+LINE 358: beginning to think him quite interesting; but the mammas were still
+LINE 359: unrelenting. It was about this time, Helen, that my good angel brought
+LINE 360: me into conjunction with you; and then I had eyes and ears for nobody
+LINE 361: else. But, meantime, Lowborough became acquainted with our charming
+LINE 362: friend, Miss Wilmot—through the intervention of _his_ good angel, no
+LINE 363: doubt he would tell you, though he did not dare to fix his hopes on one
+LINE 364: so courted and admired, till after they were brought into closer
+LINE 365: contact here at Staningley, and she, in the absence of her other
+LINE 366: admirers, indubitably courted his notice and held out every
+LINE 367: encouragement to his timid advances. Then, indeed, he began to hope for
+LINE 368: a dawn of brighter days; and if, for a while, I darkened his prospects
+LINE 369: by standing between him and his sun—and so nearly plunged him again
+LINE 370: into the abyss of despair—it only intensified his ardour and
+LINE 371: strengthened his hopes when I chose to abandon the field in the pursuit
+LINE 372: of a brighter treasure. In a word, as I told you, he is fairly
+LINE 373: besotted. At first, he could dimly perceive her faults, and they gave
+LINE 374: him considerable uneasiness; but now his passion and her art together
+LINE 375: have blinded him to everything but her perfections and his amazing good
+LINE 376: fortune. Last night he came to me brimful of his new-found felicity:
+LINE 377: "'Huntingdon, I am not a castaway!' said he, seizing my hand and
+LINE 378: squeezing it like a vice. 'There is happiness in store for me yet—even
+LINE 379: in this life—she loves me!'
+LINE 380: "'Indeed!' said I. 'Has she told you so?'
+LINE 381: "'No, but I can no longer doubt it. Do you not see how pointedly kind
+LINE 382: and affectionate she is? And she knows the utmost extent of my poverty,
+LINE 383: and cares nothing about it! She knows all the folly and all the
+LINE 384: wickedness of my former life, and is not afraid to trust me—and my rank
+LINE 385: and title are no allurements to her; for them she utterly disregards.
+LINE 386: She is the most generous, high-minded being that can be conceived of.
+LINE 387: She will save me, body and soul, from destruction. Already, she has
+LINE 388: ennobled me in my own estimation, and made me three times better,
+LINE 389: wiser, greater than I was. Oh! if I had but known her before, how much
+LINE 390: degradation and misery I should have been spared! But what have I done
+LINE 391: to deserve so magnificent a creature?'
+LINE 392: "And the cream of the jest," continued Mr. Huntingdon, laughing, "is,
+LINE 393: that the artful minx loves nothing about him but his title and
+LINE 394: pedigree, and 'that delightful old family seat.'"
+LINE 395: "How do you know?" said I.
+LINE 396: "She told me so herself; she said, 'As for the man himself, I
+LINE 397: thoroughly despise him; but then, I suppose, it is time to be making my
+LINE 398: choice, and if I waited for some one capable of eliciting my esteem and
+LINE 399: affection, I should have to pass my life in single blessedness, for I
+LINE 400: detest you all!' Ha, ha! I suspect she was wrong there; but, however,
+LINE 401: it is evident she has no love for _him_, poor fellow."
+LINE 402: "Then you ought to tell him so."
+LINE 403: "What! and spoil all her plans and prospects, poor girl? No, no: that
+LINE 404: would be a breach of confidence, wouldn't it, Helen? Ha, ha! Besides,
+LINE 405: it would break his heart." And he laughed again.
+LINE 406: "Well, Mr. Huntingdon, I don't know what you see so amazingly diverting
+LINE 407: in the matter; I see nothing to laugh at."
+LINE 408: "I'm laughing at _you_, just now, love," said he, redoubling his
+LINE 409: machinations.
+LINE 410: And leaving him to enjoy his merriment alone, I touched Ruby with the
+LINE 411: whip, and cantered on to rejoin our companions; for we had been walking
+LINE 412: our horses all this time, and were consequently a long way behind.
+LINE 413: Arthur was soon at my side again; but not disposed to talk to him, I
+LINE 414: broke into a gallop. He did the same; and we did not slacken our pace
+LINE 415: till we came up with Miss Wilmot and Lord Lowborough, which was within
+LINE 416: half a mile of the park-gates. I avoided all further conversation with
+LINE 417: him till we came to the end of our ride, when I meant to jump off my
+LINE 418: horse and vanish into the house, before he could offer his assistance;
+LINE 419: but while I was disengaging my habit from the crutch, he lifted me off,
+LINE 420: and held me by both hands, asserting that he would not let me go till I
+LINE 421: had forgiven him.
+LINE 422: "I have nothing to forgive," said I. "You have not injured _me_."
+LINE 423: "No, darling—God forbid that I should! but you are angry because it was
+LINE 424: to me that Annabella confessed her lack of esteem for her lover."
+LINE 425: "No, Arthur, it is not _that_ that displeases me: it is the whole
+LINE 426: system of your conduct towards your friend, and if you wish me to
+LINE 427: forget it, go now, and tell him what sort of a woman it is that he
+LINE 428: adores so madly, and on whom he has hung his hopes of future
+LINE 429: happiness."
+LINE 430: "I tell you, Helen, it would break his heart—it would be the death of
+LINE 431: him—besides being a scandalous trick to poor Annabella. There is no
+LINE 432: help for him now; he is past praying for. Besides, she may keep up the
+LINE 433: deception to the end of the chapter; and then he will be just as happy
+LINE 434: in the illusion as if it were reality; or perhaps he will only discover
+LINE 435: his mistake when he has ceased to love her; and if not, it is much
+LINE 436: better that the truth should dawn gradually upon him. So now, my angel,
+LINE 437: I hope I have made out a clear case, and fully convinced you that I
+LINE 438: cannot make the atonement you require. What other requisition have you
+LINE 439: to make? Speak, and I will gladly obey."
+LINE 440: "I have none but this," said I, as gravely as before: "that, in future,
+LINE 441: you will never make a jest of the sufferings of others, and always use
+LINE 442: your influence with your friends for their own advantage against their
+LINE 443: evil propensities, instead of seconding their evil propensities against
+LINE 444: themselves."
+LINE 445: "I will do my utmost," said he, "to remember and perform the
+LINE 446: injunctions of my angel monitress;" and after kissing both my gloved
+LINE 447: hands, he let me go.
+LINE 448: When I entered my room, I was surprised to see Annabella Wilmot
+LINE 449: standing before my toilet-table, composedly surveying her features in
+LINE 450: the glass, with one hand flirting her gold-mounted whip, and the other
+LINE 451: holding up her long habit.
+LINE 452: "She certainly _is_ a magnificent creature!" thought I, as I beheld
+LINE 453: that tall, finely developed figure, and the reflection of the handsome
+LINE 454: face in the mirror before me, with the glossy dark hair, slightly and
+LINE 455: not ungracefully disordered by the breezy ride, the rich brown
+LINE 456: complexion glowing with exercise, and the black eyes sparkling with
+LINE 457: unwonted brilliance. On perceiving me, she turned round, exclaiming,
+LINE 458: with a laugh that savoured more of malice than of mirth,—
+LINE 459: "Why, Helen! what _have_ you been doing so long? I came to tell you my
+LINE 460: good fortune," she continued, regardless of Rachel's presence. "Lord
+LINE 461: Lowborough has proposed, and I have been graciously pleased to accept
+LINE 462: him. Don't you envy me, dear?"
+LINE 463: "No, love," said I—"or him either," I mentally added. "And do you like
+LINE 464: him, Annabella?"
+LINE 465: "Like him! yes, to be sure—over head and ears in love!"
+LINE 466: "Well, I hope you'll make him a good wife."
+LINE 467: "Thank you, my dear! And what besides do you hope?"
+LINE 468: "I hope you will both love each other, and both be happy."
+LINE 469: "Thanks; and I hope you will make a _very_ good wife to Mr.
+LINE 470: Huntingdon!" said she, with a queenly bow, and retired.
+LINE 471: "Oh, Miss! how could you say so to her!" cried Rachel.
+LINE 472: "Say what?" replied I.
+LINE 473: "Why, that you hoped she would make him a good wife. I never heard such
+LINE 474: a thing!"
+LINE 475: "Because I do hope it, or rather, I wish it; she's almost past hope."
+LINE 476: "Well," said she, "I'm sure I hope he'll make _her_ a good husband.
+LINE 477: They tell queer things about him downstairs. They were saying—"
+LINE 478: "I know, Rachel. I've heard all about him; but he's reformed now. And
+LINE 479: they have no business to tell tales about their masters."
+LINE 480: "No, mum—or else, they _have_ said some things about Mr. Huntingdon
+LINE 481: too."
+LINE 482: "I won't hear them, Rachel; they tell lies."
+LINE 483: "Yes, mum," said she, quietly, as she went on arranging my hair.
+LINE 484: "Do _you_ believe them, Rachel?" I asked, after a short pause.
+LINE 485: "No, Miss, not all. You know when a lot of servants gets together they
+LINE 486: like to talk about their betters; and some, for a bit of swagger, likes
+LINE 487: to make it appear as though they knew more than they do, and to throw
+LINE 488: out hints and things just to astonish the others. But I think, if I was
+LINE 489: you, Miss Helen, I'd look _very_ well before I leaped. I do believe a
+LINE 490: young lady can't be too careful who she marries."
+LINE 491: "Of course not," said I; "but be quick, will you, Rachel? I want to be
+LINE 492: dressed."
+LINE 493: And, indeed, I was anxious to be rid of the good woman, for I was in
+LINE 494: such a melancholy frame I could hardly keep the tears out of my eyes
+LINE 495: while she dressed me. It was not for Lord Lowborough—it was not for
+LINE 496: Annabella—it was not for myself—it was for Arthur Huntingdon that they
+LINE 497: rose.
+LINE 498: * * * * *
+LINE 499: 13th.—They are gone, and he is gone. We are to be parted for more than
+LINE 500: two months, above ten weeks! a long, long time to live and not to see
+LINE 501: him. But he has promised to write often, and made me promise to write
+LINE 502: still oftener, because he will be busy settling his affairs, and I
+LINE 503: shall have nothing better to do. Well, I think I shall always have
+LINE 504: plenty to say. But oh! for the time when we shall be always together,
+LINE 505: and can exchange our thoughts without the intervention of these cold
+LINE 506: go-betweens, pen, ink, and paper!
+LINE 507: * * * * *
+LINE 508: 22nd.—I have had several letters from Arthur already. They are not
+LINE 509: long, but passing sweet, and just like himself, full of ardent
+LINE 510: affection, and playful lively humour; but there is always a _but_ in
+LINE 511: this imperfect world, and I do wish he would _sometimes_ be serious. I
+LINE 512: cannot get him to write or speak in real, solid earnest. I don't much
+LINE 513: mind it now, but if it be always so, what shall I do with the serious
+LINE 514: part of myself?

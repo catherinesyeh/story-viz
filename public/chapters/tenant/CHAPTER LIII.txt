@@ -1,0 +1,446 @@
+LINE 1: While standing thus, absorbed in my gloomy reverie, a gentleman's
+LINE 2: carriage came round the corner of the road. I did not look at it; and
+LINE 3: had it rolled quietly by me, I should not have remembered the fact of
+LINE 4: its appearance at all; but a tiny voice from within it roused me by
+LINE 5: exclaiming, "Mamma, mamma, here's Mr. Markham!"
+LINE 6: I did not hear the reply, but presently the same voice answered, "It is
+LINE 7: indeed, mamma—look for yourself."
+LINE 8: I did not raise my eyes, but I suppose mamma looked, for a clear
+LINE 9: melodious voice, whose tones thrilled through my nerves, exclaimed,
+LINE 10: "Oh, aunt! here's Mr. Markham, Arthur's friend! Stop, Richard!"
+LINE 11: There was such evidence of joyous though suppressed excitement in the
+LINE 12: utterance of those few words—especially that tremulous, "Oh, aunt"—that
+LINE 13: it threw me almost off my guard. The carriage stopped immediately, and
+LINE 14: I looked up and met the eye of a pale, grave, elderly lady surveying me
+LINE 15: from the open window. She bowed, and so did I, and then she withdrew
+LINE 16: her head, while Arthur screamed to the footman to let him out; but
+LINE 17: before that functionary could descend from his box a hand was silently
+LINE 18: put forth from the carriage window. I knew that hand, though a black
+LINE 19: glove concealed its delicate whiteness and half its fair proportions,
+LINE 20: and quickly seizing it, I pressed it in my own—ardently for a moment,
+LINE 21: but instantly recollecting myself, I dropped it, and it was immediately
+LINE 22: withdrawn.
+LINE 23: "Were you coming to see us, or only passing by?" asked the low voice of
+LINE 24: its owner, who, I felt, was attentively surveying my countenance from
+LINE 25: behind the thick black veil which, with the shadowing panels, entirely
+LINE 26: concealed her own from me.
+LINE 27: "I—I came to see the place," faltered I.
+LINE 28: "The _place_," repeated she, in a tone which betokened more displeasure
+LINE 29: or disappointment than surprise.
+LINE 30: "Will you not enter it, then?"
+LINE 31: "If you wish it."
+LINE 32: "Can you doubt?"
+LINE 33: "Yes, yes! he _must_ enter," cried Arthur, running round from the other
+LINE 34: door; and seizing my hand in both his, he shook it heartily.
+LINE 35: "Do you remember me, sir?" said he.
+LINE 36: "Yes, full well, my little man, altered though you are," replied I,
+LINE 37: surveying the comparatively tall, slim young gentleman, with his
+LINE 38: mother's image visibly stamped upon his fair, intelligent features, in
+LINE 39: spite of the blue eyes beaming with gladness, and the bright locks
+LINE 40: clustering beneath his cap.
+LINE 41: "Am I not grown?" said he, stretching himself up to his full height.
+LINE 42: "Grown! three inches, upon my word!"
+LINE 43: "I was _seven_ last birthday," was the proud rejoinder. "In seven years
+LINE 44: more I shall be as tall as you nearly."
+LINE 45: "Arthur," said his mother, "tell him to come in. Go on, Richard."
+LINE 46: There was a touch of sadness as well as coldness in her voice, but I
+LINE 47: knew not to what to ascribe it. The carriage drove on and entered the
+LINE 48: gates before us. My little companion led me up the park, discoursing
+LINE 49: merrily all the way. Arrived at the hall-door, I paused on the steps
+LINE 50: and looked round me, waiting to recover my composure, if possible—or,
+LINE 51: at any rate, to remember my new-formed resolutions and the principles
+LINE 52: on which they were founded; and it was not till Arthur had been for
+LINE 53: some time gently pulling my coat, and repeating his invitations to
+LINE 54: enter, that I at length consented to accompany him into the apartment
+LINE 55: where the ladies awaited us.
+LINE 56: Helen eyed me as I entered with a kind of gentle, serious scrutiny, and
+LINE 57: politely asked after Mrs. Markham and Rose. I respectfully answered her
+LINE 58: inquiries. Mrs. Maxwell begged me to be seated, observing it was rather
+LINE 59: cold, but she supposed I had not travelled far that morning.
+LINE 60: "Not quite twenty miles," I answered.
+LINE 61: "Not on foot!"
+LINE 62: "No, Madam, by coach."
+LINE 63: "Here's Rachel, sir," said Arthur, the only truly happy one amongst us,
+LINE 64: directing my attention to that worthy individual, who had just entered
+LINE 65: to take her mistress's things. She vouchsafed me an almost friendly
+LINE 66: smile of recognition—a favour that demanded, at least, a civil
+LINE 67: salutation on my part, which was accordingly given and respectfully
+LINE 68: returned—she had seen the error of her former estimation of my
+LINE 69: character.
+LINE 70: When Helen was divested of her lugubrious bonnet and veil, her heavy
+LINE 71: winter cloak, &c., she looked so like herself that I knew not how to
+LINE 72: bear it. I was particularly glad to see her beautiful black hair,
+LINE 73: unstinted still, and unconcealed in its glossy luxuriance.
+LINE 74: "Mamma has left off her widow's cap in honour of uncle's marriage,"
+LINE 75: observed Arthur, reading my looks with a child's mingled simplicity and
+LINE 76: quickness of observation. Mamma looked grave and Mrs. Maxwell shook her
+LINE 77: head. "And aunt Maxwell is never going to leave off hers," persisted
+LINE 78: the naughty boy; but when he saw that his pertness was seriously
+LINE 79: displeasing and painful to his aunt, he went and silently put his arm
+LINE 80: round her neck, kissed her cheek, and withdrew to the recess of one of
+LINE 81: the great bay-windows, where he quietly amused himself with his dog,
+LINE 82: while Mrs. Maxwell gravely discussed with me the interesting topics of
+LINE 83: the weather, the season, and the roads. I considered her presence very
+LINE 84: useful as a check upon my natural impulses—an antidote to those
+LINE 85: emotions of tumultuous excitement which would otherwise have carried me
+LINE 86: away against my reason and my will; but _just then_ I felt the
+LINE 87: restraint almost intolerable, and I had the greatest difficulty in
+LINE 88: forcing myself to attend to her remarks and answer them with ordinary
+LINE 89: politeness; for I was sensible that Helen was standing within a few
+LINE 90: feet of me beside the fire. I dared not look at her, but I felt her eye
+LINE 91: was upon me, and from one hasty, furtive glance, I thought her cheek
+LINE 92: was slightly flushed, and that her fingers, as she played with her
+LINE 93: watch-chain, were agitated with that restless, trembling motion which
+LINE 94: betokens high excitement.
+LINE 95: "Tell me," said she, availing herself of the first pause in the
+LINE 96: attempted conversation between her aunt and me, and speaking fast and
+LINE 97: low, with her eyes bent on the gold chain—for I now ventured another
+LINE 98: glance—"Tell me how you all are at Lindenhope—has nothing happened
+LINE 99: since I left you?"
+LINE 100: "I believe not."
+LINE 101: "Nobody dead? nobody married?"
+LINE 102: "No."
+LINE 103: "Or—or expecting to marry?—No old ties dissolved or new ones formed? no
+LINE 104: old friends forgotten or supplanted?"
+LINE 105: She dropped her voice so low in the last sentence that no one could
+LINE 106: have caught the concluding words but myself, and at the same time
+LINE 107: turned her eyes upon me with a dawning smile, most sweetly melancholy,
+LINE 108: and a look of timid though keen inquiry that made my cheeks tingle with
+LINE 109: inexpressible emotions.
+LINE 110: "I believe not," I answered. "Certainly not, if others are as little
+LINE 111: changed as I." Her face glowed in sympathy with mine.
+LINE 112: "And you really did not mean to call?" she exclaimed.
+LINE 113: "I feared to intrude."
+LINE 114: "To intrude!" cried she, with an impatient gesture. "What—" but as if
+LINE 115: suddenly recollecting her aunt's presence, she checked herself, and,
+LINE 116: turning to that lady, continued—"Why, aunt, this man is my brother's
+LINE 117: close friend, and was my own intimate acquaintance (for a few short
+LINE 118: months at least), and professed a great attachment to my boy—and when
+LINE 119: he passes the house, so many scores of miles from his home, he declines
+LINE 120: to look in for fear of intruding!"
+LINE 121: "Mr. Markham is over-modest," observed Mrs. Maxwell.
+LINE 122: "Over-ceremonious rather," said her niece—"over—well, it's no matter."
+LINE 123: And turning from me, she seated herself in a chair beside the table,
+LINE 124: and pulling a book to her by the cover, began to turn over the leaves
+LINE 125: in an energetic kind of abstraction.
+LINE 126: "If I had known," said I, "that you would have honoured me by
+LINE 127: remembering me as an intimate acquaintance, I most likely should not
+LINE 128: have denied myself the pleasure of calling upon you, but I thought you
+LINE 129: had forgotten me long ago."
+LINE 130: "You judged of others by yourself," muttered she without raising her
+LINE 131: eyes from the book, but reddening as she spoke, and hastily turning
+LINE 132: over a dozen leaves at once.
+LINE 133: There was a pause, of which Arthur thought he might venture to avail
+LINE 134: himself to introduce his handsome young setter, and show me how
+LINE 135: wonderfully it was grown and improved, and to ask after the welfare of
+LINE 136: its father Sancho. Mrs. Maxwell then withdrew to take off her things.
+LINE 137: Helen immediately pushed the book from her, and after silently
+LINE 138: surveying her son, his friend, and his dog for a few moments, she
+LINE 139: dismissed the former from the room under pretence of wishing him to
+LINE 140: fetch his last new book to show me. The child obeyed with alacrity; but
+LINE 141: I continued caressing the dog. The silence might have lasted till its
+LINE 142: master's return, had it depended on me to break it; but, in half a
+LINE 143: minute or less, my hostess impatiently rose, and, taking her former
+LINE 144: station on the rug between me and the chimney corner, earnestly
+LINE 145: exclaimed—
+LINE 146: "Gilbert, what _is_ the matter with you?—why are you so changed? It is
+LINE 147: a very indiscreet question, I know," she hastened to add: "perhaps a
+LINE 148: very rude one—don't answer it if you think so—but I hate mysteries and
+LINE 149: concealments."
+LINE 150: "I am not changed, Helen—unfortunately I am as keen and passionate as
+LINE 151: ever—it is not I, it is circumstances that are changed."
+LINE 152: "What circumstances? _Do_ tell me!" Her cheek was blanched with the
+LINE 153: very anguish of anxiety—could it be with the fear that I had rashly
+LINE 154: pledged my faith to another?
+LINE 155: "I'll tell you at once," said I. "I will confess that I came here for
+LINE 156: the purpose of seeing you (not without some monitory misgivings at my
+LINE 157: own presumption, and fears that I should be as little welcome as
+LINE 158: expected when I came), but I did not know that this estate was yours
+LINE 159: until enlightened on the subject of your inheritance by the
+LINE 160: conversation of two fellow-passengers in the last stage of my journey;
+LINE 161: and then I saw at once the folly of the hopes I had cherished, and the
+LINE 162: madness of retaining them a moment longer; and though I alighted at
+LINE 163: your gates, I determined not to enter within them; I lingered a few
+LINE 164: minutes to see the place, but was fully resolved to return to M——
+LINE 165: without seeing its mistress."
+LINE 166: "And if my aunt and I had not been just returning from our morning
+LINE 167: drive, I should have seen and heard no more of you?"
+LINE 168: "I thought it would be better for both that we should not meet,"
+LINE 169: replied I, as calmly as I could, but not daring to speak above my
+LINE 170: breath, from conscious inability to steady my voice, and not daring to
+LINE 171: look in her face lest my firmness should forsake me altogether. "I
+LINE 172: thought an interview would only disturb your peace and madden me. But I
+LINE 173: am glad, now, of this opportunity of seeing you once more and knowing
+LINE 174: that you have not forgotten me, and of assuring you that I shall never
+LINE 175: cease to remember you."
+LINE 176: There was a moment's pause. Mrs. Huntingdon moved away, and stood in
+LINE 177: the recess of the window. Did she regard this as an intimation that
+LINE 178: modesty alone prevented me from asking her hand? and was she
+LINE 179: considering how to repulse me with the smallest injury to my feelings?
+LINE 180: Before I could speak to relieve her from such a perplexity, she broke
+LINE 181: the silence herself by suddenly turning towards me and observing—
+LINE 182: "You might have had such an opportunity before—as far, I mean, as
+LINE 183: regards assuring me of your kindly recollections, and yourself of mine,
+LINE 184: if you had written to me."
+LINE 185: "I would have done so, but I did not know your address, and did not
+LINE 186: like to ask your brother, because I thought he would object to my
+LINE 187: writing; but this would not have deterred me for a moment, if I could
+LINE 188: have ventured to believe that you expected to hear from me, or even
+LINE 189: wasted a thought upon your unhappy friend; but your silence naturally
+LINE 190: led me to conclude myself forgotten."
+LINE 191: "Did you expect me to write to _you_, then?"
+LINE 192: "No, Helen—Mrs. Huntingdon," said I, blushing at the implied
+LINE 193: imputation, "certainly not; but if you had sent me a message through
+LINE 194: your brother, or even asked him about me now and then—"
+LINE 195: "I did ask about you frequently. I was not going to do more," continued
+LINE 196: she, smiling, "so long as you continued to restrict yourself to a few
+LINE 197: polite inquiries about my health."
+LINE 198: "Your brother never told me that you had mentioned my name."
+LINE 199: "Did you ever ask him?"
+LINE 200: "No; for I saw he did not wish to be questioned about you, or to afford
+LINE 201: the slightest encouragement or assistance to my too obstinate
+LINE 202: attachment." Helen did not reply. "And he was perfectly right," added
+LINE 203: I. But she remained in silence, looking out upon the snowy lawn. "Oh, I
+LINE 204: will relieve her of my presence," thought I; and immediately I rose and
+LINE 205: advanced to take leave, with a most heroic resolution—but pride was at
+LINE 206: the bottom of it, or it could not have carried me through.
+LINE 207: "Are you going already?" said she, taking the hand I offered, and not
+LINE 208: immediately letting it go.
+LINE 209: "Why should I stay any longer?"
+LINE 210: "Wait till Arthur comes, at least."
+LINE 211: Only too glad to obey, I stood and leant against the opposite side of
+LINE 212: the window.
+LINE 213: "You told me you were not changed," said my companion: "you _are_—very
+LINE 214: much so."
+LINE 215: "No, Mrs. Huntingdon, I only ought to be."
+LINE 216: "Do you mean to maintain that you have the same regard for me that you
+LINE 217: had when last we met?"
+LINE 218: "I have; but it would be wrong to talk of it now."
+LINE 219: "It was wrong to talk of it _then_, Gilbert; it would _not_ now—unless
+LINE 220: to do so would be to violate the truth."
+LINE 221: I was too much agitated to speak; but, without waiting for an answer,
+LINE 222: she turned away her glistening eye and crimson cheek, and threw up the
+LINE 223: window and looked out, whether to calm her own, excited feelings, or to
+LINE 224: relieve her embarrassment, or only to pluck that beautiful half-blown
+LINE 225: Christmas-rose that grew upon the little shrub without, just peeping
+LINE 226: from the snow that had hitherto, no doubt, defended it from the frost,
+LINE 227: and was now melting away in the sun. Pluck it, however, she did, and
+LINE 228: having gently dashed the glittering powder from its leaves, approached
+LINE 229: it to her lips and said:
+LINE 230: "This rose is not so fragrant as a summer flower, but it has stood
+LINE 231: through hardships none of _them_ could bear: the cold rain of winter
+LINE 232: has sufficed to nourish it, and its faint sun to warm it; the bleak
+LINE 233: winds have not blanched it, or broken its stem, and the keen frost has
+LINE 234: not blighted it. Look, Gilbert, it is still fresh and blooming as a
+LINE 235: flower can be, with the cold snow even now on its petals.—Will you have
+LINE 236: it?"
+LINE 237: I held out my hand: I dared not speak lest my emotion should overmaster
+LINE 238: me. She laid the rose across my palm, but I scarcely closed my fingers
+LINE 239: upon it, so deeply was I absorbed in thinking what might be the meaning
+LINE 240: of her words, and what I ought to do or say upon the occasion; whether
+LINE 241: to give way to my feelings or restrain them still. Misconstruing this
+LINE 242: hesitation into indifference—or reluctance even—to accept her gift,
+LINE 243: Helen suddenly snatched it from my hand, threw it out on to the snow,
+LINE 244: shut down the window with an emphasis, and withdrew to the fire.
+LINE 245: "Helen, what means this?" I cried, electrified at this startling change
+LINE 246: in her demeanour.
+LINE 247: "You did not understand my gift," said she—"or, what is worse, you
+LINE 248: despised it. I'm sorry I gave it you; but since I did make such a
+LINE 249: mistake, the only remedy I could think of was to take it away."
+LINE 250: "You misunderstood me cruelly," I replied, and in a minute I had opened
+LINE 251: the window again, leaped out, picked up the flower, brought it in, and
+LINE 252: presented it to her, imploring her to give it me again, and I would
+LINE 253: keep it for ever for her sake, and prize it more highly than anything
+LINE 254: in the world I possessed.
+LINE 255: "And will this content you?" said she, as she took it in her hand.
+LINE 256: "It shall," I answered.
+LINE 257: "There, then; take it."
+LINE 258: I pressed it earnestly to my lips, and put it in my bosom, Mrs.
+LINE 259: Huntingdon looking on with a half-sarcastic smile.
+LINE 260: "Now, are you going?" said she.
+LINE 261: "I will if—if I must."
+LINE 262: "You _are_ changed," persisted she—"you are grown either very proud or
+LINE 263: very indifferent."
+LINE 264: "I am neither, Helen—Mrs. Huntingdon. If you could see my heart—"
+LINE 265: "You _must_ be one,—if not both. And why Mrs. Huntingdon?—why not
+LINE 266: Helen, as before?"
+LINE 267: "Helen, then—dear Helen!" I murmured. I was in an agony of mingled
+LINE 268: love, hope, delight, uncertainty, and suspense.
+LINE 269: "The rose I gave you was an emblem of my heart," said she; "would you
+LINE 270: take it away and leave me here alone?"
+LINE 271: "Would you give me your hand too, if I asked it?"
+LINE 272: "Have I not said enough?" she answered, with a most enchanting smile. I
+LINE 273: snatched her hand, and would have fervently kissed it, but suddenly
+LINE 274: checked myself, and said,—
+LINE 275: "But have you considered the consequences?"
+LINE 276: "Hardly, I think, or I should not have offered myself to one too proud
+LINE 277: to take me, or too indifferent to make his affection outweigh my
+LINE 278: worldly goods."
+LINE 279: Stupid blockhead that I was!—I trembled to clasp her in my arms, but
+LINE 280: dared not believe in so much joy, and yet restrained myself to say,—
+LINE 281: "But if you _should_ repent!"
+LINE 282: "It would be your fault," she replied: "I never shall, unless you
+LINE 283: bitterly disappoint me. If you have not sufficient confidence in my
+LINE 284: affection to believe this, let me alone."
+LINE 285: "My darling angel—my _own Helen_," cried I, now passionately kissing
+LINE 286: the hand I still retained, and throwing my left arm around her, "you
+LINE 287: never shall repent, if it depend on me alone. But have you thought of
+LINE 288: your aunt?" I trembled for the answer, and clasped her closer to my
+LINE 289: heart in the instinctive dread of losing my new-found treasure.
+LINE 290: "My aunt must not know of it yet," said she. "She would think it a
+LINE 291: rash, wild step, because she could not imagine how well I know you; but
+LINE 292: she must know you herself, and learn to like you. You must leave us
+LINE 293: now, after lunch, and come again in spring, and make a longer stay, and
+LINE 294: cultivate her acquaintance, and I know you will like each other."
+LINE 295: "And then you will be mine," said I, printing a kiss upon her lips, and
+LINE 296: another, and another; for I was as daring and impetuous now as I had
+LINE 297: been backward and constrained before.
+LINE 298: "No—in another year," replied she, gently disengaging herself from my
+LINE 299: embrace, but still fondly clasping my hand.
+LINE 300: "Another year! Oh, Helen, I could not wait so long!"
+LINE 301: "Where is your fidelity?"
+LINE 302: "I mean I could not endure the misery of so long a separation."
+LINE 303: "It would not be a separation: we will write every day: my spirit shall
+LINE 304: be always with you, and sometimes you shall see me with your bodily
+LINE 305: eye. I will not be such a hypocrite as to pretend that I desire to wait
+LINE 306: so long myself, but as my marriage is to please myself, alone, I ought
+LINE 307: to consult my friends about the time of it."
+LINE 308: "Your friends will disapprove."
+LINE 309: "They will not greatly disapprove, dear Gilbert," said she, earnestly
+LINE 310: kissing my hand; "they cannot, when they know you, or, if they could,
+LINE 311: they would not be true friends—I should not care for their
+LINE 312: estrangement. Now are you satisfied?" She looked up in my face with a
+LINE 313: smile of ineffable tenderness.
+LINE 314: "Can I be otherwise, with your love? And you _do_ love me, Helen?" said
+LINE 315: I, not doubting the fact, but wishing to hear it confirmed by her own
+LINE 316: acknowledgment.
+LINE 317: "If you loved as _I_ do," she earnestly replied, "you would not have so
+LINE 318: nearly lost me—these scruples of false delicacy and pride would never
+LINE 319: thus have troubled you—you would have seen that the greatest worldly
+LINE 320: distinctions and discrepancies of rank, birth, and fortune are as dust
+LINE 321: in the balance compared with the unity of accordant thoughts and
+LINE 322: feelings, and truly loving, sympathising hearts and souls."
+LINE 323: "But this is too much happiness," said I, embracing her again; "I have
+LINE 324: not deserved it, Helen—I dare not believe in such felicity: and the
+LINE 325: longer I have to wait, the greater will be my dread that something will
+LINE 326: intervene to snatch you from me—and think, a thousand things may happen
+LINE 327: in a year!—I shall be in one long fever of restless terror and
+LINE 328: impatience all the time. And besides, winter is such a dreary season."
+LINE 329: "I thought so too," replied she gravely: "I would not be married in
+LINE 330: winter—in December, at least," she added, with a shudder—for in that
+LINE 331: month had occurred both the ill-starred marriage that had bound her to
+LINE 332: her former husband, and the terrible death that released her—"and
+LINE 333: therefore I said another year, in spring."
+LINE 334: "_Next_ spring?"
+LINE 335: "No, no—next autumn, perhaps."
+LINE 336: "Summer, then?"
+LINE 337: "Well, the close of summer. There now! be satisfied."
+LINE 338: While she was speaking Arthur re-entered the room—good boy for keeping
+LINE 339: out so long.
+LINE 340: "Mamma, I couldn't find the book in either of the places you told me to
+LINE 341: look for it" (there was a conscious something in mamma's smile that
+LINE 342: seemed to say, "No, dear, I knew you could not"), "but Rachel got it
+LINE 343: for me at last. Look, Mr. Markham, a natural history, with all kinds of
+LINE 344: birds and beasts in it, and the reading as nice as the pictures!"
+LINE 345: In great good humour I sat down to examine the book, and drew the
+LINE 346: little fellow between my knees. Had he come a minute before I should
+LINE 347: have received him less graciously, but now I affectionately stroked his
+LINE 348: curling locks, and even kissed his ivory forehead: he was my own
+LINE 349: Helen's son, and therefore mine; and as such I have ever since regarded
+LINE 350: him. That pretty child is now a fine young man: he has realised his
+LINE 351: mother's brightest expectations, and is at present residing in
+LINE 352: Grassdale Manor with his young wife—the merry little Helen Hattersley
+LINE 353: of yore.
+LINE 354: I had not looked through half the book before Mrs. Maxwell appeared to
+LINE 355: invite me into the other room to lunch. That lady's cool, distant
+LINE 356: manners rather chilled me at first; but I did my best to propitiate
+LINE 357: her, and not entirely without success, I think, even in that first
+LINE 358: short visit; for when I talked cheerfully to her, she gradually became
+LINE 359: more kind and cordial, and when I departed she bade me a gracious
+LINE 360: adieu, hoping ere long to have the pleasure of seeing me again.
+LINE 361: "But you must not go till you have seen the conservatory, my aunt's
+LINE 362: winter garden," said Helen, as I advanced to take leave of her, with as
+LINE 363: much philosophy and self-command as I could summon to my aid.
+LINE 364: I gladly availed myself of such a respite, and followed her into a
+LINE 365: large and beautiful conservatory, plentifully furnished with flowers,
+LINE 366: considering the season—but, of course, I had little attention to spare
+LINE 367: for _them_. It was not, however, for any tender colloquy that my
+LINE 368: companion had brought me there:—
+LINE 369: "My aunt is particularly fond of flowers," she observed, "and she is
+LINE 370: fond of Staningley too: I brought you here to offer a petition in her
+LINE 371: behalf, that this may be her home as long as she lives, and—if it be
+LINE 372: not our home likewise—that I may often see her and be with her; for I
+LINE 373: fear she will be sorry to lose me; and though she leads a retired and
+LINE 374: contemplative life, she is apt to get low-spirited if left too much
+LINE 375: alone."
+LINE 376: "By all means, dearest Helen!—do what you will with your own. I should
+LINE 377: not dream of wishing your aunt to leave the place under any
+LINE 378: circumstances; and we will live either here or elsewhere as you and she
+LINE 379: may determine, and you shall see her as often as you like. I know she
+LINE 380: must be pained to part with you, and I am willing to make any
+LINE 381: reparation in my power. I love her for your sake, and her happiness
+LINE 382: shall be as dear to me as that of my own mother."
+LINE 383: "Thank you, darling! you shall have a kiss for that. Good-by. There
+LINE 384: now—there, Gilbert—let me go—here's Arthur; don't astonish his
+LINE 385: infantile brain with your madness."
+LINE 386: * * * * *
+LINE 387: But it is time to bring my narrative to a close. Any one but you would
+LINE 388: say I had made it too long already. But for _your_ satisfaction I will
+LINE 389: add a few words more; because I know you will have a fellow-feeling for
+LINE 390: the old lady, and will wish to know the last of her history. I did come
+LINE 391: again in spring, and, agreeably to Helen's injunctions, did my best to
+LINE 392: cultivate her acquaintance. She received me very kindly, having been,
+LINE 393: doubtless, already prepared to think highly of my character by her
+LINE 394: niece's too favourable report. I turned my best side out, of course,
+LINE 395: and we got along marvellously well together. When my ambitious
+LINE 396: intentions were made known to her, she took it more sensibly than I had
+LINE 397: ventured to hope. Her only remark on the subject, in my hearing, was—
+LINE 398: "And so, Mr. Markham, you are going to rob me of my niece, I
+LINE 399: understand. Well! I hope God will prosper your union, and make my dear
+LINE 400: girl happy at last. Could she have been contented to remain single, I
+LINE 401: own I should have been better satisfied; but if she must marry again, I
+LINE 402: know of no one, now living and of a suitable age, to whom I would more
+LINE 403: willingly resign her than yourself, or who would be more likely to
+LINE 404: appreciate her worth and make, her truly happy, as far as I can tell."
+LINE 405: Of course I was delighted with the compliment, and hoped to show her
+LINE 406: that she was not mistaken in her favourable judgment.
+LINE 407: "I have, however, one request to offer," continued she. "It seems I am
+LINE 408: still to look on Staningley as my home: I wish you to make it yours
+LINE 409: likewise, for Helen is attached to the place and to me—as I am to her.
+LINE 410: There are painful associations connected with Grassdale, which she
+LINE 411: cannot easily overcome; and I shall not molest you with my company or
+LINE 412: interference here: I am a very quiet person, and shall keep my own
+LINE 413: apartments, and attend to my own concerns, and only see you now and
+LINE 414: then."
+LINE 415: Of course I most readily consented to this; and we lived in the
+LINE 416: greatest harmony with our dear aunt until the day of her death, which
+LINE 417: melancholy event took place a few years after—melancholy, not to
+LINE 418: herself (for it came quietly upon her, and she was glad to reach her
+LINE 419: journey's end), but only to the few loving friends and grateful
+LINE 420: dependents she left behind.
+LINE 421: To return, however, to my own affairs: I was married in summer, on a
+LINE 422: glorious August morning. It took the whole eight months, and all
+LINE 423: Helen's kindness and goodness to boot, to overcome my mother's
+LINE 424: prejudices against my bride-elect, and to reconcile her to the idea of
+LINE 425: my leaving Linden Grange and living so far away. Yet she was gratified
+LINE 426: at her son's good fortune after all, and proudly attributed it all to
+LINE 427: his own superior merits and endowments. I bequeathed the farm to
+LINE 428: Fergus, with better hopes of its prosperity than I should have had a
+LINE 429: year ago under similar circumstances; for he had lately fallen in love
+LINE 430: with the Vicar of L——'s eldest daughter—a lady whose superiority had
+LINE 431: roused his latent virtues, and stimulated him to the most surprising
+LINE 432: exertions, not only to gain her affection and esteem, and to obtain a
+LINE 433: fortune sufficient to aspire to her hand, but to render himself worthy
+LINE 434: of her, in his own eyes, as well as in those of her parents; and in the
+LINE 435: end he was successful, as you already know. As for myself, I need not
+LINE 436: tell you how happily my Helen and I have lived together, and how
+LINE 437: blessed we still are in each other's society, and in the promising
+LINE 438: young scions that are growing up about us. We are just now looking
+LINE 439: forward to the advent of you and Rose, for the time of your annual
+LINE 440: visit draws nigh, when you must leave your dusty, smoky, noisy,
+LINE 441: toiling, striving city for a season of invigorating relaxation and
+LINE 442: social retirement with us.
+LINE 443: Till then, farewell,
+LINE 444: GILBERT MARKHAM.
+LINE 445: _Staningley_, _June_ 10_th_, 1847.
+LINE 446: THE END
