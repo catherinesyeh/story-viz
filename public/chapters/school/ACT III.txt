@@ -1,0 +1,616 @@
+LINE 1: SCENE I.--At SIR PETER'S
+LINE 2: SIR PETER, SIR OLIVER, and ROWLEY
+LINE 3: SIR PETER. Well, then, we will see the Fellows first and have our wine
+LINE 4: afterwards.--but how is this, Master Rowley--I don't see the Jet of your
+LINE 5: scheme.
+LINE 6: ROWLEY. Why Sir--this Mr. Stanley whom I was speaking of, is nearly
+LINE 7: related to them by their mother. He was once a merchant in Dublin--but
+LINE 8: has been ruined by a series of undeserved misfortunes--and now lately
+LINE 9: coming over to solicit the assistance of his friends here--has been
+LINE 10: flyng [flung] into prison by some of his Creditors--where he is now with
+LINE 11: two helpless Boys.--
+LINE 12: SIR OLIVER. Aye and a worthy Fellow too I remember him. But what is this
+LINE 13: to lead to--?
+LINE 14: ROWLEY. You shall hear--He has applied by letter both to Mr. Surface and
+LINE 15: Charles--from the former he has received nothing but evasive promises
+LINE 16: of future service, while Charles has done all that his extravagance has
+LINE 17: left him power to do--and He is at this time endeavouring to raise a sum
+LINE 18: of money--part of which, in the midst of his own distresses, I know He
+LINE 19: intends for the service of poor Stanley.
+LINE 20: SIR OLIVER. Ah! he is my Brother's Son.
+LINE 21: SIR PETER. Well, but how is Sir Oliver personally to----
+LINE 22: ROWLEY. Why Sir I will inform Charles and his Brother that Stanley has
+LINE 23: obtain'd permission to apply in person to his Friends--and as they
+LINE 24: have neither of them ever seen him[,] let Sir Oliver assume his
+LINE 25: character--and he will have a fair opportunity of judging at least of
+LINE 26: the Benevolence of their Dispositions.
+LINE 27: SIR PETER. Pshaw! this will prove nothing--I make no doubt Charles is
+LINE 28: Coxcomb and thoughtless enough to give money to poor relations if he had
+LINE 29: it--
+LINE 30: SIR OLIVER. Then He shall never want it--. I have brought a few Rupees
+LINE 31: home with me Sir Peter--and I only want to be sure of bestowing them
+LINE 32: rightly.--
+LINE 33: ROWLEY. Then Sir believe me you will find in the youngest Brother one
+LINE 34: who in the midst of Folly and dissipation--has still, as our immortal
+LINE 35: Bard expresses it,--
+LINE 36: "a Tear for Pity and a Hand open as the day for melting Charity."
+LINE 37: SIR PETER. Pish! What signifies his having an open Hand or Purse
+LINE 38: either when He has nothing left to give!--but if you talk of humane
+LINE 39: Sentiments--Joseph is the man--Well, well, make the trial, if you
+LINE 40: please. But where is the fellow whom you brought for Sir Oliver to
+LINE 41: examine, relative to Charles's affairs?
+LINE 42: ROWLEY. Below waiting his commands, and no one can give him better
+LINE 43: intelligence--This, Sir Oliver, is a friendly Jew, who to do him
+LINE 44: justice, has done everything in his power to bring your nephew to a
+LINE 45: proper sense of his extravagance.
+LINE 46: SIR PETER. Pray let us have him in.
+LINE 47: ROWLEY. Desire Mr. Moses to walk upstairs.
+LINE 48: [Calls to SERVANT.]
+LINE 49: SIR PETER. But Pray why should you suppose he will speak the truth?
+LINE 50: ROWLEY. Oh, I have convinced him that he has no chance of recovering
+LINE 51: certain Sums advanced to Charles but through the bounty of Sir Oliver,
+LINE 52: who He knows is arrived; so that you may depend on his Fidelity to his
+LINE 53: interest. I have also another evidence in my Power, one Snake, whom I
+LINE 54: shall shortly produce to remove some of YOUR Prejudices[,] Sir Peter[,]
+LINE 55: relative to Charles and Lady Teazle.
+LINE 56: SIR PETER. I have heard too much on that subject.
+LINE 57: ROWLEY. Here comes the honest Israelite.
+LINE 58: Enter MOSES
+LINE 59: --This is Sir Oliver.
+LINE 60: SIR OLIVER. Sir--I understand you have lately had great dealings with my
+LINE 61: Nephew Charles.
+LINE 62: MOSES. Yes Sir Oliver--I have done all I could for him, but He was
+LINE 63: ruined before He came to me for Assistance.
+LINE 64: SIR OLIVER. That was unlucky truly--for you have had no opportunity of
+LINE 65: showing your Talents.
+LINE 66: MOSES. None at all--I hadn't the Pleasure of knowing his Distresses till
+LINE 67: he was some thousands worse than nothing, till it was impossible to add
+LINE 68: to them.
+LINE 69: SIR OLIVER. Unfortunate indeed! but I suppose you have done all in your
+LINE 70: Power for him honest Moses?
+LINE 71: MOSES. Yes he knows that--This very evening I was to have brought him a
+LINE 72: gentleman from the city who does not know him and will I believe advance
+LINE 73: some money.
+LINE 74: SIR PETER. What[!] one Charles has never had money from before?
+LINE 75: MOSES. Yes[--]Mr. Premium, of Crutched Friars.
+LINE 76: SIR PETER. Egad, Sir Oliver a Thought strikes me!--Charles you say
+LINE 77: does'nt know Mr. Premium?
+LINE 78: MOSES. Not at all.
+LINE 79: SIR PETER. Now then Sir Oliver you may have a better opportunity of
+LINE 80: satisfying yourself than by an old romancing tale of a poor Relation--go
+LINE 81: with my friend Moses and represent Mr. Premium and then I'll answer
+LINE 82: for't you'll see your Nephew in all his glory.
+LINE 83: SIR OLIVER. Egad I like this Idea better than the other, and I may visit
+LINE 84: Joseph afterwards as old Stanley.
+LINE 85: SIR PETER. True so you may.
+LINE 86: ROWLEY. Well this is taking Charles rather at a disadvantage, to be
+LINE 87: sure--however Moses--you understand Sir Peter and will be faithful----
+LINE 88: MOSES. You may depend upon me--and this is near the Time I was to have
+LINE 89: gone.
+LINE 90: SIR OLIVER. I'll accompany you as soon as you please, Moses----but
+LINE 91: hold--I have forgot one thing--how the plague shall I be able to pass
+LINE 92: for a Jew?
+LINE 93: MOSES. There's no need--the Principal is Christian.
+LINE 94: SIR OLIVER. Is He--I'm very sorry to hear it--but then again--an't I
+LINE 95: rather too smartly dressed to look like a money-Lender?
+LINE 96: SIR PETER. Not at all; 'twould not be out of character, if you went in
+LINE 97: your own carriage--would it, Moses!
+LINE 98: MOSES. Not in the least.
+LINE 99: SIR OLIVER. Well--but--how must I talk[?] there's certainly some cant of
+LINE 100: usury and mode of treating that I ought to know.
+LINE 101: SIR PETER. Oh, there's not much to learn--the great point as I take it
+LINE 102: is to be exorbitant enough in your Demands hey Moses?
+LINE 103: MOSES. Yes that's very great Point.
+LINE 104: SIR OLIVER. I'll answer for't I'll not be wanting in that--I'll ask him
+LINE 105: eight or ten per cent. on the loan--at least.
+LINE 106: MOSES. You'll be found out directly--if you ask him no more than that,
+LINE 107: you'll be discovered immediately.
+LINE 108: SIR OLIVER. Hey!--what the Plague!--how much then?
+LINE 109: MOSES. That depends upon the Circumstances--if he appears not very
+LINE 110: anxious for the supply, you should require only forty or fifty per
+LINE 111: cent.--but if you find him in great Distress, and want the monies very
+LINE 112: bad--you may ask double.
+LINE 113: SIR PETER. A good--[h]onest Trade you're learning, Sir Oliver--
+LINE 114: SIR OLIVER. Truly, I think so--and not unprofitable--
+LINE 115: MOSES. Then you know--you haven't the monies yourself, but are forced to
+LINE 116: borrow them for him of a Friend.
+LINE 117: SIR OLIVER. O I borrow it of a Friend do I?
+LINE 118: MOSES. And your friend is an unconscion'd Dog--but you can't help it.
+LINE 119: SIR OLIVER. My Friend's an unconscionable Dog, is he?
+LINE 120: MOSES. Yes--and He himself hasn't the monies by him--but is forced to
+LINE 121: sell stock--at a great loss--
+LINE 122: SIR OLIVER. He is forced to sell stock is he--at a great loss, is
+LINE 123: he--well that's very kind of him--
+LINE 124: SIR PETER. Efaith, Sir Oliver--Mr. Premium I mean--you'll soon be master
+LINE 125: of the Trade--but, Moses would have him inquire if the borrower is a
+LINE 126: minor--
+LINE 127: MOSES. O yes--
+LINE 128: SIR PETER. And in that case his Conscience will direct him--
+LINE 129: MOSES. To have the Bond in another Name to be sure.
+LINE 130: SIR OLIVER. Well--well I shall be perfect--
+LINE 131: SIR PETER. But hearkee wouldn't you have him also run out a little
+LINE 132: against the annuity Bill--that would be in character I should think--
+LINE 133: MOSES. Very much--
+LINE 134: ROWLEY. And lament that a young man now must be at years of discretion
+LINE 135: before He is suffered to ruin himself!
+LINE 136: MOSES. Aye, great Pity!
+LINE 137: SIR PETER. And abuse the Public for allowing merit to an act whose only
+LINE 138: object is to snatch misfortune and imprudence from the rapacious Relief
+LINE 139: of usury! and give the minor a chance of inheriting his estate without
+LINE 140: being undone by coming into Possession.
+LINE 141: SIR OLIVER. So--so--Moses shall give me further instructions as we go
+LINE 142: together.
+LINE 143: SIR PETER. You will not have much time[,] for your Nephew lives hard
+LINE 144: bye--
+LINE 145: SIR OLIVER. Oh Never--fear[:] my Tutor appears so able that tho' Charles
+LINE 146: lived in the next street it must be my own Fault if I am not a compleat
+LINE 147: Rogue before I turn the Corner--
+LINE 148: [Exeunt SIR OLIVER and MOSES.]
+LINE 149: SIR PETER. So--now I think Sir Oliver will be convinced--you shan't
+LINE 150: follow them Rowley. You are partial and would have prepared Charles for
+LINE 151: 'tother plot.
+LINE 152: ROWLEY. No upon my word Sir Peter--
+LINE 153: SIR PETER. Well, go bring me this Snake, and I'll hear what he has to
+LINE 154: say presently. I see Maria, and want to speak with her.--
+LINE 155: [Exit ROWLEY.]
+LINE 156: I should be glad to be convinced my suspicions of Lady Teazle and
+LINE 157: Charles were unjust--I have never yet opened my mind on this subject to
+LINE 158: my Friend Joseph. . . . I am determined. I will do it--He will give me
+LINE 159: his opinion sincerely.--
+LINE 160: Enter MARIA
+LINE 161: So Child--has Mr. Surface returned with you--
+LINE 162: MARIA. No Sir--He was engaged.
+LINE 163: SIR PETER. Well--Maria--do you not reflect[,] the more you converse with
+LINE 164: that amiable young man[,] what return his Partiality for you deserves?
+LINE 165: MARIA. Indeed Sir Peter--your frequent importunity on this subject
+LINE 166: distresses me extremely--you compell me to Declare that I know no man
+LINE 167: who has ever paid me a particular Attention whom I would not prefer to
+LINE 168: Mr. Surface--
+LINE 169: SIR PETER. Soh! Here's Perverseness--no--no--Maria, 'tis Charles only
+LINE 170: whom you would prefer--'tis evident his Vices and Follies have won your
+LINE 171: Heart.
+LINE 172: MARIA. This is unkind Sir--You know I have obey'd you in neither seeing
+LINE 173: nor corresponding with him--I have heard enough to convince me that
+LINE 174: He is unworthy my regard--Yet I cannot think it culpable--if while my
+LINE 175: understanding severely condemns his Vices, my Heart suggests some Pity
+LINE 176: for his Distresses.
+LINE 177: SIR PETER. Well well pity him as much as you please, but give your Heart
+LINE 178: and Hand to a worthier object.
+LINE 179: MARIA. Never to his Brother!
+LINE 180: SIR PETER. Go--perverse and obstinate! but take care, Madam--you have
+LINE 181: never yet known what the authority of a Guardian is--don't compel me to
+LINE 182: inform you of it.--
+LINE 183: MARIA. I can only say, you shall not have just Reason--'tis true, by
+LINE 184: my Father's will I am for a short period bound to regard you as his
+LINE 185: substitute, but I must cease to think you so when you would compel me to
+LINE 186: be miserable.
+LINE 187: [Exit.]
+LINE 188: SIR PETER. Was ever man so crossed as I am[?] everything conspiring to
+LINE 189: fret me! I had not been involved in matrimony a fortnight[,] before
+LINE 190: her Father--a hale and hearty man, died on purpose, I believe--for the
+LINE 191: Pleasure of plaguing me with the care of his Daughter . . . but here
+LINE 192: comes my Helpmate!--She appears in great good humour----how happy I
+LINE 193: should be if I could teaze her into loving me tho' but a little----
+LINE 194: Enter LADY TEAZLE
+LINE 195: LADY TEAZLE. Lud! Sir Peter I hope you haven't been quarrelling with
+LINE 196: Maria? It isn't using me well to be ill humour'd when I am not bye--!
+LINE 197: SIR PETER. Ah! Lady Teazle you might have the Power to make me good
+LINE 198: humour'd at all times--
+LINE 199: LADY TEAZLE. I am sure--I wish I had--for I want you to be in a charming
+LINE 200: sweet temper at this moment--do be good humour'd now--and let me have
+LINE 201: two hundred Pounds will you?
+LINE 202: SIR PETER. Two hundred Pounds! what an't I to be in a good humour
+LINE 203: without paying for it--but speak to me thus--and Efaith there's nothing
+LINE 204: I could refuse you. You shall have it--but seal me a bond for the
+LINE 205: repayment.
+LINE 206: LADY TEAZLE. O no--there--my Note of Hand will do as well--
+LINE 207: SIR PETER. And you shall no longer reproach me with not giving you an
+LINE 208: independent settlement--I shall shortly surprise you--and you'll not
+LINE 209: call me ungenerous--but shall we always live thus--hey?
+LINE 210: LADY TEAZLE. If you--please--I'm sure I don't care how soon we leave off
+LINE 211: quarrelling provided you'll own you were tired first--
+LINE 212: SIR PETER. Well--then let our future contest be who shall be most
+LINE 213: obliging.
+LINE 214: LADY TEAZLE. I assure you Sir Peter Good Nature becomes you--you look
+LINE 215: now as you did before we were married--when you used to walk with me
+LINE 216: under the Elms, and tell me stories of what a Gallant you were in your
+LINE 217: youth--and chuck me under the chin you would--and ask me if I thought I
+LINE 218: could love an old Fellow who would deny me nothing--didn't you?
+LINE 219: SIR PETER. Yes--yes--and you were as kind and attentive----
+LINE 220: LADY TEAZLE. Aye so I was--and would always take your Part, when my
+LINE 221: acquaintance used to abuse you and turn you into ridicule--
+LINE 222: SIR PETER. Indeed!
+LINE 223: LADY TEAZLE. Aye--and when my cousin Sophy has called you a stiff
+LINE 224: peevish old batchelor and laugh'd at me for thinking of marrying one who
+LINE 225: might be my Father--I have always defended you--and said I didn't think
+LINE 226: you so ugly by any means, and that you'd make a very good sort of a
+LINE 227: husband--
+LINE 228: SIR PETER. And you prophesied right--and we shall certainly now be the
+LINE 229: happiest couple----
+LINE 230: LADY TEAZLE. And never differ again.
+LINE 231: SIR PETER. No never--tho' at the same time indeed--my dear Lady
+LINE 232: Teazle--you must watch your Temper very narrowly--for in all our little
+LINE 233: Quarrels--my dear--if you recollect my Love you always began first--
+LINE 234: LADY TEAZLE. I beg your Pardon--my dear Sir Peter--indeed--you always
+LINE 235: gave the provocation.
+LINE 236: SIR PETER. Now--see, my Love take care--contradicting isn't the way to
+LINE 237: keep Friends.
+LINE 238: LADY TEAZLE. Then don't you begin it my Love!
+LINE 239: SIR PETER. There now--you are going on--you don't perceive[,] my Life,
+LINE 240: that you are just doing the very thing my Love which you know always
+LINE 241: makes me angry.
+LINE 242: LADY TEAZLE. Nay--you know if you will be angry without any reason--my
+LINE 243: Dear----
+LINE 244: SIR PETER. There now you want to quarrel again.
+LINE 245: LADY TEAZLE. No--I am sure I don't--but if you will be so peevish----
+LINE 246: SIR PETER. There--now who begins first?
+LINE 247: LADY TEAZLE. Why you to be sure--I said nothing[--]but there's no
+LINE 248: bearing your Temper.
+LINE 249: SIR PETER. No--no--my dear--the fault's in your own temper.
+LINE 250: LADY TEAZLE. Aye you are just what my Cousin Sophy said you would be--
+LINE 251: SIR PETER. Your Cousin Sophy--is a forward impertinent Gipsey--
+LINE 252: LADY TEAZLE. Go you great Bear--how dare you abuse my Relations--
+LINE 253: SIR PETER. Now may all the Plagues of marriage be doubled on me, if ever
+LINE 254: I try to be Friends with you any more----
+LINE 255: LADY TEAZLE. So much the Better.
+LINE 256: SIR PETER. No--no Madam 'tis evident you never cared a pin for me--I was
+LINE 257: a madman to marry you--
+LINE 258: LADY TEAZLE. And I am sure I was a Fooll to marry you--an old dangling
+LINE 259: Batchelor, who was single of [at] fifty--only because He never could
+LINE 260: meet with any one who would have him.
+LINE 261: SIR PETER. Aye--aye--Madam--but you were pleased enough to listen to
+LINE 262: me--you never had such an offer before--
+LINE 263: LADY TEAZLE. No--didn't I refuse Sir Jeremy Terrier--who everybody
+LINE 264: said would have been a better Match--for his estate is just as good as
+LINE 265: yours--and he has broke his Neck since we have been married!
+LINE 266: SIR PETER. I have done with you Madam! You are an
+LINE 267: unfeeling--ungrateful--but there's an end of everything--I believe you
+LINE 268: capable of anything that's bad--Yes, Madam--I now believe the Reports
+LINE 269: relative to you and Charles--Madam--yes--Madam--you and Charles are--not
+LINE 270: without grounds----
+LINE 271: LADY TEAZLE. Take--care Sir Peter--you had better not insinuate any such
+LINE 272: thing! I'll not be suspected without cause I promise you----
+LINE 273: SIR PETER. Very--well--Madam--very well! a separate maintenance--as soon
+LINE 274: as you Please. Yes Madam or a Divorce--I'll make an example of myself
+LINE 275: for the Benefit of all old Batchelors--Let us separate, Madam.
+LINE 276: LADY TEAZLE. Agreed--agreed--and now--my dear Sir Peter we are of a
+LINE 277: mind again, we may be the happiest couple--and never differ again, you
+LINE 278: know--ha! ha!--Well you are going to be in a Passion I see--and I shall
+LINE 279: only interrupt you--so, bye! bye! hey--young Jockey try'd and countered.
+LINE 280: [Exit.]
+LINE 281: SIR PETER. Plagues and tortures! She pretends to keep her temper, can't
+LINE 282: I make her angry neither! O! I am the miserable fellow! But I'll not
+LINE 283: bear her presuming to keep her Temper--No she may break my Heart--but
+LINE 284: she shan't keep her Temper.
+LINE 285: [Exit.]
+LINE 286: SCENE II.--At CHARLES's House
+LINE 287: Enter TRIP, MOSES, and SIR OLIVER
+LINE 288: TRIP. Here Master Moses--if you'll stay a moment--I'll try whether
+LINE 289: Mr.----what's the Gentleman's Name?
+LINE 290: SIR OLIVER. Mr.----Moses--what IS my name----
+LINE 291: MOSES. Mr. Premium----
+LINE 292: TRIP. Premium--very well.
+LINE 293: [Exit TRIP--taking snuff.]
+LINE 294: SIR OLIVER. To judge by the Servants--one wouldn't believe the master
+LINE 295: was ruin'd--but what--sure this was my Brother's House----
+LINE 296: MOSES. Yes Sir Mr. Charles bought it of Mr. Joseph with the Furniture,
+LINE 297: Pictures, &c.--just as the old Gentleman left it--Sir Peter thought it a
+LINE 298: great piece of extravagance in him.
+LINE 299: SIR OLIVER. In my mind the other's economy in selling it to him was more
+LINE 300: reprehensible by half.----
+LINE 301: Enter TRIP
+LINE 302: TRIP. My Master[,] Gentlemen[,] says you must wait, he has company, and
+LINE 303: can't speak with you yet.
+LINE 304: SIR OLIVER. If he knew who it was wanted to see him, perhaps he wouldn't
+LINE 305: have sent such a Message.
+LINE 306: TRIP. Yes--yes--Sir--He knows you are here--I didn't forget little
+LINE 307: Premium--no--no----
+LINE 308: SIR OLIVER. Very well--and pray Sir what may be your Name?
+LINE 309: TRIP. Trip Sir--my Name is Trip, at your Service.
+LINE 310: SIR OLIVER. Well then Mr. Trip--I presume your master is seldom without
+LINE 311: company----
+LINE 312: TRIP. Very seldom Sir--the world says ill-natured things of him but 'tis
+LINE 313: all malice--no man was ever better beloved--Sir he seldom sits down to
+LINE 314: dinner without a dozen particular Friends----
+LINE 315: SIR OLIVER. He's very happy indeed--you have a pleasant sort of Place
+LINE 316: here I guess?
+LINE 317: TRIP. Why yes--here are three or four of us pass our time agreeably
+LINE 318: enough--but then our wages are sometimes a little in arrear--and not
+LINE 319: very great either--but fifty Pounds a year and find our own Bags and
+LINE 320: Bouquets----
+LINE 321: SIR OLIVER. Bags and Bouquets!--Halters and Bastinadoes! [Aside.]
+LINE 322: TRIP. But a propos Moses--have you been able to get me that little Bill
+LINE 323: discounted?
+LINE 324: SIR OLIVER. Wants to raise money too!--mercy on me! has his distresses,
+LINE 325: I warrant[,] like a Lord--and affects Creditors and Duns! [Aside.]
+LINE 326: MOSES. 'Twas not be done, indeed----
+LINE 327: TRIP. Good lack--you surprise me--My Friend Brush has indorsed it and
+LINE 328: I thought when he put his name at the Back of a Bill 'twas as good as
+LINE 329: cash.
+LINE 330: MOSES. No 'twouldn't do.
+LINE 331: TRIP. A small sum--but twenty Pound--harkee, Moses do you think you
+LINE 332: could get it me by way of annuity?
+LINE 333: SIR OLIVER. An annuity! ha! ha! a Footman raise money by annuity--Well
+LINE 334: done Luxury egad! [Aside.]
+LINE 335: MOSES. Who would you get to join with you?
+LINE 336: TRIP. You know my Lord Applice--you have seen him however----
+LINE 337: MOSES. Yes----
+LINE 338: TRIP. You must have observed what an appearance he makes--nobody dresses
+LINE 339: better, nobody throws off faster--very well this Gentleman will stand my
+LINE 340: security.
+LINE 341: MOSES. Well--but you must insure your Place.
+LINE 342: TRIP. O with all my Heart--I'll insure my Place, and my Life too, if you
+LINE 343: please.
+LINE 344: SIR OLIVER. It's more than I would your neck----
+LINE 345: MOSES. But is there nothing you could deposit?
+LINE 346: TRIP. Why nothing capital of my master's wardrobe has drop'd lately--but
+LINE 347: I could give you a mortgage on some of his winter Cloaths with equity
+LINE 348: of redemption before November or--you shall have the reversion--of the
+LINE 349: French velvet, or a post obit on the Blue and Silver--these I
+LINE 350: should think Moses--with a few Pair of Point Ruffles as a collateral
+LINE 351: security--hey, my little Fellow?
+LINE 352: MOSES. Well well--we'll talk presently--we detain the Gentlemen----
+LINE 353: SIR OLIVER. O pray don't let me interrupt Mr. Trip's Negotiation.
+LINE 354: TRIP. Harkee--I heard the Bell--I believe, Gentlemen I can now introduce
+LINE 355: you--don't forget the annuity little Moses.
+LINE 356: SIR OLIVER. If the man be a shadow of his Master this is the Temple of
+LINE 357: Dissipation indeed!
+LINE 358: [Exeunt.]
+LINE 359: SCENE III.--CHARLES, CARELESS, etc., etc.
+LINE 360: At Table with Wine
+LINE 361: CHARLES. 'Fore Heaven, 'tis true!--there is the great Degeneracy of the
+LINE 362: age--many of our acquaintance have Taste--Spirit, and Politeness--but
+LINE 363: plague on't they won't drink----
+LINE 364: CARELESS. It is so indeed--Charles--they give into all the substantial
+LINE 365: Luxuries of the Table--and abstain from nothing but wine and wit--Oh,
+LINE 366: certainly society suffers by it intolerably--for now instead of the
+LINE 367: social spirit of Raillery that used to mantle over a glass of bright
+LINE 368: Burgundy their conversation is become just like the Spa water they
+LINE 369: drink which has all the Pertness and flatulence of champaine without its
+LINE 370: spirit or Flavour.
+LINE 371: FIRST GENTLEMAN. But what are they to do who love Play better than
+LINE 372: wine----
+LINE 373: CARELESS. True--there's Harry diets himself--for gaming and is now under
+LINE 374: a hazard Regimen.
+LINE 375: CHARLES. Then He'll have the worst of it--what you wouldn't train a
+LINE 376: horse for the course by keeping him from corn--For my Part egad I am
+LINE 377: never so successful as when I'm a little--merry--let me throw on a
+LINE 378: Bottle of Champaine and I never lose--at least I never feel my losses
+LINE 379: which is exactly the same thing.
+LINE 380: SECOND GENTLEMAN. Aye that may be--but it is as impossible to follow
+LINE 381: wine and play as to unite Love and Politics.
+LINE 382: CHARLES. Pshaw--you may do both--Caesar made Love and Laws in a
+LINE 383: Breath--and was liked by the Senate as well as the Ladies--but no man
+LINE 384: can pretend to be a Believer in Love, who is an abjurer of wine--'tis
+LINE 385: the Test by which a Lover knows his own Heart--fill a dozen Bumpers to a
+LINE 386: dozen Beauties, and she that floats atop is the maid that has bewitched
+LINE 387: you.
+LINE 388: CARELESS. Now then Charles--be honest and give us yours----
+LINE 389: CHARLES. Why I have withheld her only in compassion to you--if I toast
+LINE 390: her you should give a round of her Peers, which is impossible! on earth!
+LINE 391: CARELESS. O, then we'll find some canonized Vestals or heathen Goddesses
+LINE 392: that will do I warrant----
+LINE 393: CHARLES. Here then--Bumpers--you Rogues--Bumpers! Maria--Maria----
+LINE 394: FIRST GENTLEMAN. Maria who?
+LINE 395: CHARLES. Oh, damn the Surname 'tis too formal to be register'd in
+LINE 396: Love's calendar--but now Careless beware--beware--we must have Beauty's
+LINE 397: superlative.
+LINE 398: FIRST GENTLEMAN. Nay Never study[,] Careless--we'll stand to the
+LINE 399: Toast--tho' your mistress should want an eye--and you know you have a
+LINE 400: song will excuse you----
+LINE 401: CARELESS. Egad so I have--and I'll give him the song instead of the
+LINE 402: Lady.----
+LINE 403: SONG.--AND CHORUS--<4>
+LINE 404: Here's to the maiden of bashful fifteen;
+LINE 405: Here's to the widow of fifty;
+LINE 406: Here's to the flaunting extravagant quean,
+LINE 407: And here's to the housewife that's thrifty.
+LINE 408: Chorus. Let the toast pass,--
+LINE 409: Drink to the lass,
+LINE 410: I'll warrant she'll prove an excuse for a glass.
+LINE 411: Here's to the charmer whose dimples we prize;
+LINE 412: Now to the maid who has none, sir;
+LINE 413: Here's to the girl with a pair of blue eyes,
+LINE 414: And here's to the nymph with but one, sir.
+LINE 415: Chorus. Let the toast pass, &c.
+LINE 416: Here's to the maid with a bosom of snow:
+LINE 417: Now to her that's as brown as a berry:
+LINE 418: Here's to the wife with a face full of woe,
+LINE 419: And now to the damsel that's merry.
+LINE 420: Chorus. Let the toast pass, &c.
+LINE 421: For let 'em be clumsy, or let 'em be slim,
+LINE 422: Young or ancient, I care not a feather;
+LINE 423: So fill a pint bumper quite up to the brim,
+LINE 424: So fill up your glasses, nay, fill to the brim,
+LINE 425: And let us e'en toast them together.
+LINE 426: Chorus. Let the toast pass, &c.
+LINE 427: [Enter TRIP whispers CHARLES]
+LINE 428: SECOND GENTLEMAN. Bravo Careless--Ther's Toast and Sentiment too.
+LINE 429: FIRST GENTLEMAN. E' faith there's infinite charity in that song.----
+LINE 430: CHARLES. Gentlemen, you must excuse me a little.--Careless, take the
+LINE 431: Chair, will you?
+LINE 432: CARELESS. Nay prithee, Charles--what now--this is one of your Peerless
+LINE 433: Beauties I suppose--has dropped in by chance?
+LINE 434: CHARLES. No--Faith--to tell you the Truth 'tis a Jew and a Broker who
+LINE 435: are come by appointment.
+LINE 436: CARELESS. O dam it let's have the Jew in.
+LINE 437: FIRST GENTLEMAN. Aye and the Broker too by all means----
+LINE 438: SECOND GENTLEMAN. Yes yes the Jew and the Broker.
+LINE 439: CHARLES. Egad with all my Heart--Trip--bid the Gentlemen walk in--tho'
+LINE 440: there's one of them a Stranger I can tell you----
+LINE 441: TRIP. What Sir--would you chuse Mr. Premium to come up with----
+LINE 442: FIRST GENTLEMAN. Yes--yes Mr. Premium certainly.
+LINE 443: CARELESS. To be sure--Mr. Premium--by all means Charles, let us give
+LINE 444: them some generous Burgundy, and perhaps they'll grow conscientious----
+LINE 445: CHARLES. O, Hang 'em--no--wine does but draw forth a man's natural
+LINE 446: qualities; and to make them drink would only be to whet their Knavery.
+LINE 447: Enter TRIP, SIR OLIVER, and MOSES
+LINE 448: CHARLES. So--honest Moses--walk in--walk in pray Mr. Premium--that's the
+LINE 449: Gentleman's name isn't it Moses.
+LINE 450: MOSES. Yes Sir.
+LINE 451: CHARLES. Set chairs--Trim.--Sit down, Mr Premium.--Glasses Trim.--sit
+LINE 452: down Moses.--Come, Mr. Premium I'll give you a sentiment--Here's Success
+LINE 453: to Usury--Moses fill the Gentleman a bumper.
+LINE 454: MOSES. Success to Usury!
+LINE 455: CARELESS. Right Moses--Usury is Prudence and industry and deserves to
+LINE 456: succeed----
+LINE 457: SIR OLIVER. Then Here is--all the success it deserves! [Drinks.]
+LINE 458: CHARLES. Mr. Premium you and I are but strangers yet--but I hope we
+LINE 459: shall be better acquainted by and bye----
+LINE 460: SIR OLIVER. Yes Sir hope we shall--more intimately perhaps than you'll
+LINE 461: wish. [Aside.<5>]
+LINE 462: CARELESS. No, no, that won't do! Mr. Premium, you have demurred at the
+LINE 463: toast, and must drink it in a pint bumper.
+LINE 464: FIRST GENTLEMAN. A pint bumper, at least.
+LINE 465: MOSES. Oh, pray, sir, consider--Mr. Premium's a gentleman.
+LINE 466: CARELESS. And therefore loves good wine.
+LINE 467: SECOND GENTLEMAN. Give Moses a quart glass--this is mutiny, and a high
+LINE 468: contempt for the chair.
+LINE 469: CARELESS. Here, now for't! I'll see justice done, to the last drop of my
+LINE 470: bottle.
+LINE 471: SIR OLIVER. Nay, pray, gentlemen--I did not expect this usage.
+LINE 472: CHARLES. No, hang it, you shan't; Mr. Premium's a stranger.
+LINE 473: SIR OLIVER. Odd! I wish I was well out of their company. [Aside.]
+LINE 474: CARELESS. Plague on 'em then! if they won't drink, we'll not sit down
+LINE 475: with them. Come, Harry, the dice are in the next room.--Charles, you'll
+LINE 476: join us when you have finished your business with the gentlemen?
+LINE 477: CHARLES. I will! I will!--
+LINE 478: [Exeunt SIR HARRY BUMPER and GENTLEMEN; CARELESS following.]
+LINE 479: Careless.
+LINE 480: CARELESS. [Returning.] Well!
+LINE 481: CHARLES. Perhaps I may want you.
+LINE 482: CARELESS. Oh, you know I am always ready: word, note, or bond, 'tis all
+LINE 483: the same to me.
+LINE 484: [Exit.]
+LINE 485: MOSES. Sir, this is Mr. Premium, a gentleman of the strictest honour
+LINE 486: and secrecy; and always performs what he undertakes. Mr. Premium, this
+LINE 487: is----
+LINE 488: CHARLES. Psha! have done. Sir, my friend Moses is a very honest fellow,
+LINE 489: but a little slow at expression: he'll be an hour giving us our titles.
+LINE 490: Mr. Premium, the plain state of the matter is this: I am an extravagant
+LINE 491: young fellow who wants to borrow money; you I take to be a prudent old
+LINE 492: fellow, who have got money to lend. I am blockhead enough to give fifty
+LINE 493: per cent. sooner than not have it! and you, I presume, are rogue enough
+LINE 494: to take a hundred if you can get it. Now, sir, you see we are acquainted
+LINE 495: at once, and may proceed to business without further ceremony.
+LINE 496: SIR OLIVER. Exceeding frank, upon my word. I see, sir, you are not a man
+LINE 497: of many compliments.
+LINE 498: CHARLES. Oh, no, sir! plain dealing in business I always think best.
+LINE 499: SIR OLIVER. Sir, I like you the better for it. However, You are mistaken
+LINE 500: in one thing; I have no money to lend, but I believe I could procure
+LINE 501: some of a friend; but then he's an unconscionable dog. Isn't he, Moses?
+LINE 502: And must sell stock to accommodate you. Mustn't he, Moses!
+LINE 503: MOSES. Yes, indeed! You know I always speak the truth, and scorn to tell
+LINE 504: a lie!
+LINE 505: CHARLES. Right. People that speak truth generally do. But these are
+LINE 506: trifles, Mr. Premium. What! I know money isn't to be bought without
+LINE 507: paying for't!
+LINE 508: SIR OLIVER. Well, but what security could you give? You have no land, I
+LINE 509: suppose?
+LINE 510: CHARLES. Not a mole-hill, nor a twig, but what's in the bough pots out
+LINE 511: of the window!
+LINE 512: SIR OLIVER. Nor any stock, I presume?
+LINE 513: CHARLES. Nothing but live stock--and that's only a few pointers and
+LINE 514: ponies. But pray, Mr. Premium, are you acquainted at all with any of my
+LINE 515: connections?
+LINE 516: SIR OLIVER. Why, to say the truth, I am.
+LINE 517: CHARLES. Then you must know that I have a devilish rich uncle in
+LINE 518: the East Indies, Sir Oliver Surface, from whom I have the greatest
+LINE 519: expectations?
+LINE 520: SIR OLIVER. That you have a wealthy uncle, I have heard; but how your
+LINE 521: expectations will turn out is more, I believe, than you can tell.
+LINE 522: CHARLES. Oh, no!--there can be no doubt. They tell me I'm a prodigious
+LINE 523: favourite, and that he talks of leaving me everything.
+LINE 524: SIR OLIVER. Indeed! this is the first I've heard of it.
+LINE 525: CHARLES. Yes, yes, 'tis just so. Moses knows 'tis true; don't you,
+LINE 526: Moses?
+LINE 527: MOSES. Oh, yes! I'll swear to't.
+LINE 528: SIR OLIVER. Egad, they'll persuade me presently I'm at Bengal. [Aside.]
+LINE 529: CHARLES. Now I propose, Mr. Premium, if it's agreeable to you, a
+LINE 530: post-obit on Sir Oliver's life: though at the same time the old fellow
+LINE 531: has been so liberal to me, that I give you my word, I should be very
+LINE 532: sorry to hear that anything had happened to him.
+LINE 533: SIR OLIVER. Not more than I should, I assure you. But the bond you
+LINE 534: mention happens to be just the worst security you could offer me--for I
+LINE 535: might live to a hundred and never see the principal.
+LINE 536: CHARLES. Oh, yes, you would! the moment Sir Oliver dies, you know, you
+LINE 537: would come on me for the money.
+LINE 538: SIR OLIVER. Then I believe I should be the most unwelcome dun you ever
+LINE 539: had in your life.
+LINE 540: CHARLES. What! I suppose you're afraid that Sir Oliver is too good a
+LINE 541: life?
+LINE 542: SIR OLIVER. No, indeed I am not; though I have heard he is as hale and
+LINE 543: healthy as any man of his years in Christendom.
+LINE 544: CHARLES. There again, now, you are misinformed. No, no, the climate has
+LINE 545: hurt him considerably, poor uncle Oliver. Yes, yes, he breaks apace, I'm
+LINE 546: told--and is so much altered lately that his nearest relations would not
+LINE 547: know him.
+LINE 548: SIR OLIVER. No! Ha! ha! ha! so much altered lately that his nearest
+LINE 549: relations would not know him! Ha! ha! ha! egad--ha! ha! ha!
+LINE 550: CHARLES. Ha! ha!--you're glad to hear that, little Premium?
+LINE 551: SIR OLIVER. No, no, I'm not.
+LINE 552: CHARLES. Yes, yes, you are--ha! ha! ha!--you know that mends your
+LINE 553: chance.
+LINE 554: SIR OLIVER. But I'm told Sir Oliver is coming over; nay, some say he is
+LINE 555: actually arrived.
+LINE 556: CHARLES. Psha! sure I must know better than you whether he's come or
+LINE 557: not. No, no, rely on't he's at this moment at Calcutta. Isn't he, Moses?
+LINE 558: MOSES. Oh, yes, certainly.
+LINE 559: SIR OLIVER. Very true, as you say, you must know better than I, though I
+LINE 560: have it from pretty good authority. Haven't I, Moses?
+LINE 561: MOSES. Yes, most undoubted!
+LINE 562: SIR OLIVER. But, Sir, as I understand you want a few hundreds
+LINE 563: immediately, is there nothing you could dispose of?
+LINE 564: CHARLES. How do you mean?
+LINE 565: SIR OLIVER. For instance, now, I have heard that your father left behind
+LINE 566: him a great quantity of massy old plate.
+LINE 567: CHARLES. O Lud! that's gone long ago. Moses can tell you how better than
+LINE 568: I can.
+LINE 569: SIR OLIVER. [Aside.] Good lack! all the family race-cups and
+LINE 570: corporation-bowls!--[Aloud.] Then it was also supposed that his library
+LINE 571: was one of the most valuable and compact.
+LINE 572: CHARLES. Yes, yes, so it was--vastly too much so for a private
+LINE 573: gentleman. For my part, I was always of a communicative disposition, so
+LINE 574: I thought it a shame to keep so much knowledge to myself.
+LINE 575: SIR OLIVER. [Aside.] Mercy upon me! learning that had run in the family
+LINE 576: like an heir-loom!--[Aloud.] Pray, what has become of the books?
+LINE 577: CHARLES. You must inquire of the auctioneer, Master Premium, for I don't
+LINE 578: believe even Moses can direct you.
+LINE 579: MOSES. I know nothing of books.
+LINE 580: SIR OLIVER. So, so, nothing of the family property left, I suppose?
+LINE 581: CHARLES. Not much, indeed; unless you have a mind to the family
+LINE 582: pictures. I have got a room full of ancestors above: and if you have a
+LINE 583: taste for old paintings, egad, you shall have 'em a bargain!
+LINE 584: SIR OLIVER. Hey! what the devil! sure, you wouldn't sell your
+LINE 585: forefathers, would you?
+LINE 586: CHARLES. Every man of them, to the best bidder.
+LINE 587: SIR OLIVER. What! your great-uncles and aunts?
+LINE 588: CHARLES. Ay, and my great-grandfathers and grandmothers too.
+LINE 589: SIR OLIVER. [Aside.] Now I give him up!--[Aloud.] What the plague,
+LINE 590: have you no bowels for your own kindred? Odd's life! do you take me for
+LINE 591: Shylock in the play, that you would raise money of me on your own flesh
+LINE 592: and blood?
+LINE 593: CHARLES. Nay, my little broker, don't be angry: what need you care, if
+LINE 594: you have your money's worth?
+LINE 595: SIR OLIVER. Well, I'll be the purchaser: I think I can dispose of the
+LINE 596: family canvas.--[Aside.] Oh, I'll never forgive him this! never!
+LINE 597: Re-enter CARELESS
+LINE 598: CARELESS. Come, Charles, what keeps you?
+LINE 599: CHARLES. I can't come yet. I'faith, we are going to have a sale above
+LINE 600: stairs; here's little Premium will buy all my ancestors!
+LINE 601: CARELESS. Oh, burn your ancestors!
+LINE 602: CHARLES. No, he may do that afterwards, if he pleases. Stay, Careless,
+LINE 603: we want you: egad, you shall be auctioneer--so come along with us.
+LINE 604: CARELESS. Oh, have with you, if that's the case. I can handle a hammer
+LINE 605: as well as a dice box! Going! going!
+LINE 606: SIR OLIVER. Oh, the profligates! [Aside.]
+LINE 607: CHARLES. Come, Moses, you shall be appraiser, if we want one. Gad's
+LINE 608: life, little Premium, you don't seem to like the business?
+LINE 609: SIR OLIVER. Oh, yes, I do, vastly! Ha! ha! ha! yes, yes, I think it a
+LINE 610: rare joke to sell one's family by auction--ha! ha!--[Aside.] Oh, the
+LINE 611: prodigal!
+LINE 612: CHARLES. To be sure! when a man wants money, where the plague should he
+LINE 613: get assistance, if he can't make free with his own relations?
+LINE 614: [Exeunt.]
+LINE 615: SIR OLIVER. I'll never forgive him; never! never!
+LINE 616: END OF THE THIRD ACT

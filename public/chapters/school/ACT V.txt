@@ -1,0 +1,722 @@
+LINE 1: SCENE I.--The Library
+LINE 2: Enter SURFACE and SERVANT
+LINE 3: SURFACE. Mr. Stanley! and why should you think I would see him?--you
+LINE 4: must know he came to ask something!
+LINE 5: SERVANT. Sir--I shouldn't have let him in but that Mr. Rowley came to
+LINE 6: the Door with him.
+LINE 7: SURFACE. Pshaw!--Blockhead to suppose that I should now be in a Temper
+LINE 8: to receive visits from poor Relations!--well why don't you show the
+LINE 9: Fellow up?
+LINE 10: SERVANT. I will--Sir--Why, Sir--it was not my Fault that Sir Peter
+LINE 11: discover'd my Lady----
+LINE 12: SURFACE. Go, fool!--
+LINE 13: [Exit SERVANT.]
+LINE 14: Sure Fortune never play'd a man of my policy such a Trick before--my
+LINE 15: character with Sir Peter!--my Hopes with Maria!--destroy'd in a
+LINE 16: moment!--I'm in a rare Humour to listen to other People's Distresses!--I
+LINE 17: shan't be able to bestow even a benevolent sentiment on Stanley--So!
+LINE 18: here--He comes and Rowley with him--I MUST try to recover myself, and
+LINE 19: put a little Charity into my Face however.----
+LINE 20: [Exit.]
+LINE 21: Enter SIR OLIVER and ROWLEY
+LINE 22: SIR OLIVER. What! does He avoid us? that was He--was it not?
+LINE 23: ROWLEY. It was Sir--but I doubt you are come a little too abruptly--his
+LINE 24: Nerves are so weak that the sight of a poor Relation may be too much for
+LINE 25: him--I should have gone first to break you to him.
+LINE 26: SIR OLIVER. A Plague of his Nerves--yet this is He whom Sir Peter
+LINE 27: extolls as a Man of the most Benevolent way of thinking!--
+LINE 28: ROWLEY. As to his way of thinking--I can't pretend to decide[,] for, to
+LINE 29: do him justice He appears to have as much speculative Benevolence as any
+LINE 30: private Gentleman in the Kingdom--though he is seldom so sensual as to
+LINE 31: indulge himself in the exercise of it----
+LINE 32: SIR OLIVER. Yet [he] has a string of charitable Sentiments I suppose at
+LINE 33: his Fingers' ends!--
+LINE 34: ROWLEY. Or, rather at his Tongue's end Sir Oliver; for I believe there
+LINE 35: is no sentiment he has more faith in than that 'Charity begins at Home.'
+LINE 36: SIR OLIVER. And his I presume is of that domestic sort which never stirs
+LINE 37: abroad at all.
+LINE 38: ROWLEY. I doubt you'll find it so--but He's coming--I mustn't seem to
+LINE 39: interrupt you--and you know immediately--as you leave him--I come in to
+LINE 40: announce--your arrival in your real Character.
+LINE 41: SIR OLIVER. True--and afterwards you'll meet me at Sir Peter's----
+LINE 42: ROWLEY. Without losing a moment.
+LINE 43: [Exit.]
+LINE 44: SIR OLIVER. So--I see he has premeditated a Denial by the Complaisance
+LINE 45: of his Features.
+LINE 46: Enter SURFACE
+LINE 47: SURFACE. Sir--I beg you ten thousand Pardons for keeping--you a moment
+LINE 48: waiting--Mr. Stanley--I presume----
+LINE 49: SIR OLIVER. At your Service.
+LINE 50: SURFACE. Sir--I beg you will do me the honour to sit down--I entreat you
+LINE 51: Sir.
+LINE 52: SIR OLIVER. Dear Sir there's no occasion--too civil by half!
+LINE 53: SURFACE. I have not the Pleasure of knowing you, Mr. Stanley--but I am
+LINE 54: extremely happy to see you look so well--you were nearly related to my
+LINE 55: mother--I think Mr. Stanley----
+LINE 56: SIR OLIVER. I was Sir--so nearly that my present Poverty I fear may do
+LINE 57: discredit to her Wealthy Children--else I should not have presumed to
+LINE 58: trouble you.--
+LINE 59: SURFACE. Dear Sir--there needs no apology--He that is in Distress tho' a
+LINE 60: stranger has a right to claim kindred with the wealthy--I am sure I wish
+LINE 61: I was of that class, and had it in my power to offer you even a small
+LINE 62: relief.
+LINE 63: SIR OLIVER. If your Unkle, Sir Oliver were here--I should have a
+LINE 64: Friend----
+LINE 65: SURFACE. I wish He was Sir, with all my Heart--you should not want an
+LINE 66: advocate with him--believe me Sir.
+LINE 67: SIR OLIVER. I should not need one--my Distresses would recommend
+LINE 68: me.--but I imagined--his Bounty had enabled you to become the agent of
+LINE 69: his Charity.
+LINE 70: SURFACE. My dear Sir--you are strangely misinformed--Sir Oliver is a
+LINE 71: worthy Man, a worthy man--a very worthy sort of Man--but avarice
+LINE 72: Mr. Stanley is the vice of age--I will tell you my good Sir in
+LINE 73: confidence:--what he has done for me has been a mere--nothing[;] tho'
+LINE 74: People I know have thought otherwise and for my Part I never chose to
+LINE 75: contradict the Report.
+LINE 76: SIR OLIVER. What!--has he never
+LINE 77: transmitted--you--Bullion--Rupees--Pagodas!
+LINE 78: SURFACE. O Dear Sir--Nothing of the kind--no--no--a few Presents now and
+LINE 79: then--china, shawls, congo Tea, Avadavats--and indian Crackers--little
+LINE 80: more, believe me.
+LINE 81: SIR OLIVER. Here's Gratitude for twelve thousand pounds!--Avadavats and
+LINE 82: indian Crackers.
+LINE 83: SURFACE. Then my dear--Sir--you have heard, I doubt not, of the
+LINE 84: extravagance of my Brother--Sir--there are very few would credit what I
+LINE 85: have done for that unfortunate young man.
+LINE 86: SIR OLIVER. Not I for one!
+LINE 87: SURFACE. The sums I have lent him! indeed--I have been exceedingly to
+LINE 88: blame--it was an amiable weakness! however I don't pretend to defend
+LINE 89: it--and now I feel it doubly culpable--since it has deprived me of the
+LINE 90: power of serving YOU Mr. Stanley as my Heart directs----
+LINE 91: SIR OLIVER. Dissembler! Then Sir--you cannot assist me?
+LINE 92: SURFACE. At Present it grieves me to say I cannot--but whenever I have
+LINE 93: the ability, you may depend upon hearing from me.
+LINE 94: SIR OLIVER. I am extremely sorry----
+LINE 95: SURFACE. Not more than I am believe me--to pity without the Power to
+LINE 96: relieve is still more painful than to ask and be denied----
+LINE 97: SIR OLIVER. Kind Sir--your most obedient humble servant.
+LINE 98: SURFACE. You leave me deeply affected Mr. Stanley--William--be ready to
+LINE 99: open the door----
+LINE 100: SIR OLIVER. O, Dear Sir, no ceremony----
+LINE 101: SURFACE. Your very obedient----
+LINE 102: SIR OLIVER. Your most obsequious----
+LINE 103: SURFACE. You may depend on hearing from me whenever I can be of
+LINE 104: service----
+LINE 105: SIR OLIVER. Sweet Sir--you are too good----
+LINE 106: SURFACE. In the mean time I wish you Health and Spirits----
+LINE 107: SIR OLIVER. Your ever grateful and perpetual humble Servant----
+LINE 108: SURFACE. Sir--yours as sincerely----
+LINE 109: SIR OLIVER. Charles!--you are my Heir.
+LINE 110: [Exit.]
+LINE 111: SURFACE, solus Soh!--This is one bad effect of a good Character--it
+LINE 112: invites applications from the unfortunate and there needs no small
+LINE 113: degree of address to gain the reputation of Benevolence without
+LINE 114: incurring the expence.--The silver ore of pure Charity is an expensive
+LINE 115: article in the catalogue of a man's good Qualities--whereas the
+LINE 116: sentimental French Plate I use instead of it makes just as good a
+LINE 117: shew--and pays no tax.
+LINE 118: Enter ROWLEY
+LINE 119: ROWLEY. Mr. Surface--your Servant: I was apprehensive of interrupting
+LINE 120: you, tho' my Business demands immediate attention--as this Note will
+LINE 121: inform you----
+LINE 122: SURFACE. Always Happy to see Mr. Rowley--how--Oliver--Surface!--My Unkle
+LINE 123: arrived!
+LINE 124: ROWLEY. He is indeed--we have just parted--quite well--after a speedy
+LINE 125: voyage--and impatient to embrace his worthy Nephew.
+LINE 126: SURFACE. I am astonished!--William[!] stop Mr. Stanley, if He's not
+LINE 127: gone----
+LINE 128: ROWLEY. O--He's out of reach--I believe.
+LINE 129: SURFACE. Why didn't you let me know this when you came in together.--
+LINE 130: ROWLEY. I thought you had particular--Business--but must be gone to
+LINE 131: inform your Brother, and appoint him here to meet his Uncle. He will be
+LINE 132: with you in a quarter of an hour----
+LINE 133: SURFACE. So he says. Well--I am strangely overjoy'd at his coming--never
+LINE 134: to be sure was anything so damn'd unlucky!
+LINE 135: ROWLEY. You will be delighted to see how well He looks.
+LINE 136: SURFACE. O--I'm rejoiced to hear it--just at this time----
+LINE 137: ROWLEY. I'll tell him how impatiently you expect him----
+LINE 138: SURFACE. Do--do--pray--give my best duty and affection--indeed, I cannot
+LINE 139: express the sensations I feel at the thought of seeing him!--certainly
+LINE 140: his coming just at this Time is the cruellest piece of ill Fortune----
+LINE 141: [Exeunt.]
+LINE 142: SCENE II.--At SIR PETER'S House
+LINE 143: Enter MRS. CANDOUR and SERVANT
+LINE 144: SERVANT. Indeed Ma'am, my Lady will see nobody at Present.
+LINE 145: MRS. CANDOUR. Did you tell her it was her Friend Mrs. Candour----
+LINE 146: SERVANT. Yes Ma'am but she begs you will excuse her----
+LINE 147: MRS. CANDOUR. Do go again--I shall be glad to see her if it be only for
+LINE 148: a moment--for I am sure she must be in great Distress
+LINE 149: [exit MAID]
+LINE 150: --Dear Heart--how provoking!--I'm not mistress of half the
+LINE 151: circumstances!--We shall have the whole affair in the newspapers with
+LINE 152: the Names of the Parties at length before I have dropt the story at a
+LINE 153: dozen houses.
+LINE 154: Enter SIR BENJAMIN
+LINE 155: Sir Benjamin you have heard, I suppose----
+LINE 156: SIR BENJAMIN. Of Lady Teazle and Mr. Surface----
+LINE 157: MRS. CANDOUR. And Sir Peter's Discovery----
+LINE 158: SIR BENJAMIN. O the strangest Piece of Business to be sure----
+LINE 159: MRS. CANDOUR. Well I never was so surprised in my life!--I am so sorry
+LINE 160: for all Parties--indeed,
+LINE 161: SIR BENJAMIN. Now I don't Pity Sir Peter at all--he was so
+LINE 162: extravagant--partial to Mr. Surface----
+LINE 163: MRS. CANDOUR. Mr. Surface!--why 'twas with Charles Lady Teazle was
+LINE 164: detected.
+LINE 165: SIR BENJAMIN. No such thing Mr. Surface is the gallant.
+LINE 166: MRS. CANDOUR. No--no--Charles is the man--'twas Mr. Surface brought Sir
+LINE 167: Peter on purpose to discover them----
+LINE 168: SIR BENJAMIN. I tell you I have it from one----
+LINE 169: MRS. CANDOUR. And I have it from one----
+LINE 170: SIR BENJAMIN. Who had it from one who had it----
+LINE 171: MRS. CANDOUR. From one immediately--but here comes Lady
+LINE 172: Sneerwell--perhaps she knows the whole affair.
+LINE 173: Enter LADY SNEERWELL
+LINE 174: LADY SNEERWELL. So--my dear Mrs. Candour Here's a sad affair of our
+LINE 175: Friend Teazle----
+LINE 176: MRS. CANDOUR. Aye my dear Friend, who could have thought it.
+LINE 177: LADY SNEERWELL. Well there is no trusting to appearances[;] tho'--indeed
+LINE 178: she was always too lively for me.
+LINE 179: MRS. CANDOUR. To be sure, her manners were a little too--free--but she
+LINE 180: was very young----
+LINE 181: LADY SNEERWELL. And had indeed some good Qualities.
+LINE 182: MRS. CANDOUR. So she had indeed--but have you heard the Particulars?
+LINE 183: LADY SNEERWELL. No--but everybody says that Mr. Surface----
+LINE 184: SIR BENJAMIN. Aye there I told you--Mr. Surface was the Man.
+LINE 185: MRS. CANDOUR. No--no--indeed the assignation was with Charles----
+LINE 186: LADY SNEERWELL. With Charles!--You alarm me Mrs. Candour!
+LINE 187: MRS. CANDOUR. Yes--yes He was the Lover--Mr. Surface--do him
+LINE 188: justice--was only the Informer.
+LINE 189: SIR BENJAMIN. Well I'll not dispute with you Mrs. Candour--but be it
+LINE 190: which it may--I hope that Sir Peter's wound will not----
+LINE 191: MRS. CANDOUR. Sir Peter's wound! O mercy! I didn't hear a word of their
+LINE 192: Fighting----
+LINE 193: LADY SNEERWELL. Nor I a syllable!
+LINE 194: SIR BENJAMIN. No--what no mention of the Duel----
+LINE 195: MRS. CANDOUR. Not a word--
+LINE 196: SIR BENJAMIN. O, Lord--yes--yes--they fought before they left the Room.
+LINE 197: LADY SNEERWELL. Pray let us hear.
+LINE 198: MRS. CANDOUR. Aye--do oblige--us with the Duel----
+LINE 199: SIR BENJAMIN. 'Sir'--says Sir Peter--immediately after the Discovery,
+LINE 200: 'you are a most ungrateful Fellow.'
+LINE 201: MRS. CANDOUR. Aye to Charles----
+LINE 202: SIR BENJAMIN. No, no--to Mr. Surface--'a most ungrateful Fellow; and old
+LINE 203: as I am, Sir,' says He, 'I insist on immediate satisfaction.'
+LINE 204: MRS. CANDOUR. Aye that must have been to Charles for 'tis very unlikely
+LINE 205: Mr. Surface should go to fight in his own House.
+LINE 206: SIR BENJAMIN. Gad's Life, Ma'am, not at all--giving me immediate
+LINE 207: satisfaction--on this, Madam--Lady Teazle seeing Sir Peter in such
+LINE 208: Danger--ran out of the Room in strong Hysterics--and Charles after her
+LINE 209: calling out for Hartshorn and Water! Then Madam--they began to fight
+LINE 210: with Swords----
+LINE 211: Enter CRABTREE
+LINE 212: CRABTREE. With Pistols--Nephew--I have it from undoubted authority.
+LINE 213: MRS. CANDOUR. Oh, Mr. Crabtree then it is all true----
+LINE 214: CRABTREE. Too true indeed Ma'am, and Sir Peter Dangerously wounded----
+LINE 215: SIR BENJAMIN. By a thrust in second--quite thro' his left side
+LINE 216: CRABTREE. By a Bullet lodged in the Thorax----
+LINE 217: MRS. CANDOUR. Mercy--on me[!] Poor Sir Peter----
+LINE 218: CRABTREE. Yes, ma'am tho' Charles would have avoided the matter if he
+LINE 219: could----
+LINE 220: MRS. CANDOUR. I knew Charles was the Person----
+LINE 221: SIR BENJAMIN. O my Unkle I see knows nothing of the matter----
+LINE 222: CRABTREE. But Sir Peter tax'd him with the basest ingratitude----
+LINE 223: SIR BENJAMIN. That I told you, you know----
+LINE 224: CRABTREE. Do Nephew let me speak--and insisted on immediate----
+LINE 225: SIR BENJAMIN. Just as I said----
+LINE 226: CRABTREE. Odds life! Nephew allow others to know something too--A Pair
+LINE 227: of Pistols lay on the Bureau--for Mr. Surface--it seems, had come home
+LINE 228: the Night before late from Salt-Hill where He had been to see the Montem
+LINE 229: with a Friend, who has a Son at Eton--so unluckily the Pistols were left
+LINE 230: Charged----
+LINE 231: SIR BENJAMIN. I heard nothing of this----
+LINE 232: CRABTREE. Sir Peter forced Charles to take one and they fired--it seems
+LINE 233: pretty nearly together--Charles's shot took Place as I tell you--and Sir
+LINE 234: Peter's miss'd--but what is very extraordinary the Ball struck against
+LINE 235: a little Bronze Pliny that stood over the Fire Place--grazed out of the
+LINE 236: window at a right angle--and wounded the Postman, who was just coming to
+LINE 237: the Door with a double letter from Northamptonshire.
+LINE 238: SIR BENJAMIN. My Unkle's account is more circumstantial I must
+LINE 239: confess--but I believe mine is the true one for all that.
+LINE 240: LADY SNEERWELL. I am more interested in this Affair than they
+LINE 241: imagine--and must have better information.--
+LINE 242: [Exit.]
+LINE 243: SIR BENJAMIN. Ah! Lady Sneerwell's alarm is very easily accounted for.--
+LINE 244: CRABTREE. Yes yes, they certainly DO say--but that's neither here nor
+LINE 245: there.
+LINE 246: MRS. CANDOUR. But pray where is Sir Peter at present----
+LINE 247: CRABTREE. Oh! they--brought him home and He is now in the House, tho'
+LINE 248: the Servants are order'd to deny it----
+LINE 249: MRS. CANDOUR. I believe so--and Lady Teazle--I suppose attending him----
+LINE 250: CRABTREE. Yes yes--and I saw one of the Faculty enter just before me----
+LINE 251: SIR BENJAMIN. Hey--who comes here----
+LINE 252: CRABTREE. Oh, this is He--the Physician depend on't.
+LINE 253: MRS. CANDOUR. O certainly it must be the Physician and now we shall
+LINE 254: know----
+LINE 255: Enter SIR OLIVER
+LINE 256: CRABTREE. Well, Doctor--what Hopes?
+LINE 257: MRS. CANDOUR. Aye Doctor how's your Patient?
+LINE 258: SIR BENJAMIN. Now Doctor isn't it a wound with a small sword----
+LINE 259: CRABTREE. A bullet lodged in the Thorax--for a hundred!
+LINE 260: SIR OLIVER. Doctor!--a wound with a small sword! and a Bullet in the
+LINE 261: Thorax!--oon's are you mad, good People?
+LINE 262: SIR BENJAMIN. Perhaps, Sir, you are not a Doctor.
+LINE 263: SIR OLIVER. Truly Sir I am to thank you for my degree If I am.
+LINE 264: CRABTREE. Only a Friend of Sir Peter's then I presume--but, sir, you
+LINE 265: must have heard of this accident--
+LINE 266: SIR OLIVER. Not a word!
+LINE 267: CRABTREE. Not of his being dangerously wounded?
+LINE 268: SIR OLIVER. The Devil he is!
+LINE 269: SIR BENJAMIN. Run thro' the Body----
+LINE 270: CRABTREE. Shot in the breast----
+LINE 271: SIR BENJAMIN. By one Mr. Surface----
+LINE 272: CRABTREE. Aye the younger.
+LINE 273: SIR OLIVER. Hey! what the plague! you seem to differ strangely in your
+LINE 274: accounts--however you agree that Sir Peter is dangerously wounded.
+LINE 275: SIR BENJAMIN. Oh yes, we agree in that.
+LINE 276: CRABTREE. Yes, yes, I believe there can be no doubt in that.
+LINE 277: SIR OLIVER. Then, upon my word, for a person in that Situation, he is
+LINE 278: the most imprudent man alive--For here he comes walking as if nothing at
+LINE 279: all was the matter.
+LINE 280: Enter SIR PETER
+LINE 281: Odd's heart, sir Peter! you are come in good time I promise you, for we
+LINE 282: had just given you over!
+LINE 283: SIR BENJAMIN. 'Egad, Uncle this is the most sudden Recovery!
+LINE 284: SIR OLIVER. Why, man, what do you do out of Bed with a Small Sword
+LINE 285: through your Body, and a Bullet lodg'd in your Thorax?
+LINE 286: SIR PETER. A Small Sword and a Bullet--
+LINE 287: SIR OLIVER. Aye these Gentlemen would have kill'd you without Law or
+LINE 288: Physic, and wanted to dub me a Doctor to make me an accomplice.
+LINE 289: SIR PETER. Why! what is all this?
+LINE 290: SIR BENJAMIN. We rejoice, Sir Peter, that the Story of the Duel is not
+LINE 291: true--and are sincerely sorry for your other Misfortune.
+LINE 292: SIR PETER. So--so--all over the Town already! [Aside.]
+LINE 293: CRABTREE. Tho', Sir Peter, you were certainly vastly to blame to marry
+LINE 294: at all at your years.
+LINE 295: SIR PETER. Sir, what Business is that of yours?
+LINE 296: MRS. CANDOUR. Tho' Indeed, as Sir Peter made so good a Husband, he's
+LINE 297: very much to be pitied.
+LINE 298: SIR PETER. Plague on your pity, Ma'am, I desire none of it.
+LINE 299: SIR BENJAMIN. However Sir Peter, you must not mind the Laughing and
+LINE 300: jests you will meet with on the occasion.
+LINE 301: SIR PETER. Sir, I desire to be master in my own house.
+LINE 302: CRABTREE. 'Tis no Uncommon Case, that's one comfort.
+LINE 303: SIR PETER. I insist on being left to myself, without ceremony,--I insist
+LINE 304: on your leaving my house directly!
+LINE 305: MRS. CANDOUR. Well, well, we are going and depend on't, we'll make the
+LINE 306: best report of you we can.
+LINE 307: SIR PETER. Leave my house!
+LINE 308: CRABTREE. And tell how hardly you have been treated.
+LINE 309: SIR PETER. Leave my House--
+LINE 310: SIR BENJAMIN. And how patiently you bear it.
+LINE 311: SIR PETER. Friends! Vipers! Furies! Oh that their own Venom would choke
+LINE 312: them!
+LINE 313: SIR OLIVER. They are very provoking indeed, Sir Peter.
+LINE 314: Enter ROWLEY
+LINE 315: ROWLEY. I heard high words: what has ruffled you Sir Peter--
+LINE 316: SIR PETER. Pshaw what signifies asking--do I ever pass a Day without my
+LINE 317: Vexations?
+LINE 318: SIR OLIVER. Well I'm not Inquisitive--I come only to tell you, that I
+LINE 319: have seen both my Nephews in the manner we proposed.
+LINE 320: SIR PETER. A Precious Couple they are!
+LINE 321: ROWLEY. Yes and Sir Oliver--is convinced that your judgment was right
+LINE 322: Sir Peter.
+LINE 323: SIR OLIVER. Yes I find Joseph is Indeed the Man after all.
+LINE 324: ROWLEY. Aye as Sir Peter says, He's a man of Sentiment.
+LINE 325: SIR OLIVER. And acts up to the Sentiments he professes.
+LINE 326: ROWLEY. It certainly is Edification to hear him talk.
+LINE 327: SIR OLIVER. Oh, He's a model for the young men of the age! But how's
+LINE 328: this, Sir Peter? you don't Join us in your Friend Joseph's Praise as I
+LINE 329: expected.
+LINE 330: SIR PETER. Sir Oliver, we live in a damned wicked world, and the fewer
+LINE 331: we praise the better.
+LINE 332: ROWLEY. What do YOU say so, Sir Peter--who were never mistaken in your
+LINE 333: Life?
+LINE 334: SIR PETER. Pshaw--Plague on you both--I see by your sneering you have
+LINE 335: heard--the whole affair--I shall go mad among you!
+LINE 336: ROWLEY. Then to fret you no longer Sir Peter--we are indeed acquainted
+LINE 337: with it all--I met Lady Teazle coming from Mr. Surface's so humbled,
+LINE 338: that she deigned to request ME to be her advocate with you--
+LINE 339: SIR PETER. And does Sir Oliver know all too?
+LINE 340: SIR OLIVER. Every circumstance!
+LINE 341: SIR PETER. What of the closet and the screen--hey[?]
+LINE 342: SIR OLIVER. Yes yes--and the little French Milliner. Oh, I have been
+LINE 343: vastly diverted with the story! ha! ha! ha!
+LINE 344: SIR PETER. 'Twas very pleasant!
+LINE 345: SIR OLIVER. I never laugh'd more in my life, I assure you: ha! ha!
+LINE 346: SIR PETER. O vastly diverting! ha! ha!
+LINE 347: ROWLEY. To be sure Joseph with his Sentiments! ha! ha!
+LINE 348: SIR PETER. Yes his sentiments! ha! ha! a hypocritical Villain!
+LINE 349: SIR OLIVER. Aye and that Rogue Charles--to pull Sir Peter out of the
+LINE 350: closet: ha! ha!
+LINE 351: SIR PETER. Ha! ha! 'twas devilish entertaining to be sure--
+LINE 352: SIR OLIVER. Ha! ha! Egad, Sir Peter I should like to have seen your Face
+LINE 353: when the screen was thrown down--ha! ha!
+LINE 354: SIR PETER. Yes, my face when the Screen was thrown down: ha! ha! ha! O I
+LINE 355: must never show my head again!
+LINE 356: SIR OLIVER. But come--come it isn't fair to laugh at you neither my old
+LINE 357: Friend--tho' upon my soul I can't help it--
+LINE 358: SIR PETER. O pray don't restrain your mirth on my account: it does not
+LINE 359: hurt me at all--I laugh at the whole affair myself--Yes--yes--I
+LINE 360: think being a standing Jest for all one's acquaintance a very happy
+LINE 361: situation--O yes--and then of a morning to read the Paragraphs about
+LINE 362: Mr. S----, Lady T----, and Sir P----, will be so entertaining!--I shall
+LINE 363: certainly leave town tomorrow and never look mankind in the Face again!
+LINE 364: ROWLEY. Without affectation Sir Peter, you may despise the ridicule of
+LINE 365: Fools--but I see Lady Teazle going towards the next Room--I am sure you
+LINE 366: must desire a Reconciliation as earnestly as she does.
+LINE 367: SIR OLIVER. Perhaps MY being here prevents her coming to you--well I'll
+LINE 368: leave honest Rowley to mediate between you; but he must bring you all
+LINE 369: presently to Mr. Surface's--where I am now returning--if not to reclaim
+LINE 370: a Libertine, at least to expose Hypocrisy.
+LINE 371: SIR PETER. Ah! I'll be present at your discovering yourself there with
+LINE 372: all my heart; though 'tis a vile unlucky Place for discoveries.
+LINE 373: SIR OLIVER. However it is very convenient to the carrying on of my Plot
+LINE 374: that you all live so near one another!
+LINE 375: [Exit SIR OLIVER.]
+LINE 376: ROWLEY. We'll follow--
+LINE 377: SIR PETER. She is not coming here you see, Rowley--
+LINE 378: ROWLEY. No but she has left the Door of that Room open you
+LINE 379: perceive.--see she is in Tears--!
+LINE 380: SIR PETER. She seems indeed to wish I should go to her.--how dejected
+LINE 381: she appears--
+LINE 382: ROWLEY. And will you refrain from comforting her--
+LINE 383: SIR PETER. Certainly a little mortification appears very becoming in a
+LINE 384: wife--don't you think it will do her good to let her Pine a little.
+LINE 385: ROWLEY. O this is ungenerous in you--
+LINE 386: SIR PETER. Well I know not what to think--you remember Rowley the Letter
+LINE 387: I found of her's--evidently intended for Charles?
+LINE 388: ROWLEY. A mere forgery, Sir Peter--laid in your way on Purpose--this is
+LINE 389: one of the Points which I intend Snake shall give you conviction on--
+LINE 390: SIR PETER. I wish I were once satisfied of that--She looks this
+LINE 391: way----what a remarkably elegant Turn of the Head she has! Rowley I'll
+LINE 392: go to her--
+LINE 393: ROWLEY. Certainly--
+LINE 394: SIR PETER. Tho' when it is known that we are reconciled, People will
+LINE 395: laugh at me ten times more!
+LINE 396: ROWLEY. Let--them laugh--and retort their malice only by showing them
+LINE 397: you are happy in spite of it.
+LINE 398: SIR PETER. Efaith so I will--and, if I'm not mistaken we may yet be the
+LINE 399: happiest couple in the country--
+LINE 400: ROWLEY. Nay Sir Peter--He who once lays aside suspicion----
+LINE 401: SIR PETER. Hold Master Rowley--if you have any Regard for me--never let
+LINE 402: me hear you utter anything like a Sentiment. I have had enough of THEM
+LINE 403: to serve me the rest of my Life.
+LINE 404: [Exeunt.]
+LINE 405: SCENE THE LAST.--The Library
+LINE 406: SURFACE and LADY SNEERWELL
+LINE 407: LADY SNEERWELL. Impossible! will not Sir Peter immediately be reconciled
+LINE 408: to CHARLES? and of consequence no longer oppose his union with MARIA?
+LINE 409: the thought is Distraction to me!
+LINE 410: SURFACE. Can Passion--furnish a Remedy?
+LINE 411: LADY SNEERWELL. No--nor cunning either. O I was a Fool, an Ideot--to
+LINE 412: league with such a Blunderer!
+LINE 413: SURFACE. Surely Lady Sneerwell I am the greatest Sufferer--yet you see I
+LINE 414: bear the accident with Calmness.
+LINE 415: LADY SNEERWELL. Because the Disappointment hasn't reached your
+LINE 416: HEART--your interest only attached you to Maria--had you felt for
+LINE 417: her--what I have for that ungrateful Libertine--neither your Temper nor
+LINE 418: Hypocrisy could prevent your showing the sharpness of your Vexation.
+LINE 419: SURFACE. But why should your Reproaches fall on me for this
+LINE 420: Disappointment?
+LINE 421: LADY SNEERWELL. Are not you the cause of it? what had you to bate in
+LINE 422: your Pursuit of Maria to pervert Lady Teazle by the way.--had you not a
+LINE 423: sufficient field for your Roguery in blinding Sir Peter and supplanting
+LINE 424: your Brother--I hate such an avarice of crimes--'tis an unfair monopoly
+LINE 425: and never prospers.
+LINE 426: SURFACE. Well I admit I have been to blame--I confess I deviated from
+LINE 427: the direct Road of wrong but I don't think we're so totally defeated
+LINE 428: neither.
+LINE 429: LADY SNEERWELL. No!
+LINE 430: SURFACE. You tell me you have made a trial of Snake since we met--and
+LINE 431: that you still believe him faithful to us--
+LINE 432: LADY SNEERWELL. I do believe so.
+LINE 433: SURFACE. And that he has undertaken should it be necessary--to swear and
+LINE 434: prove that Charles is at this Time contracted by vows and Honour to
+LINE 435: your Ladyship--which some of his former letters to you will serve to
+LINE 436: support--
+LINE 437: LADY SNEERWELL. This, indeed, might have assisted--
+LINE 438: SURFACE. Come--come it is not too late yet--but hark! this is probably
+LINE 439: my Unkle Sir Oliver--retire to that Room--we'll consult further when
+LINE 440: He's gone.--
+LINE 441: LADY SNEERWELL. Well but if HE should find you out to--
+LINE 442: SURFACE. O I have no fear of that--Sir Peter will hold his tongue for
+LINE 443: his own credit sake--and you may depend on't I shall soon Discover Sir
+LINE 444: Oliver's weak side!--
+LINE 445: LADY SNEERWELL. I have no diffidence of your abilities--only be constant
+LINE 446: to one roguery at a time--
+LINE 447: [Exit.]
+LINE 448: SURFACE. I will--I will--So 'tis confounded hard after such bad Fortune,
+LINE 449: to be baited by one's confederate in evil--well at all events
+LINE 450: my character is so much better than Charles's, that I
+LINE 451: certainly--hey--what!--this is not Sir Oliver--but old Stanley
+LINE 452: again!--Plague on't that He should return to teaze me just now--I shall
+LINE 453: have Sir Oliver come and find him here--and----
+LINE 454: Enter SIR OLIVER
+LINE 455: Gad's life, Mr. Stanley--why have you come back to plague me at this
+LINE 456: time? you must not stay now upon my word!
+LINE 457: SIR OLIVER. Sir--I hear your Unkle Oliver is expected here--and tho' He
+LINE 458: has been so penurious to you, I'll try what He'll do for me--
+LINE 459: SURFACE. Sir! 'tis impossible for you to stay now--so I must beg----come
+LINE 460: any other time and I promise you you shall be assisted.
+LINE 461: SIR OLIVER. No--Sir Oliver and I must be acquainted--
+LINE 462: SURFACE. Zounds Sir then [I] insist on your quitting the--Room
+LINE 463: directly--
+LINE 464: SIR OLIVER. Nay Sir----
+LINE 465: SURFACE. Sir--I insist on't--here William show this Gentleman out. Since
+LINE 466: you compel me Sir--not one moment--this is such insolence.
+LINE 467: [Going to push him out.]
+LINE 468: Enter CHARLES
+LINE 469: CHARLES. Heyday! what's the matter now?--what the Devil have you got
+LINE 470: hold of my little Broker here! Zounds--Brother, don't hurt little
+LINE 471: Premium. What's the matter--my little Fellow?
+LINE 472: SURFACE. So! He has been with you, too, has He--
+LINE 473: CHARLES. To be sure He has! Why, 'tis as honest a little----But sure
+LINE 474: Joseph you have not been borrowing money too have you?
+LINE 475: SURFACE. Borrowing--no!--But, Brother--you know sure we expect Sir
+LINE 476: Oliver every----
+LINE 477: CHARLES. O Gad, that's true--Noll mustn't find the little Broker here to
+LINE 478: be sure--
+LINE 479: SURFACE. Yet Mr. Stanley insists----
+LINE 480: CHARLES. Stanley--why his name's Premium--
+LINE 481: SURFACE. No no Stanley.
+LINE 482: CHARLES. No, no--Premium.
+LINE 483: SURFACE. Well no matter which--but----
+LINE 484: CHARLES. Aye aye Stanley or Premium, 'tis the same thing as you say--for
+LINE 485: I suppose He goes by half a hundred Names, besides A. B's at the
+LINE 486: Coffee-House. [Knock.]
+LINE 487: SURFACE. 'Sdeath--here's Sir Oliver at the Door----Now I beg--Mr.
+LINE 488: Stanley----
+LINE 489: CHARLES. Aye aye and I beg Mr. Premium----
+LINE 490: SIR OLIVER. Gentlemen----
+LINE 491: SURFACE. Sir, by Heaven you shall go--
+LINE 492: CHARLES. Aye out with him certainly----
+LINE 493: SIR OLIVER. This violence----
+LINE 494: SURFACE. 'Tis your own Fault.
+LINE 495: CHARLES. Out with him to be sure. [Both forcing SIR OLIVER out.]
+LINE 496: Enter SIR PETER TEAZLE, LADY TEAZLE, MARIA, and ROWLEY
+LINE 497: SIR PETER. My old Friend, Sir Oliver!--hey! what in the name of
+LINE 498: wonder!--Here are dutiful Nephews!--assault their Unkle at his first
+LINE 499: Visit!
+LINE 500: LADY TEAZLE. Indeed Sir Oliver 'twas well we came in to rescue you.
+LINE 501: ROWLEY. Truly it was--for I perceive Sir Oliver the character of old
+LINE 502: Stanley was no Protection to you.
+LINE 503: SIR OLIVER. Nor of Premium either--the necessities of the former could
+LINE 504: not extort a shilling from that benevolent Gentleman; and with the other
+LINE 505: I stood a chance of faring worse than my Ancestors, and being knocked
+LINE 506: down without being bid for.
+LINE 507: SURFACE. Charles!
+LINE 508: CHARLES. Joseph!
+LINE 509: SURFACE. 'Tis compleat!
+LINE 510: CHARLES. Very!
+LINE 511: SIR OLIVER. Sir Peter--my Friend and Rowley too--look on that elder
+LINE 512: Nephew of mine--You know what He has already received from my Bounty and
+LINE 513: you know also how gladly I would have look'd on half my Fortune as held
+LINE 514: in trust for him--judge then my Disappointment in discovering him to be
+LINE 515: destitute of Truth--Charity--and Gratitude--
+LINE 516: SIR PETER. Sir Oliver--I should be more surprized at this Declaration,
+LINE 517: if I had not myself found him to be selfish--treacherous and
+LINE 518: Hypocritical.
+LINE 519: LADY TEAZLE. And if the Gentleman pleads not guilty to these pray let
+LINE 520: him call ME to his Character.
+LINE 521: SIR PETER. Then I believe we need add no more--if He knows himself He
+LINE 522: will consider it as the most perfect Punishment that He is known to the
+LINE 523: world--
+LINE 524: CHARLES. If they talk this way to Honesty--what will they say to ME by
+LINE 525: and bye!
+LINE 526: SIR OLIVER. As for that Prodigal--his Brother there----
+LINE 527: CHARLES. Aye now comes my Turn--the damn'd Family Pictures will ruin
+LINE 528: me--
+LINE 529: SURFACE. Sir Oliver--Unkle--will you honour me with a hearing--
+LINE 530: CHARLES. I wish Joseph now would make one of his long speeches and I
+LINE 531: might recollect myself a little--
+LINE 532: SIR OLIVER. And I suppose you would undertake to vindicate yourself
+LINE 533: entirely--
+LINE 534: SURFACE. I trust I could--
+LINE 535: SIR OLIVER. Nay--if you desert your Roguery in its Distress and try to
+LINE 536: be justified--you have even less principle than I thought you had.--[To
+LINE 537: CHARLES SURFACE] Well, Sir--and YOU could JUSTIFY yourself too I
+LINE 538: suppose--
+LINE 539: CHARLES. Not that I know of, Sir Oliver.
+LINE 540: SIR OLIVER. What[!] little Premium has been let too much into the secret
+LINE 541: I presume.
+LINE 542: CHARLES. True--Sir--but they were Family Secrets, and should not be
+LINE 543: mentioned again you know.
+LINE 544: ROWLEY. Come Sir Oliver I know you cannot speak of Charles's Follies
+LINE 545: with anger.
+LINE 546: SIR OLIVER. Odd's heart no more I can--nor with gravity either--Sir
+LINE 547: Peter do you know the Rogue bargain'd with me for all his
+LINE 548: Ancestors--sold me judges and Generals by the Foot, and Maiden Aunts as
+LINE 549: cheap as broken China!
+LINE 550: CHARLES. To be sure, Sir Oliver, I did make a little free with the
+LINE 551: Family Canvas that's the truth on't:--my Ancestors may certainly rise in
+LINE 552: judgment against me there's no denying it--but believe me sincere when I
+LINE 553: tell you, and upon my soul I would not say so if I was not--that if I do
+LINE 554: not appear mortified at the exposure of my Follies, it is because I
+LINE 555: feel at this moment the warmest satisfaction in seeing you, my liberal
+LINE 556: benefactor.
+LINE 557: SIR OLIVER. Charles--I believe you--give me your hand again: the
+LINE 558: ill-looking little fellow over the Couch has made your Peace.
+LINE 559: CHARLES. Then Sir--my Gratitude to the original is still encreased.
+LINE 560: LADY TEAZLE. [Advancing.] Yet I believe, Sir Oliver, here is one whom
+LINE 561: Charles is still more anxious to be reconciled to.
+LINE 562: SIR OLIVER. O I have heard of his Attachment there--and, with the young
+LINE 563: Lady's Pardon if I construe right that Blush----
+LINE 564: SIR PETER. Well--Child--speak your sentiments--you know--we are going to
+LINE 565: be reconciled to Charles--
+LINE 566: MARIA. Sir--I have little to say--but that I shall rejoice to hear that
+LINE 567: He is happy--For me--whatever claim I had to his Affection--I willing
+LINE 568: resign to one who has a better title.
+LINE 569: CHARLES. How Maria!
+LINE 570: SIR PETER. Heyday--what's the mystery now? while he appeared an
+LINE 571: incorrigible Rake, you would give your hand to no one else and now that
+LINE 572: He's likely to reform I'll warrant You won't have him!
+LINE 573: MARIA. His own Heart--and Lady Sneerwell know the cause.
+LINE 574: [CHARLES.] Lady Sneerwell!
+LINE 575: SURFACE. Brother it is with great concern--I am obliged to speak on
+LINE 576: this Point, but my Regard to justice obliges me--and Lady Sneerwell's
+LINE 577: injuries can no longer--be concealed--[Goes to the Door.]
+LINE 578: Enter LADY SNEERWELL
+LINE 579: SIR PETER. Soh! another French milliner egad! He has one in every Room
+LINE 580: in the House I suppose--
+LINE 581: LADY SNEERWELL. Ungrateful Charles! Well may you be surprised and feel
+LINE 582: for the indelicate situation which your Perfidy has forced me into.
+LINE 583: CHARLES. Pray Unkle, is this another Plot of yours? for as I have Life I
+LINE 584: don't understand it.
+LINE 585: SURFACE. I believe Sir there is but the evidence of one Person more
+LINE 586: necessary to make it extremely clear.
+LINE 587: SIR PETER. And that Person--I imagine, is Mr. Snake--Rowley--you were
+LINE 588: perfectly right to bring him with us--and pray let him appear.
+LINE 589: ROWLEY. Walk in, Mr. Snake--
+LINE 590: Enter SNAKE
+LINE 591: I thought his Testimony might be wanted--however it happens unluckily
+LINE 592: that He comes to confront Lady Sneerwell and not to support her--
+LINE 593: LADY SNEERWELL. A Villain!--Treacherous to me at last! Speak, Fellow,
+LINE 594: have you too conspired against me?
+LINE 595: SNAKE. I beg your Ladyship--ten thousand Pardons--you paid me extremely
+LINE 596: Liberally for the Lie in question--but I unfortunately have been offer'd
+LINE 597: double to speak the Truth.
+LINE 598: LADY SNEERWELL. The Torments of Shame and Disappointment on you all!
+LINE 599: LADY TEAZLE. Hold--Lady Sneerwell--before you go let me thank you for
+LINE 600: the trouble you and that Gentleman have taken in writing Letters from me
+LINE 601: to Charles and answering them yourself--and let me also request you
+LINE 602: to make my Respects to the Scandalous College--of which you are
+LINE 603: President--and inform them that Lady Teazle, Licentiate, begs leave to
+LINE 604: return the diploma they granted her--as she leaves of[f] Practice and
+LINE 605: kills Characters no longer.
+LINE 606: LADY SNEERWELL. Provoking--insolent!--may your Husband live these fifty
+LINE 607: years!
+LINE 608: [Exit.]
+LINE 609: SIR PETER. Oons what a Fury----
+LINE 610: LADY TEAZLE. A malicious Creature indeed!
+LINE 611: SIR PETER. Hey--not for her last wish?--
+LINE 612: LADY TEAZLE. O No--
+LINE 613: SIR OLIVER. Well Sir, and what have you to say now?
+LINE 614: SURFACE. Sir, I am so confounded, to find that Lady Sneerwell could be
+LINE 615: guilty of suborning Mr. Snake in this manner to impose on us all that
+LINE 616: I know not what to say----however, lest her Revengeful Spirit should
+LINE 617: prompt her to injure my Brother I had certainly better follow her
+LINE 618: directly.
+LINE 619: [Exit.]
+LINE 620: SIR PETER. Moral to the last drop!
+LINE 621: SIR OLIVER. Aye and marry her Joseph if you can.--Oil and Vinegar
+LINE 622: egad:--you'll do very well together.
+LINE 623: ROWLEY. I believe we have no more occasion for Mr. Snake at Present--
+LINE 624: SNAKE. Before I go--I beg Pardon once for all for whatever uneasiness I
+LINE 625: have been the humble instrument of causing to the Parties present.
+LINE 626: SIR PETER. Well--well you have made atonement by a good Deed at last--
+LINE 627: SNAKE. But I must Request of the Company that it shall never be known--
+LINE 628: SIR PETER. Hey!--what the Plague--are you ashamed of having done a right
+LINE 629: thing once in your life?
+LINE 630: SNAKE. Ah: Sir--consider I live by the Badness of my Character!--I have
+LINE 631: nothing but my Infamy to depend on!--and, if it were once known that I
+LINE 632: had been betray'd into an honest Action, I should lose every Friend I
+LINE 633: have in the world.
+LINE 634: SIR OLIVER. Well--well we'll not traduce you by saying anything to your
+LINE 635: Praise never fear.
+LINE 636: [Exit SNAKE.]
+LINE 637: SIR PETER. There's a precious Rogue--Yet that fellow is a Writer and a
+LINE 638: Critic.
+LINE 639: LADY TEAZLE. See[,] Sir Oliver[,] there needs no persuasion now to
+LINE 640: reconcile your Nephew and Maria--
+LINE 641: SIR OLIVER. Aye--aye--that's as it should be and egad we'll have the
+LINE 642: wedding to-morrow morning--
+LINE 643: CHARLES. Thank you, dear Unkle!
+LINE 644: SIR PETER. What! you rogue don't you ask the Girl's consent first--
+LINE 645: CHARLES. Oh, I have done that a long time--above a minute ago--and She
+LINE 646: has look'd yes--
+LINE 647: MARIA. For Shame--Charles--I protest Sir Peter, there has not been a
+LINE 648: word----
+LINE 649: SIR OLIVER. Well then the fewer the Better--may your love for each other
+LINE 650: never know--abatement.
+LINE 651: SIR PETER. And may you live as happily together as Lady Teazle and
+LINE 652: I--intend to do--
+LINE 653: CHARLES. Rowley my old Friend--I am sure you congratulate me and I
+LINE 654: suspect too that I owe you much.
+LINE 655: SIR OLIVER. You do, indeed, Charles--
+LINE 656: ROWLEY. If my Efforts to serve you had not succeeded you would have been
+LINE 657: in my debt for the attempt--but deserve to be happy--and you over-repay
+LINE 658: me.
+LINE 659: SIR PETER. Aye honest Rowley always said you would reform.
+LINE 660: CHARLES. Why as to reforming Sir Peter I'll make no promises--and that
+LINE 661: I take to be a proof that I intend to set about it--But here shall be my
+LINE 662: Monitor--my gentle Guide.--ah! can I leave the Virtuous path those Eyes
+LINE 663: illumine?
+LINE 664: Tho' thou, dear Maid, should'st wave [waive] thy Beauty's Sway,
+LINE 665: --Thou still must Rule--because I will obey:
+LINE 666: An humbled fugitive from Folly View,
+LINE 667: No sanctuary near but Love and YOU:
+LINE 668: You can indeed each anxious Fear remove,
+LINE 669: For even Scandal dies if you approve. [To the audience.]
+LINE 670: EPILOGUE
+LINE 671: BY MR. COLMAN
+LINE 672: SPOKEN BY LADY TEAZLE
+LINE 673: I, who was late so volatile and gay,
+LINE 674: Like a trade-wind must now blow all one way,
+LINE 675: Bend all my cares, my studies, and my vows,
+LINE 676: To one dull rusty weathercock--my spouse!
+LINE 677: So wills our virtuous bard--the motley Bayes
+LINE 678: Of crying epilogues and laughing plays!
+LINE 679: Old bachelors, who marry smart young wives,
+LINE 680: Learn from our play to regulate your lives:
+LINE 681: Each bring his dear to town, all faults upon her--
+LINE 682: London will prove the very source of honour.
+LINE 683: Plunged fairly in, like a cold bath it serves,
+LINE 684: When principles relax, to brace the nerves:
+LINE 685: Such is my case; and yet I must deplore
+LINE 686: That the gay dream of dissipation's o'er.
+LINE 687: And say, ye fair! was ever lively wife,
+LINE 688: Born with a genius for the highest life,
+LINE 689: Like me untimely blasted in her bloom,
+LINE 690: Like me condemn'd to such a dismal doom?
+LINE 691: Save money--when I just knew how to waste it!
+LINE 692: Leave London--just as I began to taste it!
+LINE 693: Must I then watch the early crowing cock,
+LINE 694: The melancholy ticking of a clock;
+LINE 695: In a lone rustic hall for ever pounded,
+LINE 696: With dogs, cats, rats, and squalling brats surrounded?
+LINE 697: With humble curate can I now retire,
+LINE 698: (While good Sir Peter boozes with the squire,)
+LINE 699: And at backgammon mortify my soul,
+LINE 700: That pants for loo, or flutters at a vole?
+LINE 701: Seven's the main! Dear sound that must expire,
+LINE 702: Lost at hot cockles round a Christmas fire;
+LINE 703: The transient hour of fashion too soon spent,
+LINE 704: Farewell the tranquil mind, farewell content!
+LINE 705: Farewell the plumed head, the cushion'd tete,
+LINE 706: That takes the cushion from its proper seat!
+LINE 707: That spirit-stirring drum!--card drums I mean,
+LINE 708: Spadille--odd trick--pam--basto--king and queen!
+LINE 709: And you, ye knockers, that, with brazen throat,
+LINE 710: The welcome visitors' approach denote;
+LINE 711: Farewell all quality of high renown,
+LINE 712: Pride, pomp, and circumstance of glorious town!
+LINE 713: Farewell! your revels I partake no more,
+LINE 714: And Lady Teazle's occupation's o'er!
+LINE 715: All this I told our bard; he smiled, and said 'twas clear,
+LINE 716: I ought to play deep tragedy next year.
+LINE 717: Meanwhile he drew wise morals from his play,
+LINE 718: And in these solemn periods stalk'd away:--
+LINE 719: "Bless'd were the fair like you; her faults who stopp'd,
+LINE 720: And closed her follies when the curtain dropp'd!
+LINE 721: No more in vice or error to engage,
+LINE 722: Or play the fool at large on life's great stage."

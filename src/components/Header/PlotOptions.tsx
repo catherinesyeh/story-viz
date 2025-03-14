@@ -169,6 +169,12 @@ function PlotOptions() {
 
     "janeeyre-new",
     "janeeyre-new-themes",
+
+    "pygmalion-new",
+    "pygmalion-new-themes",
+
+    "school-new",
+    "school-new-themes",
   ].sort();
 
   const storyOptionsDisplay = storyOptions.filter(

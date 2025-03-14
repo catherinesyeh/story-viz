@@ -1,0 +1,853 @@
+LINE 1: Next day at 11 a.m. Higgins's laboratory in Wimpole Street. It is a
+LINE 2: room on the first floor, looking on the street, and was meant for the
+LINE 3: drawing-room. The double doors are in the middle of the back hall; and
+LINE 4: persons entering find in the corner to their right two tall file
+LINE 5: cabinets at right angles to one another against the walls. In this
+LINE 6: corner stands a flat writing-table, on which are a phonograph, a
+LINE 7: laryngoscope, a row of tiny organ pipes with a bellows, a set of lamp
+LINE 8: chimneys for singing flames with burners attached to a gas plug in the
+LINE 9: wall by an indiarubber tube, several tuning-forks of different sizes, a
+LINE 10: life-size image of half a human head, showing in section the vocal
+LINE 11: organs, and a box containing a supply of wax cylinders for the
+LINE 12: phonograph.
+LINE 13: Further down the room, on the same side, is a fireplace, with a
+LINE 14: comfortable leather-covered easy-chair at the side of the hearth
+LINE 15: nearest the door, and a coal-scuttle. There is a clock on the
+LINE 16: mantelpiece. Between the fireplace and the phonograph table is a stand
+LINE 17: for newspapers.
+LINE 18: On the other side of the central door, to the left of the visitor, is a
+LINE 19: cabinet of shallow drawers. On it is a telephone and the telephone
+LINE 20: directory. The corner beyond, and most of the side wall, is occupied by
+LINE 21: a grand piano, with the keyboard at the end furthest from the door, and
+LINE 22: a bench for the player extending the full length of the keyboard. On
+LINE 23: the piano is a dessert dish heaped with fruit and sweets, mostly
+LINE 24: chocolates.
+LINE 25: The middle of the room is clear. Besides the easy chair, the piano
+LINE 26: bench, and two chairs at the phonograph table, there is one stray
+LINE 27: chair. It stands near the fireplace. On the walls, engravings; mostly
+LINE 28: Piranesis and mezzotint portraits. No paintings.
+LINE 29: Pickering is seated at the table, putting down some cards and a
+LINE 30: tuning-fork which he has been using. Higgins is standing up near him,
+LINE 31: closing two or three file drawers which are hanging out. He appears in
+LINE 32: the morning light as a robust, vital, appetizing sort of man of forty
+LINE 33: or thereabouts, dressed in a professional-looking black frock-coat with
+LINE 34: a white linen collar and black silk tie. He is of the energetic,
+LINE 35: scientific type, heartily, even violently interested in everything that
+LINE 36: can be studied as a scientific subject, and careless about himself and
+LINE 37: other people, including their feelings. He is, in fact, but for his
+LINE 38: years and size, rather like a very impetuous baby "taking notice"
+LINE 39: eagerly and loudly, and requiring almost as much watching to keep him
+LINE 40: out of unintended mischief. His manner varies from genial bullying when
+LINE 41: he is in a good humor to stormy petulance when anything goes wrong; but
+LINE 42: he is so entirely frank and void of malice that he remains likeable
+LINE 43: even in his least reasonable moments.
+LINE 44: HIGGINS [as he shuts the last drawer] Well, I think that's the whole
+LINE 45: show.
+LINE 46: PICKERING. It's really amazing. I haven't taken half of it in, you know.
+LINE 47: HIGGINS. Would you like to go over any of it again?
+LINE 48: PICKERING [rising and coming to the fireplace, where he plants himself
+LINE 49: with his back to the fire] No, thank you; not now. I'm quite done up
+LINE 50: for this morning.
+LINE 51: HIGGINS [following him, and standing beside him on his left] Tired of
+LINE 52: listening to sounds?
+LINE 53: PICKERING. Yes. It's a fearful strain. I rather fancied myself because
+LINE 54: I can pronounce twenty-four distinct vowel sounds; but your hundred and
+LINE 55: thirty beat me. I can't hear a bit of difference between most of them.
+LINE 56: HIGGINS [chuckling, and going over to the piano to eat sweets] Oh, that
+LINE 57: comes with practice. You hear no difference at first; but you keep on
+LINE 58: listening, and presently you find they're all as different as A from B.
+LINE 59: [Mrs. Pearce looks in: she is Higgins's housekeeper] What's the matter?
+LINE 60: MRS. PEARCE [hesitating, evidently perplexed] A young woman wants to
+LINE 61: see you, sir.
+LINE 62: HIGGINS. A young woman! What does she want?
+LINE 63: MRS. PEARCE. Well, sir, she says you'll be glad to see her when you
+LINE 64: know what she's come about. She's quite a common girl, sir. Very common
+LINE 65: indeed. I should have sent her away, only I thought perhaps you wanted
+LINE 66: her to talk into your machines. I hope I've not done wrong; but really
+LINE 67: you see such queer people sometimes—you'll excuse me, I'm sure, sir—
+LINE 68: HIGGINS. Oh, that's all right, Mrs. Pearce. Has she an interesting
+LINE 69: accent?
+LINE 70: MRS. PEARCE. Oh, something dreadful, sir, really. I don't know how you
+LINE 71: can take an interest in it.
+LINE 72: HIGGINS [to Pickering] Let's have her up. Show her up, Mrs. Pearce [he
+LINE 73: rushes across to his working table and picks out a cylinder to use on
+LINE 74: the phonograph].
+LINE 75: MRS. PEARCE [only half resigned to it] Very well, sir. It's for you to
+LINE 76: say. [She goes downstairs].
+LINE 77: HIGGINS. This is rather a bit of luck. I'll show you how I make
+LINE 78: records. We'll set her talking; and I'll take it down first in Bell's
+LINE 79: visible Speech; then in broad Romic; and then we'll get her on the
+LINE 80: phonograph so that you can turn her on as often as you like with the
+LINE 81: written transcript before you.
+LINE 82: MRS. PEARCE [returning] This is the young woman, sir.
+LINE 83: The flower girl enters in state. She has a hat with three ostrich
+LINE 84: feathers, orange, sky-blue, and red. She has a nearly clean apron, and
+LINE 85: the shoddy coat has been tidied a little. The pathos of this deplorable
+LINE 86: figure, with its innocent vanity and consequential air, touches
+LINE 87: Pickering, who has already straightened himself in the presence of Mrs.
+LINE 88: Pearce. But as to Higgins, the only distinction he makes between men
+LINE 89: and women is that when he is neither bullying nor exclaiming to the
+LINE 90: heavens against some featherweight cross, he coaxes women as a child
+LINE 91: coaxes its nurse when it wants to get anything out of her.
+LINE 92: HIGGINS [brusquely, recognizing her with unconcealed disappointment,
+LINE 93: and at once, baby-like, making an intolerable grievance of it] Why,
+LINE 94: this is the girl I jotted down last night. She's no use: I've got all
+LINE 95: the records I want of the Lisson Grove lingo; and I'm not going to
+LINE 96: waste another cylinder on it. [To the girl] Be off with you: I don't
+LINE 97: want you.
+LINE 98: THE FLOWER GIRL. Don't you be so saucy. You ain't heard what I come for
+LINE 99: yet. [To Mrs. Pearce, who is waiting at the door for further
+LINE 100: instruction] Did you tell him I come in a taxi?
+LINE 101: MRS. PEARCE. Nonsense, girl! what do you think a gentleman like Mr.
+LINE 102: Higgins cares what you came in?
+LINE 103: THE FLOWER GIRL. Oh, we are proud! He ain't above giving lessons, not
+LINE 104: him: I heard him say so. Well, I ain't come here to ask for any
+LINE 105: compliment; and if my money's not good enough I can go elsewhere.
+LINE 106: HIGGINS. Good enough for what?
+LINE 107: THE FLOWER GIRL. Good enough for ye—oo. Now you know, don't you? I'm
+LINE 108: come to have lessons, I am. And to pay for em too: make no mistake.
+LINE 109: HIGGINS [stupent] WELL!!! [Recovering his breath with a gasp] What do
+LINE 110: you expect me to say to you?
+LINE 111: THE FLOWER GIRL. Well, if you was a gentleman, you might ask me to sit
+LINE 112: down, I think. Don't I tell you I'm bringing you business?
+LINE 113: HIGGINS. Pickering: shall we ask this baggage to sit down or shall we
+LINE 114: throw her out of the window?
+LINE 115: THE FLOWER GIRL [running away in terror to the piano, where she turns
+LINE 116: at bay] Ah—ah—ah—ow—ow—ow—oo! [Wounded and whimpering] I won't be
+LINE 117: called a baggage when I've offered to pay like any lady.
+LINE 118: Motionless, the two men stare at her from the other side of the room,
+LINE 119: amazed.
+LINE 120: PICKERING [gently] What is it you want, my girl?
+LINE 121: THE FLOWER GIRL. I want to be a lady in a flower shop stead of selling
+LINE 122: at the corner of Tottenham Court Road. But they won't take me unless I
+LINE 123: can talk more genteel. He said he could teach me. Well, here I am ready
+LINE 124: to pay him—not asking any favor—and he treats me as if I was dirt.
+LINE 125: MRS. PEARCE. How can you be such a foolish ignorant girl as to think
+LINE 126: you could afford to pay Mr. Higgins?
+LINE 127: THE FLOWER GIRL. Why shouldn't I? I know what lessons cost as well as
+LINE 128: you do; and I'm ready to pay.
+LINE 129: HIGGINS. How much?
+LINE 130: THE FLOWER GIRL [coming back to him, triumphant] Now you're talking! I
+LINE 131: thought you'd come off it when you saw a chance of getting back a bit
+LINE 132: of what you chucked at me last night. [Confidentially] You'd had a drop
+LINE 133: in, hadn't you?
+LINE 134: HIGGINS [peremptorily] Sit down.
+LINE 135: THE FLOWER GIRL. Oh, if you're going to make a compliment of it—
+LINE 136: HIGGINS [thundering at her] Sit down.
+LINE 137: MRS. PEARCE [severely] Sit down, girl. Do as you're told. [She places
+LINE 138: the stray chair near the hearthrug between Higgins and Pickering, and
+LINE 139: stands behind it waiting for the girl to sit down].
+LINE 140: THE FLOWER GIRL. Ah—ah—ah—ow—ow—oo! [She stands, half rebellious,
+LINE 141: half bewildered].
+LINE 142: PICKERING [very courteous] Won't you sit down?
+LINE 143: LIZA [coyly] Don't mind if I do. [She sits down. Pickering returns to
+LINE 144: the hearthrug].
+LINE 145: HIGGINS. What's your name?
+LINE 146: THE FLOWER GIRL. Liza Doolittle.
+LINE 147: HIGGINS [declaiming gravely]
+LINE 148: Eliza, Elizabeth, Betsy and Bess,
+LINE 149: They went to the woods to get a bird's nes':
+LINE 150: PICKERING. They found a nest with four eggs in it:
+LINE 151: HIGGINS. They took one apiece, and left three in it.
+LINE 152: They laugh heartily at their own wit.
+LINE 153: LIZA. Oh, don't be silly.
+LINE 154: MRS. PEARCE. You mustn't speak to the gentleman like that.
+LINE 155: LIZA. Well, why won't he speak sensible to me?
+LINE 156: HIGGINS. Come back to business. How much do you propose to pay me for
+LINE 157: the lessons?
+LINE 158: LIZA. Oh, I know what's right. A lady friend of mine gets French
+LINE 159: lessons for eighteenpence an hour from a real French gentleman. Well,
+LINE 160: you wouldn't have the face to ask me the same for teaching me my own
+LINE 161: language as you would for French; so I won't give more than a shilling.
+LINE 162: Take it or leave it.
+LINE 163: HIGGINS [walking up and down the room, rattling his keys and his cash
+LINE 164: in his pockets] You know, Pickering, if you consider a shilling, not as
+LINE 165: a simple shilling, but as a percentage of this girl's income, it works
+LINE 166: out as fully equivalent to sixty or seventy guineas from a millionaire.
+LINE 167: PICKERING. How so?
+LINE 168: HIGGINS. Figure it out. A millionaire has about 150 pounds a day. She
+LINE 169: earns about half-a-crown.
+LINE 170: LIZA [haughtily] Who told you I only—
+LINE 171: HIGGINS [continuing] She offers me two-fifths of her day's income for a
+LINE 172: lesson. Two-fifths of a millionaire's income for a day would be
+LINE 173: somewhere about 60 pounds. It's handsome. By George, it's enormous!
+LINE 174: it's the biggest offer I ever had.
+LINE 175: LIZA [rising, terrified] Sixty pounds! What are you talking about? I
+LINE 176: never offered you sixty pounds. Where would I get—
+LINE 177: HIGGINS. Hold your tongue.
+LINE 178: LIZA [weeping] But I ain't got sixty pounds. Oh—
+LINE 179: MRS. PEARCE. Don't cry, you silly girl. Sit down. Nobody is going to
+LINE 180: touch your money.
+LINE 181: HIGGINS. Somebody is going to touch you, with a broomstick, if you
+LINE 182: don't stop snivelling. Sit down.
+LINE 183: LIZA [obeying slowly] Ah—ah—ah—ow—oo—o! One would think you was my
+LINE 184: father.
+LINE 185: HIGGINS. If I decide to teach you, I'll be worse than two fathers to
+LINE 186: you. Here [he offers her his silk handkerchief]!
+LINE 187: LIZA. What's this for?
+LINE 188: HIGGINS. To wipe your eyes. To wipe any part of your face that feels
+LINE 189: moist. Remember: that's your handkerchief; and that's your sleeve.
+LINE 190: Don't mistake the one for the other if you wish to become a lady in a
+LINE 191: shop.
+LINE 192: Liza, utterly bewildered, stares helplessly at him.
+LINE 193: MRS. PEARCE. It's no use talking to her like that, Mr. Higgins: she
+LINE 194: doesn't understand you. Besides, you're quite wrong: she doesn't do it
+LINE 195: that way at all [she takes the handkerchief].
+LINE 196: LIZA [snatching it] Here! You give me that handkerchief. He give it to
+LINE 197: me, not to you.
+LINE 198: PICKERING [laughing] He did. I think it must be regarded as her
+LINE 199: property, Mrs. Pearce.
+LINE 200: MRS. PEARCE [resigning herself] Serve you right, Mr. Higgins.
+LINE 201: PICKERING. Higgins: I'm interested. What about the ambassador's garden
+LINE 202: party? I'll say you're the greatest teacher alive if you make that
+LINE 203: good. I'll bet you all the expenses of the experiment you can't do it.
+LINE 204: And I'll pay for the lessons.
+LINE 205: LIZA. Oh, you are real good. Thank you, Captain.
+LINE 206: HIGGINS [tempted, looking at her] It's almost irresistible. She's so
+LINE 207: deliciously low—so horribly dirty—
+LINE 208: LIZA [protesting extremely] Ah—ah—ah—ah—ow—ow—oooo!!! I ain't
+LINE 209: dirty: I washed my face and hands afore I come, I did.
+LINE 210: PICKERING. You're certainly not going to turn her head with flattery,
+LINE 211: Higgins.
+LINE 212: MRS. PEARCE [uneasy] Oh, don't say that, sir: there's more ways than
+LINE 213: one of turning a girl's head; and nobody can do it better than Mr.
+LINE 214: Higgins, though he may not always mean it. I do hope, sir, you won't
+LINE 215: encourage him to do anything foolish.
+LINE 216: HIGGINS [becoming excited as the idea grows on him] What is life but a
+LINE 217: series of inspired follies? The difficulty is to find them to do. Never
+LINE 218: lose a chance: it doesn't come every day. I shall make a duchess of
+LINE 219: this draggletailed guttersnipe.
+LINE 220: LIZA [strongly deprecating this view of her] Ah—ah—ah—ow—ow—oo!
+LINE 221: HIGGINS [carried away] Yes: in six months—in three if she has a good
+LINE 222: ear and a quick tongue—I'll take her anywhere and pass her off as
+LINE 223: anything. We'll start today: now! this moment! Take her away and clean
+LINE 224: her, Mrs. Pearce. Monkey Brand, if it won't come off any other way. Is
+LINE 225: there a good fire in the kitchen?
+LINE 226: MRS. PEARCE [protesting]. Yes; but—
+LINE 227: HIGGINS [storming on] Take all her clothes off and burn them. Ring up
+LINE 228: Whiteley or somebody for new ones. Wrap her up in brown paper till they
+LINE 229: come.
+LINE 230: LIZA. You're no gentleman, you're not, to talk of such things. I'm a
+LINE 231: good girl, I am; and I know what the like of you are, I do.
+LINE 232: HIGGINS. We want none of your Lisson Grove prudery here, young woman.
+LINE 233: You've got to learn to behave like a duchess. Take her away, Mrs.
+LINE 234: Pearce. If she gives you any trouble wallop her.
+LINE 235: LIZA [springing up and running between Pickering and Mrs. Pearce for
+LINE 236: protection] No! I'll call the police, I will.
+LINE 237: MRS. PEARCE. But I've no place to put her.
+LINE 238: HIGGINS. Put her in the dustbin.
+LINE 239: LIZA. Ah—ah—ah—ow—ow—oo!
+LINE 240: PICKERING. Oh come, Higgins! be reasonable.
+LINE 241: MRS. PEARCE [resolutely] You must be reasonable, Mr. Higgins: really
+LINE 242: you must. You can't walk over everybody like this.
+LINE 243: Higgins, thus scolded, subsides. The hurricane is succeeded by a zephyr
+LINE 244: of amiable surprise.
+LINE 245: HIGGINS [with professional exquisiteness of modulation] I walk over
+LINE 246: everybody! My dear Mrs. Pearce, my dear Pickering, I never had the
+LINE 247: slightest intention of walking over anyone. All I propose is that we
+LINE 248: should be kind to this poor girl. We must help her to prepare and fit
+LINE 249: herself for her new station in life. If I did not express myself
+LINE 250: clearly it was because I did not wish to hurt her delicacy, or yours.
+LINE 251: Liza, reassured, steals back to her chair.
+LINE 252: MRS. PEARCE [to Pickering] Well, did you ever hear anything like that,
+LINE 253: sir?
+LINE 254: PICKERING [laughing heartily] Never, Mrs. Pearce: never.
+LINE 255: HIGGINS [patiently] What's the matter?
+LINE 256: MRS. PEARCE. Well, the matter is, sir, that you can't take a girl up
+LINE 257: like that as if you were picking up a pebble on the beach.
+LINE 258: HIGGINS. Why not?
+LINE 259: MRS. PEARCE. Why not! But you don't know anything about her. What about
+LINE 260: her parents? She may be married.
+LINE 261: LIZA. Garn!
+LINE 262: HIGGINS. There! As the girl very properly says, Garn! Married indeed!
+LINE 263: Don't you know that a woman of that class looks a worn out drudge of
+LINE 264: fifty a year after she's married.
+LINE 265: LIZA. Who'd marry me?
+LINE 266: HIGGINS [suddenly resorting to the most thrillingly beautiful low tones
+LINE 267: in his best elocutionary style] By George, Eliza, the streets will be
+LINE 268: strewn with the bodies of men shooting themselves for your sake before
+LINE 269: I've done with you.
+LINE 270: MRS. PEARCE. Nonsense, sir. You mustn't talk like that to her.
+LINE 271: LIZA [rising and squaring herself determinedly] I'm going away. He's
+LINE 272: off his chump, he is. I don't want no balmies teaching me.
+LINE 273: HIGGINS [wounded in his tenderest point by her insensibility to his
+LINE 274: elocution] Oh, indeed! I'm mad, am I? Very well, Mrs. Pearce: you
+LINE 275: needn't order the new clothes for her. Throw her out.
+LINE 276: LIZA [whimpering] Nah—ow. You got no right to touch me.
+LINE 277: MRS. PEARCE. You see now what comes of being saucy. [Indicating the
+LINE 278: door] This way, please.
+LINE 279: LIZA [almost in tears] I didn't want no clothes. I wouldn't have taken
+LINE 280: them [she throws away the handkerchief]. I can buy my own clothes.
+LINE 281: HIGGINS [deftly retrieving the handkerchief and intercepting her on her
+LINE 282: reluctant way to the door] You're an ungrateful wicked girl. This is my
+LINE 283: return for offering to take you out of the gutter and dress you
+LINE 284: beautifully and make a lady of you.
+LINE 285: MRS. PEARCE. Stop, Mr. Higgins. I won't allow it. It's you that are
+LINE 286: wicked. Go home to your parents, girl; and tell them to take better
+LINE 287: care of you.
+LINE 288: LIZA. I ain't got no parents. They told me I was big enough to earn my
+LINE 289: own living and turned me out.
+LINE 290: MRS. PEARCE. Where's your mother?
+LINE 291: LIZA. I ain't got no mother. Her that turned me out was my sixth
+LINE 292: stepmother. But I done without them. And I'm a good girl, I am.
+LINE 293: HIGGINS. Very well, then, what on earth is all this fuss about? The
+LINE 294: girl doesn't belong to anybody—is no use to anybody but me. [He goes
+LINE 295: to Mrs. Pearce and begins coaxing]. You can adopt her, Mrs. Pearce: I'm
+LINE 296: sure a daughter would be a great amusement to you. Now don't make any
+LINE 297: more fuss. Take her downstairs; and—
+LINE 298: MRS. PEARCE. But what's to become of her? Is she to be paid anything?
+LINE 299: Do be sensible, sir.
+LINE 300: HIGGINS. Oh, pay her whatever is necessary: put it down in the
+LINE 301: housekeeping book. [Impatiently] What on earth will she want with
+LINE 302: money? She'll have her food and her clothes. She'll only drink if you
+LINE 303: give her money.
+LINE 304: LIZA [turning on him] Oh you are a brute. It's a lie: nobody ever saw
+LINE 305: the sign of liquor on me. [She goes back to her chair and plants
+LINE 306: herself there defiantly].
+LINE 307: PICKERING [in good-humored remonstrance] Does it occur to you, Higgins,
+LINE 308: that the girl has some feelings?
+LINE 309: HIGGINS [looking critically at her] Oh no, I don't think so. Not any
+LINE 310: feelings that we need bother about. [Cheerily] Have you, Eliza?
+LINE 311: LIZA. I got my feelings same as anyone else.
+LINE 312: HIGGINS [to Pickering, reflectively] You see the difficulty?
+LINE 313: PICKERING. Eh? What difficulty?
+LINE 314: HIGGINS. To get her to talk grammar. The mere pronunciation is easy
+LINE 315: enough.
+LINE 316: LIZA. I don't want to talk grammar. I want to talk like a lady.
+LINE 317: MRS. PEARCE. Will you please keep to the point, Mr. Higgins. I want to
+LINE 318: know on what terms the girl is to be here. Is she to have any wages?
+LINE 319: And what is to become of her when you've finished your teaching? You
+LINE 320: must look ahead a little.
+LINE 321: HIGGINS [impatiently] What's to become of her if I leave her in the
+LINE 322: gutter? Tell me that, Mrs. Pearce.
+LINE 323: MRS. PEARCE. That's her own business, not yours, Mr. Higgins.
+LINE 324: HIGGINS. Well, when I've done with her, we can throw her back into the
+LINE 325: gutter; and then it will be her own business again; so that's all right.
+LINE 326: LIZA. Oh, you've no feeling heart in you: you don't care for nothing
+LINE 327: but yourself [she rises and takes the floor resolutely]. Here! I've had
+LINE 328: enough of this. I'm going [making for the door]. You ought to be
+LINE 329: ashamed of yourself, you ought.
+LINE 330: HIGGINS [snatching a chocolate cream from the piano, his eyes suddenly
+LINE 331: beginning to twinkle with mischief] Have some chocolates, Eliza.
+LINE 332: LIZA [halting, tempted] How do I know what might be in them? I've heard
+LINE 333: of girls being drugged by the like of you.
+LINE 334: Higgins whips out his penknife; cuts a chocolate in two; puts one half
+LINE 335: into his mouth and bolts it; and offers her the other half.
+LINE 336: HIGGINS. Pledge of good faith, Eliza. I eat one half you eat the other.
+LINE 337: [Liza opens her mouth to retort: he pops the half chocolate into it].
+LINE 338: You shall have boxes of them, barrels of them, every day. You shall
+LINE 339: live on them. Eh?
+LINE 340: LIZA [who has disposed of the chocolate after being nearly choked by
+LINE 341: it] I wouldn't have ate it, only I'm too ladylike to take it out of my
+LINE 342: mouth.
+LINE 343: HIGGINS. Listen, Eliza. I think you said you came in a taxi.
+LINE 344: LIZA. Well, what if I did? I've as good a right to take a taxi as
+LINE 345: anyone else.
+LINE 346: HIGGINS. You have, Eliza; and in future you shall have as many taxis as
+LINE 347: you want. You shall go up and down and round the town in a taxi every
+LINE 348: day. Think of that, Eliza.
+LINE 349: MRS. PEARCE. Mr. Higgins: you're tempting the girl. It's not right. She
+LINE 350: should think of the future.
+LINE 351: HIGGINS. At her age! Nonsense! Time enough to think of the future when
+LINE 352: you haven't any future to think of. No, Eliza: do as this lady does:
+LINE 353: think of other people's futures; but never think of your own. Think of
+LINE 354: chocolates, and taxis, and gold, and diamonds.
+LINE 355: LIZA. No: I don't want no gold and no diamonds. I'm a good girl, I am.
+LINE 356: [She sits down again, with an attempt at dignity].
+LINE 357: HIGGINS. You shall remain so, Eliza, under the care of Mrs. Pearce. And
+LINE 358: you shall marry an officer in the Guards, with a beautiful moustache:
+LINE 359: the son of a marquis, who will disinherit him for marrying you, but
+LINE 360: will relent when he sees your beauty and goodness—
+LINE 361: PICKERING. Excuse me, Higgins; but I really must interfere. Mrs. Pearce
+LINE 362: is quite right. If this girl is to put herself in your hands for six
+LINE 363: months for an experiment in teaching, she must understand thoroughly
+LINE 364: what she's doing.
+LINE 365: HIGGINS. How can she? She's incapable of understanding anything.
+LINE 366: Besides, do any of us understand what we are doing? If we did, would we
+LINE 367: ever do it?
+LINE 368: PICKERING. Very clever, Higgins; but not sound sense. [To Eliza] Miss
+LINE 369: Doolittle—
+LINE 370: LIZA [overwhelmed] Ah—ah—ow—oo!
+LINE 371: HIGGINS. There! That's all you get out of Eliza. Ah—ah—ow—oo! No use
+LINE 372: explaining. As a military man you ought to know that. Give her her
+LINE 373: orders: that's what she wants. Eliza: you are to live here for the next
+LINE 374: six months, learning how to speak beautifully, like a lady in a
+LINE 375: florist's shop. If you're good and do whatever you're told, you shall
+LINE 376: sleep in a proper bedroom, and have lots to eat, and money to buy
+LINE 377: chocolates and take rides in taxis. If you're naughty and idle you will
+LINE 378: sleep in the back kitchen among the black beetles, and be walloped by
+LINE 379: Mrs. Pearce with a broomstick. At the end of six months you shall go to
+LINE 380: Buckingham Palace in a carriage, beautifully dressed. If the King finds
+LINE 381: out you're not a lady, you will be taken by the police to the Tower of
+LINE 382: London, where your head will be cut off as a warning to other
+LINE 383: presumptuous flower girls. If you are not found out, you shall have a
+LINE 384: present of seven-and-sixpence to start life with as a lady in a shop.
+LINE 385: If you refuse this offer you will be a most ungrateful and wicked girl;
+LINE 386: and the angels will weep for you. [To Pickering] Now are you satisfied,
+LINE 387: Pickering? [To Mrs. Pearce] Can I put it more plainly and fairly, Mrs.
+LINE 388: Pearce?
+LINE 389: MRS. PEARCE [patiently] I think you'd better let me speak to the girl
+LINE 390: properly in private. I don't know that I can take charge of her or
+LINE 391: consent to the arrangement at all. Of course I know you don't mean her
+LINE 392: any harm; but when you get what you call interested in people's
+LINE 393: accents, you never think or care what may happen to them or you. Come
+LINE 394: with me, Eliza.
+LINE 395: HIGGINS. That's all right. Thank you, Mrs. Pearce. Bundle her off to
+LINE 396: the bath-room.
+LINE 397: LIZA [rising reluctantly and suspiciously] You're a great bully, you
+LINE 398: are. I won't stay here if I don't like. I won't let nobody wallop me. I
+LINE 399: never asked to go to Bucknam Palace, I didn't. I was never in trouble
+LINE 400: with the police, not me. I'm a good girl—
+LINE 401: MRS. PEARCE. Don't answer back, girl. You don't understand the
+LINE 402: gentleman. Come with me. [She leads the way to the door, and holds it
+LINE 403: open for Eliza].
+LINE 404: LIZA [as she goes out] Well, what I say is right. I won't go near the
+LINE 405: king, not if I'm going to have my head cut off. If I'd known what I was
+LINE 406: letting myself in for, I wouldn't have come here. I always been a good
+LINE 407: girl; and I never offered to say a word to him; and I don't owe him
+LINE 408: nothing; and I don't care; and I won't be put upon; and I have my
+LINE 409: feelings the same as anyone else—
+LINE 410: Mrs. Pearce shuts the door; and Eliza's plaints are no longer audible.
+LINE 411: Pickering comes from the hearth to the chair and sits astride it with
+LINE 412: his arms on the back.
+LINE 413: PICKERING. Excuse the straight question, Higgins. Are you a man of good
+LINE 414: character where women are concerned?
+LINE 415: HIGGINS [moodily] Have you ever met a man of good character where women
+LINE 416: are concerned?
+LINE 417: PICKERING. Yes: very frequently.
+LINE 418: HIGGINS [dogmatically, lifting himself on his hands to the level of the
+LINE 419: piano, and sitting on it with a bounce] Well, I haven't. I find that
+LINE 420: the moment I let a woman make friends with me, she becomes jealous,
+LINE 421: exacting, suspicious, and a damned nuisance. I find that the moment I
+LINE 422: let myself make friends with a woman, I become selfish and tyrannical.
+LINE 423: Women upset everything. When you let them into your life, you find that
+LINE 424: the woman is driving at one thing and you're driving at another.
+LINE 425: PICKERING. At what, for example?
+LINE 426: HIGGINS [coming off the piano restlessly] Oh, Lord knows! I suppose the
+LINE 427: woman wants to live her own life; and the man wants to live his; and
+LINE 428: each tries to drag the other on to the wrong track. One wants to go
+LINE 429: north and the other south; and the result is that both have to go east,
+LINE 430: though they both hate the east wind. [He sits down on the bench at the
+LINE 431: keyboard]. So here I am, a confirmed old bachelor, and likely to remain
+LINE 432: so.
+LINE 433: PICKERING [rising and standing over him gravely] Come, Higgins! You
+LINE 434: know what I mean. If I'm to be in this business I shall feel
+LINE 435: responsible for that girl. I hope it's understood that no advantage is
+LINE 436: to be taken of her position.
+LINE 437: HIGGINS. What! That thing! Sacred, I assure you. [Rising to explain]
+LINE 438: You see, she'll be a pupil; and teaching would be impossible unless
+LINE 439: pupils were sacred. I've taught scores of American millionairesses how
+LINE 440: to speak English: the best looking women in the world. I'm seasoned.
+LINE 441: They might as well be blocks of wood. I might as well be a block of
+LINE 442: wood. It's—
+LINE 443: Mrs. Pearce opens the door. She has Eliza's hat in her hand. Pickering
+LINE 444: retires to the easy-chair at the hearth and sits down.
+LINE 445: HIGGINS [eagerly] Well, Mrs. Pearce: is it all right?
+LINE 446: MRS. PEARCE [at the door] I just wish to trouble you with a word, if I
+LINE 447: may, Mr. Higgins.
+LINE 448: HIGGINS. Yes, certainly. Come in. [She comes forward]. Don't burn that,
+LINE 449: Mrs. Pearce. I'll keep it as a curiosity. [He takes the hat].
+LINE 450: MRS. PEARCE. Handle it carefully, sir, please. I had to promise her not
+LINE 451: to burn it; but I had better put it in the oven for a while.
+LINE 452: HIGGINS [putting it down hastily on the piano] Oh! thank you. Well,
+LINE 453: what have you to say to me?
+LINE 454: PICKERING. Am I in the way?
+LINE 455: MRS. PEARCE. Not at all, sir. Mr. Higgins: will you please be very
+LINE 456: particular what you say before the girl?
+LINE 457: HIGGINS [sternly] Of course. I'm always particular about what I say.
+LINE 458: Why do you say this to me?
+LINE 459: MRS. PEARCE [unmoved] No, sir: you're not at all particular when you've
+LINE 460: mislaid anything or when you get a little impatient. Now it doesn't
+LINE 461: matter before me: I'm used to it. But you really must not swear before
+LINE 462: the girl.
+LINE 463: HIGGINS [indignantly] I swear! [Most emphatically] I never swear. I
+LINE 464: detest the habit. What the devil do you mean?
+LINE 465: MRS. PEARCE [stolidly] That's what I mean, sir. You swear a great deal
+LINE 466: too much. I don't mind your damning and blasting, and what the devil
+LINE 467: and where the devil and who the devil—
+LINE 468: HIGGINS. Really! Mrs. Pearce: this language from your lips!
+LINE 469: MRS. PEARCE [not to be put off]—but there is a certain word I must ask
+LINE 470: you not to use. The girl has just used it herself because the bath was
+LINE 471: too hot. It begins with the same letter as bath. She knows no better:
+LINE 472: she learnt it at her mother's knee. But she must not hear it from your
+LINE 473: lips.
+LINE 474: HIGGINS [loftily] I cannot charge myself with having ever uttered it,
+LINE 475: Mrs. Pearce. [She looks at him steadfastly. He adds, hiding an uneasy
+LINE 476: conscience with a judicial air] Except perhaps in a moment of extreme
+LINE 477: and justifiable excitement.
+LINE 478: MRS. PEARCE. Only this morning, sir, you applied it to your boots, to
+LINE 479: the butter, and to the brown bread.
+LINE 480: HIGGINS. Oh, that! Mere alliteration, Mrs. Pearce, natural to a poet.
+LINE 481: MRS. PEARCE. Well, sir, whatever you choose to call it, I beg you not
+LINE 482: to let the girl hear you repeat it.
+LINE 483: HIGGINS. Oh, very well, very well. Is that all?
+LINE 484: MRS. PEARCE. No, sir. We shall have to be very particular with this
+LINE 485: girl as to personal cleanliness.
+LINE 486: HIGGINS. Certainly. Quite right. Most important.
+LINE 487: MRS. PEARCE. I mean not to be slovenly about her dress or untidy in
+LINE 488: leaving things about.
+LINE 489: HIGGINS [going to her solemnly] Just so. I intended to call your
+LINE 490: attention to that [He passes on to Pickering, who is enjoying the
+LINE 491: conversation immensely]. It is these little things that matter,
+LINE 492: Pickering. Take care of the pence and the pounds will take care of
+LINE 493: themselves is as true of personal habits as of money. [He comes to
+LINE 494: anchor on the hearthrug, with the air of a man in an unassailable
+LINE 495: position].
+LINE 496: MRS. PEARCE. Yes, sir. Then might I ask you not to come down to
+LINE 497: breakfast in your dressing-gown, or at any rate not to use it as a
+LINE 498: napkin to the extent you do, sir. And if you would be so good as not to
+LINE 499: eat everything off the same plate, and to remember not to put the
+LINE 500: porridge saucepan out of your hand on the clean tablecloth, it would be
+LINE 501: a better example to the girl. You know you nearly choked yourself with
+LINE 502: a fishbone in the jam only last week.
+LINE 503: HIGGINS [routed from the hearthrug and drifting back to the piano] I
+LINE 504: may do these things sometimes in absence of mind; but surely I don't do
+LINE 505: them habitually. [Angrily] By the way: my dressing-gown smells most
+LINE 506: damnably of benzine.
+LINE 507: MRS. PEARCE. No doubt it does, Mr. Higgins. But if you will wipe your
+LINE 508: fingers—
+LINE 509: HIGGINS [yelling] Oh very well, very well: I'll wipe them in my hair in
+LINE 510: future.
+LINE 511: MRS. PEARCE. I hope you're not offended, Mr. Higgins.
+LINE 512: HIGGINS [shocked at finding himself thought capable of an unamiable
+LINE 513: sentiment] Not at all, not at all. You're quite right, Mrs. Pearce: I
+LINE 514: shall be particularly careful before the girl. Is that all?
+LINE 515: MRS. PEARCE. No, sir. Might she use some of those Japanese dresses you
+LINE 516: brought from abroad? I really can't put her back into her old things.
+LINE 517: HIGGINS. Certainly. Anything you like. Is that all?
+LINE 518: MRS. PEARCE. Thank you, sir. That's all. [She goes out].
+LINE 519: HIGGINS. You know, Pickering, that woman has the most extraordinary
+LINE 520: ideas about me. Here I am, a shy, diffident sort of man. I've never
+LINE 521: been able to feel really grown-up and tremendous, like other chaps. And
+LINE 522: yet she's firmly persuaded that I'm an arbitrary overbearing bossing
+LINE 523: kind of person. I can't account for it.
+LINE 524: Mrs. Pearce returns.
+LINE 525: MRS. PEARCE. If you please, sir, the trouble's beginning already.
+LINE 526: There's a dustman downstairs, Alfred Doolittle, wants to see you. He
+LINE 527: says you have his daughter here.
+LINE 528: PICKERING [rising] Phew! I say! [He retreats to the hearthrug].
+LINE 529: HIGGINS [promptly] Send the blackguard up.
+LINE 530: MRS. PEARCE. Oh, very well, sir. [She goes out].
+LINE 531: PICKERING. He may not be a blackguard, Higgins.
+LINE 532: HIGGINS. Nonsense. Of course he's a blackguard.
+LINE 533: PICKERING. Whether he is or not, I'm afraid we shall have some trouble
+LINE 534: with him.
+LINE 535: HIGGINS [confidently] Oh no: I think not. If there's any trouble he
+LINE 536: shall have it with me, not I with him. And we are sure to get something
+LINE 537: interesting out of him.
+LINE 538: PICKERING. About the girl?
+LINE 539: HIGGINS. No. I mean his dialect.
+LINE 540: PICKERING. Oh!
+LINE 541: MRS. PEARCE [at the door] Doolittle, sir. [She admits Doolittle and
+LINE 542: retires].
+LINE 543: Alfred Doolittle is an elderly but vigorous dustman, clad in the
+LINE 544: costume of his profession, including a hat with a back brim covering
+LINE 545: his neck and shoulders. He has well marked and rather interesting
+LINE 546: features, and seems equally free from fear and conscience. He has a
+LINE 547: remarkably expressive voice, the result of a habit of giving vent to
+LINE 548: his feelings without reserve. His present pose is that of wounded honor
+LINE 549: and stern resolution.
+LINE 550: DOOLITTLE [at the door, uncertain which of the two gentlemen is his
+LINE 551: man] Professor Higgins?
+LINE 552: HIGGINS. Here. Good morning. Sit down.
+LINE 553: DOOLITTLE. Morning, Governor. [He sits down magisterially] I come about
+LINE 554: a very serious matter, Governor.
+LINE 555: HIGGINS [to Pickering] Brought up in Hounslow. Mother Welsh, I should
+LINE 556: think. [Doolittle opens his mouth, amazed. Higgins continues] What do
+LINE 557: you want, Doolittle?
+LINE 558: DOOLITTLE [menacingly] I want my daughter: that's what I want. See?
+LINE 559: HIGGINS. Of course you do. You're her father, aren't you? You don't
+LINE 560: suppose anyone else wants her, do you? I'm glad to see you have some
+LINE 561: spark of family feeling left. She's upstairs. Take her away at once.
+LINE 562: DOOLITTLE [rising, fearfully taken aback] What!
+LINE 563: HIGGINS. Take her away. Do you suppose I'm going to keep your daughter
+LINE 564: for you?
+LINE 565: DOOLITTLE [remonstrating] Now, now, look here, Governor. Is this
+LINE 566: reasonable? Is it fair to take advantage of a man like this? The girl
+LINE 567: belongs to me. You got her. Where do I come in? [He sits down again].
+LINE 568: HIGGINS. Your daughter had the audacity to come to my house and ask me
+LINE 569: to teach her how to speak properly so that she could get a place in a
+LINE 570: flower-shop. This gentleman and my housekeeper have been here all the
+LINE 571: time. [Bullying him] How dare you come here and attempt to blackmail
+LINE 572: me? You sent her here on purpose.
+LINE 573: DOOLITTLE [protesting] No, Governor.
+LINE 574: HIGGINS. You must have. How else could you possibly know that she is
+LINE 575: here?
+LINE 576: DOOLITTLE. Don't take a man up like that, Governor.
+LINE 577: HIGGINS. The police shall take you up. This is a plant—a plot to
+LINE 578: extort money by threats. I shall telephone for the police [he goes
+LINE 579: resolutely to the telephone and opens the directory].
+LINE 580: DOOLITTLE. Have I asked you for a brass farthing? I leave it to the
+LINE 581: gentleman here: have I said a word about money?
+LINE 582: HIGGINS [throwing the book aside and marching down on Doolittle with a
+LINE 583: poser] What else did you come for?
+LINE 584: DOOLITTLE [sweetly] Well, what would a man come for? Be human, governor.
+LINE 585: HIGGINS [disarmed] Alfred: did you put her up to it?
+LINE 586: DOOLITTLE. So help me, Governor, I never did. I take my Bible oath I
+LINE 587: ain't seen the girl these two months past.
+LINE 588: HIGGINS. Then how did you know she was here?
+LINE 589: DOOLITTLE ["most musical, most melancholy"] I'll tell you, Governor, if
+LINE 590: you'll only let me get a word in. I'm willing to tell you. I'm wanting
+LINE 591: to tell you. I'm waiting to tell you.
+LINE 592: HIGGINS. Pickering: this chap has a certain natural gift of rhetoric.
+LINE 593: Observe the rhythm of his native woodnotes wild. "I'm willing to tell
+LINE 594: you: I'm wanting to tell you: I'm waiting to tell you." Sentimental
+LINE 595: rhetoric! That's the Welsh strain in him. It also accounts for his
+LINE 596: mendacity and dishonesty.
+LINE 597: PICKERING. Oh, PLEASE, Higgins: I'm west country myself. [To Doolittle]
+LINE 598: How did you know the girl was here if you didn't send her?
+LINE 599: DOOLITTLE. It was like this, Governor. The girl took a boy in the taxi
+LINE 600: to give him a jaunt. Son of her landlady, he is. He hung about on the
+LINE 601: chance of her giving him another ride home. Well, she sent him back for
+LINE 602: her luggage when she heard you was willing for her to stop here. I met
+LINE 603: the boy at the corner of Long Acre and Endell Street.
+LINE 604: HIGGINS. Public house. Yes?
+LINE 605: DOOLITTLE. The poor man's club, Governor: why shouldn't I?
+LINE 606: PICKERING. Do let him tell his story, Higgins.
+LINE 607: DOOLITTLE. He told me what was up. And I ask you, what was my feelings
+LINE 608: and my duty as a father? I says to the boy, "You bring me the luggage,"
+LINE 609: I says—
+LINE 610: PICKERING. Why didn't you go for it yourself?
+LINE 611: DOOLITTLE. Landlady wouldn't have trusted me with it, Governor. She's
+LINE 612: that kind of woman: you know. I had to give the boy a penny afore he
+LINE 613: trusted me with it, the little swine. I brought it to her just to
+LINE 614: oblige you like, and make myself agreeable. That's all.
+LINE 615: HIGGINS. How much luggage?
+LINE 616: DOOLITTLE. Musical instrument, Governor. A few pictures, a trifle of
+LINE 617: jewelry, and a bird-cage. She said she didn't want no clothes. What was
+LINE 618: I to think from that, Governor? I ask you as a parent what was I to
+LINE 619: think?
+LINE 620: HIGGINS. So you came to rescue her from worse than death, eh?
+LINE 621: DOOLITTLE [appreciatively: relieved at being understood] Just so,
+LINE 622: Governor. That's right.
+LINE 623: PICKERING. But why did you bring her luggage if you intended to take
+LINE 624: her away?
+LINE 625: DOOLITTLE. Have I said a word about taking her away? Have I now?
+LINE 626: HIGGINS [determinedly] You're going to take her away, double quick. [He
+LINE 627: crosses to the hearth and rings the bell].
+LINE 628: DOOLITTLE [rising] No, Governor. Don't say that. I'm not the man to
+LINE 629: stand in my girl's light. Here's a career opening for her, as you might
+LINE 630: say; and—
+LINE 631: Mrs. Pearce opens the door and awaits orders.
+LINE 632: HIGGINS. Mrs. Pearce: this is Eliza's father. He has come to take her
+LINE 633: away. Give her to him. [He goes back to the piano, with an air of
+LINE 634: washing his hands of the whole affair].
+LINE 635: DOOLITTLE. No. This is a misunderstanding. Listen here—
+LINE 636: MRS. PEARCE. He can't take her away, Mr. Higgins: how can he? You told
+LINE 637: me to burn her clothes.
+LINE 638: DOOLITTLE. That's right. I can't carry the girl through the streets
+LINE 639: like a blooming monkey, can I? I put it to you.
+LINE 640: HIGGINS. You have put it to me that you want your daughter. Take your
+LINE 641: daughter. If she has no clothes go out and buy her some.
+LINE 642: DOOLITTLE [desperate] Where's the clothes she come in? Did I burn them
+LINE 643: or did your missus here?
+LINE 644: MRS. PEARCE. I am the housekeeper, if you please. I have sent for some
+LINE 645: clothes for your girl. When they come you can take her away. You can
+LINE 646: wait in the kitchen. This way, please.
+LINE 647: Doolittle, much troubled, accompanies her to the door; then hesitates;
+LINE 648: finally turns confidentially to Higgins.
+LINE 649: DOOLITTLE. Listen here, Governor. You and me is men of the world, ain't
+LINE 650: we?
+LINE 651: HIGGINS. Oh! Men of the world, are we? You'd better go, Mrs. Pearce.
+LINE 652: MRS. PEARCE. I think so, indeed, sir. [She goes, with dignity].
+LINE 653: PICKERING. The floor is yours, Mr. Doolittle.
+LINE 654: DOOLITTLE [to Pickering] I thank you, Governor. [To Higgins, who takes
+LINE 655: refuge on the piano bench, a little overwhelmed by the proximity of his
+LINE 656: visitor; for Doolittle has a professional flavor of dust about him].
+LINE 657: Well, the truth is, I've taken a sort of fancy to you, Governor; and if
+LINE 658: you want the girl, I'm not so set on having her back home again but
+LINE 659: what I might be open to an arrangement. Regarded in the light of a
+LINE 660: young woman, she's a fine handsome girl. As a daughter she's not worth
+LINE 661: her keep; and so I tell you straight. All I ask is my rights as a
+LINE 662: father; and you're the last man alive to expect me to let her go for
+LINE 663: nothing; for I can see you're one of the straight sort, Governor. Well,
+LINE 664: what's a five pound note to you? And what's Eliza to me? [He returns to
+LINE 665: his chair and sits down judicially].
+LINE 666: PICKERING. I think you ought to know, Doolittle, that Mr. Higgins's
+LINE 667: intentions are entirely honorable.
+LINE 668: DOOLITTLE. Course they are, Governor. If I thought they wasn't, I'd ask
+LINE 669: fifty.
+LINE 670: HIGGINS [revolted] Do you mean to say, you callous rascal, that you
+LINE 671: would sell your daughter for 50 pounds?
+LINE 672: DOOLITTLE. Not in a general way I wouldn't; but to oblige a gentleman
+LINE 673: like you I'd do a good deal, I do assure you.
+LINE 674: PICKERING. Have you no morals, man?
+LINE 675: DOOLITTLE [unabashed] Can't afford them, Governor. Neither could you if
+LINE 676: you was as poor as me. Not that I mean any harm, you know. But if Liza
+LINE 677: is going to have a bit out of this, why not me too?
+LINE 678: HIGGINS [troubled] I don't know what to do, Pickering. There can be no
+LINE 679: question that as a matter of morals it's a positive crime to give this
+LINE 680: chap a farthing. And yet I feel a sort of rough justice in his claim.
+LINE 681: DOOLITTLE. That's it, Governor. That's all I say. A father's heart, as
+LINE 682: it were.
+LINE 683: PICKERING. Well, I know the feeling; but really it seems hardly right—
+LINE 684: DOOLITTLE. Don't say that, Governor. Don't look at it that way. What am
+LINE 685: I, Governors both? I ask you, what am I? I'm one of the undeserving
+LINE 686: poor: that's what I am. Think of what that means to a man. It means
+LINE 687: that he's up agen middle class morality all the time. If there's
+LINE 688: anything going, and I put in for a bit of it, it's always the same
+LINE 689: story: "You're undeserving; so you can't have it." But my needs is as
+LINE 690: great as the most deserving widow's that ever got money out of six
+LINE 691: different charities in one week for the death of the same husband. I
+LINE 692: don't need less than a deserving man: I need more. I don't eat less
+LINE 693: hearty than him; and I drink a lot more. I want a bit of amusement,
+LINE 694: cause I'm a thinking man. I want cheerfulness and a song and a band
+LINE 695: when I feel low. Well, they charge me just the same for everything as
+LINE 696: they charge the deserving. What is middle class morality? Just an
+LINE 697: excuse for never giving me anything. Therefore, I ask you, as two
+LINE 698: gentlemen, not to play that game on me. I'm playing straight with you.
+LINE 699: I ain't pretending to be deserving. I'm undeserving; and I mean to go
+LINE 700: on being undeserving. I like it; and that's the truth. Will you take
+LINE 701: advantage of a man's nature to do him out of the price of his own
+LINE 702: daughter what he's brought up and fed and clothed by the sweat of his
+LINE 703: brow until she's growed big enough to be interesting to you two
+LINE 704: gentlemen? Is five pounds unreasonable? I put it to you; and I leave it
+LINE 705: to you.
+LINE 706: HIGGINS [rising, and going over to Pickering] Pickering: if we were to
+LINE 707: take this man in hand for three months, he could choose between a seat
+LINE 708: in the Cabinet and a popular pulpit in Wales.
+LINE 709: PICKERING. What do you say to that, Doolittle?
+LINE 710: DOOLITTLE. Not me, Governor, thank you kindly. I've heard all the
+LINE 711: preachers and all the prime ministers—for I'm a thinking man and game
+LINE 712: for politics or religion or social reform same as all the other
+LINE 713: amusements—and I tell you it's a dog's life anyway you look at it.
+LINE 714: Undeserving poverty is my line. Taking one station in society with
+LINE 715: another, it's—it's—well, it's the only one that has any ginger in it,
+LINE 716: to my taste.
+LINE 717: HIGGINS. I suppose we must give him a fiver.
+LINE 718: PICKERING. He'll make a bad use of it, I'm afraid.
+LINE 719: DOOLITTLE. Not me, Governor, so help me I won't. Don't you be afraid
+LINE 720: that I'll save it and spare it and live idle on it. There won't be a
+LINE 721: penny of it left by Monday: I'll have to go to work same as if I'd
+LINE 722: never had it. It won't pauperize me, you bet. Just one good spree for
+LINE 723: myself and the missus, giving pleasure to ourselves and employment to
+LINE 724: others, and satisfaction to you to think it's not been throwed away.
+LINE 725: You couldn't spend it better.
+LINE 726: HIGGINS [taking out his pocket book and coming between Doolittle and
+LINE 727: the piano] This is irresistible. Let's give him ten. [He offers two
+LINE 728: notes to the dustman].
+LINE 729: DOOLITTLE. No, Governor. She wouldn't have the heart to spend ten; and
+LINE 730: perhaps I shouldn't neither. Ten pounds is a lot of money: it makes a
+LINE 731: man feel prudent like; and then goodbye to happiness. You give me what
+LINE 732: I ask you, Governor: not a penny more, and not a penny less.
+LINE 733: PICKERING. Why don't you marry that missus of yours? I rather draw the
+LINE 734: line at encouraging that sort of immorality.
+LINE 735: DOOLITTLE. Tell her so, Governor: tell her so. I'm willing. It's me
+LINE 736: that suffers by it. I've no hold on her. I got to be agreeable to her.
+LINE 737: I got to give her presents. I got to buy her clothes something sinful.
+LINE 738: I'm a slave to that woman, Governor, just because I'm not her lawful
+LINE 739: husband. And she knows it too. Catch her marrying me! Take my advice,
+LINE 740: Governor: marry Eliza while she's young and don't know no better. If
+LINE 741: you don't you'll be sorry for it after. If you do, she'll be sorry for
+LINE 742: it after; but better you than her, because you're a man, and she's only
+LINE 743: a woman and don't know how to be happy anyhow.
+LINE 744: HIGGINS. Pickering: if we listen to this man another minute, we shall
+LINE 745: have no convictions left. [To Doolittle] Five pounds I think you said.
+LINE 746: DOOLITTLE. Thank you kindly, Governor.
+LINE 747: HIGGINS. You're sure you won't take ten?
+LINE 748: DOOLITTLE. Not now. Another time, Governor.
+LINE 749: HIGGINS [handing him a five-pound note] Here you are.
+LINE 750: DOOLITTLE. Thank you, Governor. Good morning.
+LINE 751: [He hurries to the door, anxious to get away with his booty. When he
+LINE 752: opens it he is confronted with a dainty and exquisitely clean young
+LINE 753: Japanese lady in a simple blue cotton kimono printed cunningly with
+LINE 754: small white jasmine blossoms. Mrs. Pearce is with her. He gets out of
+LINE 755: her way deferentially and apologizes]. Beg pardon, miss.
+LINE 756: THE JAPANESE LADY. Garn! Don't you know your own daughter?
+LINE 757: DOOLITTLE {exclaiming Bly me! it's Eliza!
+LINE 758: HIGGINS {simul- What's that! This!
+LINE 759: PICKERING {taneously By Jove!
+LINE 760: LIZA. Don't I look silly?
+LINE 761: HIGGINS. Silly?
+LINE 762: MRS. PEARCE [at the door] Now, Mr. Higgins, please don't say anything
+LINE 763: to make the girl conceited about herself.
+LINE 764: HIGGINS [conscientiously] Oh! Quite right, Mrs. Pearce. [To Eliza] Yes:
+LINE 765: damned silly.
+LINE 766: MRS. PEARCE. Please, sir.
+LINE 767: HIGGINS [correcting himself] I mean extremely silly.
+LINE 768: LIZA. I should look all right with my hat on. [She takes up her hat;
+LINE 769: puts it on; and walks across the room to the fireplace with a
+LINE 770: fashionable air].
+LINE 771: HIGGINS. A new fashion, by George! And it ought to look horrible!
+LINE 772: DOOLITTLE [with fatherly pride] Well, I never thought she'd clean up as
+LINE 773: good looking as that, Governor. She's a credit to me, ain't she?
+LINE 774: LIZA. I tell you, it's easy to clean up here. Hot and cold water on
+LINE 775: tap, just as much as you like, there is. Woolly towels, there is; and a
+LINE 776: towel horse so hot, it burns your fingers. Soft brushes to scrub
+LINE 777: yourself, and a wooden bowl of soap smelling like primroses. Now I know
+LINE 778: why ladies is so clean. Washing's a treat for them. Wish they saw what
+LINE 779: it is for the like of me!
+LINE 780: HIGGINS. I'm glad the bath-room met with your approval.
+LINE 781: LIZA. It didn't: not all of it; and I don't care who hears me say it.
+LINE 782: Mrs. Pearce knows.
+LINE 783: HIGGINS. What was wrong, Mrs. Pearce?
+LINE 784: MRS. PEARCE [blandly] Oh, nothing, sir. It doesn't matter.
+LINE 785: LIZA. I had a good mind to break it. I didn't know which way to look.
+LINE 786: But I hung a towel over it, I did.
+LINE 787: HIGGINS. Over what?
+LINE 788: MRS. PEARCE. Over the looking-glass, sir.
+LINE 789: HIGGINS. Doolittle: you have brought your daughter up too strictly.
+LINE 790: DOOLITTLE. Me! I never brought her up at all, except to give her a lick
+LINE 791: of a strap now and again. Don't put it on me, Governor. She ain't
+LINE 792: accustomed to it, you see: that's all. But she'll soon pick up your
+LINE 793: free-and-easy ways.
+LINE 794: LIZA. I'm a good girl, I am; and I won't pick up no free and easy ways.
+LINE 795: HIGGINS. Eliza: if you say again that you're a good girl, your father
+LINE 796: shall take you home.
+LINE 797: LIZA. Not him. You don't know my father. All he come here for was to
+LINE 798: touch you for some money to get drunk on.
+LINE 799: DOOLITTLE. Well, what else would I want money for? To put into the
+LINE 800: plate in church, I suppose. [She puts out her tongue at him. He is so
+LINE 801: incensed by this that Pickering presently finds it necessary to step
+LINE 802: between them]. Don't you give me none of your lip; and don't let me
+LINE 803: hear you giving this gentleman any of it neither, or you'll hear from
+LINE 804: me about it. See?
+LINE 805: HIGGINS. Have you any further advice to give her before you go,
+LINE 806: Doolittle? Your blessing, for instance.
+LINE 807: DOOLITTLE. No, Governor: I ain't such a mug as to put up my children to
+LINE 808: all I know myself. Hard enough to hold them in without that. If you
+LINE 809: want Eliza's mind improved, Governor, you do it yourself with a strap.
+LINE 810: So long, gentlemen. [He turns to go].
+LINE 811: HIGGINS [impressively] Stop. You'll come regularly to see your
+LINE 812: daughter. It's your duty, you know. My brother is a clergyman; and he
+LINE 813: could help you in your talks with her.
+LINE 814: DOOLITTLE [evasively] Certainly. I'll come, Governor. Not just this
+LINE 815: week, because I have a job at a distance. But later on you may depend
+LINE 816: on me. Afternoon, gentlemen. Afternoon, ma'am. [He takes off his hat to
+LINE 817: Mrs. Pearce, who disdains the salutation and goes out. He winks at
+LINE 818: Higgins, thinking him probably a fellow sufferer from Mrs. Pearce's
+LINE 819: difficult disposition, and follows her].
+LINE 820: LIZA. Don't you believe the old liar. He'd as soon you set a bull-dog
+LINE 821: on him as a clergyman. You won't see him again in a hurry.
+LINE 822: HIGGINS. I don't want to, Eliza. Do you?
+LINE 823: LIZA. Not me. I don't want never to see him again, I don't. He's a
+LINE 824: disgrace to me, he is, collecting dust, instead of working at his trade.
+LINE 825: PICKERING. What is his trade, Eliza?
+LINE 826: LIZA. Talking money out of other people's pockets into his own. His
+LINE 827: proper trade's a navvy; and he works at it sometimes too—for
+LINE 828: exercise—and earns good money at it. Ain't you going to call me Miss
+LINE 829: Doolittle any more?
+LINE 830: PICKERING. I beg your pardon, Miss Doolittle. It was a slip of the
+LINE 831: tongue.
+LINE 832: LIZA. Oh, I don't mind; only it sounded so genteel. I should just like
+LINE 833: to take a taxi to the corner of Tottenham Court Road and get out there
+LINE 834: and tell it to wait for me, just to put the girls in their place a bit.
+LINE 835: I wouldn't speak to them, you know.
+LINE 836: PICKERING. Better wait til we get you something really fashionable.
+LINE 837: HIGGINS. Besides, you shouldn't cut your old friends now that you have
+LINE 838: risen in the world. That's what we call snobbery.
+LINE 839: LIZA. You don't call the like of them my friends now, I should hope.
+LINE 840: They've took it out of me often enough with their ridicule when they
+LINE 841: had the chance; and now I mean to get a bit of my own back. But if I'm
+LINE 842: to have fashionable clothes, I'll wait. I should like to have some.
+LINE 843: Mrs. Pearce says you're going to give me some to wear in bed at night
+LINE 844: different to what I wear in the daytime; but it do seem a waste of
+LINE 845: money when you could get something to show. Besides, I never could
+LINE 846: fancy changing into cold things on a winter night.
+LINE 847: MRS. PEARCE [coming back] Now, Eliza. The new things have come for you
+LINE 848: to try on.
+LINE 849: LIZA. Ah—ow—oo—ooh! [She rushes out].
+LINE 850: MRS. PEARCE [following her] Oh, don't rush about like that, girl [She
+LINE 851: shuts the door behind her].
+LINE 852: HIGGINS. Pickering: we have taken on a stiff job.
+LINE 853: PICKERING [with conviction] Higgins: we have.

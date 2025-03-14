@@ -1,0 +1,349 @@
+LINE 1: Covent Garden at 11.15 p.m. Torrents of heavy summer rain. Cab whistles
+LINE 2: blowing frantically in all directions. Pedestrians running for shelter
+LINE 3: into the market and under the portico of St. Paul's Church, where there
+LINE 4: are already several people, among them a lady and her daughter in
+LINE 5: evening dress. They are all peering out gloomily at the rain, except
+LINE 6: one man with his back turned to the rest, who seems wholly preoccupied
+LINE 7: with a notebook in which he is writing busily.
+LINE 8: The church clock strikes the first quarter.
+LINE 9: THE DAUGHTER [in the space between the central pillars, close to the
+LINE 10: one on her left] I'm getting chilled to the bone. What can Freddy be
+LINE 11: doing all this time? He's been gone twenty minutes.
+LINE 12: THE MOTHER [on her daughter's right] Not so long. But he ought to have
+LINE 13: got us a cab by this.
+LINE 14: A BYSTANDER [on the lady's right] He won't get no cab not until
+LINE 15: half-past eleven, missus, when they come back after dropping their
+LINE 16: theatre fares.
+LINE 17: THE MOTHER. But we must have a cab. We can't stand here until half-past
+LINE 18: eleven. It's too bad.
+LINE 19: THE BYSTANDER. Well, it ain't my fault, missus.
+LINE 20: THE DAUGHTER. If Freddy had a bit of gumption, he would have got one at
+LINE 21: the theatre door.
+LINE 22: THE MOTHER. What could he have done, poor boy?
+LINE 23: THE DAUGHTER. Other people got cabs. Why couldn't he?
+LINE 24: Freddy rushes in out of the rain from the Southampton Street side, and
+LINE 25: comes between them closing a dripping umbrella. He is a young man of
+LINE 26: twenty, in evening dress, very wet around the ankles.
+LINE 27: THE DAUGHTER. Well, haven't you got a cab?
+LINE 28: FREDDY. There's not one to be had for love or money.
+LINE 29: THE MOTHER. Oh, Freddy, there must be one. You can't have tried.
+LINE 30: THE DAUGHTER. It's too tiresome. Do you expect us to go and get one
+LINE 31: ourselves?
+LINE 32: FREDDY. I tell you they're all engaged. The rain was so sudden: nobody
+LINE 33: was prepared; and everybody had to take a cab. I've been to Charing
+LINE 34: Cross one way and nearly to Ludgate Circus the other; and they were all
+LINE 35: engaged.
+LINE 36: THE MOTHER. Did you try Trafalgar Square?
+LINE 37: FREDDY. There wasn't one at Trafalgar Square.
+LINE 38: THE DAUGHTER. Did you try?
+LINE 39: FREDDY. I tried as far as Charing Cross Station. Did you expect me to
+LINE 40: walk to Hammersmith?
+LINE 41: THE DAUGHTER. You haven't tried at all.
+LINE 42: THE MOTHER. You really are very helpless, Freddy. Go again; and don't
+LINE 43: come back until you have found a cab.
+LINE 44: FREDDY. I shall simply get soaked for nothing.
+LINE 45: THE DAUGHTER. And what about us? Are we to stay here all night in this
+LINE 46: draught, with next to nothing on. You selfish pig—
+LINE 47: FREDDY. Oh, very well: I'll go, I'll go. [He opens his umbrella and
+LINE 48: dashes off Strandwards, but comes into collision with a flower girl,
+LINE 49: who is hurrying in for shelter, knocking her basket out of her hands. A
+LINE 50: blinding flash of lightning, followed instantly by a rattling peal of
+LINE 51: thunder, orchestrates the incident]
+LINE 52: THE FLOWER GIRL. Nah then, Freddy: look wh' y' gowin, deah.
+LINE 53: FREDDY. Sorry [he rushes off].
+LINE 54: THE FLOWER GIRL [picking up her scattered flowers and replacing them in
+LINE 55: the basket] There's menners f' yer! Te-oo banches o voylets trod into
+LINE 56: the mad. [She sits down on the plinth of the column, sorting her
+LINE 57: flowers, on the lady's right. She is not at all an attractive person.
+LINE 58: She is perhaps eighteen, perhaps twenty, hardly older. She wears a
+LINE 59: little sailor hat of black straw that has long been exposed to the dust
+LINE 60: and soot of London and has seldom if ever been brushed. Her hair needs
+LINE 61: washing rather badly: its mousy color can hardly be natural. She wears
+LINE 62: a shoddy black coat that reaches nearly to her knees and is shaped to
+LINE 63: her waist. She has a brown skirt with a coarse apron. Her boots are
+LINE 64: much the worse for wear. She is no doubt as clean as she can afford to
+LINE 65: be; but compared to the ladies she is very dirty. Her features are no
+LINE 66: worse than theirs; but their condition leaves something to be desired;
+LINE 67: and she needs the services of a dentist].
+LINE 68: THE MOTHER. How do you know that my son's name is Freddy, pray?
+LINE 69: THE FLOWER GIRL. Ow, eez ye-ooa san, is e? Wal, fewd dan y' de-ooty
+LINE 70: bawmz a mather should, eed now bettern to spawl a pore gel's flahrzn
+LINE 71: than ran awy atbaht pyin. Will ye-oo py me f'them? [Here, with
+LINE 72: apologies, this desperate attempt to represent her dialect without a
+LINE 73: phonetic alphabet must be abandoned as unintelligible outside London.]
+LINE 74: THE DAUGHTER. Do nothing of the sort, mother. The idea!
+LINE 75: THE MOTHER. Please allow me, Clara. Have you any pennies?
+LINE 76: THE DAUGHTER. No. I've nothing smaller than sixpence.
+LINE 77: THE FLOWER GIRL [hopefully] I can give you change for a tanner, kind
+LINE 78: lady.
+LINE 79: THE MOTHER [to Clara] Give it to me. [Clara parts reluctantly]. Now [to
+LINE 80: the girl] This is for your flowers.
+LINE 81: THE FLOWER GIRL. Thank you kindly, lady.
+LINE 82: THE DAUGHTER. Make her give you the change. These things are only a
+LINE 83: penny a bunch.
+LINE 84: THE MOTHER. Do hold your tongue, Clara. [To the girl]. You can keep the
+LINE 85: change.
+LINE 86: THE FLOWER GIRL. Oh, thank you, lady.
+LINE 87: THE MOTHER. Now tell me how you know that young gentleman's name.
+LINE 88: THE FLOWER GIRL. I didn't.
+LINE 89: THE MOTHER. I heard you call him by it. Don't try to deceive me.
+LINE 90: THE FLOWER GIRL [protesting] Who's trying to deceive you? I called him
+LINE 91: Freddy or Charlie same as you might yourself if you was talking to a
+LINE 92: stranger and wished to be pleasant. [She sits down beside her basket].
+LINE 93: THE DAUGHTER. Sixpence thrown away! Really, mamma, you might have
+LINE 94: spared Freddy that. [She retreats in disgust behind the pillar].
+LINE 95: An elderly gentleman of the amiable military type rushes into shelter,
+LINE 96: and closes a dripping umbrella. He is in the same plight as Freddy,
+LINE 97: very wet about the ankles. He is in evening dress, with a light
+LINE 98: overcoat. He takes the place left vacant by the daughter's retirement.
+LINE 99: THE GENTLEMAN. Phew!
+LINE 100: THE MOTHER [to the gentleman] Oh, sir, is there any sign of its
+LINE 101: stopping?
+LINE 102: THE GENTLEMAN. I'm afraid not. It started worse than ever about two
+LINE 103: minutes ago. [He goes to the plinth beside the flower girl; puts up his
+LINE 104: foot on it; and stoops to turn down his trouser ends].
+LINE 105: THE MOTHER. Oh, dear! [She retires sadly and joins her daughter].
+LINE 106: THE FLOWER GIRL [taking advantage of the military gentleman's proximity
+LINE 107: to establish friendly relations with him]. If it's worse it's a sign
+LINE 108: it's nearly over. So cheer up, Captain; and buy a flower off a poor
+LINE 109: girl.
+LINE 110: THE GENTLEMAN. I'm sorry, I haven't any change.
+LINE 111: THE FLOWER GIRL. I can give you change, Captain,
+LINE 112: THE GENTLEMEN. For a sovereign? I've nothing less.
+LINE 113: THE FLOWER GIRL. Garn! Oh do buy a flower off me, Captain. I can change
+LINE 114: half-a-crown. Take this for tuppence.
+LINE 115: THE GENTLEMAN. Now don't be troublesome: there's a good girl. [Trying
+LINE 116: his pockets] I really haven't any change—Stop: here's three hapence,
+LINE 117: if that's any use to you [he retreats to the other pillar].
+LINE 118: THE FLOWER GIRL [disappointed, but thinking three halfpence better than
+LINE 119: nothing] Thank you, sir.
+LINE 120: THE BYSTANDER [to the girl] You be careful: give him a flower for it.
+LINE 121: There's a bloke here behind taking down every blessed word you're
+LINE 122: saying. [All turn to the man who is taking notes].
+LINE 123: THE FLOWER GIRL [springing up terrified] I ain't done nothing wrong by
+LINE 124: speaking to the gentleman. I've a right to sell flowers if I keep off
+LINE 125: the kerb. [Hysterically] I'm a respectable girl: so help me, I never
+LINE 126: spoke to him except to ask him to buy a flower off me. [General hubbub,
+LINE 127: mostly sympathetic to the flower girl, but deprecating her excessive
+LINE 128: sensibility. Cries of Don't start hollerin. Who's hurting you? Nobody's
+LINE 129: going to touch you. What's the good of fussing? Steady on. Easy, easy,
+LINE 130: etc., come from the elderly staid spectators, who pat her comfortingly.
+LINE 131: Less patient ones bid her shut her head, or ask her roughly what is
+LINE 132: wrong with her. A remoter group, not knowing what the matter is, crowd
+LINE 133: in and increase the noise with question and answer: What's the row?
+LINE 134: What she do? Where is he? A tec taking her down. What! him? Yes: him
+LINE 135: over there: Took money off the gentleman, etc. The flower girl,
+LINE 136: distraught and mobbed, breaks through them to the gentleman, crying
+LINE 137: mildly] Oh, sir, don't let him charge me. You dunno what it means to
+LINE 138: me. They'll take away my character and drive me on the streets for
+LINE 139: speaking to gentlemen. They—
+LINE 140: THE NOTE TAKER [coming forward on her right, the rest crowding after
+LINE 141: him] There, there, there, there! Who's hurting you, you silly girl?
+LINE 142: What do you take me for?
+LINE 143: THE BYSTANDER. It's all right: he's a gentleman: look at his boots.
+LINE 144: [Explaining to the note taker] She thought you was a copper's nark, sir.
+LINE 145: THE NOTE TAKER [with quick interest] What's a copper's nark?
+LINE 146: THE BYSTANDER [inept at definition] It's a—well, it's a copper's nark,
+LINE 147: as you might say. What else would you call it? A sort of informer.
+LINE 148: THE FLOWER GIRL [still hysterical] I take my Bible oath I never said a
+LINE 149: word—
+LINE 150: THE NOTE TAKER [overbearing but good-humored] Oh, shut up, shut up. Do
+LINE 151: I look like a policeman?
+LINE 152: THE FLOWER GIRL [far from reassured] Then what did you take down my
+LINE 153: words for? How do I know whether you took me down right? You just show
+LINE 154: me what you've wrote about me. [The note taker opens his book and holds
+LINE 155: it steadily under her nose, though the pressure of the mob trying to
+LINE 156: read it over his shoulders would upset a weaker man]. What's that? That
+LINE 157: ain't proper writing. I can't read that.
+LINE 158: THE NOTE TAKER. I can. [Reads, reproducing her pronunciation exactly]
+LINE 159: "Cheer ap, Keptin; n' haw ya flahr orf a pore gel."
+LINE 160: THE FLOWER GIRL [much distressed] It's because I called him Captain. I
+LINE 161: meant no harm. [To the gentleman] Oh, sir, don't let him lay a charge
+LINE 162: agen me for a word like that. You—
+LINE 163: THE GENTLEMAN. Charge! I make no charge. [To the note taker] Really,
+LINE 164: sir, if you are a detective, you need not begin protecting me against
+LINE 165: molestation by young women until I ask you. Anybody could see that the
+LINE 166: girl meant no harm.
+LINE 167: THE BYSTANDERS GENERALLY [demonstrating against police espionage]
+LINE 168: Course they could. What business is it of yours? You mind your own
+LINE 169: affairs. He wants promotion, he does. Taking down people's words! Girl
+LINE 170: never said a word to him. What harm if she did? Nice thing a girl can't
+LINE 171: shelter from the rain without being insulted, etc., etc., etc. [She is
+LINE 172: conducted by the more sympathetic demonstrators back to her plinth,
+LINE 173: where she resumes her seat and struggles with her emotion].
+LINE 174: THE BYSTANDER. He ain't a tec. He's a blooming busybody: that's what he
+LINE 175: is. I tell you, look at his boots.
+LINE 176: THE NOTE TAKER [turning on him genially] And how are all your people
+LINE 177: down at Selsey?
+LINE 178: THE BYSTANDER [suspiciously] Who told you my people come from Selsey?
+LINE 179: THE NOTE TAKER. Never you mind. They did. [To the girl] How do you come
+LINE 180: to be up so far east? You were born in Lisson Grove.
+LINE 181: THE FLOWER GIRL [appalled] Oh, what harm is there in my leaving Lisson
+LINE 182: Grove? It wasn't fit for a pig to live in; and I had to pay
+LINE 183: four-and-six a week. [In tears] Oh, boo—hoo—oo—
+LINE 184: THE NOTE TAKER. Live where you like; but stop that noise.
+LINE 185: THE GENTLEMAN [to the girl] Come, come! he can't touch you: you have a
+LINE 186: right to live where you please.
+LINE 187: A SARCASTIC BYSTANDER [thrusting himself between the note taker and the
+LINE 188: gentleman] Park Lane, for instance. I'd like to go into the Housing
+LINE 189: Question with you, I would.
+LINE 190: THE FLOWER GIRL [subsiding into a brooding melancholy over her basket,
+LINE 191: and talking very low-spiritedly to herself] I'm a good girl, I am.
+LINE 192: THE SARCASTIC BYSTANDER [not attending to her] Do you know where _I_
+LINE 193: come from?
+LINE 194: THE NOTE TAKER [promptly] Hoxton.
+LINE 195: Titterings. Popular interest in the note taker's performance increases.
+LINE 196: THE SARCASTIC ONE [amazed] Well, who said I didn't? Bly me! You know
+LINE 197: everything, you do.
+LINE 198: THE FLOWER GIRL [still nursing her sense of injury] Ain't no call to
+LINE 199: meddle with me, he ain't.
+LINE 200: THE BYSTANDER [to her] Of course he ain't. Don't you stand it from him.
+LINE 201: [To the note taker] See here: what call have you to know about people
+LINE 202: what never offered to meddle with you? Where's your warrant?
+LINE 203: SEVERAL BYSTANDERS [encouraged by this seeming point of law] Yes:
+LINE 204: where's your warrant?
+LINE 205: THE FLOWER GIRL. Let him say what he likes. I don't want to have no
+LINE 206: truck with him.
+LINE 207: THE BYSTANDER. You take us for dirt under your feet, don't you? Catch
+LINE 208: you taking liberties with a gentleman!
+LINE 209: THE SARCASTIC BYSTANDER. Yes: tell HIM where he come from if you want
+LINE 210: to go fortune-telling.
+LINE 211: THE NOTE TAKER. Cheltenham, Harrow, Cambridge, and India.
+LINE 212: THE GENTLEMAN. Quite right. [Great laughter. Reaction in the note
+LINE 213: taker's favor. Exclamations of He knows all about it. Told him proper.
+LINE 214: Hear him tell the toff where he come from? etc.]. May I ask, sir, do
+LINE 215: you do this for your living at a music hall?
+LINE 216: THE NOTE TAKER. I've thought of that. Perhaps I shall some day.
+LINE 217: The rain has stopped; and the persons on the outside of the crowd begin
+LINE 218: to drop off.
+LINE 219: THE FLOWER GIRL [resenting the reaction] He's no gentleman, he ain't,
+LINE 220: to interfere with a poor girl.
+LINE 221: THE DAUGHTER [out of patience, pushing her way rudely to the front and
+LINE 222: displacing the gentleman, who politely retires to the other side of the
+LINE 223: pillar] What on earth is Freddy doing? I shall get pneumonia if I stay
+LINE 224: in this draught any longer.
+LINE 225: THE NOTE TAKER [to himself, hastily making a note of her pronunciation
+LINE 226: of "monia"] Earlscourt.
+LINE 227: THE DAUGHTER [violently] Will you please keep your impertinent remarks
+LINE 228: to yourself?
+LINE 229: THE NOTE TAKER. Did I say that out loud? I didn't mean to. I beg your
+LINE 230: pardon. Your mother's Epsom, unmistakeably.
+LINE 231: THE MOTHER [advancing between her daughter and the note taker] How very
+LINE 232: curious! I was brought up in Largelady Park, near Epsom.
+LINE 233: THE NOTE TAKER [uproariously amused] Ha! ha! What a devil of a name!
+LINE 234: Excuse me. [To the daughter] You want a cab, do you?
+LINE 235: THE DAUGHTER. Don't dare speak to me.
+LINE 236: THE MOTHER. Oh, please, please Clara. [Her daughter repudiates her with
+LINE 237: an angry shrug and retires haughtily.] We should be so grateful to you,
+LINE 238: sir, if you found us a cab. [The note taker produces a whistle]. Oh,
+LINE 239: thank you. [She joins her daughter]. The note taker blows a piercing
+LINE 240: blast.
+LINE 241: THE SARCASTIC BYSTANDER. There! I knowed he was a plain-clothes copper.
+LINE 242: THE BYSTANDER. That ain't a police whistle: that's a sporting whistle.
+LINE 243: THE FLOWER GIRL [still preoccupied with her wounded feelings] He's no
+LINE 244: right to take away my character. My character is the same to me as any
+LINE 245: lady's.
+LINE 246: THE NOTE TAKER. I don't know whether you've noticed it; but the rain
+LINE 247: stopped about two minutes ago.
+LINE 248: THE BYSTANDER. So it has. Why didn't you say so before? and us losing
+LINE 249: our time listening to your silliness. [He walks off towards the Strand].
+LINE 250: THE SARCASTIC BYSTANDER. I can tell where you come from. You come from
+LINE 251: Anwell. Go back there.
+LINE 252: THE NOTE TAKER [helpfully] _H_anwell.
+LINE 253: THE SARCASTIC BYSTANDER [affecting great distinction of speech] Thenk
+LINE 254: you, teacher. Haw haw! So long [he touches his hat with mock respect
+LINE 255: and strolls off].
+LINE 256: THE FLOWER GIRL. Frightening people like that! How would he like it
+LINE 257: himself.
+LINE 258: THE MOTHER. It's quite fine now, Clara. We can walk to a motor bus.
+LINE 259: Come. [She gathers her skirts above her ankles and hurries off towards
+LINE 260: the Strand].
+LINE 261: THE DAUGHTER. But the cab—[her mother is out of hearing]. Oh, how
+LINE 262: tiresome! [She follows angrily].
+LINE 263: All the rest have gone except the note taker, the gentleman, and the
+LINE 264: flower girl, who sits arranging her basket, and still pitying herself
+LINE 265: in murmurs.
+LINE 266: THE FLOWER GIRL. Poor girl! Hard enough for her to live without being
+LINE 267: worrited and chivied.
+LINE 268: THE GENTLEMAN [returning to his former place on the note taker's left]
+LINE 269: How do you do it, if I may ask?
+LINE 270: THE NOTE TAKER. Simply phonetics. The science of speech. That's my
+LINE 271: profession; also my hobby. Happy is the man who can make a living by
+LINE 272: his hobby! You can spot an Irishman or a Yorkshireman by his brogue. I
+LINE 273: can place any man within six miles. I can place him within two miles in
+LINE 274: London. Sometimes within two streets.
+LINE 275: THE FLOWER GIRL. Ought to be ashamed of himself, unmanly coward!
+LINE 276: THE GENTLEMAN. But is there a living in that?
+LINE 277: THE NOTE TAKER. Oh yes. Quite a fat one. This is an age of upstarts.
+LINE 278: Men begin in Kentish Town with 80 pounds a year, and end in Park Lane
+LINE 279: with a hundred thousand. They want to drop Kentish Town; but they give
+LINE 280: themselves away every time they open their mouths. Now I can teach
+LINE 281: them—
+LINE 282: THE FLOWER GIRL. Let him mind his own business and leave a poor girl—
+LINE 283: THE NOTE TAKER [explosively] Woman: cease this detestable boohooing
+LINE 284: instantly; or else seek the shelter of some other place of worship.
+LINE 285: THE FLOWER GIRL [with feeble defiance] I've a right to be here if I
+LINE 286: like, same as you.
+LINE 287: THE NOTE TAKER. A woman who utters such depressing and disgusting
+LINE 288: sounds has no right to be anywhere—no right to live. Remember that you
+LINE 289: are a human being with a soul and the divine gift of articulate speech:
+LINE 290: that your native language is the language of Shakespear and Milton and
+LINE 291: The Bible; and don't sit there crooning like a bilious pigeon.
+LINE 292: THE FLOWER GIRL [quite overwhelmed, and looking up at him in mingled
+LINE 293: wonder and deprecation without daring to raise her head]
+LINE 294: Ah—ah—ah—ow—ow—oo!
+LINE 295: THE NOTE TAKER [whipping out his book] Heavens! what a sound! [He
+LINE 296: writes; then holds out the book and reads, reproducing her vowels
+LINE 297: exactly] Ah—ah—ah—ow—ow—ow—oo!
+LINE 298: THE FLOWER GIRL [tickled by the performance, and laughing in spite of
+LINE 299: herself] Garn!
+LINE 300: THE NOTE TAKER. You see this creature with her kerbstone English: the
+LINE 301: English that will keep her in the gutter to the end of her days. Well,
+LINE 302: sir, in three months I could pass that girl off as a duchess at an
+LINE 303: ambassador's garden party. I could even get her a place as lady's maid
+LINE 304: or shop assistant, which requires better English. That's the sort of
+LINE 305: thing I do for commercial millionaires. And on the profits of it I do
+LINE 306: genuine scientific work in phonetics, and a little as a poet on
+LINE 307: Miltonic lines.
+LINE 308: THE GENTLEMAN. I am myself a student of Indian dialects; and—
+LINE 309: THE NOTE TAKER [eagerly] Are you? Do you know Colonel Pickering, the
+LINE 310: author of Spoken Sanscrit?
+LINE 311: THE GENTLEMAN. I am Colonel Pickering. Who are you?
+LINE 312: THE NOTE TAKER. Henry Higgins, author of Higgins's Universal Alphabet.
+LINE 313: PICKERING [with enthusiasm] I came from India to meet you.
+LINE 314: HIGGINS. I was going to India to meet you.
+LINE 315: PICKERING. Where do you live?
+LINE 316: HIGGINS. 27A Wimpole Street. Come and see me tomorrow.
+LINE 317: PICKERING. I'm at the Carlton. Come with me now and let's have a jaw
+LINE 318: over some supper.
+LINE 319: HIGGINS. Right you are.
+LINE 320: THE FLOWER GIRL [to Pickering, as he passes her] Buy a flower, kind
+LINE 321: gentleman. I'm short for my lodging.
+LINE 322: PICKERING. I really haven't any change. I'm sorry [he goes away].
+LINE 323: HIGGINS [shocked at girl's mendacity] Liar. You said you could change
+LINE 324: half-a-crown.
+LINE 325: THE FLOWER GIRL [rising in desperation] You ought to be stuffed with
+LINE 326: nails, you ought. [Flinging the basket at his feet] Take the whole
+LINE 327: blooming basket for sixpence.
+LINE 328: The church clock strikes the second quarter.
+LINE 329: HIGGINS [hearing in it the voice of God, rebuking him for his Pharisaic
+LINE 330: want of charity to the poor girl] A reminder. [He raises his hat
+LINE 331: solemnly; then throws a handful of money into the basket and follows
+LINE 332: Pickering].
+LINE 333: THE FLOWER GIRL [picking up a half-crown] Ah—ow—ooh! [Picking up a
+LINE 334: couple of florins] Aaah—ow—ooh! [Picking up several coins]
+LINE 335: Aaaaaah—ow—ooh! [Picking up a half-sovereign]
+LINE 336: Aasaaaaaaaaah—ow—ooh!!!
+LINE 337: FREDDY [springing out of a taxicab] Got one at last. Hallo! [To the
+LINE 338: girl] Where are the two ladies that were here?
+LINE 339: THE FLOWER GIRL. They walked to the bus when the rain stopped.
+LINE 340: FREDDY. And left me with a cab on my hands. Damnation!
+LINE 341: THE FLOWER GIRL [with grandeur] Never you mind, young man. I'm going
+LINE 342: home in a taxi. [She sails off to the cab. The driver puts his hand
+LINE 343: behind him and holds the door firmly shut against her. Quite
+LINE 344: understanding his mistrust, she shows him her handful of money].
+LINE 345: Eightpence ain't no object to me, Charlie. [He grins and opens the
+LINE 346: door]. Angel Court, Drury Lane, round the corner of Micklejohn's oil
+LINE 347: shop. Let's see how fast you can make her hop it. [She gets in and
+LINE 348: pulls the door to with a slam as the taxicab starts].
+LINE 349: FREDDY. Well, I'm dashed!
