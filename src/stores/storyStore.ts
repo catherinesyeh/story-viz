@@ -123,6 +123,7 @@ const initialState = {
   showLegend: true,
   cumulativeMode: false,
   verboseMode: true,
+  detailView: false,
 };
 
 export const storyStore = create<IStore>()((set) => ({
@@ -134,7 +135,6 @@ export const storyStore = create<IStore>()((set) => ({
   xAxisWidth: 0,
   storyMarginTop: 0,
   sidebarOpen: false,
-  detailView: false,
   showChapterText: false,
   curScrollScene: "",
   scrollSource: false,

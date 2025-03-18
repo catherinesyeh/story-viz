@@ -442,7 +442,7 @@ h1 {
 // Character info
 #character-info {
   border: 1px solid #eee;
-  position: absolute;
+  position: fixed;
   margin-top: 1rem;
   z-index: 999;
   right: 0;
@@ -501,7 +501,7 @@ h1 {
 }
 
 #location-overlay {
-  position: absolute;
+  position: fixed;
   margin-top: 1rem;
   left: calc(160px + 2rem);
   padding: 0.5rem 0.75rem;
