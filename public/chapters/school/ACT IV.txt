@@ -1,0 +1,678 @@
+LINE 1: SCENE I.--A Picture Room in CHARLES SURFACE'S House
+LINE 2: Enter CHARLES, SIR OLIVER, MOSES, and CARELESS
+LINE 3: CHARLES. Walk in, gentlemen, pray walk in;--here they are, the family of
+LINE 4: the Surfaces, up to the Conquest.
+LINE 5: SIR OLIVER. And, in my opinion, a goodly collection.
+LINE 6: CHARLES. Ay, ay, these are done in the true spirit of portrait-painting;
+LINE 7: no volontiere grace or expression. Not like the works of your modern
+LINE 8: Raphaels, who give you the strongest resemblance, yet contrive to make
+LINE 9: your portrait independent of you; so that you may sink the original
+LINE 10: and not hurt the picture. No, no; the merit of these is the inveterate
+LINE 11: likeness--all stiff and awkward as the originals, and like nothing in
+LINE 12: human nature besides.
+LINE 13: SIR OLIVER. Ah! we shall never see such figures of men again.
+LINE 14: CHARLES. I hope not. Well, you see, Master Premium, what a domestic
+LINE 15: character I am; here I sit of an evening surrounded by my family. But
+LINE 16: come, get to your pulpit, Mr. Auctioneer; here's an old gouty chair of
+LINE 17: my grandfather's will answer the purpose.
+LINE 18: CARELESS. Ay, ay, this will do. But, Charles, I haven't a hammer; and
+LINE 19: what's an auctioneer without his hammer?
+LINE 20: CHARLES. Egad, that's true. What parchment have we here? Oh, our
+LINE 21: genealogy in full. [Taking pedigree down.] Here, Careless, you shall
+LINE 22: have no common bit of mahogany, here's the family tree for you,
+LINE 23: you rogue! This shall be your hammer, and now you may knock down my
+LINE 24: ancestors with their own pedigree.
+LINE 25: SIR OLIVER. What an unnatural rogue!--an ex post facto parricide!
+LINE 26: [Aside.]
+LINE 27: CARELESS. Yes, yes, here's a list of your generation indeed;--faith,
+LINE 28: Charles, this is the most convenient thing you could have found for the
+LINE 29: business, for 'twill not only serve as a hammer, but a catalogue into
+LINE 30: the bargain. Come, begin--A-going, a-going, a-going!
+LINE 31: CHARLES. Bravo, Careless! Well, here's my great uncle, Sir Richard
+LINE 32: Ravelin, a marvellous good general in his day, I assure you. He served
+LINE 33: in all the Duke of Marlborough's wars, and got that cut over his eye
+LINE 34: at the battle of Malplaquet. What say you, Mr. Premium? look at
+LINE 35: him--there's a hero! not cut out of his feathers, as your modern clipped
+LINE 36: captains are, but enveloped in wig and regimentals, as a general should
+LINE 37: be. What do you bid?
+LINE 38: SIR OLIVER. [Aside to Moses.] Bid him speak.
+LINE 39: MOSES. Mr. Premium would have you speak.
+LINE 40: CHARLES. Why, then, he shall have him for ten pounds, and I'm sure
+LINE 41: that's not dear for a staff-officer.
+LINE 42: SIR OLIVER. [Aside.] Heaven deliver me! his famous uncle Richard for ten
+LINE 43: pounds!--[Aloud.] Very well, sir, I take him at that.
+LINE 44: CHARLES. Careless, knock down my uncle Richard.--Here, now, is a maiden
+LINE 45: sister of his, my great-aunt Deborah, done by Kneller, in his best
+LINE 46: manner, and esteemed a very formidable likeness. There she is, you see,
+LINE 47: a shepherdess feeding her flock. You shall have her for five pounds
+LINE 48: ten--the sheep are worth the money.
+LINE 49: SIR OLIVER. [Aside.] Ah! poor Deborah! a woman who set such a value on
+LINE 50: herself!--[Aloud.] Five pounds ten--she's mine.
+LINE 51: CHARLES. Knock down my aunt Deborah! Here, now, are two that were a sort
+LINE 52: of cousins of theirs.--You see, Moses, these pictures were done some
+LINE 53: time ago, when beaux wore wigs, and the ladies their own hair.
+LINE 54: SIR OLIVER. Yes, truly, head-dresses appear to have been a little lower
+LINE 55: in those days.
+LINE 56: CHARLES. Well, take that couple for the same.
+LINE 57: MOSES. 'Tis a good bargain.
+LINE 58: CHARLES. Careless!--This, now, is a grandfather of my mother's, a
+LINE 59: learned judge, well known on the western circuit,--What do you rate him
+LINE 60: at, Moses?
+LINE 61: MOSES. Four guineas.
+LINE 62: CHARLES. Four guineas! Gad's life, you don't bid me the price of his
+LINE 63: wig.--Mr. Premium, you have more respect for the woolsack; do let us
+LINE 64: knock his lordship down at fifteen.
+LINE 65: SIR OLIVER. By all means.
+LINE 66: CARELESS. Gone!
+LINE 67: CHARLES. And there are two brothers of his, William and Walter Blunt,
+LINE 68: Esquires, both members of Parliament, and noted speakers; and, what's
+LINE 69: very extraordinary, I believe, this is the first time they were ever
+LINE 70: bought or sold.
+LINE 71: SIR OLIVER. That is very extraordinary, indeed! I'll take them at your
+LINE 72: own price, for the honour of Parliament.
+LINE 73: CARELESS. Well said, little Premium! I'll knock them down at forty.
+LINE 74: CHARLES. Here's a jolly fellow--I don't know what relation, but he was
+LINE 75: mayor of Norwich: take him at eight pounds.
+LINE 76: SIR OLIVER. No, no; six will do for the mayor.
+LINE 77: CHARLES. Come, make it guineas, and I'll throw you the two aldermen here
+LINE 78: into the bargain.
+LINE 79: SIR OLIVER. They're mine.
+LINE 80: CHARLES. Careless, knock down the mayor and aldermen. But, plague on't!
+LINE 81: we shall be all day retailing in this manner; do let us deal wholesale:
+LINE 82: what say you, little Premium? Give me three hundred pounds for the rest
+LINE 83: of the family in the lump.
+LINE 84: CARELESS. Ay, ay, that will be the best way.
+LINE 85: SIR OLIVER. Well, well, anything to accommodate you; they are mine. But
+LINE 86: there is one portrait which you have always passed over.
+LINE 87: CARELESS. What, that ill-looking little fellow over the settee?
+LINE 88: SIR OLIVER. Yes, sir, I mean that; though I don't think him so
+LINE 89: ill-looking a little fellow, by any means.
+LINE 90: CHARLES. What, that? Oh; that's my uncle Oliver! 'Twas done before he
+LINE 91: went to India.
+LINE 92: CARELESS. Your uncle Oliver! Gad, then you'll never be friends,
+LINE 93: Charles. That, now, to me, is as stern a looking rogue as ever I saw; an
+LINE 94: unforgiving eye, and a damned disinheriting countenance! an inveterate
+LINE 95: knave, depend on't. Don't you think so, little Premium?
+LINE 96: SIR OLIVER. Upon my soul, Sir, I do not; I think it is as honest a
+LINE 97: looking face as any in the room, dead or alive. But I suppose uncle
+LINE 98: Oliver goes with the rest of the lumber?
+LINE 99: CHARLES. No, hang it! I'll not part with poor Noll. The old fellow has
+LINE 100: been very good to me, and, egad, I'll keep his picture while I've a room
+LINE 101: to put it in.
+LINE 102: SIR OLIVER. [Aside.] The rogue's my nephew after all!--[Aloud.] But,
+LINE 103: sir, I have somehow taken a fancy to that picture.
+LINE 104: CHARLES. I'm sorry for't, for you certainly will not have it. Oons,
+LINE 105: haven't you got enough of them?
+LINE 106: SIR OLIVER. [Aside.] I forgive him everything!--[Aloud.] But, Sir, when
+LINE 107: I take a whim in my head, I don't value money. I'll give you as much for
+LINE 108: that as for all the rest.
+LINE 109: CHARLES. Don't tease me, master broker; I tell you I'll not part with
+LINE 110: it, and there's an end of it.
+LINE 111: SIR OLIVER. [Aside.] How like his father the dog is.--[Aloud.] Well,
+LINE 112: well, I have done.--[Aside.] I did not perceive it before, but I think
+LINE 113: I never saw such a striking resemblance.--[Aloud.] Here is a draught for
+LINE 114: your sum.
+LINE 115: CHARLES. Why, 'tis for eight hundred pounds!
+LINE 116: SIR OLIVER. You will not let Sir Oliver go?
+LINE 117: CHARLES. Zounds! no! I tell you, once more.
+LINE 118: SIR OLIVER. Then never mind the difference, we'll balance that another
+LINE 119: time. But give me your hand on the bargain; you are an honest fellow,
+LINE 120: Charles--I beg pardon, sir, for being so free.--Come, Moses.
+LINE 121: CHARLES. Egad, this is a whimsical old fellow!--But hark'ee, Premium,
+LINE 122: you'll prepare lodgings for these gentlemen.
+LINE 123: SIR OLIVER. Yes, yes, I'll send for them in a day or two.
+LINE 124: CHARLES. But, hold; do now send a genteel conveyance for them, for, I
+LINE 125: assure you, they were most of them used to ride in their own carriages.
+LINE 126: SIR OLIVER. I will, I will--for all but Oliver.
+LINE 127: CHARLES. Ay, all but the little nabob.
+LINE 128: SIR OLIVER. You're fixed on that?
+LINE 129: CHARLES. Peremptorily.
+LINE 130: SIR OLIVER. [Aside.] A dear extravagant rogue!--[Aloud.] Good day! Come,
+LINE 131: Moses.--[Aside.] Let me hear now who dares call him profligate!
+LINE 132: [Exit with MOSES.]
+LINE 133: CARELESS. Why, this is the oddest genius of the sort I ever met with!
+LINE 134: CHARLES. Egad, he's the prince of brokers, I think. I wonder how
+LINE 135: the devil Moses got acquainted with so honest a fellow.--Ha! here's
+LINE 136: Rowley.--Do, Careless, say I'll join the company in a few moments.
+LINE 137: CARELESS. I will--but don't let that old blockhead persuade you to
+LINE 138: squander any of that money on old musty debts, or any such nonsense; for
+LINE 139: tradesmen, Charles, are the most exorbitant fellows.
+LINE 140: CHARLES. Very true, and paying them is only encouraging them.
+LINE 141: CARELESS. Nothing else.
+LINE 142: CHARLES. Ay, ay, never fear.--
+LINE 143: [Exit CARELESS.]
+LINE 144: So! this was an odd old fellow, indeed. Let me see, two-thirds of these
+LINE 145: five hundred and thirty odd pounds are mine by right. Fore Heaven!
+LINE 146: I find one's ancestors are more valuable relations than I took them
+LINE 147: for!--Ladies and gentlemen, your most obedient and very grateful
+LINE 148: servant. [Bows ceremoniously to the pictures.]
+LINE 149: Enter ROWLEY
+LINE 150: Ha! old Rowley! egad, you are just come in time to take leave of your
+LINE 151: old acquaintance.
+LINE 152: ROWLEY. Yes, I heard they were a-going. But I wonder you can have such
+LINE 153: spirits under so many distresses.
+LINE 154: CHARLES. Why, there's the point! my distresses are so many, that I can't
+LINE 155: affort to part with my spirits; but I shall be rich and splenetic, all
+LINE 156: in good time. However, I suppose you are surprised that I am not more
+LINE 157: sorrowful at parting with so many near relations; to be sure, 'tis very
+LINE 158: affecting; but you see they never move a muscle, so why should I?
+LINE 159: ROWLEY. There's no making you serious a moment.
+LINE 160: CHARLES. Yes, faith, I am so now. Here, my honest Rowley, here, get me
+LINE 161: this changed directly, and take a hundred pounds of it immediately to
+LINE 162: old Stanley.
+LINE 163: ROWLEY. A hundred pounds! Consider only----
+LINE 164: CHARLES. Gad's life, don't talk about it! poor Stanley's wants are
+LINE 165: pressing, and, if you don't make haste, we shall have some one call that
+LINE 166: has a better right to the money.
+LINE 167: ROWLEY. Ah! there's the point! I never will cease dunning you with the
+LINE 168: old proverb----
+LINE 169: CHARLES. BE JUST BEFORE YOU'RE GENEROUS.--Why, so I would if I could;
+LINE 170: but Justice is an old hobbling beldame, and I can't get her to keep pace
+LINE 171: with Generosity, for the soul of me.
+LINE 172: ROWLEY. Yet, Charles, believe me, one hour's reflection----
+LINE 173: CHARLES. Ay, ay, it's very true; but, hark'ee, Rowley, while I have, by
+LINE 174: Heaven I'll give; so, damn your economy! and now for hazard.
+LINE 175: [Exeunt.]
+LINE 176: SCENE II.--The Parlour
+LINE 177: Enter SIR OLIVER and MOSES
+LINE 178: MOSES. Well sir, I think as Sir Peter said you have seen Mr. Charles in
+LINE 179: high Glory--'tis great Pity He's so extravagant.
+LINE 180: SIR OLIVER. True--but he would not sell my Picture--
+LINE 181: MOSES. And loves wine and women so much--
+LINE 182: SIR OLIVER. But He wouldn't sell my Picture.
+LINE 183: MOSES. And game so deep--
+LINE 184: SIR OLIVER. But He wouldn't sell my Picture. O--here's Rowley!
+LINE 185: Enter ROWLEY
+LINE 186: ROWLEY. So--Sir Oliver--I find you have made a Purchase----
+LINE 187: SIR OLIVER. Yes--yes--our young Rake has parted with his Ancestors like
+LINE 188: old Tapestry--sold Judges and Generals by the foot--and maiden Aunts as
+LINE 189: cheap as broken China.--
+LINE 190: ROWLEY. And here has he commissioned me to re-deliver you Part of
+LINE 191: the purchase-money--I mean tho' in your necessitous character of old
+LINE 192: Stanley----
+LINE 193: MOSES. Ah! there is the Pity of all! He is so damned charitable.
+LINE 194: ROWLEY. And I left a Hosier and two Tailors in the Hall--who I'm sure
+LINE 195: won't be paid, and this hundred would satisfy 'em.
+LINE 196: SIR OLIVER. Well--well--I'll pay his debts and his Benevolences
+LINE 197: too--I'll take care of old Stanley--myself--But now I am no more
+LINE 198: a Broker, and you shall introduce me to the elder Brother as Stanley----
+LINE 199: ROWLEY. Not yet a while--Sir Peter I know means to call there about this
+LINE 200: time.
+LINE 201: Enter TRIP
+LINE 202: TRIP. O Gentlemen--I beg Pardon for not showing you out--this
+LINE 203: way--Moses, a word.
+LINE 204: [Exit TRIP with MOSES.]
+LINE 205: SIR OLIVER. There's a Fellow for you--Would you believe it that Puppy
+LINE 206: intercepted the Jew, on our coming, and wanted to raise money before he
+LINE 207: got to his master!
+LINE 208: ROWLEY. Indeed!
+LINE 209: SIR OLIVER. Yes--they are now planning an annuity Business--Ah Master
+LINE 210: Rowley[,] in my Day Servants were content with the Follies of their
+LINE 211: Masters when they were worn a little Thread Bare but now they have their
+LINE 212: Vices like their Birth Day cloaths with the gloss on.
+LINE 213: [Exeunt.]
+LINE 214: SCENE III.--A Library
+LINE 215: SURFACE and SERVANT
+LINE 216: SURFACE. No letter from Lady Teazle?
+LINE 217: SERVANT. No Sir--
+LINE 218: SURFACE. I am surprised she hasn't sent if she is prevented from
+LINE 219: coming--! Sir Peter certainly does not suspect me--yet I wish I may
+LINE 220: not lose the Heiress, thro' the scrape I have drawn myself in with the
+LINE 221: wife--However, Charles's imprudence and bad character are great Points
+LINE 222: in my Favour.
+LINE 223: SERVANT. Sir--I believe that must be Lady Teazle--
+LINE 224: SURFACE. Hold[!] see--whether it is or not before you go to the Door--I
+LINE 225: have a particular Message for you if it should be my Brother.
+LINE 226: SERVANT. 'Tis her ladyship Sir--She always leaves her Chair at the
+LINE 227: milliner's in the next Street.
+LINE 228: SURFACE. Stay--stay--draw that Screen before the Window--that will
+LINE 229: do--my opposite Neighbour is a maiden Lady of so curious a temper!--
+LINE 230: [SERVANT draws the screen and exit.]
+LINE 231: I have a difficult Hand to play in this Affair--Lady Teazle as lately
+LINE 232: suspected my Views on Maria--but She must by no means be let into that
+LINE 233: secret, at least till I have her more in my Power.
+LINE 234: Enter LADY TEAZLE
+LINE 235: LADY TEAZLE. What[!] Sentiment in soliloquy--have you been very
+LINE 236: impatient now?--O Lud! don't pretend to look grave--I vow I couldn't
+LINE 237: come before----
+LINE 238: SURFACE. O Madam[,] Punctuality is a species of Constancy, a very
+LINE 239: unfashionable quality in a Lady.
+LINE 240: LADY TEAZLE. Upon my word you ought to pity me, do you now Sir Peter
+LINE 241: is grown so ill-tempered to me of Late! and so jealous! of Charles too
+LINE 242: that's the best of the story isn't it?
+LINE 243: SURFACE. I am glad my scandalous Friends keep that up. [Aside.]
+LINE 244: LADY TEAZLE. I am sure I wish He would let Maria marry him--and then
+LINE 245: perhaps He would be convinced--don't you--Mr. Surface?
+LINE 246: SURFACE. Indeed I do not.--[Aside.] O certainly I do--for then my dear
+LINE 247: Lady Teazle would also be convinced how wrong her suspicions were of my
+LINE 248: having any design on the silly Girl----
+LINE 249: LADY TEAZLE. Well--well I'm inclined to believe you--besides I really
+LINE 250: never could perceive why she should have so any admirers.
+LINE 251: SURFACE. O for her Fortune--nothing else--
+LINE 252: LADY TEAZLE. I believe so for tho' she is certainly very pretty--yet she
+LINE 253: has no conversation in the world--and is so grave and reserved--that I
+LINE 254: declare I think she'd have made an excellent wife for Sir Peter.--
+LINE 255: SURFACE. So she would.
+LINE 256: LADY TEAZLE. Then--one never hears her speak ill of anybody--which you
+LINE 257: know is mighty dull--
+LINE 258: SURFACE. Yet she doesn't want understanding--
+LINE 259: LADY TEAZLE. No more she does--yet one is always disapointed when
+LINE 260: one hears [her] speak--For though her Eyes have no kind of meaning in
+LINE 261: them--she very seldom talks Nonsense.
+LINE 262: SURFACE. Nay--nay surely--she has very fine eyes--
+LINE 263: LADY TEAZLE. Why so she has--tho' sometimes one fancies there's a little
+LINE 264: sort of a squint--
+LINE 265: SURFACE. A squint--O fie--Lady Teazle.
+LINE 266: LADY TEAZLE. Yes yes--I vow now--come there is a left-handed Cupid in
+LINE 267: one eye--that's the Truth on't.
+LINE 268: SURFACE. Well--his aim is very direct however--but Lady Sneerwell has
+LINE 269: quite corrupted you.
+LINE 270: LADY TEAZLE. No indeed--I have not opinion enough of her to be taught
+LINE 271: by her, and I know that she has lately rais'd many scandalous hints of
+LINE 272: me--which you know one always hears from one common Friend, or other.
+LINE 273: SURFACE. Why to say truth I believe you are not more obliged to her than
+LINE 274: others of her acquaintance.
+LINE 275: LADY TEAZLE. But isn't [it] provoking to hear the most ill-natured
+LINE 276: Things said to one and there's my friend Lady Sneerwell has circulated
+LINE 277: I don't know how many scandalous tales of me, and all without any
+LINE 278: foundation, too; that's what vexes me.
+LINE 279: SURFACE. Aye Madam to be sure that is the Provoking
+LINE 280: circumstance--without Foundation--yes yes--there's the mortification
+LINE 281: indeed--for when a slanderous story is believed against one--there
+LINE 282: certainly is no comfort like the consciousness of having deserved it----
+LINE 283: LADY TEAZLE. No to be sure--then I'd forgive their malice--but to attack
+LINE 284: me, who am really so innocent--and who never say an ill-natured thing of
+LINE 285: anybody--that is, of any Friend--! and then Sir Peter too--to have
+LINE 286: him so peevish--and so suspicious--when I know the integrity of my own
+LINE 287: Heart--indeed 'tis monstrous.
+LINE 288: SURFACE. But my dear Lady Teazle 'tis your own fault if you suffer
+LINE 289: it--when a Husband entertains a groundless suspicion of his Wife and
+LINE 290: withdraws his confidence from her--the original compact is broke and she
+LINE 291: owes it to the Honour of her sex to endeavour to outwit him--
+LINE 292: LADY TEAZLE. Indeed--So that if He suspects me without cause it follows
+LINE 293: that the best way of curing his jealousy is to give him reason for't--
+LINE 294: SURFACE. Undoubtedly--for your Husband [should] never be deceived in
+LINE 295: you--and in that case it becomes you to be frail in compliment to his
+LINE 296: discernment--
+LINE 297: LADY TEAZLE. To be sure what you say is very reasonable--and when the
+LINE 298: consciousness of my own Innocence----
+LINE 299: SURFACE. Ah: my dear--Madam there is the great mistake--'tis this very
+LINE 300: conscious Innocence that is of the greatest Prejudice to you--what is
+LINE 301: it makes you negligent of Forms and careless of the world's opinion--why
+LINE 302: the consciousness of your Innocence--what makes you thoughtless in
+LINE 303: your Conduct and apt to run into a thousand little imprudences--why the
+LINE 304: consciousness of your Innocence--what makes you impatient of Sir Peter's
+LINE 305: temper, and outrageous at his suspicions--why the consciousness of your
+LINE 306: own Innocence--
+LINE 307: LADY TEAZLE. 'Tis very true.
+LINE 308: SURFACE. Now my dear Lady Teazle if you but once make a trifling Faux
+LINE 309: Pas you can't conceive how cautious you would grow, and how ready to
+LINE 310: humour and agree with your Husband.
+LINE 311: LADY TEAZLE. Do you think so--
+LINE 312: SURFACE. O I'm sure on't; and then you'd find all scandal would cease
+LINE 313: at once--for in short your Character at Present is like a Person in a
+LINE 314: Plethora, absolutely dying of too much Health--
+LINE 315: LADY TEAZLE. So--so--then I perceive your Prescription is that I
+LINE 316: must sin in my own Defence--and part with my virtue to preserve my
+LINE 317: Reputation.--
+LINE 318: SURFACE. Exactly so upon my credit Ma'am[.]
+LINE 319: LADY TEAZLE. Well certainly this is the oddest Doctrine--and the newest
+LINE 320: Receipt for avoiding calumny.
+LINE 321: SURFACE. An infallible one believe me--Prudence like experience must be
+LINE 322: paid for--
+LINE 323: LADY TEAZLE. Why if my understanding were once convinced----
+LINE 324: SURFACE. Oh, certainly Madam, your understanding SHOULD be
+LINE 325: convinced--yes--yes--Heaven forbid I should persuade you to do anything
+LINE 326: you THOUGHT wrong--no--no--I have too much honor to desire it--
+LINE 327: LADY TEAZLE. Don't--you think we may as well leave Honor out of the
+LINE 328: Argument? [Rises.]
+LINE 329: SURFACE. Ah--the ill effects of your country education I see still
+LINE 330: remain with you.
+LINE 331: LADY TEAZLE. I doubt they do indeed--and I will fairly own to you,
+LINE 332: that If I could be persuaded to do wrong it would be by Sir Peter's
+LINE 333: ill-usage--sooner than your honourable Logic, after all.
+LINE 334: SURFACE. Then by this Hand, which He is unworthy of----
+LINE 335: Enter SERVANT
+LINE 336: Sdeath, you Blockhead--what do you want?
+LINE 337: SERVANT. I beg your Pardon Sir, but I thought you wouldn't chuse Sir
+LINE 338: Peter to come up without announcing him?
+LINE 339: SURFACE. Sir Peter--Oons--the Devil!
+LINE 340: LADY TEAZLE. Sir Peter! O Lud! I'm ruined! I'm ruin'd!
+LINE 341: SERVANT. Sir, 'twasn't I let him in.
+LINE 342: LADY TEAZLE. O I'm undone--what will become of me now Mr. Logick.--Oh!
+LINE 343: mercy, He's on the Stairs--I'll get behind here--and if ever I'm so
+LINE 344: imprudent again----
+LINE 345: [Goes behind the screen--]
+LINE 346: SURFACE. Give me that--Book!----
+LINE 347: [Sits down--SERVANT pretends to adjust his Hair--]
+LINE 348: Enter SIR PETER
+LINE 349: SIR PETER. Aye--ever improving himself!--Mr. Surface--
+LINE 350: SURFACE. Oh! my dear Sir Peter--I beg your Pardon--[Gaping and throws
+LINE 351: away the Book.] I have been dosing [dozing] over a stupid Book! well--I
+LINE 352: am much obliged to you for this Call--You haven't been here I believe
+LINE 353: since I fitted up this Room--Books you know are the only Things I am a
+LINE 354: Coxcomb in--
+LINE 355: SIR PETER. 'Tis very neat indeed--well well that's proper--and you make
+LINE 356: even your Screen a source of knowledge--hung I perceive with Maps--
+LINE 357: SURFACE. O yes--I find great use in that Screen.
+LINE 358: SIR PETER. I dare say you must--certainly--when you want to find out
+LINE 359: anything in a Hurry.
+LINE 360: SURFACE. Aye or to hide anything in a Hurry either--
+LINE 361: SIR PETER. Well I have a little private Business--if we were alone--
+LINE 362: SURFACE. You needn't stay.
+LINE 363: SERVANT. No--Sir----
+LINE 364: [Exit SERVANT.]
+LINE 365: SURFACE. Here's a Chair--Sir Peter--I beg----
+LINE 366: SIR PETER. Well--now we are alone--there IS a subject--my dear
+LINE 367: Friend--on which I wish to unburthen my Mind to you--a Point of the
+LINE 368: greatest moment to my Peace--in short, my good Friend--Lady Teazle's
+LINE 369: conduct of late has made me very unhappy.
+LINE 370: SURFACE. Indeed I'm very sorry to hear it--
+LINE 371: SIR PETER. Yes 'tis but too plain she has not the least regard for
+LINE 372: me--but what's worse, I have pretty good Authority to suspect that she
+LINE 373: must have formed an attachment to another.
+LINE 374: SURFACE. Indeed! you astonish me.
+LINE 375: SIR PETER. Yes--and between ourselves--I think I have discover'd the
+LINE 376: Person.
+LINE 377: SURFACE. How--you alarm me exceedingly!
+LINE 378: SIR PETER. Ah: my dear Friend I knew you would sympathize with me.--
+LINE 379: SURFACE. Yes--believe me Sir Peter--such a discovery would hurt me just
+LINE 380: as much as it would you--
+LINE 381: SIR PETER. I am convinced of it--ah--it is a happiness to have a Friend
+LINE 382: whom one can trust even with one's Family secrets--but have you no guess
+LINE 383: who I mean?
+LINE 384: SURFACE. I haven't the most distant Idea--it can't be Sir Benjamin
+LINE 385: Backbite.
+LINE 386: SIR PETER. O--No. What say you to Charles?
+LINE 387: SURFACE. My Brother--impossible!--O no Sir Peter you mustn't credit the
+LINE 388: scandalous insinuations you hear--no no--Charles to be sure has been
+LINE 389: charged with many things but go I can never think He would meditate so
+LINE 390: gross an injury--
+LINE 391: SIR PETER. Ah! my dear Friend--the goodness of your own Heart misleads
+LINE 392: you--you judge of others by yourself.
+LINE 393: SURFACE. Certainly Sir Peter--the Heart that is conscious of its own
+LINE 394: integrity is ever slowest to credit another's Treachery.--
+LINE 395: SIR PETER. True--but your Brother has no sentiment[--]you never hear him
+LINE 396: talk so.--
+LINE 397: SURFACE. Well there certainly is no knowing what men are capable
+LINE 398: of--no--there is no knowing--yet I can't but think Lady Teazle herself
+LINE 399: has too much Principle----
+LINE 400: SIR PETER. Aye but what's Principle against the Flattery of a
+LINE 401: handsome--lively young Fellow--
+LINE 402: SURFACE. That's very true--
+LINE 403: SIR PETER. And then you know the difference of our ages makes it very
+LINE 404: improbable that she should have any great affection for me--and if she
+LINE 405: were to be frail and I were to make it Public--why the Town would only
+LINE 406: laugh at the foolish old Batchelor, who had married a girl----
+LINE 407: SURFACE. That's true--to be sure People would laugh.
+LINE 408: SIR PETER. Laugh--aye and make Ballads--and Paragraphs and the Devil
+LINE 409: knows what of me--
+LINE 410: SURFACE. No--you must never make it public--
+LINE 411: SIR PETER. But then again that the Nephew of my old Friend, Sir
+LINE 412: Oliver[,] should be the Person to attempt such an injury--hurts me more
+LINE 413: nearly--
+LINE 414: SURFACE. Undoubtedly--when Ingratitude barbs the Dart of Injury--the
+LINE 415: wound has double danger in it--
+LINE 416: SIR PETER. Aye--I that was in a manner left his Guardian--in his House
+LINE 417: he had been so often entertain'd--who never in my Life denied him my
+LINE 418: advice--
+LINE 419: SURFACE. O 'tis not to be credited--There may be a man capable of such
+LINE 420: Baseness, to be sure--but for my Part till you can give me positive
+LINE 421: Proofs you must excuse me withholding my Belief. However, if this should
+LINE 422: be proved on him He is no longer a brother of mine I disclaim kindred
+LINE 423: with him--for the man who can break thro' the Laws of Hospitality--and
+LINE 424: attempt the wife of his Friend deserves to be branded as the Pest of
+LINE 425: Society.
+LINE 426: SIR PETER. What a difference there is between you--what noble
+LINE 427: sentiments!--
+LINE 428: SURFACE. But I cannot suspect Lady Teazle's honor.
+LINE 429: SIR PETER. I'm sure I wish to think well of her--and to remove all
+LINE 430: ground of Quarrel between us--She has lately reproach'd me more than
+LINE 431: once with having made no settlement on her--and, in our last Quarrel,
+LINE 432: she almost hinted that she should not break her Heart if I was
+LINE 433: dead.--now as we seem to differ in our Ideas of Expense I have resolved
+LINE 434: she shall be her own Mistress in that Respect for the future--and if
+LINE 435: I were to die--she shall find that I have not been inattentive to her
+LINE 436: Interests while living--Here my Friend are the Draughts of two Deeds
+LINE 437: which I wish to have your opinion on--by one she will enjoy eight
+LINE 438: hundred a year independent while I live--and by the other the bulk of my
+LINE 439: Fortune after my Death.
+LINE 440: SURFACE. This conduct Sir Peter is indeed truly Generous! I wish it may
+LINE 441: not corrupt my pupil.--[Aside.]
+LINE 442: SIR PETER. Yes I am determined she shall have no cause to complain--tho'
+LINE 443: I would not have her acquainted with the latter instance of my affection
+LINE 444: yet awhile.
+LINE 445: SURFACE. Nor I--if I could help it.
+LINE 446: SIR PETER. And now my dear Friend if you please we will talk over the
+LINE 447: situation of your Hopes with Maria.
+LINE 448: SURFACE. No--no--Sir Peter--another Time if you Please--[softly].
+LINE 449: SIR PETER. I am sensibly chagrined at the little Progress you seem to
+LINE 450: make in her affection.
+LINE 451: SURFACE. I beg you will not mention it--What are my Disappointments when
+LINE 452: your Happiness is in Debate [softly]. 'Sdeath I shall be ruined every
+LINE 453: way.
+LINE 454: SIR PETER. And tho' you are so averse to my acquainting Lady Teazle with
+LINE 455: YOUR passion, I am sure she's not your Enemy in the Affair.
+LINE 456: SURFACE. Pray Sir Peter, now oblige me.--I am really too much affected
+LINE 457: by the subject we have been speaking of to bestow a thought on my own
+LINE 458: concerns--The Man who is entrusted with his Friend's Distresses can
+LINE 459: never----
+LINE 460: Enter SERVANT
+LINE 461: Well, Sir?
+LINE 462: SERVANT. Your Brother Sir, is--speaking to a Gentleman in the Street,
+LINE 463: and says He knows you're within.
+LINE 464: SURFACE. 'Sdeath, Blockhead--I'm NOT within--I'm out for the Day.
+LINE 465: SIR PETER. Stay--hold--a thought has struck me--you shall be at home.
+LINE 466: SURFACE. Well--well--let him up.--
+LINE 467: [Exit SERVANT.]
+LINE 468: He'll interrupt Sir Peter, however. [Aside.]
+LINE 469: SIR PETER. Now, my good Friend--oblige me I Intreat you--before Charles
+LINE 470: comes--let me conceal myself somewhere--Then do you tax him on the Point
+LINE 471: we have been talking on--and his answers may satisfy me at once.--
+LINE 472: SURFACE. O Fie--Sir Peter--would you have ME join in so mean a Trick? to
+LINE 473: trepan my Brother too?
+LINE 474: SIR PETER. Nay you tell me you are SURE He is innocent--if so you do
+LINE 475: him the greatest service in giving him an opportunity to clear
+LINE 476: himself--and--you will set my Heart at rest--come you shall not refuse
+LINE 477: me--here behind this Screen will be--hey! what the Devil--there seems to
+LINE 478: be one listener here already--I'll swear I saw a Petticoat.--
+LINE 479: SURFACE. Ha! ha! ha! Well this is ridiculous enough--I'll tell you,
+LINE 480: Sir Peter--tho' I hold a man of Intrigue to be a most despicable
+LINE 481: Character--yet you know it doesn't follow that a man is to be an
+LINE 482: absolute Joseph either--hark'ee--'tis a little French Milliner--a silly
+LINE 483: Rogue that plagues me--and having some character, on your coming she ran
+LINE 484: behind the Screen.--
+LINE 485: SIR PETER. Ah a Rogue--but 'egad she has overheard all I have been
+LINE 486: saying of my Wife.
+LINE 487: SURFACE. O 'twill never go any farther, you may depend on't.
+LINE 488: SIR PETER. No!--then efaith let her hear it out.--Here's a Closet will
+LINE 489: do as well.--
+LINE 490: SURFACE. Well, go in there.--
+LINE 491: SIR PETER. Sly rogue--sly Rogue.--
+LINE 492: SURFACE. Gad's my Life what an Escape--! and a curious situation I'm
+LINE 493: in!--to part man and wife in this manner.--
+LINE 494: LADY TEAZLE. [peeps out.] Couldn't I steal off--
+LINE 495: SURFACE. Keep close, my Angel!
+LINE 496: SIR PETER. [Peeping out.] Joseph--tax him home.
+LINE 497: SURFACE. Back--my dear Friend
+LINE 498: LADY TEAZLE. [Peeping out.] Couldn't you lock Sir Peter in?--
+LINE 499: SURFACE. Be still--my Life!
+LINE 500: SIR PETER. [Peeping.] You're sure the little Milliner won't blab?
+LINE 501: SURFACE. In! in! my good Sir Peter--'Fore Gad, I wish I had a key to the
+LINE 502: Door.
+LINE 503: Enter CHARLES
+LINE 504: CHARLES. Hollo! Brother--what has been the matter? your Fellow wouldn't
+LINE 505: let me up at first--What[?] have you had a Jew or a wench with you.--
+LINE 506: SURFACE. Neither Brother I assure you.
+LINE 507: CHARLES. But--what has made Sir Peter steal off--I thought He had been
+LINE 508: with you--
+LINE 509: SURFACE. He WAS Brother--but hearing you were coming He didn't chuse to
+LINE 510: stay--
+LINE 511: CHARLES. What[!] was the old Gentleman afraid I wanted to borrow money
+LINE 512: of him?
+LINE 513: SURFACE. No Sir--but I am sorry to find[,] Charles--you have lately
+LINE 514: given that worthy man grounds for great Uneasiness.
+LINE 515: CHARLES. Yes they tell me I do that to a great many worthy men--but how
+LINE 516: so Pray?
+LINE 517: SURFACE. To be plain with you Brother He thinks you are endeavouring to
+LINE 518: gain Lady Teazle's Affections from him.
+LINE 519: CHARLES. Who I--O Lud! not I upon my word.--Ha! ha! ha! so the old
+LINE 520: Fellow has found out that He has got a young wife has He? or what's
+LINE 521: worse she has discover'd that she has an old Husband?
+LINE 522: SURFACE. This is no subject to jest on Brother--He who can laugh----
+LINE 523: CHARLES. True true as you were going to say--then seriously I never had
+LINE 524: the least idea of what you charge me with, upon my honour.
+LINE 525: SURFACE. Well it will give Sir Peter great satisfaction to hear this.
+LINE 526: CHARLES. [Aloud.] To be sure, I once thought the lady seemed to
+LINE 527: have taken a fancy--but upon my soul I never gave her the least
+LINE 528: encouragement.--Beside you know my Attachment to Maria--
+LINE 529: SURFACE. But sure Brother even if Lady Teazle had betray'd the fondest
+LINE 530: Partiality for you----
+LINE 531: CHARLES. Why--look'ee Joseph--I hope I shall never deliberately do
+LINE 532: a dishonourable Action--but if a pretty woman was purposely to throw
+LINE 533: herself in my way--and that pretty woman married to a man old enough to
+LINE 534: be her Father----
+LINE 535: SURFACE. Well?
+LINE 536: CHARLES. Why I believe I should be obliged to borrow a little of your
+LINE 537: Morality, that's all.--but, Brother do you know now that you surprize me
+LINE 538: exceedingly by naming me with Lady Teazle--for faith I always understood
+LINE 539: YOU were her Favourite--
+LINE 540: SURFACE. O for shame--Charles--This retort is Foolish.
+LINE 541: CHARLES. Nay I swear I have seen you exchange such significant
+LINE 542: Glances----
+LINE 543: SURFACE. Nay--nay--Sir--this is no jest--
+LINE 544: CHARLES. Egad--I'm serious--Don't you remember--one Day, when I called
+LINE 545: here----
+LINE 546: SURFACE. Nay--prithee--Charles
+LINE 547: CHARLES. And found you together----
+LINE 548: SURFACE. Zounds, Sir--I insist----
+LINE 549: CHARLES. And another time when your Servant----
+LINE 550: SURFACE. Brother--brother a word with you--Gad I must stop him--[Aside.]
+LINE 551: CHARLES. Informed--me that----
+LINE 552: SURFACE. Hush!--I beg your Pardon but Sir Peter has overheard all we
+LINE 553: have been saying--I knew you would clear yourself, or I shouldn't have
+LINE 554: consented--
+LINE 555: CHARLES. How Sir Peter--Where is He--
+LINE 556: SURFACE. Softly, there! [Points to the closet.]
+LINE 557: CHARLES. [In the Closet!] O 'fore Heaven I'll have him out--Sir Peter
+LINE 558: come forth!
+LINE 559: SURFACE. No--no----
+LINE 560: CHARLES. I say Sir Peter--come into court.--
+LINE 561: [Pulls in SIR PETER.]
+LINE 562: What--my old Guardian--what[!] turn inquisitor and take evidence
+LINE 563: incog.--
+LINE 564: SIR PETER. Give me your hand--Charles--I believe I have suspected you
+LINE 565: wrongfully; but you mustn't be angry with Joseph--'twas my Plan--
+LINE 566: CHARLES. Indeed!--
+LINE 567: SIR PETER. But I acquit you--I promise you I don't think near so ill of
+LINE 568: you as I did--what I have heard has given me great satisfaction.
+LINE 569: CHARLES. Egad then 'twas lucky you didn't hear any more. Wasn't it
+LINE 570: Joseph?
+LINE 571: SIR PETER. Ah! you would have retorted on him.
+LINE 572: CHARLES. Aye--aye--that was a Joke.
+LINE 573: SIR PETER. Yes, yes, I know his honor too well.
+LINE 574: CHARLES. Yet you might as well have suspected him as me in this matter,
+LINE 575: for all that--mightn't He, Joseph?
+LINE 576: SIR PETER. Well well I believe you--
+LINE 577: SURFACE. Would they were both out of the Room!
+LINE 578: Enter SERVANT, whispers SURFACE
+LINE 579: SIR PETER. And in future perhaps we may not be such Strangers.
+LINE 580: SURFACE. Gentlemen--I beg Pardon--I must wait on you downstairs--Here is
+LINE 581: a Person come on particular Business----
+LINE 582: CHARLES. Well you can see him in another Room--Sir Peter and I haven't
+LINE 583: met a long time and I have something to say [to] him.
+LINE 584: SURFACE. They must not be left together.--I'll send this man away and
+LINE 585: return directly--
+LINE 586: [SURFACE goes out.]
+LINE 587: SIR PETER. Ah--Charles if you associated more with your Brother, one
+LINE 588: might indeed hope for your reformation--He is a man of Sentiment--Well!
+LINE 589: there is nothing in the world so noble as a man of Sentiment!
+LINE 590: CHARLES. Pshaw! He is too moral by half--and so apprehensive of his good
+LINE 591: Name, as he calls it, that I suppose He would as soon let a Priest in
+LINE 592: his House as a Girl--
+LINE 593: SIR PETER. No--no--come come,--you wrong him. No, no, Joseph is no Rake
+LINE 594: but he is no such Saint in that respect either. I have a great mind to
+LINE 595: tell him--we should have such a Laugh!
+LINE 596: CHARLES. Oh, hang him? He's a very Anchorite--a young Hermit!
+LINE 597: SIR PETER. Harkee--you must not abuse him, he may chance to hear of it
+LINE 598: again I promise you.
+LINE 599: CHARLES. Why you won't tell him?
+LINE 600: SIR PETER. No--but--this way. Egad, I'll tell him--Harkee, have you a
+LINE 601: mind to have a good laugh against Joseph?
+LINE 602: CHARLES. I should like it of all things--
+LINE 603: SIR PETER. Then, E'faith, we will--I'll be quit with him for discovering
+LINE 604: me.--He had a girl with him when I called. [Whispers.]
+LINE 605: CHARLES. What[!] Joseph[!] you jest--
+LINE 606: SIR PETER. Hush!--a little French Milliner--and the best of the jest
+LINE 607: is--she's in the room now.
+LINE 608: CHARLES. The devil she is--
+LINE 609: SIR PETER. Hush! I tell you. [Points.]
+LINE 610: CHARLES. Behind the screen! Odds Life, let's unveil her!
+LINE 611: SIR PETER. No--no! He's coming--you shan't indeed!
+LINE 612: CHARLES. Oh, egad, we'll have a peep at the little milliner!
+LINE 613: SIR PETER. Not for the world--Joseph will never forgive me.
+LINE 614: CHARLES. I'll stand by you----
+LINE 615: SIR PETER. Odds Life! Here He's coming--
+LINE 616: [SURFACE enters just as CHARLES throws down the Screen.]
+LINE 617: Re-enter JOSEPH SURFACE
+LINE 618: CHARLES. Lady Teazle! by all that's wonderful!
+LINE 619: SIR PETER. Lady Teazle! by all that's Horrible!
+LINE 620: CHARLES. Sir Peter--This is one of the smartest French Milliners I ever
+LINE 621: saw!--Egad, you seem all to have been diverting yourselves here at Hide
+LINE 622: and Seek--and I don't see who is out of the Secret!--Shall I beg your
+LINE 623: Ladyship to inform me!--Not a word!--Brother!--will you please to
+LINE 624: explain this matter? What! is Honesty Dumb too?--Sir Peter, though I
+LINE 625: found you in the Dark--perhaps you are not so now--all mute! Well tho'
+LINE 626: I can make nothing of the Affair, I make no doubt but you perfectly
+LINE 627: understand one another--so I'll leave you to yourselves.--[Going.]
+LINE 628: Brother I'm sorry to find you have given that worthy man grounds for so
+LINE 629: much uneasiness!--Sir Peter--there's nothing in the world so noble as a
+LINE 630: man of Sentiment!--
+LINE 631: [Stand for some time looking at one another. Exit CHARLES.]
+LINE 632: SURFACE. Sir Peter--notwithstanding I confess that appearances are
+LINE 633: against me. If you will afford me your Patience I make no doubt but I
+LINE 634: shall explain everything to your satisfaction.--
+LINE 635: SIR PETER. If you please--Sir--
+LINE 636: SURFACE. The Fact is Sir--that Lady Teazle knowing my Pretensions
+LINE 637: to your ward Maria--I say Sir Lady Teazle--being apprehensive of the
+LINE 638: Jealousy of your Temper--and knowing my Friendship to the Family. S
+LINE 639: he Sir--I say call'd here--in order that I might explain those
+LINE 640: Pretensions--but on your coming being apprehensive--as I said of your
+LINE 641: Jealousy--she withdrew--and this, you may depend on't is the whole truth
+LINE 642: of the Matter.
+LINE 643: SIR PETER. A very clear account upon the [my] word and I dare swear the
+LINE 644: Lady will vouch for every article of it.
+LINE 645: LADY TEAZLE. For not one word of it Sir Peter--
+LINE 646: SIR PETER. How[!] don't you think it worthwhile to agree in the lie.
+LINE 647: LADY TEAZLE. There is not one Syllable of Truth in what that Gentleman
+LINE 648: has told you.
+LINE 649: SIR PETER. I believe you upon my soul Ma'am--
+LINE 650: SURFACE. 'Sdeath, madam, will you betray me! [Aside.]
+LINE 651: LADY TEAZLE. Good Mr. Hypocrite by your leave I will speak for myself--
+LINE 652: SIR PETER. Aye let her alone Sir--you'll find she'll make out a better
+LINE 653: story than you without Prompting.
+LINE 654: LADY TEAZLE. Hear me Sir Peter--I came hither on no matter relating to
+LINE 655: your ward and even ignorant of this Gentleman's pretensions to her--but
+LINE 656: I came--seduced by his insidious arguments--and pretended Passion[--]at
+LINE 657: least to listen to his dishonourable Love if not to sacrifice your
+LINE 658: Honour to his Baseness.
+LINE 659: SIR PETER. Now, I believe, the Truth is coming indeed[.]
+LINE 660: SURFACE. The Woman's mad--
+LINE 661: LADY TEAZLE. No Sir--she has recovered her Senses. Your own Arts have
+LINE 662: furnished her with the means. Sir Peter--I do not expect you to credit
+LINE 663: me--but the Tenderness you express'd for me, when I am sure you could
+LINE 664: not think I was a witness to it, has penetrated so to my Heart that had
+LINE 665: I left the Place without the Shame of this discovery--my future
+LINE 666: life should have spoken the sincerity of my Gratitude--as for that
+LINE 667: smooth-tongued Hypocrite--who would have seduced the wife of his too
+LINE 668: credulous Friend while he pretended honourable addresses to his ward--I
+LINE 669: behold him now in a light so truly despicable that I shall never again
+LINE 670: Respect myself for having Listened to him.
+LINE 671: [Exit.]
+LINE 672: SURFACE. Notwithstanding all this Sir Peter--Heaven knows----
+LINE 673: SIR PETER. That you are a Villain!--and so I leave you to your
+LINE 674: conscience--
+LINE 675: SURFACE. You are too Rash Sir Peter--you SHALL hear me--The man who
+LINE 676: shuts out conviction by refusing to----
+LINE 677: [Exeunt, SURFACE following and speaking.]
+LINE 678: END OF THE FOURTH

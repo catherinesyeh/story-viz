@@ -37,11 +37,13 @@ function post(field: string, payload: any): Promise<any> {
 export async function getNewColors(
   data: any,
   color_desc: string,
+  palette_info: string,
   type: string
 ) {
   const payload = {
     data: data,
     color_desc: color_desc,
+    palette_info: palette_info,
     story_type: type,
   };
 
@@ -65,6 +67,15 @@ export async function askLLMQuestion(question: string, info: string) {
   };
 
   return post(`ask_llm`, payload);
+}
+
+export async function findChapterWithLLM(question: string, info: string) {
+  const payload = {
+    question: question,
+    data: info,
+  };
+
+  return post(`find_chapter_with_llm`, payload);
 }
 
 export async function checkBackendStatus() {

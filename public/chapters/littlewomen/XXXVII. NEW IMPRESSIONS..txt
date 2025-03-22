@@ -1,0 +1,379 @@
+LINE 1: At three o'clock in the afternoon, all the fashionable world at Nice may
+LINE 2: be seen on the Promenade des Anglais,--a charming place; for the wide
+LINE 3: walk, bordered with palms, flowers, and tropical shrubs, is bounded on
+LINE 4: one side by the sea, on the other by the grand drive, lined with hotels
+LINE 5: and villas, while beyond lie orange-orchards and the hills. Many nations
+LINE 6: are represented, many languages spoken, many costumes worn; and, on a
+LINE 7: sunny day, the spectacle is as gay and brilliant as a carnival. Haughty
+LINE 8: English, lively French, sober Germans, handsome Spaniards, ugly
+LINE 9: Russians, meek Jews, free-and-easy Americans, all drive, sit, or saunter
+LINE 10: here, chatting over the news, and criticising the latest celebrity who
+LINE 11: has arrived,--Ristori or Dickens, Victor Emmanuel or the Queen of the
+LINE 12: Sandwich Islands. The equipages are as varied as the company, and
+LINE 13: attract as much attention, especially the low basket-barouches in which
+LINE 14: ladies drive themselves, with a pair of dashing ponies, gay nets to keep
+LINE 15: their voluminous flounces from overflowing the diminutive vehicles, and
+LINE 16: little grooms on the perch behind.
+LINE 17: Along this walk, on Christmas Day, a tall young man walked slowly, with
+LINE 18: his hands behind him, and a somewhat absent expression of countenance.
+LINE 19: He looked like an Italian, was dressed like an Englishman, and had the
+LINE 20: independent air of an American,--a combination which caused sundry pairs
+LINE 21: of feminine eyes to look approvingly after him, and sundry dandies in
+LINE 22: black velvet suits, with rose-colored neckties, buff gloves, and
+LINE 23: orange-flowers in their button-holes, to shrug their shoulders, and then
+LINE 24: envy him his inches. There were plenty of pretty faces to admire, but
+LINE 25: the young man took little notice of them, except to glance, now and
+LINE 26: then, at some blonde girl, or lady in blue. Presently he strolled out of
+LINE 27: the promenade, and stood a moment at the crossing, as if undecided
+LINE 28: whether to go and listen to the band in the Jardin Publique, or to
+LINE 29: wander along the beach toward Castle Hill. The quick trot of ponies'
+LINE 30: feet made him look up, as one of the little carriages, containing a
+LINE 31: single lady, came rapidly down the street. The lady was young, blonde,
+LINE 32: and dressed in blue. He stared a minute, then his whole face woke up,
+LINE 33: and, waving his hat like a boy, he hurried forward to meet her.
+LINE 34: "O Laurie, is it really you? I thought you'd never come!" cried Amy,
+LINE 35: dropping the reins, and holding out both hands, to the great
+LINE 36: scandalization of a French mamma, who hastened her daughter's steps,
+LINE 37: lest she should be demoralized by beholding the free manners of these
+LINE 38: "mad English."
+LINE 39: "I was detained by the way, but I promised to spend Christmas with you,
+LINE 40: and here I am."
+LINE 41: "How is your grandfather? When did you come? Where are you staying?"
+LINE 42: "Very well--last night--at the Chauvain. I called at your hotel, but you
+LINE 43: were all out."
+LINE 44: "I have so much to say, I don't know where to begin! Get in, and we can
+LINE 45: talk at our ease; I was going for a drive, and longing for company.
+LINE 46: Flo's saving up for to-night."
+LINE 47: "What happens then, a ball?"
+LINE 48: "A Christmas party at our hotel. There are many Americans there, and
+LINE 49: they give it in honor of the day. You'll go with us, of course? Aunt
+LINE 50: will be charmed."
+LINE 51: "Thank you. Where now?" asked Laurie, leaning back and folding his arms,
+LINE 52: a proceeding which suited Amy, who preferred to drive; for her
+LINE 53: parasol-whip and blue reins over the white ponies' backs, afforded her
+LINE 54: infinite satisfaction.
+LINE 55: "I'm going to the banker's first, for letters, and then to Castle Hill;
+LINE 56: the view is so lovely, and I like to feed the peacocks. Have you ever
+LINE 57: been there?"
+LINE 58: "Often, years ago; but I don't mind having a look at it."
+LINE 59: "Now tell me all about yourself. The last I heard of you, your
+LINE 60: grandfather wrote that he expected you from Berlin."
+LINE 61: "Yes, I spent a month there, and then joined him in Paris, where he has
+LINE 62: settled for the winter. He has friends there, and finds plenty to amuse
+LINE 63: him; so I go and come, and we get on capitally."
+LINE 64: "That's a sociable arrangement," said Amy, missing something in Laurie's
+LINE 65: manner, though she couldn't tell what.
+LINE 66: "Why, you see he hates to travel, and I hate to keep still; so we each
+LINE 67: suit ourselves, and there is no trouble. I am often with him, and he
+LINE 68: enjoys my adventures, while I like to feel that some one is glad to see
+LINE 69: me when I get back from my wanderings. Dirty old hole, isn't it?" he
+LINE 70: added, with a look of disgust, as they drove along the boulevard to the
+LINE 71: Place Napoleon, in the old city.
+LINE 72: "The dirt is picturesque, so I don't mind. The river and the hills are
+LINE 73: delicious, and these glimpses of the narrow cross-streets are my
+LINE 74: delight. Now we shall have to wait for that procession to pass; it's
+LINE 75: going to the Church of St. John."
+LINE 76: While Laurie listlessly watched the procession of priests under their
+LINE 77: canopies, white-veiled nuns bearing lighted tapers, and some brotherhood
+LINE 78: in blue, chanting as they walked, Amy watched him, and felt a new sort
+LINE 79: of shyness steal over her; for he was changed, and she could not find
+LINE 80: the merry-faced boy she left in the moody-looking man beside her. He was
+LINE 81: handsomer than ever, and greatly improved, she thought; but now that the
+LINE 82: flush of pleasure at meeting her was over, he looked tired and
+LINE 83: spiritless,--not sick, nor exactly unhappy, but older and graver than a
+LINE 84: year or two of prosperous life should have made him. She couldn't
+LINE 85: understand it, and did not venture to ask questions; so she shook her
+LINE 86: head, and touched up her ponies, as the procession wound away across the
+LINE 87: arches of the Paglioni bridge, and vanished in the church.
+LINE 88: "_Que pensez vous_?" she said, airing her French, which had improved in
+LINE 89: quantity, if not in quality, since she came abroad.
+LINE 90: "That mademoiselle has made good use of her time, and the result is
+LINE 91: charming," replied Laurie, bowing, with his hand on his heart, and an
+LINE 92: admiring look.
+LINE 93: She blushed with pleasure, but somehow the compliment did not satisfy
+LINE 94: her like the blunt praises he used to give her at home, when he
+LINE 95: promenaded round her on festival occasions, and told her she was
+LINE 96: "altogether jolly," with a hearty smile and an approving pat on the
+LINE 97: head. She didn't like the new tone; for, though not _blasé_, it sounded
+LINE 98: indifferent in spite of the look.
+LINE 99: "If that's the way he's going to grow up, I wish he'd stay a boy," she
+LINE 100: thought, with a curious sense of disappointment and discomfort, trying
+LINE 101: meantime to seem quite easy and gay.
+LINE 102: At Avigdor's she found the precious home-letters, and, giving the reins
+LINE 103: to Laurie, read them luxuriously as they wound up the shady road between
+LINE 104: green hedges, where tea-roses bloomed as freshly as in June.
+LINE 105: "Beth is very poorly, mother says. I often think I ought to go home, but
+LINE 106: they all say 'stay;' so I do, for I shall never have another chance like
+LINE 107: this," said Amy, looking sober over one page.
+LINE 108: "I think you are right, there; you could do nothing at home, and it is a
+LINE 109: great comfort to them to know that you are well and happy, and enjoying
+LINE 110: so much, my dear."
+LINE 111: He drew a little nearer, and looked more like his old self, as he said
+LINE 112: that; and the fear that sometimes weighed on Amy's heart was lightened,
+LINE 113: for the look, the act, the brotherly "my dear," seemed to assure her
+LINE 114: that if any trouble did come, she would not be alone in a strange land.
+LINE 115: Presently she laughed, and showed him a small sketch of Jo in her
+LINE 116: scribbling-suit, with the bow rampantly erect upon her cap, and issuing
+LINE 117: from her mouth the words, "Genius burns!"
+LINE 118: Laurie smiled, took it, put it in his vest-pocket, "to keep it from
+LINE 119: blowing away," and listened with interest to the lively letter Amy read
+LINE 120: him.
+LINE 121: "This will be a regularly merry Christmas to me, with presents in the
+LINE 122: morning, you and letters in the afternoon, and a party at night," said
+LINE 123: Amy, as they alighted among the ruins of the old fort, and a flock of
+LINE 124: splendid peacocks came trooping about them, tamely waiting to be fed.
+LINE 125: While Amy stood laughing on the bank above him as she scattered crumbs
+LINE 126: to the brilliant birds, Laurie looked at her as she had looked at him,
+LINE 127: with a natural curiosity to see what changes time and absence had
+LINE 128: wrought. He found nothing to perplex or disappoint, much to admire and
+LINE 129: approve; for, overlooking a few little affectations of speech and
+LINE 130: manner, she was as sprightly and graceful as ever, with the addition of
+LINE 131: that indescribable something in dress and bearing which we call
+LINE 132: elegance. Always mature for her age, she had gained a certain _aplomb_
+LINE 133: in both carriage and conversation, which made her seem more of a woman
+LINE 134: of the world than she was; but her old petulance now and then showed
+LINE 135: itself, her strong will still held its own, and her native frankness was
+LINE 136: unspoiled by foreign polish.
+LINE 137: Laurie did not read all this while he watched her feed the peacocks, but
+LINE 138: he saw enough to satisfy and interest him, and carried away a pretty
+LINE 139: little picture of a bright-faced girl standing in the sunshine, which
+LINE 140: brought out the soft hue of her dress, the fresh color of her cheeks,
+LINE 141: the golden gloss of her hair, and made her a prominent figure in the
+LINE 142: pleasant scene.
+LINE 143: As they came up on to the stone plateau that crowns the hill, Amy waved
+LINE 144: her hand as if welcoming him to her favorite haunt, and said, pointing
+LINE 145: here and there,--
+LINE 146: "Do you remember the Cathedral and the Corso, the fishermen dragging
+LINE 147: their nets in the bay, and the lovely road to Villa Franca, Schubert's
+LINE 148: Tower, just below, and, best of all, that speck far out to sea which
+LINE 149: they say is Corsica?"
+LINE 150: "I remember; it's not much changed," he answered, without enthusiasm.
+LINE 151: "What Jo would give for a sight of that famous speck!" said Amy, feeling
+LINE 152: in good spirits, and anxious to see him so also.
+LINE 153: "Yes," was all he said, but he turned and strained his eyes to see the
+LINE 154: island which a greater usurper than even Napoleon now made interesting
+LINE 155: in his sight.
+LINE 156: "Take a good look at it for her sake, and then come and tell me what you
+LINE 157: have been doing with yourself all this while," said Amy, seating
+LINE 158: herself, ready for a good talk.
+LINE 159: But she did not get it; for, though he joined her, and answered all her
+LINE 160: questions freely, she could only learn that he had roved about the
+LINE 161: continent and been to Greece. So, after idling away an hour, they drove
+LINE 162: home again; and, having paid his respects to Mrs. Carrol, Laurie left
+LINE 163: them, promising to return in the evening.
+LINE 164: It must be recorded of Amy that she deliberately "prinked" that night.
+LINE 165: Time and absence had done its work on both the young people; she had
+LINE 166: seen her old friend in a new light, not as "our boy," but as a handsome
+LINE 167: and agreeable man, and she was conscious of a very natural desire to
+LINE 168: find favor in his sight. Amy knew her good points, and made the most of
+LINE 169: them, with the taste and skill which is a fortune to a poor and pretty
+LINE 170: woman.
+LINE 171: Tarlatan and tulle were cheap at Nice, so she enveloped herself in them
+LINE 172: on such occasions, and, following the sensible English fashion of simple
+LINE 173: dress for young girls, got up charming little toilettes with fresh
+LINE 174: flowers, a few trinkets, and all manner of dainty devices, which were
+LINE 175: both inexpensive and effective. It must be confessed that the artist
+LINE 176: sometimes got possession of the woman, and indulged in antique
+LINE 177: _coiffures_, statuesque attitudes, and classic draperies. But, dear
+LINE 178: heart, we all have our little weaknesses, and find it easy to pardon
+LINE 179: such in the young, who satisfy our eyes with their comeliness, and keep
+LINE 180: our hearts merry with their artless vanities.
+LINE 181: "I do want him to think I look well, and tell them so at home," said Amy
+LINE 182: to herself, as she put on Flo's old white silk ball-dress, and covered
+LINE 183: it with a cloud of fresh illusion, out of which her white shoulders and
+LINE 184: golden head emerged with a most artistic effect. Her hair she had the
+LINE 185: sense to let alone, after gathering up the thick waves and curls into a
+LINE 186: Hebe-like knot at the back of her head.
+LINE 187: "It's not the fashion, but it's becoming, and I can't afford to make a
+LINE 188: fright of myself," she used to say, when advised to frizzle, puff, or
+LINE 189: braid, as the latest style commanded.
+LINE 190: Having no ornaments fine enough for this important occasion, Amy looped
+LINE 191: her fleecy skirts with rosy clusters of azalea, and framed the white
+LINE 192: shoulders in delicate green vines. Remembering the painted boots, she
+LINE 193: surveyed her white satin slippers with girlish satisfaction, and
+LINE 194: _chasséed_ down the room, admiring her aristocratic feet all by herself.
+LINE 195: "My new fan just matches my flowers, my gloves fit to a charm, and the
+LINE 196: real lace on aunt's _mouchoir_ gives an air to my whole dress. If I only
+LINE 197: had a classical nose and mouth I should be perfectly happy," she said,
+LINE 198: surveying herself with a critical eye, and a candle in each hand.
+LINE 199: In spite of this affliction, she looked unusually gay and graceful as
+LINE 200: she glided away; she seldom ran,--it did not suit her style, she
+LINE 201: thought, for, being tall, the stately and Junoesque was more appropriate
+LINE 202: than the sportive or piquante. She walked up and down the long saloon
+LINE 203: while waiting for Laurie, and once arranged herself under the
+LINE 204: chandelier, which had a good effect upon her hair; then she thought
+LINE 205: better of it, and went away to the other end of the room, as if ashamed
+LINE 206: of the girlish desire to have the first view a propitious one. It so
+LINE 207: happened that she could not have done a better thing, for Laurie came in
+LINE 208: so quietly she did not hear him; and, as she stood at the distant
+LINE 209: window, with her head half turned, and one hand gathering up her dress,
+LINE 210: the slender, white figure against the red curtains was as effective as a
+LINE 211: well-placed statue.
+LINE 212: "Good evening, Diana!" said Laurie, with the look of satisfaction she
+LINE 213: liked to see in his eyes when they rested on her.
+LINE 214: "Good evening, Apollo!" she answered, smiling back at him, for he, too,
+LINE 215: looked unusually _debonnaire_, and the thought of entering the ball-room
+LINE 216: on the arm of such a personable man caused Amy to pity the four plain
+LINE 217: Misses Davis from the bottom of her heart.
+LINE 218: "Here are your flowers; I arranged them myself, remembering that you
+LINE 219: didn't like what Hannah calls a 'sot-bookay,'" said Laurie, handing her
+LINE 220: a delicate nosegay, in a holder that she had long coveted as she daily
+LINE 221: passed it in Cardiglia's window.
+LINE 222: [Illustration: Here are your flowers]
+LINE 223: "How kind you are!" she exclaimed gratefully. "If I'd known you were
+LINE 224: coming I'd have had something ready for you to-day, though not as pretty
+LINE 225: as this, I'm afraid."
+LINE 226: "Thank you; it isn't what it should be, but you have improved it," he
+LINE 227: added, as she snapped the silver bracelet on her wrist.
+LINE 228: "Please don't."
+LINE 229: "I thought you liked that sort of thing?"
+LINE 230: "Not from you; it doesn't sound natural, and I like your old bluntness
+LINE 231: better."
+LINE 232: "I'm glad of it," he answered, with a look of relief; then buttoned her
+LINE 233: gloves for her, and asked if his tie was straight, just as he used to do
+LINE 234: when they went to parties together, at home.
+LINE 235: The company assembled in the long _salle à manger_, that evening, was
+LINE 236: such as one sees nowhere but on the Continent. The hospitable Americans
+LINE 237: had invited every acquaintance they had in Nice, and, having no
+LINE 238: prejudice against titles, secured a few to add lustre to their Christmas
+LINE 239: ball.
+LINE 240: A Russian prince condescended to sit in a corner for an hour, and talk
+LINE 241: with a massive lady, dressed like Hamlet's mother, in black velvet, with
+LINE 242: a pearl bridle under her chin. A Polish count, aged eighteen, devoted
+LINE 243: himself to the ladies, who pronounced him "a fascinating dear," and a
+LINE 244: German Serene Something, having come for the supper alone, roamed
+LINE 245: vaguely about, seeking what he might devour. Baron Rothschild's private
+LINE 246: secretary, a large-nosed Jew, in tight boots, affably beamed upon the
+LINE 247: world, as if his master's name crowned him with a golden halo; a stout
+LINE 248: Frenchman, who knew the Emperor, came to indulge his mania for dancing,
+LINE 249: and Lady de Jones, a British matron, adorned the scene with her little
+LINE 250: family of eight. Of course, there were many light-footed, shrill-voiced
+LINE 251: American girls, handsome, lifeless-looking English ditto, and a few
+LINE 252: plain but piquante French demoiselles; likewise the usual set of
+LINE 253: travelling young gentlemen, who disported themselves gayly, while mammas
+LINE 254: of all nations lined the walls, and smiled upon them benignly when they
+LINE 255: danced with their daughters.
+LINE 256: Any young girl can imagine Amy's state of mind when she "took the stage"
+LINE 257: that night, leaning on Laurie's arm. She knew she looked well, she loved
+LINE 258: to dance, she felt that her foot was on her native heath in a ball-room,
+LINE 259: and enjoyed the delightful sense of power which comes when young girls
+LINE 260: first discover the new and lovely kingdom they are born to rule by
+LINE 261: virtue of beauty, youth, and womanhood. She did pity the Davis girls,
+LINE 262: who were awkward, plain, and destitute of escort, except a grim papa and
+LINE 263: three grimmer maiden aunts, and she bowed to them in her friendliest
+LINE 264: manner as she passed; which was good of her, as it permitted them to see
+LINE 265: her dress, and burn with curiosity to know who her distinguished-looking
+LINE 266: friend might be. With the first burst of the band, Amy's color rose, her
+LINE 267: eyes began to sparkle, and her feet to tap the floor impatiently; for
+LINE 268: she danced well, and wanted Laurie to know it: therefore the shock she
+LINE 269: received can better be imagined than described, when he said, in a
+LINE 270: perfectly tranquil tone,--
+LINE 271: "Do you care to dance?"
+LINE 272: "One usually does at a ball."
+LINE 273: Her amazed look and quick answer caused Laurie to repair his error as
+LINE 274: fast as possible.
+LINE 275: "I meant the first dance. May I have the honor?"
+LINE 276: "I can give you one if I put off the Count. He dances divinely; but he
+LINE 277: will excuse me, as you are an old friend," said Amy, hoping that the
+LINE 278: name would have a good effect, and show Laurie that she was not to be
+LINE 279: trifled with.
+LINE 280: "Nice little boy, but rather a short Pole to support
+LINE 281: "'A daughter of the gods,
+LINE 282: Divinely tall, and most divinely fair,'"
+LINE 283: was all the satisfaction she got, however.
+LINE 284: The set in which they found themselves was composed of English, and Amy
+LINE 285: was compelled to walk decorously through a cotillon, feeling all the
+LINE 286: while as if she could dance the Tarantula with a relish. Laurie resigned
+LINE 287: her to the "nice little boy," and went to do his duty to Flo, without
+LINE 288: securing Amy for the joys to come, which reprehensible want of
+LINE 289: forethought was properly punished, for she immediately engaged herself
+LINE 290: till supper, meaning to relent if he then gave any signs of penitence.
+LINE 291: She showed him her ball-book with demure satisfaction when he strolled,
+LINE 292: instead of rushing, up to claim her for the next, a glorious
+LINE 293: polka-redowa; but his polite regrets didn't impose upon her, and when
+LINE 294: she gallopaded away with the Count, she saw Laurie sit down by her aunt
+LINE 295: with an actual expression of relief.
+LINE 296: That was unpardonable; and Amy took no more notice of him for a long
+LINE 297: while, except a word now and then, when she came to her chaperon,
+LINE 298: between the dances, for a necessary pin or a moment's rest. Her anger
+LINE 299: had a good effect, however, for she hid it under a smiling face, and
+LINE 300: seemed unusually blithe and brilliant. Laurie's eyes followed her with
+LINE 301: pleasure, for she neither romped nor sauntered, but danced with spirit
+LINE 302: and grace, making the delightsome pastime what it should be. He very
+LINE 303: naturally fell to studying her from this new point of view; and, before
+LINE 304: the evening was half over, had decided that "little Amy was going to
+LINE 305: make a very charming woman."
+LINE 306: It was a lively scene, for soon the spirit of the social season took
+LINE 307: possession of every one, and Christmas merriment made all faces shine,
+LINE 308: hearts happy, and heels light. The musicians fiddled, tooted, and banged
+LINE 309: as if they enjoyed it; everybody danced who could, and those who
+LINE 310: couldn't admired their neighbors with uncommon warmth. The air was dark
+LINE 311: with Davises, and many Joneses gambolled like a flock of young giraffes.
+LINE 312: The golden secretary darted through the room like a meteor, with a
+LINE 313: dashing Frenchwoman, who carpeted the floor with her pink satin train.
+LINE 314: The Serene Teuton found the supper-table, and was happy, eating steadily
+LINE 315: through the bill of fare, and dismayed the _garçons_ by the ravages he
+LINE 316: committed. But the Emperor's friend covered himself with glory, for he
+LINE 317: danced everything, whether he knew it or not, and introduced impromptu
+LINE 318: pirouettes when the figures bewildered him. The boyish abandon of that
+LINE 319: stout man was charming to behold; for, though he "carried weight," he
+LINE 320: danced like an india-rubber ball. He ran, he flew, he pranced; his face
+LINE 321: glowed, his bald head shone; his coat-tails waved wildly, his pumps
+LINE 322: actually twinkled in the air, and when the music stopped, he wiped the
+LINE 323: drops from his brow, and beamed upon his fellow-men like a French
+LINE 324: Pickwick without glasses.
+LINE 325: Amy and her Pole distinguished themselves by equal enthusiasm, but more
+LINE 326: graceful agility; and Laurie found himself involuntarily keeping time to
+LINE 327: the rhythmic rise and fall of the white slippers as they flew by as
+LINE 328: indefatigably as if winged. When little Vladimir finally relinquished
+LINE 329: her, with assurances that he was "desolated to leave so early," she was
+LINE 330: ready to rest, and see how her recreant knight had borne his punishment.
+LINE 331: It had been successful; for, at three-and-twenty, blighted affections
+LINE 332: find a balm in friendly society, and young nerves will thrill, young
+LINE 333: blood dance, and healthy young spirits rise, when subjected to the
+LINE 334: enchantment of beauty, light, music, and motion. Laurie had a waked-up
+LINE 335: look as he rose to give her his seat; and when he hurried away to bring
+LINE 336: her some supper, she said to herself, with a satisfied smile,--
+LINE 337: "Ah, I thought that would do him good!"
+LINE 338: "You look like Balzac's 'Femme peinte par elle-même,'" he said, as he
+LINE 339: fanned her with one hand, and held her coffee-cup in the other.
+LINE 340: "My rouge won't come off;" and Amy rubbed her brilliant cheek, and
+LINE 341: showed him her white glove with a sober simplicity that made him laugh
+LINE 342: outright.
+LINE 343: "What do you call this stuff?" he asked, touching a fold of her dress
+LINE 344: that had blown over his knee.
+LINE 345: "Illusion."
+LINE 346: "Good name for it; it's very pretty--new thing, isn't it?"
+LINE 347: "It's as old as the hills; you have seen it on dozens of girls, and you
+LINE 348: never found out that it was pretty till now--_stupide_!"
+LINE 349: "I never saw it on you before, which accounts for the mistake, you see."
+LINE 350: "None of that, it is forbidden; I'd rather take coffee than compliments
+LINE 351: just now. No, don't lounge, it makes me nervous."
+LINE 352: Laurie sat bolt upright, and meekly took her empty plate, feeling an odd
+LINE 353: sort of pleasure in having "little Amy" order him about; for she had
+LINE 354: lost her shyness now, and felt an irresistible desire to trample on him,
+LINE 355: as girls have a delightful way of doing when lords of creation show any
+LINE 356: signs of subjection.
+LINE 357: "Where did you learn all this sort of thing?" he asked, with a quizzical
+LINE 358: look.
+LINE 359: "As 'this sort of thing' is rather a vague expression, would you kindly
+LINE 360: explain?" returned Amy, knowing perfectly well what he meant, but
+LINE 361: wickedly leaving him to describe what is indescribable.
+LINE 362: "Well--the general air, the style, the self-possession,
+LINE 363: the--the--illusion--you know," laughed Laurie, breaking down, and
+LINE 364: helping himself out of his quandary with the new word.
+LINE 365: Amy was gratified, but, of course, didn't show it, and demurely
+LINE 366: answered, "Foreign life polishes one in spite of one's self; I study as
+LINE 367: well as play; and as for this"--with a little gesture toward her
+LINE 368: dress--"why, tulle is cheap, posies to be had for nothing, and I am used
+LINE 369: to making the most of my poor little things."
+LINE 370: Amy rather regretted that last sentence, fearing it wasn't in good
+LINE 371: taste; but Laurie liked her the better for it, and found himself both
+LINE 372: admiring and respecting the brave patience that made the most of
+LINE 373: opportunity, and the cheerful spirit that covered poverty with flowers.
+LINE 374: Amy did not know why he looked at her so kindly, nor why he filled up
+LINE 375: her book with his own name, and devoted himself to her for the rest of
+LINE 376: the evening, in the most delightful manner; but the impulse that wrought
+LINE 377: this agreeable change was the result of one of the new impressions which
+LINE 378: both of them were unconsciously giving and receiving.
+LINE 379: [Illustration: Demi and Daisy]

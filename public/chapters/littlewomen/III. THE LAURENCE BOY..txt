@@ -1,0 +1,359 @@
+LINE 1: "Jo! Jo! where are you?" cried Meg, at the foot of the garret stairs.
+LINE 2: "Here!" answered a husky voice from above; and, running up, Meg found
+LINE 3: her sister eating apples and crying over the "Heir of Redclyffe,"
+LINE 4: wrapped up in a comforter on an old three-legged sofa by the sunny
+LINE 5: window. This was Jo's favorite refuge; and here she loved to retire with
+LINE 6: half a dozen russets and a nice book, to enjoy the quiet and the society
+LINE 7: of a pet rat who lived near by, and didn't mind her a particle. As Meg
+LINE 8: appeared, Scrabble whisked into his hole. Jo shook the tears off her
+LINE 9: cheeks, and waited to hear the news.
+LINE 10: "Such fun! only see! a regular note of invitation from Mrs. Gardiner for
+LINE 11: to-morrow night!" cried Meg, waving the precious paper, and then
+LINE 12: proceeding to read it, with girlish delight.
+LINE 13: "'Mrs. Gardiner would be happy to see Miss March and Miss Josephine at a
+LINE 14: little dance on New-Year's Eve.' Marmee is willing we should go; now
+LINE 15: what _shall_ we wear?"
+LINE 16: "What's the use of asking that, when you know we shall wear our poplins,
+LINE 17: because we haven't got anything else?" answered Jo, with her mouth full.
+LINE 18: "If I only had a silk!" sighed Meg. "Mother says I may when I'm
+LINE 19: eighteen, perhaps; but two years is an everlasting time to wait."
+LINE 20: "I'm sure our pops look like silk, and they are nice enough for us.
+LINE 21: Yours is as good as new, but I forgot the burn and the tear in mine.
+LINE 22: Whatever shall I do? the burn shows badly, and I can't take any out."
+LINE 23: "You must sit still all you can, and keep your back out of sight; the
+LINE 24: front is all right. I shall have a new ribbon for my hair, and Marmee
+LINE 25: will lend me her little pearl pin, and my new slippers are lovely, and
+LINE 26: my gloves will do, though they aren't as nice as I'd like."
+LINE 27: "Mine are spoilt with lemonade, and I can't get any new ones, so I shall
+LINE 28: have to go without," said Jo, who never troubled herself much about
+LINE 29: dress.
+LINE 30: "You _must_ have gloves, or I won't go," cried Meg decidedly. "Gloves
+LINE 31: are more important than anything else; you can't dance without them, and
+LINE 32: if you don't I should be _so_ mortified."
+LINE 33: "Then I'll stay still. I don't care much for company dancing; it's no
+LINE 34: fun to go sailing round; I like to fly about and cut capers."
+LINE 35: "You can't ask mother for new ones, they are so expensive, and you are
+LINE 36: so careless. She said, when you spoilt the others, that she shouldn't
+LINE 37: get you any more this winter. Can't you make them do?" asked Meg
+LINE 38: anxiously.
+LINE 39: "I can hold them crumpled up in my hand, so no one will know how stained
+LINE 40: they are; that's all I can do. No! I'll tell you how we can manage--each
+LINE 41: wear one good one and carry a bad one; don't you see?"
+LINE 42: "Your hands are bigger than mine, and you will stretch my glove
+LINE 43: dreadfully," began Meg, whose gloves were a tender point with her.
+LINE 44: "Then I'll go without. I don't care what people say!" cried Jo, taking
+LINE 45: up her book.
+LINE 46: "You may have it, you may! only don't stain it, and do behave nicely.
+LINE 47: Don't put your hands behind you, or stare, or say 'Christopher
+LINE 48: Columbus!' will you?"
+LINE 49: "Don't worry about me; I'll be as prim as I can, and not get into any
+LINE 50: scrapes, if I can help it. Now go and answer your note, and let me
+LINE 51: finish this splendid story."
+LINE 52: So Meg went away to "accept with thanks," look over her dress, and sing
+LINE 53: blithely as she did up her one real lace frill; while Jo finished her
+LINE 54: story, her four apples, and had a game of romps with Scrabble.
+LINE 55: On New-Year's Eve the parlor was deserted, for the two younger girls
+LINE 56: played dressing-maids, and the two elder were absorbed in the
+LINE 57: all-important business of "getting ready for the party." Simple as the
+LINE 58: toilets were, there was a great deal of running up and down, laughing
+LINE 59: and talking, and at one time a strong smell of burnt hair pervaded the
+LINE 60: house. Meg wanted a few curls about her face, and Jo undertook to pinch
+LINE 61: the papered locks with a pair of hot tongs.
+LINE 62: [Illustration: Jo undertook to pinch the papered locks]
+LINE 63: "Ought they to smoke like that?" asked Beth, from her perch on the bed.
+LINE 64: "It's the dampness drying," replied Jo.
+LINE 65: "What a queer smell! it's like burnt feathers," observed Amy, smoothing
+LINE 66: her own pretty curls with a superior air.
+LINE 67: "There, now I'll take off the papers and you'll see a cloud of little
+LINE 68: ringlets," said Jo, putting down the tongs.
+LINE 69: She did take off the papers, but no cloud of ringlets appeared, for the
+LINE 70: hair came with the papers, and the horrified hair-dresser laid a row of
+LINE 71: little scorched bundles on the bureau before her victim.
+LINE 72: "Oh, oh, oh! what _have_ you done? I'm spoilt! I can't go! My hair, oh,
+LINE 73: my hair!" wailed Meg, looking with despair at the uneven frizzle on her
+LINE 74: forehead.
+LINE 75: "Just my luck! you shouldn't have asked me to do it; I always spoil
+LINE 76: everything. I'm so sorry, but the tongs were too hot, and so I've made a
+LINE 77: mess," groaned poor Jo, regarding the black pancakes with tears of
+LINE 78: regret.
+LINE 79: "It isn't spoilt; just frizzle it, and tie your ribbon so the ends come
+LINE 80: on your forehead a bit, and it will look like the last fashion. I've
+LINE 81: seen many girls do it so," said Amy consolingly.
+LINE 82: "Serves me right for trying to be fine. I wish I'd let my hair alone,"
+LINE 83: cried Meg petulantly.
+LINE 84: "So do I, it was so smooth and pretty. But it will soon grow out again,"
+LINE 85: said Beth, coming to kiss and comfort the shorn sheep.
+LINE 86: After various lesser mishaps, Meg was finished at last, and by the
+LINE 87: united exertions of the family Jo's hair was got up and her dress on.
+LINE 88: They looked very well in their simple suits,--Meg in silvery drab, with
+LINE 89: a blue velvet snood, lace frills, and the pearl pin; Jo in maroon, with
+LINE 90: a stiff, gentlemanly linen collar, and a white chrysanthemum or two for
+LINE 91: her only ornament. Each put on one nice light glove, and carried one
+LINE 92: soiled one, and all pronounced the effect "quite easy and fine." Meg's
+LINE 93: high-heeled slippers were very tight, and hurt her, though she would not
+LINE 94: own it, and Jo's nineteen hair-pins all seemed stuck straight into her
+LINE 95: head, which was not exactly comfortable; but, dear me, let us be elegant
+LINE 96: or die!
+LINE 97: "Have a good time, dearies!" said Mrs. March, as the sisters went
+LINE 98: daintily down the walk. "Don't eat much supper, and come away at eleven,
+LINE 99: when I send Hannah for you." As the gate clashed behind them, a voice
+LINE 100: cried from a window,--
+LINE 101: "Girls, girls! _have_ you both got nice pocket-handkerchiefs?"
+LINE 102: "Yes, yes, spandy nice, and Meg has cologne on hers," cried Jo, adding,
+LINE 103: with a laugh, as they went on, "I do believe Marmee would ask that if we
+LINE 104: were all running away from an earthquake."
+LINE 105: "It is one of her aristocratic tastes, and quite proper, for a real lady
+LINE 106: is always known by neat boots, gloves, and handkerchief," replied Meg,
+LINE 107: who had a good many little "aristocratic tastes" of her own.
+LINE 108: "Now don't forget to keep the bad breadth out of sight, Jo. Is my sash
+LINE 109: right? and does my hair look _very_ bad?" said Meg, as she turned from
+LINE 110: the glass in Mrs. Gardiner's dressing-room, after a prolonged prink.
+LINE 111: "I know I shall forget. If you see me doing anything wrong, just remind
+LINE 112: me by a wink, will you?" returned Jo, giving her collar a twitch and her
+LINE 113: head a hasty brush.
+LINE 114: "No, winking isn't lady-like; I'll lift my eyebrows if anything is
+LINE 115: wrong, and nod if you are all right. Now hold your shoulders straight,
+LINE 116: and take short steps, and don't shake hands if you are introduced to any
+LINE 117: one: it isn't the thing."
+LINE 118: "How _do_ you learn all the proper ways? I never can. Isn't that music
+LINE 119: gay?"
+LINE 120: [Illustration: Mrs. Gardiner greeted them]
+LINE 121: Down they went, feeling a trifle timid, for they seldom went to parties,
+LINE 122: and, informal as this little gathering was, it was an event to them.
+LINE 123: Mrs. Gardiner, a stately old lady, greeted them kindly, and handed them
+LINE 124: over to the eldest of her six daughters. Meg knew Sallie, and was at her
+LINE 125: ease very soon; but Jo, who didn't care much for girls or girlish
+LINE 126: gossip, stood about, with her back carefully against the wall, and felt
+LINE 127: as much out of place as a colt in a flower-garden. Half a dozen jovial
+LINE 128: lads were talking about skates in another part of the room, and she
+LINE 129: longed to go and join them, for skating was one of the joys of her life.
+LINE 130: She telegraphed her wish to Meg, but the eyebrows went up so alarmingly
+LINE 131: that she dared not stir. No one came to talk to her, and one by one the
+LINE 132: group near her dwindled away, till she was left alone. She could not
+LINE 133: roam about and amuse herself, for the burnt breadth would show, so she
+LINE 134: stared at people rather forlornly till the dancing began. Meg was asked
+LINE 135: at once, and the tight slippers tripped about so briskly that none would
+LINE 136: have guessed the pain their wearer suffered smilingly. Jo saw a big
+LINE 137: red-headed youth approaching her corner, and fearing he meant to engage
+LINE 138: her, she slipped into a curtained recess, intending to peep and enjoy
+LINE 139: herself in peace. Unfortunately, another bashful person had chosen the
+LINE 140: same refuge; for, as the curtain fell behind her, she found herself face
+LINE 141: to face with the "Laurence boy."
+LINE 142: [Illustration: Face to face with the Laurence boy]
+LINE 143: "Dear me, I didn't know any one was here!" stammered Jo, preparing to
+LINE 144: back out as speedily as she had bounced in.
+LINE 145: But the boy laughed, and said pleasantly, though he looked a little
+LINE 146: startled,--
+LINE 147: "Don't mind me; stay, if you like."
+LINE 148: "Sha'n't I disturb you?"
+LINE 149: "Not a bit; I only came here because I don't know many people, and felt
+LINE 150: rather strange at first, you know."
+LINE 151: "So did I. Don't go away, please, unless you'd rather."
+LINE 152: The boy sat down again and looked at his pumps, till Jo said, trying to
+LINE 153: be polite and easy,--
+LINE 154: "I think I've had the pleasure of seeing you before; you live near us,
+LINE 155: don't you?"
+LINE 156: "Next door"; and he looked up and laughed outright, for Jo's prim manner
+LINE 157: was rather funny when he remembered how they had chatted about cricket
+LINE 158: when he brought the cat home.
+LINE 159: That put Jo at her ease; and she laughed too, as she said, in her
+LINE 160: heartiest way,--
+LINE 161: "We did have such a good time over your nice Christmas present."
+LINE 162: "Grandpa sent it."
+LINE 163: "But you put it into his head, didn't you, now?"
+LINE 164: "How is your cat, Miss March?" asked the boy, trying to look sober,
+LINE 165: while his black eyes shone with fun.
+LINE 166: "Nicely, thank you, Mr. Laurence; but I am not Miss March, I'm only Jo,"
+LINE 167: returned the young lady.
+LINE 168: "I'm not Mr. Laurence, I'm only Laurie."
+LINE 169: "Laurie Laurence,--what an odd name!"
+LINE 170: "My first name is Theodore, but I don't like it, for the fellows called
+LINE 171: me Dora, so I made them say Laurie instead."
+LINE 172: "I hate my name, too--so sentimental! I wish every one would say Jo,
+LINE 173: instead of Josephine. How did you make the boys stop calling you Dora?"
+LINE 174: "I thrashed 'em."
+LINE 175: "I can't thrash Aunt March, so I suppose I shall have to bear it"; and
+LINE 176: Jo resigned herself with a sigh.
+LINE 177: "Don't you like to dance, Miss Jo?" asked Laurie, looking as if he
+LINE 178: thought the name suited her.
+LINE 179: "I like it well enough if there is plenty of room, and every one is
+LINE 180: lively. In a place like this I'm sure to upset something, tread on
+LINE 181: people's toes, or do something dreadful, so I keep out of mischief, and
+LINE 182: let Meg sail about. Don't you dance?"
+LINE 183: "Sometimes; you see I've been abroad a good many years, and haven't been
+LINE 184: into company enough yet to know how you do things here."
+LINE 185: "Abroad!" cried Jo. "Oh, tell me about it! I love dearly to hear people
+LINE 186: describe their travels."
+LINE 187: Laurie didn't seem to know where to begin; but Jo's eager questions soon
+LINE 188: set him going, and he told her how he had been at school in Vevay, where
+LINE 189: the boys never wore hats, and had a fleet of boats on the lake, and for
+LINE 190: holiday fun went walking trips about Switzerland with their teachers.
+LINE 191: "Don't I wish I'd been there!" cried Jo. "Did you go to Paris?"
+LINE 192: "We spent last winter there."
+LINE 193: "Can you talk French?"
+LINE 194: "We were not allowed to speak any thing else at Vevay."
+LINE 195: "Do say some! I can read it, but can't pronounce."
+LINE 196: "Quel nom a cette jeune demoiselle en les pantoufles jolis?" said Laurie
+LINE 197: good-naturedly.
+LINE 198: "How nicely you do it! Let me see,--you said, 'Who is the young lady in
+LINE 199: the pretty slippers,' didn't you?"
+LINE 200: "Oui, mademoiselle."
+LINE 201: "It's my sister Margaret, and you knew it was! Do you think she is
+LINE 202: pretty?"
+LINE 203: "Yes; she makes me think of the German girls, she looks so fresh and
+LINE 204: quiet, and dances like a lady."
+LINE 205: Jo quite glowed with pleasure at this boyish praise of her sister, and
+LINE 206: stored it up to repeat to Meg. Both peeped and criticised and chatted,
+LINE 207: till they felt like old acquaintances. Laurie's bashfulness soon wore
+LINE 208: off; for Jo's gentlemanly demeanor amused and set him at his ease, and
+LINE 209: Jo was her merry self again, because her dress was forgotten, and nobody
+LINE 210: lifted their eyebrows at her. She liked the "Laurence boy" better than
+LINE 211: ever, and took several good looks at him, so that she might describe him
+LINE 212: to the girls; for they had no brothers, very few male cousins, and boys
+LINE 213: were almost unknown creatures to them.
+LINE 214: "Curly black hair; brown skin; big, black eyes; handsome nose; fine
+LINE 215: teeth; small hands and feet; taller than I am; very polite, for a boy,
+LINE 216: and altogether jolly. Wonder how old he is?"
+LINE 217: It was on the tip of Jo's tongue to ask; but she checked herself in
+LINE 218: time, and, with unusual tact, tried to find out in a roundabout way.
+LINE 219: "I suppose you are going to college soon? I see you pegging away at your
+LINE 220: books,--no, I mean studying hard"; and Jo blushed at the dreadful
+LINE 221: "pegging" which had escaped her.
+LINE 222: Laurie smiled, but didn't seem shocked, and answered, with a shrug,--
+LINE 223: "Not for a year or two; I won't go before seventeen, anyway."
+LINE 224: "Aren't you but fifteen?" asked Jo, looking at the tall lad, whom she
+LINE 225: had imagined seventeen already.
+LINE 226: "Sixteen, next month."
+LINE 227: "How I wish I was going to college! You don't look as if you liked it."
+LINE 228: "I hate it! Nothing but grinding or skylarking. And I don't like the way
+LINE 229: fellows do either, in this country."
+LINE 230: "What do you like?"
+LINE 231: "To live in Italy, and to enjoy myself in my own way."
+LINE 232: Jo wanted very much to ask what his own way was; but his black brows
+LINE 233: looked rather threatening as he knit them; so she changed the subject by
+LINE 234: saying, as her foot kept time, "That's a splendid polka! Why don't you
+LINE 235: go and try it?"
+LINE 236: "If you will come too," he answered, with a gallant little bow.
+LINE 237: "I can't; for I told Meg I wouldn't, because--" There Jo stopped, and
+LINE 238: looked undecided whether to tell or to laugh.
+LINE 239: "Because what?" asked Laurie curiously.
+LINE 240: "You won't tell?"
+LINE 241: "Never!"
+LINE 242: "Well, I have a bad trick of standing before the fire, and so I burn my
+LINE 243: frocks, and I scorched this one; and, though it's nicely mended, it
+LINE 244: shows, and Meg told me to keep still, so no one would see it. You may
+LINE 245: laugh, if you want to; it is funny, I know."
+LINE 246: But Laurie didn't laugh; he only looked down a minute, and the
+LINE 247: expression of his face puzzled Jo, when he said very gently,--
+LINE 248: "Never mind that; I'll tell you how we can manage: there's a long hall
+LINE 249: out there, and we can dance grandly, and no one will see us. Please
+LINE 250: come?"
+LINE 251: Jo thanked him, and gladly went, wishing she had two neat gloves, when
+LINE 252: she saw the nice, pearl-colored ones her partner wore. The hall was
+LINE 253: empty, and they had a grand polka; for Laurie danced well, and taught
+LINE 254: her the German step, which delighted Jo, being full of swing and spring.
+LINE 255: When the music stopped, they sat down on the stairs to get their breath;
+LINE 256: and Laurie was in the midst of an account of a students' festival at
+LINE 257: Heidelberg, when Meg appeared in search of her sister. She beckoned, and
+LINE 258: Jo reluctantly followed her into a side-room, where she found her on a
+LINE 259: sofa, holding her foot, and looking pale.
+LINE 260: [Illustration: They sat down on the stairs]
+LINE 261: "I've sprained my ankle. That stupid high heel turned, and gave me a sad
+LINE 262: wrench. It aches so, I can hardly stand, and I don't know how I'm ever
+LINE 263: going to get home," she said, rocking to and fro in pain.
+LINE 264: "I knew you'd hurt your feet with those silly shoes. I'm sorry. But I
+LINE 265: don't see what you can do, except get a carriage, or stay here all
+LINE 266: night," answered Jo, softly rubbing the poor ankle as she spoke.
+LINE 267: "I can't have a carriage, without its costing ever so much. I dare say I
+LINE 268: can't get one at all; for most people come in their own, and it's a long
+LINE 269: way to the stable, and no one to send."
+LINE 270: "I'll go."
+LINE 271: "No, indeed! It's past nine, and dark as Egypt. I can't stop here, for
+LINE 272: the house is full. Sallie has some girls staying with her. I'll rest
+LINE 273: till Hannah comes, and then do the best I can."
+LINE 274: "I'll ask Laurie; he will go," said Jo, looking relieved as the idea
+LINE 275: occurred to her.
+LINE 276: "Mercy, no! Don't ask or tell any one. Get me my rubbers, and put these
+LINE 277: slippers with our things. I can't dance any more; but as soon as supper
+LINE 278: is over, watch for Hannah, and tell me the minute she comes."
+LINE 279: "They are going out to supper now. I'll stay with you; I'd rather."
+LINE 280: "No, dear, run along, and bring me some coffee. I'm so tired, I can't
+LINE 281: stir!"
+LINE 282: So Meg reclined, with rubbers well hidden, and Jo went blundering away
+LINE 283: to the dining-room, which she found after going into a china-closet, and
+LINE 284: opening the door of a room where old Mr. Gardiner was taking a little
+LINE 285: private refreshment. Making a dart at the table, she secured the coffee,
+LINE 286: which she immediately spilt, thereby making the front of her dress as
+LINE 287: bad as the back.
+LINE 288: "Oh, dear, what a blunderbuss I am!" exclaimed Jo, finishing Meg's glove
+LINE 289: by scrubbing her gown with it.
+LINE 290: "Can I help you?" said a friendly voice; and there was Laurie, with a
+LINE 291: full cup in one hand and a plate of ice in the other.
+LINE 292: "I was trying to get something for Meg, who is very tired, and some one
+LINE 293: shook me; and here I am, in a nice state," answered Jo, glancing
+LINE 294: dismally from the stained skirt to the coffee-colored glove.
+LINE 295: "Too bad! I was looking for some one to give this to. May I take it to
+LINE 296: your sister?"
+LINE 297: "Oh, thank you! I'll show you where she is. I don't offer to take it
+LINE 298: myself, for I should only get into another scrape if I did."
+LINE 299: Jo led the way; and, as if used to waiting on ladies, Laurie drew up a
+LINE 300: little table, brought a second instalment of coffee and ice for Jo, and
+LINE 301: was so obliging that even particular Meg pronounced him a "nice boy."
+LINE 302: They had a merry time over the bonbons and mottoes, and were in the
+LINE 303: midst of a quiet game of "Buzz," with two or three other young people
+LINE 304: who had strayed in, when Hannah appeared. Meg forgot her foot, and rose
+LINE 305: so quickly that she was forced to catch hold of Jo, with an exclamation
+LINE 306: of pain.
+LINE 307: "Hush! Don't say anything," she whispered, adding aloud, "It's nothing.
+LINE 308: I turned my foot a little, that's all"; and limped up-stairs to put her
+LINE 309: things on.
+LINE 310: Hannah scolded, Meg cried, and Jo was at her wits' end, till she
+LINE 311: decided to take things into her own hands. Slipping out, she ran down,
+LINE 312: and, finding a servant, asked if he could get her a carriage. It
+LINE 313: happened to be a hired waiter, who knew nothing about the neighborhood;
+LINE 314: and Jo was looking round for help, when Laurie, who had heard what she
+LINE 315: said, came up, and offered his grandfather's carriage, which had just
+LINE 316: come for him, he said.
+LINE 317: "It's so early! You can't mean to go yet?" began Jo, looking relieved,
+LINE 318: but hesitating to accept the offer.
+LINE 319: "I always go early,--I do, truly! Please let me take you home? It's all
+LINE 320: on my way, you know, and it rains, they say."
+LINE 321: That settled it; and, telling him of Meg's mishap, Jo gratefully
+LINE 322: accepted, and rushed up to bring down the rest of the party. Hannah
+LINE 323: hated rain as much as a cat does; so she made no trouble, and they
+LINE 324: rolled away in the luxurious close carriage, feeling very festive and
+LINE 325: elegant. Laurie went on the box; so Meg could keep her foot up, and the
+LINE 326: girls talked over their party in freedom.
+LINE 327: "I had a capital time. Did you?" asked Jo, rumpling up her hair, and
+LINE 328: making herself comfortable.
+LINE 329: "Yes, till I hurt myself. Sallie's friend, Annie Moffat, took a fancy to
+LINE 330: me, and asked me to come and spend a week with her, when Sallie does.
+LINE 331: She is going in the spring, when the opera comes; and it will be
+LINE 332: perfectly splendid, if mother only lets me go," answered Meg, cheering
+LINE 333: up at the thought.
+LINE 334: "I saw you dancing with the red-headed man I ran away from. Was he
+LINE 335: nice?"
+LINE 336: "Oh, very! His hair is auburn, not red; and he was very polite, and I
+LINE 337: had a delicious redowa with him."
+LINE 338: "He looked like a grasshopper in a fit, when he did the new step. Laurie
+LINE 339: and I couldn't help laughing. Did you hear us?"
+LINE 340: "No; but it was very rude. What _were_ you about all that time, hidden
+LINE 341: away there?"
+LINE 342: Jo told her adventures, and, by the time she had finished, they were at
+LINE 343: home. With many thanks, they said "Good night," and crept in, hoping to
+LINE 344: disturb no one; but the instant their door creaked, two little
+LINE 345: night-caps bobbed up, and two sleepy but eager voices cried out,--
+LINE 346: "Tell about the party! tell about the party!"
+LINE 347: With what Meg called "a great want of manners," Jo had saved some
+LINE 348: bonbons for the little girls; and they soon subsided, after hearing the
+LINE 349: most thrilling events of the evening.
+LINE 350: "I declare, it really seems like being a fine young lady, to come home
+LINE 351: from the party in a carriage, and sit in my dressing-gown, with a maid
+LINE 352: to wait on me," said Meg, as Jo bound up her foot with arnica, and
+LINE 353: brushed her hair.
+LINE 354: "I don't believe fine young ladies enjoy themselves a bit more than we
+LINE 355: do, in spite of our burnt hair, old gowns, one glove apiece, and tight
+LINE 356: slippers that sprain our ankles when we are silly enough to wear them."
+LINE 357: And I think Jo was quite right.
+LINE 358: [Illustration: Tell about the party]
+LINE 359: [Illustration: The kitten stuck like a burr just out of reach]

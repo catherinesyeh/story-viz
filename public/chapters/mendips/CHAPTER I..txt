@@ -1,611 +1,529 @@
-LINE 1: ﻿The Project Gutenberg eBook of Under the Mendips: A Tale
-LINE 2: This ebook is for the use of anyone anywhere in the United States and
-LINE 3: most other parts of the world at no cost and with almost no restrictions
-LINE 4: whatsoever. You may copy it, give it away or re-use it under the terms
-LINE 5: of the Project Gutenberg License included with this ebook or online
-LINE 6: at www.gutenberg.org. If you are not located in the United States,
-LINE 7: you will have to check the laws of the country where you are located
-LINE 8: before using this eBook.
-LINE 9: Title: Under the Mendips: A Tale
-LINE 10: Author: Emma Marshall
-LINE 11: Release date: July 25, 2010 [eBook #33257]
-LINE 12: Language: English
-LINE 13: Credits: Produced by Delphine Lettau and the Online Distributed
-LINE 14: Proofreading Team at http://www.pgdp.net
-LINE 15: *** START OF THE PROJECT GUTENBERG EBOOK UNDER THE MENDIPS: A TALE ***
-LINE 16: Produced by Delphine Lettau and the Online Distributed
-LINE 17: Proofreading Team at http://www.pgdp.net
-LINE 18: UNDER THE MENDIPS.
-LINE 19: Under the Mendips
-LINE 20: _A TALE_
-LINE 21: _By_ EMMA MARSHALL
-LINE 22: _Author of_ IN COLSTON'S DAYS, LIFE'S AFTERMATH,
-LINE 23: IN THE EAST COUNTRY, &c.
-LINE 24: SIXTH THOUSAND
-LINE 25: [Illustration: Bristol Harbour.]
-LINE 26: LONDON
-LINE 27: SEELEY AND CO., LIMITED, ESSEX STREET, STRAND
-LINE 28: 1892
-LINE 29: PREFACE
-LINE 30: I am greatly indebted to that very interesting book, "Bristol Past and
-LINE 31: Present," for the details of the Bristol Riots, in the autumn of 1831,
-LINE 32: which are introduced into this story. It closes with the birth of the
-LINE 33: new year, 1832; and therefore the special commission appointed to try
-LINE 34: the prisoners does not come within its limits.
-LINE 35: But anyone who may be interested in the fate of Colonel Brereton, may,
-LINE 36: by referring to "Bristol Past and Present," and other contemporary
-LINE 37: records, learn his sad and most lamentable end.
-LINE 38: Feeling the evidence of the Court Martial was entirely against him, he
-LINE 39: forestalled his sentence with his own hand, and shot himself through the
-LINE 40: heart, on Thursday night, January the 14th, 1832.
-LINE 41: With all the many complications of Colonel Brereton's position it is not
-LINE 42: for us to deal, nor judge him harshly for apparent failure in duty at a
-LINE 43: time when the hearts of many brave men sank within them, for looking on
-LINE 44: these things which were coming on their ancient city. But this, his
-LINE 45: last act, must ever awaken one of the saddest memories of those sad
-LINE 46: times, casting a shadow over the name of an English officer, and
-LINE 47: presenting the most painful and pathetic picture of what a man may do,
-LINE 48: who, in a moment of despair and helplessness, cannot cry to the strong
-LINE 49: for strength.
-LINE 50: WOODSIDE, LEIGH WOODS,
-LINE 51: CLIFTON, BRISTOL
-LINE 52: _Nov. 1, 1885._
-LINE 53: CONTENTS.
-LINE 54: PART I.
-LINE 55: CHAP. PAGE
-LINE 56: I. FAIR ACRES 1
-LINE 57: II. THE CITY OF THE DEEP SPRINGS 31
-LINE 58: III. THE PALACE 59
-LINE 59: IV. THE LADY OF BARLEY WOOD 83
-LINE 60: V. SUNDAY AT FAIR ACRES 108
-LINE 61: VI. AMONGST THE HEATHER 126
-LINE 62: VII. ON SION HILL, CLIFTON 150
-LINE 63: VIII. BARLEY WOOD 176
-LINE 64: IX. A DARK CLOUD OVER FAIR ACRES 200
-LINE 65: X. THE FIFTH OF NOVEMBER 226
-LINE 66: XI. MEETING 260
-LINE 67: PART II.
-LINE 68: XII. ON THE ROAD TO BRISTOL 285
-LINE 69: XIII. A LULL IN THE STORM 314
-LINE 70: XIV. THE STORM BURSTS 332
-LINE 71: XV. TUMULT 358
-LINE 72: XVI. "FIRE SEVEN TIMES HEATED" 372
-LINE 73: PART III.
-LINE 74: CHAPTER THE LAST. AT ABBOT'S LEIGH 405
-LINE 75: PART I.
-LINE 76: An English Home: grey twilight poured
-LINE 77: On dewy pastures, dewy trees,
-LINE 78: Softer than sleep: all things in order stored;
-LINE 79: A haunt of ancient Peace.
-LINE 80: TENNYSON.
-LINE 81: CHAPTER I.
-LINE 82: FAIR ACRES.
-LINE 83: It was a fair morning of early summer, when the low beams of the eastern
-LINE 84: sun, threw flickering shadows across the lawn, which lay before Fair
-LINE 85: Acres Manor, nestling under the shelter of the Mendip Hills, somewhere
-LINE 86: between Wells and Cheddar.
-LINE 87: Truth compels me to say, that the lawn was covered with daisies, and
-LINE 88: that their bright eyes looked fearlessly up into the blue sky; for
-LINE 89: mowing machines were unknown, and the old gardener, coachman, and
-LINE 90: universal out-of-door servant sharpened his scythe, only at long
-LINE 91: intervals, to lay the heads of the flowers low, so that the daisies grew
-LINE 92: and flourished, and had a good time of it.
-LINE 93: I know that daisy-speckled turf is considered an offence in the eyes of
-LINE 94: the modern gardener. I know with what zeal the spud is used; how large
-LINE 95: bare places are regarded with delight; how seed is scattered over them,
-LINE 96: which the birds watch with cunning glances from the neighbouring shrubs
-LINE 97: and trees, and pounce down upon, as soon as the diligent master of the
-LINE 98: place, has straightened his aching back and turned it upon the scene of
-LINE 99: his labours.
-LINE 100: The dewy lawn before Fair Acres, with its beautiful mosaic of white and
-LINE 101: gold, fringed with circles of deepest crimson here and there, would not
-LINE 102: suit the taste of the conventional gardener of these days; nor would the
-LINE 103: low, irregular building which overlooked it, be considered an attractive
-LINE 104: or fitting residence, for the sons and daughters of the small country
-LINE 105: squire in the ninth decade of the century.
-LINE 106: But in the second decade, in which my story opens, things were
-LINE 107: different. The country squire lived a country life. He farmed his own
-LINE 108: acres, he walked over his own fields; his 'stock' were individual cows
-LINE 109: and horses to him; he could pat each one and call it by its name. His
-LINE 110: house was his home, and the restlessness of travel, and longing for
-LINE 111: excitement had not as yet, for the most part, disturbed either him or
-LINE 112: his children.
-LINE 113: Now the resonant steam eagle, as it flies across the country side, seems
-LINE 114: to call upon the dwellers in rural districts to follow where it leads,
-LINE 115: and an isolated manorial farm like Fair Acres, and a family like the
-LINE 116: Falconers who inhabited it, are all but impossible to find nowadays.
-LINE 117: Nor would we grumble that the stream of Progress bears us all upon its
-LINE 118: breast with the strong resistless current, of which we are scarcely
-LINE 119: conscious. The busy rush of life has its brighter side, for there are
-LINE 120: wider fields of service opened out for our sons, and the selfishness
-LINE 121: which was apt to spring from a secluded life in the heart of the hills,
-LINE 122: is counteracted by contact with many men, and many minds. Human sympathy
-LINE 123: is quickened, and love is drawn forth, and the labourers who long for
-LINE 124: work in the harvest field have the way made easy for them; tools are put
-LINE 125: into the hands of our daughters with which they may, if they will, carve
-LINE 126: their own lot in life, and none can complain now that life is wasted for
-LINE 127: lack of opportunity, for opportunities start up on every side in this
-LINE 128: active, zealous, go-a-head age in which we find ourselves.
-LINE 129: But in spite of all such advantages and due acknowledgment of their
-LINE 130: value, it is refreshing to turn to quiet and peaceful habitations like
-LINE 131: Fair Acres, and live again a quieter and less complex life than that
-LINE 132: which we have grown to believe is necessary in these later times.
-LINE 133: As the sun threw its level beams from the east across the lawn,
-LINE 134: thousands of diamond drops sparkled and shimmered in the light, and it
-LINE 135: touched with radiance the figure of a young girl who was standing by a
-LINE 136: white gate which led into a copse sloping upward to the crest of a hill,
-LINE 137: behind the old manor, and crowned by a belt of fir-trees.
-LINE 138: Joyce had her hand on the latch of the gate, but paused for a moment to
-LINE 139: look back on the landscape which lay stretched out before her.
-LINE 140: A peaceful valley was below, where the tower of Fair Acres church rose
-LINE 141: against a background of trees, now in their first fresh beauty. A few
-LINE 142: cottages with red roofs clustered round the church, and two or three
-LINE 143: farms were sprinkled at a farther distance. A rugged outline of hills at
-LINE 144: a higher level, showed where the Ebbor rocks open out a miniature
-LINE 145: Cheddar, and on the other side of that little gorge lay the open
-LINE 146: country, where the city of the deep springs lies, with its noble
-LINE 147: cathedral, and quaint Close, and stately baronial Palace--the beautiful
-LINE 148: cathedral village of Wells.
-LINE 149: Joyce Falconer was looking forth upon life as upon this goodly
-LINE 150: landscape. She was in the fresh spring-time of seventeen summers. Her
-LINE 151: father called her Sunshine, and her brothers Birdie; while her mother,
-LINE 152: who was a plain, practical person, and who indulged in no flights of
-LINE 153: fancy, would say, "Joyce is the child's name; and what can suit her
-LINE 154: better? I don't like nick-names."
-LINE 155: Nevertheless the nick-names held their own, and as Joyce stood by the
-LINE 156: white gate, a voice was heard resounding from the lawn below:
-LINE 157: "Hallo, Sunshine!"
-LINE 158: "Father, come up the hill. It is so lovely this morning."
-LINE 159: The squire advanced with steady, even footsteps. He was a fine, stalwart
-LINE 160: man, dressed in a stout suit of corduroy, and with leggings buttoned up
-LINE 161: to his knees. He carried a gun under his arm--more from habit than from
-LINE 162: any idea of using it just then--and close at his heels walked, with
-LINE 163: sedate and leisurely bearing, his chief friend and companion, a large
-LINE 164: retriever, Duke; while two little terriers, Nip and Pip, bustled about
-LINE 165: in every direction, scenting with their sharp noses, and occasionally
-LINE 166: turning upon each other to have a playful passage of arms which, though
-LINE 167: accompanied by ominous growls, meant nothing but fun.
-LINE 168: "I am up first to-day, daddy!" Joyce exclaimed, as she went down the
-LINE 169: gentle descent and linked her arm in her father's. "I am first, and is
-LINE 170: not it beautiful to be alive on such a day?"
-LINE 171: The squire paused, and putting his arm round his daughter's waist, he
-LINE 172: said, looking down at her with eyes of loving pride:
-LINE 173: "Beautiful! yes," thinking, though he did not say so, that the most
-LINE 174: beautiful thing in all that beautiful world was his little Sunshine, his
-LINE 175: darling Joyce.
-LINE 176: "I hope the weather will keep fine for the hay," he said; "but the glass
-LINE 177: went up with a gallop yesterday; still, it looks fair enough this
-LINE 178: morning."
-LINE 179: "When are we to begin to cut the grass, daddy?"
-LINE 180: "To-morrow, in the home meadow," was the reply. "I am going into Wells
-LINE 181: to-day, for the magistrates' meeting."
-LINE 182: "May I come, father?"
-LINE 183: "Well, I've no objection, if mother has not," was the answer. "You must
-LINE 184: ask her leave."
-LINE 185: "I expect she will let me come. She is sure to have some shopping to do;
-LINE 186: and you don't like commissions at shops, daddy."
-LINE 187: The squire gave a significant shrug of his broad shoulders, and then the
-LINE 188: two began to thread their way through the copse, and came out at last on
-LINE 189: the side of the grass-covered hill, up which Joyce skipped with the
-LINE 190: light step of a young fawn, with Nip and Pip scuffling along with her in
-LINE 191: the highest glee, while the squire and Duke followed more slowly.
-LINE 192: As she stood there in the light of the morning, Joyce Falconer was a
-LINE 193: fair picture of happy, joyous maidenhood. Her figure was lithe and
-LINE 194: supple, and though I am afraid her lilac cotton frock would be despised
-LINE 195: as only fit for a maid-servant in these days, it became her well. It was
-LINE 196: made with a full skirt and a loose body, cut rather low at the neck,
-LINE 197: with sleeves which were large on the shoulder, gradually tightening to
-LINE 198: the wrist, and displayed to advantage a well-rounded arm. Joyce's shoes
-LINE 199: were thick; but though, perhaps, a trifle clumsy, they did not spoil the
-LINE 200: symmetry of her pretty ankle and high-arched instep. Snowy "tuckers" of
-LINE 201: crimped muslin were sewn into the neck and wrists of her gown, and she
-LINE 202: wore an apron with a bib; an old-fashioned apron, guiltless of bows or
-LINE 203: lace.
-LINE 204: Her abundant chestnut hair was gathered on the top of her small head,
-LINE 205: and fell in curls on either side of her smooth white brow; not concealed
-LINE 206: now by the large Dunstable straw bonnet, which was hanging to her arm by
-LINE 207: the strings, and left the gentle breeze of the morning free, to play
-LINE 208: amongst the clustering curls, at their own sweet will.
-LINE 209: Joyce's features were regular, and her complexion rosy and healthy.
-LINE 210: Indeed, everything about her seemed to tell of youth and the full
-LINE 211: enjoyment of the gifts which God had given her.
-LINE 212: "A perfect little rustic!" her aunt in the Vicar's close at Wells called
-LINE 213: her sometimes, and would suggest to her father that a year or two at a
-LINE 214: "finishing school" would be an advantage.
-LINE 215: But the squire could not bring himself to part from his only daughter,
-LINE 216: and her education had been, I am afraid, sadly neglected.
-LINE 217: "Well, little one," Mr. Falconer said, as he seated himself on a rough
-LINE 218: wooden bench, "what is this?" touching the cover of a book that peeped
-LINE 219: from her apron pocket.
-LINE 220: "It is a book, father, Charlotte lent me: Mrs. Hemans' poems."
-LINE 221: "Ah! poetry is a good thing when it is kept in its right place."
-LINE 222: "I have been learning a long poem called 'Edith,' and I repeat it when I
-LINE 223: am darning stockings, picking up a stitch for every word. Don't you
-LINE 224: understand, father?"
-LINE 225: "I never darned a stocking," he said, laughing.
-LINE 226: "Ah! happy father! Mother has now given me six pairs of Melville's new
-LINE 227: socks, to strengthen the heels. In and out, in and out with the long
-LINE 228: needle; I have to try very hard not to grumble, so I say 'Edith' as a
-LINE 229: comfort, and to help me on."
-LINE 230: 'The woods--oh! solemn are the boundless woods
-LINE 231: Of the great Western world when day declines,
-LINE 232: And louder sounds the roll of distant floods,
-LINE 233: More deep the rustling of the solemn pines;
-LINE 234: When darkness gathers o'er the stilly air,
-LINE 235: And mystery seems o'er every leaf to brood,
-LINE 236: Awful it is for human heart to bear
-LINE 237: The weight and burden of the solitude.'
-LINE 238: "Father," she said, suddenly stopping, "you are thinking of something
-LINE 239: that troubles you. I know it by the deep line on your forehead, between
-LINE 240: your eyes. May I know, father?"
-LINE 241: "Well, Sunshine, I am troubled about Melville; he wants to go and see
-LINE 242: the world, he says. I have given him as good an education as befits his
-LINE 243: station in life. He has made little use of it; and the bills for the
-LINE 244: last term at Oxford have been enormous."
-LINE 245: "How shameful!" Joyce exclaimed.
-LINE 246: "Things are so different from what they were when I was a boy," the
-LINE 247: squire said. "Why, I never dreamed of anything beyond doing my duty
-LINE 248: here. I took the farming business off your grandfather's shoulders
-LINE 249: before I was five-and-twenty. I was his steward, as Melville ought to be
-LINE 250: mine, and leave me free. As it is, I have to pay Watson, and look into
-LINE 251: everything myself, when I have a son of three-and-twenty, who ought to
-LINE 252: do all this for me. I suppose it can't be helped," the squire said,
-LINE 253: stretching out his legs, and taking up the gun which had been resting
-LINE 254: against the bench, "and as far as I can see the younger boys will be
-LINE 255: very little, if any, better than Melville."
-LINE 256: "Oh! yes, father. Ralph will do anything you wish, I know; and Hal and
-LINE 257: Bunny are very good at school. Remember what the master said of them at
-LINE 258: Christmas."
-LINE 259: "Yes, yes; they are good little fellows. Then there is poor Piers; he
-LINE 260: must always be an anxiety, poor boy!"
-LINE 261: "I don't think any of us can be happier than Piers," Joyce said. "He
-LINE 262: never complains because he is lame; and he is as contented as possible,
-LINE 263: making his collection of moths and butterflies, and bird's eggs, and
-LINE 264: things. No, father, don't be unhappy about Piers."
-LINE 265: "Do you think, Joyce, I ever forget that it was my carelessness which
-LINE 266: made the boy a cripple? I never forget it."
-LINE 267: "No one else thinks of it, dear daddy," Joyce said, slipping her hand
-LINE 268: into her father's, as it rested on his knee. "No one else thinks of it;
-LINE 269: and you know the colt had been broken in, and----"
-LINE 270: "The child ought never to have put his legs across it, Joyce; and I
-LINE 271: lifted him on, and told him not to be a coward. Ah!" said the squire,
-LINE 272: suddenly starting to his feet. "I cannot speak of it; I dare not."
-LINE 273: He began an abrupt descent the way that they had come. Nip and Pip, who
-LINE 274: had been sleeping with their noses on their paws, and one eye open,
-LINE 275: raced off, while Duke drew himself into a standing position, and walked
-LINE 276: demurely down the steep bit of turf, with the brush of his tail waving
-LINE 277: from side to side as he went.
-LINE 278: Joyce did not follow immediately. Her bright face was clouded with the
-LINE 279: sympathy she felt for her father. It all came back to her: the group
-LINE 280: before the Manor, the child of eight years old, saying, "I am afraid of
-LINE 281: riding Rioter, father." Then the father's answer, "Afraid! Don't be a
-LINE 282: coward, Piers; you have a good seat enough for such a little chap. Here,
-LINE 283: let me put you on." The boy's white, set face, as he grasped the reins;
-LINE 284: and Rioter was off like lightning. "His brothers rode long before they
-LINE 285: were his age," the squire had said; "it won't do to tie him to his
-LINE 286: mother's apron strings, because he happens to be the youngest." Then the
-LINE 287: sound of returning horse's feet, and Rioter rushed up the side drive to
-LINE 288: the stables riderless. Another minute and old Thomas appeared with a
-LINE 289: lifeless burden in his arms, which the squire took from him, with a
-LINE 290: groan of remorse, as he turned into the house with him and said to his
-LINE 291: wife, "I have killed the boy."
-LINE 292: But Piers was not killed. His injuries were life-long, but his life was
-LINE 293: spared.
-LINE 294: Whether it was from an instinctive feeling, that his father considered
-LINE 295: himself the cause of his lameness and generally invalided condition, or
-LINE 296: whether the latent buoyancy of his nature asserted itself above all the
-LINE 297: privations which the accident had brought upon him, or whether both of
-LINE 298: these causes were at work within him, certain it is that Piers was the
-LINE 299: most cheerful and most uncomplaining member of the squire's household,
-LINE 300: and never allowed any one to pity him, or to treat him as an object of
-LINE 301: compassion. Joyce was right when she said that no one was happier than
-LINE 302: Piers. Every bird and insect had a charm for him, and were his friends
-LINE 303: and companions. Books of natural history were rare; but Bewick's Birds
-LINE 304: sufficed for Piers' needs. The "Natural History of Selborne" and old
-LINE 305: Isaak Walton's "Angler" were also amongst the boy's scanty library, and
-LINE 306: keen perception and acute observation supplied the place of extraneous
-LINE 307: help; and Piers was content.
-LINE 308: The cloud soon cleared from Joyce's face as a well-known whistle was
-LINE 309: heard from the copse, and Joyce answered it with a clear note of
-LINE 310: welcome:
-LINE 311: "Here, Piers."
-LINE 312: Then the quick, even thud of crutches, and Piers came in sight.
-LINE 313: In a moment Joyce was springing down the grassy hill-side, and, with a
-LINE 314: hardly perceptible touch on her brother's shoulder, she joined him as he
-LINE 315: came up.
-LINE 316: "I say, Joyce, if you go to Wells to-day with father, will you take this
-LINE 317: little sparrow-hawk to old Plume's to be stuffed? Here, rummage in my
-LINE 318: pocket, left-hand side--there he is! He is a perfect specimen, and a
-LINE 319: pretty rare one. The stable-boy found him lying on his back under the
-LINE 320: dove-cot. Perhaps he got the worst of it in a fight. Anyhow, he is dead,
-LINE 321: and I have a nice nook for him in my big case."
-LINE 322: "Poor dear little birdie," Joyce said, stroking the soft feathers. "Oh!
-LINE 323: Piers, why must everything die? It seems so hard. And this is the
-LINE 324: puzzle, that we--you and I--may die to-day, next week, any day; and yet
-LINE 325: we don't really behave as if we believed it. I feel on a morning like
-LINE 326: this, for instance, so full of life, it is so delicious to live, and as
-LINE 327: if I never could die. It is so beautiful to be living, so sad to be
-LINE 328: dead! To think, Piers, of this little bird singing sweetly----"
-LINE 329: "Sparrow-hawks don't sing very sweetly; they chirrup and whistle," Piers
-LINE 330: interrupted.
-LINE 331: "Ah, well, he thought he sang sweetly, and so did his mother; so it came
-LINE 332: to the same thing. Poor little sweet." And Joyce held the little
-LINE 333: lifeless bird against her rounded chin and pressed her lips upon it.
-LINE 334: Suddenly Piers said:
-LINE 335: "What is wrong about Melville; there's something fresh, for I heard my
-LINE 336: mother talking about it before I was up."
-LINE 337: "He says he won't come here and take care of the farm. He wants to
-LINE 338: travel."
-LINE 339: "Well, I don't blame him for that," said Piers.
-LINE 340: "But his debts have hampered father dreadfully I know, and he does so
-LINE 341: detest his fine gentleman airs. It seems to me," said Joyce, vehemently,
-LINE 342: "to be ashamed of a father like ours is--Oh! I have no word bad enough,
-LINE 343: and Melville _is_ ashamed, and he does not like mother looking after the
-LINE 344: dairy and the butter."
-LINE 345: "Well," said Piers, tapping his crutch upon the ground, "I think mother
-LINE 346: does fidget and worry too much in the house and about the place; but it
-LINE 347: is her way, and no one could alter it."
-LINE 348: "I don't know that I wish to alter it," Joyce said, hotly. "Mother has
-LINE 349: done so much for us, and I hate to think she is slighted by her
-LINE 350: children. Melville _does_ slight her, and when he talks in that
-LINE 351: drawling, affected voice, and ties his starched cravats twenty times,
-LINE 352: and flings them down again if the bow is crooked. I despise _him_, and
-LINE 353: that is the truth."
-LINE 354: Piers shrugged his shoulders.
-LINE 355: "Well, we must go back to breakfast," he said; "I am hungry, and it must
-LINE 356: be nearly eight o'clock."
-LINE 357: The brother and sister walked slowly towards the house, and as they
-LINE 358: crossed the lawn, from which the sun had kissed away all the dewdrops, a
-LINE 359: bell over the stables rang, and a little alert figure appeared in the
-LINE 360: porch.
-LINE 361: "Joyce, Joyce! What are you dawdling for? It is past eight o'clock.
-LINE 362: Getting your feet drenched with the dew, I'll warrant. No, don't bring
-LINE 363: any dead birds here, Piers; I won't have it. The house is just like a
-LINE 364: pigsty with all your rubbish. Take it round to the back kitchen. I have
-LINE 365: a pretty hard morning's work before me, and you must lend a hand, Joyce,
-LINE 366: I can tell you."
-LINE 367: "Father said I was to go with him to Wells, mother, and do your
-LINE 368: shopping."
-LINE 369: "Well, that won't be till eleven o'clock. There's time enough first to
-LINE 370: help me to give out the stores and get the linen aired for the boys'
-LINE 371: room and the spare bedroom, and you forget, I suppose, that your
-LINE 372: brothers are coming home for the holidays on Friday, and this is
-LINE 373: Wednesday. I shall be all behindhand, if I don't look out. I wish
-LINE 374: Melville's fine gentleman visitor farther!"
-LINE 375: Mrs. Falconer spoke rapidly, and in rather a high key. Her accent was
-LINE 376: decidedly provincial, and she did not measure out her words with the
-LINE 377: slow precision which her eldest son Melville considered a mark of _bon
-LINE 378: ton_.
-LINE 379: Mrs. Falconer was the daughter of a large farmer in a neighbouring
-LINE 380: county, and the squire had married her in haste, though he had never
-LINE 381: repented at leisure.
-LINE 382: She was thoroughly loyal-hearted and true as a wife and mother; brusque
-LINE 383: and blunt, holding all fine things and fine people in supreme contempt.
-LINE 384: And yet, according to the perversity of women-kind, she spoiled and
-LINE 385: indulged the son whose love of fine things seemed likely to be his bane,
-LINE 386: and brought perpetual trouble upon his good and honourable father.
-LINE 387: To make bread and cakes, to skim milk, churn butter, at a pinch, and
-LINE 388: make all the sweet, cooling drinks for the summer, and elderberry wine
-LINE 389: for the winter, were domestic duties in which Mrs. Falconer gloried. She
-LINE 390: would put on a large apron and a pair of dusting-gloves every morning
-LINE 391: and go the round of the parlours, and rub the old mahogany chair-backs
-LINE 392: and bureau with vigour, sprinkle the tea-leaves on stated days, and
-LINE 393: follow one of her stout maid-servants, as they swept the carpets on
-LINE 394: their knees, with dustpan and brush, and remove every suspicion of
-LINE 395: "fluff" from every corner or crevice where it might be supposed to
-LINE 396: accumulate.
-LINE 397: While her children were young these household duties which their mother
-LINE 398: took upon herself, were considered as a matter of course, but with added
-LINE 399: years came added wisdom, to some of them at least, and Melville, her
-LINE 400: eldest son, and her great darling and idol, began to show unmistakable
-LINE 401: signs of annoyance, at his mother's household accomplishments.
-LINE 402: He was at home now, and a stormy scene the night before had deepened the
-LINE 403: lines on the squire's brow; and hard things Melville had said were as
-LINE 404: sharp swords to his mother's soul. She was not particularly sensitive,
-LINE 405: it is true; by no means thin-skinned, or laying herself out--as is the
-LINE 406: fashion of some women of her temperament, to take offence. Still,
-LINE 407: Melville had succeeded the night before in wounding her in her tenderest
-LINE 408: place, reminding her that while his father's pedigree could be stretched
-LINE 409: out to meet the royal blood of the Saxon kings, the race of sturdy
-LINE 410: yeomen, from which his mother came, had no blue blood in their veins and
-LINE 411: were sons of the soil.
-LINE 412: There is an old saying that "sharper than a serpent's tooth is an
-LINE 413: ungrateful child;" and Mrs. Falconer was still smarting from the wound
-LINE 414: given her the evening before, when she began to dispense the excellent
-LINE 415: breakfast, laid in a large, cool hall at the back of the manor, which
-LINE 416: was connected, by a square opening in the thick wall, with the kitchen.
-LINE 417: The squire, who was generally so jovial and cheery, ate his cold pressed
-LINE 418: beef and drank his glass of "home-brew" in silence. He professed to be
-LINE 419: engrossed with a Bath paper several days old, and did not invite
-LINE 420: conversation.
-LINE 421: Piers played with some bread-and-milk his mother set before him: his
-LINE 422: appetite was never good; but Joyce despatched hot rolls and ham with a
-LINE 423: great appetite, which I am afraid would shock some of our modern notions
-LINE 424: nowadays.
-LINE 425: Tea and coffee were not the staple beverages at breakfast in those
-LINE 426: times; but when the heavier part of the meal was over Joyce handed her
-LINE 427: father a fragrant cup, with some thin toast done to a turn, for which
-LINE 428: Mrs. Falconer called from the kitchen through the window, communicating
-LINE 429: with it, and fitted with a sliding shutter, which was promptly closed
-LINE 430: when the tray had been received from the hands of one of the maids.
-LINE 431: "So you are thinking of going into Wells to-day, Arthur?" Mrs. Falconer
-LINE 432: said when, breakfast drawing to a conclusion, she began to pile the
-LINE 433: plates together, and put all the scraps on one, for the benefit of Nip
-LINE 434: and Pip, who had been lying in the window-seat for the past half-hour in
-LINE 435: a state of suppressed excitement, with their noses on their paws, and
-LINE 436: their eyes fixed upon that end of the table where their mistress
-LINE 437: presided.
-LINE 438: The noise made by the piling up of the plates was now a decided
-LINE 439: movement, and Nip and Pip began to wriggle and leap, and finally subside
-LINE 440: on their hind legs as Joyce called out: "Trust, Nip! trust, Pip!" and
-LINE 441: then, after what she considered a due time spent in an erect position,
-LINE 442: the plate was put down before them, and its contents vanished in a
-LINE 443: twinkling.
-LINE 444: "Well, Joyce, will you be ready by eleven o'clock?" Mr. Falconer asked
-LINE 445: as he left the room.
-LINE 446: Joyce was silent, and her mother said:
-LINE 447: "Yes, yes, she shall be ready; if she is brisk she can get through all I
-LINE 448: want." Then Mrs. Falconer began to put all the silver into a wooden
-LINE 449: bowl, and rubbed it herself with the washleather when it was dried.
-LINE 450: She had just finished this part of her daily routine when the door
-LINE 451: opened and her son Melville came in. His appearance would be ridiculous
-LINE 452: in the eyes of the dandies of to-day, but in his own, at least, it was
-LINE 453: as near perfection as possible.
-LINE 454: His hair was curled in tight and very-much-oiled curls on his forehead
-LINE 455: and round his ears. He wore a high neckcloth, tied evidently with much
-LINE 456: care, supporting his retreating chin. His coat was of Lincoln green,
-LINE 457: very short in the waist, with large silver buttons, and turned back with
-LINE 458: a wide collar to display two waistcoats, the white one only showing an
-LINE 459: edge beyond the darker one of deep salmon-colour, which opened to set
-LINE 460: off a frilled shirt. The trousers were tight, and caught at the ankles
-LINE 461: by straps, and his shoes were tied with large bows. The servile
-LINE 462: imitators of "the first gentleman in Europe" followed in his steps with
-LINE 463: as much precision as possible, and Melville Falconer spared no pains to
-LINE 464: let the county folk of Somersetshire see what the real scion of _bon
-LINE 465: ton_ looked like.
-LINE 466: Melville had a pleasant, weak face; he was almost entirely forgetful of
-LINE 467: the interests or tastes of anyone but himself, and he had never given up
-LINE 468: his own wishes for the sake of another in his life.
-LINE 469: He had a ridiculous idea of his own importance, and a supreme contempt
-LINE 470: for what he called old-fashioned usage; from the vantage-ground of
-LINE 471: superior wisdom he looked down on the county gentry of Somersetshire,
-LINE 472: who, in those days, did not frequent London in the season, or tread hard
-LINE 473: on the heels of the nobility in all their customs, as is now the case.
-LINE 474: The great mercantile wealth which rose into colossal importance, when
-LINE 475: railway traffic brought the small towns near the large ones, and the
-LINE 476: large ones near the metropolis, had not begun to overshadow the land;
-LINE 477: the tide of speculation had not set in; and there was less hastening to
-LINE 478: be rich and desire to display all that riches could give. It was a time
-LINE 479: of comparative stagnation, which preceded the great rush, which was to
-LINE 480: bear on its tide, as the stream of progress and discovery gathered
-LINE 481: strength, the next generation with relentless power. Of all that lay
-LINE 482: outside Fair Acres, Mrs. Falconer was almost indifferent, if not
-LINE 483: ignorant. She liked things as they were, and was averse to change, lest
-LINE 484: that change should be for the worse. Her tongue, which was a sharp one,
-LINE 485: had been swift to condemn the establishment of the schools in her
-LINE 486: neighbourhood, and she resisted all invitations from her husband to make
-LINE 487: the acquaintance of Mrs. Hannah More. Teaching lads and lasses to read
-LINE 488: and write was, in the opinion of Mrs. Falconer, a crying evil. They had
-LINE 489: enough learning if they kept their church once a week, and as to
-LINE 490: arithmetic, if they could count their own fingers it was enough; and
-LINE 491: she, for one, would never take a servant who had schooling. "A pack of
-LINE 492: nonsense," she called it; and she would tell Mrs. Hannah More so if only
-LINE 493: she had the chance. Mrs. Falconer turned from her occupation at the
-LINE 494: table, when her son entered.
-LINE 495: "Breakfast!" she exclaimed. "No, indeed; breakfast is over and done
-LINE 496: with. I can't keep the things about half the morning."
-LINE 497: The prototype of the fine gentleman seated himself in a chair at the
-LINE 498: table, and said in a drawling voice, suppressing a yawn:
-LINE 499: "Joyce, get me some clean plates, and go and order a rasher of bacon;
-LINE 500: and let the eggs be poached; and----"
-LINE 501: But Mrs. Falconer pushed Joyce aside:
-LINE 502: "No," she said; "your sister has something else to do than wait on you.
-LINE 503: I'll get your breakfast; and if you have to wait an hour, it will serve
-LINE 504: you right; lie-a-beds don't generally have sharp appetites."
-LINE 505: "Nay, mother," Melville said, "do not let the want of appetite be laid
-LINE 506: to my door, with so many other sins; I am particularly hungry this
-LINE 507: morning. And I beseech you, do not do servant's work for _me_."
-LINE 508: Mrs. Falconer's face betrayed that she felt the thrust.
-LINE 509: "Servant's work must be done for folks too lazy to do it for
-LINE 510: themselves," she said, as she let the heavy door swing behind her, and
-LINE 511: repaired to the kitchen to prepare, far too carefully, a breakfast for
-LINE 512: her son.
-LINE 513: Joyce hesitated a moment, and then said:
-LINE 514: "It always vexes mother when you are late, Melville. I wish you would
-LINE 515: get up earlier."
-LINE 516: "My dear little sister, I should have vexed mother if I had come down at
-LINE 517: six. She is out of temper with me, and so is my father, simply because I
-LINE 518: desire to get a little education, to fit me for my position here, you
-LINE 519: know, when I come into the place."
-LINE 520: "Oh, Melville, you have had every advantage; you ought to know
-LINE 521: everything. But Aunt Letitia was quite right--the money spent upon you
-LINE 522: at Oxford was wasted."
-LINE 523: "Thanks for your high opinion. I ought to be vastly grateful for it. But
-LINE 524: to speak of other things: I have bidden a friend to stay here for a
-LINE 525: week. He will like country air, and to drink milk and curds-and-whey. He
-LINE 526: arrives at Wells by the Bath mail; and I shall drive in with you and my
-LINE 527: father, and hire a post-chaise at the Swan to bring him out."
-LINE 528: "I hope he is not a fine gentleman," Joyce said.
-LINE 529: "He is a very fine gentleman indeed," was the answer; "and, Joyce,
-LINE 530: persuade mother _not_ to put on that big bib, and make herself look like
-LINE 531: a housekeeper. It will appal Arundel, and make him feel out of his
-LINE 532: element."
-LINE 533: "If he is to feel that, what does he come for?" Joyce said, angrily. "We
-LINE 534: want no upstarts here."
-LINE 535: "Upstarts! that is fine talking. Arundel comes of one of the oldest
-LINE 536: families in England. Not older than ours; though, unhappily, we live as
-LINE 537: if we had sprung from the gutter, and do not get any proper respect."
-LINE 538: "Respect!" exclaimed Joyce, indignantly. "Respect! As if father were not
-LINE 539: respected as a justice! and as if _you_----" Joyce stopped; she felt too
-LINE 540: indignant to go on.
-LINE 541: "My dear little sister," Melville said, with a grand air of pity--"my
-LINE 542: dear little sister, you are only ignorant. If you knew a little more of
-LINE 543: the habits and customs of the higher classes, you would not talk so
-LINE 544: foolishly."
-LINE 545: "I do not wish to know more about them if you have got _your_ habits
-LINE 546: from associating with them."
-LINE 547: Melville smiled, and did not betray the least irritation.
-LINE 548: "My dear," he said, "facts are stubborn things. Does it never strike
-LINE 549: you, that though my father dines at the houses of the gentry in the
-LINE 550: county, sits on the bench, and rides to cover, you and my mother are not
-LINE 551: invited to accompany him. The truth is my good mother dislikes the
-LINE 552: usages of _genteel_ life."
-LINE 553: Melville used that objectionable word with emphasis. Genteel was in
-LINE 554: those days used as some of us now use words which are scarcely more
-LINE 555: significant, though generally accepted--"Good form," "A 1," and so
-LINE 556: forth.
-LINE 557: "It is," Melville continued, grandly, "the result of early associations;
-LINE 558: and so we eat heavy one o'clock meals and nine o'clock suppers, instead
-LINE 559: of dining at three or four o'clock; and my mother, instead of receiving
-LINE 560: company in the house, works in it like a servant. It is a vast pity, my
-LINE 561: dear. It keeps the family down, and destroys your chances in life. So I
-LINE 562: advise you to try to alter things. Now Arundel is coming, I want to dine
-LINE 563: at a less outlandish hour, and I----"
-LINE 564: Whatever Mr. Melville Falconer wanted Joyce did not stay to hear. She
-LINE 565: left the large hall by one door as her mother entered by the other,
-LINE 566: bearing in her hand a tray of delicately prepared breakfast for her
-LINE 567: son, who was wholly unworthy of her attentions, and would have been
-LINE 568: better without them.
-LINE 569: "Thank you, mother," Melville said. "I hope the toast is not dried up.
-LINE 570: There is so much skill even in the poaching of an egg."
-LINE 571: "There are two ways of doing everything," was Mrs. Falconer's rejoinder.
-LINE 572: "Now I must be quick, for I have a deal of work upstairs."
-LINE 573: "Why should you have work, mother?"
-LINE 574: "Why did you invite a fine gentleman here? You had better answer that
-LINE 575: question. The best room must be got ready, and the feather bed laid
-LINE 576: before the fire."
-LINE 577: "A fire in this weather!" exclaimed Melville.
-LINE 578: "No one ever sleeps in my house in an unaired bed; and never will, while
-LINE 579: I am mistress of it, that I can tell you. I hope your fine gentleman is
-LINE 580: not one to scoff at plain people."
-LINE 581: "Arundel is far too well bred to make invidious remarks. But for all
-LINE 582: that, things may strike him as a little odd. I was going to suggest that
-LINE 583: we should dine at four o'clock while he is here, and that the boys
-LINE 584: should not sit down with us elders. It is not the custom in great
-LINE 585: houses."
-LINE 586: "It is the custom here, and mine is _not_ a great house: it is a
-LINE 587: comfortable English home, where there is no waste, and no extravagance,
-LINE 588: and no show. I'll warrant your grand friend never slept in a better bed
-LINE 589: nor between finer sheets than he will to-night. They are as sweet as
-LINE 590: lavender can make them, and----"
-LINE 591: Melville shrugged his shoulders.
-LINE 592: "Nay, spare me, mother, and let us leave the arrangements of
-LINE 593: bed-chambers to the fitting people. And, if I might suggest it, let all
-LINE 594: things wear their best appearance when Arundel arrives, including the
-LINE 595: mistress of the mansion. It is a pity when one so young and
-LINE 596: comely-looking as my mother should pay such scant heed to the little
-LINE 597: feminine ornaments which are----Phaugh! what is this? Positively a red
-LINE 598: ant crawling from the bread-trencher. What a beast! Quick! catch it,
-LINE 599: mother. I hope we shall have no red ants when Arundel is here."
-LINE 600: Mrs. Falconer darted down upon the ant with her forefinger, and speedily
-LINE 601: despatched it, exclaiming there was a perfect plague of ants in the
-LINE 602: larder, and she did not know how to be rid of them.
-LINE 603: "Disgusting!" said her son, carefully covering the body of the ant with
-LINE 604: a leaf which had garnished the pat of butter. "It is enough to make one
-LINE 605: sick. I must have a little brandy to settle myself, or rather, my
-LINE 606: breakfast, before I start."
-LINE 607: Mrs. Falconer made no response to this request. But the spirit-stand was
-LINE 608: in the sideboard, and when his mother was gone Melville helped himself
-LINE 609: to a pretty strong dram, and then lounged about till it was time to
-LINE 610: mount the "four-wheel" and drive into Wells.
-LINE 611: [Illustration]
+LINE 1: It was a fair morning of early summer, when the low beams of the eastern
+LINE 2: sun, threw flickering shadows across the lawn, which lay before Fair
+LINE 3: Acres Manor, nestling under the shelter of the Mendip Hills, somewhere
+LINE 4: between Wells and Cheddar.
+LINE 5: Truth compels me to say, that the lawn was covered with daisies, and
+LINE 6: that their bright eyes looked fearlessly up into the blue sky; for
+LINE 7: mowing machines were unknown, and the old gardener, coachman, and
+LINE 8: universal out-of-door servant sharpened his scythe, only at long
+LINE 9: intervals, to lay the heads of the flowers low, so that the daisies grew
+LINE 10: and flourished, and had a good time of it.
+LINE 11: I know that daisy-speckled turf is considered an offence in the eyes of
+LINE 12: the modern gardener. I know with what zeal the spud is used; how large
+LINE 13: bare places are regarded with delight; how seed is scattered over them,
+LINE 14: which the birds watch with cunning glances from the neighbouring shrubs
+LINE 15: and trees, and pounce down upon, as soon as the diligent master of the
+LINE 16: place, has straightened his aching back and turned it upon the scene of
+LINE 17: his labours.
+LINE 18: The dewy lawn before Fair Acres, with its beautiful mosaic of white and
+LINE 19: gold, fringed with circles of deepest crimson here and there, would not
+LINE 20: suit the taste of the conventional gardener of these days; nor would the
+LINE 21: low, irregular building which overlooked it, be considered an attractive
+LINE 22: or fitting residence, for the sons and daughters of the small country
+LINE 23: squire in the ninth decade of the century.
+LINE 24: But in the second decade, in which my story opens, things were
+LINE 25: different. The country squire lived a country life. He farmed his own
+LINE 26: acres, he walked over his own fields; his 'stock' were individual cows
+LINE 27: and horses to him; he could pat each one and call it by its name. His
+LINE 28: house was his home, and the restlessness of travel, and longing for
+LINE 29: excitement had not as yet, for the most part, disturbed either him or
+LINE 30: his children.
+LINE 31: Now the resonant steam eagle, as it flies across the country side, seems
+LINE 32: to call upon the dwellers in rural districts to follow where it leads,
+LINE 33: and an isolated manorial farm like Fair Acres, and a family like the
+LINE 34: Falconers who inhabited it, are all but impossible to find nowadays.
+LINE 35: Nor would we grumble that the stream of Progress bears us all upon its
+LINE 36: breast with the strong resistless current, of which we are scarcely
+LINE 37: conscious. The busy rush of life has its brighter side, for there are
+LINE 38: wider fields of service opened out for our sons, and the selfishness
+LINE 39: which was apt to spring from a secluded life in the heart of the hills,
+LINE 40: is counteracted by contact with many men, and many minds. Human sympathy
+LINE 41: is quickened, and love is drawn forth, and the labourers who long for
+LINE 42: work in the harvest field have the way made easy for them; tools are put
+LINE 43: into the hands of our daughters with which they may, if they will, carve
+LINE 44: their own lot in life, and none can complain now that life is wasted for
+LINE 45: lack of opportunity, for opportunities start up on every side in this
+LINE 46: active, zealous, go-a-head age in which we find ourselves.
+LINE 47: But in spite of all such advantages and due acknowledgment of their
+LINE 48: value, it is refreshing to turn to quiet and peaceful habitations like
+LINE 49: Fair Acres, and live again a quieter and less complex life than that
+LINE 50: which we have grown to believe is necessary in these later times.
+LINE 51: As the sun threw its level beams from the east across the lawn,
+LINE 52: thousands of diamond drops sparkled and shimmered in the light, and it
+LINE 53: touched with radiance the figure of a young girl who was standing by a
+LINE 54: white gate which led into a copse sloping upward to the crest of a hill,
+LINE 55: behind the old manor, and crowned by a belt of fir-trees.
+LINE 56: Joyce had her hand on the latch of the gate, but paused for a moment to
+LINE 57: look back on the landscape which lay stretched out before her.
+LINE 58: A peaceful valley was below, where the tower of Fair Acres church rose
+LINE 59: against a background of trees, now in their first fresh beauty. A few
+LINE 60: cottages with red roofs clustered round the church, and two or three
+LINE 61: farms were sprinkled at a farther distance. A rugged outline of hills at
+LINE 62: a higher level, showed where the Ebbor rocks open out a miniature
+LINE 63: Cheddar, and on the other side of that little gorge lay the open
+LINE 64: country, where the city of the deep springs lies, with its noble
+LINE 65: cathedral, and quaint Close, and stately baronial Palace--the beautiful
+LINE 66: cathedral village of Wells.
+LINE 67: Joyce Falconer was looking forth upon life as upon this goodly
+LINE 68: landscape. She was in the fresh spring-time of seventeen summers. Her
+LINE 69: father called her Sunshine, and her brothers Birdie; while her mother,
+LINE 70: who was a plain, practical person, and who indulged in no flights of
+LINE 71: fancy, would say, "Joyce is the child's name; and what can suit her
+LINE 72: better? I don't like nick-names."
+LINE 73: Nevertheless the nick-names held their own, and as Joyce stood by the
+LINE 74: white gate, a voice was heard resounding from the lawn below:
+LINE 75: "Hallo, Sunshine!"
+LINE 76: "Father, come up the hill. It is so lovely this morning."
+LINE 77: The squire advanced with steady, even footsteps. He was a fine, stalwart
+LINE 78: man, dressed in a stout suit of corduroy, and with leggings buttoned up
+LINE 79: to his knees. He carried a gun under his arm--more from habit than from
+LINE 80: any idea of using it just then--and close at his heels walked, with
+LINE 81: sedate and leisurely bearing, his chief friend and companion, a large
+LINE 82: retriever, Duke; while two little terriers, Nip and Pip, bustled about
+LINE 83: in every direction, scenting with their sharp noses, and occasionally
+LINE 84: turning upon each other to have a playful passage of arms which, though
+LINE 85: accompanied by ominous growls, meant nothing but fun.
+LINE 86: "I am up first to-day, daddy!" Joyce exclaimed, as she went down the
+LINE 87: gentle descent and linked her arm in her father's. "I am first, and is
+LINE 88: not it beautiful to be alive on such a day?"
+LINE 89: The squire paused, and putting his arm round his daughter's waist, he
+LINE 90: said, looking down at her with eyes of loving pride:
+LINE 91: "Beautiful! yes," thinking, though he did not say so, that the most
+LINE 92: beautiful thing in all that beautiful world was his little Sunshine, his
+LINE 93: darling Joyce.
+LINE 94: "I hope the weather will keep fine for the hay," he said; "but the glass
+LINE 95: went up with a gallop yesterday; still, it looks fair enough this
+LINE 96: morning."
+LINE 97: "When are we to begin to cut the grass, daddy?"
+LINE 98: "To-morrow, in the home meadow," was the reply. "I am going into Wells
+LINE 99: to-day, for the magistrates' meeting."
+LINE 100: "May I come, father?"
+LINE 101: "Well, I've no objection, if mother has not," was the answer. "You must
+LINE 102: ask her leave."
+LINE 103: "I expect she will let me come. She is sure to have some shopping to do;
+LINE 104: and you don't like commissions at shops, daddy."
+LINE 105: The squire gave a significant shrug of his broad shoulders, and then the
+LINE 106: two began to thread their way through the copse, and came out at last on
+LINE 107: the side of the grass-covered hill, up which Joyce skipped with the
+LINE 108: light step of a young fawn, with Nip and Pip scuffling along with her in
+LINE 109: the highest glee, while the squire and Duke followed more slowly.
+LINE 110: As she stood there in the light of the morning, Joyce Falconer was a
+LINE 111: fair picture of happy, joyous maidenhood. Her figure was lithe and
+LINE 112: supple, and though I am afraid her lilac cotton frock would be despised
+LINE 113: as only fit for a maid-servant in these days, it became her well. It was
+LINE 114: made with a full skirt and a loose body, cut rather low at the neck,
+LINE 115: with sleeves which were large on the shoulder, gradually tightening to
+LINE 116: the wrist, and displayed to advantage a well-rounded arm. Joyce's shoes
+LINE 117: were thick; but though, perhaps, a trifle clumsy, they did not spoil the
+LINE 118: symmetry of her pretty ankle and high-arched instep. Snowy "tuckers" of
+LINE 119: crimped muslin were sewn into the neck and wrists of her gown, and she
+LINE 120: wore an apron with a bib; an old-fashioned apron, guiltless of bows or
+LINE 121: lace.
+LINE 122: Her abundant chestnut hair was gathered on the top of her small head,
+LINE 123: and fell in curls on either side of her smooth white brow; not concealed
+LINE 124: now by the large Dunstable straw bonnet, which was hanging to her arm by
+LINE 125: the strings, and left the gentle breeze of the morning free, to play
+LINE 126: amongst the clustering curls, at their own sweet will.
+LINE 127: Joyce's features were regular, and her complexion rosy and healthy.
+LINE 128: Indeed, everything about her seemed to tell of youth and the full
+LINE 129: enjoyment of the gifts which God had given her.
+LINE 130: "A perfect little rustic!" her aunt in the Vicar's close at Wells called
+LINE 131: her sometimes, and would suggest to her father that a year or two at a
+LINE 132: "finishing school" would be an advantage.
+LINE 133: But the squire could not bring himself to part from his only daughter,
+LINE 134: and her education had been, I am afraid, sadly neglected.
+LINE 135: "Well, little one," Mr. Falconer said, as he seated himself on a rough
+LINE 136: wooden bench, "what is this?" touching the cover of a book that peeped
+LINE 137: from her apron pocket.
+LINE 138: "It is a book, father, Charlotte lent me: Mrs. Hemans' poems."
+LINE 139: "Ah! poetry is a good thing when it is kept in its right place."
+LINE 140: "I have been learning a long poem called 'Edith,' and I repeat it when I
+LINE 141: am darning stockings, picking up a stitch for every word. Don't you
+LINE 142: understand, father?"
+LINE 143: "I never darned a stocking," he said, laughing.
+LINE 144: "Ah! happy father! Mother has now given me six pairs of Melville's new
+LINE 145: socks, to strengthen the heels. In and out, in and out with the long
+LINE 146: needle; I have to try very hard not to grumble, so I say 'Edith' as a
+LINE 147: comfort, and to help me on."
+LINE 148: 'The woods--oh! solemn are the boundless woods
+LINE 149: Of the great Western world when day declines,
+LINE 150: And louder sounds the roll of distant floods,
+LINE 151: More deep the rustling of the solemn pines;
+LINE 152: When darkness gathers o'er the stilly air,
+LINE 153: And mystery seems o'er every leaf to brood,
+LINE 154: Awful it is for human heart to bear
+LINE 155: The weight and burden of the solitude.'
+LINE 156: "Father," she said, suddenly stopping, "you are thinking of something
+LINE 157: that troubles you. I know it by the deep line on your forehead, between
+LINE 158: your eyes. May I know, father?"
+LINE 159: "Well, Sunshine, I am troubled about Melville; he wants to go and see
+LINE 160: the world, he says. I have given him as good an education as befits his
+LINE 161: station in life. He has made little use of it; and the bills for the
+LINE 162: last term at Oxford have been enormous."
+LINE 163: "How shameful!" Joyce exclaimed.
+LINE 164: "Things are so different from what they were when I was a boy," the
+LINE 165: squire said. "Why, I never dreamed of anything beyond doing my duty
+LINE 166: here. I took the farming business off your grandfather's shoulders
+LINE 167: before I was five-and-twenty. I was his steward, as Melville ought to be
+LINE 168: mine, and leave me free. As it is, I have to pay Watson, and look into
+LINE 169: everything myself, when I have a son of three-and-twenty, who ought to
+LINE 170: do all this for me. I suppose it can't be helped," the squire said,
+LINE 171: stretching out his legs, and taking up the gun which had been resting
+LINE 172: against the bench, "and as far as I can see the younger boys will be
+LINE 173: very little, if any, better than Melville."
+LINE 174: "Oh! yes, father. Ralph will do anything you wish, I know; and Hal and
+LINE 175: Bunny are very good at school. Remember what the master said of them at
+LINE 176: Christmas."
+LINE 177: "Yes, yes; they are good little fellows. Then there is poor Piers; he
+LINE 178: must always be an anxiety, poor boy!"
+LINE 179: "I don't think any of us can be happier than Piers," Joyce said. "He
+LINE 180: never complains because he is lame; and he is as contented as possible,
+LINE 181: making his collection of moths and butterflies, and bird's eggs, and
+LINE 182: things. No, father, don't be unhappy about Piers."
+LINE 183: "Do you think, Joyce, I ever forget that it was my carelessness which
+LINE 184: made the boy a cripple? I never forget it."
+LINE 185: "No one else thinks of it, dear daddy," Joyce said, slipping her hand
+LINE 186: into her father's, as it rested on his knee. "No one else thinks of it;
+LINE 187: and you know the colt had been broken in, and----"
+LINE 188: "The child ought never to have put his legs across it, Joyce; and I
+LINE 189: lifted him on, and told him not to be a coward. Ah!" said the squire,
+LINE 190: suddenly starting to his feet. "I cannot speak of it; I dare not."
+LINE 191: He began an abrupt descent the way that they had come. Nip and Pip, who
+LINE 192: had been sleeping with their noses on their paws, and one eye open,
+LINE 193: raced off, while Duke drew himself into a standing position, and walked
+LINE 194: demurely down the steep bit of turf, with the brush of his tail waving
+LINE 195: from side to side as he went.
+LINE 196: Joyce did not follow immediately. Her bright face was clouded with the
+LINE 197: sympathy she felt for her father. It all came back to her: the group
+LINE 198: before the Manor, the child of eight years old, saying, "I am afraid of
+LINE 199: riding Rioter, father." Then the father's answer, "Afraid! Don't be a
+LINE 200: coward, Piers; you have a good seat enough for such a little chap. Here,
+LINE 201: let me put you on." The boy's white, set face, as he grasped the reins;
+LINE 202: and Rioter was off like lightning. "His brothers rode long before they
+LINE 203: were his age," the squire had said; "it won't do to tie him to his
+LINE 204: mother's apron strings, because he happens to be the youngest." Then the
+LINE 205: sound of returning horse's feet, and Rioter rushed up the side drive to
+LINE 206: the stables riderless. Another minute and old Thomas appeared with a
+LINE 207: lifeless burden in his arms, which the squire took from him, with a
+LINE 208: groan of remorse, as he turned into the house with him and said to his
+LINE 209: wife, "I have killed the boy."
+LINE 210: But Piers was not killed. His injuries were life-long, but his life was
+LINE 211: spared.
+LINE 212: Whether it was from an instinctive feeling, that his father considered
+LINE 213: himself the cause of his lameness and generally invalided condition, or
+LINE 214: whether the latent buoyancy of his nature asserted itself above all the
+LINE 215: privations which the accident had brought upon him, or whether both of
+LINE 216: these causes were at work within him, certain it is that Piers was the
+LINE 217: most cheerful and most uncomplaining member of the squire's household,
+LINE 218: and never allowed any one to pity him, or to treat him as an object of
+LINE 219: compassion. Joyce was right when she said that no one was happier than
+LINE 220: Piers. Every bird and insect had a charm for him, and were his friends
+LINE 221: and companions. Books of natural history were rare; but Bewick's Birds
+LINE 222: sufficed for Piers' needs. The "Natural History of Selborne" and old
+LINE 223: Isaak Walton's "Angler" were also amongst the boy's scanty library, and
+LINE 224: keen perception and acute observation supplied the place of extraneous
+LINE 225: help; and Piers was content.
+LINE 226: The cloud soon cleared from Joyce's face as a well-known whistle was
+LINE 227: heard from the copse, and Joyce answered it with a clear note of
+LINE 228: welcome:
+LINE 229: "Here, Piers."
+LINE 230: Then the quick, even thud of crutches, and Piers came in sight.
+LINE 231: In a moment Joyce was springing down the grassy hill-side, and, with a
+LINE 232: hardly perceptible touch on her brother's shoulder, she joined him as he
+LINE 233: came up.
+LINE 234: "I say, Joyce, if you go to Wells to-day with father, will you take this
+LINE 235: little sparrow-hawk to old Plume's to be stuffed? Here, rummage in my
+LINE 236: pocket, left-hand side--there he is! He is a perfect specimen, and a
+LINE 237: pretty rare one. The stable-boy found him lying on his back under the
+LINE 238: dove-cot. Perhaps he got the worst of it in a fight. Anyhow, he is dead,
+LINE 239: and I have a nice nook for him in my big case."
+LINE 240: "Poor dear little birdie," Joyce said, stroking the soft feathers. "Oh!
+LINE 241: Piers, why must everything die? It seems so hard. And this is the
+LINE 242: puzzle, that we--you and I--may die to-day, next week, any day; and yet
+LINE 243: we don't really behave as if we believed it. I feel on a morning like
+LINE 244: this, for instance, so full of life, it is so delicious to live, and as
+LINE 245: if I never could die. It is so beautiful to be living, so sad to be
+LINE 246: dead! To think, Piers, of this little bird singing sweetly----"
+LINE 247: "Sparrow-hawks don't sing very sweetly; they chirrup and whistle," Piers
+LINE 248: interrupted.
+LINE 249: "Ah, well, he thought he sang sweetly, and so did his mother; so it came
+LINE 250: to the same thing. Poor little sweet." And Joyce held the little
+LINE 251: lifeless bird against her rounded chin and pressed her lips upon it.
+LINE 252: Suddenly Piers said:
+LINE 253: "What is wrong about Melville; there's something fresh, for I heard my
+LINE 254: mother talking about it before I was up."
+LINE 255: "He says he won't come here and take care of the farm. He wants to
+LINE 256: travel."
+LINE 257: "Well, I don't blame him for that," said Piers.
+LINE 258: "But his debts have hampered father dreadfully I know, and he does so
+LINE 259: detest his fine gentleman airs. It seems to me," said Joyce, vehemently,
+LINE 260: "to be ashamed of a father like ours is--Oh! I have no word bad enough,
+LINE 261: and Melville _is_ ashamed, and he does not like mother looking after the
+LINE 262: dairy and the butter."
+LINE 263: "Well," said Piers, tapping his crutch upon the ground, "I think mother
+LINE 264: does fidget and worry too much in the house and about the place; but it
+LINE 265: is her way, and no one could alter it."
+LINE 266: "I don't know that I wish to alter it," Joyce said, hotly. "Mother has
+LINE 267: done so much for us, and I hate to think she is slighted by her
+LINE 268: children. Melville _does_ slight her, and when he talks in that
+LINE 269: drawling, affected voice, and ties his starched cravats twenty times,
+LINE 270: and flings them down again if the bow is crooked. I despise _him_, and
+LINE 271: that is the truth."
+LINE 272: Piers shrugged his shoulders.
+LINE 273: "Well, we must go back to breakfast," he said; "I am hungry, and it must
+LINE 274: be nearly eight o'clock."
+LINE 275: The brother and sister walked slowly towards the house, and as they
+LINE 276: crossed the lawn, from which the sun had kissed away all the dewdrops, a
+LINE 277: bell over the stables rang, and a little alert figure appeared in the
+LINE 278: porch.
+LINE 279: "Joyce, Joyce! What are you dawdling for? It is past eight o'clock.
+LINE 280: Getting your feet drenched with the dew, I'll warrant. No, don't bring
+LINE 281: any dead birds here, Piers; I won't have it. The house is just like a
+LINE 282: pigsty with all your rubbish. Take it round to the back kitchen. I have
+LINE 283: a pretty hard morning's work before me, and you must lend a hand, Joyce,
+LINE 284: I can tell you."
+LINE 285: "Father said I was to go with him to Wells, mother, and do your
+LINE 286: shopping."
+LINE 287: "Well, that won't be till eleven o'clock. There's time enough first to
+LINE 288: help me to give out the stores and get the linen aired for the boys'
+LINE 289: room and the spare bedroom, and you forget, I suppose, that your
+LINE 290: brothers are coming home for the holidays on Friday, and this is
+LINE 291: Wednesday. I shall be all behindhand, if I don't look out. I wish
+LINE 292: Melville's fine gentleman visitor farther!"
+LINE 293: Mrs. Falconer spoke rapidly, and in rather a high key. Her accent was
+LINE 294: decidedly provincial, and she did not measure out her words with the
+LINE 295: slow precision which her eldest son Melville considered a mark of _bon
+LINE 296: ton_.
+LINE 297: Mrs. Falconer was the daughter of a large farmer in a neighbouring
+LINE 298: county, and the squire had married her in haste, though he had never
+LINE 299: repented at leisure.
+LINE 300: She was thoroughly loyal-hearted and true as a wife and mother; brusque
+LINE 301: and blunt, holding all fine things and fine people in supreme contempt.
+LINE 302: And yet, according to the perversity of women-kind, she spoiled and
+LINE 303: indulged the son whose love of fine things seemed likely to be his bane,
+LINE 304: and brought perpetual trouble upon his good and honourable father.
+LINE 305: To make bread and cakes, to skim milk, churn butter, at a pinch, and
+LINE 306: make all the sweet, cooling drinks for the summer, and elderberry wine
+LINE 307: for the winter, were domestic duties in which Mrs. Falconer gloried. She
+LINE 308: would put on a large apron and a pair of dusting-gloves every morning
+LINE 309: and go the round of the parlours, and rub the old mahogany chair-backs
+LINE 310: and bureau with vigour, sprinkle the tea-leaves on stated days, and
+LINE 311: follow one of her stout maid-servants, as they swept the carpets on
+LINE 312: their knees, with dustpan and brush, and remove every suspicion of
+LINE 313: "fluff" from every corner or crevice where it might be supposed to
+LINE 314: accumulate.
+LINE 315: While her children were young these household duties which their mother
+LINE 316: took upon herself, were considered as a matter of course, but with added
+LINE 317: years came added wisdom, to some of them at least, and Melville, her
+LINE 318: eldest son, and her great darling and idol, began to show unmistakable
+LINE 319: signs of annoyance, at his mother's household accomplishments.
+LINE 320: He was at home now, and a stormy scene the night before had deepened the
+LINE 321: lines on the squire's brow; and hard things Melville had said were as
+LINE 322: sharp swords to his mother's soul. She was not particularly sensitive,
+LINE 323: it is true; by no means thin-skinned, or laying herself out--as is the
+LINE 324: fashion of some women of her temperament, to take offence. Still,
+LINE 325: Melville had succeeded the night before in wounding her in her tenderest
+LINE 326: place, reminding her that while his father's pedigree could be stretched
+LINE 327: out to meet the royal blood of the Saxon kings, the race of sturdy
+LINE 328: yeomen, from which his mother came, had no blue blood in their veins and
+LINE 329: were sons of the soil.
+LINE 330: There is an old saying that "sharper than a serpent's tooth is an
+LINE 331: ungrateful child;" and Mrs. Falconer was still smarting from the wound
+LINE 332: given her the evening before, when she began to dispense the excellent
+LINE 333: breakfast, laid in a large, cool hall at the back of the manor, which
+LINE 334: was connected, by a square opening in the thick wall, with the kitchen.
+LINE 335: The squire, who was generally so jovial and cheery, ate his cold pressed
+LINE 336: beef and drank his glass of "home-brew" in silence. He professed to be
+LINE 337: engrossed with a Bath paper several days old, and did not invite
+LINE 338: conversation.
+LINE 339: Piers played with some bread-and-milk his mother set before him: his
+LINE 340: appetite was never good; but Joyce despatched hot rolls and ham with a
+LINE 341: great appetite, which I am afraid would shock some of our modern notions
+LINE 342: nowadays.
+LINE 343: Tea and coffee were not the staple beverages at breakfast in those
+LINE 344: times; but when the heavier part of the meal was over Joyce handed her
+LINE 345: father a fragrant cup, with some thin toast done to a turn, for which
+LINE 346: Mrs. Falconer called from the kitchen through the window, communicating
+LINE 347: with it, and fitted with a sliding shutter, which was promptly closed
+LINE 348: when the tray had been received from the hands of one of the maids.
+LINE 349: "So you are thinking of going into Wells to-day, Arthur?" Mrs. Falconer
+LINE 350: said when, breakfast drawing to a conclusion, she began to pile the
+LINE 351: plates together, and put all the scraps on one, for the benefit of Nip
+LINE 352: and Pip, who had been lying in the window-seat for the past half-hour in
+LINE 353: a state of suppressed excitement, with their noses on their paws, and
+LINE 354: their eyes fixed upon that end of the table where their mistress
+LINE 355: presided.
+LINE 356: The noise made by the piling up of the plates was now a decided
+LINE 357: movement, and Nip and Pip began to wriggle and leap, and finally subside
+LINE 358: on their hind legs as Joyce called out: "Trust, Nip! trust, Pip!" and
+LINE 359: then, after what she considered a due time spent in an erect position,
+LINE 360: the plate was put down before them, and its contents vanished in a
+LINE 361: twinkling.
+LINE 362: "Well, Joyce, will you be ready by eleven o'clock?" Mr. Falconer asked
+LINE 363: as he left the room.
+LINE 364: Joyce was silent, and her mother said:
+LINE 365: "Yes, yes, she shall be ready; if she is brisk she can get through all I
+LINE 366: want." Then Mrs. Falconer began to put all the silver into a wooden
+LINE 367: bowl, and rubbed it herself with the washleather when it was dried.
+LINE 368: She had just finished this part of her daily routine when the door
+LINE 369: opened and her son Melville came in. His appearance would be ridiculous
+LINE 370: in the eyes of the dandies of to-day, but in his own, at least, it was
+LINE 371: as near perfection as possible.
+LINE 372: His hair was curled in tight and very-much-oiled curls on his forehead
+LINE 373: and round his ears. He wore a high neckcloth, tied evidently with much
+LINE 374: care, supporting his retreating chin. His coat was of Lincoln green,
+LINE 375: very short in the waist, with large silver buttons, and turned back with
+LINE 376: a wide collar to display two waistcoats, the white one only showing an
+LINE 377: edge beyond the darker one of deep salmon-colour, which opened to set
+LINE 378: off a frilled shirt. The trousers were tight, and caught at the ankles
+LINE 379: by straps, and his shoes were tied with large bows. The servile
+LINE 380: imitators of "the first gentleman in Europe" followed in his steps with
+LINE 381: as much precision as possible, and Melville Falconer spared no pains to
+LINE 382: let the county folk of Somersetshire see what the real scion of _bon
+LINE 383: ton_ looked like.
+LINE 384: Melville had a pleasant, weak face; he was almost entirely forgetful of
+LINE 385: the interests or tastes of anyone but himself, and he had never given up
+LINE 386: his own wishes for the sake of another in his life.
+LINE 387: He had a ridiculous idea of his own importance, and a supreme contempt
+LINE 388: for what he called old-fashioned usage; from the vantage-ground of
+LINE 389: superior wisdom he looked down on the county gentry of Somersetshire,
+LINE 390: who, in those days, did not frequent London in the season, or tread hard
+LINE 391: on the heels of the nobility in all their customs, as is now the case.
+LINE 392: The great mercantile wealth which rose into colossal importance, when
+LINE 393: railway traffic brought the small towns near the large ones, and the
+LINE 394: large ones near the metropolis, had not begun to overshadow the land;
+LINE 395: the tide of speculation had not set in; and there was less hastening to
+LINE 396: be rich and desire to display all that riches could give. It was a time
+LINE 397: of comparative stagnation, which preceded the great rush, which was to
+LINE 398: bear on its tide, as the stream of progress and discovery gathered
+LINE 399: strength, the next generation with relentless power. Of all that lay
+LINE 400: outside Fair Acres, Mrs. Falconer was almost indifferent, if not
+LINE 401: ignorant. She liked things as they were, and was averse to change, lest
+LINE 402: that change should be for the worse. Her tongue, which was a sharp one,
+LINE 403: had been swift to condemn the establishment of the schools in her
+LINE 404: neighbourhood, and she resisted all invitations from her husband to make
+LINE 405: the acquaintance of Mrs. Hannah More. Teaching lads and lasses to read
+LINE 406: and write was, in the opinion of Mrs. Falconer, a crying evil. They had
+LINE 407: enough learning if they kept their church once a week, and as to
+LINE 408: arithmetic, if they could count their own fingers it was enough; and
+LINE 409: she, for one, would never take a servant who had schooling. "A pack of
+LINE 410: nonsense," she called it; and she would tell Mrs. Hannah More so if only
+LINE 411: she had the chance. Mrs. Falconer turned from her occupation at the
+LINE 412: table, when her son entered.
+LINE 413: "Breakfast!" she exclaimed. "No, indeed; breakfast is over and done
+LINE 414: with. I can't keep the things about half the morning."
+LINE 415: The prototype of the fine gentleman seated himself in a chair at the
+LINE 416: table, and said in a drawling voice, suppressing a yawn:
+LINE 417: "Joyce, get me some clean plates, and go and order a rasher of bacon;
+LINE 418: and let the eggs be poached; and----"
+LINE 419: But Mrs. Falconer pushed Joyce aside:
+LINE 420: "No," she said; "your sister has something else to do than wait on you.
+LINE 421: I'll get your breakfast; and if you have to wait an hour, it will serve
+LINE 422: you right; lie-a-beds don't generally have sharp appetites."
+LINE 423: "Nay, mother," Melville said, "do not let the want of appetite be laid
+LINE 424: to my door, with so many other sins; I am particularly hungry this
+LINE 425: morning. And I beseech you, do not do servant's work for _me_."
+LINE 426: Mrs. Falconer's face betrayed that she felt the thrust.
+LINE 427: "Servant's work must be done for folks too lazy to do it for
+LINE 428: themselves," she said, as she let the heavy door swing behind her, and
+LINE 429: repaired to the kitchen to prepare, far too carefully, a breakfast for
+LINE 430: her son.
+LINE 431: Joyce hesitated a moment, and then said:
+LINE 432: "It always vexes mother when you are late, Melville. I wish you would
+LINE 433: get up earlier."
+LINE 434: "My dear little sister, I should have vexed mother if I had come down at
+LINE 435: six. She is out of temper with me, and so is my father, simply because I
+LINE 436: desire to get a little education, to fit me for my position here, you
+LINE 437: know, when I come into the place."
+LINE 438: "Oh, Melville, you have had every advantage; you ought to know
+LINE 439: everything. But Aunt Letitia was quite right--the money spent upon you
+LINE 440: at Oxford was wasted."
+LINE 441: "Thanks for your high opinion. I ought to be vastly grateful for it. But
+LINE 442: to speak of other things: I have bidden a friend to stay here for a
+LINE 443: week. He will like country air, and to drink milk and curds-and-whey. He
+LINE 444: arrives at Wells by the Bath mail; and I shall drive in with you and my
+LINE 445: father, and hire a post-chaise at the Swan to bring him out."
+LINE 446: "I hope he is not a fine gentleman," Joyce said.
+LINE 447: "He is a very fine gentleman indeed," was the answer; "and, Joyce,
+LINE 448: persuade mother _not_ to put on that big bib, and make herself look like
+LINE 449: a housekeeper. It will appal Arundel, and make him feel out of his
+LINE 450: element."
+LINE 451: "If he is to feel that, what does he come for?" Joyce said, angrily. "We
+LINE 452: want no upstarts here."
+LINE 453: "Upstarts! that is fine talking. Arundel comes of one of the oldest
+LINE 454: families in England. Not older than ours; though, unhappily, we live as
+LINE 455: if we had sprung from the gutter, and do not get any proper respect."
+LINE 456: "Respect!" exclaimed Joyce, indignantly. "Respect! As if father were not
+LINE 457: respected as a justice! and as if _you_----" Joyce stopped; she felt too
+LINE 458: indignant to go on.
+LINE 459: "My dear little sister," Melville said, with a grand air of pity--"my
+LINE 460: dear little sister, you are only ignorant. If you knew a little more of
+LINE 461: the habits and customs of the higher classes, you would not talk so
+LINE 462: foolishly."
+LINE 463: "I do not wish to know more about them if you have got _your_ habits
+LINE 464: from associating with them."
+LINE 465: Melville smiled, and did not betray the least irritation.
+LINE 466: "My dear," he said, "facts are stubborn things. Does it never strike
+LINE 467: you, that though my father dines at the houses of the gentry in the
+LINE 468: county, sits on the bench, and rides to cover, you and my mother are not
+LINE 469: invited to accompany him. The truth is my good mother dislikes the
+LINE 470: usages of _genteel_ life."
+LINE 471: Melville used that objectionable word with emphasis. Genteel was in
+LINE 472: those days used as some of us now use words which are scarcely more
+LINE 473: significant, though generally accepted--"Good form," "A 1," and so
+LINE 474: forth.
+LINE 475: "It is," Melville continued, grandly, "the result of early associations;
+LINE 476: and so we eat heavy one o'clock meals and nine o'clock suppers, instead
+LINE 477: of dining at three or four o'clock; and my mother, instead of receiving
+LINE 478: company in the house, works in it like a servant. It is a vast pity, my
+LINE 479: dear. It keeps the family down, and destroys your chances in life. So I
+LINE 480: advise you to try to alter things. Now Arundel is coming, I want to dine
+LINE 481: at a less outlandish hour, and I----"
+LINE 482: Whatever Mr. Melville Falconer wanted Joyce did not stay to hear. She
+LINE 483: left the large hall by one door as her mother entered by the other,
+LINE 484: bearing in her hand a tray of delicately prepared breakfast for her
+LINE 485: son, who was wholly unworthy of her attentions, and would have been
+LINE 486: better without them.
+LINE 487: "Thank you, mother," Melville said. "I hope the toast is not dried up.
+LINE 488: There is so much skill even in the poaching of an egg."
+LINE 489: "There are two ways of doing everything," was Mrs. Falconer's rejoinder.
+LINE 490: "Now I must be quick, for I have a deal of work upstairs."
+LINE 491: "Why should you have work, mother?"
+LINE 492: "Why did you invite a fine gentleman here? You had better answer that
+LINE 493: question. The best room must be got ready, and the feather bed laid
+LINE 494: before the fire."
+LINE 495: "A fire in this weather!" exclaimed Melville.
+LINE 496: "No one ever sleeps in my house in an unaired bed; and never will, while
+LINE 497: I am mistress of it, that I can tell you. I hope your fine gentleman is
+LINE 498: not one to scoff at plain people."
+LINE 499: "Arundel is far too well bred to make invidious remarks. But for all
+LINE 500: that, things may strike him as a little odd. I was going to suggest that
+LINE 501: we should dine at four o'clock while he is here, and that the boys
+LINE 502: should not sit down with us elders. It is not the custom in great
+LINE 503: houses."
+LINE 504: "It is the custom here, and mine is _not_ a great house: it is a
+LINE 505: comfortable English home, where there is no waste, and no extravagance,
+LINE 506: and no show. I'll warrant your grand friend never slept in a better bed
+LINE 507: nor between finer sheets than he will to-night. They are as sweet as
+LINE 508: lavender can make them, and----"
+LINE 509: Melville shrugged his shoulders.
+LINE 510: "Nay, spare me, mother, and let us leave the arrangements of
+LINE 511: bed-chambers to the fitting people. And, if I might suggest it, let all
+LINE 512: things wear their best appearance when Arundel arrives, including the
+LINE 513: mistress of the mansion. It is a pity when one so young and
+LINE 514: comely-looking as my mother should pay such scant heed to the little
+LINE 515: feminine ornaments which are----Phaugh! what is this? Positively a red
+LINE 516: ant crawling from the bread-trencher. What a beast! Quick! catch it,
+LINE 517: mother. I hope we shall have no red ants when Arundel is here."
+LINE 518: Mrs. Falconer darted down upon the ant with her forefinger, and speedily
+LINE 519: despatched it, exclaiming there was a perfect plague of ants in the
+LINE 520: larder, and she did not know how to be rid of them.
+LINE 521: "Disgusting!" said her son, carefully covering the body of the ant with
+LINE 522: a leaf which had garnished the pat of butter. "It is enough to make one
+LINE 523: sick. I must have a little brandy to settle myself, or rather, my
+LINE 524: breakfast, before I start."
+LINE 525: Mrs. Falconer made no response to this request. But the spirit-stand was
+LINE 526: in the sideboard, and when his mother was gone Melville helped himself
+LINE 527: to a pretty strong dram, and then lounged about till it was time to
+LINE 528: mount the "four-wheel" and drive into Wells.
+LINE 529: [Illustration]

@@ -1,0 +1,69 @@
+LINE 1: Candide, driven from terrestrial paradise, walked a long while without
+LINE 2: knowing where, weeping, raising his eyes to heaven, turning them often
+LINE 3: towards the most magnificent of castles which imprisoned the purest of
+LINE 4: noble young ladies. He lay down to sleep without supper, in the middle
+LINE 5: of a field between two furrows. The snow fell in large flakes. Next day
+LINE 6: Candide, all benumbed, dragged himself towards the neighbouring town
+LINE 7: which was called Waldberghofftrarbk-dikdorff, having no money, dying of
+LINE 8: hunger and fatigue, he stopped sorrowfully at the door of an inn. Two
+LINE 9: men dressed in blue observed him.
+LINE 10: "Comrade," said one, "here is a well-built young fellow, and of proper
+LINE 11: height."
+LINE 12: They went up to Candide and very civilly invited him to dinner.
+LINE 13: "Gentlemen," replied Candide, with a most engaging modesty, "you do me
+LINE 14: great honour, but I have not wherewithal to pay my share."
+LINE 15: "Oh, sir," said one of the blues to him, "people of your appearance and
+LINE 16: of your merit never pay anything: are you not five feet five inches
+LINE 17: high?"
+LINE 18: "Yes, sir, that is my height," answered he, making a low bow.
+LINE 19: "Come, sir, seat yourself; not only will we pay your reckoning, but we
+LINE 20: will never suffer such a man as you to want money; men are only born to
+LINE 21: assist one another."
+LINE 22: "You are right," said Candide; "this is what I was always taught by Mr.
+LINE 23: Pangloss, and I see plainly that all is for the best."
+LINE 24: They begged of him to accept a few crowns. He took them, and wished to
+LINE 25: give them his note; they refused; they seated themselves at table.
+LINE 26: "Love you not deeply?"
+LINE 27: "Oh yes," answered he; "I deeply love Miss Cunegonde."
+LINE 28: "No," said one of the gentlemen, "we ask you if you do not deeply love
+LINE 29: the King of the Bulgarians?"
+LINE 30: "Not at all," said he; "for I have never seen him."
+LINE 31: "What! he is the best of kings, and we must drink his health."
+LINE 32: "Oh! very willingly, gentlemen," and he drank.
+LINE 33: "That is enough," they tell him. "Now you are the help, the support,
+LINE 34: the defender, the hero of the Bulgarians. Your fortune is made, and your
+LINE 35: glory is assured."
+LINE 36: Instantly they fettered him, and carried him away to the regiment. There
+LINE 37: he was made to wheel about to the right, and to the left, to draw his
+LINE 38: rammer, to return his rammer, to present, to fire, to march, and they
+LINE 39: gave him thirty blows with a cudgel. The next day he did his exercise a
+LINE 40: little less badly, and he received but twenty blows. The day following
+LINE 41: they gave him only ten, and he was regarded by his comrades as a
+LINE 42: prodigy.
+LINE 43: Candide, all stupefied, could not yet very well realise how he was a
+LINE 44: hero. He resolved one fine day in spring to go for a walk, marching
+LINE 45: straight before him, believing that it was a privilege of the human as
+LINE 46: well as of the animal species to make use of their legs as they pleased.
+LINE 47: He had advanced two leagues when he was overtaken by four others, heroes
+LINE 48: of six feet, who bound him and carried him to a dungeon. He was asked
+LINE 49: which he would like the best, to be whipped six-and-thirty times through
+LINE 50: all the regiment, or to receive at once twelve balls of lead in his
+LINE 51: brain. He vainly said that human will is free, and that he chose neither
+LINE 52: the one nor the other. He was forced to make a choice; he determined, in
+LINE 53: virtue of that gift of God called liberty, to run the gauntlet
+LINE 54: six-and-thirty times. He bore this twice. The regiment was composed of
+LINE 55: two thousand men; that composed for him four thousand strokes, which
+LINE 56: laid bare all his muscles and nerves, from the nape of his neck quite
+LINE 57: down to his rump. As they were going to proceed to a third whipping,
+LINE 58: Candide, able to bear no more, begged as a favour that they would be so
+LINE 59: good as to shoot him. He obtained this favour; they bandaged his eyes,
+LINE 60: and bade him kneel down. The King of the Bulgarians passed at this
+LINE 61: moment and ascertained the nature of the crime. As he had great talent,
+LINE 62: he understood from all that he learnt of Candide that he was a young
+LINE 63: metaphysician, extremely ignorant of the things of this world, and he
+LINE 64: accorded him his pardon with a clemency which will bring him praise in
+LINE 65: all the journals, and throughout all ages.
+LINE 66: An able surgeon cured Candide in three weeks by means of emollients
+LINE 67: taught by Dioscorides. He had already a little skin, and was able to
+LINE 68: march when the King of the Bulgarians gave battle to the King of the
+LINE 69: Abares.[2]

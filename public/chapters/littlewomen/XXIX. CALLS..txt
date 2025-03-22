@@ -1,0 +1,428 @@
+LINE 1: [Illustration: Calls]
+LINE 2: "Come, Jo, it's time."
+LINE 3: "For what?"
+LINE 4: "You don't mean to say you have forgotten that you promised to make half
+LINE 5: a dozen calls with me to-day?"
+LINE 6: "I've done a good many rash and foolish things in my life, but I don't
+LINE 7: think I ever was mad enough to say I'd make six calls in one day, when a
+LINE 8: single one upsets me for a week."
+LINE 9: "Yes, you did; it was a bargain between us. I was to finish the crayon
+LINE 10: of Beth for you, and you were to go properly with me, and return our
+LINE 11: neighbors' visits."
+LINE 12: "If it was fair--that was in the bond; and I stand to the letter of my
+LINE 13: bond, Shylock. There is a pile of clouds in the east; it's _not_ fair,
+LINE 14: and I don't go."
+LINE 15: "Now, that's shirking. It's a lovely day, no prospect of rain, and you
+LINE 16: pride yourself on keeping promises; so be honorable; come and do your
+LINE 17: duty, and then be at peace for another six months."
+LINE 18: At that minute Jo was particularly absorbed in dressmaking; for she was
+LINE 19: mantua-maker general to the family, and took especial credit to herself
+LINE 20: because she could use a needle as well as a pen. It was very provoking
+LINE 21: to be arrested in the act of a first trying-on, and ordered out to make
+LINE 22: calls in her best array, on a warm July day. She hated calls of the
+LINE 23: formal sort, and never made any till Amy compelled her with a bargain,
+LINE 24: bribe, or promise. In the present instance, there was no escape; and
+LINE 25: having clashed her scissors rebelliously, while protesting that she
+LINE 26: smelt thunder, she gave in, put away her work, and taking up her hat and
+LINE 27: gloves with an air of resignation, told Amy the victim was ready.
+LINE 28: "Jo March, you are perverse enough to provoke a saint! You don't intend
+LINE 29: to make calls in that state, I hope," cried Amy, surveying her with
+LINE 30: amazement.
+LINE 31: "Why not? I'm neat and cool and comfortable; quite proper for a dusty
+LINE 32: walk on a warm day. If people care more for my clothes than they do for
+LINE 33: me, I don't wish to see them. You can dress for both, and be as elegant
+LINE 34: as you please: it pays for you to be fine; it doesn't for me, and
+LINE 35: furbelows only worry me."
+LINE 36: "Oh dear!" sighed Amy; "now she's in a contrary fit, and will drive me
+LINE 37: distracted before I can get her properly ready. I'm sure it's no
+LINE 38: pleasure to me to go to-day, but it's a debt we owe society, and there's
+LINE 39: no one to pay it but you and me. I'll do anything for you, Jo, if you'll
+LINE 40: only dress yourself nicely, and come and help me do the civil. You can
+LINE 41: talk so well, look so aristocratic in your best things, and behave so
+LINE 42: beautifully, if you try, that I'm proud of you. I'm afraid to go alone;
+LINE 43: do come and take care of me."
+LINE 44: "You're an artful little puss to flatter and wheedle your cross old
+LINE 45: sister in that way. The idea of my being aristocratic and well-bred, and
+LINE 46: your being afraid to go anywhere alone! I don't know which is the most
+LINE 47: absurd. Well, I'll go if I must, and do my best. You shall be commander
+LINE 48: of the expedition, and I'll obey blindly; will that satisfy you?" said
+LINE 49: Jo, with a sudden change from perversity to lamb-like submission.
+LINE 50: "You're a perfect cherub! Now put on all your best things, and I'll tell
+LINE 51: you how to behave at each place, so that you will make a good
+LINE 52: impression. I want people to like you, and they would if you'd only try
+LINE 53: to be a little more agreeable. Do your hair the pretty way, and put the
+LINE 54: pink rose in your bonnet; it's becoming, and you look too sober in your
+LINE 55: plain suit. Take your light gloves and the embroidered handkerchief.
+LINE 56: We'll stop at Meg's, and borrow her white sunshade, and then you can
+LINE 57: have my dove-colored one."
+LINE 58: While Amy dressed, she issued her orders, and Jo obeyed them; not
+LINE 59: without entering her protest, however, for she sighed as she rustled
+LINE 60: into her new organdie, frowned darkly at herself as she tied her bonnet
+LINE 61: strings in an irreproachable bow, wrestled viciously with pins as she
+LINE 62: put on her collar, wrinkled up her features generally as she shook out
+LINE 63: the handkerchief, whose embroidery was as irritating to her nose as the
+LINE 64: present mission was to her feelings; and when she had squeezed her hands
+LINE 65: into tight gloves with three buttons and a tassel, as the last touch of
+LINE 66: elegance, she turned to Amy with an imbecile expression of countenance,
+LINE 67: saying meekly,--
+LINE 68: "I'm perfectly miserable; but if you consider me presentable, I die
+LINE 69: happy."
+LINE 70: "You are highly satisfactory; turn slowly round, and let me get a
+LINE 71: careful view." Jo revolved, and Amy gave a touch here and there, then
+LINE 72: fell back, with her head on one side, observing graciously, "Yes, you'll
+LINE 73: do; your head is all I could ask, for that white bonnet _with_ the rose
+LINE 74: is quite ravishing. Hold back your shoulders, and carry your hands
+LINE 75: easily, no matter if your gloves do pinch. There's one thing you can do
+LINE 76: well, Jo, that is, wear a shawl--I can't; but it's very nice to see you,
+LINE 77: and I'm so glad Aunt March gave you that lovely one; it's simple, but
+LINE 78: handsome, and those folds over the arm are really artistic. Is the point
+LINE 79: of my mantle in the middle, and have I looped my dress evenly? I like to
+LINE 80: show my boots, for my feet _are_ pretty, though my nose isn't."
+LINE 81: "You are a thing of beauty and a joy forever," said Jo, looking through
+LINE 82: her hand with the air of a connoisseur at the blue feather against the
+LINE 83: gold hair. "Am I to drag my best dress through the dust, or loop it up,
+LINE 84: please, ma'am?"
+LINE 85: "Hold it up when you walk, but drop it in the house; the sweeping style
+LINE 86: suits you best, and you must learn to trail your skirts gracefully. You
+LINE 87: haven't half buttoned one cuff; do it at once. You'll never look
+LINE 88: finished if you are not careful about the little details, for they make
+LINE 89: up the pleasing whole."
+LINE 90: Jo sighed, and proceeded to burst the buttons off her glove, in doing up
+LINE 91: her cuff; but at last both were ready, and sailed away, looking as
+LINE 92: "pretty as picters," Hannah said, as she hung out of the upper window to
+LINE 93: watch them.
+LINE 94: "Now, Jo dear, the Chesters consider themselves very elegant people, so
+LINE 95: I want you to put on your best deportment. Don't make any of your abrupt
+LINE 96: remarks, or do anything odd, will you? Just be calm, cool, and
+LINE 97: quiet,--that's safe and ladylike; and you can easily do it for fifteen
+LINE 98: minutes," said Amy, as they approached the first place, having borrowed
+LINE 99: the white parasol and been inspected by Meg, with a baby on each arm.
+LINE 100: "Let me see. 'Calm, cool, and quiet,'--yes, I think I can promise that.
+LINE 101: I've played the part of a prim young lady on the stage, and I'll try it
+LINE 102: off. My powers are great, as you shall see; so be easy in your mind, my
+LINE 103: child."
+LINE 104: Amy looked relieved, but naughty Jo took her at her word; for, during
+LINE 105: the first call, she sat with every limb gracefully composed, every fold
+LINE 106: correctly draped, calm as a summer sea, cool as a snow-bank, and as
+LINE 107: silent as a sphinx. In vain Mrs. Chester alluded to her "charming
+LINE 108: novel," and the Misses Chester introduced parties, picnics, the opera,
+LINE 109: and the fashions; each and all were answered by a smile, a bow, and a
+LINE 110: demure "Yes" or "No," with the chill on. In vain Amy telegraphed the
+LINE 111: word "Talk," tried to draw her out, and administered covert pokes with
+LINE 112: her foot. Jo sat as if blandly unconscious of it all, with deportment
+LINE 113: like Maud's face, "icily regular, splendidly null."
+LINE 114: "What a haughty, uninteresting creature that oldest Miss March is!" was
+LINE 115: the unfortunately audible remark of one of the ladies, as the door
+LINE 116: closed upon their guests. Jo laughed noiselessly all through the hall,
+LINE 117: but Amy looked disgusted at the failure of her instructions, and very
+LINE 118: naturally laid the blame upon Jo.
+LINE 119: "How could you mistake me so? I merely meant you to be properly
+LINE 120: dignified and composed, and you made yourself a perfect stock and
+LINE 121: stone. Try to be sociable at the Lambs', gossip as other girls do, and
+LINE 122: be interested in dress and flirtations and whatever nonsense comes up.
+LINE 123: They move in the best society, are valuable persons for us to know, and
+LINE 124: I wouldn't fail to make a good impression there for anything."
+LINE 125: "I'll be agreeable; I'll gossip and giggle, and have horrors and
+LINE 126: raptures over any trifle you like. I rather enjoy this, and now I'll
+LINE 127: imitate what is called 'a charming girl;' I can do it, for I have May
+LINE 128: Chester as a model, and I'll improve upon her. See if the Lambs don't
+LINE 129: say, 'What a lively, nice creature that Jo March is!'"
+LINE 130: Amy felt anxious, as well she might, for when Jo turned freakish there
+LINE 131: was no knowing where she would stop. Amy's face was a study when she saw
+LINE 132: her sister skim into the next drawing-room, kiss all the young ladies
+LINE 133: with effusion, beam graciously upon the young gentlemen, and join in the
+LINE 134: chat with a spirit which amazed the beholder. Amy was taken possession
+LINE 135: of by Mrs. Lamb, with whom she was a favorite, and forced to hear a long
+LINE 136: account of Lucretia's last attack, while three delightful young
+LINE 137: gentlemen hovered near, waiting for a pause when they might rush in and
+LINE 138: rescue her. So situated, she was powerless to check Jo, who seemed
+LINE 139: possessed by a spirit of mischief, and talked away as volubly as the old
+LINE 140: lady. A knot of heads gathered about her, and Amy strained her ears to
+LINE 141: hear what was going on; for broken sentences filled her with alarm,
+LINE 142: round eyes and uplifted hands tormented her with curiosity, and frequent
+LINE 143: peals of laughter made her wild to share the fun. One may imagine her
+LINE 144: suffering on overhearing fragments of this sort of conversation:--
+LINE 145: "She rides splendidly,--who taught her?"
+LINE 146: "No one; she used to practise mounting, holding the reins, and sitting
+LINE 147: straight on an old saddle in a tree. Now she rides anything, for she
+LINE 148: doesn't know what fear is, and the stable-man lets her have horses
+LINE 149: cheap, because she trains them to carry ladies so well. She has such a
+LINE 150: passion for it, I often tell her if everything else fails she can be a
+LINE 151: horse-breaker, and get her living so."
+LINE 152: At this awful speech Amy contained herself with difficulty, for the
+LINE 153: impression was being given that she was rather a fast young lady, which
+LINE 154: was her especial aversion. But what could she do? for the old lady was
+LINE 155: in the middle of her story, and long before it was done Jo was off
+LINE 156: again, making more droll revelations, and committing still more fearful
+LINE 157: blunders.
+LINE 158: "Yes, Amy was in despair that day, for all the good beasts were gone,
+LINE 159: and of three left, one was lame, one blind, and the other so balky that
+LINE 160: you had to put dirt in his mouth before he would start. Nice animal for
+LINE 161: a pleasure party, wasn't it?"
+LINE 162: "Which did she choose?" asked one of the laughing gentlemen, who enjoyed
+LINE 163: the subject.
+LINE 164: "None of them; she heard of a young horse at the farmhouse over the
+LINE 165: river, and, though a lady had never ridden him, she resolved to try,
+LINE 166: because he was handsome and spirited. Her struggles were really
+LINE 167: pathetic; there was no one to bring the horse to the saddle, so she took
+LINE 168: the saddle to the horse. My dear creature, she actually rowed it over
+LINE 169: the river, put it on her head, and marched up to the barn to the utter
+LINE 170: amazement of the old man!"
+LINE 171: [Illustration: She took the saddle to the horse]
+LINE 172: "Did she ride the horse?"
+LINE 173: "Of course she did, and had a capital time. I expected to see her
+LINE 174: brought home in fragments, but she managed him perfectly, and was the
+LINE 175: life of the party."
+LINE 176: "Well, I call that plucky!" and young Mr. Lamb turned an approving
+LINE 177: glance upon Amy, wondering what his mother could be saying to make the
+LINE 178: girl look so red and uncomfortable.
+LINE 179: She was still redder and more uncomfortable a moment after, when a
+LINE 180: sudden turn in the conversation introduced the subject of dress. One of
+LINE 181: the young ladies asked Jo where she got the pretty drab hat she wore to
+LINE 182: the picnic; and stupid Jo, instead of mentioning the place where it was
+LINE 183: bought two years ago, must needs answer, with unnecessary frankness,
+LINE 184: "Oh, Amy painted it; you can't buy those soft shades, so we paint ours
+LINE 185: any color we like. It's a great comfort to have an artistic sister."
+LINE 186: "Isn't that an original idea?" cried Miss Lamb, who found Jo great fun.
+LINE 187: "That's nothing compared to some of her brilliant performances. There's
+LINE 188: nothing the child can't do. Why, she wanted a pair of blue boots for
+LINE 189: Sallie's party, so she just painted her soiled white ones the loveliest
+LINE 190: shade of sky-blue you ever saw, and they looked exactly like satin,"
+LINE 191: added Jo, with an air of pride in her sister's accomplishments that
+LINE 192: exasperated Amy till she felt that it would be a relief to throw her
+LINE 193: card-case at her.
+LINE 194: "We read a story of yours the other day, and enjoyed it very much,"
+LINE 195: observed the elder Miss Lamb, wishing to compliment the literary lady,
+LINE 196: who did not look the character just then, it must be confessed.
+LINE 197: Any mention of her "works" always had a bad effect upon Jo, who either
+LINE 198: grew rigid and looked offended, or changed the subject with a _brusque_
+LINE 199: remark, as now. "Sorry you could find nothing better to read. I write
+LINE 200: that rubbish because it sells, and ordinary people like it. Are you
+LINE 201: going to New York this winter?"
+LINE 202: As Miss Lamb had "enjoyed" the story, this speech was not exactly
+LINE 203: grateful or complimentary. The minute it was made Jo saw her mistake;
+LINE 204: but, fearing to make the matter worse, suddenly remembered that it was
+LINE 205: for her to make the first move toward departure, and did so with an
+LINE 206: abruptness that left three people with half-finished sentences in their
+LINE 207: mouths.
+LINE 208: "Amy, we _must_ go. _Good_-by, dear; _do_ come and see us; we are
+LINE 209: _pining_ for a visit. I don't dare to ask _you_, Mr. Lamb; but if you
+LINE 210: _should_ come, I don't think I shall have the heart to send you away."
+LINE 211: Jo said this with such a droll imitation of May Chester's gushing style
+LINE 212: that Amy got out of the room as rapidly as possible, feeling a strong
+LINE 213: desire to laugh and cry at the same time.
+LINE 214: "Didn't I do that well?" asked Jo, with a satisfied air, as they walked
+LINE 215: away.
+LINE 216: "Nothing could have been worse," was Amy's crushing reply. "What
+LINE 217: possessed you to tell those stories about my saddle, and the hats and
+LINE 218: boots, and all the rest of it?"
+LINE 219: "Why, it's funny, and amuses people. They know we are poor, so it's no
+LINE 220: use pretending that we have grooms, buy three or four hats a season, and
+LINE 221: have things as easy and fine as they do."
+LINE 222: "You needn't go and tell them all our little shifts, and expose our
+LINE 223: poverty in that perfectly unnecessary way. You haven't a bit of proper
+LINE 224: pride, and never will learn when to hold your tongue and when to speak,"
+LINE 225: said Amy despairingly.
+LINE 226: Poor Jo looked abashed, and silently chafed the end of her nose with the
+LINE 227: stiff handkerchief, as if performing a penance for her misdemeanors.
+LINE 228: "How shall I behave here?" she asked, as they approached the third
+LINE 229: mansion.
+LINE 230: "Just as you please; I wash my hands of you," was Amy's short answer.
+LINE 231: "Then I'll enjoy myself. The boys are at home, and we'll have a
+LINE 232: comfortable time. Goodness knows I need a little change, for elegance
+LINE 233: has a bad effect upon my constitution," returned Jo gruffly, being
+LINE 234: disturbed by her failures to suit.
+LINE 235: An enthusiastic welcome from three big boys and several pretty children
+LINE 236: speedily soothed her ruffled feelings; and, leaving Amy to entertain the
+LINE 237: hostess and Mr. Tudor, who happened to be calling likewise, Jo devoted
+LINE 238: herself to the young folks, and found the change refreshing. She
+LINE 239: listened to college stories with deep interest, caressed pointers and
+LINE 240: poodles without a murmur, agreed heartily that "Tom Brown was a brick,"
+LINE 241: regardless of the improper form of praise; and when one lad proposed a
+LINE 242: visit to his turtle-tank, she went with an alacrity which caused mamma
+LINE 243: to smile upon her, as that motherly lady settled the cap which was left
+LINE 244: in a ruinous condition by filial hugs, bear-like but affectionate, and
+LINE 245: dearer to her than the most faultless _coiffure_ from the hands of an
+LINE 246: inspired Frenchwoman.
+LINE 247: Leaving her sister to her own devices, Amy proceeded to enjoy herself to
+LINE 248: her heart's content. Mr. Tudor's uncle had married an English lady who
+LINE 249: was third cousin to a living lord, and Amy regarded the whole family
+LINE 250: with great respect; for, in spite of her American birth and breeding,
+LINE 251: she possessed that reverence for titles which haunts the best of
+LINE 252: us,--that unacknowledged loyalty to the early faith in kings which set
+LINE 253: the most democratic nation under the sun in a ferment at the coming of a
+LINE 254: royal yellow-haired laddie, some years ago, and which still has
+LINE 255: something to do with the love the young country bears the old, like that
+LINE 256: of a big son for an imperious little mother, who held him while she
+LINE 257: could, and let him go with a farewell scolding when he rebelled. But
+LINE 258: even the satisfaction of talking with a distant connection of the
+LINE 259: British nobility did not render Amy forgetful of time; and when the
+LINE 260: proper number of minutes had passed, she reluctantly tore herself from
+LINE 261: this aristocratic society, and looked about for Jo, fervently hoping
+LINE 262: that her incorrigible sister would not be found in any position which
+LINE 263: should bring disgrace upon the name of March.
+LINE 264: [Illustration: It might have been worse]
+LINE 265: It might have been worse, but Amy considered it bad; for Jo sat on the
+LINE 266: grass, with an encampment of boys about her, and a dirty-footed dog
+LINE 267: reposing on the skirt of her state and festival dress, as she related
+LINE 268: one of Laurie's pranks to her admiring audience. One small child was
+LINE 269: poking turtles with Amy's cherished parasol, a second was eating
+LINE 270: gingerbread over Jo's best bonnet, and a third playing ball with her
+LINE 271: gloves. But all were enjoying themselves; and when Jo collected her
+LINE 272: damaged property to go, her escort accompanied her, begging her to come
+LINE 273: again, "it was such fun to hear about Laurie's larks."
+LINE 274: "Capital boys, aren't they? I feel quite young and brisk again after
+LINE 275: that," said Jo, strolling along with her hands behind her, partly from
+LINE 276: habit, partly to conceal the bespattered parasol.
+LINE 277: "Why do you always avoid Mr. Tudor?" asked Amy, wisely refraining from
+LINE 278: any comment upon Jo's dilapidated appearance.
+LINE 279: "Don't like him; he puts on airs, snubs his sisters, worries his father,
+LINE 280: and doesn't speak respectfully of his mother. Laurie says he is fast,
+LINE 281: and _I_ don't consider him a desirable acquaintance; so I let him
+LINE 282: alone."
+LINE 283: "You might treat him civilly, at least. You gave him a cool nod; and
+LINE 284: just now you bowed and smiled in the politest way to Tommy Chamberlain,
+LINE 285: whose father keeps a grocery store. If you had just reversed the nod and
+LINE 286: the bow, it would have been right," said Amy reprovingly.
+LINE 287: "No, it wouldn't," returned perverse Jo; "I neither like, respect, nor
+LINE 288: admire Tudor, though his grandfather's uncle's nephew's niece _was_
+LINE 289: third cousin to a lord. Tommy is poor and bashful and good and very
+LINE 290: clever; I think well of him, and like to show that I do, for he _is_ a
+LINE 291: gentleman in spite of the brown-paper parcels."
+LINE 292: "It's no use trying to argue with you," began Amy.
+LINE 293: "Not the least, my dear," interrupted Jo; "so let us look amiable, and
+LINE 294: drop a card here, as the Kings are evidently out, for which I'm deeply
+LINE 295: grateful."
+LINE 296: The family card-case having done its duty, the girls walked on, and Jo
+LINE 297: uttered another thanksgiving on reaching the fifth house, and being told
+LINE 298: that the young ladies were engaged.
+LINE 299: "Now let us go home, and never mind Aunt March to-day. We can run down
+LINE 300: there any time, and it's really a pity to trail through the dust in our
+LINE 301: best bibs and tuckers, when we are tired and cross."
+LINE 302: "Speak for yourself, if you please. Aunt likes to have us pay her the
+LINE 303: compliment of coming in style, and making a formal call; it's a little
+LINE 304: thing to do, but it gives her pleasure, and I don't believe it will hurt
+LINE 305: your things half so much as letting dirty dogs and clumping boys spoil
+LINE 306: them. Stoop down, and let me take the crumbs off of your bonnet."
+LINE 307: "What a good girl you are, Amy!" said Jo, with a repentant glance from
+LINE 308: her own damaged costume to that of her sister, which was fresh and
+LINE 309: spotless still. "I wish it was as easy for me to do little things to
+LINE 310: please people as it is for you. I think of them, but it takes too much
+LINE 311: time to do them; so I wait for a chance to confer a great favor, and let
+LINE 312: the small ones slip; but they tell best in the end, I fancy."
+LINE 313: Amy smiled, and was mollified at once, saying with a maternal air,--
+LINE 314: "Women should learn to be agreeable, particularly poor ones; for they
+LINE 315: have no other way of repaying the kindnesses they receive. If you'd
+LINE 316: remember that, and practise it, you'd be better liked than I am, because
+LINE 317: there is more of you."
+LINE 318: "I'm a crotchety old thing, and always shall be, but I'm willing to own
+LINE 319: that you are right; only it's easier for me to risk my life for a person
+LINE 320: than to be pleasant to him when I don't feel like it. It's a great
+LINE 321: misfortune to have such strong likes and dislikes, isn't it?"
+LINE 322: "It's a greater not to be able to hide them. I don't mind saying that I
+LINE 323: don't approve of Tudor any more than you do; but I'm not called upon to
+LINE 324: tell him so; neither are you, and there is no use in making yourself
+LINE 325: disagreeable because he is."
+LINE 326: "But I think girls ought to show when they disapprove of young men; and
+LINE 327: how can they do it except by their manners? Preaching does not do any
+LINE 328: good, as I know to my sorrow, since I've had Teddy to manage; but there
+LINE 329: are many little ways in which I can influence him without a word, and I
+LINE 330: say we _ought_ to do it to others if we can."
+LINE 331: "Teddy is a remarkable boy, and can't be taken as a sample of other
+LINE 332: boys," said Amy, in a tone of solemn conviction, which would have
+LINE 333: convulsed the "remarkable boy," if he had heard it. "If we were belles,
+LINE 334: or women of wealth and position, we might do something, perhaps; but for
+LINE 335: us to frown at one set of young gentlemen because we don't approve of
+LINE 336: them, and smile upon another set because we do, wouldn't have a particle
+LINE 337: of effect, and we should only be considered odd and puritanical."
+LINE 338: "So we are to countenance things and people which we detest, merely
+LINE 339: because we are not belles and millionaires, are we? That's a nice sort
+LINE 340: of morality."
+LINE 341: "I can't argue about it, I only know that it's the way of the world; and
+LINE 342: people who set themselves against it only get laughed at for their
+LINE 343: pains. I don't like reformers, and I hope you will never try to be one."
+LINE 344: "I do like them, and I shall be one if I can; for in spite of the
+LINE 345: laughing, the world would never get on without them. We can't agree
+LINE 346: about that, for you belong to the old set, and I to the new: you will
+LINE 347: get on the best, but I shall have the liveliest time of it. I should
+LINE 348: rather enjoy the brickbats and hooting, I think."
+LINE 349: "Well, compose yourself now, and don't worry aunt with your new ideas."
+LINE 350: "I'll try not to, but I'm always possessed to burst out with some
+LINE 351: particularly blunt speech or revolutionary sentiment before her; it's my
+LINE 352: doom, and I can't help it."
+LINE 353: They found Aunt Carrol with the old lady, both absorbed in some very
+LINE 354: interesting subject; but they dropped it as the girls came in, with a
+LINE 355: conscious look which betrayed that they had been talking about their
+LINE 356: nieces. Jo was not in a good humor, and the perverse fit returned; but
+LINE 357: Amy, who had virtuously done her duty, kept her temper, and pleased
+LINE 358: everybody, was in a most angelic frame of mind. This amiable spirit was
+LINE 359: felt at once, and both the aunts "my deared" her affectionately, looking
+LINE 360: what they afterwards said emphatically,--"That child improves every
+LINE 361: day."
+LINE 362: "Are you going to help about the fair, dear?" asked Mrs. Carrol, as Amy
+LINE 363: sat down beside her with the confiding air elderly people like so well
+LINE 364: in the young.
+LINE 365: "Yes, aunt. Mrs. Chester asked me if I would, and I offered to tend a
+LINE 366: table, as I have nothing but my time to give."
+LINE 367: "I'm not," put in Jo decidedly. "I hate to be patronized, and the
+LINE 368: Chesters think it's a great favor to allow us to help with their highly
+LINE 369: connected fair. I wonder you consented, Amy: they only want you to
+LINE 370: work."
+LINE 371: "I am willing to work: it's for the freedmen as well as the Chesters,
+LINE 372: and I think it very kind of them to let me share the labor and the fun.
+LINE 373: Patronage does not trouble me when it is well meant."
+LINE 374: "Quite right and proper. I like your grateful spirit, my dear; it's a
+LINE 375: pleasure to help people who appreciate our efforts: some do not, and
+LINE 376: that is trying," observed Aunt March, looking over her spectacles at Jo,
+LINE 377: who sat apart, rocking herself, with a somewhat morose expression.
+LINE 378: [Illustration: The call at Aunt March's]
+LINE 379: If Jo had only known what a great happiness was wavering in the balance
+LINE 380: for one of them, she would have turned dovelike in a minute; but,
+LINE 381: unfortunately, we don't have windows in our breasts, and cannot see what
+LINE 382: goes on in the minds of our friends; better for us that we cannot as a
+LINE 383: general thing, but now and then it would be such a comfort, such a
+LINE 384: saving of time and temper. By her next speech, Jo deprived herself of
+LINE 385: several years of pleasure, and received a timely lesson in the art of
+LINE 386: holding her tongue.
+LINE 387: "I don't like favors; they oppress and make me feel like a slave. I'd
+LINE 388: rather do everything for myself, and be perfectly independent."
+LINE 389: "Ahem!" coughed Aunt Carrol softly, with a look at Aunt March.
+LINE 390: "I told you so," said Aunt March, with a decided nod to Aunt Carrol.
+LINE 391: Mercifully unconscious of what she had done, Jo sat with her nose in the
+LINE 392: air, and a revolutionary aspect which was anything but inviting.
+LINE 393: "Do you speak French, dear?" asked Mrs. Carrol, laying her hand on
+LINE 394: Amy's.
+LINE 395: "Pretty well, thanks to Aunt March, who lets Esther talk to me as often
+LINE 396: as I like," replied Amy, with a grateful look, which caused the old lady
+LINE 397: to smile affably.
+LINE 398: "How are you about languages?" asked Mrs. Carrol of Jo.
+LINE 399: "Don't know a word; I'm very stupid about studying anything; can't bear
+LINE 400: French, it's such a slippery, silly sort of language," was the _brusque_
+LINE 401: reply.
+LINE 402: Another look passed between the ladies, and Aunt March said to Amy, "You
+LINE 403: are quite strong and well, now, dear, I believe? Eyes don't trouble you
+LINE 404: any more, do they?"
+LINE 405: "Not at all, thank you, ma'am. I'm very well, and mean to do great
+LINE 406: things next winter, so that I may be ready for Rome, whenever that
+LINE 407: joyful time arrives."
+LINE 408: "Good girl! You deserve to go, and I'm sure you will some day," said
+LINE 409: Aunt March, with an approving pat on the head, as Amy picked up her ball
+LINE 410: for her.
+LINE 411: "Cross-patch, draw the latch,
+LINE 412: Sit by the fire and spin,"
+LINE 413: squalled Polly, bending down from his perch on the back of her chair to
+LINE 414: peep into Jo's face, with such a comical air of impertinent inquiry that
+LINE 415: it was impossible to help laughing.
+LINE 416: "Most observing bird," said the old lady.
+LINE 417: "Come and take a walk, my dear?" cried Polly, hopping toward the
+LINE 418: china-closet, with a look suggestive of lump-sugar.
+LINE 419: "Thank you, I will. Come, Amy;" and Jo brought the visit to an end,
+LINE 420: feeling more strongly than ever that calls did have a bad effect upon
+LINE 421: her constitution. She shook hands in a gentlemanly manner, but Amy
+LINE 422: kissed both the aunts, and the girls departed, leaving behind them the
+LINE 423: impression of shadow and sunshine; which impression caused Aunt March to
+LINE 424: say, as they vanished,--
+LINE 425: "You'd better do it, Mary; I'll supply the money," and Aunt Carrol to
+LINE 426: reply decidedly, "I certainly will, if her father and mother consent."
+LINE 427: [Illustration: Tail-piece]
+LINE 428: [Illustration: You shall have another table]

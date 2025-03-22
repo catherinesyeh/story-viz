@@ -1,0 +1,240 @@
+LINE 1: MARILLA went to town the next day and returned in the evening. Anne had
+LINE 2: gone over to Orchard Slope with Diana and came back to find Marilla in
+LINE 3: the kitchen, sitting by the table with her head leaning on her hand.
+LINE 4: Something in her dejected attitude struck a chill to Anne's heart. She
+LINE 5: had never seen Marilla sit limply inert like that.
+LINE 6: "Are you very tired, Marilla?"
+LINE 7: "Yes--no--I don't know," said Marilla wearily, looking up. "I suppose I
+LINE 8: am tired but I haven't thought about it. It's not that."
+LINE 9: "Did you see the oculist? What did he say?" asked Anne anxiously.
+LINE 10: "Yes, I saw him. He examined my eyes. He says that if I give up all
+LINE 11: reading and sewing entirely and any kind of work that strains the eyes,
+LINE 12: and if I'm careful not to cry, and if I wear the glasses he's given me
+LINE 13: he thinks my eyes may not get any worse and my headaches will be cured.
+LINE 14: But if I don't he says I'll certainly be stone-blind in six months.
+LINE 15: Blind! Anne, just think of it!"
+LINE 16: For a minute Anne, after her first quick exclamation of dismay, was
+LINE 17: silent. It seemed to her that she could _not_ speak. Then she said
+LINE 18: bravely, but with a catch in her voice:
+LINE 19: "Marilla, _don't_ think of it. You know he has given you hope. If you are
+LINE 20: careful you won't lose your sight altogether; and if his glasses cure
+LINE 21: your headaches it will be a great thing."
+LINE 22: "I don't call it much hope," said Marilla bitterly. "What am I to live
+LINE 23: for if I can't read or sew or do anything like that? I might as well
+LINE 24: be blind--or dead. And as for crying, I can't help that when I get
+LINE 25: lonesome. But there, it's no good talking about it. If you'll get me
+LINE 26: a cup of tea I'll be thankful. I'm about done out. Don't say anything
+LINE 27: about this to any one for a spell yet, anyway. I can't bear that folks
+LINE 28: should come here to question and sympathize and talk about it."
+LINE 29: When Marilla had eaten her lunch Anne persuaded her to go to bed. Then
+LINE 30: Anne went herself to the east gable and sat down by her window in the
+LINE 31: darkness alone with her tears and her heaviness of heart. How sadly
+LINE 32: things had changed since she had sat there the night after coming home!
+LINE 33: Then she had been full of hope and joy and the future had looked rosy
+LINE 34: with promise. Anne felt as if she had lived years since then, but before
+LINE 35: she went to bed there was a smile on her lips and peace in her heart.
+LINE 36: She had looked her duty courageously in the face and found it a
+LINE 37: friend--as duty ever is when we meet it frankly.
+LINE 38: One afternoon a few days later Marilla came slowly in from the front
+LINE 39: yard where she had been talking to a caller--a man whom Anne knew by
+LINE 40: sight as Sadler from Carmody. Anne wondered what he could have been
+LINE 41: saying to bring that look to Marilla's face.
+LINE 42: "What did Mr. Sadler want, Marilla?"
+LINE 43: Marilla sat down by the window and looked at Anne. There were tears in
+LINE 44: her eyes in defiance of the oculist's prohibition and her voice broke as
+LINE 45: she said:
+LINE 46: "He heard that I was going to sell Green Gables and he wants to buy it."
+LINE 47: "Buy it! Buy Green Gables?" Anne wondered if she had heard aright. "Oh,
+LINE 48: Marilla, you don't mean to sell Green Gables!"
+LINE 49: "Anne, I don't know what else is to be done. I've thought it all over.
+LINE 50: If my eyes were strong I could stay here and make out to look after
+LINE 51: things and manage, with a good hired man. But as it is I can't. I may
+LINE 52: lose my sight altogether; and anyway I'll not be fit to run things. Oh,
+LINE 53: I never thought I'd live to see the day when I'd have to sell my home.
+LINE 54: But things would only go behind worse and worse all the time, till
+LINE 55: nobody would want to buy it. Every cent of our money went in that bank;
+LINE 56: and there's some notes Matthew gave last fall to pay. Mrs. Lynde advises
+LINE 57: me to sell the farm and board somewhere--with her I suppose. It won't
+LINE 58: bring much--it's small and the buildings are old. But it'll be enough
+LINE 59: for me to live on I reckon. I'm thankful you're provided for with that
+LINE 60: scholarship, Anne. I'm sorry you won't have a home to come to in your
+LINE 61: vacations, that's all, but I suppose you'll manage somehow."
+LINE 62: Marilla broke down and wept bitterly.
+LINE 63: "You mustn't sell Green Gables," said Anne resolutely.
+LINE 64: "Oh, Anne, I wish I didn't have to. But you can see for yourself. I
+LINE 65: can't stay here alone. I'd go crazy with trouble and loneliness. And my
+LINE 66: sight would go--I know it would."
+LINE 67: "You won't have to stay here alone, Marilla. I'll be with you. I'm not
+LINE 68: going to Redmond."
+LINE 69: "Not going to Redmond!" Marilla lifted her worn face from her hands and
+LINE 70: looked at Anne. "Why, what do you mean?"
+LINE 71: "Just what I say. I'm not going to take the scholarship. I decided so
+LINE 72: the night after you came home from town. You surely don't think I could
+LINE 73: leave you alone in your trouble, Marilla, after all you've done for me.
+LINE 74: I've been thinking and planning. Let me tell you my plans. Mr. Barry
+LINE 75: wants to rent the farm for next year. So you won't have any bother over
+LINE 76: that. And I'm going to teach. I've applied for the school here--but I
+LINE 77: don't expect to get it for I understand the trustees have promised it to
+LINE 78: Gilbert Blythe. But I can have the Carmody school--Mr. Blair told me
+LINE 79: so last night at the store. Of course that won't be quite as nice or
+LINE 80: convenient as if I had the Avonlea school. But I can board home and
+LINE 81: drive myself over to Carmody and back, in the warm weather at least. And
+LINE 82: even in winter I can come home Fridays. We'll keep a horse for that. Oh,
+LINE 83: I have it all planned out, Marilla. And I'll read to you and keep you
+LINE 84: cheered up. You sha'n't be dull or lonesome. And we'll be real cozy and
+LINE 85: happy here together, you and I."
+LINE 86: Marilla had listened like a woman in a dream.
+LINE 87: "Oh, Anne, I could get on real well if you were here, I know. But I
+LINE 88: can't let you sacrifice yourself so for me. It would be terrible."
+LINE 89: "Nonsense!" Anne laughed merrily. "There is no sacrifice. Nothing could
+LINE 90: be worse than giving up Green Gables--nothing could hurt me more. We
+LINE 91: must keep the dear old place. My mind is quite made up, Marilla. I'm _not_
+LINE 92: going to Redmond; and I _am_ going to stay here and teach. Don't you worry
+LINE 93: about me a bit."
+LINE 94: "But your ambitions--and--"
+LINE 95: "I'm just as ambitious as ever. Only, I've changed the object of my
+LINE 96: ambitions. I'm going to be a good teacher--and I'm going to save your
+LINE 97: eyesight. Besides, I mean to study at home here and take a little
+LINE 98: college course all by myself. Oh, I've dozens of plans, Marilla. I've
+LINE 99: been thinking them out for a week. I shall give life here my best, and
+LINE 100: I believe it will give its best to me in return. When I left Queen's my
+LINE 101: future seemed to stretch out before me like a straight road. I thought
+LINE 102: I could see along it for many a milestone. Now there is a bend in it. I
+LINE 103: don't know what lies around the bend, but I'm going to believe that the
+LINE 104: best does. It has a fascination of its own, that bend, Marilla. I wonder
+LINE 105: how the road beyond it goes--what there is of green glory and
+LINE 106: soft, checkered light and shadows--what new landscapes--what new
+LINE 107: beauties--what curves and hills and valleys further on."
+LINE 108: "I don't feel as if I ought to let you give it up," said Marilla,
+LINE 109: referring to the scholarship.
+LINE 110: "But you can't prevent me. I'm sixteen and a half, 'obstinate as a
+LINE 111: mule,' as Mrs. Lynde once told me," laughed Anne. "Oh, Marilla, don't
+LINE 112: you go pitying me. I don't like to be pitied, and there is no need
+LINE 113: for it. I'm heart glad over the very thought of staying at dear Green
+LINE 114: Gables. Nobody could love it as you and I do--so we must keep it."
+LINE 115: "You blessed girl!" said Marilla, yielding. "I feel as if you'd given me
+LINE 116: new life. I guess I ought to stick out and make you go to college--but
+LINE 117: I know I can't, so I ain't going to try. I'll make it up to you though,
+LINE 118: Anne."
+LINE 119: When it became noised abroad in Avonlea that Anne Shirley had given up
+LINE 120: the idea of going to college and intended to stay home and teach there
+LINE 121: was a good deal of discussion over it. Most of the good folks, not
+LINE 122: knowing about Marilla's eyes, thought she was foolish. Mrs. Allan did
+LINE 123: not. She told Anne so in approving words that brought tears of pleasure
+LINE 124: to the girl's eyes. Neither did good Mrs. Lynde. She came up one evening
+LINE 125: and found Anne and Marilla sitting at the front door in the warm,
+LINE 126: scented summer dusk. They liked to sit there when the twilight came down
+LINE 127: and the white moths flew about in the garden and the odor of mint filled
+LINE 128: the dewy air.
+LINE 129: Mrs. Rachel deposited her substantial person upon the stone bench by the
+LINE 130: door, behind which grew a row of tall pink and yellow hollyhocks, with a
+LINE 131: long breath of mingled weariness and relief.
+LINE 132: "I declare I'm getting glad to sit down. I've been on my feet all day,
+LINE 133: and two hundred pounds is a good bit for two feet to carry round. It's
+LINE 134: a great blessing not to be fat, Marilla. I hope you appreciate it. Well,
+LINE 135: Anne, I hear you've given up your notion of going to college. I was
+LINE 136: real glad to hear it. You've got as much education now as a woman can be
+LINE 137: comfortable with. I don't believe in girls going to college with the men
+LINE 138: and cramming their heads full of Latin and Greek and all that nonsense."
+LINE 139: "But I'm going to study Latin and Greek just the same, Mrs. Lynde," said
+LINE 140: Anne laughing. "I'm going to take my Arts course right here at Green
+LINE 141: Gables, and study everything that I would at college."
+LINE 142: Mrs. Lynde lifted her hands in holy horror.
+LINE 143: "Anne Shirley, you'll kill yourself."
+LINE 144: "Not a bit of it. I shall thrive on it. Oh, I'm not going to overdo
+LINE 145: things. As 'Josiah Allen's wife,' says, I shall be 'mejum'. But I'll
+LINE 146: have lots of spare time in the long winter evenings, and I've no
+LINE 147: vocation for fancy work. I'm going to teach over at Carmody, you know."
+LINE 148: "I don't know it. I guess you're going to teach right here in Avonlea.
+LINE 149: The trustees have decided to give you the school."
+LINE 150: "Mrs. Lynde!" cried Anne, springing to her feet in her surprise. "Why, I
+LINE 151: thought they had promised it to Gilbert Blythe!"
+LINE 152: "So they did. But as soon as Gilbert heard that you had applied for it
+LINE 153: he went to them--they had a business meeting at the school last night,
+LINE 154: you know--and told them that he withdrew his application, and suggested
+LINE 155: that they accept yours. He said he was going to teach at White Sands. Of
+LINE 156: course he knew how much you wanted to stay with Marilla, and I must
+LINE 157: say I think it was real kind and thoughtful in him, that's what. Real
+LINE 158: self-sacrificing, too, for he'll have his board to pay at White Sands,
+LINE 159: and everybody knows he's got to earn his own way through college. So the
+LINE 160: trustees decided to take you. I was tickled to death when Thomas came
+LINE 161: home and told me."
+LINE 162: "I don't feel that I ought to take it," murmured Anne. "I mean--I don't
+LINE 163: think I ought to let Gilbert make such a sacrifice for--for me."
+LINE 164: "I guess you can't prevent him now. He's signed papers with the White
+LINE 165: Sands trustees. So it wouldn't do him any good now if you were to
+LINE 166: refuse. Of course you'll take the school. You'll get along all right,
+LINE 167: now that there are no Pyes going. Josie was the last of them, and a
+LINE 168: good thing she was, that's what. There's been some Pye or other going to
+LINE 169: Avonlea school for the last twenty years, and I guess their mission in
+LINE 170: life was to keep school teachers reminded that earth isn't their home.
+LINE 171: Bless my heart! What does all that winking and blinking at the Barry
+LINE 172: gable mean?"
+LINE 173: "Diana is signaling for me to go over," laughed Anne. "You know we keep
+LINE 174: up the old custom. Excuse me while I run over and see what she wants."
+LINE 175: Anne ran down the clover slope like a deer, and disappeared in the firry
+LINE 176: shadows of the Haunted Wood. Mrs. Lynde looked after her indulgently.
+LINE 177: "There's a good deal of the child about her yet in some ways."
+LINE 178: "There's a good deal more of the woman about her in others," retorted
+LINE 179: Marilla, with a momentary return of her old crispness.
+LINE 180: But crispness was no longer Marilla's distinguishing characteristic. As
+LINE 181: Mrs. Lynde told her Thomas that night.
+LINE 182: "Marilla Cuthbert has got _mellow_. That's what."
+LINE 183: Anne went to the little Avonlea graveyard the next evening to put fresh
+LINE 184: flowers on Matthew's grave and water the Scotch rosebush. She lingered
+LINE 185: there until dusk, liking the peace and calm of the little place,
+LINE 186: with its poplars whose rustle was like low, friendly speech, and its
+LINE 187: whispering grasses growing at will among the graves. When she finally
+LINE 188: left it and walked down the long hill that sloped to the Lake of Shining
+LINE 189: Waters it was past sunset and all Avonlea lay before her in a dreamlike
+LINE 190: afterlight--"a haunt of ancient peace." There was a freshness in the
+LINE 191: air as of a wind that had blown over honey-sweet fields of clover. Home
+LINE 192: lights twinkled out here and there among the homestead trees. Beyond lay
+LINE 193: the sea, misty and purple, with its haunting, unceasing murmur. The west
+LINE 194: was a glory of soft mingled hues, and the pond reflected them all in
+LINE 195: still softer shadings. The beauty of it all thrilled Anne's heart, and
+LINE 196: she gratefully opened the gates of her soul to it.
+LINE 197: "Dear old world," she murmured, "you are very lovely, and I am glad to
+LINE 198: be alive in you."
+LINE 199: Halfway down the hill a tall lad came whistling out of a gate before the
+LINE 200: Blythe homestead. It was Gilbert, and the whistle died on his lips as he
+LINE 201: recognized Anne. He lifted his cap courteously, but he would have passed
+LINE 202: on in silence, if Anne had not stopped and held out her hand.
+LINE 203: "Gilbert," she said, with scarlet cheeks, "I want to thank you for
+LINE 204: giving up the school for me. It was very good of you--and I want you to
+LINE 205: know that I appreciate it."
+LINE 206: Gilbert took the offered hand eagerly.
+LINE 207: "It wasn't particularly good of me at all, Anne. I was pleased to be
+LINE 208: able to do you some small service. Are we going to be friends after
+LINE 209: this? Have you really forgiven me my old fault?"
+LINE 210: Anne laughed and tried unsuccessfully to withdraw her hand.
+LINE 211: "I forgave you that day by the pond landing, although I didn't know
+LINE 212: it. What a stubborn little goose I was. I've been--I may as well make a
+LINE 213: complete confession--I've been sorry ever since."
+LINE 214: "We are going to be the best of friends," said Gilbert, jubilantly. "We
+LINE 215: were born to be good friends, Anne. You've thwarted destiny enough. I
+LINE 216: know we can help each other in many ways. You are going to keep up your
+LINE 217: studies, aren't you? So am I. Come, I'm going to walk home with you."
+LINE 218: Marilla looked curiously at Anne when the latter entered the kitchen.
+LINE 219: "Who was that came up the lane with you, Anne?"
+LINE 220: "Gilbert Blythe," answered Anne, vexed to find herself blushing. "I met
+LINE 221: him on Barry's hill."
+LINE 222: "I didn't think you and Gilbert Blythe were such good friends that you'd
+LINE 223: stand for half an hour at the gate talking to him," said Marilla with a
+LINE 224: dry smile.
+LINE 225: "We haven't been--we've been good enemies. But we have decided that it
+LINE 226: will be much more sensible to be good friends in the future. Were we
+LINE 227: really there half an hour? It seemed just a few minutes. But, you see,
+LINE 228: we have five years' lost conversations to catch up with, Marilla."
+LINE 229: Anne sat long at her window that night companioned by a glad content.
+LINE 230: The wind purred softly in the cherry boughs, and the mint breaths came
+LINE 231: up to her. The stars twinkled over the pointed firs in the hollow and
+LINE 232: Diana's light gleamed through the old gap.
+LINE 233: Anne's horizons had closed in since the night she had sat there after
+LINE 234: coming home from Queen's; but if the path set before her feet was to be
+LINE 235: narrow she knew that flowers of quiet happiness would bloom along it.
+LINE 236: The joy of sincere work and worthy aspiration and congenial friendship
+LINE 237: were to be hers; nothing could rob her of her birthright of fancy or her
+LINE 238: ideal world of dreams. And there was always the bend in the road!
+LINE 239: "'God's in his heaven, all's right with the world,'" whispered Anne
+LINE 240: softly.

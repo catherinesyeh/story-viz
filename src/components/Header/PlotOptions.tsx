@@ -164,7 +164,23 @@ function PlotOptions() {
     "marrow-new",
     "marrow-new-themes",
 
-    "牡丹亭-new",
+    "littlewomen-new",
+    "littlewomen-new-themes",
+
+    "janeeyre-new",
+    "janeeyre-new-themes",
+
+    "pygmalion-new",
+    "pygmalion-new-themes",
+
+    "school-new",
+    "school-new-themes",
+
+    "tenant-new",
+    "tenant-new-themes",
+
+    "candide-new",
+    "candide-new-themes",
   ].sort();
 
   const storyOptionsDisplay = storyOptions.filter(
@@ -497,6 +513,7 @@ function PlotOptions() {
             onChange={(value) => {
               if (value) setStory(value);
             }}
+            searchable
           />
 
           <div style={{ position: "relative" }}>
@@ -529,6 +546,7 @@ function PlotOptions() {
               onChange={(value) => {
                 if (value) setYAxis(value);
               }}
+              searchable
             />
           </div>
 

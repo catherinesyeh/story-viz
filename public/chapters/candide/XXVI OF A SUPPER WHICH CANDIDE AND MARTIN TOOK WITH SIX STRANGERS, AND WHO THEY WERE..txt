@@ -1,0 +1,100 @@
+LINE 1: One evening that Candide and Martin were going to sit down to supper
+LINE 2: with some foreigners who lodged in the same inn, a man whose complexion
+LINE 3: was as black as soot, came behind Candide, and taking him by the arm,
+LINE 4: said:
+LINE 5: "Get yourself ready to go along with us; do not fail."
+LINE 6: Upon this he turned round and saw--Cacambo! Nothing but the sight of
+LINE 7: Cunegonde could have astonished and delighted him more. He was on the
+LINE 8: point of going mad with joy. He embraced his dear friend.
+LINE 9: "Cunegonde is here, without doubt; where is she? Take me to her that I
+LINE 10: may die of joy in her company."
+LINE 11: "Cunegonde is not here," said Cacambo, "she is at Constantinople."
+LINE 12: "Oh, heavens! at Constantinople! But were she in China I would fly
+LINE 13: thither; let us be off."
+LINE 14: "We shall set out after supper," replied Cacambo. "I can tell you
+LINE 15: nothing more; I am a slave, my master awaits me, I must serve him at
+LINE 16: table; speak not a word, eat, and then get ready."
+LINE 17: Candide, distracted between joy and grief, delighted at seeing his
+LINE 18: faithful agent again, astonished at finding him a slave, filled with the
+LINE 19: fresh hope of recovering his mistress, his heart palpitating, his
+LINE 20: understanding confused, sat down to table with Martin, who saw all these
+LINE 21: scenes quite unconcerned, and with six strangers who had come to spend
+LINE 22: the Carnival at Venice.
+LINE 23: Cacambo waited at table upon one of the strangers; towards the end of
+LINE 24: the entertainment he drew near his master, and whispered in his ear:
+LINE 25: "Sire, your Majesty may start when you please, the vessel is ready."
+LINE 26: On saying these words he went out. The company in great surprise looked
+LINE 27: at one another without speaking a word, when another domestic approached
+LINE 28: his master and said to him:
+LINE 29: "Sire, your Majesty's chaise is at Padua, and the boat is ready."
+LINE 30: The master gave a nod and the servant went away. The company all stared
+LINE 31: at one another again, and their surprise redoubled. A third valet came
+LINE 32: up to a third stranger, saying:
+LINE 33: "Sire, believe me, your Majesty ought not to stay here any longer. I am
+LINE 34: going to get everything ready."
+LINE 35: And immediately he disappeared. Candide and Martin did not doubt that
+LINE 36: this was a masquerade of the Carnival. Then a fourth domestic said to a
+LINE 37: fourth master:
+LINE 38: "Your Majesty may depart when you please."
+LINE 39: Saying this he went away like the rest. The fifth valet said the same
+LINE 40: thing to the fifth master. But the sixth valet spoke differently to the
+LINE 41: sixth stranger, who sat near Candide. He said to him:
+LINE 42: "Faith, Sire, they will no longer give credit to your Majesty nor to me,
+LINE 43: and we may perhaps both of us be put in jail this very night. Therefore
+LINE 44: I will take care of myself. Adieu."
+LINE 45: The servants being all gone, the six strangers, with Candide and Martin,
+LINE 46: remained in a profound silence. At length Candide broke it.
+LINE 47: "Gentlemen," said he, "this is a very good joke indeed, but why should
+LINE 48: you all be kings? For me I own that neither Martin nor I is a king."
+LINE 49: Cacambo's master then gravely answered in Italian:
+LINE 50: "I am not at all joking. My name is Achmet III. I was Grand Sultan many
+LINE 51: years. I dethroned my brother; my nephew dethroned me, my viziers were
+LINE 52: beheaded, and I am condemned to end my days in the old Seraglio. My
+LINE 53: nephew, the great Sultan Mahmoud, permits me to travel sometimes for my
+LINE 54: health, and I am come to spend the Carnival at Venice."
+LINE 55: A young man who sat next to Achmet, spoke then as follows:
+LINE 56: "My name is Ivan. I was once Emperor of all the Russias, but was
+LINE 57: dethroned in my cradle. My parents were confined in prison and I was
+LINE 58: educated there; yet I am sometimes allowed to travel in company with
+LINE 59: persons who act as guards; and I am come to spend the Carnival at
+LINE 60: Venice."
+LINE 61: The third said:
+LINE 62: "I am Charles Edward, King of England; my father has resigned all his
+LINE 63: legal rights to me. I have fought in defence of them; and above eight
+LINE 64: hundred of my adherents have been hanged, drawn, and quartered. I have
+LINE 65: been confined in prison; I am going to Rome, to pay a visit to the King,
+LINE 66: my father, who was dethroned as well as myself and my grandfather, and I
+LINE 67: am come to spend the Carnival at Venice."
+LINE 68: The fourth spoke thus in his turn:
+LINE 69: "I am the King of Poland; the fortune of war has stripped me of my
+LINE 70: hereditary dominions; my father underwent the same vicissitudes; I
+LINE 71: resign myself to Providence in the same manner as Sultan Achmet, the
+LINE 72: Emperor Ivan, and King Charles Edward, whom God long preserve; and I am
+LINE 73: come to the Carnival at Venice."
+LINE 74: The fifth said:
+LINE 75: "I am King of Poland also; I have been twice dethroned; but Providence
+LINE 76: has given me another country, where I have done more good than all the
+LINE 77: Sarmatian kings were ever capable of doing on the banks of the Vistula;
+LINE 78: I resign myself likewise to Providence, and am come to pass the Carnival
+LINE 79: at Venice."
+LINE 80: It was now the sixth monarch's turn to speak:
+LINE 81: "Gentlemen," said he, "I am not so great a prince as any of you;
+LINE 82: however, I am a king. I am Theodore, elected King of Corsica; I had the
+LINE 83: title of Majesty, and now I am scarcely treated as a gentleman. I have
+LINE 84: coined money, and now am not worth a farthing; I have had two
+LINE 85: secretaries of state, and now I have scarce a valet; I have seen myself
+LINE 86: on a throne, and I have seen myself upon straw in a common jail in
+LINE 87: London. I am afraid that I shall meet with the same treatment here
+LINE 88: though, like your majesties, I am come to see the Carnival at Venice."
+LINE 89: The other five kings listened to this speech with generous compassion.
+LINE 90: Each of them gave twenty sequins to King Theodore to buy him clothes and
+LINE 91: linen; and Candide made him a present of a diamond worth two thousand
+LINE 92: sequins.
+LINE 93: "Who can this private person be," said the five kings to one another,
+LINE 94: "who is able to give, and really has given, a hundred times as much as
+LINE 95: any of us?"
+LINE 96: Just as they rose from table, in came four Serene Highnesses, who had
+LINE 97: also been stripped of their territories by the fortune of war, and were
+LINE 98: come to spend the Carnival at Venice. But Candide paid no regard to
+LINE 99: these newcomers, his thoughts were entirely employed on his voyage to
+LINE 100: Constantinople, in search of his beloved Cunegonde.

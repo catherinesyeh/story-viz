@@ -1,0 +1,106 @@
+LINE 1: Candide had brought such a valet with him from Cadiz, as one often meets
+LINE 2: with on the coasts of Spain and in the American colonies. He was a
+LINE 3: quarter Spaniard, born of a mongrel in Tucuman; he had been singing-boy,
+LINE 4: sacristan, sailor, monk, pedlar, soldier, and lackey. His name was
+LINE 5: Cacambo, and he loved his master, because his master was a very good
+LINE 6: man. He quickly saddled the two Andalusian horses.
+LINE 7: "Come, master, let us follow the old woman's advice; let us start, and
+LINE 8: run without looking behind us."
+LINE 9: Candide shed tears.
+LINE 10: "Oh! my dear Cunegonde! must I leave you just at a time when the
+LINE 11: Governor was going to sanction our nuptials? Cunegonde, brought to such
+LINE 12: a distance what will become of you?"
+LINE 13: "She will do as well as she can," said Cacambo; "the women are never at
+LINE 14: a loss, God provides for them, let us run."
+LINE 15: "Whither art thou carrying me? Where shall we go? What shall we do
+LINE 16: without Cunegonde?" said Candide.
+LINE 17: "By St. James of Compostella," said Cacambo, "you were going to fight
+LINE 18: against the Jesuits; let us go to fight for them; I know the road well,
+LINE 19: I'll conduct you to their kingdom, where they will be charmed to have a
+LINE 20: captain that understands the Bulgarian exercise. You'll make a
+LINE 21: prodigious fortune; if we cannot find our account in one world we shall
+LINE 22: in another. It is a great pleasure to see and do new things."
+LINE 23: "You have before been in Paraguay, then?" said Candide.
+LINE 24: "Ay, sure," answered Cacambo, "I was servant in the College of the
+LINE 25: Assumption, and am acquainted with the government of the good Fathers as
+LINE 26: well as I am with the streets of Cadiz. It is an admirable government.
+LINE 27: The kingdom is upwards of three hundred leagues in diameter, and divided
+LINE 28: into thirty provinces; there the Fathers possess all, and the people
+LINE 29: nothing; it is a masterpiece of reason and justice. For my part I see
+LINE 30: nothing so divine as the Fathers who here make war upon the kings of
+LINE 31: Spain and Portugal, and in Europe confess those kings; who here kill
+LINE 32: Spaniards, and in Madrid send them to heaven; this delights me, let us
+LINE 33: push forward. You are going to be the happiest of mortals. What pleasure
+LINE 34: will it be to those Fathers to hear that a captain who knows the
+LINE 35: Bulgarian exercise has come to them!"
+LINE 36: As soon as they reached the first barrier, Cacambo told the advanced
+LINE 37: guard that a captain wanted to speak with my lord the Commandant. Notice
+LINE 38: was given to the main guard, and immediately a Paraguayan officer ran
+LINE 39: and laid himself at the feet of the Commandant, to impart this news to
+LINE 40: him. Candide and Cacambo were disarmed, and their two Andalusian horses
+LINE 41: seized. The strangers were introduced between two files of musketeers;
+LINE 42: the Commandant was at the further end, with the three-cornered cap on
+LINE 43: his head, his gown tucked up, a sword by his side, and a spontoon[15] in
+LINE 44: his hand. He beckoned, and straightway the new-comers were encompassed
+LINE 45: by four-and-twenty soldiers. A sergeant told them they must wait, that
+LINE 46: the Commandant could not speak to them, and that the reverend Father
+LINE 47: Provincial does not suffer any Spaniard to open his mouth but in his
+LINE 48: presence, or to stay above three hours in the province.
+LINE 49: "And where is the reverend Father Provincial?" said Cacambo.
+LINE 50: "He is upon the parade just after celebrating mass," answered the
+LINE 51: sergeant, "and you cannot kiss his spurs till three hours hence."
+LINE 52: "However," said Cacambo, "the captain is not a Spaniard, but a German,
+LINE 53: he is ready to perish with hunger as well as myself; cannot we have
+LINE 54: something for breakfast, while we wait for his reverence?"
+LINE 55: The sergeant went immediately to acquaint the Commandant with what he
+LINE 56: had heard.
+LINE 57: "God be praised!" said the reverend Commandant, "since he is a German, I
+LINE 58: may speak to him; take him to my arbour."
+LINE 59: Candide was at once conducted to a beautiful summer-house, ornamented
+LINE 60: with a very pretty colonnade of green and gold marble, and with
+LINE 61: trellises, enclosing parraquets, humming-birds, fly-birds, guinea-hens,
+LINE 62: and all other rare birds. An excellent breakfast was provided in vessels
+LINE 63: of gold; and while the Paraguayans were eating maize out of wooden
+LINE 64: dishes, in the open fields and exposed to the heat of the sun, the
+LINE 65: reverend Father Commandant retired to his arbour.
+LINE 66: He was a very handsome young man, with a full face, white skin but high
+LINE 67: in colour; he had an arched eyebrow, a lively eye, red ears, vermilion
+LINE 68: lips, a bold air, but such a boldness as neither belonged to a Spaniard
+LINE 69: nor a Jesuit. They returned their arms to Candide and Cacambo, and also
+LINE 70: the two Andalusian horses; to whom Cacambo gave some oats to eat just by
+LINE 71: the arbour, having an eye upon them all the while for fear of a
+LINE 72: surprise.
+LINE 73: Candide first kissed the hem of the Commandant's robe, then they sat
+LINE 74: down to table.
+LINE 75: "You are, then, a German?" said the Jesuit to him in that language.
+LINE 76: "Yes, reverend Father," answered Candide.
+LINE 77: As they pronounced these words they looked at each other with great
+LINE 78: amazement, and with such an emotion as they could not conceal.
+LINE 79: "And from what part of Germany do you come?" said the Jesuit.
+LINE 80: "I am from the dirty province of Westphalia," answered Candide; "I was
+LINE 81: born in the Castle of Thunder-ten-Tronckh."
+LINE 82: "Oh! Heavens! is it possible?" cried the Commandant.
+LINE 83: "What a miracle!" cried Candide.
+LINE 84: "Is it really you?" said the Commandant.
+LINE 85: "It is not possible!" said Candide.
+LINE 86: They drew back; they embraced; they shed rivulets of tears.
+LINE 87: "What, is it you, reverend Father? You, the brother of the fair
+LINE 88: Cunegonde! You, that was slain by the Bulgarians! You, the Baron's son!
+LINE 89: You, a Jesuit in Paraguay! I must confess this is a strange world that
+LINE 90: we live in. Oh, Pangloss! Pangloss! how glad you would be if you had not
+LINE 91: been hanged!"
+LINE 92: The Commandant sent away the negro slaves and the Paraguayans, who
+LINE 93: served them with liquors in goblets of rock-crystal. He thanked God and
+LINE 94: St. Ignatius a thousand times; he clasped Candide in his arms; and their
+LINE 95: faces were all bathed with tears.
+LINE 96: "You will be more surprised, more affected, and transported," said
+LINE 97: Candide, "when I tell you that Cunegonde, your sister, whom you believe
+LINE 98: to have been ripped open, is in perfect health."
+LINE 99: "Where?"
+LINE 100: "In your neighbourhood, with the Governor of Buenos Ayres; and I was
+LINE 101: going to fight against you."
+LINE 102: Every word which they uttered in this long conversation but added wonder
+LINE 103: to wonder. Their souls fluttered on their tongues, listened in their
+LINE 104: ears, and sparkled in their eyes. As they were Germans, they sat a good
+LINE 105: while at table, waiting for the reverend Father Provincial, and the
+LINE 106: Commandant spoke to his dear Candide as follows.

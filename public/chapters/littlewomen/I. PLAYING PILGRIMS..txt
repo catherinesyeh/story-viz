@@ -1,0 +1,368 @@
+LINE 1: "Christmas won't be Christmas without any presents," grumbled Jo, lying
+LINE 2: on the rug.
+LINE 3: "It's so dreadful to be poor!" sighed Meg, looking down at her old
+LINE 4: dress.
+LINE 5: "I don't think it's fair for some girls to have plenty of pretty things,
+LINE 6: and other girls nothing at all," added little Amy, with an injured
+LINE 7: sniff.
+LINE 8: "We've got father and mother and each other," said Beth contentedly,
+LINE 9: from her corner.
+LINE 10: The four young faces on which the firelight shone brightened at the
+LINE 11: cheerful words, but darkened again as Jo said sadly,--
+LINE 12: "We haven't got father, and shall not have him for a long time." She
+LINE 13: didn't say "perhaps never," but each silently added it, thinking of
+LINE 14: father far away, where the fighting was.
+LINE 15: Nobody spoke for a minute; then Meg said in an altered tone,--
+LINE 16: "You know the reason mother proposed not having any presents this
+LINE 17: Christmas was because it is going to be a hard winter for every one; and
+LINE 18: she thinks we ought not to spend money for pleasure, when our men are
+LINE 19: suffering so in the army. We can't do much, but we can make our little
+LINE 20: sacrifices, and ought to do it gladly. But I am afraid I don't;" and Meg
+LINE 21: shook her head, as she thought regretfully of all the pretty things she
+LINE 22: wanted.
+LINE 23: "But I don't think the little we should spend would do any good. We've
+LINE 24: each got a dollar, and the army wouldn't be much helped by our giving
+LINE 25: that. I agree not to expect anything from mother or you, but I do want
+LINE 26: to buy Undine and Sintram for myself; I've wanted it _so_ long," said
+LINE 27: Jo, who was a bookworm.
+LINE 28: "I planned to spend mine in new music," said Beth, with a little sigh,
+LINE 29: which no one heard but the hearth-brush and kettle-holder.
+LINE 30: "I shall get a nice box of Faber's drawing-pencils; I really need them,"
+LINE 31: said Amy decidedly.
+LINE 32: "Mother didn't say anything about our money, and she won't wish us to
+LINE 33: give up everything. Let's each buy what we want, and have a little fun;
+LINE 34: I'm sure we work hard enough to earn it," cried Jo, examining the heels
+LINE 35: of her shoes in a gentlemanly manner.
+LINE 36: "I know _I_ do,--teaching those tiresome children nearly all day, when
+LINE 37: I'm longing to enjoy myself at home," began Meg, in the complaining tone
+LINE 38: again.
+LINE 39: "You don't have half such a hard time as I do," said Jo. "How would you
+LINE 40: like to be shut up for hours with a nervous, fussy old lady, who keeps
+LINE 41: you trotting, is never satisfied, and worries you till you're ready to
+LINE 42: fly out of the window or cry?"
+LINE 43: "It's naughty to fret; but I do think washing dishes and keeping things
+LINE 44: tidy is the worst work in the world. It makes me cross; and my hands get
+LINE 45: so stiff, I can't practise well at all;" and Beth looked at her rough
+LINE 46: hands with a sigh that any one could hear that time.
+LINE 47: "I don't believe any of you suffer as I do," cried Amy; "for you don't
+LINE 48: have to go to school with impertinent girls, who plague you if you don't
+LINE 49: know your lessons, and laugh at your dresses, and label your father if
+LINE 50: he isn't rich, and insult you when your nose isn't nice."
+LINE 51: "If you mean _libel_, I'd say so, and not talk about _labels_, as if
+LINE 52: papa was a pickle-bottle," advised Jo, laughing.
+LINE 53: "I know what I mean, and you needn't be _statirical_ about it. It's
+LINE 54: proper to use good words, and improve your _vocabilary_," returned Amy,
+LINE 55: with dignity.
+LINE 56: "Don't peck at one another, children. Don't you wish we had the money
+LINE 57: papa lost when we were little, Jo? Dear me! how happy and good we'd be,
+LINE 58: if we had no worries!" said Meg, who could remember better times.
+LINE 59: "You said the other day, you thought we were a deal happier than the
+LINE 60: King children, for they were fighting and fretting all the time, in
+LINE 61: spite of their money."
+LINE 62: "So I did, Beth. Well, I think we are; for, though we do have to work,
+LINE 63: we make fun for ourselves, and are a pretty jolly set, as Jo would say."
+LINE 64: "Jo does use such slang words!" observed Amy, with a reproving look at
+LINE 65: the long figure stretched on the rug. Jo immediately sat up, put her
+LINE 66: hands in her pockets, and began to whistle.
+LINE 67: "Don't, Jo; it's so boyish!"
+LINE 68: "That's why I do it."
+LINE 69: "I detest rude, unlady-like girls!"
+LINE 70: "I hate affected, niminy-piminy chits!"
+LINE 71: "'Birds in their little nests agree,'" sang Beth, the peace-maker, with
+LINE 72: such a funny face that both sharp voices softened to a laugh, and the
+LINE 73: "pecking" ended for that time.
+LINE 74: "Really, girls, you are both to be blamed," said Meg, beginning to
+LINE 75: lecture in her elder-sisterly fashion. "You are old enough to leave off
+LINE 76: boyish tricks, and to behave better, Josephine. It didn't matter so much
+LINE 77: when you were a little girl; but now you are so tall, and turn up your
+LINE 78: hair, you should remember that you are a young lady."
+LINE 79: "I'm not! and if turning up my hair makes me one, I'll wear it in two
+LINE 80: tails till I'm twenty," cried Jo, pulling off her net, and shaking down
+LINE 81: a chestnut mane. "I hate to think I've got to grow up, and be Miss
+LINE 82: March, and wear long gowns, and look as prim as a China-aster! It's bad
+LINE 83: enough to be a girl, anyway, when I like boys' games and work and
+LINE 84: manners! I can't get over my disappointment in not being a boy; and it's
+LINE 85: worse than ever now, for I'm dying to go and fight with papa, and I can
+LINE 86: only stay at home and knit, like a poky old woman!" And Jo shook the
+LINE 87: blue army-sock till the needles rattled like castanets, and her ball
+LINE 88: bounded across the room.
+LINE 89: "Poor Jo! It's too bad, but it can't be helped; so you must try to be
+LINE 90: contented with making your name boyish, and playing brother to us
+LINE 91: girls," said Beth, stroking the rough head at her knee with a hand that
+LINE 92: all the dish-washing and dusting in the world could not make ungentle in
+LINE 93: its touch.
+LINE 94: "As for you, Amy," continued Meg, "you are altogether too particular and
+LINE 95: prim. Your airs are funny now; but you'll grow up an affected little
+LINE 96: goose, if you don't take care. I like your nice manners and refined ways
+LINE 97: of speaking, when you don't try to be elegant; but your absurd words are
+LINE 98: as bad as Jo's slang."
+LINE 99: "If Jo is a tom-boy and Amy a goose, what am I, please?" asked Beth,
+LINE 100: ready to share the lecture.
+LINE 101: "You're a dear, and nothing else," answered Meg warmly; and no one
+LINE 102: contradicted her, for the "Mouse" was the pet of the family.
+LINE 103: As young readers like to know "how people look," we will take this
+LINE 104: moment to give them a little sketch of the four sisters, who sat
+LINE 105: knitting away in the twilight, while the December snow fell quietly
+LINE 106: without, and the fire crackled cheerfully within. It was a comfortable
+LINE 107: old room, though the carpet was faded and the furniture very plain; for
+LINE 108: a good picture or two hung on the walls, books filled the recesses,
+LINE 109: chrysanthemums and Christmas roses bloomed in the windows, and a
+LINE 110: pleasant atmosphere of home-peace pervaded it.
+LINE 111: Margaret, the eldest of the four, was sixteen, and very pretty, being
+LINE 112: plump and fair, with large eyes, plenty of soft, brown hair, a sweet
+LINE 113: mouth, and white hands, of which she was rather vain. Fifteen-year-old
+LINE 114: Jo was very tall, thin, and brown, and reminded one of a colt; for she
+LINE 115: never seemed to know what to do with her long limbs, which were very
+LINE 116: much in her way. She had a decided mouth, a comical nose, and sharp,
+LINE 117: gray eyes, which appeared to see everything, and were by turns fierce,
+LINE 118: funny, or thoughtful. Her long, thick hair was her one beauty; but it
+LINE 119: was usually bundled into a net, to be out of her way. Round shoulders
+LINE 120: had Jo, big hands and feet, a fly-away look to her clothes, and the
+LINE 121: uncomfortable appearance of a girl who was rapidly shooting up into a
+LINE 122: woman, and didn't like it. Elizabeth--or Beth, as every one called
+LINE 123: her--was a rosy, smooth-haired, bright-eyed girl of thirteen, with a shy
+LINE 124: manner, a timid voice, and a peaceful expression, which was seldom
+LINE 125: disturbed. Her father called her "Little Tranquillity," and the name
+LINE 126: suited her excellently; for she seemed to live in a happy world of her
+LINE 127: own, only venturing out to meet the few whom she trusted and loved. Amy,
+LINE 128: though the youngest, was a most important person,--in her own opinion at
+LINE 129: least. A regular snow-maiden, with blue eyes, and yellow hair, curling
+LINE 130: on her shoulders, pale and slender, and always carrying herself like a
+LINE 131: young lady mindful of her manners. What the characters of the four
+LINE 132: sisters were we will leave to be found out.
+LINE 133: The clock struck six; and, having swept up the hearth, Beth put a pair
+LINE 134: of slippers down to warm. Somehow the sight of the old shoes had a good
+LINE 135: effect upon the girls; for mother was coming, and every one brightened
+LINE 136: to welcome her. Meg stopped lecturing, and lighted the lamp, Amy got out
+LINE 137: of the easy-chair without being asked, and Jo forgot how tired she was
+LINE 138: as she sat up to hold the slippers nearer to the blaze.
+LINE 139: [Illustration: Beth put a pair of slippers down to warm]
+LINE 140: "They are quite worn out; Marmee must have a new pair."
+LINE 141: "I thought I'd get her some with my dollar," said Beth.
+LINE 142: "No, I shall!" cried Amy.
+LINE 143: "I'm the oldest," began Meg, but Jo cut in with a decided--
+LINE 144: "I'm the man of the family now papa is away, and _I_ shall provide the
+LINE 145: slippers, for he told me to take special care of mother while he was
+LINE 146: gone."
+LINE 147: "I'll tell you what we'll do," said Beth; "let's each get her something
+LINE 148: for Christmas, and not get anything for ourselves."
+LINE 149: "That's like you, dear! What will we get?" exclaimed Jo.
+LINE 150: Every one thought soberly for a minute; then Meg announced, as if the
+LINE 151: idea was suggested by the sight of her own pretty hands, "I shall give
+LINE 152: her a nice pair of gloves."
+LINE 153: "Army shoes, best to be had," cried Jo.
+LINE 154: "Some handkerchiefs, all hemmed," said Beth.
+LINE 155: "I'll get a little bottle of cologne; she likes it, and it won't cost
+LINE 156: much, so I'll have some left to buy my pencils," added Amy.
+LINE 157: "How will we give the things?" asked Meg.
+LINE 158: "Put them on the table, and bring her in and see her open the bundles.
+LINE 159: Don't you remember how we used to do on our birthdays?" answered Jo.
+LINE 160: [Illustration: I used to be so frightened when it was my
+LINE 161: turn to sit in the big chair]
+LINE 162: "I used to be _so_ frightened when it was my turn to sit in the big
+LINE 163: chair with the crown on, and see you all come marching round to give the
+LINE 164: presents, with a kiss. I liked the things and the kisses, but it was
+LINE 165: dreadful to have you sit looking at me while I opened the bundles," said
+LINE 166: Beth, who was toasting her face and the bread for tea, at the same time.
+LINE 167: "Let Marmee think we are getting things for ourselves, and then surprise
+LINE 168: her. We must go shopping to-morrow afternoon, Meg; there is so much to
+LINE 169: do about the play for Christmas night," said Jo, marching up and down,
+LINE 170: with her hands behind her back and her nose in the air.
+LINE 171: "I don't mean to act any more after this time; I'm getting too old for
+LINE 172: such things," observed Meg, who was as much a child as ever about
+LINE 173: "dressing-up" frolics.
+LINE 174: "You won't stop, I know, as long as you can trail round in a white gown
+LINE 175: with your hair down, and wear gold-paper jewelry. You are the best
+LINE 176: actress we've got, and there'll be an end of everything if you quit the
+LINE 177: boards," said Jo. "We ought to rehearse to-night. Come here, Amy, and do
+LINE 178: the fainting scene, for you are as stiff as a poker in that."
+LINE 179: "I can't help it; I never saw any one faint, and I don't choose to make
+LINE 180: myself all black and blue, tumbling flat as you do. If I can go down
+LINE 181: easily, I'll drop; if I can't, I shall fall into a chair and be
+LINE 182: graceful; I don't care if Hugo does come at me with a pistol," returned
+LINE 183: Amy, who was not gifted with dramatic power, but was chosen because she
+LINE 184: was small enough to be borne out shrieking by the villain of the piece.
+LINE 185: [Illustration: Do it this way, clasp your hands so]
+LINE 186: "Do it this way; clasp your hands so, and stagger across the room,
+LINE 187: crying frantically, 'Roderigo! save me! save me!'" and away went Jo,
+LINE 188: with a melodramatic scream which was truly thrilling.
+LINE 189: Amy followed, but she poked her hands out stiffly before her, and jerked
+LINE 190: herself along as if she went by machinery; and her "Ow!" was more
+LINE 191: suggestive of pins being run into her than of fear and anguish. Jo gave
+LINE 192: a despairing groan, and Meg laughed outright, while Beth let her bread
+LINE 193: burn as she watched the fun, with interest.
+LINE 194: "It's no use! Do the best you can when the time comes, and if the
+LINE 195: audience laugh, don't blame me. Come on, Meg."
+LINE 196: Then things went smoothly, for Don Pedro defied the world in a speech of
+LINE 197: two pages without a single break; Hagar, the witch, chanted an awful
+LINE 198: incantation over her kettleful of simmering toads, with weird effect;
+LINE 199: Roderigo rent his chains asunder manfully, and Hugo died in agonies of
+LINE 200: remorse and arsenic, with a wild "Ha! ha!"
+LINE 201: "It's the best we've had yet," said Meg, as the dead villain sat up and
+LINE 202: rubbed his elbows.
+LINE 203: "I don't see how you can write and act such splendid things, Jo. You're
+LINE 204: a regular Shakespeare!" exclaimed Beth, who firmly believed that her
+LINE 205: sisters were gifted with wonderful genius in all things.
+LINE 206: "Not quite," replied Jo modestly. "I do think 'The Witch's Curse, an
+LINE 207: Operatic Tragedy,' is rather a nice thing; but I'd like to try Macbeth,
+LINE 208: if we only had a trap-door for Banquo. I always wanted to do the killing
+LINE 209: part. 'Is that a dagger that I see before me?'" muttered Jo, rolling her
+LINE 210: eyes and clutching at the air, as she had seen a famous tragedian do.
+LINE 211: "No, it's the toasting fork, with mother's shoe on it instead of the
+LINE 212: bread. Beth's stage-struck!" cried Meg, and the rehearsal ended in a
+LINE 213: general burst of laughter.
+LINE 214: "Glad to find you so merry, my girls," said a cheery voice at the door,
+LINE 215: and actors and audience turned to welcome a tall, motherly lady, with a
+LINE 216: "can-I-help-you" look about her which was truly delightful. She was not
+LINE 217: elegantly dressed, but a noble-looking woman, and the girls thought the
+LINE 218: gray cloak and unfashionable bonnet covered the most splendid mother in
+LINE 219: the world.
+LINE 220: "Well, dearies, how have you got on to-day? There was so much to do,
+LINE 221: getting the boxes ready to go to-morrow, that I didn't come home to
+LINE 222: dinner. Has any one called, Beth? How is your cold, Meg? Jo, you look
+LINE 223: tired to death. Come and kiss me, baby."
+LINE 224: While making these maternal inquiries Mrs. March got her wet things off,
+LINE 225: her warm slippers on, and sitting down in the easy-chair, drew Amy to
+LINE 226: her lap, preparing to enjoy the happiest hour of her busy day. The girls
+LINE 227: flew about, trying to make things comfortable, each in her own way. Meg
+LINE 228: arranged the tea-table; Jo brought wood and set chairs, dropping,
+LINE 229: overturning, and clattering everything she touched; Beth trotted to and
+LINE 230: fro between parlor and kitchen, quiet and busy; while Amy gave
+LINE 231: directions to every one, as she sat with her hands folded.
+LINE 232: As they gathered about the table, Mrs. March said, with a particularly
+LINE 233: happy face, "I've got a treat for you after supper."
+LINE 234: A quick, bright smile went round like a streak of sunshine. Beth clapped
+LINE 235: her hands, regardless of the biscuit she held, and Jo tossed up her
+LINE 236: napkin, crying, "A letter! a letter! Three cheers for father!"
+LINE 237: "Yes, a nice long letter. He is well, and thinks he shall get through
+LINE 238: the cold season better than we feared. He sends all sorts of loving
+LINE 239: wishes for Christmas, and an especial message to you girls," said Mrs.
+LINE 240: March, patting her pocket as if she had got a treasure there.
+LINE 241: "Hurry and get done! Don't stop to quirk your little finger, and simper
+LINE 242: over your plate, Amy," cried Jo, choking in her tea, and dropping her
+LINE 243: bread, butter side down, on the carpet, in her haste to get at the
+LINE 244: treat.
+LINE 245: Beth ate no more, but crept away, to sit in her shadowy corner and brood
+LINE 246: over the delight to come, till the others were ready.
+LINE 247: "I think it was so splendid in father to go as a chaplain when he was
+LINE 248: too old to be drafted, and not strong enough for a soldier," said Meg
+LINE 249: warmly.
+LINE 250: "Don't I wish I could go as a drummer, a _vivan_--what's its name? or a
+LINE 251: nurse, so I could be near him and help him," exclaimed Jo, with a groan.
+LINE 252: "It must be very disagreeable to sleep in a tent, and eat all sorts of
+LINE 253: bad-tasting things, and drink out of a tin mug," sighed Amy.
+LINE 254: "When will he come home, Marmee?" asked Beth, with a little quiver in
+LINE 255: her voice.
+LINE 256: "Not for many months, dear, unless he is sick. He will stay and do his
+LINE 257: work faithfully as long as he can, and we won't ask for him back a
+LINE 258: minute sooner than he can be spared. Now come and hear the letter."
+LINE 259: They all drew to the fire, mother in the big chair with Beth at her
+LINE 260: feet, Meg and Amy perched on either arm of the chair, and Jo leaning on
+LINE 261: the back, where no one would see any sign of emotion if the letter
+LINE 262: should happen to be touching.
+LINE 263: Very few letters were written in those hard times that were not
+LINE 264: touching, especially those which fathers sent home. In this one little
+LINE 265: was said of the hardships endured, the dangers faced, or the
+LINE 266: homesickness conquered; it was a cheerful, hopeful letter, full of
+LINE 267: lively descriptions of camp life, marches, and military news; and only
+LINE 268: at the end did the writer's heart overflow with fatherly love and
+LINE 269: longing for the little girls at home.
+LINE 270: [Illustration: It was a cheerful, hopeful letter]
+LINE 271: "Give them all my dear love and a kiss. Tell them I think of them by
+LINE 272: day, pray for them by night, and find my best comfort in their affection
+LINE 273: at all times. A year seems very long to wait before I see them, but
+LINE 274: remind them that while we wait we may all work, so that these hard days
+LINE 275: need not be wasted. I know they will remember all I said to them, that
+LINE 276: they will be loving children to you, will do their duty faithfully,
+LINE 277: fight their bosom enemies bravely, and conquer themselves so
+LINE 278: beautifully, that when I come back to them I may be fonder and prouder
+LINE 279: than ever of my little women."
+LINE 280: Everybody sniffed when they came to that part; Jo wasn't ashamed of the
+LINE 281: great tear that dropped off the end of her nose, and Amy never minded
+LINE 282: the rumpling of her curls as she hid her face on her mother's shoulder
+LINE 283: and sobbed out, "I _am_ a selfish girl! but I'll truly try to be better,
+LINE 284: so he mayn't be disappointed in me by and by."
+LINE 285: "We all will!" cried Meg. "I think too much of my looks, and hate to
+LINE 286: work, but won't any more, if I can help it."
+LINE 287: "I'll try and be what he loves to call me, 'a little woman,' and not be
+LINE 288: rough and wild; but do my duty here instead of wanting to be somewhere
+LINE 289: else," said Jo, thinking that keeping her temper at home was a much
+LINE 290: harder task than facing a rebel or two down South.
+LINE 291: Beth said nothing, but wiped away her tears with the blue army-sock, and
+LINE 292: began to knit with all her might, losing no time in doing the duty that
+LINE 293: lay nearest her, while she resolved in her quiet little soul to be all
+LINE 294: that father hoped to find her when the year brought round the happy
+LINE 295: coming home.
+LINE 296: [Illustration: How you used to play Pilgrim's Progress]
+LINE 297: Mrs. March broke the silence that followed Jo's words, by saying in her
+LINE 298: cheery voice, "Do you remember how you used to play Pilgrim's Progress
+LINE 299: when you were little things? Nothing delighted you more than to have me
+LINE 300: tie my piece-bags on your backs for burdens, give you hats and sticks
+LINE 301: and rolls of paper, and let you travel through the house from the
+LINE 302: cellar, which was the City of Destruction, up, up, to the house-top,
+LINE 303: where you had all the lovely things you could collect to make a
+LINE 304: Celestial City."
+LINE 305: "What fun it was, especially going by the lions, fighting Apollyon, and
+LINE 306: passing through the Valley where the hobgoblins were!" said Jo.
+LINE 307: "I liked the place where the bundles fell off and tumbled down stairs,"
+LINE 308: said Meg.
+LINE 309: "My favorite part was when we came out on the flat roof where our
+LINE 310: flowers and arbors and pretty things were, and all stood and sung for
+LINE 311: joy up there in the sunshine," said Beth, smiling, as if that pleasant
+LINE 312: moment had come back to her.
+LINE 313: "I don't remember much about it, except that I was afraid of the cellar
+LINE 314: and the dark entry, and always liked the cake and milk we had up at the
+LINE 315: top. If I wasn't too old for such things, I'd rather like to play it
+LINE 316: over again," said Amy, who began to talk of renouncing childish things
+LINE 317: at the mature age of twelve.
+LINE 318: "We never are too old for this, my dear, because it is a play we are
+LINE 319: playing all the time in one way or another. Our burdens are here, our
+LINE 320: road is before us, and the longing for goodness and happiness is the
+LINE 321: guide that leads us through many troubles and mistakes to the peace
+LINE 322: which is a true Celestial City. Now, my little pilgrims, suppose you
+LINE 323: begin again, not in play, but in earnest, and see how far on you can get
+LINE 324: before father comes home."
+LINE 325: "Really, mother? Where are our bundles?" asked Amy, who was a very
+LINE 326: literal young lady.
+LINE 327: "Each of you told what your burden was just now, except Beth; I rather
+LINE 328: think she hasn't got any," said her mother.
+LINE 329: "Yes, I have; mine is dishes and dusters, and envying girls with nice
+LINE 330: pianos, and being afraid of people."
+LINE 331: Beth's bundle was such a funny one that everybody wanted to laugh; but
+LINE 332: nobody did, for it would have hurt her feelings very much.
+LINE 333: "Let us do it," said Meg thoughtfully. "It is only another name for
+LINE 334: trying to be good, and the story may help us; for though we do want to
+LINE 335: be good, it's hard work, and we forget, and don't do our best."
+LINE 336: "We were in the Slough of Despond to-night, and mother came and pulled
+LINE 337: us out as Help did in the book. We ought to have our roll of directions,
+LINE 338: like Christian. What shall we do about that?" asked Jo, delighted with
+LINE 339: the fancy which lent a little romance to the very dull task of doing her
+LINE 340: duty.
+LINE 341: "Look under your pillows, Christmas morning, and you will find your
+LINE 342: guide-book," replied Mrs. March.
+LINE 343: They talked over the new plan while old Hannah cleared the table; then
+LINE 344: out came the four little work-baskets, and the needles flew as the girls
+LINE 345: made sheets for Aunt March. It was uninteresting sewing, but to-night no
+LINE 346: one grumbled. They adopted Jo's plan of dividing the long seams into
+LINE 347: four parts, and calling the quarters Europe, Asia, Africa, and America,
+LINE 348: and in that way got on capitally, especially when they talked about the
+LINE 349: different countries as they stitched their way through them.
+LINE 350: [Illustration: No one but Beth could get much music out of the old
+LINE 351: piano]
+LINE 352: At nine they stopped work, and sung, as usual, before they went to bed.
+LINE 353: No one but Beth could get much music out of the old piano; but she had a
+LINE 354: way of softly touching the yellow keys, and making a pleasant
+LINE 355: accompaniment to the simple songs they sung. Meg had a voice like a
+LINE 356: flute, and she and her mother led the little choir. Amy chirped like a
+LINE 357: cricket, and Jo wandered through the airs at her own sweet will, always
+LINE 358: coming out at the wrong place with a croak or a quaver that spoilt the
+LINE 359: most pensive tune. They had always done this from the time they could
+LINE 360: lisp
+LINE 361: "Crinkle, crinkle, 'ittle 'tar,"
+LINE 362: and it had become a household custom, for the mother was a born singer.
+LINE 363: The first sound in the morning was her voice, as she went about the
+LINE 364: house singing like a lark; and the last sound at night was the same
+LINE 365: cheery sound, for the girls never grew too old for that familiar
+LINE 366: lullaby.
+LINE 367: [Illustration: At nine they stopped work and sung as usual]
+LINE 368: [Illustration: A Merry Christmas]

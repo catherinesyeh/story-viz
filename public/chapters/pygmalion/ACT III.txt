@@ -1,0 +1,477 @@
+LINE 1: It is Mrs. Higgins's at-home day. Nobody has yet arrived. Her
+LINE 2: drawing-room, in a flat on Chelsea embankment, has three windows
+LINE 3: looking on the river; and the ceiling is not so lofty as it would be in
+LINE 4: an older house of the same pretension. The windows are open, giving
+LINE 5: access to a balcony with flowers in pots. If you stand with your face
+LINE 6: to the windows, you have the fireplace on your left and the door in the
+LINE 7: right-hand wall close to the corner nearest the windows.
+LINE 8: Mrs. Higgins was brought up on Morris and Burne Jones; and her room,
+LINE 9: which is very unlike her son's room in Wimpole Street, is not crowded
+LINE 10: with furniture and little tables and nicknacks. In the middle of the
+LINE 11: room there is a big ottoman; and this, with the carpet, the Morris
+LINE 12: wall-papers, and the Morris chintz window curtains and brocade covers
+LINE 13: of the ottoman and its cushions, supply all the ornament, and are much
+LINE 14: too handsome to be hidden by odds and ends of useless things. A few
+LINE 15: good oil-paintings from the exhibitions in the Grosvenor Gallery thirty
+LINE 16: years ago (the Burne Jones, not the Whistler side of them) are on the
+LINE 17: walls. The only landscape is a Cecil Lawson on the scale of a Rubens.
+LINE 18: There is a portrait of Mrs. Higgins as she was when she defied fashion
+LINE 19: in her youth in one of the beautiful Rossettian costumes which, when
+LINE 20: caricatured by people who did not understand, led to the absurdities of
+LINE 21: popular estheticism in the eighteen-seventies.
+LINE 22: In the corner diagonally opposite the door Mrs. Higgins, now over sixty
+LINE 23: and long past taking the trouble to dress out of the fashion, sits
+LINE 24: writing at an elegantly simple writing-table with a bell button within
+LINE 25: reach of her hand. There is a Chippendale chair further back in the
+LINE 26: room between her and the window nearest her side. At the other side of
+LINE 27: the room, further forward, is an Elizabethan chair roughly carved in
+LINE 28: the taste of Inigo Jones. On the same side a piano in a decorated case.
+LINE 29: The corner between the fireplace and the window is occupied by a divan
+LINE 30: cushioned in Morris chintz.
+LINE 31: It is between four and five in the afternoon.
+LINE 32: The door is opened violently; and Higgins enters with his hat on.
+LINE 33: MRS. HIGGINS [dismayed] Henry [scolding him]! What are you doing here
+LINE 34: to-day? It is my at home day: you promised not to come. [As he bends to
+LINE 35: kiss her, she takes his hat off, and presents it to him].
+LINE 36: HIGGINS. Oh bother! [He throws the hat down on the table].
+LINE 37: MRS. HIGGINS. Go home at once.
+LINE 38: HIGGINS [kissing her] I know, mother. I came on purpose.
+LINE 39: MRS. HIGGINS. But you mustn't. I'm serious, Henry. You offend all my
+LINE 40: friends: they stop coming whenever they meet you.
+LINE 41: HIGGINS. Nonsense! I know I have no small talk; but people don't mind.
+LINE 42: [He sits on the settee].
+LINE 43: MRS. HIGGINS. Oh! don't they? Small talk indeed! What about your large
+LINE 44: talk? Really, dear, you mustn't stay.
+LINE 45: HIGGINS. I must. I've a job for you. A phonetic job.
+LINE 46: MRS. HIGGINS. No use, dear. I'm sorry; but I can't get round your
+LINE 47: vowels; and though I like to get pretty postcards in your patent
+LINE 48: shorthand, I always have to read the copies in ordinary writing you so
+LINE 49: thoughtfully send me.
+LINE 50: HIGGINS. Well, this isn't a phonetic job.
+LINE 51: MRS. HIGGINS. You said it was.
+LINE 52: HIGGINS. Not your part of it. I've picked up a girl.
+LINE 53: MRS. HIGGINS. Does that mean that some girl has picked you up?
+LINE 54: HIGGINS. Not at all. I don't mean a love affair.
+LINE 55: MRS. HIGGINS. What a pity!
+LINE 56: HIGGINS. Why?
+LINE 57: MRS. HIGGINS. Well, you never fall in love with anyone under
+LINE 58: forty-five. When will you discover that there are some rather
+LINE 59: nice-looking young women about?
+LINE 60: HIGGINS. Oh, I can't be bothered with young women. My idea of a
+LINE 61: loveable woman is something as like you as possible. I shall never get
+LINE 62: into the way of seriously liking young women: some habits lie too deep
+LINE 63: to be changed. [Rising abruptly and walking about, jingling his money
+LINE 64: and his keys in his trouser pockets] Besides, they're all idiots.
+LINE 65: MRS. HIGGINS. Do you know what you would do if you really loved me,
+LINE 66: Henry?
+LINE 67: HIGGINS. Oh bother! What? Marry, I suppose?
+LINE 68: MRS. HIGGINS. No. Stop fidgeting and take your hands out of your
+LINE 69: pockets. [With a gesture of despair, he obeys and sits down again].
+LINE 70: That's a good boy. Now tell me about the girl.
+LINE 71: HIGGINS. She's coming to see you.
+LINE 72: MRS. HIGGINS. I don't remember asking her.
+LINE 73: HIGGINS. You didn't. I asked her. If you'd known her you wouldn't have
+LINE 74: asked her.
+LINE 75: MRS. HIGGINS. Indeed! Why?
+LINE 76: HIGGINS. Well, it's like this. She's a common flower girl. I picked her
+LINE 77: off the kerbstone.
+LINE 78: MRS. HIGGINS. And invited her to my at-home!
+LINE 79: HIGGINS [rising and coming to her to coax her] Oh, that'll be all
+LINE 80: right. I've taught her to speak properly; and she has strict orders as
+LINE 81: to her behavior. She's to keep to two subjects: the weather and
+LINE 82: everybody's health—Fine day and How do you do, you know—and not to
+LINE 83: let herself go on things in general. That will be safe.
+LINE 84: MRS. HIGGINS. Safe! To talk about our health! about our insides!
+LINE 85: perhaps about our outsides! How could you be so silly, Henry?
+LINE 86: HIGGINS [impatiently] Well, she must talk about something. [He controls
+LINE 87: himself and sits down again]. Oh, she'll be all right: don't you fuss.
+LINE 88: Pickering is in it with me. I've a sort of bet on that I'll pass her
+LINE 89: off as a duchess in six months. I started on her some months ago; and
+LINE 90: she's getting on like a house on fire. I shall win my bet. She has a
+LINE 91: quick ear; and she's been easier to teach than my middle-class pupils
+LINE 92: because she's had to learn a complete new language. She talks English
+LINE 93: almost as you talk French.
+LINE 94: MRS. HIGGINS. That's satisfactory, at all events.
+LINE 95: HIGGINS. Well, it is and it isn't.
+LINE 96: MRS. HIGGINS. What does that mean?
+LINE 97: HIGGINS. You see, I've got her pronunciation all right; but you have to
+LINE 98: consider not only how a girl pronounces, but what she pronounces; and
+LINE 99: that's where—
+LINE 100: They are interrupted by the parlor-maid, announcing guests.
+LINE 101: THE PARLOR-MAID. Mrs. and Miss Eynsford Hill. [She withdraws].
+LINE 102: HIGGINS. Oh Lord! [He rises; snatches his hat from the table; and makes
+LINE 103: for the door; but before he reaches it his mother introduces him].
+LINE 104: Mrs. and Miss Eynsford Hill are the mother and daughter who sheltered
+LINE 105: from the rain in Covent Garden. The mother is well bred, quiet, and has
+LINE 106: the habitual anxiety of straitened means. The daughter has acquired a
+LINE 107: gay air of being very much at home in society: the bravado of genteel
+LINE 108: poverty.
+LINE 109: MRS. EYNSFORD HILL [to Mrs. Higgins] How do you do? [They shake hands].
+LINE 110: MISS EYNSFORD HILL. How d'you do? [She shakes].
+LINE 111: MRS. HIGGINS [introducing] My son Henry.
+LINE 112: MRS. EYNSFORD HILL. Your celebrated son! I have so longed to meet you,
+LINE 113: Professor Higgins.
+LINE 114: HIGGINS [glumly, making no movement in her direction] Delighted. [He
+LINE 115: backs against the piano and bows brusquely].
+LINE 116: Miss EYNSFORD HILL [going to him with confident familiarity] How do you
+LINE 117: do?
+LINE 118: HIGGINS [staring at her] I've seen you before somewhere. I haven't the
+LINE 119: ghost of a notion where; but I've heard your voice. [Drearily] It
+LINE 120: doesn't matter. You'd better sit down.
+LINE 121: MRS. HIGGINS. I'm sorry to say that my celebrated son has no manners.
+LINE 122: You mustn't mind him.
+LINE 123: MISS EYNSFORD HILL [gaily] I don't. [She sits in the Elizabethan chair].
+LINE 124: MRS. EYNSFORD HILL [a little bewildered] Not at all. [She sits on the
+LINE 125: ottoman between her daughter and Mrs. Higgins, who has turned her chair
+LINE 126: away from the writing-table].
+LINE 127: HIGGINS. Oh, have I been rude? I didn't mean to be. [He goes to the
+LINE 128: central window, through which, with his back to the company, he
+LINE 129: contemplates the river and the flowers in Battersea Park on the
+LINE 130: opposite bank as if they were a frozen dessert.]
+LINE 131: The parlor-maid returns, ushering in Pickering.
+LINE 132: THE PARLOR-MAID. Colonel Pickering [She withdraws].
+LINE 133: PICKERING. How do you do, Mrs. Higgins?
+LINE 134: MRS. HIGGINS. So glad you've come. Do you know Mrs. Eynsford Hill—Miss
+LINE 135: Eynsford Hill? [Exchange of bows. The Colonel brings the Chippendale
+LINE 136: chair a little forward between Mrs. Hill and Mrs. Higgins, and sits
+LINE 137: down].
+LINE 138: PICKERING. Has Henry told you what we've come for?
+LINE 139: HIGGINS [over his shoulder] We were interrupted: damn it!
+LINE 140: MRS. HIGGINS. Oh Henry, Henry, really!
+LINE 141: MRS. EYNSFORD HILL [half rising] Are we in the way?
+LINE 142: MRS. HIGGINS [rising and making her sit down again] No, no. You
+LINE 143: couldn't have come more fortunately: we want you to meet a friend of
+LINE 144: ours.
+LINE 145: HIGGINS [turning hopefully] Yes, by George! We want two or three
+LINE 146: people. You'll do as well as anybody else.
+LINE 147: The parlor-maid returns, ushering Freddy.
+LINE 148: THE PARLOR-MAID. Mr. Eynsford Hill.
+LINE 149: HIGGINS [almost audibly, past endurance] God of Heaven! another of them.
+LINE 150: FREDDY [shaking hands with Mrs. Higgins] Ahdedo?
+LINE 151: MRS. HIGGINS. Very good of you to come. [Introducing] Colonel Pickering.
+LINE 152: FREDDY [bowing] Ahdedo?
+LINE 153: MRS. HIGGINS. I don't think you know my son, Professor Higgins.
+LINE 154: FREDDY [going to Higgins] Ahdedo?
+LINE 155: HIGGINS [looking at him much as if he were a pickpocket] I'll take my
+LINE 156: oath I've met you before somewhere. Where was it?
+LINE 157: FREDDY. I don't think so.
+LINE 158: HIGGINS [resignedly] It don't matter, anyhow. Sit down. He shakes
+LINE 159: Freddy's hand, and almost slings him on the ottoman with his face to
+LINE 160: the windows; then comes round to the other side of it.
+LINE 161: HIGGINS. Well, here we are, anyhow! [He sits down on the ottoman next
+LINE 162: Mrs. Eynsford Hill, on her left.] And now, what the devil are we going
+LINE 163: to talk about until Eliza comes?
+LINE 164: MRS. HIGGINS. Henry: you are the life and soul of the Royal Society's
+LINE 165: soirees; but really you're rather trying on more commonplace occasions.
+LINE 166: HIGGINS. Am I? Very sorry. [Beaming suddenly] I suppose I am, you know.
+LINE 167: [Uproariously] Ha, ha!
+LINE 168: MISS EYNSFORD HILL [who considers Higgins quite eligible matrimonially]
+LINE 169: I sympathize. I haven't any small talk. If people would only be frank
+LINE 170: and say what they really think!
+LINE 171: HIGGINS [relapsing into gloom] Lord forbid!
+LINE 172: MRS. EYNSFORD HILL [taking up her daughter's cue] But why?
+LINE 173: HIGGINS. What they think they ought to think is bad enough, Lord knows;
+LINE 174: but what they really think would break up the whole show. Do you
+LINE 175: suppose it would be really agreeable if I were to come out now with
+LINE 176: what I really think?
+LINE 177: MISS EYNSFORD HILL [gaily] Is it so very cynical?
+LINE 178: HIGGINS. Cynical! Who the dickens said it was cynical? I mean it
+LINE 179: wouldn't be decent.
+LINE 180: MRS. EYNSFORD HILL [seriously] Oh! I'm sure you don't mean that, Mr.
+LINE 181: Higgins.
+LINE 182: HIGGINS. You see, we're all savages, more or less. We're supposed to be
+LINE 183: civilized and cultured—to know all about poetry and philosophy and art
+LINE 184: and science, and so on; but how many of us know even the meanings of
+LINE 185: these names? [To Miss Hill] What do you know of poetry? [To Mrs. Hill]
+LINE 186: What do you know of science? [Indicating Freddy] What does he know of
+LINE 187: art or science or anything else? What the devil do you imagine I know
+LINE 188: of philosophy?
+LINE 189: MRS. HIGGINS [warningly] Or of manners, Henry?
+LINE 190: THE PARLOR-MAID [opening the door] Miss Doolittle. [She withdraws].
+LINE 191: HIGGINS [rising hastily and running to Mrs. Higgins] Here she is,
+LINE 192: mother. [He stands on tiptoe and makes signs over his mother's head to
+LINE 193: Eliza to indicate to her which lady is her hostess].
+LINE 194: Eliza, who is exquisitely dressed, produces an impression of such
+LINE 195: remarkable distinction and beauty as she enters that they all rise,
+LINE 196: quite flustered. Guided by Higgins's signals, she comes to Mrs. Higgins
+LINE 197: with studied grace.
+LINE 198: LIZA [speaking with pedantic correctness of pronunciation and great
+LINE 199: beauty of tone] How do you do, Mrs. Higgins? [She gasps slightly in
+LINE 200: making sure of the H in Higgins, but is quite successful]. Mr. Higgins
+LINE 201: told me I might come.
+LINE 202: MRS. HIGGINS [cordially] Quite right: I'm very glad indeed to see you.
+LINE 203: PICKERING. How do you do, Miss Doolittle?
+LINE 204: LIZA [shaking hands with him] Colonel Pickering, is it not?
+LINE 205: MRS. EYNSFORD HILL. I feel sure we have met before, Miss Doolittle. I
+LINE 206: remember your eyes.
+LINE 207: LIZA. How do you do? [She sits down on the ottoman gracefully in the
+LINE 208: place just left vacant by Higgins].
+LINE 209: MRS. EYNSFORD HILL [introducing] My daughter Clara.
+LINE 210: LIZA. How do you do?
+LINE 211: CLARA [impulsively] How do you do? [She sits down on the ottoman beside
+LINE 212: Eliza, devouring her with her eyes].
+LINE 213: FREDDY [coming to their side of the ottoman] I've certainly had the
+LINE 214: pleasure.
+LINE 215: MRS. EYNSFORD HILL [introducing] My son Freddy.
+LINE 216: LIZA. How do you do?
+LINE 217: Freddy bows and sits down in the Elizabethan chair, infatuated.
+LINE 218: HIGGINS [suddenly] By George, yes: it all comes back to me! [They stare
+LINE 219: at him]. Covent Garden! [Lamentably] What a damned thing!
+LINE 220: MRS. HIGGINS. Henry, please! [He is about to sit on the edge of the
+LINE 221: table]. Don't sit on my writing-table: you'll break it.
+LINE 222: HIGGINS [sulkily] Sorry.
+LINE 223: He goes to the divan, stumbling into the fender and over the fire-irons
+LINE 224: on his way; extricating himself with muttered imprecations; and
+LINE 225: finishing his disastrous journey by throwing himself so impatiently on
+LINE 226: the divan that he almost breaks it. Mrs. Higgins looks at him, but
+LINE 227: controls herself and says nothing.
+LINE 228: A long and painful pause ensues.
+LINE 229: MRS. HIGGINS [at last, conversationally] Will it rain, do you think?
+LINE 230: LIZA. The shallow depression in the west of these islands is likely to
+LINE 231: move slowly in an easterly direction. There are no indications of any
+LINE 232: great change in the barometrical situation.
+LINE 233: FREDDY. Ha! ha! how awfully funny!
+LINE 234: LIZA. What is wrong with that, young man? I bet I got it right.
+LINE 235: FREDDY. Killing!
+LINE 236: MRS. EYNSFORD HILL. I'm sure I hope it won't turn cold. There's so much
+LINE 237: influenza about. It runs right through our whole family regularly every
+LINE 238: spring.
+LINE 239: LIZA [darkly] My aunt died of influenza: so they said.
+LINE 240: MRS. EYNSFORD HILL [clicks her tongue sympathetically]!!!
+LINE 241: LIZA [in the same tragic tone] But it's my belief they done the old
+LINE 242: woman in.
+LINE 243: MRS. HIGGINS [puzzled] Done her in?
+LINE 244: LIZA. Y-e-e-e-es, Lord love you! Why should she die of influenza? She
+LINE 245: come through diphtheria right enough the year before. I saw her with my
+LINE 246: own eyes. Fairly blue with it, she was. They all thought she was dead;
+LINE 247: but my father he kept ladling gin down her throat til she came to so
+LINE 248: sudden that she bit the bowl off the spoon.
+LINE 249: MRS. EYNSFORD HILL [startled] Dear me!
+LINE 250: LIZA [piling up the indictment] What call would a woman with that
+LINE 251: strength in her have to die of influenza? What become of her new straw
+LINE 252: hat that should have come to me? Somebody pinched it; and what I say
+LINE 253: is, them as pinched it done her in.
+LINE 254: MRS. EYNSFORD HILL. What does doing her in mean?
+LINE 255: HIGGINS [hastily] Oh, that's the new small talk. To do a person in
+LINE 256: means to kill them.
+LINE 257: MRS. EYNSFORD HILL [to Eliza, horrified] You surely don't believe that
+LINE 258: your aunt was killed?
+LINE 259: LIZA. Do I not! Them she lived with would have killed her for a
+LINE 260: hat-pin, let alone a hat.
+LINE 261: MRS. EYNSFORD HILL. But it can't have been right for your father to
+LINE 262: pour spirits down her throat like that. It might have killed her.
+LINE 263: LIZA. Not her. Gin was mother's milk to her. Besides, he'd poured so
+LINE 264: much down his own throat that he knew the good of it.
+LINE 265: MRS. EYNSFORD HILL. Do you mean that he drank?
+LINE 266: LIZA. Drank! My word! Something chronic.
+LINE 267: MRS. EYNSFORD HILL. How dreadful for you!
+LINE 268: LIZA. Not a bit. It never did him no harm what I could see. But then he
+LINE 269: did not keep it up regular. [Cheerfully] On the burst, as you might
+LINE 270: say, from time to time. And always more agreeable when he had a drop
+LINE 271: in. When he was out of work, my mother used to give him fourpence and
+LINE 272: tell him to go out and not come back until he'd drunk himself cheerful
+LINE 273: and loving-like. There's lots of women has to make their husbands drunk
+LINE 274: to make them fit to live with. [Now quite at her ease] You see, it's
+LINE 275: like this. If a man has a bit of a conscience, it always takes him when
+LINE 276: he's sober; and then it makes him low-spirited. A drop of booze just
+LINE 277: takes that off and makes him happy. [To Freddy, who is in convulsions
+LINE 278: of suppressed laughter] Here! what are you sniggering at?
+LINE 279: FREDDY. The new small talk. You do it so awfully well.
+LINE 280: LIZA. If I was doing it proper, what was you laughing at? [To Higgins]
+LINE 281: Have I said anything I oughtn't?
+LINE 282: MRS. HIGGINS [interposing] Not at all, Miss Doolittle.
+LINE 283: LIZA. Well, that's a mercy, anyhow. [Expansively] What I always say is—
+LINE 284: HIGGINS [rising and looking at his watch] Ahem!
+LINE 285: LIZA [looking round at him; taking the hint; and rising] Well: I must
+LINE 286: go. [They all rise. Freddy goes to the door]. So pleased to have met
+LINE 287: you. Good-bye. [She shakes hands with Mrs. Higgins].
+LINE 288: MRS. HIGGINS. Good-bye.
+LINE 289: LIZA. Good-bye, Colonel Pickering.
+LINE 290: PICKERING. Good-bye, Miss Doolittle. [They shake hands].
+LINE 291: LIZA [nodding to the others] Good-bye, all.
+LINE 292: FREDDY [opening the door for her] Are you walking across the Park, Miss
+LINE 293: Doolittle? If so—
+LINE 294: LIZA. Walk! Not bloody likely. [Sensation]. I am going in a taxi. [She
+LINE 295: goes out].
+LINE 296: Pickering gasps and sits down. Freddy goes out on the balcony to catch
+LINE 297: another glimpse of Eliza.
+LINE 298: MRS. EYNSFORD HILL [suffering from shock] Well, I really can't get used
+LINE 299: to the new ways.
+LINE 300: CLARA [throwing herself discontentedly into the Elizabethan chair]. Oh,
+LINE 301: it's all right, mamma, quite right. People will think we never go
+LINE 302: anywhere or see anybody if you are so old-fashioned.
+LINE 303: MRS. EYNSFORD HILL. I daresay I am very old-fashioned; but I do hope
+LINE 304: you won't begin using that expression, Clara. I have got accustomed to
+LINE 305: hear you talking about men as rotters, and calling everything filthy
+LINE 306: and beastly; though I do think it horrible and unladylike. But this
+LINE 307: last is really too much. Don't you think so, Colonel Pickering?
+LINE 308: PICKERING. Don't ask me. I've been away in India for several years; and
+LINE 309: manners have changed so much that I sometimes don't know whether I'm at
+LINE 310: a respectable dinner-table or in a ship's forecastle.
+LINE 311: CLARA. It's all a matter of habit. There's no right or wrong in it.
+LINE 312: Nobody means anything by it. And it's so quaint, and gives such a smart
+LINE 313: emphasis to things that are not in themselves very witty. I find the
+LINE 314: new small talk delightful and quite innocent.
+LINE 315: MRS. EYNSFORD HILL [rising] Well, after that, I think it's time for us
+LINE 316: to go.
+LINE 317: Pickering and Higgins rise.
+LINE 318: CLARA [rising] Oh yes: we have three at homes to go to still. Good-bye,
+LINE 319: Mrs. Higgins. Good-bye, Colonel Pickering. Good-bye, Professor Higgins.
+LINE 320: HIGGINS [coming grimly at her from the divan, and accompanying her to
+LINE 321: the door] Good-bye. Be sure you try on that small talk at the three
+LINE 322: at-homes. Don't be nervous about it. Pitch it in strong.
+LINE 323: CLARA [all smiles] I will. Good-bye. Such nonsense, all this early
+LINE 324: Victorian prudery!
+LINE 325: HIGGINS [tempting her] Such damned nonsense!
+LINE 326: CLARA. Such bloody nonsense!
+LINE 327: MRS. EYNSFORD HILL [convulsively] Clara!
+LINE 328: CLARA. Ha! ha! [She goes out radiant, conscious of being thoroughly up
+LINE 329: to date, and is heard descending the stairs in a stream of silvery
+LINE 330: laughter].
+LINE 331: FREDDY [to the heavens at large] Well, I ask you [He gives it up, and
+LINE 332: comes to Mrs. Higgins]. Good-bye.
+LINE 333: MRS. HIGGINS [shaking hands] Good-bye. Would you like to meet Miss
+LINE 334: Doolittle again?
+LINE 335: FREDDY [eagerly] Yes, I should, most awfully.
+LINE 336: MRS. HIGGINS. Well, you know my days.
+LINE 337: FREDDY. Yes. Thanks awfully. Good-bye. [He goes out].
+LINE 338: MRS. EYNSFORD HILL. Good-bye, Mr. Higgins.
+LINE 339: HIGGINS. Good-bye. Good-bye.
+LINE 340: MRS. EYNSFORD HILL [to Pickering] It's no use. I shall never be able to
+LINE 341: bring myself to use that word.
+LINE 342: PICKERING. Don't. It's not compulsory, you know. You'll get on quite
+LINE 343: well without it.
+LINE 344: MRS. EYNSFORD HILL. Only, Clara is so down on me if I am not positively
+LINE 345: reeking with the latest slang. Good-bye.
+LINE 346: PICKERING. Good-bye [They shake hands].
+LINE 347: MRS. EYNSFORD HILL [to Mrs. Higgins] You mustn't mind Clara.
+LINE 348: [Pickering, catching from her lowered tone that this is not meant for
+LINE 349: him to hear, discreetly joins Higgins at the window]. We're so poor!
+LINE 350: and she gets so few parties, poor child! She doesn't quite know. [Mrs.
+LINE 351: Higgins, seeing that her eyes are moist, takes her hand sympathetically
+LINE 352: and goes with her to the door]. But the boy is nice. Don't you think so?
+LINE 353: MRS. HIGGINS. Oh, quite nice. I shall always be delighted to see him.
+LINE 354: MRS. EYNSFORD HILL. Thank you, dear. Good-bye. [She goes out].
+LINE 355: HIGGINS [eagerly] Well? Is Eliza presentable [he swoops on his mother
+LINE 356: and drags her to the ottoman, where she sits down in Eliza's place with
+LINE 357: her son on her left]?
+LINE 358: Pickering returns to his chair on her right.
+LINE 359: MRS. HIGGINS. You silly boy, of course she's not presentable. She's a
+LINE 360: triumph of your art and of her dressmaker's; but if you suppose for a
+LINE 361: moment that she doesn't give herself away in every sentence she utters,
+LINE 362: you must be perfectly cracked about her.
+LINE 363: PICKERING. But don't you think something might be done? I mean
+LINE 364: something to eliminate the sanguinary element from her conversation.
+LINE 365: MRS. HIGGINS. Not as long as she is in Henry's hands.
+LINE 366: HIGGINS [aggrieved] Do you mean that my language is improper?
+LINE 367: MRS. HIGGINS. No, dearest: it would be quite proper—say on a canal
+LINE 368: barge; but it would not be proper for her at a garden party.
+LINE 369: HIGGINS [deeply injured] Well I must say—
+LINE 370: PICKERING [interrupting him] Come, Higgins: you must learn to know
+LINE 371: yourself. I haven't heard such language as yours since we used to
+LINE 372: review the volunteers in Hyde Park twenty years ago.
+LINE 373: HIGGINS [sulkily] Oh, well, if you say so, I suppose I don't always
+LINE 374: talk like a bishop.
+LINE 375: MRS. HIGGINS [quieting Henry with a touch] Colonel Pickering: will you
+LINE 376: tell me what is the exact state of things in Wimpole Street?
+LINE 377: PICKERING [cheerfully: as if this completely changed the subject] Well,
+LINE 378: I have come to live there with Henry. We work together at my Indian
+LINE 379: Dialects; and we think it more convenient—
+LINE 380: MRS. HIGGINS. Quite so. I know all about that: it's an excellent
+LINE 381: arrangement. But where does this girl live?
+LINE 382: HIGGINS. With us, of course. Where would she live?
+LINE 383: MRS. HIGGINS. But on what terms? Is she a servant? If not, what is she?
+LINE 384: PICKERING [slowly] I think I know what you mean, Mrs. Higgins.
+LINE 385: HIGGINS. Well, dash me if I do! I've had to work at the girl every day
+LINE 386: for months to get her to her present pitch. Besides, she's useful. She
+LINE 387: knows where my things are, and remembers my appointments and so forth.
+LINE 388: MRS. HIGGINS. How does your housekeeper get on with her?
+LINE 389: HIGGINS. Mrs. Pearce? Oh, she's jolly glad to get so much taken off her
+LINE 390: hands; for before Eliza came, she had to have to find things and remind
+LINE 391: me of my appointments. But she's got some silly bee in her bonnet about
+LINE 392: Eliza. She keeps saying "You don't think, sir": doesn't she, Pick?
+LINE 393: PICKERING. Yes: that's the formula. "You don't think, sir." That's the
+LINE 394: end of every conversation about Eliza.
+LINE 395: HIGGINS. As if I ever stop thinking about the girl and her confounded
+LINE 396: vowels and consonants. I'm worn out, thinking about her, and watching
+LINE 397: her lips and her teeth and her tongue, not to mention her soul, which
+LINE 398: is the quaintest of the lot.
+LINE 399: MRS. HIGGINS. You certainly are a pretty pair of babies, playing with
+LINE 400: your live doll.
+LINE 401: HIGGINS. Playing! The hardest job I ever tackled: make no mistake about
+LINE 402: that, mother. But you have no idea how frightfully interesting it is to
+LINE 403: take a human being and change her into a quite different human being by
+LINE 404: creating a new speech for her. It's filling up the deepest gulf that
+LINE 405: separates class from class and soul from soul.
+LINE 406: PICKERING [drawing his chair closer to Mrs. Higgins and bending over to
+LINE 407: her eagerly] Yes: it's enormously interesting. I assure you, Mrs.
+LINE 408: Higgins, we take Eliza very seriously. Every week—every day
+LINE 409: almost—there is some new change. [Closer again] We keep records of
+LINE 410: every stage—dozens of gramophone disks and photographs—
+LINE 411: HIGGINS [assailing her at the other ear] Yes, by George: it's the most
+LINE 412: absorbing experiment I ever tackled. She regularly fills our lives up;
+LINE 413: doesn't she, Pick?
+LINE 414: PICKERING. We're always talking Eliza.
+LINE 415: HIGGINS. Teaching Eliza.
+LINE 416: PICKERING. Dressing Eliza.
+LINE 417: MRS. HIGGINS. What!
+LINE 418: HIGGINS. Inventing new Elizas.
+LINE 419: Higgins and Pickering, speaking together:
+LINE 420: HIGGINS. You know, she has the most extraordinary quickness of ear:
+LINE 421: PICKERING. I assure you, my dear Mrs. Higgins, that girl
+LINE 422: HIGGINS. just like a parrot. I've tried her with every
+LINE 423: PICKERING. is a genius. She can play the piano quite beautifully
+LINE 424: HIGGINS. possible sort of sound that a human being can make—
+LINE 425: PICKERING. We have taken her to classical concerts and to music
+LINE 426: HIGGINS. Continental dialects, African dialects, Hottentot
+LINE 427: PICKERING. halls; and it's all the same to her: she plays everything
+LINE 428: HIGGINS. clicks, things it took me years to get hold of; and
+LINE 429: PICKERING. she hears right off when she comes home, whether it's
+LINE 430: HIGGINS. she picks them up like a shot, right away, as if she had
+LINE 431: PICKERING. Beethoven and Brahms or Lehar and Lionel Morickton;
+LINE 432: HIGGINS. been at it all her life.
+LINE 433: PICKERING. though six months ago, she'd never as much as touched
+LINE 434: a piano.
+LINE 435: MRS. HIGGINS [putting her fingers in her ears, as they are by this time
+LINE 436: shouting one another down with an intolerable noise] Sh—sh—sh—sh!
+LINE 437: [They stop].
+LINE 438: PICKERING. I beg your pardon. [He draws his chair back apologetically].
+LINE 439: HIGGINS. Sorry. When Pickering starts shouting nobody can get a word in
+LINE 440: edgeways.
+LINE 441: MRS. HIGGINS. Be quiet, Henry. Colonel Pickering: don't you realize
+LINE 442: that when Eliza walked into Wimpole Street, something walked in with
+LINE 443: her?
+LINE 444: PICKERING. Her father did. But Henry soon got rid of him.
+LINE 445: MRS. HIGGINS. It would have been more to the point if her mother had.
+LINE 446: But as her mother didn't something else did.
+LINE 447: PICKERING. But what?
+LINE 448: MRS. HIGGINS [unconsciously dating herself by the word] A problem.
+LINE 449: PICKERING. Oh, I see. The problem of how to pass her off as a lady.
+LINE 450: HIGGINS. I'll solve that problem. I've half solved it already.
+LINE 451: MRS. HIGGINS. No, you two infinitely stupid male creatures: the problem
+LINE 452: of what is to be done with her afterwards.
+LINE 453: HIGGINS. I don't see anything in that. She can go her own way, with all
+LINE 454: the advantages I have given her.
+LINE 455: MRS. HIGGINS. The advantages of that poor woman who was here just now!
+LINE 456: The manners and habits that disqualify a fine lady from earning her own
+LINE 457: living without giving her a fine lady's income! Is that what you mean?
+LINE 458: PICKERING [indulgently, being rather bored] Oh, that will be all right,
+LINE 459: Mrs. Higgins. [He rises to go].
+LINE 460: HIGGINS [rising also] We'll find her some light employment.
+LINE 461: PICKERING. She's happy enough. Don't you worry about her. Good-bye. [He
+LINE 462: shakes hands as if he were consoling a frightened child, and makes for
+LINE 463: the door].
+LINE 464: HIGGINS. Anyhow, there's no good bothering now. The thing's done.
+LINE 465: Good-bye, mother. [He kisses her, and follows Pickering].
+LINE 466: PICKERING [turning for a final consolation] There are plenty of
+LINE 467: openings. We'll do what's right. Good-bye.
+LINE 468: HIGGINS [to Pickering as they go out together] Let's take her to the
+LINE 469: Shakespear exhibition at Earls Court.
+LINE 470: PICKERING. Yes: let's. Her remarks will be delicious.
+LINE 471: HIGGINS. She'll mimic all the people for us when we get home.
+LINE 472: PICKERING. Ripping. [Both are heard laughing as they go downstairs].
+LINE 473: MRS. HIGGINS [rises with an impatient bounce, and returns to her work
+LINE 474: at the writing-table. She sweeps a litter of disarranged papers out of
+LINE 475: her way; snatches a sheet of paper from her stationery case; and tries
+LINE 476: resolutely to write. At the third line she gives it up; flings down her
+LINE 477: pen; grips the table angrily and exclaims] Oh, men! men!! men!!!

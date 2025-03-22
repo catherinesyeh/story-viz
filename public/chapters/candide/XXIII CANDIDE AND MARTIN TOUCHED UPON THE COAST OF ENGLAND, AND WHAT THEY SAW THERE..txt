@@ -1,0 +1,39 @@
+LINE 1: "Ah, Pangloss! Pangloss! Ah, Martin! Martin! Ah, my dear Cunegonde, what
+LINE 2: sort of a world is this?" said Candide on board the Dutch ship.
+LINE 3: "Something very foolish and abominable," said Martin.
+LINE 4: "You know England? Are they as foolish there as in France?"
+LINE 5: "It is another kind of folly," said Martin. "You know that these two
+LINE 6: nations are at war for a few acres of snow in Canada,[31] and that they
+LINE 7: spend over this beautiful war much more than Canada is worth. To tell
+LINE 8: you exactly, whether there are more people fit to send to a madhouse in
+LINE 9: one country than the other, is what my imperfect intelligence will not
+LINE 10: permit. I only know in general that the people we are going to see are
+LINE 11: very atrabilious."
+LINE 12: Talking thus they arrived at Portsmouth. The coast was lined with crowds
+LINE 13: of people, whose eyes were fixed on a fine man kneeling, with his eyes
+LINE 14: bandaged, on board one of the men of war in the harbour. Four soldiers
+LINE 15: stood opposite to this man; each of them fired three balls at his head,
+LINE 16: with all the calmness in the world; and the whole assembly went away
+LINE 17: very well satisfied.
+LINE 18: "What is all this?" said Candide; "and what demon is it that exercises
+LINE 19: his empire in this country?"
+LINE 20: He then asked who was that fine man who had been killed with so much
+LINE 21: ceremony. They answered, he was an Admiral.[32]
+LINE 22: "And why kill this Admiral?"
+LINE 23: "It is because he did not kill a sufficient number of men himself. He
+LINE 24: gave battle to a French Admiral; and it has been proved that he was not
+LINE 25: near enough to him."
+LINE 26: "But," replied Candide, "the French Admiral was as far from the English
+LINE 27: Admiral."
+LINE 28: "There is no doubt of it; but in this country it is found good, from
+LINE 29: time to time, to kill one Admiral to encourage the others."
+LINE 30: Candide was so shocked and bewildered by what he saw and heard, that he
+LINE 31: would not set foot on shore, and he made a bargain with the Dutch
+LINE 32: skipper (were he even to rob him like the Surinam captain) to conduct
+LINE 33: him without delay to Venice.
+LINE 34: The skipper was ready in two days. They coasted France; they passed in
+LINE 35: sight of Lisbon, and Candide trembled. They passed through the Straits,
+LINE 36: and entered the Mediterranean. At last they landed at Venice.
+LINE 37: "God be praised!" said Candide, embracing Martin. "It is here that I
+LINE 38: shall see again my beautiful Cunegonde. I trust Cacambo as myself. All
+LINE 39: is well, all will be well, all goes as well as possible."

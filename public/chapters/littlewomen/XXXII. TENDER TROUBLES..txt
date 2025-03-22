@@ -1,0 +1,398 @@
+LINE 1: "Jo, I'm anxious about Beth."
+LINE 2: "Why, mother, she has seemed unusually well since the babies came."
+LINE 3: "It's not her health that troubles me now; it's her spirits. I'm sure
+LINE 4: there is something on her mind, and I want you to discover what it is."
+LINE 5: "What makes you think so, mother?"
+LINE 6: "She sits alone a good deal, and doesn't talk to her father as much as
+LINE 7: she used. I found her crying over the babies the other day. When she
+LINE 8: sings, the songs are always sad ones, and now and then I see a look in
+LINE 9: her face that I don't understand. This isn't like Beth, and it worries
+LINE 10: me."
+LINE 11: "Have you asked her about it?"
+LINE 12: "I have tried once or twice; but she either evaded my questions, or
+LINE 13: looked so distressed that I stopped. I never force my children's
+LINE 14: confidence, and I seldom have to wait for it long."
+LINE 15: Mrs. March glanced at Jo as she spoke, but the face opposite seemed
+LINE 16: quite unconscious of any secret disquietude but Beth's; and, after
+LINE 17: sewing thoughtfully for a minute, Jo said,--
+LINE 18: "I think she is growing up, and so begins to dream dreams, and have
+LINE 19: hopes and fears and fidgets, without knowing why, or being able to
+LINE 20: explain them. Why, mother, Beth's eighteen, but we don't realize it, and
+LINE 21: treat her like a child, forgetting she's a woman."
+LINE 22: "So she is. Dear heart, how fast you do grow up," returned her mother,
+LINE 23: with a sigh and a smile.
+LINE 24: "Can't be helped, Marmee, so you must resign yourself to all sorts of
+LINE 25: worries, and let your birds hop out of the nest, one by one. I promise
+LINE 26: never to hop very far, if that is any comfort to you."
+LINE 27: "It is a great comfort, Jo; I always feel strong when you are at home,
+LINE 28: now Meg is gone. Beth is too feeble and Amy too young to depend upon;
+LINE 29: but when the tug comes, you are always ready."
+LINE 30: "Why, you know I don't mind hard jobs much, and there must always be one
+LINE 31: scrub in a family. Amy is splendid in fine works, and I'm not; but I
+LINE 32: feel in my element when all the carpets are to be taken up, or half the
+LINE 33: family fall sick at once. Amy is distinguishing herself abroad; but if
+LINE 34: anything is amiss at home, I'm your man."
+LINE 35: "I leave Beth to your hands, then, for she will open her tender little
+LINE 36: heart to her Jo sooner than to any one else. Be very kind, and don't let
+LINE 37: her think any one watches or talks about her. If she only would get
+LINE 38: quite strong and cheerful again, I shouldn't have a wish in the world."
+LINE 39: "Happy woman! I've got heaps."
+LINE 40: "My dear, what are they?"
+LINE 41: "I'll settle Bethy's troubles, and then I'll tell you mine. They are not
+LINE 42: very wearing, so they'll keep;" and Jo stitched away, with a wise nod
+LINE 43: which set her mother's heart at rest about her, for the present at
+LINE 44: least.
+LINE 45: While apparently absorbed in her own affairs, Jo watched Beth; and,
+LINE 46: after many conflicting conjectures, finally settled upon one which
+LINE 47: seemed to explain the change in her. A slight incident gave Jo the clue
+LINE 48: to the mystery, she thought, and lively fancy, loving heart did the
+LINE 49: rest. She was affecting to write busily one Saturday afternoon, when she
+LINE 50: and Beth were alone together; yet as she scribbled, she kept her eye on
+LINE 51: her sister, who seemed unusually quiet. Sitting at the window, Beth's
+LINE 52: work often dropped into her lap, and she leaned her head upon her hand,
+LINE 53: in a dejected attitude, while her eyes rested on the dull, autumnal
+LINE 54: landscape. Suddenly some one passed below, whistling like an operatic
+LINE 55: blackbird, and a voice called out,--
+LINE 56: [Illustration: She leaned her head upon her hands]
+LINE 57: "All serene! Coming in to-night."
+LINE 58: Beth started, leaned forward, smiled and nodded, watched the passer-by
+LINE 59: till his quick tramp died away, then said softly, as if to herself,--
+LINE 60: "How strong and well and happy that dear boy looks."
+LINE 61: "Hum!" said Jo, still intent upon her sister's face; for the bright
+LINE 62: color faded as quickly as it came, the smile vanished, and presently a
+LINE 63: tear lay shining on the window-ledge. Beth whisked it off, and glanced
+LINE 64: apprehensively at Jo; but she was scratching away at a tremendous rate,
+LINE 65: apparently engrossed in "Olympia's Oath." The instant Beth turned, Jo
+LINE 66: began her watch again, saw Beth's hand go quietly to her eyes more than
+LINE 67: once, and, in her half-averted face, read a tender sorrow that made her
+LINE 68: own eyes fill. Fearing to betray herself, she slipped away, murmuring
+LINE 69: something about needing more paper.
+LINE 70: "Mercy on me, Beth loves Laurie!" she said, sitting down in her own
+LINE 71: room, pale with the shock of the discovery which she believed she had
+LINE 72: just made. "I never dreamt of such a thing. What _will_ mother say? I
+LINE 73: wonder if he--" there Jo stopped, and turned scarlet with a sudden
+LINE 74: thought. "If he shouldn't love back again, how dreadful it would be. He
+LINE 75: must; I'll make him!" and she shook her head threateningly at the
+LINE 76: picture of the mischievous-looking boy laughing at her from the wall.
+LINE 77: "Oh dear, we _are_ growing up with a vengeance. Here's Meg married and a
+LINE 78: mamma, Amy flourishing away at Paris, and Beth in love. I'm the only one
+LINE 79: that has sense enough to keep out of mischief." Jo thought intently for
+LINE 80: a minute, with her eyes fixed on the picture; then she smoothed out her
+LINE 81: wrinkled forehead, and said, with a decided nod at the face opposite,
+LINE 82: "No, thank you, sir; you're very charming, but you've no more stability
+LINE 83: than a weathercock; so you needn't write touching notes, and smile in
+LINE 84: that insinuating way, for it won't do a bit of good, and I won't have
+LINE 85: it."
+LINE 86: Then she sighed, and fell into a reverie, from which she did not wake
+LINE 87: till the early twilight sent her down to take new observations, which
+LINE 88: only confirmed her suspicion. Though Laurie flirted with Amy and joked
+LINE 89: with Jo, his manner to Beth had always been peculiarly kind and gentle,
+LINE 90: but so was everybody's; therefore, no one thought of imagining that he
+LINE 91: cared more for her than for the others. Indeed, a general impression had
+LINE 92: prevailed in the family, of late, that "our boy" was getting fonder than
+LINE 93: ever of Jo, who, however, wouldn't hear a word upon the subject, and
+LINE 94: scolded violently if any one dared to suggest it. If they had known the
+LINE 95: various tender passages of the past year, or rather attempts at tender
+LINE 96: passages which had been nipped in the bud, they would have had the
+LINE 97: immense satisfaction of saying, "I told you so." But Jo hated
+LINE 98: "philandering," and wouldn't allow it, always having a joke or a smile
+LINE 99: ready at the least sign of impending danger.
+LINE 100: When Laurie first went to college, he fell in love about once a month;
+LINE 101: but these small flames were as brief as ardent, did no damage, and much
+LINE 102: amused Jo, who took great interest in the alternations of hope, despair,
+LINE 103: and resignation, which were confided to her in their weekly
+LINE 104: conferences. But there came a time when Laurie ceased to worship at many
+LINE 105: shrines, hinted darkly at one all-absorbing passion, and indulged
+LINE 106: occasionally in Byronic fits of gloom. Then he avoided the tender
+LINE 107: subject altogether, wrote philosophical notes to Jo, turned studious,
+LINE 108: and gave out that he was going to "dig," intending to graduate in a
+LINE 109: blaze of glory. This suited the young lady better than twilight
+LINE 110: confidences, tender pressures of the hand, and eloquent glances of the
+LINE 111: eye; for with Jo, brain developed earlier than heart, and she preferred
+LINE 112: imaginary heroes to real ones, because, when tired of them, the former
+LINE 113: could be shut up in the tin-kitchen till called for, and the latter were
+LINE 114: less manageable.
+LINE 115: Things were in this state when the grand discovery was made, and Jo
+LINE 116: watched Laurie that night as she had never done before. If she had not
+LINE 117: got the new idea into her head, she would have seen nothing unusual in
+LINE 118: the fact that Beth was very quiet, and Laurie very kind to her. But
+LINE 119: having given the rein to her lively fancy, it galloped away with her at
+LINE 120: a great pace; and common sense, being rather weakened by a long course
+LINE 121: of romance writing, did not come to the rescue. As usual, Beth lay on
+LINE 122: the sofa, and Laurie sat in a low chair close by, amusing her with all
+LINE 123: sorts of gossip; for she depended on her weekly "spin," and he never
+LINE 124: disappointed her. But that evening, Jo fancied that Beth's eyes rested
+LINE 125: on the lively, dark face beside her with peculiar pleasure, and that she
+LINE 126: listened with intense interest to an account of some exciting
+LINE 127: cricket-match, though the phrases, "caught off a tice," "stumped off his
+LINE 128: ground," and "the leg hit for three," were as intelligible to her as
+LINE 129: Sanscrit. She also fancied, having set her heart upon seeing it, that
+LINE 130: she saw a certain increase of gentleness in Laurie's manner, that he
+LINE 131: dropped his voice now and then, laughed less than usual, was a little
+LINE 132: absent-minded, and settled the afghan over Beth's feet with an assiduity
+LINE 133: that was really almost tender.
+LINE 134: "Who knows? stranger things have happened," thought Jo, as she fussed
+LINE 135: about the room. "She will make quite an angel of him, and he will make
+LINE 136: life delightfully easy and pleasant for the dear, if they only love each
+LINE 137: other. I don't see how he can help it; and I do believe he would if the
+LINE 138: rest of us were out of the way."
+LINE 139: As every one _was_ out of the way but herself, Jo began to feel that
+LINE 140: she ought to dispose of herself with all speed. But where should she go?
+LINE 141: and burning to lay herself upon the shrine of sisterly devotion, she sat
+LINE 142: down to settle that point.
+LINE 143: Now, the old sofa was a regular patriarch of a sofa,--long, broad,
+LINE 144: well-cushioned, and low; a trifle shabby, as well it might be, for the
+LINE 145: girls had slept and sprawled on it as babies, fished over the back, rode
+LINE 146: on the arms, and had menageries under it as children, and rested tired
+LINE 147: heads, dreamed dreams, and listened to tender talk on it as young women.
+LINE 148: They all loved it, for it was a family refuge, and one corner had always
+LINE 149: been Jo's favorite lounging-place. Among the many pillows that adorned
+LINE 150: the venerable couch was one, hard, round, covered with prickly
+LINE 151: horsehair, and furnished with a knobby button at each end; this
+LINE 152: repulsive pillow was her especial property, being used as a weapon of
+LINE 153: defence, a barricade, or a stern preventive of too much slumber.
+LINE 154: Laurie knew this pillow well, and had cause to regard it with deep
+LINE 155: aversion, having been unmercifully pummelled with it in former days,
+LINE 156: when romping was allowed, and now frequently debarred by it from taking
+LINE 157: the seat he most coveted, next to Jo in the sofa corner. If "the
+LINE 158: sausage" as they called it, stood on end, it was a sign that he might
+LINE 159: approach and repose; but if it lay flat across the sofa, woe to the man,
+LINE 160: woman, or child who dared disturb it! That evening Jo forgot to
+LINE 161: barricade her corner, and had not been in her seat five minutes, before
+LINE 162: a massive form appeared beside her, and, with both arms spread over the
+LINE 163: sofa-back, both long legs stretched out before him, Laurie exclaimed,
+LINE 164: with a sigh of satisfaction,--
+LINE 165: "Now, _this_ is filling at the price."
+LINE 166: [Illustration: Now, this is filling at the price]
+LINE 167: "No slang," snapped Jo, slamming down the pillow. But it was too late,
+LINE 168: there was no room for it; and, coasting on to the floor, it disappeared
+LINE 169: in a most mysterious manner.
+LINE 170: "Come, Jo, don't be thorny. After studying himself to a skeleton all the
+LINE 171: week, a fellow deserves petting, and ought to get it."
+LINE 172: "Beth will pet you; I'm busy."
+LINE 173: "No, she's not to be bothered with me; but you like that sort of thing,
+LINE 174: unless you've suddenly lost your taste for it. Have you? Do you hate
+LINE 175: your boy, and want to fire pillows at him?"
+LINE 176: Anything more wheedlesome than that touching appeal was seldom heard,
+LINE 177: but Jo quenched "her boy" by turning on him with the stern query,--
+LINE 178: "How many bouquets have you sent Miss Randal this week?"
+LINE 179: "Not one, upon my word. She's engaged. Now then."
+LINE 180: "I'm glad of it; that's one of your foolish extravagances,--sending
+LINE 181: flowers and things to girls for whom you don't care two pins," continued
+LINE 182: Jo reprovingly.
+LINE 183: "Sensible girls, for whom I do care whole papers of pins, won't let me
+LINE 184: send them 'flowers and things,' so what can I do? My feelings must have
+LINE 185: a _went_."
+LINE 186: "Mother doesn't approve of flirting, even in fun; and you do flirt
+LINE 187: desperately, Teddy."
+LINE 188: "I'd give anything if I could answer, 'So do you.' As I can't, I'll
+LINE 189: merely say that I don't see any harm in that pleasant little game, if
+LINE 190: all parties understand that it's only play."
+LINE 191: "Well, it does look pleasant, but I can't learn how it's done. I've
+LINE 192: tried, because one feels awkward in company, not to do as everybody else
+LINE 193: is doing; but I don't seem to get on," said Jo, forgetting to play
+LINE 194: Mentor.
+LINE 195: "Take lessons of Amy; she has a regular talent for it."
+LINE 196: "Yes, she does it very prettily, and never seems to go too far. I
+LINE 197: suppose it's natural to some people to please without trying, and others
+LINE 198: to always say and do the wrong thing in the wrong place."
+LINE 199: "I'm glad you can't flirt; it's really refreshing to see a sensible,
+LINE 200: straightforward girl, who can be jolly and kind without making a fool of
+LINE 201: herself. Between ourselves, Jo, some of the girls I know really do go on
+LINE 202: at such a rate I'm ashamed of them. They don't mean any harm, I'm sure;
+LINE 203: but if they knew how we fellows talked about them afterward, they'd mend
+LINE 204: their ways, I fancy."
+LINE 205: "They do the same; and, as their tongues are the sharpest, you fellows
+LINE 206: get the worst of it, for you are as silly as they, every bit. If you
+LINE 207: behaved properly, they would; but, knowing you like their nonsense, they
+LINE 208: keep it up, and then you blame them."
+LINE 209: "Much you know about it, ma'am," said Laurie, in a superior tone. "We
+LINE 210: don't like romps and flirts, though we may act as if we did sometimes.
+LINE 211: The pretty, modest girls are never talked about, except respectfully,
+LINE 212: among gentlemen. Bless your innocent soul! If you could be in my place
+LINE 213: for a month you'd see things that would astonish you a trifle. Upon my
+LINE 214: word, when I see one of those harum-scarum girls, I always want to say
+LINE 215: with our friend Cock Robin,--
+LINE 216: "'Out upon you, fie upon you,
+LINE 217: Bold-faced jig!'"
+LINE 218: It was impossible to help laughing at the funny conflict between
+LINE 219: Laurie's chivalrous reluctance to speak ill of womankind, and his very
+LINE 220: natural dislike of the unfeminine folly of which fashionable society
+LINE 221: showed him many samples. Jo knew that "young Laurence" was regarded as a
+LINE 222: most eligible _parti_ by worldly mammas, was much smiled upon by their
+LINE 223: daughters, and flattered enough by ladies of all ages to make a coxcomb
+LINE 224: of him; so she watched him rather jealously, fearing he would be spoilt,
+LINE 225: and rejoiced more than she confessed to find that he still believed in
+LINE 226: modest girls. Returning suddenly to her admonitory tone, she said,
+LINE 227: dropping her voice, "If you _must_ have a 'went,' Teddy, go and devote
+LINE 228: yourself to one of the 'pretty, modest girls' whom you do respect, and
+LINE 229: not waste your time with the silly ones."
+LINE 230: "You really advise it?" and Laurie looked at her with an odd mixture of
+LINE 231: anxiety and merriment in his face.
+LINE 232: "Yes, I do; but you'd better wait till you are through college, on the
+LINE 233: whole, and be fitting yourself for the place meantime. You're not half
+LINE 234: good enough for--well, whoever the modest girl maybe," and Jo looked a
+LINE 235: little queer likewise, for a name had almost escaped her.
+LINE 236: "That I'm not!" acquiesced Laurie, with an expression of humility quite
+LINE 237: new to him, as he dropped his eyes, and absently wound Jo's apron-tassel
+LINE 238: round his finger.
+LINE 239: "Mercy on us, this will never do," thought Jo; adding aloud, "Go and
+LINE 240: sing to me. I'm dying for some music, and always like yours."
+LINE 241: "I'd rather stay here, thank you."
+LINE 242: "Well, you can't; there isn't room. Go and make yourself useful, since
+LINE 243: you are too big to be ornamental. I thought you hated to be tied to a
+LINE 244: woman's apron-string?" retorted Jo, quoting certain rebellious words of
+LINE 245: his own.
+LINE 246: "Ah, that depends on who wears the apron!" and Laurie gave an audacious
+LINE 247: tweak at the tassel.
+LINE 248: "Are you going?" demanded Jo, diving for the pillow.
+LINE 249: He fled at once, and the minute it was well "Up with the bonnets of
+LINE 250: bonnie Dundee," she slipped away, to return no more till the young
+LINE 251: gentleman had departed in high dudgeon.
+LINE 252: [Illustration: Up with the Bonnets of Bonnie Dundee]
+LINE 253: Jo lay long awake that night, and was just dropping off when the sound
+LINE 254: of a stifled sob made her fly to Beth's bedside, with the anxious
+LINE 255: inquiry, "What is it, dear?"
+LINE 256: "I thought you were asleep," sobbed Beth.
+LINE 257: "Is it the old pain, my precious?"
+LINE 258: "No; it's a new one; but I can bear it," and Beth tried to check her
+LINE 259: tears.
+LINE 260: "Tell me all about it, and let me cure it as I often did the other."
+LINE 261: "You can't; there is no cure." There Beth's voice gave way, and,
+LINE 262: clinging to her sister, she cried so despairingly that Jo was
+LINE 263: frightened.
+LINE 264: "Where is it? Shall I call mother?"
+LINE 265: Beth did not answer the first question; but in the dark one hand went
+LINE 266: involuntarily to her heart, as if the pain were there; with the other
+LINE 267: she held Jo fast, whispering eagerly, "No, no, don't call her, don't
+LINE 268: tell her. I shall be better soon. Lie down here and 'poor' my head. I'll
+LINE 269: be quiet, and go to sleep; indeed I will."
+LINE 270: Jo obeyed; but as her hand went softly to and fro across Beth's hot
+LINE 271: forehead and wet eyelids, her heart was very full, and she longed to
+LINE 272: speak. But young as she was, Jo had learned that hearts, like flowers,
+LINE 273: cannot be rudely handled, but must open naturally; so, though she
+LINE 274: believed she knew the cause of Beth's new pain, she only said, in her
+LINE 275: tenderest tone, "Does anything trouble you, deary?"
+LINE 276: "Yes, Jo," after a long pause.
+LINE 277: "Wouldn't it comfort you to tell me what it is?"
+LINE 278: "Not now, not yet."
+LINE 279: "Then I won't ask; but remember, Bethy, that mother and Jo are always
+LINE 280: glad to hear and help you, if they can."
+LINE 281: "I know it. I'll tell you by and by."
+LINE 282: "Is the pain better now?"
+LINE 283: "Oh, yes, much better; you are so comfortable, Jo!"
+LINE 284: "Go to sleep, dear; I'll stay with you."
+LINE 285: So cheek to cheek they fell asleep, and on the morrow Beth seemed quite
+LINE 286: herself again; for at eighteen, neither heads nor hearts ache long, and
+LINE 287: a loving word can medicine most ills.
+LINE 288: But Jo had made up her mind, and, after pondering over a project for
+LINE 289: some days, she confided it to her mother.
+LINE 290: "You asked me the other day what my wishes were. I'll tell you one of
+LINE 291: them, Marmee," she began, as they sat alone together. "I want to go away
+LINE 292: somewhere this winter for a change."
+LINE 293: "Why, Jo?" and her mother looked up quickly, as if the words suggested a
+LINE 294: double meaning.
+LINE 295: With her eyes on her work, Jo answered soberly, "I want something new; I
+LINE 296: feel restless, and anxious to be seeing, doing, and learning more than I
+LINE 297: am. I brood too much over my own small affairs, and need stirring up,
+LINE 298: so, as I can be spared this winter, I'd like to hop a little way, and
+LINE 299: try my wings."
+LINE 300: "Where will you hop?"
+LINE 301: "To New York. I had a bright idea yesterday, and this is it. You know
+LINE 302: Mrs. Kirke wrote to you for some respectable young person to teach her
+LINE 303: children and sew. It's rather hard to find just the thing, but I think I
+LINE 304: should suit if I tried."
+LINE 305: "My dear, go out to service in that great boarding-house!" and Mrs.
+LINE 306: March looked surprised, but not displeased.
+LINE 307: "It's not exactly going out to service; for Mrs. Kirke is your
+LINE 308: friend,--the kindest soul that ever lived,--and would make things
+LINE 309: pleasant for me, I know. Her family is separate from the rest, and no
+LINE 310: one knows me there. Don't care if they do; it's honest work, and I'm not
+LINE 311: ashamed of it."
+LINE 312: "Nor I; but your writing?"
+LINE 313: "All the better for the change. I shall see and hear new things, get new
+LINE 314: ideas, and, even if I haven't much time there, I shall bring home
+LINE 315: quantities of material for my rubbish."
+LINE 316: "I have no doubt of it; but are these your only reasons for this sudden
+LINE 317: fancy?"
+LINE 318: "No, mother."
+LINE 319: "May I know the others?"
+LINE 320: Jo looked up and Jo looked down, then said slowly, with sudden color in
+LINE 321: her cheeks, "It may be vain and wrong to say it, but--I'm afraid--Laurie
+LINE 322: is getting too fond of me."
+LINE 323: "Then you don't care for him in the way it is evident he begins to care
+LINE 324: for you?" and Mrs. March looked anxious as she put the question.
+LINE 325: "Mercy, no! I love the dear boy, as I always have, and am immensely
+LINE 326: proud of him; but as for anything more, it's out of the question."
+LINE 327: "I'm glad of that, Jo."
+LINE 328: "Why, please?"
+LINE 329: "Because, dear, I don't think you suited to one another. As friends you
+LINE 330: are very happy, and your frequent quarrels soon blow over; but I fear
+LINE 331: you would both rebel if you were mated for life. You are too much alike
+LINE 332: and too fond of freedom, not to mention hot tempers and strong wills, to
+LINE 333: get on happily together, in a relation which needs infinite patience and
+LINE 334: forbearance, as well as love."
+LINE 335: "That's just the feeling I had, though I couldn't express it. I'm glad
+LINE 336: you think he is only beginning to care for me. It would trouble me sadly
+LINE 337: to make him unhappy; for I couldn't fall in love with the dear old
+LINE 338: fellow merely out of gratitude, could I?"
+LINE 339: "You are sure of his feeling for you?"
+LINE 340: The color deepened in Jo's cheeks, as she answered, with the look of
+LINE 341: mingled pleasure, pride, and pain which young girls wear when speaking
+LINE 342: of first lovers,--
+LINE 343: "I'm afraid it is so, mother; he hasn't said anything, but he looks a
+LINE 344: great deal. I think I had better go away before it comes to anything."
+LINE 345: "I agree with you, and if it can be managed you shall go."
+LINE 346: Jo looked relieved, and, after a pause, said, smiling, "How Mrs. Moffat
+LINE 347: would wonder at your want of management, if she knew; and how she will
+LINE 348: rejoice that Annie still may hope."
+LINE 349: "Ah, Jo, mothers may differ in their management, but the hope is the
+LINE 350: same in all,--the desire to see their children happy. Meg is so, and I
+LINE 351: am content with her success. You I leave to enjoy your liberty till you
+LINE 352: tire of it; for only then will you find that there is something sweeter.
+LINE 353: Amy is my chief care now, but her good sense will help her. For Beth, I
+LINE 354: indulge no hopes except that she may be well. By the way, she seems
+LINE 355: brighter this last day or two. Have you spoken to her?"
+LINE 356: "Yes; she owned she had a trouble, and promised to tell me by and by. I
+LINE 357: said no more, for I think I know it;" and Jo told her little story.
+LINE 358: Mrs. March shook her head, and did not take so romantic a view of the
+LINE 359: case, but looked grave, and repeated her opinion that, for Laurie's
+LINE 360: sake, Jo should go away for a time.
+LINE 361: "Let us say nothing about it to him till the plan is settled; then I'll
+LINE 362: run away before he can collect his wits and be tragical. Beth must think
+LINE 363: I'm going to please myself, as I am, for I can't talk about Laurie to
+LINE 364: her; but she can pet and comfort him after I'm gone, and so cure him of
+LINE 365: this romantic notion. He's been through so many little trials of the
+LINE 366: sort, he's used to it, and will soon get over his love-lornity."
+LINE 367: Jo spoke hopefully, but could not rid herself of the foreboding fear
+LINE 368: that this "little trial" would be harder than the others, and that
+LINE 369: Laurie would not get over his "love-lornity" as easily as heretofore.
+LINE 370: The plan was talked over in a family council, and agreed upon; for Mrs.
+LINE 371: Kirke gladly accepted Jo, and promised to make a pleasant home for her.
+LINE 372: The teaching would render her independent; and such leisure as she got
+LINE 373: might be made profitable by writing, while the new scenes and society
+LINE 374: would be both useful and agreeable. Jo liked the prospect and was eager
+LINE 375: to be gone, for the home-nest was growing too narrow for her restless
+LINE 376: nature and adventurous spirit. When all was settled, with fear and
+LINE 377: trembling she told Laurie; but to her surprise he took it very quietly.
+LINE 378: He had been graver than usual of late, but very pleasant; and, when
+LINE 379: jokingly accused of turning over a new leaf, he answered soberly, "So I
+LINE 380: am; and I mean this one shall stay turned."
+LINE 381: Jo was very much relieved that one of his virtuous fits should come on
+LINE 382: just then, and made her preparations with a lightened heart,--for Beth
+LINE 383: seemed more cheerful,--and hoped she was doing the best for all.
+LINE 384: "One thing I leave to your especial care," she said, the night before
+LINE 385: she left.
+LINE 386: "You mean your papers?" asked Beth.
+LINE 387: "No, my boy. Be very good to him, won't you?"
+LINE 388: "Of course I will; but I can't fill your place, and he'll miss you
+LINE 389: sadly."
+LINE 390: "It won't hurt him; so remember, I leave him in your charge, to plague,
+LINE 391: pet, and keep in order."
+LINE 392: "I'll do my best, for your sake," promised Beth, wondering why Jo looked
+LINE 393: at her so queerly.
+LINE 394: When Laurie said "Good-by," he whispered significantly, "It won't do a
+LINE 395: bit of good, Jo. My eye is on you; so mind what you do, or I'll come and
+LINE 396: bring you home."
+LINE 397: [Illustration: I amused myself by dropping gingerbread nuts over the
+LINE 398: seat]

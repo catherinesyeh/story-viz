@@ -1,0 +1,295 @@
+LINE 1: [Illustration: November is the most disagreeable month in the year]
+LINE 2: "November is the most disagreeable month in the whole year," said
+LINE 3: Margaret, standing at the window one dull afternoon, looking out at the
+LINE 4: frost-bitten garden.
+LINE 5: "That's the reason I was born in it," observed Jo pensively, quite
+LINE 6: unconscious of the blot on her nose.
+LINE 7: "If something very pleasant should happen now, we should think it a
+LINE 8: delightful month," said Beth, who took a hopeful view of everything,
+LINE 9: even November.
+LINE 10: "I dare say; but nothing pleasant ever _does_ happen in this family,"
+LINE 11: said Meg, who was out of sorts. "We go grubbing along day after day,
+LINE 12: without a bit of change, and very little fun. We might as well be in a
+LINE 13: treadmill."
+LINE 14: "My patience, how blue we are!" cried Jo. "I don't much wonder, poor
+LINE 15: dear, for you see other girls having splendid times, while you grind,
+LINE 16: grind, year in and year out. Oh, don't I wish I could manage things for
+LINE 17: you as I do for my heroines! You're pretty enough and good enough
+LINE 18: already, so I'd have some rich relation leave you a fortune
+LINE 19: unexpectedly; then you'd dash out as an heiress, scorn every one who
+LINE 20: has slighted you, go abroad, and come home my Lady Something, in a blaze
+LINE 21: of splendor and elegance."
+LINE 22: "People don't have fortunes left them in that style now-a-days; men have
+LINE 23: to work, and women to marry for money. It's a dreadfully unjust world,"
+LINE 24: said Meg bitterly.
+LINE 25: "Jo and I are going to make fortunes for you all; just wait ten years,
+LINE 26: and see if we don't," said Amy, who sat in a corner, making mud pies, as
+LINE 27: Hannah called her little clay models of birds, fruit, and faces.
+LINE 28: "Can't wait, and I'm afraid I haven't much faith in ink and dirt, though
+LINE 29: I'm grateful for your good intentions."
+LINE 30: Meg sighed, and turned to the frost-bitten garden again; Jo groaned, and
+LINE 31: leaned both elbows on the table in a despondent attitude, but Amy
+LINE 32: spatted away energetically; and Beth, who sat at the other window, said,
+LINE 33: smiling, "Two pleasant things are going to happen right away: Marmee is
+LINE 34: coming down the street, and Laurie is tramping through the garden as if
+LINE 35: he had something nice to tell."
+LINE 36: In they both came, Mrs. March with her usual question, "Any letter from
+LINE 37: father, girls?" and Laurie to say in his persuasive way, "Won't some of
+LINE 38: you come for a drive? I've been working away at mathematics till my head
+LINE 39: is in a muddle, and I'm going to freshen my wits by a brisk turn. It's a
+LINE 40: dull day, but the air isn't bad, and I'm going to take Brooke home, so
+LINE 41: it will be gay inside, if it isn't out. Come, Jo, you and Beth will go,
+LINE 42: won't you?"
+LINE 43: "Of course we will."
+LINE 44: "Much obliged, but I'm busy;" and Meg whisked out her work-basket, for
+LINE 45: she had agreed with her mother that it was best, for her at least, not
+LINE 46: to drive often with the young gentleman.
+LINE 47: "We three will be ready in a minute," cried Amy, running away to wash
+LINE 48: her hands.
+LINE 49: "Can I do anything for you, Madam Mother?" asked Laurie, leaning over
+LINE 50: Mrs. March's chair, with the affectionate look and tone he always gave
+LINE 51: her.
+LINE 52: "No, thank you, except call at the office, if you'll be so kind, dear.
+LINE 53: It's our day for a letter, and the postman hasn't been. Father is as
+LINE 54: regular as the sun, but there's some delay on the way, perhaps."
+LINE 55: A sharp ring interrupted her, and a minute after Hannah came in with a
+LINE 56: letter.
+LINE 57: "It's one of them horrid telegraph things, mum," she said, handing it as
+LINE 58: if she was afraid it would explode and do some damage.
+LINE 59: [Illustration: One of them horrid telegraph things]
+LINE 60: At the word "telegraph," Mrs. March snatched it, read the two lines it
+LINE 61: contained, and dropped back into her chair as white as if the little
+LINE 62: paper had sent a bullet to her heart. Laurie dashed down stairs for
+LINE 63: water, while Meg and Hannah supported her, and Jo read aloud, in a
+LINE 64: frightened voice,--
+LINE 65: "MRS. MARCH:
+LINE 66: "Your husband is very ill. Come at once.
+LINE 67: "S. HALE,
+LINE 68: "Blank Hospital, Washington"
+LINE 69: How still the room was as they listened breathlessly, how strangely the
+LINE 70: day darkened outside, and how suddenly the whole world seemed to change,
+LINE 71: as the girls gathered about their mother, feeling as if all the
+LINE 72: happiness and support of their lives was about to be taken from them.
+LINE 73: Mrs. March was herself again directly; read the message over, and
+LINE 74: stretched out her arms to her daughters, saying, in a tone they never
+LINE 75: forgot, "I shall go at once, but it may be too late. O children,
+LINE 76: children, help me to bear it!"
+LINE 77: For several minutes there was nothing but the sound of sobbing in the
+LINE 78: room, mingled with broken words of comfort, tender assurances of help,
+LINE 79: and hopeful whispers that died away in tears. Poor Hannah was the first
+LINE 80: to recover, and with unconscious wisdom she set all the rest a good
+LINE 81: example; for, with her, work was the panacea for most afflictions.
+LINE 82: "The Lord keep the dear man! I won't waste no time a cryin', but git
+LINE 83: your things ready right away, mum," she said, heartily, as she wiped her
+LINE 84: face on her apron, gave her mistress a warm shake of the hand with her
+LINE 85: own hard one, and went away, to work like three women in one.
+LINE 86: "She's right; there's no time for tears now. Be calm, girls, and let me
+LINE 87: think."
+LINE 88: They tried to be calm, poor things, as their mother sat up, looking
+LINE 89: pale, but steady, and put away her grief to think and plan for them.
+LINE 90: "Where's Laurie?" she asked presently, when she had collected her
+LINE 91: thoughts, and decided on the first duties to be done.
+LINE 92: "Here, ma'am. Oh, let me do something!" cried the boy, hurrying from the
+LINE 93: next room, whither he had withdrawn, feeling that their first sorrow was
+LINE 94: too sacred for even his friendly eyes to see.
+LINE 95: "Send a telegram saying I will come at once. The next train goes early
+LINE 96: in the morning. I'll take that."
+LINE 97: "What else? The horses are ready; I can go anywhere, do anything," he
+LINE 98: said, looking ready to fly to the ends of the earth.
+LINE 99: "Leave a note at Aunt March's. Jo, give me that pen and paper."
+LINE 100: Tearing off the blank side of one of her newly copied pages, Jo drew the
+LINE 101: table before her mother, well knowing that money for the long, sad
+LINE 102: journey must be borrowed, and feeling as if she could do anything to add
+LINE 103: a little to the sum for her father.
+LINE 104: "Now go, dear; but don't kill yourself driving at a desperate pace;
+LINE 105: there is no need of that."
+LINE 106: Mrs. March's warning was evidently thrown away; for five minutes later
+LINE 107: Laurie tore by the window on his own fleet horse, riding as if for his
+LINE 108: life.
+LINE 109: "Jo, run to the rooms, and tell Mrs. King that I can't come. On the way
+LINE 110: get these things. I'll put them down; they'll be needed, and I must go
+LINE 111: prepared for nursing. Hospital stores are not always good. Beth, go and
+LINE 112: ask Mr. Laurence for a couple of bottles of old wine: I'm not too proud
+LINE 113: to beg for father; he shall have the best of everything. Amy, tell
+LINE 114: Hannah to get down the black trunk; and, Meg, come and help me find my
+LINE 115: things, for I'm half bewildered."
+LINE 116: Writing, thinking, and directing, all at once, might well bewilder the
+LINE 117: poor lady, and Meg begged her to sit quietly in her room for a little
+LINE 118: while, and let them work. Every one scattered like leaves before a gust
+LINE 119: of wind; and the quiet, happy household was broken up as suddenly as if
+LINE 120: the paper had been an evil spell.
+LINE 121: Mr. Laurence came hurrying back with Beth, bringing every comfort the
+LINE 122: kind old gentleman could think of for the invalid, and friendliest
+LINE 123: promises of protection for the girls during the mother's absence, which
+LINE 124: comforted her very much. There was nothing he didn't offer, from his own
+LINE 125: dressing-gown to himself as escort. But that last was impossible. Mrs.
+LINE 126: March would not hear of the old gentleman's undertaking the long
+LINE 127: journey; yet an expression of relief was visible when he spoke of it,
+LINE 128: for anxiety ill fits one for travelling. He saw the look, knit his heavy
+LINE 129: eyebrows, rubbed his hands, and marched abruptly away, saying he'd be
+LINE 130: back directly. No one had time to think of him again till, as Meg ran
+LINE 131: through the entry, with a pair of rubbers in one hand and a cup of tea
+LINE 132: in the other, she came suddenly upon Mr. Brooke.
+LINE 133: [Illustration: She came suddenly upon Mr. Brooke]
+LINE 134: "I'm very sorry to hear of this, Miss March," he said, in the kind,
+LINE 135: quiet tone which sounded very pleasantly to her perturbed spirit. "I
+LINE 136: came to offer myself as escort to your mother. Mr. Laurence has
+LINE 137: commissions for me in Washington, and it will give me real satisfaction
+LINE 138: to be of service to her there."
+LINE 139: Down dropped the rubbers, and the tea was very near following, as Meg
+LINE 140: put out her hand, with a face so full of gratitude, that Mr. Brooke
+LINE 141: would have felt repaid for a much greater sacrifice than the trifling
+LINE 142: one of time and comfort which he was about to make.
+LINE 143: "How kind you all are! Mother will accept, I'm sure; and it will be such
+LINE 144: a relief to know that she has some one to take care of her. Thank you
+LINE 145: very, very much!"
+LINE 146: Meg spoke earnestly, and forgot herself entirely till something in the
+LINE 147: brown eyes looking down at her made her remember the cooling tea, and
+LINE 148: lead the way into the parlor, saying she would call her mother.
+LINE 149: Everything was arranged by the time Laurie returned with a note from
+LINE 150: Aunt March, enclosing the desired sum, and a few lines repeating what
+LINE 151: she had often said before,--that she had always told them it was absurd
+LINE 152: for March to go into the army, always predicted that no good would come
+LINE 153: of it, and she hoped they would take her advice next time. Mrs. March
+LINE 154: put the note in the fire, the money in her purse, and went on with her
+LINE 155: preparations, with her lips folded tightly, in a way which Jo would have
+LINE 156: understood if she had been there.
+LINE 157: The short afternoon wore away; all the other errands were done, and Meg
+LINE 158: and her mother busy at some necessary needle-work, while Beth and Amy
+LINE 159: got tea, and Hannah finished her ironing with what she called a "slap
+LINE 160: and a bang," but still Jo did not come. They began to get anxious; and
+LINE 161: Laurie went off to find her, for no one ever knew what freak Jo might
+LINE 162: take into her head. He missed her, however, and she came walking in with
+LINE 163: a very queer expression of countenance, for there was a mixture of fun
+LINE 164: and fear, satisfaction and regret, in it, which puzzled the family as
+LINE 165: much as did the roll of bills she laid before her mother, saying, with a
+LINE 166: little choke in her voice, "That's my contribution towards making
+LINE 167: father comfortable and bringing him home!"
+LINE 168: "My dear, where did you get it? Twenty-five dollars! Jo, I hope you
+LINE 169: haven't done anything rash?
+LINE 170: "No, it's mine honestly; I didn't beg, borrow, or steal it. I earned it;
+LINE 171: and I don't think you'll blame me, for I only sold what was my own."
+LINE 172: As she spoke, Jo took off her bonnet, and a general outcry arose, for
+LINE 173: all her abundant hair was cut short.
+LINE 174: "Your hair! Your beautiful hair!" "O Jo, how could you? Your one
+LINE 175: beauty." "My dear girl, there was no need of this." "She doesn't look
+LINE 176: like my Jo any more, but I love her dearly for it!"
+LINE 177: As every one exclaimed, and Beth hugged the cropped head tenderly, Jo
+LINE 178: assumed an indifferent air, which did not deceive any one a particle,
+LINE 179: and said, rumpling up the brown bush, and trying to look as if she liked
+LINE 180: it, "It doesn't affect the fate of the nation, so don't wail, Beth. It
+LINE 181: will be good for my vanity; I was getting too proud of my wig. It will
+LINE 182: do my brains good to have that mop taken off; my head feels deliciously
+LINE 183: light and cool, and the barber said I could soon have a curly crop,
+LINE 184: which will be boyish, becoming, and easy to keep in order. I'm
+LINE 185: satisfied; so please take the money, and let's have supper."
+LINE 186: "Tell me all about it, Jo. _I_ am not quite satisfied, but I can't blame
+LINE 187: you, for I know how willingly you sacrificed your vanity, as you call
+LINE 188: it, to your love. But, my dear, it was not necessary, and I'm afraid you
+LINE 189: will regret it, one of these days," said Mrs. March.
+LINE 190: "No, I won't!" returned Jo stoutly, feeling much relieved that her prank
+LINE 191: was not entirely condemned.
+LINE 192: "What made you do it?" asked Amy, who would as soon have thought of
+LINE 193: cutting off her head as her pretty hair.
+LINE 194: "Well, I was wild to do something for father," replied Jo, as they
+LINE 195: gathered about the table, for healthy young people can eat even in the
+LINE 196: midst of trouble. "I hate to borrow as much as mother does, and I knew
+LINE 197: Aunt March would croak; she always does, if you ask for a ninepence. Meg
+LINE 198: gave all her quarterly salary toward the rent, and I only got some
+LINE 199: clothes with mine, so I felt wicked, and was bound to have some money,
+LINE 200: if I sold the nose off my face to get it."
+LINE 201: "You needn't feel wicked, my child: you had no winter things, and got
+LINE 202: the simplest with your own hard earnings," said Mrs. March, with a look
+LINE 203: that warmed Jo's heart.
+LINE 204: "I hadn't the least idea of selling my hair at first, but as I went
+LINE 205: along I kept thinking what I could do, and feeling as if I'd like to
+LINE 206: dive into some of the rich stores and help myself. In a barber's window
+LINE 207: I saw tails of hair with the prices marked; and one black tail, not so
+LINE 208: thick as mine, was forty dollars. It came over me all of a sudden that I
+LINE 209: had one thing to make money out of, and without stopping to think, I
+LINE 210: walked in, asked if they bought hair, and what they would give for
+LINE 211: mine."
+LINE 212: "I don't see how you dared to do it," said Beth, in a tone of awe.
+LINE 213: "Oh, he was a little man who looked as if he merely lived to oil his
+LINE 214: hair. He rather stared, at first, as if he wasn't used to having girls
+LINE 215: bounce into his shop and ask him to buy their hair. He said he didn't
+LINE 216: care about mine, it wasn't the fashionable color, and he never paid much
+LINE 217: for it in the first place; the work put into it made it dear, and so on.
+LINE 218: It was getting late, and I was afraid, if it wasn't done right away,
+LINE 219: that I shouldn't have it done at all, and you know when I start to do a
+LINE 220: thing, I hate to give it up; so I begged him to take it, and told him
+LINE 221: why I was in such a hurry. It was silly, I dare say, but it changed his
+LINE 222: mind, for I got rather excited, and told the story in my topsy-turvy
+LINE 223: way, and his wife heard, and said so kindly,--
+LINE 224: "'Take it, Thomas, and oblige the young lady; I'd do as much for our
+LINE 225: Jimmy any day if I had a spire of hair worth selling.'"
+LINE 226: "Who was Jimmy?" asked Amy, who liked to have things explained as they
+LINE 227: went along.
+LINE 228: "Her son, she said, who was in the army. How friendly such things make
+LINE 229: strangers feel, don't they? She talked away all the time the man
+LINE 230: clipped, and diverted my mind nicely."
+LINE 231: [Illustration: The man clipped]
+LINE 232: "Didn't you feel dreadfully when the first cut came?" asked Meg, with a
+LINE 233: shiver.
+LINE 234: "I took a last look at my hair while the man got his things, and that
+LINE 235: was the end of it. I never snivel over trifles like that; I will
+LINE 236: confess, though, I felt queer when I saw the dear old hair laid out on
+LINE 237: the table, and felt only the short, rough ends on my head. It almost
+LINE 238: seemed as if I'd an arm or a leg off. The woman saw me look at it, and
+LINE 239: picked out a long lock for me to keep. I'll give it to you, Marmee, just
+LINE 240: to remember past glories by; for a crop is so comfortable I don't think
+LINE 241: I shall ever have a mane again."
+LINE 242: Mrs. March folded the wavy, chestnut lock, and laid it away with a short
+LINE 243: gray one in her desk. She only said "Thank you, deary," but something in
+LINE 244: her face made the girls change the subject, and talk as cheerfully as
+LINE 245: they could about Mr. Brooke's kindness, the prospect of a fine day
+LINE 246: to-morrow, and the happy times they would have when father came home to
+LINE 247: be nursed.
+LINE 248: No one wanted to go to bed, when, at ten o'clock, Mrs. March put by the
+LINE 249: last finished job, and said, "Come, girls." Beth went to the piano and
+LINE 250: played the father's favorite hymn; all began bravely, but broke down
+LINE 251: one by one, till Beth was left alone, singing with all her heart, for to
+LINE 252: her music was always a sweet consoler.
+LINE 253: "Go to bed and don't talk, for we must be up early, and shall need all
+LINE 254: the sleep we can get. Good-night, my darlings," said Mrs. March, as the
+LINE 255: hymn ended, for no one cared to try another.
+LINE 256: They kissed her quietly, and went to bed as silently as if the dear
+LINE 257: invalid lay in the next room. Beth and Amy soon fell asleep in spite of
+LINE 258: the great trouble, but Meg lay awake, thinking the most serious thoughts
+LINE 259: she had ever known in her short life. Jo lay motionless, and her sister
+LINE 260: fancied that she was asleep, till a stifled sob made her exclaim, as she
+LINE 261: touched a wet cheek,--
+LINE 262: "Jo, dear, what is it? Are you crying about father?"
+LINE 263: "No, not now."
+LINE 264: "What then?"
+LINE 265: "My--my hair!" burst out poor Jo, trying vainly to smother her emotion
+LINE 266: in the pillow.
+LINE 267: It did not sound at all comical to Meg, who kissed and caressed the
+LINE 268: afflicted heroine in the tenderest manner.
+LINE 269: "I'm not sorry," protested Jo, with a choke. "I'd do it again to-morrow,
+LINE 270: if I could. It's only the vain, selfish part of me that goes and cries
+LINE 271: in this silly way. Don't tell any one, it's all over now. I thought you
+LINE 272: were asleep, so I just made a little private moan for my one beauty. How
+LINE 273: came you to be awake?"
+LINE 274: "I can't sleep, I'm so anxious," said Meg.
+LINE 275: "Think about something pleasant, and you'll soon drop off."
+LINE 276: "I tried it, but felt wider awake than ever."
+LINE 277: "What did you think of?"
+LINE 278: "Handsome faces,--eyes particularly," answered Meg, smiling to herself,
+LINE 279: in the dark.
+LINE 280: "What color do you like best?"
+LINE 281: "Brown--that is, sometimes; blue are lovely."
+LINE 282: Jo laughed, and Meg sharply ordered her not to talk, then amiably
+LINE 283: promised to make her hair curl, and fell asleep to dream of living in
+LINE 284: her castle in the air.
+LINE 285: The clocks were striking midnight, and the rooms were very still, as a
+LINE 286: figure glided quietly from bed to bed, smoothing a coverlid here,
+LINE 287: settling a pillow there, and pausing to look long and tenderly at each
+LINE 288: unconscious face, to kiss each with lips that mutely blessed, and to
+LINE 289: pray the fervent prayers which only mothers utter. As she lifted the
+LINE 290: curtain to look out into the dreary night, the moon broke suddenly from
+LINE 291: behind the clouds, and shone upon her like a bright, benignant face,
+LINE 292: which seemed to whisper in the silence, "Be comforted, dear soul! There
+LINE 293: is always light behind the clouds."
+LINE 294: [Illustration: Tail-piece]
+LINE 295: [Illustration: Letters]

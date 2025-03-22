@@ -1,0 +1,313 @@
+LINE 1: Laurie lay luxuriously swinging to and fro in his hammock, one warm
+LINE 2: September afternoon, wondering what his neighbors were about, but too
+LINE 3: lazy to go and find out. He was in one of his moods; for the day had
+LINE 4: been both unprofitable and unsatisfactory, and he was wishing he could
+LINE 5: live it over again. The hot weather made him indolent, and he had
+LINE 6: shirked his studies, tried Mr. Brooke's patience to the utmost,
+LINE 7: displeased his grandfather by practising half the afternoon, frightened
+LINE 8: the maid-servants half out of their wits, by mischievously hinting that
+LINE 9: one of his dogs was going mad, and, after high words with the stable-man
+LINE 10: about some fancied neglect of his horse, he had flung himself into his
+LINE 11: hammock, to fume over the stupidity of the world in general, till the
+LINE 12: peace of the lovely day quieted him in spite of himself. Staring up into
+LINE 13: the green gloom of the horse-chestnut trees above him, he dreamed dreams
+LINE 14: of all sorts, and was just imagining himself tossing on the ocean, in a
+LINE 15: voyage round the world, when the sound of voices brought him ashore in a
+LINE 16: flash. Peeping through the meshes of the hammock, he saw the Marches
+LINE 17: coming out, as if bound on some expedition.
+LINE 18: "What in the world are those girls about now?" thought Laurie, opening
+LINE 19: his sleepy eyes to take a good look, for there was something rather
+LINE 20: peculiar in the appearance of his neighbors. Each wore a large, flapping
+LINE 21: hat, a brown linen pouch slung over one shoulder, and carried a long
+LINE 22: staff. Meg had a cushion, Jo a book, Beth a basket, and Amy a portfolio.
+LINE 23: All walked quietly through the garden, out at the little back gate, and
+LINE 24: began to climb the hill that lay between the house and river.
+LINE 25: "Well, that's cool!" said Laurie to himself, "to have a picnic and never
+LINE 26: ask me. They can't be going in the boat, for they haven't got the key.
+LINE 27: Perhaps they forgot it; I'll take it to them, and see what's going on."
+LINE 28: Though possessed of half a dozen hats, it took him some time to find
+LINE 29: one; then there was a hunt for the key, which was at last discovered in
+LINE 30: his pocket; so that the girls were quite out of sight when he leaped the
+LINE 31: fence and ran after them. Taking the shortest way to the boat-house, he
+LINE 32: waited for them to appear: but no one came, and he went up the hill to
+LINE 33: take an observation. A grove of pines covered one part of it, and from
+LINE 34: the heart of this green spot came a clearer sound than the soft sigh of
+LINE 35: the pines or the drowsy chirp of the crickets.
+LINE 36: "Here's a landscape!" thought Laurie, peeping through the bushes, and
+LINE 37: looking wide-awake and good-natured already.
+LINE 38: It _was_ rather a pretty little picture; for the sisters sat together in
+LINE 39: the shady nook, with sun and shadow flickering over them, the aromatic
+LINE 40: wind lifting their hair and cooling their hot cheeks, and all the little
+LINE 41: wood-people going on with their affairs as if these were no strangers,
+LINE 42: but old friends. Meg sat upon her cushion, sewing daintily with her
+LINE 43: white hands, and looking as fresh and sweet as a rose, in her pink
+LINE 44: dress, among the green. Beth was sorting the cones that lay thick under
+LINE 45: the hemlock near by, for she made pretty things of them. Amy was
+LINE 46: sketching a group of ferns, and Jo was knitting as she read aloud. A
+LINE 47: shadow passed over the boy's face as he watched them, feeling that he
+LINE 48: ought to go away, because uninvited; yet lingering, because home seemed
+LINE 49: very lonely, and this quiet party in the woods most attractive to his
+LINE 50: restless spirit. He stood so still that a squirrel, busy with its
+LINE 51: harvesting, ran down a pine close beside him, saw him suddenly and
+LINE 52: skipped back, scolding so shrilly that Beth looked up, espied the
+LINE 53: wistful face behind the birches, and beckoned with a reassuring smile.
+LINE 54: [Illustration: It was rather a pretty little picture]
+LINE 55: "May I come in, please? or shall I be a bother?" he asked, advancing
+LINE 56: slowly.
+LINE 57: Meg lifted her eyebrows, but Jo scowled at her defiantly, and said, at
+LINE 58: once, "Of course you may. We should have asked you before, only we
+LINE 59: thought you wouldn't care for such a girl's game as this."
+LINE 60: "I always liked your games; but if Meg doesn't want me, I'll go away."
+LINE 61: "I've no objection, if you do something; it's against the rules to be
+LINE 62: idle here," replied Meg, gravely but graciously.
+LINE 63: "Much obliged; I'll do anything if you'll let me stop a bit, for it's as
+LINE 64: dull as the Desert of Sahara down there. Shall I sew, read, cone, draw,
+LINE 65: or do all at once? Bring on your bears; I'm ready," and Laurie sat down,
+LINE 66: with a submissive expression delightful to behold.
+LINE 67: "Finish this story while I set my heel," said Jo, handing him the book.
+LINE 68: "Yes'm," was the meek answer, as he began, doing his best to prove his
+LINE 69: gratitude for the favor of an admission into the "Busy Bee Society."
+LINE 70: The story was not a long one, and, when it was finished, he ventured to
+LINE 71: ask a few questions as a reward of merit.
+LINE 72: "Please, ma'am, could I inquire if this highly instructive and charming
+LINE 73: institution is a new one?"
+LINE 74: "Would you tell him?" asked Meg of her sisters.
+LINE 75: "He'll laugh," said Amy warningly.
+LINE 76: "Who cares?" said Jo.
+LINE 77: "I guess he'll like it," added Beth.
+LINE 78: "Of course I shall! I give you my word I won't laugh. Tell away, Jo, and
+LINE 79: don't be afraid."
+LINE 80: "The idea of being afraid of you! Well, you see we used to play
+LINE 81: 'Pilgrim's Progress,' and we have been going on with it in earnest, all
+LINE 82: winter and summer."
+LINE 83: "Yes, I know," said Laurie, nodding wisely.
+LINE 84: "Who told you?" demanded Jo.
+LINE 85: "Spirits."
+LINE 86: "No, I did; I wanted to amuse him one night when you were all away, and
+LINE 87: he was rather dismal. He did like it, so don't scold, Jo," said Beth
+LINE 88: meekly.
+LINE 89: "You can't keep a secret. Never mind; it saves trouble now."
+LINE 90: "Go on, please," said Laurie, as Jo became absorbed in her work, looking
+LINE 91: a trifle displeased.
+LINE 92: "Oh, didn't she tell you about this new plan of ours? Well, we have
+LINE 93: tried not to waste our holiday, but each has had a task, and worked at
+LINE 94: it with a will. The vacation is nearly over, the stints are all done,
+LINE 95: and we are ever so glad that we didn't dawdle."
+LINE 96: "Yes, I should think so;" and Laurie thought regretfully of his own idle
+LINE 97: days.
+LINE 98: "Mother likes to have us out of doors as much as possible; so we bring
+LINE 99: our work here, and have nice times. For the fun of it we bring our
+LINE 100: things in these bags, wear the old hats, use poles to climb the hill,
+LINE 101: and play pilgrims, as we used to do years ago. We call this hill the
+LINE 102: 'Delectable Mountain,' for we can look far away and see the country
+LINE 103: where we hope to live some time."
+LINE 104: Jo pointed, and Laurie sat up to examine; for through an opening in the
+LINE 105: wood one could look across the wide, blue river, the meadows on the
+LINE 106: other side, far over the outskirts of the great city, to the green hills
+LINE 107: that rose to meet the sky. The sun was low, and the heavens plowed with
+LINE 108: the splendor of an autumn sunset. Gold and purple clouds lay on the
+LINE 109: hill-tops; and rising high into the ruddy light were silvery white
+LINE 110: peaks, that shone like the airy spires of some Celestial City.
+LINE 111: "How beautiful that is!" said Laurie softly, for he was quick to see and
+LINE 112: feel beauty of any kind.
+LINE 113: "It's often so; and we like to watch it, for it is never the same, but
+LINE 114: always splendid," replied Amy, wishing she could paint it.
+LINE 115: "Jo talks about the country where we hope to live some time,--the real
+LINE 116: country, she means, with pigs and chickens, and haymaking. It would be
+LINE 117: nice, but I wish the beautiful country up there was real, and we could
+LINE 118: ever go to it," said Beth musingly.
+LINE 119: "There is a lovelier country even than that, where we _shall_ go, by and
+LINE 120: by, when we are good enough," answered Meg, with her sweet voice.
+LINE 121: "It seems so long to wait, so hard to do; I want to fly away at once, as
+LINE 122: those swallows fly, and go in at that splendid gate."
+LINE 123: "You'll get there, Beth, sooner or later; no fear of that," said Jo;
+LINE 124: "I'm the one that will have to fight and work, and climb and wait, and
+LINE 125: maybe never get in after all."
+LINE 126: "You'll have me for company, if that's any comfort. I shall have to do a
+LINE 127: deal of travelling before I come in sight of your Celestial City. If I
+LINE 128: arrive late, you'll say a good word for me, won't you, Beth?"
+LINE 129: Something in the boy's face troubled his little friend; but she said
+LINE 130: cheerfully, with her quiet eyes on the changing clouds, "If people
+LINE 131: really want to go, and really try all their lives, I think they will get
+LINE 132: in; for I don't believe there are any locks on that door, or any guards
+LINE 133: at the gate. I always imagine it is as it is in the picture, where the
+LINE 134: shining ones stretch out their hands to welcome poor Christian as he
+LINE 135: comes up from the river."
+LINE 136: "Wouldn't it be fun if all the castles in the air which we make could
+LINE 137: come true, and we could live in them?" said Jo, after a little pause.
+LINE 138: "I've made such quantities it would be hard to choose which I'd have,"
+LINE 139: said Laurie, lying flat, and throwing cones at the squirrel who had
+LINE 140: betrayed him.
+LINE 141: "You'd have to take your favorite one. What is it?" asked Meg.
+LINE 142: "If I tell mine, will you tell yours?"
+LINE 143: "Yes, if the girls will too."
+LINE 144: "We will. Now, Laurie."
+LINE 145: "After I'd seen as much of the world as I want to, I'd like to settle in
+LINE 146: Germany, and have just as much music as I choose. I'm to be a famous
+LINE 147: musician myself, and all creation is to rush to hear me; and I'm never
+LINE 148: to be bothered about money or business, but just enjoy myself, and live
+LINE 149: for what I like. That's my favorite castle. What's yours, Meg?"
+LINE 150: Margaret seemed to find it a little hard to tell hers, and waved a brake
+LINE 151: before her face, as if to disperse imaginary gnats, while she said
+LINE 152: slowly, "I should like a lovely house, full of all sorts of luxurious
+LINE 153: things,--nice food, pretty clothes, handsome furniture, pleasant people,
+LINE 154: and heaps of money. I am to be mistress of it, and manage it as I like,
+LINE 155: with plenty of servants, so I never need work a bit. How I should enjoy
+LINE 156: it! for I wouldn't be idle, but do good, and make every one love me
+LINE 157: dearly."
+LINE 158: [Illustration: Waved a brake before her face]
+LINE 159: "Wouldn't you have a master for your castle in the air?" asked Laurie
+LINE 160: slyly.
+LINE 161: "I said 'pleasant people,' you know;" and Meg carefully tied up her shoe
+LINE 162: as she spoke, so that no one saw her face.
+LINE 163: "Why don't you say you'd have a splendid, wise, good husband, and some
+LINE 164: angelic little children? You know your castle wouldn't be perfect
+LINE 165: without," said blunt Jo, who had no tender fancies yet, and rather
+LINE 166: scorned romance, except in books.
+LINE 167: "You'd have nothing but horses, inkstands, and novels in yours,"
+LINE 168: answered Meg petulantly.
+LINE 169: "Wouldn't I, though? I'd have a stable full of Arabian steeds, rooms
+LINE 170: piled with books, and I'd write out of a magic inkstand, so that my
+LINE 171: works should be as famous as Laurie's music. I want to do something
+LINE 172: splendid before I go into my castle,--something heroic or wonderful,
+LINE 173: that won't be forgotten after I'm dead. I don't know what, but I'm on
+LINE 174: the watch for it, and mean to astonish you all, some day. I think I
+LINE 175: shall write books, and get rich and famous: that would suit me, so that
+LINE 176: is _my_ favorite dream."
+LINE 177: "Mine is to stay at home safe with father and mother, and help take care
+LINE 178: of the family," said Beth contentedly.
+LINE 179: "Don't you wish for anything else?" asked Laurie.
+LINE 180: "Since I had my little piano, I am perfectly satisfied. I only wish we
+LINE 181: may all keep well and be together; nothing else."
+LINE 182: "I have ever so many wishes; but the pet one is to be an artist, and go
+LINE 183: to Rome, and do fine pictures, and be the best artist in the whole
+LINE 184: world," was Amy's modest desire.
+LINE 185: "We're an ambitious set, aren't we? Every one of us, but Beth, wants to
+LINE 186: be rich and famous, and gorgeous in every respect. I do wonder if any of
+LINE 187: us will ever get our wishes," said Laurie, chewing grass, like a
+LINE 188: meditative calf.
+LINE 189: "I've got the key to my castle in the air; but whether I can unlock the
+LINE 190: door remains to be seen," observed Jo mysteriously.
+LINE 191: "I've got the key to mine, but I'm not allowed to try it. Hang college!"
+LINE 192: muttered Laurie, with an impatient sigh.
+LINE 193: "Here's mine!" and Amy waved her pencil.
+LINE 194: "I haven't got any," said Meg forlornly.
+LINE 195: "Yes, you have," said Laurie at once.
+LINE 196: "Where?"
+LINE 197: "In your face."
+LINE 198: "Nonsense; that's of no use."
+LINE 199: "Wait and see if it doesn't bring you something worth having," replied
+LINE 200: the boy, laughing at the thought of a charming little secret which he
+LINE 201: fancied he knew.
+LINE 202: Meg colored behind the brake, but asked no questions, and looked across
+LINE 203: the river with the same expectant expression which Mr. Brooke had worn
+LINE 204: when he told the story of the knight.
+LINE 205: "If we are all alive ten years hence, let's meet, and see how many of us
+LINE 206: have got our wishes, or how much nearer we are then than now," said Jo,
+LINE 207: always ready with a plan.
+LINE 208: "Bless me! how old I shall be,--twenty-seven!" exclaimed Meg who felt
+LINE 209: grown up already, having just reached seventeen.
+LINE 210: "You and I shall be twenty-six, Teddy, Beth twenty-four, and Amy
+LINE 211: twenty-two. What a venerable party!" said Jo.
+LINE 212: "I hope I shall have done something to be proud of by that time; but I'm
+LINE 213: such a lazy dog, I'm afraid I shall 'dawdle,' Jo."
+LINE 214: "You need a motive, mother says; and when you get it, she is sure you'll
+LINE 215: work splendidly."
+LINE 216: "Is she? By Jupiter I will, if I only get the chance!" cried Laurie,
+LINE 217: sitting up with sudden energy. "I ought to be satisfied to please
+LINE 218: grandfather, and I do try, but it's working against the grain, you see,
+LINE 219: and comes hard. He wants me to be an India merchant, as he was, and I'd
+LINE 220: rather be shot. I hate tea and silk and spices, and every sort of
+LINE 221: rubbish his old ships bring, and I don't care how soon they go to the
+LINE 222: bottom when I own them. Going to college ought to satisfy him, for if I
+LINE 223: give him four years he ought to let me off from the business; but he's
+LINE 224: set, and I 've got to do just as he did, unless I break away and please
+LINE 225: myself, as my father did. If there was any one left to stay with the old
+LINE 226: gentleman, I'd do it to-morrow."
+LINE 227: Laurie spoke excitedly, and looked ready to carry his threat into
+LINE 228: execution on the slightest provocation; for he was growing up very fast,
+LINE 229: and, in spite of his indolent ways, had a young man's hatred of
+LINE 230: subjection, a young man's restless longing to try the world for himself.
+LINE 231: "I advise you to sail away in one of your ships, and never come home
+LINE 232: again till you have tried your own way," said Jo, whose imagination was
+LINE 233: fired by the thought of such a daring exploit, and whose sympathy was
+LINE 234: excited by what she called "Teddy's wrongs."
+LINE 235: "That's not right, Jo; you mustn't talk in that way, and Laurie mustn't
+LINE 236: take your bad advice. You should do just what your grandfather wishes,
+LINE 237: my dear boy," said Meg, in her most maternal tone. "Do your best at
+LINE 238: college, and, when he sees that you try to please him, I'm sure he won't
+LINE 239: be hard or unjust to you. As you say, there is no one else to stay with
+LINE 240: and love him, and you'd never forgive yourself if you left him without
+LINE 241: his permission. Don't be dismal or fret, but do your duty; and you'll
+LINE 242: get your reward, as good Mr. Brooke has, by being respected and loved."
+LINE 243: "What do you know about him?" asked Laurie, grateful for the good
+LINE 244: advice, but objecting to the lecture, and glad to turn the conversation
+LINE 245: from himself, after his unusual outbreak.
+LINE 246: "Only what your grandpa told us about him,--how he took good care of his
+LINE 247: own mother till she died, and wouldn't go abroad as tutor to some nice
+LINE 248: person, because he wouldn't leave her; and how he provides now for an
+LINE 249: old woman who nursed his mother; and never tells any one, but is just as
+LINE 250: generous and patient and good as he can be."
+LINE 251: "So he is, dear old fellow!" said Laurie heartily, as Meg paused,
+LINE 252: looking flushed and earnest with her story. "It's like grandpa to find
+LINE 253: out all about him, without letting him know, and to tell all his
+LINE 254: goodness to others, so that they might like him. Brooke couldn't
+LINE 255: understand why your mother was so kind to him, asking him over with me,
+LINE 256: and treating him in her beautiful friendly way. He thought she was just
+LINE 257: perfect, and talked about it for days and days, and went on about you
+LINE 258: all in flaming style. If ever I do get my wish, you see what I'll do for
+LINE 259: Brooke."
+LINE 260: "Begin to do something now, by not plaguing his life out," said Meg
+LINE 261: sharply.
+LINE 262: "How do you know I do, miss?"
+LINE 263: "I can always tell by his face, when he goes away. If you have been
+LINE 264: good, he looks satisfied and walks briskly; if you have plagued him,
+LINE 265: he's sober and walks slowly, as if he wanted to go back and do his work
+LINE 266: better."
+LINE 267: "Well, I like that! So you keep an account of my good and bad marks in
+LINE 268: Brooke's face, do you? I see him bow and smile as he passes your window,
+LINE 269: but I didn't know you'd got up a telegraph."
+LINE 270: [Illustration: I see him bow and smile]
+LINE 271: "We haven't; don't be angry, and oh, don't tell him I said anything! It
+LINE 272: was only to show that I cared how you get on, and what is said here is
+LINE 273: said in confidence, you know," cried Meg, much alarmed at the thought of
+LINE 274: what might follow from her careless speech.
+LINE 275: "_I_ don't tell tales," replied Laurie, with his "high and mighty" air,
+LINE 276: as Jo called a certain expression which he occasionally wore. "Only if
+LINE 277: Brooke is going to be a thermometer, I must mind and have fair weather
+LINE 278: for him to report."
+LINE 279: "Please don't be offended. I didn't mean to preach or tell tales or be
+LINE 280: silly; I only thought Jo was encouraging you in a feeling which you'd be
+LINE 281: sorry for, by and by. You are so kind to us, we feel as if you were our
+LINE 282: brother, and say just what we think. Forgive me, I meant it kindly." And
+LINE 283: Meg offered her hand with a gesture both affectionate and timid.
+LINE 284: Ashamed of his momentary pique, Laurie squeezed the kind little hand,
+LINE 285: and said frankly, "I'm the one to be forgiven; I'm cross, and have been
+LINE 286: out of sorts all day. I like to have you tell me my faults and be
+LINE 287: sisterly, so don't mind if I am grumpy sometimes; I thank you all the
+LINE 288: same."
+LINE 289: Bent on showing that he was not offended, he made himself as agreeable
+LINE 290: as possible,--wound cotton for Meg, recited poetry to please Jo, shook
+LINE 291: down cones for Beth, and helped Amy with her ferns, proving himself a
+LINE 292: fit person to belong to the "Busy Bee Society." In the midst of an
+LINE 293: animated discussion on the domestic habits of turtles (one of those
+LINE 294: amiable creatures having strolled up from the river), the faint sound of
+LINE 295: a bell warned them that Hannah had put the tea "to draw," and they would
+LINE 296: just have time to get home to supper.
+LINE 297: "May I come again?" asked Laurie.
+LINE 298: "Yes, if you are good, and love your book, as the boys in the primer are
+LINE 299: told to do," said Meg smiling.
+LINE 300: "I'll try."
+LINE 301: "Then you may come, and I'll teach you to knit as the Scotchmen do;
+LINE 302: there's a demand for socks just now," added Jo, waving hers, like a big
+LINE 303: blue worsted banner, as they parted at the gate.
+LINE 304: That night, when Beth played to Mr. Laurence in the twilight, Laurie,
+LINE 305: standing in the shadow of the curtain, listened to the little David,
+LINE 306: whose simple music always quieted his moody spirit, and watched the old
+LINE 307: man, who sat with his gray head on his hand, thinking tender thoughts of
+LINE 308: the dead child he had loved so much. Remembering the conversation of the
+LINE 309: afternoon, the boy said to himself, with the resolve to make the
+LINE 310: sacrifice cheerfully, "I'll let my castle go, and stay with the dear old
+LINE 311: gentleman while he needs me, for I am all he has."
+LINE 312: [Illustration: Tail-piece]
+LINE 313: [Illustration: Jo was very busy]

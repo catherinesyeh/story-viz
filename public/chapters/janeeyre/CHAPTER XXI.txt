@@ -1,0 +1,777 @@
+LINE 1: Presentiments are strange things! and so are sympathies; and so are
+LINE 2: signs; and the three combined make one mystery to which humanity has
+LINE 3: not yet found the key. I never laughed at presentiments in my life,
+LINE 4: because I have had strange ones of my own. Sympathies, I believe, exist
+LINE 5: (for instance, between far-distant, long-absent, wholly estranged
+LINE 6: relatives asserting, notwithstanding their alienation, the unity of the
+LINE 7: source to which each traces his origin) whose workings baffle mortal
+LINE 8: comprehension. And signs, for aught we know, may be but the sympathies
+LINE 9: of Nature with man.
+LINE 10: When I was a little girl, only six years old, I one night heard Bessie
+LINE 11: Leaven say to Martha Abbot that she had been dreaming about a little
+LINE 12: child; and that to dream of children was a sure sign of trouble, either
+LINE 13: to one's self or one's kin. The saying might have worn out of my
+LINE 14: memory, had not a circumstance immediately followed which served
+LINE 15: indelibly to fix it there. The next day Bessie was sent for home to the
+LINE 16: deathbed of her little sister.
+LINE 17: Of late I had often recalled this saying and this incident; for during
+LINE 18: the past week scarcely a night had gone over my couch that had not
+LINE 19: brought with it a dream of an infant, which I sometimes hushed in my
+LINE 20: arms, sometimes dandled on my knee, sometimes watched playing with
+LINE 21: daisies on a lawn, or again, dabbling its hands in running water. It
+LINE 22: was a wailing child this night, and a laughing one the next: now it
+LINE 23: nestled close to me, and now it ran from me; but whatever mood the
+LINE 24: apparition evinced, whatever aspect it wore, it failed not for seven
+LINE 25: successive nights to meet me the moment I entered the land of slumber.
+LINE 26: I did not like this iteration of one idea—this strange recurrence of
+LINE 27: one image, and I grew nervous as bedtime approached and the hour of the
+LINE 28: vision drew near. It was from companionship with this baby-phantom I
+LINE 29: had been roused on that moonlight night when I heard the cry; and it
+LINE 30: was on the afternoon of the day following I was summoned downstairs by
+LINE 31: a message that some one wanted me in Mrs. Fairfax's room. On repairing
+LINE 32: thither, I found a man waiting for me, having the appearance of a
+LINE 33: gentleman's servant: he was dressed in deep mourning, and the hat he
+LINE 34: held in his hand was surrounded with a crape band.
+LINE 35: "I daresay you hardly remember me, Miss," he said, rising as I entered;
+LINE 36: "but my name is Leaven: I lived coachman with Mrs. Reed when you were
+LINE 37: at Gateshead, eight or nine years since, and I live there still."
+LINE 38: "Oh, Robert! how do you do? I remember you very well: you used to give
+LINE 39: me a ride sometimes on Miss Georgiana's bay pony. And how is Bessie?
+LINE 40: You are married to Bessie?"
+LINE 41: "Yes, Miss: my wife is very hearty, thank you; she brought me another
+LINE 42: little one about two months since—we have three now—and both mother and
+LINE 43: child are thriving."
+LINE 44: "And are the family well at the house, Robert?"
+LINE 45: "I am sorry I can't give you better news of them, Miss: they are very
+LINE 46: badly at present—in great trouble."
+LINE 47: "I hope no one is dead," I said, glancing at his black dress. He too
+LINE 48: looked down at the crape round his hat and replied—
+LINE 49: "Mr. John died yesterday was a week, at his chambers in London."
+LINE 50: "Mr. John?"
+LINE 51: "Yes."
+LINE 52: "And how does his mother bear it?"
+LINE 53: "Why, you see, Miss Eyre, it is not a common mishap: his life has been
+LINE 54: very wild: these last three years he gave himself up to strange ways,
+LINE 55: and his death was shocking."
+LINE 56: "I heard from Bessie he was not doing well."
+LINE 57: "Doing well! He could not do worse: he ruined his health and his estate
+LINE 58: amongst the worst men and the worst women. He got into debt and into
+LINE 59: jail: his mother helped him out twice, but as soon as he was free he
+LINE 60: returned to his old companions and habits. His head was not strong: the
+LINE 61: knaves he lived amongst fooled him beyond anything I ever heard. He
+LINE 62: came down to Gateshead about three weeks ago and wanted missis to give
+LINE 63: up all to him. Missis refused: her means have long been much reduced by
+LINE 64: his extravagance; so he went back again, and the next news was that he
+LINE 65: was dead. How he died, God knows!—they say he killed himself."
+LINE 66: I was silent: the tidings were frightful. Robert Leaven resumed—
+LINE 67: "Missis had been out of health herself for some time: she had got very
+LINE 68: stout, but was not strong with it; and the loss of money and fear of
+LINE 69: poverty were quite breaking her down. The information about Mr. John's
+LINE 70: death and the manner of it came too suddenly: it brought on a stroke.
+LINE 71: She was three days without speaking; but last Tuesday she seemed rather
+LINE 72: better: she appeared as if she wanted to say something, and kept making
+LINE 73: signs to my wife and mumbling. It was only yesterday morning, however,
+LINE 74: that Bessie understood she was pronouncing your name; and at last she
+LINE 75: made out the words, 'Bring Jane—fetch Jane Eyre: I want to speak to
+LINE 76: her.' Bessie is not sure whether she is in her right mind, or means
+LINE 77: anything by the words; but she told Miss Reed and Miss Georgiana, and
+LINE 78: advised them to send for you. The young ladies put it off at first; but
+LINE 79: their mother grew so restless, and said, 'Jane, Jane,' so many times,
+LINE 80: that at last they consented. I left Gateshead yesterday: and if you can
+LINE 81: get ready, Miss, I should like to take you back with me early to-morrow
+LINE 82: morning."
+LINE 83: "Yes, Robert, I shall be ready: it seems to me that I ought to go."
+LINE 84: "I think so too, Miss. Bessie said she was sure you would not refuse:
+LINE 85: but I suppose you will have to ask leave before you can get off?"
+LINE 86: "Yes; and I will do it now;" and having directed him to the servants'
+LINE 87: hall, and recommended him to the care of John's wife, and the
+LINE 88: attentions of John himself, I went in search of Mr. Rochester.
+LINE 89: He was not in any of the lower rooms; he was not in the yard, the
+LINE 90: stables, or the grounds. I asked Mrs. Fairfax if she had seen him;—yes:
+LINE 91: she believed he was playing billiards with Miss Ingram. To the
+LINE 92: billiard-room I hastened: the click of balls and the hum of voices
+LINE 93: resounded thence; Mr. Rochester, Miss Ingram, the two Misses Eshton,
+LINE 94: and their admirers, were all busied in the game. It required some
+LINE 95: courage to disturb so interesting a party; my errand, however, was one
+LINE 96: I could not defer, so I approached the master where he stood at Miss
+LINE 97: Ingram's side. She turned as I drew near, and looked at me haughtily:
+LINE 98: her eyes seemed to demand, "What can the creeping creature want now?"
+LINE 99: and when I said, in a low voice, "Mr. Rochester," she made a movement
+LINE 100: as if tempted to order me away. I remember her appearance at the
+LINE 101: moment—it was very graceful and very striking: she wore a morning robe
+LINE 102: of sky-blue crape; a gauzy azure scarf was twisted in her hair. She had
+LINE 103: been all animation with the game, and irritated pride did not lower the
+LINE 104: expression of her haughty lineaments.
+LINE 105: "Does that person want you?" she inquired of Mr. Rochester; and Mr.
+LINE 106: Rochester turned to see who the "person" was. He made a curious
+LINE 107: grimace—one of his strange and equivocal demonstrations—threw down his
+LINE 108: cue and followed me from the room.
+LINE 109: "Well, Jane?" he said, as he rested his back against the schoolroom
+LINE 110: door, which he had shut.
+LINE 111: "If you please, sir, I want leave of absence for a week or two."
+LINE 112: "What to do?—where to go?"
+LINE 113: "To see a sick lady who has sent for me."
+LINE 114: "What sick lady?—where does she live?"
+LINE 115: "At Gateshead; in ——shire."
+LINE 116: "-shire? That is a hundred miles off! Who may she be that sends for
+LINE 117: people to see her that distance?"
+LINE 118: "Her name is Reed, sir—Mrs. Reed."
+LINE 119: "Reed of Gateshead? There was a Reed of Gateshead, a magistrate."
+LINE 120: "It is his widow, sir."
+LINE 121: "And what have you to do with her? How do you know her?"
+LINE 122: "Mr. Reed was my uncle—my mother's brother."
+LINE 123: "The deuce he was! You never told me that before: you always said you
+LINE 124: had no relations."
+LINE 125: "None that would own me, sir. Mr. Reed is dead, and his wife cast me
+LINE 126: off."
+LINE 127: "Why?"
+LINE 128: "Because I was poor, and burdensome, and she disliked me."
+LINE 129: "But Reed left children?—you must have cousins? Sir George Lynn was
+LINE 130: talking of a Reed of Gateshead yesterday, who, he said, was one of the
+LINE 131: veriest rascals on town; and Ingram was mentioning a Georgiana Reed of
+LINE 132: the same place, who was much admired for her beauty a season or two ago
+LINE 133: in London."
+LINE 134: "John Reed is dead, too, sir: he ruined himself and half-ruined his
+LINE 135: family, and is supposed to have committed suicide. The news so shocked
+LINE 136: his mother that it brought on an apoplectic attack."
+LINE 137: "And what good can you do her? Nonsense, Jane! I would never think of
+LINE 138: running a hundred miles to see an old lady who will, perhaps, be dead
+LINE 139: before you reach her: besides, you say she cast you off."
+LINE 140: "Yes, sir, but that is long ago; and when her circumstances were very
+LINE 141: different: I could not be easy to neglect her wishes now."
+LINE 142: "How long will you stay?"
+LINE 143: "As short a time as possible, sir."
+LINE 144: "Promise me only to stay a week—"
+LINE 145: "I had better not pass my word: I might be obliged to break it."
+LINE 146: "At all events you _will_ come back: you will not be induced under any
+LINE 147: pretext to take up a permanent residence with her?"
+LINE 148: "Oh, no! I shall certainly return if all be well."
+LINE 149: "And who goes with you? You don't travel a hundred miles alone."
+LINE 150: "No, sir, she has sent her coachman."
+LINE 151: "A person to be trusted?"
+LINE 152: "Yes, sir, he has lived ten years in the family."
+LINE 153: Mr. Rochester meditated. "When do you wish to go?"
+LINE 154: "Early to-morrow morning, sir."
+LINE 155: "Well, you must have some money; you can't travel without money, and I
+LINE 156: daresay you have not much: I have given you no salary yet. How much
+LINE 157: have you in the world, Jane?" he asked, smiling.
+LINE 158: I drew out my purse; a meagre thing it was. "Five shillings, sir." He
+LINE 159: took the purse, poured the hoard into his palm, and chuckled over it as
+LINE 160: if its scantiness amused him. Soon he produced his pocket-book: "Here,"
+LINE 161: said he, offering me a note; it was fifty pounds, and he owed me but
+LINE 162: fifteen. I told him I had no change.
+LINE 163: "I don't want change; you know that. Take your wages."
+LINE 164: I declined accepting more than was my due. He scowled at first; then,
+LINE 165: as if recollecting something, he said—
+LINE 166: "Right, right! Better not give you all now: you would, perhaps, stay
+LINE 167: away three months if you had fifty pounds. There are ten; is it not
+LINE 168: plenty?"
+LINE 169: "Yes, sir, but now you owe me five."
+LINE 170: "Come back for it, then; I am your banker for forty pounds."
+LINE 171: "Mr. Rochester, I may as well mention another matter of business to you
+LINE 172: while I have the opportunity."
+LINE 173: "Matter of business? I am curious to hear it."
+LINE 174: "You have as good as informed me, sir, that you are going shortly to be
+LINE 175: married?"
+LINE 176: "Yes; what then?"
+LINE 177: "In that case, sir, Adèle ought to go to school: I am sure you will
+LINE 178: perceive the necessity of it."
+LINE 179: "To get her out of my bride's way, who might otherwise walk over her
+LINE 180: rather too emphatically? There's sense in the suggestion; not a doubt
+LINE 181: of it. Adèle, as you say, must go to school; and you, of course, must
+LINE 182: march straight to—the devil?"
+LINE 183: "I hope not, sir; but I must seek another situation somewhere."
+LINE 184: "In course!" he exclaimed, with a twang of voice and a distortion of
+LINE 185: features equally fantastic and ludicrous. He looked at me some minutes.
+LINE 186: "And old Madam Reed, or the Misses, her daughters, will be solicited by
+LINE 187: you to seek a place, I suppose?"
+LINE 188: "No, sir; I am not on such terms with my relatives as would justify me
+LINE 189: in asking favours of them—but I shall advertise."
+LINE 190: "You shall walk up the pyramids of Egypt!" he growled. "At your peril
+LINE 191: you advertise! I wish I had only offered you a sovereign instead of ten
+LINE 192: pounds. Give me back nine pounds, Jane; I've a use for it."
+LINE 193: "And so have I, sir," I returned, putting my hands and my purse behind
+LINE 194: me. "I could not spare the money on any account."
+LINE 195: "Little niggard!" said he, "refusing me a pecuniary request! Give me
+LINE 196: five pounds, Jane."
+LINE 197: "Not five shillings, sir; nor five pence."
+LINE 198: "Just let me look at the cash."
+LINE 199: "No, sir; you are not to be trusted."
+LINE 200: "Jane!"
+LINE 201: "Sir?"
+LINE 202: "Promise me one thing."
+LINE 203: "I'll promise you anything, sir, that I think I am likely to perform."
+LINE 204: "Not to advertise: and to trust this quest of a situation to me. I'll
+LINE 205: find you one in time."
+LINE 206: "I shall be glad so to do, sir, if you, in your turn, will promise that
+LINE 207: I and Adèle shall be both safe out of the house before your bride
+LINE 208: enters it."
+LINE 209: "Very well! very well! I'll pledge my word on it. You go to-morrow,
+LINE 210: then?"
+LINE 211: "Yes, sir; early."
+LINE 212: "Shall you come down to the drawing-room after dinner?"
+LINE 213: "No, sir, I must prepare for the journey."
+LINE 214: "Then you and I must bid good-bye for a little while?"
+LINE 215: "I suppose so, sir."
+LINE 216: "And how do people perform that ceremony of parting, Jane? Teach me;
+LINE 217: I'm not quite up to it."
+LINE 218: "They say, Farewell, or any other form they prefer."
+LINE 219: "Then say it."
+LINE 220: "Farewell, Mr. Rochester, for the present."
+LINE 221: "What must I say?"
+LINE 222: "The same, if you like, sir."
+LINE 223: "Farewell, Miss Eyre, for the present; is that all?"
+LINE 224: "Yes."
+LINE 225: "It seems stingy, to my notions, and dry, and unfriendly. I should like
+LINE 226: something else: a little addition to the rite. If one shook hands, for
+LINE 227: instance; but no—that would not content me either. So you'll do no more
+LINE 228: than say Farewell, Jane?"
+LINE 229: "It is enough, sir: as much good-will may be conveyed in one hearty
+LINE 230: word as in many."
+LINE 231: "Very likely; but it is blank and cool—'Farewell.'"
+LINE 232: "How long is he going to stand with his back against that door?" I
+LINE 233: asked myself; "I want to commence my packing." The dinner-bell rang,
+LINE 234: and suddenly away he bolted, without another syllable: I saw him no
+LINE 235: more during the day, and was off before he had risen in the morning.
+LINE 236: I reached the lodge at Gateshead about five o'clock in the afternoon of
+LINE 237: the first of May: I stepped in there before going up to the hall. It
+LINE 238: was very clean and neat: the ornamental windows were hung with little
+LINE 239: white curtains; the floor was spotless; the grate and fire-irons were
+LINE 240: burnished bright, and the fire burnt clear. Bessie sat on the hearth,
+LINE 241: nursing her last-born, and Robert and his sister played quietly in a
+LINE 242: corner.
+LINE 243: "Bless you!—I knew you would come!" exclaimed Mrs. Leaven, as I
+LINE 244: entered.
+LINE 245: "Yes, Bessie," said I, after I had kissed her; "and I trust I am not
+LINE 246: too late. How is Mrs. Reed?—Alive still, I hope."
+LINE 247: "Yes, she is alive; and more sensible and collected than she was. The
+LINE 248: doctor says she may linger a week or two yet; but he hardly thinks she
+LINE 249: will finally recover."
+LINE 250: "Has she mentioned me lately?"
+LINE 251: "She was talking of you only this morning, and wishing you would come,
+LINE 252: but she is sleeping now, or was ten minutes ago, when I was up at the
+LINE 253: house. She generally lies in a kind of lethargy all the afternoon, and
+LINE 254: wakes up about six or seven. Will you rest yourself here an hour, Miss,
+LINE 255: and then I will go up with you?"
+LINE 256: Robert here entered, and Bessie laid her sleeping child in the cradle
+LINE 257: and went to welcome him: afterwards she insisted on my taking off my
+LINE 258: bonnet and having some tea; for she said I looked pale and tired. I was
+LINE 259: glad to accept her hospitality; and I submitted to be relieved of my
+LINE 260: travelling garb just as passively as I used to let her undress me when
+LINE 261: a child.
+LINE 262: Old times crowded fast back on me as I watched her bustling
+LINE 263: about—setting out the tea-tray with her best china, cutting bread and
+LINE 264: butter, toasting a tea-cake, and, between whiles, giving little Robert
+LINE 265: or Jane an occasional tap or push, just as she used to give me in
+LINE 266: former days. Bessie had retained her quick temper as well as her light
+LINE 267: foot and good looks.
+LINE 268: Tea ready, I was going to approach the table; but she desired me to sit
+LINE 269: still, quite in her old peremptory tones. I must be served at the
+LINE 270: fireside, she said; and she placed before me a little round stand with
+LINE 271: my cup and a plate of toast, absolutely as she used to accommodate me
+LINE 272: with some privately purloined dainty on a nursery chair: and I smiled
+LINE 273: and obeyed her as in bygone days.
+LINE 274: She wanted to know if I was happy at Thornfield Hall, and what sort of
+LINE 275: a person the mistress was; and when I told her there was only a master,
+LINE 276: whether he was a nice gentleman, and if I liked him. I told her he was
+LINE 277: rather an ugly man, but quite a gentleman; and that he treated me
+LINE 278: kindly, and I was content. Then I went on to describe to her the gay
+LINE 279: company that had lately been staying at the house; and to these details
+LINE 280: Bessie listened with interest: they were precisely of the kind she
+LINE 281: relished.
+LINE 282: In such conversation an hour was soon gone: Bessie restored to me my
+LINE 283: bonnet, &c., and, accompanied by her, I quitted the lodge for the hall.
+LINE 284: It was also accompanied by her that I had, nearly nine years ago,
+LINE 285: walked down the path I was now ascending. On a dark, misty, raw morning
+LINE 286: in January, I had left a hostile roof with a desperate and embittered
+LINE 287: heart—a sense of outlawry and almost of reprobation—to seek the chilly
+LINE 288: harbourage of Lowood: that bourne so far away and unexplored. The same
+LINE 289: hostile roof now again rose before me: my prospects were doubtful yet;
+LINE 290: and I had yet an aching heart. I still felt as a wanderer on the face
+LINE 291: of the earth; but I experienced firmer trust in myself and my own
+LINE 292: powers, and less withering dread of oppression. The gaping wound of my
+LINE 293: wrongs, too, was now quite healed; and the flame of resentment
+LINE 294: extinguished.
+LINE 295: "You shall go into the breakfast-room first," said Bessie, as she
+LINE 296: preceded me through the hall; "the young ladies will be there."
+LINE 297: In another moment I was within that apartment. There was every article
+LINE 298: of furniture looking just as it did on the morning I was first
+LINE 299: introduced to Mr. Brocklehurst: the very rug he had stood upon still
+LINE 300: covered the hearth. Glancing at the bookcases, I thought I could
+LINE 301: distinguish the two volumes of Bewick's British Birds occupying their
+LINE 302: old place on the third shelf, and Gulliver's Travels and the Arabian
+LINE 303: Nights ranged just above. The inanimate objects were not changed; but
+LINE 304: the living things had altered past recognition.
+LINE 305: Two young ladies appeared before me; one very tall, almost as tall as
+LINE 306: Miss Ingram—very thin too, with a sallow face and severe mien. There
+LINE 307: was something ascetic in her look, which was augmented by the extreme
+LINE 308: plainness of a straight-skirted, black, stuff dress, a starched linen
+LINE 309: collar, hair combed away from the temples, and the nun-like ornament of
+LINE 310: a string of ebony beads and a crucifix. This I felt sure was Eliza,
+LINE 311: though I could trace little resemblance to her former self in that
+LINE 312: elongated and colourless visage.
+LINE 313: The other was as certainly Georgiana: but not the Georgiana I
+LINE 314: remembered—the slim and fairy-like girl of eleven. This was a
+LINE 315: full-blown, very plump damsel, fair as waxwork, with handsome and
+LINE 316: regular features, languishing blue eyes, and ringleted yellow hair. The
+LINE 317: hue of her dress was black too; but its fashion was so different from
+LINE 318: her sister's—so much more flowing and becoming—it looked as stylish as
+LINE 319: the other's looked puritanical.
+LINE 320: In each of the sisters there was one trait of the mother—and only one;
+LINE 321: the thin and pallid elder daughter had her parent's Cairngorm eye: the
+LINE 322: blooming and luxuriant younger girl had her contour of jaw and
+LINE 323: chin—perhaps a little softened, but still imparting an indescribable
+LINE 324: hardness to the countenance otherwise so voluptuous and buxom.
+LINE 325: Both ladies, as I advanced, rose to welcome me, and both addressed me
+LINE 326: by the name of "Miss Eyre." Eliza's greeting was delivered in a short,
+LINE 327: abrupt voice, without a smile; and then she sat down again, fixed her
+LINE 328: eyes on the fire, and seemed to forget me. Georgiana added to her "How
+LINE 329: d'ye do?" several commonplaces about my journey, the weather, and so
+LINE 330: on, uttered in rather a drawling tone: and accompanied by sundry
+LINE 331: side-glances that measured me from head to foot—now traversing the
+LINE 332: folds of my drab merino pelisse, and now lingering on the plain
+LINE 333: trimming of my cottage bonnet. Young ladies have a remarkable way of
+LINE 334: letting you know that they think you a "quiz" without actually saying
+LINE 335: the words. A certain superciliousness of look, coolness of manner,
+LINE 336: nonchalance of tone, express fully their sentiments on the point,
+LINE 337: without committing them by any positive rudeness in word or deed.
+LINE 338: A sneer, however, whether covert or open, had now no longer that power
+LINE 339: over me it once possessed: as I sat between my cousins, I was surprised
+LINE 340: to find how easy I felt under the total neglect of the one and the
+LINE 341: semi-sarcastic attentions of the other—Eliza did not mortify, nor
+LINE 342: Georgiana ruffle me. The fact was, I had other things to think about;
+LINE 343: within the last few months feelings had been stirred in me so much more
+LINE 344: potent than any they could raise—pains and pleasures so much more acute
+LINE 345: and exquisite had been excited than any it was in their power to
+LINE 346: inflict or bestow—that their airs gave me no concern either for good or
+LINE 347: bad.
+LINE 348: "How is Mrs. Reed?" I asked soon, looking calmly at Georgiana, who
+LINE 349: thought fit to bridle at the direct address, as if it were an
+LINE 350: unexpected liberty.
+LINE 351: "Mrs. Reed? Ah! mama, you mean; she is extremely poorly: I doubt if you
+LINE 352: can see her to-night."
+LINE 353: "If," said I, "you would just step upstairs and tell her I am come, I
+LINE 354: should be much obliged to you."
+LINE 355: Georgiana almost started, and she opened her blue eyes wild and wide.
+LINE 356: "I know she had a particular wish to see me," I added, "and I would not
+LINE 357: defer attending to her desire longer than is absolutely necessary."
+LINE 358: "Mama dislikes being disturbed in an evening," remarked Eliza. I soon
+LINE 359: rose, quietly took off my bonnet and gloves, uninvited, and said I
+LINE 360: would just step out to Bessie—who was, I dared say, in the kitchen—and
+LINE 361: ask her to ascertain whether Mrs. Reed was disposed to receive me or
+LINE 362: not to-night. I went, and having found Bessie and despatched her on my
+LINE 363: errand, I proceeded to take further measures. It had heretofore been my
+LINE 364: habit always to shrink from arrogance: received as I had been to-day, I
+LINE 365: should, a year ago, have resolved to quit Gateshead the very next
+LINE 366: morning; now, it was disclosed to me all at once that that would be a
+LINE 367: foolish plan. I had taken a journey of a hundred miles to see my aunt,
+LINE 368: and I must stay with her till she was better—or dead: as to her
+LINE 369: daughters' pride or folly, I must put it on one side, make myself
+LINE 370: independent of it. So I addressed the housekeeper; asked her to show me
+LINE 371: a room, told her I should probably be a visitor here for a week or two,
+LINE 372: had my trunk conveyed to my chamber, and followed it thither myself: I
+LINE 373: met Bessie on the landing.
+LINE 374: "Missis is awake," said she; "I have told her you are here: come and
+LINE 375: let us see if she will know you."
+LINE 376: I did not need to be guided to the well-known room, to which I had so
+LINE 377: often been summoned for chastisement or reprimand in former days. I
+LINE 378: hastened before Bessie; I softly opened the door: a shaded light stood
+LINE 379: on the table, for it was now getting dark. There was the great
+LINE 380: four-post bed with amber hangings as of old; there the toilet-table,
+LINE 381: the armchair, and the footstool, at which I had a hundred times been
+LINE 382: sentenced to kneel, to ask pardon for offences by me uncommitted. I
+LINE 383: looked into a certain corner near, half-expecting to see the slim
+LINE 384: outline of a once dreaded switch which used to lurk there, waiting to
+LINE 385: leap out imp-like and lace my quivering palm or shrinking neck. I
+LINE 386: approached the bed; I opened the curtains and leant over the high-piled
+LINE 387: pillows.
+LINE 388: Well did I remember Mrs. Reed's face, and I eagerly sought the familiar
+LINE 389: image. It is a happy thing that time quells the longings of vengeance
+LINE 390: and hushes the promptings of rage and aversion. I had left this woman
+LINE 391: in bitterness and hate, and I came back to her now with no other
+LINE 392: emotion than a sort of ruth for her great sufferings, and a strong
+LINE 393: yearning to forget and forgive all injuries—to be reconciled and clasp
+LINE 394: hands in amity.
+LINE 395: The well-known face was there: stern, relentless as ever—there was that
+LINE 396: peculiar eye which nothing could melt, and the somewhat raised,
+LINE 397: imperious, despotic eyebrow. How often had it lowered on me menace and
+LINE 398: hate! and how the recollection of childhood's terrors and sorrows
+LINE 399: revived as I traced its harsh line now! And yet I stooped down and
+LINE 400: kissed her: she looked at me.
+LINE 401: "Is this Jane Eyre?" she said.
+LINE 402: "Yes, Aunt Reed. How are you, dear aunt?"
+LINE 403: I had once vowed that I would never call her aunt again: I thought it
+LINE 404: no sin to forget and break that vow now. My fingers had fastened on her
+LINE 405: hand which lay outside the sheet: had she pressed mine kindly, I should
+LINE 406: at that moment have experienced true pleasure. But unimpressionable
+LINE 407: natures are not so soon softened, nor are natural antipathies so
+LINE 408: readily eradicated. Mrs. Reed took her hand away, and, turning her face
+LINE 409: rather from me, she remarked that the night was warm. Again she
+LINE 410: regarded me so icily, I felt at once that her opinion of me—her feeling
+LINE 411: towards me—was unchanged and unchangeable. I knew by her stony
+LINE 412: eye—opaque to tenderness, indissoluble to tears—that she was resolved
+LINE 413: to consider me bad to the last; because to believe me good would give
+LINE 414: her no generous pleasure: only a sense of mortification.
+LINE 415: I felt pain, and then I felt ire; and then I felt a determination to
+LINE 416: subdue her—to be her mistress in spite both of her nature and her will.
+LINE 417: My tears had risen, just as in childhood: I ordered them back to their
+LINE 418: source. I brought a chair to the bed-head: I sat down and leaned over
+LINE 419: the pillow.
+LINE 420: "You sent for me," I said, "and I am here; and it is my intention to
+LINE 421: stay till I see how you get on."
+LINE 422: "Oh, of course! You have seen my daughters?"
+LINE 423: "Yes."
+LINE 424: "Well, you may tell them I wish you to stay till I can talk some things
+LINE 425: over with you I have on my mind: to-night it is too late, and I have a
+LINE 426: difficulty in recalling them. But there was something I wished to
+LINE 427: say—let me see—"
+LINE 428: The wandering look and changed utterance told what wreck had taken
+LINE 429: place in her once vigorous frame. Turning restlessly, she drew the
+LINE 430: bedclothes round her; my elbow, resting on a corner of the quilt, fixed
+LINE 431: it down: she was at once irritated.
+LINE 432: "Sit up!" said she; "don't annoy me with holding the clothes fast. Are
+LINE 433: you Jane Eyre?"
+LINE 434: "I am Jane Eyre."
+LINE 435: "I have had more trouble with that child than any one would believe.
+LINE 436: Such a burden to be left on my hands—and so much annoyance as she
+LINE 437: caused me, daily and hourly, with her incomprehensible disposition, and
+LINE 438: her sudden starts of temper, and her continual, unnatural watchings of
+LINE 439: one's movements! I declare she talked to me once like something mad, or
+LINE 440: like a fiend—no child ever spoke or looked as she did; I was glad to
+LINE 441: get her away from the house. What did they do with her at Lowood? The
+LINE 442: fever broke out there, and many of the pupils died. She, however, did
+LINE 443: not die: but I said she did—I wish she had died!"
+LINE 444: "A strange wish, Mrs. Reed; why do you hate her so?"
+LINE 445: "I had a dislike to her mother always; for she was my husband's only
+LINE 446: sister, and a great favourite with him: he opposed the family's
+LINE 447: disowning her when she made her low marriage; and when news came of her
+LINE 448: death, he wept like a simpleton. He would send for the baby; though I
+LINE 449: entreated him rather to put it out to nurse and pay for its
+LINE 450: maintenance. I hated it the first time I set my eyes on it—a sickly,
+LINE 451: whining, pining thing! It would wail in its cradle all night long—not
+LINE 452: screaming heartily like any other child, but whimpering and moaning.
+LINE 453: Reed pitied it; and he used to nurse it and notice it as if it had been
+LINE 454: his own: more, indeed, than he ever noticed his own at that age. He
+LINE 455: would try to make my children friendly to the little beggar: the
+LINE 456: darlings could not bear it, and he was angry with them when they showed
+LINE 457: their dislike. In his last illness, he had it brought continually to
+LINE 458: his bedside; and but an hour before he died, he bound me by vow to keep
+LINE 459: the creature. I would as soon have been charged with a pauper brat out
+LINE 460: of a workhouse: but he was weak, naturally weak. John does not at all
+LINE 461: resemble his father, and I am glad of it: John is like me and like my
+LINE 462: brothers—he is quite a Gibson. Oh, I wish he would cease tormenting me
+LINE 463: with letters for money! I have no more money to give him: we are
+LINE 464: getting poor. I must send away half the servants and shut up part of
+LINE 465: the house; or let it off. I can never submit to do that—yet how are we
+LINE 466: to get on? Two-thirds of my income goes in paying the interest of
+LINE 467: mortgages. John gambles dreadfully, and always loses—poor boy! He is
+LINE 468: beset by sharpers: John is sunk and degraded—his look is frightful—I
+LINE 469: feel ashamed for him when I see him."
+LINE 470: She was getting much excited. "I think I had better leave her now,"
+LINE 471: said I to Bessie, who stood on the other side of the bed.
+LINE 472: "Perhaps you had, Miss: but she often talks in this way towards
+LINE 473: night—in the morning she is calmer."
+LINE 474: I rose. "Stop!" exclaimed Mrs. Reed, "there is another thing I wished
+LINE 475: to say. He threatens me—he continually threatens me with his own death,
+LINE 476: or mine: and I dream sometimes that I see him laid out with a great
+LINE 477: wound in his throat, or with a swollen and blackened face. I am come to
+LINE 478: a strange pass: I have heavy troubles. What is to be done? How is the
+LINE 479: money to be had?"
+LINE 480: Bessie now endeavoured to persuade her to take a sedative draught: she
+LINE 481: succeeded with difficulty. Soon after, Mrs. Reed grew more composed,
+LINE 482: and sank into a dozing state. I then left her.
+LINE 483: More than ten days elapsed before I had again any conversation with
+LINE 484: her. She continued either delirious or lethargic; and the doctor
+LINE 485: forbade everything which could painfully excite her. Meantime, I got on
+LINE 486: as well as I could with Georgiana and Eliza. They were very cold,
+LINE 487: indeed, at first. Eliza would sit half the day sewing, reading, or
+LINE 488: writing, and scarcely utter a word either to me or her sister.
+LINE 489: Georgiana would chatter nonsense to her canary bird by the hour, and
+LINE 490: take no notice of me. But I was determined not to seem at a loss for
+LINE 491: occupation or amusement: I had brought my drawing materials with me,
+LINE 492: and they served me for both.
+LINE 493: Provided with a case of pencils, and some sheets of paper, I used to
+LINE 494: take a seat apart from them, near the window, and busy myself in
+LINE 495: sketching fancy vignettes, representing any scene that happened
+LINE 496: momentarily to shape itself in the ever-shifting kaleidoscope of
+LINE 497: imagination: a glimpse of sea between two rocks; the rising moon, and a
+LINE 498: ship crossing its disk; a group of reeds and water-flags, and a naiad's
+LINE 499: head, crowned with lotus-flowers, rising out of them; an elf sitting in
+LINE 500: a hedge-sparrow's nest, under a wreath of hawthorn-bloom.
+LINE 501: One morning I fell to sketching a face: what sort of a face it was to
+LINE 502: be, I did not care or know. I took a soft black pencil, gave it a broad
+LINE 503: point, and worked away. Soon I had traced on the paper a broad and
+LINE 504: prominent forehead and a square lower outline of visage: that contour
+LINE 505: gave me pleasure; my fingers proceeded actively to fill it with
+LINE 506: features. Strongly-marked horizontal eyebrows must be traced under that
+LINE 507: brow; then followed, naturally, a well-defined nose, with a straight
+LINE 508: ridge and full nostrils; then a flexible-looking mouth, by no means
+LINE 509: narrow; then a firm chin, with a decided cleft down the middle of it:
+LINE 510: of course, some black whiskers were wanted, and some jetty hair, tufted
+LINE 511: on the temples, and waved above the forehead. Now for the eyes: I had
+LINE 512: left them to the last, because they required the most careful working.
+LINE 513: I drew them large; I shaped them well: the eyelashes I traced long and
+LINE 514: sombre; the irids lustrous and large. "Good! but not quite the thing,"
+LINE 515: I thought, as I surveyed the effect: "they want more force and spirit;"
+LINE 516: and I wrought the shades blacker, that the lights might flash more
+LINE 517: brilliantly—a happy touch or two secured success. There, I had a
+LINE 518: friend's face under my gaze; and what did it signify that those young
+LINE 519: ladies turned their backs on me? I looked at it; I smiled at the
+LINE 520: speaking likeness: I was absorbed and content.
+LINE 521: "Is that a portrait of some one you know?" asked Eliza, who had
+LINE 522: approached me unnoticed. I responded that it was merely a fancy head,
+LINE 523: and hurried it beneath the other sheets. Of course, I lied: it was, in
+LINE 524: fact, a very faithful representation of Mr. Rochester. But what was
+LINE 525: that to her, or to any one but myself? Georgiana also advanced to look.
+LINE 526: The other drawings pleased her much, but she called that "an ugly man."
+LINE 527: They both seemed surprised at my skill. I offered to sketch their
+LINE 528: portraits; and each, in turn, sat for a pencil outline. Then Georgiana
+LINE 529: produced her album. I promised to contribute a water-colour drawing:
+LINE 530: this put her at once into good humour. She proposed a walk in the
+LINE 531: grounds. Before we had been out two hours, we were deep in a
+LINE 532: confidential conversation: she had favoured me with a description of
+LINE 533: the brilliant winter she had spent in London two seasons ago—of the
+LINE 534: admiration she had there excited—the attention she had received; and I
+LINE 535: even got hints of the titled conquest she had made. In the course of
+LINE 536: the afternoon and evening these hints were enlarged on: various soft
+LINE 537: conversations were reported, and sentimental scenes represented; and,
+LINE 538: in short, a volume of a novel of fashionable life was that day
+LINE 539: improvised by her for my benefit. The communications were renewed from
+LINE 540: day to day: they always ran on the same theme—herself, her loves, and
+LINE 541: woes. It was strange she never once adverted either to her mother's
+LINE 542: illness, or her brother's death, or the present gloomy state of the
+LINE 543: family prospects. Her mind seemed wholly taken up with reminiscences of
+LINE 544: past gaiety, and aspirations after dissipations to come. She passed
+LINE 545: about five minutes each day in her mother's sick-room, and no more.
+LINE 546: Eliza still spoke little: she had evidently no time to talk. I never
+LINE 547: saw a busier person than she seemed to be; yet it was difficult to say
+LINE 548: what she did: or rather, to discover any result of her diligence. She
+LINE 549: had an alarm to call her up early. I know not how she occupied herself
+LINE 550: before breakfast, but after that meal she divided her time into regular
+LINE 551: portions, and each hour had its allotted task. Three times a day she
+LINE 552: studied a little book, which I found, on inspection, was a Common
+LINE 553: Prayer Book. I asked her once what was the great attraction of that
+LINE 554: volume, and she said, "the Rubric." Three hours she gave to stitching,
+LINE 555: with gold thread, the border of a square crimson cloth, almost large
+LINE 556: enough for a carpet. In answer to my inquiries after the use of this
+LINE 557: article, she informed me it was a covering for the altar of a new
+LINE 558: church lately erected near Gateshead. Two hours she devoted to her
+LINE 559: diary; two to working by herself in the kitchen-garden; and one to the
+LINE 560: regulation of her accounts. She seemed to want no company; no
+LINE 561: conversation. I believe she was happy in her way: this routine sufficed
+LINE 562: for her; and nothing annoyed her so much as the occurrence of any
+LINE 563: incident which forced her to vary its clockwork regularity.
+LINE 564: She told me one evening, when more disposed to be communicative than
+LINE 565: usual, that John's conduct, and the threatened ruin of the family, had
+LINE 566: been a source of profound affliction to her: but she had now, she said,
+LINE 567: settled her mind, and formed her resolution. Her own fortune she had
+LINE 568: taken care to secure; and when her mother died—and it was wholly
+LINE 569: improbable, she tranquilly remarked, that she should either recover or
+LINE 570: linger long—she would execute a long-cherished project: seek a
+LINE 571: retirement where punctual habits would be permanently secured from
+LINE 572: disturbance, and place safe barriers between herself and a frivolous
+LINE 573: world. I asked if Georgiana would accompany her.
+LINE 574: "Of course not. Georgiana and she had nothing in common: they never had
+LINE 575: had. She would not be burdened with her society for any consideration.
+LINE 576: Georgiana should take her own course; and she, Eliza, would take hers."
+LINE 577: Georgiana, when not unburdening her heart to me, spent most of her time
+LINE 578: in lying on the sofa, fretting about the dulness of the house, and
+LINE 579: wishing over and over again that her aunt Gibson would send her an
+LINE 580: invitation up to town. "It would be so much better," she said, "if she
+LINE 581: could only get out of the way for a month or two, till all was over." I
+LINE 582: did not ask what she meant by "all being over," but I suppose she
+LINE 583: referred to the expected decease of her mother and the gloomy sequel of
+LINE 584: funeral rites. Eliza generally took no more notice of her sister's
+LINE 585: indolence and complaints than if no such murmuring, lounging object had
+LINE 586: been before her. One day, however, as she put away her account-book and
+LINE 587: unfolded her embroidery, she suddenly took her up thus—
+LINE 588: "Georgiana, a more vain and absurd animal than you was certainly never
+LINE 589: allowed to cumber the earth. You had no right to be born, for you make
+LINE 590: no use of life. Instead of living for, in, and with yourself, as a
+LINE 591: reasonable being ought, you seek only to fasten your feebleness on some
+LINE 592: other person's strength: if no one can be found willing to burden her
+LINE 593: or himself with such a fat, weak, puffy, useless thing, you cry out
+LINE 594: that you are ill-treated, neglected, miserable. Then, too, existence
+LINE 595: for you must be a scene of continual change and excitement, or else the
+LINE 596: world is a dungeon: you must be admired, you must be courted, you must
+LINE 597: be flattered—you must have music, dancing, and society—or you languish,
+LINE 598: you die away. Have you no sense to devise a system which will make you
+LINE 599: independent of all efforts, and all wills, but your own? Take one day;
+LINE 600: share it into sections; to each section apportion its task: leave no
+LINE 601: stray unemployed quarters of an hour, ten minutes, five minutes—include
+LINE 602: all; do each piece of business in its turn with method, with rigid
+LINE 603: regularity. The day will close almost before you are aware it has
+LINE 604: begun; and you are indebted to no one for helping you to get rid of one
+LINE 605: vacant moment: you have had to seek no one's company, conversation,
+LINE 606: sympathy, forbearance; you have lived, in short, as an independent
+LINE 607: being ought to do. Take this advice: the first and last I shall offer
+LINE 608: you; then you will not want me or any one else, happen what may.
+LINE 609: Neglect it—go on as heretofore, craving, whining, and idling—and suffer
+LINE 610: the results of your idiocy, however bad and insufferable they may be. I
+LINE 611: tell you this plainly; and listen: for though I shall no more repeat
+LINE 612: what I am now about to say, I shall steadily act on it. After my
+LINE 613: mother's death, I wash my hands of you: from the day her coffin is
+LINE 614: carried to the vault in Gateshead Church, you and I will be as separate
+LINE 615: as if we had never known each other. You need not think that because we
+LINE 616: chanced to be born of the same parents, I shall suffer you to fasten me
+LINE 617: down by even the feeblest claim: I can tell you this—if the whole human
+LINE 618: race, ourselves excepted, were swept away, and we two stood alone on
+LINE 619: the earth, I would leave you in the old world, and betake myself to the
+LINE 620: new."
+LINE 621: She closed her lips.
+LINE 622: "You might have spared yourself the trouble of delivering that tirade,"
+LINE 623: answered Georgiana. "Everybody knows you are the most selfish,
+LINE 624: heartless creature in existence: and _I_ know your spiteful hatred
+LINE 625: towards me: I have had a specimen of it before in the trick you played
+LINE 626: me about Lord Edwin Vere: you could not bear me to be raised above you,
+LINE 627: to have a title, to be received into circles where you dare not show
+LINE 628: your face, and so you acted the spy and informer, and ruined my
+LINE 629: prospects for ever." Georgiana took out her handkerchief and blew her
+LINE 630: nose for an hour afterwards; Eliza sat cold, impassable, and
+LINE 631: assiduously industrious.
+LINE 632: True, generous feeling is made small account of by some, but here were
+LINE 633: two natures rendered, the one intolerably acrid, the other despicably
+LINE 634: savourless for the want of it. Feeling without judgment is a washy
+LINE 635: draught indeed; but judgment untempered by feeling is too bitter and
+LINE 636: husky a morsel for human deglutition.
+LINE 637: It was a wet and windy afternoon: Georgiana had fallen asleep on the
+LINE 638: sofa over the perusal of a novel; Eliza was gone to attend a
+LINE 639: saint's-day service at the new church—for in matters of religion she
+LINE 640: was a rigid formalist: no weather ever prevented the punctual discharge
+LINE 641: of what she considered her devotional duties; fair or foul, she went to
+LINE 642: church thrice every Sunday, and as often on week-days as there were
+LINE 643: prayers.
+LINE 644: I bethought myself to go upstairs and see how the dying woman sped, who
+LINE 645: lay there almost unheeded: the very servants paid her but a remittent
+LINE 646: attention: the hired nurse, being little looked after, would slip out
+LINE 647: of the room whenever she could. Bessie was faithful; but she had her
+LINE 648: own family to mind, and could only come occasionally to the hall. I
+LINE 649: found the sick-room unwatched, as I had expected: no nurse was there;
+LINE 650: the patient lay still, and seemingly lethargic; her livid face sunk in
+LINE 651: the pillows: the fire was dying in the grate. I renewed the fuel,
+LINE 652: re-arranged the bedclothes, gazed awhile on her who could not now gaze
+LINE 653: on me, and then I moved away to the window.
+LINE 654: The rain beat strongly against the panes, the wind blew tempestuously:
+LINE 655: "One lies there," I thought, "who will soon be beyond the war of
+LINE 656: earthly elements. Whither will that spirit—now struggling to quit its
+LINE 657: material tenement—flit when at length released?"
+LINE 658: In pondering the great mystery, I thought of Helen Burns, recalled her
+LINE 659: dying words—her faith—her doctrine of the equality of disembodied
+LINE 660: souls. I was still listening in thought to her well-remembered
+LINE 661: tones—still picturing her pale and spiritual aspect, her wasted face
+LINE 662: and sublime gaze, as she lay on her placid deathbed, and whispered her
+LINE 663: longing to be restored to her divine Father's bosom—when a feeble voice
+LINE 664: murmured from the couch behind: "Who is that?"
+LINE 665: I knew Mrs. Reed had not spoken for days: was she reviving? I went up
+LINE 666: to her.
+LINE 667: "It is I, Aunt Reed."
+LINE 668: "Who—I?" was her answer. "Who are you?" looking at me with surprise and
+LINE 669: a sort of alarm, but still not wildly. "You are quite a stranger to
+LINE 670: me—where is Bessie?"
+LINE 671: "She is at the lodge, aunt."
+LINE 672: "Aunt," she repeated. "Who calls me aunt? You are not one of the
+LINE 673: Gibsons; and yet I know you—that face, and the eyes and forehead, are
+LINE 674: quiet familiar to me: you are like—why, you are like Jane Eyre!"
+LINE 675: I said nothing: I was afraid of occasioning some shock by declaring my
+LINE 676: identity.
+LINE 677: "Yet," said she, "I am afraid it is a mistake: my thoughts deceive me.
+LINE 678: I wished to see Jane Eyre, and I fancy a likeness where none exists:
+LINE 679: besides, in eight years she must be so changed." I now gently assured
+LINE 680: her that I was the person she supposed and desired me to be: and seeing
+LINE 681: that I was understood, and that her senses were quite collected, I
+LINE 682: explained how Bessie had sent her husband to fetch me from Thornfield.
+LINE 683: "I am very ill, I know," she said ere long. "I was trying to turn
+LINE 684: myself a few minutes since, and find I cannot move a limb. It is as
+LINE 685: well I should ease my mind before I die: what we think little of in
+LINE 686: health, burdens us at such an hour as the present is to me. Is the
+LINE 687: nurse here? or is there no one in the room but you?"
+LINE 688: I assured her we were alone.
+LINE 689: "Well, I have twice done you a wrong which I regret now. One was in
+LINE 690: breaking the promise which I gave my husband to bring you up as my own
+LINE 691: child; the other—" she stopped. "After all, it is of no great
+LINE 692: importance, perhaps," she murmured to herself: "and then I may get
+LINE 693: better; and to humble myself so to her is painful."
+LINE 694: She made an effort to alter her position, but failed: her face changed;
+LINE 695: she seemed to experience some inward sensation—the precursor, perhaps,
+LINE 696: of the last pang.
+LINE 697: "Well, I must get it over. Eternity is before me: I had better tell
+LINE 698: her.—Go to my dressing-case, open it, and take out a letter you will
+LINE 699: see there."
+LINE 700: I obeyed her directions. "Read the letter," she said.
+LINE 701: It was short, and thus conceived:—
+LINE 702: "MADAM,—
+LINE 703: "Will you have the goodness to send me the address of my niece, Jane
+LINE 704: Eyre, and to tell me how she is? It is my intention to write shortly
+LINE 705: and desire her to come to me at Madeira. Providence has blessed my
+LINE 706: endeavours to secure a competency; and as I am unmarried and childless,
+LINE 707: I wish to adopt her during my life, and bequeath her at my death
+LINE 708: whatever I may have to leave.
+LINE 709: I am, Madam, &c., &c.,
+LINE 710: "JOHN EYRE, Madeira."
+LINE 711: It was dated three years back.
+LINE 712: "Why did I never hear of this?" I asked.
+LINE 713: "Because I disliked you too fixedly and thoroughly ever to lend a hand
+LINE 714: in lifting you to prosperity. I could not forget your conduct to me,
+LINE 715: Jane—the fury with which you once turned on me; the tone in which you
+LINE 716: declared you abhorred me the worst of anybody in the world; the
+LINE 717: unchildlike look and voice with which you affirmed that the very
+LINE 718: thought of me made you sick, and asserted that I had treated you with
+LINE 719: miserable cruelty. I could not forget my own sensations when you thus
+LINE 720: started up and poured out the venom of your mind: I felt fear as if an
+LINE 721: animal that I had struck or pushed had looked up at me with human eyes
+LINE 722: and cursed me in a man's voice.—Bring me some water! Oh, make haste!"
+LINE 723: "Dear Mrs. Reed," said I, as I offered her the draught she required,
+LINE 724: "think no more of all this, let it pass away from your mind. Forgive me
+LINE 725: for my passionate language: I was a child then; eight, nine years have
+LINE 726: passed since that day."
+LINE 727: She heeded nothing of what I said; but when she had tasted the water
+LINE 728: and drawn breath, she went on thus—
+LINE 729: "I tell you I could not forget it; and I took my revenge: for you to be
+LINE 730: adopted by your uncle, and placed in a state of ease and comfort, was
+LINE 731: what I could not endure. I wrote to him; I said I was sorry for his
+LINE 732: disappointment, but Jane Eyre was dead: she had died of typhus fever at
+LINE 733: Lowood. Now act as you please: write and contradict my assertion—expose
+LINE 734: my falsehood as soon as you like. You were born, I think, to be my
+LINE 735: torment: my last hour is racked by the recollection of a deed which,
+LINE 736: but for you, I should never have been tempted to commit."
+LINE 737: "If you could but be persuaded to think no more of it, aunt, and to
+LINE 738: regard me with kindness and forgiveness——"
+LINE 739: "You have a very bad disposition," said she, "and one to this day I
+LINE 740: feel it impossible to understand: how for nine years you could be
+LINE 741: patient and quiescent under any treatment, and in the tenth break out
+LINE 742: all fire and violence, I can never comprehend."
+LINE 743: "My disposition is not so bad as you think: I am passionate, but not
+LINE 744: vindictive. Many a time, as a little child, I should have been glad to
+LINE 745: love you if you would have let me; and I long earnestly to be
+LINE 746: reconciled to you now: kiss me, aunt."
+LINE 747: I approached my cheek to her lips: she would not touch it. She said I
+LINE 748: oppressed her by leaning over the bed, and again demanded water. As I
+LINE 749: laid her down—for I raised her and supported her on my arm while she
+LINE 750: drank—I covered her ice-cold and clammy hand with mine: the feeble
+LINE 751: fingers shrank from my touch—the glazing eyes shunned my gaze.
+LINE 752: "Love me, then, or hate me, as you will," I said at last, "you have my
+LINE 753: full and free forgiveness: ask now for God's, and be at peace."
+LINE 754: Poor, suffering woman! it was too late for her to make now the effort
+LINE 755: to change her habitual frame of mind: living, she had ever hated
+LINE 756: me—dying, she must hate me still.
+LINE 757: The nurse now entered, and Bessie followed. I yet lingered half-an-hour
+LINE 758: longer, hoping to see some sign of amity: but she gave none. She was
+LINE 759: fast relapsing into stupor; nor did her mind again rally: at twelve
+LINE 760: o'clock that night she died. I was not present to close her eyes, nor
+LINE 761: were either of her daughters. They came to tell us the next morning
+LINE 762: that all was over. She was by that time laid out. Eliza and I went to
+LINE 763: look at her: Georgiana, who had burst out into loud weeping, said she
+LINE 764: dared not go. There was stretched Sarah Reed's once robust and active
+LINE 765: frame, rigid and still: her eye of flint was covered with its cold lid;
+LINE 766: her brow and strong traits wore yet the impress of her inexorable soul.
+LINE 767: A strange and solemn object was that corpse to me. I gazed on it with
+LINE 768: gloom and pain: nothing soft, nothing sweet, nothing pitying, or
+LINE 769: hopeful, or subduing did it inspire; only a grating anguish for _her_
+LINE 770: woes—not _my_ loss—and a sombre tearless dismay at the fearfulness of
+LINE 771: death in such a form.
+LINE 772: Eliza surveyed her parent calmly. After a silence of some minutes she
+LINE 773: observed—
+LINE 774: "With her constitution she should have lived to a good old age: her
+LINE 775: life was shortened by trouble." And then a spasm constricted her mouth
+LINE 776: for an instant: as it passed away she turned and left the room, and so
+LINE 777: did I. Neither of us had dropt a tear.

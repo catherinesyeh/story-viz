@@ -1,0 +1,411 @@
+LINE 1: October 5th.—Esther Hargrave is getting a fine girl. She is not out of
+LINE 2: the school-room yet, but her mother frequently brings her over to call
+LINE 3: in the mornings when the gentlemen are out, and sometimes she spends an
+LINE 4: hour or two in company with her sister and me, and the children; and
+LINE 5: when we go to the Grove, I always contrive to see her, and talk more to
+LINE 6: her than to any one else, for I am very much attached to my little
+LINE 7: friend, and so is she to me. I wonder what she can see to like in me
+LINE 8: though, for I am no longer the happy, lively girl I used to be; but she
+LINE 9: has no other society, save that of her uncongenial mother, and her
+LINE 10: governess (as artificial and conventional a person as that prudent
+LINE 11: mother could procure to rectify the pupil's natural qualities), and,
+LINE 12: now and then, her subdued, quiet sister. I often wonder what will be
+LINE 13: _her_ lot in life, and so does she; but _her_ speculations on the
+LINE 14: future are full of buoyant hope; so were mine once. I shudder to think
+LINE 15: of her being awakened, like me, to a sense of their delusive vanity. It
+LINE 16: seems as if I should feel her disappointment, even more deeply than my
+LINE 17: own. I feel almost as if I were born for such a fate, but _she_ is so
+LINE 18: joyous and fresh, so light of heart and free of spirit, and so
+LINE 19: guileless and unsuspecting too. Oh, it would be cruel to make her feel
+LINE 20: as I feel now, and know what I have known!
+LINE 21: Her sister trembles for her too. Yesterday morning, one of October's
+LINE 22: brightest, loveliest days, Milicent and I were in the garden enjoying a
+LINE 23: brief half-hour together with our children, while Annabella was lying
+LINE 24: on the drawing-room sofa, deep in the last new novel. We had been
+LINE 25: romping with the little creatures, almost as merry and wild as
+LINE 26: themselves, and now paused in the shade of the tall copper beech, to
+LINE 27: recover breath and rectify our hair, disordered by the rough play and
+LINE 28: the frolicsome breeze, while they toddled together along the broad,
+LINE 29: sunny walk; my Arthur supporting the feebler steps of her little Helen,
+LINE 30: and sagaciously pointing out to her the brightest beauties of the
+LINE 31: border as they passed, with semi-articulate prattle, that did as well
+LINE 32: for her as any other mode of discourse. From laughing at the pretty
+LINE 33: sight, we began to talk of the children's future life; and that made us
+LINE 34: thoughtful. We both relapsed into silent musing as we slowly proceeded
+LINE 35: up the walk; and I suppose Milicent, by a train of associations, was
+LINE 36: led to think of her sister.
+LINE 37: "Helen," said she, "you often see Esther, don't you?"
+LINE 38: "Not very often."
+LINE 39: "But you have more frequent opportunities of meeting her than I have;
+LINE 40: and she loves you, I know, and reverences you too: there is nobody's
+LINE 41: opinion she thinks so much of; and she says you have more sense than
+LINE 42: mamma."
+LINE 43: "That is because she is self-willed, and my opinions more generally
+LINE 44: coincide with her own than your mamma's. But what then, Milicent?"
+LINE 45: "Well, since you have so much influence with her, I wish you would
+LINE 46: seriously impress it upon her, never, on any account, or for anybody's
+LINE 47: persuasion, to marry for the sake of money, or rank, or establishment,
+LINE 48: or any earthly thing, but true affection and well-grounded esteem."
+LINE 49: "There is no necessity for that," said I, "for we have had some
+LINE 50: discourse on that subject already, and I assure you her ideas of love
+LINE 51: and matrimony are as romantic as any one could desire."
+LINE 52: "But romantic notions will not do: I want her to have true notions."
+LINE 53: "Very right: but in my judgment, what the world stigmatises as
+LINE 54: romantic, is often more nearly allied to the truth than is commonly
+LINE 55: supposed; for, if the generous ideas of youth are too often
+LINE 56: over-clouded by the sordid views of after-life, that scarcely proves
+LINE 57: them to be false."
+LINE 58: "Well, but if you think her ideas are what they ought to be, strengthen
+LINE 59: them, will you? and confirm them, as far as you can; for _I_ had
+LINE 60: romantic notions once, and—I don't mean to say that I regret my lot,
+LINE 61: for I am quite sure I don't, but—"
+LINE 62: "I understand you," said I; "you are contented for yourself, but you
+LINE 63: would not have your sister to suffer the same as you."
+LINE 64: "No—or worse. She might have far worse to suffer than I, for _I am_
+LINE 65: really contented, Helen, though you mayn't think it: I speak the solemn
+LINE 66: truth in saying that I would not exchange my husband for any man on
+LINE 67: earth, if I might do it by the plucking of this leaf."
+LINE 68: "Well, I believe you: now that you have him, you would not exchange him
+LINE 69: for another; but then you would gladly exchange some of his qualities
+LINE 70: for those of better men."
+LINE 71: "Yes: just as I would gladly exchange some of my own qualities for
+LINE 72: those of better women; for neither he nor I are perfect, and I desire
+LINE 73: his improvement as earnestly as my own. And he will improve, don't you
+LINE 74: think so, Helen? he's only six-and-twenty yet."
+LINE 75: "He may," I answered,
+LINE 76: "He will, he WILL!" repeated she.
+LINE 77: "Excuse the faintness of my acquiescence, Milicent, I would not
+LINE 78: discourage your hopes for the world, but mine have been so often
+LINE 79: disappointed, that I am become as cold and doubtful in my expectations
+LINE 80: as the flattest of octogenarians."
+LINE 81: "And yet you do hope, still, even for Mr. Huntingdon?"
+LINE 82: "I do, I confess, 'even' for _him;_ for it seems as if life and hope
+LINE 83: must cease together. And is he so _much_ worse, Milicent, than Mr.
+LINE 84: Hattersley?"
+LINE 85: "Well, to give you my candid opinion, I think there is no comparison
+LINE 86: between them. But you mustn't be offended, Helen, for you know I always
+LINE 87: speak my mind, and you may speak yours too. I sha'n't care."
+LINE 88: "I am not offended, love; and my opinion is, that if there _be_ a
+LINE 89: comparison made between the two, the difference, for the most part, is
+LINE 90: certainly in Hattersley's favour."
+LINE 91: Milicent's own heart told her how much it cost me to make this
+LINE 92: acknowledgment; and, with a childlike impulse, she expressed her
+LINE 93: sympathy by suddenly kissing my cheek, without a word of reply, and
+LINE 94: then turning quickly away, caught up her baby, and hid her face in its
+LINE 95: frock. How odd it is that we so often weep for each other's distresses,
+LINE 96: when we shed not a tear for our own! Her heart had been full enough of
+LINE 97: her own sorrows, but it overflowed at the idea of mine; and I, too,
+LINE 98: shed tears at the sight of her sympathetic emotion, though I had not
+LINE 99: wept for myself for many a week.
+LINE 100: [Illustration]
+LINE 101: It was one rainy day last week; most of the company were killing time
+LINE 102: in the billiard-room, but Milicent and I were with little Arthur and
+LINE 103: Helen in the library, and between our books, our children, and each
+LINE 104: other, we expected to make out a very agreeable morning. We had not
+LINE 105: been thus secluded above two hours, however, when Mr. Hattersley came
+LINE 106: in, attracted, I suppose, by the voice of his child, as he was crossing
+LINE 107: the hall, for he is prodigiously fond of her, and she of him.
+LINE 108: He was redolent of the stables, where he had been regaling himself with
+LINE 109: the company of his fellow-creatures the horses ever since breakfast.
+LINE 110: But that was no matter to my little namesake; as soon as the colossal
+LINE 111: person of her father darkened the door, she uttered a shrill scream of
+LINE 112: delight, and, quitting her mother's side, ran crowing towards him,
+LINE 113: balancing her course with outstretched arms, and embracing his knee,
+LINE 114: threw back her head and laughed in his face. He might well look
+LINE 115: smilingly down upon those small, fair features, radiant with innocent
+LINE 116: mirth, those clear blue shining eyes, and that soft flaxen hair cast
+LINE 117: back upon the little ivory neck and shoulders. Did he not think how
+LINE 118: unworthy he was of such a possession? I fear no such idea crossed his
+LINE 119: mind. He caught her up, and there followed some minutes of very rough
+LINE 120: play, during which it is difficult to say whether the father or the
+LINE 121: daughter laughed and shouted the loudest. At length, however, the
+LINE 122: boisterous pastime terminated, suddenly, as might be expected: the
+LINE 123: little one was hurt, and began to cry; and the ungentle play-fellow
+LINE 124: tossed it into its mother's lap, bidding her "make all straight." As
+LINE 125: happy to return to that gentle comforter as it had been to leave her,
+LINE 126: the child nestled in her arms, and hushed its cries in a moment; and
+LINE 127: sinking its little weary head on her bosom, soon dropped asleep.
+LINE 128: Meantime Mr. Hattersley strode up to the fire, and interposing his
+LINE 129: height and breadth between us and it, stood with arms akimbo, expanding
+LINE 130: his chest, and gazing round him as if the house and all its
+LINE 131: appurtenances and contents were his own undisputed possessions.
+LINE 132: "Deuced bad weather this!" he began. "There'll be no shooting to-day, I
+LINE 133: guess." Then, suddenly lifting up his voice, he regaled us with a few
+LINE 134: bars of a rollicking song, which abruptly ceasing, he finished the tune
+LINE 135: with a whistle, and then continued:—"I say, Mrs. Huntingdon, what a
+LINE 136: fine stud your husband has! not large, but good. I've been looking at
+LINE 137: them a bit this morning; and upon my word, Black Boss, and Grey Tom,
+LINE 138: and that young Nimrod are the finest animals I've seen for many a day!"
+LINE 139: Then followed a particular discussion of their various merits,
+LINE 140: succeeded by a sketch of the great things _he_ intended to do in the
+LINE 141: horse-jockey line, when his old governor thought proper to quit the
+LINE 142: stage. "Not that I wish him to close his accounts," added he: "the old
+LINE 143: Trojan is welcome to keep his books open as long as he pleases for me."
+LINE 144: "I hope so, _indeed_, Mr. Hattersley."
+LINE 145: "Oh, yes! It's only my way of talking. The event must come some time,
+LINE 146: and so I look to the bright side of it: that's the right plan—isn't it,
+LINE 147: Mrs. H.? What are you two doing here? By-the-by, where's Lady
+LINE 148: Lowborough?"
+LINE 149: "In the billiard-room."
+LINE 150: "What a splendid creature she _is!_" continued he, fixing his eyes on
+LINE 151: his wife, who changed colour, and looked more and more disconcerted as
+LINE 152: he proceeded. "What a noble figure she has; and what magnificent black
+LINE 153: eyes; and what a fine spirit of her own; and what a tongue of her own,
+LINE 154: too, when she likes to use it. I perfectly adore her! But never mind,
+LINE 155: Milicent: I wouldn't have her for my wife, not if she'd a kingdom for
+LINE 156: her dowry! I'm better satisfied with the one I have. Now _then!_ what
+LINE 157: do you look so sulky for? don't you believe me?"
+LINE 158: "Yes, I believe you," murmured she, in a tone of half sad, half sullen
+LINE 159: resignation, as she turned away to stroke the hair of her sleeping
+LINE 160: infant, that she had laid on the sofa beside her.
+LINE 161: "Well, _then_, what makes you so cross? Come here, Milly, and tell me
+LINE 162: why you can't be satisfied with my assurance."
+LINE 163: She went, and putting her little hand within his arm, looked up in his
+LINE 164: face, and said softly,—
+LINE 165: "What does it amount to, Ralph? Only to this, that though you admire
+LINE 166: Annabella so much, and for qualities that I don't possess, you would
+LINE 167: still rather have me than her for your wife, which merely proves that
+LINE 168: you don't think it necessary to love your wife; you are satisfied if
+LINE 169: she can keep your house, and take care of your child. But I'm not
+LINE 170: cross; I'm only sorry; for," added she, in a low, tremulous accent,
+LINE 171: withdrawing her hand from his arm, and bending her looks on the rug,
+LINE 172: "if you don't love me, you don't, and it can't be helped."
+LINE 173: "Very true; but who told you I didn't? Did I say I loved Annabella?"
+LINE 174: "You said you adored her."
+LINE 175: "True, but adoration isn't love. I adore Annabella, but I don't love
+LINE 176: her; and I love thee, Milicent, but I don't adore thee." In proof of
+LINE 177: his affection, he clutched a handful of her light brown ringlets, and
+LINE 178: appeared to twist them unmercifully.
+LINE 179: "Do you really, Ralph?" murmured she, with a faint smile beaming
+LINE 180: through her tears, just putting up her hand to his, in token that he
+LINE 181: pulled _rather_ too hard.
+LINE 182: "To be sure I do," responded he: "only you bother me rather,
+LINE 183: sometimes."
+LINE 184: "_I_ bother you!" cried she, in very natural surprise.
+LINE 185: "Yes, _you_—but only by your exceeding goodness. When a boy has been
+LINE 186: eating raisins and sugar-plums all day, he longs for a squeeze of sour
+LINE 187: orange by way of a change. And did you never, Milly, observe the sands
+LINE 188: on the sea-shore; how nice and smooth they look, and how soft and easy
+LINE 189: they feel to the foot? But if you plod along, for half an hour, over
+LINE 190: this soft, easy carpet—giving way at every step, yielding the more the
+LINE 191: harder you press,—you'll find it rather wearisome work, and be glad
+LINE 192: enough to come to a bit of good, firm rock, that won't budge an inch
+LINE 193: whether you stand, walk, or stamp upon it; and, though it be hard as
+LINE 194: the nether millstone, you'll find it the easier footing after all."
+LINE 195: "I know what you mean, Ralph," said she, nervously playing with her
+LINE 196: watchguard and tracing the figure on the rug with the point of her tiny
+LINE 197: foot—"I know what you mean: but I thought you always liked to be
+LINE 198: yielded to, and I can't alter now."
+LINE 199: "I do like it," replied he, bringing her to him by another tug at her
+LINE 200: hair. "You mustn't mind my talk, Milly. A man must have something to
+LINE 201: grumble about; and if he can't complain that his wife harries him to
+LINE 202: death with her perversity and ill-humour, he must complain that she
+LINE 203: wears him out with her kindness and gentleness."
+LINE 204: "But why complain at all, unless because you are tired and
+LINE 205: dissatisfied?"
+LINE 206: "To excuse my own failings, to be sure. Do you think I'll bear all the
+LINE 207: burden of my sins on my own shoulders, as long as there's another ready
+LINE 208: to help me, with none of her own to carry?"
+LINE 209: "There is no such one on earth," said she seriously; and then, taking
+LINE 210: his hand from her head, she kissed it with an air of genuine devotion,
+LINE 211: and tripped away to the door.
+LINE 212: "What now?" said he. "Where are you going?"
+LINE 213: "To tidy my hair," she answered, smiling through her disordered locks;
+LINE 214: "you've made it all come down."
+LINE 215: "Off with you then!—An excellent little woman," he remarked when she
+LINE 216: was gone, "but a thought too soft—she almost melts in one's hands. I
+LINE 217: positively think I ill-use her sometimes, when I've taken too much—but
+LINE 218: I can't help it, for she never complains, either at the time or after.
+LINE 219: I suppose she doesn't mind it."
+LINE 220: "I can enlighten you on that subject, Mr. Hattersley," said I: "she
+LINE 221: _does_ mind it; and some other things she minds still more, which yet
+LINE 222: you may never hear her complain of."
+LINE 223: "How do you know?—does she complain to you?" demanded he, with a sudden
+LINE 224: spark of fury ready to burst into a flame if I should answer 'yes.'
+LINE 225: "No," I replied; "but I have known her longer and studied her more
+LINE 226: closely than you have done.—And I can tell you, Mr. Hattersley, that
+LINE 227: Milicent loves you more than you deserve, and that you have it in your
+LINE 228: power to make her very happy, instead of which you are her evil genius,
+LINE 229: and, I will venture to say, there is not a single day passes in which
+LINE 230: you do not inflict upon her some pang that you might spare her if you
+LINE 231: would."
+LINE 232: "Well—it's not _my_ fault," said he, gazing carelessly up at the
+LINE 233: ceiling and plunging his hands into his pockets: "if my ongoings don't
+LINE 234: suit her, she should tell me so."
+LINE 235: "Is she not exactly the wife you wanted? Did you not tell Mr.
+LINE 236: Huntingdon you must have one that would submit to anything without a
+LINE 237: murmur, and never blame you, whatever you did?"
+LINE 238: "True, but we shouldn't always have what we want: it spoils the best of
+LINE 239: us, doesn't it? How can I help playing the deuce when I see it's all
+LINE 240: one to her whether I behave like a Christian or like a scoundrel, such
+LINE 241: as nature made me? and how can I help teasing her when she's so
+LINE 242: invitingly meek and mim, when she lies down like a spaniel at my feet
+LINE 243: and never so much as squeaks to tell me that's enough?"
+LINE 244: "If you are a tyrant by nature, the temptation is strong, I allow; but
+LINE 245: no generous mind delights to oppress the weak, but rather to cherish
+LINE 246: and protect."
+LINE 247: "I _don't_ oppress her; but it's so confounded flat to be always
+LINE 248: cherishing and protecting; and then, how can I tell that I _am_
+LINE 249: oppressing her when she 'melts away and makes no sign'? I sometimes
+LINE 250: think she has no feeling at all; and then I go on till she cries, and
+LINE 251: that satisfies me."
+LINE 252: "Then you _do_ delight to oppress her?"
+LINE 253: "I don't, I tell you! only when I'm in a bad humour, or a particularly
+LINE 254: good one, and want to afflict for the pleasure of comforting; or when
+LINE 255: she looks flat and wants shaking up a bit. And sometimes she provokes
+LINE 256: me by crying for nothing, and won't tell me what it's for; and then, I
+LINE 257: allow, it enrages me past bearing, especially when I'm not my own man."
+LINE 258: "As is no doubt generally the case on such occasions," said I. "But in
+LINE 259: future, Mr. Hattersley, when you see her looking flat, or crying for
+LINE 260: 'nothing' (as you call it), ascribe it all to yourself: be assured it
+LINE 261: is something you have done amiss, or your general misconduct, that
+LINE 262: distresses her."
+LINE 263: "I don't believe it. If it were, she should tell me so: I don't like
+LINE 264: that way of moping and fretting in silence, and saying nothing: it's
+LINE 265: not honest. How can she expect me to mend my ways at that rate?"
+LINE 266: "Perhaps she gives you credit for having more sense than you possess,
+LINE 267: and deludes herself with the hope that you will one day see your own
+LINE 268: errors and repair them, if left to your own reflection."
+LINE 269: "None of your sneers, Mrs. Huntingdon. I _have_ the sense to see that
+LINE 270: I'm not always quite correct, but sometimes I think that's no great
+LINE 271: matter, as long as I injure nobody but myself—"
+LINE 272: "It _is_ a great matter," interrupted I, "both to yourself (as you will
+LINE 273: hereafter find to your cost) and to all connected with you, most
+LINE 274: especially your wife. But, indeed, it is nonsense to talk about
+LINE 275: injuring no one but yourself: it is impossible to injure yourself,
+LINE 276: especially by such acts as we allude to, without injuring hundreds, if
+LINE 277: not thousands, besides, in a greater or less, degree, either by the
+LINE 278: evil you do or the good you leave undone."
+LINE 279: "And as I was saying," continued he, "or would have said if you hadn't
+LINE 280: taken me up so short, I sometimes think I should do better if I were
+LINE 281: joined to one that would always remind me when I was wrong, and give me
+LINE 282: a motive for doing good and eschewing evil, by decidedly showing her
+LINE 283: approval of the one and disapproval of the other."
+LINE 284: "If you had no higher motive than the approval of your fellow-mortal,
+LINE 285: it would do you little good."
+LINE 286: "Well, but if I had a mate that would not always be yielding, and
+LINE 287: always equally kind, but that would have the spirit to stand at bay now
+LINE 288: and then, and honestly tell me her mind at all times, such a one as
+LINE 289: yourself for instance. Now, if I went on with you as I do with her when
+LINE 290: I'm in London, you'd make the house too hot to hold me at times, I'll
+LINE 291: be sworn."
+LINE 292: "You mistake me: I'm no termagant."
+LINE 293: "Well, all the better for that, for I can't stand contradiction, in a
+LINE 294: general way, and I'm as fond of my own will as another; only I think
+LINE 295: too much of it doesn't answer for any man."
+LINE 296: "Well, I would never contradict you without a cause, but certainly I
+LINE 297: would always let you know what I thought of your conduct; and if you
+LINE 298: oppressed me, in body, mind, or estate, you should at least have no
+LINE 299: reason to suppose 'I didn't mind it.'"
+LINE 300: "I know that, my lady; and I think if my little wife were to follow the
+LINE 301: same plan, it would be better for us both."
+LINE 302: "I'll tell her."
+LINE 303: "No, no, let her be; there's much to be said on both sides, and, now I
+LINE 304: think upon it, Huntingdon often regrets that you are not more like her,
+LINE 305: scoundrelly dog that he is, and you see, after all, you can't reform
+LINE 306: _him:_ he's _ten_ times worse than I. He's afraid of you, to be sure;
+LINE 307: that is, he's always on his best behaviour in your presence—but—"
+LINE 308: "I wonder what his worst behaviour is like, then?" I could not forbear
+LINE 309: observing.
+LINE 310: "Why, to tell you the truth, it's very bad indeed—isn't it, Hargrave?"
+LINE 311: said he, addressing that gentleman, who had entered the room
+LINE 312: unperceived by me, for I was now standing near the fire, with my back
+LINE 313: to the door. "Isn't Huntingdon," he continued, "as great a reprobate as
+LINE 314: ever was d—d?"
+LINE 315: "His lady will not hear him censured with impunity," replied Mr.
+LINE 316: Hargrave, coming forward; "but I must say, I thank God I am not such
+LINE 317: another."
+LINE 318: "Perhaps it would become you better," said I, "to look at what you are,
+LINE 319: and say, 'God be merciful to me a sinner.'"
+LINE 320: "You are severe," returned he, bowing slightly and drawing himself up
+LINE 321: with a proud yet injured air. Hattersley laughed, and clapped him on
+LINE 322: the shoulder. Moving from under his hand with a gesture of insulted
+LINE 323: dignity, Mr. Hargrave took himself away to the other end of the rug.
+LINE 324: "Isn't it a shame, Mrs. Huntingdon?" cried his brother-in-law; "I
+LINE 325: struck Walter Hargrave when I was drunk, the second night after we
+LINE 326: came, and he's turned a cold shoulder on me ever since; though I asked
+LINE 327: his pardon the very morning after it was done!"
+LINE 328: "Your manner of asking it," returned the other, "and the clearness with
+LINE 329: which you remembered the whole transaction, showed you were not too
+LINE 330: drunk to be fully conscious of what you were about, and quite
+LINE 331: responsible for the deed."
+LINE 332: "You wanted to interfere between me and my wife," grumbled Hattersley,
+LINE 333: "and that is enough to provoke any man."
+LINE 334: "You justify it, then?" said his opponent, darting upon him a most
+LINE 335: vindictive glance.
+LINE 336: "No, I tell you I wouldn't have done it if I hadn't been under
+LINE 337: excitement; and if you choose to bear malice for it after all the
+LINE 338: handsome things I've said, do so and be d—d!"
+LINE 339: "I _would_ refrain from such language in a _lady's_ presence, at
+LINE 340: least," said Mr. Hargrave, hiding his anger under a mask of disgust.
+LINE 341: "What have I said?" returned Hattersley: "nothing but heaven's truth.
+LINE 342: He will be damned, won't he, Mrs. Huntingdon, if he doesn't forgive his
+LINE 343: brother's trespasses?"
+LINE 344: "You ought to forgive him, Mr. Hargrave, since he asks you," said I.
+LINE 345: "Do you say so? Then I will!" And, smiling almost frankly, he stepped
+LINE 346: forward and offered his hand. It was immediately clasped in that of his
+LINE 347: relative, and the reconciliation was apparently cordial on both sides.
+LINE 348: "The affront," continued Hargrave, turning to me, "owed half its
+LINE 349: bitterness to the fact of its being offered in your presence; and since
+LINE 350: you bid me forgive it, I will, and forget it too."
+LINE 351: "I guess the best return I can make will be to take myself off,"
+LINE 352: muttered Hattersley, with a broad grin. His companion smiled, and he
+LINE 353: left the room. This put me on my guard. Mr. Hargrave turned seriously
+LINE 354: to me, and earnestly began,—
+LINE 355: "Dear Mrs. Huntingdon, how I have longed for, yet dreaded, this hour!
+LINE 356: Do not be alarmed," he added, for my face was crimson with anger: "I am
+LINE 357: not about to offend you with any useless entreaties or complaints. I am
+LINE 358: not going to presume to trouble you with the mention of my own feelings
+LINE 359: or your perfections, but I have something to reveal to you which you
+LINE 360: ought to know, and which, yet, it pains me inexpressibly—"
+LINE 361: "Then don't trouble yourself to reveal it!"
+LINE 362: "But it is of importance—"
+LINE 363: "If so I shall hear it soon enough, especially if it is bad news, as
+LINE 364: you seem to consider it. At present I am going to take the children to
+LINE 365: the nursery."
+LINE 366: "But can't you ring and send them?"
+LINE 367: "No; I want the exercise of a run to the top of the house. Come,
+LINE 368: Arthur."
+LINE 369: "But you will return?"
+LINE 370: "Not yet; don't wait."
+LINE 371: "Then when may I see you again?"
+LINE 372: "At lunch," said I, departing with little Helen in one arm and leading
+LINE 373: Arthur by the hand.
+LINE 374: He turned away, muttering some sentence of impatient censure or
+LINE 375: complaint, in which "heartless" was the only distinguishable word.
+LINE 376: "What nonsense is this, Mr. Hargrave?" said I, pausing in the doorway.
+LINE 377: "What do you mean?"
+LINE 378: "Oh, nothing; I did not intend you should hear my soliloquy. But the
+LINE 379: fact is, Mrs. Huntingdon, I have a disclosure to make, painful for me
+LINE 380: to offer as for you to hear; and I want you to give me a few minutes of
+LINE 381: your attention in private at any time and place you like to appoint. It
+LINE 382: is from no selfish motive that I ask it, and not for any cause that
+LINE 383: could alarm your superhuman purity: therefore you need not kill me with
+LINE 384: that look of cold and pitiless disdain. I know too well the feelings
+LINE 385: with which the bearers of bad tidings are commonly regarded not to—"
+LINE 386: "What _is_ this wonderful piece of intelligence?" said I, impatiently
+LINE 387: interrupting him. "If it is anything of real importance, speak it in
+LINE 388: three words before I go."
+LINE 389: "In three words I cannot. Send those children away and stay with me."
+LINE 390: "No; keep your bad tidings to yourself. I know it is something I don't
+LINE 391: want to hear, and something you would displease me by telling."
+LINE 392: "You have divined too truly, I fear; but still, since I know it, I feel
+LINE 393: it my duty to disclose it to you."
+LINE 394: "Oh, spare us both the infliction, and I will exonerate you from the
+LINE 395: duty. You have offered to tell; I have refused to hear: my ignorance
+LINE 396: will not be charged on you."
+LINE 397: "Be it so: you shall not hear it from me. But if the blow fall too
+LINE 398: suddenly upon you when it comes, remember I wished to soften it!"
+LINE 399: I left him. I was determined his words should not alarm me. What could
+LINE 400: _he_, of all men, have to reveal that was of importance for _me_ to
+LINE 401: hear? It was no doubt some exaggerated tale about my unfortunate
+LINE 402: husband that he wished to make the most of to serve his own bad
+LINE 403: purposes.
+LINE 404: 6th.—He has not alluded to this momentous mystery since, and I have
+LINE 405: seen no reason to repent of my unwillingness to hear it. The threatened
+LINE 406: blow has not been struck yet, and I do not greatly fear it. At present
+LINE 407: I am pleased with Arthur: he has not positively disgraced himself for
+LINE 408: upwards of a fortnight, and all this last week has been so very
+LINE 409: moderate in his indulgence at table that I can perceive a marked
+LINE 410: difference in his general temper and appearance. Dare I hope this will
+LINE 411: continue?

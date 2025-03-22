@@ -1,0 +1,685 @@
+LINE 1: [Illustration: Beth was post-mistress]
+LINE 2: Beth was post-mistress, for, being most at home, she could attend to it
+LINE 3: regularly, and dearly liked the daily task of unlocking the little door
+LINE 4: and distributing the mail. One July day she came in with her hands full,
+LINE 5: and went about the house leaving letters and parcels, like the penny
+LINE 6: post.
+LINE 7: "Here's your posy, mother! Laurie never forgets that," she said, putting
+LINE 8: the fresh nosegay in the vase that stood in "Marmee's corner," and was
+LINE 9: kept supplied by the affectionate boy.
+LINE 10: "Miss Meg March, one letter and a glove," continued Beth, delivering the
+LINE 11: articles to her sister, who sat near her mother, stitching wristbands.
+LINE 12: "Why, I left a pair over there, and here is only one," said Meg, looking
+LINE 13: at the gray cotton glove.
+LINE 14: "Didn't you drop the other in the garden?"
+LINE 15: "No, I'm sure I didn't; for there was only one in the office."
+LINE 16: "I hate to have odd gloves! Never mind, the other may be found. My
+LINE 17: letter is only a translation of the German song I wanted; I think Mr.
+LINE 18: Brooke did it, for this isn't Laurie's writing."
+LINE 19: Mrs. March glanced at Meg, who was looking very pretty in her gingham
+LINE 20: morning-gown, with the little curls blowing about her forehead, and very
+LINE 21: womanly, as she sat sewing at her little work-table, full of tidy white
+LINE 22: rolls; so unconscious of the thought in her mother's mind as she sewed
+LINE 23: and sung, while her fingers flew, and her thoughts were busied with
+LINE 24: girlish fancies as innocent and fresh as the pansies in her belt, that
+LINE 25: Mrs. March smiled, and was satisfied.
+LINE 26: "Two letters for Doctor Jo, a book, and a funny old hat, which covered
+LINE 27: the whole post-office, stuck outside," said Beth, laughing, as she went
+LINE 28: into the study, where Jo sat writing.
+LINE 29: "What a sly fellow Laurie is! I said I wished bigger hats were the
+LINE 30: fashion, because I burn my face every hot day. He said, 'Why mind the
+LINE 31: fashion? Wear a big hat, and be comfortable!' I said I would if I had
+LINE 32: one, and he has sent me this, to try me. I'll wear it, for fun, and show
+LINE 33: him I _don't_ care for the fashion;" and, hanging the antique broad-brim
+LINE 34: on a bust of Plato, Jo read her letters.
+LINE 35: One from her mother made her cheeks glow and her eyes fill, for it said
+LINE 36: to her,--
+LINE 37: "MY DEAR:
+LINE 38: "I write a little word to tell you with how much satisfaction I
+LINE 39: watch your efforts to control your temper. You say nothing about
+LINE 40: your trials, failures, or successes, and think, perhaps, that no
+LINE 41: one sees them but the Friend whose help you daily ask, if I may
+LINE 42: trust the well-worn cover of your guide-book. _I_, too, have
+LINE 43: seen them all, and heartily believe in the sincerity of your
+LINE 44: resolution, since it begins to bear fruit. Go on, dear,
+LINE 45: patiently and bravely, and always believe that no one
+LINE 46: sympathizes more tenderly with you than your loving
+LINE 47: "MOTHER."
+LINE 48: "That does me good! that's worth millions of money and pecks of praise.
+LINE 49: O Marmee, I do try! I will keep on trying, and not get tired, since I
+LINE 50: have you to help me."
+LINE 51: Laying her head on her arms, Jo wet her little romance with a few happy
+LINE 52: tears, for she _had_ thought that no one saw and appreciated her efforts
+LINE 53: to be good; and this assurance was doubly precious, doubly encouraging,
+LINE 54: because unexpected, and from the person whose commendation she most
+LINE 55: valued. Feeling stronger than ever to meet and subdue her Apollyon, she
+LINE 56: pinned the note inside her frock, as a shield and a reminder, lest she
+LINE 57: be taken unaware, and proceeded to open her other letter, quite ready
+LINE 58: for either good or bad news. In a big, dashing hand, Laurie wrote,--
+LINE 59: "DEAR JO,
+LINE 60: What ho!
+LINE 61: Some English girls and boys are coming to see me to-morrow and
+LINE 62: I want to have a jolly time. If it's fine, I'm going to pitch
+LINE 63: my tent in Longmeadow, and row up the whole crew to lunch and
+LINE 64: croquet,--have a fire, make messes, gypsy fashion, and all
+LINE 65: sorts of larks. They are nice people, and like such things.
+LINE 66: Brooke will go, to keep us boys steady, and Kate Vaughn will
+LINE 67: play propriety for the girls. I want you all to come; can't let
+LINE 68: Beth off, at any price, and nobody shall worry her. Don't
+LINE 69: bother about rations,--I'll see to that, and everything
+LINE 70: else,--only do come, there's a good fellow!
+LINE 71: "In a tearing hurry,
+LINE 72: Yours ever, LAURIE."
+LINE 73: "Here's richness!" cried Jo, flying in to tell the news to Meg.
+LINE 74: "Of course we can go, mother? it will be such a help to Laurie, for I
+LINE 75: can row, and Meg see to the lunch, and the children be useful in some
+LINE 76: way."
+LINE 77: "I hope the Vaughns are not fine, grown-up people. Do you know anything
+LINE 78: about them, Jo?" asked Meg.
+LINE 79: "Only that there are four of them. Kate is older than you, Fred and
+LINE 80: Frank (twins) about my age, and a little girl (Grace), who is nine or
+LINE 81: ten. Laurie knew them abroad, and liked the boys; I fancied, from the
+LINE 82: way he primmed up his mouth in speaking of her, that he didn't admire
+LINE 83: Kate much."
+LINE 84: "I'm so glad my French print is clean; it's just the thing, and so
+LINE 85: becoming!" observed Meg complacently. "Have you anything decent, Jo?"
+LINE 86: "Scarlet and gray boating suit, good enough for me. I shall row and
+LINE 87: tramp about, so I don't want any starch to think of. You'll come,
+LINE 88: Bethy?"
+LINE 89: "If you won't let any of the boys talk to me."
+LINE 90: "Not a boy!"
+LINE 91: "I like to please Laurie; and I'm not afraid of Mr. Brooke, he is so
+LINE 92: kind; but I don't want to play, or sing, or say anything. I'll work
+LINE 93: hard, and not trouble any one; and you'll take care of me, Jo, so I'll
+LINE 94: go."
+LINE 95: "That's my good girl; you do try to fight off your shyness, and I love
+LINE 96: you for it. Fighting faults isn't easy, as I know; and a cheery word
+LINE 97: kind of gives a lift. Thank you, mother," and Jo gave the thin cheek a
+LINE 98: grateful kiss, more precious to Mrs. March than if it had given back the
+LINE 99: rosy roundness of her youth.
+LINE 100: "I had a box of chocolate drops, and the picture I wanted to copy," said
+LINE 101: Amy, showing her mail.
+LINE 102: "And I got a note from Mr. Laurence, asking me to come over and play to
+LINE 103: him to-night, before the lamps are lighted, and I shall go," added Beth,
+LINE 104: whose friendship with the old gentleman prospered finely.
+LINE 105: "Now let's fly round, and do double duty to-day, so that we can play
+LINE 106: to-morrow with free minds," said Jo, preparing to replace her pen with a
+LINE 107: broom.
+LINE 108: When the sun peeped into the girls' room early next morning, to promise
+LINE 109: them a fine day, he saw a comical sight. Each had made such preparation
+LINE 110: for the fête as seemed necessary and proper. Meg had an extra row of
+LINE 111: little curl-papers across her forehead, Jo had copiously anointed her
+LINE 112: afflicted face with cold cream, Beth had taken Joanna to bed with her to
+LINE 113: atone for the approaching separation, and Amy had capped the climax by
+LINE 114: putting a clothes-pin on her nose, to uplift the offending feature. It
+LINE 115: was one of the kind artists use to hold the paper on their
+LINE 116: drawing-boards, therefore quite appropriate and effective for the
+LINE 117: purpose to which it was now put. This funny spectacle appeared to amuse
+LINE 118: the sun, for he burst out with such radiance that Jo woke up, and
+LINE 119: roused all her sisters by a hearty laugh at Amy's ornament.
+LINE 120: [Illustration: Amy capped the climax by putting a clothes-pin on her
+LINE 121: nose]
+LINE 122: Sunshine and laughter were good omens for a pleasure party, and soon a
+LINE 123: lively bustle began in both houses. Beth, who was ready first, kept
+LINE 124: reporting what went on next door, and enlivened her sisters' toilets by
+LINE 125: frequent telegrams from the window.
+LINE 126: "There goes the man with the tent! I see Mrs. Barker doing up the lunch
+LINE 127: in a hamper and a great basket. Now Mr. Laurence is looking up at the
+LINE 128: sky, and the weathercock; I wish he would go, too. There's Laurie,
+LINE 129: looking like a sailor,--nice boy! Oh, mercy me! here's a carriage full
+LINE 130: of people--a tall lady, a little girl, and two dreadful boys. One is
+LINE 131: lame; poor thing, he's got a crutch. Laurie didn't tell us that. Be
+LINE 132: quick, girls! it's getting late. Why, there is Ned Moffat, I do declare.
+LINE 133: Look, Meg, isn't that the man who bowed to you one day, when we were
+LINE 134: shopping?"
+LINE 135: "So it is. How queer that he should come. I thought he was at the
+LINE 136: Mountains. There is Sallie; I'm glad she got back in time. Am I all
+LINE 137: right, Jo?" cried Meg, in a flutter.
+LINE 138: "A regular daisy. Hold up your dress and put your hat straight; it looks
+LINE 139: sentimental tipped that way, and will fly off at the first puff. Now,
+LINE 140: then, come on!"
+LINE 141: "O Jo, you are not going to wear that awful hat? It's too absurd! You
+LINE 142: shall _not_ make a guy of yourself," remonstrated Meg, as Jo tied down,
+LINE 143: with a red ribbon, the broad-brimmed, old-fashioned Leghorn Laurie had
+LINE 144: sent for a joke.
+LINE 145: "I just will, though, for it's capital,--so shady, light, and big. It
+LINE 146: will make fun; and I don't mind being a guy if I'm comfortable." With
+LINE 147: that Jo marched straight away, and the rest followed,--a bright little
+LINE 148: band of sisters, all looking their best, in summer suits, with happy
+LINE 149: faces under the jaunty hat-brims.
+LINE 150: Laurie ran to meet, and present them to his friends, in the most cordial
+LINE 151: manner. The lawn was the reception-room, and for several minutes a
+LINE 152: lively scene was enacted there. Meg was grateful to see that Miss Kate,
+LINE 153: though twenty, was dressed with a simplicity which American girls would
+LINE 154: do well to imitate; and she was much flattered by Mr. Ned's assurances
+LINE 155: that he came especially to see her. Jo understood why Laurie "primmed up
+LINE 156: his mouth" when speaking of Kate, for that young lady had a
+LINE 157: stand-off-don't-touch-me air, which contrasted strongly with the free
+LINE 158: and easy demeanor of the other girls. Beth took an observation of the
+LINE 159: new boys, and decided that the lame one was not "dreadful," but gentle
+LINE 160: and feeble, and she would be kind to him on that account. Amy found
+LINE 161: Grace a well-mannered, merry little person; and after staring dumbly at
+LINE 162: one another for a few minutes, they suddenly became very good friends.
+LINE 163: Tents, lunch, and croquet utensils having been sent on beforehand, the
+LINE 164: party was soon embarked, and the two boats pushed off together, leaving
+LINE 165: Mr. Laurence waving his hat on the shore. Laurie and Jo rowed one boat;
+LINE 166: Mr. Brooke and Ned the other; while Fred Vaughn, the riotous twin, did
+LINE 167: his best to upset both by paddling about in a wherry like a disturbed
+LINE 168: water-bug. Jo's funny hat deserved a vote of thanks, for it was of
+LINE 169: general utility; it broke the ice in the beginning, by producing a
+LINE 170: laugh; it created quite a refreshing breeze, flapping to and fro, as she
+LINE 171: rowed, and would make an excellent umbrella for the whole party, if a
+LINE 172: shower came up, she said. Kate looked rather amazed at Jo's proceedings,
+LINE 173: especially as she exclaimed "Christopher Columbus!" when she lost her
+LINE 174: oar; and Laurie said, "My dear fellow, did I hurt you?" when he tripped
+LINE 175: over her feet in taking his place. But after putting up her glass to
+LINE 176: examine the queer girl several times, Miss Kate decided that she was
+LINE 177: "odd, but rather clever," and smiled upon her from afar.
+LINE 178: [Illustration: Mr. Laurence waving his hat]
+LINE 179: Meg, in the other boat, was delightfully situated, face to face with the
+LINE 180: rowers, who both admired the prospect, and feathered their oars with
+LINE 181: uncommon "skill and dexterity." Mr. Brooke was a grave, silent young
+LINE 182: man, with handsome brown eyes and a pleasant voice. Meg liked his quiet
+LINE 183: manners, and considered him a walking encyclopædia of useful knowledge.
+LINE 184: He never talked to her much; but he looked at her a good deal, and she
+LINE 185: felt sure that he did not regard her with aversion. Ned, being in
+LINE 186: college, of course put on all the airs which Freshmen think it their
+LINE 187: bounden duty to assume; he was not very wise, but very good-natured, and
+LINE 188: altogether an excellent person to carry on a picnic. Sallie Gardiner was
+LINE 189: absorbed in keeping her white piqué dress clean, and chattering with the
+LINE 190: ubiquitous Fred, who kept Beth in constant terror by his pranks.
+LINE 191: It was not far to Longmeadow; but the tent was pitched and the wickets
+LINE 192: down by the time they arrived. A pleasant green field, with three
+LINE 193: wide-spreading oaks in the middle, and a smooth strip of turf for
+LINE 194: croquet.
+LINE 195: "Welcome to Camp Laurence!" said the young host, as they landed, with
+LINE 196: exclamations of delight.
+LINE 197: "Brooke is commander-in-chief; I am commissary-general; the other
+LINE 198: fellows are staff-officers; and you, ladies, are company. The tent is
+LINE 199: for your especial benefit, and that oak is your drawing-room; this is
+LINE 200: the mess-room, and the third is the camp-kitchen. Now, let's have a game
+LINE 201: before it gets hot, and then we'll see about dinner."
+LINE 202: Frank, Beth, Amy, and Grace sat down to watch the game played by the
+LINE 203: other eight. Mr. Brooke chose Meg, Kate, and Fred; Laurie took Sallie,
+LINE 204: Jo, and Ned. The Englishers played well; but the Americans played
+LINE 205: better, and contested every inch of the ground as strongly as if the
+LINE 206: spirit of '76 inspired them. Jo and Fred had several skirmishes, and
+LINE 207: once narrowly escaped high words. Jo was through the last wicket, and
+LINE 208: had missed the stroke, which failure ruffled her a good deal. Fred was
+LINE 209: close behind her, and his turn came before hers; he gave a stroke, his
+LINE 210: ball hit the wicket, and stopped an inch on the wrong side. No one was
+LINE 211: very near; and running up to examine, he gave it a sly nudge with his
+LINE 212: toe, which put it just an inch on the right side.
+LINE 213: "I'm through! Now, Miss Jo, I'll settle you, and get in first," cried
+LINE 214: the young gentleman, swinging his mallet for another blow.
+LINE 215: [Illustration: Now, Miss Jo, I'll settle you]
+LINE 216: "You pushed it; I saw you; it's my turn now," said Jo sharply.
+LINE 217: "Upon my word, I didn't move it; it rolled a bit, perhaps, but that is
+LINE 218: allowed; so stand off, please, and let me have a go at the stake."
+LINE 219: "We don't cheat in America, but you can, if you choose," said Jo
+LINE 220: angrily.
+LINE 221: "Yankees are a deal the most tricky, everybody knows. There you go!"
+LINE 222: returned Fred, croqueting her ball far away.
+LINE 223: Jo opened her lips to say something rude, but checked herself in time,
+LINE 224: colored up to her forehead, and stood a minute, hammering down a wicket
+LINE 225: with all her might, while Fred hit the stake, and declared himself out
+LINE 226: with much exultation. She went off to get her ball, and was a long time
+LINE 227: finding it, among the bushes; but she came back, looking cool and quiet,
+LINE 228: and waited her turn patiently. It took several strokes to regain the
+LINE 229: place she had lost; and, when she got there, the other side had nearly
+LINE 230: won, for Kate's ball was the last but one, and lay near the stake.
+LINE 231: "By George, it's all up with us! Good-by, Kate. Miss Jo owes me one, so
+LINE 232: you are finished," cried Fred excitedly, as they all drew near to see
+LINE 233: the finish.
+LINE 234: "Yankees have a trick of being generous to their enemies," said Jo, with
+LINE 235: a look that made the lad redden, "especially when they beat them," she
+LINE 236: added, as, leaving Kate's ball untouched, she won the game by a clever
+LINE 237: stroke.
+LINE 238: Laurie threw up his hat; then remembered that it wouldn't do to exult
+LINE 239: over the defeat of his guests, and stopped in the middle of a cheer to
+LINE 240: whisper to his friend,--
+LINE 241: "Good for you, Jo! He did cheat, I saw him; we can't tell him so, but he
+LINE 242: won't do it again, take my word for it."
+LINE 243: Meg drew her aside, under pretence of pinning up a loose braid, and said
+LINE 244: approvingly,--
+LINE 245: "It was dreadfully provoking; but you kept your temper, and I'm so glad,
+LINE 246: Jo."
+LINE 247: "Don't praise me, Meg, for I could box his ears this minute. I should
+LINE 248: certainly have boiled over if I hadn't stayed among the nettles till I
+LINE 249: got my rage under enough to hold my tongue. It's simmering now, so I
+LINE 250: hope he'll keep out of my way," returned Jo, biting her lips, as she
+LINE 251: glowered at Fred from under her big hat.
+LINE 252: "Time for lunch," said Mr. Brooke, looking at his watch.
+LINE 253: "Commissary-general, will you make the fire and get water, while Miss
+LINE 254: March, Miss Sallie, and I spread the table? Who can make good coffee?"
+LINE 255: "Jo can," said Meg, glad to recommend her sister. So Jo, feeling that
+LINE 256: her late lessons in cookery were to do her honor, went to preside over
+LINE 257: the coffee-pot, while the children collected dry sticks, and the boys
+LINE 258: made a fire, and got water from a spring near by. Miss Kate sketched,
+LINE 259: and Frank talked to Beth, who was making little mats of braided rushes
+LINE 260: to serve as plates.
+LINE 261: The commander-in-chief and his aids soon spread the table-cloth with an
+LINE 262: inviting array of eatables and drinkables, prettily decorated with green
+LINE 263: leaves. Jo announced that the coffee was ready, and every one settled
+LINE 264: themselves to a hearty meal; for youth is seldom dyspeptic, and exercise
+LINE 265: develops wholesome appetites. A very merry lunch it was; for everything
+LINE 266: seemed fresh and funny, and frequent peals of laughter startled a
+LINE 267: venerable horse who fed near by. There was a pleasing inequality in the
+LINE 268: table, which produced many mishaps to cups and plates; acorns dropped
+LINE 269: into the milk, little black ants partook of the refreshments without
+LINE 270: being invited, and fuzzy caterpillars swung down from the tree, to see
+LINE 271: what was going on. Three white-headed children peeped over the fence,
+LINE 272: and an objectionable dog barked at them from the other side of the river
+LINE 273: with all his might and main.
+LINE 274: [Illustration: "A very merry lunch it was."--Page 156.]
+LINE 275: "There's salt here, if you prefer it," said Laurie, as he handed Jo a
+LINE 276: saucer of berries.
+LINE 277: "Thank you, I prefer spiders," she replied, fishing up two unwary little
+LINE 278: ones who had gone to a creamy death. "How dare you remind me of that
+LINE 279: horrid dinner-party, when yours is so nice in every way?" added Jo,
+LINE 280: as they both laughed, and ate out of one plate, the china having run
+LINE 281: short.
+LINE 282: "I had an uncommonly good time that day, and haven't got over it yet.
+LINE 283: This is no credit to me, you know; I don't do anything; it's you and Meg
+LINE 284: and Brooke who make it go, and I'm no end obliged to you. What shall we
+LINE 285: do when we can't eat any more?" asked Laurie, feeling that his trump
+LINE 286: card had been played when lunch was over.
+LINE 287: "Have games, till it's cooler. I brought 'Authors,' and I dare say Miss
+LINE 288: Kate knows something new and nice. Go and ask her; she's company, and
+LINE 289: you ought to stay with her more."
+LINE 290: "Aren't you company too? I thought she'd suit Brooke; but he keeps
+LINE 291: talking to Meg, and Kate just stares at them through that ridiculous
+LINE 292: glass of hers. I'm going, so you needn't try to preach propriety, for
+LINE 293: you can't do it, Jo."
+LINE 294: Miss Kate did know several new games; and as the girls would not, and
+LINE 295: the boys could not, eat any more, they all adjourned to the drawing-room
+LINE 296: to play "Rigmarole."
+LINE 297: "One person begins a story, any nonsense you like, and tells as long as
+LINE 298: he pleases, only taking care to stop short at some exciting point, when
+LINE 299: the next takes it up and does the same. It's very funny when well done,
+LINE 300: and makes a perfect jumble of tragical comical stuff to laugh over.
+LINE 301: Please start it, Mr. Brooke," said Kate, with a commanding air, which
+LINE 302: surprised Meg, who treated the tutor with as much respect as any other
+LINE 303: gentleman.
+LINE 304: Lying on the grass at the feet of the two young ladies, Mr. Brooke
+LINE 305: obediently began the story, with the handsome brown eyes steadily fixed
+LINE 306: upon the sunshiny river.
+LINE 307: "Once on a time, a knight went out into the world to seek his fortune,
+LINE 308: for he had nothing but his sword and his shield. He travelled a long
+LINE 309: while, nearly eight-and-twenty years, and had a hard time of it, till he
+LINE 310: came to the palace of a good old king, who had offered a reward to any
+LINE 311: one who would tame and train a fine but unbroken colt, of which he was
+LINE 312: very fond. The knight agreed to try, and got on slowly but surely; for
+LINE 313: the colt was a gallant fellow, and soon learned to love his new master,
+LINE 314: though he was freakish and wild. Every day, when he gave his lessons to
+LINE 315: this pet of the king's, the knight rode him through the city; and, as
+LINE 316: he rode, he looked everywhere for a certain beautiful face, which he had
+LINE 317: seen many times in his dreams, but never found. One day, as he went
+LINE 318: prancing down a quiet street, he saw at the window of a ruinous castle
+LINE 319: the lovely face. He was delighted, inquired who lived in this old
+LINE 320: castle, and was told that several captive princesses were kept there by
+LINE 321: a spell, and spun all day to lay up money to buy their liberty. The
+LINE 322: knight wished intensely that he could free them; but he was poor, and
+LINE 323: could only go by each day, watching for the sweet face, and longing to
+LINE 324: see it out in the sunshine. At last, he resolved to get into the castle
+LINE 325: and ask how he could help them. He went and knocked; the great door flew
+LINE 326: open, and he beheld--"
+LINE 327: [Illustration: He went prancing down a quiet street]
+LINE 328: "A ravishingly lovely lady, who exclaimed, with a cry of rapture, 'At
+LINE 329: last! at last!'" continued Kate, who had read French novels, and admired
+LINE 330: the style. "''Tis she!' cried Count Gustave, and fell at her feet in an
+LINE 331: ecstasy of joy. 'Oh, rise!' she said, extending a hand of marble
+LINE 332: fairness. 'Never! till you tell me how I may rescue you,' swore the
+LINE 333: knight, still kneeling. 'Alas, my cruel fate condemns me to remain here
+LINE 334: till my tyrant is destroyed.' 'Where is the villain?' 'In the mauve
+LINE 335: salon. Go, brave heart, and save me from despair.' 'I obey, and return
+LINE 336: victorious or dead!' With these thrilling words he rushed away, and
+LINE 337: flinging open the door of the mauve salon, was about to enter, when he
+LINE 338: received--"
+LINE 339: [Illustration: "Oh, rise," she said]
+LINE 340: "A stunning blow from the big Greek lexicon, which an old fellow in a
+LINE 341: black gown fired at him," said Ned. "Instantly Sir What's-his-name
+LINE 342: recovered himself, pitched the tyrant out of the window, and turned to
+LINE 343: join the lady, victorious, but with a bump on his brow; found the door
+LINE 344: locked, tore up the curtains, made a rope ladder, got half-way down when
+LINE 345: the ladder broke, and he went head first into the moat, sixty feet
+LINE 346: below. Could swim like a duck, paddled round the castle till he came to
+LINE 347: a little door guarded by two stout fellows; knocked their heads together
+LINE 348: till they cracked like a couple of nuts, then, by a trifling exertion of
+LINE 349: his prodigious strength, he smashed in the door, went up a pair of stone
+LINE 350: steps covered with dust a foot thick, toads as big as your fist, and
+LINE 351: spiders that would frighten you into hysterics, Miss March. At the top
+LINE 352: of these steps he came plump upon a sight that took his breath away and
+LINE 353: chilled his blood--"
+LINE 354: [Illustration: A stunning blow from the big Greek lexicon]
+LINE 355: "A tall figure, all in white with a veil over its face and a lamp in its
+LINE 356: wasted hand," went on Meg. "It beckoned, gliding noiselessly before him
+LINE 357: down a corridor as dark and cold as any tomb. Shadowy effigies in armor
+LINE 358: stood on either side, a dead silence reigned, the lamp burned blue, and
+LINE 359: the ghostly figure ever and anon turned its face toward him, showing the
+LINE 360: glitter of awful eyes through its white veil. They reached a curtained
+LINE 361: door, behind which sounded lovely music; he sprang forward to enter, but
+LINE 362: the spectre plucked him back, and waved threateningly before him a--"
+LINE 363: "Snuff-box," said Jo, in a sepulchral tone, which convulsed the
+LINE 364: audience. "'Thankee,' said the knight politely, as he took a pinch, and
+LINE 365: sneezed seven times so violently that his head fell off. 'Ha! ha!'
+LINE 366: laughed the ghost; and having peeped through the key-hole at the
+LINE 367: princesses spinning away for dear life, the evil spirit picked up her
+LINE 368: victim and put him in a large tin box, where there were eleven other
+LINE 369: knights packed together without their heads, like sardines, who all rose
+LINE 370: and began to--"
+LINE 371: [Illustration: He sneezed]
+LINE 372: "Dance a hornpipe," cut in Fred, as Jo paused for breath; "and, as they
+LINE 373: danced, the rubbishy old castle turned to a man-of-war in full sail. 'Up
+LINE 374: with the jib, reef the tops'l halliards, helm hard a lee, and man the
+LINE 375: guns!' roared the captain, as a Portuguese pirate hove in sight, with a
+LINE 376: flag black as ink flying from her foremast. 'Go in and win, my
+LINE 377: hearties!' says the captain; and a tremendous fight begun. Of course the
+LINE 378: British beat; they always do."
+LINE 379: "No, they don't!" cried Jo, aside.
+LINE 380: "Having taken the pirate captain prisoner, sailed slap over the
+LINE 381: schooner, whose decks were piled with dead, and whose lee-scuppers ran
+LINE 382: blood, for the order had been 'Cutlasses, and die hard!' 'Bosen's mate,
+LINE 383: take a bight of the flying-jib sheet, and start this villain if he don't
+LINE 384: confess his sins double quick,' said the British captain. The Portuguese
+LINE 385: held his tongue like a brick, and walked the plank, while the jolly tars
+LINE 386: cheered like mad. But the sly dog dived, came up under the man-of-war,
+LINE 387: scuttled her, and down she went, with all sail set, 'To the bottom of
+LINE 388: the sea, sea, sea,' where--"
+LINE 389: [Illustration: The Portuguese walked the plank]
+LINE 390: "Oh, gracious! what _shall_ I say?" cried Sallie, as Fred ended his
+LINE 391: rigmarole, in which he had jumbled together, pell-mell, nautical phrases
+LINE 392: and facts, out of one of his favorite books. "Well they went to the
+LINE 393: bottom, and a nice mermaid welcomed them, but was much grieved on
+LINE 394: finding the box of headless knights, and kindly pickled them in brine,
+LINE 395: hoping to discover the mystery about them; for, being a woman, she was
+LINE 396: curious. By and by a diver came down, and the mermaid said, 'I'll give
+LINE 397: you this box of pearls if you can take it up;' for she wanted to restore
+LINE 398: the poor things to life, and couldn't raise the heavy load herself. So
+LINE 399: the diver hoisted it up, and was much disappointed, on opening it, to
+LINE 400: find no pearls. He left it in a great lonely field, where it was found
+LINE 401: by a--"
+LINE 402: "Little goose-girl, who kept a hundred fat geese in the field," said
+LINE 403: Amy, when Sallie's invention gave out. "The little girl was sorry for
+LINE 404: them, and asked an old woman what she should do to help them. 'Your
+LINE 405: geese will tell you, they know everything,' said the old woman. So she
+LINE 406: asked what she should use for new heads, since the old ones were lost,
+LINE 407: and all the geese opened their hundred mouths and screamed--"
+LINE 408: "'Cabbages!'" continued Laurie promptly. "'Just the thing,' said the
+LINE 409: girl, and ran to get twelve fine ones from her garden. She put them on,
+LINE 410: the knights revived at once, thanked her, and went on their way
+LINE 411: rejoicing, never knowing the difference, for there were so many other
+LINE 412: heads like them in the world that no one thought anything of it. The
+LINE 413: knight in whom I'm interested went back to find the pretty face, and
+LINE 414: learned that the princesses had spun themselves free, and all gone to be
+LINE 415: married, but one. He was in a great state of mind at that; and mounting
+LINE 416: the colt, who stood by him through thick and thin, rushed to the castle
+LINE 417: to see which was left. Peeping over the hedge, he saw the queen of his
+LINE 418: affections picking flowers in her garden. 'Will you give me a rose?'
+LINE 419: said he. 'You must come and get it. I can't come to you; it isn't
+LINE 420: proper,' said she, as sweet as honey. He tried to climb over the hedge,
+LINE 421: but it seemed to grow higher and higher; then he tried to push through,
+LINE 422: but it grew thicker and thicker, and he was in despair. So he patiently
+LINE 423: broke twig after twig, till he had made a little hole, through which he
+LINE 424: peeped, saying imploringly, 'Let me in! let me in!' But the pretty
+LINE 425: princess did not seem to understand, for she picked her roses quietly,
+LINE 426: and left him to fight his way in. Whether he did or not, Frank will tell
+LINE 427: you."
+LINE 428: [Illustration: Will you give me a rose?]
+LINE 429: "I can't; I'm not playing, I never do," said Frank, dismayed at the
+LINE 430: sentimental predicament out of which he was to rescue the absurd couple.
+LINE 431: Beth had disappeared behind Jo, and Grace was asleep.
+LINE 432: "So the poor knight is to be left sticking in the hedge, is he?" asked
+LINE 433: Mr. Brooke, still watching the river, and playing with the wild rose in
+LINE 434: his button-hole.
+LINE 435: "I guess the princess gave him a posy, and opened the gate, after a
+LINE 436: while," said Laurie, smiling to himself, as he threw acorns at his
+LINE 437: tutor.
+LINE 438: "What a piece of nonsense we have made! With practice we might do
+LINE 439: something quite clever. Do you know 'Truth'?" asked Sallie, after they
+LINE 440: had laughed over their story.
+LINE 441: "I hope so," said Meg soberly.
+LINE 442: "The game, I mean?"
+LINE 443: "What is it?" said Fred.
+LINE 444: "Why, you pile up your hands, choose a number, and draw out in turn, and
+LINE 445: the person who draws at the number has to answer truly any questions put
+LINE 446: by the rest. It's great fun."
+LINE 447: "Let's try it," said Jo, who liked new experiments.
+LINE 448: Miss Kate and Mr. Brooke, Meg, and Ned declined, but Fred, Sallie, Jo,
+LINE 449: and Laurie piled and drew; and the lot fell to Laurie.
+LINE 450: "Who are your heroes?" asked Jo.
+LINE 451: "Grandfather and Napoleon."
+LINE 452: "Which lady here do you think prettiest?" said Sallie.
+LINE 453: "Margaret."
+LINE 454: "Which do you like best?" from Fred.
+LINE 455: "Jo, of course."
+LINE 456: "What silly questions you ask!" and Jo gave a disdainful shrug as the
+LINE 457: rest laughed at Laurie's matter-of-fact tone.
+LINE 458: "Try again; Truth isn't a bad game," said Fred.
+LINE 459: "It's a very good one for you," retorted Jo, in a low voice.
+LINE 460: Her turn came next.
+LINE 461: "What is your greatest fault?" asked Fred, by way of testing in her the
+LINE 462: virtue he lacked himself.
+LINE 463: "A quick temper."
+LINE 464: "What do you most wish for?" said Laurie.
+LINE 465: "A pair of boot-lacings," returned Jo, guessing and defeating his
+LINE 466: purpose.
+LINE 467: "Not a true answer; you must say what you really do want most."
+LINE 468: "Genius; don't you wish you could give it to me, Laurie?" and she slyly
+LINE 469: smiled in his disappointed face.
+LINE 470: "What virtues do you most admire in a man?" asked Sallie.
+LINE 471: "Courage and honesty."
+LINE 472: "Now my turn," said Fred, as his hand came last.
+LINE 473: "Let's give it to him," whispered Laurie to Jo, who nodded, and asked at
+LINE 474: once,--
+LINE 475: "Didn't you cheat at croquet?"
+LINE 476: "Well, yes, a little bit."
+LINE 477: "Good! Didn't you take your story out of 'The Sea-Lion?'" said Laurie.
+LINE 478: "Rather."
+LINE 479: "Don't you think the English nation perfect in every respect?" asked
+LINE 480: Sallie.
+LINE 481: "I should be ashamed of myself if I didn't."
+LINE 482: "He's a true John Bull. Now, Miss Sallie, you shall have a chance
+LINE 483: without waiting to draw. I'll harrow up your feelings first, by asking
+LINE 484: if you don't think you are something of a flirt," said Laurie, as Jo
+LINE 485: nodded to Fred, as a sign that peace was declared.
+LINE 486: "You impertinent boy! of course I'm not," exclaimed Sallie, with an air
+LINE 487: that proved the contrary.
+LINE 488: "What do you hate most?" asked Fred.
+LINE 489: "Spiders and rice-pudding."
+LINE 490: "What do you like best?" asked Jo.
+LINE 491: "Dancing and French gloves."
+LINE 492: "Well, _I_ think Truth is a very silly play; let's have a sensible game
+LINE 493: of Authors, to refresh our minds," proposed Jo.
+LINE 494: Ned, Frank, and the little girls joined in this, and, while it went on,
+LINE 495: the three elders sat apart, talking. Miss Kate took out her sketch
+LINE 496: again, and Margaret watched her, while Mr. Brooke lay on the grass, with
+LINE 497: a book, which he did not read.
+LINE 498: "How beautifully you do it! I wish I could draw," said Meg, with mingled
+LINE 499: admiration and regret in her voice.
+LINE 500: "Why don't you learn? I should think you had taste and talent for it,"
+LINE 501: replied Miss Kate graciously.
+LINE 502: "I haven't time."
+LINE 503: "Your mamma prefers other accomplishments, I fancy. So did mine; but I
+LINE 504: proved to her that I had talent, by taking a few lessons privately, and
+LINE 505: then she was quite willing I should go on. Can't you do the same with
+LINE 506: your governess?"
+LINE 507: "I have none."
+LINE 508: "I forgot; young ladies in America go to school more than with us. Very
+LINE 509: fine schools they are, too, papa says. You go to a private one, I
+LINE 510: suppose?"
+LINE 511: "I don't go at all; I am a governess myself."
+LINE 512: "Oh, indeed!" said Miss Kate; but she might as well have said, "Dear me,
+LINE 513: how dreadful!" for her tone implied it, and something in her face made
+LINE 514: Meg color, and wish she had not been so frank.
+LINE 515: Mr. Brooke looked up, and said quickly, "Young ladies in America love
+LINE 516: independence as much as their ancestors did, and are admired and
+LINE 517: respected for supporting themselves."
+LINE 518: "Oh, yes; of course it's very nice and proper in them to do so. We have
+LINE 519: many most respectable and worthy young women, who do the same and are
+LINE 520: employed by the nobility, because, being the daughters of gentlemen,
+LINE 521: they are both well-bred and accomplished, you know," said Miss Kate, in
+LINE 522: a patronizing tone, that hurt Meg's pride, and made her work seem not
+LINE 523: only more distasteful, but degrading.
+LINE 524: "Did the German song suit, Miss March?" inquired Mr. Brooke, breaking an
+LINE 525: awkward pause.
+LINE 526: "Oh, yes! it was very sweet, and I'm much obliged to whoever translated
+LINE 527: it for me;" and Meg's downcast face brightened as she spoke.
+LINE 528: "Don't you read German?" asked Miss Kate, with a look of surprise.
+LINE 529: "Not very well. My father, who taught me, is away, and I don't get on
+LINE 530: very fast alone, for I've no one to correct my pronunciation."
+LINE 531: "Try a little now; here is Schiller's 'Mary Stuart,' and a tutor who
+LINE 532: loves to teach," and Mr. Brooke laid his book on her lap, with an
+LINE 533: inviting smile.
+LINE 534: "It's so hard I'm afraid to try," said Meg, grateful, but bashful in the
+LINE 535: presence of the accomplished young lady beside her.
+LINE 536: "I'll read a bit to encourage you;" and Miss Kate read one of the most
+LINE 537: beautiful passages, in a perfectly correct but perfectly expressionless
+LINE 538: manner.
+LINE 539: Mr. Brooke made no comment, as she returned the book to Meg, who said
+LINE 540: innocently,--
+LINE 541: "I thought it was poetry."
+LINE 542: "Some of it is. Try this passage."
+LINE 543: There was a queer smile about Mr. Brooke's mouth as he opened at poor
+LINE 544: Mary's lament.
+LINE 545: Meg, obediently following the long grass-blade which her new tutor used
+LINE 546: to point with, read slowly and timidly, unconsciously making poetry of
+LINE 547: the hard words by the soft intonation of her musical voice. Down the
+LINE 548: page went the green guide, and presently, forgetting her listener in the
+LINE 549: beauty of the sad scene, Meg read as if alone, giving a little touch of
+LINE 550: tragedy to the words of the unhappy queen. If she had seen the brown
+LINE 551: eyes then, she would have stopped short; but she never looked up, and
+LINE 552: the lesson was not spoiled for her.
+LINE 553: "Very well indeed!" said Mr. Brooke, as she paused, quite ignoring her
+LINE 554: many mistakes, and looking as if he did, indeed, "love to teach."
+LINE 555: Miss Kate put up her glass, and, having taken a survey of the little
+LINE 556: tableau before her, shut her sketch-book, saying, with condescension,--
+LINE 557: [Illustration: Miss Kate put up her glass]
+LINE 558: "You've a nice accent, and, in time, will be a clever reader. I advise
+LINE 559: you to learn, for German is a valuable accomplishment to teachers. I
+LINE 560: must look after Grace, she is romping;" and Miss Kate strolled away,
+LINE 561: adding to herself, with a shrug, "I didn't come to chaperone a
+LINE 562: governess, though she _is_ young and pretty. What odd people these
+LINE 563: Yankees are; I'm afraid Laurie will be quite spoilt among them."
+LINE 564: "I forgot that English people rather turn up their noses at governesses,
+LINE 565: and don't treat them as we do," said Meg, looking after the retreating
+LINE 566: figure with an annoyed expression.
+LINE 567: "Tutors, also, have rather a hard time of it there, as I know to my
+LINE 568: sorrow. There's no place like America for us workers, Miss Margaret;"
+LINE 569: and Mr. Brooke looked so contented and cheerful, that Meg was ashamed to
+LINE 570: lament her hard lot.
+LINE 571: "I'm glad I live in it then. I don't like my work, but I get a good deal
+LINE 572: of satisfaction out of it after all, so I won't complain; I only wish I
+LINE 573: liked teaching as you do."
+LINE 574: "I think you would if you had Laurie for a pupil. I shall be very sorry
+LINE 575: to lose him next year," said Mr. Brooke, busily punching holes in the
+LINE 576: turf.
+LINE 577: "Going to college, I suppose?" Meg's lips asked that question, but her
+LINE 578: eyes added, "And what becomes of you?"
+LINE 579: "Yes; it's high time he went, for he is ready; and as soon as he is off,
+LINE 580: I shall turn soldier. I am needed."
+LINE 581: "I am glad of that!" exclaimed Meg. "I should think every young man
+LINE 582: would want to go; though it is hard for the mothers and sisters who stay
+LINE 583: at home," she added sorrowfully.
+LINE 584: "I have neither, and very few friends, to care whether I live or die,"
+LINE 585: said Mr. Brooke, rather bitterly, as he absently put the dead rose in
+LINE 586: the hole he had made and covered it up, like a little grave.
+LINE 587: "Laurie and his grandfather would care a great deal, and we should all
+LINE 588: be very sorry to have any harm happen to you," said Meg heartily.
+LINE 589: "Thank you; that sounds pleasant," began Mr. Brooke, looking cheerful
+LINE 590: again; but before he could finish his speech, Ned, mounted on the old
+LINE 591: horse, came lumbering up to display his equestrian skill before the
+LINE 592: young ladies, and there was no more quiet that day.
+LINE 593: "Don't you love to ride?" asked Grace of Amy, as they stood resting,
+LINE 594: after a race round the field with the others, led by Ned.
+LINE 595: "I dote upon it; my sister Meg used to ride when papa was rich, but we
+LINE 596: don't keep any horses now, except Ellen Tree," added Amy, laughing.
+LINE 597: "Tell me about Ellen Tree; is it a donkey?" asked Grace curiously.
+LINE 598: [Illustration: Ellen Tree]
+LINE 599: "Why, you see, Jo is crazy about horses, and so am I, but we've only got
+LINE 600: an old side-saddle, and no horse. Out in our garden is an apple-tree,
+LINE 601: that has a nice low branch; so Jo put the saddle on it, fixed some reins
+LINE 602: on the part that turns up, and we bounce away on Ellen Tree whenever we
+LINE 603: like."
+LINE 604: "How funny!" laughed Grace. "I have a pony at home, and ride nearly
+LINE 605: every day in the park, with Fred and Kate; it's very nice, for my
+LINE 606: friends go too, and the Row is full of ladies and gentlemen."
+LINE 607: "Dear, how charming! I hope I shall go abroad some day; but I'd rather
+LINE 608: go to Rome than the Row," said Amy, who had not the remotest idea what
+LINE 609: the Row was, and wouldn't have asked for the world.
+LINE 610: Frank, sitting just behind the little girls, heard what they were
+LINE 611: saying, and pushed his crutch away from him with an impatient gesture as
+LINE 612: he watched the active lads going through all sorts of comical
+LINE 613: gymnastics. Beth, who was collecting the scattered Author-cards, looked
+LINE 614: up, and said, in her shy yet friendly way,--
+LINE 615: "I'm afraid you are tired; can I do anything for you?"
+LINE 616: "Talk to me, please; it's dull, sitting by myself," answered Frank, who
+LINE 617: had evidently been used to being made much of at home.
+LINE 618: If he had asked her to deliver a Latin oration, it would not have seemed
+LINE 619: a more impossible task to bashful Beth; but there was no place to run
+LINE 620: to, no Jo to hide behind now, and the poor boy looked so wistfully at
+LINE 621: her, that she bravely resolved to try.
+LINE 622: "What do you like to talk about?" she asked, fumbling over the cards,
+LINE 623: and dropping half as she tried to tie them up.
+LINE 624: "Well, I like to hear about cricket and boating and hunting," said
+LINE 625: Frank, who had not yet learned to suit his amusements to his strength.
+LINE 626: "My heart! what shall I do? I don't know anything about them," thought
+LINE 627: Beth; and, forgetting the boy's misfortune in her flurry, she said,
+LINE 628: hoping to make him talk, "I never saw any hunting, but I suppose you
+LINE 629: know all about it."
+LINE 630: "I did once; but I can never hunt again, for I got hurt leaping a
+LINE 631: confounded five-barred gate; so there are no more horses and hounds for
+LINE 632: me," said Frank, with a sigh that made Beth hate herself for her
+LINE 633: innocent blunder.
+LINE 634: "Your deer are much prettier than our ugly buffaloes," she said, turning
+LINE 635: to the prairies for help, and feeling glad that she had read one of the
+LINE 636: boys' books in which Jo delighted.
+LINE 637: Buffaloes proved soothing and satisfactory; and, in her eagerness to
+LINE 638: amuse another, Beth forgot herself, and was quite unconscious of her
+LINE 639: sisters' surprise and delight at the unusual spectacle of Beth talking
+LINE 640: away to one of the dreadful boys, against whom she had begged
+LINE 641: protection.
+LINE 642: "Bless her heart! She pities him, so she is good to him," said Jo,
+LINE 643: beaming at her from the croquet-ground.
+LINE 644: "I always said she was a little saint," added Meg, as if there could be
+LINE 645: no further doubt of it.
+LINE 646: "I haven't heard Frank laugh so much for ever so long," said Grace to
+LINE 647: Amy, as they sat discussing dolls, and making tea-sets out of the
+LINE 648: acorn-cups.
+LINE 649: "My sister Beth is a very _fastidious_ girl, when she likes to be," said
+LINE 650: Amy, well pleased at Beth's success. She meant "fascinating," but as
+LINE 651: Grace didn't know the exact meaning of either word, "fastidious" sounded
+LINE 652: well, and made a good impression.
+LINE 653: An impromptu circus, fox and geese, and an amicable game of croquet,
+LINE 654: finished the afternoon. At sunset the tent was struck, hampers packed,
+LINE 655: wickets pulled up, boats loaded, and the whole party floated down the
+LINE 656: river, singing at the tops of their voices. Ned, getting sentimental,
+LINE 657: warbled a serenade with the pensive refrain,--
+LINE 658: "Alone, alone, ah! woe, alone,"
+LINE 659: and at the lines--
+LINE 660: "We each are young, we each have a heart,
+LINE 661: Oh, why should we stand thus coldly apart?"
+LINE 662: he looked at Meg with such a lackadaisical expression that she laughed
+LINE 663: outright and spoilt his song.
+LINE 664: "How can you be so cruel to me?" he whispered, under cover of a lively
+LINE 665: chorus. "You've kept close to that starched-up Englishwoman all day, and
+LINE 666: now you snub me."
+LINE 667: "I didn't mean to; but you looked so funny I really couldn't help it,"
+LINE 668: replied Meg, passing over the first part of his reproach; for it was
+LINE 669: quite true that she _had_ shunned him, remembering the Moffat party and
+LINE 670: the talk after it.
+LINE 671: Ned was offended, and turned to Sallie for consolation, saying to her
+LINE 672: rather pettishly, "There isn't a bit of flirt in that girl, is there?"
+LINE 673: "Not a particle; but she's a dear," returned Sallie, defending her
+LINE 674: friend even while confessing her short-comings.
+LINE 675: "She's not a stricken deer, any way," said Ned, trying to be witty, and
+LINE 676: succeeding as well as very young gentlemen usually do.
+LINE 677: On the lawn, where it had gathered, the little party separated with
+LINE 678: cordial good-nights and good-byes, for the Vaughns were going to Canada.
+LINE 679: As the four sisters went home through the garden, Miss Kate looked after
+LINE 680: them, saying, without the patronizing tone in her voice, "In spite of
+LINE 681: their demonstrative manners, American girls are very nice when one knows
+LINE 682: them."
+LINE 683: "I quite agree with you," said Mr. Brooke.
+LINE 684: [Illustration: Tail-piece]
+LINE 685: [Illustration: Swinging to and fro in his hammock]

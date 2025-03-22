@@ -1,0 +1,34 @@
+LINE 1: After the earthquake had destroyed three-fourths of Lisbon, the sages of
+LINE 2: that country could think of no means more effectual to prevent utter
+LINE 3: ruin than to give the people a beautiful _auto-da-fé_[6]; for it had
+LINE 4: been decided by the University of Coimbra, that the burning of a few
+LINE 5: people alive by a slow fire, and with great ceremony, is an infallible
+LINE 6: secret to hinder the earth from quaking.
+LINE 7: In consequence hereof, they had seized on a Biscayner, convicted of
+LINE 8: having married his godmother, and on two Portuguese, for rejecting the
+LINE 9: bacon which larded a chicken they were eating[7]; after dinner, they
+LINE 10: came and secured Dr. Pangloss, and his disciple Candide, the one for
+LINE 11: speaking his mind, the other for having listened with an air of
+LINE 12: approbation. They were conducted to separate apartments, extremely cold,
+LINE 13: as they were never incommoded by the sun. Eight days after they were
+LINE 14: dressed in _san-benitos_[8] and their heads ornamented with paper
+LINE 15: mitres. The mitre and _san-benito_ belonging to Candide were painted
+LINE 16: with reversed flames and with devils that had neither tails nor claws;
+LINE 17: but Pangloss's devils had claws and tails and the flames were upright.
+LINE 18: They marched in procession thus habited and heard a very pathetic
+LINE 19: sermon, followed by fine church music. Candide was whipped in cadence
+LINE 20: while they were singing; the Biscayner, and the two men who had refused
+LINE 21: to eat bacon, were burnt; and Pangloss was hanged, though that was not
+LINE 22: the custom. The same day the earth sustained a most violent concussion.
+LINE 23: Candide, terrified, amazed, desperate, all bloody, all palpitating, said
+LINE 24: to himself:
+LINE 25: "If this is the best of possible worlds, what then are the others? Well,
+LINE 26: if I had been only whipped I could put up with it, for I experienced
+LINE 27: that among the Bulgarians; but oh, my dear Pangloss! thou greatest of
+LINE 28: philosophers, that I should have seen you hanged, without knowing for
+LINE 29: what! Oh, my dear Anabaptist, thou best of men, that thou should'st have
+LINE 30: been drowned in the very harbour! Oh, Miss Cunegonde, thou pearl of
+LINE 31: girls! that thou should'st have had thy belly ripped open!"
+LINE 32: Thus he was musing, scarce able to stand, preached at, whipped,
+LINE 33: absolved, and blessed, when an old woman accosted him saying:
+LINE 34: "My son, take courage and follow me."

@@ -1,0 +1,59 @@
+LINE 1: "Who was it that robbed me of my money and jewels?" said Cunegonde, all
+LINE 2: bathed in tears. "How shall we live? What shall we do? Where find
+LINE 3: Inquisitors or Jews who will give me more?"
+LINE 4: "Alas!" said the old woman, "I have a shrewd suspicion of a reverend
+LINE 5: Grey Friar, who stayed last night in the same inn with us at Badajos.
+LINE 6: God preserve me from judging rashly, but he came into our room twice,
+LINE 7: and he set out upon his journey long before us."
+LINE 8: "Alas!" said Candide, "dear Pangloss has often demonstrated to me that
+LINE 9: the goods of this world are common to all men, and that each has an
+LINE 10: equal right to them. But according to these principles the Grey Friar
+LINE 11: ought to have left us enough to carry us through our journey. Have you
+LINE 12: nothing at all left, my dear Cunegonde?"
+LINE 13: "Not a farthing," said she.
+LINE 14: "What then must we do?" said Candide.
+LINE 15: "Sell one of the horses," replied the old woman. "I will ride behind
+LINE 16: Miss Cunegonde, though I can hold myself only on one buttock, and we
+LINE 17: shall reach Cadiz."
+LINE 18: In the same inn there was a Benedictine prior who bought the horse for a
+LINE 19: cheap price. Candide, Cunegonde, and the old woman, having passed
+LINE 20: through Lucena, Chillas, and Lebrixa, arrived at length at Cadiz. A
+LINE 21: fleet was there getting ready, and troops assembling to bring to reason
+LINE 22: the reverend Jesuit Fathers of Paraguay, accused of having made one of
+LINE 23: the native tribes in the neighborhood of San Sacrament revolt against
+LINE 24: the Kings of Spain and Portugal. Candide having been in the Bulgarian
+LINE 25: service, performed the military exercise before the general of this
+LINE 26: little army with so graceful an address, with so intrepid an air, and
+LINE 27: with such agility and expedition, that he was given the command of a
+LINE 28: company of foot. Now, he was a captain! He set sail with Miss Cunegonde,
+LINE 29: the old woman, two valets, and the two Andalusian horses, which had
+LINE 30: belonged to the grand Inquisitor of Portugal.
+LINE 31: During their voyage they reasoned a good deal on the philosophy of poor
+LINE 32: Pangloss.
+LINE 33: "We are going into another world," said Candide; "and surely it must be
+LINE 34: there that all is for the best. For I must confess there is reason to
+LINE 35: complain a little of what passeth in our world in regard to both
+LINE 36: natural and moral philosophy."
+LINE 37: "I love you with all my heart," said Cunegonde; "but my soul is still
+LINE 38: full of fright at that which I have seen and experienced."
+LINE 39: "All will be well," replied Candide; "the sea of this new world is
+LINE 40: already better than our European sea; it is calmer, the winds more
+LINE 41: regular. It is certainly the New World which is the best of all possible
+LINE 42: worlds."
+LINE 43: "God grant it," said Cunegonde; "but I have been so horribly unhappy
+LINE 44: there that my heart is almost closed to hope."
+LINE 45: "You complain," said the old woman; "alas! you have not known such
+LINE 46: misfortunes as mine."
+LINE 47: Cunegonde almost broke out laughing, finding the good woman very
+LINE 48: amusing, for pretending to have been as unfortunate as she.
+LINE 49: "Alas!" said Cunegonde, "my good mother, unless you have been ravished
+LINE 50: by two Bulgarians, have received two deep wounds in your belly, have had
+LINE 51: two castles demolished, have had two mothers cut to pieces before your
+LINE 52: eyes, and two of your lovers whipped at an _auto-da-fé_, I do not
+LINE 53: conceive how you could be more unfortunate than I. Add that I was born a
+LINE 54: baroness of seventy-two quarterings--and have been a cook!"
+LINE 55: "Miss," replied the old woman, "you do not know my birth; and were I to
+LINE 56: show you my backside, you would not talk in that manner, but would
+LINE 57: suspend your judgment."
+LINE 58: This speech having raised extreme curiosity in the minds of Cunegonde
+LINE 59: and Candide, the old woman spoke to them as follows.

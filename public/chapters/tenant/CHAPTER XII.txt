@@ -1,0 +1,326 @@
+LINE 1: In little more than twenty minutes the journey was accomplished. I
+LINE 2: paused at the gate to wipe my streaming forehead, and recover my breath
+LINE 3: and some degree of composure. Already the rapid walking had somewhat
+LINE 4: mitigated my excitement; and with a firm and steady tread I paced the
+LINE 5: garden-walk. In passing the inhabited wing of the building, I caught a
+LINE 6: sight of Mrs. Graham, through the open window, slowly pacing up and
+LINE 7: down her lonely room.
+LINE 8: She seemed agitated and even dismayed at my arrival, as if she thought
+LINE 9: I too was coming to accuse her. I had entered her presence intending to
+LINE 10: condole with her upon the wickedness of the world, and help her to
+LINE 11: abuse the vicar and his vile informants, but now I felt positively
+LINE 12: ashamed to mention the subject, and determined not to refer to it,
+LINE 13: unless she led the way.
+LINE 14: "I am come at an unseasonable hour," said I, assuming a cheerfulness I
+LINE 15: did not feel, in order to reassure her; "but I won't stay many
+LINE 16: minutes."
+LINE 17: She smiled upon me, faintly it is true, but most kindly—I had almost
+LINE 18: said thankfully, as her apprehensions were removed.
+LINE 19: "How dismal you are, Helen! Why have you no fire?" I said, looking
+LINE 20: round on the gloomy apartment.
+LINE 21: "It is summer yet," she replied.
+LINE 22: "But _we always_ have a fire in the evenings, if we can bear it; and
+LINE 23: you especially require one in this cold house and dreary room."
+LINE 24: "You should have come a little sooner, and I would have had one lighted
+LINE 25: for you: but it is not worth while now—you won't stay many minutes, you
+LINE 26: say, and Arthur is gone to bed."
+LINE 27: "But I have a fancy for a fire, nevertheless. Will you order one, if I
+LINE 28: ring?"
+LINE 29: "Why, Gilbert, you don't _look_ cold!" said she, smilingly regarding my
+LINE 30: face, which no doubt seemed warm enough.
+LINE 31: "No," replied I, "but I want to see you comfortable before I go."
+LINE 32: "Me comfortable!" repeated she, with a bitter laugh, as if there were
+LINE 33: something amusingly absurd in the idea. "It suits me better as it is,"
+LINE 34: she added, in a tone of mournful resignation.
+LINE 35: But determined to have my own way, I pulled the bell.
+LINE 36: "There now, Helen!" I said, as the approaching steps of Rachel were
+LINE 37: heard in answer to the summons. There was nothing for it but to turn
+LINE 38: round and desire the maid to light the fire.
+LINE 39: I owe Rachel a grudge to this day for the look she cast upon me ere she
+LINE 40: departed on her mission, the sour, suspicious, inquisitorial look that
+LINE 41: plainly demanded, "What are _you_ here for, I wonder?" Her mistress did
+LINE 42: not fail to notice it, and a shade of uneasiness darkened her brow.
+LINE 43: "You must not stay long, Gilbert," said she, when the door was closed
+LINE 44: upon us.
+LINE 45: "I'm not going to," said I, somewhat testily, though without a grain of
+LINE 46: anger in my heart against any one but the meddling old woman. "But,
+LINE 47: Helen, I've something to say to you before I go."
+LINE 48: "What is it?"
+LINE 49: "No, not now—I don't know yet precisely what it is, or how to say it,"
+LINE 50: replied I, with more truth than wisdom; and then, fearing lest she
+LINE 51: should turn me out of the house, I began talking about indifferent
+LINE 52: matters in order to gain time. Meanwhile Rachel came in to kindle the
+LINE 53: fire, which was soon effected by thrusting a red-hot poker between the
+LINE 54: bars of the grate, where the fuel was already disposed for ignition.
+LINE 55: She honoured me with another of her hard, inhospitable looks in
+LINE 56: departing, but, little moved thereby, I went on talking; and setting a
+LINE 57: chair for Mrs. Graham on one side of the hearth, and one for myself on
+LINE 58: the other, I ventured to sit down, though half suspecting she would
+LINE 59: rather see me go.
+LINE 60: In a little while we both relapsed into silence, and continued for
+LINE 61: several minutes gazing abstractedly into the fire—she intent upon her
+LINE 62: own sad thoughts, and I reflecting how delightful it would be to be
+LINE 63: seated thus beside her with no other presence to restrain our
+LINE 64: intercourse—not even that of Arthur, our mutual friend, without whom we
+LINE 65: had never met before—if only I could venture to speak my mind, and
+LINE 66: disburden my full heart of the feelings that had so long oppressed it,
+LINE 67: and which it now struggled to retain, with an effort that it seemed
+LINE 68: impossible to continue much longer,—and revolving the pros and cons for
+LINE 69: opening my heart to her there and then, and imploring a return of
+LINE 70: affection, the permission to regard her thenceforth as my own, and the
+LINE 71: right and the power to defend her from the calumnies of malicious
+LINE 72: tongues. On the one hand, I felt a new-born confidence in my powers of
+LINE 73: persuasion—a strong conviction that my own fervour of spirit would
+LINE 74: grant me eloquence—that my very determination—the absolute necessity
+LINE 75: for succeeding, that I felt must win me what I sought; while, on the
+LINE 76: other, I feared to lose the ground I had already gained with so much
+LINE 77: toil and skill, and destroy all future hope by one rash effort, when
+LINE 78: time and patience might have won success. It was like setting my life
+LINE 79: upon the cast of a die; and yet I was ready to resolve upon the
+LINE 80: attempt. At any rate, I would entreat the explanation she had half
+LINE 81: promised to give me before; I would demand the reason of this hateful
+LINE 82: barrier, this mysterious impediment to my happiness, and, as I trusted,
+LINE 83: to her own.
+LINE 84: But while I considered in what manner I could best frame my request, my
+LINE 85: companion, wakened from her reverie with a scarcely audible sigh, and
+LINE 86: looking towards the window, where the blood-red harvest moon, just
+LINE 87: rising over one of the grim, fantastic evergreens, was shining in upon
+LINE 88: us, said,—"Gilbert, it is getting late."
+LINE 89: "I see," said I. "You want me to go, I suppose?"
+LINE 90: "I think you ought. If my kind neighbours get to know of this visit—as
+LINE 91: no doubt they will—they will not turn it much to my advantage." It was
+LINE 92: with what the vicar would doubtless have called a savage sort of smile
+LINE 93: that she said this.
+LINE 94: "Let them turn it as they will," said I. "What are their thoughts to
+LINE 95: you or me, so long as we are satisfied with ourselves—and each other.
+LINE 96: Let them go to the deuce with their vile constructions and their lying
+LINE 97: inventions!"
+LINE 98: This outburst brought a flush of colour to her face.
+LINE 99: "You have heard, then, what they say of me?"
+LINE 100: "I heard some detestable falsehoods; but none but fools would credit
+LINE 101: them for a moment, Helen, so don't let them trouble you."
+LINE 102: "I did not think Mr. Millward a fool, and he believes it all; but
+LINE 103: however little you may value the opinions of those about you—however
+LINE 104: little you may esteem them as individuals, it is not pleasant to be
+LINE 105: looked upon as a liar and a hypocrite, to be thought to practise what
+LINE 106: you abhor, and to encourage the vices you would discountenance, to find
+LINE 107: your good intentions frustrated, and your hands crippled by your
+LINE 108: supposed unworthiness, and to bring disgrace on the principles you
+LINE 109: profess."
+LINE 110: "True; and if I, by my thoughtlessness and selfish disregard to
+LINE 111: appearances, have at all assisted to expose you to these evils, let me
+LINE 112: entreat you not only to pardon me, but to enable me to make reparation;
+LINE 113: authorise me to clear your name from every imputation: give me the
+LINE 114: right to identify your honour with my own, and to defend your
+LINE 115: reputation as more precious than my life!"
+LINE 116: "Are you hero enough to unite yourself to one whom you know to be
+LINE 117: suspected and despised by all around you, and identify your interests
+LINE 118: and your honour with hers? Think! it is a serious thing."
+LINE 119: "I should be proud to do it, Helen!—most happy—delighted beyond
+LINE 120: expression!—and if that be all the obstacle to our union, it is
+LINE 121: demolished, and you must—you shall be mine!"
+LINE 122: And starting from my seat in a frenzy of ardour, I seized her hand and
+LINE 123: would have pressed it to my lips, but she as suddenly caught it away,
+LINE 124: exclaiming in the bitterness of intense affliction,—"No, no, it is not
+LINE 125: all!"
+LINE 126: "What is it, then? You promised I should know some time, and—"
+LINE 127: "You shall know some time—but not now—my head aches terribly," she
+LINE 128: said, pressing her hand to her forehead, "and I must have some
+LINE 129: repose—and surely I have had misery enough to-day!" she added, almost
+LINE 130: wildly.
+LINE 131: "But it could not harm you to tell it," I persisted: "it would ease
+LINE 132: your mind; and I should then know how to comfort you."
+LINE 133: She shook her head despondingly. "If you knew all, you, too, would
+LINE 134: blame me—perhaps even more than I deserve—though I have cruelly wronged
+LINE 135: you," she added in a low murmur, as if she mused aloud.
+LINE 136: "_You_, Helen? Impossible?"
+LINE 137: "Yes, not willingly; for I did not know the strength and depth of your
+LINE 138: attachment. I thought—at least I endeavoured to think your regard for
+LINE 139: me was as cold and fraternal as you professed it to be."
+LINE 140: "Or as yours?"
+LINE 141: "Or as mine—ought to have been—of such a light and selfish, superficial
+LINE 142: nature, that—"
+LINE 143: "_There_, indeed, you wronged me."
+LINE 144: [Illustration]
+LINE 145: "I know I did; and, sometimes, I suspected it then; but I thought, upon
+LINE 146: the whole, there could be no great harm in leaving your fancies and
+LINE 147: your hopes to dream themselves to nothing—or flutter away to some more
+LINE 148: fitting object, while your friendly sympathies remained with me; but if
+LINE 149: I had known the depth of your regard, the generous, disinterested
+LINE 150: affection you seem to feel—"
+LINE 151: "_Seem_, Helen?"
+LINE 152: "That you _do_ feel, then, I would have acted differently."
+LINE 153: "How? You _could_ not have given me less encouragement, or treated me
+LINE 154: with greater severity than you did! And if you think you have wronged
+LINE 155: me by giving me your friendship, and occasionally admitting me to the
+LINE 156: enjoyment of your company and conversation, when all hopes of closer
+LINE 157: intimacy were vain—as indeed you always gave me to understand—if you
+LINE 158: think you have wronged me by this, you are mistaken; for such favours,
+LINE 159: in themselves alone, are not only delightful to my heart, but
+LINE 160: purifying, exalting, ennobling to my soul; and I would rather have your
+LINE 161: friendship than the love of any other woman in the world!"
+LINE 162: Little comforted by this, she clasped her hands upon her knee, and
+LINE 163: glancing upward, seemed, in silent anguish, to implore divine
+LINE 164: assistance; then, turning to me, she calmly said,—"To-morrow, if you
+LINE 165: meet me on the moor about mid-day, I will tell you all you seek to
+LINE 166: know; and perhaps you will then see the necessity of discontinuing our
+LINE 167: intimacy—if, indeed, you do not willingly resign me as one no longer
+LINE 168: worthy of regard."
+LINE 169: "I can safely answer no to that: you cannot have such grave confessions
+LINE 170: to make—you must be trying my faith, Helen."
+LINE 171: "No, no, no," she earnestly repeated—"I wish it were so! Thank heaven!"
+LINE 172: she added, "I have no great crime to confess; but I have more than you
+LINE 173: will like to hear, or, perhaps, can readily excuse,—and more than I can
+LINE 174: tell you now; so let me entreat you to leave me!"
+LINE 175: "I will; but answer me this one question first;—do you love me?"
+LINE 176: "I will not answer it!"
+LINE 177: "Then I will conclude you do; and so good-night."
+LINE 178: She turned from me to hide the emotion she could not quite control; but
+LINE 179: I took her hand and fervently kissed it.
+LINE 180: "Gilbert, _do_ leave me!" she cried, in a tone of such thrilling
+LINE 181: anguish that I felt it would be cruel to disobey.
+LINE 182: But I gave one look back before I closed the door, and saw her leaning
+LINE 183: forward on the table, with her hands pressed against her eyes, sobbing
+LINE 184: convulsively; yet I withdrew in silence. I felt that to obtrude my
+LINE 185: consolations on her then would only serve to aggravate her sufferings.
+LINE 186: To tell you all the questionings and conjectures—the fears, and hopes,
+LINE 187: and wild emotions that jostled and chased each other through my mind as
+LINE 188: I descended the hill, would almost fill a volume in itself. But before
+LINE 189: I was half-way down, a sentiment of strong sympathy for her I had left
+LINE 190: behind me had displaced all other feelings, and seemed imperatively to
+LINE 191: draw me back: I began to think, "Why am I hurrying so fast in this
+LINE 192: direction? Can I find comfort or consolation—peace, certainty,
+LINE 193: contentment, all—or anything that I want at home? and can I leave all
+LINE 194: perturbation, sorrow, and anxiety behind me there?"
+LINE 195: And I turned round to look at the old Hall. There was little besides
+LINE 196: the chimneys visible above my contracted horizon. I walked back to get
+LINE 197: a better view of it. When it rose in sight, I stood still a moment to
+LINE 198: look, and then continued moving towards the gloomy object of
+LINE 199: attraction. Something called me nearer—nearer still—and why not, pray?
+LINE 200: Might I not find more benefit in the contemplation of that venerable
+LINE 201: pile with the full moon in the cloudless heaven shining so calmly above
+LINE 202: it—with that warm yellow lustre peculiar to an August night—and the
+LINE 203: mistress of my soul within, than in returning to my home, where all
+LINE 204: comparatively was light, and life, and cheerfulness, and therefore
+LINE 205: inimical to me in my present frame of mind,—and the more so that its
+LINE 206: inmates all were more or less imbued with that detestable belief, the
+LINE 207: very _thought_ of which made my blood boil in my veins—and how could I
+LINE 208: endure to hear it openly declared, or cautiously insinuated—which was
+LINE 209: worse?—I had had trouble enough already, with some babbling fiend that
+LINE 210: would keep whispering in my ear, "It may be true," till I had shouted
+LINE 211: aloud, "It is false! I defy you to make me suppose it!"
+LINE 212: I could see the red firelight dimly gleaming from her parlour window. I
+LINE 213: went up to the garden wall, and stood leaning over it, with my eyes
+LINE 214: fixed upon the lattice, wondering what she was doing, thinking, or
+LINE 215: suffering now, and wishing I could speak to her but one word, or even
+LINE 216: catch one glimpse of her, before I went.
+LINE 217: I had not thus looked, and wished, and wondered long, before I vaulted
+LINE 218: over the barrier, unable to resist the temptation of taking one glance
+LINE 219: through the window, just to see if she were more composed than when we
+LINE 220: parted;—and if I found her still in deep distress, perhaps I might
+LINE 221: venture attempt a word of comfort—to utter one of the many things I
+LINE 222: should have said before, instead of aggravating her sufferings by my
+LINE 223: stupid impetuosity. I looked. Her chair was vacant: so was the room.
+LINE 224: But at that moment some one opened the outer door, and a voice—_her_
+LINE 225: voice—said,—"Come out—I want to see the moon, and breathe the evening
+LINE 226: air: they will do me good—if anything will."
+LINE 227: Here, then, were she and Rachel coming to take a walk in the garden. I
+LINE 228: wished myself safe back over the wall. I stood, however, in the shadow
+LINE 229: of the tall holly-bush, which, standing between the window and the
+LINE 230: porch, at present screened me from observation, but did not prevent me
+LINE 231: from seeing two figures come forth into the moonlight: Mrs. Graham
+LINE 232: followed by another—_not_ Rachel, but a young man, slender and rather
+LINE 233: tall. O heavens, how my temples throbbed! Intense anxiety darkened my
+LINE 234: sight; but I thought—yes, and the voice confirmed it—it was Mr.
+LINE 235: Lawrence!
+LINE 236: "You should not let it worry you so much, Helen," said he; "I will be
+LINE 237: more cautious in future; and in time—"
+LINE 238: I did not hear the rest of the sentence; for he walked close beside her
+LINE 239: and spoke so gently that I could not catch the words. My heart was
+LINE 240: splitting with hatred; but I listened intently for her reply. I heard
+LINE 241: it plainly enough.
+LINE 242: "But I must leave this place, Frederick," she said—"I never can be
+LINE 243: happy here,—nor anywhere else, indeed," she added, with a mirthless
+LINE 244: laugh,—"but I cannot rest here."
+LINE 245: "But where could you find a better place?" replied he, "so secluded—so
+LINE 246: near me, if you think anything of that."
+LINE 247: "Yes," interrupted she, "it is all I could wish, if they could only
+LINE 248: have left me alone."
+LINE 249: "But wherever you go, Helen, there will be the same sources of
+LINE 250: annoyance. I cannot consent to lose you: I must go with you, or come to
+LINE 251: you; and there are meddling fools elsewhere, as well as here."
+LINE 252: While thus conversing they had sauntered slowly past me, down the walk,
+LINE 253: and I heard no more of their discourse; but I saw him put his arm round
+LINE 254: her waist, while she lovingly rested her hand on his shoulder;—and
+LINE 255: then, a tremulous darkness obscured my sight, my heart sickened and my
+LINE 256: head burned like fire: I half rushed, half staggered from the spot,
+LINE 257: where horror had kept me rooted, and leaped or tumbled over the wall—I
+LINE 258: hardly know which—but I know that, afterwards, like a passionate child,
+LINE 259: I dashed myself on the ground and lay there in a paroxysm of anger and
+LINE 260: despair—how long, I cannot undertake to say; but it must have been a
+LINE 261: considerable time; for when, having partially relieved myself by a
+LINE 262: torment of tears, and looked up at the moon, shining so calmly and
+LINE 263: carelessly on, as little influenced by my misery as I was by its
+LINE 264: peaceful radiance, and earnestly prayed for death or forgetfulness, I
+LINE 265: had risen and journeyed homewards—little regarding the way, but carried
+LINE 266: instinctively by my feet to the door, I found it bolted against me, and
+LINE 267: every one in bed except my mother, who hastened to answer my impatient
+LINE 268: knocking, and received me with a shower of questions and rebukes.
+LINE 269: "Oh, Gilbert! how _could_ you do so? Where _have_ you been? Do come in
+LINE 270: and take your supper. I've got it all ready, though you don't deserve
+LINE 271: it, for keeping me in such a fright, after the strange manner you left
+LINE 272: the house this evening. Mr. Millward was quite—Bless the boy! how ill
+LINE 273: he looks. Oh, gracious! what is the matter?"
+LINE 274: "Nothing, nothing—give me a candle."
+LINE 275: "But won't you take some supper?"
+LINE 276: "No; I want to go to bed," said I, taking a candle and lighting it at
+LINE 277: the one she held in her hand.
+LINE 278: "Oh, Gilbert, how you tremble!" exclaimed my anxious parent. "How white
+LINE 279: you look! Do tell me what it is? Has anything happened?"
+LINE 280: "It's nothing," cried I, ready to stamp with vexation because the
+LINE 281: candle would not light. Then, suppressing my irritation, I added, "I've
+LINE 282: been walking too fast, that's all. Good-night," and marched off to bed,
+LINE 283: regardless of the "Walking too fast! where have you been?" that was
+LINE 284: called after me from below.
+LINE 285: My mother followed me to the very door of my room with her questionings
+LINE 286: and advice concerning my health and my conduct; but I implored her to
+LINE 287: let me alone till morning; and she withdrew, and at length I had the
+LINE 288: satisfaction to hear her close her own door. There was no sleep for me,
+LINE 289: however, that night as I thought; and instead of attempting to solicit
+LINE 290: it, I employed myself in rapidly pacing the chamber, having first
+LINE 291: removed my boots, lest my mother should hear me. But the boards
+LINE 292: creaked, and she was watchful. I had not walked above a quarter of an
+LINE 293: hour before she was at the door again.
+LINE 294: "Gilbert, why are you not in bed—you said you wanted to go?"
+LINE 295: "Confound it! I'm going," said I.
+LINE 296: "But why are you so long about it? You must have something on your
+LINE 297: mind—"
+LINE 298: "For heaven's sake, let me alone, and get to bed yourself."
+LINE 299: "Can it be that Mrs. Graham that distresses you so?"
+LINE 300: "No, no, I tell you—it's nothing."
+LINE 301: "I wish to goodness it mayn't," murmured she, with a sigh, as she
+LINE 302: returned to her own apartment, while I threw myself on the bed, feeling
+LINE 303: most undutifully disaffected towards her for having deprived me of what
+LINE 304: seemed the only shadow of a consolation that remained, and chained me
+LINE 305: to that wretched couch of thorns.
+LINE 306: Never did I endure so long, so miserable a night as that. And yet it
+LINE 307: was not wholly sleepless. Towards morning my distracting thoughts began
+LINE 308: to lose all pretensions to coherency, and shape themselves into
+LINE 309: confused and feverish dreams, and, at length, there followed an
+LINE 310: interval of unconscious slumber. But then the dawn of bitter
+LINE 311: recollection that succeeded—the waking to find life a blank, and worse
+LINE 312: than a blank, teeming with torment and misery—not a mere barren
+LINE 313: wilderness, but full of thorns and briers—to find myself deceived,
+LINE 314: duped, hopeless, my affections trampled upon, my angel not an angel,
+LINE 315: and my friend a fiend incarnate—it was worse than if I had not slept at
+LINE 316: all.
+LINE 317: It was a dull, gloomy morning; the weather had changed like my
+LINE 318: prospects, and the rain was pattering against the window. I rose,
+LINE 319: nevertheless, and went out; not to look after the farm, though that
+LINE 320: would serve as my excuse, but to cool my brain, and regain, if
+LINE 321: possible, a sufficient degree of composure to meet the family at the
+LINE 322: morning meal without exciting inconvenient remarks. If I got a wetting,
+LINE 323: that, in conjunction with a pretended over-exertion before breakfast,
+LINE 324: might excuse my sudden loss of appetite; and if a cold ensued, the
+LINE 325: severer the better—it would help to account for the sullen moods and
+LINE 326: moping melancholy likely to cloud my brow for long enough.

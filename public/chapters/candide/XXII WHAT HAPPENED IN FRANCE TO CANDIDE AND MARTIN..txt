@@ -1,0 +1,313 @@
+LINE 1: Candide stayed in Bordeaux no longer than was necessary for the selling
+LINE 2: of a few of the pebbles of El Dorado, and for hiring a good chaise to
+LINE 3: hold two passengers; for he could not travel without his Philosopher
+LINE 4: Martin. He was only vexed at parting with his sheep, which he left to
+LINE 5: the Bordeaux Academy of Sciences, who set as a subject for that year's
+LINE 6: prize, "to find why this sheep's wool was red;" and the prize was
+LINE 7: awarded to a learned man of the North, who demonstrated by A plus B
+LINE 8: minus C divided by Z, that the sheep must be red, and die of the rot.
+LINE 9: Meanwhile, all the travellers whom Candide met in the inns along his
+LINE 10: route, said to him, "We go to Paris." This general eagerness at length
+LINE 11: gave him, too, a desire to see this capital; and it was not so very
+LINE 12: great a _détour_ from the road to Venice.
+LINE 13: He entered Paris by the suburb of St. Marceau, and fancied that he was
+LINE 14: in the dirtiest village of Westphalia.
+LINE 15: Scarcely was Candide arrived at his inn, than he found himself attacked
+LINE 16: by a slight illness, caused by fatigue. As he had a very large diamond
+LINE 17: on his finger, and the people of the inn had taken notice of a
+LINE 18: prodigiously heavy box among his baggage, there were two physicians to
+LINE 19: attend him, though he had never sent for them, and two devotees who
+LINE 20: warmed his broths.
+LINE 21: "I remember," Martin said, "also to have been sick at Paris in my first
+LINE 22: voyage; I was very poor, thus I had neither friends, devotees, nor
+LINE 23: doctors, and I recovered."
+LINE 24: However, what with physic and bleeding, Candide's illness became
+LINE 25: serious. A parson of the neighborhood came with great meekness to ask
+LINE 26: for a bill for the other world payable to the bearer. Candide would do
+LINE 27: nothing for him; but the devotees assured him it was the new fashion. He
+LINE 28: answered that he was not a man of fashion. Martin wished to throw the
+LINE 29: priest out of the window. The priest swore that they would not bury
+LINE 30: Candide. Martin swore that he would bury the priest if he continued to
+LINE 31: be troublesome. The quarrel grew heated. Martin took him by the
+LINE 32: shoulders and roughly turned him out of doors; which occasioned great
+LINE 33: scandal and a law-suit.
+LINE 34: Candide got well again, and during his convalescence he had very good
+LINE 35: company to sup with him. They played high. Candide wondered why it was
+LINE 36: that the ace never came to him; but Martin was not at all astonished.
+LINE 37: Among those who did him the honours of the town was a little Abbé of
+LINE 38: Perigord, one of those busybodies who are ever alert, officious,
+LINE 39: forward, fawning, and complaisant; who watch for strangers in their
+LINE 40: passage through the capital, tell them the scandalous history of the
+LINE 41: town, and offer them pleasure at all prices. He first took Candide and
+LINE 42: Martin to La Comédie, where they played a new tragedy. Candide happened
+LINE 43: to be seated near some of the fashionable wits. This did not prevent his
+LINE 44: shedding tears at the well-acted scenes. One of these critics at his
+LINE 45: side said to him between the acts:
+LINE 46: "Your tears are misplaced; that is a shocking actress; the actor who
+LINE 47: plays with her is yet worse; and the play is still worse than the
+LINE 48: actors. The author does not know a word of Arabic, yet the scene is in
+LINE 49: Arabia; moreover he is a man that does not believe in innate ideas; and
+LINE 50: I will bring you, to-morrow, twenty pamphlets written against him."[22]
+LINE 51: "How many dramas have you in France, sir?" said Candide to the Abbé.
+LINE 52: "Five or six thousand."
+LINE 53: "What a number!" said Candide. "How many good?"
+LINE 54: "Fifteen or sixteen," replied the other.
+LINE 55: "What a number!" said Martin.
+LINE 56: Candide was very pleased with an actress who played Queen Elizabeth in a
+LINE 57: somewhat insipid tragedy[23] sometimes acted.
+LINE 58: "That actress," said he to Martin, "pleases me much; she has a likeness
+LINE 59: to Miss Cunegonde; I should be very glad to wait upon her."
+LINE 60: The Perigordian Abbé offered to introduce him. Candide, brought up in
+LINE 61: Germany, asked what was the etiquette, and how they treated queens of
+LINE 62: England in France.
+LINE 63: "It is necessary to make distinctions," said the Abbé. "In the provinces
+LINE 64: one takes them to the inn; in Paris, one respects them when they are
+LINE 65: beautiful, and throws them on the highway when they are dead."[24]
+LINE 66: "Queens on the highway!" said Candide.
+LINE 67: "Yes, truly," said Martin, "the Abbé is right. I was in Paris when Miss
+LINE 68: Monime passed, as the saying is, from this life to the other. She was
+LINE 69: refused what people call the _honours of sepulture_--that is to say, of
+LINE 70: rotting with all the beggars of the neighbourhood in an ugly cemetery;
+LINE 71: she was interred all alone by her company at the corner of the Rue de
+LINE 72: Bourgogne, which ought to trouble her much, for she thought nobly."
+LINE 73: "That was very uncivil," said Candide.
+LINE 74: "What would you have?" said Martin; "these people are made thus. Imagine
+LINE 75: all contradictions, all possible incompatibilities--you will find them
+LINE 76: in the government, in the law-courts, in the churches, in the public
+LINE 77: shows of this droll nation."
+LINE 78: "Is it true that they always laugh in Paris?" said Candide.
+LINE 79: "Yes," said the Abbé, "but it means nothing, for they complain of
+LINE 80: everything with great fits of laughter; they even do the most detestable
+LINE 81: things while laughing."
+LINE 82: "Who," said Candide, "is that great pig who spoke so ill of the piece at
+LINE 83: which I wept, and of the actors who gave me so much pleasure?"
+LINE 84: "He is a bad character," answered the Abbé, "who gains his livelihood by
+LINE 85: saying evil of all plays and of all books. He hates whatever succeeds,
+LINE 86: as the eunuchs hate those who enjoy; he is one of the serpents of
+LINE 87: literature who nourish themselves on dirt and spite; he is a
+LINE 88: _folliculaire_."
+LINE 89: "What is a _folliculaire_?" said Candide.
+LINE 90: "It is," said the Abbé, "a pamphleteer--a Fréron."[25]
+LINE 91: Thus Candide, Martin, and the Perigordian conversed on the staircase,
+LINE 92: while watching every one go out after the performance.
+LINE 93: "Although I am eager to see Cunegonde again," said Candide, "I should
+LINE 94: like to sup with Miss Clairon, for she appears to me admirable."
+LINE 95: The Abbé was not the man to approach Miss Clairon, who saw only good
+LINE 96: company.
+LINE 97: "She is engaged for this evening," he said, "but I shall have the honour
+LINE 98: to take you to the house of a lady of quality, and there you will know
+LINE 99: Paris as if you had lived in it for years."
+LINE 100: Candide, who was naturally curious, let himself be taken to this lady's
+LINE 101: house, at the end of the Faubourg St. Honoré. The company was occupied
+LINE 102: in playing faro; a dozen melancholy punters held each in his hand a
+LINE 103: little pack of cards; a bad record of his misfortunes. Profound silence
+LINE 104: reigned; pallor was on the faces of the punters, anxiety on that of the
+LINE 105: banker, and the hostess, sitting near the unpitying banker, noticed with
+LINE 106: lynx-eyes all the doubled and other increased stakes, as each player
+LINE 107: dog's-eared his cards; she made them turn down the edges again with
+LINE 108: severe, but polite attention; she showed no vexation for fear of losing
+LINE 109: her customers. The lady insisted upon being called the Marchioness of
+LINE 110: Parolignac. Her daughter, aged fifteen, was among the punters, and
+LINE 111: notified with a covert glance the cheatings of the poor people who
+LINE 112: tried to repair the cruelties of fate. The Perigordian Abbé, Candide and
+LINE 113: Martin entered; no one rose, no one saluted them, no one looked at them;
+LINE 114: all were profoundly occupied with their cards.
+LINE 115: "The Baroness of Thunder-ten-Tronckh was more polite," said Candide.
+LINE 116: However, the Abbé whispered to the Marchioness, who half rose, honoured
+LINE 117: Candide with a gracious smile, and Martin with a condescending nod; she
+LINE 118: gave a seat and a pack of cards to Candide, who lost fifty thousand
+LINE 119: francs in two deals, after which they supped very gaily, and every one
+LINE 120: was astonished that Candide was not moved by his loss; the servants said
+LINE 121: among themselves, in the language of servants:--
+LINE 122: "Some English lord is here this evening."
+LINE 123: The supper passed at first like most Parisian suppers, in silence,
+LINE 124: followed by a noise of words which could not be distinguished, then with
+LINE 125: pleasantries of which most were insipid, with false news, with bad
+LINE 126: reasoning, a little politics, and much evil speaking; they also
+LINE 127: discussed new books.
+LINE 128: "Have you seen," said the Perigordian Abbé, "the romance of Sieur
+LINE 129: Gauchat, doctor of divinity?"[26]
+LINE 130: "Yes," answered one of the guests, "but I have not been able to finish
+LINE 131: it. We have a crowd of silly writings, but all together do not approach
+LINE 132: the impertinence of 'Gauchat, Doctor of Divinity.' I am so satiated with
+LINE 133: the great number of detestable books with which we are inundated that I
+LINE 134: am reduced to punting at faro."
+LINE 135: "And the _Mélanges_ of Archdeacon Trublet,[27] what do you say of that?"
+LINE 136: said the Abbé.
+LINE 137: "Ah!" said the Marchioness of Parolignac, "the wearisome mortal! How
+LINE 138: curiously he repeats to you all that the world knows! How heavily he
+LINE 139: discusses that which is not worth the trouble of lightly remarking upon!
+LINE 140: How, without wit, he appropriates the wit of others! How he spoils what
+LINE 141: he steals! How he disgusts me! But he will disgust me no longer--it is
+LINE 142: enough to have read a few of the Archdeacon's pages."
+LINE 143: There was at table a wise man of taste, who supported the Marchioness.
+LINE 144: They spoke afterwards of tragedies; the lady asked why there were
+LINE 145: tragedies which were sometimes played and which could not be read. The
+LINE 146: man of taste explained very well how a piece could have some interest,
+LINE 147: and have almost no merit; he proved in few words that it was not enough
+LINE 148: to introduce one or two of those situations which one finds in all
+LINE 149: romances, and which always seduce the spectator, but that it was
+LINE 150: necessary to be new without being odd, often sublime and always
+LINE 151: natural, to know the human heart and to make it speak; to be a great
+LINE 152: poet without allowing any person in the piece to appear to be a poet; to
+LINE 153: know language perfectly--to speak it with purity, with continuous
+LINE 154: harmony and without rhythm ever taking anything from sense.
+LINE 155: "Whoever," added he, "does not observe all these rules can produce one
+LINE 156: or two tragedies, applauded at a theatre, but he will never be counted
+LINE 157: in the ranks of good writers. There are very few good tragedies; some
+LINE 158: are idylls in dialogue, well written and well rhymed, others political
+LINE 159: reasonings which lull to sleep, or amplifications which repel; others
+LINE 160: demoniac dreams in barbarous style, interrupted in sequence, with long
+LINE 161: apostrophes to the gods, because they do not know how to speak to men,
+LINE 162: with false maxims, with bombastic commonplaces!"
+LINE 163: Candide listened with attention to this discourse, and conceived a great
+LINE 164: idea of the speaker, and as the Marchioness had taken care to place him
+LINE 165: beside her, he leaned towards her and took the liberty of asking who was
+LINE 166: the man who had spoken so well.
+LINE 167: "He is a scholar," said the lady, "who does not play, whom the Abbé
+LINE 168: sometimes brings to supper; he is perfectly at home among tragedies and
+LINE 169: books, and he has written a tragedy which was hissed, and a book of
+LINE 170: which nothing has ever been seen outside his bookseller's shop
+LINE 171: excepting the copy which he dedicated to me."
+LINE 172: "The great man!" said Candide. "He is another Pangloss!"
+LINE 173: Then, turning towards him, he said:
+LINE 174: "Sir, you think doubtless that all is for the best in the moral and
+LINE 175: physical world, and that nothing could be otherwise than it is?"
+LINE 176: "I, sir!" answered the scholar, "I know nothing of all that; I find that
+LINE 177: all goes awry with me; that no one knows either what is his rank, nor
+LINE 178: what is his condition, what he does nor what he ought to do; and that
+LINE 179: except supper, which is always gay, and where there appears to be enough
+LINE 180: concord, all the rest of the time is passed in impertinent quarrels;
+LINE 181: Jansenist against Molinist, Parliament against the Church, men of
+LINE 182: letters against men of letters, courtesans against courtesans,
+LINE 183: financiers against the people, wives against husbands, relatives against
+LINE 184: relatives--it is eternal war."
+LINE 185: "I have seen the worst," Candide replied. "But a wise man, who since has
+LINE 186: had the misfortune to be hanged, taught me that all is marvellously
+LINE 187: well; these are but the shadows on a beautiful picture."
+LINE 188: "Your hanged man mocked the world," said Martin. "The shadows are
+LINE 189: horrible blots."
+LINE 190: "They are men who make the blots," said Candide, "and they cannot be
+LINE 191: dispensed with."
+LINE 192: "It is not their fault then," said Martin.
+LINE 193: Most of the punters, who understood nothing of this language, drank, and
+LINE 194: Martin reasoned with the scholar, and Candide related some of his
+LINE 195: adventures to his hostess.
+LINE 196: After supper the Marchioness took Candide into her boudoir, and made him
+LINE 197: sit upon a sofa.
+LINE 198: "Ah, well!" said she to him, "you love desperately Miss Cunegonde of
+LINE 199: Thunder-ten-Tronckh?"
+LINE 200: "Yes, madame," answered Candide.
+LINE 201: The Marchioness replied to him with a tender smile:
+LINE 202: "You answer me like a young man from Westphalia. A Frenchman would have
+LINE 203: said, 'It is true that I have loved Miss Cunegonde, but seeing you,
+LINE 204: madame, I think I no longer love her.'"
+LINE 205: "Alas! madame," said Candide, "I will answer you as you wish."
+LINE 206: "Your passion for her," said the Marchioness, "commenced by picking up
+LINE 207: her handkerchief. I wish that you would pick up my garter."
+LINE 208: "With all my heart," said Candide. And he picked it up.
+LINE 209: "But I wish that you would put it on," said the lady.
+LINE 210: And Candide put it on.
+LINE 211: "You see," said she, "you are a foreigner. I sometimes make my Parisian
+LINE 212: lovers languish for fifteen days, but I give myself to you the first
+LINE 213: night because one must do the honours of one's country to a young man
+LINE 214: from Westphalia."
+LINE 215: The lady having perceived two enormous diamonds upon the hands of the
+LINE 216: young foreigner praised them with such good faith that from Candide's
+LINE 217: fingers they passed to her own.
+LINE 218: Candide, returning with the Perigordian Abbé, felt some remorse in
+LINE 219: having been unfaithful to Miss Cunegonde. The Abbé sympathised in his
+LINE 220: trouble; he had had but a light part of the fifty thousand francs lost
+LINE 221: at play and of the value of the two brilliants, half given, half
+LINE 222: extorted. His design was to profit as much as he could by the advantages
+LINE 223: which the acquaintance of Candide could procure for him. He spoke much
+LINE 224: of Cunegonde, and Candide told him that he should ask forgiveness of
+LINE 225: that beautiful one for his infidelity when he should see her in Venice.
+LINE 226: The Abbé redoubled his politeness and attentions, and took a tender
+LINE 227: interest in all that Candide said, in all that he did, in all that he
+LINE 228: wished to do.
+LINE 229: "And so, sir, you have a rendezvous at Venice?"
+LINE 230: "Yes, monsieur Abbé," answered Candide. "It is absolutely necessary
+LINE 231: that I go to meet Miss Cunegonde."
+LINE 232: And then the pleasure of talking of that which he loved induced him to
+LINE 233: relate, according to his custom, part of his adventures with the fair
+LINE 234: Westphalian.
+LINE 235: "I believe," said the Abbé, "that Miss Cunegonde has a great deal of
+LINE 236: wit, and that she writes charming letters?"
+LINE 237: "I have never received any from her," said Candide, "for being expelled
+LINE 238: from the castle on her account I had not an opportunity for writing to
+LINE 239: her. Soon after that I heard she was dead; then I found her alive; then
+LINE 240: I lost her again; and last of all, I sent an express to her two thousand
+LINE 241: five hundred leagues from here, and I wait for an answer."
+LINE 242: The Abbé listened attentively, and seemed to be in a brown study. He
+LINE 243: soon took his leave of the two foreigners after a most tender embrace.
+LINE 244: The following day Candide received, on awaking, a letter couched in
+LINE 245: these terms:
+LINE 246: "My very dear love, for eight days I have been ill in this town. I learn
+LINE 247: that you are here. I would fly to your arms if I could but move. I was
+LINE 248: informed of your passage at Bordeaux, where I left faithful Cacambo and
+LINE 249: the old woman, who are to follow me very soon. The Governor of Buenos
+LINE 250: Ayres has taken all, but there remains to me your heart. Come! your
+LINE 251: presence will either give me life or kill me with pleasure."
+LINE 252: This charming, this unhoped-for letter transported Candide with an
+LINE 253: inexpressible joy, and the illness of his dear Cunegonde overwhelmed him
+LINE 254: with grief. Divided between those two passions, he took his gold and his
+LINE 255: diamonds and hurried away, with Martin, to the hotel where Miss
+LINE 256: Cunegonde was lodged. He entered her room trembling, his heart
+LINE 257: palpitating, his voice sobbing; he wished to open the curtains of the
+LINE 258: bed, and asked for a light.
+LINE 259: "Take care what you do," said the servant-maid; "the light hurts her,"
+LINE 260: and immediately she drew the curtain again.
+LINE 261: "My dear Cunegonde," said Candide, weeping, "how are you? If you cannot
+LINE 262: see me, at least speak to me."
+LINE 263: "She cannot speak," said the maid.
+LINE 264: The lady then put a plump hand out from the bed, and Candide bathed it
+LINE 265: with his tears and afterwards filled it with diamonds, leaving a bag of
+LINE 266: gold upon the easy chair.
+LINE 267: In the midst of these transports in came an officer, followed by the
+LINE 268: Abbé and a file of soldiers.
+LINE 269: "There," said he, "are the two suspected foreigners," and at the same
+LINE 270: time he ordered them to be seized and carried to prison.
+LINE 271: "Travellers are not treated thus in El Dorado," said Candide.
+LINE 272: "I am more a Manichean now than ever," said Martin.
+LINE 273: "But pray, sir, where are you going to carry us?" said Candide.
+LINE 274: "To a dungeon," answered the officer.
+LINE 275: Martin, having recovered himself a little, judged that the lady who
+LINE 276: acted the part of Cunegonde was a cheat, that the Perigordian Abbé was a
+LINE 277: knave who had imposed upon the honest simplicity of Candide, and that
+LINE 278: the officer was another knave whom they might easily silence.
+LINE 279: Candide, advised by Martin and impatient to see the real Cunegonde,
+LINE 280: rather than expose himself before a court of justice, proposed to the
+LINE 281: officer to give him three small diamonds, each worth about three
+LINE 282: thousand pistoles.
+LINE 283: "Ah, sir," said the man with the ivory baton, "had you committed all the
+LINE 284: imaginable crimes you would be to me the most honest man in the world.
+LINE 285: Three diamonds! Each worth three thousand pistoles! Sir, instead of
+LINE 286: carrying you to jail I would lose my life to serve you. There are orders
+LINE 287: for arresting all foreigners, but leave it to me. I have a brother at
+LINE 288: Dieppe in Normandy! I'll conduct you thither, and if you have a diamond
+LINE 289: to give him he'll take as much care of you as I would."
+LINE 290: "And why," said Candide, "should all foreigners be arrested?"
+LINE 291: "It is," the Perigordian Abbé then made answer, "because a poor beggar
+LINE 292: of the country of Atrébatie[28] heard some foolish things said. This
+LINE 293: induced him to commit a parricide, not such as that of 1610 in the month
+LINE 294: of May,[29] but such as that of 1594 in the month of December,[30] and
+LINE 295: such as others which have been committed in other years and other months
+LINE 296: by other poor devils who had heard nonsense spoken."
+LINE 297: The officer then explained what the Abbé meant.
+LINE 298: "Ah, the monsters!" cried Candide. "What horrors among a people who
+LINE 299: dance and sing! Is there no way of getting quickly out of this country
+LINE 300: where monkeys provoke tigers? I have seen no bears in my country, but
+LINE 301: _men_ I have beheld nowhere except in El Dorado. In the name of God,
+LINE 302: sir, conduct me to Venice, where I am to await Miss Cunegonde."
+LINE 303: "I can conduct you no further than lower Normandy," said the officer.
+LINE 304: Immediately he ordered his irons to be struck off, acknowledged himself
+LINE 305: mistaken, sent away his men, set out with Candide and Martin for Dieppe,
+LINE 306: and left them in the care of his brother.
+LINE 307: There was then a small Dutch ship in the harbour. The Norman, who by the
+LINE 308: virtue of three more diamonds had become the most subservient of men,
+LINE 309: put Candide and his attendants on board a vessel that was just ready to
+LINE 310: set sail for Portsmouth in England.
+LINE 311: This was not the way to Venice, but Candide thought he had made his way
+LINE 312: out of hell, and reckoned that he would soon have an opportunity for
+LINE 313: resuming his journey.

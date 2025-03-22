@@ -1,0 +1,459 @@
+LINE 1: SCENE I.--SIR PETER and LADY TEAZLE
+LINE 2: SIR PETER. Lady Teazle--Lady Teazle I'll not bear it.
+LINE 3: LADY TEAZLE. Sir Peter--Sir Peter you--may scold or smile, according to
+LINE 4: your Humour[,] but I ought to have my own way in everything, and what's
+LINE 5: more I will too--what! tho' I was educated in the country I know very
+LINE 6: well that women of Fashion in London are accountable to nobody after
+LINE 7: they are married.
+LINE 8: SIR PETER. Very well! ma'am very well! so a husband is to have no
+LINE 9: influence, no authority?
+LINE 10: LADY TEAZLE. Authority! no, to be sure--if you wanted authority over me,
+LINE 11: you should have adopted me and not married me[:] I am sure you were old
+LINE 12: enough.
+LINE 13: SIR PETER. Old enough--aye there it is--well--well--Lady Teazle, tho'
+LINE 14: my life may be made unhappy by your Temper--I'll not be ruined by your
+LINE 15: extravagance--
+LINE 16: LADY TEAZLE. My extravagance! I'm sure I'm not more extravagant than a
+LINE 17: woman of Fashion ought to be.
+LINE 18: SIR PETER. No no Madam, you shall throw away no more sums on such
+LINE 19: unmeaning Luxury--'Slife to spend as much to furnish your Dressing Room
+LINE 20: with Flowers in winter as would suffice to turn the Pantheon into a
+LINE 21: Greenhouse, and give a Fete Champetre at Christmas.
+LINE 22: LADY TEAZLE. Lord! Sir Peter am I to blame because Flowers are dear in
+LINE 23: cold weather? You should find fault with the Climate, and not with me.
+LINE 24: For my Part I'm sure I wish it was spring all the year round--and that
+LINE 25: Roses grew under one's Feet!
+LINE 26: SIR PETER. Oons! Madam--if you had been born to those Fopperies I
+LINE 27: shouldn't wonder at your talking thus;--but you forget what your
+LINE 28: situation was when I married you--
+LINE 29: LADY TEAZLE. No, no, I don't--'twas a very disagreeable one or I should
+LINE 30: never nave married you.
+LINE 31: SIR PETER. Yes, yes, madam, you were then in somewhat a humbler
+LINE 32: Style--the daughter of a plain country Squire. Recollect Lady Teazle
+LINE 33: when I saw you first--sitting at your tambour in a pretty figured linen
+LINE 34: gown--with a Bunch of Keys at your side, and your apartment hung round
+LINE 35: with Fruits in worsted, of your own working--
+LINE 36: LADY TEAZLE. O horrible!--horrible!--don't put me in mind of it!
+LINE 37: SIR PETER. Yes, yes Madam and your daily occupation to inspect
+LINE 38: the Dairy, superintend the Poultry, make extracts from the Family
+LINE 39: Receipt-book, and comb your aunt Deborah's Lap Dog.
+LINE 40: LADY TEAZLE. Abominable!
+LINE 41: SIR PETER. Yes Madam--and what were your evening amusements? to draw
+LINE 42: Patterns for Ruffles, which you hadn't the materials to make--play Pope
+LINE 43: Joan with the Curate--to read a sermon to your Aunt--or be stuck down to
+LINE 44: an old Spinet to strum your father to sleep after a Fox Chase.
+LINE 45: LADY TEAZLE. Scandalous--Sir Peter not a word of it true--
+LINE 46: SIR PETER. Yes, Madam--These were the recreations I took you from--and
+LINE 47: now--no one more extravagantly in the Fashion--Every Fopery adopted--a
+LINE 48: head-dress to o'er top Lady Pagoda with feathers pendant horizontal and
+LINE 49: perpendicular--you forget[,] Lady Teazle--when a little wired gauze with
+LINE 50: a few Beads made you a fly Cap not much bigger than a blew-bottle, and
+LINE 51: your Hair was comb'd smooth over a Roll--
+LINE 52: LADY TEAZLE. Shocking! horrible Roll!!
+LINE 53: SIR PETER. But now--you must have your coach--Vis-a-vis, and three
+LINE 54: powder'd Footmen before your Chair--and in the summer a pair of white
+LINE 55: cobs to draw you to Kensington Gardens--no recollection when y ou were
+LINE 56: content to ride double, behind the Butler, on a docked Coach-Horse?
+LINE 57: LADY TEAZLE. Horrid!--I swear I never did.
+LINE 58: SIR PETER. This, madam, was your situation--and what have I not done
+LINE 59: for you? I have made you woman of Fashion of Fortune of Rank--in short I
+LINE 60: have made you my wife.
+LINE 61: LADY TEAZLE. Well then and there is but one thing more you can make me
+LINE 62: to add to the obligation.
+LINE 63: SIR PETER. What's that pray?
+LINE 64: LADY TEAZLE. Your widow.--
+LINE 65: SIR PETER. Thank you Madam--but don't flatter yourself for though your
+LINE 66: ill-conduct may disturb my Peace it shall never break my Heart I promise
+LINE 67: you--however I am equally obliged to you for the Hint.
+LINE 68: LADY TEAZLE. Then why will you endeavour to make yourself so
+LINE 69: disagreeable to me--and thwart me in every little elegant expense.
+LINE 70: SIR PETER. 'Slife--Madam I pray, had you any of these elegant expenses
+LINE 71: when you married me?
+LINE 72: LADY TEAZLE. Lud Sir Peter would you have me be out of the Fashion?
+LINE 73: SIR PETER. The Fashion indeed!--what had you to do with the Fashion
+LINE 74: before you married me?
+LINE 75: LADY TEAZLE. For my Part--I should think you would like to have your
+LINE 76: wife thought a woman of Taste--
+LINE 77: SIR PETER. Aye there again--Taste! Zounds Madam you had no Taste when
+LINE 78: you married me--
+LINE 79: LADY TEAZLE. That's very true indeed Sir Peter! after having married you
+LINE 80: I should never pretend to Taste again I allow.
+LINE 81: SIR PETER. So--so then--Madam--if these are your Sentiments pray how
+LINE 82: came I to be honour'd with your Hand?
+LINE 83: LADY TEAZLE. Shall I tell you the Truth?
+LINE 84: SIR PETER. If it's not too great a Favour.
+LINE 85: LADY TEAZLE. Why the Fact is I was tired of all those agreeable
+LINE 86: Recreations which you have so good naturally [naturedly] Described--and
+LINE 87: having a Spirit to spend and enjoy a Fortune--I determined to marry the
+LINE 88: first rich man that would have me.
+LINE 89: SIR PETER. A very honest confession--truly--but pray madam was there no
+LINE 90: one else you might have tried to ensnare but me.
+LINE 91: LADY TEAZLE. O lud--I drew my net at several but you were the only one I
+LINE 92: could catch.
+LINE 93: SIR PETER. This is plain dealing indeed--
+LINE 94: LADY TEAZLE. But now Sir Peter if we have finish'd our daily Jangle I
+LINE 95: presume I may go to my engagement at Lady Sneerwell's?
+LINE 96: SIR PETER. Aye--there's another Precious circumstance--a charming set of
+LINE 97: acquaintance--you have made there!
+LINE 98: LADY TEAZLE. Nay Sir Peter they are People of Rank and Fortune--and
+LINE 99: remarkably tenacious of reputation.
+LINE 100: SIR PETER. Yes egad they are tenacious of Reputation with a vengeance,
+LINE 101: for they don't chuse anybody should have a Character but themselves!
+LINE 102: Such a crew! Ah! many a wretch has rid on hurdles who has done less
+LINE 103: mischief than these utterers of forged Tales, coiners of Scandal, and
+LINE 104: clippers of Reputation.
+LINE 105: LADY TEAZLE. What would you restrain the freedom of speech?
+LINE 106: SIR PETER. Aye they have made you just as bad [as] any one of the
+LINE 107: Society.
+LINE 108: LADY TEAZLE. Why--I believe I do bear a Part with a tolerable Grace--But
+LINE 109: I vow I bear no malice against the People I abuse, when I say an
+LINE 110: ill-natured thing, 'tis out of pure Good Humour--and I take it for
+LINE 111: granted they deal exactly in the same manner with me, but Sir Peter you
+LINE 112: know you promised to come to Lady Sneerwell's too.
+LINE 113: SIR PETER. Well well I'll call in, just to look after my own character.
+LINE 114: LADY TEAZLE. Then, indeed, you must make Haste after me, or you'll be
+LINE 115: too late--so good bye to ye.
+LINE 116: SIR PETER. So--I have gain'd much by my intended expostulation--yet
+LINE 117: with what a charming air she contradicts every thing I say--and how
+LINE 118: pleasingly she shows her contempt of my authority--Well tho' I can't
+LINE 119: make her love me, there is certainly a great satisfaction in quarrelling
+LINE 120: with her; and I think she never appears to such advantage as when she is
+LINE 121: doing everything in her Power to plague me.
+LINE 122: [Exit.]
+LINE 123: SCENE II.--At LADY SNEERWELL'S
+LINE 124: LADY SNEERWELL, MRS. CANDOUR, CRABTREE, SIR BENJAMIN BACKBITE,
+LINE 125: and SURFACE
+LINE 126: LADY SNEERWELL. Nay, positively, we will hear it.
+LINE 127: SURFACE. Yes--yes the Epigram by all means.
+LINE 128: SiR BENJAMIN. O plague on't unkle--'tis mere nonsense--
+LINE 129: CRABTREE. No no; 'fore gad very clever for an extempore!
+LINE 130: SIR BENJAMIN. But ladies you should be acquainted with the
+LINE 131: circumstances. You must know that one day last week as Lady Betty
+LINE 132: Curricle was taking the Dust in High Park, in a sort of duodecimo
+LINE 133: Phaeton--she desired me to write some verses on her Ponies--upon which I
+LINE 134: took out my Pocket-Book--and in one moment produced--the following:--
+LINE 135: 'Sure never were seen two such beautiful Ponies;
+LINE 136: Other Horses are Clowns--and these macaronies,
+LINE 137: Nay to give 'em this Title, I'm sure isn't wrong,
+LINE 138: Their Legs are so slim--and their Tails are so long.
+LINE 139: CRABTREE. There Ladies--done in the smack of a whip and on Horseback
+LINE 140: too.
+LINE 141: SURFACE. A very Phoebus, mounted--indeed Sir Benjamin.
+LINE 142: SIR BENJAMIN. Oh dear Sir--Trifles--Trifles.
+LINE 143: Enter LADY TEAZLE and MARIA
+LINE 144: MRS. CANDOUR. I must have a Copy--
+LINE 145: LADY SNEERWELL. Lady Teazle--I hope we shall see Sir Peter?
+LINE 146: LADY TEAZLE. I believe He'll wait on your Ladyship presently.
+LINE 147: LADY SNEERWELL. Maria my love you look grave. Come, you sit down to
+LINE 148: Piquet with Mr. Surface.
+LINE 149: MARIA. I take very little Pleasure in cards--however, I'll do as you
+LINE 150: Please.
+LINE 151: LADY TEAZLE. I am surprised Mr. Surface should sit down her--I thought
+LINE 152: He would have embraced this opportunity of speaking to me before Sir
+LINE 153: Peter came--[Aside.]
+LINE 154: MRS. CANDOUR. Now, I'll die but you are so scandalous I'll forswear your
+LINE 155: society.
+LINE 156: LADY TEAZLE. What's the matter, Mrs. Candour?
+LINE 157: MRS. CANDOUR. They'll not allow our friend Miss Vermillion to be
+LINE 158: handsome.
+LINE 159: LADY SNEERWELL. Oh, surely she is a pretty woman. . . .
+LINE 160: [CRABTREE.] I am very glad you think so ma'am.
+LINE 161: MRS. CANDOUR. She has a charming fresh Colour.
+LINE 162: CRABTREE. Yes when it is fresh put on--
+LINE 163: LADY TEAZLE. O fie! I'll swear her colour is natural--I have seen it
+LINE 164: come and go--
+LINE 165: CRABTREE. I dare swear you have, ma'am: it goes of a Night, and comes
+LINE 166: again in the morning.
+LINE 167: SIR BENJAMIN. True, uncle, it not only comes and goes but what's more
+LINE 168: egad her maid can fetch and carry it--
+LINE 169: MRS. CANDOUR. Ha! ha! ha! how I hate to hear you talk so! But surely,
+LINE 170: now, her Sister, is or was very handsome.
+LINE 171: CRABTREE. Who? Mrs. Stucco? O lud! she's six-and-fifty if she's an hour!
+LINE 172: MRS. CANDOUR. Now positively you wrong her[;] fifty-two, or fifty-three
+LINE 173: is the utmost--and I don't think she looks more.
+LINE 174: SIR BENJAMIN. Ah! there's no judging by her looks, unless one was to see
+LINE 175: her Face.
+LINE 176: LADY SNEERWELL. Well--well--if she does take some pains to repair the
+LINE 177: ravages of Time--you must allow she effects it with great ingenuity--and
+LINE 178: surely that's better than the careless manner in which the widow Ocre
+LINE 179: chaulks her wrinkles.
+LINE 180: SIR BENJAMIN. Nay now--you are severe upon the widow--come--come, it
+LINE 181: isn't that she paints so ill--but when she has finished her Face she
+LINE 182: joins it on so badly to her Neck, that she looks like a mended Statue,
+LINE 183: in which the Connoisseur sees at once that the Head's modern tho' the
+LINE 184: Trunk's antique----
+LINE 185: CRABTREE. Ha! ha! ha! well said, Nephew!
+LINE 186: MRS. CANDOUR. Ha! ha! ha! Well, you make me laugh but I vow I hate you
+LINE 187: for it--what do you think of Miss Simper?
+LINE 188: SIR BENJAMIN. Why, she has very pretty Teeth.
+LINE 189: LADY TEAZLE. Yes and on that account, when she is neither speaking nor
+LINE 190: laughing (which very seldom happens)--she never absolutely shuts her
+LINE 191: mouth, but leaves it always on a-Jar, as it were----
+LINE 192: MRS. CANDOUR. How can you be so ill-natured!
+LINE 193: LADY TEAZLE. Nay, I allow even that's better than the Pains Mrs. Prim
+LINE 194: takes to conceal her losses in Front--she draws her mouth till it
+LINE 195: resembles the aperture of a Poor's-Box, and all her words appear to
+LINE 196: slide out edgewise.
+LINE 197: LADY SNEERWELL. Very well Lady Teazle I see you can be a little severe.
+LINE 198: LADY TEAZLE. In defence of a Friend it is but justice, but here comes
+LINE 199: Sir Peter to spoil our Pleasantry.
+LINE 200: Enter SIR PETER
+LINE 201: SIR PETER. Ladies, your obedient--Mercy on me--here is the whole set! a
+LINE 202: character's dead at every word, I suppose.
+LINE 203: MRS. CANDOUR. I am rejoiced you are come, Sir Peter--they have been so
+LINE 204: censorious and Lady Teazle as bad as any one.
+LINE 205: SIR PETER. That must be very distressing to you, Mrs. Candour I dare
+LINE 206: swear.
+LINE 207: MRS. CANDOUR. O they will allow good Qualities to nobody--not even good
+LINE 208: nature to our Friend Mrs. Pursy.
+LINE 209: LADY TEAZLE. What, the fat dowager who was at Mrs. Codrille's
+LINE 210: [Quadrille's] last Night?
+LINE 211: LADY SNEERWELL. Nay--her bulk is her misfortune and when she takes such
+LINE 212: Pains to get rid of it you ought not to reflect on her.
+LINE 213: MRS. CANDOUR. 'Tis very true, indeed.
+LINE 214: LADY TEAZLE. Yes, I know she almost lives on acids and small whey--laces
+LINE 215: herself by pulleys and often in the hottest noon of summer you may
+LINE 216: see her on a little squat Pony, with her hair plaited up behind like a
+LINE 217: Drummer's and puffing round the Ring on a full trot.
+LINE 218: MRS. CANDOUR. I thank you Lady Teazle for defending her.
+LINE 219: SIR PETER. Yes, a good Defence, truly!
+LINE 220: MRS. CANDOUR. But for Sir Benjamin, He is as censorious as Miss Sallow.
+LINE 221: CRABTREE. Yes and she is a curious Being to pretend to be censorious--an
+LINE 222: awkward Gawky, without any one good Point under Heaven!
+LINE 223: LADY SNEERWELL. Positively you shall not be so very severe. Miss
+LINE 224: Sallow is a Relation of mine by marriage, and, as for her Person great
+LINE 225: allowance is to be made--for, let me tell you a woman labours under many
+LINE 226: disadvantages who tries to pass for a girl at six-and-thirty.
+LINE 227: MRS. CANDOUR. Tho', surely she is handsome still--and for the weakness
+LINE 228: in her eyes considering how much she reads by candle-light it is not to
+LINE 229: be wonder'd at.
+LINE 230: LADY SNEERWELL. True and then as to her manner--upon my word I think
+LINE 231: it is particularly graceful considering she never had the least
+LINE 232: Education[:] for you know her Mother was a Welch milliner, and her
+LINE 233: Father a sugar-Baker at Bristow.--
+LINE 234: SIR BENJAMIN. Ah! you are both of you too good-natured!
+LINE 235: SIR PETER. Yes, damned good-natured! Her own relation! mercy on me!
+LINE 236: [Aside.]
+LINE 237: MRS. CANDOUR. For my Part I own I cannot bear to hear a friend
+LINE 238: ill-spoken of?
+LINE 239: SIR PETER. No, to be sure!
+LINE 240: SIR BENJAMIN. Ah you are of a moral turn Mrs. Candour and can sit for an
+LINE 241: hour to hear Lady Stucco talk sentiments.
+LINE 242: LADY SNEERWELL. Nay I vow Lady Stucco is very well with the Dessert
+LINE 243: after Dinner for she's just like the Spanish Fruit one cracks for
+LINE 244: mottoes--made up of Paint and Proverb.
+LINE 245: MRS. CANDOUR. Well, I never will join in ridiculing a Friend--and so I
+LINE 246: constantly tell my cousin Ogle--and you all know what pretensions she
+LINE 247: has to be critical in Beauty.
+LINE 248: LADY TEAZLE. O to be sure she has herself the oddest countenance that
+LINE 249: ever was seen--'tis a collection of Features from all the different
+LINE 250: Countries of the globe.
+LINE 251: SIR BENJAMIN. So she has indeed--an Irish Front----
+LINE 252: CRABTREE. Caledonian Locks----
+LINE 253: SIR BENJAMIN. Dutch Nose----
+LINE 254: CRABTREE. Austrian Lips----
+LINE 255: SIR BENJAMIN. Complexion of a Spaniard----
+LINE 256: CRABTREE. And Teeth a la Chinoise----
+LINE 257: SIR BENJAMIN. In short, her Face resembles a table d'hote at Spa--where
+LINE 258: no two guests are of a nation----
+LINE 259: CRABTREE. Or a Congress at the close of a general War--wherein all the
+LINE 260: members even to her eyes appear to have a different interest and her
+LINE 261: Nose and Chin are the only Parties likely to join issue.
+LINE 262: MRS. CANDOUR. Ha! ha! ha!
+LINE 263: SIR PETER. Mercy on my Life[!] a Person they dine with twice a week!
+LINE 264: [Aside.]
+LINE 265: LADY SNEERWELL. Go--go--you are a couple of provoking Toads.
+LINE 266: MRS. CANDOUR. Nay but I vow you shall not carry the Laugh off so--for
+LINE 267: give me leave to say, that Mrs. Ogle----
+LINE 268: SIR PETER. Madam--madam--I beg your Pardon--there's no stopping these
+LINE 269: good Gentlemen's Tongues--but when I tell you Mrs. Candour that the Lady
+LINE 270: they are abusing is a particular Friend of mine, I hope you'll not take
+LINE 271: her Part.
+LINE 272: LADY SNEERWELL. Ha! ha! ha! well said, Sir Peter--but you are a cruel
+LINE 273: creature--too Phlegmatic yourself for a jest and too peevish to allow
+LINE 274: wit in others.
+LINE 275: SIR PETER. Ah Madam true wit is more nearly allow'd [allied?] to good
+LINE 276: Nature than your Ladyship is aware of.
+LINE 277: LADY SNEERWELL. True Sir Peter--I believe they are so near akin that
+LINE 278: they can never be united.
+LINE 279: SIR BENJAMIN. O rather Madam suppose them man and wife because one
+LINE 280: seldom sees them together.
+LINE 281: LADY TEAZLE. But Sir Peter is such an Enemy to Scandal I believe He
+LINE 282: would have it put down by Parliament.
+LINE 283: SIR PETER. 'Fore heaven! Madam, if they were to consider the Sporting
+LINE 284: with Reputation of as much importance as poaching on manors--and pass
+LINE 285: an Act for the Preservation of Fame--there are many would thank them for
+LINE 286: the Bill.
+LINE 287: LADY SNEERWELL. O Lud! Sir Peter would you deprive us of our
+LINE 288: Privileges--
+LINE 289: SIR PETER. Aye Madam--and then no person should be permitted to
+LINE 290: kill characters or run down reputations, but qualified old Maids and
+LINE 291: disappointed Widows.--
+LINE 292: LADY SNEERWELL. Go, you monster--
+LINE 293: MRS. CANDOUR. But sure you would not be quite so severe on those who
+LINE 294: only report what they hear?
+LINE 295: SIR PETER. Yes Madam, I would have Law Merchant for that too--and in all
+LINE 296: cases of slander currency, whenever the Drawer of the Lie was not to
+LINE 297: be found, the injured Party should have a right to come on any of the
+LINE 298: indorsers.
+LINE 299: CRABTREE. Well for my Part I believe there never was a Scandalous Tale
+LINE 300: without some foundation.<3>
+LINE 301: LADY SNEERWELL. Come Ladies shall we sit down to Cards in the next Room?
+LINE 302: Enter SERVANT, whispers SIR PETER
+LINE 303: SIR PETER. I'll be with them directly.--
+LINE 304: [Exit SERVANT.]
+LINE 305: I'll get away unperceived.
+LINE 306: LADY SNEERWELL. Sir Peter you are not leaving us?
+LINE 307: SIR PETER. Your Ladyship must excuse me--I'm called away by particular
+LINE 308: Business--but I leave my Character behind me--
+LINE 309: [Exit.]
+LINE 310: SIR BENJAMIN. Well certainly Lady Teazle that lord of yours is a
+LINE 311: strange being--I could tell you some stories of him would make you laugh
+LINE 312: heartily if He wern't your Husband.
+LINE 313: LADY TEAZLE. O pray don't mind that--come do let's hear 'em.
+LINE 314: [join the rest of the Company going into the Next Room.]
+LINE 315: SURFACE. Maria I see you have no satisfaction in this society.
+LINE 316: MARIA. How is it possible I should? If to raise malicious smiles at the
+LINE 317: infirmities or misfortunes of those who have never injured us be
+LINE 318: the province of wit or Humour, Heaven grant me a double Portion of
+LINE 319: Dullness--
+LINE 320: SURFACE. Yet they appear more ill-natured than they are--they have no
+LINE 321: malice at heart--
+LINE 322: MARIA. Then is their conduct still more contemptible[;] for in my
+LINE 323: opinion--nothing could excuse the intemperance of their tongues but a
+LINE 324: natural and ungovernable bitterness of Mind.
+LINE 325: SURFACE. Undoubtedly Madam--and it has always been a sentiment of
+LINE 326: mine--that to propagate a malicious Truth wantonly--is more despicable
+LINE 327: than to falsify from Revenge, but can you Maria feel thus [f]or others
+LINE 328: and be unkind to me alone--nay is hope to be denied the tenderest
+LINE 329: Passion.--
+LINE 330: MARIA. Why will you distress me by renewing this subject--
+LINE 331: SURFACE. Ah! Maria! you would not treat me thus and oppose your
+LINE 332: guardian's Sir Peter's wishes--but that I see that my Profligate Brother
+LINE 333: is still a favour'd Rival.
+LINE 334: MARIA. Ungenerously urged--but whatever my sentiments of that
+LINE 335: unfortunate young man are, be assured I shall not feel more bound to
+LINE 336: give him up because his Distresses have sunk him so low as to deprive
+LINE 337: him of the regard even of a Brother.
+LINE 338: SURFACE. Nay but Maria do not leave me with a Frown--by all that's
+LINE 339: honest, I swear----Gad's Life here's Lady Teazle--you must not--no you
+LINE 340: shall--for tho' I have the greatest Regard for Lady Teazle----
+LINE 341: MARIA. Lady Teazle!
+LINE 342: SURFACE. Yet were Sir Peter to suspect----
+LINE 343: [Enter LADY TEAZLE, and comes forward]
+LINE 344: LADY TEAZLE. What's this, Pray--do you take her for me!--Child you are
+LINE 345: wanted in the next Room.--What's all this, pray--
+LINE 346: SURFACE. O the most unlucky circumstance in Nature. Maria has somehow
+LINE 347: suspected the tender concern I have for your happiness, and threaten'd
+LINE 348: to acquaint Sir Peter with her suspicions--and I was just endeavouring
+LINE 349: to reason with her when you came.
+LINE 350: LADY TEAZLE. Indeed but you seem'd to adopt--a very tender mode of
+LINE 351: reasoning--do you usually argue on your knees?
+LINE 352: SURFACE. O she's a Child--and I thought a little Bombast----but Lady
+LINE 353: Teazle when are you to give me your judgment on my Library as you
+LINE 354: promised----
+LINE 355: LADY TEAZLE. No--no I begin to think it would be imprudent--and you know
+LINE 356: I admit you as a Lover no farther than Fashion requires.
+LINE 357: SURFACE. True--a mere Platonic Cicisbeo, what every London wife is
+LINE 358: entitled to.
+LINE 359: LADY TEAZLE. Certainly one must not be out of the Fashion--however, I
+LINE 360: have so much of my country Prejudices left--that--though Sir Peter's ill
+LINE 361: humour may vex me ever so, it never shall provoke me to----
+LINE 362: SURFACE. The only revenge in your Power--well I applaud your moderation.
+LINE 363: LADY TEAZLE. Go--you are an insinuating Hypocrite--but we shall be
+LINE 364: miss'd--let us join the company.
+LINE 365: SURFACE. True, but we had best not return together.
+LINE 366: LADY TEAZLE. Well don't stay--for Maria shan't come to hear any more of
+LINE 367: your Reasoning, I promise you--
+LINE 368: [Exit.]
+LINE 369: SURFACE. A curious Dilemma truly my Politics have run me into. I wanted
+LINE 370: at first only to ingratiate myself with Lady Teazle that she might not
+LINE 371: be my enemy with Maria--and I have I don't know how--become her
+LINE 372: serious Lover, so that I stand a chance of Committing a Crime I never
+LINE 373: meditated--and probably of losing Maria by the Pursuit!--Sincerely I
+LINE 374: begin to wish I had never made such a Point of gaining so very good a
+LINE 375: character, for it has led me into so many curst Rogueries that I doubt I
+LINE 376: shall be exposed at last.
+LINE 377: [Exit.]
+LINE 378: SCENE III.--At SIR PETER'S
+LINE 379: --ROWLEY and SIR OLIVER--
+LINE 380: SIR OLIVER. Ha! ha! ha! and so my old Friend is married, hey?--a young
+LINE 381: wife out of the country!--ha! ha! that he should have stood Bluff to old
+LINE 382: Bachelor so long and sink into a Husband at last!
+LINE 383: ROWLEY. But you must not rally him on the subject Sir Oliver--'tis a
+LINE 384: tender Point I assure you though He has been married only seven months.
+LINE 385: SIR OLIVER. Ah then he has been just half a year on the stool
+LINE 386: of Repentance--Poor Peter! But you say he has entirely given up
+LINE 387: Charles--never sees him, hey?
+LINE 388: ROWLEY. His Prejudice against him is astonishing--and I am sure greatly
+LINE 389: increased by a jealousy of him with Lady Teazle--which he has
+LINE 390: been industriously led into by a scandalous Society--in the
+LINE 391: neighbourhood--who have contributed not a little to Charles's ill name.
+LINE 392: Whereas the truth is[,] I believe[,] if the lady is partial to either of
+LINE 393: them his Brother is the Favourite.
+LINE 394: SIR OLIVER. Aye--I know--there are a set of malicious prating prudent
+LINE 395: Gossips both male and Female, who murder characters to kill time, and
+LINE 396: will rob a young Fellow of his good name before He has years to know the
+LINE 397: value of it. . . but I am not to be prejudiced against my nephew by
+LINE 398: such I promise you! No! no--if Charles has done nothing false or mean, I
+LINE 399: shall compound for his extravagance.
+LINE 400: ROWLEY. Then my life on't, you will reclaim him. Ah, Sir, it gives me
+LINE 401: new vigour to find that your heart is not turned against him--and that
+LINE 402: the son of my good old master has one friend however left--
+LINE 403: SIR OLIVER. What! shall I forget Master Rowley--when I was at his
+LINE 404: house myself--egad my Brother and I were neither of us very prudent
+LINE 405: youths--and yet I believe you have not seen many better men than your
+LINE 406: old master was[.]
+LINE 407: ROWLEY. 'Tis this Reflection gives me assurance that Charles may yet be
+LINE 408: a credit to his Family--but here comes Sir Peter----
+LINE 409: SIR OLIVER. Egad so He does--mercy on me--He's greatly altered--and
+LINE 410: seems to have a settled married look--one may read Husband in his Face
+LINE 411: at this Distance.--
+LINE 412: Enter SIR PETER
+LINE 413: SIR PETER. Ha! Sir Oliver--my old Friend--welcome to England--a thousand
+LINE 414: Times!
+LINE 415: SIR OLIVER. Thank you--thank you--Sir Peter--and Efaith I am as glad to
+LINE 416: find you well[,] believe me--
+LINE 417: SIR PETER. Ah! 'tis a long time since we met--sixteen year I doubt Sir
+LINE 418: Oliver--and many a cross accident in the Time--
+LINE 419: SIR OLIVER. Aye I have had my share--but, what[!] I find you are
+LINE 420: married--hey my old Boy--well--well it can't be help'd--and so I wish
+LINE 421: you joy with all my heart--
+LINE 422: SIR PETER. Thank you--thanks Sir Oliver.--Yes, I have entered into the
+LINE 423: happy state but we'll not talk of that now.
+LINE 424: SIR OLIVER. True true Sir Peter old Friends shouldn't begin on
+LINE 425: grievances at first meeting. No, no--
+LINE 426: ROWLEY. Take care pray Sir----
+LINE 427: SIR OLIVER. Well--so one of my nephews I find is a wild Rogue--hey?
+LINE 428: SIR PETER. Wild!--oh! my old Friend--I grieve for your disappointment
+LINE 429: there--He's a lost young man indeed--however his Brother will make you
+LINE 430: amends; Joseph is indeed what a youth should be--everybody in the world
+LINE 431: speaks well of him--
+LINE 432: SIR OLIVER. I am sorry to hear it--he has too good a character to be an
+LINE 433: honest Fellow. Everybody speaks well of him! Psha! then He has bow'd as
+LINE 434: low to Knaves and Fools as to the honest dignity of Virtue.
+LINE 435: SIR PETER. What Sir Oliver do you blame him for not making Enemies?
+LINE 436: SIR OLIVER. Yes--if He has merit enough to deserve them.
+LINE 437: SIR PETER. Well--well--you'll be convinced when you know him--'tis
+LINE 438: edification to hear him converse--he professes the noblest Sentiments.
+LINE 439: SIR OLIVER. Ah plague on his Sentiments--if he salutes me with a scrap
+LINE 440: sentence of morality in his mouth I shall be sick directly--but however
+LINE 441: don't mistake me Sir Peter I don't mean to defend Charles's Errors--but
+LINE 442: before I form my judgment of either of them, I intend to make a trial of
+LINE 443: their Hearts--and my Friend Rowley and I have planned something for the
+LINE 444: Purpose.
+LINE 445: ROWLEY. And Sir Peter shall own he has been for once mistaken.
+LINE 446: SIR PETER. My life on Joseph's Honour----
+LINE 447: SIR OLIVER. Well come give us a bottle of good wine--and we'll drink the
+LINE 448: Lads' Healths and tell you our scheme.
+LINE 449: SIR PETER. Alons [Allons], then----
+LINE 450: SIR OLIVER. But don't Sir Peter be so severe against your old Friend's
+LINE 451: son.
+LINE 452: SIR PETER. 'Tis his Vices and Follies have made me his Enemy.--
+LINE 453: ROWLEY. Come--come--Sir Peter consider how early He was left to his own
+LINE 454: guidance.
+LINE 455: SIR OLIVER. Odds my Life--I am not sorry that He has run out of the
+LINE 456: course a little--for my Part, I hate to see dry Prudence clinging to
+LINE 457: the green juices of youth--'tis like ivy round a sapling and spoils the
+LINE 458: growth of the Tree.
+LINE 459: END OF THE SECOND ACT

@@ -1,0 +1,340 @@
+LINE 1: The more I knew of the inmates of Moor House, the better I liked them.
+LINE 2: In a few days I had so far recovered my health that I could sit up all
+LINE 3: day, and walk out sometimes. I could join with Diana and Mary in all
+LINE 4: their occupations; converse with them as much as they wished, and aid
+LINE 5: them when and where they would allow me. There was a reviving pleasure
+LINE 6: in this intercourse, of a kind now tasted by me for the first time—the
+LINE 7: pleasure arising from perfect congeniality of tastes, sentiments, and
+LINE 8: principles.
+LINE 9: I liked to read what they liked to read: what they enjoyed, delighted
+LINE 10: me; what they approved, I reverenced. They loved their sequestered
+LINE 11: home. I, too, in the grey, small, antique structure, with its low roof,
+LINE 12: its latticed casements, its mouldering walls, its avenue of aged
+LINE 13: firs—all grown aslant under the stress of mountain winds; its garden,
+LINE 14: dark with yew and holly—and where no flowers but of the hardiest
+LINE 15: species would bloom—found a charm both potent and permanent. They clung
+LINE 16: to the purple moors behind and around their dwelling—to the hollow vale
+LINE 17: into which the pebbly bridle-path leading from their gate descended,
+LINE 18: and which wound between fern-banks first, and then amongst a few of the
+LINE 19: wildest little pasture-fields that ever bordered a wilderness of heath,
+LINE 20: or gave sustenance to a flock of grey moorland sheep, with their little
+LINE 21: mossy-faced lambs:—they clung to this scene, I say, with a perfect
+LINE 22: enthusiasm of attachment. I could comprehend the feeling, and share
+LINE 23: both its strength and truth. I saw the fascination of the locality. I
+LINE 24: felt the consecration of its loneliness: my eye feasted on the outline
+LINE 25: of swell and sweep—on the wild colouring communicated to ridge and dell
+LINE 26: by moss, by heath-bell, by flower-sprinkled turf, by brilliant bracken,
+LINE 27: and mellow granite crag. These details were just to me what they were
+LINE 28: to them—so many pure and sweet sources of pleasure. The strong blast
+LINE 29: and the soft breeze; the rough and the halcyon day; the hours of
+LINE 30: sunrise and sunset; the moonlight and the clouded night, developed for
+LINE 31: me, in these regions, the same attraction as for them—wound round my
+LINE 32: faculties the same spell that entranced theirs.
+LINE 33: Indoors we agreed equally well. They were both more accomplished and
+LINE 34: better read than I was; but with eagerness I followed in the path of
+LINE 35: knowledge they had trodden before me. I devoured the books they lent
+LINE 36: me: then it was full satisfaction to discuss with them in the evening
+LINE 37: what I had perused during the day. Thought fitted thought; opinion met
+LINE 38: opinion: we coincided, in short, perfectly.
+LINE 39: If in our trio there was a superior and a leader, it was Diana.
+LINE 40: Physically, she far excelled me: she was handsome; she was vigorous. In
+LINE 41: her animal spirits there was an affluence of life and certainty of
+LINE 42: flow, such as excited my wonder, while it baffled my comprehension. I
+LINE 43: could talk a while when the evening commenced, but the first gush of
+LINE 44: vivacity and fluency gone, I was fain to sit on a stool at Diana's
+LINE 45: feet, to rest my head on her knee, and listen alternately to her and
+LINE 46: Mary, while they sounded thoroughly the topic on which I had but
+LINE 47: touched. Diana offered to teach me German. I liked to learn of her: I
+LINE 48: saw the part of instructress pleased and suited her; that of scholar
+LINE 49: pleased and suited me no less. Our natures dovetailed: mutual
+LINE 50: affection—of the strongest kind—was the result. They discovered I could
+LINE 51: draw: their pencils and colour-boxes were immediately at my service. My
+LINE 52: skill, greater in this one point than theirs, surprised and charmed
+LINE 53: them. Mary would sit and watch me by the hour together: then she would
+LINE 54: take lessons; and a docile, intelligent, assiduous pupil she made. Thus
+LINE 55: occupied, and mutually entertained, days passed like hours, and weeks
+LINE 56: like days.
+LINE 57: As to Mr. St John, the intimacy which had arisen so naturally and
+LINE 58: rapidly between me and his sisters did not extend to him. One reason of
+LINE 59: the distance yet observed between us was, that he was comparatively
+LINE 60: seldom at home: a large proportion of his time appeared devoted to
+LINE 61: visiting the sick and poor among the scattered population of his
+LINE 62: parish.
+LINE 63: No weather seemed to hinder him in these pastoral excursions: rain or
+LINE 64: fair, he would, when his hours of morning study were over, take his
+LINE 65: hat, and, followed by his father's old pointer, Carlo, go out on his
+LINE 66: mission of love or duty—I scarcely know in which light he regarded it.
+LINE 67: Sometimes, when the day was very unfavourable, his sisters would
+LINE 68: expostulate. He would then say, with a peculiar smile, more solemn than
+LINE 69: cheerful—
+LINE 70: "And if I let a gust of wind or a sprinkling of rain turn me aside from
+LINE 71: these easy tasks, what preparation would such sloth be for the future I
+LINE 72: propose to myself?"
+LINE 73: Diana and Mary's general answer to this question was a sigh, and some
+LINE 74: minutes of apparently mournful meditation.
+LINE 75: But besides his frequent absences, there was another barrier to
+LINE 76: friendship with him: he seemed of a reserved, an abstracted, and even
+LINE 77: of a brooding nature. Zealous in his ministerial labours, blameless in
+LINE 78: his life and habits, he yet did not appear to enjoy that mental
+LINE 79: serenity, that inward content, which should be the reward of every
+LINE 80: sincere Christian and practical philanthropist. Often, of an evening,
+LINE 81: when he sat at the window, his desk and papers before him, he would
+LINE 82: cease reading or writing, rest his chin on his hand, and deliver
+LINE 83: himself up to I know not what course of thought; but that it was
+LINE 84: perturbed and exciting might be seen in the frequent flash and
+LINE 85: changeful dilation of his eye.
+LINE 86: I think, moreover, that Nature was not to him that treasury of delight
+LINE 87: it was to his sisters. He expressed once, and but once in my hearing, a
+LINE 88: strong sense of the rugged charm of the hills, and an inborn affection
+LINE 89: for the dark roof and hoary walls he called his home; but there was
+LINE 90: more of gloom than pleasure in the tone and words in which the
+LINE 91: sentiment was manifested; and never did he seem to roam the moors for
+LINE 92: the sake of their soothing silence—never seek out or dwell upon the
+LINE 93: thousand peaceful delights they could yield.
+LINE 94: Incommunicative as he was, some time elapsed before I had an
+LINE 95: opportunity of gauging his mind. I first got an idea of its calibre
+LINE 96: when I heard him preach in his own church at Morton. I wish I could
+LINE 97: describe that sermon: but it is past my power. I cannot even render
+LINE 98: faithfully the effect it produced on me.
+LINE 99: It began calm—and indeed, as far as delivery and pitch of voice went,
+LINE 100: it was calm to the end: an earnestly felt, yet strictly restrained zeal
+LINE 101: breathed soon in the distinct accents, and prompted the nervous
+LINE 102: language. This grew to force—compressed, condensed, controlled. The
+LINE 103: heart was thrilled, the mind astonished, by the power of the preacher:
+LINE 104: neither were softened. Throughout there was a strange bitterness; an
+LINE 105: absence of consolatory gentleness; stern allusions to Calvinistic
+LINE 106: doctrines—election, predestination, reprobation—were frequent; and each
+LINE 107: reference to these points sounded like a sentence pronounced for doom.
+LINE 108: When he had done, instead of feeling better, calmer, more enlightened
+LINE 109: by his discourse, I experienced an inexpressible sadness; for it seemed
+LINE 110: to me—I know not whether equally so to others—that the eloquence to
+LINE 111: which I had been listening had sprung from a depth where lay turbid
+LINE 112: dregs of disappointment—where moved troubling impulses of insatiate
+LINE 113: yearnings and disquieting aspirations. I was sure St. John
+LINE 114: Rivers—pure-lived, conscientious, zealous as he was—had not yet found
+LINE 115: that peace of God which passeth all understanding: he had no more found
+LINE 116: it, I thought, than had I with my concealed and racking regrets for my
+LINE 117: broken idol and lost elysium—regrets to which I have latterly avoided
+LINE 118: referring, but which possessed me and tyrannised over me ruthlessly.
+LINE 119: Meantime a month was gone. Diana and Mary were soon to leave Moor
+LINE 120: House, and return to the far different life and scene which awaited
+LINE 121: them, as governesses in a large, fashionable, south-of-England city,
+LINE 122: where each held a situation in families by whose wealthy and haughty
+LINE 123: members they were regarded only as humble dependents, and who neither
+LINE 124: knew nor sought out their innate excellences, and appreciated only
+LINE 125: their acquired accomplishments as they appreciated the skill of their
+LINE 126: cook or the taste of their waiting-woman. Mr. St. John had said nothing
+LINE 127: to me yet about the employment he had promised to obtain for me; yet it
+LINE 128: became urgent that I should have a vocation of some kind. One morning,
+LINE 129: being left alone with him a few minutes in the parlour, I ventured to
+LINE 130: approach the window-recess—which his table, chair, and desk consecrated
+LINE 131: as a kind of study—and I was going to speak, though not very well
+LINE 132: knowing in what words to frame my inquiry—for it is at all times
+LINE 133: difficult to break the ice of reserve glassing over such natures as
+LINE 134: his—when he saved me the trouble by being the first to commence a
+LINE 135: dialogue.
+LINE 136: Looking up as I drew near—"You have a question to ask of me?" he said.
+LINE 137: "Yes; I wish to know whether you have heard of any service I can offer
+LINE 138: myself to undertake?"
+LINE 139: "I found or devised something for you three weeks ago; but as you
+LINE 140: seemed both useful and happy here—as my sisters had evidently become
+LINE 141: attached to you, and your society gave them unusual pleasure—I deemed
+LINE 142: it inexpedient to break in on your mutual comfort till their
+LINE 143: approaching departure from Marsh End should render yours necessary."
+LINE 144: "And they will go in three days now?" I said.
+LINE 145: "Yes; and when they go, I shall return to the parsonage at Morton:
+LINE 146: Hannah will accompany me; and this old house will be shut up."
+LINE 147: I waited a few moments, expecting he would go on with the subject first
+LINE 148: broached: but he seemed to have entered another train of reflection:
+LINE 149: his look denoted abstraction from me and my business. I was obliged to
+LINE 150: recall him to a theme which was of necessity one of close and anxious
+LINE 151: interest to me.
+LINE 152: "What is the employment you had in view, Mr. Rivers? I hope this delay
+LINE 153: will not have increased the difficulty of securing it."
+LINE 154: "Oh, no; since it is an employment which depends only on me to give,
+LINE 155: and you to accept."
+LINE 156: He again paused: there seemed a reluctance to continue. I grew
+LINE 157: impatient: a restless movement or two, and an eager and exacting glance
+LINE 158: fastened on his face, conveyed the feeling to him as effectually as
+LINE 159: words could have done, and with less trouble.
+LINE 160: "You need be in no hurry to hear," he said: "let me frankly tell you, I
+LINE 161: have nothing eligible or profitable to suggest. Before I explain,
+LINE 162: recall, if you please, my notice, clearly given, that if I helped you,
+LINE 163: it must be as the blind man would help the lame. I am poor; for I find
+LINE 164: that, when I have paid my father's debts, all the patrimony remaining
+LINE 165: to me will be this crumbling grange, the row of scathed firs behind,
+LINE 166: and the patch of moorish soil, with the yew-trees and holly-bushes in
+LINE 167: front. I am obscure: Rivers is an old name; but of the three sole
+LINE 168: descendants of the race, two earn the dependent's crust among
+LINE 169: strangers, and the third considers himself an alien from his native
+LINE 170: country—not only for life, but in death. Yes, and deems, and is bound
+LINE 171: to deem, himself honoured by the lot, and aspires but after the day
+LINE 172: when the cross of separation from fleshly ties shall be laid on his
+LINE 173: shoulders, and when the Head of that church-militant of whose humblest
+LINE 174: members he is one, shall give the word, 'Rise, follow Me!'"
+LINE 175: St. John said these words as he pronounced his sermons, with a quiet,
+LINE 176: deep voice; with an unflushed cheek, and a coruscating radiance of
+LINE 177: glance. He resumed—
+LINE 178: "And since I am myself poor and obscure, I can offer you but a service
+LINE 179: of poverty and obscurity. _You_ may even think it degrading—for I see
+LINE 180: now your habits have been what the world calls refined: your tastes
+LINE 181: lean to the ideal, and your society has at least been amongst the
+LINE 182: educated; but _I_ consider that no service degrades which can better
+LINE 183: our race. I hold that the more arid and unreclaimed the soil where the
+LINE 184: Christian labourer's task of tillage is appointed him—the scantier the
+LINE 185: meed his toil brings—the higher the honour. His, under such
+LINE 186: circumstances, is the destiny of the pioneer; and the first pioneers of
+LINE 187: the Gospel were the Apostles—their captain was Jesus, the Redeemer,
+LINE 188: Himself."
+LINE 189: "Well?" I said, as he again paused—"proceed."
+LINE 190: He looked at me before he proceeded: indeed, he seemed leisurely to
+LINE 191: read my face, as if its features and lines were characters on a page.
+LINE 192: The conclusions drawn from this scrutiny he partially expressed in his
+LINE 193: succeeding observations.
+LINE 194: "I believe you will accept the post I offer you," said he, "and hold it
+LINE 195: for a while: not permanently, though: any more than I could permanently
+LINE 196: keep the narrow and narrowing—the tranquil, hidden office of English
+LINE 197: country incumbent; for in your nature is an alloy as detrimental to
+LINE 198: repose as that in mine, though of a different kind."
+LINE 199: "Do explain," I urged, when he halted once more.
+LINE 200: "I will; and you shall hear how poor the proposal is,—how trivial—how
+LINE 201: cramping. I shall not stay long at Morton, now that my father is dead,
+LINE 202: and that I am my own master. I shall leave the place probably in the
+LINE 203: course of a twelve-month; but while I do stay, I will exert myself to
+LINE 204: the utmost for its improvement. Morton, when I came to it two years
+LINE 205: ago, had no school: the children of the poor were excluded from every
+LINE 206: hope of progress. I established one for boys: I mean now to open a
+LINE 207: second school for girls. I have hired a building for the purpose, with
+LINE 208: a cottage of two rooms attached to it for the mistress's house. Her
+LINE 209: salary will be thirty pounds a year: her house is already furnished,
+LINE 210: very simply, but sufficiently, by the kindness of a lady, Miss Oliver;
+LINE 211: the only daughter of the sole rich man in my parish—Mr. Oliver, the
+LINE 212: proprietor of a needle-factory and iron-foundry in the valley. The same
+LINE 213: lady pays for the education and clothing of an orphan from the
+LINE 214: workhouse, on condition that she shall aid the mistress in such menial
+LINE 215: offices connected with her own house and the school as her occupation
+LINE 216: of teaching will prevent her having time to discharge in person. Will
+LINE 217: you be this mistress?"
+LINE 218: He put the question rather hurriedly; he seemed half to expect an
+LINE 219: indignant, or at least a disdainful rejection of the offer: not knowing
+LINE 220: all my thoughts and feelings, though guessing some, he could not tell
+LINE 221: in what light the lot would appear to me. In truth it was humble—but
+LINE 222: then it was sheltered, and I wanted a safe asylum: it was plodding—but
+LINE 223: then, compared with that of a governess in a rich house, it was
+LINE 224: independent; and the fear of servitude with strangers entered my soul
+LINE 225: like iron: it was not ignoble—not unworthy—not mentally degrading, I
+LINE 226: made my decision.
+LINE 227: "I thank you for the proposal, Mr. Rivers, and I accept it with all my
+LINE 228: heart."
+LINE 229: "But you comprehend me?" he said. "It is a village school: your
+LINE 230: scholars will be only poor girls—cottagers' children—at the best,
+LINE 231: farmers' daughters. Knitting, sewing, reading, writing, ciphering, will
+LINE 232: be all you will have to teach. What will you do with your
+LINE 233: accomplishments? What, with the largest portion of your
+LINE 234: mind—sentiments—tastes?"
+LINE 235: "Save them till they are wanted. They will keep."
+LINE 236: "You know what you undertake, then?"
+LINE 237: "I do."
+LINE 238: He now smiled: and not a bitter or a sad smile, but one well pleased
+LINE 239: and deeply gratified.
+LINE 240: "And when will you commence the exercise of your function?"
+LINE 241: "I will go to my house to-morrow, and open the school, if you like,
+LINE 242: next week."
+LINE 243: "Very well: so be it."
+LINE 244: He rose and walked through the room. Standing still, he again looked at
+LINE 245: me. He shook his head.
+LINE 246: "What do you disapprove of, Mr. Rivers?" I asked.
+LINE 247: "You will not stay at Morton long: no, no!"
+LINE 248: "Why? What is your reason for saying so?"
+LINE 249: "I read it in your eye; it is not of that description which promises
+LINE 250: the maintenance of an even tenor in life."
+LINE 251: "I am not ambitious."
+LINE 252: He started at the word "ambitious." He repeated, "No. What made you
+LINE 253: think of ambition? Who is ambitious? I know I am: but how did you find
+LINE 254: it out?"
+LINE 255: "I was speaking of myself."
+LINE 256: "Well, if you are not ambitious, you are—" He paused.
+LINE 257: "What?"
+LINE 258: "I was going to say, impassioned: but perhaps you would have
+LINE 259: misunderstood the word, and been displeased. I mean, that human
+LINE 260: affections and sympathies have a most powerful hold on you. I am sure
+LINE 261: you cannot long be content to pass your leisure in solitude, and to
+LINE 262: devote your working hours to a monotonous labour wholly void of
+LINE 263: stimulus: any more than I can be content," he added, with emphasis, "to
+LINE 264: live here buried in morass, pent in with mountains—my nature, that God
+LINE 265: gave me, contravened; my faculties, heaven-bestowed, paralysed—made
+LINE 266: useless. You hear now how I contradict myself. I, who preached
+LINE 267: contentment with a humble lot, and justified the vocation even of
+LINE 268: hewers of wood and drawers of water in God's service—I, His ordained
+LINE 269: minister, almost rave in my restlessness. Well, propensities and
+LINE 270: principles must be reconciled by some means."
+LINE 271: He left the room. In this brief hour I had learnt more of him than in
+LINE 272: the whole previous month: yet still he puzzled me.
+LINE 273: Diana and Mary Rivers became more sad and silent as the day approached
+LINE 274: for leaving their brother and their home. They both tried to appear as
+LINE 275: usual; but the sorrow they had to struggle against was one that could
+LINE 276: not be entirely conquered or concealed. Diana intimated that this would
+LINE 277: be a different parting from any they had ever yet known. It would
+LINE 278: probably, as far as St. John was concerned, be a parting for years: it
+LINE 279: might be a parting for life.
+LINE 280: "He will sacrifice all to his long-framed resolves," she said: "natural
+LINE 281: affection and feelings more potent still. St. John looks quiet, Jane;
+LINE 282: but he hides a fever in his vitals. You would think him gentle, yet in
+LINE 283: some things he is inexorable as death; and the worst of it is, my
+LINE 284: conscience will hardly permit me to dissuade him from his severe
+LINE 285: decision: certainly, I cannot for a moment blame him for it. It is
+LINE 286: right, noble, Christian: yet it breaks my heart!" And the tears gushed
+LINE 287: to her fine eyes. Mary bent her head low over her work.
+LINE 288: "We are now without father: we shall soon be without home and brother,"
+LINE 289: she murmured.
+LINE 290: At that moment a little accident supervened, which seemed decreed by
+LINE 291: fate purposely to prove the truth of the adage, that "misfortunes never
+LINE 292: come singly," and to add to their distresses the vexing one of the slip
+LINE 293: between the cup and the lip. St. John passed the window reading a
+LINE 294: letter. He entered.
+LINE 295: "Our uncle John is dead," said he.
+LINE 296: Both the sisters seemed struck: not shocked or appalled; the tidings
+LINE 297: appeared in their eyes rather momentous than afflicting.
+LINE 298: "Dead?" repeated Diana.
+LINE 299: "Yes."
+LINE 300: She riveted a searching gaze on her brother's face. "And what then?"
+LINE 301: she demanded, in a low voice.
+LINE 302: "What then, Die?" he replied, maintaining a marble immobility of
+LINE 303: feature. "What then? Why—nothing. Read."
+LINE 304: He threw the letter into her lap. She glanced over it, and handed it to
+LINE 305: Mary. Mary perused it in silence, and returned it to her brother. All
+LINE 306: three looked at each other, and all three smiled—a dreary, pensive
+LINE 307: smile enough.
+LINE 308: "Amen! We can yet live," said Diana at last.
+LINE 309: "At any rate, it makes us no worse off than we were before," remarked
+LINE 310: Mary.
+LINE 311: "Only it forces rather strongly on the mind the picture of what _might
+LINE 312: have been_," said Mr. Rivers, "and contrasts it somewhat too vividly
+LINE 313: with what _is_."
+LINE 314: He folded the letter, locked it in his desk, and again went out.
+LINE 315: For some minutes no one spoke. Diana then turned to me.
+LINE 316: "Jane, you will wonder at us and our mysteries," she said, "and think
+LINE 317: us hard-hearted beings not to be more moved at the death of so near a
+LINE 318: relation as an uncle; but we have never seen him or known him. He was
+LINE 319: my mother's brother. My father and he quarrelled long ago. It was by
+LINE 320: his advice that my father risked most of his property in the
+LINE 321: speculation that ruined him. Mutual recrimination passed between them:
+LINE 322: they parted in anger, and were never reconciled. My uncle engaged
+LINE 323: afterwards in more prosperous undertakings: it appears he realised a
+LINE 324: fortune of twenty thousand pounds. He was never married, and had no
+LINE 325: near kindred but ourselves and one other person, not more closely
+LINE 326: related than we. My father always cherished the idea that he would
+LINE 327: atone for his error by leaving his possessions to us; that letter
+LINE 328: informs us that he has bequeathed every penny to the other relation,
+LINE 329: with the exception of thirty guineas, to be divided between St. John,
+LINE 330: Diana, and Mary Rivers, for the purchase of three mourning rings. He
+LINE 331: had a right, of course, to do as he pleased: and yet a momentary damp
+LINE 332: is cast on the spirits by the receipt of such news. Mary and I would
+LINE 333: have esteemed ourselves rich with a thousand pounds each; and to St.
+LINE 334: John such a sum would have been valuable, for the good it would have
+LINE 335: enabled him to do."
+LINE 336: This explanation given, the subject was dropped, and no further
+LINE 337: reference made to it by either Mr. Rivers or his sisters. The next day
+LINE 338: I left Marsh End for Morton. The day after, Diana and Mary quitted it
+LINE 339: for distant B——. In a week, Mr. Rivers and Hannah repaired to the
+LINE 340: parsonage: and so the old grange was abandoned.

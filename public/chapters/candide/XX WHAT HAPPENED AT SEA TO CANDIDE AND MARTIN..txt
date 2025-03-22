@@ -1,0 +1,73 @@
+LINE 1: The old philosopher, whose name was Martin, embarked then with Candide
+LINE 2: for Bordeaux. They had both seen and suffered a great deal; and if the
+LINE 3: vessel had sailed from Surinam to Japan, by the Cape of Good Hope, the
+LINE 4: subject of moral and natural evil would have enabled them to entertain
+LINE 5: one another during the whole voyage.
+LINE 6: Candide, however, had one great advantage over Martin, in that he always
+LINE 7: hoped to see Miss Cunegonde; whereas Martin had nothing at all to hope.
+LINE 8: Besides, Candide was possessed of money and jewels, and though he had
+LINE 9: lost one hundred large red sheep, laden with the greatest treasure upon
+LINE 10: earth; though the knavery of the Dutch skipper still sat heavy upon his
+LINE 11: mind; yet when he reflected upon what he had still left, and when he
+LINE 12: mentioned the name of Cunegonde, especially towards the latter end of a
+LINE 13: repast, he inclined to Pangloss's doctrine.
+LINE 14: "But you, Mr. Martin," said he to the philosopher, "what do you think
+LINE 15: of all this? what are your ideas on moral and natural evil?"
+LINE 16: "Sir," answered Martin, "our priests accused me of being a Socinian, but
+LINE 17: the real fact is I am a Manichean."[21]
+LINE 18: "You jest," said Candide; "there are no longer Manicheans in the world."
+LINE 19: "I am one," said Martin. "I cannot help it; I know not how to think
+LINE 20: otherwise."
+LINE 21: "Surely you must be possessed by the devil," said Candide.
+LINE 22: "He is so deeply concerned in the affairs of this world," answered
+LINE 23: Martin, "that he may very well be in me, as well as in everybody else;
+LINE 24: but I own to you that when I cast an eye on this globe, or rather on
+LINE 25: this little ball, I cannot help thinking that God has abandoned it to
+LINE 26: some malignant being. I except, always, El Dorado. I scarcely ever knew
+LINE 27: a city that did not desire the destruction of a neighbouring city, nor a
+LINE 28: family that did not wish to exterminate some other family. Everywhere
+LINE 29: the weak execrate the powerful, before whom they cringe; and the
+LINE 30: powerful beat them like sheep whose wool and flesh they sell. A million
+LINE 31: regimented assassins, from one extremity of Europe to the other, get
+LINE 32: their bread by disciplined depredation and murder, for want of more
+LINE 33: honest employment. Even in those cities which seem to enjoy peace, and
+LINE 34: where the arts flourish, the inhabitants are devoured by more envy,
+LINE 35: care, and uneasiness than are experienced by a besieged town. Secret
+LINE 36: griefs are more cruel than public calamities. In a word I have seen so
+LINE 37: much, and experienced so much that I am a Manichean."
+LINE 38: "There are, however, some things good," said Candide.
+LINE 39: "That may be," said Martin; "but I know them not."
+LINE 40: In the middle of this dispute they heard the report of cannon; it
+LINE 41: redoubled every instant. Each took out his glass. They saw two ships in
+LINE 42: close fight about three miles off. The wind brought both so near to the
+LINE 43: French vessel that our travellers had the pleasure of seeing the fight
+LINE 44: at their ease. At length one let off a broadside, so low and so truly
+LINE 45: aimed, that the other sank to the bottom. Candide and Martin could
+LINE 46: plainly perceive a hundred men on the deck of the sinking vessel; they
+LINE 47: raised their hands to heaven and uttered terrible outcries, and the next
+LINE 48: moment were swallowed up by the sea.
+LINE 49: "Well," said Martin, "this is how men treat one another."
+LINE 50: "It is true," said Candide; "there is something diabolical in this
+LINE 51: affair."
+LINE 52: While speaking, he saw he knew not what, of a shining red, swimming
+LINE 53: close to the vessel. They put out the long-boat to see what it could
+LINE 54: be: it was one of his sheep! Candide was more rejoiced at the recovery
+LINE 55: of this one sheep than he had been grieved at the loss of the hundred
+LINE 56: laden with the large diamonds of El Dorado.
+LINE 57: The French captain soon saw that the captain of the victorious vessel
+LINE 58: was a Spaniard, and that the other was a Dutch pirate, and the very same
+LINE 59: one who had robbed Candide. The immense plunder which this villain had
+LINE 60: amassed, was buried with him in the sea, and out of the whole only one
+LINE 61: sheep was saved.
+LINE 62: "You see," said Candide to Martin, "that crime is sometimes punished.
+LINE 63: This rogue of a Dutch skipper has met with the fate he deserved."
+LINE 64: "Yes," said Martin; "but why should the passengers be doomed also to
+LINE 65: destruction? God has punished the knave, and the devil has drowned the
+LINE 66: rest."
+LINE 67: The French and Spanish ships continued their course, and Candide
+LINE 68: continued his conversation with Martin. They disputed fifteen successive
+LINE 69: days, and on the last of those fifteen days, they were as far advanced
+LINE 70: as on the first. But, however, they chatted, they communicated ideas,
+LINE 71: they consoled each other. Candide caressed his sheep.
+LINE 72: "Since I have found thee again," said he, "I may likewise chance to find
+LINE 73: my Cunegonde."

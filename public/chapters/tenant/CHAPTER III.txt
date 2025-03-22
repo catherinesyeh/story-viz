@@ -1,0 +1,274 @@
+LINE 1: Two days after, Mrs. Graham called at Linden-Car, contrary to the
+LINE 2: expectation of Rose, who entertained an idea that the mysterious
+LINE 3: occupant of Wildfell Hall would wholly disregard the common observances
+LINE 4: of civilized life,—in which opinion she was supported by the Wilsons,
+LINE 5: who testified that neither their call nor the Millwards' had been
+LINE 6: returned as yet. Now, however, the cause of that omission was
+LINE 7: explained, though not entirely to the satisfaction of Rose. Mrs. Graham
+LINE 8: had brought her child with her, and on my mother's expressing surprise
+LINE 9: that he could walk so far, she replied,—"It is a long walk for him; but
+LINE 10: I must have either taken him with me, or relinquished the visit
+LINE 11: altogether; for I never leave him alone; and I think, Mrs. Markham, I
+LINE 12: must beg you to make my excuses to the Millwards and Mrs. Wilson, when
+LINE 13: you see them, as I fear I cannot do myself the pleasure of calling upon
+LINE 14: them till my little Arthur is able to accompany me."
+LINE 15: "But you have a servant," said Rose; "could you not leave him with
+LINE 16: her?"
+LINE 17: "She has her own occupations to attend to; and besides, she is too old
+LINE 18: to run after a child, and he is too mercurial to be tied to an elderly
+LINE 19: woman."
+LINE 20: "But you left him to come to church."
+LINE 21: "Yes, once; but I would not have left him for any other purpose; and I
+LINE 22: think, in future, I must contrive to bring him with me, or stay at
+LINE 23: home."
+LINE 24: "Is he so mischievous?" asked my mother, considerably shocked.
+LINE 25: "No," replied the lady, sadly smiling, as she stroked the wavy locks of
+LINE 26: her son, who was seated on a low stool at her feet; "but he is my only
+LINE 27: treasure, and I am his only friend: so we don't like to be separated."
+LINE 28: "But, my dear, I call that doting," said my plain-spoken parent. "You
+LINE 29: should try to suppress such foolish fondness, as well to save your son
+LINE 30: from ruin as yourself from ridicule."
+LINE 31: "_Ruin!_ Mrs. Markham!"
+LINE 32: "Yes; it is spoiling the child. Even at _his_ age, he ought not to be
+LINE 33: always tied to his mother's apron-string; he should learn to be ashamed
+LINE 34: of it."
+LINE 35: "Mrs. Markham, I beg you will not say such things, in _his_ presence,
+LINE 36: at least. I trust my son will _never_ be ashamed to love his mother!"
+LINE 37: said Mrs. Graham, with a serious energy that startled the company.
+LINE 38: My mother attempted to appease her by an explanation; but she seemed to
+LINE 39: think enough had been said on the subject, and abruptly turned the
+LINE 40: conversation.
+LINE 41: "Just as I thought," said I to myself: "the lady's temper is none of
+LINE 42: the mildest, notwithstanding her sweet, pale face and lofty brow, where
+LINE 43: thought and suffering seem equally to have stamped their impress."
+LINE 44: All this time I was seated at a table on the other side of the room,
+LINE 45: apparently immersed in the perusal of a volume of the _Farmer's
+LINE 46: Magazine_, which I happened to have been reading at the moment of our
+LINE 47: visitor's arrival; and, not choosing to be over civil, I had merely
+LINE 48: bowed as she entered, and continued my occupation as before.
+LINE 49: In a little while, however, I was sensible that some one was
+LINE 50: approaching me, with a light, but slow and hesitating tread. It was
+LINE 51: little Arthur, irresistibly attracted by my dog Sancho, that was lying
+LINE 52: at my feet. On looking up I beheld him standing about two yards off,
+LINE 53: with his clear blue eyes wistfully gazing on the dog, transfixed to the
+LINE 54: spot, not by fear of the animal, but by a timid disinclination to
+LINE 55: approach its master. A little encouragement, however, induced him to
+LINE 56: come forward. The child, though shy, was not sullen. In a minute he was
+LINE 57: kneeling on the carpet, with his arms round Sancho's neck, and, in a
+LINE 58: minute or two more, the little fellow was seated on my knee, surveying
+LINE 59: with eager interest the various specimens of horses, cattle, pigs, and
+LINE 60: model farms portrayed in the volume before me. I glanced at his mother
+LINE 61: now and then to see how she relished the new-sprung intimacy; and I
+LINE 62: saw, by the unquiet aspect of her eye, that for some reason or other
+LINE 63: she was uneasy at the child's position.
+LINE 64: "Arthur," said she, at length, "come here. You are troublesome to Mr.
+LINE 65: Markham: he wishes to read."
+LINE 66: "By no means, Mrs. Graham; pray let him stay. I am as much amused as he
+LINE 67: is," pleaded I. But still, with hand and eye, she silently called him
+LINE 68: to her side.
+LINE 69: "No, mamma," said the child; "let me look at these pictures first; and
+LINE 70: then I'll come, and tell you all about them."
+LINE 71: "We are going to have a small party on Monday, the fifth of November,"
+LINE 72: said my mother; "and I hope you will not refuse to make one, Mrs.
+LINE 73: Graham. You can bring your little boy with you, you know—I daresay we
+LINE 74: shall be able to amuse him;—and then you can make your own apologies to
+LINE 75: the Millwards and Wilsons—they will all be here, I expect."
+LINE 76: "Thank you, I never go to parties."
+LINE 77: "Oh! but this will be quite a family concern—early hours, and nobody
+LINE 78: here but ourselves, and just the Millwards and Wilsons, most of whom
+LINE 79: you already know, and Mr. Lawrence, your landlord, with whom you ought
+LINE 80: to make acquaintance."
+LINE 81: "I do know something of him—but you must excuse me this time; for the
+LINE 82: evenings, now, are dark and damp, and Arthur, I fear, is too delicate
+LINE 83: to risk exposure to their influence with impunity. We must defer the
+LINE 84: enjoyment of your hospitality till the return of longer days and warmer
+LINE 85: nights."
+LINE 86: Rose, now, at a hint from my mother, produced a decanter of wine, with
+LINE 87: accompaniments of glasses and cake, from the cupboard and the oak
+LINE 88: sideboard, and the refreshment was duly presented to the guests. They
+LINE 89: both partook of the cake, but obstinately refused the wine, in spite of
+LINE 90: their hostess's hospitable attempts to force it upon them. Arthur,
+LINE 91: especially shrank from the ruby nectar as if in terror and disgust, and
+LINE 92: was ready to cry when urged to take it.
+LINE 93: "Never mind, Arthur," said his mamma; "Mrs. Markham thinks it will do
+LINE 94: you good, as you were tired with your walk; but she will not oblige you
+LINE 95: to take it!—I daresay you will do very well without. He detests the
+LINE 96: very sight of wine," she added, "and the smell of it almost makes him
+LINE 97: sick. I have been accustomed to make him swallow a little wine or weak
+LINE 98: spirits-and-water, by way of medicine, when he was sick, and, in fact,
+LINE 99: I have done what I could to make him hate them."
+LINE 100: Everybody laughed, except the young widow and her son.
+LINE 101: "Well, Mrs. Graham," said my mother, wiping the tears of merriment from
+LINE 102: her bright blue eyes—"well, you surprise me! I really gave you credit
+LINE 103: for having more sense.—The poor child will be the veriest milksop that
+LINE 104: ever was sopped! Only think what a man you will make of him, if you
+LINE 105: persist in—"
+LINE 106: "I think it a very excellent plan," interrupted Mrs. Graham, with
+LINE 107: imperturbable gravity. "By that means I hope to save him from one
+LINE 108: degrading vice at least. I wish I could render the incentives to every
+LINE 109: other equally innoxious in his case."
+LINE 110: "But by such means," said I, "you will never render him virtuous.—What
+LINE 111: is it that constitutes virtue, Mrs. Graham? Is it the circumstance of
+LINE 112: being able and willing to resist temptation; or that of having no
+LINE 113: temptations to resist?—Is he a strong man that overcomes great
+LINE 114: obstacles and performs surprising achievements, though by dint of great
+LINE 115: muscular exertion, and at the risk of some subsequent fatigue, or he
+LINE 116: that sits in his chair all day, with nothing to do more laborious than
+LINE 117: stirring the fire, and carrying his food to his mouth? If you would
+LINE 118: have your son to walk honourably through the world, you must not
+LINE 119: attempt to clear the stones from his path, but teach him to walk firmly
+LINE 120: over them—not insist upon leading him by the hand, but let him learn to
+LINE 121: go alone."
+LINE 122: "I will lead him by the hand, Mr. Markham, till he has strength to go
+LINE 123: alone; and I will clear as many stones from his path as I can, and
+LINE 124: teach him to avoid the _rest_—or walk firmly over them, as you say;—for
+LINE 125: when I have done my utmost, in the way of clearance, there will still
+LINE 126: be plenty left to exercise all the agility, steadiness, and
+LINE 127: circumspection he will ever have.—It is all very well to talk about
+LINE 128: noble resistance, and trials of virtue; but for fifty—or five hundred
+LINE 129: men that have yielded to temptation, show me one that has had virtue to
+LINE 130: resist. And why should I take it for granted that my son will be one in
+LINE 131: a thousand?—and not rather prepare for the worst, and suppose he will
+LINE 132: be like his—like the rest of mankind, unless I take care to prevent
+LINE 133: it?"
+LINE 134: "You are very complimentary to us all," I observed.
+LINE 135: "I know nothing about _you_—I speak of those I do know—and when I see
+LINE 136: the whole race of mankind (with a few rare exceptions) stumbling and
+LINE 137: blundering along the path of life, sinking into every pitfall, and
+LINE 138: breaking their shins over every impediment that lies in their way,
+LINE 139: shall I not use all the means in my power to insure for him a smoother
+LINE 140: and a safer passage?"
+LINE 141: "Yes, but the surest means will be to endeavour to fortify him
+LINE 142: _against_ temptation, not to remove it out of his way."
+LINE 143: "I will do both, Mr. Markham. God knows he will have temptations enough
+LINE 144: to assail him, both from within and without, when I have done all I can
+LINE 145: to render vice as uninviting to him, as it is abominable in its own
+LINE 146: nature—I myself have had, indeed, but few incentives to what the world
+LINE 147: calls vice, but yet I have experienced temptations and trials of
+LINE 148: another kind, that have required, on many occasions, more watchfulness
+LINE 149: and firmness to resist than I have hitherto been able to muster against
+LINE 150: them. And this, I believe, is what most others would acknowledge who
+LINE 151: are accustomed to reflection, and wishful to strive against their
+LINE 152: natural corruptions."
+LINE 153: "Yes," said my mother, but half apprehending her drift; "but you would
+LINE 154: not judge of a boy by yourself—and, my dear Mrs. Graham, let me warn
+LINE 155: you in good time against the error—the fatal error, I may call it—of
+LINE 156: taking that boy's education upon yourself. Because you are clever in
+LINE 157: some things and well informed, you may fancy yourself equal to the
+LINE 158: task; but indeed you are not; and if you persist in the attempt,
+LINE 159: believe me you will bitterly repent it when the mischief is done."
+LINE 160: "I am to send him to school, I suppose, to learn to despise his
+LINE 161: mother's authority and affection!" said the lady, with rather a bitter
+LINE 162: smile.
+LINE 163: "Oh, _no!_—But if you would have a boy to despise his mother, let her
+LINE 164: keep him at home, and spend her life in petting him up, and slaving to
+LINE 165: indulge his follies and caprices."
+LINE 166: "I perfectly agree with you, Mrs. Markham; but nothing can be further
+LINE 167: from my principles and practice than such criminal weakness as that."
+LINE 168: "Well, but you will treat him like a girl—you'll spoil his spirit, and
+LINE 169: make a mere Miss Nancy of him—you will, indeed, Mrs. Graham, whatever
+LINE 170: you may think. But I'll get Mr. Millward to talk to you about
+LINE 171: it:—_he'll_ tell you the consequences;—he'll set it before you as plain
+LINE 172: as the day;—and tell you what you ought to do, and all about it;—and, I
+LINE 173: don't doubt, he'll be able to convince you in a minute."
+LINE 174: "No occasion to trouble the vicar," said Mrs. Graham, glancing at me—I
+LINE 175: suppose I was smiling at my mother's unbounded confidence in that
+LINE 176: worthy gentleman—"Mr. Markham here thinks his powers of conviction at
+LINE 177: least equal to Mr. Millward's. If I hear not him, neither should I be
+LINE 178: convinced though one rose from the dead, he would tell you. Well, Mr.
+LINE 179: Markham, you that maintain that a boy should not be shielded from evil,
+LINE 180: but sent out to battle against it, alone and unassisted—not taught to
+LINE 181: avoid the snares of life, but boldly to rush into them, or over them,
+LINE 182: as he may—to seek danger, rather than shun it, and feed his virtue by
+LINE 183: temptation,—would you—?"
+LINE 184: "I beg your pardon, Mrs. Graham—but you get on too fast. I have not yet
+LINE 185: said that a boy should be taught to rush into the snares of life,—or
+LINE 186: even wilfully to seek temptation for the sake of exercising his virtue
+LINE 187: by overcoming it;—I only say that it is better to arm and strengthen
+LINE 188: your hero, than to disarm and enfeeble the foe;—and if you were to rear
+LINE 189: an oak sapling in a hothouse, tending it carefully night and day, and
+LINE 190: shielding it from every breath of wind, you could not expect it to
+LINE 191: become a hardy tree, like that which has grown up on the mountain-side,
+LINE 192: exposed to all the action of the elements, and not even sheltered from
+LINE 193: the shock of the tempest."
+LINE 194: "Granted;—but would you use the same argument with regard to a girl?"
+LINE 195: "Certainly not."
+LINE 196: "No; you would have her to be tenderly and delicately nurtured, like a
+LINE 197: hot-house plant—taught to cling to others for direction and support,
+LINE 198: and guarded, as much as possible, from the very knowledge of evil. But
+LINE 199: will you be so good as to inform me why you make this distinction? Is
+LINE 200: it that you think she _has_ no virtue?"
+LINE 201: "Assuredly not."
+LINE 202: "Well, but you affirm that virtue is only elicited by temptation;—and
+LINE 203: you think that a woman cannot be too little exposed to temptation, or
+LINE 204: too little acquainted with vice, or anything connected therewith. It
+LINE 205: _must_ be either that you think she is essentially so vicious, or so
+LINE 206: feeble-minded, that she _cannot_ withstand temptation,—and though she
+LINE 207: may be pure and innocent as long as she is kept in ignorance and
+LINE 208: restraint, yet, being destitute of _real_ virtue, to teach her how to
+LINE 209: sin is at once to make her a sinner, and the greater her knowledge, the
+LINE 210: wider her liberty, the deeper will be her depravity,—whereas, in the
+LINE 211: nobler sex, there is a natural tendency to goodness, guarded by a
+LINE 212: superior fortitude, which, the more it is exercised by trials and
+LINE 213: dangers, is only the further developed—"
+LINE 214: "Heaven forbid that I should think so!" I interrupted her at last.
+LINE 215: "Well, then, it must be that you think they are _both_ weak and prone
+LINE 216: to err, and the slightest error, the merest shadow of pollution, will
+LINE 217: ruin the one, while the character of the other will be strengthened and
+LINE 218: embellished—his education properly finished by a little practical
+LINE 219: acquaintance with forbidden things. Such experience, to him (to use a
+LINE 220: trite simile), will be like the storm to the oak, which, though it may
+LINE 221: scatter the leaves, and snap the smaller branches, serves but to rivet
+LINE 222: the roots, and to harden and condense the fibres of the tree. You would
+LINE 223: have us encourage our sons to prove all things by their own experience,
+LINE 224: while our daughters must not even profit by the experience of others.
+LINE 225: Now _I_ would have both so to benefit by the experience of others, and
+LINE 226: the precepts of a higher authority, that they should know beforehand to
+LINE 227: refuse the evil and choose the good, and require no experimental proofs
+LINE 228: to teach them the evil of transgression. I would not send a poor girl
+LINE 229: into the world, unarmed against her foes, and ignorant of the snares
+LINE 230: that beset her path; nor would I watch and guard her, till, deprived of
+LINE 231: self-respect and self-reliance, she lost the power or the will to watch
+LINE 232: and guard herself;—and as for my son—if I thought he would grow up to
+LINE 233: be what you call a man of the world—one that has '_seen life_,' and
+LINE 234: glories in his experience, even though he should so far profit by it as
+LINE 235: to sober down, at length, into a useful and respected member of
+LINE 236: society—I would rather that he died to-morrow!—rather a thousand
+LINE 237: times!" she earnestly repeated, pressing her darling to her side and
+LINE 238: kissing his forehead with intense affection. He had already left his
+LINE 239: new companion, and been standing for some time beside his mother's
+LINE 240: knee, looking up into her face, and listening in silent wonder to her
+LINE 241: incomprehensible discourse.
+LINE 242: "Well! you ladies must always have the last word, I suppose," said I,
+LINE 243: observing her rise, and begin to take leave of my mother.
+LINE 244: "You may have as many words as you please,—only I can't stay to hear
+LINE 245: them."
+LINE 246: "No; that is the way: you hear just as much of an argument as you
+LINE 247: please; and the rest may be spoken to the wind."
+LINE 248: "If you are anxious to say anything more on the subject," replied she,
+LINE 249: as she shook hands with Rose, "you must bring your sister to see me
+LINE 250: some fine day, and I'll listen, as patiently as you could wish, to
+LINE 251: whatever you please to say. I would rather be lectured by you than the
+LINE 252: vicar, because I should have less remorse in telling you, at the end of
+LINE 253: the discourse, that I preserve my own opinion precisely the same as at
+LINE 254: the beginning—as would be the case, I am persuaded, with regard to
+LINE 255: either logician."
+LINE 256: "Yes, of course," replied I, determined to be as provoking as herself;
+LINE 257: "for when a lady does consent to listen to an argument against her own
+LINE 258: opinions, she is always predetermined to withstand it—to listen only
+LINE 259: with her bodily ears, keeping the mental organs resolutely closed
+LINE 260: against the strongest reasoning."
+LINE 261: "Good-morning, Mr. Markham," said my fair antagonist, with a pitying
+LINE 262: smile; and deigning no further rejoinder, she slightly bowed, and was
+LINE 263: about to withdraw; but her son, with childish impertinence, arrested
+LINE 264: her by exclaiming,—"Mamma, you have not shaken hands with Mr. Markham!"
+LINE 265: She laughingly turned round and held out her hand. I gave it a spiteful
+LINE 266: squeeze, for I was annoyed at the continual injustice she had done me
+LINE 267: from the very dawn of our acquaintance. Without knowing anything about
+LINE 268: my real disposition and principles, she was evidently prejudiced
+LINE 269: against me, and seemed bent upon showing me that her opinions
+LINE 270: respecting me, on every particular, fell far below those I entertained
+LINE 271: of myself. I was naturally touchy, or it would not have vexed me so
+LINE 272: much. Perhaps, too, I was a little bit spoiled by my mother and sister,
+LINE 273: and some other ladies of my acquaintance;—and yet I was by no means a
+LINE 274: fop—of that I am fully convinced, whether _you_ are or not.

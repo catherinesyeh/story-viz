@@ -1,0 +1,161 @@
+LINE 1: Candide and Martin went in a gondola on the Brenta, and arrived at the
+LINE 2: palace of the noble Signor Pococurante. The gardens, laid out with
+LINE 3: taste, were adorned with fine marble statues. The palace was beautifully
+LINE 4: built. The master of the house was a man of sixty, and very rich. He
+LINE 5: received the two travellers with polite indifference, which put Candide
+LINE 6: a little out of countenance, but was not at all disagreeable to Martin.
+LINE 7: First, two pretty girls, very neatly dressed, served them with
+LINE 8: chocolate, which was frothed exceedingly well. Candide could not refrain
+LINE 9: from commending their beauty, grace, and address.
+LINE 10: "They are good enough creatures," said the Senator. "I make them lie
+LINE 11: with me sometimes, for I am very tired of the ladies of the town, of
+LINE 12: their coquetries, of their jealousies, of their quarrels, of their
+LINE 13: humours, of their pettinesses, of their prides, of their follies, and of
+LINE 14: the sonnets which one must make, or have made, for them. But after all,
+LINE 15: these two girls begin to weary me."
+LINE 16: After breakfast, Candide walking into a long gallery was surprised by
+LINE 17: the beautiful pictures. He asked, by what master were the two first.
+LINE 18: "They are by Raphael," said the Senator. "I bought them at a great
+LINE 19: price, out of vanity, some years ago. They are said to be the finest
+LINE 20: things in Italy, but they do not please me at all. The colours are too
+LINE 21: dark, the figures are not sufficiently rounded, nor in good relief; the
+LINE 22: draperies in no way resemble stuffs. In a word, whatever may be said, I
+LINE 23: do not find there a true imitation of nature. I only care for a picture
+LINE 24: when I think I see nature itself; and there are none of this sort. I
+LINE 25: have a great many pictures, but I prize them very little."
+LINE 26: While they were waiting for dinner Pococurante ordered a concert.
+LINE 27: Candide found the music delicious.
+LINE 28: "This noise," said the Senator, "may amuse one for half an hour; but if
+LINE 29: it were to last longer it would grow tiresome to everybody, though they
+LINE 30: durst not own it. Music, to-day, is only the art of executing difficult
+LINE 31: things, and that which is only difficult cannot please long. Perhaps I
+LINE 32: should be fonder of the opera if they had not found the secret of making
+LINE 33: of it a monster which shocks me. Let who will go to see bad tragedies
+LINE 34: set to music, where the scenes are contrived for no other end than to
+LINE 35: introduce two or three songs ridiculously out of place, to show off an
+LINE 36: actress's voice. Let who will, or who can, die away with pleasure at the
+LINE 37: sight of an eunuch quavering the _rôle_ of Cæsar, or of Cato, and
+LINE 38: strutting awkwardly upon the stage. For my part I have long since
+LINE 39: renounced those paltry entertainments which constitute the glory of
+LINE 40: modern Italy, and are purchased so dearly by sovereigns."
+LINE 41: Candide disputed the point a little, but with discretion. Martin was
+LINE 42: entirely of the Senator's opinion.
+LINE 43: They sat down to table, and after an excellent dinner they went into the
+LINE 44: library. Candide, seeing a Homer magnificently bound, commended the
+LINE 45: virtuoso on his good taste.
+LINE 46: "There," said he, "is a book that was once the delight of the great
+LINE 47: Pangloss, the best philosopher in Germany."
+LINE 48: "It is not mine," answered Pococurante coolly. "They used at one time to
+LINE 49: make me believe that I took a pleasure in reading him. But that
+LINE 50: continual repetition of battles, so extremely like one another; those
+LINE 51: gods that are always active without doing anything decisive; that Helen
+LINE 52: who is the cause of the war, and who yet scarcely appears in the piece;
+LINE 53: that Troy, so long besieged without being taken; all these together
+LINE 54: caused me great weariness. I have sometimes asked learned men whether
+LINE 55: they were not as weary as I of that work. Those who were sincere have
+LINE 56: owned to me that the poem made them fall asleep; yet it was necessary to
+LINE 57: have it in their library as a monument of antiquity, or like those rusty
+LINE 58: medals which are no longer of use in commerce."
+LINE 59: "But your Excellency does not think thus of Virgil?" said Candide.
+LINE 60: "I grant," said the Senator, "that the second, fourth, and sixth books
+LINE 61: of his _Æneid_ are excellent, but as for his pious Æneas, his strong
+LINE 62: Cloanthus, his friend Achates, his little Ascanius, his silly King
+LINE 63: Latinus, his bourgeois Amata, his insipid Lavinia, I think there can be
+LINE 64: nothing more flat and disagreeable. I prefer Tasso a good deal, or even
+LINE 65: the soporific tales of Ariosto."
+LINE 66: "May I presume to ask you, sir," said Candide, "whether you do not
+LINE 67: receive a great deal of pleasure from reading Horace?"
+LINE 68: "There are maxims in this writer," answered Pococurante, "from which a
+LINE 69: man of the world may reap great benefit, and being written in energetic
+LINE 70: verse they are more easily impressed upon the memory. But I care little
+LINE 71: for his journey to Brundusium, and his account of a bad dinner, or of
+LINE 72: his low quarrel between one Rupilius whose words he says were full of
+LINE 73: poisonous filth, and another whose language was imbued with vinegar. I
+LINE 74: have read with much distaste his indelicate verses against old women and
+LINE 75: witches; nor do I see any merit in telling his friend Mæcenas that if he
+LINE 76: will but rank him in the choir of lyric poets, his lofty head shall
+LINE 77: touch the stars. Fools admire everything in an author of reputation. For
+LINE 78: my part, I read only to please myself. I like only that which serves my
+LINE 79: purpose."
+LINE 80: Candide, having been educated never to judge for himself, was much
+LINE 81: surprised at what he heard. Martin found there was a good deal of reason
+LINE 82: in Pococurante's remarks.
+LINE 83: "Oh! here is Cicero," said Candide. "Here is the great man whom I fancy
+LINE 84: you are never tired of reading."
+LINE 85: "I never read him," replied the Venetian. "What is it to me whether he
+LINE 86: pleads for Rabirius or Cluentius? I try causes enough myself; his
+LINE 87: philosophical works seem to me better, but when I found that he doubted
+LINE 88: of everything, I concluded that I knew as much as he, and that I had no
+LINE 89: need of a guide to learn ignorance."
+LINE 90: "Ha! here are four-score volumes of the Academy of Sciences," cried
+LINE 91: Martin. "Perhaps there is something valuable in this collection."
+LINE 92: "There might be," said Pococurante, "if only one of those rakers of
+LINE 93: rubbish had shown how to make pins; but in all these volumes there is
+LINE 94: nothing but chimerical systems, and not a single useful thing."
+LINE 95: "And what dramatic works I see here," said Candide, "in Italian,
+LINE 96: Spanish, and French."
+LINE 97: "Yes," replied the Senator, "there are three thousand, and not three
+LINE 98: dozen of them good for anything. As to those collections of sermons,
+LINE 99: which altogether are not worth a single page of Seneca, and those huge
+LINE 100: volumes of theology, you may well imagine that neither I nor any one
+LINE 101: else ever opens them."
+LINE 102: Martin saw some shelves filled with English books.
+LINE 103: "I have a notion," said he, "that a Republican must be greatly pleased
+LINE 104: with most of these books, which are written with a spirit of freedom."
+LINE 105: "Yes," answered Pococurante, "it is noble to write as one thinks; this
+LINE 106: is the privilege of humanity. In all our Italy we write only what we do
+LINE 107: not think; those who inhabit the country of the Cæsars and the
+LINE 108: Antoninuses dare not acquire a single idea without the permission of a
+LINE 109: Dominican friar. I should be pleased with the liberty which inspires the
+LINE 110: English genius if passion and party spirit did not corrupt all that is
+LINE 111: estimable in this precious liberty."
+LINE 112: Candide, observing a Milton, asked whether he did not look upon this
+LINE 113: author as a great man.
+LINE 114: "Who?" said Pococurante, "that barbarian, who writes a long commentary
+LINE 115: in ten books of harsh verse on the first chapter of Genesis; that coarse
+LINE 116: imitator of the Greeks, who disfigures the Creation, and who, while
+LINE 117: Moses represents the Eternal producing the world by a word, makes the
+LINE 118: Messiah take a great pair of compasses from the armoury of heaven to
+LINE 119: circumscribe His work? How can I have any esteem for a writer who has
+LINE 120: spoiled Tasso's hell and the devil, who transforms Lucifer sometimes
+LINE 121: into a toad and other times into a pigmy, who makes him repeat the same
+LINE 122: things a hundred times, who makes him dispute on theology, who, by a
+LINE 123: serious imitation of Ariosto's comic invention of firearms, represents
+LINE 124: the devils cannonading in heaven? Neither I nor any man in Italy could
+LINE 125: take pleasure in those melancholy extravagances; and the marriage of Sin
+LINE 126: and Death, and the snakes brought forth by Sin, are enough to turn the
+LINE 127: stomach of any one with the least taste, [and his long description of a
+LINE 128: pest-house is good only for a grave-digger]. This obscure, whimsical,
+LINE 129: and disagreeable poem was despised upon its first publication, and I
+LINE 130: only treat it now as it was treated in its own country by
+LINE 131: contemporaries. For the matter of that I say what I think, and I care
+LINE 132: very little whether others think as I do."
+LINE 133: Candide was grieved at this speech, for he had a respect for Homer and
+LINE 134: was fond of Milton.
+LINE 135: "Alas!" said he softly to Martin, "I am afraid that this man holds our
+LINE 136: German poets in very great contempt."
+LINE 137: "There would not be much harm in that," said Martin.
+LINE 138: "Oh! what a superior man," said Candide below his breath. "What a great
+LINE 139: genius is this Pococurante! Nothing can please him."
+LINE 140: After their survey of the library they went down into the garden, where
+LINE 141: Candide praised its several beauties.
+LINE 142: "I know of nothing in so bad a taste," said the master. "All you see
+LINE 143: here is merely trifling. After to-morrow I will have it planted with a
+LINE 144: nobler design."
+LINE 145: "Well," said Candide to Martin when they had taken their leave, "you
+LINE 146: will agree that this is the happiest of mortals, for he is above
+LINE 147: everything he possesses."
+LINE 148: "But do you not see," answered Martin, "that he is disgusted with all he
+LINE 149: possesses? Plato observed a long while ago that those stomachs are not
+LINE 150: the best that reject all sorts of food."
+LINE 151: "But is there not a pleasure," said Candide, "in criticising
+LINE 152: everything, in pointing out faults where others see nothing but
+LINE 153: beauties?"
+LINE 154: "That is to say," replied Martin, "that there is some pleasure in having
+LINE 155: no pleasure."
+LINE 156: "Well, well," said Candide, "I find that I shall be the only happy man
+LINE 157: when I am blessed with the sight of my dear Cunegonde."
+LINE 158: "It is always well to hope," said Martin.
+LINE 159: However, the days and the weeks passed. Cacambo did not come, and
+LINE 160: Candide was so overwhelmed with grief that he did not even reflect that
+LINE 161: Paquette and Friar Giroflée did not return to thank him.

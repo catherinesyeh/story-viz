@@ -1,0 +1,366 @@
+LINE 1: The library looked tranquil enough as I entered it, and the Sibyl—if
+LINE 2: Sibyl she were—was seated snugly enough in an easy-chair at the
+LINE 3: chimney-corner. She had on a red cloak and a black bonnet: or rather, a
+LINE 4: broad-brimmed gipsy hat, tied down with a striped handkerchief under
+LINE 5: her chin. An extinguished candle stood on the table; she was bending
+LINE 6: over the fire, and seemed reading in a little black book, like a
+LINE 7: prayer-book, by the light of the blaze: she muttered the words to
+LINE 8: herself, as most old women do, while she read; she did not desist
+LINE 9: immediately on my entrance: it appeared she wished to finish a
+LINE 10: paragraph.
+LINE 11: I stood on the rug and warmed my hands, which were rather cold with
+LINE 12: sitting at a distance from the drawing-room fire. I felt now as
+LINE 13: composed as ever I did in my life: there was nothing indeed in the
+LINE 14: gipsy's appearance to trouble one's calm. She shut her book and slowly
+LINE 15: looked up; her hat-brim partially shaded her face, yet I could see, as
+LINE 16: she raised it, that it was a strange one. It looked all brown and
+LINE 17: black: elf-locks bristled out from beneath a white band which passed
+LINE 18: under her chin, and came half over her cheeks, or rather jaws: her eye
+LINE 19: confronted me at once, with a bold and direct gaze.
+LINE 20: "Well, and you want your fortune told?" she said, in a voice as decided
+LINE 21: as her glance, as harsh as her features.
+LINE 22: "I don't care about it, mother; you may please yourself: but I ought to
+LINE 23: warn you, I have no faith."
+LINE 24: "It's like your impudence to say so: I expected it of you; I heard it
+LINE 25: in your step as you crossed the threshold."
+LINE 26: "Did you? You've a quick ear."
+LINE 27: "I have; and a quick eye and a quick brain."
+LINE 28: "You need them all in your trade."
+LINE 29: "I do; especially when I've customers like you to deal with. Why don't
+LINE 30: you tremble?"
+LINE 31: "I'm not cold."
+LINE 32: "Why don't you turn pale?"
+LINE 33: "I am not sick."
+LINE 34: "Why don't you consult my art?"
+LINE 35: "I'm not silly."
+LINE 36: The old crone "nichered" a laugh under her bonnet and bandage; she then
+LINE 37: drew out a short black pipe, and lighting it began to smoke. Having
+LINE 38: indulged a while in this sedative, she raised her bent body, took the
+LINE 39: pipe from her lips, and while gazing steadily at the fire, said very
+LINE 40: deliberately—
+LINE 41: "You are cold; you are sick; and you are silly."
+LINE 42: "Prove it," I rejoined.
+LINE 43: "I will, in few words. You are cold, because you are alone: no contact
+LINE 44: strikes the fire from you that is in you. You are sick; because the
+LINE 45: best of feelings, the highest and the sweetest given to man, keeps far
+LINE 46: away from you. You are silly, because, suffer as you may, you will not
+LINE 47: beckon it to approach, nor will you stir one step to meet it where it
+LINE 48: waits you."
+LINE 49: She again put her short black pipe to her lips, and renewed her smoking
+LINE 50: with vigour.
+LINE 51: "You might say all that to almost any one who you knew lived as a
+LINE 52: solitary dependent in a great house."
+LINE 53: "I might say it to almost any one: but would it be true of almost any
+LINE 54: one?"
+LINE 55: "In my circumstances."
+LINE 56: "Yes; just so, in _your_ circumstances: but find me another precisely
+LINE 57: placed as you are."
+LINE 58: "It would be easy to find you thousands."
+LINE 59: "You could scarcely find me one. If you knew it, you are peculiarly
+LINE 60: situated: very near happiness; yes, within reach of it. The materials
+LINE 61: are all prepared; there only wants a movement to combine them. Chance
+LINE 62: laid them somewhat apart; let them be once approached and bliss
+LINE 63: results."
+LINE 64: "I don't understand enigmas. I never could guess a riddle in my life."
+LINE 65: "If you wish me to speak more plainly, show me your palm."
+LINE 66: "And I must cross it with silver, I suppose?"
+LINE 67: "To be sure."
+LINE 68: I gave her a shilling: she put it into an old stocking-foot which she
+LINE 69: took out of her pocket, and having tied it round and returned it, she
+LINE 70: told me to hold out my hand. I did. She approached her face to the
+LINE 71: palm, and pored over it without touching it.
+LINE 72: "It is too fine," said she. "I can make nothing of such a hand as that;
+LINE 73: almost without lines: besides, what is in a palm? Destiny is not
+LINE 74: written there."
+LINE 75: "I believe you," said I.
+LINE 76: "No," she continued, "it is in the face: on the forehead, about the
+LINE 77: eyes, in the lines of the mouth. Kneel, and lift up your head."
+LINE 78: "Ah! now you are coming to reality," I said, as I obeyed her. "I shall
+LINE 79: begin to put some faith in you presently."
+LINE 80: I knelt within half a yard of her. She stirred the fire, so that a
+LINE 81: ripple of light broke from the disturbed coal: the glare, however, as
+LINE 82: she sat, only threw her face into deeper shadow: mine, it illumined.
+LINE 83: "I wonder with what feelings you came to me to-night," she said, when
+LINE 84: she had examined me a while. "I wonder what thoughts are busy in your
+LINE 85: heart during all the hours you sit in yonder room with the fine people
+LINE 86: flitting before you like shapes in a magic-lantern: just as little
+LINE 87: sympathetic communion passing between you and them as if they were
+LINE 88: really mere shadows of human forms, and not the actual substance."
+LINE 89: "I feel tired often, sleepy sometimes, but seldom sad."
+LINE 90: "Then you have some secret hope to buoy you up and please you with
+LINE 91: whispers of the future?"
+LINE 92: "Not I. The utmost I hope is, to save money enough out of my earnings
+LINE 93: to set up a school some day in a little house rented by myself."
+LINE 94: "A mean nutriment for the spirit to exist on: and sitting in that
+LINE 95: window-seat (you see I know your habits)—"
+LINE 96: "You have learned them from the servants."
+LINE 97: "Ah! you think yourself sharp. Well, perhaps I have: to speak truth, I
+LINE 98: have an acquaintance with one of them, Mrs. Poole—"
+LINE 99: I started to my feet when I heard the name.
+LINE 100: "You have—have you?" thought I; "there is diablerie in the business
+LINE 101: after all, then!"
+LINE 102: "Don't be alarmed," continued the strange being; "she's a safe hand is
+LINE 103: Mrs. Poole: close and quiet; any one may repose confidence in her. But,
+LINE 104: as I was saying: sitting in that window-seat, do you think of nothing
+LINE 105: but your future school? Have you no present interest in any of the
+LINE 106: company who occupy the sofas and chairs before you? Is there not one
+LINE 107: face you study? one figure whose movements you follow with at least
+LINE 108: curiosity?"
+LINE 109: "I like to observe all the faces and all the figures."
+LINE 110: "But do you never single one from the rest—or it may be, two?"
+LINE 111: "I do frequently; when the gestures or looks of a pair seem telling a
+LINE 112: tale: it amuses me to watch them."
+LINE 113: "What tale do you like best to hear?"
+LINE 114: "Oh, I have not much choice! They generally run on the same
+LINE 115: theme—courtship; and promise to end in the same catastrophe—marriage."
+LINE 116: "And do you like that monotonous theme?"
+LINE 117: "Positively, I don't care about it: it is nothing to me."
+LINE 118: "Nothing to you? When a lady, young and full of life and health,
+LINE 119: charming with beauty and endowed with the gifts of rank and fortune,
+LINE 120: sits and smiles in the eyes of a gentleman you—"
+LINE 121: "I what?"
+LINE 122: "You know—and perhaps think well of."
+LINE 123: "I don't know the gentlemen here. I have scarcely interchanged a
+LINE 124: syllable with one of them; and as to thinking well of them, I consider
+LINE 125: some respectable, and stately, and middle-aged, and others young,
+LINE 126: dashing, handsome, and lively: but certainly they are all at liberty to
+LINE 127: be the recipients of whose smiles they please, without my feeling
+LINE 128: disposed to consider the transaction of any moment to me."
+LINE 129: "You don't know the gentlemen here? You have not exchanged a syllable
+LINE 130: with one of them? Will you say that of the master of the house!"
+LINE 131: "He is not at home."
+LINE 132: "A profound remark! A most ingenious quibble! He went to Millcote this
+LINE 133: morning, and will be back here to-night or to-morrow: does that
+LINE 134: circumstance exclude him from the list of your acquaintance—blot him,
+LINE 135: as it were, out of existence?"
+LINE 136: "No; but I can scarcely see what Mr. Rochester has to do with the theme
+LINE 137: you had introduced."
+LINE 138: "I was talking of ladies smiling in the eyes of gentlemen; and of late
+LINE 139: so many smiles have been shed into Mr. Rochester's eyes that they
+LINE 140: overflow like two cups filled above the brim: have you never remarked
+LINE 141: that?"
+LINE 142: "Mr. Rochester has a right to enjoy the society of his guests."
+LINE 143: "No question about his right: but have you never observed that, of all
+LINE 144: the tales told here about matrimony, Mr. Rochester has been favoured
+LINE 145: with the most lively and the most continuous?"
+LINE 146: "The eagerness of a listener quickens the tongue of a narrator." I said
+LINE 147: this rather to myself than to the gipsy, whose strange talk, voice,
+LINE 148: manner, had by this time wrapped me in a kind of dream. One unexpected
+LINE 149: sentence came from her lips after another, till I got involved in a web
+LINE 150: of mystification; and wondered what unseen spirit had been sitting for
+LINE 151: weeks by my heart watching its workings and taking record of every
+LINE 152: pulse.
+LINE 153: "Eagerness of a listener!" repeated she: "yes; Mr. Rochester has sat by
+LINE 154: the hour, his ear inclined to the fascinating lips that took such
+LINE 155: delight in their task of communicating; and Mr. Rochester was so
+LINE 156: willing to receive and looked so grateful for the pastime given him;
+LINE 157: you have noticed this?"
+LINE 158: "Grateful! I cannot remember detecting gratitude in his face."
+LINE 159: "Detecting! You have analysed, then. And what did you detect, if not
+LINE 160: gratitude?"
+LINE 161: I said nothing.
+LINE 162: "You have seen love: have you not?—and, looking forward, you have seen
+LINE 163: him married, and beheld his bride happy?"
+LINE 164: "Humph! Not exactly. Your witch's skill is rather at fault sometimes."
+LINE 165: "What the devil have you seen, then?"
+LINE 166: "Never mind: I came here to inquire, not to confess. Is it known that
+LINE 167: Mr. Rochester is to be married?"
+LINE 168: "Yes; and to the beautiful Miss Ingram."
+LINE 169: "Shortly?"
+LINE 170: "Appearances would warrant that conclusion: and, no doubt (though, with
+LINE 171: an audacity that wants chastising out of you, you seem to question it),
+LINE 172: they will be a superlatively happy pair. He must love such a handsome,
+LINE 173: noble, witty, accomplished lady; and probably she loves him, or, if not
+LINE 174: his person, at least his purse. I know she considers the Rochester
+LINE 175: estate eligible to the last degree; though (God pardon me!) I told her
+LINE 176: something on that point about an hour ago which made her look wondrous
+LINE 177: grave: the corners of her mouth fell half an inch. I would advise her
+LINE 178: blackaviced suitor to look out: if another comes, with a longer or
+LINE 179: clearer rent-roll,—he's dished—"
+LINE 180: "But, mother, I did not come to hear Mr. Rochester's fortune: I came to
+LINE 181: hear my own; and you have told me nothing of it."
+LINE 182: "Your fortune is yet doubtful: when I examined your face, one trait
+LINE 183: contradicted another. Chance has meted you a measure of happiness: that
+LINE 184: I know. I knew it before I came here this evening. She has laid it
+LINE 185: carefully on one side for you. I saw her do it. It depends on yourself
+LINE 186: to stretch out your hand, and take it up: but whether you will do so,
+LINE 187: is the problem I study. Kneel again on the rug."
+LINE 188: "Don't keep me long; the fire scorches me."
+LINE 189: She did not stoop towards me, but only gazed, leaning back in her chair
+LINE 190: I knelt. She did not stoop towards me, but only gazed, leaning back in
+LINE 191: her chair. She began muttering,—
+LINE 192: "The flame flickers in the eye; the eye shines like dew; it looks soft
+LINE 193: and full of feeling; it smiles at my jargon: it is susceptible;
+LINE 194: impression follows impression through its clear sphere; where it ceases
+LINE 195: to smile, it is sad; an unconscious lassitude weighs on the lid: that
+LINE 196: signifies melancholy resulting from loneliness. It turns from me; it
+LINE 197: will not suffer further scrutiny; it seems to deny, by a mocking
+LINE 198: glance, the truth of the discoveries I have already made,—to disown the
+LINE 199: charge both of sensibility and chagrin: its pride and reserve only
+LINE 200: confirm me in my opinion. The eye is favourable.
+LINE 201: "As to the mouth, it delights at times in laughter; it is disposed to
+LINE 202: impart all that the brain conceives; though I daresay it would be
+LINE 203: silent on much the heart experiences. Mobile and flexible, it was never
+LINE 204: intended to be compressed in the eternal silence of solitude: it is a
+LINE 205: mouth which should speak much and smile often, and have human affection
+LINE 206: for its interlocutor. That feature too is propitious.
+LINE 207: "I see no enemy to a fortunate issue but in the brow; and that brow
+LINE 208: professes to say,—'I can live alone, if self-respect, and circumstances
+LINE 209: require me so to do. I need not sell my soul to buy bliss. I have an
+LINE 210: inward treasure born with me, which can keep me alive if all extraneous
+LINE 211: delights should be withheld, or offered only at a price I cannot afford
+LINE 212: to give.' The forehead declares, 'Reason sits firm and holds the reins,
+LINE 213: and she will not let the feelings burst away and hurry her to wild
+LINE 214: chasms. The passions may rage furiously, like true heathens, as they
+LINE 215: are; and the desires may imagine all sorts of vain things: but judgment
+LINE 216: shall still have the last word in every argument, and the casting vote
+LINE 217: in every decision. Strong wind, earthquake-shock, and fire may pass by:
+LINE 218: but I shall follow the guiding of that still small voice which
+LINE 219: interprets the dictates of conscience.'
+LINE 220: "Well said, forehead; your declaration shall be respected. I have
+LINE 221: formed my plans—right plans I deem them—and in them I have attended to
+LINE 222: the claims of conscience, the counsels of reason. I know how soon youth
+LINE 223: would fade and bloom perish, if, in the cup of bliss offered, but one
+LINE 224: dreg of shame, or one flavour of remorse were detected; and I do not
+LINE 225: want sacrifice, sorrow, dissolution—such is not my taste. I wish to
+LINE 226: foster, not to blight—to earn gratitude, not to wring tears of
+LINE 227: blood—no, nor of brine: my harvest must be in smiles, in endearments,
+LINE 228: in sweet—That will do. I think I rave in a kind of exquisite delirium.
+LINE 229: I should wish now to protract this moment _ad infinitum_; but I dare
+LINE 230: not. So far I have governed myself thoroughly. I have acted as I
+LINE 231: inwardly swore I would act; but further might try me beyond my
+LINE 232: strength. Rise, Miss Eyre: leave me; 'the play is played out.'"
+LINE 233: Where was I? Did I wake or sleep? Had I been dreaming? Did I dream
+LINE 234: still? The old woman's voice had changed: her accent, her gesture, and
+LINE 235: all were familiar to me as my own face in a glass—as the speech of my
+LINE 236: own tongue. I got up, but did not go. I looked; I stirred the fire, and
+LINE 237: I looked again: but she drew her bonnet and her bandage closer about
+LINE 238: her face, and again beckoned me to depart. The flame illuminated her
+LINE 239: hand stretched out: roused now, and on the alert for discoveries, I at
+LINE 240: once noticed that hand. It was no more the withered limb of eld than my
+LINE 241: own; it was a rounded supple member, with smooth fingers, symmetrically
+LINE 242: turned; a broad ring flashed on the little finger, and stooping
+LINE 243: forward, I looked at it, and saw a gem I had seen a hundred times
+LINE 244: before. Again I looked at the face; which was no longer turned from
+LINE 245: me—on the contrary, the bonnet was doffed, the bandage displaced, the
+LINE 246: head advanced.
+LINE 247: "Well, Jane, do you know me?" asked the familiar voice.
+LINE 248: "Only take off the red cloak, sir, and then—"
+LINE 249: "But the string is in a knot—help me."
+LINE 250: "Break it, sir."
+LINE 251: "There, then—'Off, ye lendings!'" And Mr. Rochester stepped out of his
+LINE 252: disguise.
+LINE 253: "Now, sir, what a strange idea!"
+LINE 254: "But well carried out, eh? Don't you think so?"
+LINE 255: "With the ladies you must have managed well."
+LINE 256: "But not with you?"
+LINE 257: "You did not act the character of a gipsy with me."
+LINE 258: "What character did I act? My own?"
+LINE 259: "No; some unaccountable one. In short, I believe you have been trying
+LINE 260: to draw me out—or in; you have been talking nonsense to make me talk
+LINE 261: nonsense. It is scarcely fair, sir."
+LINE 262: "Do you forgive me, Jane?"
+LINE 263: "I cannot tell till I have thought it all over. If, on reflection, I
+LINE 264: find I have fallen into no great absurdity, I shall try to forgive you;
+LINE 265: but it was not right."
+LINE 266: "Oh, you have been very correct—very careful, very sensible."
+LINE 267: I reflected, and thought, on the whole, I had. It was a comfort; but,
+LINE 268: indeed, I had been on my guard almost from the beginning of the
+LINE 269: interview. Something of masquerade I suspected. I knew gipsies and
+LINE 270: fortune-tellers did not express themselves as this seeming old woman
+LINE 271: had expressed herself; besides I had noted her feigned voice, her
+LINE 272: anxiety to conceal her features. But my mind had been running on Grace
+LINE 273: Poole—that living enigma, that mystery of mysteries, as I considered
+LINE 274: her. I had never thought of Mr. Rochester.
+LINE 275: "Well," said he, "what are you musing about? What does that grave smile
+LINE 276: signify?"
+LINE 277: "Wonder and self-congratulation, sir. I have your permission to retire
+LINE 278: now, I suppose?"
+LINE 279: "No; stay a moment; and tell me what the people in the drawing-room
+LINE 280: yonder are doing."
+LINE 281: "Discussing the gipsy, I daresay."
+LINE 282: "Sit down!—Let me hear what they said about me."
+LINE 283: "I had better not stay long, sir; it must be near eleven o'clock. Oh,
+LINE 284: are you aware, Mr. Rochester, that a stranger has arrived here since
+LINE 285: you left this morning?"
+LINE 286: "A stranger!—no; who can it be? I expected no one; is he gone?"
+LINE 287: "No; he said he had known you long, and that he could take the liberty
+LINE 288: of installing himself here till you returned."
+LINE 289: "The devil he did! Did he give his name?"
+LINE 290: "His name is Mason, sir; and he comes from the West Indies; from
+LINE 291: Spanish Town, in Jamaica, I think."
+LINE 292: Mr. Rochester was standing near me; he had taken my hand, as if to lead
+LINE 293: me to a chair. As I spoke he gave my wrist a convulsive grip; the smile
+LINE 294: on his lips froze: apparently a spasm caught his breath.
+LINE 295: "Mason!—the West Indies!" he said, in the tone one might fancy a
+LINE 296: speaking automaton to enounce its single words; "Mason!—the West
+LINE 297: Indies!" he reiterated; and he went over the syllables three times,
+LINE 298: growing, in the intervals of speaking, whiter than ashes: he hardly
+LINE 299: seemed to know what he was doing.
+LINE 300: "Do you feel ill, sir?" I inquired.
+LINE 301: "Jane, I've got a blow; I've got a blow, Jane!" He staggered.
+LINE 302: "Oh, lean on me, sir."
+LINE 303: "Jane, you offered me your shoulder once before; let me have it now."
+LINE 304: "Yes, sir, yes; and my arm."
+LINE 305: He sat down, and made me sit beside him. Holding my hand in both his
+LINE 306: own, he chafed it; gazing on me, at the same time, with the most
+LINE 307: troubled and dreary look.
+LINE 308: "My little friend!" said he, "I wish I were in a quiet island with only
+LINE 309: you; and trouble, and danger, and hideous recollections removed from
+LINE 310: me."
+LINE 311: "Can I help you, sir?—I'd give my life to serve you."
+LINE 312: "Jane, if aid is wanted, I'll seek it at your hands; I promise you
+LINE 313: that."
+LINE 314: "Thank you, sir. Tell me what to do,—I'll try, at least, to do it."
+LINE 315: "Fetch me now, Jane, a glass of wine from the dining-room: they will be
+LINE 316: at supper there; and tell me if Mason is with them, and what he is
+LINE 317: doing."
+LINE 318: I went. I found all the party in the dining-room at supper, as Mr.
+LINE 319: Rochester had said; they were not seated at table,—the supper was
+LINE 320: arranged on the sideboard; each had taken what he chose, and they stood
+LINE 321: about here and there in groups, their plates and glasses in their
+LINE 322: hands. Every one seemed in high glee; laughter and conversation were
+LINE 323: general and animated. Mr. Mason stood near the fire, talking to Colonel
+LINE 324: and Mrs. Dent, and appeared as merry as any of them. I filled a
+LINE 325: wine-glass (I saw Miss Ingram watch me frowningly as I did so: she
+LINE 326: thought I was taking a liberty, I daresay), and I returned to the
+LINE 327: library.
+LINE 328: Mr. Rochester's extreme pallor had disappeared, and he looked once more
+LINE 329: firm and stern. He took the glass from my hand.
+LINE 330: "Here is to your health, ministrant spirit!" he said. He swallowed the
+LINE 331: contents and returned it to me. "What are they doing, Jane?"
+LINE 332: "Laughing and talking, sir."
+LINE 333: "They don't look grave and mysterious, as if they had heard something
+LINE 334: strange?"
+LINE 335: "Not at all: they are full of jests and gaiety."
+LINE 336: "And Mason?"
+LINE 337: "He was laughing too."
+LINE 338: "If all these people came in a body and spat at me, what would you do,
+LINE 339: Jane?"
+LINE 340: "Turn them out of the room, sir, if I could."
+LINE 341: He half smiled. "But if I were to go to them, and they only looked at
+LINE 342: me coldly, and whispered sneeringly amongst each other, and then
+LINE 343: dropped off and left me one by one, what then? Would you go with them?"
+LINE 344: "I rather think not, sir: I should have more pleasure in staying with
+LINE 345: you."
+LINE 346: "To comfort me?"
+LINE 347: "Yes, sir, to comfort you, as well as I could."
+LINE 348: "And if they laid you under a ban for adhering to me?"
+LINE 349: "I, probably, should know nothing about their ban; and if I did, I
+LINE 350: should care nothing about it."
+LINE 351: "Then, you could dare censure for my sake?"
+LINE 352: "I could dare it for the sake of any friend who deserved my adherence;
+LINE 353: as you, I am sure, do."
+LINE 354: "Go back now into the room; step quietly up to Mason, and whisper in
+LINE 355: his ear that Mr. Rochester is come and wishes to see him: show him in
+LINE 356: here and then leave me."
+LINE 357: "Yes, sir."
+LINE 358: I did his behest. The company all stared at me as I passed straight
+LINE 359: among them. I sought Mr. Mason, delivered the message, and preceded him
+LINE 360: from the room: I ushered him into the library, and then I went
+LINE 361: upstairs.
+LINE 362: At a late hour, after I had been in bed some time, I heard the visitors
+LINE 363: repair to their chambers: I distinguished Mr. Rochester's voice, and
+LINE 364: heard him say, "This way, Mason; this is your room."
+LINE 365: He spoke cheerfully: the gay tones set my heart at ease. I was soon
+LINE 366: asleep.

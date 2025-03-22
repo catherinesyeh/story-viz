@@ -1,0 +1,78 @@
+LINE 1: The evening had been golden; but, after all, the day was to close in
+LINE 2: cloud and tempest. Imperial needs, imperial ambitions, involved the
+LINE 3: country in the South African War. There were checks, reverses, bloody
+LINE 4: disasters; for a moment the nation was shaken, and the public distresses
+LINE 5: were felt with intimate solicitude by the Queen. But her spirit was
+LINE 6: high, and neither her courage nor her confidence wavered for a moment.
+LINE 7: Throwing her self heart and soul into the struggle, she laboured with
+LINE 8: redoubled vigour, interested herself in every detail of the hostilities,
+LINE 9: and sought by every means in her power to render service to the national
+LINE 10: cause. In April 1900, when she was in her eighty-first year, she made
+LINE 11: the extraordinary decision to abandon her annual visit to the South of
+LINE 12: France, and to go instead to Ireland, which had provided a particularly
+LINE 13: large number of recruits to the armies in the field. She stayed for
+LINE 14: three weeks in Dublin, driving through the streets, in spite of the
+LINE 15: warnings of her advisers, without an armed escort; and the visit was
+LINE 16: a complete success. But, in the course of it, she began, for the first
+LINE 17: time, to show signs of the fatigue of age.
+LINE 18: For the long strain and the unceasing anxiety, brought by the war, made
+LINE 19: themselves felt at last. Endowed by nature with a robust constitution,
+LINE 20: Victoria, though in periods of depression she had sometimes supposed
+LINE 21: herself an invalid, had in reality throughout her life enjoyed
+LINE 22: remarkably good health. In her old age, she had suffered from a
+LINE 23: rheumatic stiffness of the joints, which had necessitated the use of a
+LINE 24: stick, and, eventually, a wheeled chair; but no other ailments attacked
+LINE 25: her, until, in 1898, her eyesight began to be affected by incipient
+LINE 26: cataract. After that, she found reading more and more difficult, though
+LINE 27: she could still sign her name, and even, with some difficulty, write
+LINE 28: letters. In the summer of 1900, however, more serious symptoms appeared.
+LINE 29: Her memory, in whose strength and precision she had so long prided
+LINE 30: herself, now sometimes deserted her; there was a tendency towards
+LINE 31: aphasia; and, while no specific disease declared itself, by the autumn
+LINE 32: there were unmistakable signs of a general physical decay. Yet, even
+LINE 33: in these last months, the strain of iron held firm. The daily
+LINE 34: work continued; nay, it actually increased; for the Queen, with an
+LINE 35: astonishing pertinacity, insisted upon communicating personally with
+LINE 36: an ever-growing multitude of men and women who had suffered through the
+LINE 37: war.
+LINE 38: By the end of the year the last remains of her ebbing strength had
+LINE 39: almost deserted her; and through the early days of the opening century
+LINE 40: it was clear that her dwindling forces were only kept together by an
+LINE 41: effort of will. On January 14, she had at Osborne an hour's interview
+LINE 42: with Lord Roberts, who had returned victorious from South Africa a few
+LINE 43: days before. She inquired with acute anxiety into all the details of the
+LINE 44: war; she appeared to sustain the exertion successfully; but, when
+LINE 45: the audience was over, there was a collapse. On the following day her
+LINE 46: medical attendants recognised that her state was hopeless; and yet, for
+LINE 47: two days more, the indomitable spirit fought on; for two days more she
+LINE 48: discharged the duties of a Queen of England. But after that there was
+LINE 49: an end of working; and then, and not till then, did the last optimism of
+LINE 50: those about her break down. The brain was failing, and life was gently
+LINE 51: slipping away. Her family gathered round her; for a little more she
+LINE 52: lingered, speechless and apparently insensible; and, on January 22,
+LINE 53: 1901, she died.
+LINE 54: When, two days previously, the news of the approaching end had been made
+LINE 55: public, astonished grief had swept over the country. It appeared as if
+LINE 56: some monstrous reversal of the course of nature was about to take place.
+LINE 57: The vast majority of her subjects had never known a time when Queen
+LINE 58: Victoria had not been reigning over them. She had become an indissoluble
+LINE 59: part of their whole scheme of things, and that they were about to lose
+LINE 60: her appeared a scarcely possible thought. She herself, as she lay
+LINE 61: blind and silent, seemed to those who watched her to be divested of all
+LINE 62: thinking--to have glided already, unawares, into oblivion. Yet, perhaps,
+LINE 63: in the secret chambers of consciousness, she had her thoughts, too.
+LINE 64: Perhaps her fading mind called up once more the shadows of the past to
+LINE 65: float before it, and retraced, for the last time, the vanished visions
+LINE 66: of that long history--passing back and back, through the cloud of years,
+LINE 67: to older and ever older memories--to the spring woods at Osborne, so
+LINE 68: full of primroses for Lord Beaconsfield--to Lord Palmerston's queer
+LINE 69: clothes and high demeanour, and Albert's face under the green lamp,
+LINE 70: and Albert's first stag at Balmoral, and Albert in his blue and silver
+LINE 71: uniform, and the Baron coming in through a doorway, and Lord M. dreaming
+LINE 72: at Windsor with the rooks cawing in the elm-trees, and the Archbishop
+LINE 73: of Canterbury on his knees in the dawn, and the old King's turkey-cock
+LINE 74: ejaculations, and Uncle Leopold's soft voice at Claremont, and Lehzen
+LINE 75: with the globes, and her mother's feathers sweeping down towards her,
+LINE 76: and a great old repeater-watch of her father's in its tortoise-shell
+LINE 77: case, and a yellow rug, and some friendly flounces of sprigged muslin,
+LINE 78: and the trees and the grass at Kensington.

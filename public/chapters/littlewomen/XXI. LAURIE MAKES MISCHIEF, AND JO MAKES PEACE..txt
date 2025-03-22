@@ -1,0 +1,394 @@
+LINE 1: Jo's face was a study next day, for the secret rather weighed upon her,
+LINE 2: and she found it hard not to look mysterious and important. Meg observed
+LINE 3: it, but did not trouble herself to make inquiries, for she had learned
+LINE 4: that the best way to manage Jo was by the law of contraries, so she felt
+LINE 5: sure of being told everything if she did not ask. She was rather
+LINE 6: surprised, therefore, when the silence remained unbroken, and Jo assumed
+LINE 7: a patronizing air, which decidedly aggravated Meg, who in her turn
+LINE 8: assumed an air of dignified reserve, and devoted herself to her mother.
+LINE 9: This left Jo to her own devices; for Mrs. March had taken her place as
+LINE 10: nurse, and bade her rest, exercise, and amuse herself after her long
+LINE 11: confinement. Amy being gone, Laurie was her only refuge; and, much as
+LINE 12: she enjoyed his society, she rather dreaded him just then, for he was an
+LINE 13: incorrigible tease, and she feared he would coax her secret from her.
+LINE 14: She was quite right, for the mischief-loving lad no sooner suspected a
+LINE 15: mystery than he set himself to find it out, and led Jo a trying life of
+LINE 16: it. He wheedled, bribed, ridiculed, threatened, and scolded; affected
+LINE 17: indifference, that he might surprise the truth from her; declared he
+LINE 18: knew, then that he didn't care; and, at last, by dint of perseverance,
+LINE 19: he satisfied himself that it concerned Meg and Mr. Brooke. Feeling
+LINE 20: indignant that he was not taken into his tutor's confidence, he set his
+LINE 21: wits to work to devise some proper retaliation for the slight.
+LINE 22: Meg meanwhile had apparently forgotten the matter, and was absorbed in
+LINE 23: preparations for her father's return; but all of a sudden a change
+LINE 24: seemed to come over her, and, for a day or two, she was quite unlike
+LINE 25: herself. She started when spoken to, blushed when looked at, was very
+LINE 26: quiet, and sat over her sewing, with a timid, troubled look on her face.
+LINE 27: To her mother's inquiries she answered that she was quite well, and Jo's
+LINE 28: she silenced by begging to be let alone.
+LINE 29: "She feels it in the air--love, I mean--and she's going very fast. She's
+LINE 30: got most of the symptoms,--is twittery and cross, doesn't eat, lies
+LINE 31: awake, and mopes in corners. I caught her singing that song he gave her,
+LINE 32: and once she said 'John,' as you do, and then turned as red as a poppy.
+LINE 33: Whatever shall we do?" said Jo, looking ready for any measures, however
+LINE 34: violent.
+LINE 35: "Nothing but wait. Let her alone, be kind and patient, and father's
+LINE 36: coming will settle everything," replied her mother.
+LINE 37: "Here's a note to you, Meg, all sealed up. How odd! Teddy never seals
+LINE 38: mine," said Jo, next day, as she distributed the contents of the little
+LINE 39: post-office.
+LINE 40: Mrs. March and Jo were deep in their own affairs, when a sound from Meg
+LINE 41: made them look up to see her staring at her note, with a frightened
+LINE 42: face.
+LINE 43: "My child, what is it?" cried her mother, running to her, while Jo tried
+LINE 44: to take the paper which had done the mischief.
+LINE 45: "It's all a mistake--he didn't send it. O Jo, how could you do it?" and
+LINE 46: Meg hid her face in her hands, crying as if her heart was quite broken.
+LINE 47: "Me! I've done nothing! What's she talking about?" cried Jo, bewildered.
+LINE 48: Meg's mild eyes kindled with anger as she pulled a crumpled note from
+LINE 49: her pocket, and threw it at Jo, saying reproachfully,--
+LINE 50: "You wrote it, and that bad boy helped you. How could you be so rude, so
+LINE 51: mean, and cruel to us both?"
+LINE 52: Jo hardly heard her, for she and her mother were reading the note, which
+LINE 53: was written in a peculiar hand.
+LINE 54: [Illustration: Jo and her mother were reading the note]
+LINE 55: "MY DEAREST MARGARET,--
+LINE 56: "I can no longer restrain my passion, and must know my fate
+LINE 57: before I return. I dare not tell your parents yet, but I think
+LINE 58: they would consent if they knew that we adored one another. Mr.
+LINE 59: Laurence will help me to some good place, and then, my sweet
+LINE 60: girl, you will make me happy. I implore you to say nothing to
+LINE 61: your family yet, but to send one word of hope through Laurie to
+LINE 62: "Your devoted JOHN."
+LINE 63: "Oh, the little villain! that's the way he meant to pay me for keeping
+LINE 64: my word to mother. I'll give him a hearty scolding, and bring him over
+LINE 65: to beg pardon," cried Jo, burning to execute immediate justice. But her
+LINE 66: mother held her back, saying, with a look she seldom wore,--
+LINE 67: "Stop, Jo, you must clear yourself first. You have played so many
+LINE 68: pranks, that I am afraid you have had a hand in this."
+LINE 69: "On my word, mother, I haven't! I never saw that note before, and don't
+LINE 70: know anything about it, as true as I live!" said Jo, so earnestly that
+LINE 71: they believed her. "If I _had_ taken a part in it I'd have done it
+LINE 72: better than this, and have written a sensible note. I should think you'd
+LINE 73: have known Mr. Brooke wouldn't write such stuff as that," she added,
+LINE 74: scornfully tossing down the paper.
+LINE 75: "It's like his writing," faltered Meg, comparing it with the note in her
+LINE 76: hand.
+LINE 77: "O Meg, you didn't answer it?" cried Mrs. March quickly.
+LINE 78: "Yes, I did!" and Meg hid her face again, overcome with shame.
+LINE 79: "Here's a scrape! _Do_ let me bring that wicked boy over to explain, and
+LINE 80: be lectured. I can't rest till I get hold of him;" and Jo made for the
+LINE 81: door again.
+LINE 82: "Hush! let me manage this, for it is worse than I thought. Margaret,
+LINE 83: tell me the whole story," commanded Mrs. March, sitting down by Meg, yet
+LINE 84: keeping hold of Jo, lest she should fly off.
+LINE 85: "I received the first letter from Laurie, who didn't look as if he knew
+LINE 86: anything about it," began Meg, without looking up. "I was worried at
+LINE 87: first, and meant to tell you; then I remembered how you liked Mr.
+LINE 88: Brooke, so I thought you wouldn't mind if I kept my little secret for a
+LINE 89: few days. I'm so silly that I liked to think no one knew; and, while I
+LINE 90: was deciding what to say, I felt like the girls in books, who have such
+LINE 91: things to do. Forgive me, mother, I'm paid for my silliness now; I never
+LINE 92: can look him in the face again."
+LINE 93: "What did you say to him?" asked Mrs. March.
+LINE 94: "I only said I was too young to do anything about it yet; that I didn't
+LINE 95: wish to have secrets from you, and he must speak to father. I was very
+LINE 96: grateful for his kindness, and would be his friend, but nothing more,
+LINE 97: for a long while."
+LINE 98: Mrs. March smiled, as if well pleased, and Jo clapped her hands,
+LINE 99: exclaiming, with a laugh,--
+LINE 100: "You are almost equal to Caroline Percy, who was a pattern of prudence!
+LINE 101: Tell on, Meg. What did he say to that?"
+LINE 102: "He writes in a different way entirely, telling me that he never sent
+LINE 103: any love-letter at all, and is very sorry that my roguish sister, Jo,
+LINE 104: should take such liberties with our names. It's very kind and
+LINE 105: respectful, but think how dreadful for me!"
+LINE 106: Meg leaned against her mother, looking the image of despair, and Jo
+LINE 107: tramped about the room, calling Laurie names. All of a sudden she
+LINE 108: stopped, caught up the two notes, and, after looking at them closely,
+LINE 109: said decidedly, "I don't believe Brooke ever saw either of these
+LINE 110: letters. Teddy wrote both, and keeps yours to crow over me with, because
+LINE 111: I wouldn't tell him my secret."
+LINE 112: "Don't have any secrets, Jo; tell it to mother, and keep out of trouble,
+LINE 113: as I should have done," said Meg warningly.
+LINE 114: "Bless you, child! Mother told me."
+LINE 115: "That will do, Jo. I'll comfort Meg while you go and get Laurie. I shall
+LINE 116: sift the matter to the bottom, and put a stop to such pranks at once."
+LINE 117: Away ran Jo, and Mrs. March gently told Meg Mr. Brooke's real feelings.
+LINE 118: "Now, dear, what are your own? Do you love him enough to wait till he
+LINE 119: can make a home for you, or will you keep yourself quite free for the
+LINE 120: present?"
+LINE 121: "I've been so scared and worried, I don't want to have anything to do
+LINE 122: with lovers for a long while,--perhaps never," answered Meg petulantly.
+LINE 123: "If John _doesn't_ know anything about this nonsense, don't tell him,
+LINE 124: and make Jo and Laurie hold their tongues. I won't be deceived and
+LINE 125: plagued and made a fool of,--it's a shame!"
+LINE 126: Seeing that Meg's usually gentle temper was roused and her pride hurt by
+LINE 127: this mischievous joke, Mrs. March soothed her by promises of entire
+LINE 128: silence, and great discretion for the future. The instant Laurie's step
+LINE 129: was heard in the hall, Meg fled into the study, and Mrs. March received
+LINE 130: the culprit alone. Jo had not told him why he was wanted, fearing he
+LINE 131: wouldn't come; but he knew the minute he saw Mrs. March's face, and
+LINE 132: stood twirling his hat, with a guilty air which convicted him at once.
+LINE 133: Jo was dismissed, but chose to march up and down the hall like a
+LINE 134: sentinel, having some fear that the prisoner might bolt. The sound of
+LINE 135: voices in the parlor rose and fell for half an hour; but what happened
+LINE 136: during that interview the girls never knew.
+LINE 137: When they were called in, Laurie was standing by their mother, with such
+LINE 138: a penitent face that Jo forgave him on the spot, but did not think it
+LINE 139: wise to betray the fact. Meg received his humble apology, and was much
+LINE 140: comforted by the assurance that Brooke knew nothing of the joke.
+LINE 141: "I'll never tell him to my dying day,--wild horses sha'n't drag it out
+LINE 142: of me; so you'll forgive me, Meg, and I'll do anything to show how
+LINE 143: out-and-out sorry I am," he added, looking very much ashamed of himself.
+LINE 144: "I'll try; but it was a very ungentlemanly thing to do. I didn't think
+LINE 145: you could be so sly and malicious, Laurie," replied Meg, trying to hide
+LINE 146: her maidenly confusion under a gravely reproachful air.
+LINE 147: "It was altogether abominable, and I don't deserve to be spoken to for a
+LINE 148: month; but you will, though, won't you?" and Laurie folded his hands
+LINE 149: together with such an imploring gesture, as he spoke in his irresistibly
+LINE 150: persuasive tone, that it was impossible to frown upon him, in spite of
+LINE 151: his scandalous behavior. Meg pardoned him, and Mrs. March's grave face
+LINE 152: relaxed, in spite of her efforts to keep sober, when she heard him
+LINE 153: declare that he would atone for his sins by all sorts of penances, and
+LINE 154: abase himself like a worm before the injured damsel.
+LINE 155: Jo stood aloof, meanwhile, trying to harden her heart against him, and
+LINE 156: succeeding only in primming up her face into an expression of entire
+LINE 157: disapprobation. Laurie looked at her once or twice, but, as she showed
+LINE 158: no sign of relenting, he felt injured, and turned his back on her till
+LINE 159: the others were done with him, when he made her a low bow, and walked
+LINE 160: off without a word.
+LINE 161: As soon as he had gone, she wished she had been more forgiving; and when
+LINE 162: Meg and her mother went upstairs, she felt lonely, and longed for Teddy.
+LINE 163: After resisting for some time, she yielded to the impulse, and, armed
+LINE 164: with a book to return, went over to the big house.
+LINE 165: "Is Mr. Laurence in?" asked Jo, of a housemaid, who was coming down
+LINE 166: stairs.
+LINE 167: "Yes, miss; but I don't believe he's seeable just yet."
+LINE 168: "Why not? is he ill?"
+LINE 169: "La, no, miss, but he's had a scene with Mr. Laurie, who is in one of
+LINE 170: his tantrums about something, which vexes the old gentleman, so I
+LINE 171: dursn't go nigh him."
+LINE 172: "Where is Laurie?"
+LINE 173: "Shut up in his room, and he won't answer, though I've been a-tapping. I
+LINE 174: don't know what's to become of the dinner, for it's ready, and there's
+LINE 175: no one to eat it."
+LINE 176: "I'll go and see what the matter is. I'm not afraid of either of them."
+LINE 177: Up went Jo, and knocked smartly on the door of Laurie's little study.
+LINE 178: "Stop that, or I'll open the door and make you!" called out the young
+LINE 179: gentleman, in a threatening tone.
+LINE 180: Jo immediately knocked again; the door flew open, and in she bounced,
+LINE 181: before Laurie could recover from his surprise. Seeing that he really
+LINE 182: _was_ out of temper, Jo, who knew how to manage him, assumed a contrite
+LINE 183: expression, and going artistically down upon her knees, said meekly,
+LINE 184: "Please forgive me for being so cross. I came to make it up, and can't
+LINE 185: go away till I have."
+LINE 186: "It's all right. Get up, and don't be a goose, Jo," was the cavalier
+LINE 187: reply to her petition.
+LINE 188: [Illustration: Get up and don't be a goose]
+LINE 189: "Thank you; I will. Could I ask what's the matter? You don't look
+LINE 190: exactly easy in your mind."
+LINE 191: "I've been shaken, and I won't bear it!" growled Laurie indignantly.
+LINE 192: "Who did it?" demanded Jo.
+LINE 193: "Grandfather; if it had been any one else I'd have--" and the injured
+LINE 194: youth finished his sentence by an energetic gesture of the right arm.
+LINE 195: "That's nothing; I often shake you, and you don't mind," said Jo
+LINE 196: soothingly.
+LINE 197: "Pooh! you're a girl, and it's fun; but I'll allow no man to shake
+LINE 198: _me_."
+LINE 199: "I don't think any one would care to try it, if you looked as much like
+LINE 200: a thunder-cloud as you do now. Why were you treated so?"
+LINE 201: "Just because I wouldn't say what your mother wanted me for. I'd
+LINE 202: promised not to tell, and of course I wasn't going to break my word."
+LINE 203: "Couldn't you satisfy your grandpa in any other way?"
+LINE 204: "No; he _would_ have the truth, the whole truth, and nothing but the
+LINE 205: truth. I'd have told my part of the scrape, if I could without bringing
+LINE 206: Meg in. As I couldn't, I held my tongue, and bore the scolding till the
+LINE 207: old gentleman collared me. Then I got angry, and bolted, for fear I
+LINE 208: should forget myself."
+LINE 209: "It wasn't nice, but he's sorry, I know; so go down and make up. I'll
+LINE 210: help you."
+LINE 211: "Hanged if I do! I'm not going to be lectured and pummelled by every
+LINE 212: one, just for a bit of a frolic. I _was_ sorry about Meg, and begged
+LINE 213: pardon like a man; but I won't do it again, when I wasn't in the wrong."
+LINE 214: "He didn't know that."
+LINE 215: "He ought to trust me, and not act as if I was a baby. It's no use, Jo;
+LINE 216: he's got to learn that I'm able to take care of myself, and don't need
+LINE 217: any one's apron-string to hold on by."
+LINE 218: "What pepper-pots you are!" sighed Jo. "How do you mean to settle this
+LINE 219: affair?"
+LINE 220: "Well, he ought to beg pardon, and believe me when I say I can't tell
+LINE 221: him what the fuss's about."
+LINE 222: "Bless you! he won't do that."
+LINE 223: "I won't go down till he does."
+LINE 224: "Now, Teddy, be sensible; let it pass, and I'll explain what I can. You
+LINE 225: can't stay here, so what's the use of being melodramatic?"
+LINE 226: "I don't intend to stay here long, any way. I'll slip off and take a
+LINE 227: journey somewhere, and when grandpa misses me he'll come round fast
+LINE 228: enough."
+LINE 229: "I dare say; but you ought not to go and worry him."
+LINE 230: "Don't preach. I'll go to Washington and see Brooke; it's gay there, and
+LINE 231: I'll enjoy myself after the troubles."
+LINE 232: "What fun you'd have! I wish I could run off too," said Jo, forgetting
+LINE 233: her part of Mentor in lively visions of martial life at the capital.
+LINE 234: "Come on, then! Why not? You go and surprise your father, and I'll stir
+LINE 235: up old Brooke. It would be a glorious joke; let's do it, Jo. We'll leave
+LINE 236: a letter saying we are all right, and trot off at once. I've got money
+LINE 237: enough; it will do you good, and be no harm, as you go to your father."
+LINE 238: For a moment Jo looked as if she would agree; for, wild as the plan was,
+LINE 239: it just suited her. She was tired of care and confinement, longed for
+LINE 240: change, and thoughts of her father blended temptingly with the novel
+LINE 241: charms of camps and hospitals, liberty and fun. Her eyes kindled as they
+LINE 242: turned wistfully toward the window, but they fell on the old house
+LINE 243: opposite, and she shook her head with sorrowful decision.
+LINE 244: "If I was a boy, we'd run away together, and have a capital time; but as
+LINE 245: I'm a miserable girl, I must be proper, and stop at home. Don't tempt
+LINE 246: me, Teddy, it's a crazy plan."
+LINE 247: "That's the fun of it," began Laurie, who had got a wilful fit on him,
+LINE 248: and was possessed to break out of bounds in some way.
+LINE 249: "Hold your tongue!" cried Jo, covering her ears. "'Prunes and prisms'
+LINE 250: are my doom, and I may as well make up my mind to it. I came here to
+LINE 251: moralize, not to hear about things that make me skip to think of."
+LINE 252: [Illustration: "Hold your tongue!" cried Jo, covering her ears]
+LINE 253: "I know Meg would wet-blanket such a proposal, but I thought you had
+LINE 254: more spirit," began Laurie insinuatingly.
+LINE 255: "Bad boy, be quiet! Sit down and think of your own sins, don't go making
+LINE 256: me add to mine. If I get your grandpa to apologize for the shaking, will
+LINE 257: you give up running away?" asked Jo seriously.
+LINE 258: "Yes, but you won't do it," answered Laurie, who wished "to make up,"
+LINE 259: but felt that his outraged dignity must be appeased first.
+LINE 260: "If I can manage the young one I can the old one," muttered Jo, as she
+LINE 261: walked away, leaving Laurie bent over a railroad map, with his head
+LINE 262: propped up on both hands.
+LINE 263: "Come in!" and Mr. Laurence's gruff voice sounded gruffer than ever, as
+LINE 264: Jo tapped at his door.
+LINE 265: "It's only me, sir, come to return a book," she said blandly, as she
+LINE 266: entered.
+LINE 267: "Want any more?" asked the old gentleman, looking grim and vexed, but
+LINE 268: trying not to show it.
+LINE 269: "Yes, please. I like old Sam so well, I think I'll try the second
+LINE 270: volume," returned Jo, hoping to propitiate him by accepting a second
+LINE 271: dose of Boswell's "Johnson," as he had recommended that lively work.
+LINE 272: The shaggy eyebrows unbent a little, as he rolled the steps toward the
+LINE 273: shelf where the Johnsonian literature was placed. Jo skipped up, and,
+LINE 274: sitting on the top step, affected to be searching for her book, but was
+LINE 275: really wondering how best to introduce the dangerous object of her
+LINE 276: visit. Mr. Laurence seemed to suspect that something was brewing in her
+LINE 277: mind; for, after taking several brisk turns about the room, he faced
+LINE 278: round on her, speaking so abruptly that "Rasselas" tumbled face downward
+LINE 279: on the floor.
+LINE 280: "What has that boy been about? Don't try to shield him. I know he has
+LINE 281: been in mischief by the way he acted when he came home. I can't get a
+LINE 282: word from him; and when I threatened to shake the truth out of him he
+LINE 283: bolted upstairs, and locked himself into his room."
+LINE 284: "He did do wrong, but we forgave him, and all promised not to say a word
+LINE 285: to any one," began Jo reluctantly.
+LINE 286: "That won't do; he shall not shelter himself behind a promise from you
+LINE 287: soft-hearted girls. If he's done anything amiss, he shall confess, beg
+LINE 288: pardon, and be punished. Out with it, Jo, I won't be kept in the dark."
+LINE 289: Mr. Laurence looked so alarming and spoke so sharply that Jo would have
+LINE 290: gladly run away, if she could, but she was perched aloft on the steps,
+LINE 291: and he stood at the foot, a lion in the path, so she had to stay and
+LINE 292: brave it out.
+LINE 293: [Illustration: He stood at the foot, like a lion in the path]
+LINE 294: "Indeed, sir, I cannot tell; mother forbade it. Laurie has confessed,
+LINE 295: asked pardon, and been punished quite enough. We don't keep silence to
+LINE 296: shield him, but some one else, and it will make more trouble if you
+LINE 297: interfere. Please don't; it was partly my fault, but it's all right now;
+LINE 298: so let's forget it, and talk about the 'Rambler,' or something
+LINE 299: pleasant."
+LINE 300: "Hang the 'Rambler!' come down and give me your word that this
+LINE 301: harum-scarum boy of mine hasn't done anything ungrateful or impertinent.
+LINE 302: If he has, after all your kindness to him, I'll thrash him with my own
+LINE 303: hands."
+LINE 304: The threat sounded awful, but did not alarm Jo, for she knew the
+LINE 305: irascible old gentleman would never lift a finger against his grandson,
+LINE 306: whatever he might say to the contrary. She obediently descended, and
+LINE 307: made as light of the prank as she could without betraying Meg or
+LINE 308: forgetting the truth.
+LINE 309: "Hum--ha--well, if the boy held his tongue because he promised, and not
+LINE 310: from obstinacy, I'll forgive him. He's a stubborn fellow, and hard to
+LINE 311: manage," said Mr. Laurence, rubbing up his hair till it looked as if he
+LINE 312: had been out in a gale, and smoothing the frown from his brow with an
+LINE 313: air of relief.
+LINE 314: "So am I; but a kind word will govern me when all the king's horses and
+LINE 315: all the king's men couldn't," said Jo, trying to say a kind word for her
+LINE 316: friend, who seemed to get out of one scrape only to fall into another.
+LINE 317: "You think I'm not kind to him, hey?" was the sharp answer.
+LINE 318: "Oh, dear, no, sir; you are rather too kind sometimes, and then just a
+LINE 319: trifle hasty when he tries your patience. Don't you think you are?"
+LINE 320: Jo was determined to have it out now, and tried to look quite placid,
+LINE 321: though she quaked a little after her bold speech. To her great relief
+LINE 322: and surprise, the old gentleman only threw his spectacles on to the
+LINE 323: table with a rattle, and exclaimed frankly,--
+LINE 324: "You're right, girl, I am! I love the boy, but he tries my patience past
+LINE 325: bearing, and I don't know how it will end, if we go on so."
+LINE 326: "I'll tell you, he'll run away." Jo was sorry for that speech the
+LINE 327: minute it was made; she meant to warn him that Laurie would not bear
+LINE 328: much restraint, and hoped he would be more forbearing with the lad.
+LINE 329: Mr. Laurence's ruddy face changed suddenly, and he sat down, with a
+LINE 330: troubled glance at the picture of a handsome man, which hung over his
+LINE 331: table. It was Laurie's father, who _had_ run away in his youth, and
+LINE 332: married against the imperious old man's will. Jo fancied he remembered
+LINE 333: and regretted the past, and she wished she had held her tongue.
+LINE 334: "He won't do it unless he is very much worried, and only threatens it
+LINE 335: sometimes, when he gets tired of studying. I often think I should like
+LINE 336: to, especially since my hair was cut; so, if you ever miss us, you may
+LINE 337: advertise for two boys, and look among the ships bound for India."
+LINE 338: She laughed as she spoke, and Mr. Laurence looked relieved, evidently
+LINE 339: taking the whole as a joke.
+LINE 340: "You hussy, how dare you talk in that way? Where's your respect for me,
+LINE 341: and your proper bringing up? Bless the boys and girls! What torments
+LINE 342: they are; yet we can't do without them," he said, pinching her cheeks
+LINE 343: good-humoredly. "Go and bring that boy down to his dinner, tell him it's
+LINE 344: all right, and advise him not to put on tragedy airs with his
+LINE 345: grandfather. I won't bear it."
+LINE 346: "He won't come, sir; he feels badly because you didn't believe him when
+LINE 347: he said he couldn't tell. I think the shaking hurt his feelings very
+LINE 348: much."
+LINE 349: Jo tried to look pathetic, but must have failed, for Mr. Laurence began
+LINE 350: to laugh, and she knew the day was won.
+LINE 351: "I'm sorry for that, and ought to thank him for not shaking _me_, I
+LINE 352: suppose. What the dickens does the fellow expect?" and the old gentleman
+LINE 353: looked a trifle ashamed of his own testiness.
+LINE 354: "If I were you, I'd write him an apology, sir. He says he won't come
+LINE 355: down till he has one, and talks about Washington, and goes on in an
+LINE 356: absurd way. A formal apology will make him see how foolish he is, and
+LINE 357: bring him down quite amiable. Try it; he likes fun, and this way is
+LINE 358: better than talking. I'll carry it up, and teach him his duty."
+LINE 359: Mr. Laurence gave her a sharp look, and put on his spectacles, saying
+LINE 360: slowly, "You're a sly puss, but I don't mind being managed by you and
+LINE 361: Beth. Here, give me a bit of paper, and let us have done with this
+LINE 362: nonsense."
+LINE 363: The note was written in the terms which one gentleman would use to
+LINE 364: another after offering some deep insult. Jo dropped a kiss on the top of
+LINE 365: Mr. Laurence's bald head, and ran up to slip the apology under Laurie's
+LINE 366: door, advising him, through the key-hole, to be submissive, decorous,
+LINE 367: and a few other agreeable impossibilities. Finding the door locked
+LINE 368: again, she left the note to do its work, and was going quietly away,
+LINE 369: when the young gentleman slid down the banisters, and waited for her at
+LINE 370: the bottom, saying, with his most virtuous expression of countenance,
+LINE 371: "What a good fellow you are, Jo! Did you get blown up?" he added,
+LINE 372: laughing.
+LINE 373: "No; he was pretty mild, on the whole."
+LINE 374: "Ah! I got it all round; even you cast me off over there, and I felt
+LINE 375: just ready to go to the deuce," he began apologetically.
+LINE 376: "Don't talk in that way; turn over a new leaf and begin again, Teddy, my
+LINE 377: son."
+LINE 378: "I keep turning over new leaves, and spoiling them, as I used to spoil
+LINE 379: my copy-books; and I make so many beginnings there never will be an
+LINE 380: end," he said dolefully.
+LINE 381: "Go and eat your dinner; you'll feel better after it. Men always croak
+LINE 382: when they are hungry," and Jo whisked out at the front door after that.
+LINE 383: "That's a 'label' on my 'sect,'" answered Laurie, quoting Amy, as he
+LINE 384: went to partake of humble-pie dutifully with his grandfather, who was
+LINE 385: quite saintly in temper and overwhelmingly respectful in manner all the
+LINE 386: rest of the day.
+LINE 387: Every one thought the matter ended and the little cloud blown over; but
+LINE 388: the mischief was done, for, though others forgot it, Meg remembered. She
+LINE 389: never alluded to a certain person, but she thought of him a good deal,
+LINE 390: dreamed dreams more than ever; and once Jo, rummaging her sister's desk
+LINE 391: for stamps, found a bit of paper scribbled over with the words, "Mrs.
+LINE 392: John Brooke;" whereat she groaned tragically, and cast it into the fire,
+LINE 393: feeling that Laurie's prank had hastened the evil day for her.
+LINE 394: [Illustration: Beth was soon able to lie on the study sofa all day]

@@ -1,0 +1,256 @@
+LINE 1: The Wimpole Street laboratory. Midnight. Nobody in the room. The clock
+LINE 2: on the mantelpiece strikes twelve. The fire is not alight: it is a
+LINE 3: summer night.
+LINE 4: Presently Higgins and Pickering are heard on the stairs.
+LINE 5: HIGGINS [calling down to Pickering] I say, Pick: lock up, will you. I
+LINE 6: shan't be going out again.
+LINE 7: PICKERING. Right. Can Mrs. Pearce go to bed? We don't want anything
+LINE 8: more, do we?
+LINE 9: HIGGINS. Lord, no!
+LINE 10: Eliza opens the door and is seen on the lighted landing in opera cloak,
+LINE 11: brilliant evening dress, and diamonds, with fan, flowers, and all
+LINE 12: accessories. She comes to the hearth, and switches on the electric
+LINE 13: lights there. She is tired: her pallor contrasts strongly with her dark
+LINE 14: eyes and hair; and her expression is almost tragic. She takes off her
+LINE 15: cloak; puts her fan and flowers on the piano; and sits down on the
+LINE 16: bench, brooding and silent. Higgins, in evening dress, with overcoat
+LINE 17: and hat, comes in, carrying a smoking jacket which he has picked up
+LINE 18: downstairs. He takes off the hat and overcoat; throws them carelessly
+LINE 19: on the newspaper stand; disposes of his coat in the same way; puts on
+LINE 20: the smoking jacket; and throws himself wearily into the easy-chair at
+LINE 21: the hearth. Pickering, similarly attired, comes in. He also takes off
+LINE 22: his hat and overcoat, and is about to throw them on Higgins's when he
+LINE 23: hesitates.
+LINE 24: PICKERING. I say: Mrs. Pearce will row if we leave these things lying
+LINE 25: about in the drawing-room.
+LINE 26: HIGGINS. Oh, chuck them over the bannisters into the hall. She'll find
+LINE 27: them there in the morning and put them away all right. She'll think we
+LINE 28: were drunk.
+LINE 29: PICKERING. We are, slightly. Are there any letters?
+LINE 30: HIGGINS. I didn't look. [Pickering takes the overcoats and hats and
+LINE 31: goes down stairs. Higgins begins half singing half yawning an air from
+LINE 32: La Fanciulla del Golden West. Suddenly he stops and exclaims] I wonder
+LINE 33: where the devil my slippers are!
+LINE 34: Eliza looks at him darkly; then leaves the room.
+LINE 35: Higgins yawns again, and resumes his song. Pickering returns, with the
+LINE 36: contents of the letter-box in his hand.
+LINE 37: PICKERING. Only circulars, and this coroneted billet-doux for you. [He
+LINE 38: throws the circulars into the fender, and posts himself on the
+LINE 39: hearthrug, with his back to the grate].
+LINE 40: HIGGINS [glancing at the billet-doux] Money-lender. [He throws the
+LINE 41: letter after the circulars].
+LINE 42: Eliza returns with a pair of large down-at-heel slippers. She places
+LINE 43: them on the carpet before Higgins, and sits as before without a word.
+LINE 44: HIGGINS [yawning again] Oh Lord! What an evening! What a crew! What a
+LINE 45: silly tomfoollery! [He raises his shoe to unlace it, and catches sight
+LINE 46: of the slippers. He stops unlacing and looks at them as if they had
+LINE 47: appeared there of their own accord]. Oh! they're there, are they?
+LINE 48: PICKERING [stretching himself] Well, I feel a bit tired. It's been a
+LINE 49: long day. The garden party, a dinner party, and the opera! Rather too
+LINE 50: much of a good thing. But you've won your bet, Higgins. Eliza did the
+LINE 51: trick, and something to spare, eh?
+LINE 52: HIGGINS [fervently] Thank God it's over!
+LINE 53: Eliza flinches violently; but they take no notice of her; and she
+LINE 54: recovers herself and sits stonily as before.
+LINE 55: PICKERING. Were you nervous at the garden party? I was. Eliza didn't
+LINE 56: seem a bit nervous.
+LINE 57: HIGGINS. Oh, she wasn't nervous. I knew she'd be all right. No, it's
+LINE 58: the strain of putting the job through all these months that has told on
+LINE 59: me. It was interesting enough at first, while we were at the phonetics;
+LINE 60: but after that I got deadly sick of it. If I hadn't backed myself to do
+LINE 61: it I should have chucked the whole thing up two months ago. It was a
+LINE 62: silly notion: the whole thing has been a bore.
+LINE 63: PICKERING. Oh come! the garden party was frightfully exciting. My heart
+LINE 64: began beating like anything.
+LINE 65: HIGGINS. Yes, for the first three minutes. But when I saw we were going
+LINE 66: to win hands down, I felt like a bear in a cage, hanging about doing
+LINE 67: nothing. The dinner was worse: sitting gorging there for over an hour,
+LINE 68: with nobody but a damned fool of a fashionable woman to talk to! I tell
+LINE 69: you, Pickering, never again for me. No more artificial duchesses. The
+LINE 70: whole thing has been simple purgatory.
+LINE 71: PICKERING. You've never been broken in properly to the social routine.
+LINE 72: [Strolling over to the piano] I rather enjoy dipping into it
+LINE 73: occasionally myself: it makes me feel young again. Anyhow, it was a
+LINE 74: great success: an immense success. I was quite frightened once or twice
+LINE 75: because Eliza was doing it so well. You see, lots of the real people
+LINE 76: can't do it at all: they're such fools that they think style comes by
+LINE 77: nature to people in their position; and so they never learn. There's
+LINE 78: always something professional about doing a thing superlatively well.
+LINE 79: HIGGINS. Yes: that's what drives me mad: the silly people don't know
+LINE 80: their own silly business. [Rising] However, it's over and done with;
+LINE 81: and now I can go to bed at last without dreading tomorrow.
+LINE 82: Eliza's beauty becomes murderous.
+LINE 83: PICKERING. I think I shall turn in too. Still, it's been a great
+LINE 84: occasion: a triumph for you. Good-night. [He goes].
+LINE 85: HIGGINS [following him] Good-night. [Over his shoulder, at the door]
+LINE 86: Put out the lights, Eliza; and tell Mrs. Pearce not to make coffee for
+LINE 87: me in the morning: I'll take tea. [He goes out].
+LINE 88: Eliza tries to control herself and feel indifferent as she rises and
+LINE 89: walks across to the hearth to switch off the lights. By the time she
+LINE 90: gets there she is on the point of screaming. She sits down in Higgins's
+LINE 91: chair and holds on hard to the arms. Finally she gives way and flings
+LINE 92: herself furiously on the floor raging.
+LINE 93: HIGGINS [in despairing wrath outside] What the devil have I done with
+LINE 94: my slippers? [He appears at the door].
+LINE 95: LIZA [snatching up the slippers, and hurling them at him one after the
+LINE 96: other with all her force] There are your slippers. And there. Take your
+LINE 97: slippers; and may you never have a day's luck with them!
+LINE 98: HIGGINS [astounded] What on earth—! [He comes to her]. What's the
+LINE 99: matter? Get up. [He pulls her up]. Anything wrong?
+LINE 100: LIZA [breathless] Nothing wrong—with YOU. I've won your bet for you,
+LINE 101: haven't I? That's enough for you. _I_ don't matter, I suppose.
+LINE 102: HIGGINS. YOU won my bet! You! Presumptuous insect! _I_ won it. What did
+LINE 103: you throw those slippers at me for?
+LINE 104: LIZA. Because I wanted to smash your face. I'd like to kill you, you
+LINE 105: selfish brute. Why didn't you leave me where you picked me out of—in
+LINE 106: the gutter? You thank God it's all over, and that now you can throw me
+LINE 107: back again there, do you? [She crisps her fingers, frantically].
+LINE 108: HIGGINS [looking at her in cool wonder] The creature IS nervous, after
+LINE 109: all.
+LINE 110: LIZA [gives a suffocated scream of fury, and instinctively darts her
+LINE 111: nails at his face]!!
+LINE 112: HIGGINS [catching her wrists] Ah! would you? Claws in, you cat. How
+LINE 113: dare you show your temper to me? Sit down and be quiet. [He throws her
+LINE 114: roughly into the easy-chair].
+LINE 115: LIZA [crushed by superior strength and weight] What's to become of me?
+LINE 116: What's to become of me?
+LINE 117: HIGGINS. How the devil do I know what's to become of you? What does it
+LINE 118: matter what becomes of you?
+LINE 119: LIZA. You don't care. I know you don't care. You wouldn't care if I was
+LINE 120: dead. I'm nothing to you—not so much as them slippers.
+LINE 121: HIGGINS [thundering] THOSE slippers.
+LINE 122: LIZA [with bitter submission] Those slippers. I didn't think it made
+LINE 123: any difference now.
+LINE 124: A pause. Eliza hopeless and crushed. Higgins a little uneasy.
+LINE 125: HIGGINS [in his loftiest manner] Why have you begun going on like this?
+LINE 126: May I ask whether you complain of your treatment here?
+LINE 127: LIZA. No.
+LINE 128: HIGGINS. Has anybody behaved badly to you? Colonel Pickering? Mrs.
+LINE 129: Pearce? Any of the servants?
+LINE 130: LIZA. No.
+LINE 131: HIGGINS. I presume you don't pretend that I have treated you badly.
+LINE 132: LIZA. No.
+LINE 133: HIGGINS. I am glad to hear it. [He moderates his tone]. Perhaps you're
+LINE 134: tired after the strain of the day. Will you have a glass of champagne?
+LINE 135: [He moves towards the door].
+LINE 136: LIZA. No. [Recollecting her manners] Thank you.
+LINE 137: HIGGINS [good-humored again] This has been coming on you for some days.
+LINE 138: I suppose it was natural for you to be anxious about the garden party.
+LINE 139: But that's all over now. [He pats her kindly on the shoulder. She
+LINE 140: writhes]. There's nothing more to worry about.
+LINE 141: LIZA. No. Nothing more for you to worry about. [She suddenly rises and
+LINE 142: gets away from him by going to the piano bench, where she sits and
+LINE 143: hides her face]. Oh God! I wish I was dead.
+LINE 144: HIGGINS [staring after her in sincere surprise] Why? in heaven's name,
+LINE 145: why? [Reasonably, going to her] Listen to me, Eliza. All this
+LINE 146: irritation is purely subjective.
+LINE 147: LIZA. I don't understand. I'm too ignorant.
+LINE 148: HIGGINS. It's only imagination. Low spirits and nothing else. Nobody's
+LINE 149: hurting you. Nothing's wrong. You go to bed like a good girl and sleep
+LINE 150: it off. Have a little cry and say your prayers: that will make you
+LINE 151: comfortable.
+LINE 152: LIZA. I heard YOUR prayers. "Thank God it's all over!"
+LINE 153: HIGGINS [impatiently] Well, don't you thank God it's all over? Now you
+LINE 154: are free and can do what you like.
+LINE 155: LIZA [pulling herself together in desperation] What am I fit for? What
+LINE 156: have you left me fit for? Where am I to go? What am I to do? What's to
+LINE 157: become of me?
+LINE 158: HIGGINS [enlightened, but not at all impressed] Oh, that's what's
+LINE 159: worrying you, is it? [He thrusts his hands into his pockets, and walks
+LINE 160: about in his usual manner, rattling the contents of his pockets, as if
+LINE 161: condescending to a trivial subject out of pure kindness]. I shouldn't
+LINE 162: bother about it if I were you. I should imagine you won't have much
+LINE 163: difficulty in settling yourself, somewhere or other, though I hadn't
+LINE 164: quite realized that you were going away. [She looks quickly at him: he
+LINE 165: does not look at her, but examines the dessert stand on the piano and
+LINE 166: decides that he will eat an apple]. You might marry, you know. [He
+LINE 167: bites a large piece out of the apple, and munches it noisily]. You see,
+LINE 168: Eliza, all men are not confirmed old bachelors like me and the Colonel.
+LINE 169: Most men are the marrying sort (poor devils!); and you're not
+LINE 170: bad-looking; it's quite a pleasure to look at you sometimes—not now,
+LINE 171: of course, because you're crying and looking as ugly as the very devil;
+LINE 172: but when you're all right and quite yourself, you're what I should call
+LINE 173: attractive. That is, to the people in the marrying line, you
+LINE 174: understand. You go to bed and have a good nice rest; and then get up
+LINE 175: and look at yourself in the glass; and you won't feel so cheap.
+LINE 176: Eliza again looks at him, speechless, and does not stir.
+LINE 177: The look is quite lost on him: he eats his apple with a dreamy
+LINE 178: expression of happiness, as it is quite a good one.
+LINE 179: HIGGINS [a genial afterthought occurring to him] I daresay my mother
+LINE 180: could find some chap or other who would do very well—
+LINE 181: LIZA. We were above that at the corner of Tottenham Court Road.
+LINE 182: HIGGINS [waking up] What do you mean?
+LINE 183: LIZA. I sold flowers. I didn't sell myself. Now you've made a lady of
+LINE 184: me I'm not fit to sell anything else. I wish you'd left me where you
+LINE 185: found me.
+LINE 186: HIGGINS [slinging the core of the apple decisively into the grate]
+LINE 187: Tosh, Eliza. Don't you insult human relations by dragging all this cant
+LINE 188: about buying and selling into it. You needn't marry the fellow if you
+LINE 189: don't like him.
+LINE 190: LIZA. What else am I to do?
+LINE 191: HIGGINS. Oh, lots of things. What about your old idea of a florist's
+LINE 192: shop? Pickering could set you up in one: he's lots of money.
+LINE 193: [Chuckling] He'll have to pay for all those togs you have been wearing
+LINE 194: today; and that, with the hire of the jewellery, will make a big hole
+LINE 195: in two hundred pounds. Why, six months ago you would have thought it
+LINE 196: the millennium to have a flower shop of your own. Come! you'll be all
+LINE 197: right. I must clear off to bed: I'm devilish sleepy. By the way, I came
+LINE 198: down for something: I forget what it was.
+LINE 199: LIZA. Your slippers.
+LINE 200: HIGGINS. Oh yes, of course. You shied them at me. [He picks them up,
+LINE 201: and is going out when she rises and speaks to him].
+LINE 202: LIZA. Before you go, sir—
+LINE 203: HIGGINS [dropping the slippers in his surprise at her calling him sir]
+LINE 204: Eh?
+LINE 205: LIZA. Do my clothes belong to me or to Colonel Pickering?
+LINE 206: HIGGINS [coming back into the room as if her question were the very
+LINE 207: climax of unreason] What the devil use would they be to Pickering?
+LINE 208: LIZA. He might want them for the next girl you pick up to experiment on.
+LINE 209: HIGGINS [shocked and hurt] Is THAT the way you feel towards us?
+LINE 210: LIZA. I don't want to hear anything more about that. All I want to know
+LINE 211: is whether anything belongs to me. My own clothes were burnt.
+LINE 212: HIGGINS. But what does it matter? Why need you start bothering about
+LINE 213: that in the middle of the night?
+LINE 214: LIZA. I want to know what I may take away with me. I don't want to be
+LINE 215: accused of stealing.
+LINE 216: HIGGINS [now deeply wounded] Stealing! You shouldn't have said that,
+LINE 217: Eliza. That shows a want of feeling.
+LINE 218: LIZA. I'm sorry. I'm only a common ignorant girl; and in my station I
+LINE 219: have to be careful. There can't be any feelings between the like of you
+LINE 220: and the like of me. Please will you tell me what belongs to me and what
+LINE 221: doesn't?
+LINE 222: HIGGINS [very sulky] You may take the whole damned houseful if you
+LINE 223: like. Except the jewels. They're hired. Will that satisfy you? [He
+LINE 224: turns on his heel and is about to go in extreme dudgeon].
+LINE 225: LIZA [drinking in his emotion like nectar, and nagging him to provoke a
+LINE 226: further supply] Stop, please. [She takes off her jewels]. Will you take
+LINE 227: these to your room and keep them safe? I don't want to run the risk of
+LINE 228: their being missing.
+LINE 229: HIGGINS [furious] Hand them over. [She puts them into his hands]. If
+LINE 230: these belonged to me instead of to the jeweler, I'd ram them down your
+LINE 231: ungrateful throat. [He perfunctorily thrusts them into his pockets,
+LINE 232: unconsciously decorating himself with the protruding ends of the
+LINE 233: chains].
+LINE 234: LIZA [taking a ring off] This ring isn't the jeweler's: it's the one
+LINE 235: you bought me in Brighton. I don't want it now. [Higgins dashes the
+LINE 236: ring violently into the fireplace, and turns on her so threateningly
+LINE 237: that she crouches over the piano with her hands over her face, and
+LINE 238: exclaims] Don't you hit me.
+LINE 239: HIGGINS. Hit you! You infamous creature, how dare you accuse me of such
+LINE 240: a thing? It is you who have hit me. You have wounded me to the heart.
+LINE 241: LIZA [thrilling with hidden joy] I'm glad. I've got a little of my own
+LINE 242: back, anyhow.
+LINE 243: HIGGINS [with dignity, in his finest professional style] You have
+LINE 244: caused me to lose my temper: a thing that has hardly ever happened to
+LINE 245: me before. I prefer to say nothing more tonight. I am going to bed.
+LINE 246: LIZA [pertly] You'd better leave a note for Mrs. Pearce about the
+LINE 247: coffee; for she won't be told by me.
+LINE 248: HIGGINS [formally] Damn Mrs. Pearce; and damn the coffee; and damn you;
+LINE 249: and damn my own folly in having lavished MY hard-earned knowledge and
+LINE 250: the treasure of my regard and intimacy on a heartless guttersnipe. [He
+LINE 251: goes out with impressive decorum, and spoils it by slamming the door
+LINE 252: savagely].
+LINE 253: Eliza smiles for the first time; expresses her feelings by a wild
+LINE 254: pantomime in which an imitation of Higgins's exit is confused with her
+LINE 255: own triumph; and finally goes down on her knees on the hearthrug to
+LINE 256: look for the ring.

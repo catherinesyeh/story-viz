@@ -1,0 +1,311 @@
+LINE 1: DEAR ME, there is nothing but meetings and partings in this world, as
+LINE 2: Mrs. Lynde says," remarked Anne plaintively, putting her slate and books
+LINE 3: down on the kitchen table on the last day of June and wiping her red
+LINE 4: eyes with a very damp handkerchief. "Wasn't it fortunate, Marilla, that
+LINE 5: I took an extra handkerchief to school today? I had a presentiment that
+LINE 6: it would be needed."
+LINE 7: "I never thought you were so fond of Mr. Phillips that you'd require two
+LINE 8: handkerchiefs to dry your tears just because he was going away," said
+LINE 9: Marilla.
+LINE 10: "I don't think I was crying because I was really so very fond of him,"
+LINE 11: reflected Anne. "I just cried because all the others did. It was
+LINE 12: Ruby Gillis started it. Ruby Gillis has always declared she hated Mr.
+LINE 13: Phillips, but just as soon as he got up to make his farewell speech she
+LINE 14: burst into tears. Then all the girls began to cry, one after the other.
+LINE 15: I tried to hold out, Marilla. I tried to remember the time Mr. Phillips
+LINE 16: made me sit with Gil--with a boy; and the time he spelled my name
+LINE 17: without an 'e' on the blackboard; and how he said I was the worst dunce
+LINE 18: he ever saw at geometry and laughed at my spelling; and all the times he
+LINE 19: had been so horrid and sarcastic; but somehow I couldn't, Marilla, and I
+LINE 20: just had to cry too. Jane Andrews has been talking for a month about how
+LINE 21: glad she'd be when Mr. Phillips went away and she declared she'd never
+LINE 22: shed a tear. Well, she was worse than any of us and had to borrow a
+LINE 23: handkerchief from her brother--of course the boys didn't cry--because
+LINE 24: she hadn't brought one of her own, not expecting to need it. Oh,
+LINE 25: Marilla, it was heartrending. Mr. Phillips made such a beautiful
+LINE 26: farewell speech beginning, 'The time has come for us to part.' It was
+LINE 27: very affecting. And he had tears in his eyes too, Marilla. Oh, I felt
+LINE 28: dreadfully sorry and remorseful for all the times I'd talked in school
+LINE 29: and drawn pictures of him on my slate and made fun of him and Prissy.
+LINE 30: I can tell you I wished I'd been a model pupil like Minnie Andrews. She
+LINE 31: hadn't anything on her conscience. The girls cried all the way home from
+LINE 32: school. Carrie Sloane kept saying every few minutes, 'The time has come
+LINE 33: for us to part,' and that would start us off again whenever we were in
+LINE 34: any danger of cheering up. I do feel dreadfully sad, Marilla. But one
+LINE 35: can't feel quite in the depths of despair with two months' vacation
+LINE 36: before them, can they, Marilla? And besides, we met the new minister and
+LINE 37: his wife coming from the station. For all I was feeling so bad about Mr.
+LINE 38: Phillips going away I couldn't help taking a little interest in a new
+LINE 39: minister, could I? His wife is very pretty. Not exactly regally lovely,
+LINE 40: of course--it wouldn't do, I suppose, for a minister to have a regally
+LINE 41: lovely wife, because it might set a bad example. Mrs. Lynde says the
+LINE 42: minister's wife over at Newbridge sets a very bad example because she
+LINE 43: dresses so fashionably. Our new minister's wife was dressed in blue
+LINE 44: muslin with lovely puffed sleeves and a hat trimmed with roses.
+LINE 45: Jane Andrews said she thought puffed sleeves were too worldly for
+LINE 46: a minister's wife, but I didn't make any such uncharitable remark,
+LINE 47: Marilla, because I know what it is to long for puffed sleeves. Besides,
+LINE 48: she's only been a minister's wife for a little while, so one should
+LINE 49: make allowances, shouldn't they? They are going to board with Mrs. Lynde
+LINE 50: until the manse is ready."
+LINE 51: If Marilla, in going down to Mrs. Lynde's that evening, was actuated by
+LINE 52: any motive save her avowed one of returning the quilting frames she had
+LINE 53: borrowed the preceding winter, it was an amiable weakness shared by most
+LINE 54: of the Avonlea people. Many a thing Mrs. Lynde had lent, sometimes
+LINE 55: never expecting to see it again, came home that night in charge of the
+LINE 56: borrowers thereof. A new minister, and moreover a minister with a wife,
+LINE 57: was a lawful object of curiosity in a quiet little country settlement
+LINE 58: where sensations were few and far between.
+LINE 59: Old Mr. Bentley, the minister whom Anne had found lacking in
+LINE 60: imagination, had been pastor of Avonlea for eighteen years. He was a
+LINE 61: widower when he came, and a widower he remained, despite the fact that
+LINE 62: gossip regularly married him to this, that, or the other one, every year
+LINE 63: of his sojourn. In the preceding February he had resigned his charge and
+LINE 64: departed amid the regrets of his people, most of whom had the affection
+LINE 65: born of long intercourse for their good old minister in spite of his
+LINE 66: shortcomings as an orator. Since then the Avonlea church had enjoyed a
+LINE 67: variety of religious dissipation in listening to the many and various
+LINE 68: candidates and "supplies" who came Sunday after Sunday to preach on
+LINE 69: trial. These stood or fell by the judgment of the fathers and mothers
+LINE 70: in Israel; but a certain small, red-haired girl who sat meekly in the
+LINE 71: corner of the old Cuthbert pew also had her opinions about them and
+LINE 72: discussed the same in full with Matthew, Marilla always declining from
+LINE 73: principle to criticize ministers in any shape or form.
+LINE 74: "I don't think Mr. Smith would have done, Matthew" was Anne's final
+LINE 75: summing up. "Mrs. Lynde says his delivery was so poor, but I think his
+LINE 76: worst fault was just like Mr. Bentley's--he had no imagination. And Mr.
+LINE 77: Terry had too much; he let it run away with him just as I did mine in
+LINE 78: the matter of the Haunted Wood. Besides, Mrs. Lynde says his theology
+LINE 79: wasn't sound. Mr. Gresham was a very good man and a very religious man,
+LINE 80: but he told too many funny stories and made the people laugh in church;
+LINE 81: he was undignified, and you must have some dignity about a minister,
+LINE 82: mustn't you, Matthew? I thought Mr. Marshall was decidedly attractive;
+LINE 83: but Mrs. Lynde says he isn't married, or even engaged, because she made
+LINE 84: special inquiries about him, and she says it would never do to have
+LINE 85: a young unmarried minister in Avonlea, because he might marry in the
+LINE 86: congregation and that would make trouble. Mrs. Lynde is a very farseeing
+LINE 87: woman, isn't she, Matthew? I'm very glad they've called Mr. Allan. I
+LINE 88: liked him because his sermon was interesting and he prayed as if he
+LINE 89: meant it and not just as if he did it because he was in the habit of it.
+LINE 90: Mrs. Lynde says he isn't perfect, but she says she supposes we couldn't
+LINE 91: expect a perfect minister for seven hundred and fifty dollars a year,
+LINE 92: and anyhow his theology is sound because she questioned him thoroughly
+LINE 93: on all the points of doctrine. And she knows his wife's people and they
+LINE 94: are most respectable and the women are all good housekeepers. Mrs. Lynde
+LINE 95: says that sound doctrine in the man and good housekeeping in the woman
+LINE 96: make an ideal combination for a minister's family."
+LINE 97: The new minister and his wife were a young, pleasant-faced couple, still
+LINE 98: on their honeymoon, and full of all good and beautiful enthusiasms for
+LINE 99: their chosen lifework. Avonlea opened its heart to them from the start.
+LINE 100: Old and young liked the frank, cheerful young man with his high ideals,
+LINE 101: and the bright, gentle little lady who assumed the mistress-ship of the
+LINE 102: manse. With Mrs. Allan Anne fell promptly and wholeheartedly in love.
+LINE 103: She had discovered another kindred spirit.
+LINE 104: "Mrs. Allan is perfectly lovely," she announced one Sunday afternoon.
+LINE 105: "She's taken our class and she's a splendid teacher. She said right away
+LINE 106: she didn't think it was fair for the teacher to ask all the questions,
+LINE 107: and you know, Marilla, that is exactly what I've always thought. She
+LINE 108: said we could ask her any question we liked and I asked ever so many.
+LINE 109: I'm good at asking questions, Marilla."
+LINE 110: "I believe you," was Marilla's emphatic comment.
+LINE 111: "Nobody else asked any except Ruby Gillis, and she asked if there was
+LINE 112: to be a Sunday-school picnic this summer. I didn't think that was a
+LINE 113: very proper question to ask because it hadn't any connection with the
+LINE 114: lesson--the lesson was about Daniel in the lions' den--but Mrs. Allan
+LINE 115: just smiled and said she thought there would be. Mrs. Allan has a
+LINE 116: lovely smile; she has such _exquisite_ dimples in her cheeks. I wish I had
+LINE 117: dimples in my cheeks, Marilla. I'm not half so skinny as I was when I
+LINE 118: came here, but I have no dimples yet. If I had perhaps I could influence
+LINE 119: people for good. Mrs. Allan said we ought always to try to influence
+LINE 120: other people for good. She talked so nice about everything. I never knew
+LINE 121: before that religion was such a cheerful thing. I always thought it
+LINE 122: was kind of melancholy, but Mrs. Allan's isn't, and I'd like to be a
+LINE 123: Christian if I could be one like her. I wouldn't want to be one like Mr.
+LINE 124: Superintendent Bell."
+LINE 125: "It's very naughty of you to speak so about Mr. Bell," said Marilla
+LINE 126: severely. "Mr. Bell is a real good man."
+LINE 127: "Oh, of course he's good," agreed Anne, "but he doesn't seem to get any
+LINE 128: comfort out of it. If I could be good I'd dance and sing all day because
+LINE 129: I was glad of it. I suppose Mrs. Allan is too old to dance and sing and
+LINE 130: of course it wouldn't be dignified in a minister's wife. But I can just
+LINE 131: feel she's glad she's a Christian and that she'd be one even if she
+LINE 132: could get to heaven without it."
+LINE 133: "I suppose we must have Mr. and Mrs. Allan up to tea someday soon," said
+LINE 134: Marilla reflectively. "They've been most everywhere but here. Let me
+LINE 135: see. Next Wednesday would be a good time to have them. But don't say a
+LINE 136: word to Matthew about it, for if he knew they were coming he'd find some
+LINE 137: excuse to be away that day. He'd got so used to Mr. Bentley he didn't
+LINE 138: mind him, but he's going to find it hard to get acquainted with a new
+LINE 139: minister, and a new minister's wife will frighten him to death."
+LINE 140: "I'll be as secret as the dead," assured Anne. "But oh, Marilla, will
+LINE 141: you let me make a cake for the occasion? I'd love to do something for
+LINE 142: Mrs. Allan, and you know I can make a pretty good cake by this time."
+LINE 143: "You can make a layer cake," promised Marilla.
+LINE 144: Monday and Tuesday great preparations went on at Green Gables.
+LINE 145: Having the minister and his wife to tea was a serious and important
+LINE 146: undertaking, and Marilla was determined not to be eclipsed by any of
+LINE 147: the Avonlea housekeepers. Anne was wild with excitement and delight. She
+LINE 148: talked it all over with Diana Tuesday night in the twilight, as they
+LINE 149: sat on the big red stones by the Dryad's Bubble and made rainbows in the
+LINE 150: water with little twigs dipped in fir balsam.
+LINE 151: "Everything is ready, Diana, except my cake which I'm to make in the
+LINE 152: morning, and the baking-powder biscuits which Marilla will make just
+LINE 153: before teatime. I assure you, Diana, that Marilla and I have had a busy
+LINE 154: two days of it. It's such a responsibility having a minister's family to
+LINE 155: tea. I never went through such an experience before. You should just see
+LINE 156: our pantry. It's a sight to behold. We're going to have jellied chicken
+LINE 157: and cold tongue. We're to have two kinds of jelly, red and yellow, and
+LINE 158: whipped cream and lemon pie, and cherry pie, and three kinds of cookies,
+LINE 159: and fruit cake, and Marilla's famous yellow plum preserves that she
+LINE 160: keeps especially for ministers, and pound cake and layer cake, and
+LINE 161: biscuits as aforesaid; and new bread and old both, in case the minister
+LINE 162: is dyspeptic and can't eat new. Mrs. Lynde says ministers are dyspeptic,
+LINE 163: but I don't think Mr. Allan has been a minister long enough for it to
+LINE 164: have had a bad effect on him. I just grow cold when I think of my layer
+LINE 165: cake. Oh, Diana, what if it shouldn't be good! I dreamed last night that
+LINE 166: I was chased all around by a fearful goblin with a big layer cake for a
+LINE 167: head."
+LINE 168: "It'll be good, all right," assured Diana, who was a very comfortable
+LINE 169: sort of friend. "I'm sure that piece of the one you made that we had for
+LINE 170: lunch in Idlewild two weeks ago was perfectly elegant."
+LINE 171: "Yes; but cakes have such a terrible habit of turning out bad just
+LINE 172: when you especially want them to be good," sighed Anne, setting a
+LINE 173: particularly well-balsamed twig afloat. "However, I suppose I shall
+LINE 174: just have to trust to Providence and be careful to put in the flour. Oh,
+LINE 175: look, Diana, what a lovely rainbow! Do you suppose the dryad will come
+LINE 176: out after we go away and take it for a scarf?"
+LINE 177: "You know there is no such thing as a dryad," said Diana. Diana's mother
+LINE 178: had found out about the Haunted Wood and had been decidedly angry over
+LINE 179: it. As a result Diana had abstained from any further imitative flights
+LINE 180: of imagination and did not think it prudent to cultivate a spirit of
+LINE 181: belief even in harmless dryads.
+LINE 182: "But it's so easy to imagine there is," said Anne. "Every night before
+LINE 183: I go to bed, I look out of my window and wonder if the dryad is really
+LINE 184: sitting here, combing her locks with the spring for a mirror. Sometimes
+LINE 185: I look for her footprints in the dew in the morning. Oh, Diana, don't
+LINE 186: give up your faith in the dryad!"
+LINE 187: Wednesday morning came. Anne got up at sunrise because she was too
+LINE 188: excited to sleep. She had caught a severe cold in the head by reason of
+LINE 189: her dabbling in the spring on the preceding evening; but nothing short
+LINE 190: of absolute pneumonia could have quenched her interest in culinary
+LINE 191: matters that morning. After breakfast she proceeded to make her cake.
+LINE 192: When she finally shut the oven door upon it she drew a long breath.
+LINE 193: "I'm sure I haven't forgotten anything this time, Marilla. But do you
+LINE 194: think it will rise? Just suppose perhaps the baking powder isn't good? I
+LINE 195: used it out of the new can. And Mrs. Lynde says you can never be sure of
+LINE 196: getting good baking powder nowadays when everything is so adulterated.
+LINE 197: Mrs. Lynde says the Government ought to take the matter up, but she says
+LINE 198: we'll never see the day when a Tory Government will do it. Marilla, what
+LINE 199: if that cake doesn't rise?"
+LINE 200: "We'll have plenty without it" was Marilla's unimpassioned way of
+LINE 201: looking at the subject.
+LINE 202: The cake did rise, however, and came out of the oven as light and
+LINE 203: feathery as golden foam. Anne, flushed with delight, clapped it together
+LINE 204: with layers of ruby jelly and, in imagination, saw Mrs. Allan eating it
+LINE 205: and possibly asking for another piece!
+LINE 206: "You'll be using the best tea set, of course, Marilla," she said. "Can I
+LINE 207: fix the table with ferns and wild roses?"
+LINE 208: "I think that's all nonsense," sniffed Marilla. "In my opinion it's the
+LINE 209: eatables that matter and not flummery decorations."
+LINE 210: "Mrs. Barry had _her_ table decorated," said Anne, who was not entirely
+LINE 211: guiltless of the wisdom of the serpent, "and the minister paid her an
+LINE 212: elegant compliment. He said it was a feast for the eye as well as the
+LINE 213: palate."
+LINE 214: "Well, do as you like," said Marilla, who was quite determined not to
+LINE 215: be surpassed by Mrs. Barry or anybody else. "Only mind you leave enough
+LINE 216: room for the dishes and the food."
+LINE 217: Anne laid herself out to decorate in a manner and after a fashion that
+LINE 218: should leave Mrs. Barry's nowhere. Having abundance of roses and ferns
+LINE 219: and a very artistic taste of her own, she made that tea table such a
+LINE 220: thing of beauty that when the minister and his wife sat down to it they
+LINE 221: exclaimed in chorus over it loveliness.
+LINE 222: "It's Anne's doings," said Marilla, grimly just; and Anne felt that Mrs.
+LINE 223: Allan's approving smile was almost too much happiness for this world.
+LINE 224: Matthew was there, having been inveigled into the party only goodness
+LINE 225: and Anne knew how. He had been in such a state of shyness and
+LINE 226: nervousness that Marilla had given him up in despair, but Anne took him
+LINE 227: in hand so successfully that he now sat at the table in his best clothes
+LINE 228: and white collar and talked to the minister not uninterestingly.
+LINE 229: He never said a word to Mrs. Allan, but that perhaps was not to be
+LINE 230: expected.
+LINE 231: All went merry as a marriage bell until Anne's layer cake was passed.
+LINE 232: Mrs. Allan, having already been helped to a bewildering variety,
+LINE 233: declined it. But Marilla, seeing the disappointment on Anne's face, said
+LINE 234: smilingly:
+LINE 235: "Oh, you must take a piece of this, Mrs. Allan. Anne made it on purpose
+LINE 236: for you."
+LINE 237: "In that case I must sample it," laughed Mrs. Allan, helping herself to
+LINE 238: a plump triangle, as did also the minister and Marilla.
+LINE 239: Mrs. Allan took a mouthful of hers and a most peculiar expression
+LINE 240: crossed her face; not a word did she say, however, but steadily ate away
+LINE 241: at it. Marilla saw the expression and hastened to taste the cake.
+LINE 242: "Anne Shirley!" she exclaimed, "what on earth did you put into that
+LINE 243: cake?"
+LINE 244: "Nothing but what the recipe said, Marilla," cried Anne with a look of
+LINE 245: anguish. "Oh, isn't it all right?"
+LINE 246: "All right! It's simply horrible. Mr. Allan, don't try to eat it. Anne,
+LINE 247: taste it yourself. What flavoring did you use?"
+LINE 248: "Vanilla," said Anne, her face scarlet with mortification after tasting
+LINE 249: the cake. "Only vanilla. Oh, Marilla, it must have been the baking
+LINE 250: powder. I had my suspicions of that bak--"
+LINE 251: "Baking powder fiddlesticks! Go and bring me the bottle of vanilla you
+LINE 252: used."
+LINE 253: Anne fled to the pantry and returned with a small bottle partially
+LINE 254: filled with a brown liquid and labeled yellowly, "Best Vanilla."
+LINE 255: Marilla took it, uncorked it, smelled it.
+LINE 256: "Mercy on us, Anne, you've flavored that cake with _Anodyne Liniment_. I
+LINE 257: broke the liniment bottle last week and poured what was left into an
+LINE 258: old empty vanilla bottle. I suppose it's partly my fault--I should have
+LINE 259: warned you--but for pity's sake why couldn't you have smelled it?"
+LINE 260: Anne dissolved into tears under this double disgrace.
+LINE 261: "I couldn't--I had such a cold!" and with this she fairly fled to the
+LINE 262: gable chamber, where she cast herself on the bed and wept as one who
+LINE 263: refuses to be comforted.
+LINE 264: Presently a light step sounded on the stairs and somebody entered the
+LINE 265: room.
+LINE 266: "Oh, Marilla," sobbed Anne, without looking up, "I'm disgraced forever.
+LINE 267: I shall never be able to live this down. It will get out--things always
+LINE 268: do get out in Avonlea. Diana will ask me how my cake turned out and I
+LINE 269: shall have to tell her the truth. I shall always be pointed at as the
+LINE 270: girl who flavored a cake with anodyne liniment. Gil--the boys in school
+LINE 271: will never get over laughing at it. Oh, Marilla, if you have a spark
+LINE 272: of Christian pity don't tell me that I must go down and wash the dishes
+LINE 273: after this. I'll wash them when the minister and his wife are gone, but
+LINE 274: I cannot ever look Mrs. Allan in the face again. Perhaps she'll think I
+LINE 275: tried to poison her. Mrs. Lynde says she knows an orphan girl who tried
+LINE 276: to poison her benefactor. But the liniment isn't poisonous. It's meant
+LINE 277: to be taken internally--although not in cakes. Won't you tell Mrs. Allan
+LINE 278: so, Marilla?"
+LINE 279: "Suppose you jump up and tell her so yourself," said a merry voice.
+LINE 280: Anne flew up, to find Mrs. Allan standing by her bed, surveying her with
+LINE 281: laughing eyes.
+LINE 282: "My dear little girl, you mustn't cry like this," she said, genuinely
+LINE 283: disturbed by Anne's tragic face. "Why, it's all just a funny mistake
+LINE 284: that anybody might make."
+LINE 285: "Oh, no, it takes me to make such a mistake," said Anne forlornly. "And
+LINE 286: I wanted to have that cake so nice for you, Mrs. Allan."
+LINE 287: "Yes, I know, dear. And I assure you I appreciate your kindness and
+LINE 288: thoughtfulness just as much as if it had turned out all right. Now,
+LINE 289: you mustn't cry any more, but come down with me and show me your flower
+LINE 290: garden. Miss Cuthbert tells me you have a little plot all your own. I
+LINE 291: want to see it, for I'm very much interested in flowers."
+LINE 292: Anne permitted herself to be led down and comforted, reflecting that it
+LINE 293: was really providential that Mrs. Allan was a kindred spirit. Nothing
+LINE 294: more was said about the liniment cake, and when the guests went away
+LINE 295: Anne found that she had enjoyed the evening more than could have been
+LINE 296: expected, considering that terrible incident. Nevertheless, she sighed
+LINE 297: deeply.
+LINE 298: "Marilla, isn't it nice to think that tomorrow is a new day with no
+LINE 299: mistakes in it yet?"
+LINE 300: "I'll warrant you'll make plenty in it," said Marilla. "I never saw your
+LINE 301: beat for making mistakes, Anne."
+LINE 302: "Yes, and well I know it," admitted Anne mournfully. "But have you ever
+LINE 303: noticed one encouraging thing about me, Marilla? I never make the same
+LINE 304: mistake twice."
+LINE 305: "I don't know as that's much benefit when you're always making new
+LINE 306: ones."
+LINE 307: "Oh, don't you see, Marilla? There must be a limit to the mistakes one
+LINE 308: person can make, and when I get to the end of them, then I'll be through
+LINE 309: with them. That's a very comforting thought."
+LINE 310: "Well, you'd better go and give that cake to the pigs," said Marilla.
+LINE 311: "It isn't fit for any human to eat, not even Jerry Boute."

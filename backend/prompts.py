@@ -85,10 +85,20 @@ class SceneThemes(BaseModel):
     characters: list[SceneTheme] = Field(
         description="List of themes and their ratings in this scene")
 
+# FINDING CHAPTER TO ANSWER QUESTION
+
+
+class ChapterAnswer(BaseModel):
+    """Assigns a chapter to answer a question"""
+    chapter: str = Field(
+        description="The chapter that contains the answer to the question")
+    explanation: str = Field(
+        description="Brief explanation of why this chapter contains the answer to the question")
+
 # Assign values to characters for the given attribute
 
 
-async def assign_character_attributes_async(llm, charData, attr, story_type):
+async def assign_character_attributes_async(llm, charData, attr, palette_info, story_type):
     char_llm = llm.with_structured_output(
         CharacterAttributes if story_type == "character" else ThemeAttributes)
 
@@ -154,8 +164,10 @@ async def assign_character_attributes_async(llm, charData, attr, story_type):
 
     # generate colors for each unique attribute value
     color_llm = llm.with_structured_output(ColorAssignments)
+    palette_prompt = f"""Choose colors based on this palette: {palette_info}."""
     color_prompt = f"""
             Assign a color for each unique value of the attribute: "{attr}".
+            {palette_prompt if palette_info else ""}
 
             Unique attribute values:
             {unique_attrs}
@@ -182,8 +194,8 @@ async def assign_character_attributes_async(llm, charData, attr, story_type):
 # Wrapper function for async character attribute function
 
 
-def assign_character_attributes(llm, charData, attr, story_type):
-    return asyncio.run(assign_character_attributes_async(llm, charData, attr, story_type))
+def assign_character_attributes(llm, charData, attr, palette_info, story_type):
+    return asyncio.run(assign_character_attributes_async(llm, charData, attr, palette_info, story_type))
 
 
 async def add_yaxis_data_async(llm, sceneData, y_axis, story_type):
@@ -264,3 +276,27 @@ def ask_question(llm, data, question):
     response = llm.invoke(prompt)
     answer = response.content
     return answer
+
+# Find the chapter that contains the answer to the question
+
+
+def find_chapter(llm, data, question):
+    prompt = f"""
+            Identify which chapter can answer this question: "{question}"
+            Use the exact chapter name found in the "chapter" field of the data
+            (e.g., "Chapter 1: The Beginning" or "XVII.").
+
+            Chapter data:
+            {data}
+
+            If the question is not relevant to this story (e.g., asks about 
+            characters who don't exist), or you can't find the answer in any 
+            chapter, write "N/A" for the chapter and explanation.
+            """
+
+    chapter_llm = llm.with_structured_output(ChapterAnswer)
+    response = chapter_llm.invoke(prompt)
+    chapter = response.chapter
+    explanation = response.explanation
+
+    return chapter, explanation

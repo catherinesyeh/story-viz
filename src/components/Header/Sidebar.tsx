@@ -173,6 +173,7 @@ function Sidebar() {
                           onChange={(value) => {
                             if (value) setCharacterColor(value);
                           }}
+                          searchable
                         />
                       </div>
                       <Button
@@ -342,6 +343,14 @@ function Sidebar() {
           style={{ marginTop: "1rem" }}
         >
           Reset All
+        </Button>
+        <Button
+          size="xs"
+          fullWidth
+          onClick={() => openModal("deleteStorage")}
+          style={{ marginTop: "0.5rem" }}
+        >
+          Admin: Clear Local Storage
         </Button>
       </Drawer>
 

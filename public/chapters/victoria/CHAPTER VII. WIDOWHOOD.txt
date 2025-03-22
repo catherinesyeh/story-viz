@@ -1,0 +1,533 @@
+LINE 1: I
+LINE 2: The death of the Prince Consort was the central turning-point in the
+LINE 3: history of Queen Victoria. She herself felt that her true life had
+LINE 4: ceased with her husband's, and that the remainder of her days upon earth
+LINE 5: was of a twilight nature--an epilogue to a drama that was done. Nor is
+LINE 6: it possible that her biographer should escape a similar impression. For
+LINE 7: him, too, there is a darkness over the latter half of that long career.
+LINE 8: The first forty--two years of the Queen's life are illuminated by a
+LINE 9: great and varied quantity of authentic information. With Albert's
+LINE 10: death a veil descends. Only occasionally, at fitful and disconnected
+LINE 11: intervals, does it lift for a moment or two; a few main outlines, a
+LINE 12: few remarkable details may be discerned; the rest is all conjecture and
+LINE 13: ambiguity. Thus, though the Queen survived her great bereavement for
+LINE 14: almost as many years as she had lived before it, the chronicle of those
+LINE 15: years can bear no proportion to the tale of her earlier life. We must be
+LINE 16: content in our ignorance with a brief and summary relation.
+LINE 17: The sudden removal of the Prince was not merely a matter of overwhelming
+LINE 18: personal concern to Victoria; it was an event of national, of European
+LINE 19: importance. He was only forty-two, and in the ordinary course of nature
+LINE 20: he might have been expected to live at least thirty years longer. Had
+LINE 21: he done so it can hardly be doubted that the whole development of the
+LINE 22: English polity would have been changed. Already at the time of his death
+LINE 23: he filled a unique place in English public life; already among the inner
+LINE 24: circle of politicians he was accepted as a necessary and useful part of
+LINE 25: the mechanism of the State. Lord Clarendon, for instance, spoke of his
+LINE 26: death as "a national calamity of far greater importance than the public
+LINE 27: dream of," and lamented the loss of his "sagacity and foresight," which,
+LINE 28: he declared, would have been "more than ever valuable" in the event of
+LINE 29: an American war. And, as time went on, the Prince's influence must have
+LINE 30: enormously increased. For, in addition to his intellectual and moral
+LINE 31: qualities, he enjoyed, by virtue of his position, one supreme advantage
+LINE 32: which every other holder of high office in the country was without: he
+LINE 33: was permanent. Politicians came and went, but the Prince was perpetually
+LINE 34: installed at the centre of affairs. Who can doubt that, towards the end
+LINE 35: of the century, such a man, grown grey in the service of the nation,
+LINE 36: virtuous, intelligent, and with the unexampled experience of a whole
+LINE 37: life-time of government, would have acquired an extraordinary prestige?
+LINE 38: If, in his youth, he had been able to pit the Crown against the mighty
+LINE 39: Palmerston and to come off with equal honours from the contest, of what
+LINE 40: might he not have been capable in his old age? What Minister,
+LINE 41: however able, however popular, could have withstood the wisdom, the
+LINE 42: irreproachability, the vast prescriptive authority, of the venerable
+LINE 43: Prince? It is easy to imagine how, under such a ruler, an attempt might
+LINE 44: have been made to convert England into a State as exactly organised,
+LINE 45: as elaborately trained, as efficiently equipped, and as autocratically
+LINE 46: controlled, as Prussia herself. Then perhaps, eventually, under some
+LINE 47: powerful leader--a Gladstone or a Bright--the democratic forces in the
+LINE 48: country might have rallied together, and a struggle might have followed
+LINE 49: in which the Monarchy would have been shaken to its foundations. Or, on
+LINE 50: the other hand, Disraeli's hypothetical prophecy might have come true.
+LINE 51: "With Prince Albert," he said, "we have buried our... sovereign. This
+LINE 52: German Prince has governed England for twenty-one years with a wisdom
+LINE 53: and energy such as none of our kings have ever shown. If he had outlived
+LINE 54: some of our 'old stagers' he would have given us the blessings of
+LINE 55: absolute government."
+LINE 56: The English Constitution--that indescribable entity--is a living thing,
+LINE 57: growing with the growth of men, and assuming ever-varying forms in
+LINE 58: accordance with the subtle and complex laws of human character. It is
+LINE 59: the child of wisdom and chance. The wise men of 1688 moulded it into the
+LINE 60: shape we know, but the chance that George I could not speak English
+LINE 61: gave it one of its essential peculiarities--the system of a Cabinet
+LINE 62: independent of the Crown and subordinate to the Prime Minister. The
+LINE 63: wisdom of Lord Grey saved it from petrifaction and destruction, and
+LINE 64: set it upon the path of Democracy. Then chance intervened once more; a
+LINE 65: female sovereign happened to marry an able and pertinacious man; and
+LINE 66: it seemed likely that an element which had been quiescent within it for
+LINE 67: years--the element of irresponsible administrative power--was about
+LINE 68: to become its predominant characteristic and to change completely the
+LINE 69: direction of its growth. But what chance gave chance took away. The
+LINE 70: Consort perished in his prime; and the English Constitution, dropping
+LINE 71: the dead limb with hardly a tremor, continued its mysterious life as if
+LINE 72: he had never been.
+LINE 73: One human being, and one alone, felt the full force of what had
+LINE 74: happened. The Baron, by his fireside at Coburg, suddenly saw the
+LINE 75: tremendous fabric of his creation crash down into sheer and irremediable
+LINE 76: ruin. Albert was gone, and he had lived in vain. Even his blackest
+LINE 77: hypochondria had never envisioned quite so miserable a catastrophe.
+LINE 78: Victoria wrote to him, visited him, tried to console him by declaring
+LINE 79: with passionate conviction that she would carry on her husband's work.
+LINE 80: He smiled a sad smile and looked into the fire. Then he murmured that
+LINE 81: he was going where Albert was--that he would not be long. He shrank into
+LINE 82: himself. His children clustered round him and did their best to comfort
+LINE 83: him, but it was useless: the Baron's heart was broken. He lingered for
+LINE 84: eighteen months, and then, with his pupil, explored the shadow and the
+LINE 85: dust.
+LINE 86: II
+LINE 87: With appalling suddenness Victoria had exchanged the serene radiance of
+LINE 88: happiness for the utter darkness of woe. In the first dreadful moments
+LINE 89: those about her had feared that she might lose her reason, but the iron
+LINE 90: strain within her held firm, and in the intervals between the intense
+LINE 91: paroxysms of grief it was observed that the Queen was calm. She
+LINE 92: remembered, too, that Albert had always disapproved of exaggerated
+LINE 93: manifestations of feeling, and her one remaining desire was to do
+LINE 94: nothing but what he would have wished. Yet there were moments when
+LINE 95: her royal anguish would brook no restraints. One day she sent for the
+LINE 96: Duchess of Sutherland, and, leading her to the Prince's room, fell
+LINE 97: prostrate before his clothes in a flood of weeping, while she adjured
+LINE 98: the Duchess to tell her whether the beauty of Albert's character had
+LINE 99: ever been surpassed. At other times a feeling akin to indignation swept
+LINE 100: over her. "The poor fatherless baby of eight months," she wrote to the
+LINE 101: King of the Belgians, "is now the utterly heartbroken and crushed widow
+LINE 102: of forty-two! My LIFE as a HAPPY one is ENDED! The world is gone for
+LINE 103: ME!... Oh! to be cut off in the prime of life--to see our pure, happy,
+LINE 104: quiet, domestic life, which ALONE enabled me to bear my MUCH disliked
+LINE 105: position, CUT OFF at forty-two--when I HAD hoped with such instinctive
+LINE 106: certainty that God never WOULD part us, and would let us grow old
+LINE 107: together (though HE always talked of the shortness of life)--is TOO
+LINE 108: AWFUL, too cruel!" The tone of outraged Majesty seems to be discernible.
+LINE 109: Did she wonder in her heart of hearts how the Deity could have dared?
+LINE 110: But all other emotions gave way before her overmastering determination
+LINE 111: to continue, absolutely unchanged, and for the rest of her life on
+LINE 112: earth, her reverence, her obedience, her idolatry. "I am anxious to
+LINE 113: repeat ONE thing," she told her uncle, "and THAT ONE is my firm resolve,
+LINE 114: my IRREVOCABLE DECISION, viz., that HIS wishes--HIS plans--about
+LINE 115: everything, HIS views about EVERY thing are to be MY LAW! And NO HUMAN
+LINE 116: POWER will make me swerve from WHAT HE decided and wished." She grew
+LINE 117: fierce, she grew furious, at the thought of any possible intrusion
+LINE 118: between her and her desire. Her uncle was coming to visit her, and it
+LINE 119: flashed upon her that HE might try to interfere with her and seek
+LINE 120: to "rule the roost" as of old. She would give him a hint. "I am ALSO
+LINE 121: DETERMINED," she wrote, "that NO ONE person--may HE be ever so good,
+LINE 122: ever so devoted among my servants--is to lead or guide or dictate TO ME.
+LINE 123: I know HOW he would disapprove it... Though miserably weak and utterly
+LINE 124: shattered, my spirit rises when I think ANY wish or plan of his is to
+LINE 125: be touched or changed, or I am to be MADE TO DO anything." She ended her
+LINE 126: letter in grief and affection. She was, she said, his "ever wretched but
+LINE 127: devoted child, Victoria R." And then she looked at the date: it was the
+LINE 128: 24th of December. An agonising pang assailed her, and she dashed down a
+LINE 129: postcript--"What a Xmas! I won't think of it."
+LINE 130: At first, in the tumult of her distresses, she declared that she could
+LINE 131: not see her Ministers, and the Princess Alice, assisted by Sir Charles
+LINE 132: Phipps, the keeper of the Privy Purse, performed, to the best of her
+LINE 133: ability, the functions of an intermediary. After a few weeks, however,
+LINE 134: the Cabinet, through Lord John Russell, ventured to warn the Queen that
+LINE 135: this could not continue. She realised that they were right: Albert would
+LINE 136: have agreed with them; and so she sent for the Prime Minister. But when
+LINE 137: Lord Palmerston arrived at Osborne, in the pink of health, brisk, with
+LINE 138: his whiskers freshly dyed, and dressed in a brown overcoat, light grey
+LINE 139: trousers, green gloves, and blue studs, he did not create a very good
+LINE 140: impression.
+LINE 141: Nevertheless, she had grown attached to her old enemy, and the thought
+LINE 142: of a political change filled her with agitated apprehensions. The
+LINE 143: Government, she knew, might fall at any moment; she felt she could not
+LINE 144: face such an eventuality; and therefore, six months after the death of
+LINE 145: the Prince, she took the unprecedented step of sending a private message
+LINE 146: to Lord Derby, the leader of the Opposition, to tell him that she was
+LINE 147: not in a fit state of mind or body to undergo the anxiety of a change of
+LINE 148: Government, and that if he turned the present Ministers out of office it
+LINE 149: would be at the risk of sacrificing her life--or her reason. When this
+LINE 150: message reached Lord Derby he was considerably surprised. "Dear me!" was
+LINE 151: his cynical comment. "I didn't think she was so fond of them as THAT."
+LINE 152: Though the violence of her perturbations gradually subsided, her
+LINE 153: cheerfulness did not return. For months, for years, she continued in
+LINE 154: settled gloom. Her life became one of almost complete seclusion. Arrayed
+LINE 155: in thickest crepe, she passed dolefully from Windsor to Osborne, from
+LINE 156: Osborne to Balmoral. Rarely visiting the capital, refusing to take any
+LINE 157: part in the ceremonies of state, shutting herself off from the slightest
+LINE 158: intercourse with society, she became almost as unknown to her subjects
+LINE 159: as some potentate of the East. They might murmur, but they did not
+LINE 160: understand. What had she to do with empty shows and vain enjoyments? No!
+LINE 161: She was absorbed by very different preoccupations. She was the devoted
+LINE 162: guardian of a sacred trust. Her place was in the inmost shrine of the
+LINE 163: house of mourning--where she alone had the right to enter, where she
+LINE 164: could feel the effluence of a mysterious presence, and interpret,
+LINE 165: however faintly and feebly, the promptings of a still living soul. That,
+LINE 166: and that only was her glorious, her terrible duty. For terrible indeed
+LINE 167: it was. As the years passed her depression seemed to deepen and her
+LINE 168: loneliness to grow more intense. "I am on a dreary sad pinnacle of
+LINE 169: solitary grandeur," she said. Again and again she felt that she could
+LINE 170: bear her situation no longer--that she would sink under the strain. And
+LINE 171: then, instantly, that Voice spoke: and she braced herself once more to
+LINE 172: perform, with minute conscientiousness, her grim and holy task.
+LINE 173: Above all else, what she had to do was to make her own the
+LINE 174: master-impulse of Albert's life--she must work, as he had worked, in the
+LINE 175: service of the country. That vast burden of toil which he had taken upon
+LINE 176: his shoulders it was now for her to bear. She assumed the gigantic
+LINE 177: load; and naturally she staggered under it. While he had lived, she had
+LINE 178: worked, indeed, with regularity and conscientiousness; but it was work
+LINE 179: made easy, made delicious, by his care, his forethought, his advice,
+LINE 180: and his infallibility. The mere sound of his voice, asking her to sign
+LINE 181: a paper, had thrilled her; in such a presence she could have laboured
+LINE 182: gladly for ever. But now there was a hideous change. Now there were no
+LINE 183: neat piles and docketings under the green lamp; now there were no simple
+LINE 184: explanations of difficult matters; now there was nobody to tell her what
+LINE 185: was right and what was wrong. She had her secretaries, no doubt: there
+LINE 186: were Sir Charles Phipps, and General Grey, and Sir Thomas Biddulph; and
+LINE 187: they did their best. But they were mere subordinates: the whole weight
+LINE 188: of initiative and responsibility rested upon her alone. For so it had to
+LINE 189: be. "I am DETERMINED"--had she not declared it?--"that NO ONE person is
+LINE 190: to lead or guide or dictate to ME;" anything else would be a betrayal of
+LINE 191: her trust. She would follow the Prince in all things. He had refused to
+LINE 192: delegate authority; he had examined into every detail with his own eyes;
+LINE 193: he had made it a rule never to sign a paper without having first, not
+LINE 194: merely read it, but made notes on it too. She would do the same. She
+LINE 195: sat from morning till night surrounded by huge heaps of despatch--boxes,
+LINE 196: reading and writing at her desk--at her desk, alas! which stood alone
+LINE 197: now in the room.
+LINE 198: Within two years of Albert's death a violent disturbance in foreign
+LINE 199: politics put Victoria's faithfulness to a crucial test. The fearful
+LINE 200: Schleswig-Holstein dispute, which had been smouldering for more than a
+LINE 201: decade, showed signs of bursting out into conflagration. The complexity
+LINE 202: of the questions at issue was indescribable. "Only three people,"
+LINE 203: said Palmerston, "have ever really understood the Schleswig-Holstein
+LINE 204: business--the Prince Consort, who is dead--a German professor, who
+LINE 205: has gone mad--and I, who have forgotten all about it." But, though the
+LINE 206: Prince might be dead, had he not left a vicegerent behind him?
+LINE 207: Victoria threw herself into the seething embroilment with the vigour of
+LINE 208: inspiration. She devoted hours daily to the study of the affair in all
+LINE 209: its windings; but she had a clue through the labyrinth: whenever the
+LINE 210: question had been discussed, Albert, she recollected it perfectly, had
+LINE 211: always taken the side of Prussia. Her course was clear. She became an
+LINE 212: ardent champion of the Prussian point of view. It was a legacy from the
+LINE 213: Prince, she said. She did not realise that the Prussia of the Prince's
+LINE 214: day was dead, and that a new Prussia, the Prussia of Bismarck, was born.
+LINE 215: Perhaps Palmerston, with his queer prescience, instinctively apprehended
+LINE 216: the new danger; at any rate, he and Lord John were agreed upon the
+LINE 217: necessity of supporting Denmark against Prussia's claims. But opinion
+LINE 218: was sharply divided, not only in the country but in the Cabinet. For
+LINE 219: eighteen months the controversy raged; while the Queen, with persistent
+LINE 220: vehemence, opposed the Prime Minister and the Foreign Secretary. When at
+LINE 221: last the final crisis arose--when it seemed possible that England would
+LINE 222: join forces with Denmark in a war against Prussia--Victoria's agitation
+LINE 223: grew febrile in its intensity. Towards her German relatives she
+LINE 224: preserved a discreet appearance of impartiality; but she poured out
+LINE 225: upon her Ministers a flood of appeals, protests, and expostulations. She
+LINE 226: invoked the sacred cause of Peace. "The only chance of preserving peace
+LINE 227: for Europe," she wrote, "is by not assisting Denmark, who has brought
+LINE 228: this entirely upon herself. The Queen suffers much, and her nerves
+LINE 229: are more and more totally shattered... But though all this anxiety is
+LINE 230: wearing her out, it will not shake her firm purpose of resisting any
+LINE 231: attempt to involve this country in a mad and useless combat." She was,
+LINE 232: she declared, "prepared to make a stand," even if the resignation of the
+LINE 233: Foreign Secretary should follow. "The Queen," she told Lord Granville,
+LINE 234: "is completely exhausted by the anxiety and suspense, and misses her
+LINE 235: beloved husband's help, advice, support, and love in an overwhelming
+LINE 236: manner." She was so worn out by her efforts for peace that she could
+LINE 237: "hardly hold up her head or hold her pen." England did not go to war,
+LINE 238: and Denmark was left to her fate; but how far the attitude of the Queen
+LINE 239: contributed to this result it is impossible, with our present knowledge,
+LINE 240: to say. On the whole, however, it seems probable that the determining
+LINE 241: factor in the situation was the powerful peace party in the Cabinet
+LINE 242: rather than the imperious and pathetic pressure of Victoria.
+LINE 243: It is, at any rate, certain that the Queen's enthusiasm for the sacred
+LINE 244: cause of peace was short-lived. Within a few months her mind had
+LINE 245: completely altered. Her eyes were opened to the true nature of Prussia,
+LINE 246: whose designs upon Austria were about to culminate in the Seven Weeks'
+LINE 247: War. Veering precipitately from one extreme to the other, she now urged
+LINE 248: her Ministers to interfere by force of arms in support of Austria. But
+LINE 249: she urged in vain.
+LINE 250: Her political activity, no more than her social seclusion, was approved
+LINE 251: by the public. As the years passed, and the royal mourning remained
+LINE 252: as unrelieved as ever, the animadversions grew more general and more
+LINE 253: severe. It was observed that the Queen's protracted privacy not only
+LINE 254: cast a gloom over high society, not only deprived the populace of its
+LINE 255: pageantry, but also exercised a highly deleterious effect upon the
+LINE 256: dressmaking, millinery, and hosiery trades. This latter consideration
+LINE 257: carried great weight. At last, early in 1864, the rumour spread that Her
+LINE 258: Majesty was about to go out of mourning, and there was much rejoicing
+LINE 259: in the newspapers; but unfortunately it turned out that the rumour was
+LINE 260: quite without foundation. Victoria, with her own hand, wrote a letter
+LINE 261: to The Times to say so. "This idea," she declared, "cannot be too
+LINE 262: explicitly contradicted. The Queen," the letter continued, "heartily
+LINE 263: appreciates the desire of her subjects to see her, and whatever she CAN
+LINE 264: do to gratify them in this loyal and affectionate wish, she WILL do...
+LINE 265: But there are other and higher duties than those of mere representation
+LINE 266: which are now thrown upon the Queen, alone and unassisted--duties which
+LINE 267: she cannot neglect without injury to the public service, which weigh
+LINE 268: unceasingly upon her, overwhelming her with work and anxiety." The
+LINE 269: justification might have been considered more cogent had it not been
+LINE 270: known that those "other and higher duties" emphasised by the Queen
+LINE 271: consisted for the most part of an attempt to counteract the
+LINE 272: foreign policy of Lord Palmerston and Lord John Russell. A large
+LINE 273: section--perhaps a majority--of the nation were violent partisans of
+LINE 274: Denmark in the Schleswig-Holstein quarrel; and Victoria's support of
+LINE 275: Prussia was widely denounced. A wave of unpopularity, which reminded
+LINE 276: old observers of the period preceding the Queen's marriage more than
+LINE 277: twenty-five years before, was beginning to rise. The press was rude;
+LINE 278: Lord Ellenborough attacked the Queen in the House of Lords; there
+LINE 279: were curious whispers in high quarters that she had had thoughts of
+LINE 280: abdicating--whispers followed by regrets that she had not done so.
+LINE 281: Victoria, outraged and injured, felt that she was misunderstood. She
+LINE 282: was profoundly unhappy. After Lord Ellenborough's speech, General Grey
+LINE 283: declared that he "had never seen the Queen so completely upset."
+LINE 284: "Oh, how fearful it is," she herself wrote to Lord Granville, "to be
+LINE 285: suspected--uncheered--unguided and unadvised--and how alone the poor
+LINE 286: Queen feels!" Nevertheless, suffer as she might, she was as resolute
+LINE 287: as ever; she would not move by a hair's breadth from the course that a
+LINE 288: supreme obligation marked out for her; she would be faithful to the end.
+LINE 289: And so, when Schleswig-Holstein was forgotten, and even the image of the
+LINE 290: Prince had begun to grow dim in the fickle memories of men, the solitary
+LINE 291: watcher remained immutably concentrated at her peculiar task. The
+LINE 292: world's hostility, steadily increasing, was confronted and outfaced by
+LINE 293: the impenetrable weeds of Victoria. Would the world never understand?
+LINE 294: It was not mere sorrow that kept her so strangely sequestered; it was
+LINE 295: devotion, it was self-immolation; it was the laborious legacy of love.
+LINE 296: Unceasingly the pen moved over the black-edged paper. The flesh might be
+LINE 297: weak, but that vast burden must be borne. And fortunately, if the world
+LINE 298: would not understand, there were faithful friends who did. There was
+LINE 299: Lord Granville, and there was kind Mr. Theodore Martin. Perhaps Mr.
+LINE 300: Martin, who was so clever, would find means to make people realise the
+LINE 301: facts. She would send him a letter, pointing out her arduous labours and
+LINE 302: the difficulties under which she struggled, and then he might write an
+LINE 303: article for one of the magazines. "It is not," she told him in 1863,
+LINE 304: "the Queen's SORROW that keeps her secluded. It is her OVERWHELMING WORK
+LINE 305: and her health, which is greatly shaken by her sorrow, and the totally
+LINE 306: overwhelming amount of work and responsibility--work which she feels
+LINE 307: really wears her out. Alice Helps was wonderfully struck at the Queen's
+LINE 308: room; and if Mrs. Martin will look at it, she can tell Mr. Martin what
+LINE 309: surrounds her. From the hour she gets out of bed till she gets into it
+LINE 310: again there is work, work, work,--letter-boxes, questions, etc., which
+LINE 311: are dreadfully exhausting--and if she had not comparative rest and
+LINE 312: quiet in the evening she would most likely not be ALIVE. Her brain is
+LINE 313: constantly overtaxed." It was too true.
+LINE 314: III
+LINE 315: To carry on Albert's work--that was her first duty; but there was
+LINE 316: another, second only to that, and yet nearer, if possible, to her
+LINE 317: heart--to impress the true nature of his genius and character upon the
+LINE 318: minds of her subjects. She realised that during his life he had not been
+LINE 319: properly appreciated; the full extent of his powers, the supreme quality
+LINE 320: of his goodness, had been necessarily concealed; but death had removed
+LINE 321: the need of barriers, and now her husband, in his magnificent entirety,
+LINE 322: should stand revealed to all. She set to work methodically. She directed
+LINE 323: Sir Arthur Helps to bring out a collection of the Prince's speeches and
+LINE 324: addresses, and the weighty tome appeared in 1862. Then she commanded
+LINE 325: General Grey to write an account of the Prince's early years--from his
+LINE 326: birth to his marriage; she herself laid down the design of the book,
+LINE 327: contributed a number of confidential documents, and added numerous
+LINE 328: notes; General Grey obeyed, and the work was completed in 1866. But
+LINE 329: the principal part of the story was still untold, and Mr. Martin
+LINE 330: was forthwith instructed to write a complete biography of the Prince
+LINE 331: Consort. Mr. Martin laboured for fourteen years. The mass of material
+LINE 332: with which he had to deal was almost incredible, but he was extremely
+LINE 333: industrious, and he enjoyed throughout the gracious assistance of Her
+LINE 334: Majesty. The first bulky volume was published in 1874; four others
+LINE 335: slowly followed; so that it was not until 1880 that the monumental work
+LINE 336: was finished.
+LINE 337: Mr. Martin was rewarded by a knighthood; and yet it was sadly evident
+LINE 338: that neither Sir Theodore nor his predecessors had achieved the
+LINE 339: purpose which the Queen had in view. Perhaps she was unfortunate in her
+LINE 340: coadjutors, but, in reality, the responsibility for the failure must lie
+LINE 341: with Victoria herself. Sir Theodore and the others faithfully carried
+LINE 342: out the task which she had set them--faithfully put before the public
+LINE 343: the very image of Albert that filled her own mind. The fatal drawback
+LINE 344: was that the public did not find that image attractive. Victoria's
+LINE 345: emotional nature, far more remarkable for vigour than for subtlety,
+LINE 346: rejecting utterly the qualifications which perspicuity, or humour,
+LINE 347: might suggest, could be satisfied with nothing but the absolute and the
+LINE 348: categorical. When she disliked she did so with an unequivocal emphasis
+LINE 349: which swept the object of her repugnance at once and finally outside
+LINE 350: the pale of consideration; and her feelings of affection were equally
+LINE 351: unmitigated. In the case of Albert her passion for superlatives
+LINE 352: reached its height. To have conceived of him as anything short of
+LINE 353: perfect--perfect in virtue, in wisdom, in beauty, in all the glories and
+LINE 354: graces of man--would have been an unthinkable blasphemy: perfect he
+LINE 355: was, and perfect he must be shown to have been. And so, Sir Arthur, Sir
+LINE 356: Theodore, and the General painted him. In the circumstances, and under
+LINE 357: such supervision, to have done anything else would have required talents
+LINE 358: considerably more distinguished than any that those gentlemen possessed.
+LINE 359: But that was not all. By a curious mischance Victoria was also able to
+LINE 360: press into her service another writer, the distinction of whose talents
+LINE 361: was this time beyond a doubt. The Poet Laureate, adopting, either from
+LINE 362: complaisance or conviction, the tone of his sovereign, joined in the
+LINE 363: chorus, and endowed the royal formula with the magical resonance of
+LINE 364: verse. This settled the matter. Henceforward it was impossible to forget
+LINE 365: that Albert had worn the white flower of a blameless life.
+LINE 366: The result was doubly unfortunate. Victoria, disappointed and chagrined,
+LINE 367: bore a grudge against her people for their refusal, in spite of all her
+LINE 368: efforts, to rate her husband at his true worth. She did not understand
+LINE 369: that the picture of an embodied perfection is distasteful to the
+LINE 370: majority of mankind. The cause of this is not so much an envy of the
+LINE 371: perfect being as a suspicion that he must be inhuman; and thus it
+LINE 372: happened that the public, when it saw displayed for its admiration a
+LINE 373: figure resembling the sugary hero of a moral story-book rather than a
+LINE 374: fellow man of flesh and blood, turned away with a shrug, a smile, and
+LINE 375: a flippant ejaculation. But in this the public was the loser as well as
+LINE 376: Victoria. For in truth Albert was a far more interesting personage than
+LINE 377: the public dreamed. By a curious irony an impeccable waxwork had been
+LINE 378: fixed by the Queen's love in the popular imagination, while the creature
+LINE 379: whom it represented--the real creature, so full of energy and stress
+LINE 380: and torment, so mysterious and so unhappy, and so fallible and so very
+LINE 381: human--had altogether disappeared.
+LINE 382: IV
+LINE 383: Words and books may be ambiguous memorials; but who can misinterpret the
+LINE 384: visible solidity of bronze and stone? At Frogmore, near Windsor, where
+LINE 385: her mother was buried, Victoria constructed, at the cost of L200,000, a
+LINE 386: vast and elaborate mausoleum for herself and her husband. But that was
+LINE 387: a private and domestic monument, and the Queen desired that wherever
+LINE 388: her subjects might be gathered together they should be reminded of the
+LINE 389: Prince. Her desire was gratified; all over the country--at Aberdeen, at
+LINE 390: Perth, and at Wolverhampton--statues of the Prince were erected; and
+LINE 391: the Queen, making an exception to her rule of retirement, unveiled them
+LINE 392: herself. Nor did the capital lag behind. A month after the Prince's
+LINE 393: death a meeting was called together at the Mansion House to discuss
+LINE 394: schemes for honouring his memory. Opinions, however, were divided upon
+LINE 395: the subject. Was a statue or an institution to be preferred? Meanwhile a
+LINE 396: subscription was opened; an influential committee was appointed, and the
+LINE 397: Queen was consulted as to her wishes in the matter. Her Majesty replied
+LINE 398: that she would prefer a granite obelisk, with sculptures at the base, to
+LINE 399: an institution. But the committee hesitated: an obelisk, to be worthy
+LINE 400: of the name, must clearly be a monolith; and where was the quarry in
+LINE 401: England capable of furnishing a granite block of the required size? It
+LINE 402: was true that there was granite in Russian Finland; but the committee
+LINE 403: were advised that it was not adapted to resist exposure to the open air.
+LINE 404: On the whole, therefore, they suggested that a Memorial Hall should be
+LINE 405: erected, together with a statue of the Prince. Her Majesty assented; but
+LINE 406: then another difficulty arose. It was found that not more than L60,000
+LINE 407: had been subscribed--a sum insufficient to defray the double expense.
+LINE 408: The Hall, therefore, was abandoned; a statue alone was to be erected;
+LINE 409: and certain eminent architects were asked to prepare designs. Eventually
+LINE 410: the committee had at their disposal a total sum of L120,000, since
+LINE 411: the public subscribed another L10,000, while L50,000 was voted by
+LINE 412: Parliament. Some years later a joint stock company was formed and built,
+LINE 413: as a private speculation, the Albert Hall.
+LINE 414: The architect whose design was selected, both by the committee and by
+LINE 415: the Queen, was Mr. Gilbert Scott, whose industry, conscientiousness,
+LINE 416: and genuine piety had brought him to the head of his profession.
+LINE 417: His lifelong zeal for the Gothic style having given him a special
+LINE 418: prominence, his handiwork was strikingly visible, not only in a
+LINE 419: multitude of original buildings, but in most of the cathedrals of
+LINE 420: England. Protests, indeed, were occasionally raised against his
+LINE 421: renovations; but Mr. Scott replied with such vigour and unction in
+LINE 422: articles and pamphlets that not a Dean was unconvinced, and he was
+LINE 423: permitted to continue his labours without interruption. On one occasion,
+LINE 424: however, his devotion to Gothic had placed him in an unpleasant
+LINE 425: situation. The Government offices in Whitehall were to be rebuilt; Mr.
+LINE 426: Scott competed, and his designs were successful. Naturally, they were in
+LINE 427: the Gothic style, combining "a certain squareness and horizontality of
+LINE 428: outline" with pillar-mullions, gables, high-pitched roofs, and dormers;
+LINE 429: and the drawings, as Mr. Scott himself observed, "were, perhaps, the
+LINE 430: best ever sent in to a competition, or nearly so." After the usual
+LINE 431: difficulties and delays the work was at last to be put in hand, when
+LINE 432: there was a change of Government and Lord Palmerston became Prime
+LINE 433: Minister. Lord Palmerston at once sent for Mr. Scott. "Well, Mr. Scott,"
+LINE 434: he said, in his jaunty way, "I can't have anything to do with this
+LINE 435: Gothic style. I must insist on your making a design in the Italian
+LINE 436: manner, which I am sure you can do very cleverly." Mr. Scott was
+LINE 437: appalled; the style of the Italian renaissance was not only unsightly,
+LINE 438: it was positively immoral, and he sternly refused to have anything to do
+LINE 439: with it. Thereupon Lord Palmerston assumed a fatherly tone. "Quite true;
+LINE 440: a Gothic architect can't be expected to put up a Classical building;
+LINE 441: I must find someone else." This was intolerable, and Mr. Scott, on his
+LINE 442: return home, addressed to the Prime Minister a strongly-worded letter,
+LINE 443: in which he dwelt upon his position as an architect, upon his having won
+LINE 444: two European competitions, his being an A.R.A., a gold medallist of the
+LINE 445: Institute, and a lecturer on architecture at the Royal Academy; but it
+LINE 446: was useless--Lord Palmerston did not even reply. It then occurred to
+LINE 447: Mr. Scott that, by a judicious mixture, he might, while preserving the
+LINE 448: essential character of the Gothic, produce a design which would give a
+LINE 449: superficial impression of the Classical style. He did so, but no effect
+LINE 450: was produced upon Lord Palmerston. The new design, he said, was "neither
+LINE 451: one thing nor 'tother--a regular mongrel affair--and he would have
+LINE 452: nothing to do with it either." After that Mr. Scott found it necessary
+LINE 453: to recruit for two months at Scarborough, "with a course of quinine." He
+LINE 454: recovered his tone at last, but only at the cost of his convictions. For
+LINE 455: the sake of his family he felt that it was his unfortunate duty to obey
+LINE 456: the Prime Minister; and, shuddering with horror, he constructed the
+LINE 457: Government offices in a strictly Renaissance style.
+LINE 458: Shortly afterwards Mr. Scott found some consolation in building the St.
+LINE 459: Pancras Hotel in a style of his own.
+LINE 460: And now another and yet more satisfactory task was his. "My idea in
+LINE 461: designing the Memorial," he wrote, "was to erect a kind of ciborium to
+LINE 462: protect a statue of the Prince; and its special characteristic was
+LINE 463: that the ciborium was designed in some degree on the principles of the
+LINE 464: ancient shrines. These shrines were models of imaginary buildings, such
+LINE 465: as had never in reality been erected; and my idea was to realise one of
+LINE 466: these imaginary structures with its precious materials, its inlaying,
+LINE 467: its enamels, etc. etc." His idea was particularly appropriate since
+LINE 468: it chanced that a similar conception, though in the reverse order of
+LINE 469: magnitude, had occurred to the Prince himself, who had designed and
+LINE 470: executed several silver cruet-stands upon the same model. At the Queen's
+LINE 471: request a site was chosen in Kensington Gardens as near as possible
+LINE 472: to that of the Great Exhibition; and in May, 1864, the first sod was
+LINE 473: turned. The work was long, complicated, and difficult; a great number
+LINE 474: of workmen were employed, besides several subsidiary sculptors and
+LINE 475: metal--workers under Mr. Scott's direction, while at every stage
+LINE 476: sketches and models were submitted to Her Majesty, who criticised all
+LINE 477: the details with minute care, and constantly suggested improvements. The
+LINE 478: frieze, which encircled the base of the monument, was in itself a very
+LINE 479: serious piece of work. "This," said Mr. Scott, "taken as a whole, is
+LINE 480: perhaps one of the most laborious works of sculpture ever undertaken,
+LINE 481: consisting, as it does, of a continuous range of figure-sculpture of the
+LINE 482: most elaborate description, in the highest alto-relievo of life-size, of
+LINE 483: more than 200 feet in length, containing about 170 figures, and executed
+LINE 484: in the hardest marble which could be procured." After three years of
+LINE 485: toil the memorial was still far from completion, and Mr. Scott thought
+LINE 486: it advisable to give a dinner to the workmen, "as a substantial
+LINE 487: recognition of his appreciation of their skill and energy." "Two long
+LINE 488: tables," we are told, "constructed of scaffold planks, were arranged in
+LINE 489: the workshops, and covered with newspapers, for want of table-cloths.
+LINE 490: Upwards of eighty men sat down. Beef and mutton, plum pudding and cheese
+LINE 491: were supplied in abundance, and each man who desired it had three pints
+LINE 492: of beer, gingerbeer and lemonade being provided for the teetotalers, who
+LINE 493: formed a very considerable proportion... Several toasts were given and
+LINE 494: many of the workmen spoke, almost all of them commencing by 'Thanking
+LINE 495: God that they enjoyed good health;' some alluded to the temperance that
+LINE 496: prevailed amongst them, others observed how little swearing was ever
+LINE 497: heard, whilst all said how pleased and proud they were to be engaged on
+LINE 498: so great a work."
+LINE 499: Gradually the edifice approached completion. The one hundred and
+LINE 500: seventieth life-size figure in the frieze was chiselled, the granite
+LINE 501: pillars arose, the mosaics were inserted in the allegorical pediments,
+LINE 502: the four colossal statues representing the greater Christian virtues,
+LINE 503: the four other colossal statues representing the greater moral virtues,
+LINE 504: were hoisted into their positions, the eight bronzes representing the
+LINE 505: greater sciences--Astronomy, Chemistry, Geology, Geometry, Rhetoric,
+LINE 506: Medicine, Philosophy, and Physiology--were fixed on their glittering
+LINE 507: pinnacles, high in air. The statue of Physiology was particularly
+LINE 508: admired. "On her left arm," the official description informs us, "she
+LINE 509: bears a new-born infant, as a representation of the development of the
+LINE 510: highest and most perfect of physiological forms; her hand points
+LINE 511: towards a microscope, the instrument which lends its assistance for the
+LINE 512: investigation of the minuter forms of animal and vegetable organisms."
+LINE 513: At last the gilded cross crowned the dwindling galaxies of superimposed
+LINE 514: angels, the four continents in white marble stood at the four corners
+LINE 515: of the base, and, seven years after its inception, in July, 1872, the
+LINE 516: monument was thrown open to the public.
+LINE 517: But four more years were to elapse before the central figure was ready
+LINE 518: to be placed under its starry canopy. It was designed by Mr. Foley,
+LINE 519: though in one particular the sculptor's freedom was restricted by Mr.
+LINE 520: Scott. "I have chosen the sitting posture," Mr. Scott said, "as best
+LINE 521: conveying the idea of dignity befitting a royal personage." Mr. Foley
+LINE 522: ably carried out the conception of his principal. "In the attitude
+LINE 523: and expression," he said, "the aim has been, with the individuality of
+LINE 524: portraiture, to embody rank, character, and enlightenment, and to convey
+LINE 525: a sense of that responsive intelligence indicating an active, rather
+LINE 526: than a passive, interest in those pursuits of civilisation illustrated
+LINE 527: in the surrounding figures, groups, and relievos... To identify the
+LINE 528: figure with one of the most memorable undertakings of the public life
+LINE 529: of the Prince--the International Exhibition of 1851--a catalogue of the
+LINE 530: works collected in that first gathering of the industry of all nations,
+LINE 531: is placed in the right hand." The statue was of bronze gilt and weighed
+LINE 532: nearly ten tons. It was rightly supposed that the simple word "Albert,"
+LINE 533: cast on the base, would be a sufficient means of identification.

@@ -1,0 +1,499 @@
+LINE 1: While Laurie and Amy were taking conjugal strolls over velvet carpets,
+LINE 2: as they set their house in order, and planned a blissful future, Mr.
+LINE 3: Bhaer and Jo were enjoying promenades of a different sort, along muddy
+LINE 4: roads and sodden fields.
+LINE 5: "I always do take a walk toward evening, and I don't know why I should
+LINE 6: give it up, just because I often happen to meet the Professor on his way
+LINE 7: out," said Jo to herself, after two or three encounters; for, though
+LINE 8: there were two paths to Meg's, whichever one she took she was sure to
+LINE 9: meet him, either going or returning. He was always walking rapidly, and
+LINE 10: never seemed to see her till quite close, when he would look as if his
+LINE 11: short-sighted eyes had failed to recognize the approaching lady till
+LINE 12: that moment. Then, if she was going to Meg's, he always had something
+LINE 13: for the babies; if her face was turned homeward, he had merely strolled
+LINE 14: down to see the river, and was just about returning, unless they were
+LINE 15: tired of his frequent calls.
+LINE 16: Under the circumstances, what could Jo do but greet him civilly, and
+LINE 17: invite him in? If she _was_ tired of his visits, she concealed her
+LINE 18: weariness with perfect skill, and took care that there should be coffee
+LINE 19: for supper, "as Friedrich--I mean Mr. Bhaer--doesn't like tea."
+LINE 20: By the second week, every one knew perfectly well what was going on, yet
+LINE 21: every one tried to look as if they were stone-blind to the changes in
+LINE 22: Jo's face. They never asked why she sang about her work, did up her hair
+LINE 23: three times a day, and got so blooming with her evening exercise; and no
+LINE 24: one seemed to have the slightest suspicion that Professor Bhaer, while
+LINE 25: talking philosophy with the father, was giving the daughter lessons in
+LINE 26: love.
+LINE 27: Jo couldn't even lose her heart in a decorous manner, but sternly tried
+LINE 28: to quench her feelings; and, failing to do so, led a somewhat agitated
+LINE 29: life. She was mortally afraid of being laughed at for surrendering,
+LINE 30: after her many and vehement declarations of independence. Laurie was her
+LINE 31: especial dread; but, thanks to the new manager, he behaved with
+LINE 32: praiseworthy propriety, never called Mr. Bhaer "a capital old fellow" in
+LINE 33: public, never alluded, in the remotest manner, to Jo's improved
+LINE 34: appearance, or expressed the least surprise at seeing the Professor's
+LINE 35: hat on the Marches' hall-table nearly every evening. But he exulted in
+LINE 36: private and longed for the time to come when he could give Jo a piece of
+LINE 37: plate, with a bear and a ragged staff on it as an appropriate
+LINE 38: coat-of-arms.
+LINE 39: For a fortnight, the Professor came and went with lover-like regularity;
+LINE 40: then he stayed away for three whole days, and made no sign,--a
+LINE 41: proceeding which caused everybody to look sober, and Jo to become
+LINE 42: pensive, at first, and then--alas for romance!--very cross.
+LINE 43: "Disgusted, I dare say, and gone home as suddenly as he came. It's
+LINE 44: nothing to me, of course; but I _should_ think he would have come and
+LINE 45: bid us good-by, like a gentleman," she said to herself, with a
+LINE 46: despairing look at the gate, as she put on her things for the customary
+LINE 47: walk, one dull afternoon.
+LINE 48: "You'd better take the little umbrella, dear; it looks like rain," said
+LINE 49: her mother, observing that she had on her new bonnet, but not alluding
+LINE 50: to the fact.
+LINE 51: "Yes, Marmee; do you want anything in town? I've got to run in and get
+LINE 52: some paper," returned Jo, pulling out the bow under her chin before the
+LINE 53: glass as an excuse for not looking at her mother.
+LINE 54: "Yes; I want some twilled silesia, a paper of number nine needles, and
+LINE 55: two yards of narrow lavender ribbon. Have you got your thick boots on,
+LINE 56: and something warm under your cloak?"
+LINE 57: "I believe so," answered Jo absently.
+LINE 58: "If you happen to meet Mr. Bhaer, bring him home to tea. I quite long to
+LINE 59: see the dear man," added Mrs. March.
+LINE 60: Jo heard _that_, but made no answer, except to kiss her mother, and walk
+LINE 61: rapidly away, thinking with a glow of gratitude, in spite of her
+LINE 62: heartache,--
+LINE 63: "How good she is to me! What _do_ girls do who haven't any mothers to
+LINE 64: help them through their troubles?"
+LINE 65: The dry-goods stores were not down among the counting-houses, banks, and
+LINE 66: wholesale warerooms, where gentlemen most do congregate; but Jo found
+LINE 67: herself in that part of the city before she did a single errand,
+LINE 68: loitering along as if waiting for some one, examining engineering
+LINE 69: instruments in one window and samples of wool in another with most
+LINE 70: unfeminine interest; tumbling over barrels, being half-smothered by
+LINE 71: descending bales, and hustled unceremoniously by busy men who looked as
+LINE 72: if they wondered "how the deuce she got there." A drop of rain on her
+LINE 73: cheek recalled her thoughts from baffled hopes to ruined ribbons; for
+LINE 74: the drops continued to fall, and, being a woman as well as a lover, she
+LINE 75: felt that, though it was too late to save her heart, she might her
+LINE 76: bonnet. Now she remembered the little umbrella, which she had forgotten
+LINE 77: to take in her hurry to be off; but regret was unavailing, and nothing
+LINE 78: could be done but borrow one or submit to a drenching. She looked up at
+LINE 79: the lowering sky, down at the crimson bow already flecked with black,
+LINE 80: forward along the muddy street, then one long, lingering look behind, at
+LINE 81: a certain grimy warehouse, with "Hoffmann, Swartz, & Co." over the door,
+LINE 82: and said to herself, with a sternly reproachful air,--
+LINE 83: "It serves me right! What business had I to put on all my best things
+LINE 84: and come philandering down here, hoping to see the Professor? Jo, I'm
+LINE 85: ashamed of you! No, you shall _not_ go there to borrow an umbrella, or
+LINE 86: find out where he is, from his friends. You shall trudge away, and do
+LINE 87: your errands in the rain; and if you catch your death and ruin your
+LINE 88: bonnet, it's no more than you deserve. Now then!"
+LINE 89: With that she rushed across the street so impetuously that she narrowly
+LINE 90: escaped annihilation from a passing truck, and precipitated herself into
+LINE 91: the arms of a stately old gentleman, who said, "I beg pardon, ma'am,"
+LINE 92: and looked mortally offended. Somewhat daunted, Jo righted herself,
+LINE 93: spread her handkerchief over the devoted ribbons, and, putting
+LINE 94: temptation behind her, hurried on, with increasing dampness about the
+LINE 95: ankles, and much clashing of umbrellas overhead. The fact that a
+LINE 96: somewhat dilapidated blue one remained stationary above the unprotected
+LINE 97: bonnet, attracted her attention; and, looking up, she saw Mr. Bhaer
+LINE 98: looking down.
+LINE 99: [Illustration: Looking up she saw Mr. Bhaer]
+LINE 100: "I feel to know the strong-minded lady who goes so bravely under many
+LINE 101: horse-noses, and so fast through much mud. What do you down here, my
+LINE 102: friend?"
+LINE 103: "I'm shopping."
+LINE 104: Mr. Bhaer smiled, as he glanced from the pickle-factory on one side, to
+LINE 105: the wholesale hide and leather concern on the other; but he only said
+LINE 106: politely,--
+LINE 107: "You haf no umbrella. May I go also, and take for you the bundles?"
+LINE 108: "Yes, thank you."
+LINE 109: Jo's cheeks were as red as her ribbon, and she wondered what he thought
+LINE 110: of her; but she didn't care, for in a minute she found herself walking
+LINE 111: away arm-in-arm with her Professor, feeling as if the sun had suddenly
+LINE 112: burst out with uncommon brilliancy, that the world was all right again,
+LINE 113: and that one thoroughly happy woman was paddling through the wet that
+LINE 114: day.
+LINE 115: "We thought you had gone," said Jo hastily, for she knew he was looking
+LINE 116: at her. Her bonnet wasn't big enough to hide her face, and she feared he
+LINE 117: might think the joy it betrayed unmaidenly.
+LINE 118: "Did you believe that I should go with no farewell to those who haf been
+LINE 119: so heavenly kind to me?" he asked so reproachfully that she felt as if
+LINE 120: she had insulted him by the suggestion, and answered heartily,--
+LINE 121: "No, _I_ didn't; I knew you were busy about your own affairs, but we
+LINE 122: rather missed you,--father and mother especially."
+LINE 123: "And you?"
+LINE 124: "I'm always glad to see you, sir."
+LINE 125: In her anxiety to keep her voice quite calm, Jo made it rather cool, and
+LINE 126: the frosty little monosyllable at the end seemed to chill the Professor,
+LINE 127: for his smile vanished, as he said gravely,--
+LINE 128: "I thank you, and come one time more before I go."
+LINE 129: "You _are_ going, then?"
+LINE 130: "I haf no longer any business here; it is done."
+LINE 131: "Successfully, I hope?" said Jo, for the bitterness of disappointment
+LINE 132: was in that short reply of his.
+LINE 133: "I ought to think so, for I haf a way opened to me by which I can make
+LINE 134: my bread and gif my Jünglings much help."
+LINE 135: "Tell me, please! I like to know all about the--the boys," said Jo
+LINE 136: eagerly.
+LINE 137: "That is so kind, I gladly tell you. My friends find for me a place in
+LINE 138: a college, where I teach as at home, and earn enough to make the way
+LINE 139: smooth for Franz and Emil. For this I should be grateful, should I not?"
+LINE 140: "Indeed you should. How splendid it will be to have you doing what you
+LINE 141: like, and be able to see you often, and the boys!" cried Jo, clinging to
+LINE 142: the lads as an excuse for the satisfaction she could not help betraying.
+LINE 143: "Ah! but we shall not meet often, I fear; this place is at the West."
+LINE 144: "So far away!" and Jo left her skirts to their fate, as if it didn't
+LINE 145: matter now what became of her clothes or herself.
+LINE 146: Mr. Bhaer could read several languages, but he had not learned to read
+LINE 147: women yet. He flattered himself that he knew Jo pretty well, and was,
+LINE 148: therefore, much amazed by the contradictions of voice, face, and manner,
+LINE 149: which she showed him in rapid succession that day, for she was in half a
+LINE 150: dozen different moods in the course of half an hour. When she met him
+LINE 151: she looked surprised, though it was impossible to help suspecting that
+LINE 152: she had come for that express purpose. When he offered her his arm, she
+LINE 153: took it with a look that filled him with delight; but when he asked if
+LINE 154: she missed him, she gave such a chilly, formal reply that despair fell
+LINE 155: upon him. On learning his good fortune she almost clapped her hands: was
+LINE 156: the joy all for the boys? Then, on hearing his destination, she said,
+LINE 157: "So far away!" in a tone of despair that lifted him on to a pinnacle of
+LINE 158: hope; but the next minute she tumbled him down again by observing, like
+LINE 159: one entirely absorbed in the matter,--
+LINE 160: "Here's the place for my errands; will you come in? It won't take long."
+LINE 161: Jo rather prided herself upon her shopping capabilities, and
+LINE 162: particularly wished to impress her escort with the neatness and despatch
+LINE 163: with which she would accomplish the business. But, owing to the flutter
+LINE 164: she was in, everything went amiss; she upset the tray of needles, forgot
+LINE 165: the silesia was to be "twilled" till it was cut off, gave the wrong
+LINE 166: change, and covered herself with confusion by asking for lavender ribbon
+LINE 167: at the calico counter. Mr. Bhaer stood by, watching her blush and
+LINE 168: blunder; and, as he watched, his own bewilderment seemed to subside,
+LINE 169: for he was beginning to see that on some occasions women, like dreams,
+LINE 170: go by contraries.
+LINE 171: When they came out, he put the parcel under his arm with a more cheerful
+LINE 172: aspect, and splashed through the puddles as if he rather enjoyed it, on
+LINE 173: the whole.
+LINE 174: "Should we not do a little what you call shopping for the babies, and
+LINE 175: haf a farewell feast to-night if I go for my last call at your so
+LINE 176: pleasant home?" he asked, stopping before a window full of fruit and
+LINE 177: flowers.
+LINE 178: "What will we buy?" said Jo, ignoring the latter part of his speech, and
+LINE 179: sniffing the mingled odors with an affectation of delight as they went
+LINE 180: in.
+LINE 181: "May they haf oranges and figs?" asked Mr. Bhaer, with a paternal air.
+LINE 182: "They eat them when they can get them."
+LINE 183: "Do you care for nuts?"
+LINE 184: "Like a squirrel."
+LINE 185: "Hamburg grapes; yes, we shall surely drink to the Fatherland in those?"
+LINE 186: Jo frowned upon that piece of extravagance, and asked why he didn't buy
+LINE 187: a frail of dates, a cask of raisins, and a bag of almonds, and done with
+LINE 188: it? Whereat Mr. Bhaer confiscated her purse, produced his own, and
+LINE 189: finished the marketing by buying several pounds of grapes, a pot of rosy
+LINE 190: daisies, and a pretty jar of honey, to be regarded in the light of a
+LINE 191: demijohn. Then, distorting his pockets with the knobby bundles, and
+LINE 192: giving her the flowers to hold, he put up the old umbrella, and they
+LINE 193: travelled on again.
+LINE 194: "Miss Marsch, I haf a great favor to ask of you," began the Professor,
+LINE 195: after a moist promenade of half a block.
+LINE 196: "Yes, sir;" and Jo's heart began to beat so hard she was afraid he would
+LINE 197: hear it.
+LINE 198: "I am bold to say it in spite of the rain, because so short a time
+LINE 199: remains to me."
+LINE 200: "Yes, sir;" and Jo nearly crushed the small flower-pot with the sudden
+LINE 201: squeeze she gave it.
+LINE 202: "I wish to get a little dress for my Tina, and I am too stupid to go
+LINE 203: alone. Will you kindly gif me a word of taste and help?"
+LINE 204: "Yes, sir;" and Jo felt as calm and cool, all of a sudden, as if she had
+LINE 205: stepped into a refrigerator.
+LINE 206: "Perhaps also a shawl for Tina's mother, she is so poor and sick, and
+LINE 207: the husband is such a care. Yes, yes, a thick, warm shawl would be a
+LINE 208: friendly thing to take the little mother."
+LINE 209: "I'll do it with pleasure, Mr. Bhaer. I'm going very fast and he's
+LINE 210: getting dearer every minute," added Jo to herself; then, with a mental
+LINE 211: shake, she entered into the business with an energy which was pleasant
+LINE 212: to behold.
+LINE 213: Mr. Bhaer left it all to her, so she chose a pretty gown for Tina, and
+LINE 214: then ordered out the shawls. The clerk, being a married man,
+LINE 215: condescended to take an interest in the couple, who appeared to be
+LINE 216: shopping for their family.
+LINE 217: "Your lady may prefer this; it's a superior article, a most desirable
+LINE 218: color, quite chaste and genteel," he said, shaking out a comfortable
+LINE 219: gray shawl, and throwing it over Jo's shoulders.
+LINE 220: [Illustration: Does this suit you, Mr. Bhaer?]
+LINE 221: "Does this suit you, Mr. Bhaer?" she asked, turning her back to him,
+LINE 222: and feeling deeply grateful for the chance of hiding her face.
+LINE 223: "Excellently well; we will haf it," answered the Professor, smiling to
+LINE 224: himself as he paid for it, while Jo continued to rummage the counters
+LINE 225: like a confirmed bargain-hunter.
+LINE 226: "Now shall we go home?" he asked, as if the words were very pleasant to
+LINE 227: him.
+LINE 228: "Yes; it's late, and I'm _so_ tired." Jo's voice was more pathetic than
+LINE 229: she knew; for now the sun seemed to have gone in as suddenly as it came
+LINE 230: out, the world grew muddy and miserable again, and for the first time
+LINE 231: she discovered that her feet were cold, her head ached, and that her
+LINE 232: heart was colder than the former, fuller of pain than the latter. Mr.
+LINE 233: Bhaer was going away; he only cared for her as a friend; it was all a
+LINE 234: mistake, and the sooner it was over the better. With this idea in her
+LINE 235: head, she hailed an approaching omnibus with such a hasty gesture that
+LINE 236: the daisies flew out of the pot and were badly damaged.
+LINE 237: "This is not our omniboos," said the Professor, waving the loaded
+LINE 238: vehicle away, and stopping to pick up the poor little flowers.
+LINE 239: "I beg your pardon, I didn't see the name distinctly. Never mind, I can
+LINE 240: walk. I'm used to plodding in the mud," returned Jo, winking hard,
+LINE 241: because she would have died rather than openly wipe her eyes.
+LINE 242: Mr. Bhaer saw the drops on her cheeks, though she turned her head away;
+LINE 243: the sight seemed to touch him very much, for, suddenly stooping down, he
+LINE 244: asked in a tone that meant a great deal,--
+LINE 245: "Heart's dearest, why do you cry?"
+LINE 246: Now, if Jo had not been new to this sort of thing she would have said
+LINE 247: she wasn't crying, had a cold in her head, or told any other feminine
+LINE 248: fib proper to the occasion; instead of which that undignified creature
+LINE 249: answered, with an irrepressible sob,--
+LINE 250: "Because you are going away."
+LINE 251: "Ach, mein Gott, that is _so_ good!" cried Mr. Bhaer, managing to clasp
+LINE 252: his hands in spite of the umbrella and the bundles. "Jo, I haf nothing
+LINE 253: but much love to gif you; I came to see if you could care for it, and I
+LINE 254: waited to be sure that I was something more than a friend. Am I? Can
+LINE 255: you make a little place in your heart for old Fritz?" he added, all in
+LINE 256: one breath.
+LINE 257: "Oh, yes!" said Jo; and he was quite satisfied, for she folded both
+LINE 258: hands over his arm, and looked up at him with an expression that plainly
+LINE 259: showed how happy she would be to walk through life beside him, even
+LINE 260: though she had no better shelter than the old umbrella, if he carried
+LINE 261: it.
+LINE 262: It was certainly proposing under difficulties, for, even if he had
+LINE 263: desired to do so, Mr. Bhaer could not go down upon his knees, on account
+LINE 264: of the mud; neither could he offer Jo his hand, except figuratively, for
+LINE 265: both were full; much less could he indulge in tender demonstrations in
+LINE 266: the open street, though he was near it: so the only way in which he
+LINE 267: could express his rapture was to look at her, with an expression which
+LINE 268: glorified his face to such a degree that there actually seemed to be
+LINE 269: little rainbows in the drops that sparkled on his beard. If he had not
+LINE 270: loved Jo very much, I don't think he could have done it _then_, for she
+LINE 271: looked far from lovely, with her skirts in a deplorable state, her
+LINE 272: rubber boots splashed to the ankle, and her bonnet a ruin. Fortunately,
+LINE 273: Mr. Bhaer considered her the most beautiful woman living, and she found
+LINE 274: him more "Jove-like" than ever, though his hat-brim was quite limp with
+LINE 275: the little rills trickling thence upon his shoulders (for he held the
+LINE 276: umbrella all over Jo), and every finger of his gloves needed mending.
+LINE 277: Passers-by probably thought them a pair of harmless lunatics, for they
+LINE 278: entirely forgot to hail a 'bus, and strolled leisurely along, oblivious
+LINE 279: of deepening dusk and fog. Little they cared what anybody thought, for
+LINE 280: they were enjoying the happy hour that seldom comes but once in any
+LINE 281: life, the magical moment which bestows youth on the old, beauty on the
+LINE 282: plain, wealth on the poor, and gives human hearts a foretaste of heaven.
+LINE 283: The Professor looked as if he had conquered a kingdom, and the world had
+LINE 284: nothing more to offer him in the way of bliss; while Jo trudged beside
+LINE 285: him, feeling as if her place had always been there, and wondering how
+LINE 286: she ever could have chosen any other lot. Of course, she was the first
+LINE 287: to speak--intelligibly, I mean, for the emotional remarks which followed
+LINE 288: her impetuous "Oh, yes!" were not of a coherent or reportable
+LINE 289: character.
+LINE 290: "Friedrich, why didn't you--"
+LINE 291: "Ah, heaven, she gifs me the name that no one speaks since Minna died!"
+LINE 292: cried the Professor, pausing in a puddle to regard her with grateful
+LINE 293: delight.
+LINE 294: "I always call you so to myself--I forgot; but I won't, unless you like
+LINE 295: it."
+LINE 296: "Like it? it is more sweet to me than I can tell. Say 'thou,' also, and
+LINE 297: I shall say your language is almost as beautiful as mine."
+LINE 298: "Isn't 'thou' a little sentimental?" asked Jo, privately thinking it a
+LINE 299: lovely monosyllable.
+LINE 300: "Sentimental? Yes. Thank Gott, we Germans believe in sentiment, and keep
+LINE 301: ourselves young mit it. Your English 'you' is so cold, say 'thou,'
+LINE 302: heart's dearest, it means so much to me," pleaded Mr. Bhaer, more like a
+LINE 303: romantic student than a grave professor.
+LINE 304: "Well, then, why didn't thou tell me all this sooner?" asked Jo
+LINE 305: bashfully.
+LINE 306: "Now I shall haf to show thee all my heart, and I so gladly will,
+LINE 307: because thou must take care of it hereafter. See, then, my Jo,--ah, the
+LINE 308: dear, funny little name!--I had a wish to tell something the day I said
+LINE 309: good-by, in New York; but I thought the handsome friend was betrothed to
+LINE 310: thee, and so I spoke not. Wouldst thou have said 'Yes,' then, if I _had_
+LINE 311: spoken?"
+LINE 312: "I don't know; I'm afraid not, for I didn't have any heart just then."
+LINE 313: "Prut! that I do not believe. It was asleep till the fairy prince came
+LINE 314: through the wood, and waked it up. Ah, well, 'Die erste Liebe ist die
+LINE 315: beste;' but that I should not expect."
+LINE 316: "Yes, the first love _is_ the best; so be contented, for I never had
+LINE 317: another. Teddy was only a boy, and soon got over his little fancy," said
+LINE 318: Jo, anxious to correct the Professor's mistake.
+LINE 319: "Good! then I shall rest happy, and be sure that thou givest me all. I
+LINE 320: haf waited so long, I am grown selfish, as thou wilt find, Professorin."
+LINE 321: "I like that," cried Jo, delighted with her new name. "Now tell me what
+LINE 322: brought you, at last, just when I most wanted you?"
+LINE 323: "This;" and Mr. Bhaer took a little worn paper out of his
+LINE 324: waistcoat-pocket.
+LINE 325: Jo unfolded it, and looked much abashed, for it was one of her own
+LINE 326: contributions to a paper that paid for poetry, which accounted for her
+LINE 327: sending it an occasional attempt.
+LINE 328: "How could that bring you?" she asked, wondering what he meant.
+LINE 329: "I found it by chance; I knew it by the names and the initials, and in
+LINE 330: it there was one little verse that seemed to call me. Read and find him;
+LINE 331: I will see that you go not in the wet."
+LINE 332: Jo obeyed, and hastily skimmed through the lines which she had
+LINE 333: christened--
+LINE 334: "IN THE GARRET.
+LINE 335: "Four little chests all in a row,
+LINE 336: Dim with dust, and worn by time,
+LINE 337: All fashioned and filled, long ago,
+LINE 338: By children now in their prime.
+LINE 339: Four little keys hung side by side,
+LINE 340: With faded ribbons, brave and gay
+LINE 341: When fastened there, with childish pride,
+LINE 342: Long ago, on a rainy day.
+LINE 343: Four little names, one on each lid,
+LINE 344: Carved out by a boyish hand,
+LINE 345: And underneath there lieth hid
+LINE 346: Histories of the happy band
+LINE 347: Once playing here, and pausing oft
+LINE 348: To hear the sweet refrain,
+LINE 349: That came and went on the roof aloft,
+LINE 350: In the falling summer rain.
+LINE 351: "'Meg' on the first lid, smooth and fair.
+LINE 352: I look in with loving eyes,
+LINE 353: For folded here, with well-known care,
+LINE 354: A goodly gathering lies,
+LINE 355: The record of a peaceful life,--
+LINE 356: Gifts to gentle child and girl,
+LINE 357: A bridal gown, lines to a wife,
+LINE 358: A tiny shoe, a baby curl.
+LINE 359: No toys in this first chest remain,
+LINE 360: For all are carried away,
+LINE 361: In their old age, to join again
+LINE 362: In another small Meg's play.
+LINE 363: Ah, happy mother! well I know
+LINE 364: You hear, like a sweet refrain,
+LINE 365: Lullabies ever soft and low
+LINE 366: In the falling summer rain.
+LINE 367: "'Jo' on the next lid, scratched and worn,
+LINE 368: And within a motley store
+LINE 369: Of headless dolls, of school-books torn,
+LINE 370: Birds and beasts that speak no more;
+LINE 371: Spoils brought home from the fairy ground
+LINE 372: Only trod by youthful feet,
+LINE 373: Dreams of a future never found,
+LINE 374: Memories of a past still sweet;
+LINE 375: Half-writ poems, stories wild,
+LINE 376: April letters, warm and cold,
+LINE 377: Diaries of a wilful child,
+LINE 378: Hints of a woman early old;
+LINE 379: A woman in a lonely home,
+LINE 380: Hearing, like a sad refrain,--
+LINE 381: 'Be worthy love, and love will come,'
+LINE 382: In the falling summer rain.
+LINE 383: "My Beth! the dust is always swept
+LINE 384: From the lid that bears your name,
+LINE 385: As if by loving eyes that wept,
+LINE 386: By careful hands that often came.
+LINE 387: Death canonized for us one saint,
+LINE 388: Ever less human than divine,
+LINE 389: And still we lay, with tender plaint,
+LINE 390: Relics in this household shrine.--
+LINE 391: The silver bell, so seldom rung,
+LINE 392: The little cap which last she wore,
+LINE 393: The fair, dead Catherine that hung
+LINE 394: By angels borne above her door;
+LINE 395: The songs she sang, without lament,
+LINE 396: In her prison-house of pain,
+LINE 397: Forever are they sweetly blent
+LINE 398: With the falling summer rain.
+LINE 399: "Upon the last lid's polished field--
+LINE 400: Legend now both fair and true--
+LINE 401: A gallant knight bears on his shield,
+LINE 402: 'Amy,' in letters gold and blue.
+LINE 403: Within lie snoods that bound her hair,
+LINE 404: Slippers that have danced their last,
+LINE 405: Faded flowers laid by with care,
+LINE 406: Fans whose airy toils are past;
+LINE 407: Gay valentines, all ardent flames,
+LINE 408: Trifles that have borne their part
+LINE 409: In girlish hopes and fears and shames,--
+LINE 410: The record of a maiden heart
+LINE 411: Now learning fairer, truer spells,
+LINE 412: Hearing, like a blithe refrain,
+LINE 413: The silver sound of bridal bells
+LINE 414: In the falling summer rain.
+LINE 415: "Four little chests all in a row,
+LINE 416: Dim with dust, and worn by time,
+LINE 417: Four women, taught by weal and woe
+LINE 418: To love and labor in their prime.
+LINE 419: Four sisters, parted for an hour,
+LINE 420: None lost, one only gone before,
+LINE 421: Made by love's immortal power,
+LINE 422: Nearest and dearest evermore.
+LINE 423: Oh, when these hidden stores of ours
+LINE 424: Lie open to the Father's sight,
+LINE 425: May they be rich in golden hours,
+LINE 426: Deeds that show fairer for the light,
+LINE 427: Lives whose brave music long shall ring,
+LINE 428: Like a spirit-stirring strain,
+LINE 429: Souls that shall gladly soar and sing
+LINE 430: In the long sunshine after rain.
+LINE 431: "J. M."
+LINE 432: "It's very bad poetry, but I felt it when I wrote it, one day when I was
+LINE 433: very lonely, and had a good cry on a rag-bag. I never thought it would
+LINE 434: go where it could tell tales," said Jo, tearing up the verses the
+LINE 435: Professor had treasured so long.
+LINE 436: "Let it go, it has done its duty, and I will haf a fresh one when I read
+LINE 437: all the brown book in which she keeps her little secrets," said Mr.
+LINE 438: Bhaer, with a smile, as he watched the fragments fly away on the wind.
+LINE 439: "Yes," he added earnestly, "I read that, and I think to myself, 'She has
+LINE 440: a sorrow, she is lonely, she would find comfort in true love. I haf a
+LINE 441: heart full, full for her; shall I not go and say, 'If this is not too
+LINE 442: poor a thing to gif for what I shall hope to receive, take it in Gott's
+LINE 443: name?'"
+LINE 444: "And so you came to find that it was not too poor, but the one precious
+LINE 445: thing I needed," whispered Jo.
+LINE 446: "I had no courage to think that at first, heavenly kind as was your
+LINE 447: welcome to me. But soon I began to hope, and then I said, 'I will haf
+LINE 448: her if I die for it,' and so I will!" cried Mr. Bhaer, with a defiant
+LINE 449: nod, as if the walls of mist closing round them were barriers which he
+LINE 450: was to surmount or valiantly knock down.
+LINE 451: Jo thought that was splendid, and resolved to be worthy of her knight,
+LINE 452: though he did not come prancing on a charger in gorgeous array.
+LINE 453: "What made you stay away so long?" she asked presently, finding it so
+LINE 454: pleasant to ask confidential questions and get delightful answers that
+LINE 455: she could not keep silent.
+LINE 456: "It was not easy, but I could not find the heart to take you from that
+LINE 457: so happy home until I could haf a prospect of one to give you, after
+LINE 458: much time, perhaps, and hard work. How could I ask you to gif up so much
+LINE 459: for a poor old fellow, who has no fortune but a little learning?"
+LINE 460: "I'm glad you _are_ poor; I couldn't bear a rich husband," said Jo
+LINE 461: decidedly, adding, in a softer tone, "Don't fear poverty; I've known it
+LINE 462: long enough to lose my dread, and be happy working for those I love; and
+LINE 463: don't call yourself old,--forty is the prime of life. I couldn't help
+LINE 464: loving you if you were seventy!"
+LINE 465: The Professor found that so touching that he would have been glad of his
+LINE 466: handkerchief, if he could have got at it; as he couldn't, Jo wiped his
+LINE 467: eyes for him, and said, laughing, as she took away a bundle or two,--
+LINE 468: "I may be strong-minded, but no one can say I'm out of my sphere now,
+LINE 469: for woman's special mission is supposed to be drying tears and bearing
+LINE 470: burdens. I'm to carry my share, Friedrich, and help to earn the home.
+LINE 471: Make up your mind to that, or I'll never go," she added resolutely, as
+LINE 472: he tried to reclaim his load.
+LINE 473: "We shall see. Haf you patience to wait a long time, Jo? I must go away
+LINE 474: and do my work alone. I must help my boys first, because, even for you,
+LINE 475: I may not break my word to Minna. Can you forgif that, and be happy
+LINE 476: while we hope and wait?"
+LINE 477: "Yes, I know I can; for we love one another, and that makes all the rest
+LINE 478: easy to bear. I have my duty, also, and my work. I couldn't enjoy myself
+LINE 479: if I neglected them even for you, so there's no need of hurry or
+LINE 480: impatience. You can do your part out West, I can do mine here, and both
+LINE 481: be happy hoping for the best, and leaving the future to be as God
+LINE 482: wills."
+LINE 483: "Ah! thou gifest me such hope and courage, and I haf nothing to gif back
+LINE 484: but a full heart and these empty hands," cried the Professor, quite
+LINE 485: overcome.
+LINE 486: [Illustration: Under the umbrella]
+LINE 487: Jo never, never would learn to be proper; for when he said that as they
+LINE 488: stood upon the steps, she just put both hands into his, whispering
+LINE 489: tenderly, "Not empty now;" and, stooping down, kissed her Friedrich
+LINE 490: under the umbrella. It was dreadful, but she would have done it if the
+LINE 491: flock of draggle-tailed sparrows on the hedge had been human beings, for
+LINE 492: she was very far gone indeed, and quite regardless of everything but her
+LINE 493: own happiness. Though it came in such a very simple guise, that was the
+LINE 494: crowning moment of both their lives, when, turning from the night and
+LINE 495: storm and loneliness to the household light and warmth and peace waiting
+LINE 496: to receive them, with a glad "Welcome home!" Jo led her lover in, and
+LINE 497: shut the door.
+LINE 498: [Illustration: Tail-piece]
+LINE 499: [Illustration: Harvest time]

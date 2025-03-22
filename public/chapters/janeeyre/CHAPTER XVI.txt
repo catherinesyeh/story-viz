@@ -1,0 +1,339 @@
+LINE 1: I both wished and feared to see Mr. Rochester on the day which followed
+LINE 2: this sleepless night: I wanted to hear his voice again, yet feared to
+LINE 3: meet his eye. During the early part of the morning, I momentarily
+LINE 4: expected his coming; he was not in the frequent habit of entering the
+LINE 5: schoolroom, but he did step in for a few minutes sometimes, and I had
+LINE 6: the impression that he was sure to visit it that day.
+LINE 7: But the morning passed just as usual: nothing happened to interrupt the
+LINE 8: quiet course of Adèle's studies; only soon after breakfast, I heard
+LINE 9: some bustle in the neighbourhood of Mr. Rochester's chamber, Mrs.
+LINE 10: Fairfax's voice, and Leah's, and the cook's—that is, John's wife—and
+LINE 11: even John's own gruff tones. There were exclamations of "What a mercy
+LINE 12: master was not burnt in his bed!" "It is always dangerous to keep a
+LINE 13: candle lit at night." "How providential that he had presence of mind to
+LINE 14: think of the water-jug!" "I wonder he waked nobody!" "It is to be hoped
+LINE 15: he will not take cold with sleeping on the library sofa," &c.
+LINE 16: To much confabulation succeeded a sound of scrubbing and setting to
+LINE 17: rights; and when I passed the room, in going downstairs to dinner, I
+LINE 18: saw through the open door that all was again restored to complete
+LINE 19: order; only the bed was stripped of its hangings. Leah stood up in the
+LINE 20: window-seat, rubbing the panes of glass dimmed with smoke. I was about
+LINE 21: to address her, for I wished to know what account had been given of the
+LINE 22: affair: but, on advancing, I saw a second person in the chamber—a woman
+LINE 23: sitting on a chair by the bedside, and sewing rings to new curtains.
+LINE 24: That woman was no other than Grace Poole.
+LINE 25: There she sat, staid and taciturn-looking, as usual, in her brown stuff
+LINE 26: gown, her check apron, white handkerchief, and cap. She was intent on
+LINE 27: her work, in which her whole thoughts seemed absorbed: on her hard
+LINE 28: forehead, and in her commonplace features, was nothing either of the
+LINE 29: paleness or desperation one would have expected to see marking the
+LINE 30: countenance of a woman who had attempted murder, and whose intended
+LINE 31: victim had followed her last night to her lair, and (as I believed),
+LINE 32: charged her with the crime she wished to perpetrate. I was
+LINE 33: amazed—confounded. She looked up, while I still gazed at her: no start,
+LINE 34: no increase or failure of colour betrayed emotion, consciousness of
+LINE 35: guilt, or fear of detection. She said "Good morning, Miss," in her
+LINE 36: usual phlegmatic and brief manner; and taking up another ring and more
+LINE 37: tape, went on with her sewing.
+LINE 38: "I will put her to some test," thought I: "such absolute
+LINE 39: impenetrability is past comprehension."
+LINE 40: "Good morning, Grace," I said. "Has anything happened here? I thought I
+LINE 41: heard the servants all talking together a while ago."
+LINE 42: "Only master had been reading in his bed last night; he fell asleep
+LINE 43: with his candle lit, and the curtains got on fire; but, fortunately, he
+LINE 44: awoke before the bed-clothes or the wood-work caught, and contrived to
+LINE 45: quench the flames with the water in the ewer."
+LINE 46: "A strange affair!" I said, in a low voice: then, looking at her
+LINE 47: fixedly—"Did Mr. Rochester wake nobody? Did no one hear him move?"
+LINE 48: She again raised her eyes to me, and this time there was something of
+LINE 49: consciousness in their expression. She seemed to examine me warily;
+LINE 50: then she answered—
+LINE 51: "The servants sleep so far off, you know, Miss, they would not be
+LINE 52: likely to hear. Mrs. Fairfax's room and yours are the nearest to
+LINE 53: master's; but Mrs. Fairfax said she heard nothing: when people get
+LINE 54: elderly, they often sleep heavy." She paused, and then added, with a
+LINE 55: sort of assumed indifference, but still in a marked and significant
+LINE 56: tone—"But you are young, Miss; and I should say a light sleeper:
+LINE 57: perhaps you may have heard a noise?"
+LINE 58: "I did," said I, dropping my voice, so that Leah, who was still
+LINE 59: polishing the panes, could not hear me, "and at first I thought it was
+LINE 60: Pilot: but Pilot cannot laugh; and I am certain I heard a laugh, and a
+LINE 61: strange one."
+LINE 62: She took a new needleful of thread, waxed it carefully, threaded her
+LINE 63: needle with a steady hand, and then observed, with perfect composure—
+LINE 64: "It is hardly likely master would laugh, I should think, Miss, when he
+LINE 65: was in such danger: You must have been dreaming."
+LINE 66: "I was not dreaming," I said, with some warmth, for her brazen coolness
+LINE 67: provoked me. Again she looked at me; and with the same scrutinising and
+LINE 68: conscious eye.
+LINE 69: "Have you told master that you heard a laugh?" she inquired.
+LINE 70: "I have not had the opportunity of speaking to him this morning."
+LINE 71: "You did not think of opening your door and looking out into the
+LINE 72: gallery?" she further asked.
+LINE 73: She appeared to be cross-questioning me, attempting to draw from me
+LINE 74: information unawares. The idea struck me that if she discovered I knew
+LINE 75: or suspected her guilt, she would be playing of some of her malignant
+LINE 76: pranks on me; I thought it advisable to be on my guard.
+LINE 77: "On the contrary," said I, "I bolted my door."
+LINE 78: "Then you are not in the habit of bolting your door every night before
+LINE 79: you get into bed?"
+LINE 80: "Fiend! she wants to know my habits, that she may lay her plans
+LINE 81: accordingly!" Indignation again prevailed over prudence: I replied
+LINE 82: sharply, "Hitherto I have often omitted to fasten the bolt: I did not
+LINE 83: think it necessary. I was not aware any danger or annoyance was to be
+LINE 84: dreaded at Thornfield Hall: but in future" (and I laid marked stress on
+LINE 85: the words) "I shall take good care to make all secure before I venture
+LINE 86: to lie down."
+LINE 87: "It will be wise so to do," was her answer: "this neighbourhood is as
+LINE 88: quiet as any I know, and I never heard of the hall being attempted by
+LINE 89: robbers since it was a house; though there are hundreds of pounds'
+LINE 90: worth of plate in the plate-closet, as is well known. And you see, for
+LINE 91: such a large house, there are very few servants, because master has
+LINE 92: never lived here much; and when he does come, being a bachelor, he
+LINE 93: needs little waiting on: but I always think it best to err on the safe
+LINE 94: side; a door is soon fastened, and it is as well to have a drawn bolt
+LINE 95: between one and any mischief that may be about. A deal of people, Miss,
+LINE 96: are for trusting all to Providence; but I say Providence will not
+LINE 97: dispense with the means, though He often blesses them when they are
+LINE 98: used discreetly." And here she closed her harangue: a long one for her,
+LINE 99: and uttered with the demureness of a Quakeress.
+LINE 100: I still stood absolutely dumfoundered at what appeared to me her
+LINE 101: miraculous self-possession and most inscrutable hypocrisy, when the
+LINE 102: cook entered.
+LINE 103: "Mrs. Poole," said she, addressing Grace, "the servants' dinner will
+LINE 104: soon be ready: will you come down?"
+LINE 105: "No; just put my pint of porter and bit of pudding on a tray, and I'll
+LINE 106: carry it upstairs."
+LINE 107: "You'll have some meat?"
+LINE 108: "Just a morsel, and a taste of cheese, that's all."
+LINE 109: "And the sago?"
+LINE 110: "Never mind it at present: I shall be coming down before teatime: I'll
+LINE 111: make it myself."
+LINE 112: The cook here turned to me, saying that Mrs. Fairfax was waiting for
+LINE 113: me: so I departed.
+LINE 114: I hardly heard Mrs. Fairfax's account of the curtain conflagration
+LINE 115: during dinner, so much was I occupied in puzzling my brains over the
+LINE 116: enigmatical character of Grace Poole, and still more in pondering the
+LINE 117: problem of her position at Thornfield and questioning why she had not
+LINE 118: been given into custody that morning, or, at the very least, dismissed
+LINE 119: from her master's service. He had almost as much as declared his
+LINE 120: conviction of her criminality last night: what mysterious cause
+LINE 121: withheld him from accusing her? Why had he enjoined me, too, to
+LINE 122: secrecy? It was strange: a bold, vindictive, and haughty gentleman
+LINE 123: seemed somehow in the power of one of the meanest of his dependents; so
+LINE 124: much in her power, that even when she lifted her hand against his life,
+LINE 125: he dared not openly charge her with the attempt, much less punish her
+LINE 126: for it.
+LINE 127: Had Grace been young and handsome, I should have been tempted to think
+LINE 128: that tenderer feelings than prudence or fear influenced Mr. Rochester
+LINE 129: in her behalf; but, hard-favoured and matronly as she was, the idea
+LINE 130: could not be admitted. "Yet," I reflected, "she has been young once;
+LINE 131: her youth would be contemporary with her master's: Mrs. Fairfax told me
+LINE 132: once, she had lived here many years. I don't think she can ever have
+LINE 133: been pretty; but, for aught I know, she may possess originality and
+LINE 134: strength of character to compensate for the want of personal
+LINE 135: advantages. Mr. Rochester is an amateur of the decided and eccentric:
+LINE 136: Grace is eccentric at least. What if a former caprice (a freak very
+LINE 137: possible to a nature so sudden and headstrong as his) has delivered him
+LINE 138: into her power, and she now exercises over his actions a secret
+LINE 139: influence, the result of his own indiscretion, which he cannot shake
+LINE 140: off, and dare not disregard?" But, having reached this point of
+LINE 141: conjecture, Mrs. Poole's square, flat figure, and uncomely, dry, even
+LINE 142: coarse face, recurred so distinctly to my mind's eye, that I thought,
+LINE 143: "No; impossible! my supposition cannot be correct. Yet," suggested the
+LINE 144: secret voice which talks to us in our own hearts, "_you_ are not
+LINE 145: beautiful either, and perhaps Mr. Rochester approves you: at any rate,
+LINE 146: you have often felt as if he did; and last night—remember his words;
+LINE 147: remember his look; remember his voice!"
+LINE 148: I well remembered all; language, glance, and tone seemed at the moment
+LINE 149: vividly renewed. I was now in the schoolroom; Adèle was drawing; I bent
+LINE 150: over her and directed her pencil. She looked up with a sort of start.
+LINE 151: "Qu'avez-vous, mademoiselle?" said she. "Vos doigts tremblent comme la
+LINE 152: feuille, et vos joues sont rouges: mais, rouges comme des cerises!"
+LINE 153: "I am hot, Adèle, with stooping!" She went on sketching; I went on
+LINE 154: thinking.
+LINE 155: I hastened to drive from my mind the hateful notion I had been
+LINE 156: conceiving respecting Grace Poole; it disgusted me. I compared myself
+LINE 157: with her, and found we were different. Bessie Leaven had said I was
+LINE 158: quite a lady; and she spoke truth—I was a lady. And now I looked much
+LINE 159: better than I did when Bessie saw me; I had more colour and more flesh,
+LINE 160: more life, more vivacity, because I had brighter hopes and keener
+LINE 161: enjoyments.
+LINE 162: "Evening approaches," said I, as I looked towards the window. "I have
+LINE 163: never heard Mr. Rochester's voice or step in the house to-day; but
+LINE 164: surely I shall see him before night: I feared the meeting in the
+LINE 165: morning; now I desire it, because expectation has been so long baffled
+LINE 166: that it is grown impatient."
+LINE 167: When dusk actually closed, and when Adèle left me to go and play in the
+LINE 168: nursery with Sophie, I did most keenly desire it. I listened for the
+LINE 169: bell to ring below; I listened for Leah coming up with a message; I
+LINE 170: fancied sometimes I heard Mr. Rochester's own tread, and I turned to
+LINE 171: the door, expecting it to open and admit him. The door remained shut;
+LINE 172: darkness only came in through the window. Still it was not late; he
+LINE 173: often sent for me at seven and eight o'clock, and it was yet but six.
+LINE 174: Surely I should not be wholly disappointed to-night, when I had so many
+LINE 175: things to say to him! I wanted again to introduce the subject of Grace
+LINE 176: Poole, and to hear what he would answer; I wanted to ask him plainly if
+LINE 177: he really believed it was she who had made last night's hideous
+LINE 178: attempt; and if so, why he kept her wickedness a secret. It little
+LINE 179: mattered whether my curiosity irritated him; I knew the pleasure of
+LINE 180: vexing and soothing him by turns; it was one I chiefly delighted in,
+LINE 181: and a sure instinct always prevented me from going too far; beyond the
+LINE 182: verge of provocation I never ventured; on the extreme brink I liked
+LINE 183: well to try my skill. Retaining every minute form of respect, every
+LINE 184: propriety of my station, I could still meet him in argument without
+LINE 185: fear or uneasy restraint; this suited both him and me.
+LINE 186: A tread creaked on the stairs at last. Leah made her appearance; but it
+LINE 187: was only to intimate that tea was ready in Mrs. Fairfax's room. Thither
+LINE 188: I repaired, glad at least to go downstairs; for that brought me, I
+LINE 189: imagined, nearer to Mr. Rochester's presence.
+LINE 190: "You must want your tea," said the good lady, as I joined her; "you ate
+LINE 191: so little at dinner. I am afraid," she continued, "you are not well
+LINE 192: to-day: you look flushed and feverish."
+LINE 193: "Oh, quite well! I never felt better."
+LINE 194: "Then you must prove it by evincing a good appetite; will you fill the
+LINE 195: teapot while I knit off this needle?" Having completed her task, she
+LINE 196: rose to draw down the blind, which she had hitherto kept up, by way, I
+LINE 197: suppose, of making the most of daylight, though dusk was now fast
+LINE 198: deepening into total obscurity.
+LINE 199: "It is fair to-night," said she, as she looked through the panes,
+LINE 200: "though not starlight; Mr. Rochester has, on the whole, had a
+LINE 201: favourable day for his journey."
+LINE 202: "Journey!—Is Mr. Rochester gone anywhere? I did not know he was out."
+LINE 203: "Oh, he set off the moment he had breakfasted! He is gone to the Leas,
+LINE 204: Mr. Eshton's place, ten miles on the other side Millcote. I believe
+LINE 205: there is quite a party assembled there; Lord Ingram, Sir George Lynn,
+LINE 206: Colonel Dent, and others."
+LINE 207: "Do you expect him back to-night?"
+LINE 208: "No—nor to-morrow either; I should think he is very likely to stay a
+LINE 209: week or more: when these fine, fashionable people get together, they
+LINE 210: are so surrounded by elegance and gaiety, so well provided with all
+LINE 211: that can please and entertain, they are in no hurry to separate.
+LINE 212: Gentlemen especially are often in request on such occasions; and Mr.
+LINE 213: Rochester is so talented and so lively in society, that I believe he is
+LINE 214: a general favourite: the ladies are very fond of him; though you would
+LINE 215: not think his appearance calculated to recommend him particularly in
+LINE 216: their eyes: but I suppose his acquirements and abilities, perhaps his
+LINE 217: wealth and good blood, make amends for any little fault of look."
+LINE 218: "Are there ladies at the Leas?"
+LINE 219: "There are Mrs. Eshton and her three daughters—very elegant young
+LINE 220: ladies indeed; and there are the Honourable Blanche and Mary Ingram,
+LINE 221: most beautiful women, I suppose: indeed I have seen Blanche, six or
+LINE 222: seven years since, when she was a girl of eighteen. She came here to a
+LINE 223: Christmas ball and party Mr. Rochester gave. You should have seen the
+LINE 224: dining-room that day—how richly it was decorated, how brilliantly lit
+LINE 225: up! I should think there were fifty ladies and gentlemen present—all of
+LINE 226: the first county families; and Miss Ingram was considered the belle of
+LINE 227: the evening."
+LINE 228: "You saw her, you say, Mrs. Fairfax: what was she like?"
+LINE 229: "Yes, I saw her. The dining-room doors were thrown open; and, as it was
+LINE 230: Christmas-time, the servants were allowed to assemble in the hall, to
+LINE 231: hear some of the ladies sing and play. Mr. Rochester would have me to
+LINE 232: come in, and I sat down in a quiet corner and watched them. I never saw
+LINE 233: a more splendid scene: the ladies were magnificently dressed; most of
+LINE 234: them—at least most of the younger ones—looked handsome; but Miss Ingram
+LINE 235: was certainly the queen."
+LINE 236: "And what was she like?"
+LINE 237: "Tall, fine bust, sloping shoulders; long, graceful neck: olive
+LINE 238: complexion, dark and clear; noble features; eyes rather like Mr.
+LINE 239: Rochester's: large and black, and as brilliant as her jewels. And then
+LINE 240: she had such a fine head of hair; raven-black and so becomingly
+LINE 241: arranged: a crown of thick plaits behind, and in front the longest, the
+LINE 242: glossiest curls I ever saw. She was dressed in pure white; an
+LINE 243: amber-coloured scarf was passed over her shoulder and across her
+LINE 244: breast, tied at the side, and descending in long, fringed ends below
+LINE 245: her knee. She wore an amber-coloured flower, too, in her hair: it
+LINE 246: contrasted well with the jetty mass of her curls."
+LINE 247: "She was greatly admired, of course?"
+LINE 248: "Yes, indeed: and not only for her beauty, but for her accomplishments.
+LINE 249: She was one of the ladies who sang: a gentleman accompanied her on the
+LINE 250: piano. She and Mr. Rochester sang a duet."
+LINE 251: "Mr. Rochester? I was not aware he could sing."
+LINE 252: "Oh! he has a fine bass voice, and an excellent taste for music."
+LINE 253: "And Miss Ingram: what sort of a voice had she?"
+LINE 254: "A very rich and powerful one: she sang delightfully; it was a treat to
+LINE 255: listen to her;—and she played afterwards. I am no judge of music, but
+LINE 256: Mr. Rochester is; and I heard him say her execution was remarkably
+LINE 257: good."
+LINE 258: "And this beautiful and accomplished lady, she is not yet married?"
+LINE 259: "It appears not: I fancy neither she nor her sister have very large
+LINE 260: fortunes. Old Lord Ingram's estates were chiefly entailed, and the
+LINE 261: eldest son came in for everything almost."
+LINE 262: "But I wonder no wealthy nobleman or gentleman has taken a fancy to
+LINE 263: her: Mr. Rochester, for instance. He is rich, is he not?"
+LINE 264: "Oh! yes. But you see there is a considerable difference in age: Mr.
+LINE 265: Rochester is nearly forty; she is but twenty-five."
+LINE 266: "What of that? More unequal matches are made every day."
+LINE 267: "True: yet I should scarcely fancy Mr. Rochester would entertain an
+LINE 268: idea of the sort. But you eat nothing: you have scarcely tasted since
+LINE 269: you began tea."
+LINE 270: "No: I am too thirsty to eat. Will you let me have another cup?"
+LINE 271: I was about again to revert to the probability of a union between Mr.
+LINE 272: Rochester and the beautiful Blanche; but Adèle came in, and the
+LINE 273: conversation was turned into another channel.
+LINE 274: When once more alone, I reviewed the information I had got; looked into
+LINE 275: my heart, examined its thoughts and feelings, and endeavoured to bring
+LINE 276: back with a strict hand such as had been straying through imagination's
+LINE 277: boundless and trackless waste, into the safe fold of common sense.
+LINE 278: Arraigned at my own bar, Memory having given her evidence of the hopes,
+LINE 279: wishes, sentiments I had been cherishing since last night—of the
+LINE 280: general state of mind in which I had indulged for nearly a fortnight
+LINE 281: past; Reason having come forward and told, in her own quiet way, a
+LINE 282: plain, unvarnished tale, showing how I had rejected the real, and
+LINE 283: rabidly devoured the ideal;—I pronounced judgment to this effect:—
+LINE 284: That a greater fool than Jane Eyre had never breathed the breath of
+LINE 285: life; that a more fantastic idiot had never surfeited herself on sweet
+LINE 286: lies, and swallowed poison as if it were nectar.
+LINE 287: "_You_," I said, "a favourite with Mr. Rochester? _You_ gifted with the
+LINE 288: power of pleasing him? _You_ of importance to him in any way? Go! your
+LINE 289: folly sickens me. And you have derived pleasure from occasional tokens
+LINE 290: of preference—equivocal tokens shown by a gentleman of family and a man
+LINE 291: of the world to a dependent and a novice. How dared you? Poor stupid
+LINE 292: dupe!—Could not even self-interest make you wiser? You repeated to
+LINE 293: yourself this morning the brief scene of last night?—Cover your face
+LINE 294: and be ashamed! He said something in praise of your eyes, did he? Blind
+LINE 295: puppy! Open their bleared lids and look on your own accursed
+LINE 296: senselessness! It does good to no woman to be flattered by her
+LINE 297: superior, who cannot possibly intend to marry her; and it is madness in
+LINE 298: all women to let a secret love kindle within them, which, if unreturned
+LINE 299: and unknown, must devour the life that feeds it; and, if discovered and
+LINE 300: responded to, must lead, _ignis-fatuus_-like, into miry wilds whence
+LINE 301: there is no extrication.
+LINE 302: "Listen, then, Jane Eyre, to your sentence: to-morrow, place the glass
+LINE 303: before you, and draw in chalk your own picture, faithfully, without
+LINE 304: softening one defect; omit no harsh line, smooth away no displeasing
+LINE 305: irregularity; write under it, 'Portrait of a Governess, disconnected,
+LINE 306: poor, and plain.'
+LINE 307: "Afterwards, take a piece of smooth ivory—you have one prepared in your
+LINE 308: drawing-box: take your palette, mix your freshest, finest, clearest
+LINE 309: tints; choose your most delicate camel-hair pencils; delineate
+LINE 310: carefully the loveliest face you can imagine; paint it in your softest
+LINE 311: shades and sweetest lines, according to the description given by Mrs.
+LINE 312: Fairfax of Blanche Ingram; remember the raven ringlets, the oriental
+LINE 313: eye;—What! you revert to Mr. Rochester as a model! Order! No snivel!—no
+LINE 314: sentiment!—no regret! I will endure only sense and resolution. Recall
+LINE 315: the august yet harmonious lineaments, the Grecian neck and bust; let
+LINE 316: the round and dazzling arm be visible, and the delicate hand; omit
+LINE 317: neither diamond ring nor gold bracelet; portray faithfully the attire,
+LINE 318: aërial lace and glistening satin, graceful scarf and golden rose; call
+LINE 319: it 'Blanche, an accomplished lady of rank.'
+LINE 320: "Whenever, in future, you should chance to fancy Mr. Rochester thinks
+LINE 321: well of you, take out these two pictures and compare them: say, 'Mr.
+LINE 322: Rochester might probably win that noble lady's love, if he chose to
+LINE 323: strive for it; is it likely he would waste a serious thought on this
+LINE 324: indigent and insignificant plebeian?'"
+LINE 325: "I'll do it," I resolved: and having framed this determination, I grew
+LINE 326: calm, and fell asleep.
+LINE 327: I kept my word. An hour or two sufficed to sketch my own portrait in
+LINE 328: crayons; and in less than a fortnight I had completed an ivory
+LINE 329: miniature of an imaginary Blanche Ingram. It looked a lovely face
+LINE 330: enough, and when compared with the real head in chalk, the contrast was
+LINE 331: as great as self-control could desire. I derived benefit from the task:
+LINE 332: it had kept my head and hands employed, and had given force and
+LINE 333: fixedness to the new impressions I wished to stamp indelibly on my
+LINE 334: heart.
+LINE 335: Ere long, I had reason to congratulate myself on the course of
+LINE 336: wholesome discipline to which I had thus forced my feelings to submit.
+LINE 337: Thanks to it, I was able to meet subsequent occurrences with a decent
+LINE 338: calm, which, had they found me unprepared, I should probably have been
+LINE 339: unequal to maintain, even externally.

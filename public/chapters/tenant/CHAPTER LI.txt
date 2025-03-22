@@ -1,0 +1,301 @@
+LINE 1: We will now turn to a certain still, cold, cloudy afternoon about the
+LINE 2: commencement of December, when the first fall of snow lay thinly
+LINE 3: scattered over the blighted fields and frozen roads, or stored more
+LINE 4: thickly in the hollows of the deep cart-ruts and footsteps of men and
+LINE 5: horses impressed in the now petrified mire of last month's drenching
+LINE 6: rains. I remember it well, for I was walking home from the vicarage
+LINE 7: with no less remarkable a personage than Miss Eliza Millward by my
+LINE 8: side. I had been to call upon her father,—a sacrifice to civility
+LINE 9: undertaken entirely to please my mother, not myself, for I hated to go
+LINE 10: near the house; not merely on account of my antipathy to the once so
+LINE 11: bewitching Eliza, but because I had not half forgiven the old gentleman
+LINE 12: himself for his ill opinion of Mrs. Huntingdon; for though now
+LINE 13: constrained to acknowledge himself mistaken in his former judgment, he
+LINE 14: still maintained that she had done wrong to leave her husband; it was a
+LINE 15: violation of her sacred duties as a wife, and a tempting of Providence
+LINE 16: by laying herself open to temptation; and nothing short of bodily
+LINE 17: ill-usage (and that of no trifling nature) could excuse such a step—nor
+LINE 18: even that, for in such a case she ought to appeal to the laws for
+LINE 19: protection. But it was not of him I intended to speak; it was of his
+LINE 20: daughter Eliza. Just as I was taking leave of the vicar, she entered
+LINE 21: the room, ready equipped for a walk.
+LINE 22: "I was just coming to see your sister, Mr. Markham," said she; "and so,
+LINE 23: if you have no objection, I'll accompany you home. I like company when
+LINE 24: I'm walking out—don't you?"
+LINE 25: "Yes, when it's agreeable."
+LINE 26: "That of course," rejoined the young lady, smiling archly.
+LINE 27: So we proceeded together.
+LINE 28: "Shall I find Rose at home, do you think?" said she, as we closed the
+LINE 29: garden gate, and set our faces towards Linden-Car.
+LINE 30: "I believe so."
+LINE 31: "I trust I shall, for I've a little bit of news for her—if you haven't
+LINE 32: forestalled me."
+LINE 33: "I?"
+LINE 34: "Yes: do you know what Mr. Lawrence is gone for?" She looked up
+LINE 35: anxiously for my reply.
+LINE 36: "_Is_ he gone?" said I; and her face brightened.
+LINE 37: "Ah! then he hasn't told you about his sister?"
+LINE 38: "What of _her?_" I demanded in terror, lest some evil should have
+LINE 39: befallen her.
+LINE 40: "Oh, Mr. Markham, how you blush!" cried she, with a tormenting laugh.
+LINE 41: "Ha, ha, you have not forgotten her yet. But you had better be quick
+LINE 42: about it, I can tell you, for—alas, alas!—she's going to be married
+LINE 43: next Thursday!"
+LINE 44: "No, Miss Eliza, that's false."
+LINE 45: "Do you charge me with a falsehood, sir?"
+LINE 46: "You are misinformed."
+LINE 47: "Am I? Do you know better, then?"
+LINE 48: "I think I do."
+LINE 49: "What makes you look so pale then?" said she, smiling with delight at
+LINE 50: my emotion. "Is it anger at poor me for telling such a fib? Well, I
+LINE 51: only 'tell the tale as 'twas told to me:' I don't vouch for the truth
+LINE 52: of it; but at the same time, I don't see what reason Sarah should have
+LINE 53: for deceiving me, or her informant for deceiving her; and that was what
+LINE 54: she told me the footman told her:—that Mrs. Huntingdon was going to be
+LINE 55: married on Thursday, and Mr. Lawrence was gone to the wedding. She did
+LINE 56: tell me the name of the gentleman, but I've forgotten that. Perhaps you
+LINE 57: can assist me to remember it. Is there not some one that lives near—or
+LINE 58: frequently visits the neighbourhood, that has long been attached to
+LINE 59: her?—a Mr.—oh, dear! Mr.—"
+LINE 60: "Hargrave?" suggested I, with a bitter smile.
+LINE 61: "You're right," cried she; "that was the very name."
+LINE 62: "Impossible, Miss Eliza!" I exclaimed, in a tone that made her start.
+LINE 63: "Well, you know, that's what they told me," said she, composedly
+LINE 64: staring me in the face. And then she broke out into a long shrill laugh
+LINE 65: that put me to my wit's end with fury.
+LINE 66: "Really you must excuse me," cried she. "I know it's very rude, but ha,
+LINE 67: ha, ha!—did you think to marry her yourself? Dear, dear, what a
+LINE 68: pity!—ha, ha, ha! Gracious, Mr. Markham, are you going to faint? Oh,
+LINE 69: mercy! shall I call this man? Here, Jacob—" But checking the word on
+LINE 70: her lips, I seized her arm and gave it, I think, a pretty severe
+LINE 71: squeeze, for she shrank into herself with a faint cry of pain or
+LINE 72: terror; but the spirit within her was not subdued: instantly rallying,
+LINE 73: she continued, with well-feigned concern, "What can I do for you? Will
+LINE 74: you have some water—some brandy? I daresay they have some in the
+LINE 75: public-house down there, if you'll let me run."
+LINE 76: "Have done with this nonsense!" cried I, sternly. She looked
+LINE 77: confounded—almost frightened again, for a moment. "You know I hate such
+LINE 78: jests," I continued.
+LINE 79: "_Jests_ indeed! I wasn't _jesting!_"
+LINE 80: "You were laughing, at all events; and I don't like to be laughed at,"
+LINE 81: returned I, making violent efforts to speak with proper dignity and
+LINE 82: composure, and to say nothing but what was coherent and sensible. "And
+LINE 83: since you are in such a merry mood, Miss Eliza, you must be good enough
+LINE 84: company for yourself; and therefore I shall leave you to finish your
+LINE 85: walk alone—for, now I think of it, I have business elsewhere; so
+LINE 86: good-evening."
+LINE 87: With that I left her (smothering her malicious laughter) and turned
+LINE 88: aside into the fields, springing up the bank, and pushing through the
+LINE 89: nearest gap in the hedge. Determined at once to prove the truth—or
+LINE 90: rather the falsehood—of her story, I hastened to Woodford as fast as my
+LINE 91: legs could carry me; first veering round by a circuitous course, but
+LINE 92: the moment I was out of sight of my fair tormentor cutting away across
+LINE 93: the country, just as a bird might fly, over pasture-land, and fallow,
+LINE 94: and stubble, and lane, clearing hedges and ditches and hurdles, till I
+LINE 95: came to the young squire's gates. Never till now had I known the full
+LINE 96: fervour of my love—the full strength of my hopes, not wholly crushed
+LINE 97: even in my hours of deepest despondency, always tenaciously clinging to
+LINE 98: the thought that one day she might be mine, or, if not that, at least
+LINE 99: that something of my memory, some slight remembrance of our friendship
+LINE 100: and our love, would be for ever cherished in her heart. I marched up to
+LINE 101: the door, determined, if I saw the master, to question him boldly
+LINE 102: concerning his sister, to wait and hesitate no longer, but cast false
+LINE 103: delicacy and stupid pride behind my back, and know my fate at once.
+LINE 104: "Is Mr. Lawrence at home?" I eagerly asked of the servant that opened
+LINE 105: the door.
+LINE 106: "No, sir, master went yesterday," replied he, looking very alert.
+LINE 107: "Went where?"
+LINE 108: "To Grassdale, sir—wasn't you aware, sir? He's very close, is master,"
+LINE 109: said the fellow, with a foolish, simpering grin. "I suppose, sir—"
+LINE 110: But I turned and left him, without waiting to hear what he supposed. I
+LINE 111: was not going to stand there to expose my tortured feelings to the
+LINE 112: insolent laughter and impertinent curiosity of a fellow like that.
+LINE 113: But what was to be done now? Could it be possible that she had left me
+LINE 114: for _that_ man? I could not believe it. Me she might forsake, but _not_
+LINE 115: to give herself to him! Well, I would know the truth; to no concerns of
+LINE 116: daily life could I attend while this tempest of doubt and dread, of
+LINE 117: jealousy and rage, distracted me. I would take the morning coach from
+LINE 118: L—— (the evening one would be already gone), and fly to Grassdale—I
+LINE 119: _must_ be there before the marriage. And why? Because a thought struck
+LINE 120: me that _perhaps_ I might prevent it—that if I did not, she and I might
+LINE 121: both lament it to the latest moment of our lives. It struck me that
+LINE 122: someone might have belied me to her: perhaps her brother; yes, no doubt
+LINE 123: her brother had persuaded her that I was false and faithless, and
+LINE 124: taking advantage of her natural indignation, and perhaps her desponding
+LINE 125: carelessness about her future life, had urged her, artfully, cruelly,
+LINE 126: on to this other marriage, in order to secure her from me. If this
+LINE 127: _was_ the case, and if she should only discover her mistake when too
+LINE 128: late to repair it—to what a life of misery and vain regret might she be
+LINE 129: doomed as well as me; and what remorse for me to think my foolish
+LINE 130: scruples had induced it all! Oh, I _must_ see her—she must know my
+LINE 131: truth even if I told it at the church door! I might pass for a madman
+LINE 132: or an impertinent fool—even she might be offended at such an
+LINE 133: interruption, or at least might tell me it was now too late. But if I
+LINE 134: _could_ save her, if she _might_ be mine!—it was too rapturous a
+LINE 135: thought!
+LINE 136: Winged by this hope, and goaded by these fears, I hurried homewards to
+LINE 137: prepare for my departure on the morrow. I told my mother that urgent
+LINE 138: business which admitted no delay, but which I could not then explain,
+LINE 139: called me away.
+LINE 140: My deep anxiety and serious preoccupation could not be concealed from
+LINE 141: her maternal eyes; and I had much ado to calm her apprehensions of some
+LINE 142: disastrous mystery.
+LINE 143: That night there came a heavy fall of snow, which so retarded the
+LINE 144: progress of the coaches on the following day that I was almost driven
+LINE 145: to distraction. I travelled all night, of course, for this was
+LINE 146: Wednesday: to-morrow morning, doubtless, the marriage would take place.
+LINE 147: But the night was long and dark: the snow heavily clogged the wheels
+LINE 148: and balled the horses' feet; the animals were consumedly lazy; the
+LINE 149: coachman most execrably cautious; the passengers confoundedly apathetic
+LINE 150: in their supine indifference to the rate of our progression. Instead of
+LINE 151: assisting me to bully the several coachmen and urge them forward, they
+LINE 152: merely stared and grinned at my impatience: one fellow even ventured to
+LINE 153: rally me upon it—but I silenced him with a look that quelled him for
+LINE 154: the rest of the journey; and when, at the last stage, I would have
+LINE 155: taken the reins into my own hand, they all with one accord opposed it.
+LINE 156: It was broad daylight when we entered M—— and drew up at the "Rose and
+LINE 157: Crown." I alighted and called aloud for a post-chaise to Grassdale.
+LINE 158: There was none to be had: the only one in the town was under repair. "A
+LINE 159: gig, then—a fly—car—anything—only be quick!" There was a gig, but not a
+LINE 160: horse to spare. I sent into the town to seek one: but they were such an
+LINE 161: intolerable time about it that I could wait no longer—I thought my own
+LINE 162: feet could carry me sooner; and bidding them send the conveyance after
+LINE 163: me, if it were ready within an hour, I set off as fast as I could walk.
+LINE 164: The distance was little more than six miles, but the road was strange,
+LINE 165: and I had to keep stopping to inquire my way; hallooing to carters and
+LINE 166: clodhoppers, and frequently invading the cottages, for there were few
+LINE 167: abroad that winter's morning; sometimes knocking up the lazy people
+LINE 168: from their beds, for where so little work was to be done, perhaps so
+LINE 169: little food and fire to be had, they cared not to curtail their
+LINE 170: slumbers. I had no time to think of _them_, however; aching with
+LINE 171: weariness and desperation, I hurried on. The gig did not overtake me:
+LINE 172: and it was well I had not waited for it; vexatious rather, that I had
+LINE 173: been fool enough to wait so long.
+LINE 174: At length, however, I entered the neighbourhood of Grassdale. I
+LINE 175: approached the little rural church—but lo! there stood a train of
+LINE 176: carriages before it; it needed not the white favours bedecking the
+LINE 177: servants and horses, nor the merry voices of the village idlers
+LINE 178: assembled to witness the show, to apprise me that there was a wedding
+LINE 179: within. I ran in among them, demanding, with breathless eagerness, had
+LINE 180: the ceremony long commenced? They only gaped and stared. In my
+LINE 181: desperation, I pushed past them, and was about to enter the churchyard
+LINE 182: gate, when a group of ragged urchins, that had been hanging like bees
+LINE 183: to the window, suddenly dropped off and made a rush for the porch,
+LINE 184: vociferating in the uncouth dialect of their country something which
+LINE 185: signified, "It's over—they're coming out!"
+LINE 186: If Eliza Millward had seen me then she might indeed have been
+LINE 187: delighted. I grasped the gate-post for support, and stood intently
+LINE 188: gazing towards the door to take my last look on my soul's delight, my
+LINE 189: first on that detested mortal who had torn her from my heart, and
+LINE 190: doomed her, I was certain, to a life of misery and hollow, vain
+LINE 191: repining—for what happiness could she enjoy with him? I did not wish to
+LINE 192: shock her with my presence now, but I had not power to move away. Forth
+LINE 193: came the bride and bridegroom. Him I saw not; I had eyes for none but
+LINE 194: her. A long veil shrouded half her graceful form, but did not hide it;
+LINE 195: I could see that while she carried her head erect, her eyes were bent
+LINE 196: upon the ground, and her face and neck were suffused with a crimson
+LINE 197: blush; but every feature was radiant with smiles, and gleaming through
+LINE 198: the misty whiteness of her veil were clusters of golden ringlets! Oh,
+LINE 199: heavens! it was _not_ my Helen! The first glimpse made me start—but my
+LINE 200: eyes were darkened with exhaustion and despair. Dare I trust them?
+LINE 201: "Yes—it _is_ not she! It was a younger, slighter, rosier beauty—lovely
+LINE 202: indeed, but with far less dignity and depth of soul—without that
+LINE 203: indefinable grace, that keenly _spiritual_ yet gentle charm, that
+LINE 204: ineffable power to attract and subjugate the heart—_my_ heart at least.
+LINE 205: I looked at the bridegroom—it was Frederick Lawrence! I wiped away the
+LINE 206: cold drops that were trickling down my forehead, and stepped back as he
+LINE 207: approached; but, his eyes fell upon me, and he knew me, altered as my
+LINE 208: appearance must have been.
+LINE 209: "Is that you, Markham?" said he, startled and confounded at the
+LINE 210: apparition—perhaps, too, at the wildness of my looks.
+LINE 211: "Yes, Lawrence; is that you?" I mustered the presence of mind to reply.
+LINE 212: He smiled and coloured, as if half-proud and half-ashamed of his
+LINE 213: identity; and if he had reason to be proud of the sweet lady on his
+LINE 214: arm, he had no less cause to be ashamed of having concealed his good
+LINE 215: fortune so long.
+LINE 216: "Allow me to introduce you to my bride," said he, endeavouring to hide
+LINE 217: his embarrassment by an assumption of careless gaiety. "Esther, this is
+LINE 218: Mr. Markham; my friend Markham, Mrs. Lawrence, late Miss Hargrave."
+LINE 219: I bowed to the bride, and vehemently wrung the bridegroom's hand.
+LINE 220: "Why did you not tell me of this?" I said, reproachfully, pretending a
+LINE 221: resentment I did not feel (for in truth I was almost wild with joy to
+LINE 222: find myself so happily mistaken, and overflowing with affection to him
+LINE 223: for this and for the base injustice I felt that I had done him in my
+LINE 224: mind—he might have wronged me, but not to _that_ extent; and as I had
+LINE 225: hated him like a demon for the last forty hours, the reaction from such
+LINE 226: a feeling was so great that I could pardon all offences for the
+LINE 227: moment—and love him in spite of them too).
+LINE 228: "I _did_ tell you," said he, with an air of guilty confusion; "you
+LINE 229: received my letter?"
+LINE 230: "What letter?"
+LINE 231: "The one announcing my intended marriage."
+LINE 232: "I never received the most distant hint of such an intention."
+LINE 233: "It must have crossed you on your way then—it should have reached you
+LINE 234: yesterday morning—it was rather late, I acknowledge. But what brought
+LINE 235: you here, then, if you received no information?"
+LINE 236: It was now _my_ turn to be confounded; but the young lady, who had been
+LINE 237: busily patting the snow with her foot during our short sotto-voce
+LINE 238: colloquy, very opportunely came to my assistance by pinching her
+LINE 239: companion's arm and whispering a suggestion that his friend should be
+LINE 240: invited to step into the carriage and go with them; it being scarcely
+LINE 241: agreeable to stand there among so many gazers, and keeping their
+LINE 242: friends waiting into the bargain.
+LINE 243: "And so cold as it is too!" said he, glancing with dismay at her slight
+LINE 244: drapery, and immediately handing her into the carriage. "Markham, will
+LINE 245: you come? We are going to Paris, but we can drop you anywhere between
+LINE 246: this and Dover."
+LINE 247: "No, thank you. Good-by—I needn't wish you a pleasant journey; but I
+LINE 248: shall expect a very handsome apology, some time, mind, and scores of
+LINE 249: letters, before we meet again."
+LINE 250: He shook my hand, and hastened to take his place beside his lady. This
+LINE 251: was no time or place for explanation or discourse: we had already stood
+LINE 252: long enough to excite the wonder of the village sight-seers, and
+LINE 253: perhaps the wrath of the attendant bridal party; though, of course, all
+LINE 254: this passed in a much shorter time than I have taken to relate, or even
+LINE 255: than you will take to read it. I stood beside the carriage, and, the
+LINE 256: window being down, I saw my happy friend fondly encircle his
+LINE 257: companion's waist with his arm, while she rested her glowing cheek on
+LINE 258: his shoulder, looking the very impersonation of loving, trusting bliss.
+LINE 259: In the interval between the footman's closing the door and taking his
+LINE 260: place behind she raised her smiling brown eyes to his face, observing,
+LINE 261: playfully,—"I fear you must think me very insensible, Frederick: I know
+LINE 262: it is the custom for ladies to cry on these occasions, but I couldn't
+LINE 263: squeeze a tear for my life."
+LINE 264: He only answered with a kiss, and pressed her still closer to his
+LINE 265: bosom.
+LINE 266: "But what is this?" he murmured. "Why, Esther, you're crying now!"
+LINE 267: "Oh, it's nothing—it's only too much happiness—and the wish," sobbed
+LINE 268: she, "that our dear Helen were as happy as ourselves."
+LINE 269: "Bless you for that wish!" I inwardly responded, as the carriage rolled
+LINE 270: away—"and heaven grant it be not wholly vain!"
+LINE 271: I thought a cloud had suddenly darkened her husband's face as she
+LINE 272: spoke. What did he think? Could he grudge such happiness to his dear
+LINE 273: sister and his friend as he now felt himself? At _such_ a moment it was
+LINE 274: impossible. The contrast between her fate and his _must_ darken his
+LINE 275: bliss for a time. Perhaps, too, he thought of me: perhaps he regretted
+LINE 276: the part he had had in preventing our union, by omitting to help us, if
+LINE 277: not by actually plotting against us. I exonerated him from _that_
+LINE 278: charge now, and deeply lamented my former ungenerous suspicions; but he
+LINE 279: _had_ wronged us, still—I hoped, I trusted that he had. He had not
+LINE 280: attempted to check the course of our love by actually damming up the
+LINE 281: streams in their passage, but he had passively watched the two currents
+LINE 282: wandering through life's arid wilderness, declining to clear away the
+LINE 283: obstructions that divided them, and secretly hoping that both would
+LINE 284: lose themselves in the sand before they could be joined in one. And
+LINE 285: meantime he had been quietly proceeding with his own affairs; perhaps,
+LINE 286: his heart and head had been so full of his fair lady that he had had
+LINE 287: but little thought to spare for others. Doubtless he had made his first
+LINE 288: acquaintance with her—his first intimate acquaintance at least—during
+LINE 289: his three months' sojourn at F——, for I now recollected that he had
+LINE 290: once casually let fall an intimation that his aunt and sister had a
+LINE 291: young friend staying with them at the time, and this accounted for at
+LINE 292: least one-half his silence about all transactions there. Now, too, I
+LINE 293: saw a reason for many little things that had slightly puzzled me
+LINE 294: before; among the rest, for sundry departures from Woodford, and
+LINE 295: absences more or less prolonged, for which he never satisfactorily
+LINE 296: accounted, and concerning which he hated to be questioned on his
+LINE 297: return. Well might the servant say his master was "very close." But why
+LINE 298: this strange reserve to _me?_ Partly, from that remarkable idiosyncrasy
+LINE 299: to which I have before alluded; partly, perhaps, from tenderness to my
+LINE 300: feelings, or fear to disturb my philosophy by touching upon the
+LINE 301: infectious theme of love.

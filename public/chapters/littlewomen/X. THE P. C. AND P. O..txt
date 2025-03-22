@@ -1,0 +1,369 @@
+LINE 1: As spring came on, a new set of amusements became the fashion, and the
+LINE 2: lengthening days gave long afternoons for work and play of all sorts.
+LINE 3: The garden had to be put in order, and each sister had a quarter of the
+LINE 4: little plot to do what she liked with. Hannah used to say, "I'd know
+LINE 5: which each of them gardings belonged to, ef I see 'em in Chiny;" and so
+LINE 6: she might, for the girls' tastes differed as much as their characters.
+LINE 7: Meg's had roses and heliotrope, myrtle, and a little orange-tree in it.
+LINE 8: Jo's bed was never alike two seasons, for she was always trying
+LINE 9: experiments; this year it was to be a plantation of sun-flowers, the
+LINE 10: seeds of which cheerful and aspiring plant were to feed "Aunt
+LINE 11: Cockle-top" and her family of chicks. Beth had old-fashioned, fragrant
+LINE 12: flowers in her garden,--sweet peas and mignonette, larkspur, pinks,
+LINE 13: pansies, and southernwood, with chickweed for the bird, and catnip for
+LINE 14: the pussies. Amy had a bower in hers,--rather small and earwiggy, but
+LINE 15: very pretty to look at,--with honeysuckles and morning-glories hanging
+LINE 16: their colored horns and bells in graceful wreaths all over it; tall,
+LINE 17: white lilies, delicate ferns, and as many brilliant, picturesque plants
+LINE 18: as would consent to blossom there.
+LINE 19: Gardening, walks, rows on the river, and flower-hunts employed the fine
+LINE 20: days; and for rainy ones, they had house diversions,--some old, some
+LINE 21: new,--all more or less original. One of these was the "P. C."; for, as
+LINE 22: secret societies were the fashion, it was thought proper to have one;
+LINE 23: and, as all of the girls admired Dickens, they called themselves the
+LINE 24: Pickwick Club. With a few interruptions, they had kept this up for a
+LINE 25: year, and met every Saturday evening in the big garret, on which
+LINE 26: occasions the ceremonies were as follows: Three chairs were arranged in
+LINE 27: a row before a table, on which was a lamp, also four white badges, with
+LINE 28: a big "P. C." in different colors on each, and the weekly newspaper,
+LINE 29: called "The Pickwick Portfolio," to which all contributed something;
+LINE 30: while Jo, who revelled in pens and ink, was the editor. At seven
+LINE 31: o'clock, the four members ascended to the club-room, tied their badges
+LINE 32: round their heads, and took their seats with great solemnity. Meg, as
+LINE 33: the eldest, was Samuel Pickwick; Jo, being of a literary turn, Augustus
+LINE 34: Snodgrass; Beth, because she was round and rosy, Tracy Tupman, and Amy,
+LINE 35: who was always trying to do what she couldn't, was Nathaniel Winkle.
+LINE 36: Pickwick, the president, read the paper, which was filled with original
+LINE 37: tales, poetry, local news, funny advertisements, and hints, in which
+LINE 38: they good-naturedly reminded each other of their faults and
+LINE 39: short-comings.
+LINE 40: [Illustration: Mr. Pickwick]
+LINE 41: On one occasion, Mr. Pickwick put on a pair of spectacles without any
+LINE 42: glasses, rapped upon the table, hemmed, and, having stared hard at Mr.
+LINE 43: Snodgrass, who was tilting back in his chair, till he arranged himself
+LINE 44: properly, began to read:--
+LINE 45: The Pickwick Portfolio.
+LINE 46: MAY 20, 18--
+LINE 47: Poet's Corner.
+LINE 48: ANNIVERSARY ODE.
+LINE 49: Again we meet to celebrate
+LINE 50: With badge and solemn rite,
+LINE 51: Our fifty-second anniversary,
+LINE 52: In Pickwick Hall, to-night.
+LINE 53: We all are here in perfect health,
+LINE 54: None gone from our small band;
+LINE 55: Again we see each well-known face,
+LINE 56: And press each friendly hand.
+LINE 57: Our Pickwick, always at his post,
+LINE 58: With reverence we greet,
+LINE 59: As, spectacles on nose, he reads
+LINE 60: Our well-filled weekly sheet.
+LINE 61: Although he suffers from a cold,
+LINE 62: We joy to hear him speak,
+LINE 63: For words of wisdom from him fall,
+LINE 64: In spite of croak or squeak.
+LINE 65: Old six-foot Snodgrass looms on high,
+LINE 66: With elephantine grace,
+LINE 67: And beams upon the company,
+LINE 68: With brown and jovial face.
+LINE 69: Poetic fire lights up his eye,
+LINE 70: He struggles 'gainst his lot.
+LINE 71: Behold ambition on his brow,
+LINE 72: And on his nose a blot!
+LINE 73: Next our peaceful Tupman comes,
+LINE 74: So rosy, plump, and sweet.
+LINE 75: Who chokes with laughter at the puns,
+LINE 76: And tumbles off his seat.
+LINE 77: Prim little Winkle too is here,
+LINE 78: With every hair in place,
+LINE 79: A model of propriety,
+LINE 80: Though he hates to wash his face.
+LINE 81: The year is gone, we still unite
+LINE 82: To joke and laugh and read,
+LINE 83: And tread the path of literature
+LINE 84: That doth to glory lead.
+LINE 85: Long may our paper prosper well,
+LINE 86: Our club unbroken be,
+LINE 87: And coming years their blessings pour
+LINE 88: On the useful, gay "P. C."
+LINE 89: A. SNODGRASS.
+LINE 90: THE MASKED MARRIAGE.
+LINE 91: A TALE OF VENICE.
+LINE 92: Gondola after gondola swept up to the marble steps, and left its
+LINE 93: lovely load to swell the brilliant throng that filled the
+LINE 94: stately halls of Count de Adelon. Knights and ladies, elves and
+LINE 95: pages, monks and flower-girls, all mingled gayly in the dance.
+LINE 96: Sweet voices and rich melody filled the air; and so with mirth
+LINE 97: and music the masquerade went on.
+LINE 98: "Has your Highness seen the Lady Viola to-night?" asked a
+LINE 99: gallant troubadour of the fairy queen who floated down the hall
+LINE 100: upon his arm.
+LINE 101: "Yes; is she not lovely, though so sad! Her dress is well
+LINE 102: chosen, too, for in a week she weds Count Antonio, whom she
+LINE 103: passionately hates."
+LINE 104: "By my faith, I envy him. Yonder he comes, arrayed like a
+LINE 105: bridegroom, except the black mask. When that is off we shall see
+LINE 106: how he regards the fair maid whose heart he cannot win, though
+LINE 107: her stern father bestows her hand," returned the troubadour.
+LINE 108: "'Tis whispered that she loves the young English artist who
+LINE 109: haunts her steps, and is spurned by the old count," said the
+LINE 110: lady, as they joined the dance.
+LINE 111: The revel was at its height when a priest appeared, and,
+LINE 112: withdrawing the young pair to an alcove hung with purple velvet,
+LINE 113: he motioned them to kneel. Instant silence fell upon the gay
+LINE 114: throng; and not a sound, but the dash of fountains or the rustle
+LINE 115: of orange-groves sleeping in the moonlight, broke the hush, as
+LINE 116: Count de Adelon spoke thus:--
+LINE 117: "My lords and ladies, pardon the ruse by which I have gathered
+LINE 118: you here to witness the marriage of my daughter. Father, we wait
+LINE 119: your services."
+LINE 120: All eyes turned toward the bridal party, and a low murmur of
+LINE 121: amazement went through the throng, for neither bride nor groom
+LINE 122: removed their masks. Curiosity and wonder possessed all hearts,
+LINE 123: but respect restrained all tongues till the holy rite was over.
+LINE 124: Then the eager spectators gathered round the count, demanding an
+LINE 125: explanation.
+LINE 126: "Gladly would I give it if I could; but I only know that it was
+LINE 127: the whim of my timid Viola, and I yielded to it. Now, my
+LINE 128: children, let the play end. Unmask, and receive my blessing."
+LINE 129: But neither bent the knee; for the young bridegroom replied, in
+LINE 130: a tone that startled all listeners, as the mask fell, disclosing
+LINE 131: the noble face of Ferdinand Devereux, the artist lover; and,
+LINE 132: leaning on the breast where now flashed the star of an English
+LINE 133: earl, was the lovely Viola, radiant with joy and beauty.
+LINE 134: "My lord, you scornfully bade me claim your daughter when I
+LINE 135: could boast as high a name and vast a fortune as the Count
+LINE 136: Antonio. I can do more; for even your ambitious soul cannot
+LINE 137: refuse the Earl of Devereux and De Vere, when he gives his
+LINE 138: ancient name and boundless wealth in return for the beloved hand
+LINE 139: of this fair lady, now my wife."
+LINE 140: The count stood like one changed to stone; and, turning to the
+LINE 141: bewildered crowd, Ferdinand added, with a gay smile of triumph,
+LINE 142: "To you, my gallant friends, I can only wish that your wooing
+LINE 143: may prosper as mine has done; and that you may all win as fair a
+LINE 144: bride as I have, by this masked marriage."
+LINE 145: S. PICKWICK.
+LINE 146: * * * * *
+LINE 147: Why is the P. C. like the Tower of Babel? It is full of unruly
+LINE 148: members.
+LINE 149: * * * * *
+LINE 150: THE HISTORY OF A SQUASH.
+LINE 151: Once upon a time a farmer planted a little seed in his garden,
+LINE 152: and after a while it sprouted and became a vine, and bore many
+LINE 153: squashes. One day in October, when they were ripe, he picked one
+LINE 154: and took it to market. A grocer-man bought and put it in his
+LINE 155: shop. That same morning, a little girl, in a brown hat and blue
+LINE 156: dress, with a round face and snub nose, went and bought it for
+LINE 157: her mother. She lugged it home, cut it up, and boiled it in the
+LINE 158: big pot; mashed some of it, with salt and butter, for dinner;
+LINE 159: and to the rest she added a pint of milk, two eggs, four spoons
+LINE 160: of sugar, nutmeg, and some crackers; put it in a deep dish, and
+LINE 161: baked it till it was brown and nice; and next day it was eaten
+LINE 162: by a family named March.
+LINE 163: T. TUPMAN.
+LINE 164: * * * * *
+LINE 165: MR. PICKWICK, _Sir_:--
+LINE 166: I address you upon the subject of sin the sinner I mean is a man
+LINE 167: named Winkle who makes trouble in his club by laughing and
+LINE 168: sometimes won't write his piece in this fine paper I hope you
+LINE 169: will pardon his badness and let him send a French fable because
+LINE 170: he can't write out of his head as he has so many lessons to do
+LINE 171: and no brains in future I will try to take time by the fetlock
+LINE 172: and prepare some work which will be all _commy la fo_ that means
+LINE 173: all right I am in haste as it is nearly school time
+LINE 174: Yours respectably, N. WINKLE.
+LINE 175: [The above is a manly and handsome acknowledgment of past
+LINE 176: misdemeanors. If our young friend studied punctuation, it would
+LINE 177: be well.]
+LINE 178: A SAD ACCIDENT.
+LINE 179: On Friday last, we were startled by a violent shock in our
+LINE 180: basement, followed by cries of distress. On rushing, in a body,
+LINE 181: to the cellar, we discovered our beloved President prostrate
+LINE 182: upon the floor, having tripped and fallen while getting wood for
+LINE 183: domestic purposes. A perfect scene of ruin met our eyes; for in
+LINE 184: his fall Mr. Pickwick had plunged his head and shoulders into a
+LINE 185: tub of water, upset a keg of soft soap upon his manly form, and
+LINE 186: torn his garments badly. On being removed from this perilous
+LINE 187: situation, it was discovered that he had suffered no injury but
+LINE 188: several bruises; and, we are happy to add, is now doing well.
+LINE 189: ED.
+LINE 190: ***************************************************************
+LINE 191: * *
+LINE 192: * THE PUBLIC BEREAVEMENT. *
+LINE 193: * *
+LINE 194: * It is our painful duty to record the sudden and mysterious *
+LINE 195: * disappearance of our cherished friend, Mrs. Snowball Pat *
+LINE 196: * Paw. This lovely and beloved cat was the pet of a large *
+LINE 197: * circle of warm and admiring friends; for her beauty *
+LINE 198: * attracted all eyes, her graces and virtues endeared her to *
+LINE 199: * all hearts, and her loss is deeply felt by the whole *
+LINE 200: * community. *
+LINE 201: * *
+LINE 202: * When last seen, she was sitting at the gate, watching the *
+LINE 203: * butcher's cart; and it is feared that some villain, tempted *
+LINE 204: * by her charms, basely stole her. Weeks have passed, but no *
+LINE 205: * trace of her has been discovered; and we relinquish all *
+LINE 206: * hope, tie a black ribbon to her basket, set aside her dish, *
+LINE 207: * and weep for her as one lost to us forever. *
+LINE 208: * *
+LINE 209: ***************************************************************
+LINE 210: * * * * *
+LINE 211: A sympathizing friend sends the following gem:--
+LINE 212: A LAMENT
+LINE 213: FOR S. B. PAT PAW.
+LINE 214: We mourn the loss of our little pet,
+LINE 215: And sigh o'er her hapless fate,
+LINE 216: For never more by the fire she'll sit,
+LINE 217: Nor play by the old green gate.
+LINE 218: The little grave where her infant sleeps,
+LINE 219: Is 'neath the chestnut tree;
+LINE 220: But o'er _her_ grave we may not weep,
+LINE 221: We know not where it may be.
+LINE 222: Her empty bed, her idle ball,
+LINE 223: Will never see her more;
+LINE 224: No gentle tap, no loving purr
+LINE 225: Is heard at the parlor-door.
+LINE 226: Another cat comes after her mice,
+LINE 227: A cat with a dirty face;
+LINE 228: But she does not hunt as our darling did,
+LINE 229: Nor play with her airy grace.
+LINE 230: Her stealthy paws tread the very hall
+LINE 231: Where Snowball used to play,
+LINE 232: But she only spits at the dogs our pet
+LINE 233: So gallantly drove away.
+LINE 234: She is useful and mild, and does her best,
+LINE 235: But she is not fair to see;
+LINE 236: And we cannot give her your place, dear,
+LINE 237: Nor worship her as we worship thee.
+LINE 238: A. S.
+LINE 239: ADVERTISEMENTS.
+LINE 240: MISS ORANTHY BLUGGAGE, the accomplished Strong-Minded Lecturer,
+LINE 241: will deliver her famous Lecture on "WOMAN AND HER POSITION," at
+LINE 242: Pickwick Hall, next Saturday Evening, after the usual
+LINE 243: performances.
+LINE 244: A WEEKLY MEETING will be held at Kitchen Place, to teach young
+LINE 245: ladies how to cook. Hannah Brown will preside; and all are
+LINE 246: invited to attend.
+LINE 247: THE DUSTPAN SOCIETY will meet on Wednesday next, and parade in
+LINE 248: the upper story of the Club House. All members to appear in
+LINE 249: uniform and shoulder their brooms at nine precisely.
+LINE 250: MRS. BETH BOUNCER will open her new assortment of Doll's
+LINE 251: Millinery next week. The latest Paris Fashions have arrived, and
+LINE 252: orders are respectfully solicited.
+LINE 253: A NEW PLAY will appear at the Barnville Theatre, in the course
+LINE 254: of a few weeks, which will surpass anything ever seen on the
+LINE 255: American stage. "THE GREEK SLAVE, or Constantine the Avenger,"
+LINE 256: is the name of this thrilling drama!!!
+LINE 257: HINTS.
+LINE 258: If S. P. didn't use so much soap on his hands, he wouldn't
+LINE 259: always be late at breakfast. A. S. is requested not to whistle
+LINE 260: in the street. T. T. please don't forget Amy's napkin. N. W.
+LINE 261: must not fret because his dress has not nine tucks.
+LINE 262: WEEKLY REPORT.
+LINE 263: Meg--Good.
+LINE 264: Jo--Bad.
+LINE 265: Beth--Very good.
+LINE 266: Amy--Middling.
+LINE 267: As the President finished reading the paper (which I beg leave to assure
+LINE 268: my readers is a _bona fide_ copy of one written by _bona fide_ girls
+LINE 269: once upon a time), a round of applause followed, and then Mr. Snodgrass
+LINE 270: rose to make a proposition.
+LINE 271: "Mr. President and gentlemen," he began, assuming a parliamentary
+LINE 272: attitude and tone, "I wish to propose the admission of a new
+LINE 273: member,--one who highly deserves the honor, would be deeply grateful for
+LINE 274: it, and would add immensely to the spirit of the club, the literary
+LINE 275: value of the paper, and be no end jolly and nice. I propose Mr. Theodore
+LINE 276: Laurence as an honorary member of the P. C. Come now, do have him."
+LINE 277: Jo's sudden change of tone made the girls laugh; but all looked rather
+LINE 278: anxious, and no one said a word, as Snodgrass took his seat.
+LINE 279: "We'll put it to vote," said the President. "All in favor of this motion
+LINE 280: please to manifest it by saying 'Ay.'"
+LINE 281: A loud response from Snodgrass, followed, to everybody's surprise, by a
+LINE 282: timid one from Beth.
+LINE 283: "Contrary minded say 'No.'"
+LINE 284: Meg and Amy were contrary minded; and Mr. Winkle rose to say, with great
+LINE 285: elegance, "We don't wish any boys; they only joke and bounce about. This
+LINE 286: is a ladies' club, and we wish to be private and proper."
+LINE 287: "I'm afraid he'll laugh at our paper, and make fun of us afterward,"
+LINE 288: observed Pickwick, pulling the little curl on her forehead, as she
+LINE 289: always did when doubtful.
+LINE 290: Up rose Snodgrass, very much in earnest. "Sir, I give you my word as a
+LINE 291: gentleman, Laurie won't do anything of the sort. He likes to write, and
+LINE 292: he'll give a tone to our contributions, and keep us from being
+LINE 293: sentimental, don't you see? We can do so little for him, and he does so
+LINE 294: much for us, I think the least we can do is to offer him a place here,
+LINE 295: and make him welcome if he comes."
+LINE 296: This artful allusion to benefits conferred brought Tupman to his feet,
+LINE 297: looking as if he had quite made up his mind.
+LINE 298: "Yes, we ought to do it, even if we _are_ afraid. I say he _may_ come,
+LINE 299: and his grandpa, too, if he likes."
+LINE 300: This spirited burst from Beth electrified the club, and Jo left her
+LINE 301: seat to shake hands approvingly. "Now then, vote again. Everybody
+LINE 302: remember it's our Laurie, and say 'Ay!'" cried Snodgrass excitedly.
+LINE 303: "Ay! ay! ay!" replied three voices at once.
+LINE 304: "Good! Bless you! Now, as there's nothing like 'taking time by the
+LINE 305: _fetlock_,' as Winkle characteristically observes, allow me to present
+LINE 306: the new member;" and, to the dismay of the rest of the club, Jo threw
+LINE 307: open the door of the closet, and displayed Laurie sitting on a rag-bag,
+LINE 308: flushed and twinkling with suppressed laughter.
+LINE 309: [Illustration: Jo threw open the door of the closet]
+LINE 310: "You rogue! you traitor! Jo, how could you?" cried the three girls, as
+LINE 311: Snodgrass led her friend triumphantly forth; and, producing both a chair
+LINE 312: and a badge, installed him in a jiffy.
+LINE 313: "The coolness of you two rascals is amazing," began Mr. Pickwick, trying
+LINE 314: to get up an awful frown, and only succeeding in producing an amiable
+LINE 315: smile. But the new member was equal to the occasion; and, rising, with a
+LINE 316: grateful salutation to the Chair, said, in the most engaging manner,
+LINE 317: "Mr. President and ladies,--I beg pardon, gentlemen,--allow me to
+LINE 318: introduce myself as Sam Weller, the very humble servant of the club."
+LINE 319: "Good! good!" cried Jo, pounding with the handle of the old warming-pan
+LINE 320: on which she leaned.
+LINE 321: "My faithful friend and noble patron," continued Laurie, with a wave of
+LINE 322: the hand, "who has so flatteringly presented me, is not to be blamed for
+LINE 323: the base stratagem of to-night. I planned it, and she only gave in after
+LINE 324: lots of teasing."
+LINE 325: "Come now, don't lay it all on yourself; you know I proposed the
+LINE 326: cupboard," broke in Snodgrass, who was enjoying the joke amazingly.
+LINE 327: "Never you mind what she says. I'm the wretch that did it, sir," said
+LINE 328: the new member, with a Welleresque nod to Mr. Pickwick. "But on my
+LINE 329: honor, I never will do so again, and henceforth _dewote_ myself to the
+LINE 330: interest of this immortal club."
+LINE 331: "Hear! hear!" cried Jo, clashing the lid of the warming-pan like a
+LINE 332: cymbal.
+LINE 333: "Go on, go on!" added Winkle and Tupman, while the President bowed
+LINE 334: benignly.
+LINE 335: "I merely wish to say, that as a slight token of my gratitude for the
+LINE 336: honor done me, and as a means of promoting friendly relations between
+LINE 337: adjoining nations, I have set up a post-office in the hedge in the lower
+LINE 338: corner of the garden; a fine, spacious building, with padlocks on the
+LINE 339: doors, and every convenience for the mails,--also the females, if I may
+LINE 340: be allowed the expression. It's the old martin-house; but I've stopped
+LINE 341: up the door, and made the roof open, so it will hold all sorts of
+LINE 342: things, and save our valuable time. Letters, manuscripts, books, and
+LINE 343: bundles can be passed in there; and, as each nation has a key, it will
+LINE 344: be uncommonly nice, I fancy. Allow me to present the club key; and,
+LINE 345: with many thanks for your favor, take my seat."
+LINE 346: Great applause as Mr. Weller deposited a little key on the table, and
+LINE 347: subsided; the warming-pan clashed and waved wildly, and it was some time
+LINE 348: before order could be restored. A long discussion followed, and every
+LINE 349: one came out surprising, for every one did her best; so it was an
+LINE 350: unusually lively meeting, and did not adjourn till a late hour, when it
+LINE 351: broke up with three shrill cheers for the new member.
+LINE 352: No one ever regretted the admittance of Sam Weller, for a more devoted,
+LINE 353: well-behaved, and jovial member no club could have. He certainly did add
+LINE 354: "spirit" to the meetings, and "a tone" to the paper; for his orations
+LINE 355: convulsed his hearers, and his contributions were excellent, being
+LINE 356: patriotic, classical, comical, or dramatic, but never sentimental. Jo
+LINE 357: regarded them as worthy of Bacon, Milton, or Shakespeare; and remodelled
+LINE 358: her own works with good effect, she thought.
+LINE 359: The P. O. was a capital little institution, and flourished wonderfully,
+LINE 360: for nearly as many queer things passed through it as through the real
+LINE 361: office. Tragedies and cravats, poetry and pickles, garden-seeds and long
+LINE 362: letters, music and gingerbread, rubbers, invitations, scoldings and
+LINE 363: puppies. The old gentleman liked the fun, and amused himself by sending
+LINE 364: odd bundles, mysterious messages, and funny telegrams; and his gardener,
+LINE 365: who was smitten with Hannah's charms, actually sent a love-letter to
+LINE 366: Jo's care. How they laughed when the secret came out, never dreaming how
+LINE 367: many love-letters that little post-office would hold in the years to
+LINE 368: come!
+LINE 369: [Illustration: Jo spent the morning on the river]

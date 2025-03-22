@@ -1,0 +1,171 @@
+LINE 1: Cacambo expressed his curiosity to the landlord, who made answer:
+LINE 2: "I am very ignorant, but not the worse on that account. However, we have
+LINE 3: in this neighbourhood an old man retired from Court who is the most
+LINE 4: learned and most communicative person in the kingdom."
+LINE 5: At once he took Cacambo to the old man. Candide acted now only a second
+LINE 6: character, and accompanied his valet. They entered a very plain house,
+LINE 7: for the door was only of silver, and the ceilings were only of gold, but
+LINE 8: wrought in so elegant a taste as to vie with the richest. The
+LINE 9: antechamber, indeed, was only encrusted with rubies and emeralds, but
+LINE 10: the order in which everything was arranged made amends for this great
+LINE 11: simplicity.
+LINE 12: The old man received the strangers on his sofa, which was stuffed with
+LINE 13: humming-birds' feathers, and ordered his servants to present them with
+LINE 14: liqueurs in diamond goblets; after which he satisfied their curiosity
+LINE 15: in the following terms:
+LINE 16: "I am now one hundred and seventy-two years old, and I learnt of my late
+LINE 17: father, Master of the Horse to the King, the amazing revolutions of
+LINE 18: Peru, of which he had been an eyewitness. The kingdom we now inhabit is
+LINE 19: the ancient country of the Incas, who quitted it very imprudently to
+LINE 20: conquer another part of the world, and were at length destroyed by the
+LINE 21: Spaniards.
+LINE 22: "More wise by far were the princes of their family, who remained in
+LINE 23: their native country; and they ordained, with the consent of the whole
+LINE 24: nation, that none of the inhabitants should ever be permitted to quit
+LINE 25: this little kingdom; and this has preserved our innocence and happiness.
+LINE 26: The Spaniards have had a confused notion of this country, and have
+LINE 27: called it _El Dorado_; and an Englishman, whose name was Sir Walter
+LINE 28: Raleigh, came very near it about a hundred years ago; but being
+LINE 29: surrounded by inaccessible rocks and precipices, we have hitherto been
+LINE 30: sheltered from the rapaciousness of European nations, who have an
+LINE 31: inconceivable passion for the pebbles and dirt of our land, for the sake
+LINE 32: of which they would murder us to the last man."
+LINE 33: The conversation was long: it turned chiefly on their form of
+LINE 34: government, their manners, their women, their public entertainments,
+LINE 35: and the arts. At length Candide, having always had a taste for
+LINE 36: metaphysics, made Cacambo ask whether there was any religion in that
+LINE 37: country.
+LINE 38: The old man reddened a little.
+LINE 39: "How then," said he, "can you doubt it? Do you take us for ungrateful
+LINE 40: wretches?"
+LINE 41: Cacambo humbly asked, "What was the religion in El Dorado?"
+LINE 42: The old man reddened again.
+LINE 43: "Can there be two religions?" said he. "We have, I believe, the religion
+LINE 44: of all the world: we worship God night and morning."
+LINE 45: "Do you worship but one God?" said Cacambo, who still acted as
+LINE 46: interpreter in representing Candide's doubts.
+LINE 47: "Surely," said the old man, "there are not two, nor three, nor four. I
+LINE 48: must confess the people from your side of the world ask very
+LINE 49: extraordinary questions."
+LINE 50: Candide was not yet tired of interrogating the good old man; he wanted
+LINE 51: to know in what manner they prayed to God in El Dorado.
+LINE 52: "We do not pray to Him," said the worthy sage; "we have nothing to ask
+LINE 53: of Him; He has given us all we need, and we return Him thanks without
+LINE 54: ceasing."
+LINE 55: Candide having a curiosity to see the priests asked where they were.
+LINE 56: The good old man smiled.
+LINE 57: "My friend," said he, "we are all priests. The King and all the heads of
+LINE 58: families sing solemn canticles of thanksgiving every morning,
+LINE 59: accompanied by five or six thousand musicians."
+LINE 60: "What! have you no monks who teach, who dispute, who govern, who cabal,
+LINE 61: and who burn people that are not of their opinion?"
+LINE 62: "We must be mad, indeed, if that were the case," said the old man; "here
+LINE 63: we are all of one opinion, and we know not what you mean by monks."
+LINE 64: During this whole discourse Candide was in raptures, and he said to
+LINE 65: himself:
+LINE 66: "This is vastly different from Westphalia and the Baron's castle. Had
+LINE 67: our friend Pangloss seen El Dorado he would no longer have said that the
+LINE 68: castle of Thunder-ten-Tronckh was the finest upon earth. It is evident
+LINE 69: that one must travel."
+LINE 70: After this long conversation the old man ordered a coach and six sheep
+LINE 71: to be got ready, and twelve of his domestics to conduct the travellers
+LINE 72: to Court.
+LINE 73: "Excuse me," said he, "if my age deprives me of the honour of
+LINE 74: accompanying you. The King will receive you in a manner that cannot
+LINE 75: displease you; and no doubt you will make an allowance for the customs
+LINE 76: of the country, if some things should not be to your liking."
+LINE 77: Candide and Cacambo got into the coach, the six sheep flew, and in less
+LINE 78: than four hours they reached the King's palace situated at the extremity
+LINE 79: of the capital. The portal was two hundred and twenty feet high, and one
+LINE 80: hundred wide; but words are wanting to express the materials of which it
+LINE 81: was built. It is plain such materials must have prodigious superiority
+LINE 82: over those pebbles and sand which we call gold and precious stones.
+LINE 83: Twenty beautiful damsels of the King's guard received Candide and
+LINE 84: Cacambo as they alighted from the coach, conducted them to the bath, and
+LINE 85: dressed them in robes woven of the down of humming-birds; after which
+LINE 86: the great crown officers, of both sexes, led them to the King's
+LINE 87: apartment, between two files of musicians, a thousand on each side. When
+LINE 88: they drew near to the audience chamber Cacambo asked one of the great
+LINE 89: officers in what way he should pay his obeisance to his Majesty; whether
+LINE 90: they should throw themselves upon their knees or on their stomachs;
+LINE 91: whether they should put their hands upon their heads or behind their
+LINE 92: backs; whether they should lick the dust off the floor; in a word, what
+LINE 93: was the ceremony?
+LINE 94: "The custom," said the great officer, "is to embrace the King, and to
+LINE 95: kiss him on each cheek."
+LINE 96: Candide and Cacambo threw themselves round his Majesty's neck. He
+LINE 97: received them with all the goodness imaginable, and politely invited
+LINE 98: them to supper.
+LINE 99: While waiting they were shown the city, and saw the public edifices
+LINE 100: raised as high as the clouds, the market places ornamented with a
+LINE 101: thousand columns, the fountains of spring water, those of rose water,
+LINE 102: those of liqueurs drawn from sugar-cane, incessantly flowing into the
+LINE 103: great squares, which were paved with a kind of precious stone, which
+LINE 104: gave off a delicious fragrancy like that of cloves and cinnamon. Candide
+LINE 105: asked to see the court of justice, the parliament. They told him they
+LINE 106: had none, and that they were strangers to lawsuits. He asked if they had
+LINE 107: any prisons, and they answered no. But what surprised him most and gave
+LINE 108: him the greatest pleasure was the palace of sciences, where he saw a
+LINE 109: gallery two thousand feet long, and filled with instruments employed in
+LINE 110: mathematics and physics.
+LINE 111: After rambling about the city the whole afternoon, and seeing but a
+LINE 112: thousandth part of it, they were reconducted to the royal palace, where
+LINE 113: Candide sat down to table with his Majesty, his valet Cacambo, and
+LINE 114: several ladies. Never was there a better entertainment, and never was
+LINE 115: more wit shown at a table than that which fell from his Majesty. Cacambo
+LINE 116: explained the King's _bon-mots_ to Candide, and notwithstanding they
+LINE 117: were translated they still appeared to be _bon-mots_. Of all the things
+LINE 118: that surprised Candide this was not the least.
+LINE 119: They spent a month in this hospitable place. Candide frequently said to
+LINE 120: Cacambo:
+LINE 121: "I own, my friend, once more that the castle where I was born is nothing
+LINE 122: in comparison with this; but, after all, Miss Cunegonde is not here, and
+LINE 123: you have, without doubt, some mistress in Europe. If we abide here we
+LINE 124: shall only be upon a footing with the rest, whereas, if we return to our
+LINE 125: old world, only with twelve sheep laden with the pebbles of El Dorado,
+LINE 126: we shall be richer than all the kings in Europe. We shall have no more
+LINE 127: Inquisitors to fear, and we may easily recover Miss Cunegonde."
+LINE 128: This speech was agreeable to Cacambo; mankind are so fond of roving, of
+LINE 129: making a figure in their own country, and of boasting of what they have
+LINE 130: seen in their travels, that the two happy ones resolved to be no longer
+LINE 131: so, but to ask his Majesty's leave to quit the country.
+LINE 132: "You are foolish," said the King. "I am sensible that my kingdom is but
+LINE 133: a small place, but when a person is comfortably settled in any part he
+LINE 134: should abide there. I have not the right to detain strangers. It is a
+LINE 135: tyranny which neither our manners nor our laws permit. All men are free.
+LINE 136: Go when you wish, but the going will be very difficult. It is impossible
+LINE 137: to ascend that rapid river on which you came as by a miracle, and which
+LINE 138: runs under vaulted rocks. The mountains which surround my kingdom are
+LINE 139: ten thousand feet high, and as steep as walls; they are each over ten
+LINE 140: leagues in breadth, and there is no other way to descend them than by
+LINE 141: precipices. However, since you absolutely wish to depart, I shall give
+LINE 142: orders to my engineers to construct a machine that will convey you very
+LINE 143: safely. When we have conducted you over the mountains no one can
+LINE 144: accompany you further, for my subjects have made a vow never to quit the
+LINE 145: kingdom, and they are too wise to break it. Ask me besides anything that
+LINE 146: you please."
+LINE 147: "We desire nothing of your Majesty," says Candide, "but a few sheep
+LINE 148: laden with provisions, pebbles, and the earth of this country."
+LINE 149: The King laughed.
+LINE 150: "I cannot conceive," said he, "what pleasure you Europeans find in our
+LINE 151: yellow clay, but take as much as you like, and great good may it do
+LINE 152: you."
+LINE 153: At once he gave directions that his engineers should construct a machine
+LINE 154: to hoist up these two extraordinary men out of the kingdom. Three
+LINE 155: thousand good mathematicians went to work; it was ready in fifteen days,
+LINE 156: and did not cost more than twenty million sterling in the specie of that
+LINE 157: country. They placed Candide and Cacambo on the machine. There were two
+LINE 158: great red sheep saddled and bridled to ride upon as soon as they were
+LINE 159: beyond the mountains, twenty pack-sheep laden with provisions, thirty
+LINE 160: with presents of the curiosities of the country, and fifty with gold,
+LINE 161: diamonds, and precious stones. The King embraced the two wanderers very
+LINE 162: tenderly.
+LINE 163: Their departure, with the ingenious manner in which they and their sheep
+LINE 164: were hoisted over the mountains, was a splendid spectacle. The
+LINE 165: mathematicians took their leave after conveying them to a place of
+LINE 166: safety, and Candide had no other desire, no other aim, than to present
+LINE 167: his sheep to Miss Cunegonde.
+LINE 168: "Now," said he, "we are able to pay the Governor of Buenos Ayres if Miss
+LINE 169: Cunegonde can be ransomed. Let us journey towards Cayenne. Let us
+LINE 170: embark, and we will afterwards see what kingdom we shall be able to
+LINE 171: purchase."

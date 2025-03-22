@@ -25,7 +25,7 @@ function LocationAxis() {
       <b style={{ textAlign: "right", display: "block" }}>
         Locations
         {(!story.includes("-new") || fullHeight || chapterView) && (
-          <InfoTooltip label="hover on a location for more info" />
+          <InfoTooltip label="hover on a location for more info; listed in order of appearance" />
         )}
       </b>
       {locations.map((location) => {

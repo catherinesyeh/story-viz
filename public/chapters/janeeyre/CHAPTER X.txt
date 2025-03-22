@@ -1,0 +1,384 @@
+LINE 1: Hitherto I have recorded in detail the events of my insignificant
+LINE 2: existence: to the first ten years of my life I have given almost as
+LINE 3: many chapters. But this is not to be a regular autobiography: I am only
+LINE 4: bound to invoke Memory where I know her responses will possess some
+LINE 5: degree of interest; therefore I now pass a space of eight years almost
+LINE 6: in silence: a few lines only are necessary to keep up the links of
+LINE 7: connection.
+LINE 8: When the typhus fever had fulfilled its mission of devastation at
+LINE 9: Lowood, it gradually disappeared from thence; but not till its
+LINE 10: virulence and the number of its victims had drawn public attention on
+LINE 11: the school. Inquiry was made into the origin of the scourge, and by
+LINE 12: degrees various facts came out which excited public indignation in a
+LINE 13: high degree. The unhealthy nature of the site; the quantity and quality
+LINE 14: of the children's food; the brackish, fetid water used in its
+LINE 15: preparation; the pupils' wretched clothing and accommodations—all these
+LINE 16: things were discovered, and the discovery produced a result mortifying
+LINE 17: to Mr. Brocklehurst, but beneficial to the institution.
+LINE 18: Several wealthy and benevolent individuals in the county subscribed
+LINE 19: largely for the erection of a more convenient building in a better
+LINE 20: situation; new regulations were made; improvements in diet and clothing
+LINE 21: introduced; the funds of the school were intrusted to the management of
+LINE 22: a committee. Mr. Brocklehurst, who, from his wealth and family
+LINE 23: connections, could not be overlooked, still retained the post of
+LINE 24: treasurer; but he was aided in the discharge of his duties by gentlemen
+LINE 25: of rather more enlarged and sympathising minds: his office of
+LINE 26: inspector, too, was shared by those who knew how to combine reason with
+LINE 27: strictness, comfort with economy, compassion with uprightness. The
+LINE 28: school, thus improved, became in time a truly useful and noble
+LINE 29: institution. I remained an inmate of its walls, after its regeneration,
+LINE 30: for eight years: six as pupil, and two as teacher; and in both
+LINE 31: capacities I bear my testimony to its value and importance.
+LINE 32: During these eight years my life was uniform: but not unhappy, because
+LINE 33: it was not inactive. I had the means of an excellent education placed
+LINE 34: within my reach; a fondness for some of my studies, and a desire to
+LINE 35: excel in all, together with a great delight in pleasing my teachers,
+LINE 36: especially such as I loved, urged me on: I availed myself fully of the
+LINE 37: advantages offered me. In time I rose to be the first girl of the first
+LINE 38: class; then I was invested with the office of teacher; which I
+LINE 39: discharged with zeal for two years: but at the end of that time I
+LINE 40: altered.
+LINE 41: Miss Temple, through all changes, had thus far continued superintendent
+LINE 42: of the seminary: to her instruction I owed the best part of my
+LINE 43: acquirements; her friendship and society had been my continual solace;
+LINE 44: she had stood me in the stead of mother, governess, and, latterly,
+LINE 45: companion. At this period she married, removed with her husband (a
+LINE 46: clergyman, an excellent man, almost worthy of such a wife) to a distant
+LINE 47: county, and consequently was lost to me.
+LINE 48: From the day she left I was no longer the same: with her was gone every
+LINE 49: settled feeling, every association that had made Lowood in some degree
+LINE 50: a home to me. I had imbibed from her something of her nature and much
+LINE 51: of her habits: more harmonious thoughts: what seemed better regulated
+LINE 52: feelings had become the inmates of my mind. I had given in allegiance
+LINE 53: to duty and order; I was quiet; I believed I was content: to the eyes
+LINE 54: of others, usually even to my own, I appeared a disciplined and subdued
+LINE 55: character.
+LINE 56: But destiny, in the shape of the Rev. Mr. Nasmyth, came between me and
+LINE 57: Miss Temple: I saw her in her travelling dress step into a post-chaise,
+LINE 58: shortly after the marriage ceremony; I watched the chaise mount the
+LINE 59: hill and disappear beyond its brow; and then retired to my own room,
+LINE 60: and there spent in solitude the greatest part of the half-holiday
+LINE 61: granted in honour of the occasion.
+LINE 62: I walked about the chamber most of the time. I imagined myself only to
+LINE 63: be regretting my loss, and thinking how to repair it; but when my
+LINE 64: reflections were concluded, and I looked up and found that the
+LINE 65: afternoon was gone, and evening far advanced, another discovery dawned
+LINE 66: on me, namely, that in the interval I had undergone a transforming
+LINE 67: process; that my mind had put off all it had borrowed of Miss Temple—or
+LINE 68: rather that she had taken with her the serene atmosphere I had been
+LINE 69: breathing in her vicinity—and that now I was left in my natural
+LINE 70: element, and beginning to feel the stirring of old emotions. It did not
+LINE 71: seem as if a prop were withdrawn, but rather as if a motive were gone:
+LINE 72: it was not the power to be tranquil which had failed me, but the reason
+LINE 73: for tranquillity was no more. My world had for some years been in
+LINE 74: Lowood: my experience had been of its rules and systems; now I
+LINE 75: remembered that the real world was wide, and that a varied field of
+LINE 76: hopes and fears, of sensations and excitements, awaited those who had
+LINE 77: courage to go forth into its expanse, to seek real knowledge of life
+LINE 78: amidst its perils.
+LINE 79: I went to my window, opened it, and looked out. There were the two
+LINE 80: wings of the building; there was the garden; there were the skirts of
+LINE 81: Lowood; there was the hilly horizon. My eye passed all other objects to
+LINE 82: rest on those most remote, the blue peaks; it was those I longed to
+LINE 83: surmount; all within their boundary of rock and heath seemed
+LINE 84: prison-ground, exile limits. I traced the white road winding round the
+LINE 85: base of one mountain, and vanishing in a gorge between two; how I
+LINE 86: longed to follow it farther! I recalled the time when I had travelled
+LINE 87: that very road in a coach; I remembered descending that hill at
+LINE 88: twilight; an age seemed to have elapsed since the day which brought me
+LINE 89: first to Lowood, and I had never quitted it since. My vacations had all
+LINE 90: been spent at school: Mrs. Reed had never sent for me to Gateshead;
+LINE 91: neither she nor any of her family had ever been to visit me. I had had
+LINE 92: no communication by letter or message with the outer world:
+LINE 93: school-rules, school-duties, school-habits and notions, and voices, and
+LINE 94: faces, and phrases, and costumes, and preferences, and antipathies—such
+LINE 95: was what I knew of existence. And now I felt that it was not enough; I
+LINE 96: tired of the routine of eight years in one afternoon. I desired
+LINE 97: liberty; for liberty I gasped; for liberty I uttered a prayer; it
+LINE 98: seemed scattered on the wind then faintly blowing. I abandoned it and
+LINE 99: framed a humbler supplication; for change, stimulus: that petition,
+LINE 100: too, seemed swept off into vague space: "Then," I cried, half
+LINE 101: desperate, "grant me at least a new servitude!"
+LINE 102: Here a bell, ringing the hour of supper, called me downstairs.
+LINE 103: I was not free to resume the interrupted chain of my reflections till
+LINE 104: bedtime: even then a teacher who occupied the same room with me kept me
+LINE 105: from the subject to which I longed to recur, by a prolonged effusion of
+LINE 106: small talk. How I wished sleep would silence her. It seemed as if,
+LINE 107: could I but go back to the idea which had last entered my mind as I
+LINE 108: stood at the window, some inventive suggestion would rise for my
+LINE 109: relief.
+LINE 110: Miss Gryce snored at last; she was a heavy Welshwoman, and till now her
+LINE 111: habitual nasal strains had never been regarded by me in any other light
+LINE 112: than as a nuisance; to-night I hailed the first deep notes with
+LINE 113: satisfaction; I was debarrassed of interruption; my half-effaced
+LINE 114: thought instantly revived.
+LINE 115: "A new servitude! There is something in that," I soliloquised
+LINE 116: (mentally, be it understood; I did not talk aloud). "I know there is,
+LINE 117: because it does not sound too sweet; it is not like such words as
+LINE 118: Liberty, Excitement, Enjoyment: delightful sounds truly; but no more
+LINE 119: than sounds for me; and so hollow and fleeting that it is mere waste of
+LINE 120: time to listen to them. But Servitude! That must be matter of fact. Any
+LINE 121: one may serve: I have served here eight years; now all I want is to
+LINE 122: serve elsewhere. Can I not get so much of my own will? Is not the thing
+LINE 123: feasible? Yes—yes—the end is not so difficult; if I had only a brain
+LINE 124: active enough to ferret out the means of attaining it."
+LINE 125: I sat up in bed by way of arousing this said brain: it was a chilly
+LINE 126: night; I covered my shoulders with a shawl, and then I proceeded _to
+LINE 127: think_ again with all my might.
+LINE 128: "What do I want? A new place, in a new house, amongst new faces, under
+LINE 129: new circumstances: I want this because it is of no use wanting anything
+LINE 130: better. How do people do to get a new place? They apply to friends, I
+LINE 131: suppose: I have no friends. There are many others who have no friends,
+LINE 132: who must look about for themselves and be their own helpers; and what
+LINE 133: is their resource?"
+LINE 134: I could not tell: nothing answered me; I then ordered my brain to find
+LINE 135: a response, and quickly. It worked and worked faster: I felt the pulses
+LINE 136: throb in my head and temples; but for nearly an hour it worked in
+LINE 137: chaos; and no result came of its efforts. Feverish with vain labour, I
+LINE 138: got up and took a turn in the room; undrew the curtain, noted a star or
+LINE 139: two, shivered with cold, and again crept to bed.
+LINE 140: A kind fairy, in my absence, had surely dropped the required suggestion
+LINE 141: on my pillow; for as I lay down, it came quietly and naturally to my
+LINE 142: mind:—"Those who want situations advertise; you must advertise in the
+LINE 143: _——shire Herald_."
+LINE 144: "How? I know nothing about advertising."
+LINE 145: Replies rose smooth and prompt now:—
+LINE 146: "You must enclose the advertisement and the money to pay for it under a
+LINE 147: cover directed to the editor of the _Herald_; you must put it, the
+LINE 148: first opportunity you have, into the post at Lowton; answers must be
+LINE 149: addressed to J.E., at the post-office there; you can go and inquire in
+LINE 150: about a week after you send your letter, if any are come, and act
+LINE 151: accordingly."
+LINE 152: This scheme I went over twice, thrice; it was then digested in my mind;
+LINE 153: I had it in a clear practical form: I felt satisfied, and fell asleep.
+LINE 154: With earliest day, I was up: I had my advertisement written, enclosed,
+LINE 155: and directed before the bell rang to rouse the school; it ran thus:—
+LINE 156: "A young lady accustomed to tuition" (had I not been a teacher two
+LINE 157: years?) "is desirous of meeting with a situation in a private family
+LINE 158: where the children are under fourteen" (I thought that as I was barely
+LINE 159: eighteen, it would not do to undertake the guidance of pupils nearer my
+LINE 160: own age). "She is qualified to teach the usual branches of a good
+LINE 161: English education, together with French, Drawing, and Music" (in those
+LINE 162: days, reader, this now narrow catalogue of accomplishments, would have
+LINE 163: been held tolerably comprehensive). "Address, J.E., Post-office,
+LINE 164: Lowton, ——shire."
+LINE 165: This document remained locked in my drawer all day: after tea, I asked
+LINE 166: leave of the new superintendent to go to Lowton, in order to perform
+LINE 167: some small commissions for myself and one or two of my fellow-teachers;
+LINE 168: permission was readily granted; I went. It was a walk of two miles, and
+LINE 169: the evening was wet, but the days were still long; I visited a shop or
+LINE 170: two, slipped the letter into the post-office, and came back through
+LINE 171: heavy rain, with streaming garments, but with a relieved heart.
+LINE 172: The succeeding week seemed long: it came to an end at last, however,
+LINE 173: like all sublunary things, and once more, towards the close of a
+LINE 174: pleasant autumn day, I found myself afoot on the road to Lowton. A
+LINE 175: picturesque track it was, by the way; lying along the side of the beck
+LINE 176: and through the sweetest curves of the dale: but that day I thought
+LINE 177: more of the letters, that might or might not be awaiting me at the
+LINE 178: little burgh whither I was bound, than of the charms of lea and water.
+LINE 179: My ostensible errand on this occasion was to get measured for a pair of
+LINE 180: shoes; so I discharged that business first, and when it was done, I
+LINE 181: stepped across the clean and quiet little street from the shoemaker's
+LINE 182: to the post-office: it was kept by an old dame, who wore horn
+LINE 183: spectacles on her nose, and black mittens on her hands.
+LINE 184: "Are there any letters for J.E.?" I asked.
+LINE 185: She peered at me over her spectacles, and then she opened a drawer and
+LINE 186: fumbled among its contents for a long time, so long that my hopes began
+LINE 187: to falter. At last, having held a document before her glasses for
+LINE 188: nearly five minutes, she presented it across the counter, accompanying
+LINE 189: the act by another inquisitive and mistrustful glance—it was for J.E.
+LINE 190: "Is there only one?" I demanded.
+LINE 191: "There are no more," said she; and I put it in my pocket and turned my
+LINE 192: face homeward: I could not open it then; rules obliged me to be back by
+LINE 193: eight, and it was already half-past seven.
+LINE 194: Various duties awaited me on my arrival: I had to sit with the girls
+LINE 195: during their hour of study; then it was my turn to read prayers; to see
+LINE 196: them to bed: afterwards I supped with the other teachers. Even when we
+LINE 197: finally retired for the night, the inevitable Miss Gryce was still my
+LINE 198: companion: we had only a short end of candle in our candlestick, and I
+LINE 199: dreaded lest she should talk till it was all burnt out; fortunately,
+LINE 200: however, the heavy supper she had eaten produced a soporific effect:
+LINE 201: she was already snoring before I had finished undressing. There still
+LINE 202: remained an inch of candle: I now took out my letter; the seal was an
+LINE 203: initial F.; I broke it; the contents were brief.
+LINE 204: "If J.E., who advertised in the _——shire Herald_ of last Thursday,
+LINE 205: possesses the acquirements mentioned, and if she is in a position to
+LINE 206: give satisfactory references as to character and competency, a
+LINE 207: situation can be offered her where there is but one pupil, a little
+LINE 208: girl, under ten years of age; and where the salary is thirty pounds per
+LINE 209: annum. J.E. is requested to send references, name, address, and all
+LINE 210: particulars to the direction:—
+LINE 211: "Mrs. Fairfax, Thornfield, near Millcote, ——shire."
+LINE 212: I examined the document long: the writing was old-fashioned and rather
+LINE 213: uncertain, like that of an elderly lady. This circumstance was
+LINE 214: satisfactory: a private fear had haunted me, that in thus acting for
+LINE 215: myself, and by my own guidance, I ran the risk of getting into some
+LINE 216: scrape; and, above all things, I wished the result of my endeavours to
+LINE 217: be respectable, proper, _en règle_. I now felt that an elderly lady was
+LINE 218: no bad ingredient in the business I had on hand. Mrs. Fairfax! I saw
+LINE 219: her in a black gown and widow's cap; frigid, perhaps, but not uncivil:
+LINE 220: a model of elderly English respectability. Thornfield! that, doubtless,
+LINE 221: was the name of her house: a neat orderly spot, I was sure; though I
+LINE 222: failed in my efforts to conceive a correct plan of the premises.
+LINE 223: Millcote, ——shire; I brushed up my recollections of the map of England;
+LINE 224: yes, I saw it; both the shire and the town. ——shire was seventy miles
+LINE 225: nearer London than the remote county where I now resided: that was a
+LINE 226: recommendation to me. I longed to go where there was life and movement:
+LINE 227: Millcote was a large manufacturing town on the banks of the A——: a busy
+LINE 228: place enough, doubtless: so much the better; it would be a complete
+LINE 229: change at least. Not that my fancy was much captivated by the idea of
+LINE 230: long chimneys and clouds of smoke—"but," I argued, "Thornfield will,
+LINE 231: probably, be a good way from the town."
+LINE 232: Here the socket of the candle dropped, and the wick went out.
+LINE 233: Next day new steps were to be taken; my plans could no longer be
+LINE 234: confined to my own breast; I must impart them in order to achieve their
+LINE 235: success. Having sought and obtained an audience of the superintendent
+LINE 236: during the noontide recreation, I told her I had a prospect of getting
+LINE 237: a new situation where the salary would be double what I now received
+LINE 238: (for at Lowood I only got £15 per annum); and requested she would break
+LINE 239: the matter for me to Mr. Brocklehurst, or some of the committee, and
+LINE 240: ascertain whether they would permit me to mention them as references.
+LINE 241: She obligingly consented to act as mediatrix in the matter. The next
+LINE 242: day she laid the affair before Mr. Brocklehurst, who said that Mrs.
+LINE 243: Reed must be written to, as she was my natural guardian. A note was
+LINE 244: accordingly addressed to that lady, who returned for answer, that "I
+LINE 245: might do as I pleased: she had long relinquished all interference in my
+LINE 246: affairs." This note went the round of the committee, and at last, after
+LINE 247: what appeared to me most tedious delay, formal leave was given me to
+LINE 248: better my condition if I could; and an assurance added, that as I had
+LINE 249: always conducted myself well, both as teacher and pupil, at Lowood, a
+LINE 250: testimonial of character and capacity, signed by the inspectors of that
+LINE 251: institution, should forthwith be furnished me.
+LINE 252: This testimonial I accordingly received in about a month, forwarded a
+LINE 253: copy of it to Mrs. Fairfax, and got that lady's reply, stating that she
+LINE 254: was satisfied, and fixing that day fortnight as the period for my
+LINE 255: assuming the post of governess in her house.
+LINE 256: I now busied myself in preparations: the fortnight passed rapidly. I
+LINE 257: had not a very large wardrobe, though it was adequate to my wants; and
+LINE 258: the last day sufficed to pack my trunk,—the same I had brought with me
+LINE 259: eight years ago from Gateshead.
+LINE 260: The box was corded, the card nailed on. In half-an-hour the carrier was
+LINE 261: to call for it to take it to Lowton, whither I myself was to repair at
+LINE 262: an early hour the next morning to meet the coach. I had brushed my
+LINE 263: black stuff travelling-dress, prepared my bonnet, gloves, and muff;
+LINE 264: sought in all my drawers to see that no article was left behind; and
+LINE 265: now having nothing more to do, I sat down and tried to rest. I could
+LINE 266: not; though I had been on foot all day, I could not now repose an
+LINE 267: instant; I was too much excited. A phase of my life was closing
+LINE 268: to-night, a new one opening to-morrow: impossible to slumber in the
+LINE 269: interval; I must watch feverishly while the change was being
+LINE 270: accomplished.
+LINE 271: "Miss," said a servant who met me in the lobby, where I was wandering
+LINE 272: like a troubled spirit, "a person below wishes to see you."
+LINE 273: "The carrier, no doubt," I thought, and ran downstairs without inquiry.
+LINE 274: I was passing the back-parlour or teachers' sitting-room, the door of
+LINE 275: which was half open, to go to the kitchen, when some one ran out—
+LINE 276: "It's her, I am sure!—I could have told her anywhere!" cried the
+LINE 277: individual who stopped my progress and took my hand.
+LINE 278: I looked: I saw a woman attired like a well-dressed servant, matronly,
+LINE 279: yet still young; very good-looking, with black hair and eyes, and
+LINE 280: lively complexion.
+LINE 281: "Well, who is it?" she asked, in a voice and with a smile I half
+LINE 282: recognised; "you've not quite forgotten me, I think, Miss Jane?"
+LINE 283: In another second I was embracing and kissing her rapturously: "Bessie!
+LINE 284: Bessie! Bessie!" that was all I said; whereat she half laughed, half
+LINE 285: cried, and we both went into the parlour. By the fire stood a little
+LINE 286: fellow of three years old, in plaid frock and trousers.
+LINE 287: "That is my little boy," said Bessie directly.
+LINE 288: "Then you are married, Bessie?"
+LINE 289: "Yes; nearly five years since to Robert Leaven, the coachman; and I've
+LINE 290: a little girl besides Bobby there, that I've christened Jane."
+LINE 291: "And you don't live at Gateshead?"
+LINE 292: "I live at the lodge: the old porter has left."
+LINE 293: "Well, and how do they all get on? Tell me everything about them,
+LINE 294: Bessie: but sit down first; and, Bobby, come and sit on my knee, will
+LINE 295: you?" but Bobby preferred sidling over to his mother.
+LINE 296: "You're not grown so very tall, Miss Jane, nor so very stout,"
+LINE 297: continued Mrs. Leaven. "I dare say they've not kept you too well at
+LINE 298: school: Miss Reed is the head and shoulders taller than you are; and
+LINE 299: Miss Georgiana would make two of you in breadth."
+LINE 300: "Georgiana is handsome, I suppose, Bessie?"
+LINE 301: "Very. She went up to London last winter with her mama, and there
+LINE 302: everybody admired her, and a young lord fell in love with her: but his
+LINE 303: relations were against the match; and—what do you think?—he and Miss
+LINE 304: Georgiana made it up to run away; but they were found out and stopped.
+LINE 305: It was Miss Reed that found them out: I believe she was envious; and
+LINE 306: now she and her sister lead a cat and dog life together; they are
+LINE 307: always quarrelling—"
+LINE 308: "Well, and what of John Reed?"
+LINE 309: "Oh, he is not doing so well as his mama could wish. He went to
+LINE 310: college, and he got—plucked, I think they call it: and then his uncles
+LINE 311: wanted him to be a barrister, and study the law: but he is such a
+LINE 312: dissipated young man, they will never make much of him, I think."
+LINE 313: "What does he look like?"
+LINE 314: "He is very tall: some people call him a fine-looking young man; but he
+LINE 315: has such thick lips."
+LINE 316: "And Mrs. Reed?"
+LINE 317: "Missis looks stout and well enough in the face, but I think she's not
+LINE 318: quite easy in her mind: Mr. John's conduct does not please her—he
+LINE 319: spends a deal of money."
+LINE 320: "Did she send you here, Bessie?"
+LINE 321: "No, indeed: but I have long wanted to see you, and when I heard that
+LINE 322: there had been a letter from you, and that you were going to another
+LINE 323: part of the country, I thought I'd just set off, and get a look at you
+LINE 324: before you were quite out of my reach."
+LINE 325: "I am afraid you are disappointed in me, Bessie." I said this laughing:
+LINE 326: I perceived that Bessie's glance, though it expressed regard, did in no
+LINE 327: shape denote admiration.
+LINE 328: "No, Miss Jane, not exactly: you are genteel enough; you look like a
+LINE 329: lady, and it is as much as ever I expected of you: you were no beauty
+LINE 330: as a child."
+LINE 331: I smiled at Bessie's frank answer: I felt that it was correct, but I
+LINE 332: confess I was not quite indifferent to its import: at eighteen most
+LINE 333: people wish to please, and the conviction that they have not an
+LINE 334: exterior likely to second that desire brings anything but
+LINE 335: gratification.
+LINE 336: "I dare say you are clever, though," continued Bessie, by way of
+LINE 337: solace. "What can you do? Can you play on the piano?"
+LINE 338: "A little."
+LINE 339: There was one in the room; Bessie went and opened it, and then asked me
+LINE 340: to sit down and give her a tune: I played a waltz or two, and she was
+LINE 341: charmed.
+LINE 342: "The Miss Reeds could not play as well!" said she exultingly. "I always
+LINE 343: said you would surpass them in learning: and can you draw?"
+LINE 344: "That is one of my paintings over the chimney-piece." It was a
+LINE 345: landscape in water colours, of which I had made a present to the
+LINE 346: superintendent, in acknowledgment of her obliging mediation with the
+LINE 347: committee on my behalf, and which she had framed and glazed.
+LINE 348: "Well, that is beautiful, Miss Jane! It is as fine a picture as any
+LINE 349: Miss Reed's drawing-master could paint, let alone the young ladies
+LINE 350: themselves, who could not come near it: and have you learnt French?"
+LINE 351: "Yes, Bessie, I can both read it and speak it."
+LINE 352: "And you can work on muslin and canvas?"
+LINE 353: "I can."
+LINE 354: "Oh, you are quite a lady, Miss Jane! I knew you would be: you will get
+LINE 355: on whether your relations notice you or not. There was something I
+LINE 356: wanted to ask you. Have you ever heard anything from your father's
+LINE 357: kinsfolk, the Eyres?"
+LINE 358: "Never in my life."
+LINE 359: "Well, you know Missis always said they were poor and quite despicable:
+LINE 360: and they may be poor; but I believe they are as much gentry as the
+LINE 361: Reeds are; for one day, nearly seven years ago, a Mr. Eyre came to
+LINE 362: Gateshead and wanted to see you; Missis said you were at school fifty
+LINE 363: miles off; he seemed so much disappointed, for he could not stay: he
+LINE 364: was going on a voyage to a foreign country, and the ship was to sail
+LINE 365: from London in a day or two. He looked quite a gentleman, and I believe
+LINE 366: he was your father's brother."
+LINE 367: "What foreign country was he going to, Bessie?"
+LINE 368: "An island thousands of miles off, where they make wine—the butler did
+LINE 369: tell me—"
+LINE 370: "Madeira?" I suggested.
+LINE 371: "Yes, that is it—that is the very word."
+LINE 372: "So he went?"
+LINE 373: "Yes; he did not stay many minutes in the house: Missis was very high
+LINE 374: with him; she called him afterwards a 'sneaking tradesman.' My Robert
+LINE 375: believes he was a wine-merchant."
+LINE 376: "Very likely," I returned; "or perhaps clerk or agent to a
+LINE 377: wine-merchant."
+LINE 378: Bessie and I conversed about old times an hour longer, and then she was
+LINE 379: obliged to leave me: I saw her again for a few minutes the next morning
+LINE 380: at Lowton, while I was waiting for the coach. We parted finally at the
+LINE 381: door of the Brocklehurst Arms there: each went her separate way; she
+LINE 382: set off for the brow of Lowood Fell to meet the conveyance which was to
+LINE 383: take her back to Gateshead, I mounted the vehicle which was to bear me
+LINE 384: to new duties and a new life in the unknown environs of Millcote.

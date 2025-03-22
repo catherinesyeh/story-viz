@@ -1,297 +1,238 @@
-LINE 1: ﻿The Project Gutenberg eBook of Anne of Green Gables
-LINE 2: 
-LINE 3: This ebook is for the use of anyone anywhere in the United States and
-LINE 4: most other parts of the world at no cost and with almost no restrictions
-LINE 5: whatsoever. You may copy it, give it away or re-use it under the terms
-LINE 6: of the Project Gutenberg License included with this ebook or online
-LINE 7: at www.gutenberg.org. If you are not located in the United States,
-LINE 8: you will have to check the laws of the country where you are located
-LINE 9: before using this eBook.
-LINE 10: Title: Anne of Green Gables
-LINE 11: Author: L. M. Montgomery
-LINE 12: Release date: June 27, 2008 [eBook #45]
-LINE 13: Most recently updated: June 30, 2023
-LINE 14: Language: English
-LINE 15: Credits: David Widger and Charles Keller
-LINE 16: *** START OF THE PROJECT GUTENBERG EBOOK ANNE OF GREEN GABLES ***
-LINE 17: ANNE OF GREEN GABLES
-LINE 18: By Lucy Maud Montgomery
-LINE 19: Table of Contents
-LINE 20: CHAPTER I Mrs. Rachel Lynde Is Surprised
-LINE 21: CHAPTER II Matthew Cuthbert Is Surprised
-LINE 22: CHAPTER III Marilla Cuthbert Is Surprised
-LINE 23: CHAPTER IV Morning at Green Gables
-LINE 24: CHAPTER V Anne's History
-LINE 25: CHAPTER VI Marilla Makes Up Her Mind
-LINE 26: CHAPTER VII Anne Says Her Prayers
-LINE 27: CHAPTER VIII Anne's Bringing-Up Is Begun
-LINE 28: CHAPTER IX Mrs. Rachel Lynde Is Properly Horrified
-LINE 29: CHAPTER X Anne's Apology
-LINE 30: CHAPTER XI Anne's Impressions of Sunday School
-LINE 31: CHAPTER XII A Solemn Vow and Promise
-LINE 32: CHAPTER XIII The Delights of Anticipation
-LINE 33: CHAPTER XIV Anne's Confession
-LINE 34: CHAPTER XV A Tempest in the School Teapot
-LINE 35: CHAPTER XVI Diana Is Invited to Tea with Tragic Results
-LINE 36: CHAPTER XVII A New Interest in Life
-LINE 37: CHAPTER XVIII Anne to the Rescue
-LINE 38: CHAPTER XIX A Concert a Catastrophe and a Confession
-LINE 39: CHAPTER XX A Good Imagination Gone Wrong
-LINE 40: CHAPTER XXI A New Departure in Flavorings
-LINE 41: CHAPTER XXII Anne is Invited Out to Tea
-LINE 42: CHAPTER XXIII Anne Comes to Grief in an Affair of Honor
-LINE 43: CHAPTER XXIV Miss Stacy and Her Pupils Get Up a Concert
-LINE 44: CHAPTER XXV Matthew Insists on Puffed Sleeves
-LINE 45: CHAPTER XXVI The Story Club Is Formed
-LINE 46: CHAPTER XXVII Vanity and Vexation of Spirit
-LINE 47: CHAPTER XXVIII An Unfortunate Lily Maid
-LINE 48: CHAPTER XXIX An Epoch in Anne's Life
-LINE 49: CHAPTER XXX The Queens Class Is Organized
-LINE 50: CHAPTER XXXI Where the Brook and River Meet
-LINE 51: CHAPTER XXXII The Pass List Is Out
-LINE 52: CHAPTER XXXIII The Hotel Concert
-LINE 53: CHAPTER XXXIV A Queen's Girl
-LINE 54: CHAPTER XXXV The Winter at Queen's
-LINE 55: CHAPTER XXXVI The Glory and the Dream
-LINE 56: CHAPTER XXXVII The Reaper Whose Name Is Death
-LINE 57: CHAPTER XXXVIII The Bend in the road
-LINE 58: ANNE OF GREEN GABLES
-LINE 59: CHAPTER I. Mrs. Rachel Lynde is Surprised
-LINE 60: MRS. Rachel Lynde lived just where the Avonlea main road dipped down
-LINE 61: into a little hollow, fringed with alders and ladies' eardrops and
-LINE 62: traversed by a brook that had its source away back in the woods of the
-LINE 63: old Cuthbert place; it was reputed to be an intricate, headlong brook
-LINE 64: in its earlier course through those woods, with dark secrets of pool
-LINE 65: and cascade; but by the time it reached Lynde's Hollow it was a quiet,
-LINE 66: well-conducted little stream, for not even a brook could run past Mrs.
-LINE 67: Rachel Lynde's door without due regard for decency and decorum; it
-LINE 68: probably was conscious that Mrs. Rachel was sitting at her window,
-LINE 69: keeping a sharp eye on everything that passed, from brooks and children
-LINE 70: up, and that if she noticed anything odd or out of place she would never
-LINE 71: rest until she had ferreted out the whys and wherefores thereof.
-LINE 72: There are plenty of people in Avonlea and out of it, who can attend
-LINE 73: closely to their neighbor's business by dint of neglecting their own;
-LINE 74: but Mrs. Rachel Lynde was one of those capable creatures who can manage
-LINE 75: their own concerns and those of other folks into the bargain. She was a
-LINE 76: notable housewife; her work was always done and well done; she "ran" the
-LINE 77: Sewing Circle, helped run the Sunday-school, and was the strongest prop
-LINE 78: of the Church Aid Society and Foreign Missions Auxiliary. Yet with all
-LINE 79: this Mrs. Rachel found abundant time to sit for hours at her kitchen
-LINE 80: window, knitting "cotton warp" quilts--she had knitted sixteen of them,
-LINE 81: as Avonlea housekeepers were wont to tell in awed voices--and keeping
-LINE 82: a sharp eye on the main road that crossed the hollow and wound up
-LINE 83: the steep red hill beyond. Since Avonlea occupied a little triangular
-LINE 84: peninsula jutting out into the Gulf of St. Lawrence with water on two
-LINE 85: sides of it, anybody who went out of it or into it had to pass over that
-LINE 86: hill road and so run the unseen gauntlet of Mrs. Rachel's all-seeing
-LINE 87: eye.
-LINE 88: She was sitting there one afternoon in early June. The sun was coming in
-LINE 89: at the window warm and bright; the orchard on the slope below the house
-LINE 90: was in a bridal flush of pinky-white bloom, hummed over by a myriad of
-LINE 91: bees. Thomas Lynde--a meek little man whom Avonlea people called "Rachel
-LINE 92: Lynde's husband"--was sowing his late turnip seed on the hill field
-LINE 93: beyond the barn; and Matthew Cuthbert ought to have been sowing his on
-LINE 94: the big red brook field away over by Green Gables. Mrs. Rachel knew
-LINE 95: that he ought because she had heard him tell Peter Morrison the evening
-LINE 96: before in William J. Blair's store over at Carmody that he meant to sow
-LINE 97: his turnip seed the next afternoon. Peter had asked him, of course, for
-LINE 98: Matthew Cuthbert had never been known to volunteer information about
-LINE 99: anything in his whole life.
-LINE 100: And yet here was Matthew Cuthbert, at half-past three on the afternoon
-LINE 101: of a busy day, placidly driving over the hollow and up the hill;
-LINE 102: moreover, he wore a white collar and his best suit of clothes, which was
-LINE 103: plain proof that he was going out of Avonlea; and he had the buggy
-LINE 104: and the sorrel mare, which betokened that he was going a considerable
-LINE 105: distance. Now, where was Matthew Cuthbert going and why was he going
-LINE 106: there?
-LINE 107: Had it been any other man in Avonlea, Mrs. Rachel, deftly putting this
-LINE 108: and that together, might have given a pretty good guess as to both
-LINE 109: questions. But Matthew so rarely went from home that it must be
-LINE 110: something pressing and unusual which was taking him; he was the shyest
-LINE 111: man alive and hated to have to go among strangers or to any place where
-LINE 112: he might have to talk. Matthew, dressed up with a white collar and
-LINE 113: driving in a buggy, was something that didn't happen often. Mrs. Rachel,
-LINE 114: ponder as she might, could make nothing of it and her afternoon's
-LINE 115: enjoyment was spoiled.
-LINE 116: "I'll just step over to Green Gables after tea and find out from Marilla
-LINE 117: where he's gone and why," the worthy woman finally concluded. "He
-LINE 118: doesn't generally go to town this time of year and he _never_ visits; if
-LINE 119: he'd run out of turnip seed he wouldn't dress up and take the buggy to
-LINE 120: go for more; he wasn't driving fast enough to be going for a doctor.
-LINE 121: Yet something must have happened since last night to start him off. I'm
-LINE 122: clean puzzled, that's what, and I won't know a minute's peace of mind or
-LINE 123: conscience until I know what has taken Matthew Cuthbert out of Avonlea
-LINE 124: today."
-LINE 125: Accordingly after tea Mrs. Rachel set out; she had not far to go; the
-LINE 126: big, rambling, orchard-embowered house where the Cuthberts lived was a
-LINE 127: scant quarter of a mile up the road from Lynde's Hollow. To be sure, the
-LINE 128: long lane made it a good deal further. Matthew Cuthbert's father, as
-LINE 129: shy and silent as his son after him, had got as far away as he possibly
-LINE 130: could from his fellow men without actually retreating into the woods
-LINE 131: when he founded his homestead. Green Gables was built at the furthest
-LINE 132: edge of his cleared land and there it was to this day, barely visible
-LINE 133: from the main road along which all the other Avonlea houses were so
-LINE 134: sociably situated. Mrs. Rachel Lynde did not call living in such a place
-LINE 135: _living_ at all.
-LINE 136: "It's just _staying_, that's what," she said as she stepped along the
-LINE 137: deep-rutted, grassy lane bordered with wild rose bushes. "It's no wonder
-LINE 138: Matthew and Marilla are both a little odd, living away back here by
-LINE 139: themselves. Trees aren't much company, though dear knows if they were
-LINE 140: there'd be enough of them. I'd ruther look at people. To be sure, they
-LINE 141: seem contented enough; but then, I suppose, they're used to it. A body
-LINE 142: can get used to anything, even to being hanged, as the Irishman said."
-LINE 143: With this Mrs. Rachel stepped out of the lane into the backyard of Green
-LINE 144: Gables. Very green and neat and precise was that yard, set about on one
-LINE 145: side with great patriarchal willows and the other with prim Lombardies.
-LINE 146: Not a stray stick nor stone was to be seen, for Mrs. Rachel would have
-LINE 147: seen it if there had been. Privately she was of the opinion that Marilla
-LINE 148: Cuthbert swept that yard over as often as she swept her house. One could
-LINE 149: have eaten a meal off the ground without over-brimming the proverbial
-LINE 150: peck of dirt.
-LINE 151: Mrs. Rachel rapped smartly at the kitchen door and stepped in
-LINE 152: when bidden to do so. The kitchen at Green Gables was a cheerful
-LINE 153: apartment--or would have been cheerful if it had not been so painfully
-LINE 154: clean as to give it something of the appearance of an unused parlor. Its
-LINE 155: windows looked east and west; through the west one, looking out on
-LINE 156: the back yard, came a flood of mellow June sunlight; but the east one,
-LINE 157: whence you got a glimpse of the bloom white cherry-trees in the left
-LINE 158: orchard and nodding, slender birches down in the hollow by the brook,
-LINE 159: was greened over by a tangle of vines. Here sat Marilla Cuthbert, when
-LINE 160: she sat at all, always slightly distrustful of sunshine, which seemed to
-LINE 161: her too dancing and irresponsible a thing for a world which was meant to
-LINE 162: be taken seriously; and here she sat now, knitting, and the table behind
-LINE 163: her was laid for supper.
-LINE 164: Mrs. Rachel, before she had fairly closed the door, had taken a mental
-LINE 165: note of everything that was on that table. There were three plates laid,
-LINE 166: so that Marilla must be expecting some one home with Matthew to tea; but
-LINE 167: the dishes were everyday dishes and there was only crab-apple preserves
-LINE 168: and one kind of cake, so that the expected company could not be any
-LINE 169: particular company. Yet what of Matthew's white collar and the sorrel
-LINE 170: mare? Mrs. Rachel was getting fairly dizzy with this unusual mystery
-LINE 171: about quiet, unmysterious Green Gables.
-LINE 172: "Good evening, Rachel," Marilla said briskly. "This is a real fine
-LINE 173: evening, isn't it? Won't you sit down? How are all your folks?"
-LINE 174: Something that for lack of any other name might be called friendship
-LINE 175: existed and always had existed between Marilla Cuthbert and Mrs. Rachel,
-LINE 176: in spite of--or perhaps because of--their dissimilarity.
-LINE 177: Marilla was a tall, thin woman, with angles and without curves; her dark
-LINE 178: hair showed some gray streaks and was always twisted up in a hard little
-LINE 179: knot behind with two wire hairpins stuck aggressively through it. She
-LINE 180: looked like a woman of narrow experience and rigid conscience, which she
-LINE 181: was; but there was a saving something about her mouth which, if it had
-LINE 182: been ever so slightly developed, might have been considered indicative
-LINE 183: of a sense of humor.
-LINE 184: "We're all pretty well," said Mrs. Rachel. "I was kind of afraid _you_
-LINE 185: weren't, though, when I saw Matthew starting off today. I thought maybe
-LINE 186: he was going to the doctor's."
-LINE 187: Marilla's lips twitched understandingly. She had expected Mrs.
-LINE 188: Rachel up; she had known that the sight of Matthew jaunting off so
-LINE 189: unaccountably would be too much for her neighbor's curiosity.
-LINE 190: "Oh, no, I'm quite well although I had a bad headache yesterday," she
-LINE 191: said. "Matthew went to Bright River. We're getting a little boy from an
-LINE 192: orphan asylum in Nova Scotia and he's coming on the train tonight."
-LINE 193: If Marilla had said that Matthew had gone to Bright River to meet a
-LINE 194: kangaroo from Australia Mrs. Rachel could not have been more astonished.
-LINE 195: She was actually stricken dumb for five seconds. It was unsupposable
-LINE 196: that Marilla was making fun of her, but Mrs. Rachel was almost forced to
-LINE 197: suppose it.
-LINE 198: "Are you in earnest, Marilla?" she demanded when voice returned to her.
-LINE 199: "Yes, of course," said Marilla, as if getting boys from orphan asylums
-LINE 200: in Nova Scotia were part of the usual spring work on any well-regulated
-LINE 201: Avonlea farm instead of being an unheard of innovation.
-LINE 202: Mrs. Rachel felt that she had received a severe mental jolt. She thought
-LINE 203: in exclamation points. A boy! Marilla and Matthew Cuthbert of all people
-LINE 204: adopting a boy! From an orphan asylum! Well, the world was certainly
-LINE 205: turning upside down! She would be surprised at nothing after this!
-LINE 206: Nothing!
-LINE 207: "What on earth put such a notion into your head?" she demanded
-LINE 208: disapprovingly.
-LINE 209: This had been done without her advice being asked, and must perforce be
-LINE 210: disapproved.
-LINE 211: "Well, we've been thinking about it for some time--all winter in fact,"
-LINE 212: returned Marilla. "Mrs. Alexander Spencer was up here one day before
-LINE 213: Christmas and she said she was going to get a little girl from the
-LINE 214: asylum over in Hopeton in the spring. Her cousin lives there and Mrs.
-LINE 215: Spencer has visited here and knows all about it. So Matthew and I have
-LINE 216: talked it over off and on ever since. We thought we'd get a boy. Matthew
-LINE 217: is getting up in years, you know--he's sixty--and he isn't so spry as he
-LINE 218: once was. His heart troubles him a good deal. And you know how desperate
-LINE 219: hard it's got to be to get hired help. There's never anybody to be had
-LINE 220: but those stupid, half-grown little French boys; and as soon as you do
-LINE 221: get one broke into your ways and taught something he's up and off to the
-LINE 222: lobster canneries or the States. At first Matthew suggested getting a
-LINE 223: Home boy. But I said 'no' flat to that. 'They may be all right--I'm not
-LINE 224: saying they're not--but no London street Arabs for me,' I said. 'Give
-LINE 225: me a native born at least. There'll be a risk, no matter who we get. But
-LINE 226: I'll feel easier in my mind and sleep sounder at nights if we get a born
-LINE 227: Canadian.' So in the end we decided to ask Mrs. Spencer to pick us out
-LINE 228: one when she went over to get her little girl. We heard last week she
-LINE 229: was going, so we sent her word by Richard Spencer's folks at Carmody
-LINE 230: to bring us a smart, likely boy of about ten or eleven. We decided that
-LINE 231: would be the best age--old enough to be of some use in doing chores
-LINE 232: right off and young enough to be trained up proper. We mean to give him
-LINE 233: a good home and schooling. We had a telegram from Mrs. Alexander Spencer
-LINE 234: today--the mail-man brought it from the station--saying they were coming
-LINE 235: on the five-thirty train tonight. So Matthew went to Bright River to
-LINE 236: meet him. Mrs. Spencer will drop him off there. Of course she goes on to
-LINE 237: White Sands station herself."
-LINE 238: Mrs. Rachel prided herself on always speaking her mind; she proceeded to
-LINE 239: speak it now, having adjusted her mental attitude to this amazing piece
-LINE 240: of news.
-LINE 241: "Well, Marilla, I'll just tell you plain that I think you're doing a
-LINE 242: mighty foolish thing--a risky thing, that's what. You don't know what
-LINE 243: you're getting. You're bringing a strange child into your house and home
-LINE 244: and you don't know a single thing about him nor what his disposition is
-LINE 245: like nor what sort of parents he had nor how he's likely to turn out.
-LINE 246: Why, it was only last week I read in the paper how a man and his wife up
-LINE 247: west of the Island took a boy out of an orphan asylum and he set fire to
-LINE 248: the house at night--set it _on purpose_, Marilla--and nearly burnt them to
-LINE 249: a crisp in their beds. And I know another case where an adopted boy used
-LINE 250: to suck the eggs--they couldn't break him of it. If you had asked my
-LINE 251: advice in the matter--which you didn't do, Marilla--I'd have said for
-LINE 252: mercy's sake not to think of such a thing, that's what."
-LINE 253: This Job's comforting seemed neither to offend nor to alarm Marilla. She
-LINE 254: knitted steadily on.
-LINE 255: "I don't deny there's something in what you say, Rachel. I've had some
-LINE 256: qualms myself. But Matthew was terrible set on it. I could see that, so
-LINE 257: I gave in. It's so seldom Matthew sets his mind on anything that when he
-LINE 258: does I always feel it's my duty to give in. And as for the risk, there's
-LINE 259: risks in pretty near everything a body does in this world. There's risks
-LINE 260: in people's having children of their own if it comes to that--they don't
-LINE 261: always turn out well. And then Nova Scotia is right close to the Island.
-LINE 262: It isn't as if we were getting him from England or the States. He can't
-LINE 263: be much different from ourselves."
-LINE 264: "Well, I hope it will turn out all right," said Mrs. Rachel in a tone
-LINE 265: that plainly indicated her painful doubts. "Only don't say I didn't
-LINE 266: warn you if he burns Green Gables down or puts strychnine in the well--I
-LINE 267: heard of a case over in New Brunswick where an orphan asylum child did
-LINE 268: that and the whole family died in fearful agonies. Only, it was a girl
-LINE 269: in that instance."
-LINE 270: "Well, we're not getting a girl," said Marilla, as if poisoning wells
-LINE 271: were a purely feminine accomplishment and not to be dreaded in the case
-LINE 272: of a boy. "I'd never dream of taking a girl to bring up. I wonder at
-LINE 273: Mrs. Alexander Spencer for doing it. But there, _she_ wouldn't shrink
-LINE 274: from adopting a whole orphan asylum if she took it into her head."
-LINE 275: Mrs. Rachel would have liked to stay until Matthew came home with his
-LINE 276: imported orphan. But reflecting that it would be a good two hours at
-LINE 277: least before his arrival she concluded to go up the road to Robert
-LINE 278: Bell's and tell the news. It would certainly make a sensation second
-LINE 279: to none, and Mrs. Rachel dearly loved to make a sensation. So she took
-LINE 280: herself away, somewhat to Marilla's relief, for the latter felt
-LINE 281: her doubts and fears reviving under the influence of Mrs. Rachel's
-LINE 282: pessimism.
-LINE 283: "Well, of all things that ever were or will be!" ejaculated Mrs. Rachel
-LINE 284: when she was safely out in the lane. "It does really seem as if I must
-LINE 285: be dreaming. Well, I'm sorry for that poor young one and no mistake.
-LINE 286: Matthew and Marilla don't know anything about children and they'll
-LINE 287: expect him to be wiser and steadier that his own grandfather, if so be's
-LINE 288: he ever had a grandfather, which is doubtful. It seems uncanny to think
-LINE 289: of a child at Green Gables somehow; there's never been one there, for
-LINE 290: Matthew and Marilla were grown up when the new house was built--if they
-LINE 291: ever _were_ children, which is hard to believe when one looks at them.
-LINE 292: I wouldn't be in that orphan's shoes for anything. My, but I pity him,
-LINE 293: that's what."
-LINE 294: So said Mrs. Rachel to the wild rose bushes out of the fulness of her
-LINE 295: heart; but if she could have seen the child who was waiting patiently
-LINE 296: at the Bright River station at that very moment her pity would have been
-LINE 297: still deeper and more profound.
+LINE 1: MRS. Rachel Lynde lived just where the Avonlea main road dipped down
+LINE 2: into a little hollow, fringed with alders and ladies' eardrops and
+LINE 3: traversed by a brook that had its source away back in the woods of the
+LINE 4: old Cuthbert place; it was reputed to be an intricate, headlong brook
+LINE 5: in its earlier course through those woods, with dark secrets of pool
+LINE 6: and cascade; but by the time it reached Lynde's Hollow it was a quiet,
+LINE 7: well-conducted little stream, for not even a brook could run past Mrs.
+LINE 8: Rachel Lynde's door without due regard for decency and decorum; it
+LINE 9: probably was conscious that Mrs. Rachel was sitting at her window,
+LINE 10: keeping a sharp eye on everything that passed, from brooks and children
+LINE 11: up, and that if she noticed anything odd or out of place she would never
+LINE 12: rest until she had ferreted out the whys and wherefores thereof.
+LINE 13: There are plenty of people in Avonlea and out of it, who can attend
+LINE 14: closely to their neighbor's business by dint of neglecting their own;
+LINE 15: but Mrs. Rachel Lynde was one of those capable creatures who can manage
+LINE 16: their own concerns and those of other folks into the bargain. She was a
+LINE 17: notable housewife; her work was always done and well done; she "ran" the
+LINE 18: Sewing Circle, helped run the Sunday-school, and was the strongest prop
+LINE 19: of the Church Aid Society and Foreign Missions Auxiliary. Yet with all
+LINE 20: this Mrs. Rachel found abundant time to sit for hours at her kitchen
+LINE 21: window, knitting "cotton warp" quilts--she had knitted sixteen of them,
+LINE 22: as Avonlea housekeepers were wont to tell in awed voices--and keeping
+LINE 23: a sharp eye on the main road that crossed the hollow and wound up
+LINE 24: the steep red hill beyond. Since Avonlea occupied a little triangular
+LINE 25: peninsula jutting out into the Gulf of St. Lawrence with water on two
+LINE 26: sides of it, anybody who went out of it or into it had to pass over that
+LINE 27: hill road and so run the unseen gauntlet of Mrs. Rachel's all-seeing
+LINE 28: eye.
+LINE 29: She was sitting there one afternoon in early June. The sun was coming in
+LINE 30: at the window warm and bright; the orchard on the slope below the house
+LINE 31: was in a bridal flush of pinky-white bloom, hummed over by a myriad of
+LINE 32: bees. Thomas Lynde--a meek little man whom Avonlea people called "Rachel
+LINE 33: Lynde's husband"--was sowing his late turnip seed on the hill field
+LINE 34: beyond the barn; and Matthew Cuthbert ought to have been sowing his on
+LINE 35: the big red brook field away over by Green Gables. Mrs. Rachel knew
+LINE 36: that he ought because she had heard him tell Peter Morrison the evening
+LINE 37: before in William J. Blair's store over at Carmody that he meant to sow
+LINE 38: his turnip seed the next afternoon. Peter had asked him, of course, for
+LINE 39: Matthew Cuthbert had never been known to volunteer information about
+LINE 40: anything in his whole life.
+LINE 41: And yet here was Matthew Cuthbert, at half-past three on the afternoon
+LINE 42: of a busy day, placidly driving over the hollow and up the hill;
+LINE 43: moreover, he wore a white collar and his best suit of clothes, which was
+LINE 44: plain proof that he was going out of Avonlea; and he had the buggy
+LINE 45: and the sorrel mare, which betokened that he was going a considerable
+LINE 46: distance. Now, where was Matthew Cuthbert going and why was he going
+LINE 47: there?
+LINE 48: Had it been any other man in Avonlea, Mrs. Rachel, deftly putting this
+LINE 49: and that together, might have given a pretty good guess as to both
+LINE 50: questions. But Matthew so rarely went from home that it must be
+LINE 51: something pressing and unusual which was taking him; he was the shyest
+LINE 52: man alive and hated to have to go among strangers or to any place where
+LINE 53: he might have to talk. Matthew, dressed up with a white collar and
+LINE 54: driving in a buggy, was something that didn't happen often. Mrs. Rachel,
+LINE 55: ponder as she might, could make nothing of it and her afternoon's
+LINE 56: enjoyment was spoiled.
+LINE 57: "I'll just step over to Green Gables after tea and find out from Marilla
+LINE 58: where he's gone and why," the worthy woman finally concluded. "He
+LINE 59: doesn't generally go to town this time of year and he _never_ visits; if
+LINE 60: he'd run out of turnip seed he wouldn't dress up and take the buggy to
+LINE 61: go for more; he wasn't driving fast enough to be going for a doctor.
+LINE 62: Yet something must have happened since last night to start him off. I'm
+LINE 63: clean puzzled, that's what, and I won't know a minute's peace of mind or
+LINE 64: conscience until I know what has taken Matthew Cuthbert out of Avonlea
+LINE 65: today."
+LINE 66: Accordingly after tea Mrs. Rachel set out; she had not far to go; the
+LINE 67: big, rambling, orchard-embowered house where the Cuthberts lived was a
+LINE 68: scant quarter of a mile up the road from Lynde's Hollow. To be sure, the
+LINE 69: long lane made it a good deal further. Matthew Cuthbert's father, as
+LINE 70: shy and silent as his son after him, had got as far away as he possibly
+LINE 71: could from his fellow men without actually retreating into the woods
+LINE 72: when he founded his homestead. Green Gables was built at the furthest
+LINE 73: edge of his cleared land and there it was to this day, barely visible
+LINE 74: from the main road along which all the other Avonlea houses were so
+LINE 75: sociably situated. Mrs. Rachel Lynde did not call living in such a place
+LINE 76: _living_ at all.
+LINE 77: "It's just _staying_, that's what," she said as she stepped along the
+LINE 78: deep-rutted, grassy lane bordered with wild rose bushes. "It's no wonder
+LINE 79: Matthew and Marilla are both a little odd, living away back here by
+LINE 80: themselves. Trees aren't much company, though dear knows if they were
+LINE 81: there'd be enough of them. I'd ruther look at people. To be sure, they
+LINE 82: seem contented enough; but then, I suppose, they're used to it. A body
+LINE 83: can get used to anything, even to being hanged, as the Irishman said."
+LINE 84: With this Mrs. Rachel stepped out of the lane into the backyard of Green
+LINE 85: Gables. Very green and neat and precise was that yard, set about on one
+LINE 86: side with great patriarchal willows and the other with prim Lombardies.
+LINE 87: Not a stray stick nor stone was to be seen, for Mrs. Rachel would have
+LINE 88: seen it if there had been. Privately she was of the opinion that Marilla
+LINE 89: Cuthbert swept that yard over as often as she swept her house. One could
+LINE 90: have eaten a meal off the ground without over-brimming the proverbial
+LINE 91: peck of dirt.
+LINE 92: Mrs. Rachel rapped smartly at the kitchen door and stepped in
+LINE 93: when bidden to do so. The kitchen at Green Gables was a cheerful
+LINE 94: apartment--or would have been cheerful if it had not been so painfully
+LINE 95: clean as to give it something of the appearance of an unused parlor. Its
+LINE 96: windows looked east and west; through the west one, looking out on
+LINE 97: the back yard, came a flood of mellow June sunlight; but the east one,
+LINE 98: whence you got a glimpse of the bloom white cherry-trees in the left
+LINE 99: orchard and nodding, slender birches down in the hollow by the brook,
+LINE 100: was greened over by a tangle of vines. Here sat Marilla Cuthbert, when
+LINE 101: she sat at all, always slightly distrustful of sunshine, which seemed to
+LINE 102: her too dancing and irresponsible a thing for a world which was meant to
+LINE 103: be taken seriously; and here she sat now, knitting, and the table behind
+LINE 104: her was laid for supper.
+LINE 105: Mrs. Rachel, before she had fairly closed the door, had taken a mental
+LINE 106: note of everything that was on that table. There were three plates laid,
+LINE 107: so that Marilla must be expecting some one home with Matthew to tea; but
+LINE 108: the dishes were everyday dishes and there was only crab-apple preserves
+LINE 109: and one kind of cake, so that the expected company could not be any
+LINE 110: particular company. Yet what of Matthew's white collar and the sorrel
+LINE 111: mare? Mrs. Rachel was getting fairly dizzy with this unusual mystery
+LINE 112: about quiet, unmysterious Green Gables.
+LINE 113: "Good evening, Rachel," Marilla said briskly. "This is a real fine
+LINE 114: evening, isn't it? Won't you sit down? How are all your folks?"
+LINE 115: Something that for lack of any other name might be called friendship
+LINE 116: existed and always had existed between Marilla Cuthbert and Mrs. Rachel,
+LINE 117: in spite of--or perhaps because of--their dissimilarity.
+LINE 118: Marilla was a tall, thin woman, with angles and without curves; her dark
+LINE 119: hair showed some gray streaks and was always twisted up in a hard little
+LINE 120: knot behind with two wire hairpins stuck aggressively through it. She
+LINE 121: looked like a woman of narrow experience and rigid conscience, which she
+LINE 122: was; but there was a saving something about her mouth which, if it had
+LINE 123: been ever so slightly developed, might have been considered indicative
+LINE 124: of a sense of humor.
+LINE 125: "We're all pretty well," said Mrs. Rachel. "I was kind of afraid _you_
+LINE 126: weren't, though, when I saw Matthew starting off today. I thought maybe
+LINE 127: he was going to the doctor's."
+LINE 128: Marilla's lips twitched understandingly. She had expected Mrs.
+LINE 129: Rachel up; she had known that the sight of Matthew jaunting off so
+LINE 130: unaccountably would be too much for her neighbor's curiosity.
+LINE 131: "Oh, no, I'm quite well although I had a bad headache yesterday," she
+LINE 132: said. "Matthew went to Bright River. We're getting a little boy from an
+LINE 133: orphan asylum in Nova Scotia and he's coming on the train tonight."
+LINE 134: If Marilla had said that Matthew had gone to Bright River to meet a
+LINE 135: kangaroo from Australia Mrs. Rachel could not have been more astonished.
+LINE 136: She was actually stricken dumb for five seconds. It was unsupposable
+LINE 137: that Marilla was making fun of her, but Mrs. Rachel was almost forced to
+LINE 138: suppose it.
+LINE 139: "Are you in earnest, Marilla?" she demanded when voice returned to her.
+LINE 140: "Yes, of course," said Marilla, as if getting boys from orphan asylums
+LINE 141: in Nova Scotia were part of the usual spring work on any well-regulated
+LINE 142: Avonlea farm instead of being an unheard of innovation.
+LINE 143: Mrs. Rachel felt that she had received a severe mental jolt. She thought
+LINE 144: in exclamation points. A boy! Marilla and Matthew Cuthbert of all people
+LINE 145: adopting a boy! From an orphan asylum! Well, the world was certainly
+LINE 146: turning upside down! She would be surprised at nothing after this!
+LINE 147: Nothing!
+LINE 148: "What on earth put such a notion into your head?" she demanded
+LINE 149: disapprovingly.
+LINE 150: This had been done without her advice being asked, and must perforce be
+LINE 151: disapproved.
+LINE 152: "Well, we've been thinking about it for some time--all winter in fact,"
+LINE 153: returned Marilla. "Mrs. Alexander Spencer was up here one day before
+LINE 154: Christmas and she said she was going to get a little girl from the
+LINE 155: asylum over in Hopeton in the spring. Her cousin lives there and Mrs.
+LINE 156: Spencer has visited here and knows all about it. So Matthew and I have
+LINE 157: talked it over off and on ever since. We thought we'd get a boy. Matthew
+LINE 158: is getting up in years, you know--he's sixty--and he isn't so spry as he
+LINE 159: once was. His heart troubles him a good deal. And you know how desperate
+LINE 160: hard it's got to be to get hired help. There's never anybody to be had
+LINE 161: but those stupid, half-grown little French boys; and as soon as you do
+LINE 162: get one broke into your ways and taught something he's up and off to the
+LINE 163: lobster canneries or the States. At first Matthew suggested getting a
+LINE 164: Home boy. But I said 'no' flat to that. 'They may be all right--I'm not
+LINE 165: saying they're not--but no London street Arabs for me,' I said. 'Give
+LINE 166: me a native born at least. There'll be a risk, no matter who we get. But
+LINE 167: I'll feel easier in my mind and sleep sounder at nights if we get a born
+LINE 168: Canadian.' So in the end we decided to ask Mrs. Spencer to pick us out
+LINE 169: one when she went over to get her little girl. We heard last week she
+LINE 170: was going, so we sent her word by Richard Spencer's folks at Carmody
+LINE 171: to bring us a smart, likely boy of about ten or eleven. We decided that
+LINE 172: would be the best age--old enough to be of some use in doing chores
+LINE 173: right off and young enough to be trained up proper. We mean to give him
+LINE 174: a good home and schooling. We had a telegram from Mrs. Alexander Spencer
+LINE 175: today--the mail-man brought it from the station--saying they were coming
+LINE 176: on the five-thirty train tonight. So Matthew went to Bright River to
+LINE 177: meet him. Mrs. Spencer will drop him off there. Of course she goes on to
+LINE 178: White Sands station herself."
+LINE 179: Mrs. Rachel prided herself on always speaking her mind; she proceeded to
+LINE 180: speak it now, having adjusted her mental attitude to this amazing piece
+LINE 181: of news.
+LINE 182: "Well, Marilla, I'll just tell you plain that I think you're doing a
+LINE 183: mighty foolish thing--a risky thing, that's what. You don't know what
+LINE 184: you're getting. You're bringing a strange child into your house and home
+LINE 185: and you don't know a single thing about him nor what his disposition is
+LINE 186: like nor what sort of parents he had nor how he's likely to turn out.
+LINE 187: Why, it was only last week I read in the paper how a man and his wife up
+LINE 188: west of the Island took a boy out of an orphan asylum and he set fire to
+LINE 189: the house at night--set it _on purpose_, Marilla--and nearly burnt them to
+LINE 190: a crisp in their beds. And I know another case where an adopted boy used
+LINE 191: to suck the eggs--they couldn't break him of it. If you had asked my
+LINE 192: advice in the matter--which you didn't do, Marilla--I'd have said for
+LINE 193: mercy's sake not to think of such a thing, that's what."
+LINE 194: This Job's comforting seemed neither to offend nor to alarm Marilla. She
+LINE 195: knitted steadily on.
+LINE 196: "I don't deny there's something in what you say, Rachel. I've had some
+LINE 197: qualms myself. But Matthew was terrible set on it. I could see that, so
+LINE 198: I gave in. It's so seldom Matthew sets his mind on anything that when he
+LINE 199: does I always feel it's my duty to give in. And as for the risk, there's
+LINE 200: risks in pretty near everything a body does in this world. There's risks
+LINE 201: in people's having children of their own if it comes to that--they don't
+LINE 202: always turn out well. And then Nova Scotia is right close to the Island.
+LINE 203: It isn't as if we were getting him from England or the States. He can't
+LINE 204: be much different from ourselves."
+LINE 205: "Well, I hope it will turn out all right," said Mrs. Rachel in a tone
+LINE 206: that plainly indicated her painful doubts. "Only don't say I didn't
+LINE 207: warn you if he burns Green Gables down or puts strychnine in the well--I
+LINE 208: heard of a case over in New Brunswick where an orphan asylum child did
+LINE 209: that and the whole family died in fearful agonies. Only, it was a girl
+LINE 210: in that instance."
+LINE 211: "Well, we're not getting a girl," said Marilla, as if poisoning wells
+LINE 212: were a purely feminine accomplishment and not to be dreaded in the case
+LINE 213: of a boy. "I'd never dream of taking a girl to bring up. I wonder at
+LINE 214: Mrs. Alexander Spencer for doing it. But there, _she_ wouldn't shrink
+LINE 215: from adopting a whole orphan asylum if she took it into her head."
+LINE 216: Mrs. Rachel would have liked to stay until Matthew came home with his
+LINE 217: imported orphan. But reflecting that it would be a good two hours at
+LINE 218: least before his arrival she concluded to go up the road to Robert
+LINE 219: Bell's and tell the news. It would certainly make a sensation second
+LINE 220: to none, and Mrs. Rachel dearly loved to make a sensation. So she took
+LINE 221: herself away, somewhat to Marilla's relief, for the latter felt
+LINE 222: her doubts and fears reviving under the influence of Mrs. Rachel's
+LINE 223: pessimism.
+LINE 224: "Well, of all things that ever were or will be!" ejaculated Mrs. Rachel
+LINE 225: when she was safely out in the lane. "It does really seem as if I must
+LINE 226: be dreaming. Well, I'm sorry for that poor young one and no mistake.
+LINE 227: Matthew and Marilla don't know anything about children and they'll
+LINE 228: expect him to be wiser and steadier that his own grandfather, if so be's
+LINE 229: he ever had a grandfather, which is doubtful. It seems uncanny to think
+LINE 230: of a child at Green Gables somehow; there's never been one there, for
+LINE 231: Matthew and Marilla were grown up when the new house was built--if they
+LINE 232: ever _were_ children, which is hard to believe when one looks at them.
+LINE 233: I wouldn't be in that orphan's shoes for anything. My, but I pity him,
+LINE 234: that's what."
+LINE 235: So said Mrs. Rachel to the wild rose bushes out of the fulness of her
+LINE 236: heart; but if she could have seen the child who was waiting patiently
+LINE 237: at the Bright River station at that very moment her pity would have been
+LINE 238: still deeper and more profound.

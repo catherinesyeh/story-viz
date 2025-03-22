@@ -1,0 +1,939 @@
+LINE 1: I
+LINE 2: Meanwhile in Victoria's private life many changes and developments had
+LINE 3: taken place. With the marriages of her elder children her family
+LINE 4: circle widened; grandchildren appeared; and a multitude of new domestic
+LINE 5: interests sprang up. The death of King Leopold in 1865 had removed the
+LINE 6: predominant figure of the older generation, and the functions he had
+LINE 7: performed as the centre and adviser of a large group of relatives in
+LINE 8: Germany and in England devolved upon Victoria. These functions
+LINE 9: she discharged with unremitting industry, carrying on an enormous
+LINE 10: correspondence, and following with absorbed interest every detail in the
+LINE 11: lives of the ever-ramifying cousinhood. And she tasted to the full
+LINE 12: both the joys and the pains of family affection. She took a particular
+LINE 13: delight in her grandchildren, to whom she showed an indulgence which
+LINE 14: their parents had not always enjoyed, though, even to her grandchildren,
+LINE 15: she could be, when the occasion demanded it, severe. The eldest of them,
+LINE 16: the little Prince Wilhelm of Prussia, was a remarkably headstrong child;
+LINE 17: he dared to be impertinent even to his grandmother; and once, when she
+LINE 18: told him to bow to a visitor at Osborne, he disobeyed her outright.
+LINE 19: This would not do: the order was sternly repeated, and the naughty boy,
+LINE 20: noticing that his grandmama had suddenly turned into a most terrifying
+LINE 21: lady, submitted his will to hers, and bowed very low indeed.
+LINE 22: It would have been well if all the Queen's domestic troubles could
+LINE 23: have been got over as easily. Among her more serious distresses was the
+LINE 24: conduct of the Prince of Wales. The young man was now independent and
+LINE 25: married; he had shaken the parental yoke from his shoulders; he was
+LINE 26: positively beginning to do as he liked. Victoria was much perturbed,
+LINE 27: and her worst fears seemed to be justified when in 1870 he appeared as
+LINE 28: a witness in a society divorce case. It was clear that the heir to the
+LINE 29: throne had been mixing with people of whom she did not at all approve.
+LINE 30: What was to be done? She saw that it was not only her son that was to
+LINE 31: blame--that it was the whole system of society; and so she despatched
+LINE 32: a letter to Mr. Delane, the editor of The Times, asking him if he would
+LINE 33: "frequently WRITE articles pointing out the IMMENSE danger and evil of
+LINE 34: the wretched frivolity and levity of the views and lives of the Higher
+LINE 35: Classes." And five years later Mr. Delane did write an article upon that
+LINE 36: very subject. Yet it seemed to have very little effect.
+LINE 37: Ah! if only the Higher Classes would learn to live as she lived in the
+LINE 38: domestic sobriety of her sanctuary at Balmoral! For more and more
+LINE 39: did she find solace and refreshment in her Highland domain; and twice
+LINE 40: yearly, in the spring and in the autumn, with a sigh of relief, she set
+LINE 41: her face northwards, in spite of the humble protests of Ministers, who
+LINE 42: murmured vainly in the royal ears that to transact the affairs of State
+LINE 43: over an interval of six hundred miles added considerably to the cares
+LINE 44: of government. Her ladies, too, felt occasionally a slight reluctance to
+LINE 45: set out, for, especially in the early days, the long pilgrimage was not
+LINE 46: without its drawbacks. For many years the Queen's conservatism forbade
+LINE 47: the continuation of the railway up Deeside, so that the last stages
+LINE 48: of the journey had to be accomplished in carriages. But, after all,
+LINE 49: carriages had their good points; they were easy, for instance, to get
+LINE 50: in and out of, which was an important consideration, for the royal train
+LINE 51: remained for long immune from modern conveniences, and when it drew up,
+LINE 52: on some border moorland, far from any platform, the highbred dames were
+LINE 53: obliged to descend to earth by the perilous foot-board, the only pair
+LINE 54: of folding steps being reserved for Her Majesty's saloon. In the days of
+LINE 55: crinolines such moments were sometimes awkward; and it was occasionally
+LINE 56: necessary to summon Mr. Johnstone, the short and sturdy Manager of the
+LINE 57: Caledonian Railway, who, more than once, in a high gale and drenching
+LINE 58: rain with great difficulty "pushed up"--as he himself described it--some
+LINE 59: unlucky Lady Blanche or Lady Agatha into her compartment. But Victoria
+LINE 60: cared for none of these things. She was only intent upon regaining, with
+LINE 61: the utmost swiftness, her enchanted Castle, where every spot was charged
+LINE 62: with memories, where every memory was sacred, and where life was passed
+LINE 63: in an incessant and delightful round of absolutely trivial events.
+LINE 64: And it was not only the place that she loved; she was equally attached
+LINE 65: to "the simple mountaineers," from whom, she said, "she learnt many
+LINE 66: a lesson of resignation and faith." Smith and Grant and Ross and
+LINE 67: Thompson--she was devoted to them all; but, beyond the rest, she was
+LINE 68: devoted to John Brown. The Prince's gillie had now become the Queen's
+LINE 69: personal attendant--a body servant from whom she was never parted, who
+LINE 70: accompanied her on her drives, waited on her during the day, and
+LINE 71: slept in a neighbouring chamber at night. She liked his strength, his
+LINE 72: solidity, the sense he gave her of physical security; she even liked his
+LINE 73: rugged manners and his rough unaccommodating speech. She allowed him to
+LINE 74: take liberties with her which would have been unthinkable from anybody
+LINE 75: else. To bully the Queen, to order her about, to reprimand her--who
+LINE 76: could dream of venturing upon such audacities? And yet, when she
+LINE 77: received such treatment from John Brown, she positively seemed to enjoy
+LINE 78: it. The eccentricity appeared to be extraordinary; but, after all, it
+LINE 79: is no uncommon thing for an autocratic dowager to allow some trusted
+LINE 80: indispensable servant to adopt towards her an attitude of authority
+LINE 81: which is jealously forbidden to relatives or friends: the power of a
+LINE 82: dependent still remains, by a psychological sleight-of-hand, one's own
+LINE 83: power, even when it is exercised over oneself. When Victoria meekly
+LINE 84: obeyed the abrupt commands of her henchman to get off her pony or put on
+LINE 85: her shawl, was she not displaying, and in the highest degree, the force
+LINE 86: of her volition? People might wonder; she could not help that; this was
+LINE 87: the manner in which it pleased her to act, and there was an end of it.
+LINE 88: To have submitted her judgment to a son or a Minister might have seemed
+LINE 89: wiser or more natural; but if she had done so, she instinctively felt,
+LINE 90: she would indeed have lost her independence. And yet upon somebody
+LINE 91: she longed to depend. Her days were heavy with the long process of
+LINE 92: domination. As she drove in silence over the moors she leaned back in
+LINE 93: the carriage, oppressed and weary; but what a relief--John Brown was
+LINE 94: behind on the rumble, and his strong arm would be there for her to lean
+LINE 95: upon when she got out.
+LINE 96: He had, too, in her mind, a special connection with Albert. In their
+LINE 97: expeditions the Prince had always trusted him more than anyone; the
+LINE 98: gruff, kind, hairy Scotsman was, she felt, in some mysterious way,
+LINE 99: a legacy from the dead. She came to believe at last--or so it
+LINE 100: appeared--that the spirit of Albert was nearer when Brown was near.
+LINE 101: Often, when seeking inspiration over some complicated question of
+LINE 102: political or domestic import, she would gaze with deep concentration at
+LINE 103: her late husband's bust. But it was also noticed that sometimes in such
+LINE 104: moments of doubt and hesitation Her Majesty's looks would fix themselves
+LINE 105: upon John Brown.
+LINE 106: Eventually, the "simple mountaineer" became almost a state personage.
+LINE 107: The influence which he wielded was not to be overlooked. Lord
+LINE 108: Beaconsfield was careful, from time to time, to send courteous messages
+LINE 109: to "Mr. Brown" in his letters to the Queen, and the French Government
+LINE 110: took particular pains to provide for his comfort during the visits of
+LINE 111: the English Sovereign to France. It was only natural that among the
+LINE 112: elder members of the royal family he should not have been popular, and
+LINE 113: that his failings--for failings he had, though Victoria would never
+LINE 114: notice his too acute appreciation of Scotch whisky--should have been
+LINE 115: the subject of acrimonious comment at Court. But he served his mistress
+LINE 116: faithfully, and to ignore him would be a sign of disrespect to her
+LINE 117: biographer. For the Queen, far from making a secret of her affectionate
+LINE 118: friendship, took care to publish it to the world. By her orders two
+LINE 119: gold medals were struck in his honour; on his death, in 1883, a long and
+LINE 120: eulogistic obituary notice of him appeared in the Court Circular; and a
+LINE 121: Brown memorial brooch--of gold, with the late gillie's head on one side
+LINE 122: and the royal monogram on the other--was designed by Her Majesty for
+LINE 123: presentation to her Highland servants and cottagers, to be worn by them
+LINE 124: on the anniversary of his death, with a mourning scarf and pins. In the
+LINE 125: second series of extracts from the Queen's Highland Journal, published
+LINE 126: in 1884, her "devoted personal attendant and faithful friend" appears
+LINE 127: upon almost every page, and is in effect the hero of the book. With an
+LINE 128: absence of reticence remarkable in royal persons, Victoria seemed to
+LINE 129: demand, in this private and delicate matter, the sympathy of the whole
+LINE 130: nation; and yet--such is the world--there were those who actually
+LINE 131: treated the relations between their Sovereign and her servant as a theme
+LINE 132: for ribald jests.
+LINE 133: II
+LINE 134: The busy years hastened away; the traces of Time's unimaginable touch
+LINE 135: grew manifest; and old age, approaching, laid a gentle hold upon
+LINE 136: Victoria. The grey hair whitened; the mature features mellowed; the
+LINE 137: short firm figure amplified and moved more slowly, supported by a stick.
+LINE 138: And, simultaneously, in the whole tenour of the Queen's existence an
+LINE 139: extraordinary transformation came to pass. The nation's attitude
+LINE 140: towards her, critical and even hostile as it had been for so many years,
+LINE 141: altogether changed; while there was a corresponding alteration in the
+LINE 142: temper of--Victoria's own mind.
+LINE 143: Many causes led to this result. Among them were the repeated strokes of
+LINE 144: personal misfortune which befell the Queen during a cruelly short space
+LINE 145: of years. In 1878 the Princess Alice, who had married in 1862 the Prince
+LINE 146: Louis of Hesse-Darmstadt, died in tragic circumstances. In the following
+LINE 147: year the Prince Imperial, the only son of the Empress Eugenie, to whom
+LINE 148: Victoria, since the catastrophe of 1870, had become devotedly attached,
+LINE 149: was killed in the Zulu War. Two years later, in 1881, the Queen lost
+LINE 150: Lord Beaconsfield, and, in 1883, John Brown. In 1884 the Prince Leopold,
+LINE 151: Duke of Albany, who had been an invalid from birth, died prematurely,
+LINE 152: shortly after his marriage. Victoria's cup of sorrows was indeed
+LINE 153: overflowing; and the public, as it watched the widowed mother weeping
+LINE 154: for her children and her friends, displayed a constantly increasing
+LINE 155: sympathy.
+LINE 156: An event which occurred in 1882 revealed and accentuated the feelings of
+LINE 157: the nation. As the Queen, at Windsor, was walking from the train to her
+LINE 158: carriage, a youth named Roderick Maclean fired a pistol at her from a
+LINE 159: distance of a few yards. An Eton boy struck up Maclean's arm with an
+LINE 160: umbrella before the pistol went off; no damage was done, and the culprit
+LINE 161: was at once arrested. This was the last of a series of seven attempts
+LINE 162: upon the Queen--attempts which, taking place at sporadic intervals over
+LINE 163: a period of forty years, resembled one another in a curious manner. All,
+LINE 164: with a single exception, were perpetrated by adolescents, whose motives
+LINE 165: were apparently not murderous, since, save in the case of Maclean, none
+LINE 166: of their pistols was loaded. These unhappy youths, who, after buying
+LINE 167: their cheap weapons, stuffed them with gunpowder and paper, and then
+LINE 168: went off, with the certainty of immediate detection, to click them in
+LINE 169: the face of royalty, present a strange problem to the psychologist. But,
+LINE 170: though in each case their actions and their purposes seemed to be so
+LINE 171: similar, their fates were remarkably varied. The first of them, Edward
+LINE 172: Oxford, who fired at Victoria within a few months of her marriage, was
+LINE 173: tried for high treason, declared to be insane, and sent to an asylum for
+LINE 174: life. It appears, however, that this sentence did not commend itself to
+LINE 175: Albert, for when, two years later, John Francis committed the same of
+LINE 176: fence, and was tried upon the same charge, the Prince propounced that
+LINE 177: there was no insanity in the matter. "The wretched creature," he told
+LINE 178: his father, was "not out of his mind, but a thorough scamp." "I hope,"
+LINE 179: he added, "his trial will be conducted with the greatest strictness."
+LINE 180: Apparently it was; at any rate, the jury shared the view of the Prince,
+LINE 181: the plea of insanity was, set aside, and Francis was found guilty of
+LINE 182: high treason and condemned to death; but, as there was no proof of
+LINE 183: an intent to kill or even to wound, this sentence, after a lengthened
+LINE 184: deliberation between the Home Secretary and the Judges, was commuted for
+LINE 185: one of transportation for life. As the law stood, these assaults, futile
+LINE 186: as they were, could only be treated as high treason; the discrepancy
+LINE 187: between the actual deed and the tremendous penalties involved was
+LINE 188: obviously grotesque; and it was, besides, clear that a jury, knowing
+LINE 189: that a verdict of guilty implied a sentence of death, would tend to
+LINE 190: the alternative course, and find the prisoner not guilty but insane--a
+LINE 191: conclusion which, on the face of it, would have appeared to be the more
+LINE 192: reasonable. In 1842, therefore, an Act was passed making any attempt
+LINE 193: to hurt the Queen a misdemeanor, punishable by transportation for seven
+LINE 194: years, or imprisonment, with or without hard labour, for a term not
+LINE 195: exceeding three years--the misdemeanant, at the discretion of the Court,
+LINE 196: "to be publicly or privately whipped, as often, and in such manner
+LINE 197: and form, as the Court shall direct, not exceeding thrice." The four
+LINE 198: subsequent attempts were all dealt with under this new law; William
+LINE 199: Bean, in 1842, was sentenced to eighteen months' imprisonment; William
+LINE 200: Hamilton, in 1849, was transported for seven years; and, in 1850, the
+LINE 201: same sentence was passed upon Lieutenant Robert Pate, who struck the
+LINE 202: Queen on the head with his cane in Piccadilly. Pate, alone among these
+LINE 203: delinquents, was of mature years; he had held a commission in the Army,
+LINE 204: dressed himself as a dandy, and was, the Prince declared, "manifestly
+LINE 205: deranged." In 1872 Arthur O'Connor, a youth of seventeen, fired
+LINE 206: an unloaded pistol at the Queen outside Buckingham Palace; he
+LINE 207: was immediately seized by John Brown, and sentenced to one year's
+LINE 208: imprisonment and twenty strokes of the birch rod. It was for his bravery
+LINE 209: upon this occasion that Brown was presented with one of his gold medals.
+LINE 210: In all these cases the jury had refused to allow the plea of insanity;
+LINE 211: but Roderick Maclean's attempt in 1882 had a different issue. On this
+LINE 212: occasion the pistol was found to have been loaded, and the public
+LINE 213: indignation, emphasised as it was by Victoria's growing popularity,
+LINE 214: was particularly great. Either for this or for some other reason the
+LINE 215: procedure of the last forty years was abandoned, and Maclean was tried
+LINE 216: for high treason. The result was what might have been expected: the jury
+LINE 217: brought in a verdict of "not guilty, but insane"; and the prisoner was
+LINE 218: sent to an asylum during Her Majesty's pleasure. Their verdict, however,
+LINE 219: produced a remarkable consequence. Victoria, who doubtless carried in
+LINE 220: her mind some memory of Albert's disapproval of a similar verdict in
+LINE 221: the case of Oxford, was very much annoyed. What did the jury mean, she
+LINE 222: asked, by saying that Maclean was not guilty? It was perfectly clear
+LINE 223: that he was guilty--she had seen him fire off the pistol herself. It was
+LINE 224: in vain that Her Majesty's constitutional advisers reminded her of the
+LINE 225: principle of English law which lays down that no man can be found
+LINE 226: guilty of a crime unless he be proved to have had a criminal intention.
+LINE 227: Victoria was quite unconvinced. "If that is the law," she said, "the law
+LINE 228: must be altered:" and altered it was. In 1883 an Act was passed changing
+LINE 229: the form of the verdict in cases of insanity, and the confusing anomaly
+LINE 230: remains upon the Statute Book to this day.
+LINE 231: But it was not only through the feelings--commiserating or indignant--of
+LINE 232: personal sympathy that the Queen and her people were being drawn more
+LINE 233: nearly together; they were beginning, at last, to come to a close and
+LINE 234: permanent agreement upon the conduct of public affairs. Mr. Gladstone's
+LINE 235: second administration (1880-85) was a succession of failures, ending in
+LINE 236: disaster and disgrace; liberalism fell into discredit with the country,
+LINE 237: and Victoria perceived with joy that her distrust of her Ministers was
+LINE 238: shared by an ever-increasing number of her subjects. During the crisis
+LINE 239: in the Sudan, the popular temper was her own. She had been among the
+LINE 240: first to urge the necessity of an expedition to Khartoum, and, when the
+LINE 241: news came of the catastrophic death of General Gordon, her voice led the
+LINE 242: chorus of denunciation which raved against the Government. In her rage,
+LINE 243: she despatched a fulminating telegram to Mr. Gladstone, not in the usual
+LINE 244: cypher, but open; and her letter of condolence to Miss Gordon, in which
+LINE 245: she attacked her Ministers for breach of faith, was widely published.
+LINE 246: It was rumoured that she had sent for Lord Hartington, the Secretary
+LINE 247: of State for War, and vehemently upbraided him. "She rated me," he was
+LINE 248: reported to have told a friend, "as if I'd been a footman." "Why didn't
+LINE 249: she send for the butler?" asked his friend. "Oh," was the reply, "the
+LINE 250: butler generally manages to keep out of the way on such occasions."
+LINE 251: But the day came when it was impossible to keep out of the way any
+LINE 252: longer. Mr. Gladstone was defeated, and resigned. Victoria, at a
+LINE 253: final interview, received him with her usual amenity, but, besides the
+LINE 254: formalities demanded by the occasion, the only remark which she made
+LINE 255: to him of a personal nature was to the effect that she supposed Mr.
+LINE 256: Gladstone would now require some rest. He remembered with regret how,
+LINE 257: at a similar audience in 1874, she had expressed her trust in him as a
+LINE 258: supporter of the throne; but he noted the change without surprise. "Her
+LINE 259: mind and opinions," he wrote in his diary afterwards, "have since that
+LINE 260: day been seriously warped."
+LINE 261: Such was Mr. Gladstone's view,; but the majority of the nation by no
+LINE 262: means agreed with him; and, in the General Election of 1886, they
+LINE 263: showed decisively that Victoria's politics were identical with theirs
+LINE 264: by casting forth the contrivers of Home Rule--that abomination of
+LINE 265: desolation--into outer darkness, and placing Lord Salisbury in
+LINE 266: power. Victoria's satisfaction was profound. A flood of new unwonted
+LINE 267: hopefulness swept over her, stimulating her vital spirits with a
+LINE 268: surprising force. Her habit of life was suddenly altered; abandoning
+LINE 269: the long seclusion which Disraeli's persuasions had only momentarily
+LINE 270: interrupted, she threw herself vigorously into a multitude of public
+LINE 271: activities. She appeared at drawing-rooms, at concerts, at reviews; she
+LINE 272: laid foundation-stones; she went to Liverpool to open an international
+LINE 273: exhibition, driving through the streets in her open carriage in heavy
+LINE 274: rain amid vast applauding crowds. Delighted by the welcome which met
+LINE 275: her everywhere, she warmed to her work. She visited Edinburgh, where the
+LINE 276: ovation of Liverpool was repeated and surpassed. In London, she opened
+LINE 277: in high state the Colonial and Indian Exhibition at South Kensington.
+LINE 278: On this occasion the ceremonial was particularly magnificent; a blare
+LINE 279: of trumpets announced the approach of Her Majesty; the "Natiohal Anthem"
+LINE 280: followed; and the Queen, seated on a gorgeous throne of hammered gold,
+LINE 281: replied with her own lips to the address that was presented to her. Then
+LINE 282: she rose, and, advancing upon the platform with regal port, acknowledged
+LINE 283: the acclamations of the great assembly by a succession of curtseys, of
+LINE 284: elaborate and commanding grace.
+LINE 285: Next year was the fiftieth of her reign, and in June the splendid
+LINE 286: anniversary was celebrated in solemn pomp. Victoria, surrounded by the
+LINE 287: highest dignitaries of her realm, escorted by a glittering galaxy of
+LINE 288: kings and princes, drove through the crowded enthusiasm of the capital
+LINE 289: to render thanks to God in Westminster Abbey. In that triumphant hour
+LINE 290: the last remaining traces of past antipathies and past disagreements
+LINE 291: were altogether swept away. The Queen was hailed at once as the mother
+LINE 292: of her people and as the embodied symbol of their imperial greatness;
+LINE 293: and she responded to the double sentiment with all the ardour of her
+LINE 294: spirit. England and the people of England, she knew it, she felt it,
+LINE 295: were, in some wonderful and yet quite simple manner, hers. Exultation,
+LINE 296: affection, gratitude, a profound sense of obligation, an unbounded
+LINE 297: pride--such were her emotions; and, colouring and intensifying the
+LINE 298: rest, there was something else. At last, after so long,
+LINE 299: happiness--fragmentary, perhaps, and charged with gravity, but true
+LINE 300: and unmistakable none the less--had returned to her. The unaccustomed
+LINE 301: feeling filled and warmed her consciousness. When, at Buckingham Palace
+LINE 302: again, the long ceremony over, she was asked how she was, "I am very
+LINE 303: tired, but very happy," she said.
+LINE 304: III
+LINE 305: And so, after the toils and tempests of the day, a long evening
+LINE 306: followed--mild, serene, and lighted with a golden glory. For an
+LINE 307: unexampled atmosphere of success and adoration invested the last period
+LINE 308: of Victoria's life. Her triumph was the summary, the crown, of a greater
+LINE 309: triumph--the culminating prosperity of a nation. The solid splendour of
+LINE 310: the decade between Victoria's two jubilees can hardly be paralleled in
+LINE 311: the annals of England. The sage counsels of Lord Salisbury seemed to
+LINE 312: bring with them not only wealth and power, but security; and the country
+LINE 313: settled down, with calm assurance, to the enjoyment of an established
+LINE 314: grandeur. And--it was only natural--Victoria settled down too. For
+LINE 315: she was a part of the establishment--an essential part as it seemed--a
+LINE 316: fixture--a magnificent, immovable sideboard in the huge saloon of
+LINE 317: state. Without her the heaped-up banquet of 1890 would have lost
+LINE 318: its distinctive quality--the comfortable order of the substantial
+LINE 319: unambiguous dishes, with their background of weighty glamour, half out
+LINE 320: of sight.
+LINE 321: Her own existence came to harmonise more and more with what was around
+LINE 322: her. Gradually, imperceptibly, Albert receded. It was not that he was
+LINE 323: forgotten--that would have been impossible--but that the void created
+LINE 324: by his absence grew less agonising, and even, at last, less obvious.
+LINE 325: At last Victoria found it possible to regret the bad weather without
+LINE 326: immediately reflecting that her "dear Albert always said we could not
+LINE 327: alter it, but must leave it as it was;" she could even enjoy a good
+LINE 328: breakfast without considering how "dear Albert" would have liked the
+LINE 329: buttered eggs. And, as that figure slowly faded, its place was taken,
+LINE 330: inevitably, by Victoria's own. Her being, revolving for so many years
+LINE 331: round an external object, now changed its motion and found its centre
+LINE 332: in itself. It had to be so: her domestic position, the pressure of
+LINE 333: her public work, her indomitable sense of duty, made anything else
+LINE 334: impossible. Her egotism proclaimed its rights. Her age increased still
+LINE 335: further the surrounding deference; and her force of character, emerging
+LINE 336: at length in all its plenitude, imposed absolutely upon its environment
+LINE 337: by the conscious effort of an imperious will.
+LINE 338: Little by little it was noticed that the outward vestiges of Albert's
+LINE 339: posthumous domination grew less complete. At Court the stringency of
+LINE 340: mourning was relaxed. As the Queen drove through the Park in her open
+LINE 341: carriage with her Highlanders behind her, nursery-maids canvassed
+LINE 342: eagerly the growing patch of violet velvet in the bonnet with its jet
+LINE 343: appurtenances on the small bowing head.
+LINE 344: It was in her family that Victoria's ascendancy reached its highest
+LINE 345: point. All her offspring were married; the number of her descendants
+LINE 346: rapidly increased; there were many marriages in the third generation;
+LINE 347: and no fewer than thirty-seven of her great-grandchildren were living at
+LINE 348: the time of her death. A picture of the period displays the royal family
+LINE 349: collected together in one of the great rooms at Windsor--a crowded
+LINE 350: company of more than fifty persons, with the imperial matriarch in
+LINE 351: their midst. Over them all she ruled with a most potent sway. The small
+LINE 352: concerns of the youngest aroused her passionate interest; and the oldest
+LINE 353: she treated as if they were children still. The Prince of Wales, in
+LINE 354: particular, stood in tremendous awe of his mother. She had steadily
+LINE 355: refused to allow him the slightest participation in the business of
+LINE 356: government; and he had occupied himself in other ways. Nor could it
+LINE 357: be denied that he enjoyed himself--out of her sight; but, in that
+LINE 358: redoubtable presence, his abounding manhood suffered a miserable
+LINE 359: eclipse. Once, at Osborne, when, owing to no fault of his, he was too
+LINE 360: late for a dinner party, he was observed standing behind a pillar and
+LINE 361: wiping the sweat from his forehead, trying to nerve himself to go up to
+LINE 362: the Queen. When at last he did so, she gave him a stiff nod, whereupon
+LINE 363: he vanished immediately behind another pillar, and remained there until
+LINE 364: the party broke up. At the time of this incident the Prince of Wales was
+LINE 365: over fifty years of age.
+LINE 366: It was inevitable that the Queen's domestic activities should
+LINE 367: occasionally trench upon the domain of high diplomacy; and this was
+LINE 368: especially the case when the interests of her eldest daughter, the
+LINE 369: Crown Princess of Prussia, were at stake. The Crown Prince held liberal
+LINE 370: opinions; he was much influenced by his wife; and both were detested by
+LINE 371: Bismarck, who declared with scurrilous emphasis that the Englishwoman
+LINE 372: and her mother were a menace to the Prussian State. The feud was still
+LINE 373: further intensified when, on the death of the old Emperor (1888), the
+LINE 374: Crown Prince succeeded to the throne. A family entanglement brought on
+LINE 375: a violent crisis. One of the daughters of the new Empress had become
+LINE 376: betrothed to Prince Alexander of Battenberg, who had lately been
+LINE 377: ejected from the throne of Bulgaria owing to the hostility of the Tsar.
+LINE 378: Victoria, as well as the Empress, highly approved of the match. Of the
+LINE 379: two brothers of Prince Alexander, the elder had married another of her
+LINE 380: grand-daughters, and the younger was the husband of her daughter, the
+LINE 381: Princess Beatrice; she was devoted to the handsome young man; and she
+LINE 382: was delighted by the prospect of the third brother--on the whole the
+LINE 383: handsomest, she thought, of the three--also becoming a member of her
+LINE 384: family. Unfortunately, however, Bismarck was opposed to the scheme.
+LINE 385: He perceived that the marriage would endanger the friendship between
+LINE 386: Germany and Russia, which was vital to his foreign policy, and he
+LINE 387: announced that it must not take place. A fierce struggle between the
+LINE 388: Empress and the Chancellor followed. Victoria, whose hatred of her
+LINE 389: daughter's enemy was unbounded, came over to Charlottenburg to join in
+LINE 390: the fray. Bismarck, over his pipe and lager, snorted out his alarm. The
+LINE 391: Queen of England's object, he said, was clearly political--she wished to
+LINE 392: estrange Germany and Russia--and very likely she would have her way. "In
+LINE 393: family matters," he added, "she is not used to contradiction;" she would
+LINE 394: "bring the parson with her in her travelling bag and the bridegroom in
+LINE 395: her trunk, and the marriage would come off on the spot." But the man
+LINE 396: of blood and iron was not to be thwarted so easily, and he asked for a
+LINE 397: private interview with the Queen. The details of their conversation are
+LINE 398: unknown; but it is certain that in the course of it Victoria was forced
+LINE 399: to realise the meaning of resistance to that formidable personage, and
+LINE 400: that she promised to use all her influence to prevent the marriage. The
+LINE 401: engagement was broken off; and in the following year Prince Alexander of
+LINE 402: Battenberg united himself to Fraulein Loisinger, an actress at the court
+LINE 403: theatre of Darmstad.
+LINE 404: But such painful incidents were rare. Victoria was growing very old;
+LINE 405: with no Albert to guide her, with no Beaconsfield to enflame her, she
+LINE 406: was willing enough to abandon the dangerous questions of diplomacy
+LINE 407: to the wisdom of Lord Salisbury, and to concentrate her energies upon
+LINE 408: objects which touched her more nearly and over which she could
+LINE 409: exercise an undisputed control. Her home--her court--the monuments
+LINE 410: at Balmoral--the livestock at Windsor--the organisation of her
+LINE 411: engagements--the supervision of the multitudinous details of her daily
+LINE 412: routine--such matters played now an even greater part in her existence
+LINE 413: than before. Her life passed in an extraordinary exactitude. Every
+LINE 414: moment of her day was mapped out beforehand; the succession of her
+LINE 415: engagements was immutably fixed; the dates of her journeys--to Osborne,
+LINE 416: to Balmoral, to the South of France, to Windsor, to London--were hardly
+LINE 417: altered from year to year. She demanded from those who surrounded her
+LINE 418: a rigid precision in details, and she was preternaturally quick in
+LINE 419: detecting the slightest deviation from the rules which she had laid
+LINE 420: down. Such was the irresistible potency of her personality, that
+LINE 421: anything but the most implicit obedience to her wishes was felt to be
+LINE 422: impossible; but sometimes somebody was unpunctual; and unpunctuality
+LINE 423: was one of the most heinous of sins. Then her displeasure--her dreadful
+LINE 424: displeasure--became all too visible. At such moments there seemed
+LINE 425: nothing surprising in her having been the daughter of a martinet.
+LINE 426: But these storms, unnerving as they were while they lasted, were quickly
+LINE 427: over, and they grew more and more exceptional. With the return of
+LINE 428: happiness a gentle benignity flowed from the aged Queen. Her smile, once
+LINE 429: so rare a visitant to those saddened features, flitted over them with an
+LINE 430: easy alacrity; the blue eyes beamed; the whole face, starting suddenly
+LINE 431: from its pendulous expressionlessness, brightened and softened and cast
+LINE 432: over those who watched it an unforgettable charm. For in her last years
+LINE 433: there was a fascination in Victoria's amiability which had been lacking
+LINE 434: even from the vivid impulse of her youth. Over all who approached
+LINE 435: her--or very nearly all--she threw a peculiar spell. Her grandchildren
+LINE 436: adored her; her ladies waited upon her with a reverential love. The
+LINE 437: honour of serving her obliterated a thousand inconveniences--the
+LINE 438: monotony of a court existence, the fatigue of standing, the necessity
+LINE 439: for a superhuman attentiveness to the minutia: of time and space. As one
+LINE 440: did one's wonderful duty one could forget that one's legs were aching
+LINE 441: from the infinitude of the passages at Windsor, or that one's bare arms
+LINE 442: were turning blue in the Balmoral cold.
+LINE 443: What, above all, seemed to make such service delightful was the detailed
+LINE 444: interest which the Queen took in the circumstances of those around
+LINE 445: her. Her absorbing passion for the comfortable commonplaces, the small
+LINE 446: crises, the recurrent sentimentalities, of domestic life constantly
+LINE 447: demanded wider fields for its activity; the sphere of her own family,
+LINE 448: vast as it was, was not enough; she became the eager confidante of
+LINE 449: the household affairs of her ladies; her sympathies reached out to
+LINE 450: the palace domestics; even the housemaids and scullions--so it
+LINE 451: appeared--were the objects of her searching inquiries, and of her
+LINE 452: heartfelt solicitude when their lovers were ordered to a foreign
+LINE 453: station, or their aunts suffered from an attack of rheumatism which was
+LINE 454: more than usually acute.
+LINE 455: Nevertheless the due distinctions of rank were immaculately preserved.
+LINE 456: The Queen's mere presence was enough to ensure that; but, in addition,
+LINE 457: the dominion of court etiquette was paramount. For that elaborate code,
+LINE 458: which had kept Lord Melbourne stiff upon the sofa and ranged the other
+LINE 459: guests in silence about the round table according to the order of
+LINE 460: precedence, was as punctiliously enforced as ever. Every evening after
+LINE 461: dinner, the hearth-rug, sacred to royalty, loomed before the profane in
+LINE 462: inaccessible glory, or, on one or two terrific occasions, actually lured
+LINE 463: them magnetically forward to the very edge of the abyss. The Queen, at
+LINE 464: the fitting moment, moved towards her guests; one after the other they
+LINE 465: were led up to her; and, while dialogue followed dialogue in constraint
+LINE 466: and embarrassment, the rest of the assembly stood still, without a word.
+LINE 467: Only in one particular was the severity of the etiquette allowed to
+LINE 468: lapse. Throughout the greater part of the reign the rule that ministers
+LINE 469: must stand during their audiences with the Queen had been absolute. When
+LINE 470: Lord Derby, the Prime Minister, had an audience of Her Majesty after
+LINE 471: a serious illness, he mentioned it afterwards, as a proof of the royal
+LINE 472: favour, that the Queen had remarked "How sorry she was she could not ask
+LINE 473: him to be seated." Subsequently, Disraeli, after an attack of gout
+LINE 474: and in a moment of extreme expansion on the part of Victoria, had
+LINE 475: been offered a chair; but he had thought it wise humbly to decline the
+LINE 476: privilege. In her later years, however, the Queen invariably asked Mr.
+LINE 477: Gladstone and Lord Salisbury to sit down.
+LINE 478: Sometimes the solemnity of the evening was diversified by a concert, an
+LINE 479: opera, or even a play. One of the most marked indications of
+LINE 480: Victoria's enfranchisement from the thraldom of widowhood had been
+LINE 481: her resumption--after an interval of thirty years--of the custom of
+LINE 482: commanding dramatic companies from London to perform before the Court at
+LINE 483: Windsor. On such occasions her spirits rose high. She loved acting; she
+LINE 484: loved a good plot; above all, she loved a farce. Engrossed by everything
+LINE 485: that passed upon the stage she would follow, with childlike innocence,
+LINE 486: the unwinding of the story; or she would assume an air of knowing
+LINE 487: superiority and exclaim in triumph, "There! You didn't expect that, did
+LINE 488: you?" when the denouement came. Her sense of humour was of a vigorous
+LINE 489: though primitive kind. She had been one of the very few persons who had
+LINE 490: always been able to appreciate the Prince Consort's jokes; and, when
+LINE 491: those were cracked no more, she could still roar with laughter, in the
+LINE 492: privacy of her household, over some small piece of fun--some oddity of
+LINE 493: an ambassador, or some ignorant Minister's faux pas. When the jest grew
+LINE 494: subtle she was less pleased; but, if it approached the confines of the
+LINE 495: indecorous, the danger was serious. To take a liberty called down at
+LINE 496: once Her Majesty's most crushing disapprobation; and to say something
+LINE 497: improper was to take the greatest liberty of all. Then the royal
+LINE 498: lips sank down at the corners, the royal eyes stared in astonished
+LINE 499: protrusion, and in fact, the royal countenance became inauspicious in
+LINE 500: the highest degree. The transgressor shuddered into silence, while the
+LINE 501: awful "We are not amused" annihilated the dinner table. Afterwards,
+LINE 502: in her private entourage, the Queen would observe that the person in
+LINE 503: question was, she very much feared, "not discreet"; it was a verdict
+LINE 504: from which there was no appeal.
+LINE 505: In general, her aesthetic tastes had remained unchanged since the days
+LINE 506: of Mendelssohn, Landseer, and Lablache. She still delighted in the
+LINE 507: roulades of Italian opera; she still demanded a high standard in the
+LINE 508: execution of a pianoforte duet. Her views on painting were decided;
+LINE 509: Sir Edwin, she declared, was perfect; she was much impressed by Lord
+LINE 510: Leighton's manners; and she profoundly distrusted Mr. Watts. From time
+LINE 511: to time she ordered engraved portraits to be taken of members of
+LINE 512: the royal family; on these occasions she would have the first proofs
+LINE 513: submitted to her, and, having inspected them with minute particularity,
+LINE 514: she would point out their mistakes to the artists, indicating at the
+LINE 515: same time how they might be corrected. The artists invariably discovered
+LINE 516: that Her Majesty's suggestions were of the highest value. In literature
+LINE 517: her interests were more restricted. She was devoted to Lord Tennyson;
+LINE 518: and, as the Prince Consort had admired George Eliot, she perused
+LINE 519: "Middlemarch:" she was disappointed. There is reason to believe,
+LINE 520: however, that the romances of another female writer, whose popularity
+LINE 521: among the humbler classes of Her Majesty's subjects was at one time
+LINE 522: enormous, secured, no less, the approval of Her Majesty. Otherwise she
+LINE 523: did not read very much.
+LINE 524: Once, however, the Queen's attention was drawn to a publication which it
+LINE 525: was impossible for her to ignore. "The Greville Memoirs," filled with a
+LINE 526: mass of historical information of extraordinary importance, but filled
+LINE 527: also with descriptions, which were by no means flattering, of George
+LINE 528: IV, William IV, and other royal persons, was brought out by Mr. Reeve.
+LINE 529: Victoria read the book, and was appalled. It was, she declared, a
+LINE 530: "dreadful and really scandalous book," and she could not say "how
+LINE 531: HORRIFIED and INDIGNANT" she was at Greville's "indiscretion,
+LINE 532: indelicacy, ingratitude towards friends, betrayal of confidence and
+LINE 533: shameful disloyalty towards his Sovereign." She wrote to Disraeli to
+LINE 534: tell him that in her opinion it was "VERY IMPORTANT that the book should
+LINE 535: be severely censured and discredited." "The tone in which he speaks of
+LINE 536: royalty," she added, "is unlike anything one sees in history even,
+LINE 537: and is most reprehensible." Her anger was directed with almost equal
+LINE 538: vehemence against Mr. Reeve for his having published "such an abominable
+LINE 539: book," and she charged Sir Arthur Helps to convey to him her deep
+LINE 540: displeasure. Mr. Reeve, however, was impenitent. When Sir Arthur told
+LINE 541: him that, in the Queen's opinion, "the book degraded royalty," he
+LINE 542: replied: "Not at all; it elevates it by the contrast it offers between
+LINE 543: the present and the defunct state of affairs." But this adroit defence
+LINE 544: failed to make any impression upon Victoria; and Mr. Reeve, when he
+LINE 545: retired from the public service, did not receive the knighthood which
+LINE 546: custom entitled him to expect. Perhaps if the Queen had known how many
+LINE 547: caustic comments upon herself Mr. Reeve had quietly suppressed in the
+LINE 548: published Memoirs, she would have been almost grateful to him; but, in
+LINE 549: that case, what would she have said of Greville? Imagination boggles at
+LINE 550: the thought. As for more modern essays upon the same topic, Her Majesty,
+LINE 551: it is to be feared, would have characterised them as "not discreet."
+LINE 552: But as a rule the leisure hours of that active life were occupied with
+LINE 553: recreations of a less intangible quality than the study of literature or
+LINE 554: the appreciation of art. Victoria was a woman not only of vast property
+LINE 555: but of innumerable possessions. She had inherited an immense quantity
+LINE 556: of furniture, of ornaments, of china, of plate, of valuable objects of
+LINE 557: every kind; her purchases, throughout a long life, made a formidable
+LINE 558: addition to these stores; and there flowed in upon her, besides, from
+LINE 559: every quarter of the globe, a constant stream of gifts. Over this
+LINE 560: enormous mass she exercised an unceasing and minute supervision, and the
+LINE 561: arrangement and the contemplation of it, in all its details, filled her
+LINE 562: with an intimate satisfaction. The collecting instinct has its roots in
+LINE 563: the very depths of human nature; and, in the case of Victoria, it seemed
+LINE 564: to owe its force to two of her dominating impulses--the intense sense,
+LINE 565: which had always been hers, of her own personality, and the craving
+LINE 566: which, growing with the years, had become in her old age almost an
+LINE 567: obsession, for fixity, for solidity, for the setting up of palpable
+LINE 568: barriers against the outrages of change and time. When she considered
+LINE 569: the multitudinous objects which belonged to her, or, better still, when,
+LINE 570: choosing out some section of them as the fancy took her, she actually
+LINE 571: savoured the vivid richness of their individual qualities, she saw
+LINE 572: herself deliciously reflected from a million facets, felt herself
+LINE 573: magnified miraculously over a boundless area, and was well pleased.
+LINE 574: That was just as it should be; but then came the dismaying
+LINE 575: thought--everything slips away, crumbles, vanishes; Sevres
+LINE 576: dinner-services get broken; even golden basins go unaccountably astray;
+LINE 577: even one's self, with all the recollections and experiences that make
+LINE 578: up one's being, fluctuates, perishes, dissolves... But no! It could
+LINE 579: not, should not be so! There should be no changes and no losses! Nothing
+LINE 580: should ever move--neither the past nor the present--and she herself
+LINE 581: least of all! And so the tenacious woman, hoarding her valuables,
+LINE 582: decreed their immortality with all the resolution of her soul. She would
+LINE 583: not lose one memory or one pin.
+LINE 584: She gave orders that nothing should be thrown away--and nothing was.
+LINE 585: There, in drawer after drawer, in wardrobe after wardrobe, reposed the
+LINE 586: dresses of seventy years. But not only the dresses--the furs and the
+LINE 587: mantles and subsidiary frills and the muffs and the parasols and the
+LINE 588: bonnets--all were ranged in chronological order, dated and complete. A
+LINE 589: great cupboard was devoted to the dolls; in the china room at Windsor a
+LINE 590: special table held the mugs of her childhood, and her children's mugs as
+LINE 591: well. Mementoes of the past surrounded her in serried accumulations.
+LINE 592: In every room the tables were powdered thick with the photographs of
+LINE 593: relatives; their portraits, revealing them at all ages, covered the
+LINE 594: walls; their figures, in solid marble, rose up from pedestals, or
+LINE 595: gleamed from brackets in the form of gold and silver statuettes. The
+LINE 596: dead, in every shape--in miniatures, in porcelain, in enormous life-size
+LINE 597: oil-paintings--were perpetually about her. John Brown stood upon her
+LINE 598: writing-table in solid gold. Her favourite horses and dogs, endowed with
+LINE 599: a new durability, crowded round her footsteps. Sharp, in silver gilt,
+LINE 600: dominated the dinner table; Boy and Boz lay together among unfading
+LINE 601: flowers, in bronze. And it was not enough that each particle of the
+LINE 602: past should be given the stability of metal or of marble: the whole
+LINE 603: collection, in its arrangement, no less than its entity, should be
+LINE 604: immutably fixed. There might be additions, but there might never be
+LINE 605: alterations. No chintz might change, no carpet, no curtain, be replaced
+LINE 606: by another; or, if long use at last made it necessary, the stuffs and
+LINE 607: the patterns must be so identically reproduced that the keenest eye
+LINE 608: might not detect the difference. No new picture could be hung upon the
+LINE 609: walls at Windsor, for those already there had been put in their places
+LINE 610: by Albert, whose decisions were eternal. So, indeed, were Victoria's.
+LINE 611: To ensure that they should be the aid of the camera was called in. Every
+LINE 612: single article in the Queen's possession was photographed from several
+LINE 613: points of view. These photographs were submitted to Her Majesty, and
+LINE 614: when, after careful inspection, she had approved of them, they were
+LINE 615: placed in a series of albums, richly bound. Then, opposite each
+LINE 616: photograph, an entry was made, indicating the number of the article, the
+LINE 617: number of the room in which it was kept, its exact position in the room
+LINE 618: and all its principal characteristics. The fate of every object which
+LINE 619: had undergone this process was henceforth irrevocably sealed. The
+LINE 620: whole multitude, once and for all, took up its steadfast station. And
+LINE 621: Victoria, with a gigantic volume or two of the endless catalogue always
+LINE 622: beside her, to look through, to ponder upon, to expatiate over, could
+LINE 623: feel, with a double contentment, that the transitoriness of this world
+LINE 624: had been arrested by the amplitude of her might.
+LINE 625: Thus the collection, ever multiplying, ever encroaching upon new fields
+LINE 626: of consciousness, ever rooting itself more firmly in the depths of
+LINE 627: instinct, became one of the dominating influences of that strange
+LINE 628: existence. It was a collection not merely of things and of thoughts,
+LINE 629: but of states of mind and ways of living as well. The celebration of
+LINE 630: anniversaries grew to be an important branch of it--of birthdays and
+LINE 631: marriage days and death days, each of which demanded its appropriate
+LINE 632: feeling, which, in its turn, must be itself expressed in an appropriate
+LINE 633: outward form. And the form, of course--the ceremony of rejoicing
+LINE 634: or lamentation--was stereotyped with the rest: it was part of the
+LINE 635: collection. On a certain day, for instance, flowers must be strewn on
+LINE 636: John Brown's monument at Balmoral; and the date of the yearly departure
+LINE 637: for Scotland was fixed by that fact. Inevitably it was around the
+LINE 638: central circumstance of death--death, the final witness to human
+LINE 639: mutability--that these commemorative cravings clustered most thickly.
+LINE 640: Might not even death itself be humbled, if one could recall enough--if
+LINE 641: one asserted, with a sufficiently passionate and reiterated emphasis,
+LINE 642: the eternity of love? Accordingly, every bed in which Victoria slept had
+LINE 643: attached to it, at the back, on the right-hand side, above the pillow,
+LINE 644: a photograph of the head and shoulders of Albert as he lay dead,
+LINE 645: surmounted by a wreath of immortelles. At Balmoral, where memories came
+LINE 646: crowding so closely, the solid signs of memory appeared in surprising
+LINE 647: profusion. Obelisks, pyramids, tombs, statues, cairns, and seats of
+LINE 648: inscribed granite, proclaimed Victoria's dedication to the dead. There,
+LINE 649: twice a year, on the days that followed her arrival, a solemn
+LINE 650: pilgrimage of inspection and meditation was performed. There, on August
+LINE 651: 26--Albert's birthday--at the foot of the bronze statue of him in
+LINE 652: Highland dress, the Queen, her family, her Court, her servants, and her
+LINE 653: tenantry, met together and in silence drank to the memory of the dead.
+LINE 654: In England the tokens of remembrance pullulated hardly less. Not a
+LINE 655: day passed without some addition to the multifold assemblage--a gold
+LINE 656: statuette of Ross, the piper--a life-sized marble group of Victoria and
+LINE 657: Albert, in medieval costume, inscribed upon the base with the words:
+LINE 658: "Allured to brighter worlds and led the way-" a granite slab in the
+LINE 659: shrubbery at Osborne, informing the visitor of "Waldmann: the very
+LINE 660: favourite little dachshund of Queen Victoria; who brought him from
+LINE 661: Baden, April 1872; died, July 11, 1881."
+LINE 662: At Frogmore, the great mausoleum, perpetually enriched, was visited
+LINE 663: almost daily by the Queen when the Court was at Windsor. But there was
+LINE 664: another, a more secret and a hardly less holy shrine. The suite of rooms
+LINE 665: which Albert had occupied in the Castle was kept for ever shut away
+LINE 666: from the eyes of any save the most privileged. Within those precincts
+LINE 667: everything remained as it had been at the Prince's death; but the
+LINE 668: mysterious preoccupation of Victoria had commanded that her husband's
+LINE 669: clothing should be laid afresh, each evening, upon the bed, and that,
+LINE 670: each evening, the water should be set ready in the basin, as if he were
+LINE 671: still alive; and this incredible rite was performed with scrupulous
+LINE 672: regularity for nearly forty years.
+LINE 673: Such was the inner worship; and still the flesh obeyed the spirit; still
+LINE 674: the daily hours of labour proclaimed Victoria's consecration to duty
+LINE 675: and to the ideal of the dead. Yet, with the years, the sense of
+LINE 676: self-sacrifice faded; the natural energies of that ardent being
+LINE 677: discharged themselves with satisfaction into the channel of public work;
+LINE 678: the love of business which, from her girlhood, had been strong within
+LINE 679: her, reasserted itself in all its vigour, and, in her old age, to
+LINE 680: have been cut off from her papers and her boxes would have been, not a
+LINE 681: relief, but an agony to Victoria. Thus, though toiling Ministers might
+LINE 682: sigh and suffer, the whole process of government continued, till the
+LINE 683: very end, to pass before her. Nor was that all; ancient precedent
+LINE 684: had made the validity of an enormous number of official transactions
+LINE 685: dependent upon the application of the royal sign-manual; and a great
+LINE 686: proportion of the Queen's working hours was spent in this mechanical
+LINE 687: task. Nor did she show any desire to diminish it. On the contrary, she
+LINE 688: voluntarily resumed the duty of signing commissions in the army, from
+LINE 689: which she had been set free by Act of Parliament, and from which,
+LINE 690: during the years of middle life, she had abstained. In no case would she
+LINE 691: countenance the proposal that she should use a stamp. But, at last, when
+LINE 692: the increasing pressure of business made the delays of the antiquated
+LINE 693: system intolerable, she consented that, for certain classes of
+LINE 694: documents, her oral sanction should be sufficient. Each paper was read
+LINE 695: aloud to her, and she said at the end "Approved." Often, for hours at a
+LINE 696: time, she would sit, with Albert's bust in front of her, while the word
+LINE 697: "Approved" issued at intervals from her lips. The word came forth with
+LINE 698: a majestic sonority; for her voice now--how changed from the silvery
+LINE 699: treble of her girlhood--was a contralto, full and strong.
+LINE 700: IV
+LINE 701: The final years were years of apotheosis. In the dazzled imagination
+LINE 702: of her subjects Victoria soared aloft towards the regions of divinity
+LINE 703: through a nimbus of purest glory. Criticism fell dumb; deficiencies
+LINE 704: which, twenty years earlier, would have been universally admitted, were
+LINE 705: now as universally ignored. That the nation's idol was a very incomplete
+LINE 706: representative of the nation was a circumstance that was hardly noticed,
+LINE 707: and yet it was conspicuously true. For the vast changes which, out of
+LINE 708: the England of 1837, had produced the England of 1897, seemed scarcely
+LINE 709: to have touched the Queen. The immense industrial development of the
+LINE 710: period, the significance of which had been so thoroughly understood
+LINE 711: by Albert, meant little indeed to Victoria. The amazing scientific
+LINE 712: movement, which Albert had appreciated no less, left Victoria perfectly
+LINE 713: cold. Her conception of the universe, and of man's place in it, and of
+LINE 714: the stupendous problems of nature and philosophy remained, throughout
+LINE 715: her life, entirely unchanged. Her religion was the religion which she
+LINE 716: had learnt from the Baroness Lehzen and the Duchess of Kent. Here, too,
+LINE 717: it might have been supposed that Albert's views might have influenced
+LINE 718: her. For Albert, in matters of religion, was advanced. Disbelieving
+LINE 719: altogether in evil spirits, he had had his doubts about the miracle
+LINE 720: of the Gaderene Swine. Stockmar, even, had thrown out, in a remarkable
+LINE 721: memorandum on the education of the Prince of Wales, the suggestion that
+LINE 722: while the child "must unquestionably be brought up in the creed of the
+LINE 723: Church of England," it might nevertheless be in accordance with
+LINE 724: the spirit of the times to exclude from his religious training the
+LINE 725: inculcation of a belief in "the supernatural doctrines of Christianity."
+LINE 726: This, however, would have been going too far; and all the royal children
+LINE 727: were brought up in complete orthodoxy. Anything else would have grieved
+LINE 728: Victoria, though her own conceptions of the orthodox were not very
+LINE 729: precise. But her nature, in which imagination and subtlety held so small
+LINE 730: a place, made her instinctively recoil from the intricate ecstasies
+LINE 731: of High Anglicanism; and she seemed to feel most at home in the simple
+LINE 732: faith of the Presbyterian Church of Scotland. This was what might have
+LINE 733: been expected; for Lehzen was the daughter of a Lutheran pastor, and the
+LINE 734: Lutherans and the Presbyterians have much in common. For many years Dr.
+LINE 735: Norman Macleod, an innocent Scotch minister, was her principal spiritual
+LINE 736: adviser; and, when he was taken from her, she drew much comfort from
+LINE 737: quiet chats about life and death with the cottagers at Balmoral.
+LINE 738: Her piety, absolutely genuine, found what it wanted in the sober
+LINE 739: exhortations of old John Grant and the devout saws of Mrs. P.
+LINE 740: Farquharson. They possessed the qualities, which, as a child of
+LINE 741: fourteen, she had so sincerely admired in the Bishop of Chester's
+LINE 742: "Exposition of the Gospel of St. Matthew;" they were "just plain and
+LINE 743: comprehensible and full of truth and good feeling." The Queen, who gave
+LINE 744: her name to the Age of Mill and of Darwin, never got any further than
+LINE 745: that.
+LINE 746: From the social movements of her time Victoria was equally remote.
+LINE 747: Towards the smallest no less than towards the greatest changes she
+LINE 748: remained inflexible. During her youth and middle age smoking had been
+LINE 749: forbidden in polite society, and so long as she lived she would not
+LINE 750: withdraw her anathema against it. Kings might protest; bishops and
+LINE 751: ambassadors, invited to Windsor, might be reduced, in the privacy of
+LINE 752: their bedrooms, to lie full-length upon the floor and smoke up the
+LINE 753: chimney--the interdict continued! It might have been supposed that a
+LINE 754: female sovereign would have lent her countenance to one of the most
+LINE 755: vital of all the reforms to which her epoch gave birth--the emancipation
+LINE 756: of women--but, on the contrary, the mere mention of such a proposal sent
+LINE 757: the blood rushing to her head. In 1870, her eye having fallen upon the
+LINE 758: report of a meeting in favour of Women's Suffrage, she wrote to Mr.
+LINE 759: Martin in royal rage--"The Queen is most anxious to enlist everyone
+LINE 760: who can speak or write to join in checking this mad, wicked folly of
+LINE 761: 'Woman's Rights,' with all its attendant horrors, on which her poor
+LINE 762: feeble sex is bent, forgetting every sense of womanly feeling and
+LINE 763: propriety. Lady--ought to get a GOOD WHIPPING. It is a subject which
+LINE 764: makes the Queen so furious that she cannot contain herself. God
+LINE 765: created men and women different--then let them remain each in their own
+LINE 766: position. Tennyson has some beautiful lines on the difference of men and
+LINE 767: women in 'The Princess.' Woman would become the most hateful, heartless,
+LINE 768: and disgusting of human beings were she allowed to unsex herself; and
+LINE 769: where would be the protection which man was intended to give the weaker
+LINE 770: sex? The Queen is sure that Mrs. Martin agrees with her." The argument
+LINE 771: was irrefutable; Mrs. Martin agreed; and yet the canker spread.
+LINE 772: In another direction Victoria's comprehension of the spirit of her age
+LINE 773: has been constantly asserted. It was for long the custom for courtly
+LINE 774: historians and polite politicians to compliment the Queen upon the
+LINE 775: correctness of her attitude towards the Constitution. But such praises
+LINE 776: seem hardly to be justified by the facts. In her later years Victoria
+LINE 777: more than once alluded with regret to her conduct during the Bedchamber
+LINE 778: crisis, and let it be understood that she had grown wiser since. Yet
+LINE 779: in truth it is difficult to trace any fundamental change either in her
+LINE 780: theory or her practice in constitutional matters throughout her life.
+LINE 781: The same despotic and personal spirit which led her to break off the
+LINE 782: negotiations with Peel is equally visible in her animosity towards
+LINE 783: Palmerston, in her threats of abdication to Disraeli, and in her desire
+LINE 784: to prosecute the Duke of Westminster for attending a meeting upon
+LINE 785: Bulgarian atrocities. The complex and delicate principles of the
+LINE 786: Constitution cannot be said to have come within the compass of her
+LINE 787: mental faculties; and in the actual developments which it underwent
+LINE 788: during her reign she played a passive part. From 1840 to 1861 the
+LINE 789: power of the Crown steadily increased in England; from 1861 to 1901 it
+LINE 790: steadily declined. The first process was due to the influence of the
+LINE 791: Prince Consort, the second to that of a series of great Ministers.
+LINE 792: During the first Victoria was in effect a mere accessory; during the
+LINE 793: second the threads of power, which Albert had so laboriously collected,
+LINE 794: inevitably fell from her hands into the vigorous grasp of Mr. Gladstone,
+LINE 795: Lord Beaconsfield, and Lord Salisbury. Perhaps, absorbed as she was in
+LINE 796: routine, and difficult as she found it to distinguish at all clearly
+LINE 797: between the trivial and the essential, she was only dimly aware of what
+LINE 798: was happening. Yet, at the end of her reign, the Crown was weaker than
+LINE 799: at any other time in English history. Paradoxically enough, Victoria
+LINE 800: received the highest eulogiums for assenting to a political evolution,
+LINE 801: which, had she completely realised its import, would have filled her
+LINE 802: with supreme displeasure.
+LINE 803: Nevertheless it must not be supposed that she was a second George III.
+LINE 804: Her desire to impose her will, vehement as it was, and unlimited by any
+LINE 805: principle, was yet checked by a certain shrewdness. She might oppose
+LINE 806: her Ministers with extraordinary violence, she might remain utterly
+LINE 807: impervious to arguments and supplications; the pertinacity of her
+LINE 808: resolution might seem to be unconquerable; but, at the very last moment
+LINE 809: of all, her obstinacy would give way. Her innate respect and capacity
+LINE 810: for business, and perhaps, too, the memory of Albert's scrupulous
+LINE 811: avoidance of extreme courses, prevented her from ever entering an
+LINE 812: impasse. By instinct she understood when the facts were too much for
+LINE 813: her, and to them she invariably yielded. After all, what else could she
+LINE 814: do?
+LINE 815: But if, in all these ways, the Queen and her epoch were profoundly
+LINE 816: separated, the points of contact between them also were not few.
+LINE 817: Victoria understood very well the meaning and the attractions of power
+LINE 818: and property, and in such learning the English nation, too, had grown
+LINE 819: to be more and more proficient. During the last fifteen years of the
+LINE 820: reign--for the short Liberal Administration of 1892 was a mere interlude
+LINE 821: imperialism was the dominant creed of the country. It was Victoria's
+LINE 822: as well. In this direction, if in no other, she had allowed her mind to
+LINE 823: develop. Under Disraeli's tutelage the British Dominions over the seas
+LINE 824: had come to mean much more to her than ever before, and, in particular,
+LINE 825: she had grown enamoured of the East. The thought of India fascinated
+LINE 826: her; she set to, and learnt a little Hindustani; she engaged some Indian
+LINE 827: servants, who became her inseparable attendants, and one of whom, Munshi
+LINE 828: Abdul Karim, eventually almost succeeded to the position which had
+LINE 829: once been John Brown's. At the same time, the imperialist temper of the
+LINE 830: nation invested her office with a new significance exactly harmonising
+LINE 831: with her own inmost proclivities. The English polity was in the main
+LINE 832: a common-sense structure, but there was always a corner in it where
+LINE 833: common-sense could not enter--where, somehow or other, the ordinary
+LINE 834: measurements were not applicable and the ordinary rules did not apply.
+LINE 835: So our ancestors had laid it down, giving scope, in their wisdom, to
+LINE 836: that mystical element which, as it seems, can never quite be eradicated
+LINE 837: from the affairs of men. Naturally it was in the Crown that the
+LINE 838: mysticism of the English polity was concentrated--the Crown, with its
+LINE 839: venerable antiquity, its sacred associations, its imposing spectacular
+LINE 840: array. But, for nearly two centuries, common-sense had been predominant
+LINE 841: in the great building, and the little, unexplored, inexplicable corner
+LINE 842: had attracted small attention. Then, with the rise of imperialism, there
+LINE 843: was a change. For imperialism is a faith as well as a business; as
+LINE 844: it grew, the mysticism in English public life grew with it; and
+LINE 845: simultaneously a new importance began to attach to the Crown. The
+LINE 846: need for a symbol--a symbol of England's might, of England's worth,
+LINE 847: of England's extraordinary and mysterious destiny--became felt more
+LINE 848: urgently than ever before. The Crown was that symbol: and the Crown
+LINE 849: rested upon the head of Victoria. Thus it happened that while by the end
+LINE 850: of the reign the power of the sovereign had appreciably diminished, the
+LINE 851: prestige of the sovereign had enormously grown.
+LINE 852: Yet this prestige was not merely the outcome of public changes; it was
+LINE 853: an intensely personal matter, too. Victoria was the Queen of England,
+LINE 854: the Empress of India, the quintessential pivot round which the whole
+LINE 855: magnificent machine was revolving--but how much more besides! For one
+LINE 856: thing, she was of a great age--an almost indispensable qualification for
+LINE 857: popularity in England. She had given proof of one of the most admired
+LINE 858: characteristics of the race--persistent vitality. She had reigned for
+LINE 859: sixty years, and she was not out. And then, she was a character. The
+LINE 860: outlines of her nature were firmly drawn, and, even through the mists
+LINE 861: which envelop royalty, clearly visible. In the popular imagination her
+LINE 862: familiar figure filled, with satisfying ease, a distinct and memorable
+LINE 863: place. It was, besides, the kind of figure which naturally called forth
+LINE 864: the admiring sympathy of the great majority of the nation. Goodness they
+LINE 865: prized above every other human quality; and Victoria, who had said
+LINE 866: that she would be good at the age of twelve, had kept her word. Duty,
+LINE 867: conscience, morality--yes! in the light of those high beacons the
+LINE 868: Queen had always lived. She had passed her days in work and not in
+LINE 869: pleasure--in public responsibilities and family cares. The standard
+LINE 870: of solid virtue which had been set up so long ago amid the domestic
+LINE 871: happiness of Osborne had never been lowered for an instant. For more
+LINE 872: than half a century no divorced lady had approached the precincts of the
+LINE 873: Court. Victoria, indeed, in her enthusiasm for wifely fidelity, had laid
+LINE 874: down a still stricter ordinance: she frowned severely upon any widow
+LINE 875: who married again. Considering that she herself was the offspring of
+LINE 876: a widow's second marriage, this prohibition might be regarded as an
+LINE 877: eccentricity; but, no doubt, it was an eccentricity on the right side.
+LINE 878: The middle classes, firm in the triple brass of their respectability,
+LINE 879: rejoiced with a special joy over the most respectable of Queens. They
+LINE 880: almost claimed her, indeed, as one of themselves; but this would have
+LINE 881: been an exaggeration. For, though many of her characteristics were most
+LINE 882: often found among the middle classes, in other respects--in her manners,
+LINE 883: for instance--Victoria was decidedly aristocratic. And, in one important
+LINE 884: particular, she was neither aristocratic nor middle-class: her attitude
+LINE 885: toward herself was simply regal.
+LINE 886: Such qualities were obvious and important; but, in the impact of a
+LINE 887: personality, it is something deeper, something fundamental and common to
+LINE 888: all its qualities, that really tells. In Victoria, it is easy to discern
+LINE 889: the nature of this underlying element: it was a peculiar sincerity. Her
+LINE 890: truthfulness, her single-mindedness, the vividness of her emotions and
+LINE 891: her unrestrained expression of them, were the varied forms which this
+LINE 892: central characteristic assumed. It was her sincerity which gave her at
+LINE 893: once her impressiveness, her charm, and her absurdity. She moved
+LINE 894: through life with the imposing certitude of one to whom concealment was
+LINE 895: impossible--either towards her surroundings or towards herself. There
+LINE 896: she was, all of her--the Queen of England, complete and obvious; the
+LINE 897: world might take her or leave her; she had nothing more to show, or to
+LINE 898: explain, or to modify; and, with her peerless carriage, she swept along
+LINE 899: her path. And not only was concealment out of the question; reticence,
+LINE 900: reserve, even dignity itself, as it sometimes seemed, might be very well
+LINE 901: dispensed with. As Lady Lyttelton said: "There is a transparency in her
+LINE 902: truth that is very striking--not a shade of exaggeration in describing
+LINE 903: feelings or facts; like very few other people I ever knew. Many may be
+LINE 904: as true, but I think it goes often along with some reserve. She talks
+LINE 905: all out; just as it is, no more and no less." She talked all out; and
+LINE 906: she wrote all out, too. Her letters, in the surprising jet of their
+LINE 907: expression, remind one of a turned-on tap. What is within pours forth
+LINE 908: in an immediate, spontaneous rush. Her utterly unliterary style has at
+LINE 909: least the merit of being a vehicle exactly suited to her thoughts and
+LINE 910: feelings; and even the platitude of her phraseology carries with it a
+LINE 911: curiously personal flavour. Undoubtedly it was through her writings that
+LINE 912: she touched the heart of the public. Not only in her "Highland Journals"
+LINE 913: where the mild chronicle of her private proceedings was laid bare
+LINE 914: without a trace either of affectation or of embarrassment, but also in
+LINE 915: those remarkable messages to the nation which, from time to time, she
+LINE 916: published in the newspapers, her people found her very close to them
+LINE 917: indeed. They felt instinctively Victoria's irresistible sincerity, and
+LINE 918: they responded. And in truth it was an endearing trait.
+LINE 919: The personality and the position, too--the wonderful combination of
+LINE 920: them--that, perhaps, was what was finally fascinating in the case. The
+LINE 921: little old lady, with her white hair and her plain mourning clothes,
+LINE 922: in her wheeled chair or her donkey-carriage--one saw her so; and
+LINE 923: then--close behind--with their immediate suggestion of singularity,
+LINE 924: of mystery, and of power--the Indian servants. That was the familiar
+LINE 925: vision, and it was admirable; but, at chosen moments, it was right that
+LINE 926: the widow of Windsor should step forth apparent Queen. The last and the
+LINE 927: most glorious of such occasions was the Jubilee of 1897. Then, as
+LINE 928: the splendid procession passed along, escorting Victoria through the
+LINE 929: thronged re-echoing streets of London on her progress of thanksgiving
+LINE 930: to St. Paul's Cathedral, the greatness of her realm and the adoration
+LINE 931: of her subjects blazed out together. The tears welled to her eyes, and,
+LINE 932: while the multitude roared round her, "How kind they are to me! How kind
+LINE 933: they are!" she repeated over and over again. That night her message flew
+LINE 934: over the Empire: "From my heart I thank my beloved people. May God bless
+LINE 935: them!" The long journey was nearly done. But the traveller, who had
+LINE 936: come so far, and through such strange experiences, moved on with the
+LINE 937: old unfaltering step. The girl, the wife, the aged woman, were the same:
+LINE 938: vitality, conscientiousness, pride, and simplicity were hers to the
+LINE 939: latest hour.

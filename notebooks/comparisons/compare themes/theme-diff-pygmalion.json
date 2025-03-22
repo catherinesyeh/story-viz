@@ -1,0 +1,60 @@
+{
+    "only_in_sparknotes": {
+        "themes": [
+            "Education and Transformation",
+            "Language, Manners, and Class Identity","Language And Communication","Manners And Etiquette","Social Class",
+            "The Subversion of Myth and Romance"
+        ],
+        "count": 2
+    },
+    "only_in_ribbons": {
+        "themes": [
+            "Aesthetic Simplicity",
+            "Authority And Rebellion",
+            "Carelessness",
+            "Childlike Nature",
+            "Class And Ownership",
+            "Class And Treatment",
+            "Concern For Henry",
+            "Confidence",
+            "Desire For Freedom",
+            "Desire For Respect",
+            "Desperation",
+            "Empathy",
+            "Empowerment",
+            "Family Dynamics",
+            "Gender Roles",
+            "Humor",
+            "Identity And Recognition",
+            "Identity And Transformation",
+            "Impatience And Distraction",
+            "Independence",
+            "Intimidation",
+            "Isolation",
+            "Language And Communication",
+            "Learning And Growth",
+            "Manipulation And Control",
+            "Manners And Etiquette",
+            "Miscommunication",
+            "Modernity Vs. Tradition",
+            "Morality",
+            "Nostalgia",
+            "Parental Responsibility",
+            "Power Dynamics",
+            "Professionalism",
+            "Protectiveness",
+            "Scientific Curiosity",
+            "Self-satisfaction",
+            "Social Class",
+            "Social Expectations",
+            "Social Interaction",
+            "Success And Boredom",
+            "Surprise"
+        ],
+        "count": 38
+    },
+    "both": {
+        "themes": [],
+        "count": 3
+    }
+}

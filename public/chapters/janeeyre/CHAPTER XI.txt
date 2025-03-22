@@ -1,0 +1,564 @@
+LINE 1: A new chapter in a novel is something like a new scene in a play; and
+LINE 2: when I draw up the curtain this time, reader, you must fancy you see a
+LINE 3: room in the George Inn at Millcote, with such large figured papering on
+LINE 4: the walls as inn rooms have; such a carpet, such furniture, such
+LINE 5: ornaments on the mantelpiece, such prints, including a portrait of
+LINE 6: George the Third, and another of the Prince of Wales, and a
+LINE 7: representation of the death of Wolfe. All this is visible to you by the
+LINE 8: light of an oil lamp hanging from the ceiling, and by that of an
+LINE 9: excellent fire, near which I sit in my cloak and bonnet; my muff and
+LINE 10: umbrella lie on the table, and I am warming away the numbness and chill
+LINE 11: contracted by sixteen hours' exposure to the rawness of an October day:
+LINE 12: I left Lowton at four o'clock A.M., and the Millcote town clock is now
+LINE 13: just striking eight.
+LINE 14: Reader, though I look comfortably accommodated, I am not very tranquil
+LINE 15: in my mind. I thought when the coach stopped here there would be some
+LINE 16: one to meet me; I looked anxiously round as I descended the wooden
+LINE 17: steps the "boots" placed for my convenience, expecting to hear my name
+LINE 18: pronounced, and to see some description of carriage waiting to convey
+LINE 19: me to Thornfield. Nothing of the sort was visible; and when I asked a
+LINE 20: waiter if any one had been to inquire after a Miss Eyre, I was answered
+LINE 21: in the negative: so I had no resource but to request to be shown into a
+LINE 22: private room: and here I am waiting, while all sorts of doubts and
+LINE 23: fears are troubling my thoughts.
+LINE 24: It is a very strange sensation to inexperienced youth to feel itself
+LINE 25: quite alone in the world, cut adrift from every connection, uncertain
+LINE 26: whether the port to which it is bound can be reached, and prevented by
+LINE 27: many impediments from returning to that it has quitted. The charm of
+LINE 28: adventure sweetens that sensation, the glow of pride warms it; but then
+LINE 29: the throb of fear disturbs it; and fear with me became predominant when
+LINE 30: half-an-hour elapsed and still I was alone. I bethought myself to ring
+LINE 31: the bell.
+LINE 32: "Is there a place in this neighbourhood called Thornfield?" I asked of
+LINE 33: the waiter who answered the summons.
+LINE 34: "Thornfield? I don't know, ma'am; I'll inquire at the bar." He
+LINE 35: vanished, but reappeared instantly—
+LINE 36: "Is your name Eyre, Miss?"
+LINE 37: "Yes."
+LINE 38: "Person here waiting for you."
+LINE 39: I jumped up, took my muff and umbrella, and hastened into the
+LINE 40: inn-passage: a man was standing by the open door, and in the lamp-lit
+LINE 41: street I dimly saw a one-horse conveyance.
+LINE 42: "This will be your luggage, I suppose?" said the man rather abruptly
+LINE 43: when he saw me, pointing to my trunk in the passage.
+LINE 44: "Yes." He hoisted it on to the vehicle, which was a sort of car, and
+LINE 45: then I got in; before he shut me up, I asked him how far it was to
+LINE 46: Thornfield.
+LINE 47: "A matter of six miles."
+LINE 48: "How long shall we be before we get there?"
+LINE 49: "Happen an hour and a half."
+LINE 50: He fastened the car door, climbed to his own seat outside, and we set
+LINE 51: off. Our progress was leisurely, and gave me ample time to reflect; I
+LINE 52: was content to be at length so near the end of my journey; and as I
+LINE 53: leaned back in the comfortable though not elegant conveyance, I
+LINE 54: meditated much at my ease.
+LINE 55: "I suppose," thought I, "judging from the plainness of the servant and
+LINE 56: carriage, Mrs. Fairfax is not a very dashing person: so much the
+LINE 57: better; I never lived amongst fine people but once, and I was very
+LINE 58: miserable with them. I wonder if she lives alone except this little
+LINE 59: girl; if so, and if she is in any degree amiable, I shall surely be
+LINE 60: able to get on with her; I will do my best; it is a pity that doing
+LINE 61: one's best does not always answer. At Lowood, indeed, I took that
+LINE 62: resolution, kept it, and succeeded in pleasing; but with Mrs. Reed, I
+LINE 63: remember my best was always spurned with scorn. I pray God Mrs. Fairfax
+LINE 64: may not turn out a second Mrs. Reed; but if she does, I am not bound to
+LINE 65: stay with her! let the worst come to the worst, I can advertise again.
+LINE 66: How far are we on our road now, I wonder?"
+LINE 67: I let down the window and looked out; Millcote was behind us; judging
+LINE 68: by the number of its lights, it seemed a place of considerable
+LINE 69: magnitude, much larger than Lowton. We were now, as far as I could see,
+LINE 70: on a sort of common; but there were houses scattered all over the
+LINE 71: district; I felt we were in a different region to Lowood, more
+LINE 72: populous, less picturesque; more stirring, less romantic.
+LINE 73: The roads were heavy, the night misty; my conductor let his horse walk
+LINE 74: all the way, and the hour and a half extended, I verily believe, to two
+LINE 75: hours; at last he turned in his seat and said—
+LINE 76: "You're noan so far fro' Thornfield now."
+LINE 77: Again I looked out: we were passing a church; I saw its low broad tower
+LINE 78: against the sky, and its bell was tolling a quarter; I saw a narrow
+LINE 79: galaxy of lights too, on a hillside, marking a village or hamlet. About
+LINE 80: ten minutes after, the driver got down and opened a pair of gates: we
+LINE 81: passed through, and they clashed to behind us. We now slowly ascended a
+LINE 82: drive, and came upon the long front of a house: candlelight gleamed
+LINE 83: from one curtained bow-window; all the rest were dark. The car stopped
+LINE 84: at the front door; it was opened by a maid-servant; I alighted and went
+LINE 85: in.
+LINE 86: "Will you walk this way, ma'am?" said the girl; and I followed her
+LINE 87: across a square hall with high doors all round: she ushered me into a
+LINE 88: room whose double illumination of fire and candle at first dazzled me,
+LINE 89: contrasting as it did with the darkness to which my eyes had been for
+LINE 90: two hours inured; when I could see, however, a cosy and agreeable
+LINE 91: picture presented itself to my view.
+LINE 92: A snug small room; a round table by a cheerful fire; an arm-chair
+LINE 93: high-backed and old-fashioned, wherein sat the neatest imaginable
+LINE 94: little elderly lady, in widow's cap, black silk gown, and snowy muslin
+LINE 95: apron; exactly like what I had fancied Mrs. Fairfax, only less stately
+LINE 96: and milder looking. She was occupied in knitting; a large cat sat
+LINE 97: demurely at her feet; nothing in short was wanting to complete the
+LINE 98: beau-ideal of domestic comfort. A more reassuring introduction for a
+LINE 99: new governess could scarcely be conceived; there was no grandeur to
+LINE 100: overwhelm, no stateliness to embarrass; and then, as I entered, the old
+LINE 101: lady got up and promptly and kindly came forward to meet me.
+LINE 102: "How do you do, my dear? I am afraid you have had a tedious ride; John
+LINE 103: drives so slowly; you must be cold, come to the fire."
+LINE 104: "Mrs. Fairfax, I suppose?" said I.
+LINE 105: "Yes, you are right: do sit down."
+LINE 106: She conducted me to her own chair, and then began to remove my shawl
+LINE 107: and untie my bonnet-strings; I begged she would not give herself so
+LINE 108: much trouble.
+LINE 109: "Oh, it is no trouble; I dare say your own hands are almost numbed with
+LINE 110: cold. Leah, make a little hot negus and cut a sandwich or two: here are
+LINE 111: the keys of the storeroom."
+LINE 112: And she produced from her pocket a most housewifely bunch of keys, and
+LINE 113: delivered them to the servant.
+LINE 114: "Now, then, draw nearer to the fire," she continued. "You've brought
+LINE 115: your luggage with you, haven't you, my dear?"
+LINE 116: "Yes, ma'am."
+LINE 117: "I'll see it carried into your room," she said, and bustled out.
+LINE 118: "She treats me like a visitor," thought I. "I little expected such a
+LINE 119: reception; I anticipated only coldness and stiffness: this is not like
+LINE 120: what I have heard of the treatment of governesses; but I must not exult
+LINE 121: too soon."
+LINE 122: She returned; with her own hands cleared her knitting apparatus and a
+LINE 123: book or two from the table, to make room for the tray which Leah now
+LINE 124: brought, and then herself handed me the refreshments. I felt rather
+LINE 125: confused at being the object of more attention than I had ever before
+LINE 126: received, and, that too, shown by my employer and superior; but as she
+LINE 127: did not herself seem to consider she was doing anything out of her
+LINE 128: place, I thought it better to take her civilities quietly.
+LINE 129: "Shall I have the pleasure of seeing Miss Fairfax to-night?" I asked,
+LINE 130: when I had partaken of what she offered me.
+LINE 131: "What did you say, my dear? I am a little deaf," returned the good
+LINE 132: lady, approaching her ear to my mouth.
+LINE 133: I repeated the question more distinctly.
+LINE 134: "Miss Fairfax? Oh, you mean Miss Varens! Varens is the name of your
+LINE 135: future pupil."
+LINE 136: "Indeed! Then she is not your daughter?"
+LINE 137: "No,—I have no family."
+LINE 138: I should have followed up my first inquiry, by asking in what way Miss
+LINE 139: Varens was connected with her; but I recollected it was not polite to
+LINE 140: ask too many questions: besides, I was sure to hear in time.
+LINE 141: "I am so glad," she continued, as she sat down opposite to me, and took
+LINE 142: the cat on her knee; "I am so glad you are come; it will be quite
+LINE 143: pleasant living here now with a companion. To be sure it is pleasant at
+LINE 144: any time; for Thornfield is a fine old hall, rather neglected of late
+LINE 145: years perhaps, but still it is a respectable place; yet you know in
+LINE 146: winter-time one feels dreary quite alone in the best quarters. I say
+LINE 147: alone—Leah is a nice girl to be sure, and John and his wife are very
+LINE 148: decent people; but then you see they are only servants, and one can't
+LINE 149: converse with them on terms of equality: one must keep them at due
+LINE 150: distance, for fear of losing one's authority. I'm sure last winter (it
+LINE 151: was a very severe one, if you recollect, and when it did not snow, it
+LINE 152: rained and blew), not a creature but the butcher and postman came to
+LINE 153: the house, from November till February; and I really got quite
+LINE 154: melancholy with sitting night after night alone; I had Leah in to read
+LINE 155: to me sometimes; but I don't think the poor girl liked the task much:
+LINE 156: she felt it confining. In spring and summer one got on better: sunshine
+LINE 157: and long days make such a difference; and then, just at the
+LINE 158: commencement of this autumn, little Adela Varens came and her nurse: a
+LINE 159: child makes a house alive all at once; and now you are here I shall be
+LINE 160: quite gay."
+LINE 161: My heart really warmed to the worthy lady as I heard her talk; and I
+LINE 162: drew my chair a little nearer to her, and expressed my sincere wish
+LINE 163: that she might find my company as agreeable as she anticipated.
+LINE 164: "But I'll not keep you sitting up late to-night," said she; "it is on
+LINE 165: the stroke of twelve now, and you have been travelling all day: you
+LINE 166: must feel tired. If you have got your feet well warmed, I'll show you
+LINE 167: your bedroom. I've had the room next to mine prepared for you; it is
+LINE 168: only a small apartment, but I thought you would like it better than one
+LINE 169: of the large front chambers: to be sure they have finer furniture, but
+LINE 170: they are so dreary and solitary, I never sleep in them myself."
+LINE 171: I thanked her for her considerate choice, and as I really felt fatigued
+LINE 172: with my long journey, expressed my readiness to retire. She took her
+LINE 173: candle, and I followed her from the room. First she went to see if the
+LINE 174: hall-door was fastened; having taken the key from the lock, she led the
+LINE 175: way upstairs. The steps and banisters were of oak; the staircase window
+LINE 176: was high and latticed; both it and the long gallery into which the
+LINE 177: bedroom doors opened looked as if they belonged to a church rather than
+LINE 178: a house. A very chill and vault-like air pervaded the stairs and
+LINE 179: gallery, suggesting cheerless ideas of space and solitude; and I was
+LINE 180: glad, when finally ushered into my chamber, to find it of small
+LINE 181: dimensions, and furnished in ordinary, modern style.
+LINE 182: When Mrs. Fairfax had bidden me a kind good-night, and I had fastened
+LINE 183: my door, gazed leisurely round, and in some measure effaced the eerie
+LINE 184: impression made by that wide hall, that dark and spacious staircase,
+LINE 185: and that long, cold gallery, by the livelier aspect of my little room,
+LINE 186: I remembered that, after a day of bodily fatigue and mental anxiety, I
+LINE 187: was now at last in safe haven. The impulse of gratitude swelled my
+LINE 188: heart, and I knelt down at the bedside, and offered up thanks where
+LINE 189: thanks were due; not forgetting, ere I rose, to implore aid on my
+LINE 190: further path, and the power of meriting the kindness which seemed so
+LINE 191: frankly offered me before it was earned. My couch had no thorns in it
+LINE 192: that night; my solitary room no fears. At once weary and content, I
+LINE 193: slept soon and soundly: when I awoke it was broad day.
+LINE 194: The chamber looked such a bright little place to me as the sun shone in
+LINE 195: between the gay blue chintz window curtains, showing papered walls and
+LINE 196: a carpeted floor, so unlike the bare planks and stained plaster of
+LINE 197: Lowood, that my spirits rose at the view. Externals have a great effect
+LINE 198: on the young: I thought that a fairer era of life was beginning for me,
+LINE 199: one that was to have its flowers and pleasures, as well as its thorns
+LINE 200: and toils. My faculties, roused by the change of scene, the new field
+LINE 201: offered to hope, seemed all astir. I cannot precisely define what they
+LINE 202: expected, but it was something pleasant: not perhaps that day or that
+LINE 203: month, but at an indefinite future period.
+LINE 204: I rose; I dressed myself with care: obliged to be plain—for I had no
+LINE 205: article of attire that was not made with extreme simplicity—I was still
+LINE 206: by nature solicitous to be neat. It was not my habit to be disregardful
+LINE 207: of appearance or careless of the impression I made: on the contrary, I
+LINE 208: ever wished to look as well as I could, and to please as much as my
+LINE 209: want of beauty would permit. I sometimes regretted that I was not
+LINE 210: handsomer; I sometimes wished to have rosy cheeks, a straight nose, and
+LINE 211: small cherry mouth; I desired to be tall, stately, and finely developed
+LINE 212: in figure; I felt it a misfortune that I was so little, so pale, and
+LINE 213: had features so irregular and so marked. And why had I these
+LINE 214: aspirations and these regrets? It would be difficult to say: I could
+LINE 215: not then distinctly say it to myself; yet I had a reason, and a
+LINE 216: logical, natural reason too. However, when I had brushed my hair very
+LINE 217: smooth, and put on my black frock—which, Quakerlike as it was, at least
+LINE 218: had the merit of fitting to a nicety—and adjusted my clean white
+LINE 219: tucker, I thought I should do respectably enough to appear before Mrs.
+LINE 220: Fairfax, and that my new pupil would not at least recoil from me with
+LINE 221: antipathy. Having opened my chamber window, and seen that I left all
+LINE 222: things straight and neat on the toilet table, I ventured forth.
+LINE 223: Traversing the long and matted gallery, I descended the slippery steps
+LINE 224: of oak; then I gained the hall: I halted there a minute; I looked at
+LINE 225: some pictures on the walls (one, I remember, represented a grim man in
+LINE 226: a cuirass, and one a lady with powdered hair and a pearl necklace), at
+LINE 227: a bronze lamp pendent from the ceiling, at a great clock whose case was
+LINE 228: of oak curiously carved, and ebon black with time and rubbing.
+LINE 229: Everything appeared very stately and imposing to me; but then I was so
+LINE 230: little accustomed to grandeur. The hall-door, which was half of glass,
+LINE 231: stood open; I stepped over the threshold. It was a fine autumn morning;
+LINE 232: the early sun shone serenely on embrowned groves and still green
+LINE 233: fields; advancing on to the lawn, I looked up and surveyed the front of
+LINE 234: the mansion. It was three storeys high, of proportions not vast, though
+LINE 235: considerable: a gentleman's manor-house, not a nobleman's seat:
+LINE 236: battlements round the top gave it a picturesque look. Its grey front
+LINE 237: stood out well from the background of a rookery, whose cawing tenants
+LINE 238: were now on the wing: they flew over the lawn and grounds to alight in
+LINE 239: a great meadow, from which these were separated by a sunk fence, and
+LINE 240: where an array of mighty old thorn trees, strong, knotty, and broad as
+LINE 241: oaks, at once explained the etymology of the mansion's designation.
+LINE 242: Farther off were hills: not so lofty as those round Lowood, nor so
+LINE 243: craggy, nor so like barriers of separation from the living world; but
+LINE 244: yet quiet and lonely hills enough, and seeming to embrace Thornfield
+LINE 245: with a seclusion I had not expected to find existent so near the
+LINE 246: stirring locality of Millcote. A little hamlet, whose roofs were blent
+LINE 247: with trees, straggled up the side of one of these hills; the church of
+LINE 248: the district stood nearer Thornfield: its old tower-top looked over a
+LINE 249: knoll between the house and gates.
+LINE 250: I was yet enjoying the calm prospect and pleasant fresh air, yet
+LINE 251: listening with delight to the cawing of the rooks, yet surveying the
+LINE 252: wide, hoary front of the hall, and thinking what a great place it was
+LINE 253: for one lonely little dame like Mrs. Fairfax to inhabit, when that lady
+LINE 254: appeared at the door.
+LINE 255: "What! out already?" said she. "I see you are an early riser." I went
+LINE 256: up to her, and was received with an affable kiss and shake of the hand.
+LINE 257: "How do you like Thornfield?" she asked. I told her I liked it very
+LINE 258: much.
+LINE 259: "Yes," she said, "it is a pretty place; but I fear it will be getting
+LINE 260: out of order, unless Mr. Rochester should take it into his head to come
+LINE 261: and reside here permanently; or, at least, visit it rather oftener:
+LINE 262: great houses and fine grounds require the presence of the proprietor."
+LINE 263: "Mr. Rochester!" I exclaimed. "Who is he?"
+LINE 264: "The owner of Thornfield," she responded quietly. "Did you not know he
+LINE 265: was called Rochester?"
+LINE 266: Of course I did not—I had never heard of him before; but the old lady
+LINE 267: seemed to regard his existence as a universally understood fact, with
+LINE 268: which everybody must be acquainted by instinct.
+LINE 269: "I thought," I continued, "Thornfield belonged to you."
+LINE 270: "To me? Bless you, child; what an idea! To me! I am only the
+LINE 271: housekeeper—the manager. To be sure I am distantly related to the
+LINE 272: Rochesters by the mother's side, or at least my husband was; he was a
+LINE 273: clergyman, incumbent of Hay—that little village yonder on the hill—and
+LINE 274: that church near the gates was his. The present Mr. Rochester's mother
+LINE 275: was a Fairfax, and second cousin to my husband: but I never presume on
+LINE 276: the connection—in fact, it is nothing to me; I consider myself quite in
+LINE 277: the light of an ordinary housekeeper: my employer is always civil, and
+LINE 278: I expect nothing more."
+LINE 279: "And the little girl—my pupil!"
+LINE 280: "She is Mr. Rochester's ward; he commissioned me to find a governess
+LINE 281: for her. He intended to have her brought up in ——shire, I believe. Here
+LINE 282: she comes, with her 'bonne,' as she calls her nurse." The enigma then
+LINE 283: was explained: this affable and kind little widow was no great dame;
+LINE 284: but a dependent like myself. I did not like her the worse for that; on
+LINE 285: the contrary, I felt better pleased than ever. The equality between her
+LINE 286: and me was real; not the mere result of condescension on her part: so
+LINE 287: much the better—my position was all the freer.
+LINE 288: As I was meditating on this discovery, a little girl, followed by her
+LINE 289: attendant, came running up the lawn. I looked at my pupil, who did not
+LINE 290: at first appear to notice me: she was quite a child, perhaps seven or
+LINE 291: eight years old, slightly built, with a pale, small-featured face, and
+LINE 292: a redundancy of hair falling in curls to her waist.
+LINE 293: "Good morning, Miss Adela," said Mrs. Fairfax. "Come and speak to the
+LINE 294: lady who is to teach you, and to make you a clever woman some day." She
+LINE 295: approached.
+LINE 296: "C'est là ma gouvernante!" said she, pointing to me, and addressing her
+LINE 297: nurse; who answered—
+LINE 298: "Mais oui, certainement."
+LINE 299: "Are they foreigners?" I inquired, amazed at hearing the French
+LINE 300: language.
+LINE 301: "The nurse is a foreigner, and Adela was born on the Continent; and, I
+LINE 302: believe, never left it till within six months ago. When she first came
+LINE 303: here she could speak no English; now she can make shift to talk it a
+LINE 304: little: I don't understand her, she mixes it so with French; but you
+LINE 305: will make out her meaning very well, I dare say."
+LINE 306: Fortunately I had had the advantage of being taught French by a French
+LINE 307: lady; and as I had always made a point of conversing with Madame
+LINE 308: Pierrot as often as I could, and had besides, during the last seven
+LINE 309: years, learnt a portion of French by heart daily—applying myself to
+LINE 310: take pains with my accent, and imitating as closely as possible the
+LINE 311: pronunciation of my teacher, I had acquired a certain degree of
+LINE 312: readiness and correctness in the language, and was not likely to be
+LINE 313: much at a loss with Mademoiselle Adela. She came and shook hands with
+LINE 314: me when she heard that I was her governess; and as I led her in to
+LINE 315: breakfast, I addressed some phrases to her in her own tongue: she
+LINE 316: replied briefly at first, but after we were seated at the table, and
+LINE 317: she had examined me some ten minutes with her large hazel eyes, she
+LINE 318: suddenly commenced chattering fluently.
+LINE 319: "Ah!" cried she, in French, "you speak my language as well as Mr.
+LINE 320: Rochester does: I can talk to you as I can to him, and so can Sophie.
+LINE 321: She will be glad: nobody here understands her: Madame Fairfax is all
+LINE 322: English. Sophie is my nurse; she came with me over the sea in a great
+LINE 323: ship with a chimney that smoked—how it did smoke!—and I was sick, and
+LINE 324: so was Sophie, and so was Mr. Rochester. Mr. Rochester lay down on a
+LINE 325: sofa in a pretty room called the salon, and Sophie and I had little
+LINE 326: beds in another place. I nearly fell out of mine; it was like a shelf.
+LINE 327: And Mademoiselle—what is your name?"
+LINE 328: "Eyre—Jane Eyre."
+LINE 329: "Aire? Bah! I cannot say it. Well, our ship stopped in the morning,
+LINE 330: before it was quite daylight, at a great city—a huge city, with very
+LINE 331: dark houses and all smoky; not at all like the pretty clean town I came
+LINE 332: from; and Mr. Rochester carried me in his arms over a plank to the
+LINE 333: land, and Sophie came after, and we all got into a coach, which took us
+LINE 334: to a beautiful large house, larger than this and finer, called an
+LINE 335: hotel. We stayed there nearly a week: I and Sophie used to walk every
+LINE 336: day in a great green place full of trees, called the Park; and there
+LINE 337: were many children there besides me, and a pond with beautiful birds in
+LINE 338: it, that I fed with crumbs."
+LINE 339: "Can you understand her when she runs on so fast?" asked Mrs. Fairfax.
+LINE 340: I understood her very well, for I had been accustomed to the fluent
+LINE 341: tongue of Madame Pierrot.
+LINE 342: "I wish," continued the good lady, "you would ask her a question or two
+LINE 343: about her parents: I wonder if she remembers them?"
+LINE 344: "Adèle," I inquired, "with whom did you live when you were in that
+LINE 345: pretty clean town you spoke of?"
+LINE 346: "I lived long ago with mama; but she is gone to the Holy Virgin. Mama
+LINE 347: used to teach me to dance and sing, and to say verses. A great many
+LINE 348: gentlemen and ladies came to see mama, and I used to dance before them,
+LINE 349: or to sit on their knees and sing to them: I liked it. Shall I let you
+LINE 350: hear me sing now?"
+LINE 351: She had finished her breakfast, so I permitted her to give a specimen
+LINE 352: of her accomplishments. Descending from her chair, she came and placed
+LINE 353: herself on my knee; then, folding her little hands demurely before her,
+LINE 354: shaking back her curls and lifting her eyes to the ceiling, she
+LINE 355: commenced singing a song from some opera. It was the strain of a
+LINE 356: forsaken lady, who, after bewailing the perfidy of her lover, calls
+LINE 357: pride to her aid; desires her attendant to deck her in her brightest
+LINE 358: jewels and richest robes, and resolves to meet the false one that night
+LINE 359: at a ball, and prove to him, by the gaiety of her demeanour, how little
+LINE 360: his desertion has affected her.
+LINE 361: The subject seemed strangely chosen for an infant singer; but I suppose
+LINE 362: the point of the exhibition lay in hearing the notes of love and
+LINE 363: jealousy warbled with the lisp of childhood; and in very bad taste that
+LINE 364: point was: at least I thought so.
+LINE 365: Adèle sang the canzonette tunefully enough, and with the _naïveté_ of
+LINE 366: her age. This achieved, she jumped from my knee and said, "Now,
+LINE 367: Mademoiselle, I will repeat you some poetry."
+LINE 368: Assuming an attitude, she began, "La Ligue des Rats: fable de La
+LINE 369: Fontaine." She then declaimed the little piece with an attention to
+LINE 370: punctuation and emphasis, a flexibility of voice and an appropriateness
+LINE 371: of gesture, very unusual indeed at her age, and which proved she had
+LINE 372: been carefully trained.
+LINE 373: "Was it your mama who taught you that piece?" I asked.
+LINE 374: "Yes, and she just used to say it in this way: 'Qu'avez vous donc? lui
+LINE 375: dit un de ces rats; parlez!' She made me lift my hand—so—to remind me
+LINE 376: to raise my voice at the question. Now shall I dance for you?"
+LINE 377: "No, that will do: but after your mama went to the Holy Virgin, as you
+LINE 378: say, with whom did you live then?"
+LINE 379: "With Madame Frédéric and her husband: she took care of me, but she is
+LINE 380: nothing related to me. I think she is poor, for she had not so fine a
+LINE 381: house as mama. I was not long there. Mr. Rochester asked me if I would
+LINE 382: like to go and live with him in England, and I said yes; for I knew Mr.
+LINE 383: Rochester before I knew Madame Frédéric, and he was always kind to me
+LINE 384: and gave me pretty dresses and toys: but you see he has not kept his
+LINE 385: word, for he has brought me to England, and now he is gone back again
+LINE 386: himself, and I never see him."
+LINE 387: After breakfast, Adèle and I withdrew to the library, which room, it
+LINE 388: appears, Mr. Rochester had directed should be used as the schoolroom.
+LINE 389: Most of the books were locked up behind glass doors; but there was one
+LINE 390: bookcase left open containing everything that could be needed in the
+LINE 391: way of elementary works, and several volumes of light literature,
+LINE 392: poetry, biography, travels, a few romances, &c. I suppose he had
+LINE 393: considered that these were all the governess would require for her
+LINE 394: private perusal; and, indeed, they contented me amply for the present;
+LINE 395: compared with the scanty pickings I had now and then been able to glean
+LINE 396: at Lowood, they seemed to offer an abundant harvest of entertainment
+LINE 397: and information. In this room, too, there was a cabinet piano, quite
+LINE 398: new and of superior tone; also an easel for painting and a pair of
+LINE 399: globes.
+LINE 400: I found my pupil sufficiently docile, though disinclined to apply: she
+LINE 401: had not been used to regular occupation of any kind. I felt it would be
+LINE 402: injudicious to confine her too much at first; so, when I had talked to
+LINE 403: her a great deal, and got her to learn a little, and when the morning
+LINE 404: had advanced to noon, I allowed her to return to her nurse. I then
+LINE 405: proposed to occupy myself till dinner-time in drawing some little
+LINE 406: sketches for her use.
+LINE 407: As I was going upstairs to fetch my portfolio and pencils, Mrs. Fairfax
+LINE 408: called to me: "Your morning school-hours are over now, I suppose," said
+LINE 409: she. She was in a room the folding-doors of which stood open: I went in
+LINE 410: when she addressed me. It was a large, stately apartment, with purple
+LINE 411: chairs and curtains, a Turkey carpet, walnut-panelled walls, one vast
+LINE 412: window rich in stained glass, and a lofty ceiling, nobly moulded. Mrs.
+LINE 413: Fairfax was dusting some vases of fine purple spar, which stood on a
+LINE 414: sideboard.
+LINE 415: "What a beautiful room!" I exclaimed, as I looked round; for I had
+LINE 416: never before seen any half so imposing.
+LINE 417: "Yes; this is the dining-room. I have just opened the window, to let in
+LINE 418: a little air and sunshine; for everything gets so damp in apartments
+LINE 419: that are seldom inhabited; the drawing-room yonder feels like a vault."
+LINE 420: She pointed to a wide arch corresponding to the window, and hung like
+LINE 421: it with a Tyrian-dyed curtain, now looped up. Mounting to it by two
+LINE 422: broad steps, and looking through, I thought I caught a glimpse of a
+LINE 423: fairy place, so bright to my novice-eyes appeared the view beyond. Yet
+LINE 424: it was merely a very pretty drawing-room, and within it a boudoir, both
+LINE 425: spread with white carpets, on which seemed laid brilliant garlands of
+LINE 426: flowers; both ceiled with snowy mouldings of white grapes and
+LINE 427: vine-leaves, beneath which glowed in rich contrast crimson couches and
+LINE 428: ottomans; while the ornaments on the pale Parian mantelpiece were of
+LINE 429: sparkling Bohemian glass, ruby red; and between the windows large
+LINE 430: mirrors repeated the general blending of snow and fire.
+LINE 431: "In what order you keep these rooms, Mrs. Fairfax!" said I. "No dust,
+LINE 432: no canvas coverings: except that the air feels chilly, one would think
+LINE 433: they were inhabited daily."
+LINE 434: "Why, Miss Eyre, though Mr. Rochester's visits here are rare, they are
+LINE 435: always sudden and unexpected; and as I observed that it put him out to
+LINE 436: find everything swathed up, and to have a bustle of arrangement on his
+LINE 437: arrival, I thought it best to keep the rooms in readiness."
+LINE 438: "Is Mr. Rochester an exacting, fastidious sort of man?"
+LINE 439: "Not particularly so; but he has a gentleman's tastes and habits, and
+LINE 440: he expects to have things managed in conformity to them."
+LINE 441: "Do you like him? Is he generally liked?"
+LINE 442: "Oh, yes; the family have always been respected here. Almost all the
+LINE 443: land in this neighbourhood, as far as you can see, has belonged to the
+LINE 444: Rochesters time out of mind."
+LINE 445: "Well, but, leaving his land out of the question, do you like him? Is
+LINE 446: he liked for himself?"
+LINE 447: "_I_ have no cause to do otherwise than like him; and I believe he is
+LINE 448: considered a just and liberal landlord by his tenants: but he has never
+LINE 449: lived much amongst them."
+LINE 450: "But has he no peculiarities? What, in short, is his character?"
+LINE 451: "Oh! his character is unimpeachable, I suppose. He is rather peculiar,
+LINE 452: perhaps: he has travelled a great deal, and seen a great deal of the
+LINE 453: world, I should think. I dare say he is clever, but I never had much
+LINE 454: conversation with him."
+LINE 455: "In what way is he peculiar?"
+LINE 456: "I don't know—it is not easy to describe—nothing striking, but you feel
+LINE 457: it when he speaks to you; you cannot be always sure whether he is in
+LINE 458: jest or earnest, whether he is pleased or the contrary; you don't
+LINE 459: thoroughly understand him, in short—at least, I don't: but it is of no
+LINE 460: consequence, he is a very good master."
+LINE 461: This was all the account I got from Mrs. Fairfax of her employer and
+LINE 462: mine. There are people who seem to have no notion of sketching a
+LINE 463: character, or observing and describing salient points, either in
+LINE 464: persons or things: the good lady evidently belonged to this class; my
+LINE 465: queries puzzled, but did not draw her out. Mr. Rochester was Mr.
+LINE 466: Rochester in her eyes; a gentleman, a landed proprietor—nothing more:
+LINE 467: she inquired and searched no further, and evidently wondered at my wish
+LINE 468: to gain a more definite notion of his identity.
+LINE 469: When we left the dining-room, she proposed to show me over the rest of
+LINE 470: the house; and I followed her upstairs and downstairs, admiring as I
+LINE 471: went; for all was well arranged and handsome. The large front chambers
+LINE 472: I thought especially grand: and some of the third-storey rooms, though
+LINE 473: dark and low, were interesting from their air of antiquity. The
+LINE 474: furniture once appropriated to the lower apartments had from time to
+LINE 475: time been removed here, as fashions changed: and the imperfect light
+LINE 476: entering by their narrow casement showed bedsteads of a hundred years
+LINE 477: old; chests in oak or walnut, looking, with their strange carvings of
+LINE 478: palm branches and cherubs' heads, like types of the Hebrew ark; rows of
+LINE 479: venerable chairs, high-backed and narrow; stools still more antiquated,
+LINE 480: on whose cushioned tops were yet apparent traces of half-effaced
+LINE 481: embroideries, wrought by fingers that for two generations had been
+LINE 482: coffin-dust. All these relics gave to the third storey of Thornfield
+LINE 483: Hall the aspect of a home of the past: a shrine of memory. I liked the
+LINE 484: hush, the gloom, the quaintness of these retreats in the day; but I by
+LINE 485: no means coveted a night's repose on one of those wide and heavy beds:
+LINE 486: shut in, some of them, with doors of oak; shaded, others, with wrought
+LINE 487: old English hangings crusted with thick work, portraying effigies of
+LINE 488: strange flowers, and stranger birds, and strangest human beings,—all
+LINE 489: which would have looked strange, indeed, by the pallid gleam of
+LINE 490: moonlight.
+LINE 491: "Do the servants sleep in these rooms?" I asked.
+LINE 492: "No; they occupy a range of smaller apartments to the back; no one ever
+LINE 493: sleeps here: one would almost say that, if there were a ghost at
+LINE 494: Thornfield Hall, this would be its haunt."
+LINE 495: "So I think: you have no ghost, then?"
+LINE 496: "None that I ever heard of," returned Mrs. Fairfax, smiling.
+LINE 497: "Nor any traditions of one? no legends or ghost stories?"
+LINE 498: "I believe not. And yet it is said the Rochesters have been rather a
+LINE 499: violent than a quiet race in their time: perhaps, though, that is the
+LINE 500: reason they rest tranquilly in their graves now."
+LINE 501: "Yes—'after life's fitful fever they sleep well,'" I muttered. "Where
+LINE 502: are you going now, Mrs. Fairfax?" for she was moving away.
+LINE 503: "On to the leads; will you come and see the view from thence?" I
+LINE 504: followed still, up a very narrow staircase to the attics, and thence by
+LINE 505: a ladder and through a trap-door to the roof of the hall. I was now on
+LINE 506: a level with the crow colony, and could see into their nests. Leaning
+LINE 507: over the battlements and looking far down, I surveyed the grounds laid
+LINE 508: out like a map: the bright and velvet lawn closely girdling the grey
+LINE 509: base of the mansion; the field, wide as a park, dotted with its ancient
+LINE 510: timber; the wood, dun and sere, divided by a path visibly overgrown,
+LINE 511: greener with moss than the trees were with foliage; the church at the
+LINE 512: gates, the road, the tranquil hills, all reposing in the autumn day's
+LINE 513: sun; the horizon bounded by a propitious sky, azure, marbled with
+LINE 514: pearly white. No feature in the scene was extraordinary, but all was
+LINE 515: pleasing. When I turned from it and repassed the trap-door, I could
+LINE 516: scarcely see my way down the ladder; the attic seemed black as a vault
+LINE 517: compared with that arch of blue air to which I had been looking up, and
+LINE 518: to that sunlit scene of grove, pasture, and green hill, of which the
+LINE 519: hall was the centre, and over which I had been gazing with delight.
+LINE 520: Mrs. Fairfax stayed behind a moment to fasten the trap-door; I, by dint
+LINE 521: of groping, found the outlet from the attic, and proceeded to descend
+LINE 522: the narrow garret staircase. I lingered in the long passage to which
+LINE 523: this led, separating the front and back rooms of the third storey:
+LINE 524: narrow, low, and dim, with only one little window at the far end, and
+LINE 525: looking, with its two rows of small black doors all shut, like a
+LINE 526: corridor in some Bluebeard's castle.
+LINE 527: While I paced softly on, the last sound I expected to hear in so still
+LINE 528: a region, a laugh, struck my ear. It was a curious laugh; distinct,
+LINE 529: formal, mirthless. I stopped: the sound ceased, only for an instant; it
+LINE 530: began again, louder: for at first, though distinct, it was very low. It
+LINE 531: passed off in a clamorous peal that seemed to wake an echo in every
+LINE 532: lonely chamber; though it originated but in one, and I could have
+LINE 533: pointed out the door whence the accents issued.
+LINE 534: "Mrs. Fairfax!" I called out: for I now heard her descending the great
+LINE 535: stairs. "Did you hear that loud laugh? Who is it?"
+LINE 536: "Some of the servants, very likely," she answered: "perhaps Grace
+LINE 537: Poole."
+LINE 538: "Did you hear it?" I again inquired.
+LINE 539: "Yes, plainly: I often hear her: she sews in one of these rooms.
+LINE 540: Sometimes Leah is with her; they are frequently noisy together."
+LINE 541: The laugh was repeated in its low, syllabic tone, and terminated in an
+LINE 542: odd murmur.
+LINE 543: "Grace!" exclaimed Mrs. Fairfax.
+LINE 544: I really did not expect any Grace to answer; for the laugh was as
+LINE 545: tragic, as preternatural a laugh as any I ever heard; and, but that it
+LINE 546: was high noon, and that no circumstance of ghostliness accompanied the
+LINE 547: curious cachinnation; but that neither scene nor season favoured fear,
+LINE 548: I should have been superstitiously afraid. However, the event showed me
+LINE 549: I was a fool for entertaining a sense even of surprise.
+LINE 550: The door nearest me opened, and a servant came out,—a woman of between
+LINE 551: thirty and forty; a set, square-made figure, red-haired, and with a
+LINE 552: hard, plain face: any apparition less romantic or less ghostly could
+LINE 553: scarcely be conceived.
+LINE 554: "Too much noise, Grace," said Mrs. Fairfax. "Remember directions!"
+LINE 555: Grace curtseyed silently and went in.
+LINE 556: "She is a person we have to sew and assist Leah in her housemaid's
+LINE 557: work," continued the widow; "not altogether unobjectionable in some
+LINE 558: points, but she does well enough. By-the-bye, how have you got on with
+LINE 559: your new pupil this morning?"
+LINE 560: The conversation, thus turned on Adèle, continued till we reached the
+LINE 561: light and cheerful region below. Adèle came running to meet us in the
+LINE 562: hall, exclaiming—
+LINE 563: "Mesdames, vous êtes servies!" adding, "J'ai bien faim, moi!"
+LINE 564: We found dinner ready, and waiting for us in Mrs. Fairfax's room.

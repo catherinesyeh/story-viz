@@ -1,6 +1,6 @@
 from flask import Flask, jsonify, request
 from flask_cors import CORS
-from prompts import add_yaxis_data, ask_question, assign_character_attributes
+from prompts import add_yaxis_data, ask_question, assign_character_attributes, find_chapter
 from helpers import load_model
 import time
 
@@ -22,11 +22,13 @@ def add_new_colors():
     # print("Data:", data)
     color_desc = payload.get('color_desc')
     print("Color description:", color_desc)
+    palette_info = payload.get('palette_info')
+    print("Palette info:", palette_info)
     story_type = payload.get('story_type')
     print("Story type:", story_type)
     start_time = time.time()
     char_attrs, color_assignments = assign_character_attributes(
-        llm, data, color_desc, story_type)
+        llm, data, color_desc, palette_info, story_type)
     # print("Character attributes:", char_attrs)
     # print("Color assignments:", color_assignments)
     end_time = time.time()
@@ -66,6 +68,21 @@ def ask_llm():
     print(f"Response generated in {end_time - start_time} seconds.")
     print("*" * 50)
     return jsonify({"answer": answer})
+
+
+@app.route("/find_chapter_with_llm", methods=['POST'])
+def find_chapter_with_llm():
+    payload = request.json
+    question = payload.get('question')
+    print("Question:", question)
+    data = payload.get('data')
+    # print("Data:", data)
+    start_time = time.time()
+    chapter, explanation = find_chapter(llm, data, question)
+    end_time = time.time()
+    print(f"Response generated in {end_time - start_time} seconds.")
+    print("*" * 50)
+    return jsonify({"chapter": chapter, "explanation": explanation})
 
 
 @app.route("/status", methods=['GET'])

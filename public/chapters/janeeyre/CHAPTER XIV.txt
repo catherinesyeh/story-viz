@@ -1,0 +1,441 @@
+LINE 1: For several subsequent days I saw little of Mr. Rochester. In the
+LINE 2: mornings he seemed much engaged with business, and, in the afternoon,
+LINE 3: gentlemen from Millcote or the neighbourhood called, and sometimes
+LINE 4: stayed to dine with him. When his sprain was well enough to admit of
+LINE 5: horse exercise, he rode out a good deal; probably to return these
+LINE 6: visits, as he generally did not come back till late at night.
+LINE 7: During this interval, even Adèle was seldom sent for to his presence,
+LINE 8: and all my acquaintance with him was confined to an occasional
+LINE 9: rencontre in the hall, on the stairs, or in the gallery, when he would
+LINE 10: sometimes pass me haughtily and coldly, just acknowledging my presence
+LINE 11: by a distant nod or a cool glance, and sometimes bow and smile with
+LINE 12: gentlemanlike affability. His changes of mood did not offend me,
+LINE 13: because I saw that I had nothing to do with their alternation; the ebb
+LINE 14: and flow depended on causes quite disconnected with me.
+LINE 15: One day he had had company to dinner, and had sent for my portfolio; in
+LINE 16: order, doubtless, to exhibit its contents: the gentlemen went away
+LINE 17: early, to attend a public meeting at Millcote, as Mrs. Fairfax informed
+LINE 18: me; but the night being wet and inclement, Mr. Rochester did not
+LINE 19: accompany them. Soon after they were gone he rang the bell: a message
+LINE 20: came that I and Adèle were to go downstairs. I brushed Adèle's hair and
+LINE 21: made her neat, and having ascertained that I was myself in my usual
+LINE 22: Quaker trim, where there was nothing to retouch—all being too close and
+LINE 23: plain, braided locks included, to admit of disarrangement—we descended,
+LINE 24: Adèle wondering whether the _petit coffre_ was at length come; for,
+LINE 25: owing to some mistake, its arrival had hitherto been delayed. She was
+LINE 26: gratified: there it stood, a little carton, on the table when we
+LINE 27: entered the dining-room. She appeared to know it by instinct.
+LINE 28: "Ma boite! ma boite!" exclaimed she, running towards it.
+LINE 29: "Yes, there is your 'boite' at last: take it into a corner, you genuine
+LINE 30: daughter of Paris, and amuse yourself with disembowelling it," said the
+LINE 31: deep and rather sarcastic voice of Mr. Rochester, proceeding from the
+LINE 32: depths of an immense easy-chair at the fireside. "And mind," he
+LINE 33: continued, "don't bother me with any details of the anatomical process,
+LINE 34: or any notice of the condition of the entrails: let your operation be
+LINE 35: conducted in silence: tiens-toi tranquille, enfant; comprends-tu?"
+LINE 36: Adèle seemed scarcely to need the warning; she had already retired to a
+LINE 37: sofa with her treasure, and was busy untying the cord which secured the
+LINE 38: lid. Having removed this impediment, and lifted certain silvery
+LINE 39: envelopes of tissue paper, she merely exclaimed—
+LINE 40: "Oh ciel! Que c'est beau!" and then remained absorbed in ecstatic
+LINE 41: contemplation.
+LINE 42: "Is Miss Eyre there?" now demanded the master, half rising from his
+LINE 43: seat to look round to the door, near which I still stood.
+LINE 44: "Ah! well, come forward; be seated here." He drew a chair near his own.
+LINE 45: "I am not fond of the prattle of children," he continued; "for, old
+LINE 46: bachelor as I am, I have no pleasant associations connected with their
+LINE 47: lisp. It would be intolerable to me to pass a whole evening
+LINE 48: _tête-à-tête_ with a brat. Don't draw that chair farther off, Miss
+LINE 49: Eyre; sit down exactly where I placed it—if you please, that is.
+LINE 50: Confound these civilities! I continually forget them. Nor do I
+LINE 51: particularly affect simple-minded old ladies. By-the-bye, I must have
+LINE 52: mine in mind; it won't do to neglect her; she is a Fairfax, or wed to
+LINE 53: one; and blood is said to be thicker than water."
+LINE 54: He rang, and despatched an invitation to Mrs. Fairfax, who soon
+LINE 55: arrived, knitting-basket in hand.
+LINE 56: "Good evening, madam; I sent to you for a charitable purpose. I have
+LINE 57: forbidden Adèle to talk to me about her presents, and she is bursting
+LINE 58: with repletion; have the goodness to serve her as auditress and
+LINE 59: interlocutrice; it will be one of the most benevolent acts you ever
+LINE 60: performed."
+LINE 61: Adèle, indeed, no sooner saw Mrs. Fairfax, than she summoned her to her
+LINE 62: sofa, and there quickly filled her lap with the porcelain, the ivory,
+LINE 63: the waxen contents of her "boite;" pouring out, meantime, explanations
+LINE 64: and raptures in such broken English as she was mistress of.
+LINE 65: "Now I have performed the part of a good host," pursued Mr. Rochester,
+LINE 66: "put my guests into the way of amusing each other, I ought to be at
+LINE 67: liberty to attend to my own pleasure. Miss Eyre, draw your chair still
+LINE 68: a little farther forward: you are yet too far back; I cannot see you
+LINE 69: without disturbing my position in this comfortable chair, which I have
+LINE 70: no mind to do."
+LINE 71: I did as I was bid, though I would much rather have remained somewhat
+LINE 72: in the shade; but Mr. Rochester had such a direct way of giving orders,
+LINE 73: it seemed a matter of course to obey him promptly.
+LINE 74: We were, as I have said, in the dining-room: the lustre, which had been
+LINE 75: lit for dinner, filled the room with a festal breadth of light; the
+LINE 76: large fire was all red and clear; the purple curtains hung rich and
+LINE 77: ample before the lofty window and loftier arch; everything was still,
+LINE 78: save the subdued chat of Adèle (she dared not speak loud), and, filling
+LINE 79: up each pause, the beating of winter rain against the panes.
+LINE 80: Mr. Rochester, as he sat in his damask-covered chair, looked different
+LINE 81: to what I had seen him look before; not quite so stern—much less
+LINE 82: gloomy. There was a smile on his lips, and his eyes sparkled, whether
+LINE 83: with wine or not, I am not sure; but I think it very probable. He was,
+LINE 84: in short, in his after-dinner mood; more expanded and genial, and also
+LINE 85: more self-indulgent than the frigid and rigid temper of the morning;
+LINE 86: still he looked preciously grim, cushioning his massive head against
+LINE 87: the swelling back of his chair, and receiving the light of the fire on
+LINE 88: his granite-hewn features, and in his great, dark eyes; for he had
+LINE 89: great, dark eyes, and very fine eyes, too—not without a certain change
+LINE 90: in their depths sometimes, which, if it was not softness, reminded you,
+LINE 91: at least, of that feeling.
+LINE 92: He had been looking two minutes at the fire, and I had been looking the
+LINE 93: same length of time at him, when, turning suddenly, he caught my gaze
+LINE 94: fastened on his physiognomy.
+LINE 95: "You examine me, Miss Eyre," said he: "do you think me handsome?"
+LINE 96: I should, if I had deliberated, have replied to this question by
+LINE 97: something conventionally vague and polite; but the answer somehow
+LINE 98: slipped from my tongue before I was aware—"No, sir."
+LINE 99: "Ah! By my word! there is something singular about you," said he: "you
+LINE 100: have the air of a little _nonnette_; quaint, quiet, grave, and simple,
+LINE 101: as you sit with your hands before you, and your eyes generally bent on
+LINE 102: the carpet (except, by-the-bye, when they are directed piercingly to my
+LINE 103: face; as just now, for instance); and when one asks you a question, or
+LINE 104: makes a remark to which you are obliged to reply, you rap out a round
+LINE 105: rejoinder, which, if not blunt, is at least brusque. What do you mean
+LINE 106: by it?"
+LINE 107: "Sir, I was too plain; I beg your pardon. I ought to have replied that
+LINE 108: it was not easy to give an impromptu answer to a question about
+LINE 109: appearances; that tastes mostly differ; and that beauty is of little
+LINE 110: consequence, or something of that sort."
+LINE 111: "You ought to have replied no such thing. Beauty of little consequence,
+LINE 112: indeed! And so, under pretence of softening the previous outrage, of
+LINE 113: stroking and soothing me into placidity, you stick a sly penknife under
+LINE 114: my ear! Go on: what fault do you find with me, pray? I suppose I have
+LINE 115: all my limbs and all my features like any other man?"
+LINE 116: "Mr. Rochester, allow me to disown my first answer: I intended no
+LINE 117: pointed repartee: it was only a blunder."
+LINE 118: "Just so: I think so: and you shall be answerable for it. Criticise me:
+LINE 119: does my forehead not please you?"
+LINE 120: He lifted up the sable waves of hair which lay horizontally over his
+LINE 121: brow, and showed a solid enough mass of intellectual organs, but an
+LINE 122: abrupt deficiency where the suave sign of benevolence should have
+LINE 123: risen.
+LINE 124: "Now, ma'am, am I a fool?"
+LINE 125: "Far from it, sir. You would, perhaps, think me rude if I inquired in
+LINE 126: return whether you are a philanthropist?"
+LINE 127: "There again! Another stick of the penknife, when she pretended to pat
+LINE 128: my head: and that is because I said I did not like the society of
+LINE 129: children and old women (low be it spoken!). No, young lady, I am not a
+LINE 130: general philanthropist; but I bear a conscience;" and he pointed to the
+LINE 131: prominences which are said to indicate that faculty, and which,
+LINE 132: fortunately for him, were sufficiently conspicuous; giving, indeed, a
+LINE 133: marked breadth to the upper part of his head: "and, besides, I once had
+LINE 134: a kind of rude tenderness of heart. When I was as old as you, I was a
+LINE 135: feeling fellow enough; partial to the unfledged, unfostered, and
+LINE 136: unlucky; but Fortune has knocked me about since: she has even kneaded
+LINE 137: me with her knuckles, and now I flatter myself I am hard and tough as
+LINE 138: an India-rubber ball; pervious, though, through a chink or two still,
+LINE 139: and with one sentient point in the middle of the lump. Yes: does that
+LINE 140: leave hope for me?"
+LINE 141: "Hope of what, sir?"
+LINE 142: "Of my final re-transformation from India-rubber back to flesh?"
+LINE 143: "Decidedly he has had too much wine," I thought; and I did not know
+LINE 144: what answer to make to his queer question: how could I tell whether he
+LINE 145: was capable of being re-transformed?
+LINE 146: "You looked very much puzzled, Miss Eyre; and though you are not pretty
+LINE 147: any more than I am handsome, yet a puzzled air becomes you; besides, it
+LINE 148: is convenient, for it keeps those searching eyes of yours away from my
+LINE 149: physiognomy, and busies them with the worsted flowers of the rug; so
+LINE 150: puzzle on. Young lady, I am disposed to be gregarious and communicative
+LINE 151: to-night."
+LINE 152: With this announcement he rose from his chair, and stood, leaning his
+LINE 153: arm on the marble mantelpiece: in that attitude his shape was seen
+LINE 154: plainly as well as his face; his unusual breadth of chest,
+LINE 155: disproportionate almost to his length of limb. I am sure most people
+LINE 156: would have thought him an ugly man; yet there was so much unconscious
+LINE 157: pride in his port; so much ease in his demeanour; such a look of
+LINE 158: complete indifference to his own external appearance; so haughty a
+LINE 159: reliance on the power of other qualities, intrinsic or adventitious, to
+LINE 160: atone for the lack of mere personal attractiveness, that, in looking at
+LINE 161: him, one inevitably shared the indifference, and, even in a blind,
+LINE 162: imperfect sense, put faith in the confidence.
+LINE 163: "I am disposed to be gregarious and communicative to-night," he
+LINE 164: repeated, "and that is why I sent for you: the fire and the chandelier
+LINE 165: were not sufficient company for me; nor would Pilot have been, for none
+LINE 166: of these can talk. Adèle is a degree better, but still far below the
+LINE 167: mark; Mrs. Fairfax ditto; you, I am persuaded, can suit me if you will:
+LINE 168: you puzzled me the first evening I invited you down here. I have almost
+LINE 169: forgotten you since: other ideas have driven yours from my head; but
+LINE 170: to-night I am resolved to be at ease; to dismiss what importunes, and
+LINE 171: recall what pleases. It would please me now to draw you out—to learn
+LINE 172: more of you—therefore speak."
+LINE 173: Instead of speaking, I smiled; and not a very complacent or submissive
+LINE 174: smile either.
+LINE 175: "Speak," he urged.
+LINE 176: "What about, sir?"
+LINE 177: "Whatever you like. I leave both the choice of subject and the manner
+LINE 178: of treating it entirely to yourself."
+LINE 179: Accordingly I sat and said nothing: "If he expects me to talk for the
+LINE 180: mere sake of talking and showing off, he will find he has addressed
+LINE 181: himself to the wrong person," I thought.
+LINE 182: "You are dumb, Miss Eyre."
+LINE 183: I was dumb still. He bent his head a little towards me, and with a
+LINE 184: single hasty glance seemed to dive into my eyes.
+LINE 185: "Stubborn?" he said, "and annoyed. Ah! it is consistent. I put my
+LINE 186: request in an absurd, almost insolent form. Miss Eyre, I beg your
+LINE 187: pardon. The fact is, once for all, I don't wish to treat you like an
+LINE 188: inferior: that is" (correcting himself), "I claim only such superiority
+LINE 189: as must result from twenty years' difference in age and a century's
+LINE 190: advance in experience. This is legitimate, _et j'y tiens_, as Adèle
+LINE 191: would say; and it is by virtue of this superiority, and this alone,
+LINE 192: that I desire you to have the goodness to talk to me a little now, and
+LINE 193: divert my thoughts, which are galled with dwelling on one
+LINE 194: point—cankering as a rusty nail."
+LINE 195: He had deigned an explanation, almost an apology, and I did not feel
+LINE 196: insensible to his condescension, and would not seem so.
+LINE 197: "I am willing to amuse you, if I can, sir—quite willing; but I cannot
+LINE 198: introduce a topic, because how do I know what will interest you? Ask me
+LINE 199: questions, and I will do my best to answer them."
+LINE 200: "Then, in the first place, do you agree with me that I have a right to
+LINE 201: be a little masterful, abrupt, perhaps exacting, sometimes, on the
+LINE 202: grounds I stated, namely, that I am old enough to be your father, and
+LINE 203: that I have battled through a varied experience with many men of many
+LINE 204: nations, and roamed over half the globe, while you have lived quietly
+LINE 205: with one set of people in one house?"
+LINE 206: "Do as you please, sir."
+LINE 207: "That is no answer; or rather it is a very irritating, because a very
+LINE 208: evasive one. Reply clearly."
+LINE 209: "I don't think, sir, you have a right to command me, merely because you
+LINE 210: are older than I, or because you have seen more of the world than I
+LINE 211: have; your claim to superiority depends on the use you have made of
+LINE 212: your time and experience."
+LINE 213: "Humph! Promptly spoken. But I won't allow that, seeing that it would
+LINE 214: never suit my case, as I have made an indifferent, not to say a bad,
+LINE 215: use of both advantages. Leaving superiority out of the question, then,
+LINE 216: you must still agree to receive my orders now and then, without being
+LINE 217: piqued or hurt by the tone of command. Will you?"
+LINE 218: I smiled: I thought to myself Mr. Rochester _is_ peculiar—he seems to
+LINE 219: forget that he pays me £30 per annum for receiving his orders.
+LINE 220: "The smile is very well," said he, catching instantly the passing
+LINE 221: expression; "but speak too."
+LINE 222: "I was thinking, sir, that very few masters would trouble themselves to
+LINE 223: inquire whether or not their paid subordinates were piqued and hurt by
+LINE 224: their orders."
+LINE 225: "Paid subordinates! What! you are my paid subordinate, are you? Oh yes,
+LINE 226: I had forgotten the salary! Well then, on that mercenary ground, will
+LINE 227: you agree to let me hector a little?"
+LINE 228: "No, sir, not on that ground; but, on the ground that you did forget
+LINE 229: it, and that you care whether or not a dependent is comfortable in his
+LINE 230: dependency, I agree heartily."
+LINE 231: "And will you consent to dispense with a great many conventional forms
+LINE 232: and phrases, without thinking that the omission arises from insolence?"
+LINE 233: "I am sure, sir, I should never mistake informality for insolence: one
+LINE 234: I rather like, the other nothing free-born would submit to, even for a
+LINE 235: salary."
+LINE 236: "Humbug! Most things free-born will submit to anything for a salary;
+LINE 237: therefore, keep to yourself, and don't venture on generalities of which
+LINE 238: you are intensely ignorant. However, I mentally shake hands with you
+LINE 239: for your answer, despite its inaccuracy; and as much for the manner in
+LINE 240: which it was said, as for the substance of the speech; the manner was
+LINE 241: frank and sincere; one does not often see such a manner: no, on the
+LINE 242: contrary, affectation, or coldness, or stupid, coarse-minded
+LINE 243: misapprehension of one's meaning are the usual rewards of candour. Not
+LINE 244: three in three thousand raw school-girl-governesses would have answered
+LINE 245: me as you have just done. But I don't mean to flatter you: if you are
+LINE 246: cast in a different mould to the majority, it is no merit of yours:
+LINE 247: Nature did it. And then, after all, I go too fast in my conclusions:
+LINE 248: for what I yet know, you may be no better than the rest; you may have
+LINE 249: intolerable defects to counterbalance your few good points."
+LINE 250: "And so may you," I thought. My eye met his as the idea crossed my
+LINE 251: mind: he seemed to read the glance, answering as if its import had been
+LINE 252: spoken as well as imagined—
+LINE 253: "Yes, yes, you are right," said he; "I have plenty of faults of my own:
+LINE 254: I know it, and I don't wish to palliate them, I assure you. God wot I
+LINE 255: need not be too severe about others; I have a past existence, a series
+LINE 256: of deeds, a colour of life to contemplate within my own breast, which
+LINE 257: might well call my sneers and censures from my neighbours to myself. I
+LINE 258: started, or rather (for like other defaulters, I like to lay half the
+LINE 259: blame on ill fortune and adverse circumstances) was thrust on to a
+LINE 260: wrong tack at the age of one-and-twenty, and have never recovered the
+LINE 261: right course since: but I might have been very different; I might have
+LINE 262: been as good as you—wiser—almost as stainless. I envy you your peace of
+LINE 263: mind, your clean conscience, your unpolluted memory. Little girl, a
+LINE 264: memory without blot or contamination must be an exquisite treasure—an
+LINE 265: inexhaustible source of pure refreshment: is it not?"
+LINE 266: "How was your memory when you were eighteen, sir?"
+LINE 267: "All right then; limpid, salubrious: no gush of bilge water had turned
+LINE 268: it to fetid puddle. I was your equal at eighteen—quite your equal.
+LINE 269: Nature meant me to be, on the whole, a good man, Miss Eyre; one of the
+LINE 270: better kind, and you see I am not so. You would say you don't see it;
+LINE 271: at least I flatter myself I read as much in your eye (beware,
+LINE 272: by-the-bye, what you express with that organ; I am quick at
+LINE 273: interpreting its language). Then take my word for it,—I am not a
+LINE 274: villain: you are not to suppose that—not to attribute to me any such
+LINE 275: bad eminence; but, owing, I verily believe, rather to circumstances
+LINE 276: than to my natural bent, I am a trite commonplace sinner, hackneyed in
+LINE 277: all the poor petty dissipations with which the rich and worthless try
+LINE 278: to put on life. Do you wonder that I avow this to you? Know, that in
+LINE 279: the course of your future life you will often find yourself elected the
+LINE 280: involuntary confidant of your acquaintances' secrets: people will
+LINE 281: instinctively find out, as I have done, that it is not your forte to
+LINE 282: tell of yourself, but to listen while others talk of themselves; they
+LINE 283: will feel, too, that you listen with no malevolent scorn of their
+LINE 284: indiscretion, but with a kind of innate sympathy; not the less
+LINE 285: comforting and encouraging because it is very unobtrusive in its
+LINE 286: manifestations."
+LINE 287: "How do you know?—how can you guess all this, sir?"
+LINE 288: "I know it well; therefore I proceed almost as freely as if I were
+LINE 289: writing my thoughts in a diary. You would say, I should have been
+LINE 290: superior to circumstances; so I should—so I should; but you see I was
+LINE 291: not. When fate wronged me, I had not the wisdom to remain cool: I
+LINE 292: turned desperate; then I degenerated. Now, when any vicious simpleton
+LINE 293: excites my disgust by his paltry ribaldry, I cannot flatter myself that
+LINE 294: I am better than he: I am forced to confess that he and I are on a
+LINE 295: level. I wish I had stood firm—God knows I do! Dread remorse when you
+LINE 296: are tempted to err, Miss Eyre; remorse is the poison of life."
+LINE 297: "Repentance is said to be its cure, sir."
+LINE 298: "It is not its cure. Reformation may be its cure; and I could reform—I
+LINE 299: have strength yet for that—if—but where is the use of thinking of it,
+LINE 300: hampered, burdened, cursed as I am? Besides, since happiness is
+LINE 301: irrevocably denied me, I have a right to get pleasure out of life: and
+LINE 302: I _will_ get it, cost what it may."
+LINE 303: "Then you will degenerate still more, sir."
+LINE 304: "Possibly: yet why should I, if I can get sweet, fresh pleasure? And I
+LINE 305: may get it as sweet and fresh as the wild honey the bee gathers on the
+LINE 306: moor."
+LINE 307: "It will sting—it will taste bitter, sir."
+LINE 308: "How do you know?—you never tried it. How very serious—how very solemn
+LINE 309: you look: and you are as ignorant of the matter as this cameo head"
+LINE 310: (taking one from the mantelpiece). "You have no right to preach to me,
+LINE 311: you neophyte, that have not passed the porch of life, and are
+LINE 312: absolutely unacquainted with its mysteries."
+LINE 313: "I only remind you of your own words, sir: you said error brought
+LINE 314: remorse, and you pronounced remorse the poison of existence."
+LINE 315: "And who talks of error now? I scarcely think the notion that flittered
+LINE 316: across my brain was an error. I believe it was an inspiration rather
+LINE 317: than a temptation: it was very genial, very soothing—I know that. Here
+LINE 318: it comes again! It is no devil, I assure you; or if it be, it has put
+LINE 319: on the robes of an angel of light. I think I must admit so fair a guest
+LINE 320: when it asks entrance to my heart."
+LINE 321: "Distrust it, sir; it is not a true angel."
+LINE 322: "Once more, how do you know? By what instinct do you pretend to
+LINE 323: distinguish between a fallen seraph of the abyss and a messenger from
+LINE 324: the eternal throne—between a guide and a seducer?"
+LINE 325: "I judged by your countenance, sir, which was troubled when you said
+LINE 326: the suggestion had returned upon you. I feel sure it will work you more
+LINE 327: misery if you listen to it."
+LINE 328: "Not at all—it bears the most gracious message in the world: for the
+LINE 329: rest, you are not my conscience-keeper, so don't make yourself uneasy.
+LINE 330: Here, come in, bonny wanderer!"
+LINE 331: He said this as if he spoke to a vision, viewless to any eye but his
+LINE 332: own; then, folding his arms, which he had half extended, on his chest,
+LINE 333: he seemed to enclose in their embrace the invisible being.
+LINE 334: "Now," he continued, again addressing me, "I have received the
+LINE 335: pilgrim—a disguised deity, as I verily believe. Already it has done me
+LINE 336: good: my heart was a sort of charnel; it will now be a shrine."
+LINE 337: "To speak truth, sir, I don't understand you at all: I cannot keep up
+LINE 338: the conversation, because it has got out of my depth. Only one thing, I
+LINE 339: know: you said you were not as good as you should like to be, and that
+LINE 340: you regretted your own imperfection;—one thing I can comprehend: you
+LINE 341: intimated that to have a sullied memory was a perpetual bane. It seems
+LINE 342: to me, that if you tried hard, you would in time find it possible to
+LINE 343: become what you yourself would approve; and that if from this day you
+LINE 344: began with resolution to correct your thoughts and actions, you would
+LINE 345: in a few years have laid up a new and stainless store of recollections,
+LINE 346: to which you might revert with pleasure."
+LINE 347: "Justly thought; rightly said, Miss Eyre; and, at this moment, I am
+LINE 348: paving hell with energy."
+LINE 349: "Sir?"
+LINE 350: "I am laying down good intentions, which I believe durable as flint.
+LINE 351: Certainly, my associates and pursuits shall be other than they have
+LINE 352: been."
+LINE 353: "And better?"
+LINE 354: "And better—so much better as pure ore is than foul dross. You seem to
+LINE 355: doubt me; I don't doubt myself: I know what my aim is, what my motives
+LINE 356: are; and at this moment I pass a law, unalterable as that of the Medes
+LINE 357: and Persians, that both are right."
+LINE 358: "They cannot be, sir, if they require a new statute to legalise them."
+LINE 359: "They are, Miss Eyre, though they absolutely require a new statute:
+LINE 360: unheard-of combinations of circumstances demand unheard-of rules."
+LINE 361: "That sounds a dangerous maxim, sir; because one can see at once that
+LINE 362: it is liable to abuse."
+LINE 363: "Sententious sage! so it is: but I swear by my household gods not to
+LINE 364: abuse it."
+LINE 365: "You are human and fallible."
+LINE 366: "I am: so are you—what then?"
+LINE 367: "The human and fallible should not arrogate a power with which the
+LINE 368: divine and perfect alone can be safely intrusted."
+LINE 369: "What power?"
+LINE 370: "That of saying of any strange, unsanctioned line of action,—'Let it be
+LINE 371: right.'"
+LINE 372: "'Let it be right'—the very words: you have pronounced them."
+LINE 373: "_May_ it be right then," I said, as I rose, deeming it useless to
+LINE 374: continue a discourse which was all darkness to me; and, besides,
+LINE 375: sensible that the character of my interlocutor was beyond my
+LINE 376: penetration; at least, beyond its present reach; and feeling the
+LINE 377: uncertainty, the vague sense of insecurity, which accompanies a
+LINE 378: conviction of ignorance.
+LINE 379: "Where are you going?"
+LINE 380: "To put Adèle to bed: it is past her bedtime."
+LINE 381: "You are afraid of me, because I talk like a Sphynx."
+LINE 382: "Your language is enigmatical, sir: but though I am bewildered, I am
+LINE 383: certainly not afraid."
+LINE 384: "You _are_ afraid—your self-love dreads a blunder."
+LINE 385: "In that sense I do feel apprehensive—I have no wish to talk nonsense."
+LINE 386: "If you did, it would be in such a grave, quiet manner, I should
+LINE 387: mistake it for sense. Do you never laugh, Miss Eyre? Don't trouble
+LINE 388: yourself to answer—I see you laugh rarely; but you can laugh very
+LINE 389: merrily: believe me, you are not naturally austere, any more than I am
+LINE 390: naturally vicious. The Lowood constraint still clings to you somewhat;
+LINE 391: controlling your features, muffling your voice, and restricting your
+LINE 392: limbs; and you fear in the presence of a man and a brother—or father,
+LINE 393: or master, or what you will—to smile too gaily, speak too freely, or
+LINE 394: move too quickly: but, in time, I think you will learn to be natural
+LINE 395: with me, as I find it impossible to be conventional with you; and then
+LINE 396: your looks and movements will have more vivacity and variety than they
+LINE 397: dare offer now. I see at intervals the glance of a curious sort of bird
+LINE 398: through the close-set bars of a cage: a vivid, restless, resolute
+LINE 399: captive is there; were it but free, it would soar cloud-high. You are
+LINE 400: still bent on going?"
+LINE 401: "It has struck nine, sir."
+LINE 402: "Never mind,—wait a minute: Adèle is not ready to go to bed yet. My
+LINE 403: position, Miss Eyre, with my back to the fire, and my face to the room,
+LINE 404: favours observation. While talking to you, I have also occasionally
+LINE 405: watched Adèle (I have my own reasons for thinking her a curious
+LINE 406: study,—reasons that I may, nay, that I shall, impart to you some day).
+LINE 407: She pulled out of her box, about ten minutes ago, a little pink silk
+LINE 408: frock; rapture lit her face as she unfolded it; coquetry runs in her
+LINE 409: blood, blends with her brains, and seasons the marrow of her bones. 'Il
+LINE 410: faut que je l'essaie!' cried she, 'et à l'instant même!' and she rushed
+LINE 411: out of the room. She is now with Sophie, undergoing a robing process:
+LINE 412: in a few minutes she will re-enter; and I know what I shall see,—a
+LINE 413: miniature of Céline Varens, as she used to appear on the boards at the
+LINE 414: rising of—But never mind that. However, my tenderest feelings are about
+LINE 415: to receive a shock: such is my presentiment; stay now, to see whether
+LINE 416: it will be realised."
+LINE 417: Ere long, Adèle's little foot was heard tripping across the hall. She
+LINE 418: entered, transformed as her guardian had predicted. A dress of
+LINE 419: rose-coloured satin, very short, and as full in the skirt as it could
+LINE 420: be gathered, replaced the brown frock she had previously worn; a wreath
+LINE 421: of rosebuds circled her forehead; her feet were dressed in silk
+LINE 422: stockings and small white satin sandals.
+LINE 423: "Est-ce que ma robe va bien?" cried she, bounding forwards; "et mes
+LINE 424: souliers? et mes bas? Tenez, je crois que je vais danser!"
+LINE 425: And spreading out her dress, she chasséed across the room till, having
+LINE 426: reached Mr. Rochester, she wheeled lightly round before him on tip-toe,
+LINE 427: then dropped on one knee at his feet, exclaiming—
+LINE 428: "Monsieur, je vous remercie mille fois de votre bonté;" then rising,
+LINE 429: she added, "C'est comme cela que maman faisait, n'est-ce pas,
+LINE 430: monsieur?"
+LINE 431: "Pre-cise-ly!" was the answer; "and, 'comme cela,' she charmed my
+LINE 432: English gold out of my British breeches' pocket. I have been green,
+LINE 433: too, Miss Eyre,—ay, grass green: not a more vernal tint freshens you
+LINE 434: now than once freshened me. My Spring is gone, however, but it has left
+LINE 435: me that French floweret on my hands, which, in some moods, I would fain
+LINE 436: be rid of. Not valuing now the root whence it sprang; having found that
+LINE 437: it was of a sort which nothing but gold dust could manure, I have but
+LINE 438: half a liking to the blossom, especially when it looks so artificial as
+LINE 439: just now. I keep it and rear it rather on the Roman Catholic principle
+LINE 440: of expiating numerous sins, great or small, by one good work. I'll
+LINE 441: explain all this some day. Good-night."

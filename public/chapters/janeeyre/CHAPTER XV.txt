@@ -1,0 +1,432 @@
+LINE 1: Mr. Rochester did, on a future occasion, explain it. It was one
+LINE 2: afternoon, when he chanced to meet me and Adèle in the grounds: and
+LINE 3: while she played with Pilot and her shuttlecock, he asked me to walk up
+LINE 4: and down a long beech avenue within sight of her.
+LINE 5: He then said that she was the daughter of a French opera-dancer, Céline
+LINE 6: Varens, towards whom he had once cherished what he called a "_grande
+LINE 7: passion_." This passion Céline had professed to return with even
+LINE 8: superior ardour. He thought himself her idol, ugly as he was: he
+LINE 9: believed, as he said, that she preferred his "_taille d'athlète_" to
+LINE 10: the elegance of the Apollo Belvidere.
+LINE 11: "And, Miss Eyre, so much was I flattered by this preference of the
+LINE 12: Gallic sylph for her British gnome, that I installed her in an hotel;
+LINE 13: gave her a complete establishment of servants, a carriage, cashmeres,
+LINE 14: diamonds, dentelles, &c. In short, I began the process of ruining
+LINE 15: myself in the received style, like any other spoony. I had not, it
+LINE 16: seems, the originality to chalk out a new road to shame and
+LINE 17: destruction, but trode the old track with stupid exactness not to
+LINE 18: deviate an inch from the beaten centre. I had—as I deserved to have—the
+LINE 19: fate of all other spoonies. Happening to call one evening when Céline
+LINE 20: did not expect me, I found her out; but it was a warm night, and I was
+LINE 21: tired with strolling through Paris, so I sat down in her boudoir; happy
+LINE 22: to breathe the air consecrated so lately by her presence. No,—I
+LINE 23: exaggerate; I never thought there was any consecrating virtue about
+LINE 24: her: it was rather a sort of pastille perfume she had left; a scent of
+LINE 25: musk and amber, than an odour of sanctity. I was just beginning to
+LINE 26: stifle with the fumes of conservatory flowers and sprinkled essences,
+LINE 27: when I bethought myself to open the window and step out on to the
+LINE 28: balcony. It was moonlight and gaslight besides, and very still and
+LINE 29: serene. The balcony was furnished with a chair or two; I sat down, and
+LINE 30: took out a cigar,—I will take one now, if you will excuse me."
+LINE 31: Here ensued a pause, filled up by the producing and lighting of a
+LINE 32: cigar; having placed it to his lips and breathed a trail of Havannah
+LINE 33: incense on the freezing and sunless air, he went on—
+LINE 34: "I liked bonbons too in those days, Miss Eyre, and I was
+LINE 35: _croquant_—(overlook the barbarism)—_croquant_ chocolate comfits, and
+LINE 36: smoking alternately, watching meantime the equipages that rolled along
+LINE 37: the fashionable streets towards the neighbouring opera-house, when in
+LINE 38: an elegant close carriage drawn by a beautiful pair of English horses,
+LINE 39: and distinctly seen in the brilliant city-night, I recognised the
+LINE 40: 'voiture' I had given Céline. She was returning: of course my heart
+LINE 41: thumped with impatience against the iron rails I leant upon. The
+LINE 42: carriage stopped, as I had expected, at the hotel door; my flame (that
+LINE 43: is the very word for an opera inamorata) alighted: though muffed in a
+LINE 44: cloak—an unnecessary encumbrance, by-the-bye, on so warm a June
+LINE 45: evening—I knew her instantly by her little foot, seen peeping from the
+LINE 46: skirt of her dress, as she skipped from the carriage-step. Bending over
+LINE 47: the balcony, I was about to murmur 'Mon ange'—in a tone, of course,
+LINE 48: which should be audible to the ear of love alone—when a figure jumped
+LINE 49: from the carriage after her; cloaked also; but that was a spurred heel
+LINE 50: which had rung on the pavement, and that was a hatted head which now
+LINE 51: passed under the arched _porte cochère_ of the hotel.
+LINE 52: "You never felt jealousy, did you, Miss Eyre? Of course not: I need not
+LINE 53: ask you; because you never felt love. You have both sentiments yet to
+LINE 54: experience: your soul sleeps; the shock is yet to be given which shall
+LINE 55: waken it. You think all existence lapses in as quiet a flow as that in
+LINE 56: which your youth has hitherto slid away. Floating on with closed eyes
+LINE 57: and muffled ears, you neither see the rocks bristling not far off in
+LINE 58: the bed of the flood, nor hear the breakers boil at their base. But I
+LINE 59: tell you—and you may mark my words—you will come some day to a craggy
+LINE 60: pass in the channel, where the whole of life's stream will be broken up
+LINE 61: into whirl and tumult, foam and noise: either you will be dashed to
+LINE 62: atoms on crag points, or lifted up and borne on by some master-wave
+LINE 63: into a calmer current—as I am now.
+LINE 64: "I like this day; I like that sky of steel; I like the sternness and
+LINE 65: stillness of the world under this frost. I like Thornfield, its
+LINE 66: antiquity, its retirement, its old crow-trees and thorn-trees, its grey
+LINE 67: façade, and lines of dark windows reflecting that metal welkin: and yet
+LINE 68: how long have I abhorred the very thought of it, shunned it like a
+LINE 69: great plague-house? How I do still abhor—"
+LINE 70: He ground his teeth and was silent: he arrested his step and struck his
+LINE 71: boot against the hard ground. Some hated thought seemed to have him in
+LINE 72: its grip, and to hold him so tightly that he could not advance.
+LINE 73: We were ascending the avenue when he thus paused; the hall was before
+LINE 74: us. Lifting his eye to its battlements, he cast over them a glare such
+LINE 75: as I never saw before or since. Pain, shame, ire, impatience, disgust,
+LINE 76: detestation, seemed momentarily to hold a quivering conflict in the
+LINE 77: large pupil dilating under his ebon eyebrow. Wild was the wrestle which
+LINE 78: should be paramount; but another feeling rose and triumphed: something
+LINE 79: hard and cynical: self-willed and resolute: it settled his passion and
+LINE 80: petrified his countenance: he went on—
+LINE 81: "During the moment I was silent, Miss Eyre, I was arranging a point
+LINE 82: with my destiny. She stood there, by that beech-trunk—a hag like one of
+LINE 83: those who appeared to Macbeth on the heath of Forres. 'You like
+LINE 84: Thornfield?' she said, lifting her finger; and then she wrote in the
+LINE 85: air a memento, which ran in lurid hieroglyphics all along the
+LINE 86: house-front, between the upper and lower row of windows, 'Like it if
+LINE 87: you can! Like it if you dare!'
+LINE 88: "'I will like it,' said I; 'I dare like it;' and" (he subjoined
+LINE 89: moodily) "I will keep my word; I will break obstacles to happiness, to
+LINE 90: goodness—yes, goodness. I wish to be a better man than I have been,
+LINE 91: than I am; as Job's leviathan broke the spear, the dart, and the
+LINE 92: habergeon, hindrances which others count as iron and brass, I will
+LINE 93: esteem but straw and rotten wood."
+LINE 94: Adèle here ran before him with her shuttlecock. "Away!" he cried
+LINE 95: harshly; "keep at a distance, child; or go in to Sophie!" Continuing
+LINE 96: then to pursue his walk in silence, I ventured to recall him to the
+LINE 97: point whence he had abruptly diverged—
+LINE 98: "Did you leave the balcony, sir," I asked, "when Mdlle. Varens
+LINE 99: entered?"
+LINE 100: I almost expected a rebuff for this hardly well-timed question, but, on
+LINE 101: the contrary, waking out of his scowling abstraction, he turned his
+LINE 102: eyes towards me, and the shade seemed to clear off his brow. "Oh, I had
+LINE 103: forgotten Céline! Well, to resume. When I saw my charmer thus come in
+LINE 104: accompanied by a cavalier, I seemed to hear a hiss, and the green snake
+LINE 105: of jealousy, rising on undulating coils from the moonlit balcony,
+LINE 106: glided within my waistcoat, and ate its way in two minutes to my
+LINE 107: heart's core. Strange!" he exclaimed, suddenly starting again from the
+LINE 108: point. "Strange that I should choose you for the confidant of all this,
+LINE 109: young lady; passing strange that you should listen to me quietly, as if
+LINE 110: it were the most usual thing in the world for a man like me to tell
+LINE 111: stories of his opera-mistresses to a quaint, inexperienced girl like
+LINE 112: you! But the last singularity explains the first, as I intimated once
+LINE 113: before: you, with your gravity, considerateness, and caution were made
+LINE 114: to be the recipient of secrets. Besides, I know what sort of a mind I
+LINE 115: have placed in communication with my own: I know it is one not liable
+LINE 116: to take infection: it is a peculiar mind: it is a unique one. Happily I
+LINE 117: do not mean to harm it: but, if I did, it would not take harm from me.
+LINE 118: The more you and I converse, the better; for while I cannot blight you,
+LINE 119: you may refresh me." After this digression he proceeded—
+LINE 120: "I remained in the balcony. 'They will come to her boudoir, no doubt,'
+LINE 121: thought I: 'let me prepare an ambush.' So putting my hand in through
+LINE 122: the open window, I drew the curtain over it, leaving only an opening
+LINE 123: through which I could take observations; then I closed the casement,
+LINE 124: all but a chink just wide enough to furnish an outlet to lovers'
+LINE 125: whispered vows: then I stole back to my chair; and as I resumed it the
+LINE 126: pair came in. My eye was quickly at the aperture. Céline's chamber-maid
+LINE 127: entered, lit a lamp, left it on the table, and withdrew. The couple
+LINE 128: were thus revealed to me clearly: both removed their cloaks, and there
+LINE 129: was 'the Varens,' shining in satin and jewels,—my gifts of course,—and
+LINE 130: there was her companion in an officer's uniform; and I knew him for a
+LINE 131: young roué of a vicomte—a brainless and vicious youth whom I had
+LINE 132: sometimes met in society, and had never thought of hating because I
+LINE 133: despised him so absolutely. On recognising him, the fang of the snake
+LINE 134: Jealousy was instantly broken; because at the same moment my love for
+LINE 135: Céline sank under an extinguisher. A woman who could betray me for such
+LINE 136: a rival was not worth contending for; she deserved only scorn; less,
+LINE 137: however, than I, who had been her dupe.
+LINE 138: "They began to talk; their conversation eased me completely: frivolous,
+LINE 139: mercenary, heartless, and senseless, it was rather calculated to weary
+LINE 140: than enrage a listener. A card of mine lay on the table; this being
+LINE 141: perceived, brought my name under discussion. Neither of them possessed
+LINE 142: energy or wit to belabour me soundly, but they insulted me as coarsely
+LINE 143: as they could in their little way: especially Céline, who even waxed
+LINE 144: rather brilliant on my personal defects—deformities she termed them.
+LINE 145: Now it had been her custom to launch out into fervent admiration of
+LINE 146: what she called my '_beauté mâle_:' wherein she differed diametrically
+LINE 147: from you, who told me point-blank, at the second interview, that you
+LINE 148: did not think me handsome. The contrast struck me at the time and—"
+LINE 149: Adèle here came running up again.
+LINE 150: "Monsieur, John has just been to say that your agent has called and
+LINE 151: wishes to see you."
+LINE 152: "Ah! in that case I must abridge. Opening the window, I walked in upon
+LINE 153: them; liberated Céline from my protection; gave her notice to vacate
+LINE 154: her hotel; offered her a purse for immediate exigencies; disregarded
+LINE 155: screams, hysterics, prayers, protestations, convulsions; made an
+LINE 156: appointment with the vicomte for a meeting at the Bois de Boulogne.
+LINE 157: Next morning I had the pleasure of encountering him; left a bullet in
+LINE 158: one of his poor etiolated arms, feeble as the wing of a chicken in the
+LINE 159: pip, and then thought I had done with the whole crew. But unluckily the
+LINE 160: Varens, six months before, had given me this filette Adèle, who, she
+LINE 161: affirmed, was my daughter; and perhaps she may be, though I see no
+LINE 162: proofs of such grim paternity written in her countenance: Pilot is more
+LINE 163: like me than she. Some years after I had broken with the mother, she
+LINE 164: abandoned her child, and ran away to Italy with a musician or singer. I
+LINE 165: acknowledged no natural claim on Adèle's part to be supported by me,
+LINE 166: nor do I now acknowledge any, for I am not her father; but hearing that
+LINE 167: she was quite destitute, I e'en took the poor thing out of the slime
+LINE 168: and mud of Paris, and transplanted it here, to grow up clean in the
+LINE 169: wholesome soil of an English country garden. Mrs. Fairfax found you to
+LINE 170: train it; but now you know that it is the illegitimate offspring of a
+LINE 171: French opera-girl, you will perhaps think differently of your post and
+LINE 172: protégée: you will be coming to me some day with notice that you have
+LINE 173: found another place—that you beg me to look out for a new governess,
+LINE 174: &c.—Eh?"
+LINE 175: "No: Adèle is not answerable for either her mother's faults or yours: I
+LINE 176: have a regard for her; and now that I know she is, in a sense,
+LINE 177: parentless—forsaken by her mother and disowned by you, sir—I shall
+LINE 178: cling closer to her than before. How could I possibly prefer the spoilt
+LINE 179: pet of a wealthy family, who would hate her governess as a nuisance, to
+LINE 180: a lonely little orphan, who leans towards her as a friend?"
+LINE 181: "Oh, that is the light in which you view it! Well, I must go in now;
+LINE 182: and you too: it darkens."
+LINE 183: But I stayed out a few minutes longer with Adèle and Pilot—ran a race
+LINE 184: with her, and played a game of battledore and shuttlecock. When we went
+LINE 185: in, and I had removed her bonnet and coat, I took her on my knee; kept
+LINE 186: her there an hour, allowing her to prattle as she liked: not rebuking
+LINE 187: even some little freedoms and trivialities into which she was apt to
+LINE 188: stray when much noticed, and which betrayed in her a superficiality of
+LINE 189: character, inherited probably from her mother, hardly congenial to an
+LINE 190: English mind. Still she had her merits; and I was disposed to
+LINE 191: appreciate all that was good in her to the utmost. I sought in her
+LINE 192: countenance and features a likeness to Mr. Rochester, but found none:
+LINE 193: no trait, no turn of expression announced relationship. It was a pity:
+LINE 194: if she could but have been proved to resemble him, he would have
+LINE 195: thought more of her.
+LINE 196: It was not till after I had withdrawn to my own chamber for the night,
+LINE 197: that I steadily reviewed the tale Mr. Rochester had told me. As he had
+LINE 198: said, there was probably nothing at all extraordinary in the substance
+LINE 199: of the narrative itself: a wealthy Englishman's passion for a French
+LINE 200: dancer, and her treachery to him, were every-day matters enough, no
+LINE 201: doubt, in society; but there was something decidedly strange in the
+LINE 202: paroxysm of emotion which had suddenly seized him when he was in the
+LINE 203: act of expressing the present contentment of his mood, and his newly
+LINE 204: revived pleasure in the old hall and its environs. I meditated
+LINE 205: wonderingly on this incident; but gradually quitting it, as I found it
+LINE 206: for the present inexplicable, I turned to the consideration of my
+LINE 207: master's manner to myself. The confidence he had thought fit to repose
+LINE 208: in me seemed a tribute to my discretion: I regarded and accepted it as
+LINE 209: such. His deportment had now for some weeks been more uniform towards
+LINE 210: me than at the first. I never seemed in his way; he did not take fits
+LINE 211: of chilling hauteur: when he met me unexpectedly, the encounter seemed
+LINE 212: welcome; he had always a word and sometimes a smile for me: when
+LINE 213: summoned by formal invitation to his presence, I was honoured by a
+LINE 214: cordiality of reception that made me feel I really possessed the power
+LINE 215: to amuse him, and that these evening conferences were sought as much
+LINE 216: for his pleasure as for my benefit.
+LINE 217: I, indeed, talked comparatively little, but I heard him talk with
+LINE 218: relish. It was his nature to be communicative; he liked to open to a
+LINE 219: mind unacquainted with the world glimpses of its scenes and ways (I do
+LINE 220: not mean its corrupt scenes and wicked ways, but such as derived their
+LINE 221: interest from the great scale on which they were acted, the strange
+LINE 222: novelty by which they were characterised); and I had a keen delight in
+LINE 223: receiving the new ideas he offered, in imagining the new pictures he
+LINE 224: portrayed, and following him in thought through the new regions he
+LINE 225: disclosed, never startled or troubled by one noxious allusion.
+LINE 226: The ease of his manner freed me from painful restraint: the friendly
+LINE 227: frankness, as correct as cordial, with which he treated me, drew me to
+LINE 228: him. I felt at times as if he were my relation rather than my master:
+LINE 229: yet he was imperious sometimes still; but I did not mind that; I saw it
+LINE 230: was his way. So happy, so gratified did I become with this new interest
+LINE 231: added to life, that I ceased to pine after kindred: my thin
+LINE 232: crescent-destiny seemed to enlarge; the blanks of existence were filled
+LINE 233: up; my bodily health improved; I gathered flesh and strength.
+LINE 234: And was Mr. Rochester now ugly in my eyes? No, reader: gratitude, and
+LINE 235: many associations, all pleasurable and genial, made his face the object
+LINE 236: I best liked to see; his presence in a room was more cheering than the
+LINE 237: brightest fire. Yet I had not forgotten his faults; indeed, I could
+LINE 238: not, for he brought them frequently before me. He was proud, sardonic,
+LINE 239: harsh to inferiority of every description: in my secret soul I knew
+LINE 240: that his great kindness to me was balanced by unjust severity to many
+LINE 241: others. He was moody, too; unaccountably so; I more than once, when
+LINE 242: sent for to read to him, found him sitting in his library alone, with
+LINE 243: his head bent on his folded arms; and, when he looked up, a morose,
+LINE 244: almost a malignant, scowl blackened his features. But I believed that
+LINE 245: his moodiness, his harshness, and his former faults of morality (I say
+LINE 246: _former_, for now he seemed corrected of them) had their source in some
+LINE 247: cruel cross of fate. I believed he was naturally a man of better
+LINE 248: tendencies, higher principles, and purer tastes than such as
+LINE 249: circumstances had developed, education instilled, or destiny
+LINE 250: encouraged. I thought there were excellent materials in him; though for
+LINE 251: the present they hung together somewhat spoiled and tangled. I cannot
+LINE 252: deny that I grieved for his grief, whatever that was, and would have
+LINE 253: given much to assuage it.
+LINE 254: Though I had now extinguished my candle and was laid down in bed, I
+LINE 255: could not sleep for thinking of his look when he paused in the avenue,
+LINE 256: and told how his destiny had risen up before him, and dared him to be
+LINE 257: happy at Thornfield.
+LINE 258: "Why not?" I asked myself. "What alienates him from the house? Will he
+LINE 259: leave it again soon? Mrs. Fairfax said he seldom stayed here longer
+LINE 260: than a fortnight at a time; and he has now been resident eight weeks.
+LINE 261: If he does go, the change will be doleful. Suppose he should be absent
+LINE 262: spring, summer, and autumn: how joyless sunshine and fine days will
+LINE 263: seem!"
+LINE 264: I hardly know whether I had slept or not after this musing; at any
+LINE 265: rate, I started wide awake on hearing a vague murmur, peculiar and
+LINE 266: lugubrious, which sounded, I thought, just above me. I wished I had
+LINE 267: kept my candle burning: the night was drearily dark; my spirits were
+LINE 268: depressed. I rose and sat up in bed, listening. The sound was hushed.
+LINE 269: I tried again to sleep; but my heart beat anxiously: my inward
+LINE 270: tranquillity was broken. The clock, far down in the hall, struck two.
+LINE 271: Just then it seemed my chamber-door was touched; as if fingers had
+LINE 272: swept the panels in groping a way along the dark gallery outside. I
+LINE 273: said, "Who is there?" Nothing answered. I was chilled with fear.
+LINE 274: All at once I remembered that it might be Pilot, who, when the
+LINE 275: kitchen-door chanced to be left open, not unfrequently found his way up
+LINE 276: to the threshold of Mr. Rochester's chamber: I had seen him lying there
+LINE 277: myself in the mornings. The idea calmed me somewhat: I lay down.
+LINE 278: Silence composes the nerves; and as an unbroken hush now reigned again
+LINE 279: through the whole house, I began to feel the return of slumber. But it
+LINE 280: was not fated that I should sleep that night. A dream had scarcely
+LINE 281: approached my ear, when it fled affrighted, scared by a marrow-freezing
+LINE 282: incident enough.
+LINE 283: This was a demoniac laugh—low, suppressed, and deep—uttered, as it
+LINE 284: seemed, at the very keyhole of my chamber door. The head of my bed was
+LINE 285: near the door, and I thought at first the goblin-laugher stood at my
+LINE 286: bedside—or rather, crouched by my pillow: but I rose, looked round, and
+LINE 287: could see nothing; while, as I still gazed, the unnatural sound was
+LINE 288: reiterated: and I knew it came from behind the panels. My first impulse
+LINE 289: was to rise and fasten the bolt; my next, again to cry out, "Who is
+LINE 290: there?"
+LINE 291: Something gurgled and moaned. Ere long, steps retreated up the gallery
+LINE 292: towards the third-storey staircase: a door had lately been made to shut
+LINE 293: in that staircase; I heard it open and close, and all was still.
+LINE 294: "Was that Grace Poole? and is she possessed with a devil?" thought I.
+LINE 295: Impossible now to remain longer by myself: I must go to Mrs. Fairfax. I
+LINE 296: hurried on my frock and a shawl; I withdrew the bolt and opened the
+LINE 297: door with a trembling hand. There was a candle burning just outside,
+LINE 298: and on the matting in the gallery. I was surprised at this
+LINE 299: circumstance: but still more was I amazed to perceive the air quite
+LINE 300: dim, as if filled with smoke; and, while looking to the right hand and
+LINE 301: left, to find whence these blue wreaths issued, I became further aware
+LINE 302: of a strong smell of burning.
+LINE 303: Something creaked: it was a door ajar; and that door was Mr.
+LINE 304: Rochester's, and the smoke rushed in a cloud from thence. I thought no
+LINE 305: more of Mrs. Fairfax; I thought no more of Grace Poole, or the laugh:
+LINE 306: in an instant, I was within the chamber. Tongues of flame darted round
+LINE 307: the bed: the curtains were on fire. In the midst of blaze and vapour,
+LINE 308: Mr. Rochester lay stretched motionless, in deep sleep.
+LINE 309: "Wake! wake!" I cried. I shook him, but he only murmured and turned:
+LINE 310: the smoke had stupefied him. Not a moment could be lost: the very
+LINE 311: sheets were kindling, I rushed to his basin and ewer; fortunately, one
+LINE 312: was wide and the other deep, and both were filled with water. I heaved
+LINE 313: them up, deluged the bed and its occupant, flew back to my own room,
+LINE 314: brought my own water-jug, baptized the couch afresh, and, by God's aid,
+LINE 315: succeeded in extinguishing the flames which were devouring it.
+LINE 316: The hiss of the quenched element, the breakage of a pitcher which I
+LINE 317: flung from my hand when I had emptied it, and, above all, the splash of
+LINE 318: the shower-bath I had liberally bestowed, roused Mr. Rochester at last.
+LINE 319: Though it was now dark, I knew he was awake; because I heard him
+LINE 320: fulminating strange anathemas at finding himself lying in a pool of
+LINE 321: water.
+LINE 322: "Is there a flood?" he cried.
+LINE 323: "No, sir," I answered; "but there has been a fire: get up, do; you are
+LINE 324: quenched now; I will fetch you a candle."
+LINE 325: "In the name of all the elves in Christendom, is that Jane Eyre?" he
+LINE 326: demanded. "What have you done with me, witch, sorceress? Who is in the
+LINE 327: room besides you? Have you plotted to drown me?"
+LINE 328: "I will fetch you a candle, sir; and, in Heaven's name, get up.
+LINE 329: Somebody has plotted something: you cannot too soon find out who and
+LINE 330: what it is."
+LINE 331: "There! I am up now; but at your peril you fetch a candle yet: wait two
+LINE 332: minutes till I get into some dry garments, if any dry there be—yes,
+LINE 333: here is my dressing-gown. Now run!"
+LINE 334: I did run; I brought the candle which still remained in the gallery. He
+LINE 335: took it from my hand, held it up, and surveyed the bed, all blackened
+LINE 336: and scorched, the sheets drenched, the carpet round swimming in water.
+LINE 337: "What is it? and who did it?" he asked.
+LINE 338: I briefly related to him what had transpired: the strange laugh I had
+LINE 339: heard in the gallery: the step ascending to the third storey; the
+LINE 340: smoke,—the smell of fire which had conducted me to his room; in what
+LINE 341: state I had found matters there, and how I had deluged him with all the
+LINE 342: water I could lay hands on.
+LINE 343: "What is it and who did it?" he asked
+LINE 344: He listened very gravely; his face, as I went on, expressed more
+LINE 345: concern than astonishment; he did not immediately speak when I had
+LINE 346: concluded.
+LINE 347: "Shall I call Mrs. Fairfax?" I asked.
+LINE 348: "Mrs. Fairfax? No; what the deuce would you call her for? What can she
+LINE 349: do? Let her sleep unmolested."
+LINE 350: "Then I will fetch Leah, and wake John and his wife."
+LINE 351: "Not at all: just be still. You have a shawl on. If you are not warm
+LINE 352: enough, you may take my cloak yonder; wrap it about you, and sit down
+LINE 353: in the arm-chair: there,—I will put it on. Now place your feet on the
+LINE 354: stool, to keep them out of the wet. I am going to leave you a few
+LINE 355: minutes. I shall take the candle. Remain where you are till I return;
+LINE 356: be as still as a mouse. I must pay a visit to the second storey. Don't
+LINE 357: move, remember, or call any one."
+LINE 358: He went: I watched the light withdraw. He passed up the gallery very
+LINE 359: softly, unclosed the staircase door with as little noise as possible,
+LINE 360: shut it after him, and the last ray vanished. I was left in total
+LINE 361: darkness. I listened for some noise, but heard nothing. A very long
+LINE 362: time elapsed. I grew weary: it was cold, in spite of the cloak; and
+LINE 363: then I did not see the use of staying, as I was not to rouse the house.
+LINE 364: I was on the point of risking Mr. Rochester's displeasure by disobeying
+LINE 365: his orders, when the light once more gleamed dimly on the gallery wall,
+LINE 366: and I heard his unshod feet tread the matting. "I hope it is he,"
+LINE 367: thought I, "and not something worse."
+LINE 368: He re-entered, pale and very gloomy. "I have found it all out," said
+LINE 369: he, setting his candle down on the washstand; "it is as I thought."
+LINE 370: "How, sir?"
+LINE 371: He made no reply, but stood with his arms folded, looking on the
+LINE 372: ground. At the end of a few minutes he inquired in rather a peculiar
+LINE 373: tone—
+LINE 374: "I forget whether you said you saw anything when you opened your
+LINE 375: chamber door."
+LINE 376: "No, sir, only the candlestick on the ground."
+LINE 377: "But you heard an odd laugh? You have heard that laugh before, I should
+LINE 378: think, or something like it?"
+LINE 379: "Yes, sir: there is a woman who sews here, called Grace Poole,—she
+LINE 380: laughs in that way. She is a singular person."
+LINE 381: "Just so. Grace Poole—you have guessed it. She is, as you say,
+LINE 382: singular—very. Well, I shall reflect on the subject. Meantime, I am
+LINE 383: glad that you are the only person, besides myself, acquainted with the
+LINE 384: precise details of to-night's incident. You are no talking fool: say
+LINE 385: nothing about it. I will account for this state of affairs" (pointing
+LINE 386: to the bed): "and now return to your own room. I shall do very well on
+LINE 387: the sofa in the library for the rest of the night. It is near four:—in
+LINE 388: two hours the servants will be up."
+LINE 389: "Good-night, then, sir," said I, departing.
+LINE 390: He seemed surprised—very inconsistently so, as he had just told me to
+LINE 391: go.
+LINE 392: "What!" he exclaimed, "are you quitting me already, and in that way?"
+LINE 393: "You said I might go, sir."
+LINE 394: "But not without taking leave; not without a word or two of
+LINE 395: acknowledgment and good-will: not, in short, in that brief, dry
+LINE 396: fashion. Why, you have saved my life!—snatched me from a horrible and
+LINE 397: excruciating death! and you walk past me as if we were mutual
+LINE 398: strangers! At least shake hands."
+LINE 399: He held out his hand; I gave him mine: he took it first in one, then in
+LINE 400: both his own.
+LINE 401: "You have saved my life: I have a pleasure in owing you so immense a
+LINE 402: debt. I cannot say more. Nothing else that has being would have been
+LINE 403: tolerable to me in the character of creditor for such an obligation:
+LINE 404: but you: it is different;—I feel your benefits no burden, Jane."
+LINE 405: He paused; gazed at me: words almost visible trembled on his lips,—but
+LINE 406: his voice was checked.
+LINE 407: "Good-night again, sir. There is no debt, benefit, burden, obligation,
+LINE 408: in the case."
+LINE 409: "I knew," he continued, "you would do me good in some way, at some
+LINE 410: time;—I saw it in your eyes when I first beheld you: their expression
+LINE 411: and smile did not"—(again he stopped)—"did not" (he proceeded hastily)
+LINE 412: "strike delight to my very inmost heart so for nothing. People talk of
+LINE 413: natural sympathies; I have heard of good genii: there are grains of
+LINE 414: truth in the wildest fable. My cherished preserver, good-night!"
+LINE 415: Strange energy was in his voice, strange fire in his look.
+LINE 416: "I am glad I happened to be awake," I said: and then I was going.
+LINE 417: "What! you _will_ go?"
+LINE 418: "I am cold, sir."
+LINE 419: "Cold? Yes,—and standing in a pool! Go, then, Jane; go!" But he still
+LINE 420: retained my hand, and I could not free it. I bethought myself of an
+LINE 421: expedient.
+LINE 422: "I think I hear Mrs. Fairfax move, sir," said I.
+LINE 423: "Well, leave me:" he relaxed his fingers, and I was gone.
+LINE 424: I regained my couch, but never thought of sleep. Till morning dawned I
+LINE 425: was tossed on a buoyant but unquiet sea, where billows of trouble
+LINE 426: rolled under surges of joy. I thought sometimes I saw beyond its wild
+LINE 427: waters a shore, sweet as the hills of Beulah; and now and then a
+LINE 428: freshening gale, wakened by hope, bore my spirit triumphantly towards
+LINE 429: the bourne: but I could not reach it, even in fancy—a counteracting
+LINE 430: breeze blew off land, and continually drove me back. Sense would resist
+LINE 431: delirium: judgment would warn passion. Too feverish to rest, I rose as
+LINE 432: soon as day dawned.

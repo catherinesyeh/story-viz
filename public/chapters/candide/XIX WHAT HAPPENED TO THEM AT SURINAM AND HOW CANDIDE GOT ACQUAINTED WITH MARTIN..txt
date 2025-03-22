@@ -1,0 +1,149 @@
+LINE 1: Our travellers spent the first day very agreeably. They were delighted
+LINE 2: with possessing more treasure than all Asia, Europe, and Africa could
+LINE 3: scrape together. Candide, in his raptures, cut Cunegonde's name on the
+LINE 4: trees. The second day two of their sheep plunged into a morass, where
+LINE 5: they and their burdens were lost; two more died of fatigue a few days
+LINE 6: after; seven or eight perished with hunger in a desert; and others
+LINE 7: subsequently fell down precipices. At length, after travelling a hundred
+LINE 8: days, only two sheep remained. Said Candide to Cacambo:
+LINE 9: "My friend, you see how perishable are the riches of this world; there
+LINE 10: is nothing solid but virtue, and the happiness of seeing Cunegonde once
+LINE 11: more."
+LINE 12: "I grant all you say," said Cacambo, "but we have still two sheep
+LINE 13: remaining, with more treasure than the King of Spain will ever have; and
+LINE 14: I see a town which I take to be Surinam, belonging to the Dutch. We are
+LINE 15: at the end of all our troubles, and at the beginning of happiness."
+LINE 16: As they drew near the town, they saw a negro stretched upon the ground,
+LINE 17: with only one moiety of his clothes, that is, of his blue linen drawers;
+LINE 18: the poor man had lost his left leg and his right hand.
+LINE 19: "Good God!" said Candide in Dutch, "what art thou doing there, friend,
+LINE 20: in that shocking condition?"
+LINE 21: "I am waiting for my master, Mynheer Vanderdendur, the famous merchant,"
+LINE 22: answered the negro.
+LINE 23: "Was it Mynheer Vanderdendur," said Candide, "that treated thee thus?"
+LINE 24: "Yes, sir," said the negro, "it is the custom. They give us a pair of
+LINE 25: linen drawers for our whole garment twice a year. When we work at the
+LINE 26: sugar-canes, and the mill snatches hold of a finger, they cut off the
+LINE 27: hand; and when we attempt to run away, they cut off the leg; both cases
+LINE 28: have happened to me. This is the price at which you eat sugar in Europe.
+LINE 29: Yet when my mother sold me for ten patagons[20] on the coast of Guinea,
+LINE 30: she said to me: 'My dear child, bless our fetiches, adore them for ever;
+LINE 31: they will make thee live happily; thou hast the honour of being the
+LINE 32: slave of our lords, the whites, which is making the fortune of thy
+LINE 33: father and mother.' Alas! I know not whether I have made their fortunes;
+LINE 34: this I know, that they have not made mine. Dogs, monkeys, and parrots
+LINE 35: are a thousand times less wretched than I. The Dutch fetiches, who have
+LINE 36: converted me, declare every Sunday that we are all of us children of
+LINE 37: Adam--blacks as well as whites. I am not a genealogist, but if these
+LINE 38: preachers tell truth, we are all second cousins. Now, you must agree,
+LINE 39: that it is impossible to treat one's relations in a more barbarous
+LINE 40: manner."
+LINE 41: "Oh, Pangloss!" cried Candide, "thou hadst not guessed at this
+LINE 42: abomination; it is the end. I must at last renounce thy optimism."
+LINE 43: "What is this optimism?" said Cacambo.
+LINE 44: "Alas!" said Candide, "it is the madness of maintaining that everything
+LINE 45: is right when it is wrong."
+LINE 46: Looking at the negro, he shed tears, and weeping, he entered Surinam.
+LINE 47: The first thing they inquired after was whether there was a vessel in
+LINE 48: the harbour which could be sent to Buenos Ayres. The person to whom they
+LINE 49: applied was a Spanish sea-captain, who offered to agree with them upon
+LINE 50: reasonable terms. He appointed to meet them at a public-house, whither
+LINE 51: Candide and the faithful Cacambo went with their two sheep, and awaited
+LINE 52: his coming.
+LINE 53: Candide, who had his heart upon his lips, told the Spaniard all his
+LINE 54: adventures, and avowed that he intended to elope with Miss Cunegonde.
+LINE 55: "Then I will take good care not to carry you to Buenos Ayres," said the
+LINE 56: seaman. "I should be hanged, and so would you. The fair Cunegonde is my
+LINE 57: lord's favourite mistress."
+LINE 58: This was a thunderclap for Candide: he wept for a long while. At last he
+LINE 59: drew Cacambo aside.
+LINE 60: "Here, my dear friend," said he to him, "this thou must do. We have,
+LINE 61: each of us in his pocket, five or six millions in diamonds; you are more
+LINE 62: clever than I; you must go and bring Miss Cunegonde from Buenos Ayres.
+LINE 63: If the Governor makes any difficulty, give him a million; if he will not
+LINE 64: relinquish her, give him two; as you have not killed an Inquisitor, they
+LINE 65: will have no suspicion of you; I'll get another ship, and go and wait
+LINE 66: for you at Venice; that's a free country, where there is no danger
+LINE 67: either from Bulgarians, Abares, Jews, or Inquisitors."
+LINE 68: Cacambo applauded this wise resolution. He despaired at parting from so
+LINE 69: good a master, who had become his intimate friend; but the pleasure of
+LINE 70: serving him prevailed over the pain of leaving him. They embraced with
+LINE 71: tears; Candide charged him not to forget the good old woman. Cacambo
+LINE 72: set out that very same day. This Cacambo was a very honest fellow.
+LINE 73: Candide stayed some time longer in Surinam, waiting for another captain
+LINE 74: to carry him and the two remaining sheep to Italy. After he had hired
+LINE 75: domestics, and purchased everything necessary for a long voyage, Mynheer
+LINE 76: Vanderdendur, captain of a large vessel, came and offered his services.
+LINE 77: "How much will you charge," said he to this man, "to carry me straight
+LINE 78: to Venice--me, my servants, my baggage, and these two sheep?"
+LINE 79: The skipper asked ten thousand piastres. Candide did not hesitate.
+LINE 80: "Oh! oh!" said the prudent Vanderdendur to himself, "this stranger gives
+LINE 81: ten thousand piastres unhesitatingly! He must be very rich."
+LINE 82: Returning a little while after, he let him know that upon second
+LINE 83: consideration, he could not undertake the voyage for less than twenty
+LINE 84: thousand piastres.
+LINE 85: "Well, you shall have them," said Candide.
+LINE 86: "Ay!" said the skipper to himself, "this man agrees to pay twenty
+LINE 87: thousand piastres with as much ease as ten."
+LINE 88: He went back to him again, and declared that he could not carry him to
+LINE 89: Venice for less than thirty thousand piastres.
+LINE 90: "Then you shall have thirty thousand," replied Candide.
+LINE 91: "Oh! oh!" said the Dutch skipper once more to himself, "thirty thousand
+LINE 92: piastres are a trifle to this man; surely these sheep must be laden with
+LINE 93: an immense treasure; let us say no more about it. First of all, let him
+LINE 94: pay down the thirty thousand piastres; then we shall see."
+LINE 95: Candide sold two small diamonds, the least of which was worth more than
+LINE 96: what the skipper asked for his freight. He paid him in advance. The two
+LINE 97: sheep were put on board. Candide followed in a little boat to join the
+LINE 98: vessel in the roads. The skipper seized his opportunity, set sail, and
+LINE 99: put out to sea, the wind favouring him. Candide, dismayed and stupefied,
+LINE 100: soon lost sight of the vessel.
+LINE 101: "Alas!" said he, "this is a trick worthy of the old world!"
+LINE 102: He put back, overwhelmed with sorrow, for indeed he had lost sufficient
+LINE 103: to make the fortune of twenty monarchs. He waited upon the Dutch
+LINE 104: magistrate, and in his distress he knocked over loudly at the door. He
+LINE 105: entered and told his adventure, raising his voice with unnecessary
+LINE 106: vehemence. The magistrate began by fining him ten thousand piastres for
+LINE 107: making a noise; then he listened patiently, promised to examine into his
+LINE 108: affair at the skipper's return, and ordered him to pay ten thousand
+LINE 109: piastres for the expense of the hearing.
+LINE 110: This drove Candide to despair; he had, indeed, endured misfortunes a
+LINE 111: thousand times worse; the coolness of the magistrate and of the skipper
+LINE 112: who had robbed him, roused his choler and flung him into a deep
+LINE 113: melancholy. The villainy of mankind presented itself before his
+LINE 114: imagination in all its deformity, and his mind was filled with gloomy
+LINE 115: ideas. At length hearing that a French vessel was ready to set sail for
+LINE 116: Bordeaux, as he had no sheep laden with diamonds to take along with him
+LINE 117: he hired a cabin at the usual price. He made it known in the town that
+LINE 118: he would pay the passage and board and give two thousand piastres to any
+LINE 119: honest man who would make the voyage with him, upon condition that this
+LINE 120: man was the most dissatisfied with his state, and the most unfortunate
+LINE 121: in the whole province.
+LINE 122: Such a crowd of candidates presented themselves that a fleet of ships
+LINE 123: could hardly have held them. Candide being desirous of selecting from
+LINE 124: among the best, marked out about one-twentieth of them who seemed to be
+LINE 125: sociable men, and who all pretended to merit his preference. He
+LINE 126: assembled them at his inn, and gave them a supper on condition that each
+LINE 127: took an oath to relate his history faithfully, promising to choose him
+LINE 128: who appeared to be most justly discontented with his state, and to
+LINE 129: bestow some presents upon the rest.
+LINE 130: They sat until four o'clock in the morning. Candide, in listening to all
+LINE 131: their adventures, was reminded of what the old woman had said to him in
+LINE 132: their voyage to Buenos Ayres, and of her wager that there was not a
+LINE 133: person on board the ship but had met with very great misfortunes. He
+LINE 134: dreamed of Pangloss at every adventure told to him.
+LINE 135: "This Pangloss," said he, "would be puzzled to demonstrate his system. I
+LINE 136: wish that he were here. Certainly, if all things are good, it is in El
+LINE 137: Dorado and not in the rest of the world."
+LINE 138: At length he made choice of a poor man of letters, who had worked ten
+LINE 139: years for the booksellers of Amsterdam. He judged that there was not in
+LINE 140: the whole world a trade which could disgust one more.
+LINE 141: This philosopher was an honest man; but he had been robbed by his wife,
+LINE 142: beaten by his son, and abandoned by his daughter who got a Portuguese to
+LINE 143: run away with her. He had just been deprived of a small employment, on
+LINE 144: which he subsisted; and he was persecuted by the preachers of Surinam,
+LINE 145: who took him for a Socinian. We must allow that the others were at least
+LINE 146: as wretched as he; but Candide hoped that the philosopher would
+LINE 147: entertain him during the voyage. All the other candidates complained
+LINE 148: that Candide had done them great injustice; but he appeased them by
+LINE 149: giving one hundred piastres to each.

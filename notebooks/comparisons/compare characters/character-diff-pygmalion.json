@@ -1,0 +1,33 @@
+{
+    "only_in_sparknotes": {
+        "characters": [
+            "Professor Henry Higgins","Henry Higgins"
+        ],
+        "count": 0
+    },
+    "only_in_ribbons": {
+        "characters": [
+            "Clara Eynsford Hill",
+            "Henry Higgins",
+            "Mrs. Eynsford Hill",
+            "Mrs. Pearce",
+            "The Bystander",
+            "The Daughter",
+            "The Gentleman",
+            "The Mother",
+            "The Note Taker",
+            "The Parlor-maid"
+        ],
+        "count": 9
+    },
+    "both": {
+        "characters": [
+            "Alfred Doolittle",
+            "Colonel Pickering",
+            "Eliza Doolittle",
+            "Freddy Eynsford Hill",
+            "Mrs. Higgins"
+        ],
+        "count": 6
+    }
+}

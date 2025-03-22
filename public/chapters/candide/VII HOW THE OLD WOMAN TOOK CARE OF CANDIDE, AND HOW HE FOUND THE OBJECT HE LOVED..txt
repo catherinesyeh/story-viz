@@ -1,0 +1,63 @@
+LINE 1: Candide did not take courage, but followed the old woman to a decayed
+LINE 2: house, where she gave him a pot of pomatum to anoint his sores, showed
+LINE 3: him a very neat little bed, with a suit of clothes hanging up, and left
+LINE 4: him something to eat and drink.
+LINE 5: "Eat, drink, sleep," said she, "and may our lady of Atocha,[9] the great
+LINE 6: St. Anthony of Padua, and the great St. James of Compostella, receive
+LINE 7: you under their protection. I shall be back to-morrow."
+LINE 8: Candide, amazed at all he had suffered and still more with the charity
+LINE 9: of the old woman, wished to kiss her hand.
+LINE 10: "It is not my hand you must kiss," said the old woman; "I shall be back
+LINE 11: to-morrow. Anoint yourself with the pomatum, eat and sleep."
+LINE 12: Candide, notwithstanding so many disasters, ate and slept. The next
+LINE 13: morning the old woman brought him his breakfast, looked at his back, and
+LINE 14: rubbed it herself with another ointment: in like manner she brought him
+LINE 15: his dinner; and at night she returned with his supper. The day following
+LINE 16: she went through the very same ceremonies.
+LINE 17: "Who are you?" said Candide; "who has inspired you with so much
+LINE 18: goodness? What return can I make you?"
+LINE 19: The good woman made no answer; she returned in the evening, but brought
+LINE 20: no supper.
+LINE 21: "Come with me," she said, "and say nothing."
+LINE 22: She took him by the arm, and walked with him about a quarter of a mile
+LINE 23: into the country; they arrived at a lonely house, surrounded with
+LINE 24: gardens and canals. The old woman knocked at a little door, it opened,
+LINE 25: she led Candide up a private staircase into a small apartment richly
+LINE 26: furnished. She left him on a brocaded sofa, shut the door and went away.
+LINE 27: Candide thought himself in a dream; indeed, that he had been dreaming
+LINE 28: unluckily all his life, and that the present moment was the only
+LINE 29: agreeable part of it all.
+LINE 30: The old woman returned very soon, supporting with difficulty a trembling
+LINE 31: woman of a majestic figure, brilliant with jewels, and covered with a
+LINE 32: veil.
+LINE 33: "Take off that veil," said the old woman to Candide.
+LINE 34: The young man approaches, he raises the veil with a timid hand. Oh!
+LINE 35: what a moment! what surprise! he believes he beholds Miss Cunegonde? he
+LINE 36: really sees her! it is herself! His strength fails him, he cannot utter
+LINE 37: a word, but drops at her feet. Cunegonde falls upon the sofa. The old
+LINE 38: woman supplies a smelling bottle; they come to themselves and recover
+LINE 39: their speech. As they began with broken accents, with questions and
+LINE 40: answers interchangeably interrupted with sighs, with tears, and cries.
+LINE 41: The old woman desired they would make less noise and then she left them
+LINE 42: to themselves.
+LINE 43: "What, is it you?" said Candide, "you live? I find you again in
+LINE 44: Portugal? then you have not been ravished? then they did not rip open
+LINE 45: your belly as Doctor Pangloss informed me?"
+LINE 46: "Yes, they did," said the beautiful Cunegonde; "but those two accidents
+LINE 47: are not always mortal."
+LINE 48: "But were your father and mother killed?"
+LINE 49: "It is but too true," answered Cunegonde, in tears.
+LINE 50: "And your brother?"
+LINE 51: "My brother also was killed."
+LINE 52: "And why are you in Portugal? and how did you know of my being here? and
+LINE 53: by what strange adventure did you contrive to bring me to this house?"
+LINE 54: "I will tell you all that," replied the lady, "but first of all let me
+LINE 55: know your history, since the innocent kiss you gave me and the kicks
+LINE 56: which you received."
+LINE 57: Candide respectfully obeyed her, and though he was still in a surprise,
+LINE 58: though his voice was feeble and trembling, though his back still pained
+LINE 59: him, yet he gave her a most ingenuous account of everything that had
+LINE 60: befallen him since the moment of their separation. Cunegonde lifted up
+LINE 61: her eyes to heaven; shed tears upon hearing of the death of the good
+LINE 62: Anabaptist and of Pangloss; after which she spoke as follows to Candide,
+LINE 63: who did not lose a word and devoured her with his eyes.

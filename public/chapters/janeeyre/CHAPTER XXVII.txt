@@ -1,0 +1,937 @@
+LINE 1: Some time in the afternoon I raised my head, and looking round and
+LINE 2: seeing the western sun gilding the sign of its decline on the wall, I
+LINE 3: asked, "What am I to do?"
+LINE 4: But the answer my mind gave—"Leave Thornfield at once"—was so prompt,
+LINE 5: so dread, that I stopped my ears. I said I could not bear such words
+LINE 6: now. "That I am not Edward Rochester's bride is the least part of my
+LINE 7: woe," I alleged: "that I have wakened out of most glorious dreams, and
+LINE 8: found them all void and vain, is a horror I could bear and master; but
+LINE 9: that I must leave him decidedly, instantly, entirely, is intolerable. I
+LINE 10: cannot do it."
+LINE 11: But, then, a voice within me averred that I could do it and foretold
+LINE 12: that I should do it. I wrestled with my own resolution: I wanted to be
+LINE 13: weak that I might avoid the awful passage of further suffering I saw
+LINE 14: laid out for me; and Conscience, turned tyrant, held Passion by the
+LINE 15: throat, told her tauntingly, she had yet but dipped her dainty foot in
+LINE 16: the slough, and swore that with that arm of iron he would thrust her
+LINE 17: down to unsounded depths of agony.
+LINE 18: "Let me be torn away, then" I cried. "Let another help me!"
+LINE 19: "No; you shall tear yourself away, none shall help you: you shall
+LINE 20: yourself pluck out your right eye; yourself cut off your right hand:
+LINE 21: your heart shall be the victim, and you the priest to transfix it."
+LINE 22: I rose up suddenly, terror-struck at the solitude which so ruthless a
+LINE 23: judge haunted,—at the silence which so awful a voice filled. My head
+LINE 24: swam as I stood erect. I perceived that I was sickening from excitement
+LINE 25: and inanition; neither meat nor drink had passed my lips that day, for
+LINE 26: I had taken no breakfast. And, with a strange pang, I now reflected
+LINE 27: that, long as I had been shut up here, no message had been sent to ask
+LINE 28: how I was, or to invite me to come down: not even little Adèle had
+LINE 29: tapped at the door; not even Mrs. Fairfax had sought me. "Friends
+LINE 30: always forget those whom fortune forsakes," I murmured, as I undrew the
+LINE 31: bolt and passed out. I stumbled over an obstacle: my head was still
+LINE 32: dizzy, my sight was dim, and my limbs were feeble. I could not soon
+LINE 33: recover myself. I fell, but not on to the ground: an outstretched arm
+LINE 34: caught me. I looked up—I was supported by Mr. Rochester, who sat in a
+LINE 35: chair across my chamber threshold.
+LINE 36: "You come out at last," he said. "Well, I have been waiting for you
+LINE 37: long, and listening: yet not one movement have I heard, nor one sob:
+LINE 38: five minutes more of that death-like hush, and I should have forced the
+LINE 39: lock like a burglar. So you shun me?—you shut yourself up and grieve
+LINE 40: alone! I would rather you had come and upbraided me with vehemence. You
+LINE 41: are passionate: I expected a scene of some kind. I was prepared for the
+LINE 42: hot rain of tears; only I wanted them to be shed on my breast: now a
+LINE 43: senseless floor has received them, or your drenched handkerchief. But I
+LINE 44: err: you have not wept at all! I see a white cheek and a faded eye, but
+LINE 45: no trace of tears. I suppose, then, your heart has been weeping blood?
+LINE 46: "Well, Jane! not a word of reproach? Nothing bitter—nothing poignant?
+LINE 47: Nothing to cut a feeling or sting a passion? You sit quietly where I
+LINE 48: have placed you, and regard me with a weary, passive look.
+LINE 49: "Jane, I never meant to wound you thus. If the man who had but one
+LINE 50: little ewe lamb that was dear to him as a daughter, that ate of his
+LINE 51: bread and drank of his cup, and lay in his bosom, had by some mistake
+LINE 52: slaughtered it at the shambles, he would not have rued his bloody
+LINE 53: blunder more than I now rue mine. Will you ever forgive me?"
+LINE 54: Reader, I forgave him at the moment and on the spot. There was such
+LINE 55: deep remorse in his eye, such true pity in his tone, such manly energy
+LINE 56: in his manner; and besides, there was such unchanged love in his whole
+LINE 57: look and mien—I forgave him all: yet not in words, not outwardly; only
+LINE 58: at my heart's core.
+LINE 59: "You know I am a scoundrel, Jane?" ere long he inquired
+LINE 60: wistfully—wondering, I suppose, at my continued silence and tameness,
+LINE 61: the result rather of weakness than of will.
+LINE 62: "Yes, sir."
+LINE 63: "Then tell me so roundly and sharply—don't spare me."
+LINE 64: "I cannot: I am tired and sick. I want some water." He heaved a sort of
+LINE 65: shuddering sigh, and taking me in his arms, carried me downstairs. At
+LINE 66: first I did not know to what room he had borne me; all was cloudy to my
+LINE 67: glazed sight: presently I felt the reviving warmth of a fire; for,
+LINE 68: summer as it was, I had become icy cold in my chamber. He put wine to
+LINE 69: my lips; I tasted it and revived; then I ate something he offered me,
+LINE 70: and was soon myself. I was in the library—sitting in his chair—he was
+LINE 71: quite near. "If I could go out of life now, without too sharp a pang,
+LINE 72: it would be well for me," I thought; "then I should not have to make
+LINE 73: the effort of cracking my heart-strings in rending them from among Mr.
+LINE 74: Rochester's. I must leave him, it appears. I do not want to leave him—I
+LINE 75: cannot leave him."
+LINE 76: "How are you now, Jane?"
+LINE 77: "Much better, sir; I shall be well soon."
+LINE 78: "Taste the wine again, Jane."
+LINE 79: I obeyed him; then he put the glass on the table, stood before me, and
+LINE 80: looked at me attentively. Suddenly he turned away, with an inarticulate
+LINE 81: exclamation, full of passionate emotion of some kind; he walked fast
+LINE 82: through the room and came back; he stooped towards me as if to kiss me;
+LINE 83: but I remembered caresses were now forbidden. I turned my face away and
+LINE 84: put his aside.
+LINE 85: "What!—How is this?" he exclaimed hastily. "Oh, I know! you won't kiss
+LINE 86: the husband of Bertha Mason? You consider my arms filled and my
+LINE 87: embraces appropriated?"
+LINE 88: "At any rate, there is neither room nor claim for me, sir."
+LINE 89: "Why, Jane? I will spare you the trouble of much talking; I will answer
+LINE 90: for you—Because I have a wife already, you would reply.—I guess
+LINE 91: rightly?"
+LINE 92: "Yes."
+LINE 93: "If you think so, you must have a strange opinion of me; you must
+LINE 94: regard me as a plotting profligate—a base and low rake who has been
+LINE 95: simulating disinterested love in order to draw you into a snare
+LINE 96: deliberately laid, and strip you of honour and rob you of self-respect.
+LINE 97: What do you say to that? I see you can say nothing: in the first place,
+LINE 98: you are faint still, and have enough to do to draw your breath; in the
+LINE 99: second place, you cannot yet accustom yourself to accuse and revile me,
+LINE 100: and besides, the flood-gates of tears are opened, and they would rush
+LINE 101: out if you spoke much; and you have no desire to expostulate, to
+LINE 102: upbraid, to make a scene: you are thinking how _to act_—_talking_ you
+LINE 103: consider is of no use. I know you—I am on my guard."
+LINE 104: "Sir, I do not wish to act against you," I said; and my unsteady voice
+LINE 105: warned me to curtail my sentence.
+LINE 106: "Not in _your_ sense of the word, but in _mine_ you are scheming to
+LINE 107: destroy me. You have as good as said that I am a married man—as a
+LINE 108: married man you will shun me, keep out of my way: just now you have
+LINE 109: refused to kiss me. You intend to make yourself a complete stranger to
+LINE 110: me: to live under this roof only as Adèle's governess; if ever I say a
+LINE 111: friendly word to you, if ever a friendly feeling inclines you again to
+LINE 112: me, you will say,—'That man had nearly made me his mistress: I must be
+LINE 113: ice and rock to him;' and ice and rock you will accordingly become."
+LINE 114: I cleared and steadied my voice to reply: "All is changed about me,
+LINE 115: sir; I must change too—there is no doubt of that; and to avoid
+LINE 116: fluctuations of feeling, and continual combats with recollections and
+LINE 117: associations, there is only one way—Adèle must have a new governess,
+LINE 118: sir."
+LINE 119: "Oh, Adèle will go to school—I have settled that already; nor do I mean
+LINE 120: to torment you with the hideous associations and recollections of
+LINE 121: Thornfield Hall—this accursed place—this tent of Achan—this insolent
+LINE 122: vault, offering the ghastliness of living death to the light of the
+LINE 123: open sky—this narrow stone hell, with its one real fiend, worse than a
+LINE 124: legion of such as we imagine. Jane, you shall not stay here, nor will
+LINE 125: I. I was wrong ever to bring you to Thornfield Hall, knowing as I did
+LINE 126: how it was haunted. I charged them to conceal from you, before I ever
+LINE 127: saw you, all knowledge of the curse of the place; merely because I
+LINE 128: feared Adèle never would have a governess to stay if she knew with what
+LINE 129: inmate she was housed, and my plans would not permit me to remove the
+LINE 130: maniac elsewhere—though I possess an old house, Ferndean Manor, even
+LINE 131: more retired and hidden than this, where I could have lodged her safely
+LINE 132: enough, had not a scruple about the unhealthiness of the situation, in
+LINE 133: the heart of a wood, made my conscience recoil from the arrangement.
+LINE 134: Probably those damp walls would soon have eased me of her charge: but
+LINE 135: to each villain his own vice; and mine is not a tendency to indirect
+LINE 136: assassination, even of what I most hate.
+LINE 137: "Concealing the mad-woman's neighbourhood from you, however, was
+LINE 138: something like covering a child with a cloak and laying it down near a
+LINE 139: upas-tree: that demon's vicinage is poisoned, and always was. But I'll
+LINE 140: shut up Thornfield Hall: I'll nail up the front door and board the
+LINE 141: lower windows: I'll give Mrs. Poole two hundred a year to live here
+LINE 142: with _my wife_, as you term that fearful hag: Grace will do much for
+LINE 143: money, and she shall have her son, the keeper at Grimsby Retreat, to
+LINE 144: bear her company and be at hand to give her aid in the paroxysms, when
+LINE 145: _my wife_ is prompted by her familiar to burn people in their beds at
+LINE 146: night, to stab them, to bite their flesh from their bones, and so on—"
+LINE 147: "Sir," I interrupted him, "you are inexorable for that unfortunate
+LINE 148: lady: you speak of her with hate—with vindictive antipathy. It is
+LINE 149: cruel—she cannot help being mad."
+LINE 150: "Jane, my little darling (so I will call you, for so you are), you
+LINE 151: don't know what you are talking about; you misjudge me again: it is not
+LINE 152: because she is mad I hate her. If you were mad, do you think I should
+LINE 153: hate you?"
+LINE 154: "I do indeed, sir."
+LINE 155: "Then you are mistaken, and you know nothing about me, and nothing
+LINE 156: about the sort of love of which I am capable. Every atom of your flesh
+LINE 157: is as dear to me as my own: in pain and sickness it would still be
+LINE 158: dear. Your mind is my treasure, and if it were broken, it would be my
+LINE 159: treasure still: if you raved, my arms should confine you, and not a
+LINE 160: strait waistcoat—your grasp, even in fury, would have a charm for me:
+LINE 161: if you flew at me as wildly as that woman did this morning, I should
+LINE 162: receive you in an embrace, at least as fond as it would be restrictive.
+LINE 163: I should not shrink from you with disgust as I did from her: in your
+LINE 164: quiet moments you should have no watcher and no nurse but me; and I
+LINE 165: could hang over you with untiring tenderness, though you gave me no
+LINE 166: smile in return; and never weary of gazing into your eyes, though they
+LINE 167: had no longer a ray of recognition for me.—But why do I follow that
+LINE 168: train of ideas? I was talking of removing you from Thornfield. All, you
+LINE 169: know, is prepared for prompt departure: to-morrow you shall go. I only
+LINE 170: ask you to endure one more night under this roof, Jane; and then,
+LINE 171: farewell to its miseries and terrors for ever! I have a place to repair
+LINE 172: to, which will be a secure sanctuary from hateful reminiscences, from
+LINE 173: unwelcome intrusion—even from falsehood and slander."
+LINE 174: "And take Adèle with you, sir," I interrupted; "she will be a companion
+LINE 175: for you."
+LINE 176: "What do you mean, Jane? I told you I would send Adèle to school; and
+LINE 177: what do I want with a child for a companion, and not my own child,—a
+LINE 178: French dancer's bastard? Why do you importune me about her! I say, why
+LINE 179: do you assign Adèle to me for a companion?"
+LINE 180: "You spoke of a retirement, sir; and retirement and solitude are dull:
+LINE 181: too dull for you."
+LINE 182: "Solitude! solitude!" he reiterated with irritation. "I see I must come
+LINE 183: to an explanation. I don't know what sphynx-like expression is forming
+LINE 184: in your countenance. _You_ are to share my solitude. Do you
+LINE 185: understand?"
+LINE 186: I shook my head: it required a degree of courage, excited as he was
+LINE 187: becoming, even to risk that mute sign of dissent. He had been walking
+LINE 188: fast about the room, and he stopped, as if suddenly rooted to one spot.
+LINE 189: He looked at me long and hard: I turned my eyes from him, fixed them on
+LINE 190: the fire, and tried to assume and maintain a quiet, collected aspect.
+LINE 191: "Now for the hitch in Jane's character," he said at last, speaking more
+LINE 192: calmly than from his look I had expected him to speak. "The reel of
+LINE 193: silk has run smoothly enough so far; but I always knew there would come
+LINE 194: a knot and a puzzle: here it is. Now for vexation, and exasperation,
+LINE 195: and endless trouble! By God! I long to exert a fraction of Samson's
+LINE 196: strength, and break the entanglement like tow!"
+LINE 197: He recommenced his walk, but soon again stopped, and this time just
+LINE 198: before me.
+LINE 199: "Jane! will you hear reason?" (he stooped and approached his lips to my
+LINE 200: ear); "because, if you won't, I'll try violence." His voice was hoarse;
+LINE 201: his look that of a man who is just about to burst an insufferable bond
+LINE 202: and plunge headlong into wild license. I saw that in another moment,
+LINE 203: and with one impetus of frenzy more, I should be able to do nothing
+LINE 204: with him. The present—the passing second of time—was all I had in which
+LINE 205: to control and restrain him: a movement of repulsion, flight, fear
+LINE 206: would have sealed my doom,—and his. But I was not afraid: not in the
+LINE 207: least. I felt an inward power; a sense of influence, which supported
+LINE 208: me. The crisis was perilous; but not without its charm: such as the
+LINE 209: Indian, perhaps, feels when he slips over the rapid in his canoe. I
+LINE 210: took hold of his clenched hand, loosened the contorted fingers, and
+LINE 211: said to him, soothingly—
+LINE 212: "Sit down; I'll talk to you as long as you like, and hear all you have
+LINE 213: to say, whether reasonable or unreasonable."
+LINE 214: He sat down: but he did not get leave to speak directly. I had been
+LINE 215: struggling with tears for some time: I had taken great pains to repress
+LINE 216: them, because I knew he would not like to see me weep. Now, however, I
+LINE 217: considered it well to let them flow as freely and as long as they
+LINE 218: liked. If the flood annoyed him, so much the better. So I gave way and
+LINE 219: cried heartily.
+LINE 220: Soon I heard him earnestly entreating me to be composed. I said I could
+LINE 221: not while he was in such a passion.
+LINE 222: "But I am not angry, Jane: I only love you too well; and you had
+LINE 223: steeled your little pale face with such a resolute, frozen look, I
+LINE 224: could not endure it. Hush, now, and wipe your eyes."
+LINE 225: His softened voice announced that he was subdued; so I, in my turn,
+LINE 226: became calm. Now he made an effort to rest his head on my shoulder, but
+LINE 227: I would not permit it. Then he would draw me to him: no.
+LINE 228: "Jane! Jane!" he said, in such an accent of bitter sadness it thrilled
+LINE 229: along every nerve I had; "you don't love me, then? It was only my
+LINE 230: station, and the rank of my wife, that you valued? Now that you think
+LINE 231: me disqualified to become your husband, you recoil from my touch as if
+LINE 232: I were some toad or ape."
+LINE 233: These words cut me: yet what could I do or I say? I ought probably to
+LINE 234: have done or said nothing; but I was so tortured by a sense of remorse
+LINE 235: at thus hurting his feelings, I could not control the wish to drop balm
+LINE 236: where I had wounded.
+LINE 237: "I _do_ love you," I said, "more than ever: but I must not show or
+LINE 238: indulge the feeling: and this is the last time I must express it."
+LINE 239: "The last time, Jane! What! do you think you can live with me, and see
+LINE 240: me daily, and yet, if you still love me, be always cold and distant?"
+LINE 241: "No, sir; that I am certain I could not; and therefore I see there is
+LINE 242: but one way: but you will be furious if I mention it."
+LINE 243: "Oh, mention it! If I storm, you have the art of weeping."
+LINE 244: "Mr. Rochester, I must leave you."
+LINE 245: "For how long, Jane? For a few minutes, while you smooth your
+LINE 246: hair—which is somewhat dishevelled; and bathe your face—which looks
+LINE 247: feverish?"
+LINE 248: "I must leave Adèle and Thornfield. I must part with you for my whole
+LINE 249: life: I must begin a new existence among strange faces and strange
+LINE 250: scenes."
+LINE 251: "Of course: I told you you should. I pass over the madness about
+LINE 252: parting from me. You mean you must become a part of me. As to the new
+LINE 253: existence, it is all right: you shall yet be my wife: I am not married.
+LINE 254: You shall be Mrs. Rochester—both virtually and nominally. I shall keep
+LINE 255: only to you so long as you and I live. You shall go to a place I have
+LINE 256: in the south of France: a whitewashed villa on the shores of the
+LINE 257: Mediterranean. There you shall live a happy, and guarded, and most
+LINE 258: innocent life. Never fear that I wish to lure you into error—to make
+LINE 259: you my mistress. Why did you shake your head? Jane, you must be
+LINE 260: reasonable, or in truth I shall again become frantic."
+LINE 261: His voice and hand quivered: his large nostrils dilated; his eye
+LINE 262: blazed: still I dared to speak.
+LINE 263: "Sir, your wife is living: that is a fact acknowledged this morning by
+LINE 264: yourself. If I lived with you as you desire, I should then be your
+LINE 265: mistress: to say otherwise is sophistical—is false."
+LINE 266: "Jane, I am not a gentle-tempered man—you forget that: I am not
+LINE 267: long-enduring; I am not cool and dispassionate. Out of pity to me and
+LINE 268: yourself, put your finger on my pulse, feel how it throbs, and—beware!"
+LINE 269: He bared his wrist, and offered it to me: the blood was forsaking his
+LINE 270: cheek and lips, they were growing livid; I was distressed on all hands.
+LINE 271: To agitate him thus deeply, by a resistance he so abhorred, was cruel:
+LINE 272: to yield was out of the question. I did what human beings do
+LINE 273: instinctively when they are driven to utter extremity—looked for aid to
+LINE 274: one higher than man: the words "God help me!" burst involuntarily from
+LINE 275: my lips.
+LINE 276: "I am a fool!" cried Mr. Rochester suddenly. "I keep telling her I am
+LINE 277: not married, and do not explain to her why. I forget she knows nothing
+LINE 278: of the character of that woman, or of the circumstances attending my
+LINE 279: infernal union with her. Oh, I am certain Jane will agree with me in
+LINE 280: opinion, when she knows all that I know! Just put your hand in mine,
+LINE 281: Janet—that I may have the evidence of touch as well as sight, to prove
+LINE 282: you are near me—and I will in a few words show you the real state of
+LINE 283: the case. Can you listen to me?"
+LINE 284: "Yes, sir; for hours if you will."
+LINE 285: "I ask only minutes. Jane, did you ever hear or know that I was not the
+LINE 286: eldest son of my house: that I had once a brother older than I?"
+LINE 287: "I remember Mrs. Fairfax told me so once."
+LINE 288: "And did you ever hear that my father was an avaricious, grasping man?"
+LINE 289: "I have understood something to that effect."
+LINE 290: "Well, Jane, being so, it was his resolution to keep the property
+LINE 291: together; he could not bear the idea of dividing his estate and leaving
+LINE 292: me a fair portion: all, he resolved, should go to my brother, Rowland.
+LINE 293: Yet as little could he endure that a son of his should be a poor man. I
+LINE 294: must be provided for by a wealthy marriage. He sought me a partner
+LINE 295: betimes. Mr. Mason, a West India planter and merchant, was his old
+LINE 296: acquaintance. He was certain his possessions were real and vast: he
+LINE 297: made inquiries. Mr. Mason, he found, had a son and daughter; and he
+LINE 298: learned from him that he could and would give the latter a fortune of
+LINE 299: thirty thousand pounds: that sufficed. When I left college, I was sent
+LINE 300: out to Jamaica, to espouse a bride already courted for me. My father
+LINE 301: said nothing about her money; but he told me Miss Mason was the boast
+LINE 302: of Spanish Town for her beauty: and this was no lie. I found her a fine
+LINE 303: woman, in the style of Blanche Ingram: tall, dark, and majestic. Her
+LINE 304: family wished to secure me because I was of a good race; and so did
+LINE 305: she. They showed her to me in parties, splendidly dressed. I seldom saw
+LINE 306: her alone, and had very little private conversation with her. She
+LINE 307: flattered me, and lavishly displayed for my pleasure her charms and
+LINE 308: accomplishments. All the men in her circle seemed to admire her and
+LINE 309: envy me. I was dazzled, stimulated: my senses were excited; and being
+LINE 310: ignorant, raw, and inexperienced, I thought I loved her. There is no
+LINE 311: folly so besotted that the idiotic rivalries of society, the prurience,
+LINE 312: the rashness, the blindness of youth, will not hurry a man to its
+LINE 313: commission. Her relatives encouraged me; competitors piqued me; she
+LINE 314: allured me: a marriage was achieved almost before I knew where I was.
+LINE 315: Oh, I have no respect for myself when I think of that act!—an agony of
+LINE 316: inward contempt masters me. I never loved, I never esteemed, I did not
+LINE 317: even know her. I was not sure of the existence of one virtue in her
+LINE 318: nature: I had marked neither modesty, nor benevolence, nor candour, nor
+LINE 319: refinement in her mind or manners—and, I married her:—gross,
+LINE 320: grovelling, mole-eyed blockhead that I was! With less sin I might
+LINE 321: have—But let me remember to whom I am speaking.
+LINE 322: "My bride's mother I had never seen: I understood she was dead. The
+LINE 323: honeymoon over, I learned my mistake; she was only mad, and shut up in
+LINE 324: a lunatic asylum. There was a younger brother, too—a complete dumb
+LINE 325: idiot. The elder one, whom you have seen (and whom I cannot hate,
+LINE 326: whilst I abhor all his kindred, because he has some grains of affection
+LINE 327: in his feeble mind, shown in the continued interest he takes in his
+LINE 328: wretched sister, and also in a dog-like attachment he once bore me),
+LINE 329: will probably be in the same state one day. My father and my brother
+LINE 330: Rowland knew all this; but they thought only of the thirty thousand
+LINE 331: pounds, and joined in the plot against me.
+LINE 332: "These were vile discoveries; but except for the treachery of
+LINE 333: concealment, I should have made them no subject of reproach to my wife,
+LINE 334: even when I found her nature wholly alien to mine, her tastes obnoxious
+LINE 335: to me, her cast of mind common, low, narrow, and singularly incapable
+LINE 336: of being led to anything higher, expanded to anything larger—when I
+LINE 337: found that I could not pass a single evening, nor even a single hour of
+LINE 338: the day with her in comfort; that kindly conversation could not be
+LINE 339: sustained between us, because whatever topic I started, immediately
+LINE 340: received from her a turn at once coarse and trite, perverse and
+LINE 341: imbecile—when I perceived that I should never have a quiet or settled
+LINE 342: household, because no servant would bear the continued outbreaks of her
+LINE 343: violent and unreasonable temper, or the vexations of her absurd,
+LINE 344: contradictory, exacting orders—even then I restrained myself: I
+LINE 345: eschewed upbraiding, I curtailed remonstrance; I tried to devour my
+LINE 346: repentance and disgust in secret; I repressed the deep antipathy I
+LINE 347: felt.
+LINE 348: "Jane, I will not trouble you with abominable details: some strong
+LINE 349: words shall express what I have to say. I lived with that woman
+LINE 350: upstairs four years, and before that time she had tried me indeed: her
+LINE 351: character ripened and developed with frightful rapidity; her vices
+LINE 352: sprang up fast and rank: they were so strong, only cruelty could check
+LINE 353: them, and I would not use cruelty. What a pigmy intellect she had, and
+LINE 354: what giant propensities! How fearful were the curses those propensities
+LINE 355: entailed on me! Bertha Mason, the true daughter of an infamous mother,
+LINE 356: dragged me through all the hideous and degrading agonies which must
+LINE 357: attend a man bound to a wife at once intemperate and unchaste.
+LINE 358: "My brother in the interval was dead, and at the end of the four years
+LINE 359: my father died too. I was rich enough now—yet poor to hideous
+LINE 360: indigence: a nature the most gross, impure, depraved I ever saw, was
+LINE 361: associated with mine, and called by the law and by society a part of
+LINE 362: me. And I could not rid myself of it by any legal proceedings: for the
+LINE 363: doctors now discovered that _my wife_ was mad—her excesses had
+LINE 364: prematurely developed the germs of insanity. Jane, you don't like my
+LINE 365: narrative; you look almost sick—shall I defer the rest to another day?"
+LINE 366: "No, sir, finish it now; I pity you—I do earnestly pity you."
+LINE 367: "Pity, Jane, from some people is a noxious and insulting sort of
+LINE 368: tribute, which one is justified in hurling back in the teeth of those
+LINE 369: who offer it; but that is the sort of pity native to callous, selfish
+LINE 370: hearts; it is a hybrid, egotistical pain at hearing of woes, crossed
+LINE 371: with ignorant contempt for those who have endured them. But that is not
+LINE 372: your pity, Jane; it is not the feeling of which your whole face is full
+LINE 373: at this moment—with which your eyes are now almost overflowing—with
+LINE 374: which your heart is heaving—with which your hand is trembling in mine.
+LINE 375: Your pity, my darling, is the suffering mother of love: its anguish is
+LINE 376: the very natal pang of the divine passion. I accept it, Jane; let the
+LINE 377: daughter have free advent—my arms wait to receive her."
+LINE 378: "Now, sir, proceed; what did you do when you found she was mad?"
+LINE 379: "Jane, I approached the verge of despair; a remnant of self-respect was
+LINE 380: all that intervened between me and the gulf. In the eyes of the world,
+LINE 381: I was doubtless covered with grimy dishonour; but I resolved to be
+LINE 382: clean in my own sight—and to the last I repudiated the contamination of
+LINE 383: her crimes, and wrenched myself from connection with her mental
+LINE 384: defects. Still, society associated my name and person with hers; I yet
+LINE 385: saw her and heard her daily: something of her breath (faugh!) mixed
+LINE 386: with the air I breathed; and besides, I remembered I had once been her
+LINE 387: husband—that recollection was then, and is now, inexpressibly odious to
+LINE 388: me; moreover, I knew that while she lived I could never be the husband
+LINE 389: of another and better wife; and, though five years my senior (her
+LINE 390: family and her father had lied to me even in the particular of her
+LINE 391: age), she was likely to live as long as I, being as robust in frame as
+LINE 392: she was infirm in mind. Thus, at the age of twenty-six, I was hopeless.
+LINE 393: "One night I had been awakened by her yells—(since the medical men had
+LINE 394: pronounced her mad, she had, of course, been shut up)—it was a fiery
+LINE 395: West Indian night; one of the description that frequently precede the
+LINE 396: hurricanes of those climates. Being unable to sleep in bed, I got up
+LINE 397: and opened the window. The air was like sulphur-steams—I could find no
+LINE 398: refreshment anywhere. Mosquitoes came buzzing in and hummed sullenly
+LINE 399: round the room; the sea, which I could hear from thence, rumbled dull
+LINE 400: like an earthquake—black clouds were casting up over it; the moon was
+LINE 401: setting in the waves, broad and red, like a hot cannon-ball—she threw
+LINE 402: her last bloody glance over a world quivering with the ferment of
+LINE 403: tempest. I was physically influenced by the atmosphere and scene, and
+LINE 404: my ears were filled with the curses the maniac still shrieked out;
+LINE 405: wherein she momentarily mingled my name with such a tone of demon-hate,
+LINE 406: with such language!—no professed harlot ever had a fouler vocabulary
+LINE 407: than she: though two rooms off, I heard every word—the thin partitions
+LINE 408: of the West India house opposing but slight obstruction to her wolfish
+LINE 409: cries.
+LINE 410: "'This life,' said I at last, 'is hell: this is the air—those are the
+LINE 411: sounds of the bottomless pit! I have a right to deliver myself from it
+LINE 412: if I can. The sufferings of this mortal state will leave me with the
+LINE 413: heavy flesh that now cumbers my soul. Of the fanatic's burning eternity
+LINE 414: I have no fear: there is not a future state worse than this present
+LINE 415: one—let me break away, and go home to God!'
+LINE 416: "I said this whilst I knelt down at and unlocked a trunk which
+LINE 417: contained a brace of loaded pistols: I meant to shoot myself. I only
+LINE 418: entertained the intention for a moment; for, not being insane, the
+LINE 419: crisis of exquisite and unalloyed despair, which had originated the
+LINE 420: wish and design of self-destruction, was past in a second.
+LINE 421: "A wind fresh from Europe blew over the ocean and rushed through the
+LINE 422: open casement: the storm broke, streamed, thundered, blazed, and the
+LINE 423: air grew pure. I then framed and fixed a resolution. While I walked
+LINE 424: under the dripping orange-trees of my wet garden, and amongst its
+LINE 425: drenched pomegranates and pine-apples, and while the refulgent dawn of
+LINE 426: the tropics kindled round me—I reasoned thus, Jane—and now listen; for
+LINE 427: it was true Wisdom that consoled me in that hour, and showed me the
+LINE 428: right path to follow.
+LINE 429: "The sweet wind from Europe was still whispering in the refreshed
+LINE 430: leaves, and the Atlantic was thundering in glorious liberty; my heart,
+LINE 431: dried up and scorched for a long time, swelled to the tone, and filled
+LINE 432: with living blood—my being longed for renewal—my soul thirsted for a
+LINE 433: pure draught. I saw hope revive—and felt regeneration possible. From a
+LINE 434: flowery arch at the bottom of my garden I gazed over the sea—bluer than
+LINE 435: the sky: the old world was beyond; clear prospects opened thus:—
+LINE 436: "'Go,' said Hope, 'and live again in Europe: there it is not known what
+LINE 437: a sullied name you bear, nor what a filthy burden is bound to you. You
+LINE 438: may take the maniac with you to England; confine her with due
+LINE 439: attendance and precautions at Thornfield: then travel yourself to what
+LINE 440: clime you will, and form what new tie you like. That woman, who has so
+LINE 441: abused your long-suffering, so sullied your name, so outraged your
+LINE 442: honour, so blighted your youth, is not your wife, nor are you her
+LINE 443: husband. See that she is cared for as her condition demands, and you
+LINE 444: have done all that God and humanity require of you. Let her identity,
+LINE 445: her connection with yourself, be buried in oblivion: you are bound to
+LINE 446: impart them to no living being. Place her in safety and comfort:
+LINE 447: shelter her degradation with secrecy, and leave her.'
+LINE 448: "I acted precisely on this suggestion. My father and brother had not
+LINE 449: made my marriage known to their acquaintance; because, in the very
+LINE 450: first letter I wrote to apprise them of the union—having already begun
+LINE 451: to experience extreme disgust of its consequences, and, from the family
+LINE 452: character and constitution, seeing a hideous future opening to me—I
+LINE 453: added an urgent charge to keep it secret: and very soon the infamous
+LINE 454: conduct of the wife my father had selected for me was such as to make
+LINE 455: him blush to own her as his daughter-in-law. Far from desiring to
+LINE 456: publish the connection, he became as anxious to conceal it as myself.
+LINE 457: "To England, then, I conveyed her; a fearful voyage I had with such a
+LINE 458: monster in the vessel. Glad was I when I at last got her to Thornfield,
+LINE 459: and saw her safely lodged in that third-storey room, of whose secret
+LINE 460: inner cabinet she has now for ten years made a wild beast's den—a
+LINE 461: goblin's cell. I had some trouble in finding an attendant for her, as
+LINE 462: it was necessary to select one on whose fidelity dependence could be
+LINE 463: placed; for her ravings would inevitably betray my secret: besides, she
+LINE 464: had lucid intervals of days—sometimes weeks—which she filled up with
+LINE 465: abuse of me. At last I hired Grace Poole from the Grimbsy Retreat. She
+LINE 466: and the surgeon, Carter (who dressed Mason's wounds that night he was
+LINE 467: stabbed and worried), are the only two I have ever admitted to my
+LINE 468: confidence. Mrs. Fairfax may indeed have suspected something, but she
+LINE 469: could have gained no precise knowledge as to facts. Grace has, on the
+LINE 470: whole, proved a good keeper; though, owing partly to a fault of her
+LINE 471: own, of which it appears nothing can cure her, and which is incident to
+LINE 472: her harassing profession, her vigilance has been more than once lulled
+LINE 473: and baffled. The lunatic is both cunning and malignant; she has never
+LINE 474: failed to take advantage of her guardian's temporary lapses; once to
+LINE 475: secrete the knife with which she stabbed her brother, and twice to
+LINE 476: possess herself of the key of her cell, and issue therefrom in the
+LINE 477: night-time. On the first of these occasions, she perpetrated the
+LINE 478: attempt to burn me in my bed; on the second, she paid that ghastly
+LINE 479: visit to you. I thank Providence, who watched over you, that she then
+LINE 480: spent her fury on your wedding apparel, which perhaps brought back
+LINE 481: vague reminiscences of her own bridal days: but on what might have
+LINE 482: happened, I cannot endure to reflect. When I think of the thing which
+LINE 483: flew at my throat this morning, hanging its black and scarlet visage
+LINE 484: over the nest of my dove, my blood curdles—"
+LINE 485: "And what, sir," I asked, while he paused, "did you do when you had
+LINE 486: settled her here? Where did you go?"
+LINE 487: "What did I do, Jane? I transformed myself into a will-o'-the-wisp.
+LINE 488: Where did I go? I pursued wanderings as wild as those of the
+LINE 489: March-spirit. I sought the Continent, and went devious through all its
+LINE 490: lands. My fixed desire was to seek and find a good and intelligent
+LINE 491: woman, whom I could love: a contrast to the fury I left at Thornfield—"
+LINE 492: "But you could not marry, sir."
+LINE 493: "I had determined and was convinced that I could and ought. It was not
+LINE 494: my original intention to deceive, as I have deceived you. I meant to
+LINE 495: tell my tale plainly, and make my proposals openly: and it appeared to
+LINE 496: me so absolutely rational that I should be considered free to love and
+LINE 497: be loved, I never doubted some woman might be found willing and able to
+LINE 498: understand my case and accept me, in spite of the curse with which I
+LINE 499: was burdened."
+LINE 500: "Well, sir?"
+LINE 501: "When you are inquisitive, Jane, you always make me smile. You open
+LINE 502: your eyes like an eager bird, and make every now and then a restless
+LINE 503: movement, as if answers in speech did not flow fast enough for you, and
+LINE 504: you wanted to read the tablet of one's heart. But before I go on, tell
+LINE 505: me what you mean by your 'Well, sir?' It is a small phrase very
+LINE 506: frequent with you; and which many a time has drawn me on and on through
+LINE 507: interminable talk: I don't very well know why."
+LINE 508: "I mean,—What next? How did you proceed? What came of such an event?"
+LINE 509: "Precisely! and what do you wish to know now?"
+LINE 510: "Whether you found any one you liked: whether you asked her to marry
+LINE 511: you; and what she said."
+LINE 512: "I can tell you whether I found any one I liked, and whether I asked
+LINE 513: her to marry me: but what she said is yet to be recorded in the book of
+LINE 514: Fate. For ten long years I roved about, living first in one capital,
+LINE 515: then another: sometimes in St. Petersburg; oftener in Paris;
+LINE 516: occasionally in Rome, Naples, and Florence. Provided with plenty of
+LINE 517: money and the passport of an old name, I could choose my own society:
+LINE 518: no circles were closed against me. I sought my ideal of a woman amongst
+LINE 519: English ladies, French countesses, Italian signoras, and German
+LINE 520: gräfinnen. I could not find her. Sometimes, for a fleeting moment, I
+LINE 521: thought I caught a glance, heard a tone, beheld a form, which announced
+LINE 522: the realisation of my dream: but I was presently undeceived. You are
+LINE 523: not to suppose that I desired perfection, either of mind or person. I
+LINE 524: longed only for what suited me—for the antipodes of the Creole: and I
+LINE 525: longed vainly. Amongst them all I found not one whom, had I been ever
+LINE 526: so free, I—warned as I was of the risks, the horrors, the loathings of
+LINE 527: incongruous unions—would have asked to marry me. Disappointment made me
+LINE 528: reckless. I tried dissipation—never debauchery: that I hated, and hate.
+LINE 529: That was my Indian Messalina's attribute: rooted disgust at it and her
+LINE 530: restrained me much, even in pleasure. Any enjoyment that bordered on
+LINE 531: riot seemed to approach me to her and her vices, and I eschewed it.
+LINE 532: "Yet I could not live alone; so I tried the companionship of
+LINE 533: mistresses. The first I chose was Céline Varens—another of those steps
+LINE 534: which make a man spurn himself when he recalls them. You already know
+LINE 535: what she was, and how my liaison with her terminated. She had two
+LINE 536: successors: an Italian, Giacinta, and a German, Clara; both considered
+LINE 537: singularly handsome. What was their beauty to me in a few weeks?
+LINE 538: Giacinta was unprincipled and violent: I tired of her in three months.
+LINE 539: Clara was honest and quiet; but heavy, mindless, and unimpressible: not
+LINE 540: one whit to my taste. I was glad to give her a sufficient sum to set
+LINE 541: her up in a good line of business, and so get decently rid of her. But,
+LINE 542: Jane, I see by your face you are not forming a very favourable opinion
+LINE 543: of me just now. You think me an unfeeling, loose-principled rake: don't
+LINE 544: you?"
+LINE 545: "I don't like you so well as I have done sometimes, indeed, sir. Did it
+LINE 546: not seem to you in the least wrong to live in that way, first with one
+LINE 547: mistress and then another? You talk of it as a mere matter of course."
+LINE 548: "It was with me; and I did not like it. It was a grovelling fashion of
+LINE 549: existence: I should never like to return to it. Hiring a mistress is
+LINE 550: the next worse thing to buying a slave: both are often by nature, and
+LINE 551: always by position, inferior: and to live familiarly with inferiors is
+LINE 552: degrading. I now hate the recollection of the time I passed with
+LINE 553: Céline, Giacinta, and Clara."
+LINE 554: I felt the truth of these words; and I drew from them the certain
+LINE 555: inference, that if I were so far to forget myself and all the teaching
+LINE 556: that had ever been instilled into me, as—under any pretext—with any
+LINE 557: justification—through any temptation—to become the successor of these
+LINE 558: poor girls, he would one day regard me with the same feeling which now
+LINE 559: in his mind desecrated their memory. I did not give utterance to this
+LINE 560: conviction: it was enough to feel it. I impressed it on my heart, that
+LINE 561: it might remain there to serve me as aid in the time of trial.
+LINE 562: "Now, Jane, why don't you say 'Well, sir?' I have not done. You are
+LINE 563: looking grave. You disapprove of me still, I see. But let me come to
+LINE 564: the point. Last January, rid of all mistresses—in a harsh, bitter frame
+LINE 565: of mind, the result of a useless, roving, lonely life—corroded with
+LINE 566: disappointment, sourly disposed against all men, and especially against
+LINE 567: all _woman_kind (for I began to regard the notion of an intellectual,
+LINE 568: faithful, loving woman as a mere dream), recalled by business, I came
+LINE 569: back to England.
+LINE 570: "On a frosty winter afternoon, I rode in sight of Thornfield Hall.
+LINE 571: Abhorred spot! I expected no peace—no pleasure there. On a stile in Hay
+LINE 572: Lane I saw a quiet little figure sitting by itself. I passed it as
+LINE 573: negligently as I did the pollard willow opposite to it: I had no
+LINE 574: presentiment of what it would be to me; no inward warning that the
+LINE 575: arbitress of my life—my genius for good or evil—waited there in humble
+LINE 576: guise. I did not know it, even when, on the occasion of Mesrour's
+LINE 577: accident, it came up and gravely offered me help. Childish and slender
+LINE 578: creature! It seemed as if a linnet had hopped to my foot and proposed
+LINE 579: to bear me on its tiny wing. I was surly; but the thing would not go:
+LINE 580: it stood by me with strange perseverance, and looked and spoke with a
+LINE 581: sort of authority. I must be aided, and by that hand: and aided I was.
+LINE 582: "When once I had pressed the frail shoulder, something new—a fresh sap
+LINE 583: and sense—stole into my frame. It was well I had learnt that this elf
+LINE 584: must return to me—that it belonged to my house down below—or I could
+LINE 585: not have felt it pass away from under my hand, and seen it vanish
+LINE 586: behind the dim hedge, without singular regret. I heard you come home
+LINE 587: that night, Jane, though probably you were not aware that I thought of
+LINE 588: you or watched for you. The next day I observed you—myself unseen—for
+LINE 589: half-an-hour, while you played with Adèle in the gallery. It was a
+LINE 590: snowy day, I recollect, and you could not go out of doors. I was in my
+LINE 591: room; the door was ajar: I could both listen and watch. Adèle claimed
+LINE 592: your outward attention for a while; yet I fancied your thoughts were
+LINE 593: elsewhere: but you were very patient with her, my little Jane; you
+LINE 594: talked to her and amused her a long time. When at last she left you,
+LINE 595: you lapsed at once into deep reverie: you betook yourself slowly to
+LINE 596: pace the gallery. Now and then, in passing a casement, you glanced out
+LINE 597: at the thick-falling snow; you listened to the sobbing wind, and again
+LINE 598: you paced gently on and dreamed. I think those day visions were not
+LINE 599: dark: there was a pleasurable illumination in your eye occasionally, a
+LINE 600: soft excitement in your aspect, which told of no bitter, bilious,
+LINE 601: hypochondriac brooding: your look revealed rather the sweet musings of
+LINE 602: youth when its spirit follows on willing wings the flight of Hope up
+LINE 603: and on to an ideal heaven. The voice of Mrs. Fairfax, speaking to a
+LINE 604: servant in the hall, wakened you: and how curiously you smiled to and
+LINE 605: at yourself, Janet! There was much sense in your smile: it was very
+LINE 606: shrewd, and seemed to make light of your own abstraction. It seemed to
+LINE 607: say—'My fine visions are all very well, but I must not forget they are
+LINE 608: absolutely unreal. I have a rosy sky and a green flowery Eden in my
+LINE 609: brain; but without, I am perfectly aware, lies at my feet a rough tract
+LINE 610: to travel, and around me gather black tempests to encounter.' You ran
+LINE 611: downstairs and demanded of Mrs. Fairfax some occupation: the weekly
+LINE 612: house accounts to make up, or something of that sort, I think it was. I
+LINE 613: was vexed with you for getting out of my sight.
+LINE 614: "Impatiently I waited for evening, when I might summon you to my
+LINE 615: presence. An unusual—to me—a perfectly new character I suspected was
+LINE 616: yours: I desired to search it deeper and know it better. You entered
+LINE 617: the room with a look and air at once shy and independent: you were
+LINE 618: quaintly dressed—much as you are now. I made you talk: ere long I found
+LINE 619: you full of strange contrasts. Your garb and manner were restricted by
+LINE 620: rule; your air was often diffident, and altogether that of one refined
+LINE 621: by nature, but absolutely unused to society, and a good deal afraid of
+LINE 622: making herself disadvantageously conspicuous by some solecism or
+LINE 623: blunder; yet when addressed, you lifted a keen, a daring, and a glowing
+LINE 624: eye to your interlocutor's face: there was penetration and power in
+LINE 625: each glance you gave; when plied by close questions, you found ready
+LINE 626: and round answers. Very soon you seemed to get used to me: I believe
+LINE 627: you felt the existence of sympathy between you and your grim and cross
+LINE 628: master, Jane; for it was astonishing to see how quickly a certain
+LINE 629: pleasant ease tranquillised your manner: snarl as I would, you showed
+LINE 630: no surprise, fear, annoyance, or displeasure at my moroseness; you
+LINE 631: watched me, and now and then smiled at me with a simple yet sagacious
+LINE 632: grace I cannot describe. I was at once content and stimulated with what
+LINE 633: I saw: I liked what I had seen, and wished to see more. Yet, for a long
+LINE 634: time, I treated you distantly, and sought your company rarely. I was an
+LINE 635: intellectual epicure, and wished to prolong the gratification of making
+LINE 636: this novel and piquant acquaintance: besides, I was for a while
+LINE 637: troubled with a haunting fear that if I handled the flower freely its
+LINE 638: bloom would fade—the sweet charm of freshness would leave it. I did not
+LINE 639: then know that it was no transitory blossom, but rather the radiant
+LINE 640: resemblance of one, cut in an indestructible gem. Moreover, I wished to
+LINE 641: see whether you would seek me if I shunned you—but you did not; you
+LINE 642: kept in the schoolroom as still as your own desk and easel; if by
+LINE 643: chance I met you, you passed me as soon, and with as little token of
+LINE 644: recognition, as was consistent with respect. Your habitual expression
+LINE 645: in those days, Jane, was a thoughtful look; not despondent, for you
+LINE 646: were not sickly; but not buoyant, for you had little hope, and no
+LINE 647: actual pleasure. I wondered what you thought of me, or if you ever
+LINE 648: thought of me, and resolved to find this out.
+LINE 649: "I resumed my notice of you. There was something glad in your glance,
+LINE 650: and genial in your manner, when you conversed: I saw you had a social
+LINE 651: heart; it was the silent schoolroom—it was the tedium of your life—that
+LINE 652: made you mournful. I permitted myself the delight of being kind to you;
+LINE 653: kindness stirred emotion soon: your face became soft in expression,
+LINE 654: your tones gentle; I liked my name pronounced by your lips in a
+LINE 655: grateful happy accent. I used to enjoy a chance meeting with you, Jane,
+LINE 656: at this time: there was a curious hesitation in your manner: you
+LINE 657: glanced at me with a slight trouble—a hovering doubt: you did not know
+LINE 658: what my caprice might be—whether I was going to play the master and be
+LINE 659: stern, or the friend and be benignant. I was now too fond of you often
+LINE 660: to simulate the first whim; and, when I stretched my hand out
+LINE 661: cordially, such bloom and light and bliss rose to your young, wistful
+LINE 662: features, I had much ado often to avoid straining you then and there to
+LINE 663: my heart."
+LINE 664: "Don't talk any more of those days, sir," I interrupted, furtively
+LINE 665: dashing away some tears from my eyes; his language was torture to me;
+LINE 666: for I knew what I must do—and do soon—and all these reminiscences, and
+LINE 667: these revelations of his feelings only made my work more difficult.
+LINE 668: "No, Jane," he returned: "what necessity is there to dwell on the Past,
+LINE 669: when the Present is so much surer—the Future so much brighter?"
+LINE 670: I shuddered to hear the infatuated assertion.
+LINE 671: "You see now how the case stands—do you not?" he continued. "After a
+LINE 672: youth and manhood passed half in unutterable misery and half in dreary
+LINE 673: solitude, I have for the first time found what I can truly love—I have
+LINE 674: found _you_. You are my sympathy—my better self—my good angel. I am
+LINE 675: bound to you with a strong attachment. I think you good, gifted,
+LINE 676: lovely: a fervent, a solemn passion is conceived in my heart; it leans
+LINE 677: to you, draws you to my centre and spring of life, wraps my existence
+LINE 678: about you, and, kindling in pure, powerful flame, fuses you and me in
+LINE 679: one.
+LINE 680: "It was because I felt and knew this, that I resolved to marry you. To
+LINE 681: tell me that I had already a wife is empty mockery: you know now that I
+LINE 682: had but a hideous demon. I was wrong to attempt to deceive you; but I
+LINE 683: feared a stubbornness that exists in your character. I feared early
+LINE 684: instilled prejudice: I wanted to have you safe before hazarding
+LINE 685: confidences. This was cowardly: I should have appealed to your
+LINE 686: nobleness and magnanimity at first, as I do now—opened to you plainly
+LINE 687: my life of agony—described to you my hunger and thirst after a higher
+LINE 688: and worthier existence—shown to you, not my _resolution_ (that word is
+LINE 689: weak), but my resistless _bent_ to love faithfully and well, where I am
+LINE 690: faithfully and well loved in return. Then I should have asked you to
+LINE 691: accept my pledge of fidelity and to give me yours. Jane—give it me
+LINE 692: now."
+LINE 693: A pause.
+LINE 694: "Why are you silent, Jane?"
+LINE 695: I was experiencing an ordeal: a hand of fiery iron grasped my vitals.
+LINE 696: Terrible moment: full of struggle, blackness, burning! Not a human
+LINE 697: being that ever lived could wish to be loved better than I was loved;
+LINE 698: and him who thus loved me I absolutely worshipped: and I must renounce
+LINE 699: love and idol. One drear word comprised my intolerable duty—"Depart!"
+LINE 700: "Jane, you understand what I want of you? Just this promise—'I will be
+LINE 701: yours, Mr. Rochester.'"
+LINE 702: "Mr. Rochester, I will _not_ be yours."
+LINE 703: Another long silence.
+LINE 704: "Jane!" recommenced he, with a gentleness that broke me down with
+LINE 705: grief, and turned me stone-cold with ominous terror—for this still
+LINE 706: voice was the pant of a lion rising—"Jane, do you mean to go one way in
+LINE 707: the world, and to let me go another?"
+LINE 708: "I do."
+LINE 709: "Jane" (bending towards and embracing me), "do you mean it now?"
+LINE 710: "I do."
+LINE 711: "And now?" softly kissing my forehead and cheek.
+LINE 712: "I do," extricating myself from restraint rapidly and completely.
+LINE 713: "Oh, Jane, this is bitter! This—this is wicked. It would not be wicked
+LINE 714: to love me."
+LINE 715: "It would to obey you."
+LINE 716: A wild look raised his brows—crossed his features: he rose; but he
+LINE 717: forebore yet. I laid my hand on the back of a chair for support: I
+LINE 718: shook, I feared—but I resolved.
+LINE 719: "One instant, Jane. Give one glance to my horrible life when you are
+LINE 720: gone. All happiness will be torn away with you. What then is left? For
+LINE 721: a wife I have but the maniac upstairs: as well might you refer me to
+LINE 722: some corpse in yonder churchyard. What shall I do, Jane? Where turn for
+LINE 723: a companion and for some hope?"
+LINE 724: "Do as I do: trust in God and yourself. Believe in heaven. Hope to meet
+LINE 725: again there."
+LINE 726: "Then you will not yield?"
+LINE 727: "No."
+LINE 728: "Then you condemn me to live wretched and to die accursed?" His voice
+LINE 729: rose.
+LINE 730: "I advise you to live sinless, and I wish you to die tranquil."
+LINE 731: "Then you snatch love and innocence from me? You fling me back on lust
+LINE 732: for a passion—vice for an occupation?"
+LINE 733: "Mr. Rochester, I no more assign this fate to you than I grasp at it
+LINE 734: for myself. We were born to strive and endure—you as well as I: do so.
+LINE 735: You will forget me before I forget you."
+LINE 736: "You make me a liar by such language: you sully my honour. I declared I
+LINE 737: could not change: you tell me to my face I shall change soon. And what
+LINE 738: a distortion in your judgment, what a perversity in your ideas, is
+LINE 739: proved by your conduct! Is it better to drive a fellow-creature to
+LINE 740: despair than to transgress a mere human law, no man being injured by
+LINE 741: the breach? for you have neither relatives nor acquaintances whom you
+LINE 742: need fear to offend by living with me?"
+LINE 743: This was true: and while he spoke my very conscience and reason turned
+LINE 744: traitors against me, and charged me with crime in resisting him. They
+LINE 745: spoke almost as loud as Feeling: and that clamoured wildly. "Oh,
+LINE 746: comply!" it said. "Think of his misery; think of his danger—look at his
+LINE 747: state when left alone; remember his headlong nature; consider the
+LINE 748: recklessness following on despair—soothe him; save him; love him; tell
+LINE 749: him you love him and will be his. Who in the world cares for _you_? or
+LINE 750: who will be injured by what you do?"
+LINE 751: Still indomitable was the reply—"_I_ care for myself. The more
+LINE 752: solitary, the more friendless, the more unsustained I am, the more I
+LINE 753: will respect myself. I will keep the law given by God; sanctioned by
+LINE 754: man. I will hold to the principles received by me when I was sane, and
+LINE 755: not mad—as I am now. Laws and principles are not for the times when
+LINE 756: there is no temptation: they are for such moments as this, when body
+LINE 757: and soul rise in mutiny against their rigour; stringent are they;
+LINE 758: inviolate they shall be. If at my individual convenience I might break
+LINE 759: them, what would be their worth? They have a worth—so I have always
+LINE 760: believed; and if I cannot believe it now, it is because I am
+LINE 761: insane—quite insane: with my veins running fire, and my heart beating
+LINE 762: faster than I can count its throbs. Preconceived opinions, foregone
+LINE 763: determinations, are all I have at this hour to stand by: there I plant
+LINE 764: my foot."
+LINE 765: I did. Mr. Rochester, reading my countenance, saw I had done so. His
+LINE 766: fury was wrought to the highest: he must yield to it for a moment,
+LINE 767: whatever followed; he crossed the floor and seized my arm and grasped
+LINE 768: my waist. He seemed to devour me with his flaming glance: physically, I
+LINE 769: felt, at the moment, powerless as stubble exposed to the draught and
+LINE 770: glow of a furnace: mentally, I still possessed my soul, and with it the
+LINE 771: certainty of ultimate safety. The soul, fortunately, has an
+LINE 772: interpreter—often an unconscious, but still a truthful interpreter—in
+LINE 773: the eye. My eye rose to his; and while I looked in his fierce face I
+LINE 774: gave an involuntary sigh; his gripe was painful, and my over-taxed
+LINE 775: strength almost exhausted.
+LINE 776: "Never," said he, as he ground his teeth, "never was anything at once
+LINE 777: so frail and so indomitable. A mere reed she feels in my hand!" (And he
+LINE 778: shook me with the force of his hold.) "I could bend her with my finger
+LINE 779: and thumb: and what good would it do if I bent, if I uptore, if I
+LINE 780: crushed her? Consider that eye: consider the resolute, wild, free thing
+LINE 781: looking out of it, defying me, with more than courage—with a stern
+LINE 782: triumph. Whatever I do with its cage, I cannot get at it—the savage,
+LINE 783: beautiful creature! If I tear, if I rend the slight prison, my outrage
+LINE 784: will only let the captive loose. Conqueror I might be of the house; but
+LINE 785: the inmate would escape to heaven before I could call myself possessor
+LINE 786: of its clay dwelling-place. And it is you, spirit—with will and energy,
+LINE 787: and virtue and purity—that I want: not alone your brittle frame. Of
+LINE 788: yourself you could come with soft flight and nestle against my heart,
+LINE 789: if you would: seized against your will, you will elude the grasp like
+LINE 790: an essence—you will vanish ere I inhale your fragrance. Oh! come, Jane,
+LINE 791: come!"
+LINE 792: As he said this, he released me from his clutch, and only looked at me.
+LINE 793: The look was far worse to resist than the frantic strain: only an
+LINE 794: idiot, however, would have succumbed now. I had dared and baffled his
+LINE 795: fury; I must elude his sorrow: I retired to the door.
+LINE 796: "You are going, Jane?"
+LINE 797: "I am going, sir."
+LINE 798: "You are leaving me?"
+LINE 799: "Yes."
+LINE 800: "You will not come? You will not be my comforter, my rescuer? My deep
+LINE 801: love, my wild woe, my frantic prayer, are all nothing to you?"
+LINE 802: What unutterable pathos was in his voice! How hard it was to reiterate
+LINE 803: firmly, "I am going."
+LINE 804: "Jane!"
+LINE 805: "Mr. Rochester!"
+LINE 806: "Withdraw, then,—I consent; but remember, you leave me here in anguish.
+LINE 807: Go up to your own room; think over all I have said, and, Jane, cast a
+LINE 808: glance on my sufferings—think of me."
+LINE 809: He turned away; he threw himself on his face on the sofa. "Oh, Jane! my
+LINE 810: hope—my love—my life!" broke in anguish from his lips. Then came a
+LINE 811: deep, strong sob.
+LINE 812: I had already gained the door; but, reader, I walked back—walked back
+LINE 813: as determinedly as I had retreated. I knelt down by him; I turned his
+LINE 814: face from the cushion to me; I kissed his cheek; I smoothed his hair
+LINE 815: with my hand.
+LINE 816: "God bless you, my dear master!" I said. "God keep you from harm and
+LINE 817: wrong—direct you, solace you—reward you well for your past kindness to
+LINE 818: me."
+LINE 819: "Little Jane's love would have been my best reward," he answered;
+LINE 820: "without it, my heart is broken. But Jane will give me her love:
+LINE 821: yes—nobly, generously."
+LINE 822: Up the blood rushed to his face; forth flashed the fire from his eyes;
+LINE 823: erect he sprang; he held his arms out; but I evaded the embrace, and at
+LINE 824: once quitted the room.
+LINE 825: "Farewell!" was the cry of my heart as I left him. Despair added,
+LINE 826: "Farewell for ever!"
+LINE 827: That night I never thought to sleep; but a slumber fell on me as soon
+LINE 828: as I lay down in bed. I was transported in thought to the scenes of
+LINE 829: childhood: I dreamt I lay in the red-room at Gateshead; that the night
+LINE 830: was dark, and my mind impressed with strange fears. The light that long
+LINE 831: ago had struck me into syncope, recalled in this vision, seemed
+LINE 832: glidingly to mount the wall, and tremblingly to pause in the centre of
+LINE 833: the obscured ceiling. I lifted up my head to look: the roof resolved to
+LINE 834: clouds, high and dim; the gleam was such as the moon imparts to vapours
+LINE 835: she is about to sever. I watched her come—watched with the strangest
+LINE 836: anticipation; as though some word of doom were to be written on her
+LINE 837: disk. She broke forth as never moon yet burst from cloud: a hand first
+LINE 838: penetrated the sable folds and waved them away; then, not a moon, but a
+LINE 839: white human form shone in the azure, inclining a glorious brow
+LINE 840: earthward. It gazed and gazed on me. It spoke to my spirit:
+LINE 841: immeasurably distant was the tone, yet so near, it whispered in my
+LINE 842: heart—
+LINE 843: "My daughter, flee temptation."
+LINE 844: "Mother, I will."
+LINE 845: So I answered after I had waked from the trance-like dream. It was yet
+LINE 846: night, but July nights are short: soon after midnight, dawn comes. "It
+LINE 847: cannot be too early to commence the task I have to fulfil," thought I.
+LINE 848: I rose: I was dressed; for I had taken off nothing but my shoes. I knew
+LINE 849: where to find in my drawers some linen, a locket, a ring. In seeking
+LINE 850: these articles, I encountered the beads of a pearl necklace Mr.
+LINE 851: Rochester had forced me to accept a few days ago. I left that; it was
+LINE 852: not mine: it was the visionary bride's who had melted in air. The other
+LINE 853: articles I made up in a parcel; my purse, containing twenty shillings
+LINE 854: (it was all I had), I put in my pocket: I tied on my straw bonnet,
+LINE 855: pinned my shawl, took the parcel and my slippers, which I would not put
+LINE 856: on yet, and stole from my room.
+LINE 857: "Farewell, kind Mrs. Fairfax!" I whispered, as I glided past her door.
+LINE 858: "Farewell, my darling Adèle!" I said, as I glanced towards the nursery.
+LINE 859: No thought could be admitted of entering to embrace her. I had to
+LINE 860: deceive a fine ear: for aught I knew it might now be listening.
+LINE 861: I would have got past Mr. Rochester's chamber without a pause; but my
+LINE 862: heart momentarily stopping its beat at that threshold, my foot was
+LINE 863: forced to stop also. No sleep was there: the inmate was walking
+LINE 864: restlessly from wall to wall; and again and again he sighed while I
+LINE 865: listened. There was a heaven—a temporary heaven—in this room for me, if
+LINE 866: I chose: I had but to go in and to say—
+LINE 867: "Mr. Rochester, I will love you and live with you through life till
+LINE 868: death," and a fount of rapture would spring to my lips. I thought of
+LINE 869: this.
+LINE 870: That kind master, who could not sleep now, was waiting with impatience
+LINE 871: for day. He would send for me in the morning; I should be gone. He
+LINE 872: would have me sought for: vainly. He would feel himself forsaken; his
+LINE 873: love rejected: he would suffer; perhaps grow desperate. I thought of
+LINE 874: this too. My hand moved towards the lock: I caught it back, and glided
+LINE 875: on.
+LINE 876: Drearily I wound my way downstairs: I knew what I had to do, and I did
+LINE 877: it mechanically. I sought the key of the side-door in the kitchen; I
+LINE 878: sought, too, a phial of oil and a feather; I oiled the key and the
+LINE 879: lock. I got some water, I got some bread: for perhaps I should have to
+LINE 880: walk far; and my strength, sorely shaken of late, must not break down.
+LINE 881: All this I did without one sound. I opened the door, passed out, shut
+LINE 882: it softly. Dim dawn glimmered in the yard. The great gates were closed
+LINE 883: and locked; but a wicket in one of them was only latched. Through that
+LINE 884: I departed: it, too, I shut; and now I was out of Thornfield.
+LINE 885: A mile off, beyond the fields, lay a road which stretched in the
+LINE 886: contrary direction to Millcote; a road I had never travelled, but often
+LINE 887: noticed, and wondered where it led: thither I bent my steps. No
+LINE 888: reflection was to be allowed now: not one glance was to be cast back;
+LINE 889: not even one forward. Not one thought was to be given either to the
+LINE 890: past or the future. The first was a page so heavenly sweet—so deadly
+LINE 891: sad—that to read one line of it would dissolve my courage and break
+LINE 892: down my energy. The last was an awful blank: something like the world
+LINE 893: when the deluge was gone by.
+LINE 894: I skirted fields, and hedges, and lanes till after sunrise. I believe
+LINE 895: it was a lovely summer morning: I know my shoes, which I had put on
+LINE 896: when I left the house, were soon wet with dew. But I looked neither to
+LINE 897: rising sun, nor smiling sky, nor wakening nature. He who is taken out
+LINE 898: to pass through a fair scene to the scaffold, thinks not of the flowers
+LINE 899: that smile on his road, but of the block and axe-edge; of the
+LINE 900: disseverment of bone and vein; of the grave gaping at the end: and I
+LINE 901: thought of drear flight and homeless wandering—and oh! with agony I
+LINE 902: thought of what I left. I could not help it. I thought of him now—in
+LINE 903: his room—watching the sunrise; hoping I should soon come to say I would
+LINE 904: stay with him and be his. I longed to be his; I panted to return: it
+LINE 905: was not too late; I could yet spare him the bitter pang of bereavement.
+LINE 906: As yet my flight, I was sure, was undiscovered. I could go back and be
+LINE 907: his comforter—his pride; his redeemer from misery, perhaps from ruin.
+LINE 908: Oh, that fear of his self-abandonment—far worse than my abandonment—how
+LINE 909: it goaded me! It was a barbed arrow-head in my breast; it tore me when
+LINE 910: I tried to extract it; it sickened me when remembrance thrust it
+LINE 911: farther in. Birds began singing in brake and copse: birds were faithful
+LINE 912: to their mates; birds were emblems of love. What was I? In the midst of
+LINE 913: my pain of heart and frantic effort of principle, I abhorred myself. I
+LINE 914: had no solace from self-approbation: none even from self-respect. I had
+LINE 915: injured—wounded—left my master. I was hateful in my own eyes. Still I
+LINE 916: could not turn, nor retrace one step. God must have led me on. As to my
+LINE 917: own will or conscience, impassioned grief had trampled one and stifled
+LINE 918: the other. I was weeping wildly as I walked along my solitary way:
+LINE 919: fast, fast I went like one delirious. A weakness, beginning inwardly,
+LINE 920: extending to the limbs, seized me, and I fell: I lay on the ground some
+LINE 921: minutes, pressing my face to the wet turf. I had some fear—or hope—that
+LINE 922: here I should die: but I was soon up; crawling forwards on my hands and
+LINE 923: knees, and then again raised to my feet—as eager and as determined as
+LINE 924: ever to reach the road.
+LINE 925: When I got there, I was forced to sit to rest me under the hedge; and
+LINE 926: while I sat, I heard wheels, and saw a coach come on. I stood up and
+LINE 927: lifted my hand; it stopped. I asked where it was going: the driver
+LINE 928: named a place a long way off, and where I was sure Mr. Rochester had no
+LINE 929: connections. I asked for what sum he would take me there; he said
+LINE 930: thirty shillings; I answered I had but twenty; well, he would try to
+LINE 931: make it do. He further gave me leave to get into the inside, as the
+LINE 932: vehicle was empty: I entered, was shut in, and it rolled on its way.
+LINE 933: Gentle reader, may you never feel what I then felt! May your eyes never
+LINE 934: shed such stormy, scalding, heart-wrung tears as poured from mine. May
+LINE 935: you never appeal to Heaven in prayers so hopeless and so agonised as in
+LINE 936: that hour left my lips; for never may you, like me, dread to be the
+LINE 937: instrument of evil to what you wholly love.

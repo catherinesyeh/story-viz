@@ -1,0 +1,107 @@
+LINE 1: "Astonished and delighted to hear my native language, and no less
+LINE 2: surprised at what this man said, I made answer that there were much
+LINE 3: greater misfortunes than that of which he complained. I told him in a
+LINE 4: few words of the horrors which I had endured, and fainted a second time.
+LINE 5: He carried me to a neighbouring house, put me to bed, gave me food,
+LINE 6: waited upon me, consoled me, flattered me; he told me that he had never
+LINE 7: seen any one so beautiful as I, and that he never so much regretted the
+LINE 8: loss of what it was impossible to recover.
+LINE 9: "'I was born at Naples,' said he, 'there they geld two or three thousand
+LINE 10: children every year; some die of the operation, others acquire a voice
+LINE 11: more beautiful than that of women, and others are raised to offices of
+LINE 12: state.[13] This operation was performed on me with great success and I
+LINE 13: was chapel musician to madam, the Princess of Palestrina.'
+LINE 14: "'To my mother!' cried I.
+LINE 15: "'Your mother!' cried he, weeping. 'What! can you be that young
+LINE 16: princess whom I brought up until the age of six years, and who promised
+LINE 17: so early to be as beautiful as you?'
+LINE 18: "'It is I, indeed; but my mother lies four hundred yards hence, torn in
+LINE 19: quarters, under a heap of dead bodies.'
+LINE 20: "I told him all my adventures, and he made me acquainted with his;
+LINE 21: telling me that he had been sent to the Emperor of Morocco by a
+LINE 22: Christian power, to conclude a treaty with that prince, in consequence
+LINE 23: of which he was to be furnished with military stores and ships to help
+LINE 24: to demolish the commerce of other Christian Governments.
+LINE 25: "'My mission is done,' said this honest eunuch; 'I go to embark for
+LINE 26: Ceuta, and will take you to Italy. _Ma che sciagura d'essere senza
+LINE 27: coglioni!_'
+LINE 28: "I thanked him with tears of commiseration; and instead of taking me to
+LINE 29: Italy he conducted me to Algiers, where he sold me to the Dey. Scarcely
+LINE 30: was I sold, than the plague which had made the tour of Africa, Asia, and
+LINE 31: Europe, broke out with great malignancy in Algiers. You have seen
+LINE 32: earthquakes; but pray, miss, have you ever had the plague?"
+LINE 33: "Never," answered Cunegonde.
+LINE 34: "If you had," said the old woman, "you would acknowledge that it is far
+LINE 35: more terrible than an earthquake. It is common in Africa, and I caught
+LINE 36: it. Imagine to yourself the distressed situation of the daughter of a
+LINE 37: Pope, only fifteen years old, who, in less than three months, had felt
+LINE 38: the miseries of poverty and slavery, had been ravished almost every day,
+LINE 39: had beheld her mother drawn in quarters, had experienced famine and war,
+LINE 40: and was dying of the plague in Algiers. I did not die, however, but my
+LINE 41: eunuch, and the Dey, and almost the whole seraglio of Algiers perished.
+LINE 42: "As soon as the first fury of this terrible pestilence was over, a sale
+LINE 43: was made of the Dey's slaves; I was purchased by a merchant, and carried
+LINE 44: to Tunis; this man sold me to another merchant, who sold me again to
+LINE 45: another at Tripoli; from Tripoli I was sold to Alexandria, from
+LINE 46: Alexandria to Smyrna, and from Smyrna to Constantinople. At length I
+LINE 47: became the property of an Aga of the Janissaries, who was soon ordered
+LINE 48: away to the defence of Azof, then besieged by the Russians.
+LINE 49: "The Aga, who was a very gallant man, took his whole seraglio with him,
+LINE 50: and lodged us in a small fort on the Palus Méotides, guarded by two
+LINE 51: black eunuchs and twenty soldiers. The Turks killed prodigious numbers
+LINE 52: of the Russians, but the latter had their revenge. Azof was destroyed by
+LINE 53: fire, the inhabitants put to the sword, neither sex nor age was spared;
+LINE 54: until there remained only our little fort, and the enemy wanted to
+LINE 55: starve us out. The twenty Janissaries had sworn they would never
+LINE 56: surrender. The extremities of famine to which they were reduced, obliged
+LINE 57: them to eat our two eunuchs, for fear of violating their oath. And at
+LINE 58: the end of a few days they resolved also to devour the women.
+LINE 59: "We had a very pious and humane Iman, who preached an excellent sermon,
+LINE 60: exhorting them not to kill us all at once.
+LINE 61: "'Only cut off a buttock of each of those ladies,' said he, 'and you'll
+LINE 62: fare extremely well; if you must go to it again, there will be the same
+LINE 63: entertainment a few days hence; heaven will accept of so charitable an
+LINE 64: action, and send you relief.'
+LINE 65: "He had great eloquence; he persuaded them; we underwent this terrible
+LINE 66: operation. The Iman applied the same balsam to us, as he does to
+LINE 67: children after circumcision; and we all nearly died.
+LINE 68: "Scarcely had the Janissaries finished the repast with which we had
+LINE 69: furnished them, than the Russians came in flat-bottomed boats; not a
+LINE 70: Janissary escaped. The Russians paid no attention to the condition we
+LINE 71: were in. There are French surgeons in all parts of the world; one of
+LINE 72: them who was very clever took us under his care--he cured us; and as
+LINE 73: long as I live I shall remember that as soon as my wounds were healed he
+LINE 74: made proposals to me. He bid us all be of good cheer, telling us that
+LINE 75: the like had happened in many sieges, and that it was according to the
+LINE 76: laws of war.
+LINE 77: "As soon as my companions could walk, they were obliged to set out for
+LINE 78: Moscow. I fell to the share of a Boyard who made me his gardener, and
+LINE 79: gave me twenty lashes a day. But this nobleman having in two years' time
+LINE 80: been broke upon the wheel along with thirty more Boyards for some broils
+LINE 81: at court, I profited by that event; I fled. I traversed all Russia; I
+LINE 82: was a long time an inn-holder's servant at Riga, the same at Rostock, at
+LINE 83: Vismar, at Leipzig, at Cassel, at Utrecht, at Leyden, at the Hague, at
+LINE 84: Rotterdam. I waxed old in misery and disgrace, having only one-half of
+LINE 85: my posteriors, and always remembering I was a Pope's daughter. A hundred
+LINE 86: times I was upon the point of killing myself; but still I loved life.
+LINE 87: This ridiculous foible is perhaps one of our most fatal characteristics;
+LINE 88: for is there anything more absurd than to wish to carry continually a
+LINE 89: burden which one can always throw down? to detest existence and yet to
+LINE 90: cling to one's existence? in brief, to caress the serpent which devours
+LINE 91: us, till he has eaten our very heart?
+LINE 92: "In the different countries which it has been my lot to traverse, and
+LINE 93: the numerous inns where I have been servant, I have taken notice of a
+LINE 94: vast number of people who held their own existence in abhorrence, and
+LINE 95: yet I never knew of more than eight who voluntarily put an end to their
+LINE 96: misery; three negroes, four Englishmen, and a German professor named
+LINE 97: Robek.[14] I ended by being servant to the Jew, Don Issachar, who placed
+LINE 98: me near your presence, my fair lady. I am determined to share your fate,
+LINE 99: and have been much more affected with your misfortunes than with my own.
+LINE 100: I would never even have spoken to you of my misfortunes, had you not
+LINE 101: piqued me a little, and if it were not customary to tell stories on
+LINE 102: board a ship in order to pass away the time. In short, Miss Cunegonde, I
+LINE 103: have had experience, I know the world; therefore I advise you to divert
+LINE 104: yourself, and prevail upon each passenger to tell his story; and if
+LINE 105: there be one of them all, that has not cursed his life many a time, that
+LINE 106: has not frequently looked upon himself as the unhappiest of mortals, I
+LINE 107: give you leave to throw me headforemost into the sea."

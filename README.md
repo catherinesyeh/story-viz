@@ -89,7 +89,7 @@ the server should now be running at [`127.0.0.1:5000`](http://127.0.0.1:5000)
 
 4. in the first cell under the **split text into chapters** section in [notebooks/parsing_data.ipynb](notebooks/parsing-data.ipynb), set `og_story_name` to your filename without the ".txt" (e.g., "gatsby").
 
-- you can also change the `analysis_type` here (e.g., "character" or "theme").
+- you can also change the `analysis_type` here (e.g., "character" or "theme"). we recommend trying "character" first.
 
 - the cell should look something like this:
 
@@ -101,7 +101,9 @@ analysis_type = "character"
 
 5. run the rest of the code in this section, stopping at **analyze scene**. double check the generated chapter txt files which should be located in the [notebooks/chapters/](notebooks/chapters/) folder inside a subfolder corresponding to your story name (e.g., `notebooks/chapters/gatsby/`).
 
-- if something went wrong, you may have to adjust the code in this section to parse the chapters correctly.
+- if something went wrong, you may have to adjust the extracted first line, last line, and/or markers manually in the created `summary.json` file in the [notebooks/json/](notebooks/json/) folder (e.g., `notebooks/json/gatsby/summary.json`).
+- or you can try modifying the code in this section to parse the chapters correctly.
+- in either case, after making your changes, rerun this block of code until the chapter txt files look correct.
 
 6. run the rest of the code in this notebook, starting from the **analyze scene** section.
 
@@ -114,7 +116,11 @@ analysis_type = "character"
 
 - **if you do not see this file**, take your `final_data.json` file and copy and paste it into the [src/data/](src/data/) folder. rename the file accordingly following the instructions above.
 
-9. in [src/components/Header/PlotOptions.tsx](src/components/Header/PlotOptions.tsx), add your file name to the `storyOptions` list. it should look something like this:
+9. also check if you see a corresponding folder for your story in the [public/chapters/](public/chapters/) folder (e.g., `public/chapters/gatsby/`) with the chapter `.txt` files.
+
+- **if you do not see this folder or it is empty**, copy your story's full chapter folder in [notebooks/chapters/](notebooks/chapters/) (e.g., `notebooks/chapters/gatsby/`) and paste it inside the [public/chapters/](public/chapters/) folder.
+
+10. in [src/components/Header/PlotOptions.tsx](src/components/Header/PlotOptions.tsx), add your file name to the `storyOptions` list. it should look something like this:
 
 ```
 const storyOptions = [
@@ -123,7 +129,5 @@ const storyOptions = [
     ...
 ];
 ```
-
-10. copy your story's full chapter folder in [notebooks/chapters/](notebooks/chapters/) (e.g., `notebooks/chapters/gatsby/`) and paste it inside the [public/chapters/](public/chapters/) folder (e.g., `public/chapters/gatsby/`).
 
 11. save your changes and run the frontend again at [`localhost:5200`](http://localhost:5200) (see more detailed instructions above). you should be able to select your story from the dropdown menu and see your visualization results!

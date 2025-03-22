@@ -1,0 +1,488 @@
+LINE 1: Like most other young matrons, Meg began her married life with the
+LINE 2: determination to be a model housekeeper. John should find home a
+LINE 3: paradise; he should always see a smiling face, should fare sumptuously
+LINE 4: every day, and never know the loss of a button. She brought so much
+LINE 5: love, energy, and cheerfulness to the work that she could not but
+LINE 6: succeed, in spite of some obstacles. Her paradise was not a tranquil
+LINE 7: one; for the little woman fussed, was over-anxious to please, and
+LINE 8: bustled about like a true Martha, cumbered with many cares. She was too
+LINE 9: tired, sometimes, even to smile; John grew dyspeptic after a course of
+LINE 10: dainty dishes, and ungratefully demanded plain fare. As for buttons, she
+LINE 11: soon learned to wonder where they went, to shake her head over the
+LINE 12: carelessness of men, and to threaten to make him sew them on himself,
+LINE 13: and then see if _his_ work would stand impatient tugs and clumsy fingers
+LINE 14: any better than hers.
+LINE 15: They were very happy, even after they discovered that they couldn't live
+LINE 16: on love alone. John did not find Meg's beauty diminished, though she
+LINE 17: beamed at him from behind the familiar coffee-pot; nor did Meg miss any
+LINE 18: of the romance from the daily parting, when her husband followed up his
+LINE 19: kiss with the tender inquiry, "Shall I send home veal or mutton for
+LINE 20: dinner, darling?" The little house ceased to be a glorified bower, but
+LINE 21: it became a home, and the young couple soon felt that it was a change
+LINE 22: for the better. At first they played keep-house, and frolicked over it
+LINE 23: like children; then John took steadily to business, feeling the cares of
+LINE 24: the head of a family upon his shoulders; and Meg laid by her cambric
+LINE 25: wrappers, put on a big apron, and fell to work, as before said, with
+LINE 26: more energy than discretion.
+LINE 27: While the cooking mania lasted she went through Mrs. Cornelius's Receipt
+LINE 28: Book as if it were a mathematical exercise, working out the problems
+LINE 29: with patience and care. Sometimes her family were invited in to help eat
+LINE 30: up a too bounteous feast of successes, or Lotty would be privately
+LINE 31: despatched with a batch of failures, which were to be concealed from all
+LINE 32: eyes in the convenient stomachs of the little Hummels. An evening with
+LINE 33: John over the account-books usually produced a temporary lull in the
+LINE 34: culinary enthusiasm, and a frugal fit would ensue, during which the poor
+LINE 35: man was put through a course of bread-pudding, hash, and warmed-over
+LINE 36: coffee, which tried his soul, although he bore it with praiseworthy
+LINE 37: fortitude. Before the golden mean was found, however, Meg added to her
+LINE 38: domestic possessions what young couples seldom get on long without,--a
+LINE 39: family jar.
+LINE 40: Fired with a housewifely wish to see her store-room stocked with
+LINE 41: home-made preserves, she undertook to put up her own currant jelly. John
+LINE 42: was requested to order home a dozen or so of little pots, and an extra
+LINE 43: quantity of sugar, for their own currants were ripe, and were to be
+LINE 44: attended to at once. As John firmly believed that "my wife" was equal to
+LINE 45: anything, and took a natural pride in her skill, he resolved that she
+LINE 46: should be gratified, and their only crop of fruit laid by in a most
+LINE 47: pleasing form for winter use. Home came four dozen delightful little
+LINE 48: pots, half a barrel of sugar, and a small boy to pick the currants for
+LINE 49: her. With her pretty hair tucked into a little cap, arms bared to the
+LINE 50: elbow, and a checked apron which had a coquettish look in spite of the
+LINE 51: bib, the young housewife fell to work, feeling no doubts about her
+LINE 52: success; for hadn't she seen Hannah do it hundreds of times? The array
+LINE 53: of pots rather amazed her at first, but John was so fond of jelly, and
+LINE 54: the nice little jars would look so well on the top shelf, that Meg
+LINE 55: resolved to fill them all, and spent a long day picking, boiling,
+LINE 56: straining, and fussing over her jelly. She did her best; she asked
+LINE 57: advice of Mrs. Cornelius; she racked her brain to remember what Hannah
+LINE 58: did that she had left undone; she reboiled, resugared, and restrained,
+LINE 59: but that dreadful stuff wouldn't "_jell_."
+LINE 60: She longed to run home, bib and all, and ask mother to lend a hand, but
+LINE 61: John and she had agreed that they would never annoy any one with their
+LINE 62: private worries, experiments, or quarrels. They had laughed over that
+LINE 63: last word as if the idea it suggested was a most preposterous one; but
+LINE 64: they had held to their resolve, and whenever they could get on without
+LINE 65: help they did so, and no one interfered, for Mrs. March had advised the
+LINE 66: plan. So Meg wrestled alone with the refractory sweetmeats all that hot
+LINE 67: summer day, and at five o'clock sat down in her topsy-turvy kitchen,
+LINE 68: wrung her bedaubed hands, lifted up her voice and wept.
+LINE 69: Now, in the first flush of the new life, she had often said,--
+LINE 70: "My husband shall always feel free to bring a friend home whenever he
+LINE 71: likes. I shall always be prepared; there shall be no flurry, no
+LINE 72: scolding, no discomfort, but a neat house, a cheerful wife, and a good
+LINE 73: dinner. John, dear, never stop to ask my leave, invite whom you please,
+LINE 74: and be sure of a welcome from me."
+LINE 75: How charming that was, to be sure! John quite glowed with pride to hear
+LINE 76: her say it, and felt what a blessed thing it was to have a superior
+LINE 77: wife. But, although they had had company from time to time, it never
+LINE 78: happened to be unexpected, and Meg had never had an opportunity to
+LINE 79: distinguish herself till now. It always happens so in this vale of
+LINE 80: tears; there is an inevitability about such things which we can only
+LINE 81: wonder at, deplore, and bear as we best can.
+LINE 82: If John had not forgotten all about the jelly, it really would have been
+LINE 83: unpardonable in him to choose that day, of all the days in the year, to
+LINE 84: bring a friend home to dinner unexpectedly. Congratulating himself that
+LINE 85: a handsome repast had been ordered that morning, feeling sure that it
+LINE 86: would be ready to the minute, and indulging in pleasant anticipations of
+LINE 87: the charming effect it would produce, when his pretty wife came running
+LINE 88: out to meet him, he escorted his friend to his mansion, with the
+LINE 89: irrepressible satisfaction of a young host and husband.
+LINE 90: It is a world of disappointments, as John discovered when he reached the
+LINE 91: Dove-cote. The front door usually stood hospitably open; now it was not
+LINE 92: only shut, but locked, and yesterday's mud still adorned the steps. The
+LINE 93: parlor-windows were closed and curtained, no picture of the pretty wife
+LINE 94: sewing on the piazza, in white, with a distracting little bow in her
+LINE 95: hair, or a bright-eyed hostess, smiling a shy welcome as she greeted her
+LINE 96: guest. Nothing of the sort, for not a soul appeared, but a
+LINE 97: sanguinary-looking boy asleep under the currant-bushes.
+LINE 98: "I'm afraid something has happened. Step into the garden, Scott, while I
+LINE 99: look up Mrs. Brooke," said John, alarmed at the silence and solitude.
+LINE 100: Round the house he hurried, led by a pungent smell of burnt sugar, and
+LINE 101: Mr. Scott strolled after him, with a queer look on his face. He paused
+LINE 102: discreetly at a distance when Brooke disappeared; but he could both see
+LINE 103: and hear, and, being a bachelor, enjoyed the prospect mightily.
+LINE 104: In the kitchen reigned confusion and despair; one edition of jelly was
+LINE 105: trickled from pot to pot, another lay upon the floor, and a third was
+LINE 106: burning gayly on the stove. Lotty, with Teutonic phlegm, was calmly
+LINE 107: eating bread and currant wine, for the jelly was still in a hopelessly
+LINE 108: liquid state, while Mrs. Brooke, with her apron over her head, sat
+LINE 109: sobbing dismally.
+LINE 110: "My dearest girl, what is the matter?" cried John, rushing in, with
+LINE 111: awful visions of scalded hands, sudden news of affliction, and secret
+LINE 112: consternation at the thought of the guest in the garden.
+LINE 113: "O John, I _am_ so tired and hot and cross and worried! I've been at it
+LINE 114: till I'm all worn out. Do come and help me or I _shall_ die!" and the
+LINE 115: exhausted housewife cast herself upon his breast, giving him a sweet
+LINE 116: welcome in every sense of the word, for her pinafore had been baptized
+LINE 117: at the same time as the floor.
+LINE 118: "What worries you, dear? Has anything dreadful happened?" asked the
+LINE 119: anxious John, tenderly kissing the crown of the little cap, which was
+LINE 120: all askew.
+LINE 121: "Yes," sobbed Meg despairingly.
+LINE 122: "Tell me quick, then. Don't cry, I can bear anything better than that.
+LINE 123: Out with it, love."
+LINE 124: "The--the jelly won't jell and I don't know what to do!"
+LINE 125: John Brooke laughed then as he never dared to laugh afterward; and the
+LINE 126: derisive Scott smiled involuntarily as he heard the hearty peal, which
+LINE 127: put the finishing stroke to poor Meg's woe.
+LINE 128: "Is that all? Fling it out of window, and don't bother any more about
+LINE 129: it. I'll buy you quarts if you want it; but for heaven's sake don't have
+LINE 130: hysterics, for I've brought Jack Scott home to dinner, and--"
+LINE 131: John got no further, for Meg cast him off, and clasped her hands with a
+LINE 132: tragic gesture as she fell into a chair, exclaiming in a tone of mingled
+LINE 133: indignation, reproach, and dismay,--
+LINE 134: "A man to dinner, and everything in a mess! John Brooke, how _could_ you
+LINE 135: do such a thing?"
+LINE 136: "Hush, he's in the garden! I forgot the confounded jelly, but it can't
+LINE 137: be helped now," said John, surveying the prospect with an anxious eye.
+LINE 138: "You ought to have sent word, or told me this morning, and you ought to
+LINE 139: have remembered how busy I was," continued Meg petulantly; for even
+LINE 140: turtle-doves will peck when ruffled.
+LINE 141: "I didn't know it this morning, and there was no time to send word, for
+LINE 142: I met him on the way out. I never thought of asking leave, when you have
+LINE 143: always told me to do as I liked. I never tried it before, and hang me if
+LINE 144: I ever do again!" added John, with an aggrieved air.
+LINE 145: "I should hope not! Take him away at once; I can't see him, and there
+LINE 146: isn't any dinner."
+LINE 147: "Well, I like that! Where's the beef and vegetables I sent home, and the
+LINE 148: pudding you promised?" cried John, rushing to the larder.
+LINE 149: "I hadn't time to cook anything; I meant to dine at mother's. I'm sorry,
+LINE 150: but I was _so_ busy;" and Meg's tears began again.
+LINE 151: John was a mild man, but he was human; and after a long day's work, to
+LINE 152: come home tired, hungry, and hopeful, to find a chaotic house, an empty
+LINE 153: table, and a cross wife was not exactly conducive to repose of mind or
+LINE 154: manner. He restrained himself, however, and the little squall would have
+LINE 155: blown over, but for one unlucky word.
+LINE 156: "It's a scrape, I acknowledge; but if you will lend a hand, we'll pull
+LINE 157: through, and have a good time yet. Don't cry, dear, but just exert
+LINE 158: yourself a bit, and knock us up something to eat. We're both as hungry
+LINE 159: as hunters, so we sha'n't mind what it is. Give us the cold meat, and
+LINE 160: bread and cheese; we won't ask for jelly."
+LINE 161: He meant it for a good-natured joke; but that one word sealed his fate.
+LINE 162: Meg thought it was _too_ cruel to hint about her sad failure, and the
+LINE 163: last atom of patience vanished as he spoke.
+LINE 164: "You must get yourself out of the scrape as you can; I'm too used up to
+LINE 165: 'exert' myself for any one. It's like a man to propose a bone and vulgar
+LINE 166: bread and cheese for company. I won't have anything of the sort in my
+LINE 167: house. Take that Scott up to mother's, and tell him I'm away, sick,
+LINE 168: dead,--anything. I won't see him, and you two can laugh at me and my
+LINE 169: jelly as much as you like: you won't have anything else here;" and
+LINE 170: having delivered her defiance all in one breath, Meg cast away her
+LINE 171: pinafore, and precipitately left the field to bemoan herself in her own
+LINE 172: room.
+LINE 173: What those two creatures did in her absence, she never knew; but Mr.
+LINE 174: Scott was not taken "up to mother's," and when Meg descended, after they
+LINE 175: had strolled away together, she found traces of a promiscuous lunch
+LINE 176: which filled her with horror. Lotty reported that they had eaten "a
+LINE 177: much, and greatly laughed, and the master bid her throw away all the
+LINE 178: sweet stuff, and hide the pots."
+LINE 179: Meg longed to go and tell mother; but a sense of shame at her own
+LINE 180: short-comings, of loyalty to John, "who might be cruel, but nobody
+LINE 181: should know it," restrained her; and after a summary clearing up, she
+LINE 182: dressed herself prettily, and sat down to wait for John to come and be
+LINE 183: forgiven.
+LINE 184: Unfortunately, John didn't come, not seeing the matter in that light. He
+LINE 185: had carried it off as a good joke with Scott, excused his little wife as
+LINE 186: well as he could, and played the host so hospitably that his friend
+LINE 187: enjoyed the impromptu dinner, and promised to come again. But John was
+LINE 188: angry, though he did not show it; he felt that Meg had got him into a
+LINE 189: scrape, and then deserted him in his hour of need. "It wasn't fair to
+LINE 190: tell a man to bring folks home any time, with perfect freedom, and when
+LINE 191: he took you at your word, to flame up and blame him, and leave him in
+LINE 192: the lurch, to be laughed at or pitied. No, by George, it wasn't! and Meg
+LINE 193: must know it." He had fumed inwardly during the feast, but when the
+LINE 194: flurry was over, and he strolled home, after seeing Scott off, a milder
+LINE 195: mood came over him. "Poor little thing! it was hard upon her when she
+LINE 196: tried so heartily to please me. She was wrong, of course, but then she
+LINE 197: was young. I must be patient and teach her." He hoped she had not gone
+LINE 198: home--he hated gossip and interference. For a minute he was ruffled
+LINE 199: again at the mere thought of it; and then the fear that Meg would cry
+LINE 200: herself sick softened his heart, and sent him on at a quicker pace,
+LINE 201: resolving to be calm and kind, but firm, quite firm, and show her where
+LINE 202: she had failed in her duty to her spouse.
+LINE 203: Meg likewise resolved to be "calm and kind, but firm," and show _him_
+LINE 204: his duty. She longed to run to meet him, and beg pardon, and be kissed
+LINE 205: and comforted, as she was sure of being; but, of course, she did nothing
+LINE 206: of the sort, and when she saw John coming, began to hum quite naturally,
+LINE 207: as she rocked and sewed, like a lady of leisure in her best parlor.
+LINE 208: John was a little disappointed not to find a tender Niobe; but, feeling
+LINE 209: that his dignity demanded the first apology, he made none, only came
+LINE 210: leisurely in, and laid himself upon the sofa, with the singularly
+LINE 211: relevant remark,--
+LINE 212: "We are going to have a new moon, my dear."
+LINE 213: "I've no objection," was Meg's equally soothing remark.
+LINE 214: A few other topics of general interest were introduced by Mr. Brooke,
+LINE 215: and wet-blanketed by Mrs. Brooke, and conversation languished. John went
+LINE 216: to one window, unfolded his paper, and wrapped himself in it,
+LINE 217: figuratively speaking. Meg went to the other window, and sewed as if new
+LINE 218: rosettes for her slippers were among the necessaries of life. Neither
+LINE 219: spoke; both looked quite "calm and firm," and both felt desperately
+LINE 220: uncomfortable.
+LINE 221: [Illustration: Both felt desperately uncomfortable]
+LINE 222: "Oh dear," thought Meg, "married life is very trying, and does need
+LINE 223: infinite patience, as well as love, as mother says." The word "mother"
+LINE 224: suggested other maternal counsels, given long ago, and received with
+LINE 225: unbelieving protests.
+LINE 226: "John is a good man, but he has his faults, and you must learn to see
+LINE 227: and bear with them, remembering your own. He is very decided, but never
+LINE 228: will be obstinate, if you reason kindly, not oppose impatiently. He is
+LINE 229: very accurate, and particular about the truth--a good trait, though you
+LINE 230: call him 'fussy.' Never deceive him by look or word, Meg, and he will
+LINE 231: give you the confidence you deserve, the support you need. He has a
+LINE 232: temper, not like ours,--one flash, and then all over,--but the white,
+LINE 233: still anger, that is seldom stirred, but once kindled, is hard to
+LINE 234: quench. Be careful, very careful, not to wake this anger against
+LINE 235: yourself, for peace and happiness depend on keeping his respect. Watch
+LINE 236: yourself, be the first to ask pardon if you both err, and guard against
+LINE 237: the little piques, misunderstandings, and hasty words that often pave
+LINE 238: the way for bitter sorrow and regret."
+LINE 239: These words came back to Meg, as she sat sewing in the sunset,
+LINE 240: especially the last. This was the first serious disagreement; her own
+LINE 241: hasty speeches sounded both silly and unkind, as she recalled them, her
+LINE 242: own anger looked childish now, and thoughts of poor John coming home to
+LINE 243: such a scene quite melted her heart. She glanced at him with tears in
+LINE 244: her eyes, but he did not see them; she put down her work and got up,
+LINE 245: thinking, "I _will_ be the first to say, 'Forgive me,'" but he did not
+LINE 246: seem to hear her; she went very slowly across the room, for pride was
+LINE 247: hard to swallow, and stood by him, but he did not turn his head. For a
+LINE 248: minute she felt as if she really couldn't do it; then came the thought,
+LINE 249: "This is the beginning, I'll do my part, and have nothing to reproach
+LINE 250: myself with," and stooping down, she softly kissed her husband on the
+LINE 251: forehead. Of course that settled it; the penitent kiss was better than a
+LINE 252: world of words, and John had her on his knee in a minute, saying
+LINE 253: tenderly,--
+LINE 254: "It was too bad to laugh at the poor little jelly-pots. Forgive me,
+LINE 255: dear, I never will again!"
+LINE 256: But he did, oh bless you, yes, hundreds of times, and so did Meg, both
+LINE 257: declaring that it was the sweetest jelly they ever made; for family
+LINE 258: peace was preserved in that little family jar.
+LINE 259: After this, Meg had Mr. Scott to dinner by special invitation, and
+LINE 260: served him up a pleasant feast without a cooked wife for the first
+LINE 261: course; on which occasion she was so gay and gracious, and made
+LINE 262: everything go off so charmingly, that Mr. Scott told John he was a happy
+LINE 263: fellow, and shook his head over the hardships of bachelorhood all the
+LINE 264: way home.
+LINE 265: In the autumn, new trials and experiences came to Meg. Sallie Moffat
+LINE 266: renewed her friendship, was always running out for a dish of gossip at
+LINE 267: the little house, or inviting "that poor dear" to come in and spend the
+LINE 268: day at the big house. It was pleasant, for in dull weather Meg often
+LINE 269: felt lonely; all were busy at home, John absent till night, and nothing
+LINE 270: to do but sew, or read, or potter about. So it naturally fell out that
+LINE 271: Meg got into the way of gadding and gossiping with her friend. Seeing
+LINE 272: Sallie's pretty things made her long for such, and pity herself because
+LINE 273: she had not got them. Sallie was very kind, and often offered her the
+LINE 274: coveted trifles; but Meg declined them, knowing that John wouldn't like
+LINE 275: it; and then this foolish little woman went and did what John disliked
+LINE 276: infinitely worse.
+LINE 277: She knew her husband's income, and she loved to feel that he trusted
+LINE 278: her, not only with his happiness, but what some men seem to value
+LINE 279: more,--his money. She knew where it was, was free to take what she
+LINE 280: liked, and all he asked was that she should keep account of every penny,
+LINE 281: pay bills once a month, and remember that she was a poor man's wife.
+LINE 282: Till now, she had done well, been prudent and exact, kept her little
+LINE 283: account-books neatly, and showed them to him monthly without fear. But
+LINE 284: that autumn the serpent got into Meg's paradise, and tempted her, like
+LINE 285: many a modern Eve, not with apples, but with dress. Meg didn't like to
+LINE 286: be pitied and made to feel poor; it irritated her, but she was ashamed
+LINE 287: to confess it, and now and then she tried to console herself by buying
+LINE 288: something pretty, so that Sallie needn't think she had to economize. She
+LINE 289: always felt wicked after it, for the pretty things were seldom
+LINE 290: necessaries; but then they cost so little, it wasn't worth worrying
+LINE 291: about; so the trifles increased unconsciously, and in the shopping
+LINE 292: excursions she was no longer a passive looker-on.
+LINE 293: But the trifles cost more than one would imagine; and when she cast up
+LINE 294: her accounts at the end of the month, the sum total rather scared her.
+LINE 295: John was busy that month, and left the bills to her; the next month he
+LINE 296: was absent; but the third he had a grand quarterly settling up, and Meg
+LINE 297: never forgot it. A few days before she had done a dreadful thing, and it
+LINE 298: weighed upon her conscience. Sallie had been buying silks, and Meg
+LINE 299: longed for a new one,--just a handsome light one for parties, her black
+LINE 300: silk was so common, and thin things for evening wear were only proper
+LINE 301: for girls. Aunt March usually gave the sisters a present of twenty-five
+LINE 302: dollars apiece at New Year; that was only a month to wait, and here was
+LINE 303: a lovely violet silk going at a bargain, and she had the money, if she
+LINE 304: only dared to take it. John always said what was his was hers; but would
+LINE 305: he think it right to spend not only the prospective five-and-twenty, but
+LINE 306: another five-and-twenty out of the household fund? That was the
+LINE 307: question. Sallie had urged her to do it, had offered to loan the money,
+LINE 308: and with the best intentions in life, had tempted Meg beyond her
+LINE 309: strength. In an evil moment the shopman held up the lovely, shimmering
+LINE 310: folds, and said, "A bargain, I assure you, ma'am." She answered, "I'll
+LINE 311: take it;" and it was cut off and paid for, and Sallie had exulted, and
+LINE 312: she had laughed as if it were a thing of no consequence, and driven
+LINE 313: away, feeling as if she had stolen something, and the police were after
+LINE 314: her.
+LINE 315: [Illustration: A bargain, I assure you, ma'am]
+LINE 316: When she got home, she tried to assuage the pangs of remorse by
+LINE 317: spreading forth the lovely silk; but it looked less silvery now, didn't
+LINE 318: become her, after all, and the words "fifty dollars" seemed stamped like
+LINE 319: a pattern down each breadth. She put it away; but it haunted her, not
+LINE 320: delightfully, as a new dress should, but dreadfully, like the ghost of a
+LINE 321: folly that was not easily laid. When John got out his books that night,
+LINE 322: Meg's heart sank, and for the first time in her married life, she was
+LINE 323: afraid of her husband. The kind, brown eyes looked as if they could be
+LINE 324: stern; and though he was unusually merry, she fancied he had found her
+LINE 325: out, but didn't mean to let her know it. The house-bills were all paid,
+LINE 326: the books all in order. John had praised her, and was undoing the old
+LINE 327: pocket-book which they called the "bank," when Meg, knowing that it was
+LINE 328: quite empty, stopped his hand, saying nervously,--
+LINE 329: "You haven't seen my private expense book yet."
+LINE 330: John never asked to see it; but she always insisted on his doing so, and
+LINE 331: used to enjoy his masculine amazement at the queer things women wanted,
+LINE 332: and made him guess what "piping" was, demand fiercely the meaning of a
+LINE 333: "hug-me-tight," or wonder how a little thing composed of three rosebuds,
+LINE 334: a bit of velvet, and a pair of strings, could possibly be a bonnet, and
+LINE 335: cost five or six dollars. That night he looked as if he would like the
+LINE 336: fun of quizzing her figures and pretending to be horrified at her
+LINE 337: extravagance, as he often did, being particularly proud of his prudent
+LINE 338: wife.
+LINE 339: The little book was brought slowly out, and laid down before him. Meg
+LINE 340: got behind his chair under pretence of smoothing the wrinkles out of his
+LINE 341: tired forehead, and standing there, she said, with her panic increasing
+LINE 342: with every word,--
+LINE 343: "John, dear, I'm ashamed to show you my book, for I've really been
+LINE 344: dreadfully extravagant lately. I go about so much I must have things,
+LINE 345: you know, and Sallie advised my getting it, so I did; and my New-Year's
+LINE 346: money will partly pay for it: but I was sorry after I'd done it, for I
+LINE 347: knew you'd think it wrong in me."
+LINE 348: John laughed, and drew her round beside him, saying good-humoredly,
+LINE 349: "Don't go and hide. I won't beat you if you _have_ got a pair of killing
+LINE 350: boots; I'm rather proud of my wife's feet, and don't mind if she does
+LINE 351: pay eight or nine dollars for her boots, if they are good ones."
+LINE 352: That had been one of her last "trifles," and John's eye had fallen on it
+LINE 353: as he spoke. "Oh, what _will_ he say when he comes to that awful fifty
+LINE 354: dollars!" thought Meg, with a shiver.
+LINE 355: "It's worse than boots, it's a silk dress," she said, with the calmness
+LINE 356: of desperation, for she wanted the worst over.
+LINE 357: "Well, dear, what is the 'dem'd total,' as Mr. Mantalini says?"
+LINE 358: That didn't sound like John, and she knew he was looking up at her with
+LINE 359: the straightforward look that she had always been ready to meet and
+LINE 360: answer with one as frank till now. She turned the page and her head at
+LINE 361: the same time, pointing to the sum which would have been bad enough
+LINE 362: without the fifty, but which was appalling to her with that added. For a
+LINE 363: minute the room was very still; then John said slowly,--but she could
+LINE 364: feel it cost him an effort to express no displeasure,--
+LINE 365: "Well, I don't know that fifty is much for a dress, with all the
+LINE 366: furbelows and notions you have to have to finish it off these days."
+LINE 367: "It isn't made or trimmed," sighed Meg faintly, for a sudden
+LINE 368: recollection of the cost still to be incurred quite overwhelmed her.
+LINE 369: "Twenty-five yards of silk seems a good deal to cover one small woman,
+LINE 370: but I've no doubt my wife will look as fine as Ned Moffat's when she
+LINE 371: gets it on," said John dryly.
+LINE 372: "I know you are angry, John, but I can't help it. I don't mean to waste
+LINE 373: your money, and I didn't think those little things would count up so. I
+LINE 374: can't resist them when I see Sallie buying all she wants, and pitying me
+LINE 375: because I don't. I try to be contented, but it is hard, and I'm tired of
+LINE 376: being poor."
+LINE 377: The last words were spoken so low she thought he did not hear them, but
+LINE 378: he did, and they wounded him deeply, for he had denied himself many
+LINE 379: pleasures for Meg's sake. She could have bitten her tongue out the
+LINE 380: minute she had said it, for John pushed the books away, and got up,
+LINE 381: saying, with a little quiver in his voice, "I was afraid of this; I do
+LINE 382: my best, Meg." If he had scolded her, or even shaken her, it would not
+LINE 383: have broken her heart like those few words. She ran to him and held him
+LINE 384: close, crying, with repentant tears, "O John, my dear, kind,
+LINE 385: hard-working boy, I didn't mean it! It was so wicked, so untrue and
+LINE 386: ungrateful, how could I say it! Oh, how could I say it!"
+LINE 387: He was very kind, forgave her readily, and did not utter one reproach;
+LINE 388: but Meg knew that she had done and said a thing which would not be
+LINE 389: forgotten soon, although he might never allude to it again. She had
+LINE 390: promised to love him for better for worse; and then she, his wife, had
+LINE 391: reproached him with his poverty, after spending his earnings recklessly.
+LINE 392: It was dreadful; and the worst of it was John went on so quietly
+LINE 393: afterward, just as if nothing had happened, except that he stayed in
+LINE 394: town later, and worked at night when she had gone to cry herself to
+LINE 395: sleep. A week of remorse nearly made Meg sick; and the discovery that
+LINE 396: John had countermanded the order for his new great-coat reduced her to a
+LINE 397: state of despair which was pathetic to behold. He had simply said, in
+LINE 398: answer to her surprised inquiries as to the change, "I can't afford it,
+LINE 399: my dear."
+LINE 400: Meg said no more, but a few minutes after he found her in the hall, with
+LINE 401: her face buried in the old great-coat, crying as if her heart would
+LINE 402: break.
+LINE 403: They had a long talk that night, and Meg learned to love her husband
+LINE 404: better for his poverty, because it seemed to have made a man of him,
+LINE 405: given him the strength and courage to fight his own way, and taught him
+LINE 406: a tender patience with which to bear and comfort the natural longings
+LINE 407: and failures of those he loved.
+LINE 408: Next day she put her pride in her pocket, went to Sallie, told the
+LINE 409: truth, and asked her to buy the silk as a favor. The good-natured Mrs.
+LINE 410: Moffat willingly did so, and had the delicacy not to make her a present
+LINE 411: of it immediately afterward. Then Meg ordered home the great-coat, and,
+LINE 412: when John arrived, she put it on, and asked him how he liked her new
+LINE 413: silk gown. One can imagine what answer he made, how he received his
+LINE 414: present, and what a blissful state of things ensued. John came home
+LINE 415: early, Meg gadded no more; and that great-coat was put on in the morning
+LINE 416: by a very happy husband, and taken off at night by a most devoted little
+LINE 417: wife. So the year rolled round, and at midsummer there came to Meg a new
+LINE 418: experience,--the deepest and tenderest of a woman's life.
+LINE 419: Laurie came sneaking into the kitchen of the Dove-cote, one Saturday,
+LINE 420: with an excited face, and was received with the clash of cymbals; for
+LINE 421: Hannah clapped her hands with a saucepan in one and the cover in the
+LINE 422: other.
+LINE 423: "How's the little mamma? Where is everybody? Why didn't you tell me
+LINE 424: before I came home?" began Laurie, in a loud whisper.
+LINE 425: "Happy as a queen, the dear! Every soul of 'em is upstairs a worshipin';
+LINE 426: we didn't want no hurrycanes round. Now you go into the parlor, and I'll
+LINE 427: send 'em down to you," with which somewhat involved reply Hannah
+LINE 428: vanished, chuckling ecstatically.
+LINE 429: Presently Jo appeared, proudly bearing a flannel bundle laid forth upon
+LINE 430: a large pillow. Jo's face was very sober, but her eyes twinkled, and
+LINE 431: there was an odd sound in her voice of repressed emotion of some sort.
+LINE 432: "Shut your eyes and hold out your arms," she said invitingly.
+LINE 433: Laurie backed precipitately into a corner, and put his hands behind him
+LINE 434: with an imploring gesture: "No, thank you, I'd rather not. I shall drop
+LINE 435: it or smash it, as sure as fate."
+LINE 436: "Then you sha'n't see your nevvy," said Jo decidedly, turning as if to
+LINE 437: go.
+LINE 438: "I will, I will! only you must be responsible for damages;" and, obeying
+LINE 439: orders, Laurie heroically shut his eyes while something was put into his
+LINE 440: arms. A peal of laughter from Jo, Amy, Mrs. March, Hannah, and John
+LINE 441: caused him to open them the next minute, to find himself invested with
+LINE 442: two babies instead of one.
+LINE 443: [Illustration: Laurie heroically shut his eyes while something was put
+LINE 444: into his arms]
+LINE 445: No wonder they laughed, for the expression of his face was droll enough
+LINE 446: to convulse a Quaker, as he stood and stared wildly from the unconscious
+LINE 447: innocents to the hilarious spectators, with such dismay that Jo sat down
+LINE 448: on the floor and screamed.
+LINE 449: "Twins, by Jupiter!" was all he said for a minute; then, turning to the
+LINE 450: women with an appealing look that was comically piteous, he added, "Take
+LINE 451: 'em quick, somebody! I'm going to laugh, and I shall drop 'em."
+LINE 452: John rescued his babies, and marched up and down, with one on each arm,
+LINE 453: as if already initiated into the mysteries of baby-tending, while Laurie
+LINE 454: laughed till the tears ran down his cheeks.
+LINE 455: "It's the best joke of the season, isn't it? I wouldn't have you told,
+LINE 456: for I set my heart on surprising you, and I flatter myself I've done
+LINE 457: it," said Jo, when she got her breath.
+LINE 458: "I never was more staggered in my life. Isn't it fun? Are they boys?
+LINE 459: What are you going to name them? Let's have another look. Hold me up,
+LINE 460: Jo; for upon my life it's one too many for me," returned Laurie,
+LINE 461: regarding the infants with the air of a big, benevolent Newfoundland
+LINE 462: looking at a pair of infantile kittens.
+LINE 463: "Boy and girl. Aren't they beauties?" said the proud papa, beaming upon
+LINE 464: the little, red squirmers as if they were unfledged angels.
+LINE 465: "Most remarkable children I ever saw. Which is which?" and Laurie bent
+LINE 466: like a well-sweep to examine the prodigies.
+LINE 467: "Amy put a blue ribbon on the boy and a pink on the girl, French
+LINE 468: fashion, so you can always tell. Besides, one has blue eyes and one
+LINE 469: brown. Kiss them, Uncle Teddy," said wicked Jo.
+LINE 470: "I'm afraid they mightn't like it," began Laurie, with unusual timidity
+LINE 471: in such matters.
+LINE 472: "Of course they will; they are used to it now. Do it this minute, sir!"
+LINE 473: commanded Jo, fearing he might propose a proxy.
+LINE 474: Laurie screwed up his face, and obeyed with a gingerly peck at each
+LINE 475: little cheek that produced another laugh, and made the babies squeal.
+LINE 476: "There, I knew they didn't like it! That's the boy; see him kick; he
+LINE 477: hits out with his fists like a good one. Now then, young Brooke, pitch
+LINE 478: into a man of your own size, will you?" cried Laurie, delighted with a
+LINE 479: poke in the face from a tiny fist, flapping aimlessly about.
+LINE 480: "He's to be named John Laurence, and the girl Margaret, after mother and
+LINE 481: grandmother. We shall call her Daisy, so as not to have two Megs, and I
+LINE 482: suppose the mannie will be Jack, unless we find a better name," said
+LINE 483: Amy, with aunt-like interest.
+LINE 484: "Name him Demijohn, and call him 'Demi' for short," said Laurie.
+LINE 485: "Daisy and Demi,--just the thing! I _knew_ Teddy would do it," cried Jo,
+LINE 486: clapping her hands.
+LINE 487: Teddy certainly had done it that time, for the babies were "Daisy" and
+LINE 488: "Demi" to the end of the chapter.

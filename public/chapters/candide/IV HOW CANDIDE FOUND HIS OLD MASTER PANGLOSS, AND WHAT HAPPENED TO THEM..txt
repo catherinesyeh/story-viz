@@ -1,0 +1,94 @@
+LINE 1: Candide, yet more moved with compassion than with horror, gave to this
+LINE 2: shocking beggar the two florins which he had received from the honest
+LINE 3: Anabaptist James. The spectre looked at him very earnestly, dropped a
+LINE 4: few tears, and fell upon his neck. Candide recoiled in disgust.
+LINE 5: "Alas!" said one wretch to the other, "do you no longer know your dear
+LINE 6: Pangloss?"
+LINE 7: "What do I hear? You, my dear master! you in this terrible plight! What
+LINE 8: misfortune has happened to you? Why are you no longer in the most
+LINE 9: magnificent of castles? What has become of Miss Cunegonde, the pearl of
+LINE 10: girls, and nature's masterpiece?"
+LINE 11: "I am so weak that I cannot stand," said Pangloss.
+LINE 12: Upon which Candide carried him to the Anabaptist's stable, and gave him
+LINE 13: a crust of bread. As soon as Pangloss had refreshed himself a little:
+LINE 14: "Well," said Candide, "Cunegonde?"
+LINE 15: "She is dead," replied the other.
+LINE 16: Candide fainted at this word; his friend recalled his senses with a
+LINE 17: little bad vinegar which he found by chance in the stable. Candide
+LINE 18: reopened his eyes.
+LINE 19: "Cunegonde is dead! Ah, best of worlds, where art thou? But of what
+LINE 20: illness did she die? Was it not for grief, upon seeing her father kick
+LINE 21: me out of his magnificent castle?"
+LINE 22: "No," said Pangloss, "she was ripped open by the Bulgarian soldiers,
+LINE 23: after having been violated by many; they broke the Baron's head for
+LINE 24: attempting to defend her; my lady, her mother, was cut in pieces; my
+LINE 25: poor pupil was served just in the same manner as his sister; and as for
+LINE 26: the castle, they have not left one stone upon another, not a barn, nor a
+LINE 27: sheep, nor a duck, nor a tree; but we have had our revenge, for the
+LINE 28: Abares have done the very same thing to a neighbouring barony, which
+LINE 29: belonged to a Bulgarian lord."
+LINE 30: At this discourse Candide fainted again; but coming to himself, and
+LINE 31: having said all that it became him to say, inquired into the cause and
+LINE 32: effect, as well as into the _sufficient reason_ that had reduced
+LINE 33: Pangloss to so miserable a plight.
+LINE 34: "Alas!" said the other, "it was love; love, the comfort of the human
+LINE 35: species, the preserver of the universe, the soul of all sensible beings,
+LINE 36: love, tender love."
+LINE 37: "Alas!" said Candide, "I know this love, that sovereign of hearts, that
+LINE 38: soul of our souls; yet it never cost me more than a kiss and twenty
+LINE 39: kicks on the backside. How could this beautiful cause produce in you an
+LINE 40: effect so abominable?"
+LINE 41: Pangloss made answer in these terms: "Oh, my dear Candide, you remember
+LINE 42: Paquette, that pretty wench who waited on our noble Baroness; in her
+LINE 43: arms I tasted the delights of paradise, which produced in me those hell
+LINE 44: torments with which you see me devoured; she was infected with them, she
+LINE 45: is perhaps dead of them. This present Paquette received of a learned
+LINE 46: Grey Friar, who had traced it to its source; he had had it of an old
+LINE 47: countess, who had received it from a cavalry captain, who owed it to a
+LINE 48: marchioness, who took it from a page, who had received it from a Jesuit,
+LINE 49: who when a novice had it in a direct line from one of the companions of
+LINE 50: Christopher Columbus.[3] For my part I shall give it to nobody, I am
+LINE 51: dying."
+LINE 52: "Oh, Pangloss!" cried Candide, "what a strange genealogy! Is not the
+LINE 53: Devil the original stock of it?"
+LINE 54: "Not at all," replied this great man, "it was a thing unavoidable, a
+LINE 55: necessary ingredient in the best of worlds; for if Columbus had not in
+LINE 56: an island of America caught this disease, which contaminates the source
+LINE 57: of life, frequently even hinders generation, and which is evidently
+LINE 58: opposed to the great end of nature, we should have neither chocolate nor
+LINE 59: cochineal. We are also to observe that upon our continent, this
+LINE 60: distemper is like religious controversy, confined to a particular spot.
+LINE 61: The Turks, the Indians, the Persians, the Chinese, the Siamese, the
+LINE 62: Japanese, know nothing of it; but there is a sufficient reason for
+LINE 63: believing that they will know it in their turn in a few centuries. In
+LINE 64: the meantime, it has made marvellous progress among us, especially in
+LINE 65: those great armies composed of honest well-disciplined hirelings, who
+LINE 66: decide the destiny of states; for we may safely affirm that when an army
+LINE 67: of thirty thousand men fights another of an equal number, there are
+LINE 68: about twenty thousand of them p-x-d on each side."
+LINE 69: "Well, this is wonderful!" said Candide, "but you must get cured."
+LINE 70: "Alas! how can I?" said Pangloss, "I have not a farthing, my friend, and
+LINE 71: all over the globe there is no letting of blood or taking a glister,
+LINE 72: without paying, or somebody paying for you."
+LINE 73: These last words determined Candide; he went and flung himself at the
+LINE 74: feet of the charitable Anabaptist James, and gave him so touching a
+LINE 75: picture of the state to which his friend was reduced, that the good man
+LINE 76: did not scruple to take Dr. Pangloss into his house, and had him cured
+LINE 77: at his expense. In the cure Pangloss lost only an eye and an ear. He
+LINE 78: wrote well, and knew arithmetic perfectly. The Anabaptist James made him
+LINE 79: his bookkeeper. At the end of two months, being obliged to go to Lisbon
+LINE 80: about some mercantile affairs, he took the two philosophers with him in
+LINE 81: his ship. Pangloss explained to him how everything was so constituted
+LINE 82: that it could not be better. James was not of this opinion.
+LINE 83: "It is more likely," said he, "mankind have a little corrupted nature,
+LINE 84: for they were not born wolves, and they have become wolves; God has
+LINE 85: given them neither cannon of four-and-twenty pounders, nor bayonets; and
+LINE 86: yet they have made cannon and bayonets to destroy one another. Into this
+LINE 87: account I might throw not only bankrupts, but Justice which seizes on
+LINE 88: the effects of bankrupts to cheat the creditors."
+LINE 89: "All this was indispensable," replied the one-eyed doctor, "for private
+LINE 90: misfortunes make the general good, so that the more private misfortunes
+LINE 91: there are the greater is the general good."
+LINE 92: While he reasoned, the sky darkened, the winds blew from the four
+LINE 93: quarters, and the ship was assailed by a most terrible tempest within
+LINE 94: sight of the port of Lisbon.

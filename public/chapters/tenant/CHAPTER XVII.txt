@@ -1,0 +1,274 @@
+LINE 1: The next day I accompanied my uncle and aunt to a dinner-party at Mr.
+LINE 2: Wilmot's. He had two ladies staying with him: his niece Annabella, a
+LINE 3: fine dashing girl, or rather young woman,—of some five-and-twenty, too
+LINE 4: great a flirt to be married, according to her own assertion, but
+LINE 5: greatly admired by the gentlemen, who universally pronounced her a
+LINE 6: splendid woman; and her gentle cousin, Milicent Hargrave, who had taken
+LINE 7: a violent fancy to me, mistaking me for something vastly better than I
+LINE 8: was. And I, in return, was very fond of her. I should entirely exclude
+LINE 9: poor Milicent in my general animadversions against the ladies of my
+LINE 10: acquaintance. But it was not on her account, or her cousin's, that I
+LINE 11: have mentioned the party: it was for the sake of another of Mr.
+LINE 12: Wilmot's guests, to wit Mr. Huntingdon. I have good reason to remember
+LINE 13: his presence there, for this was the last time I saw him.
+LINE 14: He did not sit near me at dinner; for it was his fate to hand in a
+LINE 15: capacious old dowager, and mine to be handed in by Mr. Grimsby, a
+LINE 16: friend of his, but a man I very greatly disliked: there was a sinister
+LINE 17: cast in his countenance, and a mixture of lurking ferocity and fulsome
+LINE 18: insincerity in his demeanour, that I could not away with. What a
+LINE 19: tiresome custom that is, by-the-by—one among the many sources of
+LINE 20: factitious annoyance of this ultra-civilised life. If the gentlemen
+LINE 21: _must_ lead the ladies into the dining-room, why cannot they take those
+LINE 22: they like best?
+LINE 23: I am not sure, however, that Mr. Huntingdon would have taken me, if he
+LINE 24: _had_ been at liberty to make his own selection. It is quite possible
+LINE 25: he might have chosen Miss Wilmot; for she seemed bent upon engrossing
+LINE 26: his attention to herself, and he seemed nothing loth to pay the homage
+LINE 27: she demanded. I thought so, at least, when I saw how they talked and
+LINE 28: laughed, and glanced across the table, to the neglect and evident
+LINE 29: umbrage of their respective neighbours—and afterwards, as the gentlemen
+LINE 30: joined us in the drawing-room, when she, immediately upon his entrance,
+LINE 31: loudly called upon him to be the arbiter of a dispute between herself
+LINE 32: and another lady, and he answered the summons with alacrity, and
+LINE 33: decided the question without a moment's hesitation in her
+LINE 34: favour—though, to my thinking, she was obviously in the wrong—and then
+LINE 35: stood chatting familiarly with her and a group of other ladies; while I
+LINE 36: sat with Milicent Hargrave at the opposite end of the room, looking
+LINE 37: over the latter's drawings, and aiding her with my critical
+LINE 38: observations and advice, at her particular desire. But in spite of my
+LINE 39: efforts to remain composed, my attention wandered from the drawings to
+LINE 40: the merry group, and against my better judgment my wrath rose, and
+LINE 41: doubtless my countenance lowered; for Milicent, observing that I must
+LINE 42: be tired of her daubs and scratches, begged I would join the company
+LINE 43: now, and defer the examination of the remainder to another opportunity.
+LINE 44: But while I was assuring her that I had no wish to join them, and was
+LINE 45: not tired, Mr. Huntingdon himself came up to the little round table at
+LINE 46: which we sat.
+LINE 47: "Are these yours?" said he, carelessly taking up one of the drawings.
+LINE 48: "No, they are Miss Hargrave's."
+LINE 49: "Oh! well, let's have a look at them."
+LINE 50: And, regardless of Miss Hargrave's protestations that they were not
+LINE 51: worth looking at, he drew a chair to my side, and receiving the
+LINE 52: drawings, one by one from my hand, successively scanned them over, and
+LINE 53: threw them on the table, but said not a word about them, though he was
+LINE 54: talking all the time. I don't know what Milicent Hargrave thought of
+LINE 55: such conduct, but _I_ found his conversation extremely interesting;
+LINE 56: though, as I afterwards discovered, when I came to analyse it, it was
+LINE 57: chiefly confined to quizzing the different members of the company
+LINE 58: present; and albeit he made some clever remarks, and some excessively
+LINE 59: droll ones, I do not think the whole would appear anything very
+LINE 60: particular, if written here, without the adventitious aids of look, and
+LINE 61: tone, and gesture, and that ineffable but indefinite charm, which cast
+LINE 62: a halo over all he did and said, and which would have made it a delight
+LINE 63: to look in his face, and hear the music of his voice, if he had been
+LINE 64: talking positive nonsense—and which, moreover, made me feel so bitter
+LINE 65: against my aunt when she put a stop to this enjoyment, by coming
+LINE 66: composedly forward, under pretence of wishing to see the drawings, that
+LINE 67: she cared and knew nothing about, and while making believe to examine
+LINE 68: them, addressing herself to Mr. Huntingdon, with one of her coldest and
+LINE 69: most repellent aspects, and beginning a series of the most common-place
+LINE 70: and formidably formal questions and observations, on purpose to wrest
+LINE 71: his attention from me—on purpose to vex me, as I thought: and having
+LINE 72: now looked through the portfolio, I left them to their _tête-à-tête_,
+LINE 73: and seated myself on a sofa, quite apart from the company—never
+LINE 74: thinking how strange such conduct would appear, but merely to indulge,
+LINE 75: at first, the vexation of the moment, and subsequently to enjoy my
+LINE 76: private thoughts.
+LINE 77: But I was not left long alone, for Mr. Wilmot, of all men the least
+LINE 78: welcome, took advantage of my isolated position to come and plant
+LINE 79: himself beside me. I had flattered myself that I had so effectually
+LINE 80: repulsed his advances on all former occasions, that I had nothing more
+LINE 81: to apprehend from his unfortunate predilection; but it seems I was
+LINE 82: mistaken: so great was his confidence, either in his wealth or his
+LINE 83: remaining powers of attraction, and so firm his conviction of feminine
+LINE 84: weakness, that he thought himself warranted to return to the siege,
+LINE 85: which he did with renovated ardour, enkindled by the quantity of wine
+LINE 86: he had drunk—a circumstance that rendered him infinitely the more
+LINE 87: disgusting; but greatly as I abhorred him at that moment, I did not
+LINE 88: like to treat him with rudeness, as I was now his guest, and had just
+LINE 89: been enjoying his hospitality; and I was no hand at a polite but
+LINE 90: determined rejection, nor would it have greatly availed me if I had,
+LINE 91: for he was too coarse-minded to take any repulse that was not as plain
+LINE 92: and positive as his own effrontery. The consequence was, that he waxed
+LINE 93: more fulsomely tender, and more repulsively warm, and I was driven to
+LINE 94: the very verge of desperation, and about to say I know not what, when I
+LINE 95: felt my hand, that hung over the arm of the sofa, suddenly taken by
+LINE 96: another and gently but fervently pressed. Instinctively, I guessed who
+LINE 97: it was, and, on looking up, was less surprised than delighted to see
+LINE 98: Mr. Huntingdon smiling upon me. It was like turning from some
+LINE 99: purgatorial fiend to an angel of light, come to announce that the
+LINE 100: season of torment was past.
+LINE 101: "Helen," said he (he frequently called me Helen, and I never resented
+LINE 102: the freedom), "I want you to look at this picture. Mr. Wilmot will
+LINE 103: excuse you a moment, I'm sure."
+LINE 104: I rose with alacrity. He drew my arm within his, and led me across the
+LINE 105: room to a splendid painting of Vandyke's that I had noticed before, but
+LINE 106: not sufficiently examined. After a moment of silent contemplation, I
+LINE 107: was beginning to comment on its beauties and peculiarities, when,
+LINE 108: playfully pressing the hand he still retained within his arm, he
+LINE 109: interrupted me with,—"Never mind the picture: it was not for that I
+LINE 110: brought you here; it was to get you away from that scoundrelly old
+LINE 111: profligate yonder, who is looking as if he would like to challenge me
+LINE 112: for the affront."
+LINE 113: "I am very much obliged to you," said I. "This is twice you have
+LINE 114: delivered me from such unpleasant companionship."
+LINE 115: "Don't be too thankful," he answered: "it is not all kindness to you;
+LINE 116: it is partly from a feeling of spite to your tormentors that makes me
+LINE 117: delighted to do the old fellows a bad turn, though I don't think I have
+LINE 118: any great reason to dread them as rivals. Have I, Helen?"
+LINE 119: "You know I detest them both."
+LINE 120: "And me?"
+LINE 121: "I have no reason to detest _you_."
+LINE 122: "But what are your sentiments towards me? Helen—Speak! How do you
+LINE 123: regard me?"
+LINE 124: And again he pressed my hand; but I feared there was more of conscious
+LINE 125: power than tenderness in his demeanour, and I felt he had no right to
+LINE 126: extort a confession of attachment from me when he had made no
+LINE 127: correspondent avowal himself, and knew not what to answer. At last I
+LINE 128: said,—
+LINE 129: "How do _you_ regard _me?_"
+LINE 130: "Sweet angel, I adore you! I—"
+LINE 131: "Helen, I want you a moment," said the distinct, low voice of my aunt,
+LINE 132: close beside us. And I left him, muttering maledictions against his
+LINE 133: evil angel.
+LINE 134: "Well, aunt, what is it? What do you want?" said I, following her to
+LINE 135: the embrasure of the window.
+LINE 136: "I want you to join the company, when you are fit to be seen," returned
+LINE 137: she, severely regarding me; "but please to stay here a little, till
+LINE 138: that shocking colour is somewhat abated, and your eyes have recovered
+LINE 139: something of their natural expression. I should be ashamed for anyone
+LINE 140: to see you in your present state."
+LINE 141: Of course, such a remark had no effect in reducing the "shocking
+LINE 142: colour"; on the contrary, I felt my face glow with redoubled fires
+LINE 143: kindled by a complication of emotions, of which indignant, swelling
+LINE 144: anger was the chief. I offered no reply, however, but pushed aside the
+LINE 145: curtain and looked into the night—or rather into the lamp-lit square.
+LINE 146: "Was Mr. Huntingdon proposing to you, Helen?" inquired my too watchful
+LINE 147: relative.
+LINE 148: "No."
+LINE 149: "What was he saying then? I heard something very like it."
+LINE 150: "I don't know what he would have said, if you hadn't interrupted him."
+LINE 151: "And would you have accepted him, Helen, if he had proposed?"
+LINE 152: "Of course not—without consulting uncle and you."
+LINE 153: "Oh! I'm glad, my dear, you have so much prudence left. Well, now," she
+LINE 154: added, after a moment's pause, "you have made yourself conspicuous
+LINE 155: enough for one evening. The ladies are directing inquiring glances
+LINE 156: towards us at this moment, I see: I shall join them. Do you come too,
+LINE 157: when you are sufficiently composed to appear as usual."
+LINE 158: "I am so now."
+LINE 159: "Speak gently then, and don't look so malicious," said my calm, but
+LINE 160: provoking aunt. "We shall return home shortly, and then," she added
+LINE 161: with solemn significance, "I have much to say to you."
+LINE 162: So I went home prepared for a formidable lecture. Little was said by
+LINE 163: either party in the carriage during our short transit homewards; but
+LINE 164: when I had entered my room and thrown myself into an easy-chair, to
+LINE 165: reflect on the events of the day, my aunt followed me thither, and
+LINE 166: having dismissed Rachel, who was carefully stowing away my ornaments,
+LINE 167: closed the door; and placing a chair beside me, or rather at right
+LINE 168: angles with mine, sat down. With due deference I offered her my more
+LINE 169: commodious seat. She declined it, and thus opened the conference: "Do
+LINE 170: you remember, Helen, our conversation the night but one before we left
+LINE 171: Staningley?"
+LINE 172: "Yes, aunt."
+LINE 173: "And do you remember how I warned you against letting your heart be
+LINE 174: stolen from you by those unworthy of its possession, and fixing your
+LINE 175: affections where approbation did not go before, and where reason and
+LINE 176: judgment withheld their sanction?"
+LINE 177: "Yes; but _my_ reason—"
+LINE 178: "Pardon me—and do you remember assuring me that there was no occasion
+LINE 179: for uneasiness on your account; for you should never be _tempted_ to
+LINE 180: marry a man who was deficient in sense or principle, however handsome
+LINE 181: or charming in other respects he might be, for you could not love him;
+LINE 182: you should hate—despise—pity—anything but love him—were not those your
+LINE 183: words?"
+LINE 184: "Yes; but—"
+LINE 185: "And did you not say that your affection _must_ be founded on
+LINE 186: approbation; and that, unless you could approve and honour and respect,
+LINE 187: you could not love?"
+LINE 188: "Yes; but I do approve, and honour, and respect—"
+LINE 189: "How so, my dear? Is Mr. Huntingdon a good man?"
+LINE 190: "He is a much better man than you think him."
+LINE 191: "That is nothing to the purpose. Is he a _good_ man?"
+LINE 192: "Yes—in some respects. He has a good disposition."
+LINE 193: "Is he a man of _principle?_"
+LINE 194: "Perhaps not, exactly; but it is only for want of thought. If he had
+LINE 195: some one to advise him, and remind him of what is right—"
+LINE 196: "He would soon learn, you think—and you yourself would willingly
+LINE 197: undertake to be his teacher? But, my dear, he is, I believe, full ten
+LINE 198: years older than you—how is it that you are so beforehand in moral
+LINE 199: acquirements?"
+LINE 200: "Thanks to you, aunt, I have been well brought up, and had good
+LINE 201: examples always before me, which he, most likely, has not; and,
+LINE 202: besides, he is of a sanguine temperament, and a gay, thoughtless
+LINE 203: temper, and I am naturally inclined to reflection."
+LINE 204: "Well, now you have made him out to be deficient in both sense and
+LINE 205: principle, by your own confession—"
+LINE 206: "Then, my sense and my principle are at his service."
+LINE 207: "That sounds presumptuous, Helen. Do you think you have enough for
+LINE 208: both; and do you imagine your merry, thoughtless profligate would allow
+LINE 209: himself to be guided by a young girl like you?"
+LINE 210: "No; I should not wish to guide him; but I think I might have influence
+LINE 211: sufficient to save him from some errors, and I should think my life
+LINE 212: well spent in the effort to preserve so noble a nature from
+LINE 213: destruction. He always listens attentively now when I speak seriously
+LINE 214: to him (and I often venture to reprove his random way of talking), and
+LINE 215: sometimes he says that if he had me always by his side he should never
+LINE 216: do or say a wicked thing, and that a little daily talk with me would
+LINE 217: make him quite a saint. It may he partly jest and partly flattery, but
+LINE 218: still—"
+LINE 219: "But still you think it may be truth?"
+LINE 220: "If I do think there is any mixture of truth in it, it is not from
+LINE 221: confidence in my own powers, but in _his_ natural goodness. And you
+LINE 222: have no right to call him a profligate, aunt; he is nothing of the
+LINE 223: kind."
+LINE 224: "Who told you so, my dear? What was that story about his intrigue with
+LINE 225: a married lady—Lady who was it?—Miss Wilmot herself was telling you the
+LINE 226: other day?"
+LINE 227: "It was false—false!" I cried. "I don't believe a word of it."
+LINE 228: "You think, then, that he is a virtuous, well-conducted young man?"
+LINE 229: "I know nothing positive respecting his character. I only know that I
+LINE 230: have heard nothing definite against it—nothing that could be proved, at
+LINE 231: least; and till people can prove their slanderous accusations, I will
+LINE 232: not believe them. And I know this, that if he has committed errors,
+LINE 233: they are only such as are common to youth, and such as nobody thinks
+LINE 234: anything about; for I see that everybody likes him, and all the mammas
+LINE 235: smile upon him, and their daughters—and Miss Wilmot herself—are only
+LINE 236: too glad to attract his attention."
+LINE 237: "Helen, the world _may_ look upon such offences as venial; a few
+LINE 238: unprincipled mothers may be anxious to catch a young man of fortune
+LINE 239: without reference _may_ his character; and thoughtless girls _may_ be
+LINE 240: glad to win the smiles of so handsome a gentleman, without seeking to
+LINE 241: penetrate beyond the surface; but _you_, I trusted, were better
+LINE 242: informed than to see with their eyes, and judge with their perverted
+LINE 243: judgment. I did not think _you_ would call these venial errors!"
+LINE 244: "Nor do I, aunt; but if I hate the sins, I love the sinner, and would
+LINE 245: do much for his salvation, even supposing your suspicions to be mainly
+LINE 246: true, which I do not and will not believe."
+LINE 247: "Well, my dear, ask your uncle what sort of company he keeps, and if he
+LINE 248: is not banded with a set of loose, profligate young men, whom he calls
+LINE 249: his friends, his jolly companions, and whose chief delight is to wallow
+LINE 250: in vice, and vie with each other who can run fastest and furthest down
+LINE 251: the headlong road to the place prepared for the devil and his angels."
+LINE 252: "Then I will save him from them."
+LINE 253: "Oh, Helen, Helen! you little know the misery of uniting your fortunes
+LINE 254: to such a man!"
+LINE 255: "I have such confidence in him, aunt, notwithstanding all you say, that
+LINE 256: I would willingly risk my happiness for the chance of securing his. I
+LINE 257: will leave better men to those who only consider their own advantage.
+LINE 258: If he has done amiss, I shall consider my life well spent in saving him
+LINE 259: from the consequences of his early errors, and striving to recall him
+LINE 260: to the path of virtue. God grant me success!"
+LINE 261: Here the conversation ended, for at this juncture my uncle's voice was
+LINE 262: heard from his chamber, loudly calling upon my aunt to come to bed. He
+LINE 263: was in a bad humour that night; for his gout was worse. It had been
+LINE 264: gradually increasing upon him ever since we came to town; and my aunt
+LINE 265: took advantage of the circumstance next morning to persuade him to
+LINE 266: return to the country immediately, without waiting for the close of the
+LINE 267: season. His physician supported and enforced her arguments; and
+LINE 268: contrary to her usual habits, she so hurried the preparations for
+LINE 269: removal (as much for my sake as my uncle's, I think), that in a very
+LINE 270: few days we departed; and I saw no more of Mr. Huntingdon. My aunt
+LINE 271: flatters herself I shall soon forget him—perhaps she thinks I have
+LINE 272: forgotten him already, for I never mention his name; and she may
+LINE 273: continue to think so, till we meet again—if ever that should be. I
+LINE 274: wonder if it will?

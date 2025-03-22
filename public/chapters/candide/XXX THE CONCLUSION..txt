@@ -1,0 +1,141 @@
+LINE 1: At the bottom of his heart Candide had no wish to marry Cunegonde. But
+LINE 2: the extreme impertinence of the Baron determined him to conclude the
+LINE 3: match, and Cunegonde pressed him so strongly that he could not go from
+LINE 4: his word. He consulted Pangloss, Martin, and the faithful Cacambo.
+LINE 5: Pangloss drew up an excellent memorial, wherein he proved that the Baron
+LINE 6: had no right over his sister, and that according to all the laws of the
+LINE 7: empire, she might marry Candide with her left hand. Martin was for
+LINE 8: throwing the Baron into the sea; Cacambo decided that it would be better
+LINE 9: to deliver him up again to the captain of the galley, after which they
+LINE 10: thought to send him back to the General Father of the Order at Rome by
+LINE 11: the first ship. This advice was well received, the old woman approved
+LINE 12: it; they said not a word to his sister; the thing was executed for a
+LINE 13: little money, and they had the double pleasure of entrapping a Jesuit,
+LINE 14: and punishing the pride of a German baron.
+LINE 15: It is natural to imagine that after so many disasters Candide married,
+LINE 16: and living with the philosopher Pangloss, the philosopher Martin, the
+LINE 17: prudent Cacambo, and the old woman, having besides brought so many
+LINE 18: diamonds from the country of the ancient Incas, must have led a very
+LINE 19: happy life. But he was so much imposed upon by the Jews that he had
+LINE 20: nothing left except his small farm; his wife became uglier every day,
+LINE 21: more peevish and unsupportable; the old woman was infirm and even more
+LINE 22: fretful than Cunegonde. Cacambo, who worked in the garden, and took
+LINE 23: vegetables for sale to Constantinople, was fatigued with hard work, and
+LINE 24: cursed his destiny. Pangloss was in despair at not shining in some
+LINE 25: German university. For Martin, he was firmly persuaded that he would be
+LINE 26: as badly off elsewhere, and therefore bore things patiently. Candide,
+LINE 27: Martin, and Pangloss sometimes disputed about morals and metaphysics.
+LINE 28: They often saw passing under the windows of their farm boats full of
+LINE 29: Effendis, Pashas, and Cadis, who were going into banishment to Lemnos,
+LINE 30: Mitylene, or Erzeroum. And they saw other Cadis, Pashas, and Effendis
+LINE 31: coming to supply the place of the exiles, and afterwards exiled in their
+LINE 32: turn. They saw heads decently impaled for presentation to the Sublime
+LINE 33: Porte. Such spectacles as these increased the number of their
+LINE 34: dissertations; and when they did not dispute time hung so heavily upon
+LINE 35: their hands, that one day the old woman ventured to say to them:
+LINE 36: "I want to know which is worse, to be ravished a hundred times by negro
+LINE 37: pirates, to have a buttock cut off, to run the gauntlet among the
+LINE 38: Bulgarians, to be whipped and hanged at an _auto-da-fé_, to be
+LINE 39: dissected, to row in the galleys--in short, to go through all the
+LINE 40: miseries we have undergone, or to stay here and have nothing to do?"
+LINE 41: "It is a great question," said Candide.
+LINE 42: This discourse gave rise to new reflections, and Martin especially
+LINE 43: concluded that man was born to live either in a state of distracting
+LINE 44: inquietude or of lethargic disgust. Candide did not quite agree to that,
+LINE 45: but he affirmed nothing. Pangloss owned that he had always suffered
+LINE 46: horribly, but as he had once asserted that everything went wonderfully
+LINE 47: well, he asserted it still, though he no longer believed it.
+LINE 48: What helped to confirm Martin in his detestable principles, to stagger
+LINE 49: Candide more than ever, and to puzzle Pangloss, was that one day they
+LINE 50: saw Paquette and Friar Giroflée land at the farm in extreme misery. They
+LINE 51: had soon squandered their three thousand piastres, parted, were
+LINE 52: reconciled, quarrelled again, were thrown into gaol, had escaped, and
+LINE 53: Friar Giroflée had at length become Turk. Paquette continued her trade
+LINE 54: wherever she went, but made nothing of it.
+LINE 55: "I foresaw," said Martin to Candide, "that your presents would soon be
+LINE 56: dissipated, and only make them the more miserable. You have rolled in
+LINE 57: millions of money, you and Cacambo; and yet you are not happier than
+LINE 58: Friar Giroflée and Paquette."
+LINE 59: "Ha!" said Pangloss to Paquette, "Providence has then brought you
+LINE 60: amongst us again, my poor child! Do you know that you cost me the tip of
+LINE 61: my nose, an eye, and an ear, as you may see? What a world is this!"
+LINE 62: And now this new adventure set them philosophising more than ever.
+LINE 63: In the neighbourhood there lived a very famous Dervish who was esteemed
+LINE 64: the best philosopher in all Turkey, and they went to consult him.
+LINE 65: Pangloss was the speaker.
+LINE 66: "Master," said he, "we come to beg you to tell why so strange an animal
+LINE 67: as man was made."
+LINE 68: "With what meddlest thou?" said the Dervish; "is it thy business?"
+LINE 69: "But, reverend father," said Candide, "there is horrible evil in this
+LINE 70: world."
+LINE 71: "What signifies it," said the Dervish, "whether there be evil or good?
+LINE 72: When his highness sends a ship to Egypt, does he trouble his head
+LINE 73: whether the mice on board are at their ease or not?"
+LINE 74: "What, then, must we do?" said Pangloss.
+LINE 75: "Hold your tongue," answered the Dervish.
+LINE 76: "I was in hopes," said Pangloss, "that I should reason with you a little
+LINE 77: about causes and effects, about the best of possible worlds, the origin
+LINE 78: of evil, the nature of the soul, and the pre-established harmony."
+LINE 79: At these words, the Dervish shut the door in their faces.
+LINE 80: During this conversation, the news was spread that two Viziers and the
+LINE 81: Mufti had been strangled at Constantinople, and that several of their
+LINE 82: friends had been impaled. This catastrophe made a great noise for some
+LINE 83: hours. Pangloss, Candide, and Martin, returning to the little farm, saw
+LINE 84: a good old man taking the fresh air at his door under an orange bower.
+LINE 85: Pangloss, who was as inquisitive as he was argumentative, asked the old
+LINE 86: man what was the name of the strangled Mufti.
+LINE 87: "I do not know," answered the worthy man, "and I have not known the name
+LINE 88: of any Mufti, nor of any Vizier. I am entirely ignorant of the event you
+LINE 89: mention; I presume in general that they who meddle with the
+LINE 90: administration of public affairs die sometimes miserably, and that they
+LINE 91: deserve it; but I never trouble my head about what is transacting at
+LINE 92: Constantinople; I content myself with sending there for sale the fruits
+LINE 93: of the garden which I cultivate."
+LINE 94: Having said these words, he invited the strangers into his house; his
+LINE 95: two sons and two daughters presented them with several sorts of sherbet,
+LINE 96: which they made themselves, with Kaimak enriched with the candied-peel
+LINE 97: of citrons, with oranges, lemons, pine-apples, pistachio-nuts, and Mocha
+LINE 98: coffee unadulterated with the bad coffee of Batavia or the American
+LINE 99: islands. After which the two daughters of the honest Mussulman perfumed
+LINE 100: the strangers' beards.
+LINE 101: "You must have a vast and magnificent estate," said Candide to the Turk.
+LINE 102: "I have only twenty acres," replied the old man; "I and my children
+LINE 103: cultivate them; our labour preserves us from three great
+LINE 104: evils--weariness, vice, and want."
+LINE 105: Candide, on his way home, made profound reflections on the old man's
+LINE 106: conversation.
+LINE 107: "This honest Turk," said he to Pangloss and Martin, "seems to be in a
+LINE 108: situation far preferable to that of the six kings with whom we had the
+LINE 109: honour of supping."
+LINE 110: "Grandeur," said Pangloss, "is extremely dangerous according to the
+LINE 111: testimony of philosophers. For, in short, Eglon, King of Moab, was
+LINE 112: assassinated by Ehud; Absalom was hung by his hair, and pierced with
+LINE 113: three darts; King Nadab, the son of Jeroboam, was killed by Baasa; King
+LINE 114: Ela by Zimri; Ahaziah by Jehu; Athaliah by Jehoiada; the Kings
+LINE 115: Jehoiakim, Jeconiah, and Zedekiah, were led into captivity. You know how
+LINE 116: perished Croesus, Astyages, Darius, Dionysius of Syracuse, Pyrrhus,
+LINE 117: Perseus, Hannibal, Jugurtha, Ariovistus, Cæsar, Pompey, Nero, Otho,
+LINE 118: Vitellius, Domitian, Richard II. of England, Edward II., Henry VI.,
+LINE 119: Richard III., Mary Stuart, Charles I., the three Henrys of France, the
+LINE 120: Emperor Henry IV.! You know----"
+LINE 121: "I know also," said Candide, "that we must cultivate our garden."
+LINE 122: "You are right," said Pangloss, "for when man was first placed in the
+LINE 123: Garden of Eden, he was put there _ut operaretur eum_, that he might
+LINE 124: cultivate it; which shows that man was not born to be idle."
+LINE 125: "Let us work," said Martin, "without disputing; it is the only way to
+LINE 126: render life tolerable."
+LINE 127: The whole little society entered into this laudable design, according to
+LINE 128: their different abilities. Their little plot of land produced plentiful
+LINE 129: crops. Cunegonde was, indeed, very ugly, but she became an excellent
+LINE 130: pastry cook; Paquette worked at embroidery; the old woman looked after
+LINE 131: the linen. They were all, not excepting Friar Giroflée, of some service
+LINE 132: or other; for he made a good joiner, and became a very honest man.
+LINE 133: Pangloss sometimes said to Candide:
+LINE 134: "There is a concatenation of events in this best of all possible worlds:
+LINE 135: for if you had not been kicked out of a magnificent castle for love of
+LINE 136: Miss Cunegonde: if you had not been put into the Inquisition: if you had
+LINE 137: not walked over America: if you had not stabbed the Baron: if you had
+LINE 138: not lost all your sheep from the fine country of El Dorado: you would
+LINE 139: not be here eating preserved citrons and pistachio-nuts."
+LINE 140: "All that is very well," answered Candide, "but let us cultivate our
+LINE 141: garden."

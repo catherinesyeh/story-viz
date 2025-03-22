@@ -1,0 +1,513 @@
+LINE 1: Though very happy in the social atmosphere about her, and very busy with
+LINE 2: the daily work that earned her bread, and made it sweeter for the
+LINE 3: effort, Jo still found time for literary labors. The purpose which now
+LINE 4: took possession of her was a natural one to a poor and ambitious girl;
+LINE 5: but the means she took to gain her end were not the best. She saw that
+LINE 6: money conferred power: money and power, therefore, she resolved to have;
+LINE 7: not to be used for herself alone, but for those whom she loved more than
+LINE 8: self.
+LINE 9: The dream of filling home with comforts, giving Beth everything she
+LINE 10: wanted, from strawberries in winter to an organ in her bedroom; going
+LINE 11: abroad herself, and always having _more_ than enough, so that she might
+LINE 12: indulge in the luxury of charity, had been for years Jo's most cherished
+LINE 13: castle in the air.
+LINE 14: The prize-story experience had seemed to open a way which might, after
+LINE 15: long travelling and much up-hill work lead to this delightful _château
+LINE 16: en Espagne_. But the novel disaster quenched her courage for a time, for
+LINE 17: public opinion is a giant which has frightened stouter-hearted Jacks on
+LINE 18: bigger bean-stalks than hers. Like that immortal hero, she reposed
+LINE 19: awhile after the first attempt, which resulted in a tumble, and the
+LINE 20: least lovely of the giant's treasures, if I remember rightly. But the
+LINE 21: "up again and take another" spirit was as strong in Jo as in Jack; so
+LINE 22: she scrambled up, on the shady side this time, and got more booty, but
+LINE 23: nearly left behind her what was far more precious than the money-bags.
+LINE 24: She took to writing sensation stories; for in those dark ages, even
+LINE 25: all-perfect America read rubbish. She told no one, but concocted a
+LINE 26: "thrilling tale," and boldly carried it herself to Mr. Dashwood, editor
+LINE 27: of the "Weekly Volcano." She had never read "Sartor Resartus," but she
+LINE 28: had a womanly instinct that clothes possess an influence more powerful
+LINE 29: over many than the worth of character or the magic of manners. So she
+LINE 30: dressed herself in her best, and, trying to persuade herself that she
+LINE 31: was neither excited nor nervous, bravely climbed two pairs of dark and
+LINE 32: dirty stairs to find herself in a disorderly room, a cloud of
+LINE 33: cigar-smoke, and the presence of three gentlemen, sitting with their
+LINE 34: heels rather higher than their hats, which articles of dress none of
+LINE 35: them took the trouble to remove on her appearance. Somewhat daunted by
+LINE 36: this reception, Jo hesitated on the threshold, murmuring in much
+LINE 37: embarrassment,--
+LINE 38: "Excuse me, I was looking for the 'Weekly Volcano' office; I wished to
+LINE 39: see Mr. Dashwood."
+LINE 40: Down went the highest pair of heels, up rose the smokiest gentleman,
+LINE 41: and, carefully cherishing his cigar between his fingers, he advanced,
+LINE 42: with a nod, and a countenance expressive of nothing but sleep. Feeling
+LINE 43: that she must get through the matter somehow, Jo produced her
+LINE 44: manuscript, and, blushing redder and redder with each sentence,
+LINE 45: blundered out fragments of the little speech carefully prepared for the
+LINE 46: occasion.
+LINE 47: "A friend of mine desired me to offer--a story--just as an
+LINE 48: experiment--would like your opinion--be glad to write more if this
+LINE 49: suits."
+LINE 50: While she blushed and blundered, Mr. Dashwood had taken the manuscript,
+LINE 51: and was turning over the leaves with a pair of rather dirty fingers, and
+LINE 52: casting critical glances up and down the neat pages.
+LINE 53: "Not a first attempt, I take it?" observing that the pages were
+LINE 54: numbered, covered only on one side, and not tied up with a ribbon,--sure
+LINE 55: sign of a novice.
+LINE 56: "No, sir; she has had some experience, and got a prize for a tale in the
+LINE 57: 'Blarneystone Banner.'"
+LINE 58: "Oh, did she?" and Mr. Dashwood gave Jo a quick look, which seemed to
+LINE 59: take note of everything she had on, from the bow in her bonnet to the
+LINE 60: buttons on her boots. "Well, you can leave it, if you like. We've more
+LINE 61: of this sort of thing on hand than we know what to do with at present;
+LINE 62: but I'll run my eye over it, and give you an answer next week."
+LINE 63: Now, Jo did _not_ like to leave it, for Mr. Dashwood didn't suit her at
+LINE 64: all; but, under the circumstances, there was nothing for her to do but
+LINE 65: bow and walk away, looking particularly tall and dignified, as she was
+LINE 66: apt to do when nettled or abashed. Just then she was both; for it was
+LINE 67: perfectly evident, from the knowing glances exchanged among the
+LINE 68: gentlemen, that her little fiction of "my friend" was considered a good
+LINE 69: joke; and a laugh, produced by some inaudible remark of the editor, as
+LINE 70: he closed the door, completed her discomfiture. Half resolving never to
+LINE 71: return, she went home, and worked off her irritation by stitching
+LINE 72: pinafores vigorously; and in an hour or two was cool enough to laugh
+LINE 73: over the scene, and long for next week.
+LINE 74: When she went again, Mr. Dashwood was alone, whereat she rejoiced; Mr.
+LINE 75: Dashwood was much wider awake than before, which was agreeable; and Mr.
+LINE 76: Dashwood was not too deeply absorbed in a cigar to remember his manners:
+LINE 77: so the second interview was much more comfortable than the first.
+LINE 78: "We'll take this" (editors never say I), "if you don't object to a few
+LINE 79: alterations. It's too long, but omitting the passages I've marked will
+LINE 80: make it just the right length," he said, in a business-like tone.
+LINE 81: Jo hardly knew her own MS. again, so crumpled and underscored were its
+LINE 82: pages and paragraphs; but, feeling as a tender parent might on being
+LINE 83: asked to cut off her baby's legs in order that it might fit into a new
+LINE 84: cradle, she looked at the marked passages, and was surprised to find
+LINE 85: that all the moral reflections--which she had carefully put in as
+LINE 86: ballast for much romance--had been stricken out.
+LINE 87: "But, sir, I thought every story should have some sort of a moral, so I
+LINE 88: took care to have a few of my sinners repent."
+LINE 89: Mr. Dashwood's editorial gravity relaxed into a smile, for Jo had
+LINE 90: forgotten her "friend," and spoken as only an author could.
+LINE 91: "People want to be amused, not preached at, you know. Morals don't sell
+LINE 92: nowadays;" which was not quite a correct statement, by the way.
+LINE 93: "You think it would do with these alterations, then?"
+LINE 94: "Yes; it's a new plot, and pretty well worked up--language good, and so
+LINE 95: on," was Mr. Dashwood's affable reply.
+LINE 96: "What do you--that is, what compensation--" began Jo, not exactly
+LINE 97: knowing how to express herself.
+LINE 98: "Oh, yes, well, we give from twenty-five to thirty for things of this
+LINE 99: sort. Pay when it comes out," returned Mr. Dashwood, as if that point
+LINE 100: had escaped him; such trifles often do escape the editorial mind, it is
+LINE 101: said.
+LINE 102: "Very well; you can have it," said Jo, handing back the story, with a
+LINE 103: satisfied air; for, after the dollar-a-column work, even twenty-five
+LINE 104: seemed good pay.
+LINE 105: "Shall I tell my friend you will take another if she has one better than
+LINE 106: this?" asked Jo, unconscious of her little slip of the tongue, and
+LINE 107: emboldened by her success.
+LINE 108: "Well, we'll look at it; can't promise to take it. Tell her to make it
+LINE 109: short and spicy, and never mind the moral. What name would your friend
+LINE 110: like to put to it?" in a careless tone.
+LINE 111: "None at all, if you please; she doesn't wish her name to appear, and
+LINE 112: has no _nom de plume_," said Jo, blushing in spite of herself.
+LINE 113: "Just as she likes, of course. The tale will be out next week; will you
+LINE 114: call for the money, or shall I send it?" asked Mr. Dashwood, who felt a
+LINE 115: natural desire to know who his new contributor might be.
+LINE 116: "I'll call. Good morning, sir."
+LINE 117: As she departed, Mr. Dashwood put up his feet, with the graceful remark,
+LINE 118: "Poor and proud, as usual, but she'll do."
+LINE 119: Following Mr. Dashwood's directions, and making Mrs. Northbury her
+LINE 120: model, Jo rashly took a plunge into the frothy sea of sensational
+LINE 121: literature; but, thanks to the life-preserver thrown her by a friend,
+LINE 122: she came up again, not much the worse for her ducking.
+LINE 123: Like most young scribblers, she went abroad for her characters and
+LINE 124: scenery; and banditti, counts, gypsies, nuns, and duchesses appeared
+LINE 125: upon her stage, and played their parts with as much accuracy and spirit
+LINE 126: as could be expected. Her readers were not particular about such trifles
+LINE 127: as grammar, punctuation, and probability, and Mr. Dashwood graciously
+LINE 128: permitted her to fill his columns at the lowest prices, not thinking it
+LINE 129: necessary to tell her that the real cause of his hospitality was the
+LINE 130: fact that one of his hacks, on being offered higher wages, had basely
+LINE 131: left him in the lurch.
+LINE 132: She soon became interested in her work, for her emaciated purse grew
+LINE 133: stout, and the little hoard she was making to take Beth to the mountains
+LINE 134: next summer grew slowly but surely as the weeks passed. One thing
+LINE 135: disturbed her satisfaction, and that was that she did not tell them at
+LINE 136: home. She had a feeling that father and mother would not approve, and
+LINE 137: preferred to have her own way first, and beg pardon afterward. It was
+LINE 138: easy to keep her secret, for no name appeared with her stories; Mr.
+LINE 139: Dashwood had, of course, found it out very soon, but promised to be
+LINE 140: dumb; and, for a wonder, kept his word.
+LINE 141: She thought it would do her no harm, for she sincerely meant to write
+LINE 142: nothing of which she should be ashamed, and quieted all pricks of
+LINE 143: conscience by anticipations of the happy minute when she should show her
+LINE 144: earnings and laugh over her well-kept secret.
+LINE 145: But Mr. Dashwood rejected any but thrilling tales; and, as thrills could
+LINE 146: not be produced except by harrowing up the souls of the readers, history
+LINE 147: and romance, land and sea, science and art, police records and lunatic
+LINE 148: asylums, had to be ransacked for the purpose. Jo soon found that her
+LINE 149: innocent experience had given her but few glimpses of the tragic world
+LINE 150: which underlies society; so, regarding it in a business light, she set
+LINE 151: about supplying her deficiencies with characteristic energy. Eager to
+LINE 152: find material for stories, and bent on making them original in plot, if
+LINE 153: not masterly in execution, she searched newspapers for accidents,
+LINE 154: incidents, and crimes; she excited the suspicions of public librarians
+LINE 155: by asking for works on poisons; she studied faces in the street, and
+LINE 156: characters, good, bad, and indifferent, all about her; she delved in the
+LINE 157: dust of ancient times for facts or fictions so old that they were as
+LINE 158: good as new, and introduced herself to folly, sin, and misery, as well
+LINE 159: as her limited opportunities allowed. She thought she was prospering
+LINE 160: finely; but, unconsciously, she was beginning to desecrate some of the
+LINE 161: womanliest attributes of a woman's character. She was living in bad
+LINE 162: society; and, imaginary though it was, its influence affected her, for
+LINE 163: she was feeding heart and fancy on dangerous and unsubstantial food, and
+LINE 164: was fast brushing the innocent bloom from her nature by a premature
+LINE 165: acquaintance with the darker side of life, which comes soon enough to
+LINE 166: all of us.
+LINE 167: She was beginning to feel rather than see this, for much describing of
+LINE 168: other people's passions and feelings set her to studying and speculating
+LINE 169: about her own,--a morbid amusement, in which healthy young minds do not
+LINE 170: voluntarily indulge. Wrong-doing always brings its own punishment; and,
+LINE 171: when Jo most needed hers, she got it.
+LINE 172: I don't know whether the study of Shakespeare helped her to read
+LINE 173: character, or the natural instinct of a woman for what was honest,
+LINE 174: brave, and strong; but while endowing her imaginary heroes with every
+LINE 175: perfection under the sun, Jo was discovering a live hero, who interested
+LINE 176: her in spite of many human imperfections. Mr. Bhaer, in one of their
+LINE 177: conversations, had advised her to study simple, true, and lovely
+LINE 178: characters, wherever she found them, as good training for a writer. Jo
+LINE 179: took him at his word, for she coolly turned round and studied him,--a
+LINE 180: proceeding which would have much surprised him, had he known it, for the
+LINE 181: worthy Professor was very humble in his own conceit.
+LINE 182: Why everybody liked him was what puzzled Jo, at first. He was neither
+LINE 183: rich nor great, young nor handsome; in no respect what is called
+LINE 184: fascinating, imposing, or brilliant; and yet he was as attractive as a
+LINE 185: genial fire, and people seemed to gather about him as naturally as about
+LINE 186: a warm hearth. He was poor, yet always appeared to be giving something
+LINE 187: away; a stranger, yet every one was his friend; no longer young, but as
+LINE 188: happy-hearted as a boy; plain and peculiar, yet his face looked
+LINE 189: beautiful to many, and his oddities were freely forgiven for his sake.
+LINE 190: Jo often watched him, trying to discover the charm, and, at last,
+LINE 191: decided that it was benevolence which worked the miracle. If he had any
+LINE 192: sorrow, "it sat with its head under its wing," and he turned only his
+LINE 193: sunny side to the world. There were lines upon his forehead, but Time
+LINE 194: seemed to have touched him gently, remembering how kind he was to
+LINE 195: others. The pleasant curves about his mouth were the memorials of many
+LINE 196: friendly words and cheery laughs; his eyes were never cold or hard, and
+LINE 197: his big hand had a warm, strong grasp that was more expressive than
+LINE 198: words.
+LINE 199: His very clothes seemed to partake of the hospitable nature of the
+LINE 200: wearer. They looked as if they were at ease, and liked to make him
+LINE 201: comfortable; his capacious waistcoat was suggestive of a large heart
+LINE 202: underneath; his rusty coat had a social air, and the baggy pockets
+LINE 203: plainly proved that little hands often went in empty and came out full;
+LINE 204: his very boots were benevolent, and his collars never stiff and raspy
+LINE 205: like other people's.
+LINE 206: "That's it!" said Jo to herself, when she at length discovered that
+LINE 207: genuine good-will towards one's fellow-men could beautify and dignify
+LINE 208: even a stout German teacher, who shovelled in his dinner, darned his own
+LINE 209: socks, and was burdened with the name of Bhaer.
+LINE 210: Jo valued goodness highly, but she also possessed a most feminine
+LINE 211: respect for intellect, and a little discovery which she made about the
+LINE 212: Professor added much to her regard for him. He never spoke of himself,
+LINE 213: and no one ever knew that in his native city he had been a man much
+LINE 214: honored and esteemed for learning and integrity, till a countryman came
+LINE 215: to see him, and, in a conversation with Miss Norton, divulged the
+LINE 216: pleasing fact. From her Jo learned it, and liked it all the better
+LINE 217: because Mr. Bhaer had never told it. She felt proud to know that he was
+LINE 218: an honored Professor in Berlin, though only a poor language-master in
+LINE 219: America; and his homely, hard-working life was much beautified by the
+LINE 220: spice of romance which this discovery gave it.
+LINE 221: Another and a better gift than intellect was shown her in a most
+LINE 222: unexpected manner. Miss Norton had the _entrée_ into literary society,
+LINE 223: which Jo would have had no chance of seeing but for her. The solitary
+LINE 224: woman felt an interest in the ambitious girl, and kindly conferred many
+LINE 225: favors of this sort both on Jo and the Professor. She took them with
+LINE 226: her, one night, to a select symposium, held in honor of several
+LINE 227: celebrities.
+LINE 228: [Illustration: A select symposium]
+LINE 229: Jo went prepared to bow down and adore the mighty ones whom she had
+LINE 230: worshipped with youthful enthusiasm afar off. But her reverence for
+LINE 231: genius received a severe shock that night, and it took her some time to
+LINE 232: recover from the discovery that the great creatures were only men and
+LINE 233: women after all. Imagine her dismay, on stealing a glance of timid
+LINE 234: admiration at the poet whose lines suggested an ethereal being fed on
+LINE 235: "spirit, fire, and dew," to behold him devouring his supper with an
+LINE 236: ardor which flushed his intellectual countenance. Turning as from a
+LINE 237: fallen idol, she made other discoveries which rapidly dispelled her
+LINE 238: romantic illusions. The great novelist vibrated between two decanters
+LINE 239: with the regularity of a pendulum; the famous divine flirted openly with
+LINE 240: one of the Madame de Staëls of the age, who looked daggers at another
+LINE 241: Corinne, who was amiably satirizing her, after out-manœuvring her in
+LINE 242: efforts to absorb the profound philosopher, who imbibed tea Johnsonianly
+LINE 243: and appeared to slumber, the loquacity of the lady rendering speech
+LINE 244: impossible. The scientific celebrities, forgetting their mollusks and
+LINE 245: glacial periods, gossiped about art, while devoting themselves to
+LINE 246: oysters and ices with characteristic energy; the young musician, who was
+LINE 247: charming the city like a second Orpheus, talked horses; and the specimen
+LINE 248: of the British nobility present happened to be the most ordinary man of
+LINE 249: the party.
+LINE 250: Before the evening was half over, Jo felt so completely _désillusionée_,
+LINE 251: that she sat down in a corner to recover herself. Mr. Bhaer soon joined
+LINE 252: her, looking rather out of his element, and presently several of the
+LINE 253: philosophers, each mounted on his hobby, came ambling up to hold an
+LINE 254: intellectual tournament in the recess. The conversation was miles beyond
+LINE 255: Jo's comprehension, but she enjoyed it, though Kant and Hegel were
+LINE 256: unknown gods, the Subjective and Objective unintelligible terms; and the
+LINE 257: only thing "evolved from her inner consciousness," was a bad headache
+LINE 258: after it was all over. It dawned upon her gradually that the world was
+LINE 259: being picked to pieces, and put together on new, and, according to the
+LINE 260: talkers, on infinitely better principles than before; that religion was
+LINE 261: in a fair way to be reasoned into nothingness, and intellect was to be
+LINE 262: the only God. Jo knew nothing about philosophy or metaphysics of any
+LINE 263: sort, but a curious excitement, half pleasurable, half painful, came
+LINE 264: over her, as she listened with a sense of being turned adrift into time
+LINE 265: and space, like a young balloon out on a holiday.
+LINE 266: She looked round to see how the Professor liked it, and found him
+LINE 267: looking at her with the grimmest expression she had ever seen him wear.
+LINE 268: He shook his head, and beckoned her to come away; but she was
+LINE 269: fascinated, just then, by the freedom of Speculative Philosophy, and
+LINE 270: kept her seat, trying to find out what the wise gentlemen intended to
+LINE 271: rely upon after they had annihilated all the old beliefs.
+LINE 272: Now, Mr. Bhaer was a diffident man, and slow to offer his own opinions,
+LINE 273: not because they were unsettled, but too sincere and earnest to be
+LINE 274: lightly spoken. As he glanced from Jo to several other young people,
+LINE 275: attracted by the brilliancy of the philosophic pyrotechnics, he knit his
+LINE 276: brows, and longed to speak, fearing that some inflammable young soul
+LINE 277: would be led astray by the rockets, to find, when the display was over,
+LINE 278: that they had only an empty stick or a scorched hand.
+LINE 279: He bore it as long as he could; but when he was appealed to for an
+LINE 280: opinion, he blazed up with honest indignation, and defended religion
+LINE 281: with all the eloquence of truth,--an eloquence which made his broken
+LINE 282: English musical, and his plain face beautiful. He had a hard fight, for
+LINE 283: the wise men argued well; but he didn't know when he was beaten, and
+LINE 284: stood to his colors like a man. Somehow, as he talked, the world got
+LINE 285: right again to Jo; the old beliefs, that had lasted so long, seemed
+LINE 286: better than the new; God was not a blind force, and immortality was not
+LINE 287: a pretty fable, but a blessed fact. She felt as if she had solid ground
+LINE 288: under her feet again; and when Mr. Bhaer paused, out-talked, but not one
+LINE 289: whit convinced, Jo wanted to clap her hands and thank him.
+LINE 290: She did neither; but she remembered this scene, and gave the Professor
+LINE 291: her heartiest respect, for she knew it cost him an effort to speak out
+LINE 292: then and there, because his conscience would not let him be silent. She
+LINE 293: began to see that character is a better possession than money, rank,
+LINE 294: intellect, or beauty; and to feel that if greatness is what a wise man
+LINE 295: has defined it to be, "truth, reverence, and good-will," then her friend
+LINE 296: Friedrich Bhaer was not only good, but great.
+LINE 297: This belief strengthened daily. She valued his esteem, she coveted his
+LINE 298: respect, she wanted to be worthy of his friendship; and, just when the
+LINE 299: wish was sincerest, she came near losing everything. It all grew out of
+LINE 300: a cocked hat; for one evening the Professor came in to give Jo her
+LINE 301: lesson, with a paper soldier-cap on his head, which Tina had put there,
+LINE 302: and he had forgotten to take off.
+LINE 303: "It's evident he doesn't look in his glass before coming down," thought
+LINE 304: Jo, with a smile, as he said "Goot efening," and sat soberly down, quite
+LINE 305: unconscious of the ludicrous contrast between his subject and his
+LINE 306: head-gear, for he was going to read her the "Death of Wallenstein."
+LINE 307: [Illustration: He doesn't prink at his glass before coming]
+LINE 308: She said nothing at first, for she liked to hear him laugh out his big,
+LINE 309: hearty laugh, when anything funny happened, so she left him to discover
+LINE 310: it for himself, and presently forgot all about it; for to hear a German
+LINE 311: read Schiller is rather an absorbing occupation. After the reading came
+LINE 312: the lesson, which was a lively one, for Jo was in a gay mood that night,
+LINE 313: and the cocked-hat kept her eyes dancing with merriment. The Professor
+LINE 314: didn't know what to make of her, and stopped at last, to ask, with an
+LINE 315: air of mild surprise that was irresistible,--
+LINE 316: "Mees Marsch, for what do you laugh in your master's face? Haf you no
+LINE 317: respect for me, that you go on so bad?"
+LINE 318: "How can I be respectful, sir, when you forget to take your hat off?"
+LINE 319: said Jo.
+LINE 320: Lifting his hand to his head, the absent-minded Professor gravely felt
+LINE 321: and removed the little cocked-hat, looked at it a minute, and then threw
+LINE 322: back his head, and laughed like a merry bass-viol.
+LINE 323: "Ah! I see him now; it is that imp Tina who makes me a fool with my cap.
+LINE 324: Well, it is nothing; but see you, if this lesson goes not well, you too
+LINE 325: shall wear him."
+LINE 326: But the lesson did not go at all for a few minutes, because Mr. Bhaer
+LINE 327: caught sight of a picture on the hat, and, unfolding it, said, with an
+LINE 328: air of great disgust,--
+LINE 329: "I wish these papers did not come in the house; they are not for
+LINE 330: children to see, nor young people to read. It is not well, and I haf no
+LINE 331: patience with those who make this harm."
+LINE 332: Jo glanced at the sheet, and saw a pleasing illustration composed of a
+LINE 333: lunatic, a corpse, a villain, and a viper. She did not like it; but the
+LINE 334: impulse that made her turn it over was not one of displeasure, but fear,
+LINE 335: because, for a minute, she fancied the paper was the "Volcano." It was
+LINE 336: not, however, and her panic subsided as she remembered that, even if it
+LINE 337: had been, and one of her own tales in it, there would have been no name
+LINE 338: to betray her. She had betrayed herself, however, by a look and a blush;
+LINE 339: for, though an absent man, the Professor saw a good deal more than
+LINE 340: people fancied. He knew that Jo wrote, and had met her down among the
+LINE 341: newspaper offices more than once; but as she never spoke of it, he asked
+LINE 342: no questions, in spite of a strong desire to see her work. Now it
+LINE 343: occurred to him that she was doing what she was ashamed to own, and it
+LINE 344: troubled him. He did not say to himself, "It is none of my business;
+LINE 345: I've no right to say anything," as many people would have done; he only
+LINE 346: remembered that she was young and poor, a girl far away from mother's
+LINE 347: love and father's care; and he was moved to help her with an impulse as
+LINE 348: quick and natural as that which would prompt him to put out his hand to
+LINE 349: save a baby from a puddle. All this flashed through his mind in a
+LINE 350: minute, but not a trace of it appeared in his face; and by the time the
+LINE 351: paper was turned, and Jo's needle threaded, he was ready to say quite
+LINE 352: naturally, but very gravely,--
+LINE 353: "Yes, you are right to put it from you. I do not like to think that good
+LINE 354: young girls should see such things. They are made pleasant to some, but
+LINE 355: I would more rather give my boys gunpowder to play with than this bad
+LINE 356: trash."
+LINE 357: "All may not be bad, only silly, you know; and if there is a demand for
+LINE 358: it, I don't see any harm in supplying it. Many very respectable people
+LINE 359: make an honest living out of what are called sensation stories," said
+LINE 360: Jo, scratching gathers so energetically that a row of little slits
+LINE 361: followed her pin.
+LINE 362: "There is a demand for whiskey, but I think you and I do not care to
+LINE 363: sell it. If the respectable people knew what harm they did, they would
+LINE 364: not feel that the living _was_ honest. They haf no right to put poison
+LINE 365: in the sugar-plum, and let the small ones eat it. No; they should think
+LINE 366: a little, and sweep mud in the street before they do this thing."
+LINE 367: Mr. Bhaer spoke warmly, and walked to the fire, crumpling the paper in
+LINE 368: his hands. Jo sat still, looking as if the fire had come to her; for her
+LINE 369: cheeks burned long after the cocked hat had turned to smoke, and gone
+LINE 370: harmlessly up the chimney.
+LINE 371: "I should like much to send all the rest after him," muttered the
+LINE 372: Professor, coming back with a relieved air.
+LINE 373: Jo thought what a blaze her pile of papers upstairs would make, and her
+LINE 374: hard-earned money lay rather heavily on her conscience at that minute.
+LINE 375: Then she thought consolingly to herself, "Mine are not like that; they
+LINE 376: are only silly, never bad, so I won't be worried;" and taking up her
+LINE 377: book, she said, with a studious face,--
+LINE 378: "Shall we go on, sir? I'll be very good and proper now."
+LINE 379: "I shall hope so," was all he said, but he meant more than she imagined;
+LINE 380: and the grave, kind look he gave her made her feel as if the words
+LINE 381: "Weekly Volcano" were printed in large type on her forehead.
+LINE 382: As soon as she went to her room, she got out her papers, and carefully
+LINE 383: re-read every one of her stories. Being a little short-sighted, Mr.
+LINE 384: Bhaer sometimes used eye-glasses, and Jo had tried them once, smiling to
+LINE 385: see how they magnified the fine print of her book; now she seemed to
+LINE 386: have got on the Professor's mental or moral spectacles also; for the
+LINE 387: faults of these poor stories glared at her dreadfully, and filled her
+LINE 388: with dismay.
+LINE 389: "They _are_ trash, and will soon be worse than trash if I go on; for
+LINE 390: each is more sensational than the last. I've gone blindly on, hurting
+LINE 391: myself and other people, for the sake of money; I know it's so, for I
+LINE 392: can't read this stuff in sober earnest without being horribly ashamed of
+LINE 393: it; and what _should_ I do if they were seen at home, or Mr. Bhaer got
+LINE 394: hold of them?"
+LINE 395: Jo turned hot at the bare idea, and stuffed the whole bundle into her
+LINE 396: stove, nearly setting the chimney afire with the blaze.
+LINE 397: [Illustration: Jo stuffed the whole bundle into the stove]
+LINE 398: "Yes, that's the best place for such inflammable nonsense; I'd better
+LINE 399: burn the house down, I suppose, than let other people blow themselves up
+LINE 400: with my gunpowder," she thought, as she watched the "Demon of the Jura"
+LINE 401: whisk away, a little black cinder with fiery eyes.
+LINE 402: But when nothing remained of all her three months' work except a heap of
+LINE 403: ashes, and the money in her lap, Jo looked sober, as she sat on the
+LINE 404: floor, wondering what she ought to do about her wages.
+LINE 405: "I think I haven't done much harm _yet_, and may keep this to pay for my
+LINE 406: time," she said, after a long meditation, adding impatiently, "I almost
+LINE 407: wish I hadn't any conscience, it's so inconvenient. If I didn't care
+LINE 408: about doing right, and didn't feel uncomfortable when doing wrong, I
+LINE 409: should get on capitally. I can't help wishing sometimes, that father and
+LINE 410: mother hadn't been so particular about such things."
+LINE 411: Ah, Jo, instead of wishing that, thank God that "father and mother
+LINE 412: _were_ particular," and pity from your heart those who have no such
+LINE 413: guardians to hedge them round with principles which may seem like
+LINE 414: prison-walls to impatient youth, but which will prove sure foundations
+LINE 415: to build character upon in womanhood.
+LINE 416: Jo wrote no more sensational stories, deciding that the money did not
+LINE 417: pay for her share of the sensation; but, going to the other extreme, as
+LINE 418: is the way with people of her stamp, she took a course of Mrs. Sherwood,
+LINE 419: Miss Edgeworth, and Hannah More; and then produced a tale which might
+LINE 420: have been more properly called an essay or a sermon, so intensely moral
+LINE 421: was it. She had her doubts about it from the beginning; for her lively
+LINE 422: fancy and girlish romance felt as ill at ease in the new style as she
+LINE 423: would have done masquerading in the stiff and cumbrous costume of the
+LINE 424: last century. She sent this didactic gem to several markets, but it
+LINE 425: found no purchaser; and she was inclined to agree with Mr. Dashwood,
+LINE 426: that morals didn't sell.
+LINE 427: Then she tried a child's story, which she could easily have disposed of
+LINE 428: if she had not been mercenary enough to demand filthy lucre for it. The
+LINE 429: only person who offered enough to make it worth her while to try
+LINE 430: juvenile literature was a worthy gentleman who felt it his mission to
+LINE 431: convert all the world to his particular belief. But much as she liked to
+LINE 432: write for children, Jo could not consent to depict all her naughty boys
+LINE 433: as being eaten by bears or tossed by mad bulls, because they did not go
+LINE 434: to a particular Sabbath-school, nor all the good infants, who did go, as
+LINE 435: rewarded by every kind of bliss, from gilded gingerbread to escorts of
+LINE 436: angels, when they departed this life with psalms or sermons on their
+LINE 437: lisping tongues. So nothing came of these trials; and Jo corked up her
+LINE 438: inkstand, and said, in a fit of very wholesome humility,--
+LINE 439: "I don't know anything; I'll wait till I do before I try again, and,
+LINE 440: meantime, 'sweep mud in the street,' if I can't do better; that's
+LINE 441: honest, at least;" which decision proved that her second tumble down the
+LINE 442: bean-stalk had done her some good.
+LINE 443: While these internal revolutions were going on, her external life had
+LINE 444: been as busy and uneventful as usual; and if she sometimes looked
+LINE 445: serious or a little sad no one observed it but Professor Bhaer. He did
+LINE 446: it so quietly that Jo never knew he was watching to see if she would
+LINE 447: accept and profit by his reproof; but she stood the test, and he was
+LINE 448: satisfied; for, though no words passed between them, he knew that she
+LINE 449: had given up writing. Not only did he guess it by the fact that the
+LINE 450: second finger of her right hand was no longer inky, but she spent her
+LINE 451: evenings downstairs now, was met no more among newspaper offices, and
+LINE 452: studied with a dogged patience, which assured him that she was bent on
+LINE 453: occupying her mind with something useful, if not pleasant.
+LINE 454: He helped her in many ways, proving himself a true friend, and Jo was
+LINE 455: happy; for, while her pen lay idle, she was learning other lessons
+LINE 456: beside German, and laying a foundation for the sensation story of her
+LINE 457: own life.
+LINE 458: It was a pleasant winter and a long one, for she did not leave Mrs.
+LINE 459: Kirke till June. Every one seemed sorry when the time came; the children
+LINE 460: were inconsolable, and Mr. Bhaer's hair stuck straight up all over his
+LINE 461: head, for he always rumpled it wildly when disturbed in mind.
+LINE 462: "Going home? Ah, you are happy that you haf a home to go in," he said,
+LINE 463: when she told him, and sat silently pulling his beard, in the corner,
+LINE 464: while she held a little levee on that last evening.
+LINE 465: She was going early, so she bade them all good-by over night; and when
+LINE 466: his turn came, she said warmly,--
+LINE 467: "Now, sir, you won't forget to come and see us, if you ever travel our
+LINE 468: way, will you? I'll never forgive you if you do, for I want them all to
+LINE 469: know my friend."
+LINE 470: "Do you? Shall I come?" he asked, looking down at her with an eager
+LINE 471: expression which she did not see.
+LINE 472: "Yes, come next month; Laurie graduates then, and you'd enjoy
+LINE 473: Commencement as something new."
+LINE 474: "That is your best friend, of whom you speak?" he said, in an altered
+LINE 475: tone.
+LINE 476: "Yes, my boy Teddy; I'm very proud of him, and should like you to see
+LINE 477: him."
+LINE 478: Jo looked up then, quite unconscious of anything but her own pleasure in
+LINE 479: the prospect of showing them to one another. Something in Mr. Bhaer's
+LINE 480: face suddenly recalled the fact that she might find Laurie more than a
+LINE 481: "best friend," and, simply because she particularly wished not to look
+LINE 482: as if anything was the matter, she involuntarily began to blush; and the
+LINE 483: more she tried not to, the redder she grew. If it had not been for Tina
+LINE 484: on her knee, she didn't know what would have become of her. Fortunately,
+LINE 485: the child was moved to hug her; so she managed to hide her face an
+LINE 486: instant, hoping the Professor did not see it. But he did, and his own
+LINE 487: changed again from that momentary anxiety to its usual expression, as he
+LINE 488: said cordially,--
+LINE 489: "I fear I shall not make the time for that, but I wish the friend much
+LINE 490: success, and you all happiness. Gott bless you!" and with that, he shook
+LINE 491: hands warmly, shouldered Tina, and went away.
+LINE 492: But after the boys were abed, he sat long before his fire, with the
+LINE 493: tired look on his face, and the "_heimweh_," or homesickness, lying
+LINE 494: heavy at his heart. Once, when he remembered Jo, as she sat with the
+LINE 495: little child in her lap and that new softness in her face, he leaned his
+LINE 496: head on his hands a minute, and then roamed about the room, as if in
+LINE 497: search of something that he could not find.
+LINE 498: "It is not for me; I must not hope it now," he said to himself, with a
+LINE 499: sigh that was almost a groan; then, as if reproaching himself for the
+LINE 500: longing that he could not repress, he went and kissed the two towzled
+LINE 501: heads upon the pillow, took down his seldom-used meerschaum, and opened
+LINE 502: his Plato.
+LINE 503: He did his best, and did it manfully; but I don't think he found that a
+LINE 504: pair of rampant boys, a pipe, or even the divine Plato, were very
+LINE 505: satisfactory substitutes for wife and child and home.
+LINE 506: Early as it was, he was at the station, next morning, to see Jo off;
+LINE 507: and, thanks to him, she began her solitary journey with the pleasant
+LINE 508: memory of a familiar face smiling its farewell, a bunch of violets to
+LINE 509: keep her company, and, best of all, the happy thought,--
+LINE 510: "Well, the winter's gone, and I've written no books, earned no fortune;
+LINE 511: but I've made a friend worth having, and I'll try to keep him all my
+LINE 512: life."
+LINE 513: [Illustration: He put the sisters into the carriage]

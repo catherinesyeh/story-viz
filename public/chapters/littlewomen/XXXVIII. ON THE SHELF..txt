@@ -1,0 +1,423 @@
+LINE 1: In France the young girls have a dull time of it till they are married,
+LINE 2: when "_Vive la liberté_" becomes their motto. In America, as every one
+LINE 3: knows, girls early sign the declaration of independence, and enjoy their
+LINE 4: freedom with republican zest; but the young matrons usually abdicate
+LINE 5: with the first heir to the throne, and go into a seclusion almost as
+LINE 6: close as a French nunnery, though by no means as quiet. Whether they
+LINE 7: like it or not, they are virtually put upon the shelf as soon as the
+LINE 8: wedding excitement is over, and most of them might exclaim, as did a
+LINE 9: very pretty woman the other day, "I'm as handsome as ever, but no one
+LINE 10: takes any notice of me because I'm married."
+LINE 11: Not being a belle or even a fashionable lady, Meg did not experience
+LINE 12: this affliction till her babies were a year old, for in her little world
+LINE 13: primitive customs prevailed, and she found herself more admired and
+LINE 14: beloved than ever.
+LINE 15: As she was a womanly little woman, the maternal instinct was very
+LINE 16: strong, and she was entirely absorbed in her children, to the utter
+LINE 17: exclusion of everything and everybody else. Day and night she brooded
+LINE 18: over them with tireless devotion and anxiety, leaving John to the tender
+LINE 19: mercies of the help, for an Irish lady now presided over the kitchen
+LINE 20: department. Being a domestic man, John decidedly missed the wifely
+LINE 21: attentions he had been accustomed to receive; but, as he adored his
+LINE 22: babies, he cheerfully relinquished his comfort for a time, supposing,
+LINE 23: with masculine ignorance, that peace would soon be restored. But three
+LINE 24: months passed, and there was no return of repose; Meg looked worn and
+LINE 25: nervous, the babies absorbed every minute of her time, the house was
+LINE 26: neglected, and Kitty, the cook, who took life "aisy," kept him on short
+LINE 27: commons. When he went out in the morning he was bewildered by small
+LINE 28: commissions for the captive mamma; if he came gayly in at night, eager
+LINE 29: to embrace his family, he was quenched by a "Hush! they are just asleep
+LINE 30: after worrying all day." If he proposed a little amusement at home, "No,
+LINE 31: it would disturb the babies." If he hinted at a lecture or concert, he
+LINE 32: was answered with a reproachful look, and a decided "Leave my children
+LINE 33: for pleasure, never!" His sleep was broken by infant wails and visions
+LINE 34: of a phantom figure pacing noiselessly to and fro in the watches of the
+LINE 35: night; his meals were interrupted by the frequent flight of the
+LINE 36: presiding genius, who deserted him, half-helped, if a muffled chirp
+LINE 37: sounded from the nest above; and when he read his paper of an evening,
+LINE 38: Demi's colic got into the shipping-list, and Daisy's fall affected the
+LINE 39: price of stocks, for Mrs. Brooke was only interested in domestic news.
+LINE 40: The poor man was very uncomfortable, for the children had bereft him of
+LINE 41: his wife; home was merely a nursery, and the perpetual "hushing" made
+LINE 42: him feel like a brutal intruder whenever he entered the sacred precincts
+LINE 43: of Babyland. He bore it very patiently for six months, and, when no
+LINE 44: signs of amendment appeared, he did what other paternal exiles
+LINE 45: do,--tried to get a little comfort elsewhere. Scott had married and gone
+LINE 46: to housekeeping not far off, and John fell into the way of running over
+LINE 47: for an hour or two of an evening, when his own parlor was empty, and his
+LINE 48: own wife singing lullabies that seemed to have no end. Mrs. Scott was a
+LINE 49: lively, pretty girl, with nothing to do but be agreeable, and she
+LINE 50: performed her mission most successfully. The parlor was always bright
+LINE 51: and attractive, the chess-board ready, the piano in tune, plenty of gay
+LINE 52: gossip, and a nice little supper set forth in tempting style.
+LINE 53: John would have preferred his own fireside if it had not been so lonely;
+LINE 54: but as it was, he gratefully took the next best thing, and enjoyed his
+LINE 55: neighbor's society.
+LINE 56: Meg rather approved of the new arrangement at first, and found it a
+LINE 57: relief to know that John was having a good time instead of dozing in the
+LINE 58: parlor, or tramping about the house and waking the children. But by and
+LINE 59: by, when the teething worry was over, and the idols went to sleep at
+LINE 60: proper hours, leaving mamma time to rest, she began to miss John, and
+LINE 61: find her work-basket dull company, when he was not sitting opposite in
+LINE 62: his old dressing-gown, comfortably scorching his slippers on the fender.
+LINE 63: She would not ask him to stay at home, but felt injured because he did
+LINE 64: not know that she wanted him without being told, entirely forgetting the
+LINE 65: many evenings he had waited for her in vain. She was nervous and worn
+LINE 66: out with watching and worry, and in that unreasonable frame of mind
+LINE 67: which the best of mothers occasionally experience when domestic cares
+LINE 68: oppress them. Want of exercise robs them of cheerfulness, and too much
+LINE 69: devotion to that idol of American women, the teapot, makes them feel as
+LINE 70: if they were all nerve and no muscle.
+LINE 71: "Yes," she would say, looking in the glass, "I'm getting old and ugly;
+LINE 72: John doesn't find me interesting any longer, so he leaves his faded wife
+LINE 73: and goes to see his pretty neighbor, who has no incumbrances. Well, the
+LINE 74: babies love me; they don't care if I am thin and pale, and haven't time
+LINE 75: to crimp my hair; they are my comfort, and some day John will see what
+LINE 76: I've gladly sacrificed for them, won't he, my precious?"
+LINE 77: To which pathetic appeal Daisy would answer with a coo, or Demi with a
+LINE 78: crow, and Meg would put by her lamentations for a maternal revel, which
+LINE 79: soothed her solitude for the time being. But the pain increased as
+LINE 80: politics absorbed John, who was always running over to discuss
+LINE 81: interesting points with Scott, quite unconscious that Meg missed him.
+LINE 82: Not a word did she say, however, till her mother found her in tears one
+LINE 83: day, and insisted on knowing what the matter was, for Meg's drooping
+LINE 84: spirits had not escaped her observation.
+LINE 85: "I wouldn't tell any one except you, mother; but I really do need
+LINE 86: advice, for, if John goes on so much longer I might as well be widowed,"
+LINE 87: replied Mrs. Brooke, drying her tears on Daisy's bib, with an injured
+LINE 88: air.
+LINE 89: "Goes on how, my dear?" asked her mother anxiously.
+LINE 90: "He's away all day, and at night, when I want to see him, he is
+LINE 91: continually going over to the Scotts'. It isn't fair that I should have
+LINE 92: the hardest work, and never any amusement. Men are very selfish, even
+LINE 93: the best of them."
+LINE 94: "So are women; don't blame John till you see where you are wrong
+LINE 95: yourself."
+LINE 96: "But it can't be right for him to neglect me."
+LINE 97: "Don't you neglect him?"
+LINE 98: "Why, mother, I thought you'd take my part!"
+LINE 99: "So I do, as far as sympathizing goes; but I think the fault is yours,
+LINE 100: Meg."
+LINE 101: "I don't see how."
+LINE 102: "Let me show you. Did John ever neglect you, as you call it, while you
+LINE 103: made it a point to give him your society of an evening, his only leisure
+LINE 104: time?"
+LINE 105: "No; but I can't do it now, with two babies to tend."
+LINE 106: "I think you could, dear; and I think you ought. May I speak quite
+LINE 107: freely, and will you remember that it's mother who blames as well as
+LINE 108: mother who sympathizes?"
+LINE 109: "Indeed I will! Speak to me as if I were little Meg again. I often feel
+LINE 110: as if I needed teaching more than ever since these babies look to me for
+LINE 111: everything."
+LINE 112: Meg drew her low chair beside her mother's, and, with a little
+LINE 113: interruption in either lap, the two women rocked and talked lovingly
+LINE 114: together, feeling that the tie of motherhood made them more one than
+LINE 115: ever.
+LINE 116: "You have only made the mistake that most young wives make,--forgotten
+LINE 117: your duty to your husband in your love for your children. A very natural
+LINE 118: and forgivable mistake, Meg, but one that had better be remedied before
+LINE 119: you take to different ways; for children should draw you nearer than
+LINE 120: ever, not separate you, as if they were all yours, and John had nothing
+LINE 121: to do but support them. I've seen it for some weeks, but have not
+LINE 122: spoken, feeling sure it would come right in time."
+LINE 123: "I'm afraid it won't. If I ask him to stay, he'll think I'm jealous; and
+LINE 124: I wouldn't insult him by such an idea. He doesn't see that I want him,
+LINE 125: and I don't know how to tell him without words."
+LINE 126: "Make it so pleasant he won't want to go away. My dear, he's longing for
+LINE 127: his little home; but it isn't home without you, and you are always in
+LINE 128: the nursery."
+LINE 129: "Oughtn't I to be there?"
+LINE 130: "Not all the time; too much confinement makes you nervous, and then you
+LINE 131: are unfitted for everything. Besides, you owe something to John as well
+LINE 132: as to the babies; don't neglect husband for children, don't shut him out
+LINE 133: of the nursery, but teach him how to help in it. His place is there as
+LINE 134: well as yours, and the children need him; let him feel that he has his
+LINE 135: part to do, and he will do it gladly and faithfully, and it will be
+LINE 136: better for you all."
+LINE 137: "You really think so, mother?"
+LINE 138: "I know it, Meg, for I've tried it; and I seldom give advice unless I've
+LINE 139: proved its practicability. When you and Jo were little, I went on just
+LINE 140: as you are, feeling as if I didn't do my duty unless I devoted myself
+LINE 141: wholly to you. Poor father took to his books, after I had refused all
+LINE 142: offers of help, and left me to try my experiment alone. I struggled
+LINE 143: along as well as I could, but Jo was too much for me. I nearly spoilt
+LINE 144: her by indulgence. You were poorly, and I worried about you till I fell
+LINE 145: sick myself. Then father came to the rescue, quietly managed everything,
+LINE 146: and made himself so helpful that I saw my mistake, and never have been
+LINE 147: able to get on without him since. That is the secret of our home
+LINE 148: happiness: he does not let business wean him from the little cares and
+LINE 149: duties that affect us all, and I try not to let domestic worries destroy
+LINE 150: my interest in his pursuits. Each do our part alone in many things, but
+LINE 151: at home we work together, always."
+LINE 152: "It is so, mother; and my great wish is to be to my husband and children
+LINE 153: what you have been to yours. Show me how; I'll do anything you say."
+LINE 154: "You always were my docile daughter. Well, dear, if I were you, I'd let
+LINE 155: John have more to do with the management of Demi, for the boy needs
+LINE 156: training, and it's none too soon to begin. Then I'd do what I have often
+LINE 157: proposed, let Hannah come and help you; she is a capital nurse, and you
+LINE 158: may trust the precious babies to her while you do more housework. You
+LINE 159: need the exercise, Hannah would enjoy the rest, and John would find his
+LINE 160: wife again. Go out more; keep cheerful as well as busy, for you are the
+LINE 161: sunshine-maker of the family, and if you get dismal there is no fair
+LINE 162: weather. Then I'd try to take an interest in whatever John likes,--talk
+LINE 163: with him, let him read to you, exchange ideas, and help each other in
+LINE 164: that way. Don't shut yourself up in a bandbox because you are a woman,
+LINE 165: but understand what is going on, and educate yourself to take your part
+LINE 166: in the world's work, for it all affects you and yours."
+LINE 167: "John is so sensible, I'm afraid he will think I'm stupid if I ask
+LINE 168: questions about politics and things."
+LINE 169: "I don't believe he would; love covers a multitude of sins, and of whom
+LINE 170: could you ask more freely than of him? Try it, and see if he doesn't
+LINE 171: find your society far more agreeable than Mrs. Scott's suppers."
+LINE 172: "I will. Poor John! I'm afraid I _have_ neglected him sadly, but I
+LINE 173: thought I was right, and he never said anything."
+LINE 174: "He tried not to be selfish, but he _has_ felt rather forlorn, I fancy.
+LINE 175: This is just the time, Meg, when young married people are apt to grow
+LINE 176: apart, and the very time when they ought to be most together; for the
+LINE 177: first tenderness soon wears off, unless care is taken to preserve it;
+LINE 178: and no time is so beautiful and precious to parents as the first years
+LINE 179: of the little lives given them to train. Don't let John be a stranger to
+LINE 180: the babies, for they will do more to keep him safe and happy in this
+LINE 181: world of trial and temptation than anything else, and through them you
+LINE 182: will learn to know and love one another as you should. Now, dear,
+LINE 183: good-by; think over mother's preachment, act upon it if it seems good,
+LINE 184: and God bless you all!"
+LINE 185: Meg did think it over, found it good, and acted upon it, though the
+LINE 186: first attempt was not made exactly as she planned to have it. Of course
+LINE 187: the children tyrannized over her, and ruled the house as soon as they
+LINE 188: found out that kicking and squalling brought them whatever they wanted.
+LINE 189: Mamma was an abject slave to their caprices, but papa was not so easily
+LINE 190: subjugated, and occasionally afflicted his tender spouse by an attempt
+LINE 191: at paternal discipline with his obstreperous son. For Demi inherited a
+LINE 192: trifle of his sire's firmness of character,--we won't call it
+LINE 193: obstinacy,--and when he made up his little mind to have or to do
+LINE 194: anything, all the king's horses and all the king's men could not change
+LINE 195: that pertinacious little mind. Mamma thought the dear too young to be
+LINE 196: taught to conquer his prejudices, but papa believed that it never was
+LINE 197: too soon to learn obedience; so Master Demi early discovered that when
+LINE 198: he undertook to "wrastle" with "parpar," he always got the worst of it;
+LINE 199: yet, like the Englishman, Baby respected the man who conquered him, and
+LINE 200: loved the father whose grave "No, no," was more impressive than all
+LINE 201: mamma's love-pats.
+LINE 202: A few days after the talk with her mother, Meg resolved to try a social
+LINE 203: evening with John; so she ordered a nice supper, set the parlor in
+LINE 204: order, dressed herself prettily, and put the children to bed early, that
+LINE 205: nothing should interfere with her experiment. But, unfortunately, Demi's
+LINE 206: most unconquerable prejudice was against going to bed, and that night he
+LINE 207: decided to go on a rampage; so poor Meg sung and rocked, told stories
+LINE 208: and tried every sleep-provoking wile she could devise, but all in vain,
+LINE 209: the big eyes wouldn't shut; and long after Daisy had gone to byelow,
+LINE 210: like the chubby little bunch of good-nature she was, naughty Demi lay
+LINE 211: staring at the light, with the most discouragingly wide-awake expression
+LINE 212: of countenance.
+LINE 213: "Will Demi lie still like a good boy, while mamma runs down and gives
+LINE 214: poor papa his tea?" asked Meg, as the hall-door softly closed, and the
+LINE 215: well-known step went tiptoeing into the dining-room.
+LINE 216: "Me has tea!" said Demi, preparing to join in the revel.
+LINE 217: "No; but I'll save you some little cakies for breakfast, if you'll go
+LINE 218: bye-by like Daisy. Will you, lovey?"
+LINE 219: "Iss!" and Demi shut his eyes tight, as if to catch sleep and hurry the
+LINE 220: desired day.
+LINE 221: Taking advantage of the propitious moment, Meg slipped away, and ran
+LINE 222: down to greet her husband with a smiling face, and the little blue bow
+LINE 223: in her hair which was his especial admiration. He saw it at once, and
+LINE 224: said, with pleased surprise,--
+LINE 225: "Why, little mother, how gay we are to-night. Do you expect company?"
+LINE 226: "Only you, dear."
+LINE 227: "Is it a birthday, anniversary, or anything?"
+LINE 228: "No; I'm tired of being a dowdy, so I dressed up as a change. You always
+LINE 229: make yourself nice for table, no matter how tired you are; so why
+LINE 230: shouldn't I when I have the time?"
+LINE 231: "I do it out of respect to you, my dear," said old-fashioned John.
+LINE 232: "Ditto, ditto, Mr. Brooke," laughed Meg, looking young and pretty again,
+LINE 233: as she nodded to him over the teapot.
+LINE 234: "Well, it's altogether delightful, and like old times. This tastes
+LINE 235: right. I drink your health, dear." And John sipped his tea with an air
+LINE 236: of reposeful rapture, which was of very short duration, however; for, as
+LINE 237: he put down his cup, the door-handle rattled mysteriously, and a little
+LINE 238: voice was heard, saying impatiently,--
+LINE 239: "Opy doy; me's tummin!"
+LINE 240: "It's that naughty boy. I told him to go to sleep alone, and here he is,
+LINE 241: downstairs, getting his death a-cold pattering over that canvas," said
+LINE 242: Meg, answering the call.
+LINE 243: [Illustration: Mornin' now]
+LINE 244: "Mornin' now," announced Demi, in a joyful tone, as he entered, with his
+LINE 245: long night-gown gracefully festooned over his arm, and every curl
+LINE 246: bobbing gayly as he pranced about the table, eying the "cakies" with
+LINE 247: loving glances.
+LINE 248: "No, it isn't morning yet. You must go to bed, and not trouble poor
+LINE 249: mamma; then you can have the little cake with sugar on it."
+LINE 250: "Me loves parpar," said the artful one, preparing to climb the paternal
+LINE 251: knee, and revel in forbidden joys. But John shook his head, and said to
+LINE 252: Meg,--
+LINE 253: "If you told him to stay up there, and go to sleep alone, make him do
+LINE 254: it, or he will never learn to mind you."
+LINE 255: "Yes, of course. Come, Demi;" and Meg led her son away, feeling a
+LINE 256: strong desire to spank the little marplot who hopped beside her,
+LINE 257: laboring under the delusion that the bribe was to be administered as
+LINE 258: soon as they reached the nursery.
+LINE 259: Nor was he disappointed; for that short-sighted woman actually gave him
+LINE 260: a lump of sugar, tucked him into his bed, and forbade any more
+LINE 261: promenades till morning.
+LINE 262: "Iss!" said Demi the perjured, blissfully sucking his sugar, and
+LINE 263: regarding his first attempt as eminently successful.
+LINE 264: Meg returned to her place, and supper was progressing pleasantly, when
+LINE 265: the little ghost walked again, and exposed the maternal delinquencies by
+LINE 266: boldly demanding,--
+LINE 267: "More sudar, marmar."
+LINE 268: "Now this won't do," said John, hardening his heart against the engaging
+LINE 269: little sinner. "We shall never know any peace till that child learns to
+LINE 270: go to bed properly. You have made a slave of yourself long enough; give
+LINE 271: him one lesson, and then there will be an end of it. Put him in his bed
+LINE 272: and leave him, Meg."
+LINE 273: "He won't stay there; he never does, unless I sit by him."
+LINE 274: "I'll manage him. Demi, go upstairs, and get into your bed, as mamma
+LINE 275: bids you."
+LINE 276: "S'ant!" replied the young rebel, helping himself to the coveted
+LINE 277: "cakie," and beginning to eat the same with calm audacity.
+LINE 278: "You must never say that to papa; I shall carry you if you don't go
+LINE 279: yourself."
+LINE 280: "Go 'way; me don't love parpar;" and Demi retired to his mother's skirts
+LINE 281: for protection.
+LINE 282: But even that refuge proved unavailing, for he was delivered over to the
+LINE 283: enemy, with a "Be gentle with him, John," which struck the culprit with
+LINE 284: dismay; for when mamma deserted him, then the judgment-day was at hand.
+LINE 285: Bereft of his cake, defrauded of his frolic, and borne away by a strong
+LINE 286: hand to that detested bed, poor Demi could not restrain his wrath, but
+LINE 287: openly defied papa, and kicked and screamed lustily all the way
+LINE 288: upstairs. The minute he was put into bed on one side, he rolled out on
+LINE 289: the other, and made for the door, only to be ignominiously caught up by
+LINE 290: the tail of his little toga, and put back again, which lively
+LINE 291: performance was kept up till the young man's strength gave out, when he
+LINE 292: devoted himself to roaring at the top of his voice. This vocal exercise
+LINE 293: usually conquered Meg; but John sat as unmoved as the post which is
+LINE 294: popularly believed to be deaf. No coaxing, no sugar, no lullaby, no
+LINE 295: story; even the light was put out, and only the red glow of the fire
+LINE 296: enlivened the "big dark" which Demi regarded with curiosity rather than
+LINE 297: fear. This new order of things disgusted him, and he howled dismally for
+LINE 298: "marmar," as his angry passions subsided, and recollections of his
+LINE 299: tender bondwoman returned to the captive autocrat. The plaintive wail
+LINE 300: which succeeded the passionate roar went to Meg's heart, and she ran up
+LINE 301: to say beseechingly,--
+LINE 302: "Let me stay with him; he'll be good, now, John."
+LINE 303: "No, my dear, I've told him he must go to sleep, as you bid him; and he
+LINE 304: must, if I stay here all night."
+LINE 305: "But he'll cry himself sick," pleaded Meg, reproaching herself for
+LINE 306: deserting her boy.
+LINE 307: "No, he won't, he's so tired he will soon drop off, and then the matter
+LINE 308: is settled; for he will understand that he has got to mind. Don't
+LINE 309: interfere; I'll manage him."
+LINE 310: "He's my child, and I can't have his spirit broken by harshness."
+LINE 311: "He's my child, and I won't have his temper spoilt by indulgence. Go
+LINE 312: down, my dear, and leave the boy to me."
+LINE 313: When John spoke in that masterful tone, Meg always obeyed, and never
+LINE 314: regretted her docility.
+LINE 315: "Please let me kiss him once, John?"
+LINE 316: "Certainly. Demi, say 'good-night' to mamma, and let her go and rest,
+LINE 317: for she is very tired with taking care of you all day."
+LINE 318: Meg always insisted upon it that the kiss won the victory; for after it
+LINE 319: was given, Demi sobbed more quietly, and lay quite still at the bottom
+LINE 320: of the bed, whither he had wriggled in his anguish of mind.
+LINE 321: "Poor little man, he's worn out with sleep and crying. I'll cover him
+LINE 322: up, and then go and set Meg's heart at rest," thought John, creeping to
+LINE 323: the bedside, hoping to find his rebellious heir asleep.
+LINE 324: But he wasn't; for the moment his father peeped at him, Demi's eyes
+LINE 325: opened, his little chin began to quiver, and he put up his arms, saying,
+LINE 326: with a penitent hiccough, "Me's dood, now."
+LINE 327: Sitting on the stairs, outside, Meg wondered at the long silence which
+LINE 328: followed the uproar; and, after imagining all sorts of impossible
+LINE 329: accidents, she slipped into the room, to set her fears at rest. Demi lay
+LINE 330: fast asleep; not in his usual spread-eagle attitude, but in a subdued
+LINE 331: bunch, cuddled close in the circle of his father's arm and holding his
+LINE 332: father's finger, as if he felt that justice was tempered with mercy, and
+LINE 333: had gone to sleep a sadder and a wiser baby. So held, John had waited
+LINE 334: with womanly patience till the little hand relaxed its hold; and, while
+LINE 335: waiting, had fallen asleep, more tired by that tussle with his son than
+LINE 336: with his whole day's work.
+LINE 337: As Meg stood watching the two faces on the pillow, she smiled to
+LINE 338: herself, and then slipped away again, saying, in a satisfied tone,--
+LINE 339: "I never need fear that John will be too harsh with my babies: he _does_
+LINE 340: know how to manage them, and will be a great help, for Demi _is_ getting
+LINE 341: too much for me."
+LINE 342: When John came down at last, expecting to find a pensive or reproachful
+LINE 343: wife, he was agreeably surprised to find Meg placidly trimming a bonnet,
+LINE 344: and to be greeted with the request to read something about the election,
+LINE 345: if he was not too tired. John saw in a minute that a revolution of some
+LINE 346: kind was going on, but wisely asked no questions, knowing that Meg was
+LINE 347: such a transparent little person, she couldn't keep a secret to save her
+LINE 348: life, and therefore the clew would soon appear. He read a long debate
+LINE 349: with the most amiable readiness, and then explained it in his most lucid
+LINE 350: manner, while Meg tried to look deeply interested, to ask intelligent
+LINE 351: questions, and keep her thoughts from wandering from the state of the
+LINE 352: nation to the state of her bonnet. In her secret soul, however, she
+LINE 353: decided that politics were as bad as mathematics, and that the mission
+LINE 354: of politicians seemed to be calling each other names; but she kept these
+LINE 355: feminine ideas to herself, and when John paused, shook her head, and
+LINE 356: said with what she thought diplomatic ambiguity,--
+LINE 357: "Well, I really don't see what we are coming to."
+LINE 358: John laughed, and watched her for a minute, as she poised a pretty
+LINE 359: little preparation of lace and flowers on her hand, and regarded it with
+LINE 360: the genuine interest which his harangue had failed to waken.
+LINE 361: "She is trying to like politics for my sake, so I'll try and like
+LINE 362: millinery for hers, that's only fair," thought John the Just, adding
+LINE 363: aloud,--
+LINE 364: "That's very pretty; is it what you call a breakfast-cap?"
+LINE 365: [Illustration: My dear man, it's a bonnet]
+LINE 366: "My dear man, it's a bonnet! My very best go-to-concert-and-theatre
+LINE 367: bonnet."
+LINE 368: "I beg your pardon; it was so small, I naturally mistook it for one of
+LINE 369: the fly-away things you sometimes wear. How do you keep it on?"
+LINE 370: "These bits of lace are fastened under the chin with a rosebud, so;" and
+LINE 371: Meg illustrated by putting on the bonnet, and regarding him with an air
+LINE 372: of calm satisfaction that was irresistible.
+LINE 373: "It's a love of a bonnet, but I prefer the face inside, for it looks
+LINE 374: young and happy again," and John kissed the smiling face, to the great
+LINE 375: detriment of the rosebud under the chin.
+LINE 376: "I'm glad you like it, for I want you to take me to one of the new
+LINE 377: concerts some night; I really need some music to put me in tune. Will
+LINE 378: you, please?"
+LINE 379: "Of course I will, with all my heart, or anywhere else you like. You
+LINE 380: have been shut up so long, it will do you no end of good, and I shall
+LINE 381: enjoy it, of all things. What put it into your head, little mother?"
+LINE 382: "Well, I had a talk with Marmee the other day, and told her how nervous
+LINE 383: and cross and out of sorts I felt, and she said I needed change and less
+LINE 384: care; so Hannah is to help me with the children, and I'm to see to
+LINE 385: things about the house more, and now and then have a little fun, just to
+LINE 386: keep me from getting to be a fidgety, broken-down old woman before my
+LINE 387: time. It's only an experiment, John, and I want to try it for your sake
+LINE 388: as much as for mine, because I've neglected you shamefully lately, and
+LINE 389: I'm going to make home what it used to be, if I can. You don't object, I
+LINE 390: hope?"
+LINE 391: Never mind what John said, or what a very narrow escape the little
+LINE 392: bonnet had from utter ruin; all that we have any business to know, is
+LINE 393: that John did _not_ appear to object, judging from the changes which
+LINE 394: gradually took place in the house and its inmates. It was not all
+LINE 395: Paradise by any means, but every one was better for the division of
+LINE 396: labor system; the children throve under the paternal rule, for accurate,
+LINE 397: steadfast John brought order and obedience into Babydom, while Meg
+LINE 398: recovered her spirits and composed her nerves by plenty of wholesome
+LINE 399: exercise, a little pleasure, and much confidential conversation with her
+LINE 400: sensible husband. Home grew home-like again, and John had no wish to
+LINE 401: leave it, unless he took Meg with him. The Scotts came to the Brookes'
+LINE 402: now, and every one found the little house a cheerful place, full of
+LINE 403: happiness, content, and family love. Even gay Sallie Moffatt liked to go
+LINE 404: there. "It is always so quiet and pleasant here; it does me good, Meg,"
+LINE 405: she used to say, looking about her with wistful eyes, as if trying to
+LINE 406: discover the charm, that she might use it in her great house, full of
+LINE 407: splendid loneliness; for there were no riotous, sunny-faced babies
+LINE 408: there, and Ned lived in a world of his own, where there was no place for
+LINE 409: her.
+LINE 410: This household happiness did not come all at once, but John and Meg had
+LINE 411: found the key to it, and each year of married life taught them how to
+LINE 412: use it, unlocking the treasuries of real home-love and mutual
+LINE 413: helpfulness, which the poorest may possess, and the richest cannot buy.
+LINE 414: This is the sort of shelf on which young wives and mothers may consent
+LINE 415: to be laid, safe from the restless fret and fever of the world, finding
+LINE 416: loyal lovers in the little sons and daughters who cling to them,
+LINE 417: undaunted by sorrow, poverty, or age; walking side by side, through fair
+LINE 418: and stormy weather, with a faithful friend, who is, in the true sense of
+LINE 419: the good old Saxon word, the "house-band," and learning, as Meg learned,
+LINE 420: that a woman's happiest kingdom is home, her highest honor the art of
+LINE 421: ruling it, not as a queen, but a wise wife and mother.
+LINE 422: [Illustration: Tail-piece]
+LINE 423: [Illustration: Sat piping on a stone while his goats skipped]

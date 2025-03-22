@@ -1,0 +1,473 @@
+LINE 1: SCENE I.--LADY SNEERWELL'S House
+LINE 2: LADY SNEERWELL at her dressing table with LAPPET; MISS VERJUICE drinking
+LINE 3: chocolate
+LINE 4: LADY SNEERWELL. The Paragraphs you say were all inserted:
+LINE 5: VERJUICE. They were Madam--and as I copied them myself in a feigned Hand
+LINE 6: there can be no suspicion whence they came.
+LINE 7: LADY SNEERWELL. Did you circulate the Report of Lady Brittle's Intrigue
+LINE 8: with Captain Boastall?
+LINE 9: VERJUICE. Madam by this Time Lady Brittle is the Talk of half the
+LINE 10: Town--and I doubt not in a week the Men will toast her as a Demirep.
+LINE 11: LADY SNEERWELL. What have you done as to the insinuation as to a certain
+LINE 12: Baronet's Lady and a certain Cook.
+LINE 13: VERJUICE. That is in as fine a Train as your Ladyship could wish. I told
+LINE 14: the story yesterday to my own maid with directions to communicate it
+LINE 15: directly to my Hairdresser. He I am informed has a Brother who courts a
+LINE 16: Milliners' Prentice in Pallmall whose mistress has a first cousin whose
+LINE 17: sister is Feme [Femme] de Chambre to Mrs. Clackit--so that in the
+LINE 18: common course of Things it must reach Mrs. Clackit's Ears within
+LINE 19: four-and-twenty hours and then you know the Business is as good as done.
+LINE 20: LADY SNEERWELL. Why truly Mrs. Clackit has a very pretty Talent--a great
+LINE 21: deal of industry--yet--yes--been tolerably successful in her way--To my
+LINE 22: knowledge she has been the cause of breaking off six matches[,] of three
+LINE 23: sons being disinherited and four Daughters being turned out of Doors.
+LINE 24: Of three several Elopements, as many close confinements--nine separate
+LINE 25: maintenances and two Divorces.--nay I have more than once traced her
+LINE 26: causing a Tete-a-Tete in the Town and Country Magazine--when the Parties
+LINE 27: perhaps had never seen each other's Faces before in the course of their
+LINE 28: Lives.
+LINE 29: VERJUICE. She certainly has Talents.
+LINE 30: LADY SNEERWELL. But her manner is gross.
+LINE 31: VERJUICE. 'Tis very true. She generally designs well[,] has a free
+LINE 32: tongue and a bold invention--but her colouring is too dark and her
+LINE 33: outline often extravagant--She wants that delicacy of Tint--and
+LINE 34: mellowness of sneer--which distinguish your Ladyship's Scandal.
+LINE 35: LADY SNEERWELL. Ah you are Partial Verjuice.
+LINE 36: VERJUICE. Not in the least--everybody allows that Lady Sneerwell can do
+LINE 37: more with a word or a Look than many can with the most laboured Detail
+LINE 38: even when they happen to have a little truth on their side to support
+LINE 39: it.
+LINE 40: LADY SNEERWELL. Yes my dear Verjuice. I am no Hypocrite to deny the
+LINE 41: satisfaction I reap from the Success of my Efforts. Wounded myself, in
+LINE 42: the early part of my Life by the envenomed Tongue of Slander I confess
+LINE 43: I have since known no Pleasure equal to the reducing others to the Level
+LINE 44: of my own injured Reputation.
+LINE 45: VERJUICE. Nothing can be more natural--But my dear Lady Sneerwell There
+LINE 46: is one affair in which you have lately employed me, wherein, I confess I
+LINE 47: am at a Loss to guess your motives.
+LINE 48: LADY SNEERWELL. I conceive you mean with respect to my neighbour, Sir
+LINE 49: Peter Teazle, and his Family--Lappet.--And has my conduct in this matter
+LINE 50: really appeared to you so mysterious?
+LINE 51: [Exit MAID.]
+LINE 52: VERJUICE. Entirely so.
+LINE 53: LADY SNEERWELL. [VERJUICE.?] An old Batchelor as Sir Peter was[,] having
+LINE 54: taken a young wife from out of the Country--as Lady Teazle is--are
+LINE 55: certainly fair subjects for a little mischievous raillery--but here are
+LINE 56: two young men--to whom Sir Peter has acted as a kind of Guardian since
+LINE 57: their Father's death, the eldest possessing the most amiable Character
+LINE 58: and universally well spoken of[,] the youngest the most dissipated
+LINE 59: and extravagant young Fellow in the Kingdom, without Friends or
+LINE 60: caracter--the former one an avowed admirer of yours and apparently
+LINE 61: your Favourite[,] the latter attached to Maria Sir Peter's ward--and
+LINE 62: confessedly beloved by her. Now on the face of these circumstances it
+LINE 63: is utterly unaccountable to me why you a young Widow with no great
+LINE 64: jointure--should not close with the passion of a man of such character
+LINE 65: and expectations as Mr. Surface--and more so why you should be so
+LINE 66: uncommonly earnest to destroy the mutual Attachment subsisting between
+LINE 67: his Brother Charles and Maria.
+LINE 68: LADY SNEERWELL. Then at once to unravel this mistery--I must inform you
+LINE 69: that Love has no share whatever in the intercourse between Mr. Surface
+LINE 70: and me.
+LINE 71: VERJUICE. No!
+LINE 72: LADY SNEERWELL. His real attachment is to Maria or her Fortune--but
+LINE 73: finding in his Brother a favoured Rival, He has been obliged to mask his
+LINE 74: Pretensions--and profit by my Assistance.
+LINE 75: VERJUICE. Yet still I am more puzzled why you should interest yourself
+LINE 76: in his success.
+LINE 77: LADY SNEERWELL. Heavens! how dull you are! cannot you surmise the
+LINE 78: weakness which I hitherto, thro' shame have concealed even from
+LINE 79: you--must I confess that Charles--that Libertine, that extravagant, that
+LINE 80: Bankrupt in Fortune and Reputation--that He it is for whom I am thus
+LINE 81: anxious and malicious and to gain whom I would sacrifice--everything----
+LINE 82: VERJUICE. Now indeed--your conduct appears consistent and I no longer
+LINE 83: wonder at your enmity to Maria, but how came you and Surface so
+LINE 84: confidential?
+LINE 85: LADY SNEERWELL. For our mutual interest--but I have found out him a long
+LINE 86: time since[,] altho' He has contrived to deceive everybody beside--I
+LINE 87: know him to be artful selfish and malicious--while with Sir Peter, and
+LINE 88: indeed with all his acquaintance, He passes for a youthful Miracle of
+LINE 89: Prudence--good sense and Benevolence.
+LINE 90: VERJUICE. Yes yes--I know Sir Peter vows He has not his equal in
+LINE 91: England; and, above all, He praises him as a MAN OF SENTIMENT.
+LINE 92: LADY SNEERWELL. True and with the assistance of his sentiments and
+LINE 93: hypocrisy he has brought Sir Peter entirely in his interests with
+LINE 94: respect to Maria and is now I believe attempting to flatter Lady Teazle
+LINE 95: into the same good opinion towards him--while poor Charles has no Friend
+LINE 96: in the House--though I fear he has a powerful one in Maria's Heart,
+LINE 97: against whom we must direct our schemes.
+LINE 98: SERVANT. Mr. Surface.
+LINE 99: LADY SNEERWELL. Shew him up. He generally calls about this Time. I don't
+LINE 100: wonder at People's giving him to me for a Lover.
+LINE 101: Enter SURFACE
+LINE 102: SURFACE. My dear Lady Sneerwell, how do you do to-day--your most
+LINE 103: obedient.
+LINE 104: LADY SNEERWELL. Miss Verjuice has just been arraigning me on our mutual
+LINE 105: attachment now; but I have informed her of our real views and the
+LINE 106: Purposes for which our Geniuses at present co-operate. You know
+LINE 107: how useful she has been to us--and believe me the confidence is not
+LINE 108: ill-placed.
+LINE 109: SURFACE. Madam, it is impossible for me to suspect that a Lady of Miss
+LINE 110: Verjuice's sensibility and discernment----
+LINE 111: LADY SNEERWELL. Well--well--no compliments now--but tell me when you saw
+LINE 112: your mistress or what is more material to me your Brother.
+LINE 113: SURFACE. I have not seen either since I saw you--but I can inform you
+LINE 114: that they are at present at Variance--some of your stories have taken
+LINE 115: good effect on Maria.
+LINE 116: LADY SNEERWELL. Ah! my dear Verjuice the merit of this belongs to you.
+LINE 117: But do your Brother's Distresses encrease?
+LINE 118: SURFACE. Every hour. I am told He had another execution in his house
+LINE 119: yesterday--in short his Dissipation and extravagance exceed anything I
+LINE 120: have ever heard of.
+LINE 121: LADY SNEERWELL. Poor Charles!
+LINE 122: SURFACE. True Madam--notwithstanding his Vices one can't help feeling
+LINE 123: for him--ah poor Charles! I'm sure I wish it was in my Power to be of
+LINE 124: any essential Service to him--for the man who does not share in
+LINE 125: the Distresses of a Brother--even though merited by his own
+LINE 126: misconduct--deserves----
+LINE 127: LADY SNEERWELL. O Lud you are going to be moral, and forget that you are
+LINE 128: among Friends.
+LINE 129: SURFACE. Egad, that's true--I'll keep that sentiment till I see Sir
+LINE 130: Peter. However it is certainly a charity to rescue Maria from such a
+LINE 131: Libertine who--if He is to be reclaim'd, can be so only by a Person of
+LINE 132: your Ladyship's superior accomplishments and understanding.
+LINE 133: VERJUICE. 'Twould be a Hazardous experiment.
+LINE 134: SURFACE. But--Madam--let me caution you to place no more confidence in
+LINE 135: our Friend Snake the Libeller--I have lately detected him in frequent
+LINE 136: conference with old Rowland [Rowley] who was formerly my Father's
+LINE 137: Steward and has never been a friend of mine.
+LINE 138: LADY SNEERWELL. I'm not disappointed in Snake, I never suspected the
+LINE 139: fellow to have virtue enough to be faithful even to his own Villany.
+LINE 140: Enter MARIA
+LINE 141: Maria my dear--how do you do--what's the matter?
+LINE 142: MARIA. O here is that disagreeable lover of mine, Sir Benjamin Backbite,
+LINE 143: has just call'd at my guardian's with his odious Uncle Crabtree--so I
+LINE 144: slipt out and ran hither to avoid them.
+LINE 145: LADY SNEERWELL. Is that all?
+LINE 146: VERJUICE. Lady Sneerwell--I'll go and write the Letter I mention'd to
+LINE 147: you.
+LINE 148: SURFACE. If my Brother Charles had been of the Party, madam, perhaps you
+LINE 149: would not have been so much alarmed.
+LINE 150: LADY SNEERWELL. Nay now--you are severe for I dare swear the Truth
+LINE 151: of the matter is Maria heard YOU were here--but my dear--what has Sir
+LINE 152: Benjamin done that you should avoid him so----
+LINE 153: MARIA. Oh He has done nothing--but his conversation is a perpetual Libel
+LINE 154: on all his Acquaintance.
+LINE 155: SURFACE. Aye and the worst of it is there is no advantage in not knowing
+LINE 156: Them, for He'll abuse a stranger just as soon as his best Friend--and
+LINE 157: Crabtree is as bad.
+LINE 158: LADY SNEERWELL. Nay but we should make allowance[--]Sir Benjamin is a
+LINE 159: wit and a poet.
+LINE 160: MARIA. For my Part--I own madam--wit loses its respect with me, when I
+LINE 161: see it in company with malice.--What do you think, Mr. Surface?
+LINE 162: SURFACE. Certainly, Madam, to smile at the jest which plants a Thorn on
+LINE 163: another's Breast is to become a principal in the mischief.
+LINE 164: LADY SNEERWELL. Pshaw--there's no possibility of being witty without a
+LINE 165: little [ill] nature--the malice of a good thing is the Barb that makes
+LINE 166: it stick.--What's your opinion, Mr. Surface?
+LINE 167: SURFACE. Certainly madam--that conversation where the Spirit of Raillery
+LINE 168: is suppressed will ever appear tedious and insipid--
+LINE 169: MARIA. Well I'll not debate how far Scandal may be allowable--but in a
+LINE 170: man I am sure it is always contemtable.--We have Pride, envy, Rivalship,
+LINE 171: and a Thousand motives to depreciate each other--but the male-slanderer
+LINE 172: must have the cowardice of a woman before He can traduce one.
+LINE 173: LADY SNEERWELL. I wish my Cousin Verjuice hadn't left us--she should
+LINE 174: embrace you.
+LINE 175: SURFACE. Ah! she's an old maid and is privileged of course.
+LINE 176: Enter SERVANT
+LINE 177: Madam Mrs. Candour is below and if your Ladyship's at leisure will leave
+LINE 178: her carriage.
+LINE 179: LADY SNEERWELL. Beg her to walk in. Now, Maria[,] however here is a
+LINE 180: Character to your Taste, for tho' Mrs. Candour is a little talkative
+LINE 181: everybody allows her to be the best-natured and best sort of woman.
+LINE 182: MARIA. Yes with a very gross affectation of good Nature and
+LINE 183: Benevolence--she does more mischief than the Direct malice of old
+LINE 184: Crabtree.
+LINE 185: SURFACE. Efaith 'tis very true Lady Sneerwell--Whenever I hear the
+LINE 186: current running again the characters of my Friends, I never think them
+LINE 187: in such Danger as when Candour undertakes their Defence.
+LINE 188: LADY SNEERWELL. Hush here she is----
+LINE 189: Enter MRS. CANDOUR
+LINE 190: MRS. CANDOUR. My dear Lady Sneerwell how have you been this Century.
+LINE 191: I have never seen you tho' I have heard of you very often.--Mr.
+LINE 192: Surface--the World says scandalous things of you--but indeed it is
+LINE 193: no matter what the world says, for I think one hears nothing else but
+LINE 194: scandal.
+LINE 195: SURFACE. Just so, indeed, Ma'am.
+LINE 196: MRS. CANDOUR. Ah Maria Child--what[!] is the whole affair off between
+LINE 197: you and Charles? His extravagance; I presume--The Town talks of nothing
+LINE 198: else----
+LINE 199: MARIA. I am very sorry, Ma'am, the Town has so little to do.
+LINE 200: MRS. CANDOUR. True, true, Child; but there's no stopping people's
+LINE 201: Tongues. I own I was hurt to hear it--as I indeed was to learn from the
+LINE 202: same quarter that your guardian, Sir Peter[,] and Lady Teazle have not
+LINE 203: agreed lately so well as could be wish'd.
+LINE 204: MARIA. 'Tis strangely impertinent for people to busy themselves so.
+LINE 205: MRS. CANDOUR. Very true, Child; but what's to be done? People will
+LINE 206: talk--there's no preventing it.--why it was but yesterday I was told
+LINE 207: that Miss Gadabout had eloped with Sir Filagree Flirt. But, Lord! there
+LINE 208: is no minding what one hears; tho' to be sure I had this from very good
+LINE 209: authority.
+LINE 210: MARIA. Such reports are highly scandalous.
+LINE 211: MRS. CANDOUR. So they are Child--shameful! shameful! but the world is
+LINE 212: so censorious no character escapes. Lord, now! who would have suspected
+LINE 213: your friend, Miss Prim, of an indiscretion Yet such is the ill-nature
+LINE 214: of people, that they say her unkle stopped her last week just as she was
+LINE 215: stepping into a Postchaise with her Dancing-master.
+LINE 216: MARIA. I'll answer for't there are no grounds for the Report.
+LINE 217: MRS. CANDOUR. Oh, no foundation in the world I dare swear[;] no more
+LINE 218: probably than for the story circulated last month, of Mrs. Festino's
+LINE 219: affair with Colonel Cassino--tho' to be sure that matter was never
+LINE 220: rightly clear'd up.
+LINE 221: SURFACE. The license of invention some people take is monstrous indeed.
+LINE 222: MARIA. 'Tis so but in my opinion, those who report such things are
+LINE 223: equally culpable.
+LINE 224: MRS. CANDOUR. To be sure they are[;] Tale Bearers are as bad as the Tale
+LINE 225: makers--'tis an old observation and a very true one--but what's to be
+LINE 226: done as I said before--how will you prevent People from talking--to-day,
+LINE 227: Mrs. Clackitt assured me, Mr. and Mrs. Honeymoon were at last become
+LINE 228: mere man and wife--like [the rest of their] acquaintance--she likewise
+LINE 229: hinted that a certain widow in the next street had got rid of her Dropsy
+LINE 230: and recovered her shape in a most surprising manner--at the same [time]
+LINE 231: Miss Tattle, who was by affirm'd, that Lord Boffalo had discover'd his
+LINE 232: Lady at a house of no extraordinary Fame--and that Sir Harry Bouquet and
+LINE 233: Tom Saunter were to measure swords on a similar Provocation. But--Lord!
+LINE 234: do you think I would report these Things--No, no[!] Tale Bearers as I
+LINE 235: said before are just as bad as the talemakers.
+LINE 236: SURFACE. Ah! Mrs. Candour, if everybody had your Forbearance and good
+LINE 237: nature--
+LINE 238: MRS. CANDOUR. I confess Mr. Surface I cannot bear to hear People
+LINE 239: traduced behind their Backs[;] and when ugly circumstances come out
+LINE 240: against our acquaintances I own I always love to think the best--by the
+LINE 241: bye I hope 'tis not true that your Brother is absolutely ruin'd--
+LINE 242: SURFACE. I am afraid his circumstances are very bad indeed, Ma'am--
+LINE 243: MRS. CANDOUR. Ah! I heard so--but you must tell him to keep up his
+LINE 244: Spirits--everybody almost is in the same way--Lord Spindle, Sir Thomas
+LINE 245: Splint, Captain Quinze, and Mr. Nickit--all up, I hear, within this
+LINE 246: week; so, if Charles is undone, He'll find half his Acquaintance ruin'd
+LINE 247: too, and that, you know, is a consolation--
+LINE 248: SURFACE. Doubtless, Ma'am--a very great one.
+LINE 249: Enter SERVANT
+LINE 250: SERVANT. Mr. Crabtree and Sir Benjamin Backbite.
+LINE 251: LADY SNEERWELL. Soh! Maria, you see your lover pursues you--Positively
+LINE 252: you shan't escape.
+LINE 253: Enter CRABTREE and SIR BENJAMIN BACKBITE
+LINE 254: CRABTREE. Lady Sneerwell, I kiss your hand. Mrs. Candour I don't believe
+LINE 255: you are acquainted with my Nephew Sir Benjamin Backbite--Egad, Ma'am, He
+LINE 256: has a pretty wit--and is a pretty Poet too isn't He Lady Sneerwell?
+LINE 257: SIR BENJAMIN. O fie, Uncle!
+LINE 258: CRABTREE. Nay egad it's true--I back him at a Rebus or a Charade against
+LINE 259: the best Rhymer in the Kingdom--has your Ladyship heard the Epigram he
+LINE 260: wrote last week on Lady Frizzle's Feather catching Fire--Do Benjamin
+LINE 261: repeat it--or the Charade you made last Night extempore at Mrs.
+LINE 262: Drowzie's conversazione--Come now your first is the Name of a Fish, your
+LINE 263: second a great naval commander--and
+LINE 264: SIR BENJAMIN. Dear Uncle--now--prithee----
+LINE 265: CRABTREE. Efaith, Ma'am--'twould surprise you to hear how ready he is at
+LINE 266: all these Things.
+LINE 267: LADY SNEERWELL. I wonder Sir Benjamin you never publish anything.
+LINE 268: SIR BENJAMIN. To say truth, Ma'am, 'tis very vulgar to Print and as my
+LINE 269: little Productions are mostly Satires and Lampoons I find they
+LINE 270: circulate more by giving copies in confidence to the Friends of the
+LINE 271: Parties--however I have some love-Elegies, which, when favoured with
+LINE 272: this lady's smile I mean to give to the Public.
+LINE 273: [Pointing to MARIA.]
+LINE 274: CRABTREE. 'Fore Heaven, ma'am, they'll immortalize you--you'll be handed
+LINE 275: down to Posterity, like Petrarch's Laura, or Waller's Sacharissa.
+LINE 276: SIR BENJAMIN. Yes Madam I think you will like them--when you shall see
+LINE 277: in a beautiful Quarto Page how a neat rivulet of Text shall meander
+LINE 278: thro' a meadow of margin--'fore Gad, they will be the most elegant
+LINE 279: Things of their kind--
+LINE 280: CRABTREE. But Ladies, have you heard the news?
+LINE 281: MRS. CANDOUR. What, Sir, do you mean the Report of----
+LINE 282: CRABTREE. No ma'am that's not it.--Miss Nicely is going to be married to
+LINE 283: her own Footman.
+LINE 284: MRS. CANDOUR. Impossible!
+LINE 285: CRABTREE. Ask Sir Benjamin.
+LINE 286: SIR BENJAMIN. 'Tis very true, Ma'am--everything is fixed and the wedding
+LINE 287: Livery bespoke.
+LINE 288: CRABTREE. Yes and they say there were pressing reasons for't.
+LINE 289: MRS. CANDOUR. It cannot be--and I wonder any one should believe such a
+LINE 290: story of so prudent a Lady as Miss Nicely.
+LINE 291: SIR BENJAMIN. O Lud! ma'am, that's the very reason 'twas believed at
+LINE 292: once. She has always been so cautious and so reserved, that everybody
+LINE 293: was sure there was some reason for it at bottom.
+LINE 294: LADY SNEERWELL. Yes a Tale of Scandal is as fatal to the Reputation of
+LINE 295: a prudent Lady of her stamp as a Fever is generally to those of the
+LINE 296: strongest Constitutions, but there is a sort of puny sickly Reputation,
+LINE 297: that is always ailing yet will outlive the robuster characters of a
+LINE 298: hundred Prudes.
+LINE 299: SIR BENJAMIN. True Madam there are Valetudinarians in Reputation as well
+LINE 300: as constitution--who being conscious of their weak Part, avoid the
+LINE 301: least breath of air, and supply their want of Stamina by care and
+LINE 302: circumspection--
+LINE 303: MRS. CANDOUR. Well but this may be all mistake--You know, Sir Benjamin
+LINE 304: very trifling circumstances often give rise to the most injurious Tales.
+LINE 305: CRABTREE. That they do I'll be sworn Ma'am--did you ever hear how
+LINE 306: Miss Shepherd came to lose her Lover and her Character last summer at
+LINE 307: Tunbridge--Sir Benjamin you remember it--
+LINE 308: SIR BENJAMIN. O to be sure the most whimsical circumstance--
+LINE 309: LADY SNEERWELL. How was it Pray--
+LINE 310: CRABTREE. Why one evening at Mrs. Ponto's Assembly--the conversation
+LINE 311: happened to turn on the difficulty of breeding Nova-Scotia Sheep in
+LINE 312: this country--says a young Lady in company[, "]I have known instances
+LINE 313: of it[--]for Miss Letitia Shepherd, a first cousin of mine, had a
+LINE 314: Nova-Scotia Sheep that produced her Twins.["--"]What!["] cries the old
+LINE 315: Dowager Lady Dundizzy (who you know is as deaf as a Post), ["]has Miss
+LINE 316: Letitia Shepherd had twins["]--This Mistake--as you may imagine, threw
+LINE 317: the whole company into a fit of Laughing--However 'twas the next morning
+LINE 318: everywhere reported and in a few Days believed by the whole Town, that
+LINE 319: Miss Letitia Shepherd had actually been brought to Bed of a fine Boy
+LINE 320: and Girl--and in less than a week there were People who could name the
+LINE 321: Father, and the Farm House where the Babies were put out to Nurse.
+LINE 322: LADY SNEERWELL. Strange indeed!
+LINE 323: CRABTREE. Matter of Fact, I assure you--O Lud! Mr. Surface pray is it
+LINE 324: true that your uncle Sir Oliver is coming home--
+LINE 325: SURFACE. Not that I know of indeed Sir.
+LINE 326: CRABTREE. He has been in the East Indies a long time--you can scarcely
+LINE 327: remember him--I believe--sad comfort on his arrival to hear how your
+LINE 328: Brother has gone on!
+LINE 329: SURFACE. Charles has been imprudent Sir to be sure[;] but I hope no Busy
+LINE 330: people have already prejudiced Sir Oliver against him--He may reform--
+LINE 331: SIR BENJAMIN. To be sure He may--for my Part I never believed him to be
+LINE 332: so utterly void of Principle as People say--and tho' he has lost all his
+LINE 333: Friends I am told nobody is better spoken of--by the Jews.
+LINE 334: CRABTREE. That's true egad nephew--if the Old Jewry was a Ward I believe
+LINE 335: Charles would be an alderman--no man more popular there, 'fore Gad I
+LINE 336: hear He pays as many annuities as the Irish Tontine and that whenever
+LINE 337: He's sick they have Prayers for the recovery of his Health in the
+LINE 338: synagogue--
+LINE 339: SIR BENJAMIN. Yet no man lives in greater Splendour:--they tell me when
+LINE 340: He entertains his Friends--He can sit down to dinner with a dozen of his
+LINE 341: own Securities, have a score Tradesmen waiting in the Anti-Chamber, and
+LINE 342: an officer behind every guest's Chair.
+LINE 343: SURFACE. This may be entertainment to you Gentlemen but you pay very
+LINE 344: little regard to the Feelings of a Brother.
+LINE 345: MARIA. Their malice is intolerable--Lady Sneerwell I must wish you a
+LINE 346: good morning--I'm not very well.
+LINE 347: [Exit MARIA.]
+LINE 348: MRS. CANDOUR. O dear she chang'd colour very much!
+LINE 349: LADY SNEERWELL. Do Mrs. Candour follow her--she may want assistance.
+LINE 350: MRS. CANDOUR. That I will with all my soul ma'am.--Poor dear Girl--who
+LINE 351: knows--what her situation may be!
+LINE 352: [Exit MRS. CANDOUR.]
+LINE 353: LADY SNEERWELL. 'Twas nothing but that she could not bear to hear
+LINE 354: Charles reflected on notwithstanding their difference.
+LINE 355: SIR BENJAMIN. The young Lady's Penchant is obvious.
+LINE 356: CRABTREE. But Benjamin--you mustn't give up the Pursuit for that--follow
+LINE 357: her and put her into good humour--repeat her some of your verses--come,
+LINE 358: I'll assist you--
+LINE 359: SIR BENJAMIN. Mr. Surface I did not mean to hurt you--but depend on't
+LINE 360: your Brother is utterly undone--
+LINE 361: [Going.]
+LINE 362: CRABTREE. O Lud! aye--undone--as ever man was--can't raise a guinea.
+LINE 363: SIR BENJAMIN. And everything sold--I'm told--that was movable--
+LINE 364: [Going.]
+LINE 365: CRABTREE. I was at his house--not a thing left but some empty Bottles
+LINE 366: that were overlooked and the Family Pictures, which I believe are framed
+LINE 367: in the Wainscot.
+LINE 368: [Going.]
+LINE 369: SIR BENJAMIN. And I'm very sorry to hear also some bad stories against
+LINE 370: him.
+LINE 371: [Going.]
+LINE 372: CRABTREE. O He has done many mean things--that's certain!
+LINE 373: SIR BENJAMIN. But however as He is your Brother----
+LINE 374: [Going.]
+LINE 375: CRABTREE. We'll tell you all another opportunity.
+LINE 376: [Exeunt.]
+LINE 377: LADY SNEERWELL. Ha! ha! ha! 'tis very hard for them to leave a subject
+LINE 378: they have not quite run down.
+LINE 379: SURFACE. And I believe the Abuse was no more acceptable to your Ladyship
+LINE 380: than Maria.
+LINE 381: LADY SNEERWELL. I doubt her Affections are farther engaged than we
+LINE 382: imagin'd but the Family are to be here this Evening so you may as
+LINE 383: well dine where you are and we shall have an opportunity of observing
+LINE 384: farther--in the meantime, I'll go and plot Mischief and you shall study
+LINE 385: Sentiments.
+LINE 386: [Exeunt.]
+LINE 387: SCENE II.--SIR PETER'S House
+LINE 388: Enter SIR PETER
+LINE 389: SIR PETER. When an old Bachelor takes a young Wife--what is He to
+LINE 390: expect--'Tis now six months since Lady Teazle made me the happiest
+LINE 391: of men--and I have been the most miserable Dog ever since that ever
+LINE 392: committed wedlock. We tift a little going to church--and came to a
+LINE 393: Quarrel before the Bells had done ringing--I was more than once nearly
+LINE 394: chok'd with gall during the Honeymoon--and had lost all comfort in Life
+LINE 395: before my Friends had done wishing me Joy--yet I chose with caution--a
+LINE 396: girl bred wholly in the country--who never knew luxury beyond one silk
+LINE 397: gown--nor dissipation above the annual Gala of a Race-Ball--Yet she now
+LINE 398: plays her Part in all the extravagant Fopperies of the Fashion and the
+LINE 399: Town, with as ready a Grace as if she had never seen a Bush nor a
+LINE 400: grass Plot out of Grosvenor-Square! I am sneered at by my old
+LINE 401: acquaintance--paragraphed--in the news Papers--She dissipates my
+LINE 402: Fortune, and contradicts all my Humours--yet the worst of it is I doubt
+LINE 403: I love her or I should never bear all this. However I'll never be weak
+LINE 404: enough to own it.
+LINE 405: Enter ROWLEY
+LINE 406: ROWLEY. Sir Peter, your servant:--how is 't with you Sir--
+LINE 407: SIR PETER. Very bad--Master Rowley--very bad[.] I meet with nothing but
+LINE 408: crosses and vexations--
+LINE 409: ROWLEY. What can have happened to trouble you since yesterday?
+LINE 410: SIR PETER. A good--question to a married man--
+LINE 411: ROWLEY. Nay I'm sure your Lady Sir Peter can't be the cause of your
+LINE 412: uneasiness.
+LINE 413: SIR PETER. Why has anybody told you she was dead[?]
+LINE 414: ROWLEY. Come, come, Sir Peter, you love her, notwithstanding your
+LINE 415: tempers do not exactly agree.
+LINE 416: SIR PETER. But the Fault is entirely hers, Master Rowley--I am myself,
+LINE 417: the sweetest temper'd man alive, and hate a teasing temper; and so I
+LINE 418: tell her a hundred Times a day--
+LINE 419: ROWLEY. Indeed!
+LINE 420: SIR PETER. Aye and what is very extraordinary in all our disputes she
+LINE 421: is always in the wrong! But Lady Sneerwell, and the Set she meets at her
+LINE 422: House, encourage the perverseness of her Disposition--then to complete
+LINE 423: my vexations--Maria--my Ward--whom I ought to have the Power of a Father
+LINE 424: over, is determined to turn Rebel too and absolutely refuses the man
+LINE 425: whom I have long resolved on for her husband--meaning I suppose, to
+LINE 426: bestow herself on his profligate Brother.
+LINE 427: ROWLEY. You know Sir Peter I have always taken the Liberty to differ
+LINE 428: with you on the subject of these two young Gentlemen--I only wish you
+LINE 429: may not be deceived in your opinion of the elder. For Charles, my life
+LINE 430: on't! He will retrieve his errors yet--their worthy Father, once my
+LINE 431: honour'd master, was at his years nearly as wild a spark.
+LINE 432: SIR PETER. You are wrong, Master Rowley--on their Father's Death you
+LINE 433: know I acted as a kind of Guardian to them both--till their uncle Sir
+LINE 434: Oliver's Eastern Bounty gave them an early independence. Of course no
+LINE 435: person could have more opportunities of judging of their Hearts--and I
+LINE 436: was never mistaken in my life. Joseph is indeed a model for the young
+LINE 437: men of the Age--He is a man of Sentiment--and acts up to the Sentiments
+LINE 438: he professes--but for the other[,] take my word for't [if] he had any
+LINE 439: grain of Virtue by descent--he has dissipated it with the rest of his
+LINE 440: inheritance. Ah! my old Friend, Sir Oliver will be deeply mortified when
+LINE 441: he finds how Part of his Bounty has been misapplied.
+LINE 442: ROWLEY. I am sorry to find you so violent against the young man because
+LINE 443: this may be the most critical Period of his Fortune. I came hither with
+LINE 444: news that will surprise you.
+LINE 445: SIR PETER. What! let me hear--
+LINE 446: ROWLEY. Sir Oliver is arrived and at this moment in Town.
+LINE 447: SIR PETER. How!--you astonish me--I thought you did not expect him this
+LINE 448: month!--
+LINE 449: ROWLEY. I did not--but his Passage has been remarkably quick.
+LINE 450: SIR PETER. Egad I shall rejoice to see my old Friend--'Tis sixteen years
+LINE 451: since we met--We have had many a Day together--but does he still enjoin
+LINE 452: us not to inform his Nephews of his Arrival?
+LINE 453: ROWLEY. Most strictly--He means, before He makes it known to make some
+LINE 454: trial of their Dispositions and we have already planned something for
+LINE 455: the purpose.
+LINE 456: SIR PETER. Ah there needs no art to discover their merits--however he
+LINE 457: shall have his way--but pray does he know I am married!
+LINE 458: ROWLEY. Yes and will soon wish you joy.
+LINE 459: SIR PETER. You may tell him 'tis too late--ah Oliver will laugh at
+LINE 460: me--we used to rail at matrimony together--but He has been steady to his
+LINE 461: Text--well He must be at my house tho'--I'll instantly give orders for
+LINE 462: his Reception--but Master Rowley--don't drop a word that Lady Teazle and
+LINE 463: I ever disagree.
+LINE 464: ROWLEY. By no means.
+LINE 465: SIR PETER. For I should never be able to stand Noll's jokes; so I'd have
+LINE 466: him think that we are a very happy couple.
+LINE 467: ROWLEY. I understand you--but then you must be very careful not to
+LINE 468: differ while He's in the House with you.
+LINE 469: SIR PETER. Egad--and so we must--that's impossible. Ah! Master Rowley
+LINE 470: when an old Batchelor marries a young wife--He deserves--no the crime
+LINE 471: carries the Punishment along with it.
+LINE 472: [Exeunt.]
+LINE 473: END OF THE FIRST ACT
