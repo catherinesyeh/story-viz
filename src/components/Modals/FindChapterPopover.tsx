@@ -84,7 +84,7 @@ function FindChapterPopover() {
           disabled={!isBackendActive}
           title={isBackendActive ? "Find chapter" : "Backend is not connected"}
         >
-          Ask LLM a question to start exploring
+          Ask a question to start exploring
         </Button>
       </Popover.Target>
       <Popover.Dropdown>

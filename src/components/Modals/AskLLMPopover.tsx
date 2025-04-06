@@ -104,7 +104,7 @@ function AskLLMPopover(props: any) {
           disabled={!isBackendActive}
           title={isBackendActive ? "Ask LLM" : "Backend is not connected"}
         >
-          ask llm about this {!chapterView ? "scene" : "chapter"}
+          ask about this {!chapterView ? "scene" : "chapter"}
         </Button>
       </Popover.Target>
       <Popover.Dropdown>

@@ -1,5 +1,7 @@
 import { create } from "zustand";
 
+const DEMO_MODE = false; // change this to false for dev
+
 // values that don't need to persist across sessions
 interface IStore {
   demoMode: boolean;
@@ -100,9 +102,9 @@ interface IStore {
 
 const initialState = {
   yAxis: "location",
-  colorBy: "sentiment",
-  sizeBy: "importance",
-  weightBy: "conflict",
+  colorBy: DEMO_MODE ? "default" : "sentiment",
+  sizeBy: DEMO_MODE ? "default" : "importance",
+  weightBy: DEMO_MODE ? "default" : "conflict",
   characterColor: "llm",
   showChapters: false,
   scaleByLength: false,
@@ -124,12 +126,12 @@ const initialState = {
   minimized: [],
   showLegend: true,
   cumulativeMode: false,
-  verboseMode: true,
+  verboseMode: DEMO_MODE ? false : true,
   detailView: false,
 };
 
 export const storyStore = create<IStore>()((set) => ({
-  demoMode: false,
+  demoMode: DEMO_MODE,
   story: "gatsby-new",
   chapterView: true,
   themeView: false,
