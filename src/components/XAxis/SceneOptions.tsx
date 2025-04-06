@@ -6,6 +6,7 @@ import { positionStore } from "../../stores/positionStore";
 import ChapterSlider from "./ChapterSlider";
 import { extractChapterName } from "../../utils/helpers";
 import InfoTooltip from "../Misc/InfoTooltip";
+import localforage from "localforage";
 
 function SceneOptions() {
   const {
@@ -19,6 +20,7 @@ function SceneOptions() {
     isUpdatingData,
     modalLoading,
     demoMode,
+    story,
   } = storyStore();
 
   const {
@@ -31,6 +33,8 @@ function SceneOptions() {
     sortedCharacters,
     chapterDivisions,
     customYAxisOptions,
+    character_data,
+    og_scene_data,
   } = dataStore();
   const { setPositions, plotHeight } = positionStore();
 
@@ -43,8 +47,43 @@ function SceneOptions() {
       : "";
   last_chapter = extractChapterName(last_chapter);
 
+  const addModifiedData = async () => {
+    // add initial formatted scene/character data to localforage
+    const localStorageKey = `characterData-${story}`;
+    const sceneStorageKey = `sceneData-${story}`;
+
+    // Retrieve character data
+    let characterData = await localforage
+      .getItem(localStorageKey)
+      .catch((error) => {
+        console.error("Error loading character data", error);
+        return null;
+      });
+
+    if (!characterData && character_data) {
+      console.log("Saving character data to cache");
+      characterData = character_data;
+      localforage.setItem(localStorageKey, characterData);
+    }
+
+    // Retrieve scene data
+    let sceneData = await localforage
+      .getItem(sceneStorageKey)
+      .catch((error) => {
+        console.error("Error loading scene data", error);
+        return null;
+      });
+
+    if (!sceneData && og_scene_data) {
+      console.log("Saving scene data to cache");
+      sceneData = og_scene_data;
+      localforage.setItem(sceneStorageKey, sceneData);
+    }
+  };
+
   const set_pos = () => {
     if (scene_data) {
+      addModifiedData();
       setPositions(
         scene_data,
         scenes,

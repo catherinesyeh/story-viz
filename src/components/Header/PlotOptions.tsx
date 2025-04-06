@@ -211,7 +211,8 @@ function PlotOptions() {
 
   const [prevStory, setPrevStory] = useState(story);
 
-  const addModifiedData = async (data: any) => {
+  const loadModifiedData = async (data: any) => {
+    // load formatted scene/character data from localforage
     const localStorageKey = `characterData-${story}`;
     const sceneStorageKey = `sceneData-${story}`;
 
@@ -226,10 +227,6 @@ function PlotOptions() {
     if (characterData) {
       console.log("Using cached character data");
       data["characters"] = characterData;
-    } else {
-      console.log("Saving character data to cache");
-      characterData = data["characters"];
-      localforage.setItem(localStorageKey, characterData);
     }
 
     // Retrieve scene data
@@ -243,10 +240,6 @@ function PlotOptions() {
     if (sceneData) {
       console.log("Using cached scene data");
       data["scenes"] = sceneData;
-    } else {
-      console.log("Saving scene data to cache");
-      sceneData = data["scenes"];
-      localforage.setItem(sceneStorageKey, sceneData);
     }
 
     return data;
@@ -258,7 +251,7 @@ function PlotOptions() {
       const new_data = await import(`../../data/${story}.json`);
 
       // Retrieve modified data
-      const mod_data = await addModifiedData(new_data.default);
+      const mod_data = await loadModifiedData(new_data.default);
 
       // Ensure `updateData` doesn't conflict with `useEffect`
       if (!isUpdatingData) {
@@ -382,7 +375,7 @@ function PlotOptions() {
   };
 
   const setDataDetailView = async (chapter: string) => {
-    const mod_data = await addModifiedData(data);
+    const mod_data = await loadModifiedData(data);
     setData(mod_data, story, chapterView, chapter, true);
   };
 
