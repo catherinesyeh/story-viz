@@ -1,0 +1,13 @@
+LINE 1: On 19 April 2021, NASA successfully flew its diminutive unmanned helicopter
+LINE 2: Ingenuity on Mars, humanity's first controlled powered aircraft flight on
+LINE 3: another planet. The helicopter rose to a height of three metres and hovered in
+LINE 4: a stable holding position for 30 seconds. A video of the flight was made by its
+LINE 5: accompanying rover, Perseverance.
+LINE 6: Ingenuity, which was initially designed for five demonstration flights, flew 72
+LINE 7: times traveling 11 miles in nearly three years. As a homage to all of its
+LINE 8: aerial predecessors, it carries a postage stamp sized piece of wing fabric from
+LINE 9: the 1903 Wright Flyer.
+LINE 10: Ingenuity's last flight was 18 January 2024, a span of 2 years, 333 days since
+LINE 11: its first takeoff (the duration in Martian days, or sols, was 1035). Broken and
+LINE 12: damaged rotor blades suffered during its final landing forced the helicopter's
+LINE 13: retirement.

@@ -1,0 +1,38 @@
+LINE 1: Traveller Evliya Çelebi reported that in 1633, Ottoman scientist and engineer
+LINE 2: Lagari Hasan Çelebi blasted off from Sarayburnu in a 7-winged rocket propelled
+LINE 3: by 50 okka (140 lbs) of gunpowder. The flight was said to have been undertaken
+LINE 4: at the time of the birth of Sultan Murad IV's daughter. As Evliya Celebi wrote,
+LINE 5: Lagari proclaimed before launching his craft "O my sultan! Be blessed, I am
+LINE 6: going to talk to Jesus!"; after ascending in the rocket, he landed in the sea,
+LINE 7: swimming ashore and joking "O my sultan! Jesus sends his regards to you!"; he
+LINE 8: was rewarded by the Sultan with silver and the rank of sipahi in the Ottoman
+LINE 9: army. Evliya Çelebi also wrote of Lagari's brother, Hezârfen Ahmed Çelebi,
+LINE 10: making a flight by glider a year earlier.
+LINE 11: Italian inventor Tito Livio Burattini, invited by the Polish King Władysław IV
+LINE 12: to his court in Warsaw, built a model aircraft with four fixed glider wings in
+LINE 13: 1647. Described as "four pairs of wings attached to an elaborate 'dragon'", it
+LINE 14: was said to have successfully lifted a cat in 1648 but not Burattini himself.
+LINE 15: He promised that "only the most minor injuries" would result from landing the
+LINE 16: craft. His "Dragon Volant" is considered "the most elaborate and sophisticated
+LINE 17: aeroplane to be built before the 19th Century".
+LINE 18: The first published paper on aviation was "Sketch of a Machine for Flying in
+LINE 19: the Air" by Emanuel Swedenborg published in 1716. This flying machine consisted
+LINE 20: of a light frame covered with strong canvas and provided with two large oars or
+LINE 21: wings moving on a horizontal axis, arranged so that the upstroke met with no
+LINE 22: resistance while the downstroke provided lifting power. Swedenborg knew that
+LINE 23: the machine would not fly, but suggested it as a start and was confident that
+LINE 24: the problem would be solved. Swedenborg proved prescient in his observation
+LINE 25: that a method of powering of an aircraft was one of the critical problems to be
+LINE 26: overcome.
+LINE 27: "It seems easier to talk of such a machine than to put it into actuality, for
+LINE 28: it requires greater force and less weight than exists in a human body. The
+LINE 29: science of mechanics might perhaps suggest a means, namely, a strong spiral
+LINE 30: spring. If these advantages and requisites are observed, perhaps in time to
+LINE 31: come someone might know how better to utilise our sketch and cause some
+LINE 32: addition to be made so as to accomplish that which we can only suggest. Yet
+LINE 33: there are sufficient proofs and examples from nature that such flights can take
+LINE 34: place without danger, although when the first trials are made you may have to
+LINE 35: pay for the experience, and not mind an arm or leg."
+LINE 36: On 16 May 1793, Spanish inventor Diego Marín Aguilera crossed the river
+LINE 37: Arandilla in Coruña del Conde, Castile, flying 300 to 400 metres (980 to
+LINE 38: 1,310 ft) with a flying machine.

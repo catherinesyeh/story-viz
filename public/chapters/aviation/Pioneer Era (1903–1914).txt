@@ -1,0 +1,101 @@
+LINE 1: This period saw the development of practical aeroplanes and airships and their
+LINE 2: early application, alongside balloons and kites, for private, sport and
+LINE 3: military use.
+LINE 4: #### Pioneers in Europe
+LINE 5: Although the full details of the Wright Brothers' system of flight control had
+LINE 6: been published in l'Aerophile in January 1906, the importance of this advance
+LINE 7: was not recognised, and European experimenters generally concentrated on
+LINE 8: attempting to produce inherently stable machines.
+LINE 9: Short powered flights were performed in France by Romanian engineer Traian Vuia
+LINE 10: on 18 March and 19 August 1906 when he flew 12 and 24 metres, respectively, in
+LINE 11: a self-designed, fully self-propelled, fixed-wing aircraft, that possessed a
+LINE 12: fully wheeled undercarriage. He was followed by Jacob Ellehammer who built a
+LINE 13: monoplane which he tested with a tether in Denmark on 12 September 1906, flying
+LINE 14: 42 metres.
+LINE 15: On 13 September 1906, the Brazilian Alberto Santos-Dumont made a public flight
+LINE 16: in Paris with the 14-bis, also known as Oiseau de proie (French for "bird of
+LINE 17: prey"). This was canard configured with a pronounced wing dihedral, and covered
+LINE 18: a distance of 60 m (200 ft) on the grounds of the Chateau de Bagatelle in
+LINE 19: Paris' Bois de Boulogne before a large crowd of witnesses. This well-documented
+LINE 20: event was the first flight verified by the Aéro-Club de France of a powered
+LINE 21: heavier-than-air machine in Europe and won the Deutsch-Archdeacon Prize for the
+LINE 22: first officially observed flight greater than 25 m (82 ft). On 12 November
+LINE 23: 1906, Santos-Dumont set the first world record recognized by the Federation
+LINE 24: Aeronautique Internationale by flying 220 m (720 ft) in 21.5 seconds. Only one
+LINE 25: more brief flight was made by the 14-bis in March 1907, after which it was
+LINE 26: abandoned.
+LINE 27: In March 1907, Gabriel Voisin flew the first example of his Voisin biplane. On
+LINE 28: 13 January 1908, a second example was flown by Henri Farman to win the
+LINE 29: Deutsch-Archdeacon Grand Prix d'Aviation prize for a flight in which the
+LINE 30: aircraft flew a distance of more than a kilometre and landed at the point where
+LINE 31: it had taken off. The flight lasted 1 minute and 28 seconds.
+LINE 32: #### Flight as an established technology
+LINE 33: Santos-Dumont later added ailerons between the wings in an effort to gain more
+LINE 34: lateral stability. His final design, first flown in 1907, was the series of
+LINE 35: Demoiselle monoplanes (Nos. 19 to 22). The Demoiselle No 19 could be
+LINE 36: constructed in only 15 days and became the world's first series production
+LINE 37: aircraft. The Demoiselle achieved 120 km/h. The fuselage consisted of three
+LINE 38: specially reinforced bamboo booms. The pilot sat in a seat between the main
+LINE 39: wheels of a conventional landing gear whose pair of wire-spoked mainwheels were
+LINE 40: located at the lower front of the airframe, with a tailskid half-way back
+LINE 41: beneath the rear fuselage structure. The Demoiselle was controlled in flight by
+LINE 42: a cruciform tail unit hinged on a form of universal joint at the aft end of the
+LINE 43: fuselage structure to function as elevator and rudder, with roll control
+LINE 44: provided through wing warping (No. 20), with the wings only warping "down".
+LINE 45: In 1908, Wilbur Wright travelled to Europe, and starting in August gave a
+LINE 46: series of flight demonstrations at Le Mans in France. The first demonstration,
+LINE 47: made on 8 August, attracted an audience including most of the major French
+LINE 48: aviation experimenters, who were astonished by the clear superiority of the
+LINE 49: Wright Brothers' aircraft, particularly its ability to make tight controlled
+LINE 50: turns. The importance of using roll control in making turns was recognised by
+LINE 51: almost all the European experimenters: Henri Farman fitted ailerons to his
+LINE 52: Voisin biplane and shortly afterwards set up his own aircraft construction
+LINE 53: business, whose first product was the influential Farman III biplane.
+LINE 54: The following year saw the widespread recognition of powered flight as
+LINE 55: something other than the preserve of dreamers and eccentrics. On 25 July 1909,
+LINE 56: Louis Blériot won worldwide fame by winning a £1,000 prize offered by the
+LINE 57: British Daily Mail newspaper for a flight across the English Channel, and in
+LINE 58: August around half a million people, including the President of France Armand
+LINE 59: Fallières and the Prime Minister of the United Kingdom David Lloyd George,
+LINE 60: attended one of the first aviation meetings, the Grande Semaine d'Aviation at
+LINE 61: Reims.
+LINE 62: In 1914, pioneering aviator Tony Jannus captained the inaugural flight of the
+LINE 63: St. Petersburg-Tampa Airboat Line, the world's first commercial passenger
+LINE 64: airline.
+LINE 65: Historians disagree about whether the Wright brothers patent war impeded
+LINE 66: development of the aviation industry in the United States compared to Europe.
+LINE 67: The patent war ended during World War I when the government pressured the
+LINE 68: industry into forming a patent pool, and major litigants had left the industry.
+LINE 69: #### Rotorcraft
+LINE 70: In 1877, the Italian engineer, inventor and aeronautical pioneer Enrico
+LINE 71: Forlanini developed an unmanned helicopter powered by a steam engine. It rose
+LINE 72: to a height of 13 metres (43 feet), where it remained for 20 seconds, after a
+LINE 73: vertical take-off from a park in Milan. Milan has dedicated its city airport to
+LINE 74: Enrico Forlanini, the airport is also named Linate Airport, as well as the
+LINE 75: nearby park, the Parco Forlanini. In Milan he also has an avenue named after
+LINE 76: him, Viale Enrico Forlanini.
+LINE 77: The first time a manned helicopter is known to have risen off the ground was on
+LINE 78: a tethered flight in 1907 by the Breguet-Richet Gyroplane. Later the same year
+LINE 79: the Cornu helicopter, also French, made the first rotary-winged free flight at
+LINE 80: Lisieux, France. However, these were not practical designs.
+LINE 81: #### Military use
+LINE 82: Almost as soon as they were invented, aeroplanes were used for military
+LINE 83: purposes. The first country to use them for military purposes was Italy, whose
+LINE 84: aircraft made reconnaissance, bombing and artillery correction flights in Libya
+LINE 85: during the Italian-Turkish war (September 1911 – October 1912). This war also
+LINE 86: saw Ottoman soldiers shoot down a warplane for the first time in history. The
+LINE 87: first warplane reconnaissance mission flown on 23 October 1911 by the Italian
+LINE 88: air force's Captain Carlo Piazza, and the first bombing mission was flown on 1
+LINE 89: November 1911 by Italy's Second Lieutenant Giolio Gavotti. Bulgaria later
+LINE 90: followed this example. Its planes attacked and reconnoitred Ottoman positions
+LINE 91: during the First Balkan War 1912–13. The first war to see major use of
+LINE 92: aeroplanes in offensive, defensive and reconnaissance capabilities was World
+LINE 93: War I. The Allies and Central Powers both used aeroplanes and airships
+LINE 94: extensively.
+LINE 95: While the concept of using the aeroplane as an offensive weapon was generally
+LINE 96: discounted before World War I, the idea of using it for photography was one
+LINE 97: that was not lost on any of the major forces. All of the major forces in Europe
+LINE 98: had light aircraft, typically derived from pre-war sporting designs, attached
+LINE 99: to their reconnaissance departments. Radiotelephones were also being explored
+LINE 100: on aeroplanes, notably the SCR-68, as communication between pilots and ground
+LINE 101: commander grew more and more important.

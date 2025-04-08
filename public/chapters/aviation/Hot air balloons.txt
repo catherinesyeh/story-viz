@@ -1,0 +1,9 @@
+LINE 1: Since ancient times, the Chinese understood that hot air rises and applied the
+LINE 2: principle to a type of small hot air balloon called a sky lantern. A sky
+LINE 3: lantern consists of a paper balloon under or just inside which a small lamp is
+LINE 4: placed. Sky lanterns are traditionally launched for recreation and during
+LINE 5: festivals. According to Joseph Needham, such lanterns were found in China since
+LINE 6: the 3rd century BC. Their military use is attributed to the general Zhuge Liang
+LINE 7: (180–234 AD), who is said to have used them to scare the enemy troops.
+LINE 8: There is evidence that the Chinese also "solved the problem of aerial
+LINE 9: navigation" using balloons, hundreds of years before the 18th century.

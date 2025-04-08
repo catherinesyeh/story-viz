@@ -1,0 +1,27 @@
+LINE 1: Eventually, some investigators began to discover and define some of the basics
+LINE 2: of rational aircraft design. Most notable of these was Leonardo da Vinci,
+LINE 3: although his work remained unknown until 1797, and so had no influence on
+LINE 4: developments over the next three hundred years. While his designs are rational,
+LINE 5: they are not scientific. He particularly underestimated the amount of power
+LINE 6: that would be needed to propel a flying object, basing his designs on the
+LINE 7: flapping wings of a bird rather than an engine-powered propeller.
+LINE 8: Leonardo studied bird and bat flight, claiming the superiority of the latter
+LINE 9: owing to its unperforated wing. He analyzed these and anticipated many
+LINE 10: principles of aerodynamics. He understood that "An object offers as much
+LINE 11: resistance to the air as the air does to the object." Isaac Newton later
+LINE 12: defined this as the third law of motion in 1687.
+LINE 13: From the last years of the 15th century until 1505, Leonardo wrote about and
+LINE 14: sketched many designs for flying machines and mechanisms, including
+LINE 15: ornithopters, fixed-wing gliders, rotorcraft (perhaps inspired by whirligig
+LINE 16: toys), parachutes (in the form of a wooden-framed pyramidal tent) and a wind
+LINE 17: speed gauge. His early designs were man-powered and included ornithopters and
+LINE 18: rotorcraft; however, he came to realise the impracticality of this and later
+LINE 19: turned to controlled gliding flight, also sketching some designs powered by a
+LINE 20: spring.
+LINE 21: In an essay titled Sul volo (On flight), Leonardo describes a flying machine
+LINE 22: called "the bird" which he built from starched linen, leather joints, and raw
+LINE 23: silk thongs. In the Codex Atlanticus, he wrote, "Tomorrow morning, on the
+LINE 24: second day of January 1496, I will make the thong and the attempt." According
+LINE 25: to one commonly repeated, albeit presumably fictional story, in 1505 Leonardo
+LINE 26: or one of his pupils attempted to fly from the summit of Monte Ceceri.
+LINE 27: ## Lighter than air

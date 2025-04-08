@@ -1,0 +1,85 @@
+LINE 1: Using a methodical approach and concentrating on the controllability of the
+LINE 2: aircraft, the brothers built and tested a series of kite and glider designs
+LINE 3: from 1898 to 1902 before attempting to build a powered design. The gliders
+LINE 4: worked, but not as well as the Wrights had expected based on the experiments
+LINE 5: and writings of their predecessors. Their first full-size glider, launched in
+LINE 6: 1900, had only about half the lift they anticipated. Their second glider, built
+LINE 7: the following year, performed even more poorly. Rather than giving up, the
+LINE 8: Wrights constructed their own wind tunnel and created a number of sophisticated
+LINE 9: devices to measure lift and drag on the 200 wing designs they tested. As a
+LINE 10: result, the Wrights corrected earlier mistakes in calculations regarding drag
+LINE 11: and lift. Their testing and calculating produced a third glider with a higher
+LINE 12: aspect ratio and true three-axis control. They flew it successfully hundreds of
+LINE 13: times in 1902, and it performed far better than the previous models. By using a
+LINE 14: rigorous system of experimentation, involving wind-tunnel testing of airfoils
+LINE 15: and flight testing of full-size prototypes, the Wrights not only built a
+LINE 16: working aircraft the following year, the Wright Flyer, but also helped advance
+LINE 17: the science of aeronautical engineering.
+LINE 18: The Wrights appear to be the first to make serious studied attempts to
+LINE 19: simultaneously solve the power and control problems. Both problems proved
+LINE 20: difficult, but they never lost interest. They solved the control problem by
+LINE 21: inventing wing warping for roll control, combined with simultaneous yaw control
+LINE 22: with a steerable rear rudder. Almost as an afterthought, they designed and
+LINE 23: built a low-powered internal combustion engine. They also designed and carved
+LINE 24: wooden propellers that were more efficient than any before, enabling them to
+LINE 25: gain adequate performance from their low engine power. Although wing-warping as
+LINE 26: a means of lateral control was used only briefly during the early history of
+LINE 27: aviation, the principle of combining lateral control in combination with a
+LINE 28: rudder was a key advance in aircraft control. While many aviation pioneers
+LINE 29: appeared to leave safety largely to chance, the Wrights' design was greatly
+LINE 30: influenced by the need to teach themselves to fly without unreasonable risk to
+LINE 31: life and limb, by surviving crashes. This emphasis, as well as low engine
+LINE 32: power, was the reason for low flying speed and for taking off in a headwind.
+LINE 33: Performance, rather than safety, was the reason for the rear-heavy design
+LINE 34: because the canard could not be highly loaded; anhedral wings were less
+LINE 35: affected by crosswinds and were consistent with the low yaw stability.
+LINE 36: According to the Smithsonian Institution and Fédération Aéronautique
+LINE 37: Internationale (FAI), the Wrights made the first sustained, controlled, powered
+LINE 38: heavier-than-air manned flight at Kill Devil Hills, North Carolina, four miles
+LINE 39: (8 km) south of Kitty Hawk, North Carolina on 17 December 1903.
+LINE 40: The first flight by Orville Wright, of 120 feet (37 m) in 12 seconds, was
+LINE 41: recorded in a famous photograph. In the fourth flight of the same day, Wilbur
+LINE 42: Wright flew 852 feet (260 m) in 59 seconds. The flights were witnessed by three
+LINE 43: coastal lifesaving crewmen, a local businessman, and a boy from the village,
+LINE 44: making these the first public flights and the first well-documented ones.
+LINE 45: Orville described the final flight of the day: "The first few hundred feet were
+LINE 46: up and down, as before, but by the time three hundred feet had been covered,
+LINE 47: the machine was under much better control. The course for the next four or five
+LINE 48: hundred feet had but little undulation. However, when out about eight hundred
+LINE 49: feet the machine began pitching again, and, in one of its darts downward,
+LINE 50: struck the ground. The distance over the ground was measured to be 852 feet
+LINE 51: (260 m); the time of the flight was 59 seconds. The frame supporting the front
+LINE 52: rudder was badly broken, but the main part of the machine was not injured at
+LINE 53: all. We estimated that the machine could be put in condition for flight again
+LINE 54: in about a day or two". They flew only about ten feet above the ground as a
+LINE 55: safety precaution, so they had little room to manoeuvre, and all four flights
+LINE 56: in the gusty winds ended in a bumpy and unintended "landing". Modern analysis
+LINE 57: by Professor Fred E. C. Culick and Henry R. Rex (1985) has demonstrated that
+LINE 58: the 1903 Wright Flyer was so unstable as to be almost unmanageable by anyone
+LINE 59: but the Wrights, who had trained themselves in the 1902 glider.
+LINE 60: The Wrights continued flying at Huffman Prairie near Dayton, Ohio in 1904–05.
+LINE 61: In May 1904 they introduced the Flyer II, a heavier and improved version of the
+LINE 62: original Flyer. On 23 June 1905, they first flew a third machine, the Flyer
+LINE 63: III. After a severe crash on 14 July 1905, they rebuilt the Flyer III and made
+LINE 64: important design changes. They almost doubled the size of the elevator and
+LINE 65: rudder and moved them about twice the distance from the wings. They added two
+LINE 66: fixed vertical vanes (called "blinkers") between the elevators and gave the
+LINE 67: wings a very slight dihedral. They disconnected the rudder from the
+LINE 68: wing-warping control, and as in all future aircraft, placed it on a separate
+LINE 69: control handle. When flights resumed the results were immediate. The serious
+LINE 70: pitch instability that hampered Flyers I and II was significantly reduced, so
+LINE 71: repeated minor crashes were eliminated. Flights with the redesigned Flyer III
+LINE 72: started lasting over 10 minutes, then 20, then 30. Flyer III became the first
+LINE 73: practical aircraft (though without wheels and needing a launching device),
+LINE 74: flying consistently under full control and bringing its pilot back to the
+LINE 75: starting point safely and landing without damage. On 5 October 1905, Wilbur
+LINE 76: flew 24 miles (39 km) in 39 minutes 23 seconds.
+LINE 77: According to the April 1907 issue of the Scientific American magazine, the
+LINE 78: Wright brothers seemed to have the most advanced knowledge of heavier-than-air
+LINE 79: navigation at the time. However, the same magazine issue also claimed that no
+LINE 80: public flight had been made in the United States before its April 1907 issue.
+LINE 81: Hence, they devised the Scientific American Aeronautic Trophy in order to
+LINE 82: encourage the development of a heavier-than-air flying machine. Glenn H.
+LINE 83: Curtiss won the trophy in 1908 with the first pre-announced and officially
+LINE 84: recorded flight of the June Bug.
+LINE 85: ## History

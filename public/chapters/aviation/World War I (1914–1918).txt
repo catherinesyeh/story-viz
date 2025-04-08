@@ -1,0 +1,20 @@
+LINE 1: #### Combat schemes
+LINE 2: It was not long before aircraft were shooting at each other, but the lack of
+LINE 3: any sort of steady point for the gun was a problem. The French solved this
+LINE 4: problem when, in late 1914, Roland Garros attached a fixed machine gun to the
+LINE 5: front of his plane. Adolphe Pegoud became known as the first "ace", getting
+LINE 6: credit for five victories before also becoming the first ace to die in action,
+LINE 7: it was German Luftstreitkräfte Leutnant Kurt Wintgens who, on 1 July 1915,
+LINE 8: scored the very first aerial victory by a purpose-built fighter plane, with a
+LINE 9: synchronized machine gun.
+LINE 10: Aviators were styled as modern-day knights, doing individual combat with their
+LINE 11: enemies. Several pilots became famous for their air-to-air combat; the most
+LINE 12: well known is Manfred von Richthofen, better known as the "Red Baron", who shot
+LINE 13: down 80 planes in air-to-air combat with several different planes, the most
+LINE 14: celebrated of which was the Fokker Dr.I. On the Allied side, René Paul Fonck is
+LINE 15: credited with the most all-time victories at 75, even when later wars are
+LINE 16: considered.
+LINE 17: France, Britain, Germany, and Italy were the leading manufacturers of fighter
+LINE 18: planes that saw action during the war, with German aviation technologist Hugo
+LINE 19: Junkers showing the way to the future through his pioneering use of all-metal
+LINE 20: aircraft from late 1915.

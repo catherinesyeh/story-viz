@@ -1,0 +1,128 @@
+LINE 1: Balloon jumping replaced tower jumping, also demonstrating with typically fatal
+LINE 2: results that man-power and flapping wings were useless in achieving flight. At
+LINE 3: the same time scientific study of heavier-than-air flight began in earnest. In
+LINE 4: 1801, the French officer André Guillaume Resnier de Goué managed a 300-metre
+LINE 5: glide by starting from the top of the city walls of Angoulême and he broke one
+LINE 6: leg on arrival. In 1837, French mathematician and brigadier general Isidore
+LINE 7: Didion stated, "Aviation will be successful only if one finds an engine whose
+LINE 8: ratio with the weight of the device to be supported will be larger than current
+LINE 9: steam machines or the strength developed by humans or most of the animals".
+LINE 10: #### George Cayley and the first modern aircraft
+LINE 11: George Cayley was first called the "father of the aeroplane" in 1846. During
+LINE 12: the last years of the 18th century, he had begun the first rigorous study of
+LINE 13: the physics of flight and would later design the first modern heavier-than-air
+LINE 14: craft. Among his many achievements, his most important contributions to
+LINE 15: aeronautics include:
+LINE 16: Cayley's research on the aeroplane aimed to address the four fundamental areas
+LINE 17: that are essential to aeronautics: propulsion, structural design, aerodynamics,
+LINE 18: and stability and control. His work laid the groundwork for a comprehensive
+LINE 19: understanding of these critical components, which continue to be vital in the
+LINE 20: field today.
+LINE 21: Cayley's first innovation was to study the basic science of lift by adopting
+LINE 22: the whirling arm test rig for use in aircraft research and using simple
+LINE 23: aerodynamic models on the arm, rather than attempting to fly a model of a
+LINE 24: complete design.
+LINE 25: In 1799, he set down the concept of the modern aeroplane as a fixed-wing flying
+LINE 26: machine with separate systems for lift, propulsion, and control.
+LINE 27: In 1804, Cayley constructed a model glider, which was the first modern
+LINE 28: heavier-than-air flying machine. It had the layout of a conventional modern
+LINE 29: aircraft, with an inclined wing towards the front and an adjustable tail at the
+LINE 30: back with both tailplane and fin. A movable weight allowed adjustment of the
+LINE 31: model's centre of gravity.
+LINE 32: In 1809, goaded by the farcical antics of his contemporaries, he began the
+LINE 33: publication of a landmark three-part treatise titled "On Aerial Navigation"
+LINE 34: (1809–1810). In it he wrote the first scientific statement of the problem, "The
+LINE 35: whole problem is confined within these limits, viz. to make a surface support a
+LINE 36: given weight by the application of power to the resistance of air". He
+LINE 37: identified the four vector forces that influence an aircraft: thrust, lift,
+LINE 38: drag and weight and distinguished stability and control in his designs. He also
+LINE 39: identified and described the importance of the cambered aerofoil, dihedral,
+LINE 40: diagonal bracing and drag reduction, and contributed to the understanding and
+LINE 41: design of ornithopters and parachutes.
+LINE 42: In 1848, he had progressed far enough to construct a glider in the form of a
+LINE 43: triplane large and safe enough to carry a child. A local boy was chosen; his
+LINE 44: name is unknown.
+LINE 45: He went on to publish in 1852 the design for a full-size manned glider or
+LINE 46: "governable parachute" to be launched from a balloon. He then constructed a
+LINE 47: version capable of launching from the top of a hill, which carried the first
+LINE 48: adult aviator across Brompton Dale in 1853.
+LINE 49: #### Age of steam
+LINE 50: Drawing directly from Cayley's work, Henson's 1842 design for an aerial steam
+LINE 51: carriage broke new ground. Although only a design, it was the first in history
+LINE 52: for a propeller-driven fixed-wing aircraft.
+LINE 53: 1866 saw the founding of the Aeronautical Society of Great Britain and two
+LINE 54: years later the world's first aeronautical exhibition was held at the Crystal
+LINE 55: Palace, London, where John Stringfellow was awarded a £100 prize for the steam
+LINE 56: engine with the best power-to-weight ratio. In 1848, Stringfellow achieved the
+LINE 57: first powered flight using an unmanned 10 feet (3.0 m) wingspan steam-powered
+LINE 58: monoplane built in a disused lace factory in Chard, Somerset. Employing two
+LINE 59: contra-rotating propellers on the first attempt, made indoors, the machine flew
+LINE 60: ten feet before becoming destabilised, damaging the craft. The second attempt
+LINE 61: was more successful, the machine leaving a guidewire to fly freely, achieving
+LINE 62: thirty yards of straight and level powered flight. Francis Herbert Wenham
+LINE 63: presented the first paper to the newly formed Aeronautical Society (later the
+LINE 64: Royal Aeronautical Society), On Aerial Locomotion. He advanced Cayley's work on
+LINE 65: cambered wings, making important findings. To test his ideas, from 1858 he had
+LINE 66: constructed several gliders, both manned and unmanned, and with up to five
+LINE 67: stacked wings. He realised that long, thin wings are better than bat-like ones
+LINE 68: because they have more leading edge for their area. Today this relationship is
+LINE 69: known as the aspect ratio of a wing.
+LINE 70: The latter part of the 19th century became a period of intense study,
+LINE 71: characterized by the "gentleman scientists" who represented most research
+LINE 72: efforts until the 20th century. Among them was the British
+LINE 73: scientist-philosopher and inventor Matthew Piers Watt Boulton, who studied
+LINE 74: lateral flight control and was the first to patent an aileron control system in
+LINE 75: 1868.
+LINE 76: In 1871, Wenham made the first wind tunnel using a fan, driven by a steam
+LINE 77: engine, to propel air down a 12 ft (3.7 m) tube to the model.
+LINE 78: Meanwhile, the British advances had galvanised French researchers. In 1857,
+LINE 79: Félix du Temple proposed a monoplane with a tailplane and retractable
+LINE 80: undercarriage. Developing his ideas with a model powered first by clockwork and
+LINE 81: later by steam, he eventually achieved a short hop with a full-size manned
+LINE 82: craft in 1874. It achieved lift-off under its own power after launching from a
+LINE 83: ramp, glided for a short time and returned safely to the ground, making it the
+LINE 84: first successful powered glide in history.
+LINE 85: In 1865, Louis Pierre Mouillard published an influential book The Empire Of The
+LINE 86: Air (l'Empire de l'Air).
+LINE 87: In 1856, Frenchman Jean-Marie Le Bris made the first flight higher than his
+LINE 88: point of departure, by having his glider "L'Albatros artificiel" pulled by a
+LINE 89: horse on a beach. He reportedly achieved a height of 100 metres, over a
+LINE 90: distance of 200 metres.
+LINE 91: Alphonse Pénaud, a Frenchman, advanced the theory of wing contours and
+LINE 92: aerodynamics. He also constructed successful models of aeroplanes, helicopters
+LINE 93: and ornithopters. In 1871 he flew the first aerodynamically stable fixed-wing
+LINE 94: aeroplane, a model monoplane he called the "Planophore", a distance of 40 m
+LINE 95: (130 ft). Pénaud's model incorporated several of Cayley's discoveries,
+LINE 96: including the use of a tail, wing dihedral for inherent stability, and rubber
+LINE 97: power. The planophore also had longitudinal stability, being trimmed such that
+LINE 98: the tailplane was set at a smaller angle of incidence than the wings, an
+LINE 99: original and important contribution to the theory of aeronautics. Pénaud's
+LINE 100: later project for an amphibian aeroplane, although never built, incorporated
+LINE 101: other modern features. A tailless monoplane with a single vertical fin and twin
+LINE 102: tractor propellers, it also featured hinged rear elevator and rudder surfaces,
+LINE 103: retractable undercarriage and a fully enclosed, instrumented cockpit.
+LINE 104: Another theorist was Frenchman Victor Tatin. In 1879, he flew a model which,
+LINE 105: like Pénaud's project, was a monoplane with twin tractor propellers but also
+LINE 106: had a separate horizontal tail. It was powered by compressed air. Flown
+LINE 107: tethered to a pole, this was the first model to take off under its own power.
+LINE 108: In 1884, Alexandre Goupil published his work La Locomotion Aérienne (Aerial
+LINE 109: Locomotion), although the flying machine he later constructed failed to fly.
+LINE 110: In 1890, the French engineer Clément Ader completed the first of three
+LINE 111: steam-driven flying machines, the Éole. On 9 October 1890, Ader made an
+LINE 112: uncontrolled hop of around 50 metres (160 ft); this was the first manned
+LINE 113: aeroplane to take off under its own power. His Avion III of 1897, notable only
+LINE 114: for having twin steam engines, failed to fly: Ader later claimed success and
+LINE 115: was not debunked until 1910 when the French Army published its report on his
+LINE 116: attempt.
+LINE 117: Hiram Maxim was an American engineer who had moved to England. He built his own
+LINE 118: whirling arm rig and wind tunnel and constructed a large machine with a
+LINE 119: wingspan of 105 feet (32 m), a length of 145 feet (44 m), fore and aft
+LINE 120: horizontal surfaces and a crew of three. Twin propellers were powered by two
+LINE 121: lightweight compound steam engines each delivering 180 hp (130 kW). The overall
+LINE 122: weight was 8,000 pounds (3,600 kg). It was intended as a test rig to
+LINE 123: investigate aerodynamic lift; because it lacked flight controls it ran on
+LINE 124: rails, with a second set of rails above the wheels to restrain it. Completed in
+LINE 125: 1894, on its third run it broke from the rail, became airborne for about 200
+LINE 126: yards at two to three feet of altitude and was badly damaged upon falling back
+LINE 127: to the ground. It was subsequently repaired, but Maxim abandoned his
+LINE 128: experiments shortly afterwards.

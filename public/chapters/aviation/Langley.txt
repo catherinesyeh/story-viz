@@ -1,0 +1,45 @@
+LINE 1: After a distinguished career in astronomy and shortly before becoming Secretary
+LINE 2: of the Smithsonian Institution, Samuel Pierpont Langley started a serious
+LINE 3: investigation into aerodynamics at what is today the University of Pittsburgh.
+LINE 4: In 1891, he published Experiments in Aerodynamics detailing his research, and
+LINE 5: then turned to building his designs. He hoped to achieve automatic aerodynamic
+LINE 6: stability, so he gave little consideration to in-flight control. On 6 May 1896,
+LINE 7: Langley's Aerodrome No. 5 made the first successful sustained flight of an
+LINE 8: unpiloted, engine-driven heavier-than-air craft of substantial size. It was
+LINE 9: launched from a spring-actuated catapult mounted on top of a houseboat on the
+LINE 10: Potomac River near Quantico, Virginia. Two flights were made that afternoon,
+LINE 11: one of 1,005 metres (3,297 ft) and a second of 700 metres (2,300 ft), at a
+LINE 12: speed of approximately 25 miles per hour (40 km/h). On both occasions, the
+LINE 13: Aerodrome No. 5 landed in the water as planned, because, in order to save
+LINE 14: weight, it was not equipped with landing gear. On 28 November 1896, another
+LINE 15: successful flight was made with the Aerodrome No. 6. This flight, of 1,460
+LINE 16: metres (4,790 ft), was witnessed and photographed by Alexander Graham Bell. The
+LINE 17: Aerodrome No. 6 was actually Aerodrome No. 4 greatly modified. So little
+LINE 18: remained of the original aircraft that it was given a new designation.
+LINE 19: With the successes of the Aerodrome No. 5 and No. 6, Langley started looking
+LINE 20: for funding to build a full-scale man-carrying version of his designs. Spurred
+LINE 21: by the Spanish–American War, the U.S. government granted him $50,000 to develop
+LINE 22: a man-carrying flying machine for aerial reconnaissance. Langley planned on
+LINE 23: building a scaled-up version known as the Aerodrome A, and started with the
+LINE 24: smaller Quarter-scale Aerodrome, which flew twice on 18 June 1901, and then
+LINE 25: again with a newer and more powerful engine in 1903.
+LINE 26: With the basic design apparently successfully tested, he then turned to the
+LINE 27: problem of a suitable engine. He contracted Stephen Balzer to build one, but
+LINE 28: was disappointed when it delivered only 8 hp (6.0 kW) instead of the 12 hp
+LINE 29: (8.9 kW) he expected. Langley's assistant, Charles M. Manly, then reworked the
+LINE 30: design into a five-cylinder water-cooled radial that delivered 52 hp (39 kW) at
+LINE 31: 950 rpm, a feat that took years to duplicate. Now with both power and a design,
+LINE 32: Langley put the two together with great hopes.
+LINE 33: To his dismay, the resulting aircraft proved to be too fragile. Simply scaling
+LINE 34: up the original small models resulted in a design that was too weak to hold
+LINE 35: itself together. Two launches in late 1903 both ended with the Aerodrome
+LINE 36: immediately crashing into the water. The pilot, Manly, was rescued each time.
+LINE 37: Also, the aircraft's control system was inadequate to allow quick pilot
+LINE 38: responses, and it had no method of lateral control, and the Aerodrome's aerial
+LINE 39: stability was marginal.
+LINE 40: Langley's attempts to gain further funding failed, and his efforts ended. Nine
+LINE 41: days after his second abortive launch on 8 December, the Wright brothers
+LINE 42: successfully flew their Flyer. Glenn Curtiss made 93 modifications to the
+LINE 43: Aerodrome and flew this very different aircraft in 1914. Without acknowledging
+LINE 44: the modifications, the Smithsonian Institution asserted that Langley's
+LINE 45: Aerodrome was the first machine "capable of flight".

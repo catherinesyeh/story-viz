@@ -1,0 +1,46 @@
+LINE 1: Airships were originally called "dirigible balloons" and are still sometimes
+LINE 2: called dirigibles today.
+LINE 3: Work on developing a steerable (or dirigible) balloon continued sporadically
+LINE 4: throughout the 19th century. The first powered, controlled, sustained
+LINE 5: lighter-than-air flight is believed to have taken place in 1852 when Henri
+LINE 6: Giffard flew 15 miles (24 km) in France, with a steam engine-driven craft.
+LINE 7: Another advancement was made in 1884, when the first fully controllable
+LINE 8: free-flight was made in a French Army electric-powered airship, La France, by
+LINE 9: Charles Renard and Arthur Krebs. The 170-foot (52 m) long, 66,000-cubic-foot
+LINE 10: (1,900 m3) airship covered 8 km (5.0 mi) in 23 minutes with the aid of an 8½
+LINE 11: horsepower electric motor.
+LINE 12: However, these aircraft were generally short-lived and extremely frail.
+LINE 13: Routine, controlled flights did not occur until the advent of the internal
+LINE 14: combustion engine.
+LINE 15: The first aircraft to make routine controlled flights were non-rigid airships
+LINE 16: (sometimes called "blimps".) The most successful early pioneering pilot of this
+LINE 17: type of aircraft was the Brazilian Alberto Santos-Dumont who effectively
+LINE 18: combined a balloon with an internal combustion engine. On 19 October 1901, he
+LINE 19: flew his airship Number 6 over Paris from the Parc de Saint Cloud around the
+LINE 20: Eiffel Tower and back in under 30 minutes to win the Deutsch de la Meurthe
+LINE 21: prize. Santos-Dumont went on to design and build several aircraft. The
+LINE 22: subsequent controversy surrounding his and others' competing claims with regard
+LINE 23: to aircraft overshadowed his great contribution to the development of airships.
+LINE 24: At the same time that non-rigid airships were starting to have some success,
+LINE 25: the first successful rigid airships were also being developed. These were far
+LINE 26: more capable than fixed-wing aircraft in terms of pure cargo-carrying capacity
+LINE 27: for decades. Rigid airship design and advancement was pioneered by the German
+LINE 28: count Ferdinand von Zeppelin.
+LINE 29: Construction of the first Zeppelin airship began in 1899 in a floating assembly
+LINE 30: hall on Lake Constance in the Bay of Manzell, Friedrichshafen. This was
+LINE 31: intended to ease the starting procedure, as the hall could easily be aligned
+LINE 32: with the wind. The prototype airship LZ 1 (LZ for "Luftschiff Zeppelin") had a
+LINE 33: length of 128 m (420 ft), was driven by two 10.6 kW (14.2 hp) Daimler engines
+LINE 34: and balanced by moving a weight between its two nacelles.
+LINE 35: Its first flight, on 2 July 1900, lasted for only 18 minutes, as LZ 1 was
+LINE 36: forced to land on the lake after the winding mechanism for the balancing weight
+LINE 37: had broken. Upon repair, the technology proved its potential in subsequent
+LINE 38: flights, bettering the 6 m/s speed attained by the French airship La France by
+LINE 39: 3 m/s, but could not yet convince possible investors. It was several years
+LINE 40: before the Count was able to raise enough funds for another try.
+LINE 41: The German airship passenger service known as DELAG (Deutsche-Luftschiffahrts
+LINE 42: AG) was established in 1910.
+LINE 43: Although airships were used in both World War I and II, and continue on a
+LINE 44: limited basis to this day, their development has been largely overshadowed by
+LINE 45: heavier-than-air craft.
+LINE 46: ## Heavier than air

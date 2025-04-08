@@ -1,0 +1,46 @@
+LINE 1: Following World War II, commercial aviation expanded quickly, primarily relying
+LINE 2: on former military aircraft to carry passengers and cargo. There was an excess
+LINE 3: of large bombers, such as the B-29 and Lancaster, which were easily converted
+LINE 4: for commercial use. The DC-3 specifically played a key role, enabling longer
+LINE 5: and more efficient flights.
+LINE 6: The British de Havilland Comet became the first commercial jet airliner and was
+LINE 7: introduced into scheduled service by 1952. The aircraft was a breakthrough in
+LINE 8: technical achievements, but had several intense failures. The square design of
+LINE 9: the windows caused stress cracks from metal fatigue, caused by cycles of cabin
+LINE 10: pressurization and depressurization. This eventually led to severe structural
+LINE 11: failures in the fuel area. These issues were resolved too late, since competing
+LINE 12: jet airliners were already flying.
+LINE 13: On 15 September 1956, the USSR's airline Aeroflot became the first to offer
+LINE 14: continuous, regular jet services using the Tupolev Tu-104. Soon after, Boeing
+LINE 15: 707 and DC-8 also set new standards in comfort, safety, and passenger
+LINE 16: experience. This was the beginning of the Jet Age, the introduction of
+LINE 17: large-scale commercial air travel.
+LINE 18: In October 1947, Chuck Yeager became the first to fly faster than the speed of
+LINE 19: sound when he piloted the rocket-powered Bell X-1 past the sound barrier. The
+LINE 20: air speed record for an aircraft was set by the X-15 at 4,534 mph (7,297 km/h)
+LINE 21: or Mach 6.1 in 1967. This record was later broken by the X-43 in 2004,
+LINE 22: excluding spacecraft.
+LINE 23: Military aircraft had a strategic advantage during the Cold War with the
+LINE 24: invention of nuclear bombs in 1945. Even just a small fleet of bombers could
+LINE 25: inflict catastrophic damage, which caused for the development of effective
+LINE 26: defenses. One early development was supersonic interceptor aircraft. By 1955,
+LINE 27: the focus shifted toward guided surface-to-air missiles. This eventually led to
+LINE 28: the emergence of intercontinental ballistic missiles (ICBMs), which have
+LINE 29: nuclear capabilities. An early example of ICBMs occurred in 1957 when the
+LINE 30: Soviet Union launched Sputnik 1, beginning the Space Race.
+LINE 31: In 1961, Yuri Gagarin became the first human in space when he completed a
+LINE 32: single orbit around Earth in 108 minutes aboard Vostok I. Following this, the
+LINE 33: United States sent Alan Shepard on a suborbital flight using a Mercury program
+LINE 34: capsule. In 1963, Canada became the third nation to enter space with the launch
+LINE 35: of its satellite, Alouette I. The space race culminated in the landing on the
+LINE 36: moon in 1969.
+LINE 37: The Harrier jump jet, capable of vertical landing and takeoff, first flew in
+LINE 38: 1969. This was also the year of the introduction of the Boeing 747.
+LINE 39: Additionally, the Aérospatiale-BAC Concorde supersonic passenger airliner had
+LINE 40: its maiden flight. The Boeing 747 was the largest commercial passenger aircraft
+LINE 41: ever to fly at the time, now replaced by the Airbus A380, capable of
+LINE 42: transporting 853 passengers. Aeroflot started flying the Tu-144—the first
+LINE 43: supersonic passenger plane in 1975. The next year, British Airways and Air
+LINE 44: France began supersonic flights over the Atlantic.
+LINE 45: In 1979, the Gossamer Albatross achieved the status of the first human-powered
+LINE 46: aircraft to fly over the English channel, which had been a dream for centuries.

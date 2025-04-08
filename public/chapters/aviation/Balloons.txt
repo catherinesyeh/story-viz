@@ -1,0 +1,13 @@
+LINE 1: In France, five aviation firsts were accomplished between 4 June and 1 December
+LINE 2: 1783:
+LINE 3: Ballooning became a major interest in Europe in the late 18th century,
+LINE 4: providing the first detailed understanding of the relationship between altitude
+LINE 5: and the atmosphere.
+LINE 6: Non-steerable balloons were employed during the American Civil War by the Union
+LINE 7: Army Balloon Corps. The young Ferdinand von Zeppelin first flew as a balloon
+LINE 8: passenger with the Union Army of the Potomac in 1863.
+LINE 9: In the early 1900s, ballooning was a popular sport in Britain. These privately
+LINE 10: owned balloons usually used coal gas as the lifting gas. This has half the
+LINE 11: lifting power of hydrogen so the balloons had to be larger, however, coal gas
+LINE 12: was far more readily available and the local gas works sometimes provided a
+LINE 13: special lightweight formula for ballooning events.

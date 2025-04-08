@@ -151,7 +151,8 @@ export const chapterFormatted = (chapterName: string) => {
     chapterName &&
     (chapterName.startsWith("Act") ||
       chapterName === "Prologue" ||
-      chapterName.toLowerCase().includes("chapter"))
+      chapterName.toLowerCase().includes("chapter") ||
+      chapterName.includes("#"))
   );
 };
 
@@ -165,6 +166,11 @@ export const extractChapterName = (fullChapterName: string) => {
   if (fullChapterName && fullChapterName.toLowerCase().includes("the last")) {
     return fullChapterName;
   }
+
+  // remove "#" from string
+  fullChapterName = fullChapterName.replace(/#/g, "");
+  // trim whitespace from string
+  fullChapterName = fullChapterName.trim();
 
   // Regular expression to match "Chapter" followed by any word (which could be a number, Roman numeral, or word)
   const match = fullChapterName && fullChapterName.match(/^chapter \S+/i);

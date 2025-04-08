@@ -52,6 +52,8 @@ function ChapterText() {
     try {
       const story_formatted = onlyLetters(story.split("-")[0]);
       let chapter_formatted = chapter.replace("?", "");
+      // also replace all '#'s with empty string and trim
+      chapter_formatted = chapter_formatted.replace(/#/g, "").trim();
 
       const response = await fetch(
         `chapters/${story_formatted}/${chapter_formatted}.txt`

@@ -1,0 +1,14 @@
+LINE 1: Francesco Lana de Terzi proposed in Prodromo dell'Arte Maestra (1670) that
+LINE 2: large vessels could float in the atmosphere by applying the principles of a
+LINE 3: vacuum. Lana designed an airship with four huge copper foil spheres connected
+LINE 4: to support a rider's basket, a tail, and a steering rudder. Critics argued that
+LINE 5: the thin copper spheres could not sustain ambient air pressure, and further
+LINE 6: experiments proved that his idea was impossible.
+LINE 7: Using a vacuum to create lift is called a vacuum airship, but it is still
+LINE 8: impossible to build with the materials available today.
+LINE 9: In 1709, Bartolomeu de Gusmão approached King John V of Portugal and claimed to
+LINE 10: have discovered a way for airborne flight.
+LINE 11: Due to the King's illness, Gusmão's experiment was rescheduled from its initial
+LINE 12: 24 June 1709, date to 8 August. The experiment was carried out in front of the
+LINE 13: king and other nobles in the Casa da India yard, but the paper ship or device
+LINE 14: burned down before it could take flight.

@@ -1,0 +1,19 @@
+LINE 1: Gustave Weißkopf was a German who emigrated to the U.S., where he soon changed
+LINE 2: his name to Whitehead. From 1897 to 1915, he designed and built early flying
+LINE 3: machines and engines. On 14 August 1901, two and a half years before the Wright
+LINE 4: Brothers' flight, he claimed to have carried out a controlled, powered flight
+LINE 5: in his Number 21 monoplane at Fairfield, Connecticut. The flight was reported
+LINE 6: in the Bridgeport Sunday Herald local newspaper. About 30 years later, several
+LINE 7: people questioned by a researcher claimed to have seen that or other Whitehead
+LINE 8: flights.
+LINE 9: In March 2013, Jane's All the World's Aircraft, an authoritative source for
+LINE 10: contemporary aviation, published an editorial which accepted Whitehead's flight
+LINE 11: as the first manned, powered, controlled flight of a heavier-than-air craft.
+LINE 12: The Smithsonian Institution (custodians of the original Wright Flyer) and many
+LINE 13: aviation historians continue to maintain that Whitehead did not fly as
+LINE 14: suggested. The historians of the Royal Aeronautical Society noted that: "All
+LINE 15: available evidence fails to support the claim that Gustave Whitehead made
+LINE 16: sustained, powered, controlled flights predating those of the Wright brothers."
+LINE 17: The editors of Scientific American agree: "The data show that not only was
+LINE 18: Whitehead not first in flight, but that he may never have made a controlled,
+LINE 19: powered flight at any time."

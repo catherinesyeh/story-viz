@@ -1,0 +1,16 @@
+LINE 1: The last quarter of the 20th century saw a change of emphasis. No longer was
+LINE 2: revolutionary progress made in flight speeds, distances and materials
+LINE 3: technology. This part of the century instead saw the spreading of the digital
+LINE 4: revolution both in flight avionics and in aircraft design and manufacturing
+LINE 5: techniques.
+LINE 6: In 1986, Dick Rutan and Jeana Yeager flew an aircraft, the Rutan Voyager,
+LINE 7: around the world un-refuelled, and without landing. In 1999, Bertrand Piccard
+LINE 8: became the first person to circle the earth in a balloon.
+LINE 9: Digital fly-by-wire systems allow an aircraft to be designed with relaxed
+LINE 10: static stability. These systems were initially used to increase the
+LINE 11: manoeuvrability of military aircraft such as the General Dynamics F-16 Fighting
+LINE 12: Falcon, however they are now being used to reduce drag on commercial airliners.
+LINE 13: The U.S. Centennial of Flight Commission was established in 1999 to encourage
+LINE 14: the broadest national and international participation in the celebration of 100
+LINE 15: years of powered flight. It publicized and encouraged a number of programmes,
+LINE 16: projects and events intended to educate people about the history of aviation.

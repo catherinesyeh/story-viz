@@ -1,0 +1,23 @@
+LINE 1: World War II saw a great increase in the pace of development and production,
+LINE 2: not only of aircraft but also the associated flight-based weapon delivery
+LINE 3: systems. Air combat tactics and doctrines started being rapidly developed.
+LINE 4: Large-scale strategic bombing campaigns were launched, fighter escorts
+LINE 5: introduced and the more flexible aircraft and weapons allowed precise attacks
+LINE 6: on small targets with dive bombers, fighter-bombers, and ground-attack
+LINE 7: aircraft. New technologies like radar also allowed more coordinated and
+LINE 8: controlled deployment of air defence.
+LINE 9: The first jet aircraft to fly was the Heinkel He 178 (Germany), flown by Erich
+LINE 10: Warsitz in 1939, followed by the world's first operational jet aircraft, the
+LINE 11: Messerschmitt Me 262, in July 1942 and world's first jet-powered bomber, the
+LINE 12: Arado Ar 234, in June 1943. British developments, like the Gloster Meteor,
+LINE 13: followed afterwards, but saw only brief use in World War II. The first cruise
+LINE 14: missile (V-1), the first ballistic missile (V-2), the first (and to date only)
+LINE 15: operational rocket-powered combat aircraft Me 163—which attained velocities of
+LINE 16: up to 1,130 km/h (700 mph) in test flights—and the first vertical take-off a
+LINE 17: manned point-defence interceptor, the Bachem Ba 349 Natter, were also developed
+LINE 18: by Germany. However, jet and rocket aircraft had only limited impact due to
+LINE 19: their late introduction, fuel shortages, the lack of experienced pilots and the
+LINE 20: declining war industry of Germany.
+LINE 21: Not only aeroplanes, but also helicopters saw rapid development in the Second
+LINE 22: World War, with the introduction of the Focke Achgelis Fa 223, the Flettner Fl
+LINE 23: 282 synchropter in 1941 in Germany and the Sikorsky R-4 in 1942 in the USA.

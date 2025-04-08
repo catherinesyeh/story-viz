@@ -320,7 +320,7 @@ const chapter_scene_data = (
 
     // find average sentiment of all scenes in chapter
     const chap_scenes = scenes.filter(
-      (scene) => scene.chapter === chapter.chapter
+      (scene) => scene.chapter === new_scene.chapter
     );
 
     let chap_links = [] as CharacterLink[];

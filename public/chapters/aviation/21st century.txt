@@ -1,0 +1,45 @@
+LINE 1: 21st-century aviation has seen increasing interest in fuel savings and fuel
+LINE 2: diversification, as well as low cost airlines and facilities. Additionally,
+LINE 3: much of the developing world that did not have good access to air transport has
+LINE 4: been steadily adding aircraft and facilities; though severe congestion remains
+LINE 5: a problem in many up and coming nations. Around 20,000 city pairs are served by
+LINE 6: commercial aviation, up from less than 10,000 as recently as 1996.
+LINE 7: There appears to be newfound interest in returning to the supersonic era
+LINE 8: whereby waning demand in the turn of the 20th century made flights
+LINE 9: unprofitable, as well as the final commercial stoppage of the Concorde due to
+LINE 10: reduced demand following a fatal accident and rising costs.
+LINE 11: At the beginning of the 21st century, digital technology allowed subsonic
+LINE 12: military aviation to begin eliminating the pilot in favour of remotely operated
+LINE 13: or completely autonomous unmanned aerial vehicles (UAVs). In April 2001, the
+LINE 14: unmanned aircraft Global Hawk flew from Edwards AFB in the US to Australia
+LINE 15: non-stop and un-refuelled. This is the longest point-to-point flight ever
+LINE 16: undertaken by an unmanned aircraft and took 23 hours and 23 minutes. In October
+LINE 17: 2003, the first totally autonomous flight across the Atlantic by a
+LINE 18: computer-controlled model aircraft occurred. UAVs are now an established
+LINE 19: feature of modern warfare, carrying out pinpoint attacks under the control of a
+LINE 20: remote operator.
+LINE 21: Major disruptions to air travel in the 21st century included the closing of
+LINE 22: U.S. airspace due to the September 11 attacks, and the closing of most of
+LINE 23: European airspace after the 2010 eruption of Eyjafjallajökull.
+LINE 24: In 2015, André Borschberg and Bertrand Piccard flew a record distance of 4,481
+LINE 25: miles (7,211 km) from Nagoya, Japan to Honolulu, Hawaii in a solar-powered
+LINE 26: plane, Solar Impulse 2. The flight took nearly five days; during the nights the
+LINE 27: aircraft used its batteries and the potential energy gained during the day.
+LINE 28: On 14 July 2019, Frenchman Franky Zapata attracted worldwide attention when he
+LINE 29: participated at the Bastille Day military parade riding his invention, a
+LINE 30: jet-powered Flyboard Air. He subsequently succeeded in crossing the English
+LINE 31: Channel on his device on 4 August 2019, covering the 35-kilometre (22 mi)
+LINE 32: journey from Sangatte in northern France to St Margaret's Bay in Kent, UK, in
+LINE 33: 22 minutes, with a midpoint fueling stop included.
+LINE 34: 24 July 2019 was the busiest day in aviation, Flightradar24 recorded a total of
+LINE 35: over 225,000 flights that day. It includes helicopters, private jets, gliders,
+LINE 36: sight-seeing flights, as well as personal aircraft.
+LINE 37: On 10 June 2020, the Pipistrel Velis Electro became the first electric
+LINE 38: aeroplane to secure a type certificate from EASA.
+LINE 39: In the early 21st Century, the first fifth-generation military fighters were
+LINE 40: produced, starting with the F-22 Raptor. As of 2019, Russia, America and China
+LINE 41: have 5th gen aircraft.
+LINE 42: The COVID-19 pandemic had a significant impact on the aviation industry due to
+LINE 43: the resulting travel restrictions as well as slump in demand among travellers,
+LINE 44: and may also affect the future of air travel. For example, the mandatory use of
+LINE 45: face masks on planes was common when flying in 2020 and 2021.

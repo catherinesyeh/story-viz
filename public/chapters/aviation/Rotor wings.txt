@@ -1,0 +1,3 @@
+LINE 1: The use of a rotor for vertical flight has existed since 400 BC in the form of
+LINE 2: the bamboo-copter, an ancient Chinese toy. The similar "moulinet à noix" (rotor
+LINE 3: on a nut) appeared in Europe in the 14th century AD.

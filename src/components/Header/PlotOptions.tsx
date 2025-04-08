@@ -182,6 +182,9 @@ function PlotOptions() {
 
     "candide-new",
     "candide-new-themes",
+
+    "aviation-new",
+    "aviation-new-themes",
   ].sort();
 
   const storyOptionsNoTheme = storyOptions.filter(

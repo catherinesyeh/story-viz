@@ -1,0 +1,8 @@
+LINE 1: Richard Pearse was a New Zealand farmer and inventor who performed pioneering
+LINE 2: aviation experiments. Witnesses interviewed many years afterward claimed that
+LINE 3: Pearse flew and landed a powered heavier-than-air machine on 31 March 1903,
+LINE 4: nine months before the Wright brothers flew. : 21–30  Documentary evidence for
+LINE 5: these claims remains open to interpretation and dispute, and Pearse himself
+LINE 6: never made such claims. In a newspaper interview in 1909, he said he did not
+LINE 7: "attempt anything practical ... until 1904". If he did fly in 1903, the flight
+LINE 8: appears to have been poorly controlled in comparison to the Wrights'.

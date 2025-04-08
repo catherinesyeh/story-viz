@@ -1,0 +1,100 @@
+LINE 1: The years between World War I and World War II saw great advancements in
+LINE 2: aircraft technology. Airplanes evolved from low-powered biplanes made from wood
+LINE 3: and fabric to sleek, high-powered monoplanes made of aluminum, based primarily
+LINE 4: on the founding work of Hugo Junkers during the World War I period and its
+LINE 5: adoption by American designer William Bushnell Stout and Soviet designer Andrei
+LINE 6: Tupolev.
+LINE 7: After World War I, experienced fighter pilots were eager to show off their
+LINE 8: skills. Many American pilots became barnstormers, flying into small towns
+LINE 9: across the country and showing off their flying abilities, as well as taking
+LINE 10: paying passengers for rides. Eventually, the barnstormers grouped into more
+LINE 11: organized displays. Air shows sprang up around the country, with air races,
+LINE 12: acrobatic stunts, and feats of air superiority. The air races drove engine and
+LINE 13: airframe development—the Schneider Trophy, for example, led to a series of ever
+LINE 14: faster and sleeker monoplane designs culminating in the Supermarine S.6B. With
+LINE 15: pilots competing for cash prizes, there was an incentive to go faster. Amelia
+LINE 16: Earhart was perhaps the most famous of those on the barnstorming/air show
+LINE 17: circuit. She was also the first female pilot to achieve records such as the
+LINE 18: crossing of the Atlantic and Pacific Oceans.
+LINE 19: Prizes for distance and speed records also drove development forwards. On 14
+LINE 20: June 1919, Captain John Alcock and Lieutenant Arthur Brown co-piloted a Vickers
+LINE 21: Vimy non-stop from St. John's, Newfoundland to Clifden, Ireland, winning the
+LINE 22: £13,000 ($65,000). Northcliffe prize. The first flight across the South
+LINE 23: Atlantic and the first aerial crossing using astronomical navigation, was made
+LINE 24: by the naval aviators Gago Coutinho and Sacadura Cabral in 1922, from Lisbon,
+LINE 25: Portugal, to Rio de Janeiro, Brazil, using an aircraft fitted with an
+LINE 26: artificial horizon for aeronautical use. In 1924, Major General Mason Patrick
+LINE 27: led a group of U.S. Army Air Service members to complete the first aerial
+LINE 28: circumnavigation of the world. This flight around the world came with many
+LINE 29: logistical challenges, traveling 26,343 miles over the span of 175 days. This
+LINE 30: flight led to improved foreign relations by promoting commercial collaboration,
+LINE 31: and greater public interest in aviation, prompting governments to put more
+LINE 32: resources into developing their aviation forces. On 21 May 1927, Charles
+LINE 33: Lindbergh received the Orteig Prize of $25,000 for the first solo non-stop
+LINE 34: crossing of the Atlantic. This caused what was known in aviation at the time as
+LINE 35: the "Lindbergh boom", which increased public interest in aviation.
+LINE 36: Australian Sir Charles Kingsford Smith was the first to fly across the larger
+LINE 37: Pacific Ocean in the Southern Cross. His crew left Oakland, California to make
+LINE 38: the first trans-Pacific flight to Australia, making three stops to complete the
+LINE 39: journey. Kingsford-Smith and his crew made their first stop in Hawaii from
+LINE 40: Oakland, California, and from Hawaii to Suva, Fiji. During the last segment of
+LINE 41: their journey from Fiji to Brisbane, Australia, they encountered severe
+LINE 42: thunderstorms, and were thrown nearly 140 miles off their course. The flight
+LINE 43: concluded on 9 June 1928 after flying 7,230 miles, Kingsford-Smith and his crew
+LINE 44: landed in Brisbane, Australia, receiving $25,000 from the Australian government
+LINE 45: for their achievement. Accompanying him were Australian aviator Charles Ulm as
+LINE 46: the relief pilot, and the Americans James Warner and Captain Harry Lyon (who
+LINE 47: were the radio operator, navigator and engineer). A week after they landed,
+LINE 48: Kingsford Smith and Ulm recorded a disc for Columbia talking about their trip.
+LINE 49: With Ulm, Kingsford Smith later continued his journey being the first in 1929
+LINE 50: to circumnavigate the world, crossing the equator twice.
+LINE 51: The first lighter-than-air crossings of the Atlantic were made by airship in
+LINE 52: July 1919 by His Majesty's Airship R34 and crew when they flew from East
+LINE 53: Lothian, Scotland to Long Island, New York and then back to Pulham, England. By
+LINE 54: 1929, airship technology had advanced to the point that the first
+LINE 55: round-the-world flight was completed by the Graf Zeppelin in September and in
+LINE 56: October, the same aircraft inaugurated the first commercial transatlantic
+LINE 57: service. However, the age of the rigid airship ended following the destruction
+LINE 58: by fire of the zeppelin LZ 129 Hindenburg just before landing at Lakehurst, New
+LINE 59: Jersey on 6 May 1937, killing 35 of the 97 people aboard. Previous spectacular
+LINE 60: airship accidents, from the Wingfoot Express disaster (1919), the loss of the
+LINE 61: R101 (1930), the Akron (1933) and the Macon (1935) had already cast doubt on
+LINE 62: airship safety. The disasters of the U.S. Navy's rigids showed the importance
+LINE 63: of solely using helium as the lifting medium. Following the destruction of the
+LINE 64: Hindenburg, the remaining airship making international flights, the Graf
+LINE 65: Zeppelin was retired (June 1937). Its replacement, the rigid airship Graf
+LINE 66: Zeppelin II, made a number of flights, primarily over Germany, from 1938 to
+LINE 67: 1939, but was grounded when Germany began World War II. Both remaining German
+LINE 68: zeppelins were scrapped in 1940 to supply metal for the German Luftwaffe air
+LINE 69: force.
+LINE 70: Meanwhile, Germany, which was restricted by the Treaty of Versailles in its
+LINE 71: development of powered aircraft, developed gliding as a sport, especially at
+LINE 72: the Wasserkuppe, during the 1920s. In its various forms, in the 21st-century
+LINE 73: sailplane aviation now has over 400,000 participants.
+LINE 74: In 1929, Jimmy Doolittle developed flight instruments . 1929 also saw the first
+LINE 75: flight of by far the largest plane ever built until then: the Dornier Do X with
+LINE 76: a wingspan of 48 m. On its 70th test flight on 21 October 1929, there were 169
+LINE 77: people on board, a record that was not broken for 20 years.
+LINE 78: In 1923, The first successful rotorcraft appeared in the form of the autogyro,
+LINE 79: invented by Spanish engineer Juan de la Cierva and first flown in 1919. In this
+LINE 80: design, the rotor is not powered but spins freely as it moves through the air,
+LINE 81: while a separate engine powers the aircraft to move forward. This was the basis
+LINE 82: of further development and prototypes that led to the creation of the
+LINE 83: helicopter. In 1930 Corradino D'Ascanio, an Italian engineer, developed a
+LINE 84: coaxial helicopter with the important inclusion of three small propellers on
+LINE 85: the craft, which controlled the pitch, roll, and yaw of the aircraft. Later
+LINE 86: helicopters saw several adjustments to their rotors but the first modern
+LINE 87: helicopter was not constructed until 1947 by Igor Sikorsky
+LINE 88: Only five years after the German Dornier Do-X had flown, Tupolev designed the
+LINE 89: largest aircraft of the 1930s era, the Maksim Gorky in the Soviet Union by
+LINE 90: 1934, as the largest aircraft ever built using the Junkers methods of metal
+LINE 91: aircraft construction.
+LINE 92: In the 1930s, development of the jet engines began in Germany and in Britain
+LINE 93: and they began testing in 1939 before World War II. The jet engine saw
+LINE 94: considerable development during the war, with a few jet powered aircraft being
+LINE 95: used in the war.
+LINE 96: After enrolling in the Military Aviation Academy in Eskisehir in 1936 and
+LINE 97: undertaking training at the First Aircraft Regiment, Sabiha Gökçen, flew
+LINE 98: fighter and bomber planes becoming the first Turkish, female aviator and the
+LINE 99: world's first, female, combat pilot. During her flying career, she achieved
+LINE 100: some 8,000 hours, 32 of which were combat missions.

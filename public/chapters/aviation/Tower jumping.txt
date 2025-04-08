@@ -1,0 +1,20 @@
+LINE 1: Since ancient times, there have been stories of men strapping birdlike wings,
+LINE 2: stiffened cloaks, or other devices to themselves and attempting to fly,
+LINE 3: typically by jumping off a tower. The Greek legends of Daedalus and Icarus are
+LINE 4: some of the earliest known. Others originated in ancient Asia and the European
+LINE 5: Middle Ages. During this early period, the concepts of lift, stability, and
+LINE 6: control were not well understood, and most attempts resulted in serious
+LINE 7: injuries or death.
+LINE 8: The Andalusian scientist Abbas ibn Firnas (810–887 AD) attempted to fly in
+LINE 9: Córdoba, Spain, by covering his body with vulture feathers and attached two
+LINE 10: wings to his arms. The 17th-century Algerian historian Ahmed Mohammed
+LINE 11: al-Maqqari, quoting a poem by Muhammad I of Córdoba's 9th-century court poet
+LINE 12: Mu'min ibn Said, recounts that Firnas flew some distance before landing with
+LINE 13: some injuries, attributed to his lacking a tail (as birds use them to land). In
+LINE 14: the 12th century, William of Malmesbury wrote that Eilmer of Malmesbury, an
+LINE 15: 11th-century Benedictine monk, attached wings to his hands and feet and flew a
+LINE 16: short distance, but broke both legs while landing, also having neglected to
+LINE 17: make himself a tail.
+LINE 18: Many others made well-documented jumps in the following centuries. As late as
+LINE 19: 1811, Albrecht Berblinger constructed an ornithopter and jumped into the Danube
+LINE 20: at Ulm.

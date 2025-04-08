@@ -1,0 +1,25 @@
+LINE 1: The kite may have been the first form of man-made heavier-than-air aircraft. It
+LINE 2: was invented in China possibly as far back as the 5th century BC. by Mozi (Mo
+LINE 3: Di) and Lu Ban (Gongshu Ban). Evidence to support this finding stands with
+LINE 4: materials commonly found and ideal for kite building located in China.  These
+LINE 5: are materials such as "silk fabric for sail material, fine,
+LINE 6: high-tensile-strength silk for flying line, and resilient bamboo for…framework"
+LINE 7: The reason these materials were so perfect for building kites is largely due to
+LINE 8: the structure of the materials themselves. Bamboo being a strong, hollow
+LINE 9: material, largely resembled the hollow bones in birds, which allow for less
+LINE 10: weight, making flight easier. Some kites were fitted with strings and whistles
+LINE 11: to make musical sounds while flying. Ancient and mediaeval Chinese sources
+LINE 12: describe kites being used to measure distances, test the wind, lift men,
+LINE 13: signal, and communicate and send messages. Later designs often depicted images
+LINE 14: of flying insects, birds, and other beasts, both real and mythical.
+LINE 15: Kites spread from China around the world. After being introduced into the rest
+LINE 16: of Asia, the kite further evolved into the fighter kite, which has an abrasive
+LINE 17: line used to cut down other kites. The most notable fighter kite designs
+LINE 18: originated in India and Japan
+LINE 19: #### Man-lifting kites
+LINE 20: Man-lifting kites are believed to have been used extensively in ancient China
+LINE 21: for civil and military purposes and sometimes enforced as a punishment. An
+LINE 22: early recorded flight was that of the prisoner Yuan Huangtou, a Chinese prince,
+LINE 23: in the 6th century AD. Stories of man-lifting kites can be found in Japan,
+LINE 24: following the introduction of the kite from China around the seventh century
+LINE 25: AD. For a period, there was a Japanese law against man-carrying kites.

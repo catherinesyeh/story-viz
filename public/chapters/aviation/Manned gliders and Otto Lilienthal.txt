@@ -1,0 +1,49 @@
+LINE 1: Around the last decade of the 19th century, a number of key figures were
+LINE 2: refining and defining the modern aeroplane. Lacking a suitable engine, aircraft
+LINE 3: work focused on stability and control in gliding flight. In 1879, Biot
+LINE 4: constructed a bird-like glider with the help of Massia and flew in it briefly.
+LINE 5: It is preserved in the Musee de l'Air, France, and is claimed to be the
+LINE 6: earliest man-carrying flying machine still in existence.
+LINE 7: The Englishman Horatio Phillips made key contributions to aerodynamics. He
+LINE 8: conducted extensive wind tunnel research on aerofoil sections, proving the
+LINE 9: principles of aerodynamic lift foreseen by Cayley and Wenham. His findings
+LINE 10: underpin all modern aerofoil design. Between 1883 and 1886, the American John
+LINE 11: Joseph Montgomery developed a series of three manned gliders, before conducting
+LINE 12: his own independent investigations into aerodynamics and circulation of lift.
+LINE 13: Otto Lilienthal became known as the "Glider King" or "Flying Man" of Germany.
+LINE 14: He duplicated Wenham's work and greatly expanded on it in 1884, publishing his
+LINE 15: research in 1889 as Birdflight as the Basis of Aviation (Der Vogelflug als
+LINE 16: Grundlage der Fliegekunst), which is seen as one of the most important works in
+LINE 17: aviation history. He also produced a series of hang gliders, including
+LINE 18: bat-wing, monoplane, and biplane forms, such as the Derwitzer Glider and Normal
+LINE 19: soaring apparatus, which is considered to be the first airplane in series
+LINE 20: production, making the "Maschinenfabrik Otto Lilienthal" the first airplane
+LINE 21: production company in the world.
+LINE 22: Starting in 1891, he became the first person to make controlled untethered
+LINE 23: glides routinely, and the first to be photographed flying a heavier-than-air
+LINE 24: machine, stimulating interest around the world. Lilienthal's work led to him
+LINE 25: developing the concept of the modern wing. His flights in the year 1891 are
+LINE 26: seen as the beginning of human flight and because of that he is often referred
+LINE 27: to as either the "father of aviation" or "father of flight".
+LINE 28: He rigorously documented his work, including photographs, and for this reason
+LINE 29: is one of the best known of the early pioneers. Lilienthal made over 2,000
+LINE 30: glider flights until his death in 1896 from injuries sustained in a glider
+LINE 31: crash.
+LINE 32: Picking up where Lilienthal left off, Octave Chanute took up aircraft design
+LINE 33: after an early retirement, and funded the development of several gliders. In
+LINE 34: the summer of 1896, his team flew several of their designs eventually deciding
+LINE 35: that the best was a biplane design. Like Lilienthal, he documented and
+LINE 36: photographed his work.
+LINE 37: In Britain Percy Pilcher, who had worked for Maxim, built and successfully flew
+LINE 38: several gliders during the mid to late 1890s.
+LINE 39: The invention of the box kite during this period by the Australian Lawrence
+LINE 40: Hargrave led to the development of the practical biplane. In 1894, Hargrave
+LINE 41: linked four of his kites together, added a sling seat, and was the first to
+LINE 42: obtain lift with a heavier than air aircraft, when he flew up 16 feet (4.9 m).
+LINE 43: Later pioneers of manned kite flying included Samuel Franklin Cody in England
+LINE 44: and Captain Génie Saconney in France.
+LINE 45: William Frost from Pembrokeshire, Wales started his project in 1880 and after
+LINE 46: 16 years, he designed a flying machine and in 1894 won a patent for a "Frost
+LINE 47: Aircraft Glider". Reports say witnesses claimed the craft flew at Saundersfoot
+LINE 48: in 1896, travelling 500 yards before colliding with a tree and falling in a
+LINE 49: field.
