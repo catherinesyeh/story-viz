@@ -16,6 +16,11 @@ statsmodels = "*"
 flask = "*"
 aiofiles = "*"
 altair = "*"
+umap-learn = "==0.5.6"
+scikit-learn = "==1.5.2"
+pynndescent = ">=0.5"
+plotly = "*"
+nbformat = "*"
 
 [dev-packages]
 ipykernel = "*"
