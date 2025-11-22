@@ -1,8 +1,15 @@
-# story-viz
+# Story Ribbons: Reimagining Storyline Visualizations with LLMs
 
-Visualizing storylines with LLM assistance
+<img width="2960" height="1064" alt="image" src="https://github.com/user-attachments/assets/faea75e3-5fed-4749-ac58-9841599afcc0" />
 
-## setup
+* Paper: [https://arxiv.org/abs/2508.06772](https://arxiv.org/abs/2508.06772)
+* Demo: [https://catherinesyeh.github.io/story-demo/](https://catherinesyeh.github.io/story-demo/)
+* Docs: [https://catherinesyeh.github.io/story-docs/](https://catherinesyeh.github.io/story-docs/)
+
+## abstract
+> Analyzing literature involves tracking interactions between characters, locations, and themes. Visualization has the potential to facilitate the mapping and analysis of these complex relationships, but capturing structured information from unstructured story data remains a challenge. As large language models (LLMs) continue to advance, we see an opportunity to use their text processing and analysis capabilities to augment and reimagine existing storyline visualization techniques. Toward this goal, we introduce an LLM-driven data parsing pipeline that automatically extracts relevant narrative information from novels and scripts. We then apply this pipeline to create Story Ribbons, an interactive visualization system that helps novice and expert literary analysts explore detailed character and theme trajectories at multiple narrative levels. Through pipeline evaluations and user studies with Story Ribbons on 36 literary works, we demonstrate the potential of LLMs to streamline narrative visualization creation and reveal new insights about familiar stories. We also describe current limitations of AI-based systems, and interaction motifs designed to address these issues.
+
+## setup instructions
 
 ### env/secrets file
 
@@ -101,14 +108,14 @@ analysis_type = "character"
 
 5. run the rest of the code in this section, stopping at **analyze scene**. double check the generated chapter txt files which should be located in the [notebooks/chapters/](notebooks/chapters/) folder inside a subfolder corresponding to your story name (e.g., `notebooks/chapters/gatsby/`).
 
+**note: this is the only step in the pipeline that may require manual intervention.**
+
 - if something went wrong, you may have to adjust the extracted first line, last line, and/or markers manually in the created `summary.json` file in the [notebooks/json/](notebooks/json/) folder (e.g., `notebooks/json/gatsby/summary.json`).
-- or you can try modifying the code in this section to parse the chapters correctly.
-- in either case, after making your changes, rerun this block of code until the chapter txt files look correct.
+- after making changes, rerun this block of code until the chapter txt files look correct.
 
 6. run the rest of the code in this notebook, starting from the **analyze scene** section.
 
-- hopefully this part should run smoothly, but the notebook is roughly divided into semantic subsections to help with debugging.
-- if something goes wrong, you may need to adjust the code.
+- this part should run smoothly, but the notebook is roughly divided into semantic subsections to help with debugging.
 
 7. at the end of the notebook, _after_ running the final **generating the final json file** section, you should see a `final_data.json` file in the subfolder corresponding to your story in [notebooks/json/](notebooks/json/) (e.g., `notebooks/json/gatsby/final_data.json`).
 
@@ -131,3 +138,16 @@ const storyOptions = [
 ```
 
 11. save your changes and run the frontend again at [`localhost:5200`](http://localhost:5200) (see more detailed instructions above). you should be able to select your story from the dropdown menu and see your visualization results!
+
+## citation
+If you find this work helpful, please consider citing our paper:
+```
+@article{yeh2025story,
+  title={Story Ribbons: Reimagining Storyline Visualizations with Large Language Models},
+  author={Yeh, Catherine and Menon, Tara and Arya, Robin Singh and He, Helen and Weigel, Moira and Vi{\'e}gas, Fernanda and Wattenberg, Martin},
+  journal={IEEE Transactions on Visualization and Computer Graphics},
+  year={2025},
+  publisher={IEEE}
+}
+```
+Thank you for checking out Story Ribbons!
