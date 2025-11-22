@@ -22,6 +22,7 @@
   // fill text with gradient
   background: -webkit-linear-gradient(0deg, #9c85c0, #dd8047);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
@@ -2166,6 +2167,25 @@ h1 {
 
 div.info-tooltip {
   padding-top: 0.15rem !important;
+}
+
+.disclaimer {
+  background-color: #eee;
+  padding: 0.25rem 0.75rem;
+  border-radius: 0.25rem;
+
+  b {
+    font-size: smaller;
+  }
+
+  a {
+    color: #444;
+    transition: 0.3s;
+
+    &:hover {
+      opacity: 0.7;
+    }
+  }
 }
 
 // MANTINE POPOVER

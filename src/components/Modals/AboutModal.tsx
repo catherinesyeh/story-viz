@@ -10,6 +10,7 @@ function AboutModal() {
     themeView,
     chapterView,
     yAxis,
+    isBackendActive,
   } = storyStore();
 
   const { data } = dataStore();
@@ -27,6 +28,21 @@ function AboutModal() {
       size={"lg"}
       id="about-modal"
     >
+      {!isBackendActive && (
+        <p className="disclaimer">
+          <b>
+            Note: Backend is not active. Please{" "}
+            <a
+              href="https://github.com/catherinesyeh/story-viz/"
+              target="_blank"
+              title="Github repo"
+            >
+              run locally
+            </a>{" "}
+            to try out LLM-powered features!
+          </b>
+        </p>
+      )}
       <p>
         <b className="grad">Story Ribbons</b> is an interactive literary
         analysis tool that visualizes story interactions over time. You are

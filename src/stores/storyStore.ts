@@ -144,7 +144,7 @@ export const storyStore = create<IStore>()((set) => ({
   curScrollScene: "",
   scrollSource: false,
   modalOpened: false,
-  aboutModalOpened: false,
+  aboutModalOpened: true,
   modalLoading: false,
   modalType: "",
   isBackendActive: false,
