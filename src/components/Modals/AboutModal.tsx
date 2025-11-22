@@ -1,4 +1,4 @@
-import { Button, Modal } from "@mantine/core";
+import { Button, Group, Modal } from "@mantine/core";
 import { storyStore } from "../../stores/storyStore";
 import { dataStore } from "../../stores/dataStore";
 import { IoInformationCircleOutline } from "react-icons/io5";
@@ -79,14 +79,35 @@ function AboutModal() {
         icons around the interface. Thanks for checking out{" "}
         <b className="grad">Story Ribbons!</b>
       </p>
-      <Button
-        size="xs"
-        fullWidth
-        onClick={() => closeModal()}
-        style={{ marginTop: "0.75rem" }}
-      >
-        Start exploring
-      </Button>
+      <Group gap="xs" mt="md">
+        <Button size="xs" onClick={() => closeModal()}>
+          Start exploring
+        </Button>
+        <Button
+          size="xs"
+          onClick={() =>
+            window.open("https://catherinesyeh.github.io/story-docs", "_blank")
+          }
+        >
+          Documentation
+        </Button>
+        <Button
+          size="xs"
+          onClick={() =>
+            window.open("https://arxiv.org/abs/2508.06772", "_blank")
+          }
+        >
+          Paper
+        </Button>
+        <Button
+          size="xs"
+          onClick={() =>
+            window.open("https://github.com/catherinesyeh/story-viz", "_blank")
+          }
+        >
+          Code
+        </Button>
+      </Group>
     </Modal>
   );
 }
