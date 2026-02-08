@@ -2,7 +2,7 @@
 
 <img width="2960" height="1064" alt="image" src="https://github.com/user-attachments/assets/faea75e3-5fed-4749-ac58-9841599afcc0" />
 
-- Paper: [https://arxiv.org/abs/2508.06772](https://arxiv.org/abs/2508.06772)
+- Paper: [https://ieeexplore.ieee.org/document/11278504](https://ieeexplore.ieee.org/document/11278504)
 - Demo: [https://catherinesyeh.github.io/story-demo/](https://catherinesyeh.github.io/story-demo/)
 - Docs: [https://catherinesyeh.github.io/story-docs/](https://catherinesyeh.github.io/story-docs/)
 
