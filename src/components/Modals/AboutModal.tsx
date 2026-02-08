@@ -94,7 +94,10 @@ function AboutModal() {
         <Button
           size="xs"
           onClick={() =>
-            window.open("https://arxiv.org/abs/2508.06772", "_blank")
+            window.open(
+              "https://ieeexplore.ieee.org/document/11278504",
+              "_blank",
+            )
           }
         >
           Paper
